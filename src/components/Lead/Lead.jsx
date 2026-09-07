@@ -8,38 +8,56 @@ import styles from "./lead.module.css";
 // are, always; and every application, one row each, with where it opens and
 // where its source is, once their name is pressed. A link straight to a
 // person — #handle — arrives with them already open.
-export default function Lead({ lead }) {
+//
+// With `avatar`, their GitHub picture beside the name, read from the
+// address GitHub gives every profile picture; the heroes are shown with
+// theirs. If it does not load, nothing is shown in its place.
+export default function Lead({ lead, avatar = false }) {
   const { t, i18n } = useTranslation();
   const language = i18n.language;
   const { handle, name, github, website, bio, apps } = lead;
   const count = apps.length;
   const [open, setOpen] = useState(() => window.location.hash === `#${handle}`);
+  const [noAvatar, setNoAvatar] = useState(false);
   const listId = `${handle}-apps`;
 
   return (
     <article className={styles.lead} id={handle}>
       <header className={styles.head}>
         <div className={styles.who}>
-          <h3 className={styles.name}>
-            <button
-              type="button"
-              className={styles.toggle}
-              aria-expanded={open}
-              aria-controls={listId}
-              title={open ? t("leads.hide") : t("leads.show")}
-              onClick={() => setOpen((value) => !value)}
-            >
-              {name}
-              <span className={styles.mark} aria-hidden="true">{open ? "−" : "+"}</span>
-            </button>
-          </h3>
-          <div className={styles.links}>
-            <a href={github} target="_blank" rel="noopener">@{handle}</a>
-            {website && (
-              <a href={website} target="_blank" rel="noopener">{host(website)}</a>
-            )}
+          {avatar && !noAvatar && (
+            <img
+              className={styles.avatar}
+              src={`https://github.com/${handle}.png?size=96`}
+              alt=""
+              width="48"
+              height="48"
+              loading="lazy"
+              onError={() => setNoAvatar(true)}
+            />
+          )}
+          <div className={styles.person}>
+            <h3 className={styles.name}>
+              <button
+                type="button"
+                className={styles.toggle}
+                aria-expanded={open}
+                aria-controls={listId}
+                title={open ? t("leads.hide") : t("leads.show")}
+                onClick={() => setOpen((value) => !value)}
+              >
+                {name}
+                <span className={styles.mark} aria-hidden="true">{open ? "−" : "+"}</span>
+              </button>
+            </h3>
+            <div className={styles.links}>
+              <a href={github} target="_blank" rel="noopener">@{handle}</a>
+              {website && (
+                <a href={website} target="_blank" rel="noopener">{host(website)}</a>
+              )}
+            </div>
+            {bio && <p className={styles.bio}>{pick(bio, language)}</p>}
           </div>
-          {bio && <p className={styles.bio}>{pick(bio, language)}</p>}
         </div>
         <div className={styles.count}>
           <div className={styles.number} aria-hidden="true">

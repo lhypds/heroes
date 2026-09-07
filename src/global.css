@@ -3,17 +3,62 @@
    @fontsource (see main.jsx) so its text is never hidden while a CDN answers. */
 @import url("https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..700&display=swap");
 
+/* Every color on the page is one of these names, and there are three ways to
+   fill them in: GitHub's light, GitHub's dark, and black ink on white paper,
+   which the page was first drawn in. The theme is a word on the <html>
+   element, data-theme, chosen by the reader (see theme.js); until they
+   choose, it is light or dark as the system is.
+
+   GitHub's values are read off github.com's own stylesheets (the light and
+   dark themes, and Primer's .btn), token for token: fgColor, bgColor,
+   borderColor-default, the contribution graph, the primary and default
+   buttons. */
+
+/* Light: GitHub's. */
 :root {
-  /* Black ink on white paper; everything drawn is one of these. */
-  --ink: #000000;
+  color-scheme: light;
+
+  --ink: #1f2328;
   --paper: #ffffff;
-  --muted: #6e6e6e;
-  --soft: #f0f0f0;
-  --hover: #333333;
-  /* Two kinds of line: a border on a thing, in ink, and a hairline between
-     things, in grey. */
-  --border: var(--ink);
-  --line: #e0e0e0;
+  --muted: #59636e;
+  --soft: #f6f8fa;
+  /* Two kinds of line: a border on a thing, and a hairline between things.
+     A line under a word is drawn in the word's own color, currentColor. */
+  --border: #d1d9e0;
+  --line: #d1d9e0;
+  --link: #0969da;
+  --focus: #0969da;
+  /* A square of the hundred, on and off, and the edge each one is drawn
+     with: the contribution graph's own. */
+  --fill: #2da44e;
+  --blank: #eff2f5;
+  --cell-edge: #1f23280d;
+  /* The filled button and the outlined one, at rest, under the pointer, and
+     pressed. The filled one is Primer's .btn-primary in its danger red
+     (bgColor-danger-emphasis, then the two steps of red below it); the
+     outlined one is .btn. */
+  --primary-bg: #cf222e;
+  --primary-fg: #ffffff;
+  --primary-border: #1f232826;
+  --primary-hover: #a40e26;
+  --primary-active: #82071e;
+  --primary-shadow: 0 1px 1px 0 #1f23280a, 0 1px 2px 0 #1f232808;
+  --button-bg: #f6f8fa;
+  --button-fg: #25292e;
+  --button-border: #d1d9e0;
+  --button-hover-bg: #eff2f5;
+  --button-hover-fg: #25292e;
+  --button-active-bg: #e6eaef;
+  --button-shadow: 0 1px 0 0 #1f23280a;
+  /* JSON, as GitHub colors it (prettylights): a key, a string, a constant,
+     and the punctuation between, in the text's own color. */
+  --syntax-key: #0550ae;
+  --syntax-key-weight: 400;
+  --syntax-string: #0a3069;
+  --syntax-constant: #0550ae;
+  --syntax-punct: var(--ink);
+  /* A photograph, as it is. */
+  --avatar-filter: none;
 
   --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
     Helvetica, Arial, sans-serif;
@@ -29,6 +74,81 @@
   --column: 1080px;
 }
 
+/* Dark: GitHub's. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --ink: #f0f6fc;
+  --paper: #0d1117;
+  --muted: #9198a1;
+  --soft: #151b23;
+  --border: #3d444d;
+  --line: #3d444d;
+  --link: #4493f8;
+  --focus: #1f6feb;
+  --fill: #2ea043;
+  --blank: #151b23;
+  --cell-edge: #0104090d;
+  --primary-bg: #da3633;
+  --primary-fg: #ffffff;
+  --primary-border: #ffffff26;
+  --primary-hover: #b62324;
+  --primary-active: #8e1519;
+  --primary-shadow: 0 1px 1px 0 #01040999, 0 1px 3px 0 #01040999;
+  --button-bg: #212830;
+  --button-fg: #f0f6fc;
+  --button-border: #3d444d;
+  --button-hover-bg: #262c36;
+  --button-hover-fg: #f0f6fc;
+  --button-active-bg: #2a313c;
+  --button-shadow: none;
+  --syntax-key: #7ee787;
+  --syntax-key-weight: 400;
+  --syntax-string: #a5d6ff;
+  --syntax-constant: #79c0ff;
+  --syntax-punct: var(--ink);
+  --avatar-filter: none;
+}
+
+/* Mono: black ink on white paper. Everything drawn is ink, paper, or a grey,
+   the filled button included. */
+:root[data-theme="mono"] {
+  color-scheme: light;
+
+  --ink: #000000;
+  --paper: #ffffff;
+  --muted: #6e6e6e;
+  --soft: #f0f0f0;
+  --border: var(--ink);
+  --line: #e0e0e0;
+  --link: var(--ink);
+  --focus: var(--ink);
+  --fill: var(--ink);
+  --blank: var(--soft);
+  --cell-edge: transparent;
+  --primary-bg: var(--ink);
+  --primary-fg: var(--paper);
+  --primary-border: transparent;
+  --primary-hover: #333333;
+  --primary-active: var(--primary-hover);
+  --primary-shadow: none;
+  --button-bg: var(--paper);
+  --button-fg: var(--ink);
+  --button-border: var(--ink);
+  --button-hover-bg: var(--ink);
+  --button-hover-fg: var(--paper);
+  --button-active-bg: var(--ink);
+  --button-shadow: none;
+  /* No color to spare: the keys are set bold, the punctuation grey. */
+  --syntax-key: var(--ink);
+  --syntax-key-weight: 600;
+  --syntax-string: var(--ink);
+  --syntax-constant: var(--ink);
+  --syntax-punct: var(--muted);
+  /* A photograph, in black and white too. */
+  --avatar-filter: grayscale(1);
+}
+
 * {
   border-radius: 0;
 }
@@ -36,6 +156,18 @@
 html,
 body {
   overscroll-behavior: none;
+}
+
+/* A link down the page slides there, unless the reader has asked for less
+   motion. */
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
 }
 
 body {

@@ -1,5 +1,6 @@
-/* Tech Leads — a list, on one sheet of paper. Black for the names and every
-   number read off them, grey for what explains them, hairlines between. */
+/* Tech Leads — a list, on one sheet of paper. Ink for the names and every
+   number read off them, grey for what explains them, hairlines between. Which
+   ink, which paper, is global.css's to say. */
 .page {
   width: 100%;
   margin: 0;
@@ -21,11 +22,22 @@
   font-size: 14px;
 }
 
+/* The language and the theme, at the right; on a phone the second drops
+   under the first and stays at the right. */
+.switches {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 4px 24px;
+  margin-left: auto;
+}
+
 .home {
   color: var(--ink);
   font-weight: 600;
   text-decoration: none;
-  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+  border-bottom: 1px solid currentColor;
 }
 
 .home:hover {
@@ -34,10 +46,6 @@
 
 /* Hero */
 .hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 44px;
-  align-items: start;
   padding: 64px 0 48px 0;
   border-bottom: 1px solid var(--line);
 }
@@ -79,61 +87,66 @@
   margin-top: 28px;
 }
 
+/* Primer's .btn, square: 32px tall, medium weight, a 1px border, and the
+   colors changing over 80ms. GitHub pads it five pixels over a 20px line;
+   6px over an 18px line is the same box. */
 .primary,
 .secondary {
   display: inline-block;
-  padding: 10px 18px;
+  padding: 6px 16px;
   font-size: 14px;
-  font-weight: 600;
-  letter-spacing: var(--tracking-heading);
+  font-weight: 500;
+  line-height: 18px;
   text-align: center;
   text-decoration: none;
-  border: 1px solid var(--border);
+  border: 1px solid;
+  transition:
+    color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    background-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    border-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    box-shadow 80ms cubic-bezier(0.33, 1, 0.68, 1);
 }
 
 .primary {
-  background: var(--ink);
-  color: var(--paper);
+  background: var(--primary-bg);
+  color: var(--primary-fg);
+  border-color: var(--primary-border);
+  box-shadow: var(--primary-shadow);
 }
 
 .primary:hover {
-  background: var(--hover);
-  border-color: var(--hover);
+  background: var(--primary-hover);
+}
+
+.primary:active {
+  background: var(--primary-active);
 }
 
 .secondary {
-  background: var(--paper);
-  color: var(--ink);
+  background: var(--button-bg);
+  color: var(--button-fg);
+  border-color: var(--button-border);
+  box-shadow: var(--button-shadow);
 }
 
 .secondary:hover {
-  background: var(--ink);
-  color: var(--paper);
+  background: var(--button-hover-bg);
+  color: var(--button-hover-fg);
+}
+
+.secondary:active {
+  background: var(--button-active-bg);
+  color: var(--button-hover-fg);
 }
 
 .primary:focus-visible,
 .secondary:focus-visible {
-  outline: 2px solid var(--ink);
+  outline: 2px solid var(--focus);
   outline-offset: 2px;
 }
 
-.figure {
-  margin: 0;
-  padding-top: 8px;
-}
-
-.caption {
-  margin-top: 12px;
-  font-size: 12px;
-  color: var(--muted);
-}
-
-/* The one line about the hundred, in the largest type below the wordmark. */
-.status {
-  padding: 44px 0;
-  border-bottom: 1px solid var(--line);
-}
-
+/* The heroes' list while it is empty: one line, in the largest type below
+   the wordmark. */
 .statusLine {
   margin: 0;
   max-width: 20em;
@@ -244,6 +257,12 @@
   color: var(--muted);
 }
 
+.example {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+}
+
 .code {
   margin: 0;
   padding: 16px;
@@ -252,6 +271,32 @@
   line-height: 1.6;
   background: var(--soft);
   overflow-x: auto;
+}
+
+/* Under the file: a line on the prompt, and the button that copies it,
+   Primer's .btn-sm. */
+.prompt {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px 18px;
+}
+
+.promptNote {
+  margin: 0;
+  max-width: 32em;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.copy {
+  padding: 4px 12px;
+  font-family: inherit;
+  font-size: 12px;
+  line-height: 18px;
+  white-space: nowrap;
+  cursor: pointer;
 }
 
 /* Footer */
@@ -271,19 +316,18 @@
 }
 
 .footerLinks a {
-  color: var(--ink);
+  color: var(--link);
   text-decoration: none;
   border-bottom: 1px solid var(--line);
 }
 
 .footerLinks a:hover {
-  border-color: var(--border);
+  border-color: currentColor;
 }
 
 /* Everything below the top bar keeps to one column; the bar itself stays
    with the window edges. */
 .hero,
-.status,
 .section,
 .footer {
   max-width: var(--column);
@@ -293,8 +337,6 @@
 
 @media (max-width: 760px) {
   .hero {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 28px;
     padding: 36px 0 32px 0;
   }
 

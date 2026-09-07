@@ -5,9 +5,9 @@ import styles from "./hundred.module.css";
 // glance: how far along a name is, and how far there is to go.
 const CELLS = Array.from({ length: 100 }, (_, i) => i);
 
-export default function Hundred({ count, titles = [], label, big = false }) {
+export default function Hundred({ count, titles = [], label }) {
   return (
-    <div className={big ? styles.big : styles.grid} role="img" aria-label={label}>
+    <div className={styles.grid} role="img" aria-label={label}>
       {CELLS.map((i) => (
         <span key={i} className={i < count ? styles.on : styles.off} title={titles[i]} />
       ))}

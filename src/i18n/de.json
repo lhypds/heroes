@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Tech Leads — die Programmierer, die hundert Anwendungen bauen"
+    "title": "Tech Lead Heros — die Programmierer, die hundert Anwendungen bauen"
   },
   "hero": {
     "tagline": "Die Programmierer, die hundert Anwendungen bauen.",
     "lede": "Tech Leads ist eine öffentliche Liste von Programmierern, die hundert Anwendungen gebaut haben, jede davon veröffentlicht und mit offenem Quellcode, den jeder lesen kann. Die Hürde zum Einstieg liegt bei zehn. Zehn öffentliche, quelloffene Anwendungen bringen einen Namen auf die Liste; der Zähler daneben läuft bis hundert. Jeder kann einen Eintrag prüfen, und jeder kann per Pull Request einen hinzufügen.",
-    "join": "Trag dich ein",
+    "join": "Werde ein Held",
     "source": "Quellcode auf GitHub"
   },
   "rules": {
@@ -24,8 +24,8 @@
         "body": "Der Quellcode jeder Anwendung liegt in einem öffentlichen Repository, das jeder lesen, klonen und bauen kann."
       },
       {
-        "name": "Eine Anwendung, keine Bibliothek",
-        "body": "Eine Anwendung ist etwas, das ein Mensch benutzt: eine Web-App, eine Desktop- oder Mobil-App, ein Kommandozeilenwerkzeug, eine Erweiterung, ein Bot. Bibliotheken, Skripte, Vorlagen und Forks fremder Arbeit zählen nicht."
+        "name": "Code, und genug davon",
+        "body": "Es muss keine Anwendung sein. Eine Bibliothek, ein Framework, ein Werkzeug, ein Bot zählen alle, unter drei Bedingungen: Es ist Code, es ist genug davon, um ein echtes Werk zu sein, und jeder kann prüfen, dass es funktioniert, indem er es öffnet, installiert oder baut und ausführt. Ein Schnipsel, eine Vorlage, eine Seite Konfiguration oder ein Fork fremder Arbeit zählen nicht."
       },
       {
         "name": "Nachprüfbar",
@@ -34,11 +34,11 @@
     ]
   },
   "heroes": {
-    "none": "Noch gibt es keinen Helden mit 100 Anwendungen!",
-    "some": "Helden mit 100 Anwendungen: {{names}}"
+    "title": "Anwendungshelden",
+    "none": "Noch gibt es keinen Helden mit 100 Anwendungen!"
   },
   "leads": {
-    "title": "Die Liste",
+    "title": "Andere Programmierer auf dem Weg zum Helden",
     "count": "{{n}} von 100",
     "grid": "{{n}} von 100 Anwendungen",
     "open": "Öffnen",
@@ -64,7 +64,19 @@
       }
     ],
     "language": "Die Liste ist auf Englisch geschrieben. Trägt eine Beschreibung eine Übersetzung, zeigt die Seite sie in der Sprache des Lesers.",
-    "guide": "Anleitung lesen"
+    "guide": "Anleitung lesen",
+    "prompt": "Oder kopiere den Prompt, gib ihn zusammen mit einem GitHub-Profil einem KI-Assistenten, und er schreibt die Datei.",
+    "copy": "Prompt kopieren",
+    "copied": "Kopiert"
+  },
+  "language": {
+    "title": "Sprache"
+  },
+  "theme": {
+    "title": "Farbschema",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "mono": "Mono"
   },
   "footer": {
     "copyright": "© 2026 gcc3.com"

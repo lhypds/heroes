@@ -63,13 +63,21 @@ on.
 What counts
 -----------
 
-An application is a thing a person uses: a web app, a desktop or mobile app, a
-command-line tool, an extension, a bot. It has to be public — anyone can open,
-install or run it — and its source has to be in a public repository that anyone
-can read.  
+It does not have to be an application. A web app, a desktop or mobile app, a
+command-line tool, an extension, a bot, a library, a framework: all of them
+count, on three conditions.  
 
-Libraries, scripts, templates and forks of other people's work do not count.
-Neither does a repository that is only a mirror of someone else's.  
+1. It is code. A repository of prose, data or configuration is not.  
+2. There is enough of it to be a real piece of work. A snippet, a single
+   script or a template is not.  
+3. Anyone can check that it works: open it at its address, install it from a
+   registry or a store, or clone the repository, build it and run it.  
+
+It has to be public — anyone can open, install or run it — and its source has
+to be in a public repository that anyone can read.  
+
+Forks of other people's work do not count. Neither does a repository that is
+only a mirror of someone else's.  
 
 Every application in an entry is the author's own. Someone else's application
 belongs in that person's entry.  
@@ -90,8 +98,8 @@ The check
 With `--online` it also asks each `repo` whether it answers, and mentions any
 `url`, `github` or `website` that does not. The pull request check runs online.  
 
-The rest — whether something is an application, whether it is really yours —
-is read by a person.  
+The rest — whether it is code and enough of it, whether it works, whether it
+is really yours — is read by a person.  
 
 
 Translations

@@ -15,6 +15,27 @@
   align-items: start;
 }
 
+.who {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.person {
+  min-width: 0;
+}
+
+/* A hero's face from GitHub, square as everything here is, and in black and
+   white when the page is. Grey until it arrives. */
+.avatar {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  background: var(--soft);
+  filter: var(--avatar-filter);
+}
+
 .name {
   margin: 0;
   font-size: 24px;
@@ -39,11 +60,11 @@
 }
 
 .toggle:hover {
-  border-bottom-color: var(--border);
+  border-bottom-color: currentColor;
 }
 
 .toggle:focus-visible {
-  outline: 2px solid var(--ink);
+  outline: 2px solid var(--focus);
   outline-offset: 2px;
 }
 
@@ -64,14 +85,14 @@
 
 .links a,
 .appLinks a {
-  color: var(--ink);
+  color: var(--link);
   text-decoration: none;
   border-bottom: 1px solid var(--line);
 }
 
 .links a:hover,
 .appLinks a:hover {
-  border-color: var(--border);
+  border-color: currentColor;
 }
 
 .bio {

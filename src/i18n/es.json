@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Tech Leads — los programadores que construyen cien aplicaciones"
+    "title": "Tech Lead Heros — los programadores que construyen cien aplicaciones"
   },
   "hero": {
     "tagline": "Los programadores que construyen cien aplicaciones.",
     "lede": "Tech Leads es una lista pública de programadores que han construido cien aplicaciones, cada una publicada con su código fuente abierto para que cualquiera lo lea. El listón para entrar es diez. Diez aplicaciones públicas y de código abierto ponen un nombre en la lista; la cuenta de al lado llega hasta cien. Cualquiera puede comprobar una entrada, y cualquiera puede añadir una con un pull request.",
-    "join": "Añádete",
+    "join": "Sé un héroe",
     "source": "Código en GitHub"
   },
   "rules": {
@@ -24,8 +24,8 @@
         "body": "El código fuente de cada aplicación está en un repositorio público que cualquiera puede leer, clonar y compilar."
       },
       {
-        "name": "Una aplicación, no una biblioteca",
-        "body": "Una aplicación es algo que una persona usa: una app web, una app de escritorio o móvil, una herramienta de línea de comandos, una extensión, un bot. Las bibliotecas, scripts, plantillas y forks del trabajo de otros no cuentan."
+        "name": "Código, y suficiente código",
+        "body": "No tiene por qué ser una aplicación. Una biblioteca, un framework, una herramienta, un bot cuentan todos, con tres condiciones: es código, hay suficiente como para ser una obra de verdad, y cualquiera puede comprobar que funciona, abriéndolo, instalándolo, o compilándolo y ejecutándolo. Un fragmento, una plantilla, una página de configuración o un fork del trabajo de otros no cuentan."
       },
       {
         "name": "Comprobable",
@@ -34,11 +34,11 @@
     ]
   },
   "heroes": {
-    "none": "¡Todavía no hay ningún héroe de 100 aplicaciones!",
-    "some": "Héroes de 100 aplicaciones: {{names}}"
+    "title": "Héroes de las aplicaciones",
+    "none": "¡Todavía no hay ningún héroe de 100 aplicaciones!"
   },
   "leads": {
-    "title": "La lista",
+    "title": "Otros programadores en camino a ser héroes",
     "count": "{{n}} de 100",
     "grid": "{{n}} de 100 aplicaciones",
     "open": "Abrir",
@@ -64,7 +64,19 @@
       }
     ],
     "language": "La lista está escrita en inglés. Cuando una descripción lleva traducción, la página la muestra en el idioma del lector.",
-    "guide": "Leer la guía"
+    "guide": "Leer la guía",
+    "prompt": "O copia el prompt, dáselo a un asistente de IA junto con un perfil de GitHub, y escribe el archivo.",
+    "copy": "Copiar el prompt",
+    "copied": "Copiado"
+  },
+  "language": {
+    "title": "Idioma"
+  },
+  "theme": {
+    "title": "Tema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "mono": "Mono"
   },
   "footer": {
     "copyright": "© 2026 gcc3.com"

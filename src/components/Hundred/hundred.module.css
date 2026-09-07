@@ -1,5 +1,4 @@
-.grid,
-.big {
+.grid {
   --cell: 10px;
   --gap: 2px;
   display: grid;
@@ -9,16 +8,17 @@
   width: max-content;
 }
 
-/* The hero's copy of it, large enough to be the picture. */
-.big {
-  --cell: 20px;
-  --gap: 4px;
+/* Each square has a faint edge drawn inside it, as the contribution graph's
+   do; in black and white the edge is nothing. */
+.on,
+.off {
+  box-shadow: inset 0 0 0 1px var(--cell-edge);
 }
 
 .on {
-  background: var(--ink);
+  background: var(--fill);
 }
 
 .off {
-  background: var(--soft);
+  background: var(--blank);
 }

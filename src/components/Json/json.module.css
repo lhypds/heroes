@@ -1,0 +1,16 @@
+.key {
+  color: var(--syntax-key);
+  font-weight: var(--syntax-key-weight);
+}
+
+.string {
+  color: var(--syntax-string);
+}
+
+.constant {
+  color: var(--syntax-constant);
+}
+
+.punct {
+  color: var(--syntax-punct);
+}

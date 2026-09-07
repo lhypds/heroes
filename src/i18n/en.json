@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Tech Leads — the programmers who build a hundred applications"
+    "title": "Tech Lead Heros — the programmers who build a hundred applications"
   },
   "hero": {
     "tagline": "The programmers who build a hundred applications.",
     "lede": "Tech Leads is a public list of programmers who have built a hundred applications, every one of them released with its source open for anyone to read. The bar to join is ten. Ten public, open-source applications put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
-    "join": "Add yourself",
+    "join": "Be A Hero",
     "source": "Source on GitHub"
   },
   "rules": {
@@ -24,8 +24,8 @@
         "body": "Every application's source is in a public repository that anyone can read, clone and build."
       },
       {
-        "name": "An application, not a library",
-        "body": "An application is a thing a person uses: a web app, a desktop or mobile app, a command-line tool, an extension, a bot. Libraries, scripts, templates and forks of other people's work do not count."
+        "name": "Code, and enough of it",
+        "body": "It does not have to be an application. A library, a framework, a tool, a bot all count, on three conditions: it is code, there is enough of it to be a real piece of work, and anyone can check that it works, by opening it, installing it, or building and running it. A snippet, a template, a page of configuration or a fork of someone else's work does not count."
       },
       {
         "name": "Checkable",
@@ -34,11 +34,11 @@
     ]
   },
   "heroes": {
-    "none": "There is no hero of 100 applications yet!",
-    "some": "Heroes of 100 applications: {{names}}"
+    "title": "Application heroes",
+    "none": "There is no hero of 100 applications yet!"
   },
   "leads": {
-    "title": "The list",
+    "title": "Other programmers working to become heroes",
     "count": "{{n}} of 100",
     "grid": "{{n}} of 100 applications",
     "open": "Open",
@@ -64,7 +64,19 @@
       }
     ],
     "language": "The list is written in English. Where a description carries a translation, the page shows it in the reader's language.",
-    "guide": "Read the guide"
+    "guide": "Read the guide",
+    "prompt": "Or copy the prompt, give it to an AI assistant with a GitHub profile, and it writes the file.",
+    "copy": "Copy prompt",
+    "copied": "Copied"
+  },
+  "language": {
+    "title": "Language"
+  },
+  "theme": {
+    "title": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "mono": "Mono"
   },
   "footer": {
     "copyright": "© 2026 gcc3.com"

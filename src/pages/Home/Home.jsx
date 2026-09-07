@@ -1,28 +1,14 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { LanguageSwitcher, Hundred, Lead } from "@components";
+import { LanguageSwitcher, ThemeSwitcher, Lead, Json } from "@components";
 import { LEADS } from "@utils/leads";
 import { REPO, GUIDE, HOME } from "../../constants";
+import { EXAMPLE, PROMPT } from "../../prompt";
 import styles from "./home.module.css";
 
-const JOIN_BAR = 10;
-
-// The smallest entry that passes the check, shown as it would be typed.
-const EXAMPLE = `{
-  "handle": "you",
-  "name": "Your Name",
-  "github": "https://github.com/you",
-  "apps": [
-    {
-      "name": "An app",
-      "description": "What it does, in one line.",
-      "repo": "https://github.com/you/an-app",
-      "url": "https://an-app.example.com"
-    }
-  ]
-}`;
-
 const HUNDRED = 100;
+// How long the button says the prompt was copied.
+const COPIED_MS = 2000;
 
 export default function Home() {
   const { t, i18n } = useTranslation();
@@ -30,48 +16,82 @@ export default function Home() {
   const rules = t("rules.items", { returnObjects: true });
   const steps = t("join.steps", { returnObjects: true });
 
-  // Whoever has reached the hundred. Nobody has, and the page says so in the
-  // largest type it has; the day someone does, the same line names them.
+  // Two lists: whoever has reached the hundred, and everyone still on the
+  // way. Nobody has reached it, and the first list says so in the largest
+  // type the page has; the day someone does, they are listed there.
   const heroes = LEADS.filter((lead) => lead.apps.length >= HUNDRED);
-  const heroNames = new Intl.ListFormat(language, { type: "conjunction" }).format(
-    heroes.map((lead) => lead.name),
-  );
+  const others = LEADS.filter((lead) => lead.apps.length < HUNDRED);
 
   useEffect(() => {
     document.title = t("meta.title");
     document.documentElement.lang = language;
   }, [t, language]);
 
+  // The prompt, onto the clipboard; the button says so for a moment.
+  const [copied, setCopied] = useState(false);
+
+  useEffect(() => {
+    if (!copied) return undefined;
+    const timer = setTimeout(() => setCopied(false), COPIED_MS);
+    return () => clearTimeout(timer);
+  }, [copied]);
+
+  async function copyPrompt() {
+    try {
+      await navigator.clipboard.writeText(PROMPT);
+      setCopied(true);
+    } catch {
+      // no clipboard here; the button stays as it was
+    }
+  }
+
   return (
     <div className={styles.page}>
       <nav className={styles.topbar}>
-        <a className={styles.home} href="/">Tech Leads</a>
-        <LanguageSwitcher />
+        <a className={styles.home} href="/">Heros</a>
+        <div className={styles.switches}>
+          <LanguageSwitcher />
+          <ThemeSwitcher />
+        </div>
       </nav>
 
       <header className={styles.hero}>
         <div className={styles.heroText}>
-          <h1 className={styles.wordmark}>Tech Leads</h1>
+          <h1 className={styles.wordmark}>Tech Lead Heros</h1>
           <h2 className={styles.tagline}>{t("hero.tagline")}</h2>
           <p className={styles.lede}>{t("hero.lede")}</p>
           <div className={styles.actions}>
-            <a className={styles.primary} href={GUIDE} target="_blank" rel="noopener">{t("hero.join")}</a>
+            {/* Down the page to the steps, not out to the guide: the guide is
+                the last of those steps. */}
+            <a className={styles.primary} href="#join">{t("hero.join")}</a>
             <a className={styles.secondary} href={REPO} target="_blank" rel="noopener">{t("hero.source")}</a>
           </div>
         </div>
-        {/* The hundred, with the ten that join filled in: the first rule,
-            drawn rather than said. */}
-        <figure className={styles.figure}>
-          <Hundred count={JOIN_BAR} label={t("leads.grid", { n: JOIN_BAR })} big />
-          <figcaption className={styles.caption}>{rules[0].name}</figcaption>
-        </figure>
       </header>
 
-      <section className={styles.status} id="heroes">
-        <p className={styles.statusLine}>
-          {heroes.length > 0 ? t("heroes.some", { names: heroNames }) : t("heroes.none")}
-        </p>
+      <section className={styles.section} id="heroes">
+        <h2 className={styles.label}>{t("heroes.title")}</h2>
+        {heroes.length > 0 ? (
+          <div className={styles.leads}>
+            {heroes.map((lead) => (
+              <Lead lead={lead} avatar key={lead.handle} />
+            ))}
+          </div>
+        ) : (
+          <p className={styles.statusLine}>{t("heroes.none")}</p>
+        )}
       </section>
+
+      {others.length > 0 && (
+        <section className={styles.section} id="leads">
+          <h2 className={styles.label}>{t("leads.title")}</h2>
+          <div className={styles.leads}>
+            {others.map((lead) => (
+              <Lead lead={lead} key={lead.handle} />
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className={styles.section} id="rules">
         <h2 className={styles.label}>{t("rules.title")}</h2>
@@ -84,15 +104,6 @@ export default function Home() {
               </h3>
               <p className={styles.ruleBody}>{rule.body}</p>
             </div>
-          ))}
-        </div>
-      </section>
-
-      <section className={styles.section} id="leads">
-        <h2 className={styles.label}>{t("leads.title")}</h2>
-        <div className={styles.leads}>
-          {LEADS.map((lead) => (
-            <Lead lead={lead} key={lead.handle} />
           ))}
         </div>
       </section>
@@ -115,7 +126,20 @@ export default function Home() {
               <a className={styles.secondary} href={GUIDE} target="_blank" rel="noopener">{t("join.guide")}</a>
             </div>
           </div>
-          <pre className={styles.code}>{EXAMPLE}</pre>
+          <div className={styles.example}>
+            <pre className={styles.code}><Json text={EXAMPLE} /></pre>
+            <div className={styles.prompt}>
+              <p className={styles.promptNote}>{t("join.prompt")}</p>
+              <button
+                type="button"
+                className={`${styles.secondary} ${styles.copy}`}
+                onClick={copyPrompt}
+                aria-live="polite"
+              >
+                {copied ? t("join.copied") : t("join.copy")}
+              </button>
+            </div>
+          </div>
         </div>
       </section>
 

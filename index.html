@@ -3,12 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#ffffff" />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)" />
     <meta
       name="description"
       content="A public list of programmers who have built a hundred applications, each one open source and checkable by anyone. Ten to join. Add yourself with a pull request."
     />
-    <title>Tech Leads</title>
+    <title>Tech Lead Heros</title>
+    <!-- The reader's theme, set before the first paint so a page chosen dark
+         never opens light first: their choice, or, before there is one, the
+         system's. src/theme.js keeps it in step from then on; the two agree
+         on the key and the words. -->
+    <script>
+      var theme = null;
+      try {
+        theme = localStorage.getItem("theme");
+      } catch (e) {}
+      if (theme !== "light" && theme !== "dark" && theme !== "mono") {
+        theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      }
+      document.documentElement.dataset.theme = theme;
+    </script>
   </head>
   <body>
     <div id="root"></div>

@@ -2,7 +2,6 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-left: auto;
 }
 
 .option,
@@ -25,11 +24,11 @@
 .optionOn {
   color: var(--ink);
   font-weight: 700;
-  border-bottom-color: var(--border);
+  border-bottom-color: currentColor;
 }
 
 .option:focus-visible,
 .optionOn:focus-visible {
-  outline: 2px solid var(--ink);
+  outline: 2px solid var(--focus);
   outline-offset: 2px;
 }
