@@ -22,6 +22,12 @@
 // asked here: an entry is still written by a person, or by an assistant with
 // the prompt in src/prompt.js.
 //
+// GitHub allows five thousand requests an hour, but for queries this heavy
+// it also turns away anyone past about forty a minute, for a minute at a
+// time. So requests are let out thirty a minute, and slices of the search
+// and seeds are read side by side to fill that: ten thousand people in three
+// or four minutes, the whole population in an hour and a half.
+//
 // Needs a token, GITHUB_TOKEN or `gh auth token`, and Node.js 22.13 or later
 // for node:sqlite. No dependencies, like scripts/check.js.
 import { execFileSync } from "node:child_process";
@@ -52,6 +58,8 @@ const FIRST_ACCOUNT = "2007-01-01";
 const TIMEOUT_MS = 30000;
 const RETRIES = 5;
 const API = "https://api.github.com/graphql";
+// Between one request going out and the next: thirty a minute.
+const PACE_MS = 2000;
 
 const args = process.argv.slice(2);
 const flag = (name) => args.includes(`--${name}`);
@@ -85,16 +93,18 @@ const done = process.stdout.isTTY ? () => process.stdout.write("\r\x1b[K") : () 
 
 // The shape of the file. A file from an earlier crawl.js, with other rules
 // and other columns, is not carried over; it asks for --fresh.
-const SCHEMA = 2;
+const SCHEMA = 3;
 
 if (FRESH) for (const suffix of ["", "-wal", "-shm"]) rmSync(DB + suffix, { force: true });
 const db = new DatabaseSync(DB);
 const made = db.prepare("SELECT count(*) AS n FROM sqlite_master WHERE type = 'table'").get().n > 0;
 const version = db.prepare("PRAGMA user_version").get().user_version;
-if (made && version !== SCHEMA) {
+if (made && (version < 2 || version > SCHEMA)) {
   console.error("data/crawl.db is from an earlier crawl.js, with other rules; run with --fresh to start over");
   process.exit(1);
 }
+// Version 2 kept no place in a search; version 3 does.
+if (made && version === 2) db.exec("ALTER TABLE searches ADD COLUMN cursor TEXT");
 db.exec(`
   PRAGMA journal_mode = WAL;
   PRAGMA user_version = ${SCHEMA};
@@ -115,7 +125,8 @@ db.exec(`
   );
   CREATE TABLE IF NOT EXISTS searches (
     query TEXT PRIMARY KEY,
-    count INTEGER NOT NULL, done INTEGER NOT NULL DEFAULT 0
+    count INTEGER NOT NULL, done INTEGER NOT NULL DEFAULT 0,
+    cursor TEXT                      -- how far a search under the cap has been read
   );
 `);
 
@@ -131,8 +142,8 @@ const sql = {
   crawlSave: db.prepare("INSERT OR REPLACE INTO crawls (login, field, cursor, done) VALUES (?, ?, ?, ?)"),
   expanded: db.prepare("UPDATE people SET expanded = 1 WHERE login = ?"),
   toExpand: db.prepare("SELECT login FROM people WHERE expanded = 0 ORDER BY rowid"),
-  search: db.prepare("SELECT count, done FROM searches WHERE query = ?"),
-  searchSave: db.prepare("INSERT OR REPLACE INTO searches (query, count, done) VALUES (?, ?, ?)"),
+  search: db.prepare("SELECT count, done, cursor FROM searches WHERE query = ?"),
+  searchSave: db.prepare("INSERT OR REPLACE INTO searches (query, count, done, cursor) VALUES (?, ?, ?, ?)"),
   people: db.prepare("SELECT login, name, repos, own FROM people ORDER BY own DESC, login"),
   count: db.prepare("SELECT count(*) AS n FROM people"),
 };
@@ -170,17 +181,32 @@ const EDGES = (field) => `query($login: String!, $after: String) {
   }
 }`;
 
-const SEARCH_QUERY = `query($q: String!, $after: String) {
+// A page of the search; how many to a page is asked, since a page of people
+// with thousands of repositories each is more than GitHub counts in time.
+const SEARCH_QUERY = (first) => `query($q: String!, $after: String) {
   rateLimit { remaining }
-  search(type: USER, query: $q, first: ${PAGE}, after: $after) {
+  search(type: USER, query: $q, first: ${first}, after: $after) {
     userCount
     pageInfo { hasNextPage endCursor }
     nodes { ... on User { ${PERSON} } }
   }
 }`;
 
+// Lets requests out one every PACE_MS, in the order they were asked, however
+// many slices and seeds are being read at once. A rate limit pushes the next
+// one out past the wait.
+let nextStart = 0;
+
+const gate = async () => {
+  const at = Math.max(nextStart, Date.now());
+  nextStart = at + PACE_MS;
+  const wait = at - Date.now();
+  if (wait > 0) await sleep(wait);
+};
+
 const graphql = async (query, variables) => {
   for (let attempt = 1; ; attempt++) {
+    await gate();
     let response;
     try {
       response = await fetch(API, {
@@ -202,7 +228,17 @@ const graphql = async (query, variables) => {
       console.error("the token was refused");
       process.exit(1);
     }
-    const json = response.ok ? await response.json() : null;
+    let json = null;
+    if (response.ok) {
+      try {
+        json = await response.json();
+      } catch (error) {
+        // A body cut short is a network failure like any other.
+        if (attempt >= RETRIES) throw error;
+        await sleep(attempt * 2000);
+        continue;
+      }
+    }
     const limited = response.status === 403 || response.status === 429 ||
       (json?.errors ?? []).some((error) => error.type === "RATE_LIMITED");
     if (limited) {
@@ -211,14 +247,20 @@ const graphql = async (query, variables) => {
       const retryAfter = Number(response.headers.get("retry-after")) * 1000;
       const reset = Number(response.headers.get("x-ratelimit-reset")) * 1000 - Date.now();
       const wait = retryAfter > 0 ? retryAfter : reset > 0 && response.status !== 403 ? reset + 1000 : 60000;
-      done();
-      console.log(`rate limited, waiting ${Math.round(wait / 1000)}s`);
+      // Every request in flight is turned away together; the first to hear
+      // it holds the gate and says so.
+      if (Date.now() + wait > nextStart) {
+        nextStart = Date.now() + wait;
+        done();
+        console.log(`rate limited, waiting ${Math.round(wait / 1000)}s`);
+      }
       await sleep(wait);
       continue;
     }
     if (!response.ok) {
+      // A 5xx is GitHub's side; it gets a while to come back.
       if (attempt >= RETRIES) throw new Error(`GitHub answered ${response.status}`);
-      await sleep(attempt * 2000);
+      await sleep(attempt * 10000);
       continue;
     }
     // A handle nobody has comes back as an error, with the rest of the
@@ -235,6 +277,8 @@ const graphql = async (query, variables) => {
 
 let found = 0;
 let passedOver = 0;
+// Searches and lists given up on this run, after GitHub failed them.
+let left = 0;
 
 // Keeps a person if both counts reach a hundred, and says whether they are
 // new. Anyone listed already is not kept either way.
@@ -273,10 +317,23 @@ const crawl = async (seed, field) => {
   let kept = 0;
   let person = null;
   do {
-    const { user } = await graphql(EDGES(field), { login: seed, after });
+    let user;
+    try {
+      ({ user } = await graphql(EDGES(field), { login: seed, after }));
+    } catch (error) {
+      // One list given up on does not stop the others; the next run
+      // carries on from the last page saved.
+      done();
+      console.log(`${seed}: ${field}: ${error.message}; left for next time`);
+      left++;
+      return false;
+    }
     if (!user) {
-      console.log(`${seed}: no such user`);
-      for (const each of ["followers", "following"]) sql.crawlSave.run(seed, each, null, 1);
+      // Followers and following are asked together, and both hear it.
+      if (!sql.crawl.get(seed, field)?.done) {
+        console.log(`${seed}: no such user`);
+        for (const each of ["followers", "following"]) sql.crawlSave.run(seed, each, null, 1);
+      }
       return null;
     }
     const page = user.page;
@@ -296,20 +353,20 @@ const crawl = async (seed, field) => {
   return { total, kept, person };
 };
 
-const crawlAround = async (seeds) => {
-  for (const seed of seeds) {
-    const followers = await crawl(seed, "followers");
-    const following = await crawl(seed, "following");
-    sql.expanded.run(seed);
-    if (followers === null && following === null) continue;
-    const person = followers?.person ?? following?.person;
-    const parts = [`${person.all.totalCount} repositories, ${person.own.totalCount} their own`];
-    if (followers) parts.push(`${followers.total} followers`);
-    if (following) parts.push(`${following.total} following`);
-    const kept = (followers?.kept ?? 0) + (following?.kept ?? 0);
-    console.log(`${seed}: ${parts.join(", ")}, ${kept} kept`);
-  }
-};
+// All the seeds at once, and each seed's two lists at once; the gate keeps
+// the pace.
+const crawlAround = (seeds) => Promise.all(seeds.map(async (seed) => {
+  const [followers, following] = await Promise.all([crawl(seed, "followers"), crawl(seed, "following")]);
+  if (followers === false || following === false) return;
+  sql.expanded.run(seed);
+  if (followers === null && following === null) return;
+  const person = followers?.person ?? following?.person;
+  const parts = [`${person.all.totalCount} repositories, ${person.own.totalCount} their own`];
+  if (followers) parts.push(`${followers.total} followers`);
+  if (following) parts.push(`${following.total} following`);
+  const kept = (followers?.kept ?? 0) + (following?.kept ?? 0);
+  console.log(`${seed}: ${parts.join(", ")}, ${kept} kept`);
+}));
 
 // Search. A slice is a range of repository counts and, when that is not
 // narrow enough, a range of days the account was made. The search counts
@@ -357,21 +414,45 @@ const split = (slice, count) => {
   }));
 };
 
-const search = async (slice) => {
+// Says whether the slice was read to the end, its pieces included. `first`
+// is how many people to a page; a hundred, unless GitHub could not manage.
+const search = async (slice, first = PAGE) => {
   const query = queryOf(slice);
   const known = sql.search.get(query);
-  if (known?.done) return;
+  // A search read to the end is not read again. One cut into pieces is
+  // walked again, which costs no request, in case a piece was never read.
+  if (known?.done && known.count <= SEARCH_CAP) return true;
   let count = known?.count ?? null;
+  let kept = 0;
   if (count === null || count <= SEARCH_CAP) {
-    let after = null;
+    // A search under the cap is read page by page, and each page is
+    // remembered, so a run cut short carries on from there.
+    let after = known?.cursor ?? null;
     let seen = 0;
     do {
-      const page = (await graphql(SEARCH_QUERY, { q: query, after })).search;
+      let page;
+      try {
+        page = (await graphql(SEARCH_QUERY(first), { q: query, after })).search;
+      } catch (error) {
+        done();
+        // GitHub times out on a page of people with very many repositories
+        // each, and answers 502; a page of fewer gets through, and the
+        // cursor is an offset, so it carries on from where this one was.
+        const fewer = first > 25 ? 25 : first > 10 ? 10 : 0;
+        if (fewer > 0 && /answered 5\d\d|timeout/i.test(error.message)) {
+          console.log(`search: ${query}: ${error.message}; asking ${fewer} at a time`);
+          return search(slice, fewer);
+        }
+        // Anything else is given up on, and does not stop the others.
+        console.log(`search: ${query}: ${error.message}; left for next time`);
+        left++;
+        return false;
+      }
       count = page.userCount;
       after = page.pageInfo.hasNextPage ? page.pageInfo.endCursor : null;
       db.exec("BEGIN");
-      for (const person of page.nodes) note(person, "search");
-      if (count > SEARCH_CAP) sql.searchSave.run(query, count, 0);
+      for (const person of page.nodes) if (note(person, "search")) kept++;
+      sql.searchSave.run(query, count, 0, count > SEARCH_CAP ? null : after);
       db.exec("COMMIT");
       seen += page.nodes.length;
       searched += page.nodes.length;
@@ -379,15 +460,23 @@ const search = async (slice) => {
     } while (after && count <= SEARCH_CAP && seen < SEARCH_CAP);
   }
   if (count > SEARCH_CAP) {
+    // The pieces side by side; the gate keeps the pace.
     const pieces = split(slice, count);
     if (pieces.length === 0) {
       done();
       console.log(`search: ${query} has ${count} people and cannot be cut finer; the first ${SEARCH_CAP} were read`);
     }
-    for (const piece of pieces) await search(piece);
+    // A piece given up on leaves the whole unfinished, to be come back to.
+    // The pieces of a search that needed smaller pages are as heavy.
+    const whole = (await Promise.all(pieces.map((piece) => search(piece, first)))).every(Boolean);
+    if (!whole) return false;
+  } else {
+    done();
+    console.log(`search: ${query}: ${count} people, ${kept} kept`);
   }
   slices++;
-  sql.searchSave.run(query, count, 1);
+  sql.searchSave.run(query, count, 1, null);
+  return true;
 };
 
 // Report
@@ -417,8 +506,22 @@ const main = async () => {
   }
 
   const seeds = handles.length > 0 ? handles : listed;
-  if (SEARCH) await search({ lo: HUNDRED, hi: null, from: null, to: null });
+  if (SEARCH) {
+    // A search given up on, now or in an earlier run, is come back to,
+    // twice at most: the tree is walked again, and only what is not read
+    // yet is asked for.
+    for (let pass = 1; pass <= 3; pass++) {
+      left = 0;
+      if (await search({ lo: HUNDRED, hi: null, from: null, to: null })) break;
+      if (pass < 3) console.log(`search: ${left} left; going over them again`);
+    }
+  }
   await crawlAround(seeds);
+  if (left > 0) {
+    console.log(`${left} left; going over the lists again`);
+    left = 0;
+    await crawlAround(seeds);
+  }
 
   // Everyone found is a seed in turn, until nobody new is found.
   if (EXPAND) {

@@ -9,7 +9,8 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "check": "node scripts/check.js",
-    "crawl": "node data/crawl.js"
+    "crawl": "node data/crawl.js",
+    "cleaning": "node data/cleaning.js"
   },
   "dependencies": {
     "@fontsource/fira-code": "^5.3.0",

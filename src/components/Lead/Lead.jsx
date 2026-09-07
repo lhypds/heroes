@@ -13,10 +13,10 @@ import styles from "./lead.module.css";
 // The count beside the name is the whole list, and may pass a hundred; the
 // rows that unfold are the first hundred of it, the entry's most important.
 //
-// With `avatar`, their GitHub picture beside the name, read from the
-// address GitHub gives every profile picture; the heroes are shown with
-// theirs. If it does not load, nothing is shown in its place.
-export default function Lead({ lead, avatar = false }) {
+// Their GitHub picture beside the name, read from the address GitHub gives
+// every profile picture, hero or not. If it does not load, nothing is shown
+// in its place.
+export default function Lead({ lead }) {
   const { t, i18n } = useTranslation();
   const language = i18n.language;
   const { handle, name, github, website, bio, apps } = lead;
@@ -29,7 +29,7 @@ export default function Lead({ lead, avatar = false }) {
     <article className={styles.lead} id={handle}>
       <header className={styles.head}>
         <div className={styles.who}>
-          {avatar && !noAvatar && (
+          {!noAvatar && (
             <img
               className={styles.avatar}
               src={`https://github.com/${handle}.png?size=96`}

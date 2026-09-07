@@ -25,8 +25,8 @@
   min-width: 0;
 }
 
-/* A hero's face from GitHub, square as everything here is, and in black and
-   white when the page is. Grey until it arrives. */
+/* A face from GitHub, square as everything here is, and in black and white
+   when the page is. Grey until it arrives. */
 .avatar {
   flex: none;
   width: 48px;

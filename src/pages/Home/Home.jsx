@@ -73,7 +73,7 @@ export default function Home() {
         {heroes.length > 0 ? (
           <div className={styles.leads}>
             {heroes.map((lead) => (
-              <Lead lead={lead} avatar key={lead.handle} />
+              <Lead lead={lead} key={lead.handle} />
             ))}
           </div>
         ) : (
