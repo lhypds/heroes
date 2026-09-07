@@ -1,29 +1,26 @@
 #!/usr/bin/env node
-// Crawls GitHub for people who might be heroes, and checks them against the
-// two rules. What it finds goes into data/crawl.db, a SQLite file, so a crawl
-// of a hundred thousand people can stop and start again where it left off.
+// Crawls GitHub for people who might be heroes: anyone with a hundred public
+// repositories, a hundred of them their own and not forks. Who it finds goes
+// into data/crawl.db, a SQLite file, so a crawl of a hundred thousand people
+// can stop and start again where it left off.
 //
-//   node data/crawl.js               from everyone under data/heros/: who they
-//                                    follow and who follows them, then checked
-//   node data/crawl.js alice bob     from these handles instead
+//   node data/crawl.js               around everyone under data/heros/: who
+//                                    they follow and who follows them
+//   node data/crawl.js alice bob     around these handles instead; each of
+//                                    them is looked at too
 //   node data/crawl.js --search      everyone on GitHub with a hundred public
 //                                    repositories, through the search API
-//   node data/crawl.js --expand      also from everyone who passes, and so on
-//   node data/crawl.js --find        find, do not check
-//   node data/crawl.js --check       check, do not find
-//   node data/crawl.js --check alice check these handles, on the list or not
-//   node data/crawl.js --report      who passes, most repositories first
+//   node data/crawl.js --expand      also around everyone found, and so on
+//   node data/crawl.js --report      who was found, most repositories first
 //   node data/crawl.js --fresh       forget everything and start over
 //
-// Finding is cheap: a page of a hundred people, with how many public
-// repositories of their own each has, is one request, and anyone short of a
-// hundred is passed over (rule 1). Checking costs one request per hundred
-// repositories: each is asked its commits and how much code it holds, and is
-// counted with ten commits and more than a hundred lines (rule 2). The lines
-// are read off the bytes GitHub counts as code, about thirty to a line; prose,
-// data and configuration are not in that count, so a repository that is only
-// a README shows nothing. Nothing is decided here: an entry is still written
-// by a person, or by an assistant with the prompt in src/prompt.js.
+// Two counts decide, and both come in the same request as the person: the
+// public repositories they own, forks in, and the same with forks out. A
+// hundred of each keeps them; anyone short of either is passed over and not
+// written. A page of a hundred people is one request, whether from a search
+// or from a seed's followers. Whether the repositories are real code is not
+// asked here: an entry is still written by a person, or by an assistant with
+// the prompt in src/prompt.js.
 //
 // Needs a token, GITHUB_TOKEN or `gh auth token`, and Node.js 22.13 or later
 // for node:sqlite. No dependencies, like scripts/check.js.
@@ -42,13 +39,9 @@ process.on("warning", (warning) => {
 const DB = fileURLToPath(new URL("./crawl.db", import.meta.url));
 const HEROS = fileURLToPath(new URL("./heros/", import.meta.url));
 
-// The rules. A hundred public repositories of their own, forks aside; each
-// with ten commits and more than a hundred lines of code.
+// The two counts a person needs: a hundred public repositories, and a
+// hundred with the forks taken out.
 const HUNDRED = 100;
-const MIN_COMMITS = 10;
-// GitHub counts the bytes of code in a repository and leaves out prose, data,
-// configuration and vendored files. A hundred lines is about three kilobytes.
-const MIN_CODE = 3000;
 
 const PAGE = 100;
 // The search API answers at most a thousand people to a query, so a query
@@ -67,8 +60,6 @@ const FRESH = flag("fresh");
 const SEARCH = flag("search");
 const EXPAND = flag("expand");
 const REPORT = flag("report");
-const FIND = flag("find") || (!flag("check") && !REPORT);
-const CHECK = flag("check") || (!flag("find") && !REPORT);
 
 const token = () => {
   if (process.env.GITHUB_TOKEN) return process.env.GITHUB_TOKEN;
@@ -92,28 +83,30 @@ const done = process.stdout.isTTY ? () => process.stdout.write("\r\x1b[K") : () 
 // The database
 // -----------------------------------------------------------------------------
 
+// The shape of the file. A file from an earlier crawl.js, with other rules
+// and other columns, is not carried over; it asks for --fresh.
+const SCHEMA = 2;
+
 if (FRESH) for (const suffix of ["", "-wal", "-shm"]) rmSync(DB + suffix, { force: true });
 const db = new DatabaseSync(DB);
+const made = db.prepare("SELECT count(*) AS n FROM sqlite_master WHERE type = 'table'").get().n > 0;
+const version = db.prepare("PRAGMA user_version").get().user_version;
+if (made && version !== SCHEMA) {
+  console.error("data/crawl.db is from an earlier crawl.js, with other rules; run with --fresh to start over");
+  process.exit(1);
+}
 db.exec(`
   PRAGMA journal_mode = WAL;
+  PRAGMA user_version = ${SCHEMA};
   CREATE TABLE IF NOT EXISTS people (
     login TEXT PRIMARY KEY,
     name TEXT, bio TEXT, company TEXT, location TEXT, website TEXT,
     followers INTEGER NOT NULL DEFAULT 0,
-    repos INTEGER NOT NULL,          -- public repositories of their own, forks aside
-    counted INTEGER,                 -- of those, how many pass rule 2; empty until checked
+    repos INTEGER NOT NULL,          -- public repositories of their own, forks in
+    own INTEGER NOT NULL,            -- the same, forks out
     via TEXT NOT NULL,               -- how they were found
     found_at TEXT NOT NULL,
-    checked_at TEXT,
     expanded INTEGER NOT NULL DEFAULT 0
-  );
-  CREATE TABLE IF NOT EXISTS repos (
-    login TEXT NOT NULL, name TEXT NOT NULL,
-    commits INTEGER NOT NULL,
-    code INTEGER NOT NULL,           -- bytes GitHub counts as code
-    language TEXT,
-    counted INTEGER NOT NULL,        -- 1 if it passes rule 2
-    PRIMARY KEY (login, name)
   );
   CREATE TABLE IF NOT EXISTS crawls (
     login TEXT NOT NULL, field TEXT NOT NULL,
@@ -129,24 +122,19 @@ db.exec(`
 const sql = {
   person: db.prepare("SELECT via FROM people WHERE login = ?"),
   upsert: db.prepare(`
-    INSERT INTO people (login, name, bio, company, location, website, followers, repos, via, found_at)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO people (login, name, bio, company, location, website, followers, repos, own, via, found_at)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     ON CONFLICT(login) DO UPDATE SET name = excluded.name, bio = excluded.bio, company = excluded.company,
       location = excluded.location, website = excluded.website, followers = excluded.followers,
-      repos = excluded.repos, via = excluded.via`),
-  unchecked: db.prepare("SELECT login FROM people WHERE checked_at IS NULL ORDER BY rowid"),
-  clearRepos: db.prepare("DELETE FROM repos WHERE login = ?"),
-  repo: db.prepare("INSERT OR REPLACE INTO repos (login, name, commits, code, language, counted) VALUES (?, ?, ?, ?, ?, ?)"),
-  checked: db.prepare("UPDATE people SET counted = ?, repos = ?, checked_at = ? WHERE login = ?"),
+      repos = excluded.repos, own = excluded.own, via = excluded.via`),
   crawl: db.prepare("SELECT cursor, done FROM crawls WHERE login = ? AND field = ?"),
   crawlSave: db.prepare("INSERT OR REPLACE INTO crawls (login, field, cursor, done) VALUES (?, ?, ?, ?)"),
   expanded: db.prepare("UPDATE people SET expanded = 1 WHERE login = ?"),
-  toExpand: db.prepare("SELECT login FROM people WHERE counted >= ? AND expanded = 0 ORDER BY rowid"),
+  toExpand: db.prepare("SELECT login FROM people WHERE expanded = 0 ORDER BY rowid"),
   search: db.prepare("SELECT count, done FROM searches WHERE query = ?"),
   searchSave: db.prepare("INSERT OR REPLACE INTO searches (query, count, done) VALUES (?, ?, ?)"),
-  passing: db.prepare("SELECT login, name, counted, repos FROM people WHERE counted >= ? ORDER BY counted DESC, login"),
-  totals: db.prepare(`SELECT count(*) AS found, count(checked_at) AS checked,
-    sum(counted >= ?) AS passing, sum(counted >= ? AND counted < ?) AS close FROM people`),
+  people: db.prepare("SELECT login, name, repos, own FROM people ORDER BY own DESC, login"),
+  count: db.prepare("SELECT count(*) AS n FROM people"),
 };
 
 // Anyone with an entry already is not a candidate, and everyone with one is
@@ -161,26 +149,25 @@ const listed = readdirSync(HEROS)
 const TOKEN = token();
 let remaining = null;
 
-// One page of a seed's followers or following, with what decides whether
-// each person is worth a look.
+// One person: the two counts that decide, and what an entry would want to
+// know about them.
 const PERSON = `login name bio company location websiteUrl
   followers { totalCount }
-  repositories(privacy: PUBLIC, isFork: false, ownerAffiliations: OWNER) { totalCount }`;
+  all: repositories(privacy: PUBLIC, ownerAffiliations: OWNER) { totalCount }
+  own: repositories(privacy: PUBLIC, isFork: false, ownerAffiliations: OWNER) { totalCount }`;
 
+// One page of a seed's followers or following, and the seed themselves,
+// who might be one too.
 const EDGES = (field) => `query($login: String!, $after: String) {
   rateLimit { remaining }
   user(login: $login) {
-    ${field}(first: ${PAGE}, after: $after) {
+    ${PERSON}
+    page: ${field}(first: ${PAGE}, after: $after) {
       totalCount
       pageInfo { hasNextPage endCursor }
       nodes { ${PERSON} }
     }
   }
-}`;
-
-const USER = `query($login: String!) {
-  rateLimit { remaining }
-  user(login: $login) { ${PERSON} }
 }`;
 
 const SEARCH_QUERY = `query($q: String!, $after: String) {
@@ -189,24 +176,6 @@ const SEARCH_QUERY = `query($q: String!, $after: String) {
     userCount
     pageInfo { hasNextPage endCursor }
     nodes { ... on User { ${PERSON} } }
-  }
-}`;
-
-// One page of a person's repositories, with what rule 2 asks of each.
-const REPOS = `query($login: String!, $after: String) {
-  rateLimit { remaining }
-  user(login: $login) {
-    repositories(first: ${PAGE}, after: $after, privacy: PUBLIC, isFork: false, ownerAffiliations: OWNER,
-                 orderBy: { field: NAME, direction: ASC }) {
-      totalCount
-      pageInfo { hasNextPage endCursor }
-      nodes {
-        name mirrorUrl
-        primaryLanguage { name }
-        languages(first: 1) { totalSize }
-        defaultBranchRef { target { ... on Commit { history { totalCount } } } }
-      }
-    }
   }
 }`;
 
@@ -267,12 +236,14 @@ const graphql = async (query, variables) => {
 let found = 0;
 let passedOver = 0;
 
-// Keeps a person if they clear rule 1, and says whether they are new.
-const note = (person, via, { always = false } = {}) => {
+// Keeps a person if both counts reach a hundred, and says whether they are
+// new. Anyone listed already is not kept either way.
+const note = (person, via) => {
   if (!person?.login) return false;
   const login = person.login.toLowerCase();
-  const repos = person.repositories.totalCount;
-  if (!always && (listed.includes(login) || repos < HUNDRED)) {
+  const repos = person.all.totalCount;
+  const own = person.own.totalCount;
+  if (listed.includes(login) || repos < HUNDRED || own < HUNDRED) {
     passedOver++;
     return false;
   }
@@ -281,14 +252,17 @@ const note = (person, via, { always = false } = {}) => {
   vias.add(via);
   sql.upsert.run(
     login, text(person.name), text(person.bio), text(person.company), text(person.location),
-    text(person.websiteUrl), person.followers.totalCount, repos, [...vias].sort().join(", "), today(),
+    text(person.websiteUrl), person.followers.totalCount, repos, own, [...vias].sort().join(", "), today(),
   );
   if (!was) found++;
   return !was;
 };
 
 // Everyone a seed follows, or everyone who follows them. A seed read to the
-// end is not read again; a seed read halfway carries on from there.
+// end is not read again; a seed read halfway carries on from there. The seed
+// is looked at too, on the way past, once.
+const looked = new Set();
+
 const crawl = async (seed, field) => {
   const via = field === "followers" ? `follows ${seed}` : `followed by ${seed}`;
   const progress = sql.crawl.get(seed, field);
@@ -297,34 +271,39 @@ const crawl = async (seed, field) => {
   let seen = 0;
   let total = 0;
   let kept = 0;
+  let person = null;
   do {
     const { user } = await graphql(EDGES(field), { login: seed, after });
     if (!user) {
       console.log(`${seed}: no such user`);
-      sql.crawlSave.run(seed, field, null, 1);
+      for (const each of ["followers", "following"]) sql.crawlSave.run(seed, each, null, 1);
       return null;
     }
-    const page = user[field];
+    const page = user.page;
     total = page.totalCount;
     after = page.pageInfo.hasNextPage ? page.pageInfo.endCursor : null;
     db.exec("BEGIN");
-    for (const person of page.nodes) if (note(person, via)) kept++;
+    if (!looked.has(seed)) note(user, "seed");
+    looked.add(seed);
+    for (const each of page.nodes) if (note(each, via)) kept++;
     sql.crawlSave.run(seed, field, after, after ? 0 : 1);
     db.exec("COMMIT");
+    person = user;
     seen += page.nodes.length;
     show(`${seed}: ${field} ${seen} of ${total}, ${kept} kept`);
   } while (after);
   done();
-  return { total, kept };
+  return { total, kept, person };
 };
 
 const crawlAround = async (seeds) => {
   for (const seed of seeds) {
     const followers = await crawl(seed, "followers");
-    const following = followers === null ? null : await crawl(seed, "following");
+    const following = await crawl(seed, "following");
     sql.expanded.run(seed);
     if (followers === null && following === null) continue;
-    const parts = [];
+    const person = followers?.person ?? following?.person;
+    const parts = [`${person.all.totalCount} repositories, ${person.own.totalCount} their own`];
     if (followers) parts.push(`${followers.total} followers`);
     if (following) parts.push(`${following.total} following`);
     const kept = (followers?.kept ?? 0) + (following?.kept ?? 0);
@@ -334,8 +313,8 @@ const crawlAround = async (seeds) => {
 
 // Search. A slice is a range of repository counts and, when that is not
 // narrow enough, a range of days the account was made. The search counts
-// public repositories with forks in, so it finds a superset, and rule 1 is
-// applied to each person it answers with.
+// public repositories with forks in, which is the first count exactly; the
+// second is read off each person it answers with.
 let slices = 0;
 let searched = 0;
 
@@ -411,79 +390,16 @@ const search = async (slice) => {
   sql.searchSave.run(query, count, 1);
 };
 
-// Checking
-// -----------------------------------------------------------------------------
-
-let checkedNow = 0;
-let passingNow = 0;
-
-// Every repository of one person against rule 2. The repositories are
-// written as they come, the verdict only at the end, so a run cut short
-// checks the person again from the start.
-const check = async (login) => {
-  let after = null;
-  let seen = 0;
-  let total = 0;
-  let counted = 0;
-  sql.clearRepos.run(login);
-  do {
-    const { user } = await graphql(REPOS, { login, after });
-    if (!user) {
-      sql.checked.run(0, 0, today(), login);
-      console.log(`${login}: gone`);
-      return;
-    }
-    const page = user.repositories;
-    total = page.totalCount;
-    after = page.pageInfo.hasNextPage ? page.pageInfo.endCursor : null;
-    db.exec("BEGIN");
-    for (const repo of page.nodes) {
-      const commits = repo.defaultBranchRef?.target?.history?.totalCount ?? 0;
-      const code = repo.languages?.totalSize ?? 0;
-      const language = repo.primaryLanguage?.name ?? null;
-      const counts = !repo.mirrorUrl && commits >= MIN_COMMITS && code >= MIN_CODE && language !== null;
-      sql.repo.run(login, repo.name, commits, code, language, counts ? 1 : 0);
-      if (counts) counted++;
-    }
-    db.exec("COMMIT");
-    seen += page.nodes.length;
-    show(`${login}: ${seen} of ${total} repositories, ${counted} count`);
-  } while (after);
-  sql.checked.run(counted, total, today(), login);
-  done();
-  checkedNow++;
-  if (counted >= HUNDRED) passingNow++;
-  console.log(`${login}: ${counted} of ${total} count${counted >= HUNDRED ? " — a hundred" : ""}`);
-};
-
-const checkAll = async () => {
-  for (const { login } of sql.unchecked.all()) await check(login);
-};
-
-// Asks GitHub about handles named on the command line, whatever their
-// count and whether or not they are listed.
-const ask = async (logins) => {
-  for (const login of logins) {
-    const { user } = await graphql(USER, { login });
-    if (!user) console.log(`${login}: no such user`);
-    else note(user, "asked", { always: true });
-  }
-};
-
 // Report
 // -----------------------------------------------------------------------------
 
 const report = () => {
-  const rows = sql.passing.all(HUNDRED);
+  const rows = sql.people.all();
   for (const row of rows) {
-    console.log(`${row.login.padEnd(24)} ${String(row.counted).padStart(5)} of ${String(row.repos).padEnd(5)} ${row.name ?? ""}`);
+    console.log(`${row.login.padEnd(24)} ${String(row.own).padStart(5)} of ${String(row.repos).padEnd(5)} ${row.name ?? ""}`);
   }
   if (rows.length > 0) console.log("");
-  const totals = sql.totals.get(HUNDRED, HUNDRED / 2, HUNDRED);
-  console.log(
-    `${totals.found} people found, ${totals.checked} checked, ` +
-      `${totals.passing ?? 0} at a hundred, ${totals.close ?? 0} at fifty or more`,
-  );
+  console.log(`${rows.length} people in data/crawl.db, each with a hundred public repositories of their own`);
 };
 
 // -----------------------------------------------------------------------------
@@ -500,30 +416,22 @@ const main = async () => {
     return;
   }
 
-  if (CHECK && !FIND && handles.length > 0) await ask(handles);
+  const seeds = handles.length > 0 ? handles : listed;
+  if (SEARCH) await search({ lo: HUNDRED, hi: null, from: null, to: null });
+  await crawlAround(seeds);
 
-  if (FIND) {
-    const seeds = handles.length > 0 ? handles : listed;
-    if (SEARCH) await search({ lo: HUNDRED, hi: null, from: null, to: null });
-    await crawlAround(seeds);
-  }
-  if (CHECK) await checkAll();
-
-  // Everyone who passes is a seed in turn, until nobody new passes.
+  // Everyone found is a seed in turn, until nobody new is found.
   if (EXPAND) {
     for (;;) {
-      const more = sql.toExpand.all(HUNDRED).map((row) => row.login);
+      const more = sql.toExpand.all().map((row) => row.login);
       if (more.length === 0) break;
       await crawlAround(more);
-      if (CHECK) await checkAll();
     }
   }
 
-  const totals = sql.totals.get(HUNDRED, HUNDRED / 2, HUNDRED);
   console.log(
-    `${found} people found` + (passedOver > 0 ? `, ${passedOver} passed over short of a hundred` : "") +
-      (checkedNow > 0 ? `; ${checkedNow} checked, ${passingNow} at a hundred` : "") +
-      `; ${totals.found} people and ${totals.passing ?? 0} at a hundred in data/crawl.db` +
+    `${found} people found` + (passedOver > 0 ? `, ${passedOver} passed over` : "") +
+      `; ${sql.count.get().n} in data/crawl.db` +
       (remaining === null ? "" : `; ${remaining} requests left this hour`),
   );
 };

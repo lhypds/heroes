@@ -2,13 +2,14 @@
 set -e
 cd "$(dirname "$0")"
 
-# People who might be heroes, checked against the two rules, into
-# data/crawl.db. Starts from everyone under data/heros/ unless handles are
-# given; data/crawl.js lists every flag:
+# People who might be heroes, anyone with a hundred public repositories and a
+# hundred of them their own and not forks, into data/crawl.db. Starts from
+# everyone under data/heros/ unless handles are given; data/crawl.js lists
+# every flag:
 #   ./crawl.sh
 #   ./crawl.sh alice bob
 #   ./crawl.sh --search       everyone on GitHub with a hundred repositories
-#   ./crawl.sh --report       who passes
+#   ./crawl.sh --report       who was found
 #   ./crawl.sh --fresh        forget everything and start over
 # Needs a GitHub token: GITHUB_TOKEN in the environment or in .env, or the
 # GitHub CLI signed in (gh auth login).
