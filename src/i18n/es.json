@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Tech Leads — los programadores que construyen cien aplicaciones"
+  },
+  "hero": {
+    "tagline": "Los programadores que construyen cien aplicaciones.",
+    "lede": "Tech Leads es una lista pública de programadores que han construido cien aplicaciones, cada una publicada con su código fuente abierto para que cualquiera lo lea. El listón para entrar es diez. Diez aplicaciones públicas y de código abierto ponen un nombre en la lista; la cuenta de al lado llega hasta cien. Cualquiera puede comprobar una entrada, y cualquiera puede añadir una con un pull request.",
+    "join": "Añádete",
+    "source": "Código en GitHub"
+  },
+  "rules": {
+    "title": "Las reglas",
+    "items": [
+      {
+        "name": "Diez para entrar, cien para llegar",
+        "body": "Diez aplicaciones ponen un nombre en la lista. Las cien casillas de al lado se llenan de una en una."
+      },
+      {
+        "name": "Pública",
+        "body": "Cualquiera puede abrir, instalar o ejecutar cada aplicación: un sitio con dirección, un paquete en un registro, una versión que se descarga, una extensión en un marketplace, una app en una tienda."
+      },
+      {
+        "name": "Código abierto",
+        "body": "El código fuente de cada aplicación está en un repositorio público que cualquiera puede leer, clonar y compilar."
+      },
+      {
+        "name": "Una aplicación, no una biblioteca",
+        "body": "Una aplicación es algo que una persona usa: una app web, una app de escritorio o móvil, una herramienta de línea de comandos, una extensión, un bot. Las bibliotecas, scripts, plantillas y forks del trabajo de otros no cuentan."
+      },
+      {
+        "name": "Comprobable",
+        "body": "Una entrada es un archivo de este repositorio: un nombre, unos enlaces y la lista de aplicaciones. Cualquiera puede contrastarla con los repositorios que señala, y cualquiera puede corregirla con un pull request."
+      }
+    ]
+  },
+  "leads": {
+    "title": "La lista",
+    "count": "{{n}} de 100",
+    "grid": "{{n}} de 100 aplicaciones",
+    "open": "Abrir",
+    "source": "Código"
+  },
+  "join": {
+    "title": "Añádete",
+    "lede": "La lista vive en un repositorio de GitHub, y una entrada es un pull request.",
+    "steps": [
+      {
+        "name": "Fork",
+        "body": "Haz un fork del repositorio en GitHub."
+      },
+      {
+        "name": "Un archivo",
+        "body": "Añade data/leads/<handle>.json: tu nombre, tus enlaces y al menos diez aplicaciones, cada una con su repositorio público."
+      },
+      {
+        "name": "Pull request",
+        "body": "Abre un pull request. Se ejecuta una comprobación: el archivo se lee, hay diez aplicaciones, cada repositorio responde. El resto lo lee una persona."
+      }
+    ],
+    "language": "La lista está escrita en inglés. Cuando una descripción lleva traducción, la página la muestra en el idioma del lector.",
+    "guide": "Leer la guía"
+  },
+  "footer": {
+    "copyright": "© 2026 gcc3.com"
+  }
+}

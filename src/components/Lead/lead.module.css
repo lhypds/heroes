@@ -1,0 +1,173 @@
+.lead {
+  padding: 32px 0 0 0;
+}
+
+.lead + .lead {
+  margin-top: 32px;
+  border-top: 1px solid var(--line);
+}
+
+/* Who on the left, how far along on the right. */
+.head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 28px;
+  align-items: start;
+}
+
+.name {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  line-height: 1.2;
+}
+
+.name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 6px;
+  font-size: 14px;
+}
+
+.links a,
+.appLinks a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+}
+
+.links a:hover,
+.appLinks a:hover {
+  border-color: var(--border);
+}
+
+.bio {
+  margin: 10px 0 0 0;
+  max-width: 42em;
+  color: var(--muted);
+}
+
+.count {
+  display: grid;
+  justify-items: end;
+  gap: 10px;
+}
+
+.number {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  line-height: 1;
+}
+
+.n {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: var(--tracking-display);
+}
+
+.of {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+/* One application per row: its number, what it is, what it is written in
+   and for, and the two places it can be followed to. */
+.apps {
+  display: grid;
+  grid-template-columns: 32px minmax(0, 1fr) auto auto;
+  list-style: none;
+  margin: 24px 0 0 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+
+/* Each row is a grid of the list's own columns, so the language column and
+   the links line up down the whole list however long one row's words are.
+   The first grid-template-columns is for a browser without subgrid, which
+   gets each row sized on its own. */
+.app {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: 32px minmax(0, 1fr) auto auto;
+  grid-template-columns: subgrid;
+  gap: 20px;
+  align-items: baseline;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.index {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.text {
+  min-width: 0;
+}
+
+.appName {
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  margin-right: 8px;
+}
+
+.appBody {
+  color: var(--muted);
+}
+
+.meta {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.appLinks {
+  display: flex;
+  gap: 14px;
+  justify-content: end;
+}
+
+@media (max-width: 760px) {
+  .head {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 18px;
+  }
+
+  .count {
+    justify-items: start;
+  }
+
+  .apps {
+    grid-template-columns: 32px minmax(0, 1fr);
+  }
+
+  .app {
+    grid-template-columns: 32px minmax(0, 1fr);
+    grid-template-columns: subgrid;
+    gap: 4px 14px;
+  }
+
+  .meta,
+  .appLinks {
+    grid-column: 2;
+  }
+
+  .meta {
+    white-space: normal;
+  }
+
+  .appLinks {
+    justify-content: start;
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Tech Leads — the programmers who build a hundred applications"
+  },
+  "hero": {
+    "tagline": "The programmers who build a hundred applications.",
+    "lede": "Tech Leads is a public list of programmers who have built a hundred applications, every one of them released with its source open for anyone to read. The bar to join is ten. Ten public, open-source applications put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
+    "join": "Add yourself",
+    "source": "Source on GitHub"
+  },
+  "rules": {
+    "title": "The rules",
+    "items": [
+      {
+        "name": "Ten to join, a hundred to reach",
+        "body": "Ten applications put a name on the list. The hundred squares beside it fill in one at a time."
+      },
+      {
+        "name": "Public",
+        "body": "Every application can be opened, installed or run by anyone: a site at an address, a package on a registry, a release that downloads, an extension on a marketplace, an app in a store."
+      },
+      {
+        "name": "Open source",
+        "body": "Every application's source is in a public repository that anyone can read, clone and build."
+      },
+      {
+        "name": "An application, not a library",
+        "body": "An application is a thing a person uses: a web app, a desktop or mobile app, a command-line tool, an extension, a bot. Libraries, scripts, templates and forks of other people's work do not count."
+      },
+      {
+        "name": "Checkable",
+        "body": "An entry is one file in this repository: a name, a few links, and the list of applications. Anyone can check it against the repositories it points at, and anyone can correct it with a pull request."
+      }
+    ]
+  },
+  "leads": {
+    "title": "The list",
+    "count": "{{n}} of 100",
+    "grid": "{{n}} of 100 applications",
+    "open": "Open",
+    "source": "Source"
+  },
+  "join": {
+    "title": "Add yourself",
+    "lede": "The list lives in a GitHub repository, and an entry is one pull request.",
+    "steps": [
+      {
+        "name": "Fork",
+        "body": "Fork the repository on GitHub."
+      },
+      {
+        "name": "One file",
+        "body": "Add data/leads/<handle>.json: your name, your links, and at least ten applications, each with its public repository."
+      },
+      {
+        "name": "Pull request",
+        "body": "Open a pull request. A check runs on it: the file parses, there are ten applications, every repository answers. The rest is read by a person."
+      }
+    ],
+    "language": "The list is written in English. Where a description carries a translation, the page shows it in the reader's language.",
+    "guide": "Read the guide"
+  },
+  "footer": {
+    "copyright": "© 2026 gcc3.com"
+  }
+}

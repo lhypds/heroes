@@ -1,0 +1,49 @@
+/* Inter, variable, carrying its optical-size axis: the same face the gcc³
+   landing pages read in. Fira Code, for what is typed, is bundled from
+   @fontsource (see main.jsx) so its text is never hidden while a CDN answers. */
+@import url("https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..700&display=swap");
+
+:root {
+  /* Black ink on white paper; everything drawn is one of these. */
+  --ink: #000000;
+  --paper: #ffffff;
+  --muted: #6e6e6e;
+  --soft: #f0f0f0;
+  --hover: #333333;
+  /* Two kinds of line: a border on a thing, in ink, and a hairline between
+     things, in grey. */
+  --border: var(--ink);
+  --line: #e0e0e0;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Helvetica, Arial, sans-serif;
+  --font-mono: "Fira Code", "SFMono-Regular", Consolas, "Liberation Mono",
+    monospace;
+
+  /* Tracking: Inter is set tighter the larger it gets. */
+  --tracking-display: -0.0275em;
+  --tracking-heading: -0.02em;
+  --tracking-body: -0.0125em;
+
+  --gutter: clamp(24px, 5vw, 80px);
+  --column: 1080px;
+}
+
+* {
+  border-radius: 0;
+}
+
+html,
+body {
+  overscroll-behavior: none;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--ink);
+  background: var(--paper);
+}
+
+#root {
+  min-height: 100vh;
+}

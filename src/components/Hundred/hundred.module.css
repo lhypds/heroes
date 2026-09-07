@@ -1,0 +1,24 @@
+.grid,
+.big {
+  --cell: 10px;
+  --gap: 2px;
+  display: grid;
+  grid-template-columns: repeat(10, var(--cell));
+  grid-auto-rows: var(--cell);
+  gap: var(--gap);
+  width: max-content;
+}
+
+/* The hero's copy of it, large enough to be the picture. */
+.big {
+  --cell: 20px;
+  --gap: 4px;
+}
+
+.on {
+  background: var(--ink);
+}
+
+.off {
+  background: var(--soft);
+}

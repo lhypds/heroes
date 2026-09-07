@@ -1,0 +1,311 @@
+{
+  "handle": "lhypds",
+  "name": "Heyang Liu",
+  "github": "https://github.com/lhypds",
+  "website": "https://gcc3.com",
+  "bio": {
+    "en": "Builds small software at gcc³: web apps, command-line tools, and things for smart glasses.",
+    "zh": "在 gcc³ 做小软件：网页应用、命令行工具，还有给智能眼镜做的东西。",
+    "ja": "gcc³ で小さなソフトウェアをつくる。ウェブアプリ、コマンドラインツール、スマートグラス向けのもの。",
+    "fr": "Construit de petits logiciels chez gcc³ : des apps web, des outils en ligne de commande, et des choses pour lunettes connectées.",
+    "es": "Construye software pequeño en gcc³: apps web, herramientas de línea de comandos y cosas para gafas inteligentes.",
+    "de": "Baut kleine Software bei gcc³: Web-Apps, Kommandozeilenwerkzeuge und Dinge für Smart Glasses."
+  },
+  "apps": [
+    {
+      "name": "Simple AI",
+      "description": {
+        "en": "One AI chat, in the browser and in the terminal.",
+        "zh": "一个 AI 聊天，在浏览器里，也在终端里。",
+        "ja": "ブラウザでもターミナルでも使える、ひとつの AI チャット。",
+        "fr": "Un seul chat IA, dans le navigateur et dans le terminal.",
+        "es": "Un solo chat de IA, en el navegador y en la terminal.",
+        "de": "Ein KI-Chat, im Browser und im Terminal."
+      },
+      "repo": "https://github.com/gcc3/simple-ai-chat",
+      "url": "https://simple-ai.io",
+      "language": "JavaScript",
+      "platform": "Web, CLI"
+    },
+    {
+      "name": "PSL",
+      "description": {
+        "en": "Prompt Script Language: AI instructions embedded in any language.",
+        "zh": "提示脚本语言：把 AI 指令嵌进任何语言写的文件。",
+        "ja": "Prompt Script Language。どの言語のファイルにも AI への指示を埋め込める。",
+        "fr": "Prompt Script Language : des instructions IA intégrées dans n'importe quel langage.",
+        "es": "Prompt Script Language: instrucciones de IA incrustadas en cualquier lenguaje.",
+        "de": "Prompt Script Language: KI-Anweisungen, eingebettet in jede Sprache."
+      },
+      "repo": "https://github.com/lhypds/psl",
+      "url": "https://gcc3.com/psl",
+      "language": "Go",
+      "platform": "Windows, macOS, Linux"
+    },
+    {
+      "name": "Pob",
+      "description": {
+        "en": "Perception & Operation Bridge: AI eyes and hands on the desktop.",
+        "zh": "感知与操作桥：让 AI 在桌面上看得见、动得了。",
+        "ja": "Perception & Operation Bridge。AI にデスクトップの目と手を与える。",
+        "fr": "Perception & Operation Bridge : des yeux et des mains pour l'IA sur le bureau.",
+        "es": "Perception & Operation Bridge: ojos y manos de la IA en el escritorio.",
+        "de": "Perception & Operation Bridge: Augen und Hände für die KI auf dem Desktop."
+      },
+      "repo": "https://github.com/lhypds/pob",
+      "url": "https://gcc3.com/pob",
+      "language": "Go",
+      "platform": "Windows, macOS, Linux"
+    },
+    {
+      "name": "Liveboard",
+      "description": {
+        "en": "A live dashboard for any spare screen.",
+        "zh": "把任何一块闲置屏幕变成实时看板。",
+        "ja": "余っている画面をライブダッシュボードに。",
+        "fr": "Un tableau de bord en direct pour n'importe quel écran libre.",
+        "es": "Un panel en vivo para cualquier pantalla libre.",
+        "de": "Ein Live-Dashboard für jeden freien Bildschirm."
+      },
+      "repo": "https://github.com/lhypds/liveboard",
+      "url": "https://liveboard.gcc3.com",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "lo",
+      "description": {
+        "en": "Where you are, right now: place, time, weather, news and map.",
+        "zh": "你此刻在哪里：地点、时间、天气、新闻和地图。",
+        "ja": "いま、あなたがいる場所。地名、時刻、天気、ニュース、地図。",
+        "fr": "Où vous êtes, maintenant : lieu, heure, météo, actualités et carte.",
+        "es": "Dónde estás, ahora mismo: lugar, hora, tiempo, noticias y mapa.",
+        "de": "Wo du gerade bist: Ort, Zeit, Wetter, Nachrichten und Karte."
+      },
+      "repo": "https://github.com/lhypds/lo",
+      "url": "https://lo.gcc3.com",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "lo-even",
+      "description": {
+        "en": "lo on Even G2 smart glasses: the dashboard as three pages on the lens.",
+        "zh": "Even G2 智能眼镜上的 lo：把看板变成镜片上的三页。",
+        "ja": "Even G2 スマートグラス版の lo。ダッシュボードをレンズ上の三ページに。",
+        "fr": "lo sur les lunettes Even G2 : le tableau de bord en trois pages sur le verre.",
+        "es": "lo en las gafas Even G2: el panel en tres páginas sobre la lente.",
+        "de": "lo auf der Even-G2-Brille: das Dashboard als drei Seiten im Glas."
+      },
+      "repo": "https://github.com/lhypds/lo-even",
+      "language": "TypeScript",
+      "platform": "Even G2"
+    },
+    {
+      "name": "sc-even",
+      "description": {
+        "en": "Simple AI on Even G2 smart glasses: speak, and the reply is on the lens.",
+        "zh": "Even G2 智能眼镜上的 Simple AI：说出来，回答就在镜片上。",
+        "ja": "Even G2 スマートグラス版の Simple AI。話しかければ、返事がレンズに。",
+        "fr": "Simple AI sur les lunettes Even G2 : parlez, la réponse s'affiche sur le verre.",
+        "es": "Simple AI en las gafas Even G2: habla, y la respuesta aparece en la lente.",
+        "de": "Simple AI auf der Even-G2-Brille: sprechen, und die Antwort steht im Glas."
+      },
+      "repo": "https://github.com/gcc3/sc-even",
+      "url": "https://hub.evenrealities.com/hub/com.gcc3.g2sc",
+      "language": "TypeScript",
+      "platform": "Even G2"
+    },
+    {
+      "name": "Stash",
+      "description": {
+        "en": "Keep the links, videos and notes you find, in a collection you can share.",
+        "zh": "收下你找到的链接、视频和笔记，放进可以分享的收藏。",
+        "ja": "見つけたリンク、動画、メモを、共有できるコレクションに。",
+        "fr": "Gardez les liens, vidéos et notes que vous trouvez, dans une collection à partager.",
+        "es": "Guarda los enlaces, vídeos y notas que encuentres en una colección para compartir.",
+        "de": "Links, Videos und Notizen aufheben, in einer Sammlung zum Teilen."
+      },
+      "repo": "https://github.com/lhypds/stash",
+      "url": "https://stash.gcc3.com",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Tikt",
+      "description": {
+        "en": "Record what happens in one press: a rope is a timeline, a knot is an event.",
+        "zh": "一按即记：一根绳是一条时间线，一个结是一件事。",
+        "ja": "ワンタップで記録。縄が時間軸、結び目が出来事。",
+        "fr": "Notez ce qui arrive d'une pression : une corde est une chronologie, un nœud un événement.",
+        "es": "Registra lo que pasa con una pulsación: una cuerda es una línea de tiempo, un nudo un evento.",
+        "de": "Was passiert, mit einem Druck festhalten: ein Seil ist eine Zeitleiste, ein Knoten ein Ereignis."
+      },
+      "repo": "https://github.com/lhypds/tikt",
+      "url": "https://tikt.gcc3.com",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Q",
+      "description": {
+        "en": "Surveys written and read with AI.",
+        "zh": "用 AI 来写、也用 AI 来读的问卷。",
+        "ja": "AI が書き、AI が読む、アンケート。",
+        "fr": "Des sondages écrits et lus avec l'IA.",
+        "es": "Encuestas escritas y leídas con IA.",
+        "de": "Umfragen, mit KI geschrieben und ausgewertet."
+      },
+      "repo": "https://github.com/lhypds/q",
+      "url": "https://q.gcc3.com",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Gift",
+      "description": {
+        "en": "A hooks server: something happens, a script runs.",
+        "zh": "一个钩子服务器：有事发生，脚本就跑。",
+        "ja": "フックサーバー。何かが起きたら、スクリプトが走る。",
+        "fr": "Un serveur de hooks : quelque chose se produit, un script s'exécute.",
+        "es": "Un servidor de hooks: algo ocurre, un script se ejecuta.",
+        "de": "Ein Hook-Server: etwas passiert, ein Skript läuft."
+      },
+      "repo": "https://github.com/lhypds/gift",
+      "url": "https://gcc3.com/gift",
+      "language": "JavaScript",
+      "platform": "macOS, Linux"
+    },
+    {
+      "name": "Timer",
+      "description": {
+        "en": "A timer: countdown, count to a time, and stopwatch.",
+        "zh": "计时器：倒计时、倒数到某个时刻、秒表。",
+        "ja": "タイマー。カウントダウン、指定時刻までのカウント、ストップウォッチ。",
+        "fr": "Un minuteur : compte à rebours, compte jusqu'à une heure, chronomètre.",
+        "es": "Un temporizador: cuenta atrás, cuenta hasta una hora y cronómetro.",
+        "de": "Ein Timer: Countdown, Zählen bis zu einer Uhrzeit und Stoppuhr."
+      },
+      "repo": "https://github.com/lhypds/timer",
+      "url": "https://timer.gcc3.com",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "tgen",
+      "description": {
+        "en": "Text generation functions online, and a way to write your own.",
+        "zh": "在线的文本生成函数，也能自己写。",
+        "ja": "オンラインのテキスト生成関数。自分の関数も作れる。",
+        "fr": "Des fonctions de génération de texte en ligne, et de quoi écrire les vôtres.",
+        "es": "Funciones de generación de texto en línea, y una forma de escribir las tuyas.",
+        "de": "Textgenerierungs-Funktionen online, und ein Weg, eigene zu schreiben."
+      },
+      "repo": "https://github.com/lhypds/tgen",
+      "url": "https://tgen.gcc3.com",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Timeline",
+      "description": {
+        "en": "A timeline app: one checkout, any number of timelines.",
+        "zh": "时间线应用：一份代码，任意多条时间线。",
+        "ja": "タイムラインアプリ。ひとつのチェックアウトで、いくつでも。",
+        "fr": "Une application de chronologies : une seule copie, autant de chronologies que vous voulez.",
+        "es": "Una app de líneas de tiempo: una sola copia, tantas líneas como quieras.",
+        "de": "Eine Zeitleisten-App: ein Checkout, beliebig viele Zeitleisten."
+      },
+      "repo": "https://github.com/gcc3/timeline",
+      "url": "https://timeline.gcc3.com",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Content Hub",
+      "description": {
+        "en": "A lightweight content hub: Markdown files, indexed as they are written.",
+        "zh": "轻量内容中心：写下 Markdown 文件，随写随索引。",
+        "ja": "軽量なコンテンツハブ。Markdown ファイルを書けば、そのまま索引に。",
+        "fr": "Un hub de contenu léger : des fichiers Markdown, indexés à mesure qu'ils sont écrits.",
+        "es": "Un hub de contenido ligero: archivos Markdown, indexados según se escriben.",
+        "de": "Ein leichter Content-Hub: Markdown-Dateien, indiziert, während sie geschrieben werden."
+      },
+      "repo": "https://github.com/gcc3/content-hub",
+      "url": "https://gcc3.com",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "tcopy",
+      "description": {
+        "en": "Copy text or files between any devices, fast.",
+        "zh": "在任意设备之间复制文字或文件，很快。",
+        "ja": "どんなデバイス間でも、テキストやファイルを速くコピー。",
+        "fr": "Copiez du texte ou des fichiers entre n'importe quels appareils, vite.",
+        "es": "Copia texto o archivos entre cualquier dispositivo, rápido.",
+        "de": "Text oder Dateien zwischen beliebigen Geräten kopieren, schnell."
+      },
+      "repo": "https://github.com/lhypds/tcopy",
+      "language": "JavaScript",
+      "platform": "macOS, Windows, Linux"
+    },
+    {
+      "name": "Window Color Rotator",
+      "description": {
+        "en": "A VS Code extension that gives each project's window its own colour.",
+        "zh": "VS Code 扩展：给每个项目的窗口一种自己的颜色。",
+        "ja": "プロジェクトごとにウィンドウの色を変える VS Code 拡張。",
+        "fr": "Une extension VS Code qui donne à la fenêtre de chaque projet sa propre couleur.",
+        "es": "Una extensión de VS Code que da a la ventana de cada proyecto su propio color.",
+        "de": "Eine VS-Code-Erweiterung, die jedem Projektfenster eine eigene Farbe gibt."
+      },
+      "repo": "https://github.com/lhypds/vscode-window-color-rotator",
+      "url": "https://marketplace.visualstudio.com/items?itemName=gcc3.window-color-rotator",
+      "language": "TypeScript",
+      "platform": "VS Code"
+    },
+    {
+      "name": ".note",
+      "description": {
+        "en": "A plain-text note format meant to be read as it is, and the tool for it.",
+        "zh": "一种直接就能读的纯文本笔记格式，以及配套的工具。",
+        "ja": "そのまま読めるプレーンテキストのノート形式と、そのためのツール。",
+        "fr": "Un format de notes en texte brut, fait pour être lu tel quel, et son outil.",
+        "es": "Un formato de notas en texto plano, hecho para leerse tal cual, y su herramienta.",
+        "de": "Ein Klartext-Notizformat, das man so liest, wie es ist, und das Werkzeug dazu."
+      },
+      "repo": "https://github.com/lhypds/.note",
+      "language": "Rust",
+      "platform": "macOS, Linux"
+    },
+    {
+      "name": "ft",
+      "description": {
+        "en": "Fetch text: the readable content of a web page, summarised and searched from the terminal.",
+        "zh": "抓取文本：网页里可读的内容，在终端里摘要、搜索。",
+        "ja": "fetch text。ウェブページの読める部分だけを、ターミナルで要約し、検索する。",
+        "fr": "Fetch text : le contenu lisible d'une page web, résumé et cherché depuis le terminal.",
+        "es": "Fetch text: el contenido legible de una página web, resumido y buscado desde la terminal.",
+        "de": "Fetch text: der lesbare Inhalt einer Webseite, im Terminal zusammengefasst und durchsucht."
+      },
+      "repo": "https://github.com/lhypds/ft",
+      "language": "Python",
+      "platform": "macOS, Linux"
+    },
+    {
+      "name": "yt",
+      "description": {
+        "en": "Transcribe and summarise videos, from YouTube or any file.",
+        "zh": "转写并总结视频，来自 YouTube 或任何文件。",
+        "ja": "YouTube でもファイルでも、動画を文字起こしして要約する。",
+        "fr": "Transcrivez et résumez des vidéos, depuis YouTube ou n'importe quel fichier.",
+        "es": "Transcribe y resume vídeos, de YouTube o de cualquier archivo.",
+        "de": "Videos transkribieren und zusammenfassen, von YouTube oder aus jeder Datei."
+      },
+      "repo": "https://github.com/lhypds/yt",
+      "language": "Python",
+      "platform": "macOS, Linux"
+    }
+  ]
+}
