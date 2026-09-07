@@ -33,12 +33,18 @@
       }
     ]
   },
+  "heroes": {
+    "none": "¡Todavía no hay ningún héroe de 100 aplicaciones!",
+    "some": "Héroes de 100 aplicaciones: {{names}}"
+  },
   "leads": {
     "title": "La lista",
     "count": "{{n}} de 100",
     "grid": "{{n}} de 100 aplicaciones",
     "open": "Abrir",
-    "source": "Código"
+    "source": "Código",
+    "show": "Mostrar las aplicaciones",
+    "hide": "Ocultar las aplicaciones"
   },
   "join": {
     "title": "Añádete",

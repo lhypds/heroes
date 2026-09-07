@@ -33,12 +33,18 @@
       }
     ]
   },
+  "heroes": {
+    "none": "There is no hero of 100 applications yet!",
+    "some": "Heroes of 100 applications: {{names}}"
+  },
   "leads": {
     "title": "The list",
     "count": "{{n}} of 100",
     "grid": "{{n}} of 100 applications",
     "open": "Open",
-    "source": "Source"
+    "source": "Source",
+    "show": "Show the applications",
+    "hide": "Hide the applications"
   },
   "join": {
     "title": "Add yourself",

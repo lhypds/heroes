@@ -128,6 +128,22 @@
   color: var(--muted);
 }
 
+/* The one line about the hundred, in the largest type below the wordmark. */
+.status {
+  padding: 44px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.statusLine {
+  margin: 0;
+  max-width: 20em;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: var(--tracking-display);
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
 /* Sections */
 .section {
   padding: 44px 0;
@@ -267,6 +283,7 @@
 /* Everything below the top bar keeps to one column; the bar itself stays
    with the window edges. */
 .hero,
+.status,
 .section,
 .footer {
   max-width: var(--column);
@@ -294,6 +311,10 @@
 
   .tagline {
     font-size: 20px;
+  }
+
+  .statusLine {
+    font-size: 28px;
   }
 
   /* Buttons at a shared width need more room than a phone has; below

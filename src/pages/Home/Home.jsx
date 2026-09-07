@@ -22,11 +22,20 @@ const EXAMPLE = `{
   ]
 }`;
 
+const HUNDRED = 100;
+
 export default function Home() {
   const { t, i18n } = useTranslation();
   const language = i18n.language;
   const rules = t("rules.items", { returnObjects: true });
   const steps = t("join.steps", { returnObjects: true });
+
+  // Whoever has reached the hundred. Nobody has, and the page says so in the
+  // largest type it has; the day someone does, the same line names them.
+  const heroes = LEADS.filter((lead) => lead.apps.length >= HUNDRED);
+  const heroNames = new Intl.ListFormat(language, { type: "conjunction" }).format(
+    heroes.map((lead) => lead.name),
+  );
 
   useEffect(() => {
     document.title = t("meta.title");
@@ -57,6 +66,12 @@ export default function Home() {
           <figcaption className={styles.caption}>{rules[0].name}</figcaption>
         </figure>
       </header>
+
+      <section className={styles.status} id="heroes">
+        <p className={styles.statusLine}>
+          {heroes.length > 0 ? t("heroes.some", { names: heroNames }) : t("heroes.none")}
+        </p>
+      </section>
 
       <section className={styles.section} id="rules">
         <h2 className={styles.label}>{t("rules.title")}</h2>

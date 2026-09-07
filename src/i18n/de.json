@@ -33,12 +33,18 @@
       }
     ]
   },
+  "heroes": {
+    "none": "Noch gibt es keinen Helden mit 100 Anwendungen!",
+    "some": "Helden mit 100 Anwendungen: {{names}}"
+  },
   "leads": {
     "title": "Die Liste",
     "count": "{{n}} von 100",
     "grid": "{{n}} von 100 Anwendungen",
     "open": "Öffnen",
-    "source": "Quellcode"
+    "source": "Quellcode",
+    "show": "Anwendungen anzeigen",
+    "hide": "Anwendungen ausblenden"
   },
   "join": {
     "title": "Trag dich ein",

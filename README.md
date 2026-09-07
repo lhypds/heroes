@@ -10,6 +10,12 @@ The bar to join is ten. Ten public, open-source applications put a name on the
 list; the count beside it runs to a hundred. Anyone can check an entry, and
 anyone can add one with a pull request.  
 
+A hundred makes a hero. Nobody has one yet, and the page says so in its
+largest type until somebody does — then the same line names them.  
+
+On the page each name is closed; press it and the applications unfold. A link
+to one person, `#handle`, arrives with them open.  
+
 The page reads in English, 中文, 日本語, Français, Español and Deutsch. The list
 itself is written in English.  
 

@@ -33,12 +33,18 @@
       }
     ]
   },
+  "heroes": {
+    "none": "Il n'y a pas encore de héros aux 100 applications !",
+    "some": "Héros aux 100 applications : {{names}}"
+  },
   "leads": {
     "title": "La liste",
     "count": "{{n}} sur 100",
     "grid": "{{n}} applications sur 100",
     "open": "Ouvrir",
-    "source": "Source"
+    "source": "Source",
+    "show": "Afficher les applications",
+    "hide": "Masquer les applications"
   },
   "join": {
     "title": "Ajoutez-vous",

@@ -23,9 +23,35 @@
   line-height: 1.2;
 }
 
-.name a {
+/* The name is the switch: press it and the applications unfold beneath. It is
+   set exactly as a heading would be, with the plus beside it as the one sign
+   that it does something. */
+.toggle {
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid transparent;
+  background: none;
+  font: inherit;
+  letter-spacing: inherit;
   color: inherit;
-  text-decoration: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.toggle:hover {
+  border-bottom-color: var(--border);
+}
+
+.toggle:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+.mark {
+  margin-left: 12px;
+  font-family: var(--font-mono);
+  font-weight: 400;
+  color: var(--muted);
 }
 
 .links {
