@@ -38,7 +38,7 @@ const FULL = `{
 // What the Copy prompt button copies: handed to an assistant along with a
 // GitHub profile, it comes back with the file. The rules and the fields say
 // the same as CONTRIBUTING.md, in the same order.
-export const PROMPT = `Write an entry for Tech Lead Heros, a public list of programmers who have built a hundred applications, every one of them open source: ${REPO}
+export const PROMPT = `Write an entry for Code Heros, a public list of programmers who have built a hundred applications, every one of them open source: ${REPO}
 
 The person: https://github.com/<handle>
 Replace <handle> with their GitHub username. If it still says <handle>, ask for it before doing anything else.

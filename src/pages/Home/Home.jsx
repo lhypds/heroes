@@ -57,7 +57,7 @@ export default function Home() {
 
       <header className={styles.hero}>
         <div className={styles.heroText}>
-          <h1 className={styles.wordmark}>Tech Lead Heros</h1>
+          <h1 className={styles.wordmark}>{t("hero.name")}</h1>
           <h2 className={styles.tagline}>{t("hero.tagline")}</h2>
           <p className={styles.lede}>{t("hero.lede")}</p>
           <div className={styles.actions}>
@@ -122,6 +122,7 @@ export default function Home() {
               ))}
             </ol>
             <p className={styles.note}>{t("join.language")}</p>
+            <p className={styles.note}>{t("join.collected")}</p>
             <div className={styles.actions}>
               <a className={styles.secondary} href={GUIDE} target="_blank" rel="noopener">{t("join.guide")}</a>
             </div>

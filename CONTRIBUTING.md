@@ -12,6 +12,11 @@ Adding yourself
 3. Run `npm run check`. It says what is missing, if anything.  
 4. Open a pull request.  
 
+Not every entry arrives this way. The people who keep the site also collect
+entries themselves, for programmers whose work is public but who have not sent
+one. Those entries are checked and corrected the same way as any other; if one
+names you and you want it changed, open a pull request.  
+
 The file looks like this:  
 
 ```json

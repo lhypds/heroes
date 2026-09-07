@@ -1,10 +1,11 @@
 {
   "meta": {
-    "title": "Tech Lead Heros — the programmers who build a hundred applications"
+    "title": "Code Heros — the programmers who build a hundred applications"
   },
   "hero": {
+    "name": "Code Heros",
     "tagline": "The programmers who build a hundred applications.",
-    "lede": "Tech Leads is a public list of programmers who have built a hundred applications, every one of them released with its source open for anyone to read. The bar to join is ten. Ten public, open-source applications put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
+    "lede": "Code Heros is a public list of programmers who have built a hundred applications, every one of them released with its source open for anyone to read. The bar to join is ten. Ten public, open-source applications put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
     "join": "Be A Hero",
     "source": "Source on GitHub"
   },
@@ -64,6 +65,7 @@
       }
     ],
     "language": "The list is written in English. Where a description carries a translation, the page shows it in the reader's language.",
+    "collected": "Not every entry is written by the person it names. The people who keep the site also collect entries themselves, and those are checked and corrected the same way as any other.",
     "guide": "Read the guide",
     "prompt": "Or copy the prompt, give it to an AI assistant with a GitHub profile, and it writes the file.",
     "copy": "Copy prompt",

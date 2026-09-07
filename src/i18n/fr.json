@@ -1,10 +1,11 @@
 {
   "meta": {
-    "title": "Tech Lead Heros — les programmeurs qui construisent cent applications"
+    "title": "Héros du code — les programmeurs qui construisent cent applications"
   },
   "hero": {
+    "name": "Héros du code",
     "tagline": "Les programmeurs qui construisent cent applications.",
-    "lede": "Tech Leads est une liste publique de programmeurs qui ont construit cent applications, chacune publiée avec son code source ouvert à tous. Le seuil d'entrée est de dix. Dix applications publiques et open source inscrivent un nom sur la liste ; le compte à côté va jusqu'à cent. Chacun peut vérifier une entrée, et chacun peut en ajouter une par pull request.",
+    "lede": "Héros du code est une liste publique de programmeurs qui ont construit cent applications, chacune publiée avec son code source ouvert à tous. Le seuil d'entrée est de dix. Dix applications publiques et open source inscrivent un nom sur la liste ; le compte à côté va jusqu'à cent. Chacun peut vérifier une entrée, et chacun peut en ajouter une par pull request.",
     "join": "Devenez un héros",
     "source": "Source sur GitHub"
   },
@@ -64,6 +65,7 @@
       }
     ],
     "language": "La liste est écrite en anglais. Quand une description porte une traduction, la page l'affiche dans la langue du lecteur.",
+    "collected": "Toutes les entrées ne sont pas écrites par la personne qu'elles nomment. Ceux qui tiennent le site en rassemblent aussi eux-mêmes, et celles-ci se vérifient et se corrigent comme les autres.",
     "guide": "Lire le guide",
     "prompt": "Ou copiez le prompt, donnez-le à un assistant IA avec un profil GitHub, et il écrit le fichier.",
     "copy": "Copier le prompt",

@@ -1,10 +1,11 @@
 {
   "meta": {
-    "title": "Tech Lead Heros — die Programmierer, die hundert Anwendungen bauen"
+    "title": "Code-Helden — die Programmierer, die hundert Anwendungen bauen"
   },
   "hero": {
+    "name": "Code-Helden",
     "tagline": "Die Programmierer, die hundert Anwendungen bauen.",
-    "lede": "Tech Leads ist eine öffentliche Liste von Programmierern, die hundert Anwendungen gebaut haben, jede davon veröffentlicht und mit offenem Quellcode, den jeder lesen kann. Die Hürde zum Einstieg liegt bei zehn. Zehn öffentliche, quelloffene Anwendungen bringen einen Namen auf die Liste; der Zähler daneben läuft bis hundert. Jeder kann einen Eintrag prüfen, und jeder kann per Pull Request einen hinzufügen.",
+    "lede": "Code-Helden ist eine öffentliche Liste von Programmierern, die hundert Anwendungen gebaut haben, jede davon veröffentlicht und mit offenem Quellcode, den jeder lesen kann. Die Hürde zum Einstieg liegt bei zehn. Zehn öffentliche, quelloffene Anwendungen bringen einen Namen auf die Liste; der Zähler daneben läuft bis hundert. Jeder kann einen Eintrag prüfen, und jeder kann per Pull Request einen hinzufügen.",
     "join": "Werde ein Held",
     "source": "Quellcode auf GitHub"
   },
@@ -64,6 +65,7 @@
       }
     ],
     "language": "Die Liste ist auf Englisch geschrieben. Trägt eine Beschreibung eine Übersetzung, zeigt die Seite sie in der Sprache des Lesers.",
+    "collected": "Nicht jeder Eintrag stammt von der Person, die er nennt. Wer die Seite betreut, sammelt auch selbst Einträge, und die werden genauso geprüft und korrigiert wie alle anderen.",
     "guide": "Anleitung lesen",
     "prompt": "Oder kopiere den Prompt, gib ihn zusammen mit einem GitHub-Profil einem KI-Assistenten, und er schreibt die Datei.",
     "copy": "Prompt kopieren",
