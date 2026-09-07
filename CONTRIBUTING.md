@@ -7,7 +7,7 @@ Adding yourself
 ---------------
 
 1. Fork the repository.  
-2. Add one file, `data/leads/<handle>.json`, where `<handle>` is your GitHub
+2. Add one file, `data/heros/<handle>.json`, where `<handle>` is your GitHub
    username in lowercase.  
 3. Run `npm run check`. It says what is missing, if anything.  
 4. Open a pull request.  
@@ -70,21 +70,19 @@ on.
 What counts
 -----------
 
-It does not have to be an application. A web app, a desktop or mobile app, a
-command-line tool, an extension, a bot, a library, a framework: all of them
-count, on three conditions.  
+Each application in an entry is one repository, and there are two rules.  
 
-1. It is code. A repository of prose, data or configuration is not.  
-2. There is enough of it to be a real piece of work. A snippet, a single
-   script or a template is not.  
-3. Anyone can check that it works: open it at its address, install it from a
-   registry or a store, or clone the repository, build it and run it.  
+1. It is a public repository of your own: anyone can open it, read it and
+   clone it, and you created it. A fork of someone else's repository is theirs
+   and does not count, and neither does a mirror.  
+2. It is real code: ten commits or more, and more than a hundred lines of code
+   in a programming language. A repository that is only a README, or only
+   prose, data or configuration, does not count. Stars are not asked for.  
 
-It has to be public — anyone can open, install or run it — and its source has
-to be in a public repository that anyone can read.  
-
-Forks of other people's work do not count. Neither does a repository that is
-only a mirror of someone else's.  
+It does not have to be an application. A web app, a command-line tool, an
+extension, a bot, a library, a framework: all of them count the same, as long
+as the repository passes both rules. A repository short of either is left out;
+it does not count toward the ten to join or the hundred.  
 
 Every application in an entry is the author's own. Someone else's application
 belongs in that person's entry.  
@@ -93,7 +91,7 @@ belongs in that person's entry.
 The check
 ---------
 
-`npm run check` reads every file under `data/leads/`:  
+`npm run check` reads every file under `data/heros/`:  
 
 - the file name and `handle` agree  
 - `name` and `github` are there  
@@ -105,8 +103,9 @@ The check
 With `--online` it also asks each `repo` whether it answers, and mentions any
 `url`, `github` or `website` that does not. The pull request check runs online.  
 
-The rest — whether it is code and enough of it, whether it works, whether it
-is really yours — is read by a person.  
+The rest — whether each repository is really code, with ten commits and more
+than a hundred lines, and whether it is really yours and not a fork — is read
+by a person.  
 
 
 Translations

@@ -5,7 +5,7 @@
   "hero": {
     "name": "Héros du code",
     "tagline": "Les programmeurs qui construisent cent applications.",
-    "lede": "Héros du code est une liste publique de programmeurs qui ont construit cent applications, chacune publiée avec son code source ouvert à tous. Le seuil d'entrée est de dix. Dix applications publiques et open source inscrivent un nom sur la liste ; le compte à côté va jusqu'à cent. Chacun peut vérifier une entrée, et chacun peut en ajouter une par pull request.",
+    "lede": "Héros du code est une liste publique de programmeurs qui ont cent dépôts publics créés par eux-mêmes, chacun fait de vrai code. Le seuil d'entrée est de dix. Dix dépôts publics inscrivent un nom sur la liste ; le compte à côté va jusqu'à cent. Chacun peut vérifier une entrée, et chacun peut en ajouter une par pull request.",
     "join": "Devenez un héros",
     "source": "Source sur GitHub"
   },
@@ -13,24 +13,12 @@
     "title": "Les règles",
     "items": [
       {
-        "name": "Dix pour entrer, cent pour arriver",
-        "body": "Dix applications inscrivent un nom sur la liste. Les cent cases à côté se remplissent une à une."
+        "name": "Cent dépôts publics à soi",
+        "body": "Public : n'importe qui peut ouvrir, lire et cloner le dépôt. À soi : c'est vous qui l'avez créé. Un fork du dépôt de quelqu'un d'autre est le sien, pas le vôtre, et ne compte pas."
       },
       {
-        "name": "Publique",
-        "body": "Chaque application peut être ouverte, installée ou lancée par n'importe qui : un site à une adresse, un paquet sur un registre, une version à télécharger, une extension sur une place de marché, une app dans un store."
-      },
-      {
-        "name": "Open source",
-        "body": "Le code source de chaque application est dans un dépôt public que n'importe qui peut lire, cloner et compiler."
-      },
-      {
-        "name": "Du code, et assez de code",
-        "body": "Ce n'est pas forcément une application. Une bibliothèque, un framework, un outil, un bot comptent tous, à trois conditions : c'est du code, il y en a assez pour faire une vraie œuvre, et n'importe qui peut vérifier que ça marche, en l'ouvrant, en l'installant, ou en le compilant et le lançant. Un extrait, un modèle, une page de configuration ou un fork du travail d'autrui ne comptent pas."
-      },
-      {
-        "name": "Vérifiable",
-        "body": "Une entrée est un fichier de ce dépôt : un nom, quelques liens, et la liste des applications. Chacun peut la confronter aux dépôts qu'elle désigne, et chacun peut la corriger par pull request."
+        "name": "Chacun fait de vrai code",
+        "body": "Dix commits ou plus, et plus de cent lignes de code dans un langage de programmation. Un dépôt qui n'est qu'un README, ou seulement de la prose, des données ou de la configuration, ne compte pas et reste hors des cent. Les étoiles ne sont pas demandées."
       }
     ]
   },
@@ -39,7 +27,7 @@
     "none": "Il n'y a pas encore de héros aux 100 applications !"
   },
   "leads": {
-    "title": "Les autres programmeurs en route vers le statut de héros",
+    "title": "Les autres programmeurs de génie",
     "count": "{{n}} sur 100",
     "grid": "{{n}} applications sur 100",
     "open": "Ouvrir",
@@ -57,7 +45,7 @@
       },
       {
         "name": "Un fichier",
-        "body": "Ajoutez data/leads/<handle>.json : votre nom, vos liens, et au moins dix applications, chacune avec son dépôt public."
+        "body": "Ajoutez data/heros/<handle>.json : votre nom, vos liens, et au moins dix applications, chacune avec son dépôt public."
       },
       {
         "name": "Pull request",

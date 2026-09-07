@@ -5,7 +5,7 @@
   "hero": {
     "name": "Héroes del código",
     "tagline": "Los programadores que construyen cien aplicaciones.",
-    "lede": "Héroes del código es una lista pública de programadores que han construido cien aplicaciones, cada una publicada con su código fuente abierto para que cualquiera lo lea. El listón para entrar es diez. Diez aplicaciones públicas y de código abierto ponen un nombre en la lista; la cuenta de al lado llega hasta cien. Cualquiera puede comprobar una entrada, y cualquiera puede añadir una con un pull request.",
+    "lede": "Héroes del código es una lista pública de programadores que tienen cien repositorios públicos creados por ellos mismos, cada uno hecho de código de verdad. El listón para entrar es diez. Diez repositorios públicos ponen un nombre en la lista; la cuenta de al lado llega hasta cien. Cualquiera puede comprobar una entrada, y cualquiera puede añadir una con un pull request.",
     "join": "Sé un héroe",
     "source": "Código en GitHub"
   },
@@ -13,24 +13,12 @@
     "title": "Las reglas",
     "items": [
       {
-        "name": "Diez para entrar, cien para llegar",
-        "body": "Diez aplicaciones ponen un nombre en la lista. Las cien casillas de al lado se llenan de una en una."
+        "name": "Cien repositorios públicos propios",
+        "body": "Público: cualquiera puede abrir, leer y clonar el repositorio. Propio: lo creaste tú. Un fork del repositorio de otra persona es suyo, no tuyo, y no cuenta."
       },
       {
-        "name": "Pública",
-        "body": "Cualquiera puede abrir, instalar o ejecutar cada aplicación: un sitio con dirección, un paquete en un registro, una versión que se descarga, una extensión en un marketplace, una app en una tienda."
-      },
-      {
-        "name": "Código abierto",
-        "body": "El código fuente de cada aplicación está en un repositorio público que cualquiera puede leer, clonar y compilar."
-      },
-      {
-        "name": "Código, y suficiente código",
-        "body": "No tiene por qué ser una aplicación. Una biblioteca, un framework, una herramienta, un bot cuentan todos, con tres condiciones: es código, hay suficiente como para ser una obra de verdad, y cualquiera puede comprobar que funciona, abriéndolo, instalándolo, o compilándolo y ejecutándolo. Un fragmento, una plantilla, una página de configuración o un fork del trabajo de otros no cuentan."
-      },
-      {
-        "name": "Comprobable",
-        "body": "Una entrada es un archivo de este repositorio: un nombre, unos enlaces y la lista de aplicaciones. Cualquiera puede contrastarla con los repositorios que señala, y cualquiera puede corregirla con un pull request."
+        "name": "Cada uno, código de verdad",
+        "body": "Diez commits o más, y más de cien líneas de código en un lenguaje de programación. Un repositorio que solo es un README, o solo prosa, datos o configuración, no cuenta y queda fuera de los cien. No se piden estrellas."
       }
     ]
   },
@@ -39,7 +27,7 @@
     "none": "¡Todavía no hay ningún héroe de 100 aplicaciones!"
   },
   "leads": {
-    "title": "Otros programadores en camino a ser héroes",
+    "title": "Otros programadores geniales",
     "count": "{{n}} de 100",
     "grid": "{{n}} de 100 aplicaciones",
     "open": "Abrir",
@@ -57,7 +45,7 @@
       },
       {
         "name": "Un archivo",
-        "body": "Añade data/leads/<handle>.json: tu nombre, tus enlaces y al menos diez aplicaciones, cada una con su repositorio público."
+        "body": "Añade data/heros/<handle>.json: tu nombre, tus enlaces y al menos diez aplicaciones, cada una con su repositorio público."
       },
       {
         "name": "Pull request",

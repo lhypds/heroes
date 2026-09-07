@@ -5,7 +5,7 @@
   "hero": {
     "name": "Code Heros",
     "tagline": "The programmers who build a hundred applications.",
-    "lede": "Code Heros is a public list of programmers who have built a hundred applications, every one of them released with its source open for anyone to read. The bar to join is ten. Ten public, open-source applications put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
+    "lede": "Code Heros is a public list of programmers who have a hundred public repositories of their own, every one of them real code. The bar to join is ten. Ten public repositories put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
     "join": "Be A Hero",
     "source": "Source on GitHub"
   },
@@ -13,24 +13,12 @@
     "title": "The rules",
     "items": [
       {
-        "name": "Ten to join, a hundred to reach",
-        "body": "Ten applications put a name on the list. The hundred squares beside it fill in one at a time."
+        "name": "A hundred public repositories of your own",
+        "body": "Public: anyone can open, read and clone the repository. Your own: you created it. A fork of someone else's repository is theirs, not yours, and does not count."
       },
       {
-        "name": "Public",
-        "body": "Every application can be opened, installed or run by anyone: a site at an address, a package on a registry, a release that downloads, an extension on a marketplace, an app in a store."
-      },
-      {
-        "name": "Open source",
-        "body": "Every application's source is in a public repository that anyone can read, clone and build."
-      },
-      {
-        "name": "Code, and enough of it",
-        "body": "It does not have to be an application. A library, a framework, a tool, a bot all count, on three conditions: it is code, there is enough of it to be a real piece of work, and anyone can check that it works, by opening it, installing it, or building and running it. A snippet, a template, a page of configuration or a fork of someone else's work does not count."
-      },
-      {
-        "name": "Checkable",
-        "body": "An entry is one file in this repository: a name, a few links, and the list of applications. Anyone can check it against the repositories it points at, and anyone can correct it with a pull request."
+        "name": "Each one real code",
+        "body": "Ten commits or more, and more than a hundred lines of code in a programming language. A repository that is only a README, or only prose, data or configuration, does not count, and is left out of the hundred. Stars are not asked for."
       }
     ]
   },
@@ -39,7 +27,7 @@
     "none": "There is no hero of 100 applications yet!"
   },
   "leads": {
-    "title": "Other programmers working to become heroes",
+    "title": "Other genius programmers",
     "count": "{{n}} of 100",
     "grid": "{{n}} of 100 applications",
     "open": "Open",
@@ -57,7 +45,7 @@
       },
       {
         "name": "One file",
-        "body": "Add data/leads/<handle>.json: your name, your links, and at least ten applications, each with its public repository."
+        "body": "Add data/heros/<handle>.json: your name, your links, and at least ten applications, each with its public repository."
       },
       {
         "name": "Pull request",

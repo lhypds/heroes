@@ -38,14 +38,14 @@ const FULL = `{
 // What the Copy prompt button copies: handed to an assistant along with a
 // GitHub profile, it comes back with the file. The rules and the fields say
 // the same as CONTRIBUTING.md, in the same order.
-export const PROMPT = `Write an entry for Code Heros, a public list of programmers who have built a hundred applications, every one of them open source: ${REPO}
+export const PROMPT = `Write an entry for Code Heros, a public list of programmers who have a hundred public repositories of their own, every one of them real code: ${REPO}
 
 The person: https://github.com/<handle>
 Replace <handle> with their GitHub username. If it still says <handle>, ask for it before doing anything else.
 
-Read their profile and their public repositories, and pick the ones that count. Something counts on three conditions: it is code, not prose, data or configuration; there is enough of it to be a real piece of work, not a snippet, a single script or a template; and anyone can check that it works, by opening it at its address, installing it from a registry or a store, or cloning the repository, building it and running it. It has to be public, and its source has to be in a public repository that anyone can read. Forks and mirrors of other people's work do not count, and neither does anyone else's application.
+Read their profile and their public repositories, and pick the ones that count. There are two rules. One: it is a public repository of their own, one they created, that anyone can open, read and clone. Forks and mirrors of other people's work do not count, and neither does anyone else's repository. Two: it is real code: ten commits or more, and more than a hundred lines of code in a programming language. A repository that is only a README, or only prose, data or configuration, does not count. Stars do not matter. A repository short of either rule is left out.
 
-Answer with one JSON file, data/leads/<handle>.json, and nothing else. It looks like this:
+Answer with one JSON file, data/heros/<handle>.json, and nothing else. It looks like this:
 
 ${FULL}
 

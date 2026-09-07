@@ -177,7 +177,7 @@
 }
 
 /* Rules */
-/* Five rules, five columns at the full width; fewer as the window narrows. */
+/* Two rules, two columns at the full width; one as the window narrows. */
 .rules {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));

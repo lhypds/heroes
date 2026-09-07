@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Reads every entry under data/leads/ and says what is missing. Run it with
+// Reads every entry under data/heros/ and says what is missing. Run it with
 // --online to also ask each link whether it answers; the pull request check
 // does, so an entry that points at a private repository is caught before a
 // person reads it.
@@ -10,7 +10,7 @@ import { readdirSync, readFileSync } from "node:fs";
 import { basename, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const DIR = fileURLToPath(new URL("../data/leads/", import.meta.url));
+const DIR = fileURLToPath(new URL("../data/heros/", import.meta.url));
 // Ten to join; there is no ceiling. The count beside a name keeps climbing
 // past a hundred, and the page unfolds the first hundred of the list.
 const MIN_APPS = 10;
@@ -149,14 +149,14 @@ const main = async () => {
     .filter((name) => name.endsWith(".json"))
     .sort();
   if (files.length === 0) {
-    console.error("no entries under data/leads/");
+    console.error("no entries under data/heros/");
     process.exit(1);
   }
 
   let apps = 0;
   const links = [];
   for (const name of files) {
-    const file = `data/leads/${name}`;
+    const file = `data/heros/${name}`;
     let lead;
     try {
       lead = JSON.parse(readFileSync(join(DIR, name), "utf8"));
