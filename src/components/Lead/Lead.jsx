@@ -1,13 +1,17 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import Hundred from "../Hundred";
+import { HUNDRED } from "../../constants";
 import { pick, host } from "@utils/leads";
 import styles from "./lead.module.css";
 
 // One person on the list: who they are and how far along the hundred they
-// are, always; and every application, one row each, with where it opens and
+// are, always; and their applications, one row each, with where it opens and
 // where its source is, once their name is pressed. A link straight to a
 // person — #handle — arrives with them already open.
+//
+// The count beside the name is the whole list, and may pass a hundred; the
+// rows that unfold are the first hundred of it, the entry's most important.
 //
 // With `avatar`, their GitHub picture beside the name, read from the
 // address GitHub gives every profile picture; the heroes are shown with
@@ -74,7 +78,7 @@ export default function Lead({ lead, avatar = false }) {
 
       {open && (
         <ol className={styles.apps} id={listId}>
-          {apps.map((app, i) => (
+          {apps.slice(0, HUNDRED).map((app, i) => (
             <li className={styles.app} key={app.repo}>
               <span className={styles.index}>{String(i + 1).padStart(2, "0")}</span>
               <div className={styles.text}>

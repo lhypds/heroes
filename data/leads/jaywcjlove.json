@@ -446,6 +446,20 @@
       "platform": "Android, iOS"
     },
     {
+      "name": "amac",
+      "description": {
+        "en": "A macOS app for browsing the Awesome Mac list, built with React Native.",
+        "zh": "浏览 Awesome Mac 列表的 macOS 应用，用 React Native 做的。",
+        "ja": "Awesome Mac のリストを眺める macOS アプリ。React Native 製。",
+        "fr": "Une app macOS pour parcourir la liste Awesome Mac, faite avec React Native.",
+        "es": "Una app de macOS para recorrer la lista Awesome Mac, hecha con React Native.",
+        "de": "Eine macOS-App zum Durchstöbern der Awesome-Mac-Liste, gebaut mit React Native."
+      },
+      "repo": "https://github.com/jaywcjlove/amac",
+      "language": "JavaScript",
+      "platform": "macOS"
+    },
+    {
       "name": "sgo",
       "description": {
         "en": "A static server for a directory, made for quick prototypes.",
@@ -775,6 +789,21 @@
       "platform": "macOS"
     },
     {
+      "name": "react-native-uiw",
+      "description": {
+        "en": "A UI component library for React Native, on Android and iOS.",
+        "zh": "React Native 的 UI 组件库，Android 和 iOS 都能用。",
+        "ja": "React Native 向けの UI コンポーネントライブラリ。Android と iOS に対応。",
+        "fr": "Une bibliothèque de composants d'interface pour React Native, sur Android et iOS.",
+        "es": "Una biblioteca de componentes de interfaz para React Native, en Android e iOS.",
+        "de": "Eine UI-Komponentenbibliothek für React Native, auf Android und iOS."
+      },
+      "repo": "https://github.com/uiwjs/react-native-uiw",
+      "url": "https://uimjs.github.io",
+      "language": "TypeScript",
+      "platform": "Android, iOS"
+    },
+    {
       "name": "changelog-generator",
       "description": {
         "en": "A GitHub Action that writes a changelog from the commits between two branches.",
@@ -1027,21 +1056,6 @@
       "platform": "GitHub Actions"
     },
     {
-      "name": "rehype-rewrite",
-      "description": {
-        "en": "Rewrite HTML elements in a rehype pipeline.",
-        "zh": "在 rehype 流程里改写 HTML 元素。",
-        "ja": "rehype のパイプラインで HTML 要素を書き換える。",
-        "fr": "Réécrire des éléments HTML dans une chaîne rehype.",
-        "es": "Reescribir elementos HTML en una cadena de rehype.",
-        "de": "HTML-Elemente in einer rehype-Pipeline umschreiben."
-      },
-      "repo": "https://github.com/jaywcjlove/rehype-rewrite",
-      "url": "https://jaywcjlove.github.io/rehype-rewrite",
-      "language": "TypeScript",
-      "platform": "Node.js"
-    },
-    {
       "name": "SFSymbolsPicker",
       "description": {
         "en": "A SwiftUI view for picking SF Symbols.",
@@ -1054,21 +1068,6 @@
       "repo": "https://github.com/jaywcjlove/SFSymbolsPicker",
       "language": "Swift",
       "platform": "macOS, iOS"
-    },
-    {
-      "name": "react-run-web",
-      "description": {
-        "en": "An online code editor for quick web experiments.",
-        "zh": "在线代码编辑器，用来快速做 Web 实验。",
-        "ja": "Web の実験をすぐ試せるオンラインコードエディタ。",
-        "fr": "Un éditeur de code en ligne pour des essais web rapides.",
-        "es": "Un editor de código en línea para experimentos web rápidos.",
-        "de": "Ein Online-Code-Editor für schnelle Web-Experimente."
-      },
-      "repo": "https://github.com/uiwjs/react-run-web",
-      "url": "https://uiwjs.github.io/react-run-web/",
-      "language": "TypeScript",
-      "platform": "Web"
     },
     {
       "name": "console-emojis",
@@ -1161,21 +1160,6 @@
       "platform": "Node.js"
     },
     {
-      "name": "parcel-plugin-markdown-string",
-      "description": {
-        "en": "A Parcel plugin that imports Markdown as a string or HTML.",
-        "zh": "Parcel 插件：把 Markdown 作为字符串或 HTML 导入。",
-        "ja": "Markdown を文字列や HTML として読み込む Parcel プラグイン。",
-        "fr": "Un plugin Parcel qui importe du Markdown en chaîne ou en HTML.",
-        "es": "Un plugin de Parcel que importa Markdown como cadena o HTML.",
-        "de": "Ein Parcel-Plugin, das Markdown als String oder HTML importiert."
-      },
-      "repo": "https://github.com/jaywcjlove/parcel-plugin-markdown-string",
-      "url": "https://jaywcjlove.github.io/parcel-plugin-markdown-string",
-      "language": "TypeScript",
-      "platform": "Node.js"
-    },
-    {
       "name": "swift-check-update",
       "description": {
         "en": "Check the App Store for a newer version of your app.",
@@ -1202,21 +1186,6 @@
       "repo": "https://github.com/jaywcjlove/HTMLToMarkdown",
       "language": "Swift",
       "platform": "macOS, iOS"
-    },
-    {
-      "name": "copy-to-clipboard",
-      "description": {
-        "en": "Copy text to the clipboard in modern browsers.",
-        "zh": "在现代浏览器里把文本复制到剪贴板。",
-        "ja": "モダンブラウザでテキストをクリップボードにコピーする。",
-        "fr": "Copier du texte dans le presse-papiers des navigateurs modernes.",
-        "es": "Copiar texto al portapapeles en navegadores modernos.",
-        "de": "Text in modernen Browsern in die Zwischenablage kopieren."
-      },
-      "repo": "https://github.com/uiwjs/copy-to-clipboard",
-      "url": "https://uiwjs.github.io/copy-to-clipboard",
-      "language": "JavaScript",
-      "platform": "Web"
     },
     {
       "name": "react-mac-keyboard",
@@ -1247,21 +1216,6 @@
       "url": "https://jaywcjlove.github.io/dark-mode",
       "language": "JavaScript",
       "platform": "Web"
-    },
-    {
-      "name": "next-remove-imports",
-      "description": {
-        "en": "Strip style imports from packages in a Next.js build.",
-        "zh": "在 Next.js 构建里移除包中的样式导入。",
-        "ja": "Next.js のビルドでパッケージのスタイル読み込みを取り除く。",
-        "fr": "Retirer les imports de styles des paquets dans un build Next.js.",
-        "es": "Quitar los imports de estilos de los paquetes en una compilación de Next.js.",
-        "de": "Style-Imports aus Paketen in einem Next.js-Build entfernen."
-      },
-      "repo": "https://github.com/uiwjs/next-remove-imports",
-      "url": "https://uiwjs.github.io/next-remove-imports",
-      "language": "JavaScript",
-      "platform": "Node.js"
     },
     {
       "name": "keycode-info",
@@ -1354,6 +1308,20 @@
       "platform": "Web"
     },
     {
+      "name": "MyAppListKit",
+      "description": {
+        "en": "A SwiftUI view that lists the author's other apps inside one of them.",
+        "zh": "一个 SwiftUI 视图，在一个应用里列出作者的其他应用。",
+        "ja": "アプリの中に作者のほかのアプリを並べる SwiftUI ビュー。",
+        "fr": "Une vue SwiftUI qui liste les autres apps de l'auteur dans l'une d'elles.",
+        "es": "Una vista SwiftUI que lista las otras apps del autor dentro de una de ellas.",
+        "de": "Eine SwiftUI-Ansicht, die die anderen Apps des Autors in einer davon auflistet."
+      },
+      "repo": "https://github.com/jaywcjlove/MyAppListKit",
+      "language": "Swift",
+      "platform": "macOS, iOS"
+    },
+    {
       "name": "bannerjs",
       "description": {
         "en": "A comment banner for a build, from package.json.",
@@ -1365,21 +1333,6 @@
       },
       "repo": "https://github.com/jaywcjlove/bannerjs",
       "url": "https://jaywcjlove.github.io/bannerjs",
-      "language": "TypeScript",
-      "platform": "Node.js"
-    },
-    {
-      "name": "image2uri",
-      "description": {
-        "en": "Convert an image file to a data URI.",
-        "zh": "把图片文件转成 data URI。",
-        "ja": "画像ファイルを data URI に変換する。",
-        "fr": "Convertir un fichier image en data URI.",
-        "es": "Convertir un archivo de imagen en un data URI.",
-        "de": "Eine Bilddatei in eine Data-URI umwandeln."
-      },
-      "repo": "https://github.com/jaywcjlove/image2uri",
-      "url": "https://jaywcjlove.github.io/image2uri/",
       "language": "TypeScript",
       "platform": "Node.js"
     },
@@ -1443,21 +1396,6 @@
       "platform": "Web"
     },
     {
-      "name": "vscode-uiw",
-      "description": {
-        "en": "Preview uiw documentation inside VS Code.",
-        "zh": "在 VS Code 里预览 uiw 文档。",
-        "ja": "VS Code の中で uiw のドキュメントをプレビューする。",
-        "fr": "Prévisualiser la documentation uiw dans VS Code.",
-        "es": "Previsualizar la documentación de uiw dentro de VS Code.",
-        "de": "Die uiw-Dokumentation in VS Code ansehen."
-      },
-      "repo": "https://github.com/uiwjs/vscode-uiw",
-      "url": "https://marketplace.visualstudio.com/items?itemName=uiw.uiw",
-      "language": "TypeScript",
-      "platform": "VS Code"
-    },
-    {
       "name": "Prettier",
       "description": {
         "en": "Format code in Swift with Prettier, on JavaScriptCore.",
@@ -1486,6 +1424,214 @@
       "platform": "macOS, iOS"
     },
     {
+      "name": "github-action-read-file",
+      "description": {
+        "en": "A GitHub Action that reads a file and hands its contents to the next step.",
+        "zh": "一个 GitHub Action，读取文件并把内容交给下一步。",
+        "ja": "ファイルを読み、その内容を次のステップに渡す GitHub Action。",
+        "fr": "Une GitHub Action qui lit un fichier et passe son contenu à l'étape suivante.",
+        "es": "Una GitHub Action que lee un archivo y pasa su contenido al paso siguiente.",
+        "de": "Eine GitHub Action, die eine Datei liest und ihren Inhalt an den nächsten Schritt gibt."
+      },
+      "repo": "https://github.com/jaywcjlove/github-action-read-file",
+      "url": "https://jaywcjlove.github.io/github-action-read-file",
+      "language": "TypeScript",
+      "platform": "GitHub Actions"
+    },
+    {
+      "name": "react-csv-reader",
+      "description": {
+        "en": "A React component that takes a CSV file from the user and parses it.",
+        "zh": "一个 React 组件，接收用户的 CSV 文件并解析。",
+        "ja": "ユーザーから CSV ファイルを受け取り、解析する React コンポーネント。",
+        "fr": "Un composant React qui reçoit un fichier CSV de l'utilisateur et l'analyse.",
+        "es": "Un componente React que recibe un archivo CSV del usuario y lo analiza.",
+        "de": "Eine React-Komponente, die eine CSV-Datei vom Nutzer entgegennimmt und parst."
+      },
+      "repo": "https://github.com/uiwjs/react-csv-reader",
+      "url": "https://uiwjs.github.io/react-csv-reader",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "github-action-upload-assets",
+      "description": {
+        "en": "A GitHub Action that uploads several files to a release at once.",
+        "zh": "一个 GitHub Action，一次把多个文件上传到 Release。",
+        "ja": "複数のファイルをまとめてリリースにアップロードする GitHub Action。",
+        "fr": "Une GitHub Action qui téléverse plusieurs fichiers vers une release d'un coup.",
+        "es": "Una GitHub Action que sube varios archivos a una release de una vez.",
+        "de": "Eine GitHub Action, die mehrere Dateien auf einmal zu einem Release hochlädt."
+      },
+      "repo": "https://github.com/jaywcjlove/github-action-upload-assets",
+      "url": "https://jaywcjlove.github.io/github-action-upload-assets/",
+      "language": "TypeScript",
+      "platform": "GitHub Actions"
+    },
+    {
+      "name": "vscode-uiw",
+      "description": {
+        "en": "Preview uiw documentation inside VS Code.",
+        "zh": "在 VS Code 里预览 uiw 文档。",
+        "ja": "VS Code の中で uiw のドキュメントをプレビューする。",
+        "fr": "Prévisualiser la documentation uiw dans VS Code.",
+        "es": "Previsualizar la documentación de uiw dentro de VS Code.",
+        "de": "Die uiw-Dokumentation in VS Code ansehen."
+      },
+      "repo": "https://github.com/uiwjs/vscode-uiw",
+      "url": "https://marketplace.visualstudio.com/items?itemName=uiw.uiw",
+      "language": "TypeScript",
+      "platform": "VS Code"
+    },
+    {
+      "name": "ejs-cli",
+      "description": {
+        "en": "A command-line EJS renderer, with watching, data files and more than the original.",
+        "zh": "命令行里的 EJS 渲染器，支持监听、数据文件，比原版多不少功能。",
+        "ja": "コマンドラインの EJS レンダラー。監視やデータファイルなど、元より多くの機能。",
+        "fr": "Un moteur EJS en ligne de commande, avec surveillance, fichiers de données et plus que l'original.",
+        "es": "Un renderizador de EJS en línea de comandos, con vigilancia, archivos de datos y más que el original.",
+        "de": "Ein EJS-Renderer für die Kommandozeile, mit Beobachten, Datendateien und mehr als das Original."
+      },
+      "repo": "https://github.com/jaywcjlove/ejs-cli",
+      "url": "https://jaywcjlove.github.io/ejs-cli/",
+      "language": "TypeScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "compile-less",
+      "description": {
+        "en": "Compiles every .less file in a folder to .css, from the command line.",
+        "zh": "在命令行里把文件夹下的每个 .less 文件编译成 .css。",
+        "ja": "フォルダ内のすべての .less を .css にコンパイルするコマンド。",
+        "fr": "Compile chaque fichier .less d'un dossier en .css, depuis la ligne de commande.",
+        "es": "Compila cada archivo .less de una carpeta a .css, desde la línea de comandos.",
+        "de": "Kompiliert jede .less-Datei eines Ordners zu .css, von der Kommandozeile aus."
+      },
+      "repo": "https://github.com/jaywcjlove/compile-less",
+      "url": "https://jaywcjlove.github.io/compile-less",
+      "language": "TypeScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "gitke-node",
+      "description": {
+        "en": "A small git server in Node.js.",
+        "zh": "用 Node.js 写的小型 git 服务器。",
+        "ja": "Node.js で書いた小さな git サーバー。",
+        "fr": "Un petit serveur git en Node.js.",
+        "es": "Un pequeño servidor git en Node.js.",
+        "de": "Ein kleiner Git-Server in Node.js."
+      },
+      "repo": "https://github.com/jaywcjlove/gitke-node",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "generate-password",
+      "description": {
+        "en": "Random, unique passwords, generated in the browser.",
+        "zh": "在浏览器里生成随机、唯一的密码。",
+        "ja": "ブラウザでランダムで一意なパスワードを生成する。",
+        "fr": "Des mots de passe aléatoires et uniques, générés dans le navigateur.",
+        "es": "Contraseñas aleatorias y únicas, generadas en el navegador.",
+        "de": "Zufällige, einmalige Passwörter, im Browser erzeugt."
+      },
+      "repo": "https://github.com/jaywcjlove/generate-password",
+      "url": "https://jaywcjlove.github.io/generate-password",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "react-clock",
+      "description": {
+        "en": "An analog clock for React.",
+        "zh": "React 的模拟时钟组件。",
+        "ja": "React 向けのアナログ時計。",
+        "fr": "Une horloge analogique pour React.",
+        "es": "Un reloj analógico para React.",
+        "de": "Eine analoge Uhr für React."
+      },
+      "repo": "https://github.com/uiwjs/react-clock",
+      "url": "https://uiwjs.github.io/react-clock",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "react-layout",
+      "description": {
+        "en": "Layout components for React: header, sider, content and footer of a page.",
+        "zh": "React 的布局组件：页面的页头、侧栏、内容和页脚。",
+        "ja": "React のレイアウトコンポーネント。ページのヘッダー、サイドバー、コンテンツ、フッター。",
+        "fr": "Des composants de mise en page pour React : en-tête, barre latérale, contenu et pied de page.",
+        "es": "Componentes de diseño para React: cabecera, barra lateral, contenido y pie de página.",
+        "de": "Layout-Komponenten für React: Kopf, Seitenleiste, Inhalt und Fuß einer Seite."
+      },
+      "repo": "https://github.com/uiwjs/react-layout",
+      "url": "https://uiwjs.github.io/react-layout",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "react-code-preview-layout",
+      "description": {
+        "en": "A layout that shows a code example beside its running preview, for React.",
+        "zh": "把代码示例和运行预览并排展示的布局，React 组件。",
+        "ja": "コード例と実行プレビューを並べて見せるレイアウト。React コンポーネント。",
+        "fr": "Une mise en page qui montre un exemple de code à côté de son aperçu, pour React.",
+        "es": "Un diseño que muestra un ejemplo de código junto a su vista previa, para React.",
+        "de": "Ein Layout, das ein Codebeispiel neben seiner laufenden Vorschau zeigt, für React."
+      },
+      "repo": "https://github.com/uiwjs/react-code-preview-layout",
+      "url": "https://uiwjs.github.io/react-code-preview-layout/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "typenexus",
+      "description": {
+        "en": "TypeORM and Express bundled into one lightweight way to build an API.",
+        "zh": "把 TypeORM 和 Express 打包成一种轻量的 API 写法。",
+        "ja": "TypeORM と Express を一つにまとめた、軽量な API の書き方。",
+        "fr": "TypeORM et Express réunis en une façon légère de construire une API.",
+        "es": "TypeORM y Express reunidos en una forma ligera de construir una API.",
+        "de": "TypeORM und Express gebündelt zu einem leichten Weg, eine API zu bauen."
+      },
+      "repo": "https://github.com/jaywcjlove/typenexus",
+      "url": "https://jaywcjlove.github.io/typenexus",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "auto-config-loader",
+      "description": {
+        "en": "Finds and loads a tool's configuration from package.json, an rc file or a module.",
+        "zh": "从 package.json、rc 文件或模块里找到并加载工具的配置。",
+        "ja": "package.json、rc ファイル、モジュールからツールの設定を見つけて読み込む。",
+        "fr": "Trouve et charge la configuration d'un outil depuis package.json, un fichier rc ou un module.",
+        "es": "Encuentra y carga la configuración de una herramienta desde package.json, un archivo rc o un módulo.",
+        "de": "Findet und lädt die Konfiguration eines Werkzeugs aus package.json, einer rc-Datei oder einem Modul."
+      },
+      "repo": "https://github.com/jaywcjlove/auto-config-loader",
+      "url": "https://jaywcjlove.github.io/auto-config-loader",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "react-dynamic-loadable",
+      "description": {
+        "en": "A higher-order component that loads a React component by dynamic import.",
+        "zh": "一个高阶组件，通过动态 import 加载 React 组件。",
+        "ja": "動的 import で React コンポーネントを読み込む高階コンポーネント。",
+        "fr": "Un composant d'ordre supérieur qui charge un composant React par import dynamique.",
+        "es": "Un componente de orden superior que carga un componente React por import dinámico.",
+        "de": "Eine Higher-Order-Komponente, die eine React-Komponente per dynamischem Import lädt."
+      },
+      "repo": "https://github.com/jaywcjlove/react-dynamic-loadable",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
       "name": "app-i18n",
       "description": {
         "en": "A command-line tool that unifies i18n files across several apps.",
@@ -1497,6 +1643,153 @@
       },
       "repo": "https://github.com/jaywcjlove/app-i18n",
       "url": "https://wangchujiang.com/app-i18n/",
+      "language": "Swift",
+      "platform": "CLI"
+    },
+    {
+      "name": "react-back-to-top",
+      "description": {
+        "en": "A back-to-top button for React, with the scroll progress drawn on it.",
+        "zh": "React 的回到顶部按钮，上面画着滚动进度。",
+        "ja": "React 向けのトップへ戻るボタン。スクロールの進み具合を描く。",
+        "fr": "Un bouton de retour en haut pour React, avec la progression du défilement dessinée dessus.",
+        "es": "Un botón de volver arriba para React, con el progreso del desplazamiento dibujado encima.",
+        "de": "Ein Nach-oben-Knopf für React, mit dem Scrollfortschritt darauf gezeichnet."
+      },
+      "repo": "https://github.com/uiwjs/react-back-to-top",
+      "url": "https://uiwjs.github.io/react-back-to-top",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "react-head",
+      "description": {
+        "en": "React components that set the document head: title, meta and link tags.",
+        "zh": "设置文档 head 的 React 组件：标题、meta 和 link 标签。",
+        "ja": "ドキュメントの head を設定する React コンポーネント。タイトル、meta、link タグ。",
+        "fr": "Des composants React qui règlent l'en-tête du document : titre, balises meta et link.",
+        "es": "Componentes React que fijan la cabecera del documento: título, etiquetas meta y link.",
+        "de": "React-Komponenten, die den Dokumentkopf setzen: Titel, meta- und link-Tags."
+      },
+      "repo": "https://github.com/uiwjs/react-head",
+      "url": "https://uiwjs.github.io/react-head",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Toast",
+      "description": {
+        "en": "A lightweight toast notification for SwiftUI.",
+        "zh": "SwiftUI 的轻量 Toast 提示。",
+        "ja": "SwiftUI 向けの軽量なトースト通知。",
+        "fr": "Une notification toast légère pour SwiftUI.",
+        "es": "Una notificación toast ligera para SwiftUI.",
+        "de": "Eine leichte Toast-Benachrichtigung für SwiftUI."
+      },
+      "repo": "https://github.com/jaywcjlove/Toast",
+      "language": "Swift",
+      "platform": "macOS, iOS"
+    },
+    {
+      "name": "react-shields",
+      "description": {
+        "en": "Shields.io badges as React components.",
+        "zh": "把 Shields.io 徽章做成 React 组件。",
+        "ja": "Shields.io のバッジを React コンポーネントに。",
+        "fr": "Les badges Shields.io en composants React.",
+        "es": "Las insignias de Shields.io como componentes React.",
+        "de": "Shields.io-Badges als React-Komponenten."
+      },
+      "repo": "https://github.com/uiwjs/react-shields",
+      "url": "https://uiwjs.github.io/react-shields/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "rollup-plugin-less",
+      "description": {
+        "en": "A Rollup plugin that compiles Less.",
+        "zh": "编译 Less 的 Rollup 插件。",
+        "ja": "Less をコンパイルする Rollup プラグイン。",
+        "fr": "Un plugin Rollup qui compile le Less.",
+        "es": "Un plugin de Rollup que compila Less.",
+        "de": "Ein Rollup-Plugin, das Less kompiliert."
+      },
+      "repo": "https://github.com/jaywcjlove/rollup-plugin-less",
+      "url": "https://jaywcjlove.github.io/rollup-plugin-less/",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "SVGSymbolKit",
+      "description": {
+        "en": "A Swift package that parses SVG icons and renders them as SF Symbols-style vector assets.",
+        "zh": "一个 Swift 包，解析 SVG 图标并渲染成 SF Symbols 风格的矢量资源。",
+        "ja": "SVG アイコンを解析し、SF Symbols 風のベクター素材として描く Swift パッケージ。",
+        "fr": "Un paquet Swift qui lit des icônes SVG et les rend en ressources vectorielles à la SF Symbols.",
+        "es": "Un paquete Swift que analiza iconos SVG y los renderiza como recursos vectoriales al estilo SF Symbols.",
+        "de": "Ein Swift-Paket, das SVG-Icons liest und als Vektorgrafiken im Stil von SF Symbols zeichnet."
+      },
+      "repo": "https://github.com/jaywcjlove/SVGSymbolKit",
+      "language": "Swift",
+      "platform": "macOS, iOS"
+    },
+    {
+      "name": "create-kkt",
+      "description": {
+        "en": "Creates a kkt React project from the command line.",
+        "zh": "在命令行里创建一个 kkt React 项目。",
+        "ja": "コマンドラインから kkt の React プロジェクトを作る。",
+        "fr": "Crée un projet React kkt depuis la ligne de commande.",
+        "es": "Crea un proyecto React kkt desde la línea de comandos.",
+        "de": "Legt ein kkt-React-Projekt von der Kommandozeile aus an."
+      },
+      "repo": "https://github.com/kktjs/create-kkt",
+      "url": "https://kktjs.github.io/create-kkt",
+      "language": "TypeScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "ncc",
+      "description": {
+        "en": "Compiles a Node.js module and all its dependencies into one file.",
+        "zh": "把一个 Node.js 模块连同全部依赖编译成一个文件。",
+        "ja": "Node.js モジュールを依存関係ごと一つのファイルにまとめる。",
+        "fr": "Compile un module Node.js et toutes ses dépendances en un seul fichier.",
+        "es": "Compila un módulo de Node.js y todas sus dependencias en un solo archivo.",
+        "de": "Kompiliert ein Node.js-Modul samt allen Abhängigkeiten in eine Datei."
+      },
+      "repo": "https://github.com/kktjs/ncc",
+      "url": "https://kktjs.github.io/ncc",
+      "language": "TypeScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "gitke",
+      "description": {
+        "en": "A small git server in Swift.",
+        "zh": "用 Swift 写的小型 git 服务器。",
+        "ja": "Swift で書いた小さな git サーバー。",
+        "fr": "Un petit serveur git en Swift.",
+        "es": "Un pequeño servidor git en Swift.",
+        "de": "Ein kleiner Git-Server in Swift."
+      },
+      "repo": "https://github.com/jaywcjlove/gitke",
+      "language": "Swift",
+      "platform": "CLI"
+    },
+    {
+      "name": "linkly",
+      "description": {
+        "en": "A Swift command that turns one JSON file into a page of links, Linktree-style.",
+        "zh": "一个 Swift 命令，把一个 JSON 文件变成一页链接，Linktree 那样。",
+        "ja": "JSON ファイル一つを Linktree 風のリンクページにする Swift コマンド。",
+        "fr": "Une commande Swift qui transforme un fichier JSON en page de liens, façon Linktree.",
+        "es": "Un comando Swift que convierte un archivo JSON en una página de enlaces, al estilo Linktree.",
+        "de": "Ein Swift-Befehl, der eine JSON-Datei in eine Linkseite im Stil von Linktree verwandelt."
+      },
+      "repo": "https://github.com/jaywcjlove/linkly",
+      "url": "https://wangchujiang.com/linkly/",
       "language": "Swift",
       "platform": "CLI"
     }

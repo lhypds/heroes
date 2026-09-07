@@ -11,8 +11,9 @@ import { basename, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const DIR = fileURLToPath(new URL("../data/leads/", import.meta.url));
+// Ten to join; there is no ceiling. The count beside a name keeps climbing
+// past a hundred, and the page unfolds the first hundred of the list.
 const MIN_APPS = 10;
-const MAX_APPS = 100;
 const LANGS = ["en", "zh", "ja", "fr", "es", "de"];
 // A GitHub username, in lowercase because it is also the file name.
 const HANDLE = /^[a-z0-9](?:[a-z0-9-]{0,37}[a-z0-9])?$/;
@@ -97,7 +98,6 @@ const checkLead = (file, lead) => {
     return;
   }
   if (lead.apps.length < MIN_APPS) problem(file, `${lead.apps.length} applications — the list starts at ${MIN_APPS}`);
-  if (lead.apps.length > MAX_APPS) problem(file, `${lead.apps.length} applications — the count stops at ${MAX_APPS}`);
   const seen = new Set();
   lead.apps.forEach((app, i) => checkApp(file, app, i, seen));
 };

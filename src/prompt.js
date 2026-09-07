@@ -55,7 +55,7 @@ The entry:
 - github: their profile, https://github.com/<handle>.
 - website: optional, an address of their own.
 - bio: optional, one line about what they build.
-- apps: at least ten, at most a hundred, the best first.
+- apps: at least ten, and as many as count; the count keeps climbing past a hundred. The most important first: the page unfolds only the first hundred of the list, so the order is the ranking.
 
 Each application:
 - name: what it is called.

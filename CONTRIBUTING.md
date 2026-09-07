@@ -50,7 +50,9 @@ The entry:
 `github` — the address of your GitHub profile.  
 `website` — optional, an address of your own.  
 `bio` — optional, one line, English or translated (see below).  
-`apps` — at least ten, at most a hundred.  
+`apps` — at least ten, the most important first. There is no ceiling: the
+count beside a name keeps climbing past a hundred, 124 of 100. The page unfolds
+only the first hundred of the list, so the order is the ranking.  
 
 Each application:  
 
@@ -95,7 +97,7 @@ The check
 
 - the file name and `handle` agree  
 - `name` and `github` are there  
-- there are at least ten applications and at most a hundred  
+- there are at least ten applications  
 - every application has a `name`, a `description` and a `repo`  
 - every `repo` is an `https://` address, listed once  
 - translations use the six known codes, and always include `en`  

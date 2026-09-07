@@ -9,7 +9,9 @@ page's largest type until somebody is — then they are listed there, with
 their GitHub picture beside the name.  
 
 1. Ten applications to join. The hundred squares beside a name fill in one at
-   a time.  
+   a time. The count keeps climbing past a hundred, 124 of 100, but the page
+   unfolds only the first hundred of an entry, so an entry puts its most
+   important first.  
 2. Public: every application can be opened, installed or run by anyone — a site
    at an address, a package on a registry, a release that downloads, an
    extension on a marketplace, an app in a store.  
