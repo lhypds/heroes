@@ -1,31 +1,39 @@
 import { HUNDRED } from "../../constants";
 import styles from "./hundred.module.css";
 
-// A hundred squares, ten by ten, the first `count` of them filled in. One
-// square per application, so the whole of what the list asks for is one
-// glance: how far along a name is, and how far there is to go.
+// A hundred squares, ten by ten, one per application, so the whole of what
+// the list asks for is one glance: how far along a name is, and how far there
+// is to go.
 //
-// Past the hundred the squares carry on underneath, half the size and in a
-// colour of their own: the ten by ten stays the measure, and what is over it
-// reads as over it rather than crowding it.
+// Past the hundred the count comes round again over the same squares, and
+// each lap is drawn a shade further on: 182 is every square filled with the
+// first 82 of them deeper, 240 is every square at the second shade with the
+// first 40 at the third. Four laps are drawn and the fourth holds anything
+// above it; nobody is near four hundred.
 const CELLS = Array.from({ length: HUNDRED }, (_, i) => i);
+const LAPS = 4;
 
 export default function Hundred({ count, titles = [], label }) {
-  const over = Math.max(0, count - HUNDRED);
+  const laps = Math.floor(count / HUNDRED);
+  const rest = count % HUNDRED;
+
   return (
-    <div className={styles.hundred} role="img" aria-label={label}>
-      <div className={styles.grid}>
-        {CELLS.map((i) => (
-          <span key={i} className={i < count ? styles.on : styles.off} title={titles[i]} />
-        ))}
-      </div>
-      {over > 0 && (
-        <div className={styles.rest}>
-          {Array.from({ length: over }, (_, i) => (
-            <span key={i} className={styles.extra} title={titles[HUNDRED + i]} />
-          ))}
-        </div>
-      )}
+    <div className={styles.grid} role="img" aria-label={label}>
+      {CELLS.map((i) => {
+        // The lap this square is on: every square has been round `laps`
+        // times, and the first `rest` of them once more.
+        const filled = i < rest;
+        const level = Math.min(LAPS, laps + (filled ? 1 : 0));
+        // Which application it stands for is the last one to land on it.
+        const app = ((filled ? laps : laps - 1) * HUNDRED) + i;
+        return (
+          <span
+            key={i}
+            className={level === 0 ? styles.off : styles[`on${level}`]}
+            title={level === 0 ? undefined : titles[app]}
+          />
+        );
+      })}
     </div>
   );
 }

@@ -15,6 +15,11 @@ a piece of middleware the page's server mounts (`api/plugin.js`), so `npm run
 dev` and `npm run preview` both answer it: one port, one process, one address
 from outside.  
 
+The page asks it too. Under the rules in "Be a hero" there is a box that takes
+a username and sets the answer out: the score out of a hundred, the three
+rules with what the account has against each, and, unfolded, every repository
+that counts and every one that does not.  
+
 
 The API
 -------

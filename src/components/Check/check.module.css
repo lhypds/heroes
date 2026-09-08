@@ -1,10 +1,10 @@
 /* The box that reads an account, and the answer under it. Set as the rest of
    the page is: ink for the names and the numbers, grey for what explains
    them, hairlines between. */
+/* One of the three parts of "Be a hero", between the rules and the pull
+   request. Its heading is what parts it from them; there is no line. */
 .check {
   margin-bottom: 36px;
-  padding-bottom: 36px;
-  border-bottom: 1px solid var(--line);
 }
 
 .subLabel {

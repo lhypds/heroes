@@ -92,8 +92,9 @@ export default function Home() {
         </section>
       )}
 
-      {/* What it takes, then how to say so: the rules and the pull request
-          that follows them are one section. */}
+      {/* What it takes, whether a name has it, and how to say so: three parts
+          of one section, each under its own heading and no line between
+          them. */}
       <section className={styles.section} id="join">
         <h2 className={styles.label}>{t("join.title")}</h2>
 
@@ -116,6 +117,7 @@ export default function Home() {
             their own in and see where they stand before the steps below. */}
         <Check />
 
+        <h3 className={styles.subLabel}>{t("join.pull")}</h3>
         <div className={styles.join}>
           <div className={styles.joinText}>
             <p className={styles.sectionLede}>{t("join.lede")}</p>

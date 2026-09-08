@@ -251,7 +251,7 @@ export default function Check() {
               ? t("check.hero")
               : report.listed
                 ? t("check.listed", { n: count(report.rules.repositories.have, language) })
-                : t("check.short", { n: count(report.rules.repositories.have, language) })}
+                : t("check.under", { n: count(report.rules.repositories.have, language) })}
           </p>
           <p className={styles.note}>{t("check.sieve")}</p>
 

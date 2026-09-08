@@ -29,10 +29,13 @@
   --link: #0969da;
   --focus: #0969da;
   /* A square of the hundred, on and off, and the edge each one is drawn
-     with: the contribution graph's own. --over is the square past the
-     hundred, the graph's deepest green. */
+     with: the contribution graph's own. The count comes round over the same
+     hundred squares, so there is a fill per lap — the first is the graph's,
+     and each one after it deeper, ending at the graph's darkest and past it. */
   --fill: #2da44e;
-  --over: #216e39;
+  --fill-2: #216e39;
+  --fill-3: #184a2a;
+  --fill-4: #12321f;
   --blank: #eff2f5;
   --cell-edge: #1f23280d;
   /* The filled button and the outlined one, at rest, under the pointer, and
@@ -88,10 +91,12 @@
   --line: #3d444d;
   --link: #4493f8;
   --focus: #1f6feb;
+  /* On dark the graph climbs towards light, so each lap past the hundred is
+     brighter than the one under it rather than deeper. */
   --fill: #2ea043;
-  /* On dark the graph climbs towards light, so the square past the hundred
-     is its brightest green rather than its deepest. */
-  --over: #56d364;
+  --fill-2: #56d364;
+  --fill-3: #7ee787;
+  --fill-4: #aff5b4;
   --blank: #151b23;
   --cell-edge: #0104090d;
   --primary-bg: #da3633;
@@ -128,8 +133,12 @@
   --line: #e0e0e0;
   --link: var(--ink);
   --focus: var(--ink);
+  /* Ink is as dark as this gets, so the first lap keeps it and the laps over
+     the hundred step back through the greys. */
   --fill: var(--ink);
-  --over: var(--muted);
+  --fill-2: var(--muted);
+  --fill-3: #a8a8a8;
+  --fill-4: #cccccc;
   --blank: var(--soft);
   --cell-edge: transparent;
   --primary-bg: var(--ink);
