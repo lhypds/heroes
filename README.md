@@ -1,5 +1,5 @@
 
-Code Heros
+Code Heroes
 ==========
 
 
@@ -13,13 +13,12 @@ pull request.
 Rules
 -----
 
-1. A 100 public repositories of your own. 
+1. 100 public repositories of your own.  
    Public: anyone can open the repository, read it and clone it. Your own: you created it.
    A fork of someone else's repository does not count.  
 
-2. Each of the hundred is real code. 
-   Real code: 10 commits or more, and more than a
-   100 lines of code in a programming language. 
+2. Each of the 100 is real code.  
+   Real code: 10 commits or more, and more than a 100 lines of code in a programming language. 
 
 
 Docs
@@ -27,5 +26,4 @@ Docs
 
 [Add yourself](docs/20_Add%20yourself.md) — one file, one pull request;
 [CONTRIBUTING.md](CONTRIBUTING.md) has the fields and an example  
-[The page](docs/30_The%20page.md) — the two lists, languages, themes  
 [Develop](docs/40_Develop.md) — run it, build it, deploy it under PM2  
