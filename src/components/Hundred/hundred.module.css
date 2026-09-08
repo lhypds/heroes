@@ -14,6 +14,8 @@
 .on2,
 .on3,
 .on4,
+.on5,
+.on6,
 .off {
   box-shadow: inset 0 0 0 1px var(--cell-edge);
 }
@@ -22,9 +24,9 @@
   background: var(--blank);
 }
 
-/* One shade per lap of the hundred. The first is the fill the grid has always
-   had, so a name under a hundred looks as it did; the rest are for what is
-   over it. */
+/* One colour per lap of the hundred. The first is the fill the grid has
+   always had, so a name under a hundred looks as it did; the rest are the
+   laps over it, and the sixth holds everything above it. */
 .on1 {
   background: var(--fill);
 }
@@ -39,4 +41,12 @@
 
 .on4 {
   background: var(--fill-4);
+}
+
+.on5 {
+  background: var(--fill-5);
+}
+
+.on6 {
+  background: var(--fill-6);
 }

@@ -40,9 +40,13 @@
   border: 1px solid var(--border);
 }
 
+/* Typing in it is not an error and not a link: the field says it has the
+   cursor by drawing its own edge in ink, twice as thick, rather than by
+   putting a coloured ring around itself. The shadow is drawn inside the
+   border, so nothing on the line moves. */
 .field:focus-within {
-  outline: 2px solid var(--focus);
-  outline-offset: 2px;
+  border-color: var(--ink);
+  box-shadow: inset 0 0 0 1px var(--ink);
 }
 
 .at {

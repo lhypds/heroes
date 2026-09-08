@@ -6,12 +6,12 @@ import styles from "./hundred.module.css";
 // is to go.
 //
 // Past the hundred the count comes round again over the same squares, and
-// each lap is drawn a shade further on: 182 is every square filled with the
-// first 82 of them deeper, 240 is every square at the second shade with the
-// first 40 at the third. Four laps are drawn and the fourth holds anything
-// above it; nobody is near four hundred.
+// each lap is drawn in a colour of its own — green, orange, gold, purple,
+// red — so which lap a square is on is read at a glance: 182 is every square
+// filled with the first 82 of them orange, 240 is every square orange with
+// the first 40 gold. The sixth is ink, and holds every lap above it.
 const CELLS = Array.from({ length: HUNDRED }, (_, i) => i);
-const LAPS = 4;
+const LAPS = 6;
 
 export default function Hundred({ count, titles = [], label }) {
   const laps = Math.floor(count / HUNDRED);
