@@ -6,7 +6,7 @@ Develop
 Node.js 22.13 or later.  
 
 `npm install`  
-`npm run dev` — the page, reloading as files change  
+`npm run dev` — the page, reloading as files change, on `PORT` from `.env`  
 `npm run build` — a static site in `dist/`  
 `npm run check` — every entry under `data/heroes/`; add `--online` to ask each
 link whether it answers  
@@ -21,6 +21,11 @@ addresses and what the numbers mean.
 
 The account check and the crawl both need a GitHub token: `GITHUB_TOKEN`, in
 the environment or `.env`, or a signed-in `gh`.  
+
+`PORT` in `.env` is the port, and the only one: development, preview and the
+PM2 process all listen on it, so what is developed on is what is deployed on.
+A port already taken fails loudly rather than quietly moving to the next one,
+which means development and preview cannot both be up at once.  
 
 
 The crawl
@@ -88,11 +93,12 @@ people, `--report` says how many are left and how many went and why, and
 Deploy
 ------
 
-The built site is served by `vite preview` under PM2, and the account check
-runs beside it as a second process, `<PM2_NAME>-api`, which `vite preview`
-proxies at `/api`; one port is public, and the check needs none of its own.
-`.env` holds the two ports, the PM2 process name, the public hostname and the
-GitHub token; `.env.example` has the keys.  
+The built site is served by `vite preview` under PM2, with the account check
+mounted on the same server at `/api`: one process, one port, nothing proxied.
+`.env` holds the port, the PM2 process name, the public hostname and the
+GitHub token; `.env.example` has the keys. There is no `gh` for the process
+PM2 starts, so `GITHUB_TOKEN` has to be in `.env` or the check is off — the
+page says so, and `/api/health` answers `no token`.  
 
 `./setup.sh` — copies `.env.example` to `.env` if there is none, asks for
 `HOST`, installs and builds  

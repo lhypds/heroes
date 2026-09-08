@@ -10,7 +10,6 @@ if (fs.existsSync(envPath)) {
   }
 }
 
-const PORT = env.PORT || "4173";
 const PM2_NAME = env.PM2_NAME || "heroes";
 
 // One process on one port. The page is served by `vite preview`, and the
@@ -21,7 +20,9 @@ module.exports = {
     {
       name: PM2_NAME,
       script: "npm",
-      args: `run preview -- --host --port ${PORT}`,
+      // The port is vite.config.js's to read off PORT in .env, the same one
+      // `npm run dev` listens on; only the binding is said here.
+      args: "run preview -- --host",
       cwd: __dirname,
       instances: 1,
       autorestart: true,

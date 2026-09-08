@@ -16,6 +16,11 @@ export default defineConfig(({ mode }) => {
     .map((host) => host.trim())
     .filter(Boolean);
 
+  // One port in one place: PORT in .env, for the page in development and in
+  // preview alike, so what is developed on is what is deployed on. With none
+  // set, Vite's own numbers stand in — 5173 and 4173.
+  const port = Number(env.PORT) || undefined;
+
   return {
     // The account check answers under /api on this same server, in
     // development and in preview alike: one port, nothing proxied.
@@ -25,10 +30,12 @@ export default defineConfig(({ mode }) => {
     server: {
       allowedHosts,
       strictPort: true,
+      port,
     },
     preview: {
       allowedHosts,
       strictPort: true,
+      port,
     },
     resolve: {
       alias: {
