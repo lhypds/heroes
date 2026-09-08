@@ -11,7 +11,7 @@ if (fs.existsSync(envPath)) {
 }
 
 const PORT = env.PORT || "4173";
-const PM2_NAME = env.PM2_NAME || "heros";
+const PM2_NAME = env.PM2_NAME || "heroes";
 
 module.exports = {
   apps: [

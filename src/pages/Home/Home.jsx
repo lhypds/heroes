@@ -47,7 +47,7 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <nav className={styles.topbar}>
-        <a className={styles.home} href="/">Heros</a>
+        <a className={styles.home} href="/">Heroes</a>
         <div className={styles.switches}>
           <LanguageSwitcher />
           <ThemeSwitcher />

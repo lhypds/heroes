@@ -1,6 +1,6 @@
-// Every entry under data/heros/, one file per person. A pull request adds a
+// Every entry under data/heroes/, one file per person. A pull request adds a
 // file; nothing here has to be told about it.
-const files = import.meta.glob("../../data/heros/*.json", { eager: true, import: "default" });
+const files = import.meta.glob("../../data/heroes/*.json", { eager: true, import: "default" });
 
 // The fullest list first; the same count, alphabetically.
 const LEADS = Object.values(files).sort(

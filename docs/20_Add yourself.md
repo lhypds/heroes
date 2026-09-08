@@ -3,7 +3,7 @@ Add yourself
 ============
 
 
-Fork the repository, add `data/heros/<handle>.json`, open a pull request.
+Fork the repository, add `data/heroes/<handle>.json`, open a pull request.
 [CONTRIBUTING.md](../CONTRIBUTING.md) has the file's fields and an example.  
 
 Not every entry is written by the person it names. The people who keep the

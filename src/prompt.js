@@ -38,14 +38,14 @@ const FULL = `{
 // What the Copy prompt button copies: handed to an assistant along with a
 // GitHub profile, it comes back with the file. The rules and the fields say
 // the same as CONTRIBUTING.md, in the same order.
-export const PROMPT = `Write an entry for Code Heros, a public list of programmers who have a hundred public repositories of their own, every one of them real code: ${REPO}
+export const PROMPT = `Write an entry for Code Heroes, a public list of programmers who have a hundred public repositories of their own, every one of them real code: ${REPO}
 
 The person: https://github.com/<handle>
 Replace <handle> with their GitHub username. If it still says <handle>, ask for it before doing anything else.
 
 Read their profile and their public repositories, and pick the ones that count. There are two rules. One: it is a public repository of their own, one they created, that anyone can open, read and clone. Forks and mirrors of other people's work do not count, and neither does anyone else's repository. Two: it is real code: ten commits or more, and more than a hundred lines of code in a programming language. A repository that is only a README, or only prose, data or configuration, does not count. Stars do not matter. A repository short of either rule is left out.
 
-Answer with one JSON file, data/heros/<handle>.json, and nothing else. It looks like this:
+Answer with one JSON file, data/heroes/<handle>.json, and nothing else. It looks like this:
 
 ${FULL}
 

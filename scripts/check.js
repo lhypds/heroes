@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Reads every entry under data/heros/ and says what is missing. Run it with
+// Reads every entry under data/heroes/ and says what is missing. Run it with
 // --online to also ask each link whether it answers; the pull request check
 // does, so an entry that points at a private repository is caught before a
 // person reads it.
@@ -10,7 +10,7 @@ import { readdirSync, readFileSync } from "node:fs";
 import { basename, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const DIR = fileURLToPath(new URL("../data/heros/", import.meta.url));
+const DIR = fileURLToPath(new URL("../data/heroes/", import.meta.url));
 // Ten to join; there is no ceiling. The count beside a name keeps climbing
 // past a hundred, and the page unfolds the first hundred of the list.
 const MIN_APPS = 10;
@@ -122,7 +122,7 @@ const answers = async (url) => {
     const response = await fetch(url, {
       redirect: "follow",
       signal: AbortSignal.timeout(TIMEOUT_MS),
-      headers: { "user-agent": "tech-leads-check (+https://github.com/lhypds/heros)" },
+      headers: { "user-agent": "tech-leads-check (+https://github.com/lhypds/heroes)" },
     });
     return response.ok ? null : `answered ${response.status}`;
   } catch (error) {
@@ -149,14 +149,14 @@ const main = async () => {
     .filter((name) => name.endsWith(".json"))
     .sort();
   if (files.length === 0) {
-    console.error("no entries under data/heros/");
+    console.error("no entries under data/heroes/");
     process.exit(1);
   }
 
   let apps = 0;
   const links = [];
   for (const name of files) {
-    const file = `data/heros/${name}`;
+    const file = `data/heroes/${name}`;
     let lead;
     try {
       lead = JSON.parse(readFileSync(join(DIR, name), "utf8"));

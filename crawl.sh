@@ -4,7 +4,7 @@ cd "$(dirname "$0")"
 
 # People who might be heroes, anyone with a hundred public repositories and a
 # hundred of them their own and not forks, into data/crawl.db. Starts from
-# everyone under data/heros/ unless handles are given; data/crawl.js lists
+# everyone under data/heroes/ unless handles are given; data/crawl.js lists
 # every flag:
 #   ./crawl.sh
 #   ./crawl.sh alice bob

@@ -8,7 +8,7 @@ Node.js 22.13 or later.
 `npm install`  
 `npm run dev` — the page, reloading as files change  
 `npm run build` — a static site in `dist/`  
-`npm run check` — every entry under `data/heros/`; add `--online` to ask each
+`npm run check` — every entry under `data/heroes/`; add `--online` to ask each
 link whether it answers  
 `./crawl.sh` — people who might be heroes, into `data/crawl.db`. Needs
 `GITHUB_TOKEN`, in the environment or `.env`, or a signed-in `gh`  
@@ -24,7 +24,7 @@ each keeps them; anyone short of either is passed over and not written.
 Whether the repositories are real code is not asked; that is read by whoever
 writes the entry.  
 
-Finding starts from everyone under `data/heros/`, reading who they follow and
+Finding starts from everyone under `data/heroes/`, reading who they follow and
 who follows them, a hundred people to a request; give it handles to start
 from someone else, and they are looked at too, or `--search` to ask GitHub's
 search for everyone with a hundred public repositories, which is the whole

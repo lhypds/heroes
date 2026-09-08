@@ -7,7 +7,7 @@ Adding yourself
 ---------------
 
 1. Fork the repository.  
-2. Add one file, `data/heros/<handle>.json`, where `<handle>` is your GitHub
+2. Add one file, `data/heroes/<handle>.json`, where `<handle>` is your GitHub
    username in lowercase.  
 3. Run `npm run check`. It says what is missing, if anything.  
 4. Open a pull request.  
@@ -91,7 +91,7 @@ belongs in that person's entry.
 The check
 ---------
 
-`npm run check` reads every file under `data/heros/`:  
+`npm run check` reads every file under `data/heroes/`:  
 
 - the file name and `handle` agree  
 - `name` and `github` are there  

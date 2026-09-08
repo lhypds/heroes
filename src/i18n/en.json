@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Code Heros — the programmers who build a hundred applications"
+    "title": "Code Heroes — the programmers who build a hundred applications"
   },
   "hero": {
-    "name": "Code Heros",
+    "name": "Code Heroes",
     "tagline": "The programmers who build a hundred applications.",
-    "lede": "Code Heros is a public list of programmers who have a hundred public repositories of their own, every one of them real code. The bar to join is ten. Ten public repositories put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
+    "lede": "Code Heroes is a public list of programmers who have a hundred public repositories of their own, every one of them real code. The bar to join is ten. Ten public repositories put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
     "join": "Be A Hero",
     "source": "Source on GitHub"
   },
@@ -23,7 +23,7 @@
     ]
   },
   "heroes": {
-    "title": "Code Heros",
+    "title": "Code Heroes",
     "none": "There is no hero of 100 applications yet!"
   },
   "leads": {
@@ -45,7 +45,7 @@
       },
       {
         "name": "One file",
-        "body": "Add data/heros/<handle>.json: your name, your links, and at least ten applications, each with its public repository."
+        "body": "Add data/heroes/<handle>.json: your name, your links, and at least ten applications, each with its public repository."
       },
       {
         "name": "Pull request",

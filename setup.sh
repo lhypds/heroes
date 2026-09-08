@@ -41,7 +41,7 @@ ask_env() {
 echo ""
 echo "==> Checking .env..."
 ask_env HOST \
-  "Public hostname the page is served from, e.g. heros.example.com — comma-separate several (leave empty for local development)."
+  "Public hostname the page is served from, e.g. heroes.example.com — comma-separate several (leave empty for local development)."
 
 echo ""
 echo "Installing dependencies..."

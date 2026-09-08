@@ -4,7 +4,7 @@
 // into data/crawl.db, a SQLite file, so a crawl of a hundred thousand people
 // can stop and start again where it left off.
 //
-//   node data/crawl.js               around everyone under data/heros/: who
+//   node data/crawl.js               around everyone under data/heroes/: who
 //                                    they follow and who follows them
 //   node data/crawl.js alice bob     around these handles instead; each of
 //                                    them is looked at too
@@ -43,7 +43,7 @@ process.on("warning", (warning) => {
 });
 
 const DB = fileURLToPath(new URL("./crawl.db", import.meta.url));
-const HEROS = fileURLToPath(new URL("./heros/", import.meta.url));
+const HEROES = fileURLToPath(new URL("./heroes/", import.meta.url));
 
 // The two counts a person needs: a hundred public repositories, and a
 // hundred with the forks taken out.
@@ -150,7 +150,7 @@ const sql = {
 
 // Anyone with an entry already is not a candidate, and everyone with one is
 // where a crawl starts by default.
-const listed = readdirSync(HEROS)
+const listed = readdirSync(HEROES)
   .filter((name) => name.endsWith(".json"))
   .map((name) => name.slice(0, -".json".length).toLowerCase());
 
@@ -214,7 +214,7 @@ const graphql = async (query, variables) => {
         headers: {
           authorization: `bearer ${TOKEN}`,
           "content-type": "application/json",
-          "user-agent": "heros-crawl (+https://github.com/lhypds/heros)",
+          "user-agent": "heroes-crawl (+https://github.com/lhypds/heroes)",
         },
         body: JSON.stringify({ query, variables }),
         signal: AbortSignal.timeout(TIMEOUT_MS),
