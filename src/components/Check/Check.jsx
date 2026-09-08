@@ -48,14 +48,21 @@ export default function Check() {
   useEffect(() => () => asking.current?.abort(), []);
 
   // Which of the answers the API can give this is, in the reader's language.
-  // A 503 is the queue being full, or the check having no token at all; only
-  // the first is worth telling someone to wait out.
-  const failure = (status, body) =>
-    status === 404 ? t("check.unknown")
-      : status === 400 ? t("check.notAName")
-        : status === 429 ? t("check.limit")
-          : status === 503 && body?.status === "busy" ? t("check.busy")
-            : t("check.failed");
+  // The three that are somebody's fault are named: no such person, too many
+  // asks, a queue that is full. The rest part into GitHub not answering,
+  // which passes, and the check itself not being there, which does not — a
+  // 503 with no token, or anything that comes back and is not JSON at all,
+  // which is what a page served without the check under it answers.
+  const failure = (status, body) => {
+    // Whatever the server said for itself, for whoever opens the console.
+    if (body?.error) console.error(`the check answered ${status}: ${body.error}`);
+    if (status === 404 && body) return t("check.unknown");
+    if (status === 400) return t("check.notAName");
+    if (status === 429) return t("check.limit");
+    if (status === 503 && body?.status === "busy") return t("check.busy");
+    if (status === 502) return t("check.github");
+    return t("check.off");
+  };
 
   async function run(event) {
     event.preventDefault();
@@ -72,13 +79,32 @@ export default function Check() {
     setOpen(false);
 
     const until = Date.now() + GIVE_UP_MS;
+    // Asks that did not arrive at all, one after another. A check takes half
+    // a minute of asking, and a single one going astray on the way should not
+    // end it; three in a row is the check not being there.
+    let missed = 0;
     try {
       for (;;) {
-        const answer = await fetch(`/api/check/${encodeURIComponent(handle)}`, {
-          headers: { accept: "application/json" },
-          signal: stop.signal,
-        });
-        const body = await answer.json().catch(() => null);
+        let answer;
+        let body = null;
+        try {
+          answer = await fetch(`/api/check/${encodeURIComponent(handle)}`, {
+            headers: { accept: "application/json" },
+            signal: stop.signal,
+          });
+          body = await answer.json().catch(() => null);
+        } catch (failed) {
+          if (failed.name === "AbortError") return;
+          if (++missed >= 3) {
+            console.error(`the check could not be reached: ${failed.message}`);
+            setError(t("check.off"));
+            return;
+          }
+          await sleep(POLL_MS);
+          if (stop.signal.aborted) return;
+          continue;
+        }
+        missed = 0;
         if (answer.status === 202 && body) {
           setProgress(body);
           if (Date.now() > until) throw new Error("gave up waiting");
@@ -95,7 +121,10 @@ export default function Check() {
       }
     } catch (failed) {
       // A check the reader has replaced or walked away from says nothing.
-      if (failed.name !== "AbortError") setError(t("check.failed"));
+      if (failed.name !== "AbortError") {
+        console.error(`the check did not finish: ${failed.message}`);
+        setError(t("check.failed"));
+      }
     } finally {
       if (!stop.signal.aborted) {
         setRunning(false);

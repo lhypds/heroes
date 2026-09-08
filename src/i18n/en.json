@@ -104,6 +104,8 @@
     "notAName": "That is not a GitHub username.",
     "limit": "Too many checks from here this hour. Try again later.",
     "busy": "Too many checks waiting just now. Try again in a minute.",
+    "github": "GitHub would not answer. Try again in a moment.",
+    "off": "The check is not answering. It runs beside the page; if this is a local copy, its server may be off.",
     "failed": "The check could not finish. Try again in a moment."
   },
   "language": {
