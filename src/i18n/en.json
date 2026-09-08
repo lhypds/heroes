@@ -13,12 +13,12 @@
     "title": "The rules",
     "items": [
       {
-        "name": "A hundred public repositories of your own",
-        "body": "Public: anyone can open, read and clone the repository. Your own: you created it. A fork of someone else's repository is theirs, not yours, and does not count."
+        "name": "100 public repositories of your own",
+        "body": "Public: anyone can open the repository, read it and clone it. Your own: you created it. A fork of someone else's repository does not count."
       },
       {
         "name": "Each one real code",
-        "body": "Ten commits or more, and more than a hundred lines of code in a programming language. A repository that is only a README, or only prose, data or configuration, does not count, and is left out of the hundred. Stars are not asked for."
+        "body": "10 commits or more, and more than 100 lines of code in a programming language."
       }
     ]
   },
