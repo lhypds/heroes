@@ -141,7 +141,14 @@ const checked = (request, response, handle) => {
   const answer = answers.get(handle);
   if (answer && fresh(answer)) {
     if (answer.unknown) return send(request, response, 404, { status: "unknown", handle, error: "no such user on GitHub" });
-    if (answer.error) return send(request, response, 502, { status: "error", handle, error: answer.error });
+    if (answer.error) {
+      // A token GitHub will not take is the check being off, the same as
+      // having no token at all, and is answered the same way; anything else
+      // is GitHub itself, which is worth asking again in a moment.
+      const off = /token was refused|needs a token/i.test(answer.error);
+      return send(request, response, off ? 503 : 502, { status: "error", handle, error: answer.error },
+        off ? { "retry-after": "60" } : {});
+    }
     // An answer that stands is worth keeping at the browser too, for as long
     // as it has left here.
     const age = Math.round((Date.now() - answer.at) / 1000);
