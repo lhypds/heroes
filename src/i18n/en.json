@@ -4,7 +4,7 @@
   },
   "hero": {
     "name": "Code Heroes",
-    "tagline": "The programmers who build a hundred repos.",
+    "tagline": "Programmers who build hundreds of repositories and make thousands of commits.",
     "lede": "Code Heroes is a public list of programmers who have a hundred public repositories of their own, every one of them real code. The bar to join is ten. Ten public repositories put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
     "join": "Be a hero",
     "source": "Source on GitHub"
@@ -14,15 +14,15 @@
     "items": [
       {
         "name": "100 public repositories of your own",
-        "body": "Public: anyone can open the repository, read it and clone it. Your own: you created it. A fork of someone else's repository does not count."
+        "body": "“Public” means that anyone can open, read, and clone the repository. “Your own” means that you created it. Forks of other people’s repositories do not count."
       },
       {
-        "name": "Each one real code",
-        "body": "10 commits or more, and more than 100 lines of code in a programming language."
+        "name": "Each repository must contain real code",
+        "body": "Each repository must have at least 10 commits and more than 100 lines of code in any programming language."
       },
       {
-        "name": "At least one repo with 1000 commits",
-        "body": "One of your public repositories carries 1000 commits or more. The rest need only the ten."
+        "name": "At least one repository with 1,000 commits",
+        "body": "At least one of your public repositories must contain 1,000 or more commits."
       }
     ]
   },

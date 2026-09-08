@@ -4,7 +4,7 @@
   },
   "hero": {
     "name": "Héros du code",
-    "tagline": "Les programmeurs qui construisent cent dépôts.",
+    "tagline": "Des programmeurs qui construisent des centaines de dépôts et font des milliers de commits.",
     "lede": "Héros du code est une liste publique de programmeurs qui ont cent dépôts publics créés par eux-mêmes, chacun fait de vrai code. Le seuil d'entrée est de dix. Dix dépôts publics inscrivent un nom sur la liste ; le compte à côté va jusqu'à cent. Chacun peut vérifier une entrée, et chacun peut en ajouter une par pull request.",
     "join": "Devenez un héros",
     "source": "Source sur GitHub"
@@ -14,15 +14,15 @@
     "items": [
       {
         "name": "100 dépôts publics à soi",
-        "body": "Public : n'importe qui peut ouvrir, lire et cloner le dépôt. À soi : c'est vous qui l'avez créé. Un fork du dépôt de quelqu'un d'autre ne compte pas."
+        "body": "« Public » signifie que n'importe qui peut ouvrir, lire et cloner le dépôt. « À soi » signifie que c'est vous qui l'avez créé. Les forks des dépôts d'autres personnes ne comptent pas."
       },
       {
-        "name": "Chacun fait de vrai code",
-        "body": "10 commits ou plus, et plus de 100 lignes de code dans un langage de programmation."
+        "name": "Chaque dépôt doit contenir du vrai code",
+        "body": "Chaque dépôt doit avoir au moins 10 commits et plus de 100 lignes de code dans n'importe quel langage de programmation."
       },
       {
         "name": "Au moins un dépôt à 1000 commits",
-        "body": "L'un de vos dépôts publics compte 1000 commits ou plus. Aux autres, les dix suffisent."
+        "body": "Au moins un de vos dépôts publics doit compter 1000 commits ou plus."
       }
     ]
   },

@@ -14,14 +14,15 @@ Rules
 -----
 
 1. 100 public repositories of your own.  
-   Public: anyone can open the repository, read it and clone it. Your own: you created it.
-   A fork of someone else's repository does not count.  
+   "Public" means that anyone can open, read, and clone the repository. "Your own"
+   means that you created it. Forks of other people's repositories do not count.  
 
-2. Each of the 100 is real code.  
-   Real code: 10 commits or more, and more than a 100 lines of code in a programming language. 
+2. Each repository must contain real code.  
+   Each repository must have at least 10 commits and more than 100 lines of code
+   in any programming language.  
 
-3. At least one repo with 1000 commits.  
-   One of the public repositories carries 1000 commits or more. The rest need only the ten.  
+3. At least one repository with 1,000 commits.  
+   At least one of your public repositories must contain 1,000 or more commits.  
 
 
 Docs

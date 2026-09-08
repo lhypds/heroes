@@ -4,7 +4,7 @@
   },
   "hero": {
     "name": "Héroes del código",
-    "tagline": "Los programadores que construyen cien repositorios.",
+    "tagline": "Programadores que construyen cientos de repositorios y hacen miles de commits.",
     "lede": "Héroes del código es una lista pública de programadores que tienen cien repositorios públicos creados por ellos mismos, cada uno hecho de código de verdad. El listón para entrar es diez. Diez repositorios públicos ponen un nombre en la lista; la cuenta de al lado llega hasta cien. Cualquiera puede comprobar una entrada, y cualquiera puede añadir una con un pull request.",
     "join": "Sé un héroe",
     "source": "Código en GitHub"
@@ -14,15 +14,15 @@
     "items": [
       {
         "name": "100 repositorios públicos propios",
-        "body": "Público: cualquiera puede abrir, leer y clonar el repositorio. Propio: lo creaste tú. Un fork del repositorio de otra persona no cuenta."
+        "body": "«Público» significa que cualquiera puede abrir, leer y clonar el repositorio. «Propio» significa que lo creaste tú. Los forks de repositorios de otras personas no cuentan."
       },
       {
-        "name": "Cada uno, código de verdad",
-        "body": "10 commits o más, y más de 100 líneas de código en un lenguaje de programación."
+        "name": "Cada repositorio debe contener código de verdad",
+        "body": "Cada repositorio debe tener al menos 10 commits y más de 100 líneas de código en cualquier lenguaje de programación."
       },
       {
         "name": "Al menos un repositorio con 1000 commits",
-        "body": "Uno de tus repositorios públicos acumula 1000 commits o más. A los demás les bastan los diez."
+        "body": "Al menos uno de tus repositorios públicos debe tener 1000 commits o más."
       }
     ]
   },

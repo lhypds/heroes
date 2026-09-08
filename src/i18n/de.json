@@ -4,7 +4,7 @@
   },
   "hero": {
     "name": "Code-Helden",
-    "tagline": "Die Programmierer, die hundert Repositories anlegen.",
+    "tagline": "Programmierer, die Hunderte von Repositories bauen und Tausende von Commits machen.",
     "lede": "Code-Helden ist eine öffentliche Liste von Programmierern mit hundert selbst angelegten öffentlichen Repositories, jedes davon echter Code. Die Hürde zum Einstieg liegt bei zehn. Zehn öffentliche Repositories bringen einen Namen auf die Liste; der Zähler daneben läuft bis hundert. Jeder kann einen Eintrag prüfen, und jeder kann per Pull Request einen hinzufügen.",
     "join": "Werde ein Held",
     "source": "Quellcode auf GitHub"
@@ -14,15 +14,15 @@
     "items": [
       {
         "name": "100 eigene öffentliche Repositories",
-        "body": "Öffentlich: Jeder kann das Repository öffnen, lesen und klonen. Eigen: Du hast es angelegt. Ein Fork eines fremden Repositorys zählt nicht."
+        "body": "„Öffentlich“ heißt, dass jeder das Repository öffnen, lesen und klonen kann. „Eigen“ heißt, dass du es angelegt hast. Forks fremder Repositories zählen nicht."
       },
       {
-        "name": "Jedes davon echter Code",
-        "body": "10 Commits oder mehr, und mehr als 100 Zeilen Code in einer Programmiersprache."
+        "name": "Jedes Repository muss echten Code enthalten",
+        "body": "Jedes Repository muss mindestens 10 Commits und mehr als 100 Zeilen Code in einer beliebigen Programmiersprache haben."
       },
       {
         "name": "Mindestens ein Repository mit 1000 Commits",
-        "body": "Eines deiner öffentlichen Repositories trägt 1000 Commits oder mehr. Den übrigen genügen die zehn."
+        "body": "Mindestens eines deiner öffentlichen Repositories muss 1000 oder mehr Commits enthalten."
       }
     ]
   },
