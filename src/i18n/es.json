@@ -63,6 +63,48 @@
     "copy": "Copiar el prompt",
     "copied": "Copiado"
   },
+  "check": {
+    "title": "Compruébate",
+    "lede": "Pon un nombre de usuario de GitHub y las reglas se leen contra esa cuenta: cada repositorio público propio que no sea un fork, cuántos commits tiene y cuánto código hay dentro.",
+    "placeholder": "tu nombre de usuario de GitHub",
+    "submit": "Comprobar",
+    "starting": "empezando…",
+    "reading": "{{read}} de {{of}} repositorios leídos…",
+    "waiting": "{{n}} comprobaciones por delante…",
+    "own": "{{own}} repositorios públicos propios, {{all}} contando los forks.",
+    "grid": "{{n}} de 100 repositorios que cuentan",
+    "one": "{{n}} de {{need}}",
+    "two": "{{counted}} cuentan, {{over}} no",
+    "three": "{{repo}}, {{n}} commits",
+    "none": "todavía ningún repositorio cerca de los mil commits",
+    "hero": "Un héroe: cien repositorios que cuentan, y uno de ellos con mil commits.",
+    "listed": "En la lista: {{n}} de cien. El listón para entrar es diez.",
+    "under": "{{n}} de los diez con los que empieza la lista.",
+    "sieve": "La segunda regla es el tamiz por el que cuenta la primera: un repositorio cuenta si es tuyo, no es un fork, y tiene 10 commits o más y más de 100 líneas de código. Las líneas se estiman a partir de los bytes que GitHub da para cada lenguaje, a treinta bytes por línea, así que un repositorio justo en el límite merece una segunda mirada.",
+    "show": "Mostrar los repositorios",
+    "hide": "Ocultar los repositorios",
+    "counts": "Estos cuentan",
+    "passedOver": "Estos no",
+    "columns": {
+      "repository": "repositorio",
+      "commits": "commits",
+      "lines": "líneas",
+      "languages": "lenguajes",
+      "short": "qué falta"
+    },
+    "why": {
+      "mirror": "un espejo del repositorio de otro",
+      "empty": "vacío",
+      "commits": "muy pocos commits",
+      "prose": "sin código, solo texto o datos",
+      "lines": "muy poco código"
+    },
+    "unknown": "No hay ningún usuario así en GitHub.",
+    "notAName": "Eso no es un nombre de usuario de GitHub.",
+    "limit": "Demasiadas comprobaciones desde aquí esta hora. Inténtalo más tarde.",
+    "busy": "Demasiadas comprobaciones en cola ahora mismo. Inténtalo en un minuto.",
+    "failed": "La comprobación no pudo terminar. Inténtalo dentro de un momento."
+  },
   "language": {
     "title": "Idioma"
   },

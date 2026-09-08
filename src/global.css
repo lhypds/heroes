@@ -29,8 +29,10 @@
   --link: #0969da;
   --focus: #0969da;
   /* A square of the hundred, on and off, and the edge each one is drawn
-     with: the contribution graph's own. */
+     with: the contribution graph's own. --over is the square past the
+     hundred, the graph's deepest green. */
   --fill: #2da44e;
+  --over: #216e39;
   --blank: #eff2f5;
   --cell-edge: #1f23280d;
   /* The filled button and the outlined one, at rest, under the pointer, and
@@ -87,6 +89,9 @@
   --link: #4493f8;
   --focus: #1f6feb;
   --fill: #2ea043;
+  /* On dark the graph climbs towards light, so the square past the hundred
+     is its brightest green rather than its deepest. */
+  --over: #56d364;
   --blank: #151b23;
   --cell-edge: #0104090d;
   --primary-bg: #da3633;
@@ -124,6 +129,7 @@
   --link: var(--ink);
   --focus: var(--ink);
   --fill: var(--ink);
+  --over: var(--muted);
   --blank: var(--soft);
   --cell-edge: transparent;
   --primary-bg: var(--ink);

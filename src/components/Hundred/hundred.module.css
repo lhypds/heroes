@@ -1,3 +1,9 @@
+.hundred {
+  display: grid;
+  gap: 4px;
+  width: max-content;
+}
+
 .grid {
   --cell: 10px;
   --gap: 2px;
@@ -5,11 +11,23 @@
   grid-template-columns: repeat(10, var(--cell));
   grid-auto-rows: var(--cell);
   gap: var(--gap);
-  width: max-content;
+}
+
+/* What is past the hundred: half the square, twice as many to the row. Twenty
+   columns of 4px with 2px between them come to 118px, the width of the ten by
+   ten above it to the pixel, so the two sit as one block. */
+.rest {
+  --cell: 4px;
+  --gap: 2px;
+  display: grid;
+  grid-template-columns: repeat(20, var(--cell));
+  grid-auto-rows: var(--cell);
+  gap: var(--gap);
 }
 
 /* Each square has a faint edge drawn inside it, as the contribution graph's
-   do; in black and white the edge is nothing. */
+   do; in black and white the edge is nothing. The small ones are too small to
+   carry one. */
 .on,
 .off {
   box-shadow: inset 0 0 0 1px var(--cell-edge);
@@ -21,4 +39,8 @@
 
 .off {
   background: var(--blank);
+}
+
+.extra {
+  background: var(--over);
 }

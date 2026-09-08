@@ -10,8 +10,17 @@ Node.js 22.13 or later.
 `npm run build` — a static site in `dist/`  
 `npm run check` — every entry under `data/heroes/`; add `--online` to ask each
 link whether it answers  
-`./crawl.sh` — people who might be heroes, into `data/crawl.db`. Needs
-`GITHUB_TOKEN`, in the environment or `.env`, or a signed-in `gh`  
+`npm run account -- <handle>` — one GitHub account read against the rules;
+`--list` says it repository by repository, `--json` as the API answers it  
+`./crawl.sh` — people who might be heroes, into `data/crawl.db`  
+
+The same check answers over HTTP under `/api`, on the page's own port: `npm
+run dev` and `npm run preview` both serve it, and there is no second process
+and nothing proxied. [Check an account](30_Check%20an%20account.md) has the
+addresses and what the numbers mean.  
+
+The account check and the crawl both need a GitHub token: `GITHUB_TOKEN`, in
+the environment or `.env`, or a signed-in `gh`.  
 
 
 The crawl
@@ -79,8 +88,11 @@ people, `--report` says how many are left and how many went and why, and
 Deploy
 ------
 
-The built site is served by `vite preview` under PM2. `.env` holds the port,
-the PM2 process name and the public hostname; `.env.example` has the keys.  
+The built site is served by `vite preview` under PM2, and the account check
+runs beside it as a second process, `<PM2_NAME>-api`, which `vite preview`
+proxies at `/api`; one port is public, and the check needs none of its own.
+`.env` holds the two ports, the PM2 process name, the public hostname and the
+GitHub token; `.env.example` has the keys.  
 
 `./setup.sh` — copies `.env.example` to `.env` if there is none, asks for
 `HOST`, installs and builds  

@@ -23,11 +23,3 @@ Rules
 
 3. At least one repository with 1,000 commits.  
    At least one of your public repositories must contain 1,000 or more commits.  
-
-
-Docs
-----
-
-[Add yourself](docs/20_Add%20yourself.md) — one file, one pull request;
-[CONTRIBUTING.md](CONTRIBUTING.md) has the fields and an example  
-[Develop](docs/40_Develop.md) — run it, build it, deploy it under PM2  

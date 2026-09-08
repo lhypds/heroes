@@ -63,6 +63,48 @@
     "copy": "复制 Prompt",
     "copied": "已复制"
   },
+  "check": {
+    "title": "检查你自己",
+    "lede": "填入一个 GitHub 用户名，规则就会对着这个账号读一遍：每一个自己建立的、不是 fork 的公开仓库，它有多少 commit，里面有多少代码。",
+    "placeholder": "你的 GitHub 用户名",
+    "submit": "检查",
+    "starting": "开始…",
+    "reading": "已读 {{read}} / {{of}} 个仓库…",
+    "waiting": "前面还排着 {{n}} 个检查…",
+    "own": "{{own}} 个自己建立的公开仓库，连 fork 一起算是 {{all}} 个。",
+    "grid": "一百个之中算数的 {{n}} 个",
+    "one": "{{n}} / {{need}}",
+    "two": "{{counted}} 个算数，{{over}} 个不算",
+    "three": "{{repo}}，{{n}} 次 commit",
+    "none": "还没有接近一千次 commit 的仓库",
+    "hero": "英雄：一百个算数的仓库，其中一个有一千次 commit。",
+    "listed": "已在名单上：一百个里的 {{n}} 个。十个是入门的门槛。",
+    "under": "名单从十个起步，现在是 {{n}} 个。",
+    "sieve": "第二条规则是第一条数数时用的筛子：仓库要是自己的、不是 fork，有 10 次以上 commit，以及超过 100 行代码，才算数。行数是按 GitHub 给出的各语言字节数、每行三十字节折算的，所以正好卡在线上的仓库值得再看一眼。",
+    "show": "展开仓库列表",
+    "hide": "收起仓库列表",
+    "counts": "这些算数",
+    "passedOver": "这些不算",
+    "columns": {
+      "repository": "仓库",
+      "commits": "commit",
+      "lines": "行数",
+      "languages": "语言",
+      "short": "差在哪"
+    },
+    "why": {
+      "mirror": "别人仓库的镜像",
+      "empty": "空的",
+      "commits": "commit 太少",
+      "prose": "没有代码，只有文档或数据",
+      "lines": "代码太少"
+    },
+    "unknown": "GitHub 上没有这个用户。",
+    "notAName": "这不是一个 GitHub 用户名。",
+    "limit": "这一小时内从这里发起的检查太多了，请稍后再试。",
+    "busy": "眼下排队的检查太多了，请过一分钟再试。",
+    "failed": "检查没能完成，请稍后再试。"
+  },
   "language": {
     "title": "语言"
   },

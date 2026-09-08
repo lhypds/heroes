@@ -1,0 +1,415 @@
+/* The box that reads an account, and the answer under it. Set as the rest of
+   the page is: ink for the names and the numbers, grey for what explains
+   them, hairlines between. */
+.check {
+  margin-bottom: 36px;
+  padding-bottom: 36px;
+  border-bottom: 1px solid var(--line);
+}
+
+.subLabel {
+  margin: 0 0 14px 0;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  color: var(--muted);
+}
+
+.lede {
+  margin: 0;
+  max-width: 42em;
+  color: var(--muted);
+}
+
+/* The field and the button, side by side, and stacked when there is no room
+   for both. */
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+/* GitHub's text field: a 1px border, 32px tall, the same box as the button
+   beside it. The @ is drawn inside it, so what is typed is a handle. */
+.field {
+  display: flex;
+  align-items: baseline;
+  min-width: 0;
+  background: var(--paper);
+  border: 1px solid var(--border);
+}
+
+.field:focus-within {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.at {
+  padding-left: 12px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.input {
+  width: 22ch;
+  max-width: 100%;
+  padding: 6px 12px 6px 2px;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: var(--tracking-body);
+}
+
+.input::placeholder {
+  color: var(--muted);
+  font-family: var(--font-sans);
+}
+
+.input:focus {
+  outline: none;
+}
+
+/* Primer's .btn-primary, as the page's other filled button. */
+.primary {
+  padding: 6px 16px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  text-align: center;
+  background: var(--primary-bg);
+  color: var(--primary-fg);
+  border: 1px solid var(--primary-border);
+  box-shadow: var(--primary-shadow);
+  cursor: pointer;
+  transition:
+    color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    background-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    border-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    box-shadow 80ms cubic-bezier(0.33, 1, 0.68, 1);
+}
+
+.primary:hover:not(:disabled) {
+  background: var(--primary-hover);
+}
+
+.primary:active:not(:disabled) {
+  background: var(--primary-active);
+}
+
+.primary:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.primary:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+/* One line under the field: how far the check has got, or what went wrong.
+   It keeps its height either way, so nothing below it jumps. */
+.status,
+.problem {
+  margin: 12px 0 0 0;
+  min-height: 22px;
+  font-size: 14px;
+}
+
+.status {
+  color: var(--muted);
+}
+
+.problem {
+  color: var(--primary-bg);
+}
+
+/* The answer */
+.result {
+  margin-top: 10px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+/* Who was read on the left, how far along the hundred on the right, as a
+   name on the list is set. */
+.head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 28px;
+  align-items: start;
+}
+
+.who {
+  min-width: 0;
+}
+
+.name {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  line-height: 1.2;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 6px;
+}
+
+.links a {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+}
+
+.links a:hover {
+  border-color: currentColor;
+}
+
+.own {
+  margin: 10px 0 0 0;
+  max-width: 42em;
+  color: var(--muted);
+}
+
+.score {
+  display: grid;
+  justify-items: end;
+  gap: 10px;
+}
+
+.number {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  line-height: 1;
+}
+
+.n {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: var(--tracking-display);
+}
+
+.of {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+/* The three rules, one to a row: its number, whether it is met, what it asks
+   for, and what this account has against it. */
+.marks {
+  display: grid;
+  grid-template-columns: 32px 16px minmax(0, 1fr) auto;
+  list-style: none;
+  margin: 24px 0 0 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+
+.mark {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: 32px 16px minmax(0, 1fr) auto;
+  grid-template-columns: subgrid;
+  gap: 20px;
+  align-items: baseline;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.index {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* Met, not met, and the rule that is neither: the second is the sieve the
+   first counts through, and it is answered with what it sifted. */
+.signOk,
+.signShort,
+.signSieve {
+  font-family: var(--font-mono);
+  line-height: 1;
+}
+
+.signOk {
+  color: var(--fill);
+}
+
+.signShort,
+.signSieve {
+  color: var(--muted);
+}
+
+.markName {
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+}
+
+.markValue {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+  text-align: right;
+}
+
+/* What it comes to, in a line. */
+.verdict {
+  margin: 22px 0 0 0;
+  max-width: 36em;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  line-height: 1.4;
+  text-wrap: balance;
+}
+
+.note {
+  margin: 12px 0 0 0;
+  max-width: 42em;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* The repositories themselves, unfolded by the line that names them, as a
+   name on the list unfolds its applications. */
+.toggle {
+  margin-top: 20px;
+  padding: 0;
+  border: 0;
+  border-bottom: 1px solid transparent;
+  background: none;
+  font: inherit;
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  color: inherit;
+  cursor: pointer;
+}
+
+.toggle:hover {
+  border-bottom-color: currentColor;
+}
+
+.toggle:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.plus {
+  margin-left: 12px;
+  font-family: var(--font-mono);
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.listLabel {
+  margin: 24px 0 0 0;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  color: var(--muted);
+}
+
+/* A table of them, since that is what it is; too narrow a window scrolls it
+   sideways rather than squeezing the columns. */
+.wide {
+  overflow-x: auto;
+}
+
+.repos {
+  width: 100%;
+  margin-top: 8px;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.repos th,
+.repos td {
+  padding: 8px 20px 8px 0;
+  text-align: left;
+  vertical-align: baseline;
+  border-bottom: 1px solid var(--line);
+}
+
+.repos th {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.repos tbody tr:hover {
+  background: var(--soft);
+}
+
+.repoName {
+  color: var(--ink);
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.repoName:hover {
+  border-bottom-color: currentColor;
+}
+
+/* The two the rules read, in the face numbers are set in here. Named with
+   the table so it outweighs the cell's own alignment. */
+.repos .figure {
+  width: 1%;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+  text-align: right;
+}
+
+.why {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+@media (max-width: 760px) {
+  .head {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 18px;
+  }
+
+  .score {
+    justify-items: start;
+  }
+
+  /* The rule's name and what this account has against it, one under the
+     other, with the sign still beside them. */
+  .marks,
+  .mark {
+    grid-template-columns: 32px 16px minmax(0, 1fr);
+  }
+
+  .mark {
+    grid-template-columns: subgrid;
+    gap: 4px 20px;
+  }
+
+  .markValue {
+    grid-column: 3;
+    text-align: left;
+  }
+
+  /* The table keeps its columns and scrolls sideways in .wide rather than
+     squeezing; only its padding gives way. */
+  .repos th,
+  .repos td {
+    padding-right: 14px;
+  }
+}

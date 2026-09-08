@@ -9,6 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "check": "node scripts/check.js",
+    "account": "node --env-file-if-exists=.env api/account.js",
     "crawl": "node data/crawl.js",
     "cleaning": "node data/cleaning.js"
   },

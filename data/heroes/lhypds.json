@@ -306,6 +306,286 @@
       "repo": "https://github.com/lhypds/yt",
       "language": "Python",
       "platform": "macOS, Linux"
+    },
+    {
+      "name": "Liveboard Basic Modules",
+      "description": {
+        "en": "The basic cards for Liveboard: a website, a note, the weather, a clock, a map, a chat.",
+        "zh": "Liveboard 的基础卡片：网页、便签、天气、时钟、地图、聊天。",
+        "ja": "Liveboard の基本カード。ウェブサイト、メモ、天気、時計、地図、チャット。",
+        "fr": "Les cartes de base de Liveboard : un site, une note, la météo, une horloge, une carte, un chat.",
+        "es": "Las tarjetas básicas de Liveboard: un sitio, una nota, el tiempo, un reloj, un mapa, un chat.",
+        "de": "Die Grundkarten für Liveboard: eine Website, eine Notiz, das Wetter, eine Uhr, eine Karte, ein Chat."
+      },
+      "repo": "https://github.com/lhypds/liveboard-mod-basic",
+      "language": "TypeScript",
+      "platform": "Liveboard"
+    },
+    {
+      "name": "Liveboard Calculator Modules",
+      "description": {
+        "en": "Calculator cards for Liveboard: the 1984 Macintosh one, and ones for property, stocks and tokens.",
+        "zh": "Liveboard 的计算器卡片：1984 年 Macintosh 那台，还有房产、股票和 token 的。",
+        "ja": "Liveboard の電卓カード。1984 年の Macintosh のもの、そして不動産・株式・トークン用。",
+        "fr": "Des cartes calculatrice pour Liveboard : celle du Macintosh de 1984, et pour l'immobilier, la bourse et les tokens.",
+        "es": "Tarjetas de calculadora para Liveboard: la del Macintosh de 1984, y para inmuebles, bolsa y tokens.",
+        "de": "Rechnerkarten für Liveboard: die des Macintosh von 1984, dazu für Immobilien, Aktien und Tokens."
+      },
+      "repo": "https://github.com/lhypds/liveboard-mod-calc",
+      "language": "TypeScript",
+      "platform": "Liveboard"
+    },
+    {
+      "name": "Pico HID",
+      "description": {
+        "en": "A Raspberry Pi Pico W that types and clicks on the machine it is plugged into, over the network.",
+        "zh": "一块 Raspberry Pi Pico W，通过网络在插着它的机器上敲键盘、点鼠标。",
+        "ja": "ネットワーク越しに、つないだ機械のキーボードとマウスを動かす Raspberry Pi Pico W。",
+        "fr": "Un Raspberry Pi Pico W qui tape et clique sur la machine où il est branché, par le réseau.",
+        "es": "Una Raspberry Pi Pico W que teclea y hace clic en la máquina donde está conectada, por red.",
+        "de": "Ein Raspberry Pi Pico W, der über das Netz auf dem angeschlossenen Rechner tippt und klickt."
+      },
+      "repo": "https://github.com/lhypds/pico-hid",
+      "language": "Python",
+      "platform": "Raspberry Pi Pico W"
+    },
+    {
+      "name": "GoPro C# Development",
+      "description": {
+        "en": "Drives a GoPro HERO 9 or 10 from Windows, over Bluetooth, Wi-Fi or USB-C.",
+        "zh": "在 Windows 上通过蓝牙、Wi-Fi 或 USB-C 控制 GoPro HERO 9 和 10。",
+        "ja": "Bluetooth・Wi-Fi・USB-C で GoPro HERO 9 / 10 を Windows から操作する。",
+        "fr": "Pilote un GoPro HERO 9 ou 10 depuis Windows, en Bluetooth, Wi-Fi ou USB-C.",
+        "es": "Controla una GoPro HERO 9 o 10 desde Windows, por Bluetooth, Wi-Fi o USB-C.",
+        "de": "Steuert eine GoPro HERO 9 oder 10 von Windows aus, über Bluetooth, WLAN oder USB-C."
+      },
+      "repo": "https://github.com/lhypds/gopro-csharp-dev",
+      "language": "C#",
+      "platform": "Windows"
+    },
+    {
+      "name": "Code Heroes",
+      "description": {
+        "en": "This list: programmers with a hundred public repositories of their own, each one real code.",
+        "zh": "就是这个列表：拥有一百个自己的公开仓库、每个都是真代码的程序员。",
+        "ja": "このリスト自身。自分の公開リポジトリを百個持ち、そのどれもが本物のコードである人たち。",
+        "fr": "Cette liste : les programmeurs avec cent dépôts publics à eux, chacun du vrai code.",
+        "es": "Esta lista: programadores con cien repositorios públicos propios, cada uno código de verdad.",
+        "de": "Diese Liste: Programmierer mit hundert eigenen öffentlichen Repositories, jedes davon echter Code."
+      },
+      "repo": "https://github.com/lhypds/heroes",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Input Method Switcher",
+      "description": {
+        "en": "Switches the Windows input method with one key, and shows which one is on.",
+        "zh": "一个键切换 Windows 输入法，并显示当前是哪个。",
+        "ja": "キーひとつで Windows の入力方式を切り替え、いまどれかを表示する。",
+        "fr": "Change la méthode de saisie de Windows d'une touche, et montre laquelle est active.",
+        "es": "Cambia el método de entrada de Windows con una tecla, y muestra cuál está activo.",
+        "de": "Wechselt die Windows-Eingabemethode mit einer Taste und zeigt, welche aktiv ist."
+      },
+      "repo": "https://github.com/lhypds/input-method-switcher",
+      "language": "C#",
+      "platform": "Windows"
+    },
+    {
+      "name": "TF GUI Tool",
+      "description": {
+        "en": "Team Foundation Server check-ins and diffs, without opening Visual Studio.",
+        "zh": "不打开 Visual Studio 也能签入和看 diff 的 Team Foundation Server 工具。",
+        "ja": "Visual Studio を開かずに Team Foundation Server のチェックインと差分を扱う。",
+        "fr": "Les archivages et les diffs de Team Foundation Server, sans ouvrir Visual Studio.",
+        "es": "Los check-ins y diffs de Team Foundation Server, sin abrir Visual Studio.",
+        "de": "Einchecken und Diffs für Team Foundation Server, ohne Visual Studio zu öffnen."
+      },
+      "repo": "https://github.com/lhypds/tf-gui",
+      "language": "C#",
+      "platform": "Windows"
+    },
+    {
+      "name": "Quick Launcher 2",
+      "description": {
+        "en": "A box that opens on a hotkey and runs the command you type.",
+        "zh": "一个快捷键唤起的输入框，敲什么命令就跑什么。",
+        "ja": "ホットキーで開き、打ち込んだコマンドを実行する小さな入力欄。",
+        "fr": "Une boîte qui s'ouvre au raccourci et lance la commande que vous tapez.",
+        "es": "Una caja que se abre con un atajo y ejecuta el comando que escribes.",
+        "de": "Ein Feld, das per Tastenkürzel aufgeht und den getippten Befehl ausführt."
+      },
+      "repo": "https://github.com/lhypds/quick-launcher-2",
+      "language": "C#",
+      "platform": "Windows"
+    },
+    {
+      "name": "TTS Video",
+      "description": {
+        "en": "Turns a text into a narrated video, with subtitles timed to the speech.",
+        "zh": "把一段文字做成配音视频，字幕跟着语音对齐。",
+        "ja": "文章をナレーション付きの動画にする。字幕は音声に合わせて刻まれる。",
+        "fr": "Transforme un texte en vidéo racontée, avec des sous-titres calés sur la voix.",
+        "es": "Convierte un texto en un vídeo narrado, con subtítulos ajustados a la voz.",
+        "de": "Macht aus einem Text ein vertontes Video, mit Untertiteln im Takt der Stimme."
+      },
+      "repo": "https://github.com/lhypds/tts-video",
+      "language": "Python",
+      "platform": "CLI"
+    },
+    {
+      "name": "pdfmd",
+      "description": {
+        "en": "Pulls the text, the tables and the pictures out of a PDF as Markdown, ready to hand to an AI.",
+        "zh": "把 PDF 里的文字、表格和图抽成 Markdown，直接喂给 AI。",
+        "ja": "PDF から本文・表・図を Markdown として取り出し、そのまま AI に渡せる形にする。",
+        "fr": "Extrait le texte, les tableaux et les images d'un PDF en Markdown, prêt pour une IA.",
+        "es": "Extrae el texto, las tablas y las imágenes de un PDF como Markdown, listo para una IA.",
+        "de": "Holt Text, Tabellen und Bilder als Markdown aus einem PDF, fertig für eine KI."
+      },
+      "repo": "https://github.com/lhypds/pdfmd",
+      "language": "Python",
+      "platform": "CLI"
+    },
+    {
+      "name": "Task Manager CL",
+      "description": {
+        "en": "Tasks kept as folders, read and moved through from the command line.",
+        "zh": "把任务存成文件夹，在命令行里翻阅和推进。",
+        "ja": "タスクをフォルダとして持ち、コマンドラインで眺めて進める。",
+        "fr": "Des tâches gardées en dossiers, parcourues depuis la ligne de commande.",
+        "es": "Tareas guardadas como carpetas, recorridas desde la línea de comandos.",
+        "de": "Aufgaben als Ordner, durchgesehen und bewegt von der Kommandozeile aus."
+      },
+      "repo": "https://github.com/lhypds/taskmgr-cl",
+      "language": "JavaScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "Livox Shortcut",
+      "description": {
+        "en": "Scripts for a Livox lidar: calibration, mapping, and joining the point clouds afterwards.",
+        "zh": "Livox 激光雷达的一套脚本：标定、建图，以及事后拼接点云。",
+        "ja": "Livox ライダーのためのスクリプト群。キャリブレーション、マッピング、そして点群の結合。",
+        "fr": "Des scripts pour un lidar Livox : calibration, cartographie, et fusion des nuages de points.",
+        "es": "Scripts para un lidar Livox: calibración, mapeo y unión de las nubes de puntos.",
+        "de": "Skripte für ein Livox-Lidar: Kalibrierung, Kartierung und das Zusammenfügen der Punktwolken."
+      },
+      "repo": "https://github.com/lhypds/livox-shortcut",
+      "language": "Shell",
+      "platform": "Linux"
+    },
+    {
+      "name": "Calculator",
+      "description": {
+        "en": "A calculator that runs on the desktop and as a web page, from the same code.",
+        "zh": "一个计算器，同一份代码既跑在桌面上，也跑成网页。",
+        "ja": "同じコードでデスクトップでもウェブページでも動く電卓。",
+        "fr": "Une calculatrice qui tourne sur le bureau et comme page web, depuis le même code.",
+        "es": "Una calculadora que corre en el escritorio y como página web, con el mismo código.",
+        "de": "Ein Rechner, der aus demselben Code auf dem Desktop und als Webseite läuft."
+      },
+      "repo": "https://github.com/lhypds/calculator",
+      "language": "C#",
+      "platform": "Windows, macOS, Linux"
+    },
+    {
+      "name": "Simple AI Node",
+      "description": {
+        "en": "One node of a distributed AI network, answering the queries Simple AI sends it.",
+        "zh": "分布式 AI 网络中的一个节点，回答 Simple AI 发来的查询。",
+        "ja": "分散 AI ネットワークの一ノード。Simple AI から届く問い合わせに答える。",
+        "fr": "Un nœud d'un réseau d'IA distribué, qui répond aux requêtes que Simple AI lui envoie.",
+        "es": "Un nodo de una red de IA distribuida, que responde a las consultas de Simple AI.",
+        "de": "Ein Knoten eines verteilten KI-Netzes, der die Anfragen von Simple AI beantwortet."
+      },
+      "repo": "https://github.com/gcc3/simple-ai-node",
+      "language": "Python",
+      "platform": "Linux"
+    },
+    {
+      "name": "MCP Client",
+      "description": {
+        "en": "A small Model Context Protocol client for the command line.",
+        "zh": "一个小的 Model Context Protocol 命令行客户端。",
+        "ja": "コマンドライン用の小さな Model Context Protocol クライアント。",
+        "fr": "Un petit client Model Context Protocol pour la ligne de commande.",
+        "es": "Un pequeño cliente de Model Context Protocol para la línea de comandos.",
+        "de": "Ein kleiner Model-Context-Protocol-Client für die Kommandozeile."
+      },
+      "repo": "https://github.com/lhypds/mcp-client",
+      "language": "JavaScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "Simple AI Hub",
+      "description": {
+        "en": "Asks every Simple AI node at once and gathers what comes back.",
+        "zh": "同时问所有 Simple AI 节点，把回来的结果汇到一起。",
+        "ja": "すべての Simple AI ノードに一度に尋ね、返ってきたものをまとめる。",
+        "fr": "Interroge tous les nœuds Simple AI d'un coup et rassemble ce qui revient.",
+        "es": "Pregunta a todos los nodos de Simple AI a la vez y reúne lo que vuelve.",
+        "de": "Fragt alle Simple-AI-Knoten auf einmal und sammelt, was zurückkommt."
+      },
+      "repo": "https://github.com/gcc3/simple-ai-hub",
+      "language": "Go",
+      "platform": "Linux"
+    },
+    {
+      "name": "Awaker",
+      "description": {
+        "en": "Keeps a machine awake by pressing a key that changes nothing.",
+        "zh": "按一个什么都不会改变的键，让机器不睡。",
+        "ja": "何も変えないキーを押しつづけて、機械を眠らせない。",
+        "fr": "Garde une machine éveillée en pressant une touche qui ne change rien.",
+        "es": "Mantiene despierta una máquina pulsando una tecla que no cambia nada.",
+        "de": "Hält einen Rechner wach, indem eine Taste gedrückt wird, die nichts ändert."
+      },
+      "repo": "https://github.com/lhypds/awaker",
+      "language": "Python",
+      "platform": "Windows"
+    },
+    {
+      "name": "Clipboard Online",
+      "description": {
+        "en": "A clipboard on a web page, shared between machines.",
+        "zh": "一个网页上的剪贴板，几台机器之间共用。",
+        "ja": "ウェブページ上のクリップボード。複数の機械で共有する。",
+        "fr": "Un presse-papiers sur une page web, partagé entre machines.",
+        "es": "Un portapapeles en una página web, compartido entre máquinas.",
+        "de": "Eine Zwischenablage auf einer Webseite, geteilt zwischen Rechnern."
+      },
+      "repo": "https://github.com/lhypds/clipboard-ol",
+      "language": "PHP",
+      "platform": "Web"
+    },
+    {
+      "name": "GeoJSON Previewer",
+      "description": {
+        "en": "Draws a GeoJSON file as a PNG or a PDF, without opening a map.",
+        "zh": "把 GeoJSON 文件画成 PNG 或 PDF，不用打开地图。",
+        "ja": "GeoJSON ファイルを地図を開かずに PNG か PDF として描く。",
+        "fr": "Dessine un fichier GeoJSON en PNG ou en PDF, sans ouvrir de carte.",
+        "es": "Dibuja un archivo GeoJSON como PNG o PDF, sin abrir un mapa.",
+        "de": "Zeichnet eine GeoJSON-Datei als PNG oder PDF, ohne eine Karte zu öffnen."
+      },
+      "repo": "https://github.com/lhypds/geojson-previewer",
+      "language": "Python",
+      "platform": "CLI"
+    },
+    {
+      "name": "dotenv web",
+      "description": {
+        "en": "Edits a server's .env file through a web page, with the sensitive keys held back.",
+        "zh": "在网页上改服务器的 .env 文件，敏感的键留着不给看。",
+        "ja": "サーバーの .env をウェブページから編集する。機微なキーは伏せたまま。",
+        "fr": "Modifie le fichier .env d'un serveur depuis une page web, les clés sensibles retenues.",
+        "es": "Edita el archivo .env de un servidor desde una página web, con las claves sensibles ocultas.",
+        "de": "Bearbeitet die .env-Datei eines Servers über eine Webseite, sensible Schlüssel bleiben verborgen."
+      },
+      "repo": "https://github.com/lhypds/dotenv-web",
+      "language": "JavaScript",
+      "platform": "Web"
     }
   ]
 }

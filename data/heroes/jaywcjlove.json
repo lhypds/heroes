@@ -565,21 +565,6 @@
       "platform": "CLI"
     },
     {
-      "name": "sb",
-      "description": {
-        "en": "SVG badges, generated to order.",
-        "zh": "按需生成的 SVG 徽章。",
-        "ja": "必要に応じて生成する SVG バッジ。",
-        "fr": "Des badges SVG, générés à la demande.",
-        "es": "Insignias SVG, generadas a medida.",
-        "de": "SVG-Badges, nach Wunsch erzeugt."
-      },
-      "repo": "https://github.com/jaywcjlove/sb",
-      "url": "https://jaywcjlove.github.io/sb",
-      "language": "JavaScript",
-      "platform": "Web"
-    },
-    {
       "name": "tsbb",
       "description": {
         "en": "Build, test and publish a TypeScript project with zero configuration.",
@@ -668,21 +653,6 @@
       "url": "https://jaywcjlove.github.io/colors-cli",
       "language": "JavaScript",
       "platform": "CLI"
-    },
-    {
-      "name": "ssr",
-      "description": {
-        "en": "Server-side rendered React apps with no configuration.",
-        "zh": "零配置的 React 服务端渲染应用。",
-        "ja": "設定なしでサーバーサイドレンダリングする React アプリ。",
-        "fr": "Des applications React rendues côté serveur, sans configuration.",
-        "es": "Aplicaciones React con renderizado en servidor, sin configuración.",
-        "de": "Serverseitig gerenderte React-Apps ohne Konfiguration."
-      },
-      "repo": "https://github.com/kktjs/ssr",
-      "url": "https://kktjs.github.io/ssr",
-      "language": "TypeScript",
-      "platform": "Node.js"
     },
     {
       "name": "react-code-preview",
@@ -1039,21 +1009,6 @@
       "repo": "https://github.com/jaywcjlove/swiftui-codemirror",
       "language": "Swift",
       "platform": "macOS, iOS"
-    },
-    {
-      "name": "github-action-package",
-      "description": {
-        "en": "A GitHub Action that reads and edits package.json.",
-        "zh": "GitHub Action：读取和修改 package.json。",
-        "ja": "package.json を読み書きする GitHub Action。",
-        "fr": "Une GitHub Action qui lit et modifie package.json.",
-        "es": "Una GitHub Action que lee y edita package.json.",
-        "de": "Eine GitHub Action, die package.json liest und ändert."
-      },
-      "repo": "https://github.com/jaywcjlove/github-action-package",
-      "url": "https://jaywcjlove.github.io/github-action-package",
-      "language": "TypeScript",
-      "platform": "GitHub Actions"
     },
     {
       "name": "SFSymbolsPicker",
@@ -1454,21 +1409,6 @@
       "platform": "Web"
     },
     {
-      "name": "github-action-upload-assets",
-      "description": {
-        "en": "A GitHub Action that uploads several files to a release at once.",
-        "zh": "一个 GitHub Action，一次把多个文件上传到 Release。",
-        "ja": "複数のファイルをまとめてリリースにアップロードする GitHub Action。",
-        "fr": "Une GitHub Action qui téléverse plusieurs fichiers vers une release d'un coup.",
-        "es": "Una GitHub Action que sube varios archivos a una release de una vez.",
-        "de": "Eine GitHub Action, die mehrere Dateien auf einmal zu einem Release hochlädt."
-      },
-      "repo": "https://github.com/jaywcjlove/github-action-upload-assets",
-      "url": "https://jaywcjlove.github.io/github-action-upload-assets/",
-      "language": "TypeScript",
-      "platform": "GitHub Actions"
-    },
-    {
       "name": "vscode-uiw",
       "description": {
         "en": "Preview uiw documentation inside VS Code.",
@@ -1482,21 +1422,6 @@
       "url": "https://marketplace.visualstudio.com/items?itemName=uiw.uiw",
       "language": "TypeScript",
       "platform": "VS Code"
-    },
-    {
-      "name": "ejs-cli",
-      "description": {
-        "en": "A command-line EJS renderer, with watching, data files and more than the original.",
-        "zh": "命令行里的 EJS 渲染器，支持监听、数据文件，比原版多不少功能。",
-        "ja": "コマンドラインの EJS レンダラー。監視やデータファイルなど、元より多くの機能。",
-        "fr": "Un moteur EJS en ligne de commande, avec surveillance, fichiers de données et plus que l'original.",
-        "es": "Un renderizador de EJS en línea de comandos, con vigilancia, archivos de datos y más que el original.",
-        "de": "Ein EJS-Renderer für die Kommandozeile, mit Beobachten, Datendateien und mehr als das Original."
-      },
-      "repo": "https://github.com/jaywcjlove/ejs-cli",
-      "url": "https://jaywcjlove.github.io/ejs-cli/",
-      "language": "TypeScript",
-      "platform": "CLI"
     },
     {
       "name": "compile-less",
@@ -1721,20 +1646,6 @@
       "platform": "Node.js"
     },
     {
-      "name": "SVGSymbolKit",
-      "description": {
-        "en": "A Swift package that parses SVG icons and renders them as SF Symbols-style vector assets.",
-        "zh": "一个 Swift 包，解析 SVG 图标并渲染成 SF Symbols 风格的矢量资源。",
-        "ja": "SVG アイコンを解析し、SF Symbols 風のベクター素材として描く Swift パッケージ。",
-        "fr": "Un paquet Swift qui lit des icônes SVG et les rend en ressources vectorielles à la SF Symbols.",
-        "es": "Un paquete Swift que analiza iconos SVG y los renderiza como recursos vectoriales al estilo SF Symbols.",
-        "de": "Ein Swift-Paket, das SVG-Icons liest und als Vektorgrafiken im Stil von SF Symbols zeichnet."
-      },
-      "repo": "https://github.com/jaywcjlove/SVGSymbolKit",
-      "language": "Swift",
-      "platform": "macOS, iOS"
-    },
-    {
       "name": "create-kkt",
       "description": {
         "en": "Creates a kkt React project from the command line.",
@@ -1765,20 +1676,6 @@
       "platform": "CLI"
     },
     {
-      "name": "gitke",
-      "description": {
-        "en": "A small git server in Swift.",
-        "zh": "用 Swift 写的小型 git 服务器。",
-        "ja": "Swift で書いた小さな git サーバー。",
-        "fr": "Un petit serveur git en Swift.",
-        "es": "Un pequeño servidor git en Swift.",
-        "de": "Ein kleiner Git-Server in Swift."
-      },
-      "repo": "https://github.com/jaywcjlove/gitke",
-      "language": "Swift",
-      "platform": "CLI"
-    },
-    {
       "name": "linkly",
       "description": {
         "en": "A Swift command that turns one JSON file into a page of links, Linktree-style.",
@@ -1792,6 +1689,1023 @@
       "url": "https://wangchujiang.com/linkly/",
       "language": "Swift",
       "platform": "CLI"
+    },
+    {
+      "name": "kkt-next",
+      "description": {
+        "en": "Creates React apps with no build configuration, from the command line.",
+        "zh": "命令行里建 React 应用，不用写打包配置。",
+        "ja": "ビルド設定なしで React アプリをつくるコマンド。",
+        "fr": "Crée des applications React sans configuration de build, en ligne de commande.",
+        "es": "Crea aplicaciones React sin configuración de compilación, desde la línea de comandos.",
+        "de": "Erzeugt React-Anwendungen ohne Build-Konfiguration, von der Kommandozeile aus."
+      },
+      "repo": "https://github.com/kktjs/kkt-next",
+      "url": "https://npmjs.com/kkt",
+      "language": "TypeScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "pml",
+      "description": {
+        "en": "A small password manager that runs as a web page.",
+        "zh": "一个跑在网页上的小密码管理器。",
+        "ja": "ウェブページとして動く小さなパスワード管理。",
+        "fr": "Un petit gestionnaire de mots de passe qui tourne comme page web.",
+        "es": "Un pequeño gestor de contraseñas que corre como página web.",
+        "de": "Ein kleiner Passwortmanager, der als Webseite läuft."
+      },
+      "repo": "https://github.com/jaywcjlove/pml",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "SwiftUI Example",
+      "description": {
+        "en": "Hundreds of small SwiftUI programs, one for each thing the framework can do.",
+        "zh": "几百个小的 SwiftUI 程序，框架能做的每件事各一个。",
+        "ja": "SwiftUI でできることを一つずつ示す、数百の小さなプログラム。",
+        "fr": "Des centaines de petits programmes SwiftUI, un par chose que le framework sait faire.",
+        "es": "Cientos de pequeños programas SwiftUI, uno por cada cosa que el framework sabe hacer.",
+        "de": "Hunderte kleiner SwiftUI-Programme, eines für jede Sache, die das Framework kann."
+      },
+      "repo": "https://github.com/jaywcjlove/swiftui-example",
+      "url": "https://jaywcjlove.github.io/swiftui-example",
+      "language": "Swift",
+      "platform": "iOS, macOS"
+    },
+    {
+      "name": "Code Example",
+      "description": {
+        "en": "A sample of every programming language, kept in one place.",
+        "zh": "每种编程语言的示例，都收在一处。",
+        "ja": "あらゆるプログラミング言語の例を、ひとところに集めたもの。",
+        "fr": "Un échantillon de chaque langage de programmation, gardé au même endroit.",
+        "es": "Una muestra de cada lenguaje de programación, guardada en un solo lugar.",
+        "de": "Ein Beispiel für jede Programmiersprache, an einem Ort gehalten."
+      },
+      "repo": "https://github.com/jaywcjlove/code-example",
+      "url": "https://jaywcjlove.github.io/code-example",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "About Me",
+      "description": {
+        "en": "His own site: what he has written, released and read.",
+        "zh": "他自己的站点：写过的、发布过的、读过的。",
+        "ja": "彼自身のサイト。書いたもの、出したもの、読んだもの。",
+        "fr": "Son propre site : ce qu'il a écrit, publié et lu.",
+        "es": "Su propio sitio: lo que ha escrito, publicado y leído.",
+        "de": "Seine eigene Seite: was er geschrieben, veröffentlicht und gelesen hat."
+      },
+      "repo": "https://github.com/jaywcjlove/jaywcjlove.github.io",
+      "url": "https://wangchujiang.com",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Bookmarks",
+      "description": {
+        "en": "Bookmarks sorted by subject, and a command that turns the folder into a site.",
+        "zh": "按主题分好的书签，外加一个把文件夹变成网站的命令。",
+        "ja": "主題ごとに整理したブックマークと、フォルダをサイトに変えるコマンド。",
+        "fr": "Des signets rangés par sujet, et une commande qui fait un site du dossier.",
+        "es": "Marcadores ordenados por tema, y un comando que convierte la carpeta en un sitio.",
+        "de": "Nach Themen sortierte Lesezeichen und ein Befehl, der aus dem Ordner eine Seite macht."
+      },
+      "repo": "https://github.com/jaywcjlove/bookmarks",
+      "url": "https://wangchujiang.com/bookmarks/",
+      "language": "Swift",
+      "platform": "macOS"
+    },
+    {
+      "name": "SPA",
+      "description": {
+        "en": "Adds a Swift package to an Xcode project from the command line.",
+        "zh": "在命令行里给 Xcode 工程添加 Swift 包。",
+        "ja": "コマンドラインから Xcode プロジェクトに Swift パッケージを足す。",
+        "fr": "Ajoute un paquet Swift à un projet Xcode depuis la ligne de commande.",
+        "es": "Añade un paquete Swift a un proyecto Xcode desde la línea de comandos.",
+        "de": "Fügt einem Xcode-Projekt von der Kommandozeile aus ein Swift-Paket hinzu."
+      },
+      "repo": "https://github.com/jaywcjlove/spa",
+      "language": "Swift",
+      "platform": "macOS"
+    },
+    {
+      "name": "HTMLMinifier",
+      "description": {
+        "en": "Shrinks HTML from Swift, by running html-minifier inside JavaScriptCore.",
+        "zh": "在 JavaScriptCore 里跑 html-minifier，从 Swift 压缩 HTML。",
+        "ja": "JavaScriptCore の中で html-minifier を動かし、Swift から HTML を縮める。",
+        "fr": "Réduit du HTML depuis Swift, en lançant html-minifier dans JavaScriptCore.",
+        "es": "Reduce HTML desde Swift, ejecutando html-minifier dentro de JavaScriptCore.",
+        "de": "Verkleinert HTML aus Swift heraus, mit html-minifier in JavaScriptCore."
+      },
+      "repo": "https://github.com/jaywcjlove/HTMLMinifier",
+      "language": "Swift",
+      "platform": "iOS, macOS"
+    },
+    {
+      "name": "DevTutor",
+      "description": {
+        "en": "SwiftUI code and the view it draws, side by side, to copy from.",
+        "zh": "SwiftUI 的代码和它画出来的界面并排放着，直接抄。",
+        "ja": "SwiftUI のコードと、それが描く画面を並べて見せる。写して使える。",
+        "fr": "Du code SwiftUI et la vue qu'il dessine, côte à côte, à recopier.",
+        "es": "Código SwiftUI y la vista que dibuja, lado a lado, para copiar.",
+        "de": "SwiftUI-Code und die Ansicht, die er zeichnet, nebeneinander zum Abschreiben."
+      },
+      "repo": "https://github.com/jaywcjlove/devtutor",
+      "url": "https://wangchujiang.com/devtutor/",
+      "language": "Swift",
+      "platform": "macOS"
+    },
+    {
+      "name": "swift-path-to",
+      "description": {
+        "en": "Matches URL-style paths in Swift: named parts, optional ones, and wildcards.",
+        "zh": "在 Swift 里匹配 URL 式路径：命名段、可选段和通配。",
+        "ja": "Swift で URL 形式のパスを照合する。名前つき・省略可・ワイルドカード。",
+        "fr": "Fait correspondre des chemins de type URL en Swift : parties nommées, optionnelles, jokers.",
+        "es": "Empareja rutas tipo URL en Swift: partes con nombre, opcionales y comodines.",
+        "de": "Gleicht URL-artige Pfade in Swift ab: benannte, optionale und Platzhalterteile."
+      },
+      "repo": "https://github.com/jaywcjlove/swift-path-to",
+      "language": "Swift",
+      "platform": "iOS, macOS"
+    },
+    {
+      "name": "DeviceInfo",
+      "description": {
+        "en": "Tells an iOS or macOS app which machine it is running on.",
+        "zh": "告诉 iOS 或 macOS 应用，它正跑在哪台机器上。",
+        "ja": "iOS / macOS アプリに、いまどの機械で動いているかを教える。",
+        "fr": "Dit à une app iOS ou macOS sur quelle machine elle tourne.",
+        "es": "Le dice a una app de iOS o macOS en qué máquina se está ejecutando.",
+        "de": "Sagt einer iOS- oder macOS-App, auf welchem Gerät sie läuft."
+      },
+      "repo": "https://github.com/jaywcjlove/DeviceInfo",
+      "language": "Swift",
+      "platform": "iOS, macOS"
+    },
+    {
+      "name": "OUIData",
+      "description": {
+        "en": "The IEEE table that says which company made a network card, for Swift.",
+        "zh": "给 Swift 用的 IEEE 表，能查出网卡是哪家做的。",
+        "ja": "ネットワーク機器の製造元がわかる IEEE の表を、Swift から引けるように。",
+        "fr": "La table IEEE qui dit quel constructeur a fait une carte réseau, pour Swift.",
+        "es": "La tabla IEEE que dice qué fabricante hizo una tarjeta de red, para Swift.",
+        "de": "Die IEEE-Tabelle, die sagt, wer eine Netzwerkkarte gebaut hat, für Swift."
+      },
+      "repo": "https://github.com/jaywcjlove/OUIData",
+      "language": "Swift",
+      "platform": "iOS, macOS"
+    },
+    {
+      "name": "Homebrew Tap",
+      "description": {
+        "en": "The Homebrew formulae for his command-line tools.",
+        "zh": "他那些命令行工具的 Homebrew formula。",
+        "ja": "彼のコマンドラインツールのための Homebrew formula。",
+        "fr": "Les formules Homebrew de ses outils en ligne de commande.",
+        "es": "Las fórmulas de Homebrew para sus herramientas de línea de comandos.",
+        "de": "Die Homebrew-Formeln für seine Kommandozeilenwerkzeuge."
+      },
+      "repo": "https://github.com/jaywcjlove/homebrew-tap",
+      "url": "https://wangchujiang.com",
+      "language": "Ruby",
+      "platform": "macOS, Linux"
+    },
+    {
+      "name": "recursive-readdir-files",
+      "description": {
+        "en": "Lists every file under a directory, with what the filesystem knows about each.",
+        "zh": "列出一个目录下的所有文件，连同文件系统知道的那些信息。",
+        "ja": "ディレクトリ以下のすべてのファイルを、ファイルシステムが知る情報とともに並べる。",
+        "fr": "Liste tous les fichiers d'un dossier, avec ce que le système de fichiers en sait.",
+        "es": "Lista todos los archivos de un directorio, con lo que el sistema de archivos sabe de cada uno.",
+        "de": "Listet jede Datei unter einem Verzeichnis auf, mit dem, was das Dateisystem über sie weiß."
+      },
+      "repo": "https://github.com/jaywcjlove/recursive-readdir-files",
+      "url": "https://jaywcjlove.github.io/recursive-readdir-files",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "rehype-rewrite",
+      "description": {
+        "en": "Rewrites the elements of an HTML tree as it passes through rehype.",
+        "zh": "在 rehype 处理 HTML 树的过程中改写其中的元素。",
+        "ja": "rehype が HTML の木を通すあいだに、その要素を書き換える。",
+        "fr": "Réécrit les éléments d'un arbre HTML au passage dans rehype.",
+        "es": "Reescribe los elementos de un árbol HTML a su paso por rehype.",
+        "de": "Schreibt die Elemente eines HTML-Baums um, während er durch rehype läuft."
+      },
+      "repo": "https://github.com/jaywcjlove/rehype-rewrite",
+      "url": "https://jaywcjlove.github.io/rehype-rewrite",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "rehype-ignore",
+      "description": {
+        "en": "Marks a part of a README to show on GitHub and leave out of the built HTML.",
+        "zh": "标出 README 里只在 GitHub 上显示、生成 HTML 时略过的那部分。",
+        "ja": "README の一部を GitHub では見せ、生成した HTML からは外す。",
+        "fr": "Marque une partie d'un README visible sur GitHub et absente du HTML produit.",
+        "es": "Marca una parte del README visible en GitHub y ausente del HTML generado.",
+        "de": "Markiert einen Teil einer README, der auf GitHub erscheint und im erzeugten HTML fehlt."
+      },
+      "repo": "https://github.com/jaywcjlove/rehype-ignore",
+      "url": "https://jaywcjlove.github.io/rehype-ignore",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "markdown-style",
+      "description": {
+        "en": "Markdown styles for a web component, that cannot clash with the page around it.",
+        "zh": "给 web component 用的 Markdown 样式，不会和外面的页面打架。",
+        "ja": "web component 用の Markdown スタイル。まわりのページとぶつからない。",
+        "fr": "Des styles Markdown pour un composant web, sans conflit avec la page autour.",
+        "es": "Estilos Markdown para un componente web, sin chocar con la página que lo rodea.",
+        "de": "Markdown-Stile für eine Web-Komponente, die nicht mit der Seite ringsum kollidieren."
+      },
+      "repo": "https://github.com/jaywcjlove/markdown-style",
+      "url": "https://jaywcjlove.github.io/markdown-style/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "hsl-matcher",
+      "description": {
+        "en": "Finds the HSL colours written inside a piece of text, and where each one sits.",
+        "zh": "在一段文字里找出写着的 HSL 颜色，以及每个的位置。",
+        "ja": "文章の中に書かれた HSL の色と、その位置を見つける。",
+        "fr": "Trouve les couleurs HSL écrites dans un texte, et où chacune se trouve.",
+        "es": "Encuentra los colores HSL escritos dentro de un texto, y dónde está cada uno.",
+        "de": "Findet die in einem Text geschriebenen HSL-Farben und wo jede steht."
+      },
+      "repo": "https://github.com/jaywcjlove/hsl-matcher",
+      "url": "https://jaywcjlove.github.io/hsl-matcher/",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "colors-named",
+      "description": {
+        "en": "Every colour name CSS knows, as a list.",
+        "zh": "CSS 认识的所有颜色名，列成一张表。",
+        "ja": "CSS が知っている色名を、ひとつのリストに。",
+        "fr": "Tous les noms de couleur que CSS connaît, en une liste.",
+        "es": "Todos los nombres de color que CSS conoce, en una lista.",
+        "de": "Jeder Farbname, den CSS kennt, als Liste."
+      },
+      "repo": "https://github.com/jaywcjlove/colors-named",
+      "url": "https://jaywcjlove.github.io/colors-named",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "colors-named-hex",
+      "description": {
+        "en": "Colour names to their hex values.",
+        "zh": "颜色名对应的十六进制值。",
+        "ja": "色名から十六進の値へ。",
+        "fr": "Les noms de couleur vers leurs valeurs hexadécimales.",
+        "es": "Nombres de color a sus valores hexadecimales.",
+        "de": "Farbnamen zu ihren Hex-Werten."
+      },
+      "repo": "https://github.com/jaywcjlove/colors-named-hex",
+      "url": "https://jaywcjlove.github.io/colors-named-hex",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "colors-named-decimal",
+      "description": {
+        "en": "Colour names to their red, green and blue numbers.",
+        "zh": "颜色名对应的红绿蓝数值。",
+        "ja": "色名から赤・緑・青の数値へ。",
+        "fr": "Les noms de couleur vers leurs nombres rouge, vert et bleu.",
+        "es": "Nombres de color a sus números de rojo, verde y azul.",
+        "de": "Farbnamen zu ihren Rot-, Grün- und Blauwerten."
+      },
+      "repo": "https://github.com/jaywcjlove/colors-named-decimal",
+      "url": "https://jaywcjlove.github.io/colors-named-decimal",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "image2uri",
+      "description": {
+        "en": "Turns an image file into a data URI.",
+        "zh": "把图片文件变成 data URI。",
+        "ja": "画像ファイルを data URI に変える。",
+        "fr": "Transforme un fichier image en data URI.",
+        "es": "Convierte un archivo de imagen en un data URI.",
+        "de": "Macht aus einer Bilddatei einen Data-URI."
+      },
+      "repo": "https://github.com/jaywcjlove/image2uri",
+      "url": "https://jaywcjlove.github.io/image2uri/",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "reader-stat",
+      "description": {
+        "en": "Reads a directory and hands back each file with what the filesystem says about it.",
+        "zh": "读一个目录，把每个文件连同文件系统的信息一起交回来。",
+        "ja": "ディレクトリを読み、各ファイルをその属性とともに返す。",
+        "fr": "Lit un dossier et rend chaque fichier avec ce que le système en dit.",
+        "es": "Lee un directorio y devuelve cada archivo con lo que el sistema dice de él.",
+        "de": "Liest ein Verzeichnis und gibt jede Datei mit ihren Systemangaben zurück."
+      },
+      "repo": "https://github.com/jaywcjlove/reader-stat",
+      "url": "https://jaywcjlove.github.io/reader-stat",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "my-npm-stat",
+      "description": {
+        "en": "How often each of his npm packages was downloaded.",
+        "zh": "他发布的每个 npm 包被下载了多少次。",
+        "ja": "彼が出した npm パッケージが、どれだけ落とされたか。",
+        "fr": "Combien de fois chacun de ses paquets npm a été téléchargé.",
+        "es": "Cuántas veces se ha descargado cada uno de sus paquetes npm.",
+        "de": "Wie oft jedes seiner npm-Pakete heruntergeladen wurde."
+      },
+      "repo": "https://github.com/jaywcjlove/my-npm-stat",
+      "url": "https://wangchujiang.com/my-npm-stat/",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "grunt-dist",
+      "description": {
+        "en": "Builds the plain, the minified and the map file for a script, in one go.",
+        "zh": "一次生成脚本的原始文件、压缩文件和 map 文件。",
+        "ja": "スクリプトの素のファイル・圧縮版・マップを一度に作る。",
+        "fr": "Produit d'un coup le fichier brut, le minifié et la map d'un script.",
+        "es": "Genera de una vez el archivo original, el minificado y el mapa de un script.",
+        "de": "Baut in einem Zug die einfache, die verkleinerte und die Map-Datei eines Skripts."
+      },
+      "repo": "https://github.com/jaywcjlove/grunt-dist",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "webpack-plugin-manifest",
+      "description": {
+        "en": "Writes the HTML5 cache manifest for a webpack build.",
+        "zh": "为 webpack 构建写出 HTML5 缓存 manifest。",
+        "ja": "webpack のビルドに HTML5 のキャッシュマニフェストを書き出す。",
+        "fr": "Écrit le manifeste de cache HTML5 d'une compilation webpack.",
+        "es": "Escribe el manifiesto de caché HTML5 de una compilación webpack.",
+        "de": "Schreibt das HTML5-Cache-Manifest für einen Webpack-Build."
+      },
+      "repo": "https://github.com/jaywcjlove/webpack-plugin-manifest",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "websocket",
+      "description": {
+        "en": "A thin wrapper over the WebSocket API, with a Node server to talk to.",
+        "zh": "对 WebSocket API 的一层薄封装，外加一个能对话的 Node 服务端。",
+        "ja": "WebSocket API の薄い包み。話し相手の Node サーバーつき。",
+        "fr": "Une fine couche sur l'API WebSocket, avec un serveur Node pour dialoguer.",
+        "es": "Una capa fina sobre la API WebSocket, con un servidor Node con el que hablar.",
+        "de": "Eine dünne Hülle um die WebSocket-API, mit einem Node-Server zum Sprechen."
+      },
+      "repo": "https://github.com/jaywcjlove/websocket",
+      "language": "JavaScript",
+      "platform": "Web, Node.js"
+    },
+    {
+      "name": "onlinenetwork",
+      "description": {
+        "en": "Tells a page whether the network is still there.",
+        "zh": "告诉页面网络还在不在。",
+        "ja": "ページにネットワークがまだあるかどうかを伝える。",
+        "fr": "Dit à une page si le réseau est toujours là.",
+        "es": "Le dice a una página si la red sigue ahí.",
+        "de": "Sagt einer Seite, ob das Netz noch da ist."
+      },
+      "repo": "https://github.com/jaywcjlove/onlinenetwork",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "wcj",
+      "description": {
+        "en": "A command-line tool written to learn how command-line tools are written.",
+        "zh": "为了学怎么写命令行工具而写的命令行工具。",
+        "ja": "コマンドラインツールの作り方を学ぶために書いた、コマンドラインツール。",
+        "fr": "Un outil en ligne de commande écrit pour apprendre à en écrire.",
+        "es": "Una herramienta de línea de comandos escrita para aprender a escribirlas.",
+        "de": "Ein Kommandozeilenwerkzeug, geschrieben, um zu lernen, wie man sie schreibt."
+      },
+      "repo": "https://github.com/jaywcjlove/wcj",
+      "url": "https://jaywcjlove.github.io/wcj",
+      "language": "JavaScript",
+      "platform": "CLI"
+    },
+    {
+      "name": "MDEditor",
+      "description": {
+        "en": "A Markdown editor, the plain kind.",
+        "zh": "一个 Markdown 编辑器，朴素的那种。",
+        "ja": "素朴な Markdown エディタ。",
+        "fr": "Un éditeur Markdown, du genre simple.",
+        "es": "Un editor de Markdown, del tipo sencillo.",
+        "de": "Ein Markdown-Editor, von der schlichten Sorte."
+      },
+      "repo": "https://github.com/jaywcjlove/MDEditor",
+      "url": "https://jaywcjlove.github.io/MDEditor/",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "nxylene",
+      "description": {
+        "en": "A small site on Node, MongoDB and Express, written to learn them.",
+        "zh": "用 Node、MongoDB 和 Express 写的小站，为了学它们。",
+        "ja": "Node・MongoDB・Express を学ぶために書いた小さなサイト。",
+        "fr": "Un petit site sur Node, MongoDB et Express, écrit pour les apprendre.",
+        "es": "Un pequeño sitio sobre Node, MongoDB y Express, escrito para aprenderlos.",
+        "de": "Eine kleine Seite auf Node, MongoDB und Express, zum Lernen geschrieben."
+      },
+      "repo": "https://github.com/jaywcjlove/nxylene",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "chrome-proxy-tunnel",
+      "description": {
+        "en": "A Chrome extension that sends the browser's traffic through a proxy.",
+        "zh": "一个把浏览器流量走代理的 Chrome 扩展。",
+        "ja": "ブラウザの通信をプロキシ経由にする Chrome 拡張。",
+        "fr": "Une extension Chrome qui fait passer le trafic du navigateur par un proxy.",
+        "es": "Una extensión de Chrome que envía el tráfico del navegador por un proxy.",
+        "de": "Eine Chrome-Erweiterung, die den Verkehr des Browsers über einen Proxy schickt."
+      },
+      "repo": "https://github.com/jaywcjlove/chrome-proxy-tunnel",
+      "language": "JavaScript",
+      "platform": "Chrome"
+    },
+    {
+      "name": "BlankTab",
+      "description": {
+        "en": "A new tab page for Chrome, made quiet.",
+        "zh": "一个安静的 Chrome 新标签页。",
+        "ja": "静かにした Chrome の新しいタブ。",
+        "fr": "Une page de nouvel onglet pour Chrome, rendue silencieuse.",
+        "es": "Una página de nueva pestaña para Chrome, hecha silenciosa.",
+        "de": "Eine Neuer-Tab-Seite für Chrome, still gemacht."
+      },
+      "repo": "https://github.com/jaywcjlove/BlankTab",
+      "language": "Stylus",
+      "platform": "Chrome"
+    },
+    {
+      "name": "Google Mirror Index",
+      "description": {
+        "en": "An index of the addresses Google can still be reached at.",
+        "zh": "一份还能访问到 Google 的地址索引。",
+        "ja": "まだ Google に届く住所の索引。",
+        "fr": "Un index des adresses par lesquelles Google reste joignable.",
+        "es": "Un índice de las direcciones por las que aún se llega a Google.",
+        "de": "Ein Verzeichnis der Adressen, unter denen Google noch erreichbar ist."
+      },
+      "repo": "https://github.com/jaywcjlove/google",
+      "url": "https://jaywcjlove.github.io/google",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "readme for jaywcjlove",
+      "description": {
+        "en": "His GitHub profile page, and the scripts that keep it current.",
+        "zh": "他的 GitHub 主页，和让它保持更新的脚本。",
+        "ja": "彼の GitHub プロフィールページと、それを最新に保つスクリプト。",
+        "fr": "Sa page de profil GitHub, et les scripts qui la tiennent à jour.",
+        "es": "Su página de perfil de GitHub, y los scripts que la mantienen al día.",
+        "de": "Seine GitHub-Profilseite und die Skripte, die sie aktuell halten."
+      },
+      "repo": "https://github.com/jaywcjlove/jaywcjlove",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "uiw Icons",
+      "description": {
+        "en": "The icon font the uiw components draw from.",
+        "zh": "uiw 组件用的那套图标字体。",
+        "ja": "uiw のコンポーネントが使うアイコンフォント。",
+        "fr": "La police d'icônes dans laquelle puisent les composants uiw.",
+        "es": "La fuente de iconos de la que beben los componentes uiw.",
+        "de": "Die Icon-Schrift, aus der sich die uiw-Komponenten bedienen."
+      },
+      "repo": "https://github.com/uiwjs/icons",
+      "url": "https://uiwjs.github.io/icons",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "File Icons",
+      "description": {
+        "en": "An icon for every kind of file, for a file tree to show.",
+        "zh": "每种文件一个图标，给文件树用。",
+        "ja": "ファイルの種類ごとのアイコン。ファイルツリーで見せるための。",
+        "fr": "Une icône par type de fichier, pour un arbre de fichiers.",
+        "es": "Un icono para cada tipo de archivo, para mostrar en un árbol.",
+        "de": "Ein Symbol für jede Dateiart, für einen Dateibaum."
+      },
+      "repo": "https://github.com/uiwjs/file-icons",
+      "url": "https://uiwjs.github.io/file-icons/",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "province-city-china",
+      "description": {
+        "en": "Every Chinese province, city, county and township, kept current.",
+        "zh": "中国的省、市、区县、乡镇，保持更新。",
+        "ja": "中国の省・市・区県・郷鎮を、最新の形で。",
+        "fr": "Chaque province, ville, district et canton de Chine, tenu à jour.",
+        "es": "Cada provincia, ciudad, distrito y municipio de China, al día.",
+        "de": "Jede chinesische Provinz, Stadt, jeder Kreis und jede Gemeinde, aktuell gehalten."
+      },
+      "repo": "https://github.com/uiwjs/province-city-china",
+      "url": "https://uiwjs.github.io/province-city-china",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "React Run Web",
+      "description": {
+        "en": "An editor in the browser that runs the web page as you write it.",
+        "zh": "浏览器里的编辑器，边写边跑那张网页。",
+        "ja": "書きながらそのページを動かす、ブラウザ上のエディタ。",
+        "fr": "Un éditeur dans le navigateur qui exécute la page à mesure qu'on l'écrit.",
+        "es": "Un editor en el navegador que ejecuta la página mientras la escribes.",
+        "de": "Ein Editor im Browser, der die Seite ausführt, während man sie schreibt."
+      },
+      "repo": "https://github.com/uiwjs/react-run-web",
+      "url": "https://uiwjs.github.io/react-run-web/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React Keywords",
+      "description": {
+        "en": "Marks a word wherever it appears in a piece of text.",
+        "zh": "在一段文字里，把某个词出现的每一处标出来。",
+        "ja": "文章の中に現れるたび、その語に印をつける。",
+        "fr": "Marque un mot partout où il apparaît dans un texte.",
+        "es": "Marca una palabra dondequiera que aparezca en un texto.",
+        "de": "Markiert ein Wort überall dort, wo es in einem Text vorkommt."
+      },
+      "repo": "https://github.com/uiwjs/react-keywords",
+      "url": "https://uiwjs.github.io/react-keywords",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React Prismjs",
+      "description": {
+        "en": "Prism's syntax colouring, as a React component.",
+        "zh": "把 Prism 的语法着色做成 React 组件。",
+        "ja": "Prism の構文色分けを React コンポーネントに。",
+        "fr": "La coloration syntaxique de Prism, en composant React.",
+        "es": "El coloreado de sintaxis de Prism, como componente de React.",
+        "de": "Prisms Syntaxfärbung als React-Komponente."
+      },
+      "repo": "https://github.com/uiwjs/react-prismjs",
+      "url": "https://uiwjs.github.io/react-prismjs",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React HR",
+      "description": {
+        "en": "Dividing lines built on the plain HTML rule, styled from props alone.",
+        "zh": "基于原生 hr 的分隔线，样式全从 props 来，不用引样式表。",
+        "ja": "素の hr でつくる区切り線。スタイルは props だけで決まる。",
+        "fr": "Des filets bâtis sur la règle HTML native, stylés par les seules props.",
+        "es": "Líneas divisorias sobre el hr nativo, con estilo solo desde props.",
+        "de": "Trennlinien auf dem einfachen HTML-Strich, allein aus Props gestaltet."
+      },
+      "repo": "https://github.com/uiwjs/react-hr",
+      "url": "https://uiwjs.github.io/react-hr/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React CodePen",
+      "description": {
+        "en": "Turns a code sample on the page into a CodePen, when someone asks for one.",
+        "zh": "有人想试的时候，把页面上的代码示例变成一个 CodePen。",
+        "ja": "求められたとき、ページ上のコード例を CodePen に変える。",
+        "fr": "Transforme un exemple de code de la page en CodePen, à la demande.",
+        "es": "Convierte un ejemplo de código de la página en un CodePen, cuando alguien lo pide.",
+        "de": "Macht aus einem Codebeispiel auf der Seite ein CodePen, wenn jemand danach fragt."
+      },
+      "repo": "https://github.com/uiwjs/react-codepen",
+      "url": "https://uiwjs.github.io/react-codepen/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React StackBlitz",
+      "description": {
+        "en": "The same, for StackBlitz: a code sample becomes a project you can run.",
+        "zh": "同样的事，换成 StackBlitz：代码示例变成能跑的项目。",
+        "ja": "同じことを StackBlitz で。コード例が動くプロジェクトになる。",
+        "fr": "La même chose pour StackBlitz : un exemple devient un projet exécutable.",
+        "es": "Lo mismo para StackBlitz: un ejemplo se convierte en un proyecto ejecutable.",
+        "de": "Dasselbe für StackBlitz: aus einem Beispiel wird ein lauffähiges Projekt."
+      },
+      "repo": "https://github.com/uiwjs/react-stackblitz",
+      "url": "https://uiwjs.github.io/react-stackblitz",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React XML Reader",
+      "description": {
+        "en": "Takes an XML file a person picked and hands back what is in it.",
+        "zh": "接过用户选的 XML 文件，把里面的内容交回来。",
+        "ja": "選ばれた XML ファイルを受け取り、中身を返す。",
+        "fr": "Prend un fichier XML choisi et rend ce qu'il contient.",
+        "es": "Toma un archivo XML elegido y devuelve lo que contiene.",
+        "de": "Nimmt eine ausgewählte XML-Datei und gibt zurück, was darin steht."
+      },
+      "repo": "https://github.com/uiwjs/react-xml-reader",
+      "url": "https://uiwjs.github.io/react-xml-reader/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React Domain Verify",
+      "description": {
+        "en": "Shows a part of a page only on the domains it is meant for.",
+        "zh": "页面的某一部分，只在该显示的域名上显示。",
+        "ja": "ページの一部を、そのために用意されたドメインでだけ見せる。",
+        "fr": "N'affiche une partie de la page que sur les domaines prévus.",
+        "es": "Muestra una parte de la página solo en los dominios previstos.",
+        "de": "Zeigt einen Teil der Seite nur auf den dafür bestimmten Domains."
+      },
+      "repo": "https://github.com/uiwjs/react-domain-verify",
+      "url": "https://uiwjs.github.io/react-domain-verify",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "useColorScheme",
+      "description": {
+        "en": "Tells a React app whether the machine is set to light or to dark.",
+        "zh": "告诉 React 应用，机器现在是亮色还是暗色。",
+        "ja": "機械が明るい設定か暗い設定かを、React アプリに伝える。",
+        "fr": "Dit à une app React si la machine est en clair ou en sombre.",
+        "es": "Le dice a una app de React si la máquina está en claro o en oscuro.",
+        "de": "Sagt einer React-App, ob das Gerät auf hell oder dunkel steht."
+      },
+      "repo": "https://github.com/uiwjs/react-use-colorscheme",
+      "url": "https://uiwjs.github.io/react-use-colorscheme/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "CSS Filter",
+      "description": {
+        "en": "Builds a CSS filter and shows what it does to the picture as you turn the dials.",
+        "zh": "调着滑块生成 CSS filter，同时看它把图片变成什么样。",
+        "ja": "つまみを回しながら CSS の filter を組み立て、画像への効き目をその場で見る。",
+        "fr": "Compose un filtre CSS et montre son effet sur l'image à mesure qu'on règle.",
+        "es": "Construye un filtro CSS y muestra su efecto en la imagen mientras ajustas.",
+        "de": "Baut einen CSS-Filter und zeigt beim Drehen, was er mit dem Bild macht."
+      },
+      "repo": "https://github.com/uiwjs/css-filter",
+      "url": "https://uiwjs.github.io/css-filter/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "copy-to-clipboard",
+      "description": {
+        "en": "Puts a piece of text on the clipboard, in a browser.",
+        "zh": "在浏览器里把一段文字放进剪贴板。",
+        "ja": "ブラウザで、文字列をクリップボードに置く。",
+        "fr": "Met un texte dans le presse-papiers, dans un navigateur.",
+        "es": "Pone un texto en el portapapeles, en un navegador.",
+        "de": "Legt einen Text im Browser in die Zwischenablage."
+      },
+      "repo": "https://github.com/uiwjs/copy-to-clipboard",
+      "url": "https://uiwjs.github.io/copy-to-clipboard",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React Markdown Preview Example",
+      "description": {
+        "en": "Renders a folder of Markdown and runs the React examples written inside it.",
+        "zh": "把一个 Markdown 文件夹渲染出来，并运行里面写的 React 示例。",
+        "ja": "Markdown のフォルダを描き出し、その中に書かれた React の例を動かす。",
+        "fr": "Rend un dossier de Markdown et exécute les exemples React qui y sont écrits.",
+        "es": "Renderiza una carpeta de Markdown y ejecuta los ejemplos de React escritos dentro.",
+        "de": "Stellt einen Markdown-Ordner dar und führt die darin geschriebenen React-Beispiele aus."
+      },
+      "repo": "https://github.com/uiwjs/react-markdown-preview-example",
+      "url": "https://uiwjs.github.io/react-markdown-preview-example",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "React Native Template",
+      "description": {
+        "en": "The starting point for a React Native app built on react-native-uiw.",
+        "zh": "基于 react-native-uiw 做 React Native 应用的起点。",
+        "ja": "react-native-uiw で React Native アプリを始めるための雛形。",
+        "fr": "Le point de départ d'une app React Native bâtie sur react-native-uiw.",
+        "es": "El punto de partida de una app React Native basada en react-native-uiw.",
+        "de": "Der Ausgangspunkt für eine React-Native-App auf react-native-uiw."
+      },
+      "repo": "https://github.com/uiwjs/react-native-template",
+      "url": "https://uiwjs.github.io/react-native-template",
+      "language": "JavaScript",
+      "platform": "iOS, Android"
+    },
+    {
+      "name": "React Native Transport Location",
+      "description": {
+        "en": "Reads the device's position for a React Native app.",
+        "zh": "为 React Native 应用读取设备位置。",
+        "ja": "React Native アプリのために、端末の位置を読む。",
+        "fr": "Lit la position de l'appareil pour une app React Native.",
+        "es": "Lee la posición del dispositivo para una app React Native.",
+        "de": "Liest die Position des Geräts für eine React-Native-App."
+      },
+      "repo": "https://github.com/uiwjs/react-native-transport-location",
+      "language": "Java",
+      "platform": "Android"
+    },
+    {
+      "name": "React Monorepo Template",
+      "description": {
+        "en": "A layout for a repository that holds several React packages at once.",
+        "zh": "一个能同时放好几个 React 包的仓库布局。",
+        "ja": "React のパッケージをいくつも収めるリポジトリの型。",
+        "fr": "Une disposition de dépôt qui tient plusieurs paquets React à la fois.",
+        "es": "Una disposición de repositorio que aloja varios paquetes React a la vez.",
+        "de": "Ein Repository-Aufbau, der mehrere React-Pakete zugleich fasst."
+      },
+      "repo": "https://github.com/uiwjs/react-monorepo-template",
+      "url": "https://uiwjs.github.io/react-monorepo-template",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "babel-plugin-add-import-extension",
+      "description": {
+        "en": "Adds the file extension back to imports, which TypeScript through Babel leaves off.",
+        "zh": "把 import 里缺的文件扩展名补回来 —— TypeScript 经 Babel 编译时会丢掉它。",
+        "ja": "TypeScript を Babel に通すと落ちる、import の拡張子を書き戻す。",
+        "fr": "Rend aux imports l'extension de fichier que TypeScript via Babel laisse tomber.",
+        "es": "Devuelve a los imports la extensión de archivo que TypeScript vía Babel omite.",
+        "de": "Gibt Importen die Dateiendung zurück, die TypeScript über Babel weglässt."
+      },
+      "repo": "https://github.com/uiwjs/babel-plugin-add-import-extension",
+      "url": "https://uiwjs.github.io/babel-plugin-add-import-extension/",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "babel-plugin-transform-uiw-import",
+      "description": {
+        "en": "Imports one uiw component instead of the whole library.",
+        "zh": "只引一个 uiw 组件，而不是整个库。",
+        "ja": "ライブラリ全体ではなく、uiw のコンポーネントを一つだけ取り込む。",
+        "fr": "Importe un seul composant uiw au lieu de toute la bibliothèque.",
+        "es": "Importa un solo componente de uiw en vez de toda la biblioteca.",
+        "de": "Importiert eine einzelne uiw-Komponente statt der ganzen Bibliothek."
+      },
+      "repo": "https://github.com/uiwjs/babel-plugin-transform-uiw-import",
+      "url": "https://npm.im/babel-plugin-transform-uiw-import",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "next-remove-imports",
+      "description": {
+        "en": "Strips the stylesheet imports out of packages a Next.js build cannot read.",
+        "zh": "把 Next.js 构建读不了的那些包里的样式表 import 去掉。",
+        "ja": "Next.js のビルドが読めないパッケージから、スタイルの import を取り除く。",
+        "fr": "Retire les imports de feuilles de style des paquets qu'un build Next.js ne peut lire.",
+        "es": "Quita los imports de hojas de estilo de los paquetes que un build de Next.js no puede leer.",
+        "de": "Entfernt Stylesheet-Importe aus Paketen, die ein Next.js-Build nicht lesen kann."
+      },
+      "repo": "https://github.com/uiwjs/next-remove-imports",
+      "url": "https://uiwjs.github.io/next-remove-imports/",
+      "language": "JavaScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "babel-plugin-transform-replace-export-default",
+      "description": {
+        "en": "Turns an export default into a return, or takes it away.",
+        "zh": "把 export default 变成 return，或者干脆去掉。",
+        "ja": "export default を return に変える。あるいは取り去る。",
+        "fr": "Change un export default en return, ou l'enlève.",
+        "es": "Convierte un export default en un return, o lo quita.",
+        "de": "Macht aus einem export default ein return, oder nimmt es weg."
+      },
+      "repo": "https://github.com/kktjs/babel-plugin-transform-replace-export-default",
+      "url": "https://kktjs.github.io/babel-plugin-transform-replace-export-default",
+      "language": "TypeScript",
+      "platform": "Node.js"
+    },
+    {
+      "name": "Linux Command",
+      "description": {
+        "en": "A searchable manual of the Linux commands, and the tool that builds it.",
+        "zh": "可搜索的 Linux 命令手册，以及生成它的工具。",
+        "ja": "検索できる Linux コマンドの手引きと、それを組み立てる道具。",
+        "fr": "Un manuel des commandes Linux consultable, et l'outil qui le construit.",
+        "es": "Un manual buscable de los comandos de Linux, y la herramienta que lo construye.",
+        "de": "Ein durchsuchbares Handbuch der Linux-Befehle und das Werkzeug, das es baut."
+      },
+      "repo": "https://github.com/jaywcjlove/linux-command",
+      "url": "https://jaywcjlove.github.io/linux-command",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Dev Site",
+      "description": {
+        "en": "A directory of the sites a developer keeps going back to.",
+        "zh": "开发者反复要用的那些网站的导航。",
+        "ja": "開発者が何度も戻ってくるサイトの案内。",
+        "fr": "Un annuaire des sites où un développeur revient sans cesse.",
+        "es": "Un directorio de los sitios a los que un desarrollador vuelve una y otra vez.",
+        "de": "Ein Verzeichnis der Seiten, zu denen ein Entwickler immer wieder zurückkehrt."
+      },
+      "repo": "https://github.com/jaywcjlove/dev-site",
+      "url": "https://jaywcjlove.github.io/dev-site",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "FED",
+      "description": {
+        "en": "A front-end directory: the tools, the readings and the places to look things up.",
+        "zh": "前端导航：工具、读物，以及查东西的地方。",
+        "ja": "フロントエンドの案内所。道具、読み物、調べもののための場所。",
+        "fr": "Un annuaire front-end : les outils, les lectures et où chercher.",
+        "es": "Un directorio de front-end: las herramientas, las lecturas y dónde buscar.",
+        "de": "Ein Frontend-Verzeichnis: die Werkzeuge, die Lektüre und wo man nachschlägt."
+      },
+      "repo": "https://github.com/jaywcjlove/FED",
+      "url": "https://jaywcjlove.github.io/FED",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Nav Logos",
+      "description": {
+        "en": "The logos his directories draw, and the script that fetches them.",
+        "zh": "他那些导航站用的 logo，和抓取它们的脚本。",
+        "ja": "彼の案内サイトが使うロゴと、それを取ってくるスクリプト。",
+        "fr": "Les logos qu'affichent ses annuaires, et le script qui va les chercher.",
+        "es": "Los logos que muestran sus directorios, y el script que los recoge.",
+        "de": "Die Logos, die seine Verzeichnisse zeigen, und das Skript, das sie holt."
+      },
+      "repo": "https://github.com/jaywcjlove/logo",
+      "url": "https://jaywcjlove.github.io/logo/",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Releases",
+      "description": {
+        "en": "What he has released lately, on one page.",
+        "zh": "他最近发布了什么，都在一页上。",
+        "ja": "最近なにを出したか、ひとつのページに。",
+        "fr": "Ce qu'il a publié récemment, sur une page.",
+        "es": "Lo que ha publicado últimamente, en una página.",
+        "de": "Was er zuletzt veröffentlicht hat, auf einer Seite."
+      },
+      "repo": "https://github.com/jaywcjlove/releases",
+      "url": "https://wangchujiang.com/releases/",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "maslink",
+      "description": {
+        "en": "Sends a macappstore:// link in a README to the App Store, which GitHub will not.",
+        "zh": "把 README 里的 macappstore:// 链接送到 App Store —— GitHub 自己不肯。",
+        "ja": "README の macappstore:// リンクを App Store へ送る。GitHub はそうしてくれない。",
+        "fr": "Envoie un lien macappstore:// d'un README vers l'App Store, ce que GitHub refuse.",
+        "es": "Envía un enlace macappstore:// de un README a la App Store, cosa que GitHub no hace.",
+        "de": "Schickt einen macappstore://-Link aus einer README zum App Store, was GitHub nicht tut."
+      },
+      "repo": "https://github.com/jaywcjlove/maslink",
+      "url": "https://jaywcjlove.github.io/maslink/",
+      "language": "JavaScript",
+      "platform": "Web"
+    },
+    {
+      "name": "Insta360 Mic Wallpapers",
+      "description": {
+        "en": "Wallpapers drawn for the ink screen of an Insta360 Mic Pro.",
+        "zh": "为 Insta360 Mic Pro 的墨水屏画的壁纸。",
+        "ja": "Insta360 Mic Pro の電子ペーパー画面のために描いた壁紙。",
+        "fr": "Des fonds d'écran dessinés pour l'écran à encre d'un Insta360 Mic Pro.",
+        "es": "Fondos dibujados para la pantalla de tinta de un Insta360 Mic Pro.",
+        "de": "Hintergrundbilder für den Tintenbildschirm eines Insta360 Mic Pro."
+      },
+      "repo": "https://github.com/jaywcjlove/insta360-mic-wallpapers",
+      "url": "https://wangchujiang.com/insta360-mic-wallpapers/",
+      "language": "TypeScript",
+      "platform": "Web"
+    },
+    {
+      "name": "hexo Theme Kacper",
+      "description": {
+        "en": "A theme for a hexo blog, written when he kept one.",
+        "zh": "给 hexo 博客写的主题，那会儿他还在写博客。",
+        "ja": "hexo のブログのために書いた主題。まだブログを書いていたころの。",
+        "fr": "Un thème pour un blog hexo, écrit du temps où il en tenait un.",
+        "es": "Un tema para un blog hexo, escrito cuando llevaba uno.",
+        "de": "Ein Thema für ein Hexo-Blog, geschrieben, als er eines führte."
+      },
+      "repo": "https://github.com/jaywcjlove/hexoThemeKacper",
+      "language": "Stylus",
+      "platform": "Web"
+    },
+    {
+      "name": "Go Tutorial",
+      "description": {
+        "en": "Go from the beginning, one small runnable program at a time.",
+        "zh": "从头学 Go，一次一个能跑的小程序。",
+        "ja": "はじめから Go を。動く小さなプログラムを一つずつ。",
+        "fr": "Go depuis le début, un petit programme exécutable à la fois.",
+        "es": "Go desde el principio, un pequeño programa ejecutable a la vez.",
+        "de": "Go von vorn, ein kleines lauffähiges Programm nach dem anderen."
+      },
+      "repo": "https://github.com/jaywcjlove/golang-tutorial",
+      "url": "https://jaywcjlove.github.io/golang-tutorial",
+      "language": "Go",
+      "platform": "CLI"
+    },
+    {
+      "name": "Swift Tutorial",
+      "description": {
+        "en": "Swift from the beginning, with the notes he took learning it.",
+        "zh": "从头学 Swift，附上他当时做的笔记。",
+        "ja": "はじめから Swift を。学びながら取った覚書とともに。",
+        "fr": "Swift depuis le début, avec les notes prises en l'apprenant.",
+        "es": "Swift desde el principio, con las notas que tomó al aprenderlo.",
+        "de": "Swift von vorn, mit den Notizen, die er beim Lernen machte."
+      },
+      "repo": "https://github.com/jaywcjlove/swift-tutorial",
+      "url": "https://jaywcjlove.github.io/swift-tutorial",
+      "language": "Swift",
+      "platform": "macOS"
+    },
+    {
+      "name": "React Native TypeScript Example",
+      "description": {
+        "en": "A React Native app in TypeScript, set up the way it has to be.",
+        "zh": "用 TypeScript 写的 React Native 应用，该怎么配就怎么配好了。",
+        "ja": "TypeScript で書いた React Native アプリ。必要な設定を整えたもの。",
+        "fr": "Une app React Native en TypeScript, configurée comme il faut.",
+        "es": "Una app React Native en TypeScript, configurada como debe ser.",
+        "de": "Eine React-Native-App in TypeScript, so eingerichtet, wie es sein muss."
+      },
+      "repo": "https://github.com/jaywcjlove/react-native-typescript-example",
+      "language": "Java",
+      "platform": "iOS, Android"
+    },
+    {
+      "name": "webpack-react-demo",
+      "description": {
+        "en": "Working examples of the webpack and React plugins, gathered as he met them.",
+        "zh": "webpack 和 React 插件的可运行例子，边遇到边收。",
+        "ja": "webpack と React のプラグインの動く例。出会うたびに集めたもの。",
+        "fr": "Des exemples qui tournent de plugins webpack et React, réunis au fil des rencontres.",
+        "es": "Ejemplos funcionales de plugins de webpack y React, reunidos según los encontraba.",
+        "de": "Lauffähige Beispiele der Webpack- und React-Plugins, gesammelt beim Begegnen."
+      },
+      "repo": "https://github.com/jaywcjlove/webpack-react-demo",
+      "language": "JavaScript",
+      "platform": "Web"
     }
   ]
 }

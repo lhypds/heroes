@@ -63,6 +63,48 @@
     "copy": "Prompt kopieren",
     "copied": "Kopiert"
   },
+  "check": {
+    "title": "Prüf dich selbst",
+    "lede": "Gib einen GitHub-Benutzernamen ein, und die Regeln werden gegen dieses Konto gelesen: jedes eigene öffentliche Repository, das kein Fork ist, wie viele Commits es hat und wie viel Code darin steckt.",
+    "placeholder": "dein GitHub-Benutzername",
+    "submit": "Prüfen",
+    "starting": "beginnt…",
+    "reading": "{{read}} von {{of}} Repositories gelesen…",
+    "waiting": "{{n}} Prüfungen sind noch davor…",
+    "own": "{{own}} eigene öffentliche Repositories, {{all}} mit den Forks.",
+    "grid": "{{n}} von 100 Repositories, die zählen",
+    "one": "{{n}} von {{need}}",
+    "two": "{{counted}} zählen, {{over}} nicht",
+    "three": "{{repo}}, {{n}} Commits",
+    "none": "noch kein Repository nahe an tausend Commits",
+    "hero": "Ein Held: hundert Repositories, die zählen, und eines davon mit tausend Commits.",
+    "listed": "Auf der Liste: {{n}} von hundert. Die Hürde zum Einstieg liegt bei zehn.",
+    "under": "{{n}} von den zehn, bei denen die Liste beginnt.",
+    "sieve": "Die zweite Regel ist das Sieb, durch das die erste zählt: ein Repository zählt, wenn es deines ist, kein Fork, mit 10 Commits oder mehr und mehr als 100 Zeilen Code. Die Zeilen werden aus den Bytes geschätzt, die GitHub je Sprache angibt, mit dreißig Bytes je Zeile; ein Repository dicht an der Grenze ist einen zweiten Blick wert.",
+    "show": "Repositories anzeigen",
+    "hide": "Repositories ausblenden",
+    "counts": "Diese zählen",
+    "passedOver": "Diese nicht",
+    "columns": {
+      "repository": "Repository",
+      "commits": "Commits",
+      "lines": "Zeilen",
+      "languages": "Sprachen",
+      "short": "was fehlt"
+    },
+    "why": {
+      "mirror": "ein Spiegel fremder Arbeit",
+      "empty": "leer",
+      "commits": "zu wenige Commits",
+      "prose": "kein Code, nur Text oder Daten",
+      "lines": "zu wenig Code"
+    },
+    "unknown": "So einen Benutzer gibt es auf GitHub nicht.",
+    "notAName": "Das ist kein GitHub-Benutzername.",
+    "limit": "Zu viele Prüfungen von hier in dieser Stunde. Versuch es später noch einmal.",
+    "busy": "Gerade warten zu viele Prüfungen. Versuch es in einer Minute noch einmal.",
+    "failed": "Die Prüfung konnte nicht abgeschlossen werden. Versuch es gleich noch einmal."
+  },
   "language": {
     "title": "Sprache"
   },

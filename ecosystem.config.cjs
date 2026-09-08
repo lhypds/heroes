@@ -13,6 +13,9 @@ if (fs.existsSync(envPath)) {
 const PORT = env.PORT || "4173";
 const PM2_NAME = env.PM2_NAME || "heroes";
 
+// One process on one port. The page is served by `vite preview`, and the
+// account check rides along on the same server under /api (api/plugin.js), so
+// there is nothing else to start and nothing to proxy.
 module.exports = {
   apps: [
     {
@@ -26,6 +29,9 @@ module.exports = {
       max_memory_restart: "512M",
       env: {
         NODE_ENV: "production",
+        // What the check reads GitHub with. `gh auth token` is not there for
+        // the process PM2 starts, so it comes from .env.
+        GITHUB_TOKEN: env.GITHUB_TOKEN || "",
       },
     },
   ],

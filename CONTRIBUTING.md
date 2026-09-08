@@ -109,7 +109,10 @@ With `--online` it also asks each `repo` whether it answers, and mentions any
 
 The rest — whether each repository is really code, with ten commits and more
 than a hundred lines, and whether it is really yours and not a fork — is read
-by a person.  
+by a person. `npm run account -- <handle>` reads a whole GitHub account the
+same way first, repository by repository, and says which ones count and which
+do not; [Check an account](docs/30_Check%20an%20account.md) says what it
+counts, and how to ask it over HTTP.  
 
 
 Translations

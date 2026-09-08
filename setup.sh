@@ -42,6 +42,8 @@ echo ""
 echo "==> Checking .env..."
 ask_env HOST \
   "Public hostname the page is served from, e.g. heroes.example.com — comma-separate several (leave empty for local development)."
+ask_env GITHUB_TOKEN \
+  "GitHub token for the account check at /api and for ./crawl.sh (leave empty if the GitHub CLI is signed in here)."
 
 echo ""
 echo "Installing dependencies..."

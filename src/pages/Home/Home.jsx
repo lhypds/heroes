@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { LanguageSwitcher, ThemeSwitcher, Lead, Json } from "@components";
+import { LanguageSwitcher, ThemeSwitcher, Lead, Json, Check } from "@components";
 import { LEADS } from "@utils/leads";
 import { REPO, GUIDE, HOME, HUNDRED } from "../../constants";
 import { EXAMPLE, PROMPT } from "../../prompt";
@@ -111,6 +111,10 @@ export default function Home() {
             ))}
           </div>
         </div>
+
+        {/* The rules read against a name: whoever is reading them can put
+            their own in and see where they stand before the steps below. */}
+        <Check />
 
         <div className={styles.join}>
           <div className={styles.joinText}>

@@ -63,6 +63,48 @@
     "copy": "Copy prompt",
     "copied": "Copied"
   },
+  "check": {
+    "title": "Check yourself",
+    "lede": "Put a GitHub username in and the rules are read against that account: every public repository of their own that is not a fork, how many commits it has, and how much code is in it.",
+    "placeholder": "your GitHub username",
+    "submit": "Check",
+    "starting": "starting…",
+    "reading": "read {{read}} of {{of}} repositories…",
+    "waiting": "{{n}} checks ahead of this one…",
+    "own": "{{own}} public repositories of their own, {{all}} counting forks.",
+    "grid": "{{n}} of 100 repositories that count",
+    "one": "{{n}} of {{need}}",
+    "two": "{{counted}} count, {{over}} do not",
+    "three": "{{repo}}, {{n}} commits",
+    "none": "nothing near a thousand commits yet",
+    "hero": "A hero: a hundred repositories that count, and one of them with a thousand commits.",
+    "listed": "On the list: {{n}} of the hundred. Ten is the bar to join.",
+    "under": "{{n}} of the ten the list starts at.",
+    "sieve": "The second rule is the sieve the first counts through: a repository counts when it is yours, not a fork, and has 10 commits or more and more than 100 lines of code. Lines are read off the bytes GitHub gives for each language, at thirty bytes a line, so a repository near the line is worth a second look.",
+    "show": "Show the repositories",
+    "hide": "Hide the repositories",
+    "counts": "These count",
+    "passedOver": "These do not",
+    "columns": {
+      "repository": "repository",
+      "commits": "commits",
+      "lines": "lines",
+      "languages": "languages",
+      "short": "what is short"
+    },
+    "why": {
+      "mirror": "a mirror of someone else's",
+      "empty": "empty",
+      "commits": "too few commits",
+      "prose": "no code, only prose or data",
+      "lines": "too little code"
+    },
+    "unknown": "No such user on GitHub.",
+    "notAName": "That is not a GitHub username.",
+    "limit": "Too many checks from here this hour. Try again later.",
+    "busy": "Too many checks waiting just now. Try again in a minute.",
+    "failed": "The check could not finish. Try again in a moment."
+  },
   "language": {
     "title": "Language"
   },

@@ -2,6 +2,7 @@ import { defineConfig, loadEnv } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "path";
 import { fileURLToPath } from "url";
+import apiPlugin from "./api/plugin.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -16,7 +17,9 @@ export default defineConfig(({ mode }) => {
     .filter(Boolean);
 
   return {
-    plugins: [react()],
+    // The account check answers under /api on this same server, in
+    // development and in preview alike: one port, nothing proxied.
+    plugins: [react(), apiPlugin(env)],
     // A taken port fails loudly instead of quietly moving to the next one,
     // where the reverse proxy would find nothing.
     server: {
