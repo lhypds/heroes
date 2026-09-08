@@ -155,7 +155,7 @@
 }
 
 /* The row under the pointer is lit grey, a little wider than its words so the
-   text does not sit on the edge of the colour. The tint is drawn behind the
+   text does not sit on the edge of the color. The tint is drawn behind the
    row by a pseudo-element rather than as its background, so the columns stay
    exactly where the list's grid put them. */
 .app:hover::before {
