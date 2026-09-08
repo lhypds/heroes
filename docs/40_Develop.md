@@ -52,18 +52,23 @@ knew about them and the reason.
 Step 1 is a query: anyone with no name, no location, no website and no
 followers goes. Step 2 asks GitHub about everyone left, one person to a
 request: the commits on the default branch of their hundred most recently
-pushed repositories of their own, and under ten a repository on average,
-they go. A hundred repositories take GitHub about nine of the ten seconds it
-gives a request, so a person it cannot manage is asked for fifty at a time,
-then twenty-five, then ten. The count is saved on the person, so a run cut
-short carries on where it left off.  
+pushed repositories of their own, and under ten a repository on average, they
+go. The commits are counted whoever made them, since one made with an
+assistant or a bot is still the person's work; how many they made under
+their own name is counted beside it and kept, which needs their GitHub id,
+looked up a hundred people to a request. A hundred repositories take GitHub about nine
+of the ten seconds it gives a request, so a person it cannot manage is asked
+for fifty at a time, then twenty-five, then ten. Both counts are saved on
+the person, so a run cut short carries on where it left off.  
 
 These requests are heavy, and GitHub allows only so much of its own time a
 minute before turning them away for five; the gate keeps the last minute's
-answer time under a budget it adjusts as it goes. That is about ten people a
-minute, three or four days for everyone the crawl found. `--repos 25` counts
-the first twenty-five repositories instead, against the same ten a
-repository, and is about twice as fast; `--repos 10` five times.  
+answer time under a budget it adjusts as it goes, and never lets out more
+than thirty a minute, like the crawl. With a hundred repositories that is
+about ten people a minute, three or four days for everyone the crawl found.
+`--repos 25` or `--repos 10` counts the first twenty-five or ten instead,
+against the same ten a repository, at the full thirty a minute: some thirty
+hours.  
 
 `--step1` or `--step2` runs one step, `--dry` counts and says who would go
 without removing anyone, handles on the command line restrict a step to those
