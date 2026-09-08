@@ -1,11 +1,11 @@
 
 1  crawling
 
-入库	66,751 人
-own ≥ 200	10,816
-own ≥ 500	2,029
-own ≥ 1000	829
-fork 比自建还多的	4,081
+In db 	66,751 人
+own ≥ 200   10,816
+own ≥ 500   2,029
+own ≥ 1000    829
+fork more than own 4,081
 
 Run crawl.js
 It will get all the own >= 100 users in GitHub.
@@ -14,8 +14,10 @@ Data write to crawl.db
 
 2  cleaning
 
+Step 1. Not real user, is not a hero.
 Remove all no name, no location, no website, no follower, all empty users.
 - 10868 = 55881
 
-Remove all first 10 repo's commit less than 100 user.
+Step 2. someone creates lots of minal repos, is not a hero.
+Remove users, whos first 10 repo's commit less than 100.
 (1 repo less than 10 commits)
