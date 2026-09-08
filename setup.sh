@@ -47,12 +47,12 @@ ask_env GITHUB_TOKEN \
 
 echo ""
 echo "Installing dependencies..."
-# --include=dev: a server shell with NODE_ENV=production would otherwise skip
+# --prod=false: a server shell with NODE_ENV=production would otherwise skip
 # devDependencies, and the build needs vite from there.
-npm install --include=dev
+pnpm install --prod=false
 
 echo "Building..."
-npm run build
+pnpm run build
 
 echo ""
 echo "Setup complete. Start it with ./start.sh"

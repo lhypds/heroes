@@ -1,6 +1,6 @@
 // The account check, mounted on the page's own server. Vite serves the page
-// and this serves /api, on one port: `npm run dev` and `npm run preview` both
-// answer the check, and there is nothing to proxy and no second process.
+// and this serves /api, on one port: `pnpm run dev` and `pnpm run preview`
+// both answer the check, and there is nothing to proxy and no second process.
 import api, { ready } from "./handler.js";
 
 // GITHUB_TOKEN is read from the environment by api/account.js. Vite loads

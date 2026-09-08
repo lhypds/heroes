@@ -6,14 +6,14 @@ Give it a GitHub username and it reads that account against the rules: every
 public repository of their own that is not a fork, how many commits it has,
 and how much code is in it.  
 
-`npm run account -- <handle>` — on the command line  
-`npm run account -- <handle> --list` — and every repository, one to a line  
-`npm run account -- <handle> --json` — the answer as the API gives it  
+`pnpm run account -- <handle>` — on the command line  
+`pnpm run account -- <handle> --list` — and every repository, one to a line  
+`pnpm run account -- <handle> --json` — the answer as the API gives it  
 
 The same check answers over HTTP under `/api`, on the page's own port. It is
-a piece of middleware the page's server mounts (`api/plugin.js`), so `npm run
-dev` and `npm run preview` both answer it: one port, one process, one address
-from outside.  
+a piece of middleware the page's server mounts (`api/plugin.js`), so
+`pnpm run dev` and `pnpm run preview` both answer it: one port, one process,
+one address from outside.  
 
 The page asks it too. Under the rules in "Be a hero" there is a box that takes
 a username and sets the answer out: the score out of a hundred, the three

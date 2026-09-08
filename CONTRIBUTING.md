@@ -9,7 +9,7 @@ Adding yourself
 1. Fork the repository.  
 2. Add one file, `data/heroes/<handle>.json`, where `<handle>` is your GitHub
    username in lowercase.  
-3. Run `npm run check`. It says what is missing, if anything.  
+3. Run `pnpm run check`. It says what is missing, if anything.  
 4. Open a pull request.  
 
 Not every entry arrives this way. The people who keep the site also collect
@@ -95,7 +95,7 @@ belongs in that person's entry.
 The check
 ---------
 
-`npm run check` reads every file under `data/heroes/`:  
+`pnpm run check` reads every file under `data/heroes/`:  
 
 - the file name and `handle` agree  
 - `name` and `github` are there  
@@ -109,7 +109,7 @@ With `--online` it also asks each `repo` whether it answers, and mentions any
 
 The rest — whether each repository is really code, with ten commits and more
 than a hundred lines, and whether it is really yours and not a fork — is read
-by a person. `npm run account -- <handle>` reads a whole GitHub account the
+by a person. `pnpm run account -- <handle>` reads a whole GitHub account the
 same way first, repository by repository, and says which ones count and which
 do not; [Check an account](docs/30_Check%20an%20account.md) says what it
 counts, and how to ask it over HTTP.  

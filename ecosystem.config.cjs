@@ -19,9 +19,9 @@ module.exports = {
   apps: [
     {
       name: PM2_NAME,
-      script: "npm",
+      script: "pnpm",
       // The port is vite.config.js's to read off PORT in .env, the same one
-      // `npm run dev` listens on; only the binding is said here.
+      // `pnpm run dev` listens on; only the binding is said here.
       args: "run preview -- --host",
       cwd: __dirname,
       instances: 1,

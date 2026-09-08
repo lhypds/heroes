@@ -15,8 +15,8 @@ account against them and says where it stands: how many repositories count,
 which ones do not and why. [Check an account](30_Check%20an%20account.md) says
 what it counts, and how to ask it from the command line or over HTTP.  
 
-`npm run check` reads every entry and says what is missing. The same check runs
-on every pull request, and asks each repository whether it answers.  
+`pnpm run check` reads every entry and says what is missing. The same check
+runs on every pull request, and asks each repository whether it answers.  
 
 The page has a Copy prompt button under the example file. Give the prompt to
 an AI assistant along with a GitHub profile and it drafts the file; the prompt

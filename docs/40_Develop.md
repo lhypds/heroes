@@ -5,19 +5,19 @@ Develop
 
 Node.js 22.13 or later.  
 
-`npm install`  
-`npm run dev` — the page, reloading as files change, on `PORT` from `.env`  
-`npm run build` — a static site in `dist/`  
-`npm run check` — every entry under `data/heroes/`; add `--online` to ask each
-link whether it answers  
-`npm run account -- <handle>` — one GitHub account read against the rules;
+`pnpm install`  
+`pnpm run dev` — the page, reloading as files change, on `PORT` from `.env`  
+`pnpm run build` — a static site in `dist/`  
+`pnpm run check` — every entry under `data/heroes/`; add `--online` to ask
+each link whether it answers  
+`pnpm run account -- <handle>` — one GitHub account read against the rules;
 `--list` says it repository by repository, `--json` as the API answers it  
 `./crawl.sh` — people who might be heroes, into `data/crawl.db`  
 
-The same check answers over HTTP under `/api`, on the page's own port: `npm
-run dev` and `npm run preview` both serve it, and there is no second process
-and nothing proxied. [Check an account](30_Check%20an%20account.md) has the
-addresses and what the numbers mean.  
+The same check answers over HTTP under `/api`, on the page's own port:
+`pnpm run dev` and `pnpm run preview` both serve it, and there is no second
+process and nothing proxied. [Check an account](30_Check%20an%20account.md)
+has the addresses and what the numbers mean.  
 
 The account check and the crawl both need a GitHub token: `GITHUB_TOKEN`, in
 the environment or `.env`, or a signed-in `gh`.  
@@ -58,7 +58,7 @@ over; a file from an earlier `crawl.js`, with other rules, asks for it.
 The cleaning
 ------------
 
-`npm run cleaning` takes out of `data/crawl.db` the people the crawl kept
+`pnpm run cleaning` takes out of `data/crawl.db` the people the crawl kept
 who are plainly not heroes, in steps, and writes whoever goes to
 `data/cleaning/step<n>.json`, one file a step, with everything the crawl
 knew about them and the reason.  
