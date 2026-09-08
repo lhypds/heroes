@@ -30,12 +30,13 @@
   --focus: #0969da;
   /* A square of the hundred, on and off, and the edge each one is drawn
      with: the contribution graph's own. The count comes round over the same
-     hundred squares, so there is a fill per lap — the first is the graph's,
-     and each one after it deeper, ending at the graph's darkest and past it. */
+     hundred squares, so there is a fill per lap — a colour each, not a
+     deeper green each, so which lap a square is on is read at a glance.
+     Green, then blue, purple and pink, all Primer's. */
   --fill: #2da44e;
-  --fill-2: #216e39;
-  --fill-3: #184a2a;
-  --fill-4: #12321f;
+  --fill-2: #0969da;
+  --fill-3: #8250df;
+  --fill-4: #bf3989;
   --blank: #eff2f5;
   --cell-edge: #1f23280d;
   /* The filled button and the outlined one, at rest, under the pointer, and
@@ -91,12 +92,11 @@
   --line: #3d444d;
   --link: #4493f8;
   --focus: #1f6feb;
-  /* On dark the graph climbs towards light, so each lap past the hundred is
-     brighter than the one under it rather than deeper. */
+  /* The same four hues, in the values dark carries them at. */
   --fill: #2ea043;
-  --fill-2: #56d364;
-  --fill-3: #7ee787;
-  --fill-4: #aff5b4;
+  --fill-2: #58a6ff;
+  --fill-3: #a371f7;
+  --fill-4: #db61a2;
   --blank: #151b23;
   --cell-edge: #0104090d;
   --primary-bg: #da3633;
@@ -133,8 +133,7 @@
   --line: #e0e0e0;
   --link: var(--ink);
   --focus: var(--ink);
-  /* Ink is as dark as this gets, so the first lap keeps it and the laps over
-     the hundred step back through the greys. */
+  /* No colour here: the laps are ink and the greys under it. */
   --fill: var(--ink);
   --fill-2: var(--muted);
   --fill-3: #a8a8a8;

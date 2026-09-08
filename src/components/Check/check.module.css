@@ -125,6 +125,14 @@
   color: var(--muted);
 }
 
+/* Nothing to say yet. The line stays in the page so a reader listening to it
+   hears the next thing said, but it takes no room, and the gap under the box
+   is the gap under the rules above it. */
+.status:empty {
+  margin: 0;
+  min-height: 0;
+}
+
 .problem {
   color: var(--primary-bg);
 }
