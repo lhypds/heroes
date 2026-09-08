@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Code Heroes — the programmers who build a hundred applications"
+    "title": "Code Heroes — the programmers who build a hundred repos"
   },
   "hero": {
     "name": "Code Heroes",
-    "tagline": "The programmers who build a hundred applications.",
+    "tagline": "The programmers who build a hundred repos.",
     "lede": "Code Heroes is a public list of programmers who have a hundred public repositories of their own, every one of them real code. The bar to join is ten. Ten public repositories put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
-    "join": "Be A Hero",
+    "join": "Be a hero",
     "source": "Source on GitHub"
   },
   "rules": {
@@ -19,6 +19,10 @@
       {
         "name": "Each one real code",
         "body": "10 commits or more, and more than 100 lines of code in a programming language."
+      },
+      {
+        "name": "At least one repo with 1000 commits",
+        "body": "One of your public repositories carries 1000 commits or more. The rest need only the ten."
       }
     ]
   },
@@ -36,7 +40,7 @@
     "hide": "Hide the applications"
   },
   "join": {
-    "title": "Add yourself",
+    "title": "Be a hero",
     "lede": "The list lives in a GitHub repository, and an entry is one pull request.",
     "steps": [
       {

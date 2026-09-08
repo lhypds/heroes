@@ -176,8 +176,22 @@
   color: var(--muted);
 }
 
+/* A heading within a section, under the section's own label. */
+.subLabel {
+  margin: 0 0 14px 0;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: var(--tracking-heading);
+  color: var(--muted);
+}
+
 /* Rules */
-/* Two rules, two columns at the full width; one as the window narrows. */
+/* The rules open the join section; the steps follow them. */
+.joinRules {
+  margin-bottom: 36px;
+}
+
+/* A column per rule at the full width; fewer as the window narrows. */
 .rules {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));

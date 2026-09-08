@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Héroes del código — los programadores que construyen cien aplicaciones"
+    "title": "Héroes del código — los programadores que construyen cien repositorios"
   },
   "hero": {
     "name": "Héroes del código",
-    "tagline": "Los programadores que construyen cien aplicaciones.",
+    "tagline": "Los programadores que construyen cien repositorios.",
     "lede": "Héroes del código es una lista pública de programadores que tienen cien repositorios públicos creados por ellos mismos, cada uno hecho de código de verdad. El listón para entrar es diez. Diez repositorios públicos ponen un nombre en la lista; la cuenta de al lado llega hasta cien. Cualquiera puede comprobar una entrada, y cualquiera puede añadir una con un pull request.",
     "join": "Sé un héroe",
     "source": "Código en GitHub"
@@ -19,6 +19,10 @@
       {
         "name": "Cada uno, código de verdad",
         "body": "10 commits o más, y más de 100 líneas de código en un lenguaje de programación."
+      },
+      {
+        "name": "Al menos un repositorio con 1000 commits",
+        "body": "Uno de tus repositorios públicos acumula 1000 commits o más. A los demás les bastan los diez."
       }
     ]
   },
@@ -36,7 +40,7 @@
     "hide": "Ocultar las aplicaciones"
   },
   "join": {
-    "title": "Añádete",
+    "title": "Sé un héroe",
     "lede": "La lista vive en un repositorio de GitHub, y una entrada es un pull request.",
     "steps": [
       {

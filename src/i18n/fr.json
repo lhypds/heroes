@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Héros du code — les programmeurs qui construisent cent applications"
+    "title": "Héros du code — les programmeurs qui construisent cent dépôts"
   },
   "hero": {
     "name": "Héros du code",
-    "tagline": "Les programmeurs qui construisent cent applications.",
+    "tagline": "Les programmeurs qui construisent cent dépôts.",
     "lede": "Héros du code est une liste publique de programmeurs qui ont cent dépôts publics créés par eux-mêmes, chacun fait de vrai code. Le seuil d'entrée est de dix. Dix dépôts publics inscrivent un nom sur la liste ; le compte à côté va jusqu'à cent. Chacun peut vérifier une entrée, et chacun peut en ajouter une par pull request.",
     "join": "Devenez un héros",
     "source": "Source sur GitHub"
@@ -19,6 +19,10 @@
       {
         "name": "Chacun fait de vrai code",
         "body": "10 commits ou plus, et plus de 100 lignes de code dans un langage de programmation."
+      },
+      {
+        "name": "Au moins un dépôt à 1000 commits",
+        "body": "L'un de vos dépôts publics compte 1000 commits ou plus. Aux autres, les dix suffisent."
       }
     ]
   },
@@ -36,7 +40,7 @@
     "hide": "Masquer les applications"
   },
   "join": {
-    "title": "Ajoutez-vous",
+    "title": "Devenez un héros",
     "lede": "La liste vit dans un dépôt GitHub, et une entrée est une pull request.",
     "steps": [
       {

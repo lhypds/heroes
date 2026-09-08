@@ -5,9 +5,9 @@ Code Heroes
 
 A public list of programmers who have a hundred public repositories of their
 own, each one real code: ten commits or more, and more than a hundred lines in
-a programming language. Forks do not count, and stars are not asked for. The
-bar to join is ten; anyone can check an entry, and anyone can add one with a
-pull request.  
+a programming language, and one of them carrying a thousand commits or more.
+Forks do not count, and stars are not asked for. The bar to join is ten; anyone
+can check an entry, and anyone can add one with a pull request.  
 
 
 Rules
@@ -19,6 +19,9 @@ Rules
 
 2. Each of the 100 is real code.  
    Real code: 10 commits or more, and more than a 100 lines of code in a programming language. 
+
+3. At least one repo with 1000 commits.  
+   One of the public repositories carries 1000 commits or more. The rest need only the ten.  
 
 
 Docs

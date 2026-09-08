@@ -84,6 +84,10 @@ extension, a bot, a library, a framework: all of them count the same, as long
 as the repository passes both rules. A repository short of either is left out;
 it does not count toward the ten to join or the hundred.  
 
+One rule is about the set rather than each repository: at least one of the
+repositories in an entry carries a thousand commits or more. The rest need only
+the ten.  
+
 Every application in an entry is the author's own. Someone else's application
 belongs in that person's entry.  
 

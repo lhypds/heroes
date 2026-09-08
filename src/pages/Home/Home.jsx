@@ -92,23 +92,26 @@ export default function Home() {
         </section>
       )}
 
-      <section className={styles.section} id="rules">
-        <h2 className={styles.label}>{t("rules.title")}</h2>
-        <div className={styles.rules}>
-          {rules.map((rule, i) => (
-            <div className={styles.rule} key={rule.name}>
-              <h3 className={styles.ruleName}>
-                <span className={styles.ruleIndex}>{String(i + 1).padStart(2, "0")}</span>
-                {rule.name}
-              </h3>
-              <p className={styles.ruleBody}>{rule.body}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-
+      {/* What it takes, then how to say so: the rules and the pull request
+          that follows them are one section. */}
       <section className={styles.section} id="join">
         <h2 className={styles.label}>{t("join.title")}</h2>
+
+        <div className={styles.joinRules}>
+          <h3 className={styles.subLabel}>{t("rules.title")}</h3>
+          <div className={styles.rules}>
+            {rules.map((rule, i) => (
+              <div className={styles.rule} key={rule.name}>
+                <h4 className={styles.ruleName}>
+                  <span className={styles.ruleIndex}>{String(i + 1).padStart(2, "0")}</span>
+                  {rule.name}
+                </h4>
+                <p className={styles.ruleBody}>{rule.body}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+
         <div className={styles.join}>
           <div className={styles.joinText}>
             <p className={styles.sectionLede}>{t("join.lede")}</p>

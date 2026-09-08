@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Code-Helden — die Programmierer, die hundert Anwendungen bauen"
+    "title": "Code-Helden — die Programmierer, die hundert Repositories anlegen"
   },
   "hero": {
     "name": "Code-Helden",
-    "tagline": "Die Programmierer, die hundert Anwendungen bauen.",
+    "tagline": "Die Programmierer, die hundert Repositories anlegen.",
     "lede": "Code-Helden ist eine öffentliche Liste von Programmierern mit hundert selbst angelegten öffentlichen Repositories, jedes davon echter Code. Die Hürde zum Einstieg liegt bei zehn. Zehn öffentliche Repositories bringen einen Namen auf die Liste; der Zähler daneben läuft bis hundert. Jeder kann einen Eintrag prüfen, und jeder kann per Pull Request einen hinzufügen.",
     "join": "Werde ein Held",
     "source": "Quellcode auf GitHub"
@@ -19,6 +19,10 @@
       {
         "name": "Jedes davon echter Code",
         "body": "10 Commits oder mehr, und mehr als 100 Zeilen Code in einer Programmiersprache."
+      },
+      {
+        "name": "Mindestens ein Repository mit 1000 Commits",
+        "body": "Eines deiner öffentlichen Repositories trägt 1000 Commits oder mehr. Den übrigen genügen die zehn."
       }
     ]
   },
@@ -36,7 +40,7 @@
     "hide": "Anwendungen ausblenden"
   },
   "join": {
-    "title": "Trag dich ein",
+    "title": "Werde ein Held",
     "lede": "Die Liste lebt in einem GitHub-Repository, und ein Eintrag ist ein Pull Request.",
     "steps": [
       {
