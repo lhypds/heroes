@@ -18,6 +18,9 @@
 // commits. Forks are not asked for at all, and a mirror of someone else's
 // work is passed over the way a fork is.
 //
+// The commits are added up as they are read, so the answer also says how many
+// there are in all — every repository read, and the ones that count.
+//
 // Lines are the one thing GitHub does not give. It gives the bytes of every
 // language it recognises in a repository, so lines are those bytes over
 // BYTES_PER_LINE, about thirty across this repository and others measured
@@ -229,7 +232,7 @@ export class NoSuchAccount extends Error {
   }
 }
 
-// One repository, read against rule 2: ten commits or more, and more than a
+// One repository, read against rule 1: ten commits or more, and more than a
 // hundred lines of code. A repository that does not count says why. It is
 // answered with the account that owns it, since several can be read as one and
 // two accounts may both have a repository called dotfiles.
@@ -390,21 +393,31 @@ export const check = async (asked, options = {}) => {
   const byCommits = (a, b) => b.commits - a.commits || full(a).localeCompare(full(b));
   counted.sort(byCommits);
   passedOver.sort(byCommits);
-  // Rule 3 asks for one repository with a thousand commits; it is read off
+  // Rule 2 asks for one repository with a thousand commits; it is read off
   // the ones that count, since a repository that is not code is not one of
   // yours to point at either.
   const busiest = counted[0] ?? null;
   const sum = (what) => accounts.reduce((total, account) => total + account[what], 0);
+  const commitsIn = (repos) => repos.reduce((total, repo) => total + repo.commits, 0);
 
   return {
     handles: accounts.map((account) => account.handle),
     accounts,
     checkedAt: new Date().toISOString(),
     repositories: { public: sum("public"), own: sum("own"), read: sum("read") },
+    // Commits in all: over every repository read, and over the ones that
+    // count. Neither is a rule; they are what the reading adds up to.
+    commits: { total: commitsIn(counted) + commitsIn(passedOver), counted: commitsIn(counted) },
     rules: {
-      // 1. A hundred public repositories of your own that count.
-      repositories: { need: HUNDRED, have: counted.length, ok: counted.length >= HUNDRED },
-      // 2. What made them count, and how many did not.
+      // 1. A hundred public repositories of your own that are real code: what
+      // counted, and what was sifted out to get there.
+      repositories: {
+        need: HUNDRED,
+        have: counted.length,
+        ok: counted.length >= HUNDRED,
+        passedOver: passedOver.length,
+      },
+      // What made a repository count, for anyone doing the sum again.
       code: {
         commits: MIN_COMMITS,
         lines: MIN_LINES,
@@ -412,7 +425,7 @@ export const check = async (asked, options = {}) => {
         counted: counted.length,
         passedOver: passedOver.length,
       },
-      // 3. One of them with a thousand commits.
+      // 2. One of them with a thousand commits.
       commits: {
         need: THOUSAND,
         have: busiest?.commits ?? 0,
@@ -457,6 +470,10 @@ const say = (report, list) => {
   console.log(
     `${rules.code.counted.toLocaleString("en-US")} count: ${rules.code.commits} commits or more, ` +
       `more than ${rules.code.lines} lines of code. ${rules.code.passedOver.toLocaleString("en-US")} do not`,
+  );
+  console.log(
+    `${plural(report.commits.total, "commit")} in all, ` +
+      `${report.commits.counted.toLocaleString("en-US")} of them in the ones that count`,
   );
   console.log(
     rules.commits.repository === null

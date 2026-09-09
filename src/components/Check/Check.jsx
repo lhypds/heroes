@@ -4,7 +4,7 @@ import Hundred from "../Hundred";
 import { HUNDRED } from "../../constants";
 import styles from "./check.module.css";
 
-// A GitHub account, read against the three rules: how many of that account's
+// A GitHub account, read against the two rules: how many of that account's
 // public repositories of their own are real code, and whether one of them
 // carries a thousand commits. The reading is api/handler.js's, at /api; this
 // is the box it is asked from and the answer set out.
@@ -162,22 +162,16 @@ export default function Check() {
   const several = report ? report.accounts.length > 1 : false;
   const named = (owner, name) => (several ? `${owner}/${name}` : name);
 
-  // The three rules, each with what this account has against it. The second
-  // is the sieve the first counts through, so it is answered with what it
-  // sifted rather than with a yes or a no.
+  // The two rules, each with what this account has against it. The first is
+  // counted through a sieve, so it says what it sifted out as well as what it
+  // let through.
   const marks = report && [
     {
       ok: report.rules.repositories.ok,
       value: t("check.one", {
         n: count(report.rules.repositories.have, language),
         need: count(report.rules.repositories.need, language),
-      }),
-    },
-    {
-      ok: null,
-      value: t("check.two", {
-        counted: count(report.rules.code.counted, language),
-        over: count(report.rules.code.passedOver, language),
+        over: count(report.rules.repositories.passedOver, language),
       }),
     },
     {
@@ -291,7 +285,8 @@ export default function Check() {
                   own: count(report.repositories.own, language),
                   all: count(report.repositories.public, language),
                   accounts: count(report.accounts.length, language),
-                })}
+                })}{" "}
+                {t("check.commits", { n: count(report.commits.total, language) })}
               </p>
             </div>
             <div className={styles.score}>

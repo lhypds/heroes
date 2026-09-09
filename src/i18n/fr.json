@@ -13,12 +13,8 @@
     "title": "Les règles",
     "items": [
       {
-        "name": "100 dépôts publics à soi",
-        "body": "« Public » signifie que n'importe qui peut ouvrir, lire et cloner le dépôt. « À soi » signifie que c'est vous qui l'avez créé. Les forks des dépôts d'autres personnes ne comptent pas."
-      },
-      {
-        "name": "Chaque dépôt doit contenir du vrai code",
-        "body": "Chaque dépôt doit avoir au moins 10 commits et plus de 100 lignes de code dans n'importe quel langage de programmation."
+        "name": "100 dépôts de vrai code",
+        "body": "Cent dépôts publics à vous, chacun du vrai code. « Public » signifie que n'importe qui peut ouvrir, lire et cloner le dépôt. « À vous » signifie que c'est vous qui l'avez créé ; les forks des dépôts d'autres personnes ne comptent pas. Et « vrai code » signifie au moins 10 commits et plus de 100 lignes dans n'importe quel langage de programmation."
       },
       {
         "name": "Au moins un dépôt à 1000 commits",
@@ -75,15 +71,15 @@
     "waiting": "{{n}} vérifications avant celle-ci…",
     "own": "{{own}} dépôts publics à eux, {{all}} en comptant les forks.",
     "ownAcross": "{{own}} dépôts publics à eux sur {{accounts}} comptes, {{all}} en comptant les forks.",
+    "commits": "{{n}} commits en tout.",
     "grid": "{{n}} dépôts qui comptent sur 100",
-    "one": "{{n}} sur {{need}}",
-    "two": "{{counted}} comptent, {{over}} non",
+    "one": "{{n}} sur {{need}}, {{over}} écartés",
     "three": "{{repo}}, {{n}} commits",
     "none": "aucun dépôt proche des mille commits pour l'instant",
     "hero": "Un héros : cent dépôts qui comptent, et l'un d'eux avec mille commits.",
     "listed": "Sur la liste : {{n}} sur cent. Le seuil d'entrée est de dix.",
     "under": "{{n}} sur les dix par lesquels la liste commence.",
-    "sieve": "La deuxième règle est le tamis que la première compte à travers : un dépôt compte s'il est à vous, s'il n'est pas un fork, et s'il a 10 commits ou plus et plus de 100 lignes de code. Les lignes sont estimées à partir des octets que GitHub donne pour chaque langage, à trente octets la ligne ; un dépôt tout près de la limite mérite donc un second regard.",
+    "sieve": "Un dépôt compte s'il est à vous, s'il n'est pas un fork, et s'il a 10 commits ou plus et plus de 100 lignes de code. Les lignes sont estimées à partir des octets que GitHub donne pour chaque langage, à trente octets la ligne ; un dépôt tout près de la limite mérite donc un second regard.",
     "show": "Afficher les dépôts",
     "hide": "Masquer les dépôts",
     "counts": "Ceux-ci comptent",

@@ -13,12 +13,8 @@
     "title": "Las reglas",
     "items": [
       {
-        "name": "100 repositorios públicos propios",
-        "body": "«Público» significa que cualquiera puede abrir, leer y clonar el repositorio. «Propio» significa que lo creaste tú. Los forks de repositorios de otras personas no cuentan."
-      },
-      {
-        "name": "Cada repositorio debe contener código de verdad",
-        "body": "Cada repositorio debe tener al menos 10 commits y más de 100 líneas de código en cualquier lenguaje de programación."
+        "name": "100 repositorios de código de verdad",
+        "body": "Cien repositorios públicos propios, cada uno código de verdad. «Público» significa que cualquiera puede abrir, leer y clonar el repositorio. «Propio» significa que lo creaste tú; los forks de repositorios de otras personas no cuentan. Y «código de verdad» significa al menos 10 commits y más de 100 líneas en cualquier lenguaje de programación."
       },
       {
         "name": "Al menos un repositorio con 1000 commits",
@@ -75,15 +71,15 @@
     "waiting": "{{n}} comprobaciones por delante…",
     "own": "{{own}} repositorios públicos propios, {{all}} contando los forks.",
     "ownAcross": "{{own}} repositorios públicos propios en {{accounts}} cuentas, {{all}} contando los forks.",
+    "commits": "{{n}} commits en total.",
     "grid": "{{n}} de 100 repositorios que cuentan",
-    "one": "{{n}} de {{need}}",
-    "two": "{{counted}} cuentan, {{over}} no",
+    "one": "{{n}} de {{need}}, {{over}} descartados",
     "three": "{{repo}}, {{n}} commits",
     "none": "todavía ningún repositorio cerca de los mil commits",
     "hero": "Un héroe: cien repositorios que cuentan, y uno de ellos con mil commits.",
     "listed": "En la lista: {{n}} de cien. El listón para entrar es diez.",
     "under": "{{n}} de los diez con los que empieza la lista.",
-    "sieve": "La segunda regla es el tamiz por el que cuenta la primera: un repositorio cuenta si es tuyo, no es un fork, y tiene 10 commits o más y más de 100 líneas de código. Las líneas se estiman a partir de los bytes que GitHub da para cada lenguaje, a treinta bytes por línea, así que un repositorio justo en el límite merece una segunda mirada.",
+    "sieve": "Un repositorio cuenta si es tuyo, no es un fork, y tiene 10 commits o más y más de 100 líneas de código. Las líneas se estiman a partir de los bytes que GitHub da para cada lenguaje, a treinta bytes por línea, así que un repositorio justo en el límite merece una segunda mirada.",
     "show": "Mostrar los repositorios",
     "hide": "Ocultar los repositorios",
     "counts": "Estos cuentan",

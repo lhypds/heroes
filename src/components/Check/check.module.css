@@ -227,8 +227,8 @@
   color: var(--muted);
 }
 
-/* The three rules, one to a row: its number, whether it is met, what it asks
-   for, and what this account has against it. */
+/* The rules, one to a row: its number, whether it is met, what it asks for,
+   and what this account has against it. */
 .marks {
   display: grid;
   grid-template-columns: 32px 16px minmax(0, 1fr) auto;

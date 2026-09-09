@@ -13,12 +13,8 @@
     "title": "Die Regeln",
     "items": [
       {
-        "name": "100 eigene öffentliche Repositories",
-        "body": "„Öffentlich“ heißt, dass jeder das Repository öffnen, lesen und klonen kann. „Eigen“ heißt, dass du es angelegt hast. Forks fremder Repositories zählen nicht."
-      },
-      {
-        "name": "Jedes Repository muss echten Code enthalten",
-        "body": "Jedes Repository muss mindestens 10 Commits und mehr als 100 Zeilen Code in einer beliebigen Programmiersprache haben."
+        "name": "100 Repositories mit echtem Code",
+        "body": "Hundert eigene öffentliche Repositories, jedes davon echter Code. „Öffentlich“ heißt, dass jeder das Repository öffnen, lesen und klonen kann. „Eigen“ heißt, dass du es angelegt hast; Forks fremder Repositories zählen nicht. Und „echter Code“ heißt mindestens 10 Commits und mehr als 100 Zeilen in einer beliebigen Programmiersprache."
       },
       {
         "name": "Mindestens ein Repository mit 1000 Commits",
@@ -75,15 +71,15 @@
     "waiting": "{{n}} Prüfungen sind noch davor…",
     "own": "{{own}} eigene öffentliche Repositories, {{all}} mit den Forks.",
     "ownAcross": "{{own}} eigene öffentliche Repositories in {{accounts}} Konten, {{all}} mit den Forks.",
+    "commits": "{{n}} Commits insgesamt.",
     "grid": "{{n}} von 100 Repositories, die zählen",
-    "one": "{{n}} von {{need}}",
-    "two": "{{counted}} zählen, {{over}} nicht",
+    "one": "{{n}} von {{need}}, {{over}} aussortiert",
     "three": "{{repo}}, {{n}} Commits",
     "none": "noch kein Repository nahe an tausend Commits",
     "hero": "Ein Held: hundert Repositories, die zählen, und eines davon mit tausend Commits.",
     "listed": "Auf der Liste: {{n}} von hundert. Die Hürde zum Einstieg liegt bei zehn.",
     "under": "{{n}} von den zehn, bei denen die Liste beginnt.",
-    "sieve": "Die zweite Regel ist das Sieb, durch das die erste zählt: ein Repository zählt, wenn es deines ist, kein Fork, mit 10 Commits oder mehr und mehr als 100 Zeilen Code. Die Zeilen werden aus den Bytes geschätzt, die GitHub je Sprache angibt, mit dreißig Bytes je Zeile; ein Repository dicht an der Grenze ist einen zweiten Blick wert.",
+    "sieve": "Ein Repository zählt, wenn es deines ist, kein Fork, mit 10 Commits oder mehr und mehr als 100 Zeilen Code. Die Zeilen werden aus den Bytes geschätzt, die GitHub je Sprache angibt, mit dreißig Bytes je Zeile; ein Repository dicht an der Grenze ist einen zweiten Blick wert.",
     "show": "Repositories anzeigen",
     "hide": "Repositories ausblenden",
     "counts": "Diese zählen",

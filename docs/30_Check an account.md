@@ -26,7 +26,7 @@ one address from outside.
 
 The page asks it too. Under the rules in "Be a hero" there is a box that takes
 a username — or several with commas — and sets the answer out: the score out
-of a hundred, the three rules with what the accounts have against each, and,
+of a hundred, the two rules with what the accounts have against each, and,
 unfolded, every repository that counts and every one that does not.  
 
 
@@ -63,8 +63,9 @@ Ask again, every second or two, until it answers `200`:
   ],
   "checkedAt": "2026-09-08T20:16:23.170Z",
   "repositories": { "public": 223, "own": 222, "read": 222 },
+  "commits": { "total": 74381, "counted": 61208 },
   "rules": {
-    "repositories": { "need": 100, "have": 144, "ok": true },
+    "repositories": { "need": 100, "have": 144, "ok": true, "passedOver": 78 },
     "code": { "commits": 10, "lines": 100, "bytesPerLine": 30, "counted": 144, "passedOver": 78 },
     "commits": { "need": 1000, "have": 2983, "owner": "jaywcjlove", "repository": "awesome-mac", "ok": true }
   },
@@ -88,7 +89,12 @@ is all of them together: `repositories` is the sum, and `counted` and
 `passedOver` are one list between them, each repository saying which account
 `owner` it belongs to, since two accounts may both have one called dotfiles.  
 
-`counted` are the repositories that meet rule 2, busiest first; `passedOver`
+`commits` is what the reading added up to and not a rule: `total` over every
+repository read, `counted` over the ones that count. A person with a great
+many commits in repositories that are not code will see the two figures far
+apart, which is worth knowing before an entry is written.  
+
+`counted` are the repositories that meet rule 1, busiest first; `passedOver`
 are the rest, each saying what is short: `reason` in a word — `mirror`,
 `empty`, `commits`, `prose` or `lines` — for whoever answers in another
 language, and `why` in a sentence for whoever reads it as it is. `waiting` is
@@ -112,11 +118,14 @@ so twenty checks of one, or four of five.
 What it counts
 --------------
 
-The three rules are in [README.md](../README.md). This is how each is read.  
+The two rules are in [README.md](../README.md). This is how each is read.  
 
-A repository counts when it is public, yours, not a fork and not a mirror,
-has **10 commits or more** on its default branch, and holds **more than 100
-lines of code**. Commits are counted whoever made them, since one made with
+Rule 1 asks for a hundred repositories that are real code, which is one rule
+read in two moves: a repository counts when it is public, yours, not a fork
+and not a mirror, has **10 commits or more** on its default branch, and holds
+**more than 100 lines of code**; then the ones that count are counted against
+the hundred. `rules.repositories` is that count and `rules.code` is what the
+sieve was set to. Commits are counted whoever made them, since one made with
 an assistant is still your work. Archived repositories count; they were real
 when they were written.  
 

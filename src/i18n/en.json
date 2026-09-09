@@ -13,12 +13,8 @@
     "title": "The rules",
     "items": [
       {
-        "name": "100 public repositories of your own",
-        "body": "“Public” means that anyone can open, read, and clone the repository. “Your own” means that you created it. Forks of other people’s repositories do not count."
-      },
-      {
-        "name": "Each repository must contain real code",
-        "body": "Each repository must have at least 10 commits and more than 100 lines of code in any programming language."
+        "name": "100 real code repositories",
+        "body": "A hundred public repositories of your own, each one real code. “Public” means that anyone can open, read, and clone the repository. “Your own” means that you created it; forks of other people’s repositories do not count. And real code means at least 10 commits and more than 100 lines in any programming language."
       },
       {
         "name": "At least one repository with 1,000 commits",
@@ -75,15 +71,15 @@
     "waiting": "{{n}} checks ahead of this one…",
     "own": "{{own}} public repositories of their own, {{all}} counting forks.",
     "ownAcross": "{{own}} public repositories of their own across {{accounts}} accounts, {{all}} counting forks.",
+    "commits": "{{n}} commits in all.",
     "grid": "{{n}} of 100 repositories that count",
-    "one": "{{n}} of {{need}}",
-    "two": "{{counted}} count, {{over}} do not",
+    "one": "{{n}} of {{need}}, {{over}} passed over",
     "three": "{{repo}}, {{n}} commits",
     "none": "nothing near a thousand commits yet",
     "hero": "A hero: a hundred repositories that count, and one of them with a thousand commits.",
     "listed": "On the list: {{n}} of the hundred. Ten is the bar to join.",
     "under": "{{n}} of the ten the list starts at.",
-    "sieve": "The second rule is the sieve the first counts through: a repository counts when it is yours, not a fork, and has 10 commits or more and more than 100 lines of code. Lines are read off the bytes GitHub gives for each language, at thirty bytes a line, so a repository near the line is worth a second look.",
+    "sieve": "A repository counts when it is yours, not a fork, and has 10 commits or more and more than 100 lines of code. Lines are read off the bytes GitHub gives for each language, at thirty bytes a line, so a repository near the line is worth a second look.",
     "show": "Show the repositories",
     "hide": "Hide the repositories",
     "counts": "These count",
