@@ -37,6 +37,37 @@ const isHttps = (value) => {
   }
 };
 
+// A person may keep more than one account — a personal one, an organisation
+// of their own — and the rules read them as one, so github is a list. A lone
+// address is read as a list of one.
+const accountsOf = (github) => {
+  if (Array.isArray(github)) return github;
+  return github === undefined ? [] : [github];
+};
+
+// Every account is a profile address, https://github.com/<handle>, and each
+// one is listed once. The first is the account the entry is named for.
+const checkAccounts = (file, github) => {
+  const list = accountsOf(github);
+  if (list.length === 0) {
+    problem(file, `github must be a list of profile addresses, ["https://github.com/<handle>"]`);
+    return;
+  }
+  const seen = new Set();
+  list.forEach((url, i) => {
+    const where = Array.isArray(github) ? `github[${i}]` : "github";
+    if (!isHttps(url)) {
+      problem(file, `${where} must be an https:// address`);
+    } else if (!/^https:\/\/github\.com\/[^/]+\/?$/i.test(url)) {
+      problem(file, `${where} must be a profile address, https://github.com/<handle>`);
+    } else if (seen.has(url.toLowerCase())) {
+      problem(file, `${where} is listed twice: ${url}`);
+    } else {
+      seen.add(url.toLowerCase());
+    }
+  });
+};
+
 // A description is English, or an object of translations that at least says
 // it in English.
 const checkLocalised = (file, where, value, required) => {
@@ -85,11 +116,7 @@ const checkLead = (file, lead) => {
   if (!HANDLE.test(handle)) problem(file, `the file name must be a lowercase GitHub username`);
   if (lead.handle !== handle) problem(file, `handle must be "${handle}", the same as the file name`);
   if (!isText(lead.name)) problem(file, `name is missing`);
-  if (!isHttps(lead.github)) {
-    problem(file, `github must be an https:// address`);
-  } else if (!/^https:\/\/github\.com\/[^/]+\/?$/i.test(lead.github)) {
-    problem(file, `github must be a profile address, https://github.com/<handle>`);
-  }
+  checkAccounts(file, lead.github);
   if (lead.website !== undefined && !isHttps(lead.website)) problem(file, `website must be an https:// address`);
   checkLocalised(file, "bio", lead.bio, false);
   // What their own repositories come to in commits, which the page shows
@@ -113,7 +140,9 @@ const checkLead = (file, lead) => {
 // else — a store page can turn a script away and still be there).
 const linksOf = (file, lead) => {
   const links = [];
-  if (isHttps(lead.github)) links.push({ file, url: lead.github, required: false });
+  for (const url of accountsOf(lead.github)) {
+    if (isHttps(url)) links.push({ file, url, required: false });
+  }
   if (isHttps(lead.website)) links.push({ file, url: lead.website, required: false });
   for (const app of Array.isArray(lead.apps) ? lead.apps : []) {
     if (!app || typeof app !== "object") continue;

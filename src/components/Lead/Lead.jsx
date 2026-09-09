@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import Hundred from "../Hundred";
 import { HUNDRED } from "../../constants";
-import { pick, host } from "@utils/leads";
+import { pick, host, accounts, account } from "@utils/leads";
 import styles from "./lead.module.css";
 
 // One person on the list: who they are and how far along the hundred they
@@ -17,9 +17,12 @@ import styles from "./lead.module.css";
 // is the third rule. It is a figure somebody read off the account rather than
 // off this list, so an entry without it simply does not show one.
 //
+// Beside the name, every account the entry lists: one person may keep more
+// than one, and the rules read them as one.
+//
 // Their GitHub picture beside the name, read from the address GitHub gives
 // every profile picture, hero or not. If it does not load, nothing is shown
-// in its place.
+// in its place. It is the account the file is named for.
 export default function Lead({ lead }) {
   const { t, i18n } = useTranslation();
   const language = i18n.language;
@@ -59,7 +62,9 @@ export default function Lead({ lead }) {
               </button>
             </h3>
             <div className={styles.links}>
-              <a href={github} target="_blank" rel="noopener">@{handle}</a>
+              {accounts(github).map((url) => (
+                <a key={url} href={url} target="_blank" rel="noopener">@{account(url)}</a>
+              ))}
               {website && (
                 <a href={website} target="_blank" rel="noopener">{host(website)}</a>
               )}

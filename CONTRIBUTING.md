@@ -23,7 +23,7 @@ The file looks like this:
 {
   "handle": "you",
   "name": "Your Name",
-  "github": "https://github.com/you",
+  "github": ["https://github.com/you", "https://github.com/your-org"],
   "website": "https://example.com",
   "bio": "One line about what you build.",
   "commits": 12345,
@@ -48,7 +48,10 @@ The entry:
 
 `handle` — your GitHub username, lowercase, the same as the file name.  
 `name` — how you want to be listed.  
-`github` — the address of your GitHub profile.  
+`github` — a list of your GitHub profiles, the account the file is named for
+first. Several accounts count together — a personal account and an
+organisation of yours, say — so list every one the applications below come
+from. One account on its own is a list of one.  
 `website` — optional, an address of your own.  
 `bio` — optional, one line, English or translated (see below).  
 `commits` — optional, the commits your own public repositories come to in all,
@@ -72,41 +75,14 @@ site, a package page, a release page, a marketplace listing, a store listing.
 on.  
 
 
-What counts
------------
-
-Each application in an entry is one repository, and there are two rules.  
-
-1. It is a public repository of your own: anyone can open it, read it and
-   clone it, and you created it. A fork of someone else's repository is theirs
-   and does not count, and neither does a mirror.  
-2. It is real code: ten commits or more, and more than a hundred lines of code
-   in a programming language. A repository that is only a README, or only
-   prose, data or configuration, does not count. Stars are not asked for.  
-
-It does not have to be an application. A web app, a command-line tool, an
-extension, a bot, a library, a framework: all of them count the same, as long
-as the repository passes both rules. A repository short of either is left out;
-it does not count toward the ten to join or the hundred.  
-
-Two rules are about the set rather than each repository: at least one of the
-repositories in an entry carries a thousand commits or more, and your own
-public repositories come to more than ten thousand commits in all. The rest
-need only the ten. The second of the two is read over every repository of
-yours, the ones that are left out of the entry as well — `commits` in the file
-is that figure.  
-
-Every application in an entry is the author's own. Someone else's application
-belongs in that person's entry.  
-
-
 The check
 ---------
 
 `pnpm run check` reads every file under `data/heroes/`:  
 
 - the file name and `handle` agree  
-- `name` and `github` are there  
+- `name` is there, and `github` has at least one profile address, each listed
+  once  
 - there are at least ten applications  
 - every application has a `name`, a `description` and a `repo`  
 - every `repo` is an `https://` address, listed once  

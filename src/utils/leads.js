@@ -24,4 +24,22 @@ const host = (url) => {
   }
 };
 
-export { LEADS, pick, host };
+// A person may keep more than one account — a personal one, an organisation
+// of their own — and the rules read them as one, so github is a list. A lone
+// address is read as a list of one.
+const accounts = (github) => {
+  if (Array.isArray(github)) return github.filter(Boolean);
+  return github ? [github] : [];
+};
+
+// "lhypds" for https://github.com/lhypds — the account's own name, for a
+// label, kept as the profile spells it.
+const account = (url) => {
+  try {
+    return new URL(url).pathname.replace(/^\/+|\/+$/g, "") || host(url);
+  } catch {
+    return url;
+  }
+};
+
+export { LEADS, pick, host, accounts, account };
