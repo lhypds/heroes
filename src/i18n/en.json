@@ -14,7 +14,7 @@
     "items": [
       {
         "name": "100 real code repositories",
-        "body": "A hundred public repositories of your own, each one real code. “Public” means that anyone can open, read, and clone the repository. “Your own” means that you created it; forks of other people’s repositories do not count. And real code means at least 10 commits and more than 100 lines in any programming language."
+        "body": "A hundred public repositories of your own, each one real code. “Public” means that anyone can open, read, and clone the repository. “Your own” means that you created it; forks of other people’s repositories do not count. And real code means at least 10 commits and more than 100 lines in any programming language. Several accounts count together — a personal account and an organisation of yours, say — as long as the repositories under them are your own work."
       },
       {
         "name": "At least one repository with 1,000 commits",
@@ -105,7 +105,8 @@
     "busy": "Too many checks waiting just now. Try again in a minute.",
     "github": "GitHub would not answer. Try again in a moment.",
     "off": "The check is not answering. It runs beside the page; if this is a local copy, its server may be off.",
-    "failed": "The check could not finish. Try again in a moment."
+    "failed": "The check could not finish. Try again in a moment.",
+    "broke": "The check could not be drawn. Reload the page and try again."
   },
   "language": {
     "title": "Language"

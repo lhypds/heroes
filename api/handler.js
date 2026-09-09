@@ -171,12 +171,12 @@ const checked = (request, response, key, logins) => {
       return send(request, response, off ? 503 : 502, { status: "error", handles: logins, error: answer.error },
         off ? { "retry-after": "60" } : {});
     }
-    // An answer that stands is worth keeping at the browser too, for as long
-    // as it has left here.
-    const age = Math.round((Date.now() - answer.at) / 1000);
-    return send(request, response, 200, { status: "done", ...answer.report }, {
-      "cache-control": `public, max-age=${Math.max(0, Math.round(KEEP_MS / 1000) - age)}`,
-    });
+    // The answer stands for an hour, but here and not in the browser. What it
+    // holds is shaped by the code that answered, and a deployment changes that
+    // shape while a browser would go on handing the old one to the new page —
+    // which is a field the page reads and does not find. It is already in
+    // memory, so asking again costs a round trip and nothing else.
+    return send(request, response, 200, { status: "done", ...answer.report });
   }
   if (answer) answers.delete(key);
 

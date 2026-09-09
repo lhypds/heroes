@@ -17,7 +17,9 @@ Rules
    A hundred public repositories of your own, each one real code. "Public" means
    that anyone can open, read, and clone the repository. "Your own" means that you
    created it; forks of other people's repositories do not count. And real code
-   means at least 10 commits and more than 100 lines in any programming language.  
+   means at least 10 commits and more than 100 lines in any programming language.
+   Several accounts count together — a personal account and an organisation of
+   yours, say — as long as the repositories under them are your own work.  
 
 2. At least one repository with 1,000 commits.  
    At least one of your public repositories must contain 1,000 or more commits.  

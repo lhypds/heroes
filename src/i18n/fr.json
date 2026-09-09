@@ -14,7 +14,7 @@
     "items": [
       {
         "name": "100 dépôts de vrai code",
-        "body": "Cent dépôts publics à vous, chacun du vrai code. « Public » signifie que n'importe qui peut ouvrir, lire et cloner le dépôt. « À vous » signifie que c'est vous qui l'avez créé ; les forks des dépôts d'autres personnes ne comptent pas. Et « vrai code » signifie au moins 10 commits et plus de 100 lignes dans n'importe quel langage de programmation."
+        "body": "Cent dépôts publics à vous, chacun du vrai code. « Public » signifie que n'importe qui peut ouvrir, lire et cloner le dépôt. « À vous » signifie que c'est vous qui l'avez créé ; les forks des dépôts d'autres personnes ne comptent pas. Et « vrai code » signifie au moins 10 commits et plus de 100 lignes dans n'importe quel langage de programmation. Plusieurs comptes comptent ensemble — un compte personnel et une organisation à vous, par exemple — pourvu que les dépôts qui s'y trouvent soient votre travail."
       },
       {
         "name": "Au moins un dépôt à 1000 commits",
@@ -105,7 +105,8 @@
     "busy": "Trop de vérifications en attente pour l'instant. Réessayez dans une minute.",
     "github": "GitHub n'a pas répondu. Réessayez dans un instant.",
     "off": "La vérification ne répond pas. Elle tourne à côté de la page ; s'il s'agit d'une copie locale, son serveur est peut-être arrêté.",
-    "failed": "La vérification n'a pas pu aboutir. Réessayez dans un instant."
+    "failed": "La vérification n'a pas pu aboutir. Réessayez dans un instant.",
+    "broke": "La vérification n'a pas pu s'afficher. Rechargez la page et réessayez."
   },
   "language": {
     "title": "Langue"

@@ -14,7 +14,7 @@
     "items": [
       {
         "name": "100 Repositories mit echtem Code",
-        "body": "Hundert eigene öffentliche Repositories, jedes davon echter Code. „Öffentlich“ heißt, dass jeder das Repository öffnen, lesen und klonen kann. „Eigen“ heißt, dass du es angelegt hast; Forks fremder Repositories zählen nicht. Und „echter Code“ heißt mindestens 10 Commits und mehr als 100 Zeilen in einer beliebigen Programmiersprache."
+        "body": "Hundert eigene öffentliche Repositories, jedes davon echter Code. „Öffentlich“ heißt, dass jeder das Repository öffnen, lesen und klonen kann. „Eigen“ heißt, dass du es angelegt hast; Forks fremder Repositories zählen nicht. Und „echter Code“ heißt mindestens 10 Commits und mehr als 100 Zeilen in einer beliebigen Programmiersprache. Mehrere Konten zählen zusammen — ein persönliches Konto und eine Organisation von dir etwa —, solange die Repositories darunter deine eigene Arbeit sind."
       },
       {
         "name": "Mindestens ein Repository mit 1000 Commits",
@@ -105,7 +105,8 @@
     "busy": "Gerade warten zu viele Prüfungen. Versuch es in einer Minute noch einmal.",
     "github": "GitHub hat nicht geantwortet. Versuch es gleich noch einmal.",
     "off": "Die Prüfung antwortet nicht. Sie läuft neben der Seite; bei einer lokalen Kopie ist ihr Server vielleicht aus.",
-    "failed": "Die Prüfung konnte nicht abgeschlossen werden. Versuch es gleich noch einmal."
+    "failed": "Die Prüfung konnte nicht abgeschlossen werden. Versuch es gleich noch einmal.",
+    "broke": "Die Prüfung konnte nicht dargestellt werden. Lade die Seite neu und versuche es noch einmal."
   },
   "language": {
     "title": "Sprache"

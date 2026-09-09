@@ -44,6 +44,17 @@ const handlesOf = (typed) => [
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+// Whether a finished answer is one this page knows how to set out. An answer
+// is shaped by the code that gave it, and a browser or a proxy may hold one
+// from before a deployment; reading a field out of an answer that has not got
+// it takes the whole page down, so the shape is looked at first and an answer
+// this page does not know is asked for again past the cache.
+const usable = (body) =>
+  Array.isArray(body?.accounts) && body.accounts.length > 0 &&
+  body.repositories != null && body.commits != null &&
+  body.rules?.repositories != null && body.rules?.commits != null &&
+  Array.isArray(body.counted) && Array.isArray(body.passedOver);
+
 // A number as the reader's language writes it.
 const count = (n, language) => Number(n).toLocaleString(language);
 
@@ -106,6 +117,9 @@ export default function Check() {
     // a minute of asking, and a single one going astray on the way should not
     // end it; three in a row is the check not being there.
     let missed = 0;
+    // Set once an answer has come back in a shape this page does not know, so
+    // the next ask goes past whatever was holding it.
+    let bypass = false;
     try {
       for (;;) {
         let answer;
@@ -113,6 +127,7 @@ export default function Check() {
         try {
           answer = await fetch(`/api/check/${logins.map(encodeURIComponent).join(",")}`, {
             headers: { accept: "application/json" },
+            cache: bypass ? "reload" : "default",
             signal: stop.signal,
           });
           body = await answer.json().catch(() => null);
@@ -136,7 +151,20 @@ export default function Check() {
           continue;
         }
         if (answer.ok && body?.status === "done") {
-          setReport(body);
+          if (usable(body)) {
+            setReport(body);
+            return;
+          }
+          // Almost always an answer the browser kept from before a deployment.
+          // One more ask, with the cache stepped over; if that is no better,
+          // the check and the page are not of the same age and say so rather
+          // than reading a field that is not there.
+          if (!bypass) {
+            bypass = true;
+            continue;
+          }
+          console.error("the check answered in a shape this page does not know");
+          setError(t("check.broke"));
           return;
         }
         setError(failure(answer.status, body));

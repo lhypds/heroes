@@ -14,7 +14,7 @@
     "items": [
       {
         "name": "100 repositorios de código de verdad",
-        "body": "Cien repositorios públicos propios, cada uno código de verdad. «Público» significa que cualquiera puede abrir, leer y clonar el repositorio. «Propio» significa que lo creaste tú; los forks de repositorios de otras personas no cuentan. Y «código de verdad» significa al menos 10 commits y más de 100 líneas en cualquier lenguaje de programación."
+        "body": "Cien repositorios públicos propios, cada uno código de verdad. «Público» significa que cualquiera puede abrir, leer y clonar el repositorio. «Propio» significa que lo creaste tú; los forks de repositorios de otras personas no cuentan. Y «código de verdad» significa al menos 10 commits y más de 100 líneas en cualquier lenguaje de programación. Varias cuentas cuentan juntas —una cuenta personal y una organización tuya, por ejemplo— siempre que los repositorios que hay en ellas sean obra tuya."
       },
       {
         "name": "Al menos un repositorio con 1000 commits",
@@ -105,7 +105,8 @@
     "busy": "Demasiadas comprobaciones en cola ahora mismo. Inténtalo en un minuto.",
     "github": "GitHub no respondió. Inténtalo dentro de un momento.",
     "off": "La comprobación no responde. Corre junto a la página; si esta es una copia local, puede que su servidor esté apagado.",
-    "failed": "La comprobación no pudo terminar. Inténtalo dentro de un momento."
+    "failed": "La comprobación no pudo terminar. Inténtalo dentro de un momento.",
+    "broke": "La comprobación no se pudo mostrar. Recarga la página e inténtalo de nuevo."
   },
   "language": {
     "title": "Idioma"

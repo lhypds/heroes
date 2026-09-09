@@ -191,6 +191,14 @@
   margin-bottom: 36px;
 }
 
+/* What stands where the check would be, on the day the check cannot be drawn.
+   It takes the room the box took, so the page below it does not jump. */
+.broke {
+  margin: 0 0 36px 0;
+  max-width: 42em;
+  color: var(--muted);
+}
+
 /* A column per rule at the full width; fewer as the window narrows. */
 .rules {
   display: grid;

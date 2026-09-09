@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { LanguageSwitcher, ThemeSwitcher, Lead, Json, Check } from "@components";
+import { LanguageSwitcher, ThemeSwitcher, Lead, Json, Check, Boundary } from "@components";
 import { LEADS } from "@utils/leads";
 import { REPO, GUIDE, HOME, HUNDRED } from "../../constants";
 import { EXAMPLE, PROMPT } from "../../prompt";
@@ -114,8 +114,13 @@ export default function Home() {
         </div>
 
         {/* The rules read against a name: whoever is reading them can put
-            their own in and see where they stand before the steps below. */}
-        <Check />
+            their own in and see where they stand before the steps below. It
+            is the one part of the page drawn from what a server said, so it is
+            held up on its own: if it cannot be drawn, the rest of the page is
+            still there. */}
+        <Boundary say={t("check.broke")} className={styles.broke}>
+          <Check />
+        </Boundary>
 
         <h3 className={styles.subLabel}>{t("join.pull")}</h3>
         <div className={styles.join}>
