@@ -37,11 +37,9 @@ figure the page shows beside the name. An entry naming more than one account
 is the accounts added up, since the rules read them as one.  
 
 It writes `repos` beside it: a hundred of those repositories, the ones pushed
-to most recently, written the way the `apps` under them are written — a
-`name`, the `repo`, the `url` where the repository names a home page of its
-own, and the `language` it is mostly written in. A `description` is the one
-thing left out, since nobody but the person can write it; an entry naming more
-than one account is the accounts merged, newest push first.  
+to most recently — a `name`, the `repo`, the `url` where the repository names
+a home page of its own, and the `language` it is mostly written in. An entry
+naming more than one account is the accounts merged, newest push first.  
 
 GitHub keeps the count itself and hands it back without reading a single
 repository, and it orders repositories by their last push itself, so the whole

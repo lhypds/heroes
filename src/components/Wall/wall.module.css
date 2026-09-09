@@ -5,6 +5,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
   gap: 2px;
+  margin-bottom: 10px;
 }
 
 /* The photograph is the whole of the control; there is nothing else in it.
@@ -49,7 +50,6 @@
 .entry {
   grid-column: 1 / -1;
   margin: 6px 0;
-  padding: 0 0 16px 0;
   background: var(--paper);
 }
 

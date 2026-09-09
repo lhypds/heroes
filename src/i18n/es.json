@@ -32,8 +32,8 @@
     "grid": "{{n}} de 100 repositorios",
     "open": "Abrir",
     "source": "Código",
-    "show": "Mostrar las aplicaciones",
-    "hide": "Ocultar las aplicaciones"
+    "show": "Mostrar los repositorios",
+    "hide": "Ocultar los repositorios"
   },
   "join": {
     "title": "Sé un héroe",
@@ -76,8 +76,7 @@
     "one": "{{n}} de {{need}}, {{over}} descartados",
     "total": "{{n}} de {{need}}",
     "hero": "Un héroe: cien repositorios que cuentan, y más de diez mil commits en total.",
-    "listed": "En la lista: {{n}} de cien. El listón para entrar es diez.",
-    "under": "{{n}} de los diez con los que empieza la lista.",
+    "under": "{{n}} de cien.",
     "sieve": "Un repositorio cuenta si es tuyo, no es un fork, y tiene 10 commits o más y más de 100 líneas de código. Las líneas se estiman a partir de los bytes que GitHub da para cada lenguaje, a treinta bytes por línea, así que un repositorio justo en el límite merece una segunda mirada.",
     "show": "Mostrar los repositorios",
     "hide": "Ocultar los repositorios",

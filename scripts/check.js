@@ -11,9 +11,6 @@ import { basename, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const DIR = fileURLToPath(new URL("../data/heroes/", import.meta.url));
-// Ten to join; there is no ceiling. The count beside a name keeps climbing
-// past a hundred, and the page unfolds the first hundred of the list.
-const MIN_APPS = 10;
 const LANGS = ["en", "zh", "ja", "fr", "es", "de"];
 // A GitHub username, in lowercase because it is also the file name.
 const HANDLE = /^[a-z0-9](?:[a-z0-9-]{0,37}[a-z0-9])?$/;
@@ -90,25 +87,25 @@ const checkLocalised = (file, where, value, required) => {
   problem(file, `${where} must be a text or an object of translations`);
 };
 
-const checkApp = (file, app, i, seen) => {
-  const where = `apps[${i}]`;
-  if (!app || typeof app !== "object" || Array.isArray(app)) {
+// One repository the entry carries. A description is not among the fields: it
+// is the one thing a scan cannot write, and `npx hero scan` writes these.
+const checkRepo = (file, repo, i, seen) => {
+  const where = `repos[${i}]`;
+  if (!repo || typeof repo !== "object" || Array.isArray(repo)) {
     problem(file, `${where} is not an object`);
     return;
   }
-  const label = isText(app.name) ? `${where} (${app.name})` : where;
-  if (!isText(app.name)) problem(file, `${where} needs a name`);
-  checkLocalised(file, `${label}.description`, app.description, true);
-  if (!isHttps(app.repo)) {
+  const label = isText(repo.name) ? `${where} (${repo.name})` : where;
+  if (!isText(repo.name)) problem(file, `${where} needs a name`);
+  if (!isHttps(repo.repo)) {
     problem(file, `${label}.repo must be an https:// address`);
-  } else if (seen.has(app.repo)) {
-    problem(file, `${label}.repo is listed twice: ${app.repo}`);
+  } else if (seen.has(repo.repo)) {
+    problem(file, `${label}.repo is listed twice: ${repo.repo}`);
   } else {
-    seen.add(app.repo);
+    seen.add(repo.repo);
   }
-  if (app.url !== undefined && !isHttps(app.url)) problem(file, `${label}.url must be an https:// address`);
-  if (app.language !== undefined && !isText(app.language)) problem(file, `${label}.language is empty`);
-  if (app.platform !== undefined && !isText(app.platform)) problem(file, `${label}.platform is empty`);
+  if (repo.url !== undefined && !isHttps(repo.url)) problem(file, `${label}.url must be an https:// address`);
+  if (repo.language !== undefined && !isText(repo.language)) problem(file, `${label}.language is empty`);
 };
 
 const checkLead = (file, lead) => {
@@ -131,13 +128,16 @@ const checkLead = (file, lead) => {
     problem(file, `commits must be a whole number of commits`);
   }
 
-  if (!Array.isArray(lead.apps)) {
-    problem(file, `apps must be a list`);
+  // The repositories the entry carries. `npx hero scan` writes them off the
+  // accounts, so an entry the scan has not reached yet has none, and the page
+  // shows it with nothing to unfold rather than not at all.
+  if (lead.repos === undefined) return;
+  if (!Array.isArray(lead.repos)) {
+    problem(file, `repos must be a list`);
     return;
   }
-  if (lead.apps.length < MIN_APPS) problem(file, `${lead.apps.length} applications — the list starts at ${MIN_APPS}`);
   const seen = new Set();
-  lead.apps.forEach((app, i) => checkApp(file, app, i, seen));
+  lead.repos.forEach((repo, i) => checkRepo(file, repo, i, seen));
 };
 
 // Every link an entry makes, with whether a failure is a problem (the
@@ -149,10 +149,10 @@ const linksOf = (file, lead) => {
     if (isHttps(url)) links.push({ file, url, required: false });
   }
   if (isHttps(lead.website)) links.push({ file, url: lead.website, required: false });
-  for (const app of Array.isArray(lead.apps) ? lead.apps : []) {
-    if (!app || typeof app !== "object") continue;
-    if (isHttps(app.repo)) links.push({ file, url: app.repo, required: true, name: app.name });
-    if (isHttps(app.url)) links.push({ file, url: app.url, required: false, name: app.name });
+  for (const repo of Array.isArray(lead.repos) ? lead.repos : []) {
+    if (!repo || typeof repo !== "object") continue;
+    if (isHttps(repo.repo)) links.push({ file, url: repo.repo, required: true, name: repo.name });
+    if (isHttps(repo.url)) links.push({ file, url: repo.url, required: false, name: repo.name });
   }
   return links;
 };
@@ -193,7 +193,7 @@ const main = async () => {
     process.exit(1);
   }
 
-  let apps = 0;
+  let repos = 0;
   const links = [];
   for (const name of files) {
     const file = `data/heroes/${name}`;
@@ -209,7 +209,7 @@ const main = async () => {
       continue;
     }
     checkLead(file, lead);
-    if (Array.isArray(lead.apps)) apps += lead.apps.length;
+    if (Array.isArray(lead.repos)) repos += lead.repos.length;
     links.push(...linksOf(file, lead));
   }
 
@@ -224,7 +224,7 @@ const main = async () => {
     console.log(`\n${problems.length} problem${problems.length === 1 ? "" : "s"}`);
     process.exit(1);
   }
-  console.log(`${files.length} lead${files.length === 1 ? "" : "s"}, ${apps} applications, ok`);
+  console.log(`${files.length} lead${files.length === 1 ? "" : "s"}, ${repos} repositories, ok`);
 };
 
 main();

@@ -1,5 +1,8 @@
+/* The same paper above the entry and below it: the wall it unfolds in used to
+   supply the lower half, which left the rule here reading as though there
+   were none. */
 .hero {
-  padding: 16px 0 0 0;
+  padding: 16px 0;
 }
 
 .hero + .hero {
@@ -12,6 +15,7 @@
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 20px;
   align-items: start;
+  margin-bottom: 6px;
 }
 
 .who {
@@ -43,7 +47,7 @@
   line-height: 1.2;
 }
 
-/* The name is the switch: press it and the applications unfold beneath. It is
+/* The name is the switch: press it and the repositories unfold beneath. It is
    set exactly as a heading would be, with the plus beside it as the one sign
    that it does something. */
 .toggle {
@@ -81,14 +85,14 @@
 }
 
 .links a,
-.appLinks a {
+.repoLinks a {
   color: var(--link);
   text-decoration: none;
   border-bottom: 1px solid var(--line);
 }
 
 .links a:hover,
-.appLinks a:hover {
+.repoLinks a:hover {
   border-color: currentColor;
 }
 
@@ -122,9 +126,10 @@
   white-space: nowrap;
 }
 
-/* One application per row: its number, what it is, what it is written in
-   and for, and the two places it can be followed to. */
-.apps {
+/* One repository per row: its number, what it is called, what it is written
+   in, and the places it can be followed to — its source always, and where it
+   opens when it names one. */
+.repos {
   display: grid;
   grid-template-columns: 32px minmax(0, 1fr) auto auto;
   list-style: none;
@@ -136,7 +141,7 @@
    the links line up down the whole list however long one row's words are.
    The first grid-template-columns is for a browser without subgrid, which
    gets each row sized on its own. */
-.app {
+.repo {
   display: grid;
   grid-column: 1 / -1;
   grid-template-columns: 32px minmax(0, 1fr) auto auto;
@@ -152,7 +157,7 @@
    no rules drawn between the rows, the tint is the only thing that marks one
    off. It is drawn behind the row by a pseudo-element rather than as its
    background, so the columns stay exactly where the list's grid put them. */
-.app:hover::before {
+.repo:hover::before {
   content: "";
   position: absolute;
   inset: 0;
@@ -170,13 +175,13 @@
   min-width: 0;
 }
 
-.appName {
+.repoName {
   font-weight: 600;
   letter-spacing: var(--tracking-heading);
   margin-right: 8px;
 }
 
-.appBody {
+.repoBody {
   color: var(--muted);
 }
 
@@ -187,7 +192,7 @@
   white-space: nowrap;
 }
 
-.appLinks {
+.repoLinks {
   display: flex;
   gap: 14px;
   justify-content: end;
@@ -203,18 +208,18 @@
     justify-items: start;
   }
 
-  .apps {
+  .repos {
     grid-template-columns: 32px minmax(0, 1fr);
   }
 
-  .app {
+  .repo {
     grid-template-columns: 32px minmax(0, 1fr);
     grid-template-columns: subgrid;
     gap: 4px 14px;
   }
 
   .meta,
-  .appLinks {
+  .repoLinks {
     grid-column: 2;
   }
 
@@ -223,7 +228,7 @@
     white-space: normal;
   }
 
-  .appLinks {
+  .repoLinks {
     justify-content: start;
   }
 }

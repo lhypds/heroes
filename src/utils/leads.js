@@ -2,9 +2,11 @@
 // file; nothing here has to be told about it.
 const files = import.meta.glob("../../data/heroes/*.json", { eager: true, import: "default" });
 
-// The fullest list first; the same count, alphabetically.
+// The fullest list first; the same count, alphabetically. An entry the scan
+// has not reached carries no repositories yet, and sorts as none.
+const carried = (lead) => (Array.isArray(lead.repos) ? lead.repos.length : 0);
 const LEADS = Object.values(files).sort(
-  (a, b) => b.apps.length - a.apps.length || a.name.localeCompare(b.name),
+  (a, b) => carried(b) - carried(a) || a.name.localeCompare(b.name),
 );
 
 // A description is English, or an object of translations. The reader's

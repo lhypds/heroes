@@ -32,8 +32,8 @@
     "grid": "{{n}} of 100 repositories",
     "open": "Open",
     "source": "Source",
-    "show": "Show the applications",
-    "hide": "Hide the applications"
+    "show": "Show the repositories",
+    "hide": "Hide the repositories"
   },
   "join": {
     "title": "Be a hero",
@@ -76,8 +76,7 @@
     "one": "{{n}} of {{need}}, {{over}} passed over",
     "total": "{{n}} of {{need}}",
     "hero": "A hero: a hundred repositories that count, and more than ten thousand commits in all.",
-    "listed": "On the list: {{n}} of the hundred. Ten is the bar to join.",
-    "under": "{{n}} of the ten the list starts at.",
+    "under": "{{n}} of the hundred.",
     "sieve": "A repository counts when it is yours, not a fork, and has 10 commits or more and more than 100 lines of code. Lines are read off the bytes GitHub gives for each language, at thirty bytes a line, so a repository near the line is worth a second look.",
     "show": "Show the repositories",
     "hide": "Hide the repositories",

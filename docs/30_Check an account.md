@@ -70,7 +70,6 @@ Ask again, every second or two, until it answers `200`:
     "total": { "need": 10000, "have": 74381, "ok": true }
   },
   "hero": true,
-  "listed": true,
   "counted": [
     { "owner": "jaywcjlove", "name": "awesome-mac", "url": "https://github.com/jaywcjlove/awesome-mac",
       "commits": 2983, "lines": 872, "bytes": 26157, "languages": ["Swift", "Dockerfile"] }
@@ -142,7 +141,7 @@ commits. It is `commits.total`, and `rules.total` says it against the ten
 thousand.  
 
 A hundred that count makes a hero — `hero` — with more than ten thousand
-commits in all. Ten puts a name on the list — `listed`.  
+commits in all. Nothing short of that is on the list.  
 
 
 Lines

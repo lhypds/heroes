@@ -35,7 +35,6 @@ import { fileURLToPath } from "node:url";
 
 // The rules, as README.md says them.
 const HUNDRED = 100; // repositories that count, to be a hero
-const TEN = 10; // repositories that count, to be on the list
 const MIN_COMMITS = 10; // commits a repository needs to count
 const MIN_LINES = 100; // lines of code it needs, and more than
 const TEN_THOUSAND = 10000; // commits their own repositories must come to, and more than
@@ -439,7 +438,6 @@ export const check = async (asked, options = {}) => {
       },
     },
     hero: counted.length >= HUNDRED && commits.total > TEN_THOUSAND,
-    listed: counted.length >= TEN,
     counted,
     passedOver,
   };
@@ -491,9 +489,7 @@ const say = (report, list) => {
     report.hero
       ? `a hero: a hundred repositories that count, ` +
         `and more than ${TEN_THOUSAND.toLocaleString("en-US")} commits in all`
-      : report.listed
-        ? `on the list, ${rules.repositories.have} of ${HUNDRED}`
-        : `${rules.repositories.have} of the ${TEN} the list starts at`,
+      : `${rules.repositories.have} of ${HUNDRED}`,
   );
 };
 

@@ -32,8 +32,8 @@
     "grid": "{{n}} dépôts sur 100",
     "open": "Ouvrir",
     "source": "Source",
-    "show": "Afficher les applications",
-    "hide": "Masquer les applications"
+    "show": "Afficher les dépôts",
+    "hide": "Masquer les dépôts"
   },
   "join": {
     "title": "Devenez un héros",
@@ -76,8 +76,7 @@
     "one": "{{n}} sur {{need}}, {{over}} écartés",
     "total": "{{n}} sur {{need}}",
     "hero": "Un héros : cent dépôts qui comptent, et plus de dix mille commits en tout.",
-    "listed": "Sur la liste : {{n}} sur cent. Le seuil d'entrée est de dix.",
-    "under": "{{n}} sur les dix par lesquels la liste commence.",
+    "under": "{{n}} sur cent.",
     "sieve": "Un dépôt compte s'il est à vous, s'il n'est pas un fork, et s'il a 10 commits ou plus et plus de 100 lignes de code. Les lignes sont estimées à partir des octets que GitHub donne pour chaque langage, à trente octets la ligne ; un dépôt tout près de la limite mérite donc un second regard.",
     "show": "Afficher les dépôts",
     "hide": "Masquer les dépôts",

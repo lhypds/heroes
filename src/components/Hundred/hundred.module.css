@@ -1,5 +1,8 @@
+/* Ten pixels to a square and two between them: a hundred of them come to
+   118px across, big enough that a single square, and the lap its colour puts
+   it on, is read without leaning in. */
 .grid {
-  --cell: 6px;
+  --cell: 10px;
   --gap: 2px;
   display: grid;
   grid-template-columns: repeat(10, var(--cell));

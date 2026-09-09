@@ -27,14 +27,12 @@ The file looks like this:
   "website": "https://example.com",
   "bio": "One line about what you build.",
   "commits": 12345,
-  "apps": [
+  "repos": [
     {
-      "name": "An app",
-      "description": "What it does, in one line.",
-      "repo": "https://github.com/you/an-app",
-      "url": "https://an-app.example.com",
-      "language": "TypeScript",
-      "platform": "Web"
+      "name": "a-repository",
+      "repo": "https://github.com/you/a-repository",
+      "url": "https://a-repository.example.com",
+      "language": "TypeScript"
     }
   ]
 }
@@ -50,39 +48,33 @@ The entry:
 `name` — how you want to be listed.  
 `github` — a list of your GitHub profiles, the account the file is named for
 first. Several accounts count together — a personal account and an
-organisation of yours, say — so list every one the applications below come
+organisation of yours, say — so list every one the repositories below come
 from. One account on its own is a list of one.  
 `website` — optional, an address of your own.  
 `bio` — optional, one line, English or translated (see below).  
 `own_repos` — optional, how many public repositories of your own you have,
 forks out, over every account listed above. You need not write it: `npx hero
 scan` reads it off the accounts and fills it in. The page shows it beside your
-name, and names the applications below instead until it has been filled in.  
+name, and counts the repositories below instead until it has been filled in.  
 `commits` — optional, the commits your own public repositories come to in all,
 the figure the second rule asks for. `pnpm run account -- <handle>` reads it off
 the account; the page shows it beside your name, and leaves the line out when
 the entry has no figure.  
-`repos` — optional, and written by `npx hero scan` rather than by hand: a
-hundred of those repositories, the ones pushed to most recently, each with a
-`name`, a `repo`, a `url` where the repository names a home page, and a
-`language`. It is the applications below without the descriptions, which is
-the one thing a scan cannot write; the applications themselves are yours to
-choose and to say what they do, and a scan never touches them.  
-`apps` — at least ten, the most important first. There is no ceiling: the
-count beside a name keeps climbing past a hundred, 124 of 100. The page unfolds
-only the first hundred of the list, so the order is the ranking.  
+`repos` — optional, and usually written by `npx hero scan` rather than by
+hand: a hundred of your repositories, the ones pushed to most recently. The
+most important first — the page unfolds only the first hundred of the list, so
+the order is the ranking. There is no ceiling: the count beside a name keeps
+climbing past a hundred, 124 of 100. An entry the scan has not reached yet
+carries none, and the page shows it with nothing to unfold.  
 
-Each application:  
+Each repository:  
 
 `name` — what it is called.  
-`description` — one line, English or translated.  
-`repo` — the public repository, an `https://` address. One per application;
-the same repository cannot be listed twice.  
-`url` — optional, where the application is opened, installed or downloaded: a
-site, a package page, a release page, a marketplace listing, a store listing.  
+`repo` — the public repository, an `https://` address. One per repository; the
+same repository cannot be listed twice.  
+`url` — optional, a home page of its own: a site, a package page, a release
+page, a marketplace listing, a store listing.  
 `language` — optional, the main programming language.  
-`platform` — optional, where it runs: `Web`, `macOS, Linux`, `VS Code`, and so
-on.  
 
 
 The check
@@ -93,8 +85,7 @@ The check
 - the file name and `handle` agree  
 - `name` is there, and `github` has at least one profile address, each listed
   once  
-- there are at least ten applications  
-- every application has a `name`, a `description` and a `repo`  
+- every repository has a `name` and a `repo`  
 - every `repo` is an `https://` address, listed once  
 - `own_repos` and `commits`, where there are any, are whole numbers  
 - translations use the six known codes, and always include `en`  
@@ -132,6 +123,6 @@ missing.
 Fixing an entry
 ---------------
 
-Anyone can correct an entry — a dead link, a repository gone private, an
-application that turns out to be a fork. Open a pull request with the change
-and say what you found.  
+Anyone can correct an entry — a dead link, a repository gone private, one that
+turns out to be a fork. Open a pull request with the change and say what you
+found.  

@@ -57,10 +57,9 @@ const LIST = 100;
 
 // The order an entry is written back in. own_repos goes before commits, which
 // is the order the page reads them in — so many repositories, so many commits
-// — and the repositories themselves after the two figures and before the
-// applications they are written like. Anything else an entry carries follows,
-// as it was.
-const ORDER = ["handle", "name", "github", "website", "bio", "own_repos", "commits", "repos", "apps"];
+// — and the repositories themselves last, after the two figures that count
+// them. Anything else an entry carries follows, as it was.
+const ORDER = ["handle", "name", "github", "website", "bio", "own_repos", "commits", "repos"];
 
 // Their own public repositories: not forks, and theirs rather than ones they
 // are only a member of. The same repositories api/account.js counts, asked
@@ -155,7 +154,7 @@ const line = (name) => new RegExp(`^ {2}"${name}":[^\\n]*$`, "m");
 // two spaces and a bracket that close them. An empty list, written on the one
 // line, is the same list and is matched too. Nothing outside the list is
 // indented as far as its contents, so a list cannot be read as running on
-// into the applications under it.
+// past the bracket that closes it.
 const REPOS = /^ {2}"repos": \[(?:\n(?: {4}[^\n]*\n)* {2})?\](,?)$/m;
 
 // A key the file has not got goes in above the first of the keys that follow
@@ -165,12 +164,19 @@ const insert = (text, above, written) => {
   return next === undefined ? null : text.replace(next, (was) => `${written},\n${was}`);
 };
 
+// The repositories are last in ORDER, so a file that has not got them has
+// nothing to go above: they go in at the end instead, and whatever was the
+// last key gains the comma it now needs.
+const append = (text, written) => {
+  const close = /\n\}\n?$/;
+  return close.test(text) ? text.replace(close, (was) => `,\n${written}${was}`) : null;
+};
+
 // The figure and the list into the file as it stands: own_repos a line of its
 // own before the commits — the two are read together — and the repositories
-// after them, above the applications they are written like. An entry is
-// written by people as well as by this, and a pull request is easier to read
-// when nothing has moved but what changed, so the rest of the file is left
-// exactly as it was typed.
+// after them, at the end. An entry is written by people as well as by this,
+// and a pull request is easier to read when nothing has moved but what
+// changed, so the rest of the file is left exactly as it was typed.
 //
 // A file with nowhere to put either comes back as nothing, and is written out
 // whole instead.
@@ -178,14 +184,14 @@ const place = (text, own, repos) => {
   const figure = line("own_repos");
   const withOwn = figure.test(text)
     ? text.replace(figure, (was) => `  "own_repos": ${own}${was.trimEnd().endsWith(",") ? "," : ""}`)
-    : insert(text, ["commits", "repos", "apps"], `  "own_repos": ${own}`);
+    : insert(text, ["commits", "repos"], `  "own_repos": ${own}`);
   if (withOwn === null) return null;
   // The list is written as the file writes anything nested: two spaces in,
   // and two more for every step inside it.
   const written = `  "repos": ${JSON.stringify(repos, null, 2).replaceAll("\n", "\n  ")}`;
   return REPOS.test(withOwn)
     ? withOwn.replace(REPOS, (was, comma) => `${written}${comma}`)
-    : insert(withOwn, ["apps"], written);
+    : append(withOwn, written);
 };
 
 // The entry, with the figure and the list in it. Both are put where they

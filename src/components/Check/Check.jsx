@@ -53,7 +53,7 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const usable = (body) =>
   Array.isArray(body?.accounts) && body.accounts.length > 0 &&
   body.repositories != null && body.commits != null &&
-  body.rules?.repositories != null && body.rules?.commits != null && body.rules?.total != null &&
+  body.rules?.repositories != null && body.rules?.total != null &&
   Array.isArray(body.counted) && Array.isArray(body.passedOver);
 
 // A number as the reader's language writes it.
@@ -348,9 +348,7 @@ export default function Check() {
           <p className={styles.verdict}>
             {report.hero
               ? t("check.hero")
-              : report.listed
-                ? t("check.listed", { n: count(report.rules.repositories.have, language) })
-                : t("check.under", { n: count(report.rules.repositories.have, language) })}
+              : t("check.under", { n: count(report.rules.repositories.have, language) })}
           </p>
           <p className={styles.note}>{t("check.sieve")}</p>
 

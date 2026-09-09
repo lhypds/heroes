@@ -6,12 +6,11 @@ export const EXAMPLE = `{
   "handle": "you",
   "name": "Your Name",
   "github": ["https://github.com/you"],
-  "apps": [
+  "repos": [
     {
-      "name": "An app",
-      "description": "What it does, in one line.",
-      "repo": "https://github.com/you/an-app",
-      "url": "https://an-app.example.com"
+      "name": "a-repository",
+      "repo": "https://github.com/you/a-repository",
+      "url": "https://a-repository.example.com"
     }
   ]
 }`;
@@ -24,14 +23,12 @@ const FULL = `{
   "website": "https://example.com",
   "bio": "One line about what you build.",
   "commits": 12345,
-  "apps": [
+  "repos": [
     {
-      "name": "An app",
-      "description": "What it does, in one line.",
-      "repo": "https://github.com/you/an-app",
-      "url": "https://an-app.example.com",
-      "language": "TypeScript",
-      "platform": "Web"
+      "name": "a-repository",
+      "repo": "https://github.com/you/a-repository",
+      "url": "https://a-repository.example.com",
+      "language": "TypeScript"
     }
   ]
 }`;
@@ -57,17 +54,15 @@ The entry:
 - website: optional, an address of their own.
 - bio: optional, one line about what they build.
 - commits: optional, the commits their own public repositories come to in all, forks out — a whole number. Leave it out rather than guess at it.
-- apps: at least ten, and as many as count; the count keeps climbing past a hundred. The most important first: the page unfolds only the first hundred of the list, so the order is the ranking.
+- repos: the repositories that count, as many as there are; the count keeps climbing past a hundred. The most important first: the page unfolds only the first hundred of the list, so the order is the ranking.
 
-Each application:
+Each repository:
 - name: what it is called.
-- description: one line on what it does.
 - repo: the public repository, an https:// address; each repository once.
-- url: optional, where it is opened, installed or downloaded: a site, a package page, a release page, a marketplace or store listing.
+- url: optional, a home page of its own: a site, a package page, a release page, a marketplace or store listing.
 - language: optional, the main programming language.
-- platform: optional, where it runs: Web, macOS, Linux, iOS, Android, CLI, VS Code, and so on.
 
-Write in English. Use only what the repositories show: do not invent an application, an address or a description, and leave an optional field out rather than guess it. If fewer than ten count, say so instead of filling the list.
+Write in English. Use only what the repositories show: do not invent a repository or an address, and leave an optional field out rather than guess it.
 
 The file is added with a pull request; the guide is at ${GUIDE}
 `;

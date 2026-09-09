@@ -32,8 +32,8 @@
     "grid": "{{n}} von 100 Repositories",
     "open": "Öffnen",
     "source": "Quellcode",
-    "show": "Anwendungen anzeigen",
-    "hide": "Anwendungen ausblenden"
+    "show": "Repositories anzeigen",
+    "hide": "Repositories ausblenden"
   },
   "join": {
     "title": "Werde ein Held",
@@ -76,8 +76,7 @@
     "one": "{{n}} von {{need}}, {{over}} aussortiert",
     "total": "{{n}} von {{need}}",
     "hero": "Ein Held: hundert Repositories, die zählen, und mehr als zehntausend Commits insgesamt.",
-    "listed": "Auf der Liste: {{n}} von hundert. Die Hürde zum Einstieg liegt bei zehn.",
-    "under": "{{n}} von den zehn, bei denen die Liste beginnt.",
+    "under": "{{n}} von hundert.",
     "sieve": "Ein Repository zählt, wenn es deines ist, kein Fork, mit 10 Commits oder mehr und mehr als 100 Zeilen Code. Die Zeilen werden aus den Bytes geschätzt, die GitHub je Sprache angibt, mit dreißig Bytes je Zeile; ein Repository dicht an der Grenze ist einen zweiten Blick wert.",
     "show": "Repositories anzeigen",
     "hide": "Repositories ausblenden",
