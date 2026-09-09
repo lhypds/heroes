@@ -95,20 +95,13 @@
   border-bottom: 1px solid var(--line);
 }
 
-.label {
-  margin: 0 0 22px 0;
-  font-size: 14px;
-  font-weight: 600;
-  letter-spacing: var(--tracking-heading);
-}
-
 .sectionLede {
   margin: 0 0 22px 0;
   max-width: 42em;
   color: var(--muted);
 }
 
-/* A heading within a section, under the section's own label. */
+/* A heading over one part of a section. */
 .subLabel {
   margin: 0 0 14px 0;
   font-size: 14px;

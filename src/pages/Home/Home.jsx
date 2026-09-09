@@ -75,8 +75,6 @@ export default function Home() {
           of one section, each under its own heading and no line between
           them. */}
       <section className={styles.section} id="join">
-        <h2 className={styles.label}>{t("join.title")}</h2>
-
         <div className={styles.joinRules}>
           <h3 className={styles.subLabel}>{t("rules.title")}</h3>
           <div className={styles.rules}>
