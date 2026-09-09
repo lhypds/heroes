@@ -10,8 +10,9 @@ Node.js 22.13 or later.
 `pnpm run build` — a static site in `dist/`  
 `pnpm run check` — every entry under `data/heroes/`; add `--online` to ask
 each link whether it answers  
-`pnpm run account -- <handle>` — one GitHub account read against the rules;
-`--list` says it repository by repository, `--json` as the API answers it  
+`pnpm run account -- <handle>` — one GitHub account read against the rules,
+or several with commas between, counted together; `--list` says it repository
+by repository, `--json` as the API answers it  
 `./crawl.sh` — people who might be heroes, into `data/crawl.db`  
 
 The same check answers over HTTP under `/api`, on the page's own port:

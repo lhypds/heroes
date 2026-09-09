@@ -56,8 +56,12 @@
   color: var(--muted);
 }
 
+/* Wide enough for a handle and then some, since several can be typed into it
+   with commas between; narrower windows shrink it, the form having room to
+   wrap and the field to give way. */
 .input {
-  width: 22ch;
+  width: 32ch;
+  min-width: 0;
   max-width: 100%;
   padding: 6px 12px 6px 2px;
   border: 0;
@@ -67,6 +71,11 @@
   font-size: 14px;
   line-height: 18px;
   letter-spacing: var(--tracking-body);
+}
+
+/* With no @ beside it the field's left padding is the input's own. */
+.alone {
+  padding-left: 12px;
 }
 
 .input::placeholder {

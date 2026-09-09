@@ -4,10 +4,14 @@ import Hundred from "../Hundred";
 import { HUNDRED } from "../../constants";
 import styles from "./check.module.css";
 
-// A GitHub username, read against the three rules: how many of that account's
+// A GitHub account, read against the three rules: how many of that account's
 // public repositories of their own are real code, and whether one of them
 // carries a thousand commits. The reading is api/handler.js's, at /api; this
 // is the box it is asked from and the answer set out.
+//
+// An account is a person or an organisation, and several of them, separated by
+// commas, are read as one — a person's work is often spread over more than one
+// account, and the rules ask what they have written, not where they keep it.
 //
 // Reading a couple of hundred repositories takes half a minute, so the API
 // answers 202 with how far it has got and is asked again until it answers.
@@ -16,14 +20,27 @@ import styles from "./check.module.css";
 const POLL_MS = 1500;
 const GIVE_UP_MS = 5 * 60 * 1000;
 
-// What was typed, as a handle: a name, an @name, or a profile address.
-const handleOf = (typed) =>
-  typed
-    .trim()
-    .replace(/^@/, "")
-    .replace(/^https?:\/\/(www\.)?github\.com\//i, "")
-    .replace(/[/?#].*$/, "")
-    .toLowerCase();
+// Accounts one check may put together, as api/account.js has it. The API says
+// no past this too; this is so the page can say so before asking.
+const MAX_ACCOUNTS = 5;
+
+// What was typed, as handles: one, or several separated by commas. Each may be
+// a name, an @name, or a profile address. The same account twice is once.
+const handlesOf = (typed) => [
+  ...new Set(
+    typed
+      .split(",")
+      .map((each) =>
+        each
+          .trim()
+          .replace(/^@/, "")
+          .replace(/^https?:\/\/(www\.)?github\.com\//i, "")
+          .replace(/[/?#].*$/, "")
+          .toLowerCase()
+      )
+      .filter((each) => each !== "")
+  ),
+];
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -36,6 +53,8 @@ export default function Check() {
   const rules = t("rules.items", { returnObjects: true });
 
   const [typed, setTyped] = useState("");
+  const asked = handlesOf(typed);
+  const tooMany = asked.length > MAX_ACCOUNTS;
   const [running, setRunning] = useState(false);
   const [progress, setProgress] = useState(null);
   const [report, setReport] = useState(null);
@@ -48,16 +67,20 @@ export default function Check() {
   useEffect(() => () => asking.current?.abort(), []);
 
   // Which of the answers the API can give this is, in the reader's language.
-  // The three that are somebody's fault are named: no such person, too many
-  // asks, a queue that is full. The rest part into GitHub not answering,
-  // which passes, and the check itself not being there, which does not — a
-  // 503 with no token, or anything that comes back and is not JSON at all,
-  // which is what a page served without the check under it answers.
+  // The ones that are somebody's fault are named: no such account, too many
+  // named at once, too many asks, a queue that is full. The rest part into
+  // GitHub not answering, which passes, and the check itself not being there,
+  // which does not — a 503 with no token, or anything that comes back and is
+  // not JSON at all, which is what a page served without the check under it
+  // answers.
   const failure = (status, body) => {
     // Whatever the server said for itself, for whoever opens the console.
     if (body?.error) console.error(`the check answered ${status}: ${body.error}`);
-    if (status === 404 && body) return t("check.unknown");
-    if (status === 400) return t("check.notAName");
+    // Which account was not there, since several may have been asked for.
+    if (status === 404 && body) return t("check.unknown", { handle: body.handle });
+    if (status === 400) {
+      return body?.reason === "tooMany" ? t("check.tooMany", { n: MAX_ACCOUNTS }) : t("check.notAName");
+    }
     if (status === 429) return t("check.limit");
     if (status === 503 && body?.status === "busy") return t("check.busy");
     if (status === 502) return t("check.github");
@@ -66,8 +89,8 @@ export default function Check() {
 
   async function run(event) {
     event.preventDefault();
-    const handle = handleOf(typed);
-    if (!handle || running) return;
+    const logins = handlesOf(typed);
+    if (logins.length === 0 || logins.length > MAX_ACCOUNTS || running) return;
 
     asking.current?.abort();
     const stop = new AbortController();
@@ -88,7 +111,7 @@ export default function Check() {
         let answer;
         let body = null;
         try {
-          answer = await fetch(`/api/check/${encodeURIComponent(handle)}`, {
+          answer = await fetch(`/api/check/${logins.map(encodeURIComponent).join(",")}`, {
             headers: { accept: "application/json" },
             signal: stop.signal,
           });
@@ -133,6 +156,12 @@ export default function Check() {
     }
   }
 
+  // Whether more than one account was read. When several were, a repository
+  // is named with the account that owns it, since two accounts may both have
+  // one called dotfiles.
+  const several = report ? report.accounts.length > 1 : false;
+  const named = (owner, name) => (several ? `${owner}/${name}` : name);
+
   // The three rules, each with what this account has against it. The second
   // is the sieve the first counts through, so it is answered with what it
   // sifted rather than with a yes or a no.
@@ -156,7 +185,7 @@ export default function Check() {
       value: report.rules.commits.repository === null
         ? t("check.none")
         : t("check.three", {
-          repo: report.rules.commits.repository,
+          repo: named(report.rules.commits.owner, report.rules.commits.repository),
           n: count(report.rules.commits.have, language),
         }),
     },
@@ -178,9 +207,11 @@ export default function Check() {
         </thead>
         <tbody>
           {repos.map((repo) => (
-            <tr key={repo.name}>
+            <tr key={repo.url}>
               <td>
-                <a className={styles.repoName} href={repo.url} target="_blank" rel="noopener">{repo.name}</a>
+                <a className={styles.repoName} href={repo.url} target="_blank" rel="noopener">
+                  {named(repo.owner, repo.name)}
+                </a>
               </td>
               <td className={styles.figure}>{count(repo.commits, language)}</td>
               <td className={styles.figure}>{count(repo.lines, language)}</td>
@@ -201,9 +232,12 @@ export default function Check() {
 
       <form className={styles.form} onSubmit={run}>
         <div className={styles.field}>
-          <span className={styles.at} aria-hidden="true">@</span>
+          {/* The @ says a handle goes here, and it is drawn in the field so
+              that what is typed is one. It goes when a second account is
+              typed, since it would then be the first name's alone. */}
+          {asked.length <= 1 && <span className={styles.at} aria-hidden="true">@</span>}
           <input
-            className={styles.input}
+            className={asked.length <= 1 ? styles.input : `${styles.input} ${styles.alone}`}
             type="text"
             value={typed}
             onChange={(event) => setTyped(event.target.value)}
@@ -216,33 +250,51 @@ export default function Check() {
             enterKeyHint="go"
           />
         </div>
-        <button className={styles.primary} type="submit" disabled={running || handleOf(typed) === ""}>
+        <button className={styles.primary} type="submit" disabled={running || asked.length === 0 || tooMany}>
           {t("check.submit")}
         </button>
       </form>
 
-      <p className={error && !running ? styles.problem : styles.status} aria-live="polite">
+      <p className={(error || tooMany) && !running ? styles.problem : styles.status} aria-live="polite">
         {running
           ? progress?.waiting > 0
             ? t("check.waiting", { n: count(progress.waiting, language) })
             : progress?.of
-              ? t("check.reading", { read: count(progress.read, language), of: count(progress.of, language) })
+              ? progress.accounts > 1
+                ? t("check.readingAccount", {
+                  handle: progress.account,
+                  i: count(progress.index, language),
+                  n: count(progress.accounts, language),
+                  read: count(progress.read, language),
+                  of: count(progress.of, language),
+                })
+                : t("check.reading", { read: count(progress.read, language), of: count(progress.of, language) })
               : t("check.starting")
-          : error}
+          : tooMany
+            ? t("check.tooMany", { n: MAX_ACCOUNTS })
+            : error}
       </p>
 
       {report && (
         <div className={styles.result}>
           <header className={styles.head}>
             <div className={styles.who}>
-              <h4 className={styles.name}>{report.name || report.handle}</h4>
+              {/* Every account read, named and linked. One is a name over a
+                  handle; several are the names side by side over the handles,
+                  since what is set out below is all of them together. */}
+              <h4 className={styles.name}>
+                {report.accounts.map((account) => account.name || account.handle).join(" · ")}
+              </h4>
               <div className={styles.links}>
-                <a href={report.url} target="_blank" rel="noopener">@{report.handle}</a>
+                {report.accounts.map((account) => (
+                  <a key={account.handle} href={account.url} target="_blank" rel="noopener">@{account.handle}</a>
+                ))}
               </div>
               <p className={styles.own}>
-                {t("check.own", {
+                {t(several ? "check.ownAcross" : "check.own", {
                   own: count(report.repositories.own, language),
                   all: count(report.repositories.public, language),
+                  accounts: count(report.accounts.length, language),
                 })}
               </p>
             </div>
@@ -253,7 +305,7 @@ export default function Check() {
               </div>
               <Hundred
                 count={report.rules.repositories.have}
-                titles={report.counted.map((repo) => repo.name)}
+                titles={report.counted.map((repo) => named(repo.owner, repo.name))}
                 label={t("check.grid", { n: count(report.rules.repositories.have, language) })}
               />
             </div>

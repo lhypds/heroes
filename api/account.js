@@ -1,11 +1,16 @@
 #!/usr/bin/env node
-// Checks one GitHub account against the rules and says what it found: every
+// Checks a GitHub account against the rules and says what it found: every
 // public repository of their own that is not a fork, how many commits it has,
 // and how much code is in it.
 //
 //   node api/account.js jaywcjlove           what it found, in a paragraph
 //   node api/account.js jaywcjlove --list    every repository, one to a line
 //   node api/account.js jaywcjlove --json    the answer the API gives
+//
+// An account is a person or an organisation, and several of them can be read
+// as one, since a person's work is often spread over more than one:
+//
+//   node api/account.js jaywcjlove,uiwjs     both accounts, counted together
 //
 // The rules are in README.md. A repository counts when it has ten commits or
 // more and more than a hundred lines of code; a hundred that count makes a
@@ -47,8 +52,13 @@ const NOT_CODE = new Set([
   "Git Attributes", "Git Config", "EditorConfig",
 ]);
 
-// A GitHub username, lowercase, as scripts/check.js reads it off a file name.
+// A GitHub account name, lowercase, as scripts/check.js reads it off a file
+// name. A person and an organisation are named the same way and read the same
+// way, so one pattern does for both.
 const HANDLE = /^[a-z0-9](?:[a-z0-9-]{0,37}[a-z0-9])?$/;
+// Accounts one check may put together. Each is a few hundred repositories read
+// fifty at a time, so this is already a minute or two of GitHub's patience.
+export const MAX_ACCOUNTS = 5;
 
 const API = "https://api.github.com/graphql";
 // Repositories to a request. A hundred is more than GitHub counts the commits
@@ -92,14 +102,21 @@ const REPOSITORY = `name url isArchived isMirror isEmpty
   languages(first: ${LANGUAGES}, orderBy: {field: SIZE, direction: DESC}) { edges { size node { name } } }
   defaultBranchRef { target { ... on Commit { history { totalCount } } } }`;
 
-// The person and a page of their repositories. Both counts come with every
+// The account and a page of its repositories. Both counts come with every
 // page, which costs nothing and says how far there is to go.
+//
+// `repositoryOwner` is asked for rather than `user`, because an organisation
+// owns repositories the same way a person does and the page takes either. The
+// two are one type as far as this goes; only the display name has to be asked
+// for of each in turn.
 const OWN = "privacy: PUBLIC, isFork: false, ownerAffiliations: OWNER";
 
 const QUERY = (first) => `query($login: String!, $after: String) {
   rateLimit { remaining }
-  user(login: $login) {
-    login name url avatarUrl
+  owner: repositoryOwner(login: $login) {
+    __typename login url avatarUrl
+    ... on User { name }
+    ... on Organization { name }
     all: repositories(privacy: PUBLIC, ownerAffiliations: OWNER) { totalCount }
     own: repositories(${OWN}) { totalCount }
     page: repositories(${OWN}, first: ${first}, after: $after, orderBy: {field: PUSHED_AT, direction: DESC}) {
@@ -108,6 +125,18 @@ const QUERY = (first) => `query($login: String!, $after: String) {
     }
   }
 }`;
+
+// Whether the accounts asked for are there at all, all in one request. A name
+// typed wrong among several would otherwise be found only after the ones
+// before it had been read for nothing — a minute of waiting for an answer that
+// was known at the start.
+const EXISTS = (n) => {
+  const each = Array.from({ length: n }, (unused, i) => i);
+  return `query(${each.map((i) => `$a${i}: String!`).join(", ")}) {
+    rateLimit { remaining }
+    ${each.map((i) => `a${i}: repositoryOwner(login: $a${i}) { login }`).join("\n    ")}
+  }`;
+};
 
 // How many requests the token has left this hour, as of the last answer.
 let remaining = null;
@@ -191,14 +220,26 @@ const graphql = async (query, variables) => {
 
 const plural = (n, word) => `${n.toLocaleString("en-US")} ${word}${n === 1 ? "" : "s"}`;
 
+// A handle nobody has. It stops the check the way any other failure does, but
+// whoever asked should hear which of the names was wrong, so it carries it.
+export class NoSuchAccount extends Error {
+  constructor(handle) {
+    super(`no such account on GitHub: ${handle}`);
+    this.handle = handle;
+  }
+}
+
 // One repository, read against rule 2: ten commits or more, and more than a
-// hundred lines of code. A repository that does not count says why.
-const look = (repo) => {
+// hundred lines of code. A repository that does not count says why. It is
+// answered with the account that owns it, since several can be read as one and
+// two accounts may both have a repository called dotfiles.
+const look = (repo, owner) => {
   const commits = repo.defaultBranchRef?.target?.history?.totalCount ?? 0;
   const languages = (repo.languages?.edges ?? []).filter((edge) => !NOT_CODE.has(edge.node.name));
   const bytes = languages.reduce((sum, edge) => sum + edge.size, 0);
   const lines = Math.round(bytes / BYTES_PER_LINE);
   const found = {
+    owner,
     name: repo.name,
     url: repo.url,
     commits,
@@ -231,17 +272,35 @@ const look = (repo) => {
   return reason === null ? found : { ...found, reason, why: why[reason] };
 };
 
-// Reads a whole account and says whether it meets the rules. `onProgress` is
-// called with how many repositories have been read of how many there are, so
-// a caller can say so while it waits. A handle nobody has answers null.
-export const check = async (handle, options = {}) => {
-  const login = String(handle ?? "").trim().toLowerCase();
-  if (!HANDLE.test(login)) throw new Error(`"${handle}" is not a GitHub username`);
-  const onProgress = options.onProgress ?? (() => {});
+// Something wrong with what was asked for rather than with the answer. The
+// reason is a word, so whoever answers in another language has something to
+// answer with; the message is the same thing in a sentence.
+const badly = (reason, message) => Object.assign(new Error(message), { reason });
 
+// What was asked for, as a list of handles: one name, or several separated by
+// commas. The same account named twice is the same account.
+export const handles = (asked) => {
+  const named = (Array.isArray(asked) ? asked : String(asked ?? "").split(","))
+    .map((each) => String(each).trim().toLowerCase())
+    .filter((each) => each !== "");
+  const logins = [...new Set(named)];
+  if (logins.length === 0) throw badly("notAName", "no account named");
+  for (const login of logins) {
+    if (!HANDLE.test(login)) throw badly("notAName", `"${login}" is not a GitHub username`);
+  }
+  if (logins.length > MAX_ACCOUNTS) {
+    throw badly("tooMany", `at most ${MAX_ACCOUNTS} accounts at a time`);
+  }
+  return logins;
+};
+
+// Reads one account, page by page, and answers who it is and what is in it.
+// A handle nobody has throws NoSuchAccount.
+const one = async (login, options) => {
+  const onProgress = options.onProgress ?? (() => {});
   let first = options.page ?? PAGE;
   let after = null;
-  let user = null;
+  let owner = null;
   let read = 0;
   const counted = [];
   const passedOver = [];
@@ -261,33 +320,87 @@ export const check = async (handle, options = {}) => {
       }
       throw error;
     }
-    if (!data.user) return null;
-    user = data.user;
-    for (const repo of user.page.nodes) {
-      const found = look(repo);
+    if (!data.owner) throw new NoSuchAccount(login);
+    owner = data.owner;
+    for (const repo of owner.page.nodes) {
+      const found = look(repo, owner.login);
       (found.why === undefined ? counted : passedOver).push(found);
     }
-    read += user.page.nodes.length;
-    onProgress({ read, of: user.own.totalCount });
-    if (!user.page.pageInfo.hasNextPage) break;
-    after = user.page.pageInfo.endCursor;
+    read += owner.page.nodes.length;
+    onProgress({ read, of: owner.own.totalCount });
+    if (!owner.page.pageInfo.hasNextPage) break;
+    after = owner.page.pageInfo.endCursor;
   }
 
-  const byCommits = (a, b) => b.commits - a.commits || a.name.localeCompare(b.name);
+  return {
+    account: {
+      handle: owner.login,
+      name: owner.name,
+      url: owner.url,
+      avatar: owner.avatarUrl,
+      // "user" or "organization", so a reader can tell which kind it was.
+      type: owner.__typename.toLowerCase(),
+      public: owner.all.totalCount,
+      own: owner.own.totalCount,
+      read,
+    },
+    counted,
+    passedOver,
+  };
+};
+
+// Reads one or more accounts and says whether what they hold between them
+// meets the rules. Several are read one after another and counted as one, so
+// work spread over a personal account and an organisation is read as the one
+// body of work it is.
+//
+// `onProgress` is called with how many repositories have been read of how many
+// there are in the account being read, and which account that is of how many,
+// so a caller can say so while it waits.
+export const check = async (asked, options = {}) => {
+  const logins = handles(asked);
+  const onProgress = options.onProgress ?? (() => {});
+
+  // One account says whether it is there on its own first page, and needs no
+  // asking twice; several are worth asking about first.
+  if (logins.length > 1) {
+    const found = await graphql(
+      EXISTS(logins.length),
+      Object.fromEntries(logins.map((login, i) => [`a${i}`, login])),
+    );
+    const missing = logins.find((login, i) => !found[`a${i}`]);
+    if (missing) throw new NoSuchAccount(missing);
+  }
+
+  const accounts = [];
+  const counted = [];
+  const passedOver = [];
+  for (const [index, login] of logins.entries()) {
+    const found = await one(login, {
+      page: options.page,
+      onProgress: ({ read, of }) =>
+        onProgress({ read, of, account: login, index: index + 1, accounts: logins.length }),
+    });
+    accounts.push(found.account);
+    counted.push(...found.counted);
+    passedOver.push(...found.passedOver);
+  }
+
+  const full = (repo) => `${repo.owner}/${repo.name}`;
+  const byCommits = (a, b) => b.commits - a.commits || full(a).localeCompare(full(b));
   counted.sort(byCommits);
   passedOver.sort(byCommits);
   // Rule 3 asks for one repository with a thousand commits; it is read off
   // the ones that count, since a repository that is not code is not one of
   // yours to point at either.
   const busiest = counted[0] ?? null;
+  const sum = (what) => accounts.reduce((total, account) => total + account[what], 0);
 
   return {
-    handle: user.login,
-    name: user.name,
-    url: user.url,
-    avatar: user.avatarUrl,
+    handles: accounts.map((account) => account.handle),
+    accounts,
     checkedAt: new Date().toISOString(),
-    repositories: { public: user.all.totalCount, own: user.own.totalCount, read },
+    repositories: { public: sum("public"), own: sum("own"), read: sum("read") },
     rules: {
       // 1. A hundred public repositories of your own that count.
       repositories: { need: HUNDRED, have: counted.length, ok: counted.length >= HUNDRED },
@@ -303,6 +416,7 @@ export const check = async (handle, options = {}) => {
       commits: {
         need: THOUSAND,
         have: busiest?.commits ?? 0,
+        owner: busiest?.owner ?? null,
         repository: busiest?.name ?? null,
         ok: (busiest?.commits ?? 0) >= THOUSAND,
       },
@@ -319,18 +433,26 @@ export const check = async (handle, options = {}) => {
 
 const HEADING = `  ${"repository".padEnd(32)} ${"commits".padStart(8)} ${"lines".padStart(9)}  languages`;
 
-const line = (repo) =>
-  `  ${repo.name.padEnd(32)} ${String(repo.commits).padStart(8)} ${String(repo.lines).padStart(9)}` +
+// A repository, named as it has to be: on its own when one account was read,
+// and owner and all when several were, since the names may collide.
+const named = (repo, several) => (several ? `${repo.owner}/${repo.name}` : repo.name);
+
+const line = (repo, several) =>
+  `  ${named(repo, several).padEnd(32)} ${String(repo.commits).padStart(8)} ${String(repo.lines).padStart(9)}` +
   `  ${repo.languages.join(", ")}${repo.why ? `  — ${repo.why}` : ""}`;
 
 const say = (report, list) => {
   const { rules } = report;
-  const who = report.name ? `${report.handle} (${report.name})` : report.handle;
-  console.log(`${who} — ${report.url}`);
+  const several = report.accounts.length > 1;
+  for (const account of report.accounts) {
+    const who = account.name ? `${account.handle} (${account.name})` : account.handle;
+    console.log(`${who} — ${account.url}`);
+  }
   const own = report.repositories.own;
   console.log(
     `${own.toLocaleString("en-US")} public ${own === 1 ? "repository" : "repositories"} of their own, ` +
-      `${report.repositories.public.toLocaleString("en-US")} counting forks`,
+      `${report.repositories.public.toLocaleString("en-US")} counting forks` +
+      (several ? `, across ${report.accounts.length} accounts` : ""),
   );
   console.log(
     `${rules.code.counted.toLocaleString("en-US")} count: ${rules.code.commits} commits or more, ` +
@@ -339,13 +461,14 @@ const say = (report, list) => {
   console.log(
     rules.commits.repository === null
       ? "no repository with commits to speak of"
-      : `the busiest is ${rules.commits.repository}, ${plural(rules.commits.have, "commit")}`,
+      : `the busiest is ${named({ owner: rules.commits.owner, name: rules.commits.repository }, several)}, ` +
+        plural(rules.commits.have, "commit"),
   );
   if (list) {
     if (report.counted.length > 0) console.log(`\nthese count:\n${HEADING}`);
-    for (const repo of report.counted) console.log(line(repo));
+    for (const repo of report.counted) console.log(line(repo, several));
     if (report.passedOver.length > 0) console.log(`\nthese do not:\n${HEADING}`);
-    for (const repo of report.passedOver) console.log(line(repo));
+    for (const repo of report.passedOver) console.log(line(repo, several));
   }
   console.log("");
   console.log(
@@ -360,22 +483,24 @@ const say = (report, list) => {
 
 const main = async () => {
   const args = process.argv.slice(2);
-  const handle = args.find((arg) => !arg.startsWith("--"));
-  if (!handle) {
-    console.error("usage: node api/account.js <handle> [--list] [--json]");
+  // Several accounts can be given with commas, or as separate words, since a
+  // shell makes that easy and the meaning is the same.
+  const asked = args.filter((arg) => !arg.startsWith("--")).join(",");
+  if (!asked) {
+    console.error("usage: node api/account.js <handle[,handle…]> [--list] [--json]");
     process.exit(1);
   }
   const json = args.includes("--json");
-  const report = await check(handle, {
+  const many = handles(asked).length > 1;
+  const report = await check(asked, {
     onProgress: process.stdout.isTTY && !json
-      ? ({ read, of }) => process.stdout.write(`\r\x1b[Kreading ${read} of ${of}…`)
+      ? ({ read, of, account, index, accounts }) =>
+        process.stdout.write(
+          `\r\x1b[Kreading ${read} of ${of}…${many ? ` (${account}, ${index} of ${accounts})` : ""}`,
+        )
       : () => {},
   });
   if (process.stdout.isTTY && !json) process.stdout.write("\r\x1b[K");
-  if (!report) {
-    console.error(`no such user: ${handle}`);
-    process.exit(1);
-  }
   if (json) console.log(JSON.stringify(report, null, 2));
   else say(report, args.includes("--list"));
 };
