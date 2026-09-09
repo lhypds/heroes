@@ -409,6 +409,10 @@ const count = async (login) => {
             page = smaller;
             continue;
           }
+          // What was counted before GitHub gave out may already be over the
+          // bar, and then it decides on its own; only when it is not is
+          // there nothing to say.
+          if (commits >= SAMPLE * PER_REPO) break;
           sql.counted.run(null, null, -1, login);
           done();
           console.log(`${login}: ${UNCOUNTABLE}`);

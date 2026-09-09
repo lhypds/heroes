@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
 import Hundred from "../Hundred";
 import { HUNDRED } from "../../constants";
+import buttons from "../../button.module.css";
 import styles from "./check.module.css";
 
 // A GitHub account, read against the three rules: how many of that account's
@@ -276,7 +277,7 @@ export default function Check() {
             enterKeyHint="go"
           />
         </div>
-        <button className={styles.primary} type="submit" disabled={running || asked.length === 0 || tooMany}>
+        <button className={buttons.primary} type="submit" disabled={running || asked.length === 0 || tooMany}>
           {t("check.submit")}
         </button>
       </form>

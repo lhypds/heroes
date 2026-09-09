@@ -176,6 +176,19 @@
   border-radius: 0;
 }
 
+/* ress hands the form elements the page's font, but the browser sets their
+   letter-spacing to normal on its own account, so a <button> is set wider
+   than the <a> beside it — the same words in what looks like another face.
+   The tracking is inherited here as everything else is, and a link and a
+   control standing side by side are one thing. */
+button,
+input,
+optgroup,
+select,
+textarea {
+  letter-spacing: inherit;
+}
+
 html,
 body {
   overscroll-behavior: none;

@@ -18,6 +18,7 @@ what it counts, and how to ask it from the command line or over HTTP.
 `pnpm run check` reads every entry and says what is missing. The same check
 runs on every pull request, and asks each repository whether it answers.  
 
-The page has a Copy prompt button under the example file. Give the prompt to
+The page has a Copy prompt button beside Read the guide, under the steps in
+"Be a hero". Give the prompt to
 an AI assistant along with a GitHub profile and it drafts the file; the prompt
 is `src/prompt.js`, and says what CONTRIBUTING.md says.  

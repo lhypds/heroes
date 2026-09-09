@@ -8,6 +8,11 @@ Data write to crawl.db
 
 2  cleaning
 
+         66,751
+Step 1, -10,868
+Step 2, -22,675
+         33,208
+
 Step 1. Not real user, is not a hero.
 Remove all no name, no location, no website, no follower, all empty users.
 - 10868 = 55881
@@ -15,3 +20,5 @@ Remove all no name, no location, no website, no follower, all empty users.
 Step 2. someone creates lots of minor repos, is not a hero.
 Remove users whose first 10 repos have less than 100 commits.
 (1 repo less than 10 commits)
+
+Step 3. All repos should have more than 10000 commits.

@@ -1,0 +1,73 @@
+/* Every button on the page: the filled one and the outlined one, and nothing
+   else. Some are links and some are controls — "Be a hero" goes down the
+   page, "Copy prompt" copies — and they are the same box either way, so the
+   page has one button in two colors rather than four buttons.
+
+   Primer's .btn, square: 32px tall, medium weight, a 1px border, and the
+   colors changing over 80ms. GitHub pads it five pixels over a 20px line;
+   6px over an 18px line is the same box. The face, its size and its
+   tracking are the page's own — see global.css, which hands them to a
+   <button> as well as to an <a>. */
+.primary,
+.secondary {
+  display: inline-block;
+  padding: 6px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid;
+  cursor: pointer;
+  transition:
+    color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    background-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    border-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
+    box-shadow 80ms cubic-bezier(0.33, 1, 0.68, 1);
+}
+
+.primary {
+  background: var(--primary-bg);
+  color: var(--primary-fg);
+  border-color: var(--primary-border);
+  box-shadow: var(--primary-shadow);
+}
+
+.primary:hover:not(:disabled) {
+  background: var(--primary-hover);
+}
+
+.primary:active:not(:disabled) {
+  background: var(--primary-active);
+}
+
+.secondary {
+  background: var(--button-bg);
+  color: var(--button-fg);
+  border-color: var(--button-border);
+  box-shadow: var(--button-shadow);
+}
+
+.secondary:hover:not(:disabled) {
+  background: var(--button-hover-bg);
+  color: var(--button-hover-fg);
+}
+
+.secondary:active:not(:disabled) {
+  background: var(--button-active-bg);
+  color: var(--button-hover-fg);
+}
+
+/* One that cannot be pressed yet — the check, with nothing typed into it. A
+   link is never in this state; only a control is. */
+.primary:disabled,
+.secondary:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.primary:focus-visible,
+.secondary:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}

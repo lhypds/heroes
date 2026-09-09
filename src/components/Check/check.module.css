@@ -88,43 +88,8 @@
   outline: none;
 }
 
-/* Primer's .btn-primary, as the page's other filled button. */
-.primary {
-  padding: 6px 16px;
-  font-family: inherit;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 18px;
-  text-align: center;
-  background: var(--primary-bg);
-  color: var(--primary-fg);
-  border: 1px solid var(--primary-border);
-  box-shadow: var(--primary-shadow);
-  cursor: pointer;
-  transition:
-    color 80ms cubic-bezier(0.33, 1, 0.68, 1),
-    background-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
-    border-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
-    box-shadow 80ms cubic-bezier(0.33, 1, 0.68, 1);
-}
-
-.primary:hover:not(:disabled) {
-  background: var(--primary-hover);
-}
-
-.primary:active:not(:disabled) {
-  background: var(--primary-active);
-}
-
-.primary:disabled {
-  opacity: 0.6;
-  cursor: default;
-}
-
-.primary:focus-visible {
-  outline: 2px solid var(--focus);
-  outline-offset: 2px;
-}
+/* The button beside it is button.module.css's filled one, as the page's
+   other buttons are. */
 
 /* One line under the field: how far the check has got, or what went wrong.
    It keeps its height either way, so nothing below it jumps. */

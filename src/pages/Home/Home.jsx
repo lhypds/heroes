@@ -4,6 +4,7 @@ import { LanguageSwitcher, ThemeSwitcher, Lead, Json, Check, Boundary } from "@c
 import { LEADS } from "@utils/leads";
 import { REPO, GUIDE, HOME, HUNDRED } from "../../constants";
 import { EXAMPLE, PROMPT } from "../../prompt";
+import buttons from "../../button.module.css";
 import styles from "./home.module.css";
 
 // How long the button says the prompt was copied.
@@ -62,8 +63,8 @@ export default function Home() {
           <div className={styles.actions}>
             {/* Down the page to the steps, not out to the guide: the guide is
                 the last of those steps. */}
-            <a className={styles.primary} href="#join">{t("hero.join")}</a>
-            <a className={styles.secondary} href={REPO} target="_blank" rel="noopener">{t("hero.source")}</a>
+            <a className={buttons.primary} href="#join">{t("hero.join")}</a>
+            <a className={buttons.secondary} href={REPO} target="_blank" rel="noopener">{t("hero.source")}</a>
           </div>
         </div>
       </header>
@@ -136,17 +137,14 @@ export default function Home() {
             </ol>
             <p className={styles.note}>{t("join.language")}</p>
             <p className={styles.note}>{t("join.collected")}</p>
+            <p className={styles.note}>{t("join.prompt")}</p>
+            {/* The two ways of starting the file, side by side and the same
+                size: read it yourself, or hand the prompt to an assistant. */}
             <div className={styles.actions}>
-              <a className={styles.secondary} href={GUIDE} target="_blank" rel="noopener">{t("join.guide")}</a>
-            </div>
-          </div>
-          <div className={styles.example}>
-            <pre className={styles.code}><Json text={EXAMPLE} /></pre>
-            <div className={styles.prompt}>
-              <p className={styles.promptNote}>{t("join.prompt")}</p>
+              <a className={buttons.secondary} href={GUIDE} target="_blank" rel="noopener">{t("join.guide")}</a>
               <button
                 type="button"
-                className={`${styles.secondary} ${styles.copy}`}
+                className={buttons.secondary}
                 onClick={copyPrompt}
                 aria-live="polite"
               >
@@ -154,6 +152,7 @@ export default function Home() {
               </button>
             </div>
           </div>
+          <pre className={styles.code}><Json text={EXAMPLE} /></pre>
         </div>
       </section>
 

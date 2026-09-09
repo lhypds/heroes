@@ -87,63 +87,7 @@
   margin-top: 28px;
 }
 
-/* Primer's .btn, square: 32px tall, medium weight, a 1px border, and the
-   colors changing over 80ms. GitHub pads it five pixels over a 20px line;
-   6px over an 18px line is the same box. */
-.primary,
-.secondary {
-  display: inline-block;
-  padding: 6px 16px;
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 18px;
-  text-align: center;
-  text-decoration: none;
-  border: 1px solid;
-  transition:
-    color 80ms cubic-bezier(0.33, 1, 0.68, 1),
-    background-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
-    border-color 80ms cubic-bezier(0.33, 1, 0.68, 1),
-    box-shadow 80ms cubic-bezier(0.33, 1, 0.68, 1);
-}
-
-.primary {
-  background: var(--primary-bg);
-  color: var(--primary-fg);
-  border-color: var(--primary-border);
-  box-shadow: var(--primary-shadow);
-}
-
-.primary:hover {
-  background: var(--primary-hover);
-}
-
-.primary:active {
-  background: var(--primary-active);
-}
-
-.secondary {
-  background: var(--button-bg);
-  color: var(--button-fg);
-  border-color: var(--button-border);
-  box-shadow: var(--button-shadow);
-}
-
-.secondary:hover {
-  background: var(--button-hover-bg);
-  color: var(--button-hover-fg);
-}
-
-.secondary:active {
-  background: var(--button-active-bg);
-  color: var(--button-hover-fg);
-}
-
-.primary:focus-visible,
-.secondary:focus-visible {
-  outline: 2px solid var(--focus);
-  outline-offset: 2px;
-}
+/* The buttons themselves are button.module.css's, the page over. */
 
 /* The heroes' list while it is empty: one line, in the largest type below
    the wordmark. */
@@ -279,12 +223,6 @@
   color: var(--muted);
 }
 
-.example {
-  display: grid;
-  gap: 12px;
-  align-content: start;
-}
-
 .code {
   margin: 0;
   padding: 16px;
@@ -293,32 +231,6 @@
   line-height: 1.6;
   background: var(--soft);
   overflow-x: auto;
-}
-
-/* Under the file: a line on the prompt, and the button that copies it,
-   Primer's .btn-sm. */
-.prompt {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 10px 18px;
-}
-
-.promptNote {
-  margin: 0;
-  max-width: 32em;
-  font-size: 12px;
-  color: var(--muted);
-}
-
-.copy {
-  padding: 4px 12px;
-  font-family: inherit;
-  font-size: 12px;
-  line-height: 18px;
-  white-space: nowrap;
-  cursor: pointer;
 }
 
 /* Footer */
