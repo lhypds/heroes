@@ -8,5 +8,511 @@
   "bio": "Author of elm-graphql and elm-pages. Elm Trainer and Coach at Incremental Elm Consulting.",
   "own_repos": 105,
   "commits": 24323,
+  "repos": [
+    {
+      "name": "elm-pages",
+      "repo": "https://github.com/dillonkearns/elm-pages",
+      "url": "https://elm-pages.com",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-tui",
+      "repo": "https://github.com/dillonkearns/elm-tui",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-tailwind-classes",
+      "repo": "https://github.com/dillonkearns/elm-tailwind-classes",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-starter",
+      "repo": "https://github.com/dillonkearns/elm-pages-starter",
+      "url": "https://elm-pages-starter.netlify.app/",
+      "language": "Elm"
+    },
+    {
+      "name": "dillonkearns",
+      "repo": "https://github.com/dillonkearns/dillonkearns",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-outdated",
+      "repo": "https://github.com/dillonkearns/elm-outdated",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-cli-options-parser",
+      "repo": "https://github.com/dillonkearns/elm-cli-options-parser",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-ts-json",
+      "repo": "https://github.com/dillonkearns/elm-ts-json",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-snapshot",
+      "repo": "https://github.com/dillonkearns/elm-snapshot",
+      "language": "Elm"
+    },
+    {
+      "name": "tmux-config",
+      "repo": "https://github.com/dillonkearns/tmux-config",
+      "language": "Shell"
+    },
+    {
+      "name": "elm-tailwind-classes-demo",
+      "repo": "https://github.com/dillonkearns/elm-tailwind-classes-demo",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-toolchain",
+      "repo": "https://github.com/dillonkearns/elm-toolchain"
+    },
+    {
+      "name": "elm-form",
+      "repo": "https://github.com/dillonkearns/elm-form",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-package-starter",
+      "repo": "https://github.com/dillonkearns/elm-package-starter",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-ical",
+      "repo": "https://github.com/dillonkearns/elm-ical",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-publish-action",
+      "repo": "https://github.com/dillonkearns/elm-publish-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lamdera-db",
+      "repo": "https://github.com/dillonkearns/lamdera-db",
+      "language": "Elm"
+    },
+    {
+      "name": "incrementalelm.com",
+      "repo": "https://github.com/dillonkearns/incrementalelm.com",
+      "language": "Elm"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/dillonkearns/notes"
+    },
+    {
+      "name": "elm-markdown",
+      "repo": "https://github.com/dillonkearns/elm-markdown",
+      "url": "https://package.elm-lang.org/packages/dillonkearns/elm-markdown/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-graphql",
+      "repo": "https://github.com/dillonkearns/elm-graphql",
+      "url": "https://package.elm-lang.org/packages/dillonkearns/elm-graphql/latest",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-bcp47-language-tag",
+      "repo": "https://github.com/dillonkearns/elm-bcp47-language-tag",
+      "url": "https://package.elm-lang.org/packages/dillonkearns/elm-bcp47-language-tag/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-schemes",
+      "repo": "https://github.com/dillonkearns/elm-schemes"
+    },
+    {
+      "name": "elm-script-kit",
+      "repo": "https://github.com/dillonkearns/elm-script-kit",
+      "language": "Elm"
+    },
+    {
+      "name": "humanity-against-cards",
+      "repo": "https://github.com/dillonkearns/humanity-against-cards",
+      "language": "Elm"
+    },
+    {
+      "name": "dillonkearns.com",
+      "repo": "https://github.com/dillonkearns/dillonkearns.com",
+      "language": "Elm"
+    },
+    {
+      "name": "soirnoirjazz.com",
+      "repo": "https://github.com/dillonkearns/soirnoirjazz.com",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-rss",
+      "repo": "https://github.com/dillonkearns/elm-rss",
+      "url": "https://package.elm-lang.org/packages/dillonkearns/elm-rss/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-oembed",
+      "repo": "https://github.com/dillonkearns/elm-oembed",
+      "language": "Elm"
+    },
+    {
+      "name": "intellij-elm-pro",
+      "repo": "https://github.com/dillonkearns/intellij-elm-pro",
+      "language": "Kotlin"
+    },
+    {
+      "name": "lamdera-pages-demo",
+      "repo": "https://github.com/dillonkearns/lamdera-pages-demo",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-html-to-elm",
+      "repo": "https://github.com/dillonkearns/elm-review-html-to-elm",
+      "language": "Elm"
+    },
+    {
+      "name": "graphqelm-demo",
+      "repo": "https://github.com/dillonkearns/graphqelm-demo",
+      "url": "https://graphqelm.herokuapp.com/graphiql",
+      "language": "Elixir"
+    },
+    {
+      "name": "kenv",
+      "repo": "https://github.com/dillonkearns/kenv",
+      "language": "TypeScript"
+    },
+    {
+      "name": "elm-ai",
+      "repo": "https://github.com/dillonkearns/elm-ai",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-radio.com",
+      "repo": "https://github.com/dillonkearns/elm-radio.com",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-realworld",
+      "repo": "https://github.com/dillonkearns/elm-pages-realworld",
+      "url": "https://elm-pages-realworld.netlify.app/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-3-alpha-starter",
+      "repo": "https://github.com/dillonkearns/elm-pages-3-alpha-starter",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-v3-beta",
+      "repo": "https://github.com/dillonkearns/elm-pages-v3-beta",
+      "language": "Elm"
+    },
+    {
+      "name": "fishbowl",
+      "repo": "https://github.com/dillonkearns/fishbowl",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-view-transitions",
+      "repo": "https://github.com/dillonkearns/elm-view-transitions",
+      "url": "https://elm-view-transitions.netlify.app/",
+      "language": "Elm"
+    },
+    {
+      "name": "blog-engine",
+      "repo": "https://github.com/dillonkearns/blog-engine",
+      "language": "Elm"
+    },
+    {
+      "name": "prisma-example",
+      "repo": "https://github.com/dillonkearns/prisma-example",
+      "language": "Elm"
+    },
+    {
+      "name": "mobster",
+      "repo": "https://github.com/dillonkearns/mobster",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-3-test",
+      "repo": "https://github.com/dillonkearns/elm-pages-3-test",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-typescript-starter",
+      "repo": "https://github.com/dillonkearns/elm-typescript-starter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-snapshot-test",
+      "repo": "https://github.com/dillonkearns/elm-snapshot-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tempo",
+      "repo": "https://github.com/dillonkearns/tempo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "elm-pages-netlify-cms-starter",
+      "repo": "https://github.com/dillonkearns/elm-pages-netlify-cms-starter",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-decoder-koans",
+      "repo": "https://github.com/dillonkearns/elm-decoder-koans",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-sitemap",
+      "repo": "https://github.com/dillonkearns/elm-sitemap",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-program-test-experiment",
+      "repo": "https://github.com/dillonkearns/elm-program-test-experiment",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-katas",
+      "repo": "https://github.com/dillonkearns/elm-katas",
+      "language": "Elm"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/dillonkearns/talks",
+      "language": "Elm"
+    },
+    {
+      "name": "idiomatic-elm-package-guide",
+      "repo": "https://github.com/dillonkearns/idiomatic-elm-package-guide"
+    },
+    {
+      "name": "elm-date-or-date-time",
+      "repo": "https://github.com/dillonkearns/elm-date-or-date-time",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-css-transpiler-demo",
+      "repo": "https://github.com/dillonkearns/elm-css-transpiler-demo",
+      "language": "Elm"
+    },
+    {
+      "name": "edge-functions-examples",
+      "repo": "https://github.com/dillonkearns/edge-functions-examples",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lamdera-glib-issue-reproduction",
+      "repo": "https://github.com/dillonkearns/lamdera-glib-issue-reproduction",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-no-primitive-type-alias",
+      "repo": "https://github.com/dillonkearns/elm-review-no-primitive-type-alias",
+      "language": "Elm"
+    },
+    {
+      "name": "sb-farmar",
+      "repo": "https://github.com/dillonkearns/sb-farmar",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-blog-tutorial",
+      "repo": "https://github.com/dillonkearns/elm-pages-blog-tutorial",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-graphql-datasource",
+      "repo": "https://github.com/dillonkearns/elm-graphql-datasource",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-suggest",
+      "repo": "https://github.com/dillonkearns/elm-review-suggest",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-koan-runner",
+      "repo": "https://github.com/dillonkearns/elm-koan-runner",
+      "language": "Elm"
+    },
+    {
+      "name": "ellie-app-cli",
+      "repo": "https://github.com/dillonkearns/ellie-app-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-ts-interop-starter",
+      "repo": "https://github.com/dillonkearns/elm-ts-interop-starter",
+      "url": "https://elm-ts-interop.com/docs",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-typescript-interop",
+      "repo": "https://github.com/dillonkearns/elm-typescript-interop",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-init",
+      "repo": "https://github.com/dillonkearns/elm-pages-init",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-package-cache",
+      "repo": "https://github.com/dillonkearns/elm-package-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ambiguous-elm-make",
+      "repo": "https://github.com/dillonkearns/ambiguous-elm-make",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-make-docs-api",
+      "repo": "https://github.com/dillonkearns/elm-make-docs-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-slides",
+      "repo": "https://github.com/dillonkearns/elm-slides"
+    },
+    {
+      "name": "elm-continuous-deployment-exercise",
+      "repo": "https://github.com/dillonkearns/elm-continuous-deployment-exercise",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-ts-netlify-starter",
+      "repo": "https://github.com/dillonkearns/elm-ts-netlify-starter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-graphql-input-object-bug",
+      "repo": "https://github.com/dillonkearns/elm-graphql-input-object-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dillonkearns.github.io",
+      "repo": "https://github.com/dillonkearns/dillonkearns.github.io",
+      "language": "SCSS"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/dillonkearns/.github"
+    },
+    {
+      "name": "advent-posts",
+      "repo": "https://github.com/dillonkearns/advent-posts"
+    },
+    {
+      "name": "elm-program-test-katas",
+      "repo": "https://github.com/dillonkearns/elm-program-test-katas",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-ts-interop-example",
+      "repo": "https://github.com/dillonkearns/elm-ts-interop-example",
+      "url": "https://codesandbox.io/s/github/dillonkearns/elm-ts-interop-example",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-pages-tailwind-starter",
+      "repo": "https://github.com/dillonkearns/elm-pages-tailwind-starter",
+      "language": "Elm"
+    },
+    {
+      "name": "atom-vim-mode-plus-exchange",
+      "repo": "https://github.com/dillonkearns/atom-vim-mode-plus-exchange",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stasis",
+      "repo": "https://github.com/dillonkearns/stasis",
+      "language": "Elm"
+    },
+    {
+      "name": "oembed-iframe",
+      "repo": "https://github.com/dillonkearns/oembed-iframe",
+      "language": "HTML"
+    },
+    {
+      "name": "elm-camp",
+      "repo": "https://github.com/dillonkearns/elm-camp",
+      "language": "Elm"
+    },
+    {
+      "name": "gitbook-elm-graphql",
+      "repo": "https://github.com/dillonkearns/gitbook-elm-graphql",
+      "url": "https://dillonkearns.gitbooks.io/elm-graphql/"
+    },
+    {
+      "name": "graphqelm",
+      "repo": "https://github.com/dillonkearns/graphqelm",
+      "url": "https://github.com/dillonkearns/elm-graphql",
+      "language": "Elm"
+    },
+    {
+      "name": "we-connect",
+      "repo": "https://github.com/dillonkearns/we-connect",
+      "language": "Elm"
+    },
+    {
+      "name": "dotatom",
+      "repo": "https://github.com/dillonkearns/dotatom",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "elm-graphql-issue-debug",
+      "repo": "https://github.com/dillonkearns/elm-graphql-issue-debug",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-worker-issue",
+      "repo": "https://github.com/dillonkearns/elm-worker-issue",
+      "language": "Elm"
+    },
+    {
+      "name": "atom-vim-mode-plus-duplicate",
+      "repo": "https://github.com/dillonkearns/atom-vim-mode-plus-duplicate",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "elm-electron",
+      "repo": "https://github.com/dillonkearns/elm-electron",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-electron-starter",
+      "repo": "https://github.com/dillonkearns/elm-electron-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chess-vision",
+      "repo": "https://github.com/dillonkearns/chess-vision",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-form-mdl",
+      "repo": "https://github.com/dillonkearns/elm-form-mdl",
+      "language": "Elm"
+    },
+    {
+      "name": "the_lean_cafe",
+      "repo": "https://github.com/dillonkearns/the_lean_cafe",
+      "language": "Elixir"
+    },
+    {
+      "name": "automated-testing-wiki",
+      "repo": "https://github.com/dillonkearns/automated-testing-wiki"
+    },
+    {
+      "name": "pine-mortality",
+      "repo": "https://github.com/dillonkearns/pine-mortality",
+      "language": "HTML"
+    }
+  ],
   "apps": []
 }

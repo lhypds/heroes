@@ -1,0 +1,512 @@
+{
+  "handle": "jackc",
+  "name": "Jack Christensen",
+  "github": [
+    "https://github.com/jackc"
+  ],
+  "website": "https://www.jackchristensen.com/",
+  "own_repos": 162,
+  "commits": 18884,
+  "repos": [
+    {
+      "name": "devwright",
+      "repo": "https://github.com/jackc/devwright",
+      "language": "Go"
+    },
+    {
+      "name": "pgx",
+      "repo": "https://github.com/jackc/pgx",
+      "url": "https://pkg.go.dev/github.com/jackc/pgx/v5",
+      "language": "Go"
+    },
+    {
+      "name": "jed",
+      "repo": "https://github.com/jackc/jed",
+      "language": "Rust"
+    },
+    {
+      "name": "pgundolog",
+      "repo": "https://github.com/jackc/pgundolog",
+      "language": "Go"
+    },
+    {
+      "name": "logger4life",
+      "repo": "https://github.com/jackc/logger4life",
+      "language": "Go"
+    },
+    {
+      "name": "port-tamer",
+      "repo": "https://github.com/jackc/port-tamer",
+      "language": "Go"
+    },
+    {
+      "name": "pglogrepl",
+      "repo": "https://github.com/jackc/pglogrepl",
+      "language": "Go"
+    },
+    {
+      "name": "tern",
+      "repo": "https://github.com/jackc/tern",
+      "language": "Go"
+    },
+    {
+      "name": "verna",
+      "repo": "https://github.com/jackc/verna",
+      "language": "Go"
+    },
+    {
+      "name": "postgresql-client-bench",
+      "repo": "https://github.com/jackc/postgresql-client-bench",
+      "language": "Python"
+    },
+    {
+      "name": "regex-vs-parser",
+      "repo": "https://github.com/jackc/regex-vs-parser",
+      "language": "Go"
+    },
+    {
+      "name": "pgsqlarbiter-rb",
+      "repo": "https://github.com/jackc/pgsqlarbiter-rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "pgsqlarbiter-go",
+      "repo": "https://github.com/jackc/pgsqlarbiter-go",
+      "language": "Go"
+    },
+    {
+      "name": "tpr",
+      "repo": "https://github.com/jackc/tpr",
+      "language": "Go"
+    },
+    {
+      "name": "booklog",
+      "repo": "https://github.com/jackc/booklog",
+      "language": "Go"
+    },
+    {
+      "name": "pg_partialcopy",
+      "repo": "https://github.com/jackc/pg_partialcopy",
+      "language": "Go"
+    },
+    {
+      "name": "doublecheck",
+      "repo": "https://github.com/jackc/doublecheck",
+      "language": "Go"
+    },
+    {
+      "name": "puddle",
+      "repo": "https://github.com/jackc/puddle",
+      "language": "Go"
+    },
+    {
+      "name": "pgerrcode",
+      "repo": "https://github.com/jackc/pgerrcode",
+      "language": "Go"
+    },
+    {
+      "name": "pgxlisten",
+      "repo": "https://github.com/jackc/pgxlisten",
+      "language": "Go"
+    },
+    {
+      "name": "portreg",
+      "repo": "https://github.com/jackc/portreg",
+      "language": "Go"
+    },
+    {
+      "name": "goicpbench",
+      "repo": "https://github.com/jackc/goicpbench",
+      "language": "Go"
+    },
+    {
+      "name": "booklog-rails",
+      "repo": "https://github.com/jackc/booklog-rails",
+      "language": "Ruby"
+    },
+    {
+      "name": "pgtype",
+      "repo": "https://github.com/jackc/pgtype",
+      "language": "Go"
+    },
+    {
+      "name": "pgproto3",
+      "repo": "https://github.com/jackc/pgproto3",
+      "language": "Go"
+    },
+    {
+      "name": "pgconn",
+      "repo": "https://github.com/jackc/pgconn",
+      "language": "Go"
+    },
+    {
+      "name": "web-starter-app",
+      "repo": "https://github.com/jackc/web-starter-app",
+      "language": "Go"
+    },
+    {
+      "name": "errortree",
+      "repo": "https://github.com/jackc/errortree",
+      "language": "Go"
+    },
+    {
+      "name": "structify",
+      "repo": "https://github.com/jackc/structify",
+      "language": "Go"
+    },
+    {
+      "name": "csvtopg",
+      "repo": "https://github.com/jackc/csvtopg",
+      "language": "Go"
+    },
+    {
+      "name": "pgservicefile",
+      "repo": "https://github.com/jackc/pgservicefile",
+      "language": "Go"
+    },
+    {
+      "name": "envconf",
+      "repo": "https://github.com/jackc/envconf",
+      "language": "Go"
+    },
+    {
+      "name": "tod",
+      "repo": "https://github.com/jackc/tod",
+      "language": "Ruby"
+    },
+    {
+      "name": "command_model",
+      "repo": "https://github.com/jackc/command_model",
+      "language": "Ruby"
+    },
+    {
+      "name": "pgx_custom_types_testing",
+      "repo": "https://github.com/jackc/pgx_custom_types_testing",
+      "language": "Go"
+    },
+    {
+      "name": "pgmock",
+      "repo": "https://github.com/jackc/pgmock",
+      "language": "Go"
+    },
+    {
+      "name": "pgxutil",
+      "repo": "https://github.com/jackc/pgxutil",
+      "language": "Go"
+    },
+    {
+      "name": "cgol",
+      "repo": "https://github.com/jackc/cgol",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-top-to-bottom",
+      "repo": "https://github.com/jackc/pgx-top-to-bottom",
+      "language": "HTML"
+    },
+    {
+      "name": "pgpassfile",
+      "repo": "https://github.com/jackc/pgpassfile",
+      "language": "Go"
+    },
+    {
+      "name": "mp",
+      "repo": "https://github.com/jackc/mp",
+      "language": "Go"
+    },
+    {
+      "name": "pgxjob",
+      "repo": "https://github.com/jackc/pgxjob",
+      "language": "Go"
+    },
+    {
+      "name": "pgxrecord",
+      "repo": "https://github.com/jackc/pgxrecord",
+      "language": "Go"
+    },
+    {
+      "name": "ensure",
+      "repo": "https://github.com/jackc/ensure",
+      "language": "Go"
+    },
+    {
+      "name": "react2fs",
+      "repo": "https://github.com/jackc/react2fs",
+      "language": "Go"
+    },
+    {
+      "name": "flex",
+      "repo": "https://github.com/jackc/flex",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-zerolog",
+      "repo": "https://github.com/jackc/pgx-zerolog",
+      "language": "Go"
+    },
+    {
+      "name": "cachet",
+      "repo": "https://github.com/jackc/cachet",
+      "language": "Go"
+    },
+    {
+      "name": "pgtocsv",
+      "repo": "https://github.com/jackc/pgtocsv",
+      "language": "Go"
+    },
+    {
+      "name": "golang-windows-dupreads",
+      "repo": "https://github.com/jackc/golang-windows-dupreads",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-gofrs-uuid",
+      "repo": "https://github.com/jackc/pgx-gofrs-uuid",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-zap",
+      "repo": "https://github.com/jackc/pgx-zap",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-log15",
+      "repo": "https://github.com/jackc/pgx-log15",
+      "language": "Go"
+    },
+    {
+      "name": "pg-extid",
+      "repo": "https://github.com/jackc/pg-extid",
+      "language": "Go"
+    },
+    {
+      "name": "go-extid",
+      "repo": "https://github.com/jackc/go-extid",
+      "language": "Go"
+    },
+    {
+      "name": "ruby-extid",
+      "repo": "https://github.com/jackc/ruby-extid",
+      "language": "Ruby"
+    },
+    {
+      "name": "pgx_issues",
+      "repo": "https://github.com/jackc/pgx_issues",
+      "language": "Go"
+    },
+    {
+      "name": "testdb",
+      "repo": "https://github.com/jackc/testdb",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-logrus",
+      "repo": "https://github.com/jackc/pgx-logrus",
+      "language": "Go"
+    },
+    {
+      "name": "pgsql",
+      "repo": "https://github.com/jackc/pgsql",
+      "language": "Go"
+    },
+    {
+      "name": "postgresql_simple_protocol_binary_format_bench",
+      "repo": "https://github.com/jackc/postgresql_simple_protocol_binary_format_bench",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-shopspring-decimal",
+      "repo": "https://github.com/jackc/pgx-shopspring-decimal",
+      "language": "Go"
+    },
+    {
+      "name": "json_api_bench",
+      "repo": "https://github.com/jackc/json_api_bench",
+      "language": "Ruby"
+    },
+    {
+      "name": "go_db_bench",
+      "repo": "https://github.com/jackc/go_db_bench",
+      "language": "Go"
+    },
+    {
+      "name": "chunkreader",
+      "repo": "https://github.com/jackc/chunkreader",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-go-kit-log",
+      "repo": "https://github.com/jackc/pgx-go-kit-log",
+      "language": "Go"
+    },
+    {
+      "name": "hannibal",
+      "repo": "https://github.com/jackc/hannibal",
+      "language": "Go"
+    },
+    {
+      "name": "booklogh",
+      "repo": "https://github.com/jackc/booklogh",
+      "language": "PLpgSQL"
+    },
+    {
+      "name": "edge",
+      "repo": "https://github.com/jackc/edge",
+      "language": "Ruby"
+    },
+    {
+      "name": "numfmt",
+      "repo": "https://github.com/jackc/numfmt",
+      "language": "Go"
+    },
+    {
+      "name": "goldilocks",
+      "repo": "https://github.com/jackc/goldilocks",
+      "language": "Go"
+    },
+    {
+      "name": "go_pgx_compiled_size",
+      "repo": "https://github.com/jackc/go_pgx_compiled_size",
+      "language": "Go"
+    },
+    {
+      "name": "pgx845",
+      "repo": "https://github.com/jackc/pgx845",
+      "language": "Go"
+    },
+    {
+      "name": "pgx_key_value_bench",
+      "repo": "https://github.com/jackc/pgx_key_value_bench",
+      "language": "Go"
+    },
+    {
+      "name": "pg_pl_bench",
+      "repo": "https://github.com/jackc/pg_pl_bench",
+      "language": "Go"
+    },
+    {
+      "name": "pg_text_binary_bench",
+      "repo": "https://github.com/jackc/pg_text_binary_bench",
+      "language": "Go"
+    },
+    {
+      "name": "surus",
+      "repo": "https://github.com/jackc/surus",
+      "language": "Ruby"
+    },
+    {
+      "name": "sadpath",
+      "repo": "https://github.com/jackc/sadpath",
+      "language": "Go"
+    },
+    {
+      "name": "imperator",
+      "repo": "https://github.com/jackc/imperator",
+      "language": "Go"
+    },
+    {
+      "name": "sqlfmt",
+      "repo": "https://github.com/jackc/sqlfmt",
+      "language": "Yacc"
+    },
+    {
+      "name": "gel",
+      "repo": "https://github.com/jackc/gel",
+      "language": "Go"
+    },
+    {
+      "name": "pgxdata",
+      "repo": "https://github.com/jackc/pgxdata",
+      "language": "Go"
+    },
+    {
+      "name": "pgxrepl",
+      "repo": "https://github.com/jackc/pgxrepl",
+      "language": "Go"
+    },
+    {
+      "name": "pgio",
+      "repo": "https://github.com/jackc/pgio",
+      "language": "Go"
+    },
+    {
+      "name": "go-server-closed-tcp-conn-os-inconsistencies",
+      "repo": "https://github.com/jackc/go-server-closed-tcp-conn-os-inconsistencies"
+    },
+    {
+      "name": "go-tls-deadline-temporary-error",
+      "repo": "https://github.com/jackc/go-tls-deadline-temporary-error",
+      "language": "Go"
+    },
+    {
+      "name": "pgxsql",
+      "repo": "https://github.com/jackc/pgxsql",
+      "language": "Go"
+    },
+    {
+      "name": "one-click-hugo-cms",
+      "repo": "https://github.com/jackc/one-click-hugo-cms",
+      "language": "CSS"
+    },
+    {
+      "name": "yakstak",
+      "repo": "https://github.com/jackc/yakstak"
+    },
+    {
+      "name": "dailyprogrammer",
+      "repo": "https://github.com/jackc/dailyprogrammer",
+      "language": "Go"
+    },
+    {
+      "name": "cbc-sinatra-crash",
+      "repo": "https://github.com/jackc/cbc-sinatra-crash",
+      "language": "Ruby"
+    },
+    {
+      "name": "ego",
+      "repo": "https://github.com/jackc/ego",
+      "language": "Go"
+    },
+    {
+      "name": "jx",
+      "repo": "https://github.com/jackc/jx",
+      "language": "Ruby"
+    },
+    {
+      "name": "asm-study",
+      "repo": "https://github.com/jackc/asm-study",
+      "language": "Assembly"
+    },
+    {
+      "name": "pgxtype",
+      "repo": "https://github.com/jackc/pgxtype",
+      "language": "Go"
+    },
+    {
+      "name": "go-sync-bench",
+      "repo": "https://github.com/jackc/go-sync-bench",
+      "language": "Go"
+    },
+    {
+      "name": "math_game",
+      "repo": "https://github.com/jackc/math_game",
+      "language": "Ruby"
+    },
+    {
+      "name": "context-rows-cancel",
+      "repo": "https://github.com/jackc/context-rows-cancel",
+      "language": "Go"
+    },
+    {
+      "name": "ctxio",
+      "repo": "https://github.com/jackc/ctxio",
+      "language": "Go"
+    },
+    {
+      "name": "pgx186",
+      "repo": "https://github.com/jackc/pgx186",
+      "language": "Go"
+    }
+  ],
+  "apps": []
+}

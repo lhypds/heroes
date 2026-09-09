@@ -8,5 +8,547 @@
   "bio": "Creative / Systems Developer: Crafting engines, tools, and experimental software with modern C++.",
   "own_repos": 160,
   "commits": 24627,
+  "repos": [
+    {
+      "name": "acidcam-gpu",
+      "repo": "https://github.com/lostjared/acidcam-gpu",
+      "url": "https://lostsidedead.biz/acmx2/docs/",
+      "language": "C++"
+    },
+    {
+      "name": "MXWrite",
+      "repo": "https://github.com/lostjared/MXWrite",
+      "language": "C++"
+    },
+    {
+      "name": "shaders",
+      "repo": "https://github.com/lostjared/shaders",
+      "url": "https://lostsidedead.biz/acmx2/shader_browser.html",
+      "language": "GLSL"
+    },
+    {
+      "name": "MXVK",
+      "repo": "https://github.com/lostjared/MXVK",
+      "url": "https://lostsidedead.biz/MXVK/",
+      "language": "C++"
+    },
+    {
+      "name": "libmx2",
+      "repo": "https://github.com/lostjared/libmx2",
+      "url": "https://lostsidedead.biz/libmx2",
+      "language": "C++"
+    },
+    {
+      "name": "lostjared",
+      "repo": "https://github.com/lostjared/lostjared"
+    },
+    {
+      "name": "cplusplus2x.Examples",
+      "repo": "https://github.com/lostjared/cplusplus2x.Examples",
+      "url": "https://lostsidedead.biz/cplusplus/2x/",
+      "language": "C++"
+    },
+    {
+      "name": "Python.Projects",
+      "repo": "https://github.com/lostjared/Python.Projects",
+      "language": "Python"
+    },
+    {
+      "name": "C2x.Examples",
+      "repo": "https://github.com/lostjared/C2x.Examples",
+      "url": "https://lostsidedead.biz/love.html",
+      "language": "C"
+    },
+    {
+      "name": "ldd-deploy",
+      "repo": "https://github.com/lostjared/ldd-deploy",
+      "language": "C++"
+    },
+    {
+      "name": "Acid.Cam.v2.Qt",
+      "repo": "https://github.com/lostjared/Acid.Cam.v2.Qt",
+      "language": "C++"
+    },
+    {
+      "name": "libacidcam",
+      "repo": "https://github.com/lostjared/libacidcam",
+      "language": "C++"
+    },
+    {
+      "name": "MX2.Graphics.Demo",
+      "repo": "https://github.com/lostjared/MX2.Graphics.Demo",
+      "url": "https://lostsidedead.biz/visualizer.html",
+      "language": "GLSL"
+    },
+    {
+      "name": "MXNetwork",
+      "repo": "https://github.com/lostjared/MXNetwork",
+      "language": "C"
+    },
+    {
+      "name": "img2mov",
+      "repo": "https://github.com/lostjared/img2mov",
+      "language": "C++"
+    },
+    {
+      "name": "JavaScript.Projects",
+      "repo": "https://github.com/lostjared/JavaScript.Projects",
+      "language": "JavaScript"
+    },
+    {
+      "name": "acidcamGL",
+      "repo": "https://github.com/lostjared/acidcamGL",
+      "url": "https://lostsidedead.biz/acidcamGL/",
+      "language": "C++"
+    },
+    {
+      "name": "MasterX_System",
+      "repo": "https://github.com/lostjared/MasterX_System",
+      "url": "https://lostsidedead.biz/MasterX/masterx-system.html",
+      "language": "C++"
+    },
+    {
+      "name": "Argz",
+      "repo": "https://github.com/lostjared/Argz",
+      "language": "C++"
+    },
+    {
+      "name": "PuzzleDrop.Web",
+      "repo": "https://github.com/lostjared/PuzzleDrop.Web",
+      "url": "https://lostsidedead.biz/PuzzleDrop/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "PuzzleDrop",
+      "repo": "https://github.com/lostjared/PuzzleDrop",
+      "language": "C++"
+    },
+    {
+      "name": "QTransfer",
+      "repo": "https://github.com/lostjared/QTransfer",
+      "language": "C++"
+    },
+    {
+      "name": "emx",
+      "repo": "https://github.com/lostjared/emx",
+      "language": "C++"
+    },
+    {
+      "name": "SpaceRox.MX2",
+      "repo": "https://github.com/lostjared/SpaceRox.MX2",
+      "language": "C++"
+    },
+    {
+      "name": "3DPool",
+      "repo": "https://github.com/lostjared/3DPool",
+      "url": "https://lostsidedead.biz/pool",
+      "language": "C++"
+    },
+    {
+      "name": "AcidDrop",
+      "repo": "https://github.com/lostjared/AcidDrop",
+      "url": "https://lostsidedead.biz/drop/",
+      "language": "C++"
+    },
+    {
+      "name": "MXVM",
+      "repo": "https://github.com/lostjared/MXVM",
+      "url": "https://lostsidedead.biz/MXVM/doc/html",
+      "language": "C++"
+    },
+    {
+      "name": "Super.Stoner.420",
+      "repo": "https://github.com/lostjared/Super.Stoner.420",
+      "url": "https://lostsidedead.biz/super_stoner",
+      "language": "C"
+    },
+    {
+      "name": "ACMX2.Android",
+      "repo": "https://github.com/lostjared/ACMX2.Android",
+      "url": "https://lostsidedead.biz/acmx2-android.html",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ACMX2",
+      "repo": "https://github.com/lostjared/ACMX2",
+      "url": "https://lostsidedead.biz/acmx2",
+      "language": "C++"
+    },
+    {
+      "name": "Mutatris",
+      "repo": "https://github.com/lostjared/Mutatris",
+      "url": "https://lostsidedead.biz/game/Mutatris",
+      "language": "C++"
+    },
+    {
+      "name": "Liquid.JavaScript.Drop",
+      "repo": "https://github.com/lostjared/Liquid.JavaScript.Drop",
+      "url": "https://lostsidedead.biz/javascript.drop/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cplusplus11.Examples",
+      "repo": "https://github.com/lostjared/cplusplus11.Examples",
+      "url": "https://lostsidedead.biz/cplusplus/11/",
+      "language": "C++"
+    },
+    {
+      "name": "shell-cmd",
+      "repo": "https://github.com/lostjared/shell-cmd",
+      "url": "https://lostsidedead.biz/shell-cmd",
+      "language": "C++"
+    },
+    {
+      "name": "shell-cmd-rs",
+      "repo": "https://github.com/lostjared/shell-cmd-rs",
+      "url": "https://lostsidedead.biz/shell-cmd",
+      "language": "Rust"
+    },
+    {
+      "name": "mxdbg",
+      "repo": "https://github.com/lostjared/mxdbg",
+      "url": "https://lostsidedead.biz/mxdbg/",
+      "language": "C++"
+    },
+    {
+      "name": "image_convert20",
+      "repo": "https://github.com/lostjared/image_convert20",
+      "language": "C++"
+    },
+    {
+      "name": "MasterPiece.SDL",
+      "repo": "https://github.com/lostjared/MasterPiece.SDL",
+      "url": "https://lostsidedead.biz/MasterPiece.Classic/",
+      "language": "C++"
+    },
+    {
+      "name": "Generic.Puzzle.Game",
+      "repo": "https://github.com/lostjared/Generic.Puzzle.Game",
+      "language": "Rust"
+    },
+    {
+      "name": "MasterPiece.Rust",
+      "repo": "https://github.com/lostjared/MasterPiece.Rust",
+      "language": "Rust"
+    },
+    {
+      "name": "att2intel",
+      "repo": "https://github.com/lostjared/att2intel",
+      "language": "Assembly"
+    },
+    {
+      "name": "ats",
+      "repo": "https://github.com/lostjared/ats",
+      "url": "https://lostsidedead.biz/debugger",
+      "language": "C++"
+    },
+    {
+      "name": "MasterPiece.x64.Assembly",
+      "repo": "https://github.com/lostjared/MasterPiece.x64.Assembly",
+      "url": "https://lostsidedead.biz/x64/MasterPiece",
+      "language": "Assembly"
+    },
+    {
+      "name": "modern.cplusplus.examples",
+      "repo": "https://github.com/lostjared/modern.cplusplus.examples",
+      "url": "https://lostsidedead.biz/cplusplus",
+      "language": "Python"
+    },
+    {
+      "name": "cplusplus17.Examples",
+      "repo": "https://github.com/lostjared/cplusplus17.Examples",
+      "url": "https://lostsidedead.biz/cplusplus/17/",
+      "language": "C++"
+    },
+    {
+      "name": "AcidCam_Android",
+      "repo": "https://github.com/lostjared/AcidCam_Android",
+      "language": "Java"
+    },
+    {
+      "name": "2D.TileMap",
+      "repo": "https://github.com/lostjared/2D.TileMap",
+      "language": "C++"
+    },
+    {
+      "name": "Perl5.Projects",
+      "repo": "https://github.com/lostjared/Perl5.Projects",
+      "language": "Perl"
+    },
+    {
+      "name": "glitch.gui",
+      "repo": "https://github.com/lostjared/glitch.gui",
+      "url": "https://lostsidedead.biz/gui/",
+      "language": "C++"
+    },
+    {
+      "name": "acidcam-cli",
+      "repo": "https://github.com/lostjared/acidcam-cli",
+      "language": "C++"
+    },
+    {
+      "name": "acidcam-dev",
+      "repo": "https://github.com/lostjared/acidcam-dev",
+      "url": "https://lostsidedead.biz/acidcam-dev/",
+      "language": "Shell"
+    },
+    {
+      "name": "fractal-studio",
+      "repo": "https://github.com/lostjared/fractal-studio",
+      "url": "https://lostsidedead.biz/fractal-studio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Remember.Words",
+      "repo": "https://github.com/lostjared/Remember.Words",
+      "url": "https://lostsidedead.biz/memory",
+      "language": "C"
+    },
+    {
+      "name": "spacerox",
+      "repo": "https://github.com/lostjared/spacerox",
+      "url": "https://lostsidedead.biz/spacerox",
+      "language": "C"
+    },
+    {
+      "name": "count_lines",
+      "repo": "https://github.com/lostjared/count_lines",
+      "language": "C++"
+    },
+    {
+      "name": "LostMasterPiece2",
+      "repo": "https://github.com/lostjared/LostMasterPiece2",
+      "url": "https://lostsidedead.biz/LostMasterPiece2/lostmp.html",
+      "language": "GLSL"
+    },
+    {
+      "name": "cliptools",
+      "repo": "https://github.com/lostjared/cliptools",
+      "language": "C++"
+    },
+    {
+      "name": "lostmasterpiece",
+      "repo": "https://github.com/lostjared/lostmasterpiece",
+      "url": "https://lostsidedead.biz/LostMasterPiece",
+      "language": "C++"
+    },
+    {
+      "name": "unix_cplusplus",
+      "repo": "https://github.com/lostjared/unix_cplusplus",
+      "url": "https://lostsidedead.biz/unix/",
+      "language": "C++"
+    },
+    {
+      "name": "KarmaTrail",
+      "repo": "https://github.com/lostjared/KarmaTrail",
+      "url": "https://lostsidedead.biz/karma_trail/",
+      "language": "HTML"
+    },
+    {
+      "name": "ollama_gen",
+      "repo": "https://github.com/lostjared/ollama_gen",
+      "language": "C++"
+    },
+    {
+      "name": "libmx",
+      "repo": "https://github.com/lostjared/libmx",
+      "url": "https://lostsidedead.biz/libmx",
+      "language": "C++"
+    },
+    {
+      "name": "Rust.Projects",
+      "repo": "https://github.com/lostjared/Rust.Projects",
+      "language": "Rust"
+    },
+    {
+      "name": "Fractal.Generator.JavaScript",
+      "repo": "https://github.com/lostjared/Fractal.Generator.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ats.web",
+      "repo": "https://github.com/lostjared/ats.web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "EGL.Skeleton",
+      "repo": "https://github.com/lostjared/EGL.Skeleton",
+      "language": "C++"
+    },
+    {
+      "name": "SuperMasterKong",
+      "repo": "https://github.com/lostjared/SuperMasterKong",
+      "language": "C++"
+    },
+    {
+      "name": "bin2cpp20",
+      "repo": "https://github.com/lostjared/bin2cpp20",
+      "url": "https://lostsidedead.biz/bin2cpp20",
+      "language": "C++"
+    },
+    {
+      "name": "acidcam.web",
+      "repo": "https://github.com/lostjared/acidcam.web",
+      "url": "https://lostsidedead.biz/acidcam.webgl",
+      "language": "GLSL"
+    },
+    {
+      "name": "Kotlin.Projects",
+      "repo": "https://github.com/lostjared/Kotlin.Projects",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Breakout.Rust",
+      "repo": "https://github.com/lostjared/Breakout.Rust",
+      "language": "Rust"
+    },
+    {
+      "name": "Knights_Tour",
+      "repo": "https://github.com/lostjared/Knights_Tour",
+      "language": "Rust"
+    },
+    {
+      "name": "Mutatris_Android",
+      "repo": "https://github.com/lostjared/Mutatris_Android",
+      "language": "Java"
+    },
+    {
+      "name": "Acid.Cam.Filter.JavaScript",
+      "repo": "https://github.com/lostjared/Acid.Cam.Filter.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Code.Crunch.JavaScript",
+      "repo": "https://github.com/lostjared/Code.Crunch.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Generic.Puzzle.Game.JavaScript",
+      "repo": "https://github.com/lostjared/Generic.Puzzle.Game.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MasterBall.JavaScript",
+      "repo": "https://github.com/lostjared/MasterBall.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MasterPiece3D.JavaScript",
+      "repo": "https://github.com/lostjared/MasterPiece3D.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Pong.JavaScript",
+      "repo": "https://github.com/lostjared/Pong.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Breakout.Rust.Web",
+      "repo": "https://github.com/lostjared/Breakout.Rust.Web",
+      "url": "https://lostsidedead.biz/breakout",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Remember.Words.JavaScript",
+      "repo": "https://github.com/lostjared/Remember.Words.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Snake.JavaScript",
+      "repo": "https://github.com/lostjared/Snake.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Knights_Tour.JavaScript",
+      "repo": "https://github.com/lostjared/Knights_Tour.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "CodeMatrix.JavaScript",
+      "repo": "https://github.com/lostjared/CodeMatrix.JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Console",
+      "repo": "https://github.com/lostjared/Console",
+      "language": "Rust"
+    },
+    {
+      "name": "MutatrisHD",
+      "repo": "https://github.com/lostjared/MutatrisHD",
+      "language": "C"
+    },
+    {
+      "name": "Old.DirectX.Programs",
+      "repo": "https://github.com/lostjared/Old.DirectX.Programs",
+      "language": "C++"
+    },
+    {
+      "name": "Shuffle",
+      "repo": "https://github.com/lostjared/Shuffle",
+      "language": "C++"
+    },
+    {
+      "name": "count_time",
+      "repo": "https://github.com/lostjared/count_time",
+      "language": "C++"
+    },
+    {
+      "name": "code2text",
+      "repo": "https://github.com/lostjared/code2text",
+      "language": "Rust"
+    },
+    {
+      "name": "Fractal",
+      "repo": "https://github.com/lostjared/Fractal",
+      "language": "C++"
+    },
+    {
+      "name": "Acid.Cam.v2.OSX",
+      "repo": "https://github.com/lostjared/Acid.Cam.v2.OSX",
+      "url": "https://lostsidedead.biz/acidcamosx/index.html",
+      "language": "C++"
+    },
+    {
+      "name": "cmx",
+      "repo": "https://github.com/lostjared/cmx",
+      "language": "C"
+    },
+    {
+      "name": "Old.Learning.Projects",
+      "repo": "https://github.com/lostjared/Old.Learning.Projects",
+      "url": "https://lostsidedead.biz/software",
+      "language": "C++"
+    },
+    {
+      "name": "masterx-ovdm-linux",
+      "repo": "https://github.com/lostjared/masterx-ovdm-linux",
+      "language": "C++"
+    },
+    {
+      "name": "Codename.Quadtris",
+      "repo": "https://github.com/lostjared/Codename.Quadtris",
+      "language": "C"
+    },
+    {
+      "name": "Oculus.Rift.DK2",
+      "repo": "https://github.com/lostjared/Oculus.Rift.DK2",
+      "language": "C"
+    },
+    {
+      "name": "Flex.and.Bison.Examples",
+      "repo": "https://github.com/lostjared/Flex.and.Bison.Examples"
+    },
+    {
+      "name": "image2video",
+      "repo": "https://github.com/lostjared/image2video",
+      "language": "C++"
+    },
+    {
+      "name": "ConcatVideo",
+      "repo": "https://github.com/lostjared/ConcatVideo",
+      "language": "C++"
+    }
+  ],
   "apps": []
 }

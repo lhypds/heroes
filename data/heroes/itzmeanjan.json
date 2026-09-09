@@ -8,5 +8,525 @@
   "bio": "Learning :)",
   "own_repos": 114,
   "commits": 12486,
+  "repos": [
+    {
+      "name": "fast-sparse-merkle-tree",
+      "repo": "https://github.com/itzmeanjan/fast-sparse-merkle-tree",
+      "language": "Rust"
+    },
+    {
+      "name": "mva-study",
+      "repo": "https://github.com/itzmeanjan/mva-study",
+      "url": "https://sagebio-rare-disease-real-kid-mva-hackathon-2026.hf.space",
+      "language": "Python"
+    },
+    {
+      "name": "itzmeanjan.github.io",
+      "repo": "https://github.com/itzmeanjan/itzmeanjan.github.io",
+      "url": "https://itzmeanjan.in",
+      "language": "HTML"
+    },
+    {
+      "name": "veripq",
+      "repo": "https://github.com/itzmeanjan/veripq",
+      "language": "Solidity"
+    },
+    {
+      "name": "kangarootwelve",
+      "repo": "https://github.com/itzmeanjan/kangarootwelve",
+      "url": "https://docs.rs/kangarootwelve",
+      "language": "Rust"
+    },
+    {
+      "name": "subtle",
+      "repo": "https://github.com/itzmeanjan/subtle",
+      "language": "C++"
+    },
+    {
+      "name": "ml-kem",
+      "repo": "https://github.com/itzmeanjan/ml-kem",
+      "language": "C++"
+    },
+    {
+      "name": "RandomShake",
+      "repo": "https://github.com/itzmeanjan/RandomShake",
+      "language": "C++"
+    },
+    {
+      "name": "sha3",
+      "repo": "https://github.com/itzmeanjan/sha3",
+      "language": "C++"
+    },
+    {
+      "name": "ml-dsa",
+      "repo": "https://github.com/itzmeanjan/ml-dsa",
+      "language": "C++"
+    },
+    {
+      "name": "gh-sync",
+      "repo": "https://github.com/itzmeanjan/gh-sync",
+      "language": "Python"
+    },
+    {
+      "name": "setup-wireguard-vpn",
+      "repo": "https://github.com/itzmeanjan/setup-wireguard-vpn",
+      "language": "Shell"
+    },
+    {
+      "name": "frodoPIR",
+      "repo": "https://github.com/itzmeanjan/frodoPIR",
+      "language": "C++"
+    },
+    {
+      "name": "ml-dsa-b",
+      "repo": "https://github.com/itzmeanjan/ml-dsa-b",
+      "language": "C++"
+    },
+    {
+      "name": "poseidon2b",
+      "repo": "https://github.com/itzmeanjan/poseidon2b",
+      "language": "Python"
+    },
+    {
+      "name": "rlnc",
+      "repo": "https://github.com/itzmeanjan/rlnc",
+      "url": "https://docs.rs/rlnc/latest/rlnc",
+      "language": "Rust"
+    },
+    {
+      "name": "ascon",
+      "repo": "https://github.com/itzmeanjan/ascon",
+      "language": "C++"
+    },
+    {
+      "name": "decds",
+      "repo": "https://github.com/itzmeanjan/decds",
+      "language": "Rust"
+    },
+    {
+      "name": "turboshake",
+      "repo": "https://github.com/itzmeanjan/turboshake",
+      "language": "Rust"
+    },
+    {
+      "name": "sphincs-plus",
+      "repo": "https://github.com/itzmeanjan/sphincs-plus",
+      "language": "C++"
+    },
+    {
+      "name": "raccoon",
+      "repo": "https://github.com/itzmeanjan/raccoon",
+      "language": "C++"
+    },
+    {
+      "name": "chalametpir-demo",
+      "repo": "https://github.com/itzmeanjan/chalametpir-demo",
+      "language": "Rust"
+    },
+    {
+      "name": "ChalametPIR",
+      "repo": "https://github.com/itzmeanjan/ChalametPIR",
+      "language": "Rust"
+    },
+    {
+      "name": "falcon",
+      "repo": "https://github.com/itzmeanjan/falcon",
+      "language": "C++"
+    },
+    {
+      "name": "kodr",
+      "repo": "https://github.com/itzmeanjan/kodr",
+      "url": "https://pkg.go.dev/github.com/itzmeanjan/kodr",
+      "language": "Go"
+    },
+    {
+      "name": "airQ",
+      "repo": "https://github.com/itzmeanjan/airQ",
+      "language": "Python"
+    },
+    {
+      "name": "imd_weather",
+      "repo": "https://github.com/itzmeanjan/imd_weather",
+      "language": "Python"
+    },
+    {
+      "name": "frodokem",
+      "repo": "https://github.com/itzmeanjan/frodokem",
+      "language": "C++"
+    },
+    {
+      "name": "xoofff",
+      "repo": "https://github.com/itzmeanjan/xoofff",
+      "language": "Rust"
+    },
+    {
+      "name": "multimixer-128",
+      "repo": "https://github.com/itzmeanjan/multimixer-128",
+      "language": "Rust"
+    },
+    {
+      "name": "rc4ok",
+      "repo": "https://github.com/itzmeanjan/rc4ok",
+      "language": "Rust"
+    },
+    {
+      "name": "saber",
+      "repo": "https://github.com/itzmeanjan/saber",
+      "language": "C++"
+    },
+    {
+      "name": "ff-gpu",
+      "repo": "https://github.com/itzmeanjan/ff-gpu",
+      "language": "C++"
+    },
+    {
+      "name": "chanalyze",
+      "repo": "https://github.com/itzmeanjan/chanalyze",
+      "url": "https://itzmeanjan.github.io/chanalyze/",
+      "language": "Python"
+    },
+    {
+      "name": "photon-beetle",
+      "repo": "https://github.com/itzmeanjan/photon-beetle",
+      "language": "C++"
+    },
+    {
+      "name": "isap",
+      "repo": "https://github.com/itzmeanjan/isap",
+      "language": "C++"
+    },
+    {
+      "name": "sparkle",
+      "repo": "https://github.com/itzmeanjan/sparkle",
+      "language": "C++"
+    },
+    {
+      "name": "harmony",
+      "repo": "https://github.com/itzmeanjan/harmony",
+      "language": "Go"
+    },
+    {
+      "name": "intent",
+      "repo": "https://github.com/itzmeanjan/intent",
+      "language": "Kotlin"
+    },
+    {
+      "name": "compute_determinant",
+      "repo": "https://github.com/itzmeanjan/compute_determinant",
+      "language": "C++"
+    },
+    {
+      "name": "matrix_factorization",
+      "repo": "https://github.com/itzmeanjan/matrix_factorization",
+      "language": "C++"
+    },
+    {
+      "name": "merklize-blake3",
+      "repo": "https://github.com/itzmeanjan/merklize-blake3",
+      "language": "C"
+    },
+    {
+      "name": "tgnize",
+      "repo": "https://github.com/itzmeanjan/tgnize",
+      "url": "https://itzmeanjan.github.io/tgnize/",
+      "language": "Python"
+    },
+    {
+      "name": "ette",
+      "repo": "https://github.com/itzmeanjan/ette",
+      "url": "https://itzmeanjan.github.io/ette/",
+      "language": "Go"
+    },
+    {
+      "name": "xoodyak",
+      "repo": "https://github.com/itzmeanjan/xoodyak",
+      "language": "C++"
+    },
+    {
+      "name": "tinyjambu",
+      "repo": "https://github.com/itzmeanjan/tinyjambu",
+      "language": "C++"
+    },
+    {
+      "name": "rescue-prime",
+      "repo": "https://github.com/itzmeanjan/rescue-prime",
+      "language": "C++"
+    },
+    {
+      "name": "gClient",
+      "repo": "https://github.com/itzmeanjan/gClient",
+      "language": "Go"
+    },
+    {
+      "name": "highway",
+      "repo": "https://github.com/itzmeanjan/highway"
+    },
+    {
+      "name": "f2d",
+      "repo": "https://github.com/itzmeanjan/f2d",
+      "language": "Go"
+    },
+    {
+      "name": "vectorized-rescue-prime",
+      "repo": "https://github.com/itzmeanjan/vectorized-rescue-prime",
+      "language": "C"
+    },
+    {
+      "name": "eigen_value",
+      "repo": "https://github.com/itzmeanjan/eigen_value",
+      "language": "C++"
+    },
+    {
+      "name": "gasz",
+      "repo": "https://github.com/itzmeanjan/gasz",
+      "url": "https://gasz.in",
+      "language": "Go"
+    },
+    {
+      "name": "gasbot",
+      "repo": "https://github.com/itzmeanjan/gasbot",
+      "language": "Go"
+    },
+    {
+      "name": "pproto",
+      "repo": "https://github.com/itzmeanjan/pproto",
+      "language": "Go"
+    },
+    {
+      "name": "ff-p-bench",
+      "repo": "https://github.com/itzmeanjan/ff-p-bench",
+      "language": "C++"
+    },
+    {
+      "name": "ff-p254-gpu",
+      "repo": "https://github.com/itzmeanjan/ff-p254-gpu",
+      "language": "C++"
+    },
+    {
+      "name": "transferZ",
+      "repo": "https://github.com/itzmeanjan/transferZ",
+      "language": "Dart"
+    },
+    {
+      "name": "osm_tile_fetcher",
+      "repo": "https://github.com/itzmeanjan/osm_tile_fetcher",
+      "language": "Dart"
+    },
+    {
+      "name": "weatherz-desktop",
+      "repo": "https://github.com/itzmeanjan/weatherz-desktop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "polling",
+      "repo": "https://github.com/itzmeanjan/polling",
+      "language": "JavaScript"
+    },
+    {
+      "name": "open-calender",
+      "repo": "https://github.com/itzmeanjan/open-calender",
+      "language": "JavaScript"
+    },
+    {
+      "name": "secp256k1",
+      "repo": "https://github.com/itzmeanjan/secp256k1",
+      "language": "Python"
+    },
+    {
+      "name": "grain-128aead",
+      "repo": "https://github.com/itzmeanjan/grain-128aead",
+      "language": "C++"
+    },
+    {
+      "name": "romulus",
+      "repo": "https://github.com/itzmeanjan/romulus",
+      "language": "C++"
+    },
+    {
+      "name": "gift-cofb",
+      "repo": "https://github.com/itzmeanjan/gift-cofb",
+      "language": "C++"
+    },
+    {
+      "name": "elephant",
+      "repo": "https://github.com/itzmeanjan/elephant",
+      "language": "C++"
+    },
+    {
+      "name": "harpocrates",
+      "repo": "https://github.com/itzmeanjan/harpocrates",
+      "language": "C++"
+    },
+    {
+      "name": "acorn",
+      "repo": "https://github.com/itzmeanjan/acorn",
+      "language": "C++"
+    },
+    {
+      "name": "merklize-sha",
+      "repo": "https://github.com/itzmeanjan/merklize-sha",
+      "language": "C++"
+    },
+    {
+      "name": "blake3-fpga",
+      "repo": "https://github.com/itzmeanjan/blake3-fpga",
+      "language": "C++"
+    },
+    {
+      "name": "sha256-fpga",
+      "repo": "https://github.com/itzmeanjan/sha256-fpga",
+      "language": "C++"
+    },
+    {
+      "name": "fpga-explore",
+      "repo": "https://github.com/itzmeanjan/fpga-explore",
+      "language": "C++"
+    },
+    {
+      "name": "blake3",
+      "repo": "https://github.com/itzmeanjan/blake3",
+      "language": "C++"
+    },
+    {
+      "name": "p2p",
+      "repo": "https://github.com/itzmeanjan/p2p",
+      "language": "Go"
+    },
+    {
+      "name": "pub0sub",
+      "repo": "https://github.com/itzmeanjan/pub0sub",
+      "url": "https://pkg.go.dev/github.com/itzmeanjan/pub0sub",
+      "language": "Go"
+    },
+    {
+      "name": "tseep",
+      "repo": "https://github.com/itzmeanjan/tseep",
+      "language": "Go"
+    },
+    {
+      "name": "pubsub",
+      "repo": "https://github.com/itzmeanjan/pubsub",
+      "language": "Go"
+    },
+    {
+      "name": "project-euler",
+      "repo": "https://github.com/itzmeanjan/project-euler",
+      "url": "https://itzmeanjan.github.io/project-euler/",
+      "language": "Go"
+    },
+    {
+      "name": "itzmeanjan.in",
+      "repo": "https://github.com/itzmeanjan/itzmeanjan.in",
+      "url": "https://itzmeanjan.in",
+      "language": "HTML"
+    },
+    {
+      "name": "twiz",
+      "repo": "https://github.com/itzmeanjan/twiz",
+      "url": "https://itzmeanjan.github.io/twiz/",
+      "language": "Python"
+    },
+    {
+      "name": "lenz",
+      "repo": "https://github.com/itzmeanjan/lenz",
+      "url": "https://itzmeanjan.github.io/lenz/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fviz",
+      "repo": "https://github.com/itzmeanjan/fviz",
+      "url": "https://itzmeanjan.github.io/fviz",
+      "language": "Python"
+    },
+    {
+      "name": "locate",
+      "repo": "https://github.com/itzmeanjan/locate",
+      "url": "https://itzmeanjan.github.io/locate/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "generate-sign",
+      "repo": "https://github.com/itzmeanjan/generate-sign",
+      "language": "JavaScript"
+    },
+    {
+      "name": "review-it",
+      "repo": "https://github.com/itzmeanjan/review-it",
+      "language": "JavaScript"
+    },
+    {
+      "name": "filterIt",
+      "repo": "https://github.com/itzmeanjan/filterIt",
+      "url": "https://itzmeanjan.github.io/filterIt/",
+      "language": "Java"
+    },
+    {
+      "name": "sensorz",
+      "repo": "https://github.com/itzmeanjan/sensorz",
+      "language": "Dart"
+    },
+    {
+      "name": "robotics",
+      "repo": "https://github.com/itzmeanjan/robotics",
+      "language": "CMake"
+    },
+    {
+      "name": "pynotif",
+      "repo": "https://github.com/itzmeanjan/pynotif",
+      "url": "https://itzmeanjan.github.io/pynotif/",
+      "language": "C"
+    },
+    {
+      "name": "ip2country",
+      "repo": "https://github.com/itzmeanjan/ip2country",
+      "language": "Python"
+    },
+    {
+      "name": "number-theory",
+      "repo": "https://github.com/itzmeanjan/number-theory",
+      "language": "Go"
+    },
+    {
+      "name": "airQ-insight",
+      "repo": "https://github.com/itzmeanjan/airQ-insight",
+      "language": "Python"
+    },
+    {
+      "name": "streamZ",
+      "repo": "https://github.com/itzmeanjan/streamZ",
+      "language": "Dart"
+    },
+    {
+      "name": "indian-railway",
+      "repo": "https://github.com/itzmeanjan/indian-railway",
+      "language": "Python"
+    },
+    {
+      "name": "locatorz",
+      "repo": "https://github.com/itzmeanjan/locatorz",
+      "language": "Dart"
+    },
+    {
+      "name": "corporateZ",
+      "repo": "https://github.com/itzmeanjan/corporateZ",
+      "url": "https://itzmeanjan.github.io/corporateZ/",
+      "language": "Python"
+    },
+    {
+      "name": "vb_notice_reader",
+      "repo": "https://github.com/itzmeanjan/vb_notice_reader",
+      "language": "Dart"
+    },
+    {
+      "name": "osm",
+      "repo": "https://github.com/itzmeanjan/osm",
+      "language": "Dart"
+    },
+    {
+      "name": "countryAndWeather",
+      "repo": "https://github.com/itzmeanjan/countryAndWeather",
+      "language": "Python"
+    }
+  ],
   "apps": []
 }

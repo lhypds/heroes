@@ -7,5 +7,540 @@
   "website": "https://twitter.com/t9md",
   "own_repos": 113,
   "commits": 10792,
+  "repos": [
+    {
+      "name": "vim-quickhl",
+      "repo": "https://github.com/t9md/vim-quickhl",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-choosewin",
+      "repo": "https://github.com/t9md/vim-choosewin",
+      "language": "Vim Script"
+    },
+    {
+      "name": "atom-vim-mode-plus",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus",
+      "url": "https://atom.io/packages/vim-mode-plus",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "awesome-tadoku",
+      "repo": "https://github.com/t9md/awesome-tadoku",
+      "language": "Ruby"
+    },
+    {
+      "name": "atom-narrow",
+      "repo": "https://github.com/t9md/atom-narrow",
+      "url": "https://atom.io/packages/narrow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-inline-git-diff",
+      "repo": "https://github.com/t9md/atom-inline-git-diff",
+      "url": "https://atom.io/packages/inline-git-diff",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-markdown-toc-auto",
+      "repo": "https://github.com/t9md/atom-markdown-toc-auto",
+      "url": "https://atom.io/packages/markdown-toc-auto",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cram-vocabulary",
+      "repo": "https://github.com/t9md/cram-vocabulary",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bulk-screen-capture",
+      "repo": "https://github.com/t9md/bulk-screen-capture",
+      "language": "Python"
+    },
+    {
+      "name": "vim-textmanip",
+      "repo": "https://github.com/t9md/vim-textmanip",
+      "language": "Vim Script"
+    },
+    {
+      "name": "atom-cursor-history",
+      "repo": "https://github.com/t9md/atom-cursor-history",
+      "url": "https://atom.io/packages/cursor-history",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-mprettier",
+      "repo": "https://github.com/t9md/atom-mprettier",
+      "url": "https://atom.io/packages/mprettier",
+      "language": "JavaScript"
+    },
+    {
+      "name": "build-kikutan",
+      "repo": "https://github.com/t9md/build-kikutan",
+      "language": "Ruby"
+    },
+    {
+      "name": "atom-focus-pane-or-panel",
+      "repo": "https://github.com/t9md/atom-focus-pane-or-panel",
+      "url": "https://atom.io/packages/focus-pane-or-panel",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-google-translate",
+      "repo": "https://github.com/t9md/atom-google-translate",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-vocabuilder",
+      "repo": "https://github.com/t9md/atom-vocabuilder",
+      "url": "https://atom.io/packages/vocabuilder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "t9md",
+      "repo": "https://github.com/t9md/t9md"
+    },
+    {
+      "name": "anki-accelerate-image-drag-and-drop",
+      "repo": "https://github.com/t9md/anki-accelerate-image-drag-and-drop",
+      "language": "Python"
+    },
+    {
+      "name": "atom-project-folder",
+      "repo": "https://github.com/t9md/atom-project-folder",
+      "url": "https://atom.io/packages/project-folder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/t9md/dotfiles",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-narrow-git-ls",
+      "repo": "https://github.com/t9md/atom-narrow-git-ls",
+      "url": "https://atom.io/packages/narrow-git-ls",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-hydrogen-helpers",
+      "repo": "https://github.com/t9md/atom-hydrogen-helpers",
+      "url": "https://atom.io/packages/hydrogen-helpers",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-keystroke",
+      "repo": "https://github.com/t9md/atom-keystroke",
+      "url": "https://atom.io/packages/keystroke",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-move-selected-text",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-move-selected-text",
+      "url": "https://atom.io/packages/vim-mode-plus-move-selected-text",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-transformer",
+      "repo": "https://github.com/t9md/atom-transformer",
+      "url": "https://atom.io/packages/transformer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-outlet",
+      "repo": "https://github.com/t9md/atom-outlet",
+      "url": "https://www.npmjs.com/package/atom-outlet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-outlet-manager",
+      "repo": "https://github.com/t9md/atom-outlet-manager",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-quick-highlight",
+      "repo": "https://github.com/t9md/atom-quick-highlight",
+      "url": "https://atom.io/packages/quick-highlight",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-theme-switch",
+      "repo": "https://github.com/t9md/atom-theme-switch",
+      "url": "https://atom.io/packages/theme-switch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nouwo-kitaeru-puzzle",
+      "repo": "https://github.com/t9md/nouwo-kitaeru-puzzle",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-buffer-history",
+      "repo": "https://github.com/t9md/atom-buffer-history"
+    },
+    {
+      "name": "atom-choose-pane",
+      "repo": "https://github.com/t9md/atom-choose-pane",
+      "url": "https://atom.io/packages/choose-pane",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-toggle",
+      "repo": "https://github.com/t9md/atom-toggle",
+      "url": "https://atom.io/packages/toggle",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-mgit",
+      "repo": "https://github.com/t9md/atom-mgit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-clip-history",
+      "repo": "https://github.com/t9md/atom-clip-history",
+      "url": "https://atom.io/packages/clip-history",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-replace-with-execution",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-replace-with-execution",
+      "url": "https://atom.io/packages/vim-mode-plus-replace-with-execution",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-move-to-symbols",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-move-to-symbols",
+      "url": "https://atom.io/packages/vim-mode-plus-move-to-symbols",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-jasmine-increase-focus",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-jasmine-increase-focus",
+      "url": "https://atom.io/packages/vim-mode-plus-jasmine-increase-focus",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-ex-mode",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-ex-mode",
+      "url": "https://atom.io/packages/vim-mode-plus-ex-mode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-submode",
+      "repo": "https://github.com/t9md/atom-submode",
+      "url": "https://atom.io/packages/submode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-auto-ime",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-auto-ime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-plugin-sample",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-plugin-sample",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-demo-mode",
+      "repo": "https://github.com/t9md/atom-demo-mode",
+      "url": "https://atom.io/packages/demo-mode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-open-this",
+      "repo": "https://github.com/t9md/atom-open-this",
+      "url": "https://atom.io/packages/open-this",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-paner",
+      "repo": "https://github.com/t9md/atom-paner",
+      "url": "https://atom.io/packages/paner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-narrow-example-provider",
+      "repo": "https://github.com/t9md/atom-narrow-example-provider",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-project-find-navigation",
+      "repo": "https://github.com/t9md/atom-project-find-navigation",
+      "url": "https://atom.io/packages/project-find-navigation",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-smalls",
+      "repo": "https://github.com/t9md/atom-smalls",
+      "url": "https://atom.io/packages/smalls",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-dev",
+      "repo": "https://github.com/t9md/atom-dev",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-open-at-last-position",
+      "repo": "https://github.com/t9md/atom-open-at-last-position"
+    },
+    {
+      "name": "atom-recent-finder",
+      "repo": "https://github.com/t9md/atom-recent-finder",
+      "url": "https://atom.io/packages/recent-finder",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "vim-ezbar",
+      "repo": "https://github.com/t9md/vim-ezbar",
+      "language": "Vim Script"
+    },
+    {
+      "name": "atom-lazy-motion",
+      "repo": "https://github.com/t9md/atom-lazy-motion",
+      "url": "https://atom.io/packages/lazy-motion",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-project-find-from-search",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-project-find-from-search",
+      "url": "https://atom.io/packages/vim-mode-plus-project-find-from-search",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-relative-line-numbers2",
+      "repo": "https://github.com/t9md/atom-relative-line-numbers2",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-vim-mode-plus-keymaps-for-surround",
+      "repo": "https://github.com/t9md/atom-vim-mode-plus-keymaps-for-surround",
+      "url": "https://atom.io/packages/vim-mode-plus-keymaps-for-surround"
+    },
+    {
+      "name": "atom-try",
+      "repo": "https://github.com/t9md/atom-try",
+      "url": "https://atom.io/packages/try",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-vim-mode-visual-block",
+      "repo": "https://github.com/t9md/atom-vim-mode-visual-block",
+      "url": "https://atom.io/packages/vim-mode-visual-block",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-isearch",
+      "repo": "https://github.com/t9md/atom-isearch",
+      "url": "https://atom.io/packages/isearch",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "js-study",
+      "repo": "https://github.com/t9md/js-study"
+    },
+    {
+      "name": "selfstudy-purescipt",
+      "repo": "https://github.com/t9md/selfstudy-purescipt"
+    },
+    {
+      "name": "atom-goto-scope",
+      "repo": "https://github.com/t9md/atom-goto-scope",
+      "url": "https://atom.io/packages/goto-scope",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-search-and-replace",
+      "repo": "https://github.com/t9md/atom-search-and-replace",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-phrase",
+      "repo": "https://github.com/t9md/atom-phrase",
+      "url": "https://atom.io/packages/phrase",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "phrase",
+      "repo": "https://github.com/t9md/phrase",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-config-plus",
+      "repo": "https://github.com/t9md/atom-config-plus",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "atom-keymap-disabler",
+      "repo": "https://github.com/t9md/atom-keymap-disabler",
+      "url": "https://atom.io/packages/keymap-disabler",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "vim-smalls",
+      "repo": "https://github.com/t9md/vim-smalls",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-transform",
+      "repo": "https://github.com/t9md/vim-transform",
+      "language": "Vim Script"
+    },
+    {
+      "name": "go-study",
+      "repo": "https://github.com/t9md/go-study",
+      "language": "Go"
+    },
+    {
+      "name": "fu",
+      "repo": "https://github.com/t9md/fu",
+      "language": "Go"
+    },
+    {
+      "name": "vim-nerdtree_plugin_collections",
+      "repo": "https://github.com/t9md/vim-nerdtree_plugin_collections",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-function-ruby",
+      "repo": "https://github.com/t9md/vim-textobj-function-ruby",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-phrase",
+      "repo": "https://github.com/t9md/vim-phrase",
+      "language": "Vim Script"
+    },
+    {
+      "name": "phrase-t9md",
+      "repo": "https://github.com/t9md/phrase-t9md",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-t9mdlib",
+      "repo": "https://github.com/t9md/vim-t9mdlib"
+    },
+    {
+      "name": "vagrant-snap",
+      "repo": "https://github.com/t9md/vagrant-snap",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-mapswap",
+      "repo": "https://github.com/t9md/vim-mapswap",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-fthook",
+      "repo": "https://github.com/t9md/vim-fthook",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-resizewin",
+      "repo": "https://github.com/t9md/vim-resizewin",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-unite-experiment",
+      "repo": "https://github.com/t9md/vim-unite-experiment",
+      "language": "Vim Script"
+    },
+    {
+      "name": "phrase-example",
+      "repo": "https://github.com/t9md/phrase-example",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-ruby-xmpfilter",
+      "repo": "https://github.com/t9md/vim-ruby-xmpfilter",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-learn",
+      "repo": "https://github.com/t9md/vim-learn",
+      "language": "CSS"
+    },
+    {
+      "name": "vim-chef",
+      "repo": "https://github.com/t9md/vim-chef",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-macvim-transparency",
+      "repo": "https://github.com/t9md/vim-macvim-transparency",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-unite-ack",
+      "repo": "https://github.com/t9md/vim-unite-ack",
+      "language": "Vim Script"
+    },
+    {
+      "name": "my-vim-config",
+      "repo": "https://github.com/t9md/my-vim-config",
+      "language": "Vim Script"
+    },
+    {
+      "name": "puppet-pi-mode.el",
+      "repo": "https://github.com/t9md/puppet-pi-mode.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "vagrant_example",
+      "repo": "https://github.com/t9md/vagrant_example",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim2tmux.vim",
+      "repo": "https://github.com/t9md/vim2tmux.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-tryit",
+      "repo": "https://github.com/t9md/vim-tryit",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-underlinetag",
+      "repo": "https://github.com/t9md/vim-underlinetag",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-misc-experiment",
+      "repo": "https://github.com/t9md/vim-misc-experiment",
+      "language": "Vim Script"
+    },
+    {
+      "name": "bdd-infra-train",
+      "repo": "https://github.com/t9md/bdd-infra-train",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-surround_custom_mapping",
+      "repo": "https://github.com/t9md/vim-surround_custom_mapping",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-ruby_eval",
+      "repo": "https://github.com/t9md/vim-ruby_eval",
+      "language": "Ruby"
+    },
+    {
+      "name": "aptsync",
+      "repo": "https://github.com/t9md/aptsync",
+      "language": "Ruby"
+    },
+    {
+      "name": "tmux_config",
+      "repo": "https://github.com/t9md/tmux_config",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-unite-lines",
+      "repo": "https://github.com/t9md/vim-unite-lines",
+      "language": "Vim Script"
+    }
+  ],
   "apps": []
 }

@@ -8,5 +8,505 @@
   "bio": "Programmer",
   "own_repos": 119,
   "commits": 15078,
+  "repos": [
+    {
+      "name": "pizarnik",
+      "repo": "https://github.com/vmchale/pizarnik",
+      "language": "HTML"
+    },
+    {
+      "name": "apple",
+      "repo": "https://github.com/vmchale/apple",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "libarchive",
+      "repo": "https://github.com/vmchale/libarchive",
+      "language": "C"
+    },
+    {
+      "name": "hs-err",
+      "repo": "https://github.com/vmchale/hs-err",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dickinson",
+      "repo": "https://github.com/vmchale/dickinson",
+      "language": "Haskell"
+    },
+    {
+      "name": "jacinda",
+      "repo": "https://github.com/vmchale/jacinda",
+      "language": "Haskell"
+    },
+    {
+      "name": "lzlib",
+      "repo": "https://github.com/vmchale/lzlib",
+      "language": "Haskell"
+    },
+    {
+      "name": "phash",
+      "repo": "https://github.com/vmchale/phash",
+      "language": "Haskell"
+    },
+    {
+      "name": "avif",
+      "repo": "https://github.com/vmchale/avif",
+      "language": "Haskell"
+    },
+    {
+      "name": "t.h",
+      "repo": "https://github.com/vmchale/t.h",
+      "language": "C"
+    },
+    {
+      "name": "pybqn",
+      "repo": "https://github.com/vmchale/pybqn",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "rure",
+      "repo": "https://github.com/vmchale/rure",
+      "language": "Haskell"
+    },
+    {
+      "name": "burrows-wheeler",
+      "repo": "https://github.com/vmchale/burrows-wheeler",
+      "language": "J"
+    },
+    {
+      "name": "j-hs",
+      "repo": "https://github.com/vmchale/j-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "jacinda-vim",
+      "repo": "https://github.com/vmchale/jacinda-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "cabal-project-vim",
+      "repo": "https://github.com/vmchale/cabal-project-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "kempe",
+      "repo": "https://github.com/vmchale/kempe",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs-ats",
+      "repo": "https://github.com/vmchale/hs-ats",
+      "language": "ATS"
+    },
+    {
+      "name": "dhall-vim",
+      "repo": "https://github.com/vmchale/dhall-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "archive-backpack",
+      "repo": "https://github.com/vmchale/archive-backpack",
+      "language": "Haskell"
+    },
+    {
+      "name": "cpp-build",
+      "repo": "https://github.com/vmchale/cpp-build",
+      "language": "Rust"
+    },
+    {
+      "name": "polyglot",
+      "repo": "https://github.com/vmchale/polyglot",
+      "language": "ATS"
+    },
+    {
+      "name": "shake-futhark",
+      "repo": "https://github.com/vmchale/shake-futhark",
+      "language": "Haskell"
+    },
+    {
+      "name": "shake-dhall",
+      "repo": "https://github.com/vmchale/shake-dhall",
+      "language": "Haskell"
+    },
+    {
+      "name": "github-actions-dhall",
+      "repo": "https://github.com/vmchale/github-actions-dhall",
+      "language": "Dhall"
+    },
+    {
+      "name": "cpkg",
+      "repo": "https://github.com/vmchale/cpkg",
+      "language": "Dhall"
+    },
+    {
+      "name": "project-init",
+      "repo": "https://github.com/vmchale/project-init",
+      "language": "Rust"
+    },
+    {
+      "name": "tin-summer",
+      "repo": "https://github.com/vmchale/tin-summer",
+      "language": "Rust"
+    },
+    {
+      "name": "burningship-fut",
+      "repo": "https://github.com/vmchale/burningship-fut",
+      "language": "Futhark"
+    },
+    {
+      "name": "atspkg",
+      "repo": "https://github.com/vmchale/atspkg",
+      "language": "Haskell"
+    },
+    {
+      "name": "nproc-ats",
+      "repo": "https://github.com/vmchale/nproc-ats",
+      "language": "ATS"
+    },
+    {
+      "name": "recursion",
+      "repo": "https://github.com/vmchale/recursion",
+      "language": "ATS"
+    },
+    {
+      "name": "either",
+      "repo": "https://github.com/vmchale/either",
+      "language": "ATS"
+    },
+    {
+      "name": "monads",
+      "repo": "https://github.com/vmchale/monads",
+      "language": "ATS"
+    },
+    {
+      "name": "stack",
+      "repo": "https://github.com/vmchale/stack",
+      "language": "ATS"
+    },
+    {
+      "name": "edit-distance",
+      "repo": "https://github.com/vmchale/edit-distance",
+      "language": "ATS"
+    },
+    {
+      "name": "specats",
+      "repo": "https://github.com/vmchale/specats",
+      "language": "ATS"
+    },
+    {
+      "name": "hs-bind",
+      "repo": "https://github.com/vmchale/hs-bind",
+      "language": "ATS"
+    },
+    {
+      "name": "ats-bench",
+      "repo": "https://github.com/vmchale/ats-bench",
+      "language": "ATS"
+    },
+    {
+      "name": "ccompiler",
+      "repo": "https://github.com/vmchale/ccompiler",
+      "language": "C"
+    },
+    {
+      "name": "coronavirus",
+      "repo": "https://github.com/vmchale/coronavirus",
+      "language": "J"
+    },
+    {
+      "name": "q-bench",
+      "repo": "https://github.com/vmchale/q-bench",
+      "language": "R"
+    },
+    {
+      "name": "permutations",
+      "repo": "https://github.com/vmchale/permutations",
+      "language": "Idris"
+    },
+    {
+      "name": "hs-conceal",
+      "repo": "https://github.com/vmchale/hs-conceal",
+      "language": "Vim Script"
+    },
+    {
+      "name": "img-fut",
+      "repo": "https://github.com/vmchale/img-fut",
+      "language": "Futhark"
+    },
+    {
+      "name": "kullback-liebler",
+      "repo": "https://github.com/vmchale/kullback-liebler",
+      "language": "Futhark"
+    },
+    {
+      "name": "ats-stats",
+      "repo": "https://github.com/vmchale/ats-stats",
+      "language": "ATS"
+    },
+    {
+      "name": "combinatorics",
+      "repo": "https://github.com/vmchale/combinatorics"
+    },
+    {
+      "name": "egison-vim",
+      "repo": "https://github.com/vmchale/egison-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "number-theory",
+      "repo": "https://github.com/vmchale/number-theory"
+    },
+    {
+      "name": "safe-bytecount",
+      "repo": "https://github.com/vmchale/safe-bytecount",
+      "language": "ATS"
+    },
+    {
+      "name": "command-line-tweeter",
+      "repo": "https://github.com/vmchale/command-line-tweeter",
+      "language": "Haskell"
+    },
+    {
+      "name": "perceptual-hash",
+      "repo": "https://github.com/vmchale/perceptual-hash",
+      "language": "J"
+    },
+    {
+      "name": "hlint-lib",
+      "repo": "https://github.com/vmchale/hlint-lib",
+      "language": "Dhall"
+    },
+    {
+      "name": "dir-traverse",
+      "repo": "https://github.com/vmchale/dir-traverse",
+      "language": "Haskell"
+    },
+    {
+      "name": "ats-codecount",
+      "repo": "https://github.com/vmchale/ats-codecount",
+      "language": "ATS"
+    },
+    {
+      "name": "spherical",
+      "repo": "https://github.com/vmchale/spherical",
+      "language": "Haskell"
+    },
+    {
+      "name": "linkedin-madlibs",
+      "repo": "https://github.com/vmchale/linkedin-madlibs",
+      "language": "Haskell"
+    },
+    {
+      "name": "recursion-schemata",
+      "repo": "https://github.com/vmchale/recursion-schemata",
+      "language": "Haskell"
+    },
+    {
+      "name": "futhark-syntastic-vim",
+      "repo": "https://github.com/vmchale/futhark-syntastic-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "linear-zipper",
+      "repo": "https://github.com/vmchale/linear-zipper",
+      "language": "ATS"
+    },
+    {
+      "name": "ipkg-vim",
+      "repo": "https://github.com/vmchale/ipkg-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "elliptic-fourier",
+      "repo": "https://github.com/vmchale/elliptic-fourier",
+      "language": "J"
+    },
+    {
+      "name": "lz-ats",
+      "repo": "https://github.com/vmchale/lz-ats",
+      "language": "ATS"
+    },
+    {
+      "name": "crc32",
+      "repo": "https://github.com/vmchale/crc32",
+      "language": "ATS"
+    },
+    {
+      "name": "phash-fut",
+      "repo": "https://github.com/vmchale/phash-fut",
+      "language": "Python"
+    },
+    {
+      "name": "pathological-bytestrings",
+      "repo": "https://github.com/vmchale/pathological-bytestrings",
+      "language": "Haskell"
+    },
+    {
+      "name": "sql-qq",
+      "repo": "https://github.com/vmchale/sql-qq",
+      "language": "Vim Script"
+    },
+    {
+      "name": "illiterate",
+      "repo": "https://github.com/vmchale/illiterate",
+      "language": "Shell"
+    },
+    {
+      "name": "monoid",
+      "repo": "https://github.com/vmchale/monoid",
+      "language": "ATS"
+    },
+    {
+      "name": "void",
+      "repo": "https://github.com/vmchale/void",
+      "language": "Dhall"
+    },
+    {
+      "name": "tibetan-utils",
+      "repo": "https://github.com/vmchale/tibetan-utils",
+      "language": "Haskell"
+    },
+    {
+      "name": "tomlcheck",
+      "repo": "https://github.com/vmchale/tomlcheck",
+      "language": "Haskell"
+    },
+    {
+      "name": "ats-wc",
+      "repo": "https://github.com/vmchale/ats-wc",
+      "language": "ATS"
+    },
+    {
+      "name": "ghci-syntax",
+      "repo": "https://github.com/vmchale/ghci-syntax",
+      "language": "Vim Script"
+    },
+    {
+      "name": "c2hs-vim",
+      "repo": "https://github.com/vmchale/c2hs-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "NonEmpty",
+      "repo": "https://github.com/vmchale/NonEmpty",
+      "language": "Dhall"
+    },
+    {
+      "name": "matrix-benchmarks",
+      "repo": "https://github.com/vmchale/matrix-benchmarks",
+      "language": "J"
+    },
+    {
+      "name": "secret-santa",
+      "repo": "https://github.com/vmchale/secret-santa",
+      "language": "J"
+    },
+    {
+      "name": "debug-dump",
+      "repo": "https://github.com/vmchale/debug-dump",
+      "language": "Haskell"
+    },
+    {
+      "name": "ats-linecount",
+      "repo": "https://github.com/vmchale/ats-linecount",
+      "language": "ATS"
+    },
+    {
+      "name": "ats-concurrency",
+      "repo": "https://github.com/vmchale/ats-concurrency",
+      "language": "ATS"
+    },
+    {
+      "name": "language-xats",
+      "repo": "https://github.com/vmchale/language-xats",
+      "language": "Haskell"
+    },
+    {
+      "name": "QR-writer",
+      "repo": "https://github.com/vmchale/QR-writer",
+      "language": "Haskell"
+    },
+    {
+      "name": "agda-lib",
+      "repo": "https://github.com/vmchale/agda-lib",
+      "language": "Vim Script"
+    },
+    {
+      "name": "madlang-vim",
+      "repo": "https://github.com/vmchale/madlang-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ats-storable",
+      "repo": "https://github.com/vmchale/ats-storable",
+      "language": "Haskell"
+    },
+    {
+      "name": "madlang-miso",
+      "repo": "https://github.com/vmchale/madlang-miso",
+      "language": "Haskell"
+    },
+    {
+      "name": "recursion_schemes",
+      "repo": "https://github.com/vmchale/recursion_schemes",
+      "language": "Idris"
+    },
+    {
+      "name": "comonad",
+      "repo": "https://github.com/vmchale/comonad",
+      "language": "Idris"
+    },
+    {
+      "name": "haskell-ats",
+      "repo": "https://github.com/vmchale/haskell-ats",
+      "language": "Haskell"
+    },
+    {
+      "name": "madlang",
+      "repo": "https://github.com/vmchale/madlang",
+      "language": "Haskell"
+    },
+    {
+      "name": "https-client",
+      "repo": "https://github.com/vmchale/https-client",
+      "language": "ATS"
+    },
+    {
+      "name": "ats-haskell",
+      "repo": "https://github.com/vmchale/ats-haskell",
+      "language": "ATS"
+    },
+    {
+      "name": "tibetan-typing",
+      "repo": "https://github.com/vmchale/tibetan-typing",
+      "language": "Elm"
+    },
+    {
+      "name": "ats-format",
+      "repo": "https://github.com/vmchale/ats-format",
+      "language": "Haskell"
+    },
+    {
+      "name": "cargo-search-vim",
+      "repo": "https://github.com/vmchale/cargo-search-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ats-benchmarks",
+      "repo": "https://github.com/vmchale/ats-benchmarks",
+      "language": "Haskell"
+    },
+    {
+      "name": "ppp",
+      "repo": "https://github.com/vmchale/ppp",
+      "language": "PureScript"
+    },
+    {
+      "name": "hask-replace-vim",
+      "repo": "https://github.com/vmchale/hask-replace-vim",
+      "language": "Vim Script"
+    }
+  ],
   "apps": []
 }

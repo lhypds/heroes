@@ -8,5 +8,505 @@
   "bio": "Software Engineer, Open Source developer and maintainer, sometimes InfoSec. Ruby, Crystal, Bash.",
   "own_repos": 118,
   "commits": 13781,
+  "repos": [
+    {
+      "name": "ruby-versions",
+      "repo": "https://github.com/postmodern/ruby-versions",
+      "language": "Shell"
+    },
+    {
+      "name": "digest-crc",
+      "repo": "https://github.com/postmodern/digest-crc",
+      "language": "C"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/postmodern/test",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-install",
+      "repo": "https://github.com/postmodern/ruby-install",
+      "language": "Shell"
+    },
+    {
+      "name": "rubygems-tasks",
+      "repo": "https://github.com/postmodern/rubygems-tasks",
+      "language": "Ruby"
+    },
+    {
+      "name": "chars.rb",
+      "repo": "https://github.com/postmodern/chars.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "ffi-libc",
+      "repo": "https://github.com/postmodern/ffi-libc",
+      "language": "Ruby"
+    },
+    {
+      "name": "combinatorics.rb",
+      "repo": "https://github.com/postmodern/combinatorics.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "cisa-kev.rb",
+      "repo": "https://github.com/postmodern/cisa-kev.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "env_ext",
+      "repo": "https://github.com/postmodern/env_ext",
+      "language": "Ruby"
+    },
+    {
+      "name": "gemspec.yml",
+      "repo": "https://github.com/postmodern/gemspec.yml",
+      "language": "Ruby"
+    },
+    {
+      "name": "yard-spellcheck",
+      "repo": "https://github.com/postmodern/yard-spellcheck",
+      "language": "Ruby"
+    },
+    {
+      "name": "wordlist.rb",
+      "repo": "https://github.com/postmodern/wordlist.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "uri-query_params",
+      "repo": "https://github.com/postmodern/uri-query_params",
+      "language": "Ruby"
+    },
+    {
+      "name": "tdiff",
+      "repo": "https://github.com/postmodern/tdiff",
+      "language": "Ruby"
+    },
+    {
+      "name": "sinatra-json",
+      "repo": "https://github.com/postmodern/sinatra-json",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-yasm",
+      "repo": "https://github.com/postmodern/ruby-yasm",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-rustscan",
+      "repo": "https://github.com/postmodern/ruby-rustscan",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-nmap",
+      "repo": "https://github.com/postmodern/ruby-nmap",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-nikto",
+      "repo": "https://github.com/postmodern/ruby-nikto",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-ncrack",
+      "repo": "https://github.com/postmodern/ruby-ncrack",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-masscan",
+      "repo": "https://github.com/postmodern/ruby-masscan",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-gobuster",
+      "repo": "https://github.com/postmodern/ruby-gobuster",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-feroxbuster",
+      "repo": "https://github.com/postmodern/ruby-feroxbuster",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-amass",
+      "repo": "https://github.com/postmodern/ruby-amass",
+      "language": "Ruby"
+    },
+    {
+      "name": "python-pickle.rb",
+      "repo": "https://github.com/postmodern/python-pickle.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "open_namespace",
+      "repo": "https://github.com/postmodern/open_namespace",
+      "language": "Ruby"
+    },
+    {
+      "name": "command_mapper-gen.rb",
+      "repo": "https://github.com/postmodern/command_mapper-gen.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "command_kit-completion",
+      "repo": "https://github.com/postmodern/command_kit-completion",
+      "language": "Ruby"
+    },
+    {
+      "name": "cvelist.rb",
+      "repo": "https://github.com/postmodern/cvelist.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "cve_schema.rb",
+      "repo": "https://github.com/postmodern/cve_schema.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "nvd-json_feeds.rb",
+      "repo": "https://github.com/postmodern/nvd-json_feeds.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "nokogiri-ext",
+      "repo": "https://github.com/postmodern/nokogiri-ext",
+      "language": "Ruby"
+    },
+    {
+      "name": "nokogiri-diff",
+      "repo": "https://github.com/postmodern/nokogiri-diff",
+      "language": "Ruby"
+    },
+    {
+      "name": "kramdown-man",
+      "repo": "https://github.com/postmodern/kramdown-man",
+      "language": "Ruby"
+    },
+    {
+      "name": "hexdump.rb",
+      "repo": "https://github.com/postmodern/hexdump.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "fake_io.rb",
+      "repo": "https://github.com/postmodern/fake_io.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "spidr",
+      "repo": "https://github.com/postmodern/spidr",
+      "language": "Ruby"
+    },
+    {
+      "name": "command_mapper.rb",
+      "repo": "https://github.com/postmodern/command_mapper.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "command_kit.rb",
+      "repo": "https://github.com/postmodern/command_kit.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "chruby",
+      "repo": "https://github.com/postmodern/chruby",
+      "language": "Shell"
+    },
+    {
+      "name": "v4l2.cr",
+      "repo": "https://github.com/postmodern/v4l2.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "ioctl.cr",
+      "repo": "https://github.com/postmodern/ioctl.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "example-activerecord-lib",
+      "repo": "https://github.com/postmodern/example-activerecord-lib",
+      "language": "Ruby"
+    },
+    {
+      "name": "postmodern.github.io",
+      "repo": "https://github.com/postmodern/postmodern.github.io",
+      "url": "https://postmodern.github.io",
+      "language": "CSS"
+    },
+    {
+      "name": "net-http-server",
+      "repo": "https://github.com/postmodern/net-http-server",
+      "language": "Ruby"
+    },
+    {
+      "name": "allinfosecnews2opml",
+      "repo": "https://github.com/postmodern/allinfosecnews2opml",
+      "language": "Ruby"
+    },
+    {
+      "name": "phishing-training-sigs",
+      "repo": "https://github.com/postmodern/phishing-training-sigs"
+    },
+    {
+      "name": "postmodern",
+      "repo": "https://github.com/postmodern/postmodern"
+    },
+    {
+      "name": "ffi-hunspell",
+      "repo": "https://github.com/postmodern/ffi-hunspell",
+      "language": "Ruby"
+    },
+    {
+      "name": "ffi-exif",
+      "repo": "https://github.com/postmodern/ffi-exif",
+      "language": "Ruby"
+    },
+    {
+      "name": "ffi-pcap",
+      "repo": "https://github.com/postmodern/ffi-pcap",
+      "language": "Ruby"
+    },
+    {
+      "name": "chars.cr",
+      "repo": "https://github.com/postmodern/chars.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "ruby-cli-boilerplate",
+      "repo": "https://github.com/postmodern/ruby-cli-boilerplate",
+      "language": "Ruby"
+    },
+    {
+      "name": "rprogram",
+      "repo": "https://github.com/postmodern/rprogram",
+      "language": "Ruby"
+    },
+    {
+      "name": "npm_scan",
+      "repo": "https://github.com/postmodern/npm_scan",
+      "language": "Crystal"
+    },
+    {
+      "name": "ffi-udis86",
+      "repo": "https://github.com/postmodern/ffi-udis86",
+      "language": "Ruby"
+    },
+    {
+      "name": "gem_home",
+      "repo": "https://github.com/postmodern/gem_home",
+      "language": "Shell"
+    },
+    {
+      "name": "ffi-extractor",
+      "repo": "https://github.com/postmodern/ffi-extractor",
+      "language": "Ruby"
+    },
+    {
+      "name": "extractor.cr",
+      "repo": "https://github.com/postmodern/extractor.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "mruby-embed",
+      "repo": "https://github.com/postmodern/mruby-embed",
+      "language": "Ruby"
+    },
+    {
+      "name": "test-github-macos-and-shunit2",
+      "repo": "https://github.com/postmodern/test-github-macos-and-shunit2",
+      "language": "Shell"
+    },
+    {
+      "name": "pix_fmt.cr",
+      "repo": "https://github.com/postmodern/pix_fmt.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "hunspell.cr",
+      "repo": "https://github.com/postmodern/hunspell.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "crystal-crc",
+      "repo": "https://github.com/postmodern/crystal-crc",
+      "language": "Crystal"
+    },
+    {
+      "name": "udis86.cr",
+      "repo": "https://github.com/postmodern/udis86.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "raingrams",
+      "repo": "https://github.com/postmodern/raingrams",
+      "language": "Ruby"
+    },
+    {
+      "name": "ffi-http-parser",
+      "repo": "https://github.com/postmodern/ffi-http-parser",
+      "language": "Ruby"
+    },
+    {
+      "name": "ffi-msgpack",
+      "repo": "https://github.com/postmodern/ffi-msgpack",
+      "language": "Ruby"
+    },
+    {
+      "name": "cinch-commands",
+      "repo": "https://github.com/postmodern/cinch-commands",
+      "language": "Ruby"
+    },
+    {
+      "name": "multi_markdown",
+      "repo": "https://github.com/postmodern/multi_markdown",
+      "language": "Ruby"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/postmodern/.github"
+    },
+    {
+      "name": "zcow",
+      "repo": "https://github.com/postmodern/zcow",
+      "language": "Shell"
+    },
+    {
+      "name": "dm-types-legacy",
+      "repo": "https://github.com/postmodern/dm-types-legacy",
+      "language": "Ruby"
+    },
+    {
+      "name": "yard-parameters",
+      "repo": "https://github.com/postmodern/yard-parameters",
+      "language": "Ruby"
+    },
+    {
+      "name": "yard-dm",
+      "repo": "https://github.com/postmodern/yard-dm",
+      "language": "Ruby"
+    },
+    {
+      "name": "yard-contextify",
+      "repo": "https://github.com/postmodern/yard-contextify",
+      "language": "Ruby"
+    },
+    {
+      "name": "yard-dm-is-predefined",
+      "repo": "https://github.com/postmodern/yard-dm-is-predefined",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-visualizer",
+      "repo": "https://github.com/postmodern/dm-visualizer",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-is-indexed",
+      "repo": "https://github.com/postmodern/dm-is-indexed",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-is-counter_cacheable",
+      "repo": "https://github.com/postmodern/dm-is-counter_cacheable",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-is-predefined",
+      "repo": "https://github.com/postmodern/dm-is-predefined",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-chunked_query",
+      "repo": "https://github.com/postmodern/dm-chunked_query",
+      "language": "Ruby"
+    },
+    {
+      "name": "mina-padrino",
+      "repo": "https://github.com/postmodern/mina-padrino",
+      "language": "Ruby"
+    },
+    {
+      "name": "wsoc",
+      "repo": "https://github.com/postmodern/wsoc",
+      "language": "Ruby"
+    },
+    {
+      "name": "hoe-yard",
+      "repo": "https://github.com/postmodern/hoe-yard",
+      "language": "Ruby"
+    },
+    {
+      "name": "chgems",
+      "repo": "https://github.com/postmodern/chgems",
+      "language": "Shell"
+    },
+    {
+      "name": "ncurses-readline-rs",
+      "repo": "https://github.com/postmodern/ncurses-readline-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "ffi-bit_masks",
+      "repo": "https://github.com/postmodern/ffi-bit_masks",
+      "language": "Ruby"
+    },
+    {
+      "name": "stm32f429i-discovery",
+      "repo": "https://github.com/postmodern/stm32f429i-discovery",
+      "language": "C"
+    },
+    {
+      "name": "mruby-json-rpc",
+      "repo": "https://github.com/postmodern/mruby-json-rpc",
+      "language": "Ruby"
+    },
+    {
+      "name": "yard-bond",
+      "repo": "https://github.com/postmodern/yard-bond",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-is-checksumed",
+      "repo": "https://github.com/postmodern/dm-is-checksumed",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-is-authenticatable",
+      "repo": "https://github.com/postmodern/dm-is-authenticatable",
+      "language": "Ruby"
+    },
+    {
+      "name": "dm-bug-report",
+      "repo": "https://github.com/postmodern/dm-bug-report",
+      "language": "Ruby"
+    },
+    {
+      "name": "parameters",
+      "repo": "https://github.com/postmodern/parameters",
+      "language": "Ruby"
+    },
+    {
+      "name": "pullr",
+      "repo": "https://github.com/postmodern/pullr",
+      "language": "Ruby"
+    },
+    {
+      "name": "ripl-shell_commands",
+      "repo": "https://github.com/postmodern/ripl-shell_commands",
+      "language": "Ruby"
+    },
+    {
+      "name": "flv-dl",
+      "repo": "https://github.com/postmodern/flv-dl",
+      "language": "Ruby"
+    },
+    {
+      "name": "deployml",
+      "repo": "https://github.com/postmodern/deployml",
+      "language": "Ruby"
+    }
+  ],
   "apps": []
 }

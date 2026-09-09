@@ -8,5 +8,538 @@
   "bio": "🇫🇷 👨🏻‍💻 living in 🇧🇷",
   "own_repos": 102,
   "commits": 12368,
+  "repos": [
+    {
+      "name": "GuillaumeFalourd",
+      "repo": "https://github.com/GuillaumeFalourd/GuillaumeFalourd",
+      "url": "https://dev.to/guifalourd/step-by-step-to-create-a-readme-for-your-github-profile-1i0g"
+    },
+    {
+      "name": "useful-actions",
+      "repo": "https://github.com/GuillaumeFalourd/useful-actions",
+      "url": "https://github.com/marketplace?type=actions",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "poc-github-actions",
+      "repo": "https://github.com/GuillaumeFalourd/poc-github-actions",
+      "language": "Python"
+    },
+    {
+      "name": "git-commit-push",
+      "repo": "https://github.com/GuillaumeFalourd/git-commit-push",
+      "url": "https://github.com/marketplace/actions/git-commit-push-action"
+    },
+    {
+      "name": "stackspot-ai-rqc",
+      "repo": "https://github.com/GuillaumeFalourd/stackspot-ai-rqc",
+      "url": "https://ai.stackspot.com/",
+      "language": "Python"
+    },
+    {
+      "name": "stackspot-ai-security-action-poc",
+      "repo": "https://github.com/GuillaumeFalourd/stackspot-ai-security-action-poc",
+      "url": "https://ai.stackspot.com/",
+      "language": "Python"
+    },
+    {
+      "name": "poc-cicd-herokuci",
+      "repo": "https://github.com/GuillaumeFalourd/poc-cicd-herokuci",
+      "url": "https://dev.to/mwanjemike/build-a-ci-cd-pipeline-with-heroku-ci-3de9",
+      "language": "JavaScript"
+    },
+    {
+      "name": "formulas-python",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-python",
+      "url": "https://ritchiecli.io",
+      "language": "Python"
+    },
+    {
+      "name": "poc-bank-api-java",
+      "repo": "https://github.com/GuillaumeFalourd/poc-bank-api-java",
+      "language": "Java"
+    },
+    {
+      "name": "poc-typescript",
+      "repo": "https://github.com/GuillaumeFalourd/poc-typescript",
+      "language": "TypeScript"
+    },
+    {
+      "name": "poc-subprocess",
+      "repo": "https://github.com/GuillaumeFalourd/poc-subprocess",
+      "url": "https://docs.python.org/3/library/subprocess.html",
+      "language": "Python"
+    },
+    {
+      "name": "repositories-reports",
+      "repo": "https://github.com/GuillaumeFalourd/repositories-reports",
+      "url": "https://github.com/GuillaumeFalourd/formulas-github"
+    },
+    {
+      "name": "setup-windows10-sdk-action",
+      "repo": "https://github.com/GuillaumeFalourd/setup-windows10-sdk-action",
+      "url": "https://github.com/fbactions/setup-winsdk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "developers-tips-and-tricks-resources",
+      "repo": "https://github.com/GuillaumeFalourd/developers-tips-and-tricks-resources"
+    },
+    {
+      "name": "branch-exists",
+      "repo": "https://github.com/GuillaumeFalourd/branch-exists"
+    },
+    {
+      "name": "copy-push-files",
+      "repo": "https://github.com/GuillaumeFalourd/copy-push-files",
+      "url": "https://github.com/marketplace/actions/copy-push-files-action"
+    },
+    {
+      "name": "poc-grpc-golang",
+      "repo": "https://github.com/GuillaumeFalourd/poc-grpc-golang",
+      "url": "https://grpc.io/docs/languages/go/quickstart/",
+      "language": "Go"
+    },
+    {
+      "name": "formulas-gRPC",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-gRPC",
+      "language": "Java"
+    },
+    {
+      "name": "poc-rest-api-python",
+      "repo": "https://github.com/GuillaumeFalourd/poc-rest-api-python",
+      "url": "https://blog.miguelgrinberg.com",
+      "language": "Python"
+    },
+    {
+      "name": "desafio-hackathon-zup-byte",
+      "repo": "https://github.com/GuillaumeFalourd/desafio-hackathon-zup-byte",
+      "language": "Java"
+    },
+    {
+      "name": "it-governance-api",
+      "repo": "https://github.com/GuillaumeFalourd/it-governance-api",
+      "language": "HTML"
+    },
+    {
+      "name": "poc-grpc-java-maven",
+      "repo": "https://github.com/GuillaumeFalourd/poc-grpc-java-maven",
+      "url": "https://grpc.io/",
+      "language": "Java"
+    },
+    {
+      "name": "java-exercices",
+      "repo": "https://github.com/GuillaumeFalourd/java-exercices",
+      "language": "Java"
+    },
+    {
+      "name": "stackspot-actions",
+      "repo": "https://github.com/GuillaumeFalourd/stackspot-actions",
+      "url": "https://docs.stackspot.com/en/create-use/create-content/action/actions",
+      "language": "Python"
+    },
+    {
+      "name": "convert-json-to-env",
+      "repo": "https://github.com/GuillaumeFalourd/convert-json-to-env",
+      "url": "https://github.com/marketplace/actions/convert-json-to-env",
+      "language": "Python"
+    },
+    {
+      "name": "poc-kubernetes",
+      "repo": "https://github.com/GuillaumeFalourd/poc-kubernetes",
+      "language": "Python"
+    },
+    {
+      "name": "idea-maze",
+      "repo": "https://github.com/GuillaumeFalourd/idea-maze",
+      "language": "JavaScript"
+    },
+    {
+      "name": "assert-command-line-output",
+      "repo": "https://github.com/GuillaumeFalourd/assert-command-line-output",
+      "url": "https://github.com/marketplace/actions/assert-command-line-output"
+    },
+    {
+      "name": "pull-request-action",
+      "repo": "https://github.com/GuillaumeFalourd/pull-request-action",
+      "url": "https://github.com/marketplace/actions/pull-request-action-github-cli"
+    },
+    {
+      "name": "poc-pytest-split-github-actions",
+      "repo": "https://github.com/GuillaumeFalourd/poc-pytest-split-github-actions",
+      "language": "Python"
+    },
+    {
+      "name": "formulas-4-tests",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-4-tests",
+      "url": "https://ritchiecli.io/",
+      "language": "Makefile"
+    },
+    {
+      "name": "sign-and-notarize-gha",
+      "repo": "https://github.com/GuillaumeFalourd/sign-and-notarize-gha"
+    },
+    {
+      "name": "clone-github-repo-action",
+      "repo": "https://github.com/GuillaumeFalourd/clone-github-repo-action",
+      "url": "https://github.com/marketplace/actions/clone-github-repo-action"
+    },
+    {
+      "name": "stackspot-plugins",
+      "repo": "https://github.com/GuillaumeFalourd/stackspot-plugins",
+      "url": "https://v1.stackspot.com/",
+      "language": "HCL"
+    },
+    {
+      "name": "setup-rsync",
+      "repo": "https://github.com/GuillaumeFalourd/setup-rsync",
+      "url": "https://github.com/marketplace/actions/setup-rsync"
+    },
+    {
+      "name": "write-java-properties-file",
+      "repo": "https://github.com/GuillaumeFalourd/write-java-properties-file",
+      "language": "Shell"
+    },
+    {
+      "name": "github-team-members",
+      "repo": "https://github.com/GuillaumeFalourd/github-team-members"
+    },
+    {
+      "name": "kotlin-training-api",
+      "repo": "https://github.com/GuillaumeFalourd/kotlin-training-api",
+      "language": "Kotlin"
+    },
+    {
+      "name": "aws-ecs-cluster-using-terraform",
+      "repo": "https://github.com/GuillaumeFalourd/aws-ecs-cluster-using-terraform",
+      "language": "HCL"
+    },
+    {
+      "name": "replace-values-action",
+      "repo": "https://github.com/GuillaumeFalourd/replace-values-action",
+      "url": "https://github.com/marketplace/actions/replace-value-s",
+      "language": "Shell"
+    },
+    {
+      "name": "notary-tools",
+      "repo": "https://github.com/GuillaumeFalourd/notary-tools",
+      "url": "https://github.com/marketplace/actions/notary-tools"
+    },
+    {
+      "name": "poc-remote-workflow",
+      "repo": "https://github.com/GuillaumeFalourd/poc-remote-workflow"
+    },
+    {
+      "name": "formulas-github",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-github",
+      "url": "https://ritchiecli.io",
+      "language": "Python"
+    },
+    {
+      "name": "command-output-file-action",
+      "repo": "https://github.com/GuillaumeFalourd/command-output-file-action"
+    },
+    {
+      "name": "poc-cli-golang",
+      "repo": "https://github.com/GuillaumeFalourd/poc-cli-golang",
+      "url": "https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177",
+      "language": "Go"
+    },
+    {
+      "name": "formulas-aws",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-aws",
+      "language": "Go"
+    },
+    {
+      "name": "stk-cli-action-poc",
+      "repo": "https://github.com/GuillaumeFalourd/stk-cli-action-poc",
+      "url": "https://www.stackspot.com/"
+    },
+    {
+      "name": "create-other-repo-branch-action",
+      "repo": "https://github.com/GuillaumeFalourd/create-other-repo-branch-action",
+      "url": "https://github.com/marketplace/actions/create-other-repo-branch-action"
+    },
+    {
+      "name": "java-training-api",
+      "repo": "https://github.com/GuillaumeFalourd/java-training-api",
+      "language": "Java"
+    },
+    {
+      "name": "docker-mysql-python",
+      "repo": "https://github.com/GuillaumeFalourd/docker-mysql-python",
+      "url": "https://www.zup.com.br/blog/docker-na-pratica",
+      "language": "Python"
+    },
+    {
+      "name": "poc-cli-translations",
+      "repo": "https://github.com/GuillaumeFalourd/poc-cli-translations",
+      "language": "Python"
+    },
+    {
+      "name": "github-stack",
+      "repo": "https://github.com/GuillaumeFalourd/github-stack",
+      "url": "https://www.stackspot.com/",
+      "language": "Python"
+    },
+    {
+      "name": "poc-encryption-jwt",
+      "repo": "https://github.com/GuillaumeFalourd/poc-encryption-jwt",
+      "url": "https://pyjwt.readthedocs.io/en/latest/",
+      "language": "Python"
+    },
+    {
+      "name": "ritchie-templates-perso",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-templates-perso",
+      "url": "https://ritchiecli.io",
+      "language": "Makefile"
+    },
+    {
+      "name": "repo-template",
+      "repo": "https://github.com/GuillaumeFalourd/repo-template",
+      "url": "https://docs.github.com/en/rest/reference/repos#create-a-repository-using-a-template"
+    },
+    {
+      "name": "wait-sleep-action",
+      "repo": "https://github.com/GuillaumeFalourd/wait-sleep-action",
+      "url": "https://github.com/marketplace/actions/wait-sleep-action"
+    },
+    {
+      "name": "stk-quickstart-golang",
+      "repo": "https://github.com/GuillaumeFalourd/stk-quickstart-golang",
+      "language": "Go"
+    },
+    {
+      "name": "djangowallet",
+      "repo": "https://github.com/GuillaumeFalourd/djangowallet",
+      "url": "https://stackoverflow.com/questions/71326298/pytest-github-action-failed-in-django-rest-api-project?noredirect=1#comment126076675_71326298",
+      "language": "Python"
+    },
+    {
+      "name": "bot-area",
+      "repo": "https://github.com/GuillaumeFalourd/bot-area",
+      "language": "Python"
+    },
+    {
+      "name": "repo1",
+      "repo": "https://github.com/GuillaumeFalourd/repo1",
+      "url": "https://stackoverflow.com/questions/70607932/github-actions-push-to-remote-repo?noredirect=1#comment124824204_70607932"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/GuillaumeFalourd/test",
+      "url": "https://stackoverflow.com/questions/70607932/github-actions-push-to-remote-repo?noredirect=1#comment124824204_70607932"
+    },
+    {
+      "name": "github_actions_test",
+      "repo": "https://github.com/GuillaumeFalourd/github_actions_test"
+    },
+    {
+      "name": "poc-pyinstaller",
+      "repo": "https://github.com/GuillaumeFalourd/poc-pyinstaller",
+      "language": "Python"
+    },
+    {
+      "name": "webhooks-python",
+      "repo": "https://github.com/GuillaumeFalourd/webhooks-python",
+      "url": "https://devopslifecycle.com/",
+      "language": "Python"
+    },
+    {
+      "name": "poc-cli-python",
+      "repo": "https://github.com/GuillaumeFalourd/poc-cli-python",
+      "url": "https://click.palletsprojects.com/en/8.0.x/api/",
+      "language": "Python"
+    },
+    {
+      "name": "Kivy_calculator",
+      "repo": "https://github.com/GuillaumeFalourd/Kivy_calculator",
+      "language": "Python"
+    },
+    {
+      "name": "guillaumefalourd.github.io",
+      "repo": "https://github.com/GuillaumeFalourd/guillaumefalourd.github.io",
+      "url": "https://guillaumefalourd.github.io/",
+      "language": "Ruby"
+    },
+    {
+      "name": "SSH-to-HTTPS",
+      "repo": "https://github.com/GuillaumeFalourd/SSH-to-HTTPS"
+    },
+    {
+      "name": "poc-template-rest",
+      "repo": "https://github.com/GuillaumeFalourd/poc-template-rest",
+      "language": "Go"
+    },
+    {
+      "name": "formulas-v3",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-v3",
+      "language": "Python"
+    },
+    {
+      "name": "open-issue-action",
+      "repo": "https://github.com/GuillaumeFalourd/open-issue-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "aws-clis-action",
+      "repo": "https://github.com/GuillaumeFalourd/aws-clis-action",
+      "language": "Shell"
+    },
+    {
+      "name": "ritchie-cli-action",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-cli-action",
+      "url": "https://ritchiecli.io"
+    },
+    {
+      "name": "formulas-games",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-games",
+      "url": "https://ritchiecli.io",
+      "language": "Python"
+    },
+    {
+      "name": "poc-proto",
+      "repo": "https://github.com/GuillaumeFalourd/poc-proto"
+    },
+    {
+      "name": "ritchie-templates",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-templates",
+      "url": "https://ritchiecli.io",
+      "language": "Shell"
+    },
+    {
+      "name": "poc-viper",
+      "repo": "https://github.com/GuillaumeFalourd/poc-viper",
+      "url": "https://github.com/spf13/viper",
+      "language": "Go"
+    },
+    {
+      "name": "poc-grpc-java-gradle",
+      "repo": "https://github.com/GuillaumeFalourd/poc-grpc-java-gradle",
+      "url": "https://grpc.io/",
+      "language": "Java"
+    },
+    {
+      "name": "poc-grpc-python",
+      "repo": "https://github.com/GuillaumeFalourd/poc-grpc-python",
+      "url": "https://grpc.io/",
+      "language": "Python"
+    },
+    {
+      "name": "java-trilha-basica",
+      "repo": "https://github.com/GuillaumeFalourd/java-trilha-basica"
+    },
+    {
+      "name": "ritchie-formulas-scheduler-demo",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-formulas-scheduler-demo"
+    },
+    {
+      "name": "diff-action",
+      "repo": "https://github.com/GuillaumeFalourd/diff-action"
+    },
+    {
+      "name": "formulas-insights",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-insights",
+      "url": "https://ritchiecli.io",
+      "language": "Python"
+    },
+    {
+      "name": "poc-book-api-golang",
+      "repo": "https://github.com/GuillaumeFalourd/poc-book-api-golang",
+      "language": "Go"
+    },
+    {
+      "name": "poc-rest-api-golang",
+      "repo": "https://github.com/GuillaumeFalourd/poc-rest-api-golang",
+      "language": "Go"
+    },
+    {
+      "name": "formulas-pontomais",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-pontomais",
+      "url": "https://ritchiecli.io",
+      "language": "Go"
+    },
+    {
+      "name": "ritchie-demo-create-cluster",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-demo-create-cluster",
+      "url": "https://github.com/GuillaumeFalourd/formulas-aws",
+      "language": "HCL"
+    },
+    {
+      "name": "ritchie-action-node",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-action-node",
+      "url": "https://ritchiecli.io/",
+      "language": "Shell"
+    },
+    {
+      "name": "ritchie-action-python",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-action-python",
+      "url": "https://ritchiecli.io/",
+      "language": "Shell"
+    },
+    {
+      "name": "ritchie-action-shell",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-action-shell",
+      "url": "https://ritchiecli.io/",
+      "language": "Shell"
+    },
+    {
+      "name": "ritchie-action-java-8",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-action-java-8",
+      "url": "https://ritchiecli.io/",
+      "language": "Shell"
+    },
+    {
+      "name": "ritchie-action-go-15",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-action-go-15",
+      "url": "https://ritchiecli.io/",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "maven-cli-jdks-action",
+      "repo": "https://github.com/GuillaumeFalourd/maven-cli-jdks-action",
+      "url": "https://github.com/marketplace/actions/maven-cli-jdks-action",
+      "language": "Shell"
+    },
+    {
+      "name": "poc-go-mod",
+      "repo": "https://github.com/GuillaumeFalourd/poc-go-mod",
+      "url": "https://golang.org/doc/tutorial/create-module",
+      "language": "Go"
+    },
+    {
+      "name": "formulas-office-hours",
+      "repo": "https://github.com/GuillaumeFalourd/formulas-office-hours",
+      "url": "https://ritchieclio.io",
+      "language": "Makefile"
+    },
+    {
+      "name": "poc-composite-run-steps-action",
+      "repo": "https://github.com/GuillaumeFalourd/poc-composite-run-steps-action",
+      "url": "https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action",
+      "language": "Shell"
+    },
+    {
+      "name": "poc-chalice-python",
+      "repo": "https://github.com/GuillaumeFalourd/poc-chalice-python",
+      "language": "Python"
+    },
+    {
+      "name": "poc-django-python",
+      "repo": "https://github.com/GuillaumeFalourd/poc-django-python",
+      "url": "https://docs.djangoproject.com/en/3.1/",
+      "language": "Python"
+    },
+    {
+      "name": "poc-kafka-python",
+      "repo": "https://github.com/GuillaumeFalourd/poc-kafka-python",
+      "language": "Python"
+    },
+    {
+      "name": "ritchie-docker-images",
+      "repo": "https://github.com/GuillaumeFalourd/ritchie-docker-images",
+      "language": "Dockerfile"
+    }
+  ],
   "apps": []
 }

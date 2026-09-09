@@ -8,5 +8,512 @@
   "bio": "Long-time Golang user&contributor, Google Dev Expert for Go, and author of many Go tools, Vim plugin author. Windows hacker C#/Java/C/C++, ex-GitHubStars",
   "own_repos": 1154,
   "commits": 11238,
+  "repos": [
+    {
+      "name": "ocaml-nostr-relay",
+      "repo": "https://github.com/mattn/ocaml-nostr-relay",
+      "language": "OCaml"
+    },
+    {
+      "name": "nostr-relay",
+      "repo": "https://github.com/mattn/nostr-relay",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-buzzword",
+      "repo": "https://github.com/mattn/nostr-buzzword",
+      "url": "https://nostter.app/buzzword@compile-error.net",
+      "language": "Go"
+    },
+    {
+      "name": "mattn.qzz.io",
+      "repo": "https://github.com/mattn/mattn.qzz.io"
+    },
+    {
+      "name": "casanostr",
+      "repo": "https://github.com/mattn/casanostr",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-nostr-relay",
+      "repo": "https://github.com/mattn/moonbit-nostr-relay",
+      "language": "MoonBit"
+    },
+    {
+      "name": "perl-nostr-relay",
+      "repo": "https://github.com/mattn/perl-nostr-relay",
+      "language": "Perl"
+    },
+    {
+      "name": "ruby-nostr-relay",
+      "repo": "https://github.com/mattn/ruby-nostr-relay",
+      "language": "Ruby"
+    },
+    {
+      "name": "clask",
+      "repo": "https://github.com/mattn/clask",
+      "language": "C++"
+    },
+    {
+      "name": "cagliostr",
+      "repo": "https://github.com/mattn/cagliostr",
+      "language": "C++"
+    },
+    {
+      "name": "feed2nostr",
+      "repo": "https://github.com/mattn/feed2nostr",
+      "language": "Go"
+    },
+    {
+      "name": "lua-nostr-relay",
+      "repo": "https://github.com/mattn/lua-nostr-relay",
+      "language": "Lua"
+    },
+    {
+      "name": "lisp-nostr-relay",
+      "repo": "https://github.com/mattn/lisp-nostr-relay",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "zig-nostr-relay",
+      "repo": "https://github.com/mattn/zig-nostr-relay",
+      "language": "Zig"
+    },
+    {
+      "name": "crystal-nostr-relay",
+      "repo": "https://github.com/mattn/crystal-nostr-relay",
+      "language": "Crystal"
+    },
+    {
+      "name": "nim-nostr-relay",
+      "repo": "https://github.com/mattn/nim-nostr-relay",
+      "language": "Nim"
+    },
+    {
+      "name": "mruby-nostr-relay",
+      "repo": "https://github.com/mattn/mruby-nostr-relay",
+      "language": "Ruby"
+    },
+    {
+      "name": "go-sqlite3",
+      "repo": "https://github.com/mattn/go-sqlite3",
+      "language": "C"
+    },
+    {
+      "name": "vim-lsp-settings",
+      "repo": "https://github.com/mattn/vim-lsp-settings",
+      "language": "Vim Script"
+    },
+    {
+      "name": "clask.compile-error.net",
+      "repo": "https://github.com/mattn/clask.compile-error.net",
+      "language": "HTML"
+    },
+    {
+      "name": "tensai",
+      "repo": "https://github.com/mattn/tensai",
+      "url": "https://mattn.github.io/tensai/",
+      "language": "Go"
+    },
+    {
+      "name": "go-runewidth",
+      "repo": "https://github.com/mattn/go-runewidth",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-hotpostrank",
+      "repo": "https://github.com/mattn/nostr-hotpostrank",
+      "language": "Go"
+    },
+    {
+      "name": "vim9script-logistic-regression-iris",
+      "repo": "https://github.com/mattn/vim9script-logistic-regression-iris",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vimscript-logistic-regression-iris",
+      "repo": "https://github.com/mattn/vimscript-logistic-regression-iris",
+      "language": "Vim Script"
+    },
+    {
+      "name": "llm-lsp",
+      "repo": "https://github.com/mattn/llm-lsp",
+      "language": "Go"
+    },
+    {
+      "name": "vim-findroot",
+      "repo": "https://github.com/mattn/vim-findroot",
+      "language": "Vim Script"
+    },
+    {
+      "name": "tualgia",
+      "repo": "https://github.com/mattn/tualgia",
+      "language": "Go"
+    },
+    {
+      "name": "bsky",
+      "repo": "https://github.com/mattn/bsky",
+      "url": "https://bsky.app",
+      "language": "Go"
+    },
+    {
+      "name": "go-tflite",
+      "repo": "https://github.com/mattn/go-tflite",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "tinytinyhttpd",
+      "repo": "https://github.com/mattn/tinytinyhttpd",
+      "language": "C++"
+    },
+    {
+      "name": "cho",
+      "repo": "https://github.com/mattn/cho",
+      "language": "Go"
+    },
+    {
+      "name": "vim-supertabpanel",
+      "repo": "https://github.com/mattn/vim-supertabpanel",
+      "language": "Vim Script"
+    },
+    {
+      "name": "go-mnist-tflite",
+      "repo": "https://github.com/mattn/go-mnist-tflite",
+      "language": "Go"
+    },
+    {
+      "name": "go-kuzushiji-tflite",
+      "repo": "https://github.com/mattn/go-kuzushiji-tflite",
+      "language": "Go"
+    },
+    {
+      "name": "go-bungo-tflite",
+      "repo": "https://github.com/mattn/go-bungo-tflite",
+      "language": "Go"
+    },
+    {
+      "name": "go-sazae-tflite",
+      "repo": "https://github.com/mattn/go-sazae-tflite",
+      "language": "Go"
+    },
+    {
+      "name": "go-iris-tflite",
+      "repo": "https://github.com/mattn/go-iris-tflite",
+      "language": "Go"
+    },
+    {
+      "name": "go-yes",
+      "repo": "https://github.com/mattn/go-yes",
+      "language": "Go"
+    },
+    {
+      "name": "zig-yes",
+      "repo": "https://github.com/mattn/zig-yes",
+      "language": "Zig"
+    },
+    {
+      "name": "go-kani-tflite",
+      "repo": "https://github.com/mattn/go-kani-tflite",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-image-bot",
+      "repo": "https://github.com/mattn/nostr-image-bot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-fizzbuzz-tflite",
+      "repo": "https://github.com/mattn/go-fizzbuzz-tflite",
+      "language": "Go"
+    },
+    {
+      "name": "twty",
+      "repo": "https://github.com/mattn/twty",
+      "url": "https://mattn.kaoriya.net/",
+      "language": "Go"
+    },
+    {
+      "name": "buzz-runbot",
+      "repo": "https://github.com/mattn/buzz-runbot",
+      "language": "Go"
+    },
+    {
+      "name": "algia",
+      "repo": "https://github.com/mattn/algia",
+      "language": "Go"
+    },
+    {
+      "name": "vim-goimports",
+      "repo": "https://github.com/mattn/vim-goimports",
+      "language": "Vim Script"
+    },
+    {
+      "name": "compile-error.net",
+      "repo": "https://github.com/mattn/compile-error.net",
+      "language": "HTML"
+    },
+    {
+      "name": "mruby-tflite",
+      "repo": "https://github.com/mattn/mruby-tflite",
+      "language": "C"
+    },
+    {
+      "name": "orelang",
+      "repo": "https://github.com/mattn/orelang",
+      "language": "C"
+    },
+    {
+      "name": "http-server",
+      "repo": "https://github.com/mattn/http-server",
+      "language": "C"
+    },
+    {
+      "name": "buzz-huddle",
+      "repo": "https://github.com/mattn/buzz-huddle",
+      "language": "Go"
+    },
+    {
+      "name": "git-remote-s3",
+      "repo": "https://github.com/mattn/git-remote-s3",
+      "language": "Go"
+    },
+    {
+      "name": "zig-lisp",
+      "repo": "https://github.com/mattn/zig-lisp",
+      "language": "Zig"
+    },
+    {
+      "name": "go-isatty",
+      "repo": "https://github.com/mattn/go-isatty",
+      "language": "Go"
+    },
+    {
+      "name": "space-nostr",
+      "repo": "https://github.com/mattn/space-nostr",
+      "language": "HTML"
+    },
+    {
+      "name": "cloudflare-nostr-nullpoga",
+      "repo": "https://github.com/mattn/cloudflare-nostr-nullpoga",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cisp",
+      "repo": "https://github.com/mattn/cisp",
+      "language": "C"
+    },
+    {
+      "name": "sudo",
+      "repo": "https://github.com/mattn/sudo",
+      "language": "Go"
+    },
+    {
+      "name": "go-mastodon",
+      "repo": "https://github.com/mattn/go-mastodon",
+      "language": "Go"
+    },
+    {
+      "name": "go-adodb",
+      "repo": "https://github.com/mattn/go-adodb",
+      "language": "Go"
+    },
+    {
+      "name": "go-shellwords",
+      "repo": "https://github.com/mattn/go-shellwords",
+      "language": "Go"
+    },
+    {
+      "name": "docx2md",
+      "repo": "https://github.com/mattn/docx2md",
+      "language": "Go"
+    },
+    {
+      "name": "anko",
+      "repo": "https://github.com/mattn/anko",
+      "language": "Go"
+    },
+    {
+      "name": "go-oci8",
+      "repo": "https://github.com/mattn/go-oci8",
+      "url": "https://mattn.kaoriya.net/",
+      "language": "Go"
+    },
+    {
+      "name": "efm-langserver",
+      "repo": "https://github.com/mattn/efm-langserver",
+      "language": "Go"
+    },
+    {
+      "name": "goreman",
+      "repo": "https://github.com/mattn/goreman",
+      "language": "Go"
+    },
+    {
+      "name": "goemon",
+      "repo": "https://github.com/mattn/goemon",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-coinchart",
+      "repo": "https://github.com/mattn/nostr-coinchart",
+      "language": "Go"
+    },
+    {
+      "name": "go-sixel",
+      "repo": "https://github.com/mattn/go-sixel",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-cxx-bot",
+      "repo": "https://github.com/mattn/nostr-cxx-bot",
+      "language": "C++"
+    },
+    {
+      "name": "javalin-todoapp",
+      "repo": "https://github.com/mattn/javalin-todoapp",
+      "language": "Java"
+    },
+    {
+      "name": "go127-jsonv2-benchmark",
+      "repo": "https://github.com/mattn/go127-jsonv2-benchmark",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-status-lastfm",
+      "repo": "https://github.com/mattn/nostr-status-lastfm",
+      "language": "Go"
+    },
+    {
+      "name": "longcat",
+      "repo": "https://github.com/mattn/longcat",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-id",
+      "repo": "https://github.com/mattn/nostr-id",
+      "language": "Go"
+    },
+    {
+      "name": "mruby-onig-regexp",
+      "repo": "https://github.com/mattn/mruby-onig-regexp",
+      "language": "C"
+    },
+    {
+      "name": "nostr-nsite-server",
+      "repo": "https://github.com/mattn/nostr-nsite-server",
+      "language": "Go"
+    },
+    {
+      "name": "go-tty",
+      "repo": "https://github.com/mattn/go-tty",
+      "language": "Go"
+    },
+    {
+      "name": "tate",
+      "repo": "https://github.com/mattn/tate",
+      "language": "Go"
+    },
+    {
+      "name": "go127-structliteral-example",
+      "repo": "https://github.com/mattn/go127-structliteral-example",
+      "language": "Go"
+    },
+    {
+      "name": "go127-cutlast-example",
+      "repo": "https://github.com/mattn/go127-cutlast-example",
+      "language": "Go"
+    },
+    {
+      "name": "go127-jsonv2-example",
+      "repo": "https://github.com/mattn/go127-jsonv2-example",
+      "language": "Go"
+    },
+    {
+      "name": "go127-uuid-example",
+      "repo": "https://github.com/mattn/go127-uuid-example",
+      "language": "Go"
+    },
+    {
+      "name": "go127-genericmethods-example",
+      "repo": "https://github.com/mattn/go127-genericmethods-example",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-saizeriya-gacha",
+      "repo": "https://github.com/mattn/nostr-saizeriya-gacha",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-haikubot",
+      "repo": "https://github.com/mattn/nostr-haikubot",
+      "language": "Go"
+    },
+    {
+      "name": "go-haiku",
+      "repo": "https://github.com/mattn/go-haiku",
+      "language": "Go"
+    },
+    {
+      "name": "vim-xeyes",
+      "repo": "https://github.com/mattn/vim-xeyes",
+      "language": "Vim Script"
+    },
+    {
+      "name": "go-rl",
+      "repo": "https://github.com/mattn/go-rl",
+      "language": "Go"
+    },
+    {
+      "name": "nostr-markovbot",
+      "repo": "https://github.com/mattn/nostr-markovbot",
+      "language": "Go"
+    },
+    {
+      "name": "curry-model",
+      "repo": "https://github.com/mattn/curry-model",
+      "language": "Python"
+    },
+    {
+      "name": "pudding-model",
+      "repo": "https://github.com/mattn/pudding-model",
+      "language": "Python"
+    },
+    {
+      "name": "nip66-reporter",
+      "repo": "https://github.com/mattn/nip66-reporter",
+      "language": "Go"
+    },
+    {
+      "name": "nip66-viewer",
+      "repo": "https://github.com/mattn/nip66-viewer",
+      "language": "HTML"
+    },
+    {
+      "name": "go-jsonpointer",
+      "repo": "https://github.com/mattn/go-jsonpointer",
+      "language": "Go"
+    },
+    {
+      "name": "bump",
+      "repo": "https://github.com/mattn/bump",
+      "url": "https://github.com/mattn/bump",
+      "language": "Go"
+    },
+    {
+      "name": "htpasswd",
+      "repo": "https://github.com/mattn/htpasswd",
+      "language": "Go"
+    },
+    {
+      "name": "sshgo",
+      "repo": "https://github.com/mattn/sshgo",
+      "language": "Go"
+    },
+    {
+      "name": "go-colorable",
+      "repo": "https://github.com/mattn/go-colorable",
+      "language": "Go"
+    }
+  ],
   "apps": []
 }

@@ -1,0 +1,512 @@
+{
+  "handle": "shougo",
+  "name": "Shougo",
+  "github": [
+    "https://github.com/shougo"
+  ],
+  "bio": "The text editor is the world.",
+  "own_repos": 130,
+  "commits": 26338,
+  "repos": [
+    {
+      "name": "ddu-ui-ff",
+      "repo": "https://github.com/Shougo/ddu-ui-ff",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shougo-s-github",
+      "repo": "https://github.com/Shougo/shougo-s-github",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddc.vim",
+      "repo": "https://github.com/Shougo/ddc.vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dpp.vim",
+      "repo": "https://github.com/Shougo/dpp.vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-ui-filer",
+      "repo": "https://github.com/Shougo/ddu-ui-filer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-register",
+      "repo": "https://github.com/Shougo/ddu-source-register",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu.vim",
+      "repo": "https://github.com/Shougo/ddu.vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-vim",
+      "repo": "https://github.com/Shougo/ddc-source-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddc-source-lsp",
+      "repo": "https://github.com/Shougo/ddc-source-lsp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pum.vim",
+      "repo": "https://github.com/Shougo/pum.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddx.vim",
+      "repo": "https://github.com/Shougo/ddx.vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddt.vim",
+      "repo": "https://github.com/Shougo/ddt.vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddx-commands.vim",
+      "repo": "https://github.com/Shougo/ddx-commands.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddu-commands.vim",
+      "repo": "https://github.com/Shougo/ddu-commands.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dpp-ext-lazy",
+      "repo": "https://github.com/Shougo/dpp-ext-lazy",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddt-ui-shell",
+      "repo": "https://github.com/Shougo/ddt-ui-shell",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-kind-file",
+      "repo": "https://github.com/Shougo/ddu-kind-file",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dpp-ext-installer",
+      "repo": "https://github.com/Shougo/dpp-ext-installer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-cmdline",
+      "repo": "https://github.com/Shougo/ddc-source-cmdline",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-command_args",
+      "repo": "https://github.com/Shougo/ddu-source-command_args",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-output",
+      "repo": "https://github.com/Shougo/ddu-source-output",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-path_history",
+      "repo": "https://github.com/Shougo/ddu-source-path_history",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-vim",
+      "repo": "https://github.com/Shougo/ddu-source-vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-file_rec",
+      "repo": "https://github.com/Shougo/ddu-source-file_rec",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-line",
+      "repo": "https://github.com/Shougo/ddu-source-line",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-item",
+      "repo": "https://github.com/Shougo/ddu-source-item",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-input_history",
+      "repo": "https://github.com/Shougo/ddu-source-input_history",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-file_point",
+      "repo": "https://github.com/Shougo/ddu-source-file_point",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-file_old",
+      "repo": "https://github.com/Shougo/ddu-source-file_old",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-file",
+      "repo": "https://github.com/Shougo/ddu-source-file",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-dummy",
+      "repo": "https://github.com/Shougo/ddu-source-dummy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-source-action",
+      "repo": "https://github.com/Shougo/ddu-source-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-kind-word",
+      "repo": "https://github.com/Shougo/ddu-kind-word",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dpp-protocol-http",
+      "repo": "https://github.com/Shougo/dpp-protocol-http",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dpp-protocol-git",
+      "repo": "https://github.com/Shougo/dpp-protocol-git",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dpp-ext-packspec",
+      "repo": "https://github.com/Shougo/dpp-ext-packspec",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dpp-ext-toml",
+      "repo": "https://github.com/Shougo/dpp-ext-toml",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dpp-ext-local",
+      "repo": "https://github.com/Shougo/dpp-ext-local",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddx-ui-hex",
+      "repo": "https://github.com/Shougo/ddx-ui-hex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "junkfile.vim",
+      "repo": "https://github.com/Shougo/junkfile.vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddx-analyzer-zip",
+      "repo": "https://github.com/Shougo/ddx-analyzer-zip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-rg",
+      "repo": "https://github.com/Shougo/ddc-source-rg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-sorter_reversed",
+      "repo": "https://github.com/Shougo/ddu-filter-sorter_reversed",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-sorter_alpha",
+      "repo": "https://github.com/Shougo/ddu-filter-sorter_alpha",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-matcher_substring",
+      "repo": "https://github.com/Shougo/ddu-filter-matcher_substring",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-matcher_relative",
+      "repo": "https://github.com/Shougo/ddu-filter-matcher_relative",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-matcher_ignores",
+      "repo": "https://github.com/Shougo/ddu-filter-matcher_ignores",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-converter_display_word",
+      "repo": "https://github.com/Shougo/ddu-filter-converter_display_word",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-matcher_hidden",
+      "repo": "https://github.com/Shougo/ddu-filter-matcher_hidden",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-matcher_ignore_files",
+      "repo": "https://github.com/Shougo/ddu-filter-matcher_ignore_files",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-filter-matcher_files",
+      "repo": "https://github.com/Shougo/ddu-filter-matcher_files",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddu-column-filename",
+      "repo": "https://github.com/Shougo/ddu-column-filename",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-ui-pum",
+      "repo": "https://github.com/Shougo/ddc-ui-pum",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-ui-none",
+      "repo": "https://github.com/Shougo/ddc-ui-none",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-ui-native",
+      "repo": "https://github.com/Shougo/ddc-ui-native",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-ui-inline",
+      "repo": "https://github.com/Shougo/ddc-ui-inline",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddc-source-shell_history",
+      "repo": "https://github.com/Shougo/ddc-source-shell_history",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-shell",
+      "repo": "https://github.com/Shougo/ddc-source-shell",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-rtags",
+      "repo": "https://github.com/Shougo/ddc-source-rtags",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-omni",
+      "repo": "https://github.com/Shougo/ddc-source-omni",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-mocword",
+      "repo": "https://github.com/Shougo/ddc-source-mocword",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-line",
+      "repo": "https://github.com/Shougo/ddc-source-line",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-input",
+      "repo": "https://github.com/Shougo/ddc-source-input",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-cmdline_history",
+      "repo": "https://github.com/Shougo/ddc-source-cmdline_history",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-around",
+      "repo": "https://github.com/Shougo/ddc-source-around",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-sorter_rank",
+      "repo": "https://github.com/Shougo/ddc-filter-sorter_rank",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-sorter_head",
+      "repo": "https://github.com/Shougo/ddc-filter-sorter_head",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-matcher_vimregexp",
+      "repo": "https://github.com/Shougo/ddc-filter-matcher_vimregexp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-sorter_lsp_kind",
+      "repo": "https://github.com/Shougo/ddc-filter-sorter_lsp_kind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-matcher_suffix",
+      "repo": "https://github.com/Shougo/ddc-filter-matcher_suffix",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddt-ui-terminal",
+      "repo": "https://github.com/Shougo/ddt-ui-terminal",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-matcher_prefix",
+      "repo": "https://github.com/Shougo/ddc-filter-matcher_prefix",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-matcher_length",
+      "repo": "https://github.com/Shougo/ddc-filter-matcher_length",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-matcher_head",
+      "repo": "https://github.com/Shougo/ddc-filter-matcher_head",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-converter_truncate_abbr",
+      "repo": "https://github.com/Shougo/ddc-filter-converter_truncate_abbr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-converter_kind_labels",
+      "repo": "https://github.com/Shougo/ddc-filter-converter_kind_labels",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-filter-converter_remove_overlap",
+      "repo": "https://github.com/Shougo/ddc-filter-converter_remove_overlap",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-shell_native",
+      "repo": "https://github.com/Shougo/ddc-source-shell_native",
+      "language": "Shell"
+    },
+    {
+      "name": "Blog",
+      "repo": "https://github.com/Shougo/Blog"
+    },
+    {
+      "name": "dein.vim",
+      "repo": "https://github.com/Shougo/dein.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "deol.nvim",
+      "repo": "https://github.com/Shougo/deol.nvim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddc-source-copilot",
+      "repo": "https://github.com/Shougo/ddc-source-copilot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ddc-source-codeium",
+      "repo": "https://github.com/Shougo/ddc-source-codeium",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cmdline.vim",
+      "repo": "https://github.com/Shougo/cmdline.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vimshell.vim",
+      "repo": "https://github.com/Shougo/vimshell.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "context_filetype.vim",
+      "repo": "https://github.com/Shougo/context_filetype.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "neocomplcache.vim",
+      "repo": "https://github.com/Shougo/neocomplcache.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "neco-vim",
+      "repo": "https://github.com/Shougo/neco-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vimproc.vim",
+      "repo": "https://github.com/Shougo/vimproc.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddc-source-nextword",
+      "repo": "https://github.com/Shougo/ddc-source-nextword",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deoppet.nvim",
+      "repo": "https://github.com/Shougo/deoppet.nvim",
+      "language": "Python"
+    },
+    {
+      "name": "deoplete.nvim",
+      "repo": "https://github.com/Shougo/deoplete.nvim",
+      "language": "Python"
+    },
+    {
+      "name": "vimfiler.vim",
+      "repo": "https://github.com/Shougo/vimfiler.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dein-installer.vim",
+      "repo": "https://github.com/Shougo/dein-installer.vim",
+      "language": "Shell"
+    },
+    {
+      "name": "defx.nvim",
+      "repo": "https://github.com/Shougo/defx.nvim",
+      "language": "Python"
+    },
+    {
+      "name": "denite.nvim",
+      "repo": "https://github.com/Shougo/denite.nvim",
+      "language": "Python"
+    },
+    {
+      "name": "dda.vim",
+      "repo": "https://github.com/Shougo/dda.vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "neosnippet.vim",
+      "repo": "https://github.com/Shougo/neosnippet.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddc-source-nvim-lua",
+      "repo": "https://github.com/Shougo/ddc-source-nvim-lua",
+      "language": "TypeScript"
+    },
+    {
+      "name": "unite.vim",
+      "repo": "https://github.com/Shougo/unite.vim",
+      "language": "Vim Script"
+    }
+  ],
+  "apps": []
+}

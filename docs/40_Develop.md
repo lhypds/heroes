@@ -13,9 +13,10 @@ each link whether it answers
 `pnpm run account -- <handle>` — one GitHub account read against the rules,
 or several with commas between, counted together; `--list` says it repository
 by repository, `--json` as the API answers it  
-`npx hero scan` — `own_repos` for every entry under `data/heroes/`, read off
-GitHub; handles restrict it to those entries, `--missing` to the ones without
-the figure, and `--dry` says what would change without writing  
+`npx hero scan` — `own_repos` and `repos` for every entry under
+`data/heroes/`, read off GitHub; handles restrict it to those entries,
+`--missing` to the ones without either, and `--dry` says what would change
+without writing  
 `./crawl.sh` — people who might be heroes, into `data/crawl.db`  
 
 The same check answers over HTTP under `/api`, on the page's own port:
@@ -35,13 +36,23 @@ repositories of their own the entry's accounts hold, forks out, which is the
 figure the page shows beside the name. An entry naming more than one account
 is the accounts added up, since the rules read them as one.  
 
-GitHub keeps that count itself and hands it back without reading a single
-repository, so the whole list is a handful of requests — twenty accounts to
-one — rather than the days a full check of it takes. The token, the pace and
-the retrying are `api/account.js`'s, and so is what counts as their own, asked
-for in the same words. The figure goes into the file on a line of its own and
-nothing else moves, so a scan of an entry someone typed by hand reads as the
-one line it changed.  
+It writes `repos` beside it: a hundred of those repositories, the ones pushed
+to most recently, written the way the `apps` under them are written — a
+`name`, the `repo`, the `url` where the repository names a home page of its
+own, and the `language` it is mostly written in. A `description` is the one
+thing left out, since nobody but the person can write it; an entry naming more
+than one account is the accounts merged, newest push first.  
+
+GitHub keeps the count itself and hands it back without reading a single
+repository, and it orders repositories by their last push itself, so the whole
+list is a handful of requests — ten accounts to one — rather than the days a
+full check of it takes. The token, the pace and the retrying are
+`api/account.js`'s, and so is what counts as their own, asked for in the same
+words. The figure goes into the file on a line of its own and the list between
+the commits and the applications, and nothing else moves, so a scan of an
+entry someone typed by hand reads as the lines it changed. The list moves
+whenever anything was pushed to, so an entry is left alone only when both the
+figure and the list are what they were.  
 
 `PORT` in `.env` is the port, and the only one: development, preview and the
 PM2 process all listen on it, so what is developed on is what is deployed on.

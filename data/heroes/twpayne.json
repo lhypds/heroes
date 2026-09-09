@@ -7,5 +7,509 @@
   "bio": "Creator of chezmoi.io. Gopher, paraglider pilot, and geospatial developer.",
   "own_repos": 106,
   "commits": 11607,
+  "repos": [
+    {
+      "name": "chezmoi",
+      "repo": "https://github.com/twpayne/chezmoi",
+      "url": "https://www.chezmoi.io/",
+      "language": "Go"
+    },
+    {
+      "name": "go-geos",
+      "repo": "https://github.com/twpayne/go-geos",
+      "language": "Go"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/twpayne/scoop-bucket"
+    },
+    {
+      "name": "go-geom",
+      "repo": "https://github.com/twpayne/go-geom",
+      "language": "Go"
+    },
+    {
+      "name": "go-jsonstruct",
+      "repo": "https://github.com/twpayne/go-jsonstruct",
+      "language": "Go"
+    },
+    {
+      "name": "go-proj",
+      "repo": "https://github.com/twpayne/go-proj",
+      "url": "https://proj.org/",
+      "language": "Go"
+    },
+    {
+      "name": "twpayne",
+      "repo": "https://github.com/twpayne/twpayne"
+    },
+    {
+      "name": "pgx-geos",
+      "repo": "https://github.com/twpayne/pgx-geos",
+      "language": "Go"
+    },
+    {
+      "name": "pgx-geom",
+      "repo": "https://github.com/twpayne/pgx-geom",
+      "language": "Go"
+    },
+    {
+      "name": "go-serial",
+      "repo": "https://github.com/twpayne/go-serial",
+      "language": "Go"
+    },
+    {
+      "name": "find-duplicates",
+      "repo": "https://github.com/twpayne/find-duplicates",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/twpayne/dotfiles",
+      "url": "https://chezmoi.io",
+      "language": "Go Template"
+    },
+    {
+      "name": "go-xctrack",
+      "repo": "https://github.com/twpayne/go-xctrack",
+      "url": "https://xctrack.org/Competition_Interfaces.html",
+      "language": "Go"
+    },
+    {
+      "name": "go-pinentry",
+      "repo": "https://github.com/twpayne/go-pinentry",
+      "language": "Go"
+    },
+    {
+      "name": "go-xxtea",
+      "repo": "https://github.com/twpayne/go-xxtea",
+      "language": "Go"
+    },
+    {
+      "name": "forge",
+      "repo": "https://github.com/twpayne/forge",
+      "language": "Go"
+    },
+    {
+      "name": "go-xmlstruct",
+      "repo": "https://github.com/twpayne/go-xmlstruct",
+      "language": "Go"
+    },
+    {
+      "name": "go-svg",
+      "repo": "https://github.com/twpayne/go-svg",
+      "language": "Go"
+    },
+    {
+      "name": "go-heap",
+      "repo": "https://github.com/twpayne/go-heap",
+      "language": "Go"
+    },
+    {
+      "name": "go-polyline",
+      "repo": "https://github.com/twpayne/go-polyline",
+      "language": "Go"
+    },
+    {
+      "name": "go-shapefile",
+      "repo": "https://github.com/twpayne/go-shapefile",
+      "language": "Go"
+    },
+    {
+      "name": "go-igc",
+      "repo": "https://github.com/twpayne/go-igc",
+      "language": "Go"
+    },
+    {
+      "name": "bbolt-cli",
+      "repo": "https://github.com/twpayne/bbolt-cli",
+      "language": "Go"
+    },
+    {
+      "name": "go-kml",
+      "repo": "https://github.com/twpayne/go-kml",
+      "language": "Go"
+    },
+    {
+      "name": "age-plugin-pinentry",
+      "repo": "https://github.com/twpayne/age-plugin-pinentry",
+      "language": "Go"
+    },
+    {
+      "name": "vscode-igc",
+      "repo": "https://github.com/twpayne/vscode-igc",
+      "language": "CUE"
+    },
+    {
+      "name": "go-fanet",
+      "repo": "https://github.com/twpayne/go-fanet",
+      "language": "Go"
+    },
+    {
+      "name": "go-pubsub",
+      "repo": "https://github.com/twpayne/go-pubsub",
+      "language": "Go"
+    },
+    {
+      "name": "go-affine2d",
+      "repo": "https://github.com/twpayne/go-affine2d",
+      "language": "Go"
+    },
+    {
+      "name": "go-openair",
+      "repo": "https://github.com/twpayne/go-openair",
+      "language": "Go"
+    },
+    {
+      "name": "go-vfs",
+      "repo": "https://github.com/twpayne/go-vfs",
+      "language": "Go"
+    },
+    {
+      "name": "flatjson",
+      "repo": "https://github.com/twpayne/flatjson",
+      "language": "Go"
+    },
+    {
+      "name": "go-elevation",
+      "repo": "https://github.com/twpayne/go-elevation",
+      "language": "Go"
+    },
+    {
+      "name": "vscode-testscript",
+      "repo": "https://github.com/twpayne/vscode-testscript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-testscript",
+      "repo": "https://github.com/twpayne/vim-testscript",
+      "language": "Vim Script"
+    },
+    {
+      "name": "go-nmea",
+      "repo": "https://github.com/twpayne/go-nmea",
+      "language": "Go"
+    },
+    {
+      "name": "go-gpx",
+      "repo": "https://github.com/twpayne/go-gpx",
+      "language": "Go"
+    },
+    {
+      "name": "osm-extract",
+      "repo": "https://github.com/twpayne/osm-extract",
+      "language": "Go"
+    },
+    {
+      "name": "go-geobabel",
+      "repo": "https://github.com/twpayne/go-geobabel",
+      "language": "Go"
+    },
+    {
+      "name": "go-shell",
+      "repo": "https://github.com/twpayne/go-shell",
+      "language": "Go"
+    },
+    {
+      "name": "go-mbtiles",
+      "repo": "https://github.com/twpayne/go-mbtiles",
+      "url": "https://pkg.go.dev/github.com/twpayne/go-mbtiles",
+      "language": "Go"
+    },
+    {
+      "name": "go-sse",
+      "repo": "https://github.com/twpayne/go-sse",
+      "language": "Go"
+    },
+    {
+      "name": "go-vali",
+      "repo": "https://github.com/twpayne/go-vali",
+      "language": "Go"
+    },
+    {
+      "name": "go-xcontest",
+      "repo": "https://github.com/twpayne/go-xcontest",
+      "language": "Go"
+    },
+    {
+      "name": "go-xdg",
+      "repo": "https://github.com/twpayne/go-xdg",
+      "language": "Go"
+    },
+    {
+      "name": "go-vfsafero",
+      "repo": "https://github.com/twpayne/go-vfsafero",
+      "language": "Go"
+    },
+    {
+      "name": "find-typos",
+      "repo": "https://github.com/twpayne/find-typos",
+      "language": "Go"
+    },
+    {
+      "name": "go-waypoint",
+      "repo": "https://github.com/twpayne/go-waypoint",
+      "language": "Go"
+    },
+    {
+      "name": "kmler",
+      "repo": "https://github.com/twpayne/kmler",
+      "language": "Go"
+    },
+    {
+      "name": "gopher-advent-2022-hot-function",
+      "repo": "https://github.com/twpayne/gopher-advent-2022-hot-function",
+      "url": "https://gopheradvent.com",
+      "language": "Go"
+    },
+    {
+      "name": "go-meteomatics",
+      "repo": "https://github.com/twpayne/go-meteomatics",
+      "url": "https://www.meteomatics.com/en/api/overview/",
+      "language": "Go"
+    },
+    {
+      "name": "xcscore-js",
+      "repo": "https://github.com/twpayne/xcscore-js",
+      "url": "https://www.npmjs.com/package/@twpayne/xcscore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-pinentry-minimal",
+      "repo": "https://github.com/twpayne/go-pinentry-minimal",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles-example",
+      "repo": "https://github.com/twpayne/dotfiles-example"
+    },
+    {
+      "name": "github-cli",
+      "repo": "https://github.com/twpayne/github-cli",
+      "language": "Go"
+    },
+    {
+      "name": "parsecheck",
+      "repo": "https://github.com/twpayne/parsecheck",
+      "language": "Go"
+    },
+    {
+      "name": "go-openaip",
+      "repo": "https://github.com/twpayne/go-openaip",
+      "language": "Go"
+    },
+    {
+      "name": "go-darksky",
+      "repo": "https://github.com/twpayne/go-darksky",
+      "language": "Go"
+    },
+    {
+      "name": "go-vfsbilly",
+      "repo": "https://github.com/twpayne/go-vfsbilly",
+      "language": "Go"
+    },
+    {
+      "name": "paragliding-articles",
+      "repo": "https://github.com/twpayne/paragliding-articles"
+    },
+    {
+      "name": "go-httpd",
+      "repo": "https://github.com/twpayne/go-httpd",
+      "language": "Go"
+    },
+    {
+      "name": "go-doarama",
+      "repo": "https://github.com/twpayne/go-doarama",
+      "language": "Go"
+    },
+    {
+      "name": "go-completer",
+      "repo": "https://github.com/twpayne/go-completer",
+      "language": "Go"
+    },
+    {
+      "name": "go-greet",
+      "repo": "https://github.com/twpayne/go-greet",
+      "language": "Go"
+    },
+    {
+      "name": "igc2kmz.py",
+      "repo": "https://github.com/twpayne/igc2kmz.py",
+      "language": "Python"
+    },
+    {
+      "name": "nagios-plugin-bacula",
+      "repo": "https://github.com/twpayne/nagios-plugin-bacula",
+      "language": "Python"
+    },
+    {
+      "name": "go-kmz",
+      "repo": "https://github.com/twpayne/go-kmz",
+      "url": "https://godoc.org/github.com/twpayne/go-kmz",
+      "language": "Go"
+    },
+    {
+      "name": "gopolyline",
+      "repo": "https://github.com/twpayne/gopolyline",
+      "language": "Go"
+    },
+    {
+      "name": "maxxc",
+      "repo": "https://github.com/twpayne/maxxc",
+      "language": "C"
+    },
+    {
+      "name": "webglmaps",
+      "repo": "https://github.com/twpayne/webglmaps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gogeom",
+      "repo": "https://github.com/twpayne/gogeom",
+      "language": "Go"
+    },
+    {
+      "name": "waypointviewer",
+      "repo": "https://github.com/twpayne/waypointviewer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flightrecorder",
+      "repo": "https://github.com/twpayne/flightrecorder",
+      "language": "Python"
+    },
+    {
+      "name": "twpayne.github.io",
+      "repo": "https://github.com/twpayne/twpayne.github.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-plugin-branchconfig",
+      "repo": "https://github.com/twpayne/vim-plugin-branchconfig",
+      "language": "Vim Script"
+    },
+    {
+      "name": "igc2czml",
+      "repo": "https://github.com/twpayne/igc2czml",
+      "language": "Python"
+    },
+    {
+      "name": "ol3-under-the-hood",
+      "repo": "https://github.com/twpayne/ol3-under-the-hood",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nagios-plugin-xserve_raid",
+      "repo": "https://github.com/twpayne/nagios-plugin-xserve_raid",
+      "language": "Python"
+    },
+    {
+      "name": "statsd",
+      "repo": "https://github.com/twpayne/statsd",
+      "language": "Python"
+    },
+    {
+      "name": "life",
+      "repo": "https://github.com/twpayne/life",
+      "language": "Python"
+    },
+    {
+      "name": "map-toy",
+      "repo": "https://github.com/twpayne/map-toy"
+    },
+    {
+      "name": "cq",
+      "repo": "https://github.com/twpayne/cq",
+      "language": "Python"
+    },
+    {
+      "name": "devfest-zurich2012-whats-hot-on-google-plus",
+      "repo": "https://github.com/twpayne/devfest-zurich2012-whats-hot-on-google-plus",
+      "url": "https://sites.google.com/site/gdgdevfestzurich/",
+      "language": "Python"
+    },
+    {
+      "name": "netcf-ruby",
+      "repo": "https://github.com/twpayne/netcf-ruby",
+      "language": "C"
+    },
+    {
+      "name": "mvcobject",
+      "repo": "https://github.com/twpayne/mvcobject",
+      "language": "JavaScript"
+    },
+    {
+      "name": "closure-toy",
+      "repo": "https://github.com/twpayne/closure-toy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "openlayers-googleearthview",
+      "repo": "https://github.com/twpayne/openlayers-googleearthview",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pnggrid",
+      "repo": "https://github.com/twpayne/pnggrid",
+      "language": "Python"
+    },
+    {
+      "name": "webgl-utils",
+      "repo": "https://github.com/twpayne/webgl-utils",
+      "language": "Python"
+    },
+    {
+      "name": "compcheck",
+      "repo": "https://github.com/twpayne/compcheck",
+      "language": "Python"
+    },
+    {
+      "name": "tcx2kmz",
+      "repo": "https://github.com/twpayne/tcx2kmz",
+      "language": "Python"
+    },
+    {
+      "name": "igc2kmz.rb",
+      "repo": "https://github.com/twpayne/igc2kmz.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "tini",
+      "repo": "https://github.com/twpayne/tini",
+      "language": "C"
+    },
+    {
+      "name": "vim-igc",
+      "repo": "https://github.com/twpayne/vim-igc",
+      "language": "Vim Script"
+    },
+    {
+      "name": "python-columnparser",
+      "repo": "https://github.com/twpayne/python-columnparser",
+      "language": "Python"
+    },
+    {
+      "name": "g-record",
+      "repo": "https://github.com/twpayne/g-record",
+      "language": "C"
+    },
+    {
+      "name": "nagios-check-3ware",
+      "repo": "https://github.com/twpayne/nagios-check-3ware"
+    },
+    {
+      "name": "garmini",
+      "repo": "https://github.com/twpayne/garmini",
+      "language": "C"
+    },
+    {
+      "name": "aircotini",
+      "repo": "https://github.com/twpayne/aircotini"
+    },
+    {
+      "name": "nagios-plugin-file_age_recursive",
+      "repo": "https://github.com/twpayne/nagios-plugin-file_age_recursive"
+    }
+  ],
   "apps": []
 }

@@ -8,5 +8,533 @@
   "bio": "Coding for food",
   "own_repos": 116,
   "commits": 10770,
+  "repos": [
+    {
+      "name": "nestjs-rest-sample",
+      "repo": "https://github.com/hantsy/nestjs-rest-sample",
+      "url": "https://hantsy.github.io/nestjs-rest-sample/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spring-reactive-sample",
+      "repo": "https://github.com/hantsy/spring-reactive-sample",
+      "url": "https://hantsy.github.io/spring-reactive-sample/",
+      "language": "Java"
+    },
+    {
+      "name": "aws-sdk-kotlin-spring-example",
+      "repo": "https://github.com/hantsy/aws-sdk-kotlin-spring-example",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jakartaee-rest-sample",
+      "repo": "https://github.com/hantsy/jakartaee-rest-sample",
+      "language": "Java"
+    },
+    {
+      "name": "quarkus-ddd-example",
+      "repo": "https://github.com/hantsy/quarkus-ddd-example",
+      "language": "Java"
+    },
+    {
+      "name": "dataframe-sandbox",
+      "repo": "https://github.com/hantsy/dataframe-sandbox",
+      "language": "Kotlin"
+    },
+    {
+      "name": "code-challenges",
+      "repo": "https://github.com/hantsy/code-challenges",
+      "language": "Java"
+    },
+    {
+      "name": "jakartaee-ddd-example",
+      "repo": "https://github.com/hantsy/jakartaee-ddd-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-ddd-kotlin-example",
+      "repo": "https://github.com/hantsy/spring-ddd-kotlin-example",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jakartaee12-starter-boilerplate",
+      "repo": "https://github.com/hantsy/jakartaee12-starter-boilerplate",
+      "language": "Java"
+    },
+    {
+      "name": "jakartaee11-starter-boilerplate",
+      "repo": "https://github.com/hantsy/jakartaee11-starter-boilerplate",
+      "language": "Java"
+    },
+    {
+      "name": "kotlin-coroutines-examples",
+      "repo": "https://github.com/hantsy/kotlin-coroutines-examples",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jakartaee-security-example",
+      "repo": "https://github.com/hantsy/jakartaee-security-example",
+      "language": "Java"
+    },
+    {
+      "name": "nestjs-prisma-sample",
+      "repo": "https://github.com/hantsy/nestjs-prisma-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jakartaee-faces-sample",
+      "repo": "https://github.com/hantsy/jakartaee-faces-sample",
+      "language": "HTML"
+    },
+    {
+      "name": "jakartaee-mvc-sample",
+      "repo": "https://github.com/hantsy/jakartaee-mvc-sample",
+      "language": "Java"
+    },
+    {
+      "name": "jakartaee10-starter-boilerplate",
+      "repo": "https://github.com/hantsy/jakartaee10-starter-boilerplate",
+      "url": "https://hantsy.github.io/jakartaee10-starter-boilerplate/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-ddd-example",
+      "repo": "https://github.com/hantsy/spring-ddd-example",
+      "language": "Java"
+    },
+    {
+      "name": "angular-spring-reactive-sample",
+      "repo": "https://github.com/hantsy/angular-spring-reactive-sample",
+      "url": "https://medium.com/@hantsy/build-a-reactive-application-with-spring-boot-2-0-and-angular-de0ee5837fed",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hantsy.github.io",
+      "repo": "https://github.com/hantsy/hantsy.github.io",
+      "url": "https://hantsy.github.io",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jakartaee12-sandbox",
+      "repo": "https://github.com/hantsy/jakartaee12-sandbox",
+      "url": "https://hantsy.github.io/jakartaee12-sandbox/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-webmvc-jwt-sample",
+      "repo": "https://github.com/hantsy/spring-webmvc-jwt-sample",
+      "url": "https://medium.com/zero-equals-false/protect-rest-apis-with-spring-security-and-jwt-5fbc90305cc5",
+      "language": "Java"
+    },
+    {
+      "name": "reactor-examples",
+      "repo": "https://github.com/hantsy/reactor-examples",
+      "language": "Java"
+    },
+    {
+      "name": "spring-security-oauth2-client-example",
+      "repo": "https://github.com/hantsy/spring-security-oauth2-client-example",
+      "url": "https://medium.com/@hantsy/secures-your-application-with-spring-security-5-and-keycloak-2804ee912b0f",
+      "language": "Java"
+    },
+    {
+      "name": "cargotracker-regapp-javafx",
+      "repo": "https://github.com/hantsy/cargotracker-regapp-javafx",
+      "language": "Java"
+    },
+    {
+      "name": "jakartaee11-sandbox",
+      "repo": "https://github.com/hantsy/jakartaee11-sandbox",
+      "url": "https://hantsy.github.io/jakartaee11-sandbox/",
+      "language": "Java"
+    },
+    {
+      "name": "nestjs-graphql-sample",
+      "repo": "https://github.com/hantsy/nestjs-graphql-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spring6-sandbox",
+      "repo": "https://github.com/hantsy/spring6-sandbox",
+      "url": "https://hantsy.github.io/spring6-sandbox/",
+      "language": "Java"
+    },
+    {
+      "name": "vertx-sandbox",
+      "repo": "https://github.com/hantsy/vertx-sandbox",
+      "url": "https://hantsy.github.io/vertx-sandbox/",
+      "language": "Java"
+    },
+    {
+      "name": "cargotracker-regapp-kotlin-multiplatform",
+      "repo": "https://github.com/hantsy/cargotracker-regapp-kotlin-multiplatform",
+      "language": "Kotlin"
+    },
+    {
+      "name": "spring7-sandbox",
+      "repo": "https://github.com/hantsy/spring7-sandbox",
+      "url": "https://hantsy.github.io/spring7-sandbox/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-security-reactive-auth0-sample",
+      "repo": "https://github.com/hantsy/spring-security-reactive-auth0-sample",
+      "language": "Kotlin"
+    },
+    {
+      "name": "micronaut-sandbox",
+      "repo": "https://github.com/hantsy/micronaut-sandbox",
+      "url": "https://hantsy.github.io/micronaut-sandbox/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-security-oauth2-authserver-example",
+      "repo": "https://github.com/hantsy/spring-security-oauth2-authserver-example",
+      "language": "Kotlin"
+    },
+    {
+      "name": "spring-puzzles",
+      "repo": "https://github.com/hantsy/spring-puzzles",
+      "url": "https://hantsy.github.io/spring-puzzles/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-security-oauth2-resourceserver-example",
+      "repo": "https://github.com/hantsy/spring-security-oauth2-resourceserver-example",
+      "language": "Java"
+    },
+    {
+      "name": "quarkus-sandbox",
+      "repo": "https://github.com/hantsy/quarkus-sandbox",
+      "url": "https://hantsy.github.io/quarkus-sandbox/",
+      "language": "HTML"
+    },
+    {
+      "name": "symfony-rest-sample",
+      "repo": "https://github.com/hantsy/symfony-rest-sample",
+      "url": "https://hantsy.github.io/symfony-rest-sample/",
+      "language": "PHP"
+    },
+    {
+      "name": "spring-r2dbc-sample",
+      "repo": "https://github.com/hantsy/spring-r2dbc-sample",
+      "url": "https://hantsy.github.io/spring-r2dbc-sample/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-reactive-jwt-sample",
+      "repo": "https://github.com/hantsy/spring-reactive-jwt-sample",
+      "url": "https://medium.com/@hantsy/protect-rest-apis-with-spring-security-reactive-and-jwt-7b209a0510f1",
+      "language": "Java"
+    },
+    {
+      "name": "spring-security-auth0-sample",
+      "repo": "https://github.com/hantsy/spring-security-auth0-sample",
+      "url": "https://itnext.io/secures-rest-apis-with-spring-security-5-and-auth0-41d579ca1e27",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cargotracker-regapp-quarkus-javafx",
+      "repo": "https://github.com/hantsy/cargotracker-regapp-quarkus-javafx",
+      "language": "Java"
+    },
+    {
+      "name": "jakartaee9-starter-boilerplate",
+      "repo": "https://github.com/hantsy/jakartaee9-starter-boilerplate",
+      "url": "https://hantsy.github.io/jakartaee9-starter-boilerplate/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-grpc-examples",
+      "repo": "https://github.com/hantsy/spring-grpc-examples",
+      "language": "Java"
+    },
+    {
+      "name": "hantsy",
+      "repo": "https://github.com/hantsy/hantsy"
+    },
+    {
+      "name": "spring-graphql-sample",
+      "repo": "https://github.com/hantsy/spring-graphql-sample",
+      "language": "Java"
+    },
+    {
+      "name": "jakartaee10-sandbox",
+      "repo": "https://github.com/hantsy/jakartaee10-sandbox",
+      "url": "https://hantsy.github.io/jakartaee10-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "arquillian-testcontainers-example",
+      "repo": "https://github.com/hantsy/arquillian-testcontainers-example",
+      "language": "Java"
+    },
+    {
+      "name": "arquillian-autodelpyment-testcontainers-example",
+      "repo": "https://github.com/hantsy/arquillian-autodelpyment-testcontainers-example",
+      "language": "Java"
+    },
+    {
+      "name": "dockerize-spring-with-amazon-jdk",
+      "repo": "https://github.com/hantsy/dockerize-spring-with-amazon-jdk",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jakartaee9-servlet-starter-boilerplate",
+      "repo": "https://github.com/hantsy/jakartaee9-servlet-starter-boilerplate",
+      "url": "https://itnext.io/building-jakarta-ee-9-web-application-with-servlet-containers-b3acc50c8464",
+      "language": "Java"
+    },
+    {
+      "name": "java-sandbox",
+      "repo": "https://github.com/hantsy/java-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "devops-sandbox",
+      "repo": "https://github.com/hantsy/devops-sandbox",
+      "language": "Shell"
+    },
+    {
+      "name": "imagemagick-java-examples",
+      "repo": "https://github.com/hantsy/imagemagick-java-examples",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jakartaee8-starter-boilerplate",
+      "repo": "https://github.com/hantsy/jakartaee8-starter-boilerplate",
+      "url": "https://hantsy.github.io/jakartaee8-starter-boilerplate/",
+      "language": "Java"
+    },
+    {
+      "name": "spring-kotlin-dsl-sample",
+      "repo": "https://github.com/hantsy/spring-kotlin-dsl-sample",
+      "language": "Kotlin"
+    },
+    {
+      "name": "react-spring-mongo-kotlin",
+      "repo": "https://github.com/hantsy/react-spring-mongo-kotlin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "javaee8-jaxrs-sample",
+      "repo": "https://github.com/hantsy/javaee8-jaxrs-sample",
+      "language": "Java"
+    },
+    {
+      "name": "ee7-jaxrs-sample",
+      "repo": "https://github.com/hantsy/ee7-jaxrs-sample",
+      "language": "Java"
+    },
+    {
+      "name": "javaee8-jsf-sample",
+      "repo": "https://github.com/hantsy/javaee8-jsf-sample",
+      "language": "Java"
+    },
+    {
+      "name": "php-sandbox",
+      "repo": "https://github.com/hantsy/php-sandbox",
+      "language": "PHP"
+    },
+    {
+      "name": "spring-reactive-microservice-sample",
+      "repo": "https://github.com/hantsy/spring-reactive-microservice-sample",
+      "language": "Java"
+    },
+    {
+      "name": "data-rest-demo",
+      "repo": "https://github.com/hantsy/data-rest-demo",
+      "language": "Java"
+    },
+    {
+      "name": "spring-webmvc-functional-sample",
+      "repo": "https://github.com/hantsy/spring-webmvc-functional-sample",
+      "language": "Java"
+    },
+    {
+      "name": "angular2-material-sample",
+      "repo": "https://github.com/hantsy/angular2-material-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "a-journey-to-microservice",
+      "repo": "https://github.com/hantsy/a-journey-to-microservice"
+    },
+    {
+      "name": "angular-sandbox",
+      "repo": "https://github.com/hantsy/angular-sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kotlin-sandbox",
+      "repo": "https://github.com/hantsy/kotlin-sandbox",
+      "language": "Kotlin"
+    },
+    {
+      "name": "angularjs-grails-sample",
+      "repo": "https://github.com/hantsy/angularjs-grails-sample",
+      "language": "JavaScript"
+    },
+    {
+      "name": "click4nb",
+      "repo": "https://github.com/hantsy/click4nb",
+      "language": "Java"
+    },
+    {
+      "name": "ionic2-sample",
+      "repo": "https://github.com/hantsy/ionic2-sample",
+      "language": "JavaScript"
+    },
+    {
+      "name": "angular-spring-sse-sample",
+      "repo": "https://github.com/hantsy/angular-spring-sse-sample",
+      "url": "https://medium.com/@hantsy/building-a-chat-application-with-angular-and-spring-reactive-sse-c0fdddcd7d70",
+      "language": "TypeScript"
+    },
+    {
+      "name": "building-restful-apis-with-springmvc-gitbook",
+      "repo": "https://github.com/hantsy/building-restful-apis-with-springmvc-gitbook",
+      "url": "https://www.gitbook.com/book/hantsy/build-a-restful-app-with-spring-mvc-and-angularjs/details"
+    },
+    {
+      "name": "angular-spring-book",
+      "repo": "https://github.com/hantsy/angular-spring-book",
+      "language": "Java"
+    },
+    {
+      "name": "quarkus-auth0-sample",
+      "repo": "https://github.com/hantsy/quarkus-auth0-sample",
+      "url": "https://hantsy.medium.com/secures-restful-apis-with-quarkus-oidc-and-auth0-643475a9710c",
+      "language": "Java"
+    },
+    {
+      "name": "spring-reactive-kotlin-sample",
+      "repo": "https://github.com/hantsy/spring-reactive-kotlin-sample",
+      "language": "Kotlin"
+    },
+    {
+      "name": "spring-cloud-sample",
+      "repo": "https://github.com/hantsy/spring-cloud-sample",
+      "language": "Java"
+    },
+    {
+      "name": "javaee8-by-example-gitbook",
+      "repo": "https://github.com/hantsy/javaee8-by-example-gitbook",
+      "url": "https://hantsy.gitbooks.io/java-ee-8-by-example/content/"
+    },
+    {
+      "name": "seam3-mail-demo",
+      "repo": "https://github.com/hantsy/seam3-mail-demo",
+      "language": "Java"
+    },
+    {
+      "name": "angular-spring-websocket-sample",
+      "repo": "https://github.com/hantsy/angular-spring-websocket-sample",
+      "url": "https://medium.com/@hantsy/building-a-chat-application-with-angular-and-spring-reactive-websocket-400e0769f4ec",
+      "language": "TypeScript"
+    },
+    {
+      "name": "maven-archetype-jakartaee9",
+      "repo": "https://github.com/hantsy/maven-archetype-jakartaee9",
+      "url": "https://itnext.io/generate-a-jakarta-ee-9-project-skeleton-from-maven-archetype-2b9fc9ce9bb8",
+      "language": "Java"
+    },
+    {
+      "name": "rsocket-sample",
+      "repo": "https://github.com/hantsy/rsocket-sample",
+      "language": "Java"
+    },
+    {
+      "name": "seam3-report-demo",
+      "repo": "https://github.com/hantsy/seam3-report-demo",
+      "language": "Java"
+    },
+    {
+      "name": "mockk-issue832",
+      "repo": "https://github.com/hantsy/mockk-issue832",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ee7-sandbox",
+      "repo": "https://github.com/hantsy/ee7-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "scala-sandbox",
+      "repo": "https://github.com/hantsy/scala-sandbox",
+      "language": "Scala"
+    },
+    {
+      "name": "angularjs-zf2-sample",
+      "repo": "https://github.com/hantsy/angularjs-zf2-sample",
+      "language": "PHP"
+    },
+    {
+      "name": "helidon-sandbox",
+      "repo": "https://github.com/hantsy/helidon-sandbox",
+      "url": "https://hantsy.github.io/helidon-sandbox/",
+      "language": "Java"
+    },
+    {
+      "name": "spring4-sandbox",
+      "repo": "https://github.com/hantsy/spring4-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "data-couchbase-issue",
+      "repo": "https://github.com/hantsy/data-couchbase-issue",
+      "language": "Java"
+    },
+    {
+      "name": "urlshortener-kotlin",
+      "repo": "https://github.com/hantsy/urlshortener-kotlin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "spring-kotlin-coroutines-sample",
+      "repo": "https://github.com/hantsy/spring-kotlin-coroutines-sample",
+      "language": "Kotlin"
+    },
+    {
+      "name": "contracts-git",
+      "repo": "https://github.com/hantsy/contracts-git",
+      "language": "Groovy"
+    },
+    {
+      "name": "awesome-javaee8",
+      "repo": "https://github.com/hantsy/awesome-javaee8"
+    },
+    {
+      "name": "angular2-sample",
+      "repo": "https://github.com/hantsy/angular2-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "angularjs-cakephp-sample",
+      "repo": "https://github.com/hantsy/angularjs-cakephp-sample",
+      "language": "PHP"
+    },
+    {
+      "name": "angular2-firebase-sample",
+      "repo": "https://github.com/hantsy/angular2-firebase-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "angular-spring-rsocket-sample",
+      "repo": "https://github.com/hantsy/angular-spring-rsocket-sample",
+      "url": "https://medium.com/@hantsy/building-a-chat-application-with-angular-and-spring-rsocket-3cd8013f2f55",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nodejs-sandbox",
+      "repo": "https://github.com/hantsy/nodejs-sandbox",
+      "language": "HTML"
+    },
+    {
+      "name": "seam3-sandbox",
+      "repo": "https://github.com/hantsy/seam3-sandbox",
+      "language": "HTML"
+    }
+  ],
   "apps": []
 }

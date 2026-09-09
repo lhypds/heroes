@@ -8,5 +8,533 @@
   "bio": "I'm digging holes.",
   "own_repos": 380,
   "commits": 29886,
+  "repos": [
+    {
+      "name": "phodal",
+      "repo": "https://github.com/phodal/phodal"
+    },
+    {
+      "name": "phodaldev",
+      "repo": "https://github.com/phodal/phodaldev",
+      "url": "https://www.phodal.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awesome-iot",
+      "repo": "https://github.com/phodal/awesome-iot",
+      "language": "Python"
+    },
+    {
+      "name": "chapi",
+      "repo": "https://github.com/phodal/chapi",
+      "url": "https://chapi.phodal.com/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "piece",
+      "repo": "https://github.com/phodal/piece",
+      "url": "https://phodal.github.io/piece/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vibe-hardware-coding",
+      "repo": "https://github.com/phodal/vibe-hardware-coding",
+      "language": "Python"
+    },
+    {
+      "name": "routa",
+      "repo": "https://github.com/phodal/routa",
+      "url": "https://phodal.github.io/routa/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hyper-term",
+      "repo": "https://github.com/phodal/hyper-term",
+      "language": "Rust"
+    },
+    {
+      "name": "shire",
+      "repo": "https://github.com/phodal/shire",
+      "url": "https://shire.phodal.com/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "auto-dev",
+      "repo": "https://github.com/phodal/auto-dev",
+      "url": "https://ide.unitmesh.cc/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "wardley-kit",
+      "repo": "https://github.com/phodal/wardley-kit",
+      "url": "https://phodal.github.io/wardley-kit/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dream-coastline",
+      "repo": "https://github.com/phodal/dream-coastline",
+      "language": "GDScript"
+    },
+    {
+      "name": "awesome-iot-document",
+      "repo": "https://github.com/phodal/awesome-iot-document"
+    },
+    {
+      "name": "adr",
+      "repo": "https://github.com/phodal/adr",
+      "url": "https://phodal.github.io/adr/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "entrix",
+      "repo": "https://github.com/phodal/entrix",
+      "language": "Python"
+    },
+    {
+      "name": "claude-code-codex-slide",
+      "repo": "https://github.com/phodal/claude-code-codex-slide",
+      "language": "TypeScript"
+    },
+    {
+      "name": "routa.kt",
+      "repo": "https://github.com/phodal/routa.kt",
+      "language": "Kotlin"
+    },
+    {
+      "name": "cracked-prompt-of-famous-coding-agent",
+      "repo": "https://github.com/phodal/cracked-prompt-of-famous-coding-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "harness-engineering",
+      "repo": "https://github.com/phodal/harness-engineering"
+    },
+    {
+      "name": "ai-coding-fluency",
+      "repo": "https://github.com/phodal/ai-coding-fluency",
+      "url": "https://phodal.github.io/ai-coding-fluency/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "coding-agent-go-poc",
+      "repo": "https://github.com/phodal/coding-agent-go-poc",
+      "language": "Go"
+    },
+    {
+      "name": "claude-code-agent-trace",
+      "repo": "https://github.com/phodal/claude-code-agent-trace",
+      "language": "Java"
+    },
+    {
+      "name": "data-mesh-spike",
+      "repo": "https://github.com/phodal/data-mesh-spike",
+      "language": "Python"
+    },
+    {
+      "name": "md",
+      "repo": "https://github.com/phodal/md",
+      "language": "JavaScript"
+    },
+    {
+      "name": "coca",
+      "repo": "https://github.com/phodal/coca",
+      "url": "https://coca.migration.ink/",
+      "language": "Go"
+    },
+    {
+      "name": "xiuper.com",
+      "repo": "https://github.com/phodal/xiuper.com",
+      "url": "https://xiuper.com/",
+      "language": "CSS"
+    },
+    {
+      "name": "autodev-lotus",
+      "repo": "https://github.com/phodal/autodev-lotus",
+      "language": "Kotlin"
+    },
+    {
+      "name": "context-engineer-workbench",
+      "repo": "https://github.com/phodal/context-engineer-workbench",
+      "url": "https://context-engineer-workbench.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "build-agent-context-engineering",
+      "repo": "https://github.com/phodal/build-agent-context-engineering",
+      "language": "Kotlin"
+    },
+    {
+      "name": "codelotus-poc",
+      "repo": "https://github.com/phodal/codelotus-poc",
+      "url": "https://phodal.github.io/codelotus-poc/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aise",
+      "repo": "https://github.com/phodal/aise",
+      "url": "https://aise.phodal.com/",
+      "language": "CSS"
+    },
+    {
+      "name": "github",
+      "repo": "https://github.com/phodal/github",
+      "url": "https://github.phodal.com",
+      "language": "Rich Text Format"
+    },
+    {
+      "name": "dx-book",
+      "repo": "https://github.com/phodal/dx-book",
+      "url": "https://dx.phodal.com/",
+      "language": "Shell"
+    },
+    {
+      "name": "aigc",
+      "repo": "https://github.com/phodal/aigc",
+      "url": "https://aigc.phodal.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "ledge",
+      "repo": "https://github.com/phodal/ledge",
+      "url": "https://devops.phodal.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quake",
+      "repo": "https://github.com/phodal/quake",
+      "language": "Rust"
+    },
+    {
+      "name": "ascode.ink",
+      "repo": "https://github.com/phodal/ascode.ink",
+      "url": "https://ascode.ink"
+    },
+    {
+      "name": "prompt-patterns",
+      "repo": "https://github.com/phodal/prompt-patterns",
+      "url": "https://prompt-patterns.phodal.com"
+    },
+    {
+      "name": "understand-prompt",
+      "repo": "https://github.com/phodal/understand-prompt",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "railway-spring-mongodb-test",
+      "repo": "https://github.com/phodal/railway-spring-mongodb-test",
+      "language": "Java"
+    },
+    {
+      "name": "Vite-React-Typescript-Railway-Template",
+      "repo": "https://github.com/phodal/Vite-React-Typescript-Railway-Template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "frontend",
+      "repo": "https://github.com/phodal/frontend",
+      "url": "https://frontend.phodal.com",
+      "language": "HTML"
+    },
+    {
+      "name": "serverless",
+      "repo": "https://github.com/phodal/serverless",
+      "url": "https://serverless.ink",
+      "language": "HTML"
+    },
+    {
+      "name": "do",
+      "repo": "https://github.com/phodal/do",
+      "url": "https://devops.phodal.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "github-action-heroku-react",
+      "repo": "https://github.com/phodal/github-action-heroku-react",
+      "url": "https://afs-react.herokuapp.com/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "github-action-heroku",
+      "repo": "https://github.com/phodal/github-action-heroku",
+      "url": "https://guarded-scrubland-63535.herokuapp.com/",
+      "language": "Java"
+    },
+    {
+      "name": "sgit",
+      "repo": "https://github.com/phodal/sgit",
+      "language": "Rust"
+    },
+    {
+      "name": "growth-ebook",
+      "repo": "https://github.com/phodal/growth-ebook",
+      "language": "HTML"
+    },
+    {
+      "name": "componentless",
+      "repo": "https://github.com/phodal/componentless",
+      "url": "https://componentless.com/"
+    },
+    {
+      "name": "developer",
+      "repo": "https://github.com/phodal/developer",
+      "language": "Makefile"
+    },
+    {
+      "name": "evolution",
+      "repo": "https://github.com/phodal/evolution",
+      "url": "https://phodal.github.io/evolution/",
+      "language": "HTML"
+    },
+    {
+      "name": "modernization",
+      "repo": "https://github.com/phodal/modernization",
+      "url": "https://modernizing.phodal.com"
+    },
+    {
+      "name": "compose-base-on-dsl",
+      "repo": "https://github.com/phodal/compose-base-on-dsl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "articles",
+      "repo": "https://github.com/phodal/articles",
+      "language": "Makefile"
+    },
+    {
+      "name": "oculus-nodejs-threejs-example",
+      "repo": "https://github.com/phodal/oculus-nodejs-threejs-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "2md",
+      "repo": "https://github.com/phodal/2md",
+      "url": "https://phodal.github.io/2md/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cloud-dev",
+      "repo": "https://github.com/phodal/cloud-dev"
+    },
+    {
+      "name": "modern",
+      "repo": "https://github.com/phodal/modern"
+    },
+    {
+      "name": "oss-archive",
+      "repo": "https://github.com/phodal/oss-archive",
+      "language": "HTML"
+    },
+    {
+      "name": "opensource",
+      "repo": "https://github.com/phodal/opensource",
+      "url": "https://opensource.phodal.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tangping",
+      "repo": "https://github.com/phodal/tangping"
+    },
+    {
+      "name": "microfrontends",
+      "repo": "https://github.com/phodal/microfrontends",
+      "url": "https://microfrontends.cn/"
+    },
+    {
+      "name": "lumos",
+      "repo": "https://github.com/phodal/lumos",
+      "language": "Rust"
+    },
+    {
+      "name": "exemd",
+      "repo": "https://github.com/phodal/exemd",
+      "language": "Rust"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/phodal/slides"
+    },
+    {
+      "name": "design",
+      "repo": "https://github.com/phodal/design",
+      "language": "Go"
+    },
+    {
+      "name": "phodit",
+      "repo": "https://github.com/phodal/phodit",
+      "url": "https://www.phodit.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "simple-image-tool",
+      "repo": "https://github.com/phodal/simple-image-tool",
+      "language": "Rust"
+    },
+    {
+      "name": "migration",
+      "repo": "https://github.com/phodal/migration",
+      "url": "https://migration.ink",
+      "language": "Java"
+    },
+    {
+      "name": "designiot",
+      "repo": "https://github.com/phodal/designiot",
+      "language": "HTML"
+    },
+    {
+      "name": "layer-architecture",
+      "repo": "https://github.com/phodal/layer-architecture",
+      "language": "Java"
+    },
+    {
+      "name": "iot",
+      "repo": "https://github.com/phodal/iot",
+      "language": "Python"
+    },
+    {
+      "name": "unflow-samples",
+      "repo": "https://github.com/phodal/unflow-samples",
+      "language": "Rust"
+    },
+    {
+      "name": "conan",
+      "repo": "https://github.com/phodal/conan",
+      "language": "Rust"
+    },
+    {
+      "name": "druid-xi",
+      "repo": "https://github.com/phodal/druid-xi",
+      "language": "Rust"
+    },
+    {
+      "name": "daily",
+      "repo": "https://github.com/phodal/daily",
+      "url": "https://phodal.github.io/daily/",
+      "language": "CSS"
+    },
+    {
+      "name": "rust-in-practise",
+      "repo": "https://github.com/phodal/rust-in-practise",
+      "language": "C"
+    },
+    {
+      "name": "trace-demo",
+      "repo": "https://github.com/phodal/trace-demo"
+    },
+    {
+      "name": "pattern-languages",
+      "repo": "https://github.com/phodal/pattern-languages"
+    },
+    {
+      "name": "monitor",
+      "repo": "https://github.com/phodal/monitor",
+      "language": "C"
+    },
+    {
+      "name": "monitor-api",
+      "repo": "https://github.com/phodal/monitor-api",
+      "url": "https://phodal.github.io/monitor-api/api.json"
+    },
+    {
+      "name": "rust-dap",
+      "repo": "https://github.com/phodal/rust-dap",
+      "language": "Rust"
+    },
+    {
+      "name": "lowcode",
+      "repo": "https://github.com/phodal/lowcode"
+    },
+    {
+      "name": "clean-frontend",
+      "repo": "https://github.com/phodal/clean-frontend",
+      "url": "https://phodal.github.io/clean-frontend/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "innersource",
+      "repo": "https://github.com/phodal/innersource"
+    },
+    {
+      "name": "water",
+      "repo": "https://github.com/phodal/water",
+      "url": "https://phodal.github.io/water/"
+    },
+    {
+      "name": "rust-llvm-practises",
+      "repo": "https://github.com/phodal/rust-llvm-practises",
+      "language": "Rust"
+    },
+    {
+      "name": "stadal",
+      "repo": "https://github.com/phodal/stadal",
+      "language": "Rust"
+    },
+    {
+      "name": "fe",
+      "repo": "https://github.com/phodal/fe",
+      "url": "https://ued.party/",
+      "language": "HTML"
+    },
+    {
+      "name": "licenses",
+      "repo": "https://github.com/phodal/licenses",
+      "url": "https://phodal.github.io/licenses/",
+      "language": "HTML"
+    },
+    {
+      "name": "bdd-frameworks-compare",
+      "repo": "https://github.com/phodal/bdd-frameworks-compare",
+      "url": "https://phodal.github.io/bdd-frameworks-compare/",
+      "language": "HTML"
+    },
+    {
+      "name": "aofe.code",
+      "repo": "https://github.com/phodal/aofe.code",
+      "language": "JavaScript"
+    },
+    {
+      "name": "one",
+      "repo": "https://github.com/phodal/one",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dilay",
+      "repo": "https://github.com/phodal/dilay",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typing",
+      "repo": "https://github.com/phodal/typing",
+      "language": "Rust"
+    },
+    {
+      "name": "pao",
+      "repo": "https://github.com/phodal/pao",
+      "url": "https://pao.phodal.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "visual",
+      "repo": "https://github.com/phodal/visual",
+      "url": "https://visual.phodal.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "powermd",
+      "repo": "https://github.com/phodal/powermd",
+      "url": "https://powermd.phodal.com/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dol",
+      "repo": "https://github.com/phodal/dol",
+      "url": "https://dol.phodal.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pepper",
+      "repo": "https://github.com/phodal/pepper",
+      "language": "Java"
+    }
+  ],
   "apps": []
 }

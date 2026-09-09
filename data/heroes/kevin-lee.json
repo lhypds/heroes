@@ -8,5 +8,524 @@
   "bio": "Coder",
   "own_repos": 100,
   "commits": 14459,
+  "repos": [
+    {
+      "name": "claude-proxymate",
+      "repo": "https://github.com/kevin-lee/claude-proxymate",
+      "url": "https://claude-proxymate.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "ai-dumping-ground",
+      "repo": "https://github.com/kevin-lee/ai-dumping-ground",
+      "language": "HTML"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/kevin-lee/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "ai-skills",
+      "repo": "https://github.com/kevin-lee/ai-skills",
+      "url": "https://ai-skills.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "ai-skills-docs",
+      "repo": "https://github.com/kevin-lee/ai-skills-docs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stui",
+      "repo": "https://github.com/kevin-lee/stui",
+      "language": "Scala"
+    },
+    {
+      "name": "just-fp",
+      "repo": "https://github.com/kevin-lee/just-fp",
+      "url": "https://just-fp.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "orphan",
+      "repo": "https://github.com/kevin-lee/orphan",
+      "language": "Scala"
+    },
+    {
+      "name": "extras-docs",
+      "repo": "https://github.com/kevin-lee/extras-docs",
+      "url": "https://extras.kevinly.dev/",
+      "language": "Scala"
+    },
+    {
+      "name": "refined4s",
+      "repo": "https://github.com/kevin-lee/refined4s",
+      "url": "https://refined4s.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "jdk-sym-link",
+      "repo": "https://github.com/kevin-lee/jdk-sym-link",
+      "language": "Scala"
+    },
+    {
+      "name": "effectie",
+      "repo": "https://github.com/kevin-lee/effectie",
+      "url": "https://effectie.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-devoops",
+      "repo": "https://github.com/kevin-lee/sbt-devoops",
+      "url": "https://sbt-devoops.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "cats-effect.g8",
+      "repo": "https://github.com/kevin-lee/cats-effect.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-github-pages",
+      "repo": "https://github.com/kevin-lee/sbt-github-pages",
+      "url": "https://sbt-github-pages.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "whatsub",
+      "repo": "https://github.com/kevin-lee/whatsub",
+      "url": "https://whatsub.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "openai4s",
+      "repo": "https://github.com/kevin-lee/openai4s",
+      "language": "Scala"
+    },
+    {
+      "name": "just-semver",
+      "repo": "https://github.com/kevin-lee/just-semver",
+      "url": "https://just-semver.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "cats-mtl-example",
+      "repo": "https://github.com/kevin-lee/cats-mtl-example",
+      "language": "Scala"
+    },
+    {
+      "name": "logger-f",
+      "repo": "https://github.com/kevin-lee/logger-f",
+      "url": "https://logger-f.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-hedgehog-extra",
+      "repo": "https://github.com/kevin-lee/scala-hedgehog-extra",
+      "url": "https://hedgehog-extra.kevinly.dev/",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-docusaur",
+      "repo": "https://github.com/kevin-lee/sbt-docusaur",
+      "url": "https://kevin-lee.github.io/sbt-docusaur",
+      "language": "Scala"
+    },
+    {
+      "name": "extras",
+      "repo": "https://github.com/kevin-lee/extras",
+      "url": "https://extras.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "claude-watchroo",
+      "repo": "https://github.com/kevin-lee/claude-watchroo",
+      "language": "Scala"
+    },
+    {
+      "name": "refined4s-docs",
+      "repo": "https://github.com/kevin-lee/refined4s-docs",
+      "url": "https://refined4s.kevinly.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "just-semver-docs",
+      "repo": "https://github.com/kevin-lee/just-semver-docs",
+      "url": "https://just-semver.kevinly.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sbt-docusaur-docs",
+      "repo": "https://github.com/kevin-lee/sbt-docusaur-docs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "logger-f-sbt-logging",
+      "repo": "https://github.com/kevin-lee/logger-f-sbt-logging",
+      "url": "https://logger-f.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "logger-f-docs",
+      "repo": "https://github.com/kevin-lee/logger-f-docs",
+      "url": "https://logger-f.kevinly.dev/",
+      "language": "Scala"
+    },
+    {
+      "name": "just-spinner",
+      "repo": "https://github.com/kevin-lee/just-spinner",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-github-pages-docs",
+      "repo": "https://github.com/kevin-lee/sbt-github-pages-docs",
+      "url": "https://sbt-github-pages.kevinly.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "effectie-docs",
+      "repo": "https://github.com/kevin-lee/effectie-docs",
+      "url": "https://effectie.kevinly.dev/",
+      "language": "Scala"
+    },
+    {
+      "name": "maven2sbt",
+      "repo": "https://github.com/kevin-lee/maven2sbt",
+      "url": "https://maven2sbt.kevinly.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "shareable",
+      "repo": "https://github.com/kevin-lee/shareable"
+    },
+    {
+      "name": "kevinly.dev",
+      "repo": "https://github.com/kevin-lee/kevinly.dev"
+    },
+    {
+      "name": "kevin-lee",
+      "repo": "https://github.com/kevin-lee/kevin-lee"
+    },
+    {
+      "name": "effectie2-examples",
+      "repo": "https://github.com/kevin-lee/effectie2-examples",
+      "language": "Scala"
+    },
+    {
+      "name": "just-sysprocess",
+      "repo": "https://github.com/kevin-lee/just-sysprocess",
+      "language": "Scala"
+    },
+    {
+      "name": "kevin-docker",
+      "repo": "https://github.com/kevin-lee/kevin-docker",
+      "url": "https://github.com/kevin-lee?tab=packages&repo_name=kevin-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "pdf2excel",
+      "repo": "https://github.com/kevin-lee/pdf2excel",
+      "language": "Scala"
+    },
+    {
+      "name": "test-project",
+      "repo": "https://github.com/kevin-lee/test-project",
+      "language": "Scala"
+    },
+    {
+      "name": "kommonlee-core",
+      "repo": "https://github.com/kevin-lee/kommonlee-core",
+      "language": "Java"
+    },
+    {
+      "name": "kommonlee-asm",
+      "repo": "https://github.com/kevin-lee/kommonlee-asm",
+      "language": "Java"
+    },
+    {
+      "name": "kommonlee-test",
+      "repo": "https://github.com/kevin-lee/kommonlee-test",
+      "language": "Java"
+    },
+    {
+      "name": "just-utc",
+      "repo": "https://github.com/kevin-lee/just-utc",
+      "language": "Scala"
+    },
+    {
+      "name": "github-scala-scripts",
+      "repo": "https://github.com/kevin-lee/github-scala-scripts",
+      "language": "Scala"
+    },
+    {
+      "name": "link-validator-example",
+      "repo": "https://github.com/kevin-lee/link-validator-example",
+      "language": "Scala"
+    },
+    {
+      "name": "scalacli-playground",
+      "repo": "https://github.com/kevin-lee/scalacli-playground",
+      "language": "Scala"
+    },
+    {
+      "name": "link-validator.g8",
+      "repo": "https://github.com/kevin-lee/link-validator.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "logback-scala-interop",
+      "repo": "https://github.com/kevin-lee/logback-scala-interop",
+      "language": "Scala"
+    },
+    {
+      "name": "for-linux",
+      "repo": "https://github.com/kevin-lee/for-linux",
+      "language": "Shell"
+    },
+    {
+      "name": "skala",
+      "repo": "https://github.com/kevin-lee/skala",
+      "language": "Scala"
+    },
+    {
+      "name": "cats.g8",
+      "repo": "https://github.com/kevin-lee/cats.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "email-extractor",
+      "repo": "https://github.com/kevin-lee/email-extractor",
+      "language": "Java"
+    },
+    {
+      "name": "rust-by-example",
+      "repo": "https://github.com/kevin-lee/rust-by-example",
+      "language": "Rust"
+    },
+    {
+      "name": "http4s.g8",
+      "repo": "https://github.com/kevin-lee/http4s.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "j8plus",
+      "repo": "https://github.com/kevin-lee/j8plus",
+      "url": "https://j8plus.kevinly.dev",
+      "language": "Java"
+    },
+    {
+      "name": "just-toss",
+      "repo": "https://github.com/kevin-lee/just-toss",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-locksmyth",
+      "repo": "https://github.com/kevin-lee/sbt-locksmyth",
+      "language": "Scala"
+    },
+    {
+      "name": "http4s-example-app",
+      "repo": "https://github.com/kevin-lee/http4s-example-app",
+      "language": "Scala"
+    },
+    {
+      "name": "content-fonts",
+      "repo": "https://github.com/kevin-lee/content-fonts",
+      "language": "CSS"
+    },
+    {
+      "name": "Kevin-example-JDBC",
+      "repo": "https://github.com/kevin-lee/Kevin-example-JDBC",
+      "language": "Java"
+    },
+    {
+      "name": "kommonlee-web",
+      "repo": "https://github.com/kevin-lee/kommonlee-web",
+      "language": "Java"
+    },
+    {
+      "name": "kommonlee-web3",
+      "repo": "https://github.com/kevin-lee/kommonlee-web3",
+      "language": "Java"
+    },
+    {
+      "name": "can-equal",
+      "repo": "https://github.com/kevin-lee/can-equal",
+      "language": "Scala"
+    },
+    {
+      "name": "one-jar-boot",
+      "repo": "https://github.com/kevin-lee/one-jar-boot",
+      "language": "Java"
+    },
+    {
+      "name": "test0ster1",
+      "repo": "https://github.com/kevin-lee/test0ster1",
+      "language": "Java"
+    },
+    {
+      "name": "querious",
+      "repo": "https://github.com/kevin-lee/querious",
+      "language": "Scala"
+    },
+    {
+      "name": "giter8-example.g8",
+      "repo": "https://github.com/kevin-lee/giter8-example.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "Kevin-example-code",
+      "repo": "https://github.com/kevin-lee/Kevin-example-code",
+      "language": "Java"
+    },
+    {
+      "name": "trac-issues-to-gitlab",
+      "repo": "https://github.com/kevin-lee/trac-issues-to-gitlab",
+      "language": "Java"
+    },
+    {
+      "name": "buildnumber-maven-plugin",
+      "repo": "https://github.com/kevin-lee/buildnumber-maven-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "modern-java-untold",
+      "repo": "https://github.com/kevin-lee/modern-java-untold",
+      "language": "Java"
+    },
+    {
+      "name": "json-statham",
+      "repo": "https://github.com/kevin-lee/json-statham",
+      "language": "Java"
+    },
+    {
+      "name": "fs2-kafka-example",
+      "repo": "https://github.com/kevin-lee/fs2-kafka-example",
+      "language": "Scala"
+    },
+    {
+      "name": "property-based-testing-example",
+      "repo": "https://github.com/kevin-lee/property-based-testing-example",
+      "language": "Scala"
+    },
+    {
+      "name": "github-actions-sbt-example",
+      "repo": "https://github.com/kevin-lee/github-actions-sbt-example",
+      "language": "Scala"
+    },
+    {
+      "name": "property-based-testing-examples",
+      "repo": "https://github.com/kevin-lee/property-based-testing-examples",
+      "language": "Scala"
+    },
+    {
+      "name": "akka-example-app",
+      "repo": "https://github.com/kevin-lee/akka-example-app",
+      "language": "Scala"
+    },
+    {
+      "name": "kev-tv-kr-java",
+      "repo": "https://github.com/kevin-lee/kev-tv-kr-java",
+      "language": "Java"
+    },
+    {
+      "name": "elm-practice",
+      "repo": "https://github.com/kevin-lee/elm-practice",
+      "language": "Elm"
+    },
+    {
+      "name": "napucon2016-weather-client",
+      "repo": "https://github.com/kevin-lee/napucon2016-weather-client",
+      "language": "Elm"
+    },
+    {
+      "name": "napucon2016-weather-app",
+      "repo": "https://github.com/kevin-lee/napucon2016-weather-app",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-practice",
+      "repo": "https://github.com/kevin-lee/docker-practice",
+      "language": "Scala"
+    },
+    {
+      "name": "filates",
+      "repo": "https://github.com/kevin-lee/filates"
+    },
+    {
+      "name": "email-extractor-scala",
+      "repo": "https://github.com/kevin-lee/email-extractor-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "qr-code-generator-scala",
+      "repo": "https://github.com/kevin-lee/qr-code-generator-scala",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "spark-practice",
+      "repo": "https://github.com/kevin-lee/spark-practice",
+      "language": "Scala"
+    },
+    {
+      "name": "kotlin-practice",
+      "repo": "https://github.com/kevin-lee/kotlin-practice",
+      "language": "Kotlin"
+    },
+    {
+      "name": "es6-practice",
+      "repo": "https://github.com/kevin-lee/es6-practice",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test-app-for-activator",
+      "repo": "https://github.com/kevin-lee/test-app-for-activator",
+      "language": "Scala"
+    },
+    {
+      "name": "j8plus-examples",
+      "repo": "https://github.com/kevin-lee/j8plus-examples",
+      "language": "Java"
+    },
+    {
+      "name": "elasticsearch-scala-example",
+      "repo": "https://github.com/kevin-lee/elasticsearch-scala-example",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-github-release-example",
+      "repo": "https://github.com/kevin-lee/sbt-github-release-example",
+      "language": "Shell"
+    },
+    {
+      "name": "sbt-github-release-play-example",
+      "repo": "https://github.com/kevin-lee/sbt-github-release-play-example",
+      "language": "Scala"
+    },
+    {
+      "name": "owasp-java-html-sanitizer",
+      "repo": "https://github.com/kevin-lee/owasp-java-html-sanitizer",
+      "language": "Java"
+    },
+    {
+      "name": "YOUR_PROJECT",
+      "repo": "https://github.com/kevin-lee/YOUR_PROJECT"
+    },
+    {
+      "name": "kommonlee-parent",
+      "repo": "https://github.com/kevin-lee/kommonlee-parent"
+    },
+    {
+      "name": "kommonlee-examples",
+      "repo": "https://github.com/kevin-lee/kommonlee-examples",
+      "language": "Java"
+    },
+    {
+      "name": "kevin-web-example",
+      "repo": "https://github.com/kevin-lee/kevin-web-example",
+      "language": "Java"
+    }
+  ],
   "apps": []
 }

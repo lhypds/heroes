@@ -7,5 +7,494 @@
   "website": "https://jlucke.com/",
   "own_repos": 116,
   "commits": 10794,
+  "repos": [
+    {
+      "name": "ccelerate",
+      "repo": "https://github.com/JacquesLucke/ccelerate",
+      "language": "C++"
+    },
+    {
+      "name": "jlucke.com",
+      "repo": "https://github.com/JacquesLucke/jlucke.com",
+      "language": "MDX"
+    },
+    {
+      "name": "vcpkg_playground",
+      "repo": "https://github.com/JacquesLucke/vcpkg_playground",
+      "language": "C++"
+    },
+    {
+      "name": "blender_vscode",
+      "repo": "https://github.com/JacquesLucke/blender_vscode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "animation_nodes",
+      "repo": "https://github.com/JacquesLucke/animation_nodes",
+      "language": "Python"
+    },
+    {
+      "name": "animation_nodes_website",
+      "repo": "https://github.com/JacquesLucke/animation_nodes_website",
+      "language": "HTML"
+    },
+    {
+      "name": "paintable_light",
+      "repo": "https://github.com/JacquesLucke/paintable_light",
+      "language": "C++"
+    },
+    {
+      "name": "sd_card_usage",
+      "repo": "https://github.com/JacquesLucke/sd_card_usage"
+    },
+    {
+      "name": "current_sense_test",
+      "repo": "https://github.com/JacquesLucke/current_sense_test"
+    },
+    {
+      "name": "switch_button_tester",
+      "repo": "https://github.com/JacquesLucke/switch_button_tester"
+    },
+    {
+      "name": "step_down_dc_test",
+      "repo": "https://github.com/JacquesLucke/step_down_dc_test"
+    },
+    {
+      "name": "usb_pd_test_pcb",
+      "repo": "https://github.com/JacquesLucke/usb_pd_test_pcb"
+    },
+    {
+      "name": "LED_orientation_tester",
+      "repo": "https://github.com/JacquesLucke/LED_orientation_tester"
+    },
+    {
+      "name": "attiny85_rust_test",
+      "repo": "https://github.com/JacquesLucke/attiny85_rust_test",
+      "language": "Rust"
+    },
+    {
+      "name": "ch32v003_blink",
+      "repo": "https://github.com/JacquesLucke/ch32v003_blink",
+      "language": "C++"
+    },
+    {
+      "name": "attiny85_test",
+      "repo": "https://github.com/JacquesLucke/attiny85_test",
+      "language": "C++"
+    },
+    {
+      "name": "udp_light_controller",
+      "repo": "https://github.com/JacquesLucke/udp_light_controller",
+      "language": "C++"
+    },
+    {
+      "name": "christmas_bot",
+      "repo": "https://github.com/JacquesLucke/christmas_bot",
+      "language": "Python"
+    },
+    {
+      "name": "blender_vscode_folder",
+      "repo": "https://github.com/JacquesLucke/blender_vscode_folder"
+    },
+    {
+      "name": "patch_launcher",
+      "repo": "https://github.com/JacquesLucke/patch_launcher",
+      "language": "Python"
+    },
+    {
+      "name": "epc2025_workshop",
+      "repo": "https://github.com/JacquesLucke/epc2025_workshop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "polli.live",
+      "repo": "https://github.com/JacquesLucke/polli.live",
+      "language": "Rust"
+    },
+    {
+      "name": "speech-cache",
+      "repo": "https://github.com/JacquesLucke/speech-cache",
+      "language": "Rust"
+    },
+    {
+      "name": "tripatlas",
+      "repo": "https://github.com/JacquesLucke/tripatlas",
+      "url": "https://tripatlas.org",
+      "language": "Rust"
+    },
+    {
+      "name": "trip-atlas-old",
+      "repo": "https://github.com/JacquesLucke/trip-atlas-old",
+      "language": "Rust"
+    },
+    {
+      "name": "workout-planner",
+      "repo": "https://github.com/JacquesLucke/workout-planner",
+      "language": "TypeScript"
+    },
+    {
+      "name": "age",
+      "repo": "https://github.com/JacquesLucke/age",
+      "language": "HTML"
+    },
+    {
+      "name": "forgotten_plant",
+      "repo": "https://github.com/JacquesLucke/forgotten_plant",
+      "language": "HTML"
+    },
+    {
+      "name": "kaktus",
+      "repo": "https://github.com/JacquesLucke/kaktus",
+      "language": "C++"
+    },
+    {
+      "name": "pilz_qualle",
+      "repo": "https://github.com/JacquesLucke/pilz_qualle",
+      "language": "C++"
+    },
+    {
+      "name": "burst_navigator",
+      "repo": "https://github.com/JacquesLucke/burst_navigator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "potassco_test",
+      "repo": "https://github.com/JacquesLucke/potassco_test",
+      "language": "Python"
+    },
+    {
+      "name": "evaluating_geometry_nodes_talk",
+      "repo": "https://github.com/JacquesLucke/evaluating_geometry_nodes_talk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "js.polli.live",
+      "repo": "https://github.com/JacquesLucke/js.polli.live",
+      "language": "TypeScript"
+    },
+    {
+      "name": "test1",
+      "repo": "https://github.com/JacquesLucke/test1",
+      "language": "HTML"
+    },
+    {
+      "name": "core_debug_tools_for_blender",
+      "repo": "https://github.com/JacquesLucke/core_debug_tools_for_blender",
+      "language": "Python"
+    },
+    {
+      "name": "poll_audience",
+      "repo": "https://github.com/JacquesLucke/poll_audience",
+      "language": "Rust"
+    },
+    {
+      "name": "gcov-viewer",
+      "repo": "https://github.com/JacquesLucke/gcov-viewer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blender",
+      "repo": "https://github.com/JacquesLucke/blender",
+      "language": "C"
+    },
+    {
+      "name": "animation_nodes_manual",
+      "repo": "https://github.com/JacquesLucke/animation_nodes_manual",
+      "language": "HTML"
+    },
+    {
+      "name": "blender_pretty_printers",
+      "repo": "https://github.com/JacquesLucke/blender_pretty_printers",
+      "language": "Python"
+    },
+    {
+      "name": "simple-check-in",
+      "repo": "https://github.com/JacquesLucke/simple-check-in",
+      "language": "HTML"
+    },
+    {
+      "name": "quickteam",
+      "repo": "https://github.com/JacquesLucke/quickteam",
+      "language": "C++"
+    },
+    {
+      "name": "mint-insider-app",
+      "repo": "https://github.com/JacquesLucke/mint-insider-app",
+      "language": "C++"
+    },
+    {
+      "name": "markdown_to_arsnova_click",
+      "repo": "https://github.com/JacquesLucke/markdown_to_arsnova_click",
+      "language": "HTML"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/JacquesLucke/notes"
+    },
+    {
+      "name": "cipp",
+      "repo": "https://github.com/JacquesLucke/cipp",
+      "language": "Python"
+    },
+    {
+      "name": "cpp_conversion",
+      "repo": "https://github.com/JacquesLucke/cpp_conversion",
+      "language": "Python"
+    },
+    {
+      "name": "assembly_analysis",
+      "repo": "https://github.com/JacquesLucke/assembly_analysis",
+      "language": "Rust"
+    },
+    {
+      "name": "vulkan_compute_test",
+      "repo": "https://github.com/JacquesLucke/vulkan_compute_test",
+      "language": "C++"
+    },
+    {
+      "name": "just_gdb_vscode",
+      "repo": "https://github.com/JacquesLucke/just_gdb_vscode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nobreak",
+      "repo": "https://github.com/JacquesLucke/nobreak",
+      "language": "Python"
+    },
+    {
+      "name": "throughput_analysis",
+      "repo": "https://github.com/JacquesLucke/throughput_analysis",
+      "language": "HTML"
+    },
+    {
+      "name": "node_layers_prototype",
+      "repo": "https://github.com/JacquesLucke/node_layers_prototype",
+      "language": "Python"
+    },
+    {
+      "name": "stronghold_tests",
+      "repo": "https://github.com/JacquesLucke/stronghold_tests",
+      "language": "Rust"
+    },
+    {
+      "name": "study-decks",
+      "repo": "https://github.com/JacquesLucke/study-decks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "auto_encoder_test",
+      "repo": "https://github.com/JacquesLucke/auto_encoder_test",
+      "language": "PureBasic"
+    },
+    {
+      "name": "ml_test",
+      "repo": "https://github.com/JacquesLucke/ml_test",
+      "language": "Python"
+    },
+    {
+      "name": "Blender-Camera-Addon",
+      "repo": "https://github.com/JacquesLucke/Blender-Camera-Addon",
+      "language": "Python"
+    },
+    {
+      "name": "test_ws2801_with_esp8266",
+      "repo": "https://github.com/JacquesLucke/test_ws2801_with_esp8266",
+      "language": "C++"
+    },
+    {
+      "name": "test_ws2811_with_esp8266",
+      "repo": "https://github.com/JacquesLucke/test_ws2811_with_esp8266",
+      "language": "C++"
+    },
+    {
+      "name": "ir-remote-control",
+      "repo": "https://github.com/JacquesLucke/ir-remote-control",
+      "language": "C++"
+    },
+    {
+      "name": "blender_build_tests",
+      "repo": "https://github.com/JacquesLucke/blender_build_tests"
+    },
+    {
+      "name": "iteration_analysis",
+      "repo": "https://github.com/JacquesLucke/iteration_analysis",
+      "language": "C++"
+    },
+    {
+      "name": "string_matching_tests",
+      "repo": "https://github.com/JacquesLucke/string_matching_tests",
+      "language": "Python"
+    },
+    {
+      "name": "node_ui_mockups",
+      "repo": "https://github.com/JacquesLucke/node_ui_mockups",
+      "language": "Python"
+    },
+    {
+      "name": "cache_bandwidth_analysis",
+      "repo": "https://github.com/JacquesLucke/cache_bandwidth_analysis",
+      "language": "C++"
+    },
+    {
+      "name": "retrieval_practice",
+      "repo": "https://github.com/JacquesLucke/retrieval_practice"
+    },
+    {
+      "name": "gate_sim",
+      "repo": "https://github.com/JacquesLucke/gate_sim",
+      "language": "C++"
+    },
+    {
+      "name": "bas",
+      "repo": "https://github.com/JacquesLucke/bas",
+      "language": "C++"
+    },
+    {
+      "name": "i64lang",
+      "repo": "https://github.com/JacquesLucke/i64lang",
+      "language": "Python"
+    },
+    {
+      "name": "code_autocomplete",
+      "repo": "https://github.com/JacquesLucke/code_autocomplete",
+      "language": "Python"
+    },
+    {
+      "name": "cache_latency_analysis",
+      "repo": "https://github.com/JacquesLucke/cache_latency_analysis",
+      "language": "C++"
+    },
+    {
+      "name": "looping_slides",
+      "repo": "https://github.com/JacquesLucke/looping_slides",
+      "language": "Python"
+    },
+    {
+      "name": "data_structure_experiments",
+      "repo": "https://github.com/JacquesLucke/data_structure_experiments",
+      "language": "C++"
+    },
+    {
+      "name": "material_benchmark",
+      "repo": "https://github.com/JacquesLucke/material_benchmark",
+      "language": "Python"
+    },
+    {
+      "name": "simd_tests",
+      "repo": "https://github.com/JacquesLucke/simd_tests",
+      "language": "C++"
+    },
+    {
+      "name": "particle_nodes_prototype",
+      "repo": "https://github.com/JacquesLucke/particle_nodes_prototype",
+      "language": "Python"
+    },
+    {
+      "name": "everything_nodes_prototype",
+      "repo": "https://github.com/JacquesLucke/everything_nodes_prototype",
+      "language": "Python"
+    },
+    {
+      "name": "driver_copy",
+      "repo": "https://github.com/JacquesLucke/driver_copy",
+      "language": "Python"
+    },
+    {
+      "name": "function_nodes_ui",
+      "repo": "https://github.com/JacquesLucke/function_nodes_ui",
+      "language": "Python"
+    },
+    {
+      "name": "derivedrepo",
+      "repo": "https://github.com/JacquesLucke/derivedrepo",
+      "language": "Python"
+    },
+    {
+      "name": "node_mockups",
+      "repo": "https://github.com/JacquesLucke/node_mockups",
+      "language": "Python"
+    },
+    {
+      "name": "blender_vscode_manual",
+      "repo": "https://github.com/JacquesLucke/blender_vscode_manual"
+    },
+    {
+      "name": "pages-test",
+      "repo": "https://github.com/JacquesLucke/pages-test"
+    },
+    {
+      "name": "brainfuck_interpreter",
+      "repo": "https://github.com/JacquesLucke/brainfuck_interpreter",
+      "language": "Python"
+    },
+    {
+      "name": "flexlayout",
+      "repo": "https://github.com/JacquesLucke/flexlayout",
+      "language": "Python"
+    },
+    {
+      "name": "aws_render",
+      "repo": "https://github.com/JacquesLucke/aws_render",
+      "language": "Python"
+    },
+    {
+      "name": "picture_frame_generator",
+      "repo": "https://github.com/JacquesLucke/picture_frame_generator",
+      "language": "Python"
+    },
+    {
+      "name": "Gras-Generator",
+      "repo": "https://github.com/JacquesLucke/Gras-Generator",
+      "language": "Python"
+    },
+    {
+      "name": "e_splat",
+      "repo": "https://github.com/JacquesLucke/e_splat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compute_nodes",
+      "repo": "https://github.com/JacquesLucke/compute_nodes",
+      "language": "Python"
+    },
+    {
+      "name": "terminal_helper",
+      "repo": "https://github.com/JacquesLucke/terminal_helper",
+      "language": "Python"
+    },
+    {
+      "name": "deselect_play",
+      "repo": "https://github.com/JacquesLucke/deselect_play",
+      "language": "Python"
+    },
+    {
+      "name": "CheckLinks",
+      "repo": "https://github.com/JacquesLucke/CheckLinks",
+      "language": "C#"
+    },
+    {
+      "name": "animation_nodes_tests",
+      "repo": "https://github.com/JacquesLucke/animation_nodes_tests"
+    },
+    {
+      "name": "RemoveRaws",
+      "repo": "https://github.com/JacquesLucke/RemoveRaws",
+      "language": "C#"
+    },
+    {
+      "name": "code_autocomplete_manual",
+      "repo": "https://github.com/JacquesLucke/code_autocomplete_manual"
+    },
+    {
+      "name": "PdfBatchEdit",
+      "repo": "https://github.com/JacquesLucke/PdfBatchEdit",
+      "language": "C#"
+    },
+    {
+      "name": "custom_props_edit",
+      "repo": "https://github.com/JacquesLucke/custom_props_edit",
+      "language": "Python"
+    }
+  ],
   "apps": []
 }

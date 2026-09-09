@@ -7,5 +7,497 @@
   "bio": "Colouring outside the lines.",
   "own_repos": 108,
   "commits": 30643,
+  "repos": [
+    {
+      "name": "robrix.github.io",
+      "repo": "https://github.com/robrix/robrix.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/robrix/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "semilattices",
+      "repo": "https://github.com/robrix/semilattices",
+      "language": "Haskell"
+    },
+    {
+      "name": "sequoia",
+      "repo": "https://github.com/robrix/sequoia",
+      "language": "Haskell"
+    },
+    {
+      "name": "interval-functor",
+      "repo": "https://github.com/robrix/interval-functor",
+      "language": "Haskell"
+    },
+    {
+      "name": "crocus",
+      "repo": "https://github.com/robrix/crocus",
+      "language": "Haskell"
+    },
+    {
+      "name": "seq",
+      "repo": "https://github.com/robrix/seq",
+      "language": "Haskell"
+    },
+    {
+      "name": "derivative-parsing",
+      "repo": "https://github.com/robrix/derivative-parsing",
+      "language": "Haskell"
+    },
+    {
+      "name": "isometry",
+      "repo": "https://github.com/robrix/isometry",
+      "language": "Haskell"
+    },
+    {
+      "name": "silkscreen",
+      "repo": "https://github.com/robrix/silkscreen",
+      "language": "Haskell"
+    },
+    {
+      "name": "continuations",
+      "repo": "https://github.com/robrix/continuations",
+      "language": "Haskell"
+    },
+    {
+      "name": "effect-calculus",
+      "repo": "https://github.com/robrix/effect-calculus",
+      "language": "Haskell"
+    },
+    {
+      "name": "starlight",
+      "repo": "https://github.com/robrix/starlight",
+      "language": "Haskell"
+    },
+    {
+      "name": "lambdaft",
+      "repo": "https://github.com/robrix/lambdaft",
+      "language": "Haskell"
+    },
+    {
+      "name": "languages-all-the-way-down",
+      "repo": "https://github.com/robrix/languages-all-the-way-down",
+      "language": "Haskell"
+    },
+    {
+      "name": "tilec",
+      "repo": "https://github.com/robrix/tilec",
+      "language": "Haskell"
+    },
+    {
+      "name": "semiring-parsing",
+      "repo": "https://github.com/robrix/semiring-parsing",
+      "language": "Haskell"
+    },
+    {
+      "name": "path",
+      "repo": "https://github.com/robrix/path",
+      "language": "Haskell"
+    },
+    {
+      "name": "dragon",
+      "repo": "https://github.com/robrix/dragon",
+      "language": "Haskell"
+    },
+    {
+      "name": "elab",
+      "repo": "https://github.com/robrix/elab",
+      "language": "Haskell"
+    },
+    {
+      "name": "cabal-action",
+      "repo": "https://github.com/robrix/cabal-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "synth",
+      "repo": "https://github.com/robrix/synth",
+      "language": "Haskell"
+    },
+    {
+      "name": "raytracer",
+      "repo": "https://github.com/robrix/raytracer",
+      "language": "Haskell"
+    },
+    {
+      "name": "Manifold",
+      "repo": "https://github.com/robrix/Manifold",
+      "language": "Haskell"
+    },
+    {
+      "name": "text-gl",
+      "repo": "https://github.com/robrix/text-gl",
+      "language": "Haskell"
+    },
+    {
+      "name": "Either",
+      "repo": "https://github.com/robrix/Either",
+      "language": "Swift"
+    },
+    {
+      "name": "Prelude",
+      "repo": "https://github.com/robrix/Prelude",
+      "language": "Swift"
+    },
+    {
+      "name": "deterministic-parsing",
+      "repo": "https://github.com/robrix/deterministic-parsing",
+      "language": "Haskell"
+    },
+    {
+      "name": "freer-cofreer",
+      "repo": "https://github.com/robrix/freer-cofreer",
+      "language": "Haskell"
+    },
+    {
+      "name": "effects-sequences",
+      "repo": "https://github.com/robrix/effects-sequences",
+      "language": "Haskell"
+    },
+    {
+      "name": "semirings-modules",
+      "repo": "https://github.com/robrix/semirings-modules",
+      "language": "Haskell"
+    },
+    {
+      "name": "higher-order",
+      "repo": "https://github.com/robrix/higher-order",
+      "language": "Haskell"
+    },
+    {
+      "name": "surface",
+      "repo": "https://github.com/robrix/surface",
+      "language": "Haskell"
+    },
+    {
+      "name": "parallel-incremental",
+      "repo": "https://github.com/robrix/parallel-incremental",
+      "language": "Haskell"
+    },
+    {
+      "name": "Madness",
+      "repo": "https://github.com/robrix/Madness",
+      "language": "Swift"
+    },
+    {
+      "name": "complexity-analysis",
+      "repo": "https://github.com/robrix/complexity-analysis",
+      "language": "Haskell"
+    },
+    {
+      "name": "abstract-interpretation",
+      "repo": "https://github.com/robrix/abstract-interpretation",
+      "language": "Haskell"
+    },
+    {
+      "name": "proficiency",
+      "repo": "https://github.com/robrix/proficiency",
+      "language": "Haskell"
+    },
+    {
+      "name": "ui-effects",
+      "repo": "https://github.com/robrix/ui-effects",
+      "language": "Haskell"
+    },
+    {
+      "name": "spline",
+      "repo": "https://github.com/robrix/spline",
+      "language": "Haskell"
+    },
+    {
+      "name": "distribution",
+      "repo": "https://github.com/robrix/distribution",
+      "language": "Haskell"
+    },
+    {
+      "name": "Box",
+      "repo": "https://github.com/robrix/Box",
+      "language": "Swift"
+    },
+    {
+      "name": "build-stack",
+      "repo": "https://github.com/robrix/build-stack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "language-haskell-ast",
+      "repo": "https://github.com/robrix/language-haskell-ast",
+      "language": "Haskell"
+    },
+    {
+      "name": "Memo",
+      "repo": "https://github.com/robrix/Memo",
+      "language": "Swift"
+    },
+    {
+      "name": "Auspicion",
+      "repo": "https://github.com/robrix/Auspicion",
+      "language": "Swift"
+    },
+    {
+      "name": "Set",
+      "repo": "https://github.com/robrix/Set",
+      "language": "Swift"
+    },
+    {
+      "name": "memory",
+      "repo": "https://github.com/robrix/memory"
+    },
+    {
+      "name": "List",
+      "repo": "https://github.com/robrix/List",
+      "language": "Swift"
+    },
+    {
+      "name": "hello-world",
+      "repo": "https://github.com/robrix/hello-world"
+    },
+    {
+      "name": "Pork",
+      "repo": "https://github.com/robrix/Pork",
+      "language": "Swift"
+    },
+    {
+      "name": "RXCollections",
+      "repo": "https://github.com/robrix/RXCollections",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Reducers",
+      "repo": "https://github.com/robrix/Reducers",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Many-Types-Make-Light-Work",
+      "repo": "https://github.com/robrix/Many-Types-Make-Light-Work"
+    },
+    {
+      "name": "Traversal",
+      "repo": "https://github.com/robrix/Traversal",
+      "language": "Swift"
+    },
+    {
+      "name": "Project-Templates",
+      "repo": "https://github.com/robrix/Project-Templates",
+      "language": "Swift"
+    },
+    {
+      "name": "Haxcessibility",
+      "repo": "https://github.com/robrix/Haxcessibility",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Lagrangian",
+      "repo": "https://github.com/robrix/Lagrangian",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Hammer",
+      "repo": "https://github.com/robrix/Hammer",
+      "language": "Objective-C"
+    },
+    {
+      "name": "meconation",
+      "repo": "https://github.com/robrix/meconation",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Obstruct",
+      "repo": "https://github.com/robrix/Obstruct",
+      "language": "C"
+    },
+    {
+      "name": "TaPL",
+      "repo": "https://github.com/robrix/TaPL",
+      "language": "Swift"
+    },
+    {
+      "name": "Lagrangian.swift",
+      "repo": "https://github.com/robrix/Lagrangian.swift",
+      "language": "Swift"
+    },
+    {
+      "name": "Relation",
+      "repo": "https://github.com/robrix/Relation",
+      "language": "C++"
+    },
+    {
+      "name": "Delay",
+      "repo": "https://github.com/robrix/Delay",
+      "language": "Swift"
+    },
+    {
+      "name": "credit-card-validation",
+      "repo": "https://github.com/robrix/credit-card-validation",
+      "language": "Swift"
+    },
+    {
+      "name": "Hammer.swift",
+      "repo": "https://github.com/robrix/Hammer.swift",
+      "language": "Swift"
+    },
+    {
+      "name": "Loyalist",
+      "repo": "https://github.com/robrix/Loyalist",
+      "language": "Swift"
+    },
+    {
+      "name": "A-Swiftly-Tilting-Parser",
+      "repo": "https://github.com/robrix/A-Swiftly-Tilting-Parser"
+    },
+    {
+      "name": "Grid",
+      "repo": "https://github.com/robrix/Grid",
+      "language": "Objective-C"
+    },
+    {
+      "name": "homebrew-robrix",
+      "repo": "https://github.com/robrix/homebrew-robrix"
+    },
+    {
+      "name": "Postmodern-Programming",
+      "repo": "https://github.com/robrix/Postmodern-Programming"
+    },
+    {
+      "name": "NSFastEnumeration-or-Consequences",
+      "repo": "https://github.com/robrix/NSFastEnumeration-or-Consequences"
+    },
+    {
+      "name": "Navel-Gazing",
+      "repo": "https://github.com/robrix/Navel-Gazing",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXPreprocessing",
+      "repo": "https://github.com/robrix/RXPreprocessing",
+      "language": "C"
+    },
+    {
+      "name": "Halftone",
+      "repo": "https://github.com/robrix/Halftone",
+      "language": "Objective-C"
+    },
+    {
+      "name": "forthward",
+      "repo": "https://github.com/robrix/forthward",
+      "language": "Ruby"
+    },
+    {
+      "name": "RXAllocator",
+      "repo": "https://github.com/robrix/RXAllocator",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Xcode-Templates",
+      "repo": "https://github.com/robrix/Xcode-Templates",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXLazyEnumerations",
+      "repo": "https://github.com/robrix/RXLazyEnumerations",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXTraits",
+      "repo": "https://github.com/robrix/RXTraits",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Y",
+      "repo": "https://github.com/robrix/Y",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXPaths",
+      "repo": "https://github.com/robrix/RXPaths",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXFutures",
+      "repo": "https://github.com/robrix/RXFutures",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXDispatch",
+      "repo": "https://github.com/robrix/RXDispatch",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXSynchronously",
+      "repo": "https://github.com/robrix/RXSynchronously",
+      "language": "Objective-C"
+    },
+    {
+      "name": "RXAssertions",
+      "repo": "https://github.com/robrix/RXAssertions",
+      "language": "Objective-C"
+    },
+    {
+      "name": "-",
+      "repo": "https://github.com/robrix/-",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Drgn",
+      "repo": "https://github.com/robrix/Drgn",
+      "language": "Objective-C"
+    },
+    {
+      "name": "q",
+      "repo": "https://github.com/robrix/q",
+      "language": "Ruby"
+    },
+    {
+      "name": "Focus",
+      "repo": "https://github.com/robrix/Focus",
+      "language": "C"
+    },
+    {
+      "name": "RXJSONCoder",
+      "repo": "https://github.com/robrix/RXJSONCoder",
+      "language": "Objective-C"
+    },
+    {
+      "name": "ns",
+      "repo": "https://github.com/robrix/ns"
+    },
+    {
+      "name": "Arborescence",
+      "repo": "https://github.com/robrix/Arborescence",
+      "language": "C"
+    },
+    {
+      "name": "Quantificate",
+      "repo": "https://github.com/robrix/Quantificate"
+    },
+    {
+      "name": "Monochrome-motemplate",
+      "repo": "https://github.com/robrix/Monochrome-motemplate"
+    },
+    {
+      "name": "Capefish",
+      "repo": "https://github.com/robrix/Capefish",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Polymorph",
+      "repo": "https://github.com/robrix/Polymorph",
+      "language": "Objective-C"
+    },
+    {
+      "name": "objectbinder",
+      "repo": "https://github.com/robrix/objectbinder",
+      "language": "Objective-C"
+    },
+    {
+      "name": "hammerc",
+      "repo": "https://github.com/robrix/hammerc",
+      "language": "Objective-C"
+    }
+  ],
   "apps": []
 }

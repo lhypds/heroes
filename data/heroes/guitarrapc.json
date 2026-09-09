@@ -8,5 +8,514 @@
   "bio": "Swift, Go, Kotlin, C#, PowerShell, TypeScript, Unity, Serverless, Kubernetes, Pulumi, Terraform, AWS, Google Cloud and Azure.",
   "own_repos": 172,
   "commits": 17604,
+  "repos": [
+    {
+      "name": "ol",
+      "repo": "https://github.com/guitarrapc/ol",
+      "language": "C#"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/guitarrapc/scoop-bucket",
+      "url": "https://rasa.github.io/scoop-directory/by-score.html"
+    },
+    {
+      "name": "blog.guitarrapc.com",
+      "repo": "https://github.com/guitarrapc/blog.guitarrapc.com",
+      "url": "https://blog.guitarrapc.com/",
+      "language": "Astro"
+    },
+    {
+      "name": "setup-seiton",
+      "repo": "https://github.com/guitarrapc/setup-seiton",
+      "url": "https://github.com/marketplace/actions/setup-seiton",
+      "language": "JavaScript"
+    },
+    {
+      "name": "envoy-lab",
+      "repo": "https://github.com/guitarrapc/envoy-lab",
+      "language": "Go"
+    },
+    {
+      "name": "FeatherQR",
+      "repo": "https://github.com/guitarrapc/FeatherQR",
+      "url": "https://guitarrapc.github.io/SkiaSharp.QrCode/",
+      "language": "C#"
+    },
+    {
+      "name": "setup-ol",
+      "repo": "https://github.com/guitarrapc/setup-ol",
+      "language": "JavaScript"
+    },
+    {
+      "name": "githubactions-lab",
+      "repo": "https://github.com/guitarrapc/githubactions-lab",
+      "language": "Go"
+    },
+    {
+      "name": "csharp-lab",
+      "repo": "https://github.com/guitarrapc/csharp-lab",
+      "url": "https://hub.docker.com/r/guitarrapc/csharp-lab",
+      "language": "C#"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/guitarrapc/blog",
+      "url": "https://tech.guitarrapc.com",
+      "language": "HTML"
+    },
+    {
+      "name": "guitarrapc.github.io",
+      "repo": "https://github.com/guitarrapc/guitarrapc.github.io",
+      "url": "https://guitarrapc.github.io/",
+      "language": "HTML"
+    },
+    {
+      "name": "hatenablog-theme-codefocus",
+      "repo": "https://github.com/guitarrapc/hatenablog-theme-codefocus",
+      "url": "https://blog.hatena.ne.jp/-/store/theme/6802418398435013379",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ClrProfiler",
+      "repo": "https://github.com/guitarrapc/ClrProfiler",
+      "language": "C#"
+    },
+    {
+      "name": "argocd-lab",
+      "repo": "https://github.com/guitarrapc/argocd-lab",
+      "language": "Go"
+    },
+    {
+      "name": "docker-jmeter-gui",
+      "repo": "https://github.com/guitarrapc/docker-jmeter-gui",
+      "url": "https://hub.docker.com/r/guitarrapc/jmeter-gui",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "dotfiles-win",
+      "repo": "https://github.com/guitarrapc/dotfiles-win",
+      "language": "PowerShell"
+    },
+    {
+      "name": "seiton",
+      "repo": "https://github.com/guitarrapc/seiton",
+      "url": "https://guitarrapc.github.io/seiton/",
+      "language": "C#"
+    },
+    {
+      "name": "InMemoryServerClient",
+      "repo": "https://github.com/guitarrapc/InMemoryServerClient",
+      "language": "C#"
+    },
+    {
+      "name": "kubernetes-manifest-lab",
+      "repo": "https://github.com/guitarrapc/kubernetes-manifest-lab"
+    },
+    {
+      "name": "CopyTabLink",
+      "repo": "https://github.com/guitarrapc/CopyTabLink",
+      "url": "https://chromewebstore.google.com/detail/ihkanabidjfdhmcpbfnhklihnmompkpc?utm_source=item-share-cb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "MiniPty",
+      "repo": "https://github.com/guitarrapc/MiniPty",
+      "language": "C#"
+    },
+    {
+      "name": "scenetake",
+      "repo": "https://github.com/guitarrapc/scenetake",
+      "language": "C#"
+    },
+    {
+      "name": "DotfilesLinker",
+      "repo": "https://github.com/guitarrapc/DotfilesLinker",
+      "language": "C#"
+    },
+    {
+      "name": "matrix",
+      "repo": "https://github.com/guitarrapc/matrix",
+      "language": "C#"
+    },
+    {
+      "name": "benchmark-lab",
+      "repo": "https://github.com/guitarrapc/benchmark-lab",
+      "language": "Go"
+    },
+    {
+      "name": "dotfileslinker-go",
+      "repo": "https://github.com/guitarrapc/dotfileslinker-go",
+      "language": "Go"
+    },
+    {
+      "name": "docker-lab",
+      "repo": "https://github.com/guitarrapc/docker-lab",
+      "language": "C#"
+    },
+    {
+      "name": "SortAlgorithms",
+      "repo": "https://github.com/guitarrapc/SortAlgorithms",
+      "language": "C#"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/guitarrapc/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "actions",
+      "repo": "https://github.com/guitarrapc/actions"
+    },
+    {
+      "name": "math-lab",
+      "repo": "https://github.com/guitarrapc/math-lab",
+      "language": "C#"
+    },
+    {
+      "name": "cloudfrontfunctions-lab",
+      "repo": "https://github.com/guitarrapc/cloudfrontfunctions-lab",
+      "language": "TypeScript"
+    },
+    {
+      "name": "local-provisioner",
+      "repo": "https://github.com/guitarrapc/local-provisioner",
+      "language": "Shell"
+    },
+    {
+      "name": "UnityBuildRunner",
+      "repo": "https://github.com/guitarrapc/UnityBuildRunner",
+      "url": "https://www.nuget.org/packages/UnityBuildRunner",
+      "language": "C#"
+    },
+    {
+      "name": "AgonesSdkCsharp",
+      "repo": "https://github.com/guitarrapc/AgonesSdkCsharp",
+      "language": "C#"
+    },
+    {
+      "name": "AgonesSample",
+      "repo": "https://github.com/guitarrapc/AgonesSample",
+      "url": "https://hub.docker.com/r/guitarrapc/agonessample",
+      "language": "C#"
+    },
+    {
+      "name": "dotfiles-linux",
+      "repo": "https://github.com/guitarrapc/dotfiles-linux",
+      "language": "Shell"
+    },
+    {
+      "name": "MagicOnion-lab",
+      "repo": "https://github.com/guitarrapc/MagicOnion-lab",
+      "language": "ShaderLab"
+    },
+    {
+      "name": "nativebuild-lab",
+      "repo": "https://github.com/guitarrapc/nativebuild-lab",
+      "language": "Shell"
+    },
+    {
+      "name": "ubuntu-glibc",
+      "repo": "https://github.com/guitarrapc/ubuntu-glibc"
+    },
+    {
+      "name": "bash-styleguide",
+      "repo": "https://github.com/guitarrapc/bash-styleguide"
+    },
+    {
+      "name": "linux-strace",
+      "repo": "https://github.com/guitarrapc/linux-strace",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "git-shallow-clone-orb",
+      "repo": "https://github.com/guitarrapc/git-shallow-clone-orb",
+      "url": "https://circleci.com/orbs/registry/orb/guitarrapc/git-shallow-clone"
+    },
+    {
+      "name": "GameLiftAnywhereController",
+      "repo": "https://github.com/guitarrapc/GameLiftAnywhereController"
+    },
+    {
+      "name": "aqua-issue-SLSA",
+      "repo": "https://github.com/guitarrapc/aqua-issue-SLSA"
+    },
+    {
+      "name": "ScoopPlaybook",
+      "repo": "https://github.com/guitarrapc/ScoopPlaybook",
+      "url": "https://www.powershellgallery.com/packages/ScoopPlaybook",
+      "language": "PowerShell"
+    },
+    {
+      "name": "go-lab",
+      "repo": "https://github.com/guitarrapc/go-lab",
+      "language": "Go"
+    },
+    {
+      "name": "S3Sync",
+      "repo": "https://github.com/guitarrapc/S3Sync",
+      "language": "C#"
+    },
+    {
+      "name": "watchdog-symlinker",
+      "repo": "https://github.com/guitarrapc/watchdog-symlinker",
+      "language": "Go"
+    },
+    {
+      "name": "minver-lab",
+      "repo": "https://github.com/guitarrapc/minver-lab",
+      "language": "C#"
+    },
+    {
+      "name": "kubernetes-lab",
+      "repo": "https://github.com/guitarrapc/kubernetes-lab",
+      "language": "C#"
+    },
+    {
+      "name": "shellscript-lab",
+      "repo": "https://github.com/guitarrapc/shellscript-lab",
+      "language": "Shell"
+    },
+    {
+      "name": "git-shallow-clone-test",
+      "repo": "https://github.com/guitarrapc/git-shallow-clone-test"
+    },
+    {
+      "name": "PowerShellUtil",
+      "repo": "https://github.com/guitarrapc/PowerShellUtil",
+      "language": "PowerShell"
+    },
+    {
+      "name": "Template",
+      "repo": "https://github.com/guitarrapc/Template"
+    },
+    {
+      "name": "jq-lab",
+      "repo": "https://github.com/guitarrapc/jq-lab",
+      "language": "Shell"
+    },
+    {
+      "name": "githubapi-lab",
+      "repo": "https://github.com/guitarrapc/githubapi-lab",
+      "language": "JavaScript"
+    },
+    {
+      "name": "benchmark-grpc-lab",
+      "repo": "https://github.com/guitarrapc/benchmark-grpc-lab",
+      "language": "C#"
+    },
+    {
+      "name": "Fonts-lab",
+      "repo": "https://github.com/guitarrapc/Fonts-lab",
+      "language": "JavaScript"
+    },
+    {
+      "name": "db-benchmark",
+      "repo": "https://github.com/guitarrapc/db-benchmark",
+      "language": "Shell"
+    },
+    {
+      "name": "WpfAppLinuxBuild",
+      "repo": "https://github.com/guitarrapc/WpfAppLinuxBuild",
+      "language": "C#"
+    },
+    {
+      "name": "linqpad-lab",
+      "repo": "https://github.com/guitarrapc/linqpad-lab",
+      "language": "C#"
+    },
+    {
+      "name": "rego-lab",
+      "repo": "https://github.com/guitarrapc/rego-lab"
+    },
+    {
+      "name": "docker-ubuntu-mingw-w64",
+      "repo": "https://github.com/guitarrapc/docker-ubuntu-mingw-w64",
+      "url": "https://hub.docker.com/r/guitarrapc/ubuntu-mingw-w64",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "SwiftTutorial",
+      "repo": "https://github.com/guitarrapc/SwiftTutorial",
+      "language": "Swift"
+    },
+    {
+      "name": "DotBuildDependencySample",
+      "repo": "https://github.com/guitarrapc/DotBuildDependencySample",
+      "language": "C#"
+    },
+    {
+      "name": "Comuplus2015",
+      "repo": "https://github.com/guitarrapc/Comuplus2015",
+      "language": "PowerShell"
+    },
+    {
+      "name": "UnityCloudbuildApi",
+      "repo": "https://github.com/guitarrapc/UnityCloudbuildApi",
+      "url": "https://build-api.cloud.unity3d.com/docs/1.0.0/index.html",
+      "language": "C#"
+    },
+    {
+      "name": "LightNodeSample",
+      "repo": "https://github.com/guitarrapc/LightNodeSample",
+      "language": "C#"
+    },
+    {
+      "name": "AwsStsFederateSigninUrlGenerator",
+      "repo": "https://github.com/guitarrapc/AwsStsFederateSigninUrlGenerator",
+      "url": "https://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html",
+      "language": "C#"
+    },
+    {
+      "name": "AWSLambdaCSharpIntroduction",
+      "repo": "https://github.com/guitarrapc/AWSLambdaCSharpIntroduction",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-lab",
+      "repo": "https://github.com/guitarrapc/dotnet-lab",
+      "language": "C#"
+    },
+    {
+      "name": "docker-bicep",
+      "repo": "https://github.com/guitarrapc/docker-bicep",
+      "url": "https://hub.docker.com/r/guitarrapc/docker-bicep",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gRPC-lab",
+      "repo": "https://github.com/guitarrapc/gRPC-lab",
+      "language": "C#"
+    },
+    {
+      "name": "AzureFunctionsIntroduction",
+      "repo": "https://github.com/guitarrapc/AzureFunctionsIntroduction",
+      "language": "C#"
+    },
+    {
+      "name": "ublacklist-subscription",
+      "repo": "https://github.com/guitarrapc/ublacklist-subscription"
+    },
+    {
+      "name": "react-lab",
+      "repo": "https://github.com/guitarrapc/react-lab",
+      "language": "JavaScript"
+    },
+    {
+      "name": "OpenUserSecrets",
+      "repo": "https://github.com/guitarrapc/OpenUserSecrets",
+      "url": "https://marketplace.visualstudio.com/items?itemName=guitarrapc.OpenUserSecrets",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-format-issue-report",
+      "repo": "https://github.com/guitarrapc/dotnet-format-issue-report",
+      "language": "C#"
+    },
+    {
+      "name": "empty-repo-submodule",
+      "repo": "https://github.com/guitarrapc/empty-repo-submodule"
+    },
+    {
+      "name": "bicep-lab",
+      "repo": "https://github.com/guitarrapc/bicep-lab",
+      "language": "Bicep"
+    },
+    {
+      "name": "editorconfig-lab",
+      "repo": "https://github.com/guitarrapc/editorconfig-lab",
+      "language": "C#"
+    },
+    {
+      "name": "unity-lab",
+      "repo": "https://github.com/guitarrapc/unity-lab",
+      "language": "C#"
+    },
+    {
+      "name": "postgresql-lab",
+      "repo": "https://github.com/guitarrapc/postgresql-lab",
+      "language": "C#"
+    },
+    {
+      "name": "timeseriese-lab",
+      "repo": "https://github.com/guitarrapc/timeseriese-lab",
+      "language": "C#"
+    },
+    {
+      "name": "dns-lab",
+      "repo": "https://github.com/guitarrapc/dns-lab"
+    },
+    {
+      "name": "StringSpanExtensions",
+      "repo": "https://github.com/guitarrapc/StringSpanExtensions",
+      "language": "C#"
+    },
+    {
+      "name": "jenkins-lab",
+      "repo": "https://github.com/guitarrapc/jenkins-lab",
+      "language": "ASL"
+    },
+    {
+      "name": "jenkins-pipeline-lab",
+      "repo": "https://github.com/guitarrapc/jenkins-pipeline-lab",
+      "language": "Groovy"
+    },
+    {
+      "name": "KustomizeConfigMapGenerator",
+      "repo": "https://github.com/guitarrapc/KustomizeConfigMapGenerator",
+      "url": "https://www.nuget.org/packages/KustomizeConfigMapGenerator/",
+      "language": "C#"
+    },
+    {
+      "name": "Book-PowerShell-Samples",
+      "repo": "https://github.com/guitarrapc/Book-PowerShell-Samples",
+      "url": "https://www.amazon.co.jp/dp/4839965986/",
+      "language": "PowerShell"
+    },
+    {
+      "name": "CsProjEditor",
+      "repo": "https://github.com/guitarrapc/CsProjEditor",
+      "language": "C#"
+    },
+    {
+      "name": "template-b",
+      "repo": "https://github.com/guitarrapc/template-b"
+    },
+    {
+      "name": "template-a",
+      "repo": "https://github.com/guitarrapc/template-a"
+    },
+    {
+      "name": "SwapTasks",
+      "repo": "https://github.com/guitarrapc/SwapTasks",
+      "language": "C#"
+    },
+    {
+      "name": "grafana-dashboards",
+      "repo": "https://github.com/guitarrapc/grafana-dashboards"
+    },
+    {
+      "name": "docker-dotnetsdk-node-aws",
+      "repo": "https://github.com/guitarrapc/docker-dotnetsdk-node-aws",
+      "url": "https://hub.docker.com/r/guitarrapc/docker-dotnetsdk-node-aws",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "UnityMetaInjection",
+      "repo": "https://github.com/guitarrapc/UnityMetaInjection",
+      "language": "C#"
+    },
+    {
+      "name": "HatenaBlogCodeLab",
+      "repo": "https://github.com/guitarrapc/HatenaBlogCodeLab",
+      "url": "https://tech.guitarrapc.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "charts",
+      "repo": "https://github.com/guitarrapc/charts",
+      "language": "Smarty"
+    }
+  ],
   "apps": []
 }

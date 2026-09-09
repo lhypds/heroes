@@ -8,5 +8,518 @@
   "bio": "Ex-Director of Hubber Enablement at @GitHub. Previously GitHub Engineering, Security, Trust & Safety, and before that @WhiteHouse Presidential Innovation Fellow",
   "own_repos": 222,
   "commits": 13193,
+  "repos": [
+    {
+      "name": "site-inspector-js",
+      "repo": "https://github.com/benbalter/site-inspector-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reorg-tuesdays",
+      "repo": "https://github.com/benbalter/reorg-tuesdays",
+      "language": "TypeScript"
+    },
+    {
+      "name": "word-to-markdown-js",
+      "repo": "https://github.com/benbalter/word-to-markdown-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zoom-go",
+      "repo": "https://github.com/benbalter/zoom-go",
+      "language": "Go"
+    },
+    {
+      "name": "benbalter.github.com",
+      "repo": "https://github.com/benbalter/benbalter.github.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "last-run-action",
+      "repo": "https://github.com/benbalter/last-run-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bulk-issue-creator",
+      "repo": "https://github.com/benbalter/bulk-issue-creator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "markdown-to-word-js",
+      "repo": "https://github.com/benbalter/markdown-to-word-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "schedule-discussion-posts-action",
+      "repo": "https://github.com/benbalter/schedule-discussion-posts-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-hole-cloudflared-docker-compose-ansible-caddy",
+      "repo": "https://github.com/benbalter/pi-hole-cloudflared-docker-compose-ansible-caddy",
+      "url": "https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "bot-notification-silencer",
+      "repo": "https://github.com/benbalter/bot-notification-silencer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "word-to-markdown-server",
+      "repo": "https://github.com/benbalter/word-to-markdown-server",
+      "url": "https://word2md.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "gmail-and-google-calendar-stats",
+      "repo": "https://github.com/benbalter/gmail-and-google-calendar-stats",
+      "language": "TypeScript"
+    },
+    {
+      "name": "copilot-bumper",
+      "repo": "https://github.com/benbalter/copilot-bumper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ai-community-moderator",
+      "repo": "https://github.com/benbalter/ai-community-moderator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/benbalter/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "alt-text-generator-action",
+      "repo": "https://github.com/benbalter/alt-text-generator-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "comment-rollup",
+      "repo": "https://github.com/benbalter/comment-rollup",
+      "language": "TypeScript"
+    },
+    {
+      "name": "benbalter.com",
+      "repo": "https://github.com/benbalter/benbalter.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "wordpress-static-site-exporter",
+      "repo": "https://github.com/benbalter/wordpress-static-site-exporter",
+      "url": "https://ben.balter.com/wordpress-to-jekyll-exporter",
+      "language": "PHP"
+    },
+    {
+      "name": "word-to-markdown",
+      "repo": "https://github.com/benbalter/word-to-markdown",
+      "url": "https://word2md.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "word_diff",
+      "repo": "https://github.com/benbalter/word_diff",
+      "language": "Ruby"
+    },
+    {
+      "name": "situation-clock",
+      "repo": "https://github.com/benbalter/situation-clock",
+      "language": "TypeScript"
+    },
+    {
+      "name": "site-scanning-snapshots-experiment",
+      "repo": "https://github.com/benbalter/site-scanning-snapshots-experiment",
+      "language": "JavaScript"
+    },
+    {
+      "name": "site-inspector-demo",
+      "repo": "https://github.com/benbalter/site-inspector-demo",
+      "url": "https://site-inspector.herokuapp.com",
+      "language": "HTML"
+    },
+    {
+      "name": "site-inspector",
+      "repo": "https://github.com/benbalter/site-inspector",
+      "url": "https://site-inspector.herokuapp.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "markdown-to-pdf",
+      "repo": "https://github.com/benbalter/markdown-to-pdf",
+      "url": "https://github-pdf.herokuapp.com/benbalter/markdown-to-pdf/blob/master/README.pdf",
+      "language": "Ruby"
+    },
+    {
+      "name": "dc-maps",
+      "repo": "https://github.com/benbalter/dc-maps",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-titles-from-headings",
+      "repo": "https://github.com/benbalter/jekyll-titles-from-headings",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-remote-theme",
+      "repo": "https://github.com/benbalter/jekyll-remote-theme",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-relative-links",
+      "repo": "https://github.com/benbalter/jekyll-relative-links",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-readme-index",
+      "repo": "https://github.com/benbalter/jekyll-readme-index",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-include-cache",
+      "repo": "https://github.com/benbalter/jekyll-include-cache",
+      "language": "Ruby"
+    },
+    {
+      "name": "huebot",
+      "repo": "https://github.com/benbalter/huebot",
+      "language": "Ruby"
+    },
+    {
+      "name": "gman",
+      "repo": "https://github.com/benbalter/gman",
+      "language": "Ruby"
+    },
+    {
+      "name": "copy-issue-link-bookmarklet",
+      "repo": "https://github.com/benbalter/copy-issue-link-bookmarklet",
+      "language": "TypeScript"
+    },
+    {
+      "name": "comment-card-jp",
+      "repo": "https://github.com/benbalter/comment-card-jp",
+      "url": "https://comment-card-jp.herokuapp.com/benbalter/comment-card-jp/issues/new",
+      "language": "Ruby"
+    },
+    {
+      "name": "ha-smartblinds-ble",
+      "repo": "https://github.com/benbalter/ha-smartblinds-ble",
+      "language": "Python"
+    },
+    {
+      "name": "smartblinds-ble",
+      "repo": "https://github.com/benbalter/smartblinds-ble",
+      "language": "Python"
+    },
+    {
+      "name": "plister",
+      "repo": "https://github.com/benbalter/plister",
+      "language": "Ruby"
+    },
+    {
+      "name": "pdftotext",
+      "repo": "https://github.com/benbalter/pdftotext",
+      "language": "Ruby"
+    },
+    {
+      "name": "tweets",
+      "repo": "https://github.com/benbalter/tweets",
+      "url": "https://ben.balter.com/tweets/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "markdown_to_word",
+      "repo": "https://github.com/benbalter/markdown_to_word",
+      "language": "Ruby"
+    },
+    {
+      "name": "geojson-diff",
+      "repo": "https://github.com/benbalter/geojson-diff",
+      "language": "Ruby"
+    },
+    {
+      "name": "sitemap-parser",
+      "repo": "https://github.com/benbalter/sitemap-parser",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-optional-front-matter",
+      "repo": "https://github.com/benbalter/jekyll-optional-front-matter",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-default-layout",
+      "repo": "https://github.com/benbalter/jekyll-default-layout",
+      "language": "Ruby"
+    },
+    {
+      "name": "count-org-loc",
+      "repo": "https://github.com/benbalter/count-org-loc",
+      "language": "Ruby"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/benbalter/renovate-config"
+    },
+    {
+      "name": "vale-styles",
+      "repo": "https://github.com/benbalter/vale-styles",
+      "language": "Shell"
+    },
+    {
+      "name": "purplecomputer",
+      "repo": "https://github.com/benbalter/purplecomputer",
+      "language": "Python"
+    },
+    {
+      "name": "meeting-matrix",
+      "repo": "https://github.com/benbalter/meeting-matrix",
+      "language": "Python"
+    },
+    {
+      "name": "change_agent",
+      "repo": "https://github.com/benbalter/change_agent",
+      "language": "Ruby"
+    },
+    {
+      "name": "benbalter",
+      "repo": "https://github.com/benbalter/benbalter"
+    },
+    {
+      "name": "avatar-montage",
+      "repo": "https://github.com/benbalter/avatar-montage",
+      "language": "Shell"
+    },
+    {
+      "name": "add-to-org",
+      "repo": "https://github.com/benbalter/add-to-org",
+      "language": "Ruby"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/benbalter/.github",
+      "language": "Ruby"
+    },
+    {
+      "name": "retlab",
+      "repo": "https://github.com/benbalter/retlab",
+      "language": "HTML"
+    },
+    {
+      "name": "gh-repo-suggester",
+      "repo": "https://github.com/benbalter/gh-repo-suggester",
+      "language": "Shell"
+    },
+    {
+      "name": "markdown-to-word",
+      "repo": "https://github.com/benbalter/markdown-to-word"
+    },
+    {
+      "name": "jekyll.js",
+      "repo": "https://github.com/benbalter/jekyll.js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dc-wifi-social",
+      "repo": "https://github.com/benbalter/dc-wifi-social",
+      "language": "Shell"
+    },
+    {
+      "name": "github-uploader",
+      "repo": "https://github.com/benbalter/github-uploader",
+      "url": "https://github-uploader.herokuapp.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "bulk-issue-creator-tests",
+      "repo": "https://github.com/benbalter/bulk-issue-creator-tests",
+      "language": "Liquid"
+    },
+    {
+      "name": "post-linker",
+      "repo": "https://github.com/benbalter/post-linker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jekyll-auth",
+      "repo": "https://github.com/benbalter/jekyll-auth",
+      "url": "https://ben.balter.com/jekyll-auth",
+      "language": "Ruby"
+    },
+    {
+      "name": "title-parser",
+      "repo": "https://github.com/benbalter/title-parser",
+      "language": "Ruby"
+    },
+    {
+      "name": "discussion-stats",
+      "repo": "https://github.com/benbalter/discussion-stats",
+      "language": "Shell"
+    },
+    {
+      "name": "github-pages-health-check-server",
+      "repo": "https://github.com/benbalter/github-pages-health-check-server",
+      "language": "Ruby"
+    },
+    {
+      "name": "where-to-meet",
+      "repo": "https://github.com/benbalter/where-to-meet",
+      "url": "https://where-to-meet.herokuapp.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "chilling_effects",
+      "repo": "https://github.com/benbalter/chilling_effects",
+      "language": "Ruby"
+    },
+    {
+      "name": "our-data-middleman",
+      "repo": "https://github.com/benbalter/our-data-middleman",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "benbalter-com-sandbox",
+      "repo": "https://github.com/benbalter/benbalter-com-sandbox",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "package_checker",
+      "repo": "https://github.com/benbalter/package_checker",
+      "language": "Ruby"
+    },
+    {
+      "name": "assigned-to-trello",
+      "repo": "https://github.com/benbalter/assigned-to-trello",
+      "language": "Ruby"
+    },
+    {
+      "name": "over-sharer",
+      "repo": "https://github.com/benbalter/over-sharer",
+      "url": "https://over-sharer.herokuapp.com/",
+      "language": "CSS"
+    },
+    {
+      "name": "problem_child",
+      "repo": "https://github.com/benbalter/problem_child",
+      "language": "Ruby"
+    },
+    {
+      "name": "gman-api",
+      "repo": "https://github.com/benbalter/gman-api",
+      "language": "Ruby"
+    },
+    {
+      "name": "2021-analysis-of-federal-dotgov-domains",
+      "repo": "https://github.com/benbalter/2021-analysis-of-federal-dotgov-domains",
+      "url": "https://ben.balter.com/2021-analysis-of-federal-dotgov-domains/",
+      "language": "HTML"
+    },
+    {
+      "name": "squad_goals",
+      "repo": "https://github.com/benbalter/squad_goals",
+      "language": "Ruby"
+    },
+    {
+      "name": "troll-repellant",
+      "repo": "https://github.com/benbalter/troll-repellant",
+      "language": "Ruby"
+    },
+    {
+      "name": "add-to-org-demo",
+      "repo": "https://github.com/benbalter/add-to-org-demo",
+      "language": "Ruby"
+    },
+    {
+      "name": "issue-shadower",
+      "repo": "https://github.com/benbalter/issue-shadower",
+      "language": "Ruby"
+    },
+    {
+      "name": "dc-coming-soon",
+      "repo": "https://github.com/benbalter/dc-coming-soon",
+      "url": "https://dc-coming-soon.herokuapp.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-forms",
+      "repo": "https://github.com/benbalter/github-forms",
+      "language": "CSS"
+    },
+    {
+      "name": "redliner",
+      "repo": "https://github.com/benbalter/redliner",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-style-guide",
+      "repo": "https://github.com/benbalter/jekyll-style-guide",
+      "language": "Shell"
+    },
+    {
+      "name": "jekyllbot",
+      "repo": "https://github.com/benbalter/jekyllbot",
+      "language": "Ruby"
+    },
+    {
+      "name": "coconductor",
+      "repo": "https://github.com/benbalter/coconductor",
+      "language": "Ruby"
+    },
+    {
+      "name": "comment-card",
+      "repo": "https://github.com/benbalter/comment-card",
+      "url": "https://comment-card.herokuapp.com/benbalter/comment-card/issues/new",
+      "language": "Ruby"
+    },
+    {
+      "name": "problem_child_demo",
+      "repo": "https://github.com/benbalter/problem_child_demo",
+      "language": "Ruby"
+    },
+    {
+      "name": "government-glossary",
+      "repo": "https://github.com/benbalter/government-glossary",
+      "language": "Ruby"
+    },
+    {
+      "name": "primer-example",
+      "repo": "https://github.com/benbalter/primer-example",
+      "url": "https://ben.balter.com/primer-example"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/benbalter/test"
+    },
+    {
+      "name": "markdown_to_word_demo",
+      "repo": "https://github.com/benbalter/markdown_to_word_demo",
+      "url": "https://markdown-to-word.herokuapp.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "license-test",
+      "repo": "https://github.com/benbalter/license-test"
+    },
+    {
+      "name": "build-revision-test",
+      "repo": "https://github.com/benbalter/build-revision-test"
+    },
+    {
+      "name": "foo",
+      "repo": "https://github.com/benbalter/foo"
+    },
+    {
+      "name": "github-mention-highlighter",
+      "repo": "https://github.com/benbalter/github-mention-highlighter",
+      "url": "https://chrome.google.com/webstore/detail/github-mention-highlighte/ojclbekffnkgbacniibdebdihhgenlkp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github_records_archiver",
+      "repo": "https://github.com/benbalter/github_records_archiver",
+      "language": "Ruby"
+    }
+  ],
   "apps": []
 }

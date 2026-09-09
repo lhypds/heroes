@@ -7,5 +7,504 @@
   "website": "https://www.shish.io/",
   "own_repos": 132,
   "commits": 11257,
+  "repos": [
+    {
+      "name": "karakara",
+      "repo": "https://github.com/shish/karakara",
+      "url": "https://karakara.uk",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jj-pr",
+      "repo": "https://github.com/shish/jj-pr",
+      "language": "Python"
+    },
+    {
+      "name": "cinema",
+      "repo": "https://github.com/shish/cinema",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shm-ipband",
+      "repo": "https://github.com/shish/shm-ipband",
+      "language": "Rust"
+    },
+    {
+      "name": "travmap",
+      "repo": "https://github.com/shish/travmap",
+      "language": "PHP"
+    },
+    {
+      "name": "shimmie2fe",
+      "repo": "https://github.com/shish/shimmie2fe",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shimmie2",
+      "repo": "https://github.com/shish/shimmie2",
+      "language": "PHP"
+    },
+    {
+      "name": "eftb",
+      "repo": "https://github.com/shish/eftb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "packetstats",
+      "repo": "https://github.com/shish/packetstats",
+      "language": "Rust"
+    },
+    {
+      "name": "link",
+      "repo": "https://github.com/shish/link",
+      "language": "TypeScript"
+    },
+    {
+      "name": "divetools",
+      "repo": "https://github.com/shish/divetools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "browserslist-logs",
+      "repo": "https://github.com/shish/browserslist-logs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chapterss",
+      "repo": "https://github.com/shish/chapterss",
+      "language": "Python"
+    },
+    {
+      "name": "rav",
+      "repo": "https://github.com/shish/rav",
+      "language": "Python"
+    },
+    {
+      "name": "badger",
+      "repo": "https://github.com/shish/badger",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-use-servertime",
+      "repo": "https://github.com/shish/react-use-servertime",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sikulpy",
+      "repo": "https://github.com/shish/sikulpy",
+      "language": "Python"
+    },
+    {
+      "name": "quotes",
+      "repo": "https://github.com/shish/quotes",
+      "language": "Python"
+    },
+    {
+      "name": "esp-ping-leds",
+      "repo": "https://github.com/shish/esp-ping-leds",
+      "language": "Rust"
+    },
+    {
+      "name": "react-mqtt",
+      "repo": "https://github.com/shish/react-mqtt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "polyamory.ie",
+      "repo": "https://github.com/shish/polyamory.ie",
+      "language": "CSS"
+    },
+    {
+      "name": "hacky-debian-packages",
+      "repo": "https://github.com/shish/hacky-debian-packages",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shimmie2-examples",
+      "repo": "https://github.com/shish/shimmie2-examples",
+      "language": "VCL"
+    },
+    {
+      "name": "minilog",
+      "repo": "https://github.com/shish/minilog",
+      "language": "Rust"
+    },
+    {
+      "name": "projectlint",
+      "repo": "https://github.com/shish/projectlint",
+      "language": "Python"
+    },
+    {
+      "name": "rosettaboy-devkits",
+      "repo": "https://github.com/shish/rosettaboy-devkits"
+    },
+    {
+      "name": "react-faicon",
+      "repo": "https://github.com/shish/react-faicon",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phpstan-matchy-string",
+      "repo": "https://github.com/shish/phpstan-matchy-string",
+      "language": "PHP"
+    },
+    {
+      "name": "microbundler",
+      "repo": "https://github.com/shish/microbundler",
+      "language": "PHP"
+    },
+    {
+      "name": "gqla",
+      "repo": "https://github.com/shish/gqla",
+      "language": "PHP"
+    },
+    {
+      "name": "ffsphp",
+      "repo": "https://github.com/shish/ffsphp",
+      "language": "PHP"
+    },
+    {
+      "name": "kissycron",
+      "repo": "https://github.com/shish/kissycron",
+      "language": "Python"
+    },
+    {
+      "name": "code-portfolio",
+      "repo": "https://github.com/shish/code-portfolio",
+      "language": "HTML"
+    },
+    {
+      "name": "microotlp",
+      "repo": "https://github.com/shish/microotlp",
+      "language": "PHP"
+    },
+    {
+      "name": "microhtml",
+      "repo": "https://github.com/shish/microhtml",
+      "language": "PHP"
+    },
+    {
+      "name": "microcrud",
+      "repo": "https://github.com/shish/microcrud",
+      "language": "PHP"
+    },
+    {
+      "name": "esphome-projects",
+      "repo": "https://github.com/shish/esphome-projects",
+      "language": "C++"
+    },
+    {
+      "name": "events",
+      "repo": "https://github.com/shish/events",
+      "language": "Python"
+    },
+    {
+      "name": "jj-cr",
+      "repo": "https://github.com/shish/jj-cr"
+    },
+    {
+      "name": "rosettaboy",
+      "repo": "https://github.com/shish/rosettaboy",
+      "language": "C++"
+    },
+    {
+      "name": "eventtracer-php",
+      "repo": "https://github.com/shish/eventtracer-php",
+      "language": "PHP"
+    },
+    {
+      "name": "blender-ikea-browser",
+      "repo": "https://github.com/shish/blender-ikea-browser",
+      "language": "Python"
+    },
+    {
+      "name": "shishbox",
+      "repo": "https://github.com/shish/shishbox",
+      "language": "CSS"
+    },
+    {
+      "name": "flexihash-rs",
+      "repo": "https://github.com/shish/flexihash-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "git-pictures",
+      "repo": "https://github.com/shish/git-pictures",
+      "language": "HTML"
+    },
+    {
+      "name": "eventtracer-py",
+      "repo": "https://github.com/shish/eventtracer-py",
+      "language": "Python"
+    },
+    {
+      "name": "eventtracer-timedilator",
+      "repo": "https://github.com/shish/eventtracer-timedilator",
+      "language": "Rust"
+    },
+    {
+      "name": "caboose",
+      "repo": "https://github.com/shish/caboose",
+      "language": "Rust"
+    },
+    {
+      "name": "jigsaw",
+      "repo": "https://github.com/shish/jigsaw"
+    },
+    {
+      "name": "shm-cached",
+      "repo": "https://github.com/shish/shm-cached",
+      "language": "Rust"
+    },
+    {
+      "name": "shm-decimate",
+      "repo": "https://github.com/shish/shm-decimate",
+      "language": "Rust"
+    },
+    {
+      "name": "qj",
+      "repo": "https://github.com/shish/qj",
+      "language": "Python"
+    },
+    {
+      "name": "hyperapp-mqtt",
+      "repo": "https://github.com/shish/hyperapp-mqtt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vbf",
+      "repo": "https://github.com/shish/vbf",
+      "language": "Brainfuck"
+    },
+    {
+      "name": "stack-guide",
+      "repo": "https://github.com/shish/stack-guide"
+    },
+    {
+      "name": "hyperapp-navigation",
+      "repo": "https://github.com/shish/hyperapp-navigation",
+      "language": "HTML"
+    },
+    {
+      "name": "hyperapp-survive-hmr",
+      "repo": "https://github.com/shish/hyperapp-survive-hmr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hyperapp-synced-interval",
+      "repo": "https://github.com/shish/hyperapp-synced-interval",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hyperapp-localstorage",
+      "repo": "https://github.com/shish/hyperapp-localstorage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hyperapp-hash-state",
+      "repo": "https://github.com/shish/hyperapp-hash-state",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hyperapp-chromecast",
+      "repo": "https://github.com/shish/hyperapp-chromecast",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gb-autotest-roms",
+      "repo": "https://github.com/shish/gb-autotest-roms",
+      "language": "Assembly"
+    },
+    {
+      "name": "shinymath",
+      "repo": "https://github.com/shish/shinymath",
+      "language": "C"
+    },
+    {
+      "name": "stardude",
+      "repo": "https://github.com/shish/stardude",
+      "language": "C"
+    },
+    {
+      "name": "multipager",
+      "repo": "https://github.com/shish/multipager",
+      "language": "Java"
+    },
+    {
+      "name": "maze",
+      "repo": "https://github.com/shish/maze",
+      "language": "Java"
+    },
+    {
+      "name": "blocks",
+      "repo": "https://github.com/shish/blocks",
+      "language": "C"
+    },
+    {
+      "name": "rpi-router-forumula",
+      "repo": "https://github.com/shish/rpi-router-forumula",
+      "language": "SaltStack"
+    },
+    {
+      "name": "flexihash-py",
+      "repo": "https://github.com/shish/flexihash-py",
+      "language": "Python"
+    },
+    {
+      "name": "mancala",
+      "repo": "https://github.com/shish/mancala",
+      "language": "Python"
+    },
+    {
+      "name": "ha-pushed",
+      "repo": "https://github.com/shish/ha-pushed",
+      "language": "Python"
+    },
+    {
+      "name": "ha-ws07-bt",
+      "repo": "https://github.com/shish/ha-ws07-bt",
+      "language": "Python"
+    },
+    {
+      "name": "shimmie2-accel",
+      "repo": "https://github.com/shish/shimmie2-accel",
+      "language": "Python"
+    },
+    {
+      "name": "pyge",
+      "repo": "https://github.com/shish/pyge",
+      "language": "Python"
+    },
+    {
+      "name": "mic2midi",
+      "repo": "https://github.com/shish/mic2midi",
+      "language": "Python"
+    },
+    {
+      "name": "albhed",
+      "repo": "https://github.com/shish/albhed",
+      "language": "Haskell"
+    },
+    {
+      "name": "devtools-py",
+      "repo": "https://github.com/shish/devtools-py",
+      "language": "Python"
+    },
+    {
+      "name": "pygb",
+      "repo": "https://github.com/shish/pygb",
+      "language": "Python"
+    },
+    {
+      "name": "travis-py35-opencv3",
+      "repo": "https://github.com/shish/travis-py35-opencv3",
+      "language": "Shell"
+    },
+    {
+      "name": "rhrn",
+      "repo": "https://github.com/shish/rhrn",
+      "language": "HTML"
+    },
+    {
+      "name": "kuri2d",
+      "repo": "https://github.com/shish/kuri2d",
+      "language": "C"
+    },
+    {
+      "name": "context2",
+      "repo": "https://github.com/shish/context2",
+      "language": "Go"
+    },
+    {
+      "name": "atom-sikuli",
+      "repo": "https://github.com/shish/atom-sikuli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "libcontext-php",
+      "repo": "https://github.com/shish/libcontext-php",
+      "language": "PHP"
+    },
+    {
+      "name": "cview3",
+      "repo": "https://github.com/shish/cview3",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ugh",
+      "repo": "https://github.com/shish/ugh",
+      "language": "Python"
+    },
+    {
+      "name": "pgosquery",
+      "repo": "https://github.com/shish/pgosquery",
+      "language": "Python"
+    },
+    {
+      "name": "hhvm-sd-notify",
+      "repo": "https://github.com/shish/hhvm-sd-notify",
+      "language": "C++"
+    },
+    {
+      "name": "context",
+      "repo": "https://github.com/shish/context",
+      "language": "Python"
+    },
+    {
+      "name": "mgnq-fixup",
+      "repo": "https://github.com/shish/mgnq-fixup",
+      "language": "Python"
+    },
+    {
+      "name": "context-apis",
+      "repo": "https://github.com/shish/context-apis",
+      "language": "Python"
+    },
+    {
+      "name": "sqliteshelf",
+      "repo": "https://github.com/shish/sqliteshelf",
+      "language": "Python"
+    },
+    {
+      "name": "sd_watcher",
+      "repo": "https://github.com/shish/sd_watcher",
+      "language": "Python"
+    },
+    {
+      "name": "apache2rrd",
+      "repo": "https://github.com/shish/apache2rrd",
+      "language": "Python"
+    },
+    {
+      "name": "shimpy",
+      "repo": "https://github.com/shish/shimpy",
+      "language": "Python"
+    },
+    {
+      "name": "votabo",
+      "repo": "https://github.com/shish/votabo",
+      "language": "Python"
+    },
+    {
+      "name": "git-extras",
+      "repo": "https://github.com/shish/git-extras",
+      "language": "Python"
+    },
+    {
+      "name": "adb",
+      "repo": "https://github.com/shish/adb",
+      "language": "Python"
+    },
+    {
+      "name": "tidydns",
+      "repo": "https://github.com/shish/tidydns",
+      "language": "Python"
+    },
+    {
+      "name": "ghctags",
+      "repo": "https://github.com/shish/ghctags",
+      "language": "Python"
+    }
+  ],
   "apps": []
 }

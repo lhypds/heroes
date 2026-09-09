@@ -6,5 +6,504 @@
   ],
   "own_repos": 134,
   "commits": 14607,
+  "repos": [
+    {
+      "name": "mammoth.js",
+      "repo": "https://github.com/mwilliamson/mammoth.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotnet-mammoth",
+      "repo": "https://github.com/mwilliamson/dotnet-mammoth",
+      "language": "C#"
+    },
+    {
+      "name": "java-mammoth",
+      "repo": "https://github.com/mwilliamson/java-mammoth",
+      "language": "Java"
+    },
+    {
+      "name": "python-mammoth",
+      "repo": "https://github.com/mwilliamson/python-mammoth",
+      "language": "Python"
+    },
+    {
+      "name": "java-source-text",
+      "repo": "https://github.com/mwilliamson/java-source-text",
+      "language": "Java"
+    },
+    {
+      "name": "java-json5",
+      "repo": "https://github.com/mwilliamson/java-json5",
+      "language": "Java"
+    },
+    {
+      "name": "jq.py",
+      "repo": "https://github.com/mwilliamson/jq.py",
+      "language": "Python"
+    },
+    {
+      "name": "setup-wasmtime-action",
+      "repo": "https://github.com/mwilliamson/setup-wasmtime-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "setup-wabt-action",
+      "repo": "https://github.com/mwilliamson/setup-wabt-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "java-precisely",
+      "repo": "https://github.com/mwilliamson/java-precisely",
+      "language": "Java"
+    },
+    {
+      "name": "python-graphjoiner",
+      "repo": "https://github.com/mwilliamson/python-graphjoiner",
+      "language": "Python"
+    },
+    {
+      "name": "staticserver.py",
+      "repo": "https://github.com/mwilliamson/staticserver.py",
+      "language": "Python"
+    },
+    {
+      "name": "mammoth-wordpress-plugin",
+      "repo": "https://github.com/mwilliamson/mammoth-wordpress-plugin",
+      "language": "JavaScript"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/mwilliamson/.github"
+    },
+    {
+      "name": "javascript-precisely",
+      "repo": "https://github.com/mwilliamson/javascript-precisely",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cython-cp314t-mingw32",
+      "repo": "https://github.com/mwilliamson/cython-cp314t-mingw32",
+      "language": "Python"
+    },
+    {
+      "name": "mintaka",
+      "repo": "https://github.com/mwilliamson/mintaka",
+      "language": "Rust"
+    },
+    {
+      "name": "python-precisely",
+      "repo": "https://github.com/mwilliamson/python-precisely",
+      "language": "Python"
+    },
+    {
+      "name": "java-toml-parser",
+      "repo": "https://github.com/mwilliamson/java-toml-parser",
+      "language": "Java"
+    },
+    {
+      "name": "lop",
+      "repo": "https://github.com/mwilliamson/lop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-sync",
+      "repo": "https://github.com/mwilliamson/simple-sync",
+      "language": "TypeScript"
+    },
+    {
+      "name": "python-vendorize",
+      "repo": "https://github.com/mwilliamson/python-vendorize",
+      "language": "Python"
+    },
+    {
+      "name": "clunk",
+      "repo": "https://github.com/mwilliamson/clunk",
+      "language": "Java"
+    },
+    {
+      "name": "java-couscous",
+      "repo": "https://github.com/mwilliamson/java-couscous",
+      "language": "Java"
+    },
+    {
+      "name": "cranelift-compiler",
+      "repo": "https://github.com/mwilliamson/cranelift-compiler",
+      "language": "Rust"
+    },
+    {
+      "name": "python-cobble",
+      "repo": "https://github.com/mwilliamson/python-cobble",
+      "language": "Python"
+    },
+    {
+      "name": "ttrpg-map-sketcher",
+      "repo": "https://github.com/mwilliamson/ttrpg-map-sketcher",
+      "language": "TypeScript"
+    },
+    {
+      "name": "windows-make-demo",
+      "repo": "https://github.com/mwilliamson/windows-make-demo",
+      "language": "Makefile"
+    },
+    {
+      "name": "stickytape",
+      "repo": "https://github.com/mwilliamson/stickytape",
+      "language": "Python"
+    },
+    {
+      "name": "duck.js",
+      "repo": "https://github.com/mwilliamson/duck.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "funk",
+      "repo": "https://github.com/mwilliamson/funk",
+      "language": "Python"
+    },
+    {
+      "name": "rust-precisely",
+      "repo": "https://github.com/mwilliamson/rust-precisely",
+      "language": "Rust"
+    },
+    {
+      "name": "python-graphlayer",
+      "repo": "https://github.com/mwilliamson/python-graphlayer",
+      "language": "Python"
+    },
+    {
+      "name": "spur.py",
+      "repo": "https://github.com/mwilliamson/spur.py",
+      "language": "Python"
+    },
+    {
+      "name": "chembl-graphql",
+      "repo": "https://github.com/mwilliamson/chembl-graphql",
+      "language": "Python"
+    },
+    {
+      "name": "locket.py",
+      "repo": "https://github.com/mwilliamson/locket.py",
+      "language": "Python"
+    },
+    {
+      "name": "toodlepip",
+      "repo": "https://github.com/mwilliamson/toodlepip",
+      "language": "Python"
+    },
+    {
+      "name": "kotlin-shed-b-compiler",
+      "repo": "https://github.com/mwilliamson/kotlin-shed-b-compiler",
+      "language": "Kotlin"
+    },
+    {
+      "name": "sdmx.py",
+      "repo": "https://github.com/mwilliamson/sdmx.py",
+      "language": "Python"
+    },
+    {
+      "name": "hod",
+      "repo": "https://github.com/mwilliamson/hod",
+      "language": "Kotlin"
+    },
+    {
+      "name": "node-sql-gen",
+      "repo": "https://github.com/mwilliamson/node-sql-gen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "python-makefile",
+      "repo": "https://github.com/mwilliamson/python-makefile",
+      "language": "Makefile"
+    },
+    {
+      "name": "zombie-404",
+      "repo": "https://github.com/mwilliamson/zombie-404",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-dmq",
+      "repo": "https://github.com/mwilliamson/python-dmq",
+      "language": "Python"
+    },
+    {
+      "name": "virtual-hand-signals",
+      "repo": "https://github.com/mwilliamson/virtual-hand-signals",
+      "language": "TypeScript"
+    },
+    {
+      "name": "python-mammoth-viewer",
+      "repo": "https://github.com/mwilliamson/python-mammoth-viewer",
+      "language": "Python"
+    },
+    {
+      "name": "dingbat-to-unicode",
+      "repo": "https://github.com/mwilliamson/dingbat-to-unicode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "conan-bdwgc",
+      "repo": "https://github.com/mwilliamson/conan-bdwgc",
+      "language": "Python"
+    },
+    {
+      "name": "node-rate-limit",
+      "repo": "https://github.com/mwilliamson/node-rate-limit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "diff-doc",
+      "repo": "https://github.com/mwilliamson/diff-doc",
+      "language": "Python"
+    },
+    {
+      "name": "node-graphjoiner",
+      "repo": "https://github.com/mwilliamson/node-graphjoiner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-whack-a-mole",
+      "repo": "https://github.com/mwilliamson/elm-whack-a-mole",
+      "language": "Elm"
+    },
+    {
+      "name": "node-options",
+      "repo": "https://github.com/mwilliamson/node-options",
+      "language": "JavaScript"
+    },
+    {
+      "name": "http-api-proxy",
+      "repo": "https://github.com/mwilliamson/http-api-proxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "connect-response-cache",
+      "repo": "https://github.com/mwilliamson/connect-response-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "whack-package-nginx",
+      "repo": "https://github.com/mwilliamson/whack-package-nginx",
+      "language": "Python"
+    },
+    {
+      "name": "rewrite-c-strings",
+      "repo": "https://github.com/mwilliamson/rewrite-c-strings",
+      "language": "Rust"
+    },
+    {
+      "name": "whack",
+      "repo": "https://github.com/mwilliamson/whack",
+      "language": "Python"
+    },
+    {
+      "name": "twenty-seventeen",
+      "repo": "https://github.com/mwilliamson/twenty-seventeen",
+      "language": "Prolog"
+    },
+    {
+      "name": "clojure-couscous",
+      "repo": "https://github.com/mwilliamson/clojure-couscous",
+      "language": "Clojure"
+    },
+    {
+      "name": "abuse.web",
+      "repo": "https://github.com/mwilliamson/abuse.web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browserify-prepend-licenses",
+      "repo": "https://github.com/mwilliamson/browserify-prepend-licenses",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-license-sniffer",
+      "repo": "https://github.com/mwilliamson/node-license-sniffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zuice",
+      "repo": "https://github.com/mwilliamson/zuice",
+      "language": "Python"
+    },
+    {
+      "name": "whack-package-wordpress",
+      "repo": "https://github.com/mwilliamson/whack-package-wordpress",
+      "language": "Shell"
+    },
+    {
+      "name": "whack-package-apache2-mod-php5",
+      "repo": "https://github.com/mwilliamson/whack-package-apache2-mod-php5",
+      "language": "Shell"
+    },
+    {
+      "name": "farthing",
+      "repo": "https://github.com/mwilliamson/farthing",
+      "language": "Python"
+    },
+    {
+      "name": "nope",
+      "repo": "https://github.com/mwilliamson/nope",
+      "language": "Python"
+    },
+    {
+      "name": "haskell-nope",
+      "repo": "https://github.com/mwilliamson/haskell-nope",
+      "language": "Haskell"
+    },
+    {
+      "name": "dodge.py",
+      "repo": "https://github.com/mwilliamson/dodge.py",
+      "language": "Python"
+    },
+    {
+      "name": "maybe-run",
+      "repo": "https://github.com/mwilliamson/maybe-run",
+      "language": "Shell"
+    },
+    {
+      "name": "whack-package-apache2",
+      "repo": "https://github.com/mwilliamson/whack-package-apache2",
+      "language": "Python"
+    },
+    {
+      "name": "letslearnmips",
+      "repo": "https://github.com/mwilliamson/letslearnmips",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lesson-server",
+      "repo": "https://github.com/mwilliamson/lesson-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "computing-lessons",
+      "repo": "https://github.com/mwilliamson/computing-lessons",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-tempman",
+      "repo": "https://github.com/mwilliamson/python-tempman",
+      "language": "Python"
+    },
+    {
+      "name": "maths-lessons",
+      "repo": "https://github.com/mwilliamson/maths-lessons",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-widgets-knockout",
+      "repo": "https://github.com/mwilliamson/web-widgets-knockout",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mwilliamson.github.io",
+      "repo": "https://github.com/mwilliamson/mwilliamson.github.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shed-runtime",
+      "repo": "https://github.com/mwilliamson/shed-runtime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shed-shed-compiler",
+      "repo": "https://github.com/mwilliamson/shed-shed-compiler"
+    },
+    {
+      "name": "shed-lop",
+      "repo": "https://github.com/mwilliamson/shed-lop",
+      "language": "Shell"
+    },
+    {
+      "name": "quadratics",
+      "repo": "https://github.com/mwilliamson/quadratics",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shed-shed-compiler-releases",
+      "repo": "https://github.com/mwilliamson/shed-shed-compiler-releases",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blahtoblah.com",
+      "repo": "https://github.com/mwilliamson/blahtoblah.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beach",
+      "repo": "https://github.com/mwilliamson/beach",
+      "language": "Python"
+    },
+    {
+      "name": "mayo",
+      "repo": "https://github.com/mwilliamson/mayo",
+      "language": "Python"
+    },
+    {
+      "name": "web-parts",
+      "repo": "https://github.com/mwilliamson/web-parts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "postgresql-insertion-performance",
+      "repo": "https://github.com/mwilliamson/postgresql-insertion-performance",
+      "language": "Python"
+    },
+    {
+      "name": "dotnet-mammoth-viewer",
+      "repo": "https://github.com/mwilliamson/dotnet-mammoth-viewer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shed-duck",
+      "repo": "https://github.com/mwilliamson/shed-duck",
+      "language": "Shell"
+    },
+    {
+      "name": "shed-hat",
+      "repo": "https://github.com/mwilliamson/shed-hat"
+    },
+    {
+      "name": "marmoset.py",
+      "repo": "https://github.com/mwilliamson/marmoset.py",
+      "language": "Python"
+    },
+    {
+      "name": "starboard.py",
+      "repo": "https://github.com/mwilliamson/starboard.py",
+      "language": "Python"
+    },
+    {
+      "name": "wobas",
+      "repo": "https://github.com/mwilliamson/wobas",
+      "language": "Python"
+    },
+    {
+      "name": "cuddy",
+      "repo": "https://github.com/mwilliamson/cuddy",
+      "language": "Python"
+    },
+    {
+      "name": "whack-package-python-virtualenv-env",
+      "repo": "https://github.com/mwilliamson/whack-package-python-virtualenv-env",
+      "language": "Shell"
+    },
+    {
+      "name": "abuse",
+      "repo": "https://github.com/mwilliamson/abuse",
+      "language": "JavaScript"
+    },
+    {
+      "name": "knockish",
+      "repo": "https://github.com/mwilliamson/knockish",
+      "language": "JavaScript"
+    },
+    {
+      "name": "language-ignition",
+      "repo": "https://github.com/mwilliamson/language-ignition",
+      "language": "CSS"
+    }
+  ],
   "apps": []
 }

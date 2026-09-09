@@ -13,6 +13,581 @@
   },
   "own_repos": 222,
   "commits": 52743,
+  "repos": [
+    {
+      "name": "hotkeys-js",
+      "repo": "https://github.com/jaywcjlove/hotkeys-js",
+      "url": "https://jaywcjlove.github.io/hotkeys-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "awesome-swift-macos-apps",
+      "repo": "https://github.com/jaywcjlove/awesome-swift-macos-apps",
+      "url": "https://wangchujiang.com/awesome-swift-macos-apps/",
+      "language": "Swift"
+    },
+    {
+      "name": "releases",
+      "repo": "https://github.com/jaywcjlove/releases",
+      "url": "https://wangchujiang.com/releases/",
+      "language": "EJS"
+    },
+    {
+      "name": "bookmarks",
+      "repo": "https://github.com/jaywcjlove/bookmarks",
+      "url": "https://wangchujiang.com/bookmarks/",
+      "language": "Swift"
+    },
+    {
+      "name": "vidwall",
+      "repo": "https://github.com/jaywcjlove/vidwall",
+      "url": "https://wangchujiang.com/vidwall/",
+      "language": "Swift"
+    },
+    {
+      "name": "awesome-mac",
+      "repo": "https://github.com/jaywcjlove/awesome-mac",
+      "url": "https://git.io/macx",
+      "language": "Swift"
+    },
+    {
+      "name": "scap",
+      "repo": "https://github.com/jaywcjlove/scap",
+      "url": "https://wangchujiang.com/scap/",
+      "language": "Swift"
+    },
+    {
+      "name": "musicer",
+      "repo": "https://github.com/jaywcjlove/musicer",
+      "url": "https://wangchujiang.com/musicer/",
+      "language": "Swift"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/jaywcjlove/homebrew-tap",
+      "url": "https://wangchujiang.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "vidwall-hub",
+      "repo": "https://github.com/jaywcjlove/vidwall-hub",
+      "url": "https://wangchujiang.com/vidwall-hub/",
+      "language": "Swift"
+    },
+    {
+      "name": "reference",
+      "repo": "https://github.com/jaywcjlove/reference",
+      "url": "https://jaywcjlove.github.io/reference",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "quick-rss",
+      "repo": "https://github.com/jaywcjlove/quick-rss",
+      "url": "https://wangchujiang.com/quick-rss/",
+      "language": "Swift"
+    },
+    {
+      "name": "github-rank",
+      "repo": "https://github.com/jaywcjlove/github-rank",
+      "language": "EJS"
+    },
+    {
+      "name": "my-npm-stat",
+      "repo": "https://github.com/jaywcjlove/my-npm-stat",
+      "url": "https://wangchujiang.com/my-npm-stat/",
+      "language": "EJS"
+    },
+    {
+      "name": "linux-command",
+      "repo": "https://github.com/jaywcjlove/linux-command",
+      "url": "https://jaywcjlove.github.io/linux-command",
+      "language": "Markdown"
+    },
+    {
+      "name": "paste-quick",
+      "repo": "https://github.com/jaywcjlove/paste-quick",
+      "url": "https://wangchujiang.com/paste-quick/",
+      "language": "Swift"
+    },
+    {
+      "name": "jaywcjlove.github.io",
+      "repo": "https://github.com/jaywcjlove/jaywcjlove.github.io",
+      "url": "https://wangchujiang.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "awesome-uikit",
+      "repo": "https://github.com/jaywcjlove/awesome-uikit",
+      "url": "https://jaywcjlove.github.io/awesome-uikit",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "app-i18n",
+      "repo": "https://github.com/jaywcjlove/app-i18n",
+      "url": "https://wangchujiang.com/app-i18n/",
+      "language": "Swift"
+    },
+    {
+      "name": "palette-genius",
+      "repo": "https://github.com/jaywcjlove/palette-genius",
+      "url": "https://wangchujiang.com/palette-genius/",
+      "language": "Swift"
+    },
+    {
+      "name": "linkly",
+      "repo": "https://github.com/jaywcjlove/linkly",
+      "url": "https://wangchujiang.com/linkly/",
+      "language": "Swift"
+    },
+    {
+      "name": "iconed",
+      "repo": "https://github.com/jaywcjlove/iconed",
+      "url": "https://wangchujiang.com/iconed/",
+      "language": "Swift"
+    },
+    {
+      "name": "key-clicker",
+      "repo": "https://github.com/jaywcjlove/key-clicker",
+      "url": "https://wangchujiang.com/key-clicker/",
+      "language": "Swift"
+    },
+    {
+      "name": "mousio",
+      "repo": "https://github.com/jaywcjlove/mousio",
+      "url": "https://wangchujiang.com/mousio/",
+      "language": "Swift"
+    },
+    {
+      "name": "focus-cursor",
+      "repo": "https://github.com/jaywcjlove/focus-cursor",
+      "url": "https://wangchujiang.com/focus-cursor/",
+      "language": "Swift"
+    },
+    {
+      "name": "rightmenu-master",
+      "repo": "https://github.com/jaywcjlove/rightmenu-master",
+      "url": "https://wangchujiang.com/rightmenu-master/",
+      "language": "Swift"
+    },
+    {
+      "name": "mousio-hint",
+      "repo": "https://github.com/jaywcjlove/mousio-hint",
+      "url": "https://wangchujiang.com/mousio-hint/",
+      "language": "Swift"
+    },
+    {
+      "name": "insta360-mic-wallpapers",
+      "repo": "https://github.com/jaywcjlove/insta360-mic-wallpapers",
+      "url": "https://wangchujiang.com/insta360-mic-wallpapers/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PermissionFlow",
+      "repo": "https://github.com/jaywcjlove/PermissionFlow",
+      "language": "Swift"
+    },
+    {
+      "name": "zh-hans.react.dev-for-docker",
+      "repo": "https://github.com/jaywcjlove/zh-hans.react.dev-for-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "jaywcjlove",
+      "repo": "https://github.com/jaywcjlove/jaywcjlove",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MyAppListKit",
+      "repo": "https://github.com/jaywcjlove/MyAppListKit",
+      "language": "Swift"
+    },
+    {
+      "name": "zipora",
+      "repo": "https://github.com/jaywcjlove/zipora",
+      "url": "https://wangchujiang.com/zipora/",
+      "language": "Swift"
+    },
+    {
+      "name": "vidcrop",
+      "repo": "https://github.com/jaywcjlove/vidcrop",
+      "url": "https://wangchujiang.com/vidcrop/",
+      "language": "Swift"
+    },
+    {
+      "name": "rehype-rewrite",
+      "repo": "https://github.com/jaywcjlove/rehype-rewrite",
+      "url": "https://jaywcjlove.github.io/rehype-rewrite",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rehype-video",
+      "repo": "https://github.com/jaywcjlove/rehype-video",
+      "url": "https://jaywcjlove.github.io/rehype-video",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rehype-ignore",
+      "repo": "https://github.com/jaywcjlove/rehype-ignore",
+      "url": "https://jaywcjlove.github.io/rehype-ignore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rehype-attr",
+      "repo": "https://github.com/jaywcjlove/rehype-attr",
+      "url": "https://jaywcjlove.github.io/rehype-attr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "remark-github-blockquote-alert",
+      "repo": "https://github.com/jaywcjlove/remark-github-blockquote-alert",
+      "url": "https://wangchujiang.com/remark-github-blockquote-alert/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "free-font",
+      "repo": "https://github.com/jaywcjlove/free-font",
+      "url": "https://wangchujiang.com/free-font/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "deskmark",
+      "repo": "https://github.com/jaywcjlove/deskmark",
+      "url": "https://wangchujiang.com/deskmark/",
+      "language": "Swift"
+    },
+    {
+      "name": "spa",
+      "repo": "https://github.com/jaywcjlove/spa",
+      "language": "Swift"
+    },
+    {
+      "name": "videoer",
+      "repo": "https://github.com/jaywcjlove/videoer",
+      "url": "https://wangchujiang.com/videoer/",
+      "language": "Swift"
+    },
+    {
+      "name": "daybar",
+      "repo": "https://github.com/jaywcjlove/daybar",
+      "url": "https://wangchujiang.com/daybar/",
+      "language": "Swift"
+    },
+    {
+      "name": "StoreKitHelper",
+      "repo": "https://github.com/jaywcjlove/StoreKitHelper",
+      "language": "Swift"
+    },
+    {
+      "name": "ffmpeg-kit",
+      "repo": "https://github.com/jaywcjlove/ffmpeg-kit",
+      "language": "C"
+    },
+    {
+      "name": "create-custom-symbols",
+      "repo": "https://github.com/jaywcjlove/create-custom-symbols",
+      "url": "https://wangchujiang.com/create-custom-symbols/",
+      "language": "Swift"
+    },
+    {
+      "name": "file-sentinel",
+      "repo": "https://github.com/jaywcjlove/file-sentinel",
+      "url": "https://wangchujiang.com/file-sentinel/",
+      "language": "Swift"
+    },
+    {
+      "name": "audioer",
+      "repo": "https://github.com/jaywcjlove/audioer",
+      "url": "https://wangchujiang.com/audioer/",
+      "language": "Swift"
+    },
+    {
+      "name": "IconizeFolder",
+      "repo": "https://github.com/jaywcjlove/IconizeFolder",
+      "url": "https://wangchujiang.com/IconizeFolder/",
+      "language": "Swift"
+    },
+    {
+      "name": "screen-test",
+      "repo": "https://github.com/jaywcjlove/screen-test",
+      "url": "https://wangchujiang.com/screen-test/",
+      "language": "Swift"
+    },
+    {
+      "name": "react-components-awesome",
+      "repo": "https://github.com/jaywcjlove/react-components-awesome",
+      "url": "https://jaywcjlove.github.io/react-components-awesome"
+    },
+    {
+      "name": "dock-lift",
+      "repo": "https://github.com/jaywcjlove/dock-lift",
+      "url": "https://wangchujiang.com/dock-lift/",
+      "language": "Swift"
+    },
+    {
+      "name": "copybook-generator",
+      "repo": "https://github.com/jaywcjlove/copybook-generator",
+      "url": "https://wangchujiang.com/copybook-generator/",
+      "language": "Swift"
+    },
+    {
+      "name": "maslink",
+      "repo": "https://github.com/jaywcjlove/maslink",
+      "url": "https://jaywcjlove.github.io/maslink/?id=6737160756"
+    },
+    {
+      "name": "keyzer",
+      "repo": "https://github.com/jaywcjlove/keyzer",
+      "url": "https://wangchujiang.com/keyzer/",
+      "language": "Swift"
+    },
+    {
+      "name": "SVGSymbolKit",
+      "repo": "https://github.com/jaywcjlove/SVGSymbolKit",
+      "language": "Swift"
+    },
+    {
+      "name": "SwiftINI",
+      "repo": "https://github.com/jaywcjlove/SwiftINI",
+      "language": "Swift"
+    },
+    {
+      "name": "handbook",
+      "repo": "https://github.com/jaywcjlove/handbook",
+      "url": "https://jaywcjlove.github.io/handbook",
+      "language": "Markdown"
+    },
+    {
+      "name": "idoc",
+      "repo": "https://github.com/jaywcjlove/idoc",
+      "url": "https://git.io/idoc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "svgtofont",
+      "repo": "https://github.com/jaywcjlove/svgtofont",
+      "url": "https://jaywcjlove.github.io/svgtofont",
+      "language": "TypeScript"
+    },
+    {
+      "name": "code-example",
+      "repo": "https://github.com/jaywcjlove/code-example",
+      "url": "https://jaywcjlove.github.io/code-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awesome-swift",
+      "repo": "https://github.com/jaywcjlove/awesome-swift",
+      "url": "https://jaywcjlove.github.io/awesome-swift/"
+    },
+    {
+      "name": "ColorSelector",
+      "repo": "https://github.com/jaywcjlove/ColorSelector",
+      "language": "Swift"
+    },
+    {
+      "name": "archive-test-files",
+      "repo": "https://github.com/jaywcjlove/archive-test-files",
+      "url": "https://wangchujiang.com/archive-test-files/",
+      "language": "Makefile"
+    },
+    {
+      "name": "tools",
+      "repo": "https://github.com/jaywcjlove/tools",
+      "url": "https://jaywcjlove.github.io/tools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SystemSettings-URLs-macOS",
+      "repo": "https://github.com/jaywcjlove/SystemSettings-URLs-macOS"
+    },
+    {
+      "name": "pinyin-font",
+      "repo": "https://github.com/jaywcjlove/pinyin-font",
+      "url": "https://jaywcjlove.github.io/pinyin-font/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ejs-cli",
+      "repo": "https://github.com/jaywcjlove/ejs-cli",
+      "url": "https://jaywcjlove.github.io/ejs-cli/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-serve",
+      "repo": "https://github.com/jaywcjlove/web-serve",
+      "url": "https://wangchujiang.com/web-serve/",
+      "language": "Swift"
+    },
+    {
+      "name": "whereis",
+      "repo": "https://github.com/jaywcjlove/whereis",
+      "url": "https://jaywcjlove.github.io/whereis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust-cn-document-for-docker",
+      "repo": "https://github.com/jaywcjlove/rust-cn-document-for-docker",
+      "url": "https://jaywcjlove.github.io/rust-cn-document-for-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "validator.js",
+      "repo": "https://github.com/jaywcjlove/validator.js",
+      "url": "https://git.io/validatorjs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-web",
+      "repo": "https://github.com/jaywcjlove/vim-web",
+      "url": "https://jaywcjlove.github.io/vim-web",
+      "language": "Vim Script"
+    },
+    {
+      "name": "uglify-js-export",
+      "repo": "https://github.com/jaywcjlove/uglify-js-export",
+      "url": "https://jaywcjlove.github.io/tools/#/js-beautifier",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Toast",
+      "repo": "https://github.com/jaywcjlove/Toast",
+      "language": "Swift"
+    },
+    {
+      "name": "console-emojis",
+      "repo": "https://github.com/jaywcjlove/console-emojis",
+      "url": "https://jaywcjlove.github.io/console-emojis/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "DeviceInfo",
+      "repo": "https://github.com/jaywcjlove/DeviceInfo",
+      "language": "Swift"
+    },
+    {
+      "name": "compile-less",
+      "repo": "https://github.com/jaywcjlove/compile-less",
+      "url": "https://jaywcjlove.github.io/compile-less",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dev-site",
+      "repo": "https://github.com/jaywcjlove/dev-site",
+      "url": "https://jaywcjlove.github.io/dev-site",
+      "language": "JavaScript"
+    },
+    {
+      "name": "colors-cli",
+      "repo": "https://github.com/jaywcjlove/colors-cli",
+      "url": "https://jaywcjlove.github.io/colors-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chinese-numerals",
+      "repo": "https://github.com/jaywcjlove/chinese-numerals",
+      "url": "https://jaywcjlove.github.io/chinese-numerals",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Colorful",
+      "repo": "https://github.com/jaywcjlove/Colorful",
+      "language": "Swift"
+    },
+    {
+      "name": "bannerjs",
+      "repo": "https://github.com/jaywcjlove/bannerjs",
+      "url": "https://jaywcjlove.github.io/bannerjs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "swiftui-texteditor",
+      "repo": "https://github.com/jaywcjlove/swiftui-texteditor",
+      "url": "https://wangchujiang.com/swiftui-texteditor/documentation/texteditorplus/texteditorplus",
+      "language": "Swift"
+    },
+    {
+      "name": "swiftui-markdown",
+      "repo": "https://github.com/jaywcjlove/swiftui-markdown",
+      "url": "https://jaywcjlove.github.io/swiftui-markdown",
+      "language": "Swift"
+    },
+    {
+      "name": "swiftui-searchfield",
+      "repo": "https://github.com/jaywcjlove/swiftui-searchfield",
+      "url": "https://jaywcjlove.github.io/swiftui-searchfield/documentation/searchfield/",
+      "language": "Swift"
+    },
+    {
+      "name": "swiftui-codemirror",
+      "repo": "https://github.com/jaywcjlove/swiftui-codemirror",
+      "language": "Swift"
+    },
+    {
+      "name": "stylus-px2rem",
+      "repo": "https://github.com/jaywcjlove/stylus-px2rem",
+      "url": "https://jaywcjlove.github.io/stylus-px2rem",
+      "language": "Stylus"
+    },
+    {
+      "name": "swift-path-to",
+      "repo": "https://github.com/jaywcjlove/swift-path-to",
+      "language": "Swift"
+    },
+    {
+      "name": "swift-opml",
+      "repo": "https://github.com/jaywcjlove/swift-opml",
+      "language": "Swift"
+    },
+    {
+      "name": "swift-check-update",
+      "repo": "https://github.com/jaywcjlove/swift-check-update",
+      "language": "Swift"
+    },
+    {
+      "name": "recursive-readdir-files",
+      "repo": "https://github.com/jaywcjlove/recursive-readdir-files",
+      "url": "https://jaywcjlove.github.io/recursive-readdir-files",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SFSymbolsPicker",
+      "repo": "https://github.com/jaywcjlove/SFSymbolsPicker",
+      "language": "Swift"
+    },
+    {
+      "name": "nginx-editor",
+      "repo": "https://github.com/jaywcjlove/nginx-editor",
+      "url": "https://jaywcjlove.github.io/nginx-editor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-native",
+      "repo": "https://github.com/jaywcjlove/react-native",
+      "url": "https://jaywcjlove.github.io/react-native"
+    },
+    {
+      "name": "parcel-plugin-markdown-string",
+      "repo": "https://github.com/jaywcjlove/parcel-plugin-markdown-string",
+      "url": "https://jaywcjlove.github.io/parcel-plugin-markdown-string",
+      "language": "TypeScript"
+    },
+    {
+      "name": "path-templater",
+      "repo": "https://github.com/jaywcjlove/path-templater",
+      "url": "https://jaywcjlove.github.io/path-templater",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Prettier",
+      "repo": "https://github.com/jaywcjlove/Prettier",
+      "language": "Swift"
+    },
+    {
+      "name": "OUIData",
+      "repo": "https://github.com/jaywcjlove/OUIData",
+      "language": "Swift"
+    }
+  ],
   "apps": [
     {
       "name": "hotkeys-js",

@@ -6,5 +6,507 @@
   ],
   "own_repos": 111,
   "commits": 31849,
+  "repos": [
+    {
+      "name": "buck2-rustc-bootstrap",
+      "repo": "https://github.com/dtolnay/buck2-rustc-bootstrap",
+      "url": "https://buck2.build",
+      "language": "Starlark"
+    },
+    {
+      "name": "cxx",
+      "repo": "https://github.com/dtolnay/cxx",
+      "url": "https://cxx.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "trybuild",
+      "repo": "https://github.com/dtolnay/trybuild",
+      "language": "Rust"
+    },
+    {
+      "name": "argv",
+      "repo": "https://github.com/dtolnay/argv",
+      "language": "Rust"
+    },
+    {
+      "name": "target-tuple",
+      "repo": "https://github.com/dtolnay/target-tuple",
+      "language": "Rust"
+    },
+    {
+      "name": "syn",
+      "repo": "https://github.com/dtolnay/syn",
+      "language": "Rust"
+    },
+    {
+      "name": "thiserror",
+      "repo": "https://github.com/dtolnay/thiserror",
+      "language": "Rust"
+    },
+    {
+      "name": "bootstrap",
+      "repo": "https://github.com/dtolnay/bootstrap",
+      "language": "Shell"
+    },
+    {
+      "name": "rust-toolchain",
+      "repo": "https://github.com/dtolnay/rust-toolchain",
+      "language": "Shell"
+    },
+    {
+      "name": "install",
+      "repo": "https://github.com/dtolnay/install",
+      "language": "Shell"
+    },
+    {
+      "name": "async-trait",
+      "repo": "https://github.com/dtolnay/async-trait",
+      "language": "Rust"
+    },
+    {
+      "name": "get-all-crates",
+      "repo": "https://github.com/dtolnay/get-all-crates",
+      "language": "Rust"
+    },
+    {
+      "name": "foreach",
+      "repo": "https://github.com/dtolnay/foreach"
+    },
+    {
+      "name": "faketty",
+      "repo": "https://github.com/dtolnay/faketty",
+      "language": "Rust"
+    },
+    {
+      "name": "proc-macro2",
+      "repo": "https://github.com/dtolnay/proc-macro2",
+      "language": "Rust"
+    },
+    {
+      "name": "itoa-benchmark",
+      "repo": "https://github.com/dtolnay/itoa-benchmark",
+      "language": "Rust"
+    },
+    {
+      "name": "anyhow",
+      "repo": "https://github.com/dtolnay/anyhow",
+      "language": "Rust"
+    },
+    {
+      "name": "quote",
+      "repo": "https://github.com/dtolnay/quote",
+      "language": "Rust"
+    },
+    {
+      "name": "dyn-clone",
+      "repo": "https://github.com/dtolnay/dyn-clone",
+      "language": "Rust"
+    },
+    {
+      "name": "inventory",
+      "repo": "https://github.com/dtolnay/inventory",
+      "language": "Rust"
+    },
+    {
+      "name": "ref-cast",
+      "repo": "https://github.com/dtolnay/ref-cast",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-tally",
+      "repo": "https://github.com/dtolnay/cargo-tally",
+      "language": "Rust"
+    },
+    {
+      "name": "db-dump",
+      "repo": "https://github.com/dtolnay/db-dump",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-expand",
+      "repo": "https://github.com/dtolnay/cargo-expand",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-llvm-lines",
+      "repo": "https://github.com/dtolnay/cargo-llvm-lines",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-unlock",
+      "repo": "https://github.com/dtolnay/cargo-unlock",
+      "language": "Rust"
+    },
+    {
+      "name": "indoc",
+      "repo": "https://github.com/dtolnay/indoc",
+      "language": "Rust"
+    },
+    {
+      "name": "dissimilar",
+      "repo": "https://github.com/dtolnay/dissimilar",
+      "language": "Rust"
+    },
+    {
+      "name": "zmij",
+      "repo": "https://github.com/dtolnay/zmij",
+      "language": "Rust"
+    },
+    {
+      "name": "precise",
+      "repo": "https://github.com/dtolnay/precise",
+      "language": "Rust"
+    },
+    {
+      "name": "dtoa",
+      "repo": "https://github.com/dtolnay/dtoa",
+      "language": "Rust"
+    },
+    {
+      "name": "ryu",
+      "repo": "https://github.com/dtolnay/ryu",
+      "language": "Rust"
+    },
+    {
+      "name": "dragonbox",
+      "repo": "https://github.com/dtolnay/dragonbox",
+      "language": "Rust"
+    },
+    {
+      "name": "proc-macro-workshop",
+      "repo": "https://github.com/dtolnay/proc-macro-workshop",
+      "language": "Rust"
+    },
+    {
+      "name": "miniserde",
+      "repo": "https://github.com/dtolnay/miniserde",
+      "language": "Rust"
+    },
+    {
+      "name": "linkme",
+      "repo": "https://github.com/dtolnay/linkme",
+      "language": "Rust"
+    },
+    {
+      "name": "chapter-tgz",
+      "repo": "https://github.com/dtolnay/chapter-tgz",
+      "language": "Rust"
+    },
+    {
+      "name": "erased-serde",
+      "repo": "https://github.com/dtolnay/erased-serde",
+      "language": "Rust"
+    },
+    {
+      "name": "rustversion",
+      "repo": "https://github.com/dtolnay/rustversion",
+      "language": "Rust"
+    },
+    {
+      "name": "include-json",
+      "repo": "https://github.com/dtolnay/include-json",
+      "language": "Rust"
+    },
+    {
+      "name": "typetag",
+      "repo": "https://github.com/dtolnay/typetag",
+      "language": "Rust"
+    },
+    {
+      "name": "inherent",
+      "repo": "https://github.com/dtolnay/inherent",
+      "language": "Rust"
+    },
+    {
+      "name": "remain",
+      "repo": "https://github.com/dtolnay/remain",
+      "language": "Rust"
+    },
+    {
+      "name": "dyn-hash",
+      "repo": "https://github.com/dtolnay/dyn-hash",
+      "language": "Rust"
+    },
+    {
+      "name": "seq-macro",
+      "repo": "https://github.com/dtolnay/seq-macro",
+      "language": "Rust"
+    },
+    {
+      "name": "readonly",
+      "repo": "https://github.com/dtolnay/readonly",
+      "language": "Rust"
+    },
+    {
+      "name": "no-panic",
+      "repo": "https://github.com/dtolnay/no-panic",
+      "language": "Rust"
+    },
+    {
+      "name": "macro-string",
+      "repo": "https://github.com/dtolnay/macro-string",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-repr",
+      "repo": "https://github.com/dtolnay/serde-repr",
+      "language": "Rust"
+    },
+    {
+      "name": "monostate",
+      "repo": "https://github.com/dtolnay/monostate",
+      "language": "Rust"
+    },
+    {
+      "name": "ghost",
+      "repo": "https://github.com/dtolnay/ghost",
+      "language": "Rust"
+    },
+    {
+      "name": "dashboard",
+      "repo": "https://github.com/dtolnay/dashboard"
+    },
+    {
+      "name": "rust-quiz",
+      "repo": "https://github.com/dtolnay/rust-quiz",
+      "url": "https://dtolnay.github.io/rust-quiz",
+      "language": "Rust"
+    },
+    {
+      "name": "watt",
+      "repo": "https://github.com/dtolnay/watt",
+      "language": "Rust"
+    },
+    {
+      "name": "reflect",
+      "repo": "https://github.com/dtolnay/reflect",
+      "url": "https://docs.rs/reflect",
+      "language": "Rust"
+    },
+    {
+      "name": "case-studies",
+      "repo": "https://github.com/dtolnay/case-studies",
+      "language": "Rust"
+    },
+    {
+      "name": "build-alert",
+      "repo": "https://github.com/dtolnay/build-alert",
+      "language": "Rust"
+    },
+    {
+      "name": "prettyplease",
+      "repo": "https://github.com/dtolnay/prettyplease",
+      "language": "Rust"
+    },
+    {
+      "name": "dtoa-benchmark",
+      "repo": "https://github.com/dtolnay/dtoa-benchmark",
+      "language": "Rust"
+    },
+    {
+      "name": "unicode-ident",
+      "repo": "https://github.com/dtolnay/unicode-ident",
+      "language": "Rust"
+    },
+    {
+      "name": "typeid",
+      "repo": "https://github.com/dtolnay/typeid",
+      "language": "Rust"
+    },
+    {
+      "name": "threadbound",
+      "repo": "https://github.com/dtolnay/threadbound",
+      "language": "Rust"
+    },
+    {
+      "name": "star-history",
+      "repo": "https://github.com/dtolnay/star-history",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-untagged",
+      "repo": "https://github.com/dtolnay/serde-untagged",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-starlark",
+      "repo": "https://github.com/dtolnay/serde-starlark",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-stacker",
+      "repo": "https://github.com/dtolnay/serde-stacker",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-ignored",
+      "repo": "https://github.com/dtolnay/serde-ignored",
+      "language": "Rust"
+    },
+    {
+      "name": "semver",
+      "repo": "https://github.com/dtolnay/semver",
+      "language": "Rust"
+    },
+    {
+      "name": "scratch",
+      "repo": "https://github.com/dtolnay/scratch",
+      "language": "Rust"
+    },
+    {
+      "name": "rustflags",
+      "repo": "https://github.com/dtolnay/rustflags",
+      "language": "Rust"
+    },
+    {
+      "name": "respan",
+      "repo": "https://github.com/dtolnay/respan",
+      "language": "Rust"
+    },
+    {
+      "name": "path-to-error",
+      "repo": "https://github.com/dtolnay/path-to-error",
+      "language": "Rust"
+    },
+    {
+      "name": "oqueue",
+      "repo": "https://github.com/dtolnay/oqueue",
+      "language": "Rust"
+    },
+    {
+      "name": "opt-level",
+      "repo": "https://github.com/dtolnay/opt-level",
+      "language": "Rust"
+    },
+    {
+      "name": "link-cplusplus",
+      "repo": "https://github.com/dtolnay/link-cplusplus",
+      "language": "Rust"
+    },
+    {
+      "name": "itoa",
+      "repo": "https://github.com/dtolnay/itoa",
+      "language": "Rust"
+    },
+    {
+      "name": "essay",
+      "repo": "https://github.com/dtolnay/essay",
+      "url": "https://docs.rs/dtolnay",
+      "language": "Rust"
+    },
+    {
+      "name": "erased-discriminant",
+      "repo": "https://github.com/dtolnay/erased-discriminant",
+      "language": "Rust"
+    },
+    {
+      "name": "dircnt",
+      "repo": "https://github.com/dtolnay/dircnt",
+      "language": "Rust"
+    },
+    {
+      "name": "colorous",
+      "repo": "https://github.com/dtolnay/colorous",
+      "language": "Rust"
+    },
+    {
+      "name": "clang-ast",
+      "repo": "https://github.com/dtolnay/clang-ast",
+      "language": "Rust"
+    },
+    {
+      "name": "bufsize",
+      "repo": "https://github.com/dtolnay/bufsize",
+      "language": "Rust"
+    },
+    {
+      "name": "sha1dir",
+      "repo": "https://github.com/dtolnay/sha1dir",
+      "language": "Rust"
+    },
+    {
+      "name": "automod",
+      "repo": "https://github.com/dtolnay/automod",
+      "language": "Rust"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/dtolnay/.github"
+    },
+    {
+      "name": "install-buck2",
+      "repo": "https://github.com/dtolnay/install-buck2"
+    },
+    {
+      "name": "noisy-clippy",
+      "repo": "https://github.com/dtolnay/noisy-clippy",
+      "language": "Rust"
+    },
+    {
+      "name": "basic-toml",
+      "repo": "https://github.com/dtolnay/basic-toml",
+      "language": "Rust"
+    },
+    {
+      "name": "semver-trick",
+      "repo": "https://github.com/dtolnay/semver-trick",
+      "language": "Rust"
+    },
+    {
+      "name": "libfyaml-rs",
+      "repo": "https://github.com/dtolnay/libfyaml-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "paste",
+      "repo": "https://github.com/dtolnay/paste",
+      "language": "Rust"
+    },
+    {
+      "name": "enumn",
+      "repo": "https://github.com/dtolnay/enumn",
+      "language": "Rust"
+    },
+    {
+      "name": "squatternaut",
+      "repo": "https://github.com/dtolnay/squatternaut",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-yaml",
+      "repo": "https://github.com/dtolnay/serde-yaml",
+      "language": "Rust"
+    },
+    {
+      "name": "unsafe-libyaml",
+      "repo": "https://github.com/dtolnay/unsafe-libyaml",
+      "language": "Rust"
+    },
+    {
+      "name": "fast-rustup",
+      "repo": "https://github.com/dtolnay/fast-rustup",
+      "language": "Rust"
+    },
+    {
+      "name": "hire",
+      "repo": "https://github.com/dtolnay/hire"
+    },
+    {
+      "name": "tt-call",
+      "repo": "https://github.com/dtolnay/tt-call",
+      "language": "Rust"
+    },
+    {
+      "name": "proc-macro-hack",
+      "repo": "https://github.com/dtolnay/proc-macro-hack",
+      "language": "Rust"
+    },
+    {
+      "name": "reduce",
+      "repo": "https://github.com/dtolnay/reduce",
+      "language": "Rust"
+    }
+  ],
   "apps": []
 }

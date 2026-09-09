@@ -8,5 +8,591 @@
   "bio": "Senior Security Researcher @SpecterOps, Speaker, 5x Microsoft MVP",
   "own_repos": 120,
   "commits": 38863,
+  "repos": [
+    {
+      "name": "SymfonyDumpSource",
+      "repo": "https://github.com/p0dalirius/SymfonyDumpSource",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pyLAPS",
+      "repo": "https://github.com/p0dalirius/pyLAPS",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ShareHound",
+      "repo": "https://github.com/p0dalirius/ShareHound",
+      "url": "https://specterops.io/blog/2025/10/30/sharehound-an-opengraph-collector-for-network-shares/",
+      "language": "Go"
+    },
+    {
+      "name": "p0dalirius",
+      "repo": "https://github.com/p0dalirius/p0dalirius",
+      "url": "https://github.com/p0dalirius"
+    },
+    {
+      "name": "smbclient-ng",
+      "repo": "https://github.com/p0dalirius/smbclient-ng",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "Accessibility-swap-login-LPE",
+      "repo": "https://github.com/p0dalirius/Accessibility-swap-login-LPE",
+      "language": "Python"
+    },
+    {
+      "name": "bhopengraph",
+      "repo": "https://github.com/p0dalirius/bhopengraph",
+      "url": "https://bhopengraph.readthedocs.io/en/latest/",
+      "language": "Python"
+    },
+    {
+      "name": "pyDescribeNTSecurityDescriptor",
+      "repo": "https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "Coercer",
+      "repo": "https://github.com/p0dalirius/Coercer",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "msFlagsDecoder",
+      "repo": "https://github.com/p0dalirius/msFlagsDecoder",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ldapconsole",
+      "repo": "https://github.com/p0dalirius/ldapconsole",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ctfd-parser",
+      "repo": "https://github.com/p0dalirius/ctfd-parser",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "sharpopengraph",
+      "repo": "https://github.com/p0dalirius/sharpopengraph",
+      "url": "https://bloodhound.specterops.io/opengraph/overview",
+      "language": "C#"
+    },
+    {
+      "name": "pyLDAPWordlistHarvester",
+      "repo": "https://github.com/p0dalirius/pyLDAPWordlistHarvester",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "sqli-dichotomic-search",
+      "repo": "https://github.com/p0dalirius/sqli-dichotomic-search",
+      "language": "Python"
+    },
+    {
+      "name": "Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus",
+      "repo": "https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus"
+    },
+    {
+      "name": "CVE-2020-14144-GiTea-git-hooks-rce",
+      "repo": "https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce",
+      "url": "https://podalirius.net/en/articles/exploiting-cve-2020-14144-gitea-authenticated-remote-code-execution/",
+      "language": "Python"
+    },
+    {
+      "name": "pydsinternals",
+      "repo": "https://github.com/p0dalirius/pydsinternals",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "docker-pandoc",
+      "repo": "https://github.com/p0dalirius/docker-pandoc",
+      "language": "Makefile"
+    },
+    {
+      "name": "Wordpress-webshell-plugin",
+      "repo": "https://github.com/p0dalirius/Wordpress-webshell-plugin",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ExtractBitlockerKeys",
+      "repo": "https://github.com/p0dalirius/ExtractBitlockerKeys",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ApacheTomcatScanner",
+      "repo": "https://github.com/p0dalirius/ApacheTomcatScanner",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "RDWAtool",
+      "repo": "https://github.com/p0dalirius/RDWAtool",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pyDescribeSDDL",
+      "repo": "https://github.com/p0dalirius/pyDescribeSDDL",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "docker-build-go-project",
+      "repo": "https://github.com/p0dalirius/docker-build-go-project",
+      "url": "https://podalirius.net/",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shareql",
+      "repo": "https://github.com/p0dalirius/shareql",
+      "language": "Python"
+    },
+    {
+      "name": "WifiListProbeRequests",
+      "repo": "https://github.com/p0dalirius/WifiListProbeRequests",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "GhostSPN",
+      "repo": "https://github.com/p0dalirius/GhostSPN",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pyFindUncommonShares",
+      "repo": "https://github.com/p0dalirius/pyFindUncommonShares",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "sectools",
+      "repo": "https://github.com/p0dalirius/sectools",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "shareql-vscode-ext",
+      "repo": "https://github.com/p0dalirius/shareql-vscode-ext",
+      "language": "TypeScript"
+    },
+    {
+      "name": "LDAPmonitor",
+      "repo": "https://github.com/p0dalirius/LDAPmonitor",
+      "url": "https://podalirius.net/",
+      "language": "C#"
+    },
+    {
+      "name": "hivetools",
+      "repo": "https://github.com/p0dalirius/hivetools",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ipsourcebypass",
+      "repo": "https://github.com/p0dalirius/ipsourcebypass",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "docker-volatility2",
+      "repo": "https://github.com/p0dalirius/docker-volatility2",
+      "url": "https://podalirius.net/",
+      "language": "Makefile"
+    },
+    {
+      "name": "FindUnusualSessions",
+      "repo": "https://github.com/p0dalirius/FindUnusualSessions",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "Argon2Cracker",
+      "repo": "https://github.com/p0dalirius/Argon2Cracker",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pwndocapi",
+      "repo": "https://github.com/p0dalirius/pwndocapi",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "GetFortinetSerialNumber",
+      "repo": "https://github.com/p0dalirius/GetFortinetSerialNumber",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ReflectArguments",
+      "repo": "https://github.com/p0dalirius/ReflectArguments",
+      "url": "https://podalirius.net/",
+      "language": "C++"
+    },
+    {
+      "name": "FindStringInRegistry",
+      "repo": "https://github.com/p0dalirius/FindStringInRegistry",
+      "url": "https://podalirius.net/",
+      "language": "C++"
+    },
+    {
+      "name": "FindProcessesWithNamedPipes",
+      "repo": "https://github.com/p0dalirius/FindProcessesWithNamedPipes",
+      "url": "https://podalirius.net/",
+      "language": "C++"
+    },
+    {
+      "name": "python_packages_paths",
+      "repo": "https://github.com/p0dalirius/python_packages_paths",
+      "url": "https://podalirius.net/en/publications/grehack-2021-optimizing-ssti-payloads-for-jinja2/",
+      "language": "Python"
+    },
+    {
+      "name": "pdbdownload",
+      "repo": "https://github.com/p0dalirius/pdbdownload",
+      "url": "https://podalirius.net/",
+      "language": "Go"
+    },
+    {
+      "name": "RemoteMouse-3.008-Exploit",
+      "repo": "https://github.com/p0dalirius/RemoteMouse-3.008-Exploit",
+      "url": "https://podalirius.net/en/articles/writing-an-exploit-for-remotemouse-3.008/",
+      "language": "Python"
+    },
+    {
+      "name": "SweetRice-webshell-plugin",
+      "repo": "https://github.com/p0dalirius/SweetRice-webshell-plugin",
+      "url": "https://podalirius.net/",
+      "language": "PHP"
+    },
+    {
+      "name": "pySprayer",
+      "repo": "https://github.com/p0dalirius/pySprayer",
+      "language": "Python"
+    },
+    {
+      "name": "Tomcat-webshell-application",
+      "repo": "https://github.com/p0dalirius/Tomcat-webshell-application",
+      "url": "https://podalirius.net/",
+      "language": "Java"
+    },
+    {
+      "name": "gitea-extract-users",
+      "repo": "https://github.com/p0dalirius/gitea-extract-users",
+      "url": "https://podalirius.net",
+      "language": "Python"
+    },
+    {
+      "name": "factorizator",
+      "repo": "https://github.com/p0dalirius/factorizator",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "MSRPRN-Coerce",
+      "repo": "https://github.com/p0dalirius/MSRPRN-Coerce",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "RobotsValidator",
+      "repo": "https://github.com/p0dalirius/RobotsValidator",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "RpcCoerceTemplateCpp",
+      "repo": "https://github.com/p0dalirius/RpcCoerceTemplateCpp",
+      "url": "https://podalirius.net",
+      "language": "C"
+    },
+    {
+      "name": "UsersWithPwdLastSetOlderThan",
+      "repo": "https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pdsimage-downloader",
+      "repo": "https://github.com/p0dalirius/pdsimage-downloader",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "Moodle-webshell-plugin",
+      "repo": "https://github.com/p0dalirius/Moodle-webshell-plugin",
+      "url": "https://podalirius.net/",
+      "language": "PHP"
+    },
+    {
+      "name": "ListValidGSuiteEmails",
+      "repo": "https://github.com/p0dalirius/ListValidGSuiteEmails",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability",
+      "repo": "https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "robotstester",
+      "repo": "https://github.com/p0dalirius/robotstester",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pyPDBdownload",
+      "repo": "https://github.com/p0dalirius/pyPDBdownload",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "GeoWordlists",
+      "repo": "https://github.com/p0dalirius/GeoWordlists",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pyLootApacheServerStatus",
+      "repo": "https://github.com/p0dalirius/pyLootApacheServerStatus",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "sql-injections-with-raw-hashes",
+      "repo": "https://github.com/p0dalirius/sql-injections-with-raw-hashes",
+      "language": "C"
+    },
+    {
+      "name": "AutoType",
+      "repo": "https://github.com/p0dalirius/AutoType",
+      "url": "https://podalirius.net",
+      "language": "Python"
+    },
+    {
+      "name": "windows-coerced-authentication-methods",
+      "repo": "https://github.com/p0dalirius/windows-coerced-authentication-methods",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "DumpSMBShare",
+      "repo": "https://github.com/p0dalirius/DumpSMBShare",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "DomainUsersToXLSX",
+      "repo": "https://github.com/p0dalirius/DomainUsersToXLSX",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "objectwalker",
+      "repo": "https://github.com/p0dalirius/objectwalker",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "microsoft-rpc-fuzzing-tools",
+      "repo": "https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "mercurial-scm-extract",
+      "repo": "https://github.com/p0dalirius/mercurial-scm-extract",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "stackdumper",
+      "repo": "https://github.com/p0dalirius/stackdumper",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "CVE-2020-8813-Cacti-RCE-in-graph_realtime",
+      "repo": "https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime",
+      "language": "Python"
+    },
+    {
+      "name": "wav2mmv",
+      "repo": "https://github.com/p0dalirius/wav2mmv",
+      "url": "https://podalirius.net/",
+      "language": "Shell"
+    },
+    {
+      "name": "CVE-2022-45771-Pwndoc-LFI-to-RCE",
+      "repo": "https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE",
+      "language": "Python"
+    },
+    {
+      "name": "FindAzureDomainTenant",
+      "repo": "https://github.com/p0dalirius/FindAzureDomainTenant",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+      "repo": "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "CrackedNTDStoXLSX",
+      "repo": "https://github.com/p0dalirius/CrackedNTDStoXLSX",
+      "language": "Python"
+    },
+    {
+      "name": "CVE-2018-16763-FuelCMS-1.4.1-RCE",
+      "repo": "https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE",
+      "url": "https://podalirius.net/",
+      "language": "PHP"
+    },
+    {
+      "name": "CodeIgniter-session-unsign",
+      "repo": "https://github.com/p0dalirius/CodeIgniter-session-unsign",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "a-simple-tcp-honeypot",
+      "repo": "https://github.com/p0dalirius/a-simple-tcp-honeypot",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "python-link-shortener",
+      "repo": "https://github.com/p0dalirius/python-link-shortener",
+      "url": "https://podalirius.net",
+      "language": "Python"
+    },
+    {
+      "name": "webapp-wordlists",
+      "repo": "https://github.com/p0dalirius/webapp-wordlists",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "windows-cryptographic-and-hashing-algorithms-explained",
+      "repo": "https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained",
+      "url": "https://podalirius.net",
+      "language": "Python"
+    },
+    {
+      "name": "docker-sagemath",
+      "repo": "https://github.com/p0dalirius/docker-sagemath",
+      "url": "https://podalirius.net/",
+      "language": "Makefile"
+    },
+    {
+      "name": "LimeSurvey-webshell-plugin",
+      "repo": "https://github.com/p0dalirius/LimeSurvey-webshell-plugin",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "ldap2json",
+      "repo": "https://github.com/p0dalirius/ldap2json",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "pySortWindowsISOs",
+      "repo": "https://github.com/p0dalirius/pySortWindowsISOs",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "win32errorcodes",
+      "repo": "https://github.com/p0dalirius/win32errorcodes",
+      "language": "C"
+    },
+    {
+      "name": "linux-kernels",
+      "repo": "https://github.com/p0dalirius/linux-kernels",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "AccountShadowTakeover",
+      "repo": "https://github.com/p0dalirius/AccountShadowTakeover",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "CVE-2022-30780-lighttpd-denial-of-service",
+      "repo": "https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service",
+      "url": "https://podalirius.net/",
+      "language": "Perl"
+    },
+    {
+      "name": "CVE-2022-21907-http.sys",
+      "repo": "https://github.com/p0dalirius/CVE-2022-21907-http.sys",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "CVE-2021-43008-AdminerRead",
+      "repo": "https://github.com/p0dalirius/CVE-2021-43008-AdminerRead",
+      "url": "https://podalirius.net/en/articles/writing-an-exploit-for-adminer-4.6.2-arbitrary-file-read-vulnerability/",
+      "language": "Python"
+    },
+    {
+      "name": "LFIDump",
+      "repo": "https://github.com/p0dalirius/LFIDump",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "streamableDownloader",
+      "repo": "https://github.com/p0dalirius/streamableDownloader",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "CpuCoresTemperatureGraph",
+      "repo": "https://github.com/p0dalirius/CpuCoresTemperatureGraph",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "Awesome-RCE-techniques",
+      "repo": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+      "url": "https://podalirius.net/",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "hexcat",
+      "repo": "https://github.com/p0dalirius/hexcat",
+      "language": "C"
+    },
+    {
+      "name": "GithubBackupAllRepos",
+      "repo": "https://github.com/p0dalirius/GithubBackupAllRepos",
+      "url": "https://podalirius.net/",
+      "language": "Python"
+    },
+    {
+      "name": "SortPEbyVersions",
+      "repo": "https://github.com/p0dalirius/SortPEbyVersions",
+      "language": "Python"
+    }
+  ],
   "apps": []
 }

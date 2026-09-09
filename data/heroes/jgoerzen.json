@@ -6,5 +6,521 @@
   ],
   "own_repos": 113,
   "commits": 13525,
+  "repos": [
+    {
+      "name": "docker-nncp",
+      "repo": "https://github.com/jgoerzen/docker-nncp",
+      "url": "https://salsa.debian.org/jgoerzen/docker-nncp",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-debian-base-vnc",
+      "repo": "https://github.com/jgoerzen/docker-debian-base-vnc",
+      "url": "https://salsa.debian.org/jgoerzen/docker-debian-base-vnc",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-debian-base-standard",
+      "repo": "https://github.com/jgoerzen/docker-debian-base-standard",
+      "url": "https://salsa.debian.org/jgoerzen/docker-debian-base-standard",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-debian-base-security",
+      "repo": "https://github.com/jgoerzen/docker-debian-base-security",
+      "url": "https://salsa.debian.org/jgoerzen/docker-debian-base-security",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-debian-base-minimal",
+      "repo": "https://github.com/jgoerzen/docker-debian-base-minimal",
+      "url": "https://salsa.debian.org/jgoerzen/docker-debian-base-minimal",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-debian-base-apache-php",
+      "repo": "https://github.com/jgoerzen/docker-debian-base-apache-php",
+      "url": "https://salsa.debian.org/jgoerzen/docker-debian-base-apache-php",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-debian-base-apache",
+      "repo": "https://github.com/jgoerzen/docker-debian-base-apache",
+      "url": "https://salsa.debian.org/jgoerzen/docker-debian-base-apache",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-weewx",
+      "repo": "https://github.com/jgoerzen/docker-weewx",
+      "url": "https://salsa.debian.org/jgoerzen/docker-weewx",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-uucp",
+      "repo": "https://github.com/jgoerzen/docker-uucp",
+      "url": "https://salsa.debian.org/jgoerzen/docker-uucp/",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-tor",
+      "repo": "https://github.com/jgoerzen/docker-tor",
+      "url": "https://salsa.debian.org/jgoerzen/docker-tor",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-apache-proxy",
+      "repo": "https://github.com/jgoerzen/docker-apache-proxy",
+      "url": "https://salsa.debian.org/jgoerzen/docker-apache-proxy",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-reverse-proxy-apache",
+      "repo": "https://github.com/jgoerzen/docker-reverse-proxy-apache",
+      "url": "https://salsa.debian.org/jgoerzen/docker-reverse-proxy-apache",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-proxied-app-apache",
+      "repo": "https://github.com/jgoerzen/docker-proxied-app-apache",
+      "url": "https://salsa.debian.org/jgoerzen/docker-proxied-app-apache",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gopher",
+      "repo": "https://github.com/jgoerzen/gopher",
+      "language": "C"
+    },
+    {
+      "name": "vintage-computing",
+      "repo": "https://github.com/jgoerzen/vintage-computing",
+      "language": "Python"
+    },
+    {
+      "name": "hsh",
+      "repo": "https://github.com/jgoerzen/hsh",
+      "language": "Haskell"
+    },
+    {
+      "name": "configfile",
+      "repo": "https://github.com/jgoerzen/configfile",
+      "language": "Haskell"
+    },
+    {
+      "name": "simplesnap",
+      "repo": "https://github.com/jgoerzen/simplesnap",
+      "language": "Shell"
+    },
+    {
+      "name": "netmaze",
+      "repo": "https://github.com/jgoerzen/netmaze",
+      "language": "C"
+    },
+    {
+      "name": "gitsync-nncp",
+      "repo": "https://github.com/jgoerzen/gitsync-nncp",
+      "language": "Shell"
+    },
+    {
+      "name": "mtree-netbsd",
+      "repo": "https://github.com/jgoerzen/mtree-netbsd",
+      "language": "C"
+    },
+    {
+      "name": "libnbcompat",
+      "repo": "https://github.com/jgoerzen/libnbcompat",
+      "language": "C"
+    },
+    {
+      "name": "docker-mythtv",
+      "repo": "https://github.com/jgoerzen/docker-mythtv",
+      "url": "https://salsa.debian.org/jgoerzen/docker-mythtv",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-mythtv-backend",
+      "repo": "https://github.com/jgoerzen/docker-mythtv-backend",
+      "url": "https://salsa.debian.org/jgoerzen/docker-mythtv-backend",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-ampache",
+      "repo": "https://github.com/jgoerzen/docker-ampache",
+      "url": "https://salsa.debian.org/jgoerzen/docker-ampache",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-ampache-base",
+      "repo": "https://github.com/jgoerzen/docker-ampache-base",
+      "url": "https://salsa.debian.org/jgoerzen/docker-ampache-base",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "magic-haskell",
+      "repo": "https://github.com/jgoerzen/magic-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "docker-ampache-mysql",
+      "repo": "https://github.com/jgoerzen/docker-ampache-mysql",
+      "url": "https://salsa.debian.org/jgoerzen/docker-ampache-mysql",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-debian-base",
+      "repo": "https://github.com/jgoerzen/docker-debian-base",
+      "url": "https://salsa.debian.org/jgoerzen/docker-debian-base/",
+      "language": "Shell"
+    },
+    {
+      "name": "nncp",
+      "repo": "https://github.com/jgoerzen/nncp",
+      "url": "https://salsa.debian.org/go-team/packages/nncp",
+      "language": "Go"
+    },
+    {
+      "name": "datapacker",
+      "repo": "https://github.com/jgoerzen/datapacker",
+      "language": "Haskell"
+    },
+    {
+      "name": "pygopherd",
+      "repo": "https://github.com/jgoerzen/pygopherd",
+      "language": "Python"
+    },
+    {
+      "name": "lorapipe",
+      "repo": "https://github.com/jgoerzen/lorapipe",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-mythtv-backend-mysql",
+      "repo": "https://github.com/jgoerzen/docker-mythtv-backend-mysql",
+      "url": "https://salsa.debian.org/jgoerzen/docker-mythtv-backend-mysql",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "nncp-tools",
+      "repo": "https://github.com/jgoerzen/nncp-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "seqjobs",
+      "repo": "https://github.com/jgoerzen/seqjobs",
+      "language": "Shell"
+    },
+    {
+      "name": "covid19ks",
+      "repo": "https://github.com/jgoerzen/covid19ks",
+      "language": "Rust"
+    },
+    {
+      "name": "glktermw",
+      "repo": "https://github.com/jgoerzen/glktermw",
+      "language": "C"
+    },
+    {
+      "name": "covid19db",
+      "repo": "https://github.com/jgoerzen/covid19db",
+      "language": "Rust"
+    },
+    {
+      "name": "sgml-common",
+      "repo": "https://github.com/jgoerzen/sgml-common"
+    },
+    {
+      "name": "ftphs",
+      "repo": "https://github.com/jgoerzen/ftphs",
+      "language": "Haskell"
+    },
+    {
+      "name": "covid19-data",
+      "repo": "https://github.com/jgoerzen/covid19-data"
+    },
+    {
+      "name": "xbnet",
+      "repo": "https://github.com/jgoerzen/xbnet",
+      "language": "Rust"
+    },
+    {
+      "name": "dictclient",
+      "repo": "https://github.com/jgoerzen/dictclient",
+      "language": "HTML"
+    },
+    {
+      "name": "jgoerzen.github.io",
+      "repo": "https://github.com/jgoerzen/jgoerzen.github.io"
+    },
+    {
+      "name": "docker-dos-bbs",
+      "repo": "https://github.com/jgoerzen/docker-dos-bbs",
+      "language": "Shell"
+    },
+    {
+      "name": "cdcvis",
+      "repo": "https://github.com/jgoerzen/cdcvis",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-moin",
+      "repo": "https://github.com/jgoerzen/docker-moin",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rust-num-experimentation",
+      "repo": "https://github.com/jgoerzen/rust-num-experimentation",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-home-assistant",
+      "repo": "https://github.com/jgoerzen/docker-home-assistant",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-logitech-media-server",
+      "repo": "https://github.com/jgoerzen/docker-logitech-media-server",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "taperead",
+      "repo": "https://github.com/jgoerzen/taperead",
+      "language": "Shell"
+    },
+    {
+      "name": "public-snippets",
+      "repo": "https://github.com/jgoerzen/public-snippets",
+      "language": "Shell"
+    },
+    {
+      "name": "zfs-linux",
+      "repo": "https://github.com/jgoerzen/zfs-linux",
+      "language": "C"
+    },
+    {
+      "name": "spl-linux",
+      "repo": "https://github.com/jgoerzen/spl-linux",
+      "language": "C"
+    },
+    {
+      "name": "docker-jenkins-debian-glue",
+      "repo": "https://github.com/jgoerzen/docker-jenkins-debian-glue"
+    },
+    {
+      "name": "txt2rtf",
+      "repo": "https://github.com/jgoerzen/txt2rtf",
+      "language": "Haskell"
+    },
+    {
+      "name": "docker-bbs-renegade",
+      "repo": "https://github.com/jgoerzen/docker-bbs-renegade",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-bbs-citadel",
+      "repo": "https://github.com/jgoerzen/docker-bbs-citadel",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-supervisor",
+      "repo": "https://github.com/jgoerzen/docker-supervisor",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-dosemu",
+      "repo": "https://github.com/jgoerzen/docker-dosemu",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-bbs-vbbs",
+      "repo": "https://github.com/jgoerzen/docker-bbs-vbbs",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-qemu-dos",
+      "repo": "https://github.com/jgoerzen/docker-qemu-dos",
+      "language": "Batchfile"
+    },
+    {
+      "name": "docker-qemu",
+      "repo": "https://github.com/jgoerzen/docker-qemu",
+      "language": "Shell"
+    },
+    {
+      "name": "nfs-user-server",
+      "repo": "https://github.com/jgoerzen/nfs-user-server",
+      "language": "C"
+    },
+    {
+      "name": "docker-bbs",
+      "repo": "https://github.com/jgoerzen/docker-bbs",
+      "language": "Shell"
+    },
+    {
+      "name": "twidge",
+      "repo": "https://github.com/jgoerzen/twidge",
+      "language": "Haskell"
+    },
+    {
+      "name": "testpack",
+      "repo": "https://github.com/jgoerzen/testpack",
+      "language": "Haskell"
+    },
+    {
+      "name": "anydbm",
+      "repo": "https://github.com/jgoerzen/anydbm",
+      "language": "Haskell"
+    },
+    {
+      "name": "rescue-zfs",
+      "repo": "https://github.com/jgoerzen/rescue-zfs",
+      "language": "Shell"
+    },
+    {
+      "name": "wview",
+      "repo": "https://github.com/jgoerzen/wview",
+      "language": "C"
+    },
+    {
+      "name": "hpodder",
+      "repo": "https://github.com/jgoerzen/hpodder",
+      "language": "Haskell"
+    },
+    {
+      "name": "ldap-haskell",
+      "repo": "https://github.com/jgoerzen/ldap-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "tarfilter",
+      "repo": "https://github.com/jgoerzen/tarfilter",
+      "language": "Haskell"
+    },
+    {
+      "name": "gtkrsync",
+      "repo": "https://github.com/jgoerzen/gtkrsync",
+      "language": "Haskell"
+    },
+    {
+      "name": "wview2wurapid",
+      "repo": "https://github.com/jgoerzen/wview2wurapid",
+      "language": "C"
+    },
+    {
+      "name": "spellingalphabet",
+      "repo": "https://github.com/jgoerzen/spellingalphabet",
+      "language": "Haskell"
+    },
+    {
+      "name": "ax25xmpp",
+      "repo": "https://github.com/jgoerzen/ax25xmpp",
+      "language": "Python"
+    },
+    {
+      "name": "jl",
+      "repo": "https://github.com/jgoerzen/jl",
+      "language": "Java"
+    },
+    {
+      "name": "bplus",
+      "repo": "https://github.com/jgoerzen/bplus",
+      "language": "Python"
+    },
+    {
+      "name": "missingpy",
+      "repo": "https://github.com/jgoerzen/missingpy",
+      "language": "Haskell"
+    },
+    {
+      "name": "gmacro",
+      "repo": "https://github.com/jgoerzen/gmacro",
+      "language": "Haskell"
+    },
+    {
+      "name": "listlike",
+      "repo": "https://github.com/jgoerzen/listlike",
+      "language": "Haskell"
+    },
+    {
+      "name": "ebooks",
+      "repo": "https://github.com/jgoerzen/ebooks"
+    },
+    {
+      "name": "media-index",
+      "repo": "https://github.com/jgoerzen/media-index",
+      "language": "Haskell"
+    },
+    {
+      "name": "commithooks",
+      "repo": "https://github.com/jgoerzen/commithooks"
+    },
+    {
+      "name": "vcs-load-dirs",
+      "repo": "https://github.com/jgoerzen/vcs-load-dirs",
+      "language": "Python"
+    },
+    {
+      "name": "arch2darcs",
+      "repo": "https://github.com/jgoerzen/arch2darcs",
+      "language": "Haskell"
+    },
+    {
+      "name": "blogcvt",
+      "repo": "https://github.com/jgoerzen/blogcvt",
+      "language": "Haskell"
+    },
+    {
+      "name": "capwall",
+      "repo": "https://github.com/jgoerzen/capwall",
+      "language": "C"
+    },
+    {
+      "name": "darcs-buildpackage",
+      "repo": "https://github.com/jgoerzen/darcs-buildpackage",
+      "language": "Haskell"
+    },
+    {
+      "name": "dfsbuild",
+      "repo": "https://github.com/jgoerzen/dfsbuild",
+      "language": "Haskell"
+    },
+    {
+      "name": "dictdlib",
+      "repo": "https://github.com/jgoerzen/dictdlib",
+      "language": "Python"
+    },
+    {
+      "name": "gonews",
+      "repo": "https://github.com/jgoerzen/gonews",
+      "language": "Python"
+    },
+    {
+      "name": "gopherbot",
+      "repo": "https://github.com/jgoerzen/gopherbot",
+      "language": "Haskell"
+    },
+    {
+      "name": "gopherweblink",
+      "repo": "https://github.com/jgoerzen/gopherweblink"
+    },
+    {
+      "name": "grunt",
+      "repo": "https://github.com/jgoerzen/grunt",
+      "language": "Python"
+    },
+    {
+      "name": "haskell-devscripts-old",
+      "repo": "https://github.com/jgoerzen/haskell-devscripts-old",
+      "language": "Perl"
+    },
+    {
+      "name": "hdbc-missingh",
+      "repo": "https://github.com/jgoerzen/hdbc-missingh",
+      "language": "Haskell"
+    },
+    {
+      "name": "hwn-old",
+      "repo": "https://github.com/jgoerzen/hwn-old",
+      "language": "Haskell"
+    }
+  ],
   "apps": []
 }

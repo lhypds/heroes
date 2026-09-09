@@ -1,0 +1,529 @@
+{
+  "handle": "nalbam",
+  "name": "Jungyoul Yu",
+  "github": [
+    "https://github.com/nalbam"
+  ],
+  "website": "https://nalbam.com/",
+  "bio": "SRE / DevOps / AWS AI Hero",
+  "own_repos": 150,
+  "commits": 11556,
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/nalbam/dotfiles",
+      "url": "https://nalbam.github.io/dotfiles/",
+      "language": "Shell"
+    },
+    {
+      "name": "nalbam",
+      "repo": "https://github.com/nalbam/nalbam"
+    },
+    {
+      "name": "sample-node",
+      "repo": "https://github.com/nalbam/sample-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "www.nalbam.com",
+      "repo": "https://github.com/nalbam/www.nalbam.com",
+      "url": "https://nalbam.com/"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/nalbam/resume",
+      "url": "https://resume.nalbam.com"
+    },
+    {
+      "name": "nextjs-tailwind",
+      "repo": "https://github.com/nalbam/nextjs-tailwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nalbam-agent",
+      "repo": "https://github.com/nalbam/nalbam-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "toss-invest",
+      "repo": "https://github.com/nalbam/toss-invest",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dockpad",
+      "repo": "https://github.com/nalbam/dockpad",
+      "language": "Python"
+    },
+    {
+      "name": "nalbam.github.io",
+      "repo": "https://github.com/nalbam/nalbam.github.io",
+      "url": "https://nalbam.github.io",
+      "language": "SCSS"
+    },
+    {
+      "name": "SnowClash",
+      "repo": "https://github.com/nalbam/SnowClash",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TankClash",
+      "repo": "https://github.com/nalbam/TankClash",
+      "url": "https://tankclash.nalbam.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TerrainStudio",
+      "repo": "https://github.com/nalbam/TerrainStudio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "linkatlas-extension",
+      "repo": "https://github.com/nalbam/linkatlas-extension",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aws-navbar-extension",
+      "repo": "https://github.com/nalbam/aws-navbar-extension",
+      "url": "https://nalbam.github.io/aws-navbar-extension/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spaceship",
+      "repo": "https://github.com/nalbam/spaceship",
+      "url": "https://nalbam.github.io/spaceship/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ai-racer-league",
+      "repo": "https://github.com/nalbam/ai-racer-league"
+    },
+    {
+      "name": "freedom-timeline",
+      "repo": "https://github.com/nalbam/freedom-timeline",
+      "url": "https://nalbam.github.io/freedom-timeline/"
+    },
+    {
+      "name": "gemma4",
+      "repo": "https://github.com/nalbam/gemma4",
+      "language": "Python"
+    },
+    {
+      "name": "os-sw-high-02",
+      "repo": "https://github.com/nalbam/os-sw-high-02",
+      "url": "https://nalbam.github.io/os-sw-high-02/"
+    },
+    {
+      "name": "os-sw-high-01",
+      "repo": "https://github.com/nalbam/os-sw-high-01",
+      "url": "https://nalbam.github.io/os-sw-high-01/",
+      "language": "Vue"
+    },
+    {
+      "name": "bitgil",
+      "repo": "https://github.com/nalbam/bitgil",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spring-config-client",
+      "repo": "https://github.com/nalbam/spring-config-client",
+      "language": "Java"
+    },
+    {
+      "name": "deepracer-board",
+      "repo": "https://github.com/nalbam/deepracer-board",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spring-config-server",
+      "repo": "https://github.com/nalbam/spring-config-server",
+      "language": "Java"
+    },
+    {
+      "name": "spring-api-gateway",
+      "repo": "https://github.com/nalbam/spring-api-gateway",
+      "language": "Java"
+    },
+    {
+      "name": "spring-cloud-gateway",
+      "repo": "https://github.com/nalbam/spring-cloud-gateway",
+      "language": "Java"
+    },
+    {
+      "name": "spring-eureka-server",
+      "repo": "https://github.com/nalbam/spring-eureka-server",
+      "language": "Java"
+    },
+    {
+      "name": "spring-hystrix-monitor",
+      "repo": "https://github.com/nalbam/spring-hystrix-monitor",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-admin",
+      "repo": "https://github.com/nalbam/spring-boot-admin",
+      "language": "Java"
+    },
+    {
+      "name": "tele-auto-gram",
+      "repo": "https://github.com/nalbam/tele-auto-gram",
+      "language": "Python"
+    },
+    {
+      "name": "lambda-slack-bot",
+      "repo": "https://github.com/nalbam/lambda-slack-bot",
+      "language": "Python"
+    },
+    {
+      "name": "lambda-chatgpt-ai-bot",
+      "repo": "https://github.com/nalbam/lambda-chatgpt-ai-bot",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-hub",
+      "repo": "https://github.com/nalbam/rpi-hub",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vibeme",
+      "repo": "https://github.com/nalbam/vibeme",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sample-webpack",
+      "repo": "https://github.com/nalbam/sample-webpack",
+      "language": "Shell"
+    },
+    {
+      "name": "vibe-config",
+      "repo": "https://github.com/nalbam/vibe-config",
+      "url": "https://nalbam.github.io/vibe-config/",
+      "language": "Python"
+    },
+    {
+      "name": "charts-reporter",
+      "repo": "https://github.com/nalbam/charts-reporter",
+      "language": "Shell"
+    },
+    {
+      "name": "releases-reporter",
+      "repo": "https://github.com/nalbam/releases-reporter",
+      "language": "Shell"
+    },
+    {
+      "name": "nextjs-admin",
+      "repo": "https://github.com/nalbam/nextjs-admin",
+      "url": "https://admin-dashboard-seven-rho-90.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "basecamp",
+      "repo": "https://github.com/nalbam/basecamp"
+    },
+    {
+      "name": "aws-auth",
+      "repo": "https://github.com/nalbam/aws-auth",
+      "language": "HCL"
+    },
+    {
+      "name": "rpi",
+      "repo": "https://github.com/nalbam/rpi",
+      "language": "Shell"
+    },
+    {
+      "name": "gh-highlight-me",
+      "repo": "https://github.com/nalbam/gh-highlight-me",
+      "url": "https://nalbam.github.io/gh-highlight-me/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-aws-eks-nodegroup",
+      "repo": "https://github.com/nalbam/terraform-aws-eks-nodegroup",
+      "url": "https://registry.terraform.io/modules/nalbam/eks-nodegroup/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-eks",
+      "repo": "https://github.com/nalbam/terraform-aws-eks",
+      "url": "https://registry.terraform.io/modules/nalbam/eks/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "games",
+      "repo": "https://github.com/nalbam/games",
+      "url": "https://nalbam.github.io/games/"
+    },
+    {
+      "name": "flappy-bat",
+      "repo": "https://github.com/nalbam/flappy-bat"
+    },
+    {
+      "name": "nextjs-chatbot",
+      "repo": "https://github.com/nalbam/nextjs-chatbot",
+      "url": "https://nextjs-ai-chatbot-nu-rust-57.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fake",
+      "repo": "https://github.com/nalbam/fake"
+    },
+    {
+      "name": "sample-grpc",
+      "repo": "https://github.com/nalbam/sample-grpc",
+      "language": "Python"
+    },
+    {
+      "name": "sample-spring",
+      "repo": "https://github.com/nalbam/sample-spring",
+      "language": "Java"
+    },
+    {
+      "name": "terraform-aws-static-web",
+      "repo": "https://github.com/nalbam/terraform-aws-static-web",
+      "language": "HCL"
+    },
+    {
+      "name": "deepracer-submit",
+      "repo": "https://github.com/nalbam/deepracer-submit",
+      "language": "Python"
+    },
+    {
+      "name": "sample-tomcat",
+      "repo": "https://github.com/nalbam/sample-tomcat",
+      "language": "Java"
+    },
+    {
+      "name": "terraform-aws-minecraft",
+      "repo": "https://github.com/nalbam/terraform-aws-minecraft",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-deepracer-cloud",
+      "repo": "https://github.com/nalbam/terraform-aws-deepracer-cloud",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-deepracer-submit",
+      "repo": "https://github.com/nalbam/terraform-aws-deepracer-submit",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-eks-worker",
+      "repo": "https://github.com/nalbam/terraform-aws-eks-worker",
+      "url": "https://registry.terraform.io/modules/nalbam/eks-worker/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "docs",
+      "repo": "https://github.com/nalbam/docs",
+      "url": "https://nalbam.github.io/docs",
+      "language": "Python"
+    },
+    {
+      "name": "deepracer-sim",
+      "repo": "https://github.com/nalbam/deepracer-sim",
+      "language": "Python"
+    },
+    {
+      "name": "kubernetes",
+      "repo": "https://github.com/nalbam/kubernetes",
+      "language": "Shell"
+    },
+    {
+      "name": "deepracer-league",
+      "repo": "https://github.com/nalbam/deepracer-league",
+      "language": "Shell"
+    },
+    {
+      "name": "deepracer-awskrug",
+      "repo": "https://github.com/nalbam/deepracer-awskrug",
+      "language": "Python"
+    },
+    {
+      "name": "lambda-image-search",
+      "repo": "https://github.com/nalbam/lambda-image-search",
+      "language": "Python"
+    },
+    {
+      "name": "lambda-chatgpt-slack-bot",
+      "repo": "https://github.com/nalbam/lambda-chatgpt-slack-bot",
+      "language": "Python"
+    },
+    {
+      "name": "spring-service-demo",
+      "repo": "https://github.com/nalbam/spring-service-demo",
+      "language": "Java"
+    },
+    {
+      "name": "sample-common",
+      "repo": "https://github.com/nalbam/sample-common",
+      "language": "Java"
+    },
+    {
+      "name": "terraform-aws-eks-irsa",
+      "repo": "https://github.com/nalbam/terraform-aws-eks-irsa",
+      "url": "https://registry.terraform.io/modules/nalbam/eks-irsa/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-vpc",
+      "repo": "https://github.com/nalbam/terraform-aws-vpc",
+      "url": "https://registry.terraform.io/modules/nalbam/vpc/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "privacy",
+      "repo": "https://github.com/nalbam/privacy"
+    },
+    {
+      "name": "currency-converter",
+      "repo": "https://github.com/nalbam/currency-converter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "workshop",
+      "repo": "https://github.com/nalbam/workshop",
+      "url": "https://nalbam.github.io/workshop/",
+      "language": "HTML"
+    },
+    {
+      "name": "eac-workshop",
+      "repo": "https://github.com/nalbam/eac-workshop"
+    },
+    {
+      "name": "terraform-aws-route53-alias",
+      "repo": "https://github.com/nalbam/terraform-aws-route53-alias",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-route53",
+      "repo": "https://github.com/nalbam/terraform-aws-route53",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-route53-record",
+      "repo": "https://github.com/nalbam/terraform-aws-route53-record",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-bastion",
+      "repo": "https://github.com/nalbam/terraform-aws-bastion",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-env-demo",
+      "repo": "https://github.com/nalbam/terraform-env-demo",
+      "language": "HCL"
+    },
+    {
+      "name": "sample-web",
+      "repo": "https://github.com/nalbam/sample-web",
+      "language": "HTML"
+    },
+    {
+      "name": "terraform-aws-asg",
+      "repo": "https://github.com/nalbam/terraform-aws-asg",
+      "url": "https://registry.terraform.io/modules/nalbam/asg/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "argocd-autopilot-demo",
+      "repo": "https://github.com/nalbam/argocd-autopilot-demo"
+    },
+    {
+      "name": "deepracer-workshop-old",
+      "repo": "https://github.com/nalbam/deepracer-workshop-old",
+      "url": "https://nalbam.github.io/deepracer-workshop/",
+      "language": "CSS"
+    },
+    {
+      "name": "terraform-workshop",
+      "repo": "https://github.com/nalbam/terraform-workshop",
+      "url": "https://nalbam.github.io/terraform-workshop/",
+      "language": "HTML"
+    },
+    {
+      "name": "kubernetes-workshop",
+      "repo": "https://github.com/nalbam/kubernetes-workshop",
+      "url": "https://nalbam.github.io/kubernetes-workshop/",
+      "language": "HTML"
+    },
+    {
+      "name": "argocd-env-demo",
+      "repo": "https://github.com/nalbam/argocd-env-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-aws-efs",
+      "repo": "https://github.com/nalbam/terraform-aws-efs",
+      "language": "HCL"
+    },
+    {
+      "name": "lambda-hello-world",
+      "repo": "https://github.com/nalbam/lambda-hello-world",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lambda-api-back",
+      "repo": "https://github.com/nalbam/lambda-api-back",
+      "language": "HCL"
+    },
+    {
+      "name": "lambda-api-demo",
+      "repo": "https://github.com/nalbam/lambda-api-demo",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-rds",
+      "repo": "https://github.com/nalbam/terraform-aws-rds",
+      "url": "https://registry.terraform.io/modules/nalbam/rds/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-ecs",
+      "repo": "https://github.com/nalbam/terraform-aws-ecs",
+      "url": "https://registry.terraform.io/modules/nalbam/ecs/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-ecs-fargate",
+      "repo": "https://github.com/nalbam/terraform-aws-ecs-fargate",
+      "url": "https://registry.terraform.io/modules/nalbam/ecs-fargate/aws/latest",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-eks-fargate",
+      "repo": "https://github.com/nalbam/terraform-aws-eks-fargate",
+      "language": "HCL"
+    },
+    {
+      "name": "lambda-s3-resize",
+      "repo": "https://github.com/nalbam/lambda-s3-resize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-aws-rds-postgresql",
+      "repo": "https://github.com/nalbam/terraform-aws-rds-postgresql",
+      "language": "HCL"
+    },
+    {
+      "name": "rpi-doorman",
+      "repo": "https://github.com/nalbam/rpi-doorman",
+      "language": "Python"
+    },
+    {
+      "name": "deeplens-doorman-backend",
+      "repo": "https://github.com/nalbam/deeplens-doorman-backend",
+      "language": "Python"
+    },
+    {
+      "name": "spring-config-repo",
+      "repo": "https://github.com/nalbam/spring-config-repo"
+    },
+    {
+      "name": "doorman",
+      "repo": "https://github.com/nalbam/doorman",
+      "language": "JavaScript"
+    }
+  ],
+  "apps": []
+}

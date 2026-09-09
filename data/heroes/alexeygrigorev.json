@@ -8,5 +8,509 @@
   "bio": "Running @DataTalksClub and hacking some personal projects",
   "own_repos": 171,
   "commits": 11921,
+  "repos": [
+    {
+      "name": "pocketshell",
+      "repo": "https://github.com/alexeygrigorev/pocketshell",
+      "language": "Kotlin"
+    },
+    {
+      "name": ".agents",
+      "repo": "https://github.com/alexeygrigorev/.agents",
+      "language": "Python"
+    },
+    {
+      "name": "aplexer",
+      "repo": "https://github.com/alexeygrigorev/aplexer",
+      "language": "Rust"
+    },
+    {
+      "name": "pocketshell-desktop",
+      "repo": "https://github.com/alexeygrigorev/pocketshell-desktop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quse",
+      "repo": "https://github.com/alexeygrigorev/quse",
+      "language": "Python"
+    },
+    {
+      "name": "stylint",
+      "repo": "https://github.com/alexeygrigorev/stylint",
+      "language": "Python"
+    },
+    {
+      "name": "telegram-writing-assistant",
+      "repo": "https://github.com/alexeygrigorev/telegram-writing-assistant",
+      "language": "Python"
+    },
+    {
+      "name": "codex-zcode",
+      "repo": "https://github.com/alexeygrigorev/codex-zcode",
+      "language": "Rust"
+    },
+    {
+      "name": "cinderwake",
+      "repo": "https://github.com/alexeygrigorev/cinderwake",
+      "url": "https://alexeygrigorev.com/cinderwake/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "research-dump",
+      "repo": "https://github.com/alexeygrigorev/research-dump",
+      "language": "Python"
+    },
+    {
+      "name": "red-stamp",
+      "repo": "https://github.com/alexeygrigorev/red-stamp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codex-proxy",
+      "repo": "https://github.com/alexeygrigorev/codex-proxy",
+      "language": "Rust"
+    },
+    {
+      "name": "memory-wiki",
+      "repo": "https://github.com/alexeygrigorev/memory-wiki",
+      "language": "Makefile"
+    },
+    {
+      "name": "zcode-docker",
+      "repo": "https://github.com/alexeygrigorev/zcode-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "rds-export",
+      "repo": "https://github.com/alexeygrigorev/rds-export",
+      "language": "Python"
+    },
+    {
+      "name": "MD-view",
+      "repo": "https://github.com/alexeygrigorev/MD-view",
+      "language": "Java"
+    },
+    {
+      "name": "fake-course-project",
+      "repo": "https://github.com/alexeygrigorev/fake-course-project"
+    },
+    {
+      "name": "fitness-tracker",
+      "repo": "https://github.com/alexeygrigorev/fitness-tracker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zcode-acp",
+      "repo": "https://github.com/alexeygrigorev/zcode-acp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sqlitesearch",
+      "repo": "https://github.com/alexeygrigorev/sqlitesearch",
+      "language": "Python"
+    },
+    {
+      "name": "nobook",
+      "repo": "https://github.com/alexeygrigorev/nobook",
+      "language": "Python"
+    },
+    {
+      "name": "rustkyll",
+      "repo": "https://github.com/alexeygrigorev/rustkyll",
+      "language": "Rust"
+    },
+    {
+      "name": "course-management-agent",
+      "repo": "https://github.com/alexeygrigorev/course-management-agent"
+    },
+    {
+      "name": "3d-models",
+      "repo": "https://github.com/alexeygrigorev/3d-models",
+      "language": "OpenSCAD"
+    },
+    {
+      "name": "tmuxctl",
+      "repo": "https://github.com/alexeygrigorev/tmuxctl",
+      "language": "Python"
+    },
+    {
+      "name": "ai-engineering-field-guide",
+      "repo": "https://github.com/alexeygrigorev/ai-engineering-field-guide",
+      "language": "HTML"
+    },
+    {
+      "name": "ai-book-generator",
+      "repo": "https://github.com/alexeygrigorev/ai-book-generator",
+      "language": "Python"
+    },
+    {
+      "name": "diagram-creator",
+      "repo": "https://github.com/alexeygrigorev/diagram-creator",
+      "language": "Python"
+    },
+    {
+      "name": "alexeygrigorev",
+      "repo": "https://github.com/alexeygrigorev/alexeygrigorev"
+    },
+    {
+      "name": "workshops",
+      "repo": "https://github.com/alexeygrigorev/workshops",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "alexeygrigorev.github.io",
+      "repo": "https://github.com/alexeygrigorev/alexeygrigorev.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "mlwiki.org",
+      "repo": "https://github.com/alexeygrigorev/mlwiki.org",
+      "url": "https://mlwiki.org/",
+      "language": "CSS"
+    },
+    {
+      "name": "interview-canvas-share",
+      "repo": "https://github.com/alexeygrigorev/interview-canvas-share",
+      "language": "TypeScript"
+    },
+    {
+      "name": "data-science-interviews",
+      "repo": "https://github.com/alexeygrigorev/data-science-interviews",
+      "url": "https://alexeygrigorev.com/data-science-interviews/",
+      "language": "HTML"
+    },
+    {
+      "name": "switch-onboarding",
+      "repo": "https://github.com/alexeygrigorev/switch-onboarding",
+      "language": "Shell"
+    },
+    {
+      "name": "luma-exporter",
+      "repo": "https://github.com/alexeygrigorev/luma-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "ssh-auto-forward",
+      "repo": "https://github.com/alexeygrigorev/ssh-auto-forward",
+      "language": "Python"
+    },
+    {
+      "name": "zerosearch",
+      "repo": "https://github.com/alexeygrigorev/zerosearch",
+      "language": "Python"
+    },
+    {
+      "name": "retroloop",
+      "repo": "https://github.com/alexeygrigorev/retroloop",
+      "language": "Python"
+    },
+    {
+      "name": "ai-system-design-interview-studio",
+      "repo": "https://github.com/alexeygrigorev/ai-system-design-interview-studio",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-engineering-gym",
+      "repo": "https://github.com/alexeygrigorev/ai-engineering-gym",
+      "language": "Python"
+    },
+    {
+      "name": "fitness-assistant",
+      "repo": "https://github.com/alexeygrigorev/fitness-assistant",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "country-region-normalization",
+      "repo": "https://github.com/alexeygrigorev/country-region-normalization",
+      "language": "Python"
+    },
+    {
+      "name": "zerosearch-node",
+      "repo": "https://github.com/alexeygrigorev/zerosearch-node",
+      "language": "TypeScript"
+    },
+    {
+      "name": "minsearch",
+      "repo": "https://github.com/alexeygrigorev/minsearch",
+      "language": "Python"
+    },
+    {
+      "name": "stemlite",
+      "repo": "https://github.com/alexeygrigorev/stemlite",
+      "language": "Python"
+    },
+    {
+      "name": "heru",
+      "repo": "https://github.com/alexeygrigorev/heru",
+      "language": "Python"
+    },
+    {
+      "name": "datatasks",
+      "repo": "https://github.com/alexeygrigorev/datatasks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "snake-royale",
+      "repo": "https://github.com/alexeygrigorev/snake-royale",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aisl-click",
+      "repo": "https://github.com/alexeygrigorev/aisl-click",
+      "language": "Shell"
+    },
+    {
+      "name": "pocketshell-vscode",
+      "repo": "https://github.com/alexeygrigorev/pocketshell-vscode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "youtube-manager-agent",
+      "repo": "https://github.com/alexeygrigorev/youtube-manager-agent",
+      "language": "Python"
+    },
+    {
+      "name": "berlin-map",
+      "repo": "https://github.com/alexeygrigorev/berlin-map",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gitsource",
+      "repo": "https://github.com/alexeygrigorev/gitsource",
+      "language": "Python"
+    },
+    {
+      "name": "cable-world",
+      "repo": "https://github.com/alexeygrigorev/cable-world",
+      "language": "Python"
+    },
+    {
+      "name": "ssh-auto-forward-android",
+      "repo": "https://github.com/alexeygrigorev/ssh-auto-forward-android",
+      "language": "Kotlin"
+    },
+    {
+      "name": "workshop-timer",
+      "repo": "https://github.com/alexeygrigorev/workshop-timer",
+      "language": "Rust"
+    },
+    {
+      "name": "phone-aws-gate",
+      "repo": "https://github.com/alexeygrigorev/phone-aws-gate",
+      "language": "Python"
+    },
+    {
+      "name": "sandbox-screenshots",
+      "repo": "https://github.com/alexeygrigorev/sandbox-screenshots",
+      "language": "Python"
+    },
+    {
+      "name": "codoc",
+      "repo": "https://github.com/alexeygrigorev/codoc",
+      "language": "Python"
+    },
+    {
+      "name": "goz",
+      "repo": "https://github.com/alexeygrigorev/goz",
+      "language": "Python"
+    },
+    {
+      "name": "merm",
+      "repo": "https://github.com/alexeygrigorev/merm",
+      "language": "Python"
+    },
+    {
+      "name": "toyaikit",
+      "repo": "https://github.com/alexeygrigorev/toyaikit",
+      "language": "Python"
+    },
+    {
+      "name": "litehive",
+      "repo": "https://github.com/alexeygrigorev/litehive",
+      "language": "Python"
+    },
+    {
+      "name": "airtable-mailchimp-poller",
+      "repo": "https://github.com/alexeygrigorev/airtable-mailchimp-poller",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "aws-sandbox-cli",
+      "repo": "https://github.com/alexeygrigorev/aws-sandbox-cli",
+      "language": "Python"
+    },
+    {
+      "name": "aws-workshop-credentials",
+      "repo": "https://github.com/alexeygrigorev/aws-workshop-credentials",
+      "language": "Python"
+    },
+    {
+      "name": "kids-horror-stories-ru",
+      "repo": "https://github.com/alexeygrigorev/kids-horror-stories-ru",
+      "url": "https://alexeygrigorev.com/kids-horror-stories-ru/",
+      "language": "Python"
+    },
+    {
+      "name": "aihero",
+      "repo": "https://github.com/alexeygrigorev/aihero",
+      "url": "https://alexeygrigorev.com/aihero/",
+      "language": "HTML"
+    },
+    {
+      "name": "faq_benchmark",
+      "repo": "https://github.com/alexeygrigorev/faq_benchmark",
+      "language": "Python"
+    },
+    {
+      "name": "mlbookcamp-code",
+      "repo": "https://github.com/alexeygrigorev/mlbookcamp-code",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "ai-buildcamp-project-starter",
+      "repo": "https://github.com/alexeygrigorev/ai-buildcamp-project-starter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "codehive",
+      "repo": "https://github.com/alexeygrigorev/codehive",
+      "language": "Python"
+    },
+    {
+      "name": "zoom-recording-mover",
+      "repo": "https://github.com/alexeygrigorev/zoom-recording-mover",
+      "language": "Python"
+    },
+    {
+      "name": "ai-engineering-buildcamp-code",
+      "repo": "https://github.com/alexeygrigorev/ai-engineering-buildcamp-code",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "microboost",
+      "repo": "https://github.com/alexeygrigorev/microboost",
+      "language": "Rust"
+    },
+    {
+      "name": "bot-master",
+      "repo": "https://github.com/alexeygrigorev/bot-master",
+      "language": "Python"
+    },
+    {
+      "name": "exasol-workshop-starter",
+      "repo": "https://github.com/alexeygrigorev/exasol-workshop-starter",
+      "language": "Python"
+    },
+    {
+      "name": "snippets",
+      "repo": "https://github.com/alexeygrigorev/snippets",
+      "language": "CSS"
+    },
+    {
+      "name": "jaxn",
+      "repo": "https://github.com/alexeygrigorev/jaxn",
+      "language": "Python"
+    },
+    {
+      "name": "simple-sell",
+      "repo": "https://github.com/alexeygrigorev/simple-sell",
+      "language": "TypeScript"
+    },
+    {
+      "name": "game-ai-engineer",
+      "repo": "https://github.com/alexeygrigorev/game-ai-engineer",
+      "language": "Rust"
+    },
+    {
+      "name": "chatgpt-data-viewer",
+      "repo": "https://github.com/alexeygrigorev/chatgpt-data-viewer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "now-workshop-agents",
+      "repo": "https://github.com/alexeygrigorev/now-workshop-agents",
+      "language": "Python"
+    },
+    {
+      "name": "metabolism-simulator",
+      "repo": "https://github.com/alexeygrigorev/metabolism-simulator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-code-kid-parent",
+      "repo": "https://github.com/alexeygrigorev/claude-code-kid-parent",
+      "language": "HTML"
+    },
+    {
+      "name": "github-project-scorer",
+      "repo": "https://github.com/alexeygrigorev/github-project-scorer",
+      "language": "Python"
+    },
+    {
+      "name": "my-daily-tasks-agent",
+      "repo": "https://github.com/alexeygrigorev/my-daily-tasks-agent",
+      "language": "Python"
+    },
+    {
+      "name": "dirdotenv",
+      "repo": "https://github.com/alexeygrigorev/dirdotenv",
+      "language": "Python"
+    },
+    {
+      "name": "build-your-own-search-engine",
+      "repo": "https://github.com/alexeygrigorev/build-your-own-search-engine",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "my-daily-tasks",
+      "repo": "https://github.com/alexeygrigorev/my-daily-tasks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-bootcamp-codespace",
+      "repo": "https://github.com/alexeygrigorev/ai-bootcamp-codespace",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "transcript-utils",
+      "repo": "https://github.com/alexeygrigorev/transcript-utils",
+      "language": "Python"
+    },
+    {
+      "name": "data-engineering-rag",
+      "repo": "https://github.com/alexeygrigorev/data-engineering-rag",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "snippets-mcp",
+      "repo": "https://github.com/alexeygrigorev/snippets-mcp"
+    },
+    {
+      "name": "conifers-book-ru",
+      "repo": "https://github.com/alexeygrigorev/conifers-book-ru",
+      "language": "Shell"
+    },
+    {
+      "name": "little-book-of-metals-ru",
+      "repo": "https://github.com/alexeygrigorev/little-book-of-metals-ru",
+      "url": "https://alexeygrigorev.com/little-book-of-metals-ru/",
+      "language": "HTML"
+    },
+    {
+      "name": "code-explainer",
+      "repo": "https://github.com/alexeygrigorev/code-explainer",
+      "language": "Python"
+    },
+    {
+      "name": "datagen",
+      "repo": "https://github.com/alexeygrigorev/datagen",
+      "language": "Python"
+    },
+    {
+      "name": "ai-data-pipelines",
+      "repo": "https://github.com/alexeygrigorev/ai-data-pipelines",
+      "language": "Python"
+    }
+  ],
   "apps": []
 }

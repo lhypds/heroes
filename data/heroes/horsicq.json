@@ -7,5 +7,502 @@
   "website": "https://horsicq.github.io/",
   "own_repos": 135,
   "commits": 476966,
+  "repos": [
+    {
+      "name": "Detect-It-Easy",
+      "repo": "https://github.com/horsicq/Detect-It-Easy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "XMachOViewer",
+      "repo": "https://github.com/horsicq/XMachOViewer",
+      "language": "C++"
+    },
+    {
+      "name": "XELFViewer",
+      "repo": "https://github.com/horsicq/XELFViewer",
+      "language": "C++"
+    },
+    {
+      "name": "XPEViewer",
+      "repo": "https://github.com/horsicq/XPEViewer",
+      "language": "QMake"
+    },
+    {
+      "name": "Translate_all",
+      "repo": "https://github.com/horsicq/Translate_all",
+      "language": "QMake"
+    },
+    {
+      "name": "XDepends",
+      "repo": "https://github.com/horsicq/XDepends",
+      "language": "C++"
+    },
+    {
+      "name": "XVelesDA",
+      "repo": "https://github.com/horsicq/XVelesDA",
+      "language": "QMake"
+    },
+    {
+      "name": "XVedogon",
+      "repo": "https://github.com/horsicq/XVedogon",
+      "language": "C++"
+    },
+    {
+      "name": "trkdbg",
+      "repo": "https://github.com/horsicq/trkdbg",
+      "language": "C++"
+    },
+    {
+      "name": "pex64dbg",
+      "repo": "https://github.com/horsicq/pex64dbg",
+      "language": "C"
+    },
+    {
+      "name": "nfdx64dbg",
+      "repo": "https://github.com/horsicq/nfdx64dbg",
+      "language": "C"
+    },
+    {
+      "name": "x64dbg-Plugin-Manager",
+      "repo": "https://github.com/horsicq/x64dbg-Plugin-Manager",
+      "language": "C++"
+    },
+    {
+      "name": "XVirusTotalViewer",
+      "repo": "https://github.com/horsicq/XVirusTotalViewer"
+    },
+    {
+      "name": "XBinaryExplorer",
+      "repo": "https://github.com/horsicq/XBinaryExplorer",
+      "language": "C++"
+    },
+    {
+      "name": "XVolkolak",
+      "repo": "https://github.com/horsicq/XVolkolak",
+      "language": "C++"
+    },
+    {
+      "name": "XFileUnpacker",
+      "repo": "https://github.com/horsicq/XFileUnpacker",
+      "language": "C++"
+    },
+    {
+      "name": "XPDFViewer",
+      "repo": "https://github.com/horsicq/XPDFViewer"
+    },
+    {
+      "name": "XBinaryViewer",
+      "repo": "https://github.com/horsicq/XBinaryViewer",
+      "language": "C++"
+    },
+    {
+      "name": "XHexViewer",
+      "repo": "https://github.com/horsicq/XHexViewer",
+      "language": "C++"
+    },
+    {
+      "name": "XNEViewer",
+      "repo": "https://github.com/horsicq/XNEViewer",
+      "language": "C++"
+    },
+    {
+      "name": "XLEViewer",
+      "repo": "https://github.com/horsicq/XLEViewer",
+      "language": "C++"
+    },
+    {
+      "name": "XIPADetector",
+      "repo": "https://github.com/horsicq/XIPADetector",
+      "language": "QMake"
+    },
+    {
+      "name": "XMSDOSViewer",
+      "repo": "https://github.com/horsicq/XMSDOSViewer",
+      "language": "C++"
+    },
+    {
+      "name": "XDemangler",
+      "repo": "https://github.com/horsicq/XDemangler"
+    },
+    {
+      "name": "XAPKDetector",
+      "repo": "https://github.com/horsicq/XAPKDetector",
+      "language": "C++"
+    },
+    {
+      "name": "File-sort",
+      "repo": "https://github.com/horsicq/File-sort",
+      "language": "C++"
+    },
+    {
+      "name": "DIE-sort",
+      "repo": "https://github.com/horsicq/DIE-sort",
+      "language": "CMake"
+    },
+    {
+      "name": "CDiE",
+      "repo": "https://github.com/horsicq/CDiE",
+      "language": "C"
+    },
+    {
+      "name": "DIE-engine",
+      "repo": "https://github.com/horsicq/DIE-engine",
+      "language": "C++"
+    },
+    {
+      "name": "Nauz-File-Detector",
+      "repo": "https://github.com/horsicq/Nauz-File-Detector",
+      "language": "C++"
+    },
+    {
+      "name": "NFD-sort",
+      "repo": "https://github.com/horsicq/NFD-sort",
+      "language": "C++"
+    },
+    {
+      "name": "xntsv",
+      "repo": "https://github.com/horsicq/xntsv",
+      "language": "QMake"
+    },
+    {
+      "name": "die_library",
+      "repo": "https://github.com/horsicq/die_library",
+      "language": "C++"
+    },
+    {
+      "name": "nfd_library",
+      "repo": "https://github.com/horsicq/nfd_library",
+      "language": "C++"
+    },
+    {
+      "name": "XNetDumper",
+      "repo": "https://github.com/horsicq/XNetDumper",
+      "language": "C++"
+    },
+    {
+      "name": "XArchive",
+      "repo": "https://github.com/horsicq/XArchive",
+      "language": "C++"
+    },
+    {
+      "name": "PDBRipper",
+      "repo": "https://github.com/horsicq/PDBRipper",
+      "language": "C++"
+    },
+    {
+      "name": "YARA-sort",
+      "repo": "https://github.com/horsicq/YARA-sort",
+      "language": "YARA"
+    },
+    {
+      "name": "stringsx64dbg",
+      "repo": "https://github.com/horsicq/stringsx64dbg",
+      "language": "C"
+    },
+    {
+      "name": "xvdg_plugins",
+      "repo": "https://github.com/horsicq/xvdg_plugins",
+      "language": "C++"
+    },
+    {
+      "name": "XOpcodeCalc",
+      "repo": "https://github.com/horsicq/XOpcodeCalc",
+      "language": "C++"
+    },
+    {
+      "name": "XTranslation",
+      "repo": "https://github.com/horsicq/XTranslation"
+    },
+    {
+      "name": "XOptions",
+      "repo": "https://github.com/horsicq/XOptions",
+      "language": "C++"
+    },
+    {
+      "name": "yara_widget",
+      "repo": "https://github.com/horsicq/yara_widget",
+      "language": "C++"
+    },
+    {
+      "name": "die_widget",
+      "repo": "https://github.com/horsicq/die_widget",
+      "language": "C++"
+    },
+    {
+      "name": "archive_widget",
+      "repo": "https://github.com/horsicq/archive_widget",
+      "language": "C++"
+    },
+    {
+      "name": "XMemoryMapWidget",
+      "repo": "https://github.com/horsicq/XMemoryMapWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XHexView",
+      "repo": "https://github.com/horsicq/XHexView",
+      "language": "C++"
+    },
+    {
+      "name": "XHexEdit",
+      "repo": "https://github.com/horsicq/XHexEdit",
+      "language": "C++"
+    },
+    {
+      "name": "XDisasmView",
+      "repo": "https://github.com/horsicq/XDisasmView",
+      "language": "C++"
+    },
+    {
+      "name": "XDemangle",
+      "repo": "https://github.com/horsicq/XDemangle",
+      "language": "C++"
+    },
+    {
+      "name": "XDEX",
+      "repo": "https://github.com/horsicq/XDEX",
+      "language": "C++"
+    },
+    {
+      "name": "XCapstone",
+      "repo": "https://github.com/horsicq/XCapstone",
+      "language": "C++"
+    },
+    {
+      "name": "SpecAbstract",
+      "repo": "https://github.com/horsicq/SpecAbstract",
+      "language": "C++"
+    },
+    {
+      "name": "XYara",
+      "repo": "https://github.com/horsicq/XYara",
+      "language": "YARA"
+    },
+    {
+      "name": "FormatWidgets",
+      "repo": "https://github.com/horsicq/FormatWidgets",
+      "language": "C++"
+    },
+    {
+      "name": "Formats",
+      "repo": "https://github.com/horsicq/Formats",
+      "language": "C++"
+    },
+    {
+      "name": "Controls",
+      "repo": "https://github.com/horsicq/Controls",
+      "language": "C++"
+    },
+    {
+      "name": "build_tools",
+      "repo": "https://github.com/horsicq/build_tools",
+      "language": "CMake"
+    },
+    {
+      "name": "XFileInfo",
+      "repo": "https://github.com/horsicq/XFileInfo",
+      "language": "C++"
+    },
+    {
+      "name": "XCppfilt",
+      "repo": "https://github.com/horsicq/XCppfilt",
+      "language": "C++"
+    },
+    {
+      "name": "XOnlineTools",
+      "repo": "https://github.com/horsicq/XOnlineTools",
+      "language": "C++"
+    },
+    {
+      "name": "XExtractorWidget",
+      "repo": "https://github.com/horsicq/XExtractorWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XStaticUnpacker",
+      "repo": "https://github.com/horsicq/XStaticUnpacker",
+      "language": "C++"
+    },
+    {
+      "name": "XScanEngine",
+      "repo": "https://github.com/horsicq/XScanEngine",
+      "language": "C++"
+    },
+    {
+      "name": "XPDF",
+      "repo": "https://github.com/horsicq/XPDF",
+      "language": "C++"
+    },
+    {
+      "name": "FormatDialogs",
+      "repo": "https://github.com/horsicq/FormatDialogs",
+      "language": "C++"
+    },
+    {
+      "name": "XInfoDB",
+      "repo": "https://github.com/horsicq/XInfoDB",
+      "language": "C++"
+    },
+    {
+      "name": "XEmulator",
+      "repo": "https://github.com/horsicq/XEmulator",
+      "language": "C++"
+    },
+    {
+      "name": "XDataExtractor",
+      "repo": "https://github.com/horsicq/XDataExtractor",
+      "language": "C++"
+    },
+    {
+      "name": "die_script",
+      "repo": "https://github.com/horsicq/die_script",
+      "language": "C++"
+    },
+    {
+      "name": "XExtractor",
+      "repo": "https://github.com/horsicq/XExtractor",
+      "language": "C++"
+    },
+    {
+      "name": "XUniversalUnpacker",
+      "repo": "https://github.com/horsicq/XUniversalUnpacker",
+      "language": "C++"
+    },
+    {
+      "name": "XUpdate",
+      "repo": "https://github.com/horsicq/XUpdate",
+      "language": "C++"
+    },
+    {
+      "name": "XShortcuts",
+      "repo": "https://github.com/horsicq/XShortcuts",
+      "language": "C++"
+    },
+    {
+      "name": "XProcess",
+      "repo": "https://github.com/horsicq/XProcess",
+      "language": "C++"
+    },
+    {
+      "name": "XMIMEWidget",
+      "repo": "https://github.com/horsicq/XMIMEWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XMIME",
+      "repo": "https://github.com/horsicq/XMIME",
+      "language": "C++"
+    },
+    {
+      "name": "XHashWidget",
+      "repo": "https://github.com/horsicq/XHashWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XEntropyWidget",
+      "repo": "https://github.com/horsicq/XEntropyWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XRegistersView",
+      "repo": "https://github.com/horsicq/XRegistersView",
+      "language": "C++"
+    },
+    {
+      "name": "XDebuggerWidget",
+      "repo": "https://github.com/horsicq/XDebuggerWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XWinPDB",
+      "repo": "https://github.com/horsicq/XWinPDB",
+      "language": "C"
+    },
+    {
+      "name": "XDebugScript",
+      "repo": "https://github.com/horsicq/XDebugScript",
+      "language": "C++"
+    },
+    {
+      "name": "XSpecDebugger",
+      "repo": "https://github.com/horsicq/XSpecDebugger",
+      "language": "C++"
+    },
+    {
+      "name": "XWinIODriver",
+      "repo": "https://github.com/horsicq/XWinIODriver",
+      "language": "C++"
+    },
+    {
+      "name": "XSymbolsWidget",
+      "repo": "https://github.com/horsicq/XSymbolsWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XBreakPointsWidget",
+      "repo": "https://github.com/horsicq/XBreakPointsWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XThreadsWidget",
+      "repo": "https://github.com/horsicq/XThreadsWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XVisualizationWidget",
+      "repo": "https://github.com/horsicq/XVisualizationWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XDisasmCore",
+      "repo": "https://github.com/horsicq/XDisasmCore",
+      "language": "C++"
+    },
+    {
+      "name": "XStyles",
+      "repo": "https://github.com/horsicq/XStyles",
+      "language": "CMake"
+    },
+    {
+      "name": "XQwt",
+      "repo": "https://github.com/horsicq/XQwt",
+      "language": "CMake"
+    },
+    {
+      "name": "XEmulUnpacker",
+      "repo": "https://github.com/horsicq/XEmulUnpacker",
+      "language": "C++"
+    },
+    {
+      "name": "TestCI",
+      "repo": "https://github.com/horsicq/TestCI"
+    },
+    {
+      "name": "HexViewer",
+      "repo": "https://github.com/horsicq/HexViewer",
+      "language": "C++"
+    },
+    {
+      "name": "nfd_widget",
+      "repo": "https://github.com/horsicq/nfd_widget",
+      "language": "C++"
+    },
+    {
+      "name": "XDisasm",
+      "repo": "https://github.com/horsicq/XDisasm",
+      "language": "C++"
+    },
+    {
+      "name": "XDataConvertorWidget",
+      "repo": "https://github.com/horsicq/XDataConvertorWidget",
+      "language": "C++"
+    },
+    {
+      "name": "XAboutWidget",
+      "repo": "https://github.com/horsicq/XAboutWidget",
+      "language": "C++"
+    }
+  ],
   "apps": []
 }

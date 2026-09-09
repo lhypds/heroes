@@ -8,5 +8,502 @@
   "bio": "CTO @sentryco / OpenSourcer @runbot-hq",
   "own_repos": 110,
   "commits": 47155,
+  "repos": [
+    {
+      "name": "hello-geni-v2",
+      "repo": "https://github.com/eonist/hello-geni-v2"
+    },
+    {
+      "name": "MenuBarKit",
+      "repo": "https://github.com/eonist/MenuBarKit",
+      "language": "Swift"
+    },
+    {
+      "name": "GitHubClient",
+      "repo": "https://github.com/eonist/GitHubClient",
+      "language": "Swift"
+    },
+    {
+      "name": "eonist",
+      "repo": "https://github.com/eonist/eonist"
+    },
+    {
+      "name": "pplx-bridge",
+      "repo": "https://github.com/eonist/pplx-bridge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "omera_docs",
+      "repo": "https://github.com/eonist/omera_docs"
+    },
+    {
+      "name": "omera",
+      "repo": "https://github.com/eonist/omera",
+      "language": "HTML"
+    },
+    {
+      "name": "conduit-landing-page",
+      "repo": "https://github.com/eonist/conduit-landing-page",
+      "language": "PowerShell"
+    },
+    {
+      "name": "conduit_landing_page_v2",
+      "repo": "https://github.com/eonist/conduit_landing_page_v2",
+      "language": "CSS"
+    },
+    {
+      "name": "eonist.github.io",
+      "repo": "https://github.com/eonist/eonist.github.io",
+      "language": "SCSS"
+    },
+    {
+      "name": "proxify",
+      "repo": "https://github.com/eonist/proxify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "WizardHelper",
+      "repo": "https://github.com/eonist/WizardHelper",
+      "language": "Swift"
+    },
+    {
+      "name": "UITestSugar",
+      "repo": "https://github.com/eonist/UITestSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "TestRunner",
+      "repo": "https://github.com/eonist/TestRunner",
+      "language": "Swift"
+    },
+    {
+      "name": "Chimera",
+      "repo": "https://github.com/eonist/Chimera",
+      "language": "Shell"
+    },
+    {
+      "name": "JSONSugar",
+      "repo": "https://github.com/eonist/JSONSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "FileSugar",
+      "repo": "https://github.com/eonist/FileSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "With",
+      "repo": "https://github.com/eonist/With",
+      "language": "Swift"
+    },
+    {
+      "name": "ClipboardSugar",
+      "repo": "https://github.com/eonist/ClipboardSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "UserDefaultSugar",
+      "repo": "https://github.com/eonist/UserDefaultSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "Iterator",
+      "repo": "https://github.com/eonist/Iterator",
+      "language": "Swift"
+    },
+    {
+      "name": "Babel",
+      "repo": "https://github.com/eonist/Babel",
+      "language": "Swift"
+    },
+    {
+      "name": "ResultSugar",
+      "repo": "https://github.com/eonist/ResultSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "Research",
+      "repo": "https://github.com/eonist/Research",
+      "language": "HTML"
+    },
+    {
+      "name": "ParallelLoop",
+      "repo": "https://github.com/eonist/ParallelLoop",
+      "language": "Swift"
+    },
+    {
+      "name": "Popover-label",
+      "repo": "https://github.com/eonist/Popover-label",
+      "language": "Swift"
+    },
+    {
+      "name": "FileStreamer",
+      "repo": "https://github.com/eonist/FileStreamer",
+      "language": "Swift"
+    },
+    {
+      "name": "HybridCamera",
+      "repo": "https://github.com/eonist/HybridCamera",
+      "language": "Swift"
+    },
+    {
+      "name": "PeripheralStore",
+      "repo": "https://github.com/eonist/PeripheralStore",
+      "language": "Swift"
+    },
+    {
+      "name": "CommonCell",
+      "repo": "https://github.com/eonist/CommonCell",
+      "language": "Swift"
+    },
+    {
+      "name": "FileWatcher",
+      "repo": "https://github.com/eonist/FileWatcher",
+      "language": "Swift"
+    },
+    {
+      "name": "DarkMode",
+      "repo": "https://github.com/eonist/DarkMode",
+      "language": "Swift"
+    },
+    {
+      "name": "Spatial",
+      "repo": "https://github.com/eonist/Spatial",
+      "language": "Swift"
+    },
+    {
+      "name": "SVGWrapper",
+      "repo": "https://github.com/eonist/SVGWrapper",
+      "language": "Swift"
+    },
+    {
+      "name": "FlowLayout",
+      "repo": "https://github.com/eonist/FlowLayout",
+      "language": "Swift"
+    },
+    {
+      "name": "Element",
+      "repo": "https://github.com/eonist/Element",
+      "language": "Swift"
+    },
+    {
+      "name": "FileHasher",
+      "repo": "https://github.com/eonist/FileHasher",
+      "language": "Swift"
+    },
+    {
+      "name": "CueKit",
+      "repo": "https://github.com/eonist/CueKit",
+      "language": "Swift"
+    },
+    {
+      "name": "ReusableCell",
+      "repo": "https://github.com/eonist/ReusableCell",
+      "language": "Swift"
+    },
+    {
+      "name": "CallBackButton",
+      "repo": "https://github.com/eonist/CallBackButton",
+      "language": "Swift"
+    },
+    {
+      "name": "ResourceHelper",
+      "repo": "https://github.com/eonist/ResourceHelper",
+      "language": "Swift"
+    },
+    {
+      "name": "ZoomSwitcherKit",
+      "repo": "https://github.com/eonist/ZoomSwitcherKit",
+      "language": "Swift"
+    },
+    {
+      "name": "BinarySearch",
+      "repo": "https://github.com/eonist/BinarySearch",
+      "language": "Swift"
+    },
+    {
+      "name": "my-swift-projects",
+      "repo": "https://github.com/eonist/my-swift-projects",
+      "language": "Swift"
+    },
+    {
+      "name": "ImageSugar",
+      "repo": "https://github.com/eonist/ImageSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "RefreshControlKit",
+      "repo": "https://github.com/eonist/RefreshControlKit",
+      "language": "Swift"
+    },
+    {
+      "name": "PaginationService",
+      "repo": "https://github.com/eonist/PaginationService",
+      "language": "Swift"
+    },
+    {
+      "name": "PaginationTable",
+      "repo": "https://github.com/eonist/PaginationTable",
+      "language": "Swift"
+    },
+    {
+      "name": "TimeMeasure",
+      "repo": "https://github.com/eonist/TimeMeasure",
+      "language": "Swift"
+    },
+    {
+      "name": "KeychainSugar",
+      "repo": "https://github.com/eonist/KeychainSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "DateSugar",
+      "repo": "https://github.com/eonist/DateSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "AnimButton",
+      "repo": "https://github.com/eonist/AnimButton",
+      "language": "Swift"
+    },
+    {
+      "name": "TimeAnimator",
+      "repo": "https://github.com/eonist/TimeAnimator",
+      "language": "Swift"
+    },
+    {
+      "name": "ViewSugar",
+      "repo": "https://github.com/eonist/ViewSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "NetworkSugar",
+      "repo": "https://github.com/eonist/NetworkSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "StarterKit",
+      "repo": "https://github.com/eonist/StarterKit",
+      "language": "Swift"
+    },
+    {
+      "name": "TableCellGuide",
+      "repo": "https://github.com/eonist/TableCellGuide",
+      "language": "Swift"
+    },
+    {
+      "name": "UXUI",
+      "repo": "https://github.com/eonist/UXUI",
+      "language": "Swift"
+    },
+    {
+      "name": "SimpleTable",
+      "repo": "https://github.com/eonist/SimpleTable",
+      "language": "Swift"
+    },
+    {
+      "name": "CardTable",
+      "repo": "https://github.com/eonist/CardTable",
+      "language": "Swift"
+    },
+    {
+      "name": "MathKit",
+      "repo": "https://github.com/eonist/MathKit",
+      "language": "Swift"
+    },
+    {
+      "name": "AnimLib",
+      "repo": "https://github.com/eonist/AnimLib",
+      "language": "Swift"
+    },
+    {
+      "name": "CellHider",
+      "repo": "https://github.com/eonist/CellHider",
+      "language": "Swift"
+    },
+    {
+      "name": "SimpleTimer",
+      "repo": "https://github.com/eonist/SimpleTimer",
+      "language": "Swift"
+    },
+    {
+      "name": "ThemePark",
+      "repo": "https://github.com/eonist/ThemePark",
+      "language": "Swift"
+    },
+    {
+      "name": "NSLabel",
+      "repo": "https://github.com/eonist/NSLabel",
+      "language": "Swift"
+    },
+    {
+      "name": "GeomKit",
+      "repo": "https://github.com/eonist/GeomKit",
+      "language": "Swift"
+    },
+    {
+      "name": "NumberSugar",
+      "repo": "https://github.com/eonist/NumberSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "ArraySugar",
+      "repo": "https://github.com/eonist/ArraySugar",
+      "language": "Swift"
+    },
+    {
+      "name": "StringSugar",
+      "repo": "https://github.com/eonist/StringSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "BinarySequencer",
+      "repo": "https://github.com/eonist/BinarySequencer",
+      "language": "Swift"
+    },
+    {
+      "name": "RichContextMenu",
+      "repo": "https://github.com/eonist/RichContextMenu",
+      "language": "Swift"
+    },
+    {
+      "name": "TrigKit",
+      "repo": "https://github.com/eonist/TrigKit",
+      "language": "Swift"
+    },
+    {
+      "name": "SegueDemo",
+      "repo": "https://github.com/eonist/SegueDemo",
+      "language": "Swift"
+    },
+    {
+      "name": "CommentStyler",
+      "repo": "https://github.com/eonist/CommentStyler",
+      "language": "Swift"
+    },
+    {
+      "name": "ShellSugar",
+      "repo": "https://github.com/eonist/ShellSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "RegExSugar",
+      "repo": "https://github.com/eonist/RegExSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "GraphicKit",
+      "repo": "https://github.com/eonist/GraphicKit",
+      "language": "Swift"
+    },
+    {
+      "name": "DeviceModelName",
+      "repo": "https://github.com/eonist/DeviceModelName",
+      "language": "Swift"
+    },
+    {
+      "name": "EditTableView",
+      "repo": "https://github.com/eonist/EditTableView",
+      "language": "Swift"
+    },
+    {
+      "name": "RangeSugar",
+      "repo": "https://github.com/eonist/RangeSugar",
+      "language": "Swift"
+    },
+    {
+      "name": "GestureHUD",
+      "repo": "https://github.com/eonist/GestureHUD",
+      "language": "Swift"
+    },
+    {
+      "name": "GitSync",
+      "repo": "https://github.com/eonist/GitSync",
+      "language": "Swift"
+    },
+    {
+      "name": "Issues",
+      "repo": "https://github.com/eonist/Issues"
+    },
+    {
+      "name": "GitSync-applescript",
+      "repo": "https://github.com/eonist/GitSync-applescript",
+      "language": "AppleScript"
+    },
+    {
+      "name": "EventKit",
+      "repo": "https://github.com/eonist/EventKit",
+      "language": "Swift"
+    },
+    {
+      "name": "How-to-collaborate-on-github",
+      "repo": "https://github.com/eonist/How-to-collaborate-on-github"
+    },
+    {
+      "name": "hierarchical-spatial-algo",
+      "repo": "https://github.com/eonist/hierarchical-spatial-algo",
+      "language": "Swift"
+    },
+    {
+      "name": "Unfold",
+      "repo": "https://github.com/eonist/Unfold",
+      "language": "Swift"
+    },
+    {
+      "name": "ProgressIndicator",
+      "repo": "https://github.com/eonist/ProgressIndicator",
+      "language": "Swift"
+    },
+    {
+      "name": "Cube",
+      "repo": "https://github.com/eonist/Cube",
+      "language": "Swift"
+    },
+    {
+      "name": "CircularGraph",
+      "repo": "https://github.com/eonist/CircularGraph",
+      "language": "Swift"
+    },
+    {
+      "name": "NetSki",
+      "repo": "https://github.com/eonist/NetSki",
+      "language": "Swift"
+    },
+    {
+      "name": "FlexBox",
+      "repo": "https://github.com/eonist/FlexBox",
+      "language": "Swift"
+    },
+    {
+      "name": "Carousel",
+      "repo": "https://github.com/eonist/Carousel",
+      "language": "Swift"
+    },
+    {
+      "name": "Celestial",
+      "repo": "https://github.com/eonist/Celestial",
+      "language": "Swift"
+    },
+    {
+      "name": "Summon",
+      "repo": "https://github.com/eonist/Summon",
+      "language": "Swift"
+    },
+    {
+      "name": "MDHelper",
+      "repo": "https://github.com/eonist/MDHelper",
+      "language": "Swift"
+    },
+    {
+      "name": "TreeListComponent",
+      "repo": "https://github.com/eonist/TreeListComponent",
+      "language": "Swift"
+    },
+    {
+      "name": "ReflectionLib",
+      "repo": "https://github.com/eonist/ReflectionLib",
+      "language": "Swift"
+    }
+  ],
   "apps": []
 }

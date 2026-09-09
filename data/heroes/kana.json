@@ -8,5 +8,511 @@
   "bio": "To Vim, or not to Vim.",
   "own_repos": 123,
   "commits": 13578,
+  "repos": [
+    {
+      "name": "vim-vspec",
+      "repo": "https://github.com/kana/vim-vspec",
+      "language": "Vim Script"
+    },
+    {
+      "name": "twitch-chat-notifier",
+      "repo": "https://github.com/kana/twitch-chat-notifier",
+      "language": "JavaScript"
+    },
+    {
+      "name": "config",
+      "repo": "https://github.com/kana/config",
+      "language": "HTML"
+    },
+    {
+      "name": "kana.github.io",
+      "repo": "https://github.com/kana/kana.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "vim-g",
+      "repo": "https://github.com/kana/vim-g",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-gf-user",
+      "repo": "https://github.com/kana/vim-gf-user",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-flavor",
+      "repo": "https://github.com/kana/vim-flavor",
+      "url": "https://www.relishapp.com/kana/vim-flavor",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-gf-diff",
+      "repo": "https://github.com/kana/vim-gf-diff",
+      "language": "Vim Script"
+    },
+    {
+      "name": "hatokurandom",
+      "repo": "https://github.com/kana/hatokurandom",
+      "url": "https://hatokurandom.whileimautomaton.net",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sicp",
+      "repo": "https://github.com/kana/sicp",
+      "language": "Scheme"
+    },
+    {
+      "name": "vim-version-manager",
+      "repo": "https://github.com/kana/vim-version-manager",
+      "language": "Python"
+    },
+    {
+      "name": "vim-textobj-entire",
+      "repo": "https://github.com/kana/vim-textobj-entire",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-smartword",
+      "repo": "https://github.com/kana/vim-smartword",
+      "language": "Vim Script"
+    },
+    {
+      "name": "othello-js",
+      "repo": "https://github.com/kana/othello-js",
+      "url": "https://kana.github.io/othello-js/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-operator-replace",
+      "repo": "https://github.com/kana/vim-operator-replace",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-fakeclip",
+      "repo": "https://github.com/kana/vim-fakeclip",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-line",
+      "repo": "https://github.com/kana/vim-textobj-line",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-tabpagecd",
+      "repo": "https://github.com/kana/vim-tabpagecd",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-idwintab",
+      "repo": "https://github.com/kana/vim-idwintab",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-altr",
+      "repo": "https://github.com/kana/vim-altr",
+      "url": "https://github.com/kana/vim-altr/blob/master/doc/altr.txt",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-fold",
+      "repo": "https://github.com/kana/vim-textobj-fold",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-indent",
+      "repo": "https://github.com/kana/vim-textobj-indent",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-help",
+      "repo": "https://github.com/kana/vim-textobj-help",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-metarw",
+      "repo": "https://github.com/kana/vim-metarw",
+      "language": "Vim Script"
+    },
+    {
+      "name": "shephy-js",
+      "repo": "https://github.com/kana/shephy-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-arpeggio",
+      "repo": "https://github.com/kana/vim-arpeggio",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-function",
+      "repo": "https://github.com/kana/vim-textobj-function",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-user",
+      "repo": "https://github.com/kana/vim-textobj-user",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-submode",
+      "repo": "https://github.com/kana/vim-submode",
+      "language": "Vim Script"
+    },
+    {
+      "name": "shards",
+      "repo": "https://github.com/kana/shards",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-niceblock",
+      "repo": "https://github.com/kana/vim-niceblock",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-vcsi",
+      "repo": "https://github.com/kana/vim-vcsi",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-slacky",
+      "repo": "https://github.com/kana/vim-slacky",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-metarw-esa",
+      "repo": "https://github.com/kana/vim-metarw-esa",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-smartinput",
+      "repo": "https://github.com/kana/vim-smartinput",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-operator-siege",
+      "repo": "https://github.com/kana/vim-operator-siege",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-operator-user",
+      "repo": "https://github.com/kana/vim-operator-user",
+      "language": "Vim Script"
+    },
+    {
+      "name": "slack-review-counter",
+      "repo": "https://github.com/kana/slack-review-counter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-tag-php",
+      "repo": "https://github.com/kana/vim-tag-php",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-tag-user",
+      "repo": "https://github.com/kana/vim-tag-user",
+      "language": "Vim Script"
+    },
+    {
+      "name": "slack-slash-server",
+      "repo": "https://github.com/kana/slack-slash-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-better-tag-jump",
+      "repo": "https://github.com/kana/vim-better-tag-jump",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-komeshiro",
+      "repo": "https://github.com/kana/vim-komeshiro",
+      "language": "Vim Script"
+    },
+    {
+      "name": "shephy-ts",
+      "repo": "https://github.com/kana/shephy-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim",
+      "repo": "https://github.com/kana/vim",
+      "language": "C"
+    },
+    {
+      "name": "vim-textobj-smarty",
+      "repo": "https://github.com/kana/vim-textobj-smarty",
+      "language": "Vim Script"
+    },
+    {
+      "name": "splatoon",
+      "repo": "https://github.com/kana/splatoon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-sendagaya",
+      "repo": "https://github.com/kana/vim-sendagaya",
+      "language": "Vim Script"
+    },
+    {
+      "name": "glitchr",
+      "repo": "https://github.com/kana/glitchr",
+      "language": "Shell"
+    },
+    {
+      "name": "ypns",
+      "repo": "https://github.com/kana/ypns",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-pixivision",
+      "repo": "https://github.com/kana/vim-pixivision",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-smartchr",
+      "repo": "https://github.com/kana/vim-smartchr",
+      "language": "Vim Script"
+    },
+    {
+      "name": "schemepunk",
+      "repo": "https://github.com/kana/schemepunk",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-mru",
+      "repo": "https://github.com/kana/vim-mru",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-obedient",
+      "repo": "https://github.com/kana/vim-obedient",
+      "language": "Vim Script"
+    },
+    {
+      "name": "hatokura",
+      "repo": "https://github.com/kana/hatokura",
+      "language": "Ruby"
+    },
+    {
+      "name": "colors",
+      "repo": "https://github.com/kana/colors",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-altercmd",
+      "repo": "https://github.com/kana/vim-altercmd",
+      "language": "Vim Script"
+    },
+    {
+      "name": "evolution-js",
+      "repo": "https://github.com/kana/evolution-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dice-of-doom-js",
+      "repo": "https://github.com/kana/dice-of-doom-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sorting-algorithm-visualization-js",
+      "repo": "https://github.com/kana/sorting-algorithm-visualization-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-textobj-syntax",
+      "repo": "https://github.com/kana/vim-textobj-syntax",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-lastpat",
+      "repo": "https://github.com/kana/vim-textobj-lastpat",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-jabraces",
+      "repo": "https://github.com/kana/vim-textobj-jabraces",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-diff",
+      "repo": "https://github.com/kana/vim-textobj-diff",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-datetime",
+      "repo": "https://github.com/kana/vim-textobj-datetime",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-xml-move",
+      "repo": "https://github.com/kana/vim-xml-move",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-xml-autons",
+      "repo": "https://github.com/kana/vim-xml-autons",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-wwwsearch",
+      "repo": "https://github.com/kana/vim-wwwsearch",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-skeleton",
+      "repo": "https://github.com/kana/vim-skeleton",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-scratch",
+      "repo": "https://github.com/kana/vim-scratch",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-repeat",
+      "repo": "https://github.com/kana/vim-repeat",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-narrow",
+      "repo": "https://github.com/kana/vim-narrow",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-metarw-git",
+      "repo": "https://github.com/kana/vim-metarw-git",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-grex",
+      "repo": "https://github.com/kana/vim-grex",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-flydiff",
+      "repo": "https://github.com/kana/vim-flydiff",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-filetype-haskell",
+      "repo": "https://github.com/kana/vim-filetype-haskell",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-exjumplist",
+      "repo": "https://github.com/kana/vim-exjumplist",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-bundle",
+      "repo": "https://github.com/kana/vim-bundle",
+      "language": "Vim Script"
+    },
+    {
+      "name": "mduem",
+      "repo": "https://github.com/kana/mduem",
+      "language": "Vim Script"
+    },
+    {
+      "name": "TokyoVim",
+      "repo": "https://github.com/kana/TokyoVim",
+      "url": "https://github.com/kana/TokyoVim/wiki"
+    },
+    {
+      "name": "vim-doc",
+      "repo": "https://github.com/kana/vim-doc",
+      "language": "Ruby"
+    },
+    {
+      "name": "heroku-varnish-test",
+      "repo": "https://github.com/kana/heroku-varnish-test",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-xire",
+      "repo": "https://github.com/kana/vim-xire",
+      "language": "Scheme"
+    },
+    {
+      "name": "gauche-test-gasmine",
+      "repo": "https://github.com/kana/gauche-test-gasmine",
+      "language": "Scheme"
+    },
+    {
+      "name": "ddh0313",
+      "repo": "https://github.com/kana/ddh0313",
+      "language": "Ruby"
+    },
+    {
+      "name": "fnfnen3",
+      "repo": "https://github.com/kana/fnfnen3",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vimup",
+      "repo": "https://github.com/kana/vimup",
+      "language": "Ruby"
+    },
+    {
+      "name": "py-llll",
+      "repo": "https://github.com/kana/py-llll",
+      "language": "Python"
+    },
+    {
+      "name": "vim-monad",
+      "repo": "https://github.com/kana/vim-monad",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ruby-arake",
+      "repo": "https://github.com/kana/ruby-arake",
+      "language": "Ruby"
+    },
+    {
+      "name": "metastagram",
+      "repo": "https://github.com/kana/metastagram",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fnfnen",
+      "repo": "https://github.com/kana/fnfnen",
+      "url": "https://github.com/kana/fnfnen3",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sudokush",
+      "repo": "https://github.com/kana/sudokush",
+      "language": "Haskell"
+    },
+    {
+      "name": "py-monad",
+      "repo": "https://github.com/kana/py-monad",
+      "language": "Python"
+    },
+    {
+      "name": "vim-advice",
+      "repo": "https://github.com/kana/vim-advice",
+      "language": "Vim Script"
+    },
+    {
+      "name": "prafbe",
+      "repo": "https://github.com/kana/prafbe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-ku",
+      "repo": "https://github.com/kana/vim-ku",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-exfiletype",
+      "repo": "https://github.com/kana/vim-exfiletype"
+    },
+    {
+      "name": "vim-surround",
+      "repo": "https://github.com/kana/vim-surround",
+      "language": "Vim Script"
+    }
+  ],
   "apps": []
 }

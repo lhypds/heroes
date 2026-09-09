@@ -6,5 +6,505 @@
   ],
   "own_repos": 122,
   "commits": 20242,
+  "repos": [
+    {
+      "name": "sokol",
+      "repo": "https://github.com/floooh/sokol",
+      "url": "https://floooh.github.io/sokol-html5",
+      "language": "C"
+    },
+    {
+      "name": "sokol-d",
+      "repo": "https://github.com/floooh/sokol-d",
+      "language": "C"
+    },
+    {
+      "name": "sokol-nim",
+      "repo": "https://github.com/floooh/sokol-nim",
+      "language": "C"
+    },
+    {
+      "name": "sokol-odin",
+      "repo": "https://github.com/floooh/sokol-odin",
+      "language": "C"
+    },
+    {
+      "name": "sokol-rust",
+      "repo": "https://github.com/floooh/sokol-rust",
+      "language": "C"
+    },
+    {
+      "name": "sokol-c3",
+      "repo": "https://github.com/floooh/sokol-c3",
+      "language": "C"
+    },
+    {
+      "name": "sokol-html5",
+      "repo": "https://github.com/floooh/sokol-html5",
+      "language": "HTML"
+    },
+    {
+      "name": "sokol-webgpu",
+      "repo": "https://github.com/floooh/sokol-webgpu",
+      "language": "HTML"
+    },
+    {
+      "name": "sokol-samples",
+      "repo": "https://github.com/floooh/sokol-samples",
+      "language": "C"
+    },
+    {
+      "name": "sokol-zig",
+      "repo": "https://github.com/floooh/sokol-zig",
+      "language": "C"
+    },
+    {
+      "name": "qoiview",
+      "repo": "https://github.com/floooh/qoiview",
+      "language": "C"
+    },
+    {
+      "name": "fibs-sokol-test",
+      "repo": "https://github.com/floooh/fibs-sokol-test",
+      "language": "C++"
+    },
+    {
+      "name": "sokol-zig-imgui-sample",
+      "repo": "https://github.com/floooh/sokol-zig-imgui-sample",
+      "language": "Zig"
+    },
+    {
+      "name": "dcimgui",
+      "repo": "https://github.com/floooh/dcimgui",
+      "language": "C++"
+    },
+    {
+      "name": "chipz",
+      "repo": "https://github.com/floooh/chipz",
+      "language": "Zig"
+    },
+    {
+      "name": "chips-test",
+      "repo": "https://github.com/floooh/chips-test",
+      "language": "C"
+    },
+    {
+      "name": "v6502r",
+      "repo": "https://github.com/floooh/v6502r",
+      "language": "C"
+    },
+    {
+      "name": "sokol-tools-bin",
+      "repo": "https://github.com/floooh/sokol-tools-bin",
+      "language": "Zig"
+    },
+    {
+      "name": "chips",
+      "repo": "https://github.com/floooh/chips",
+      "language": "C"
+    },
+    {
+      "name": "visual6502remix",
+      "repo": "https://github.com/floooh/visual6502remix",
+      "language": "HTML"
+    },
+    {
+      "name": "visualz80remix",
+      "repo": "https://github.com/floooh/visualz80remix",
+      "language": "HTML"
+    },
+    {
+      "name": "visual2a03remix",
+      "repo": "https://github.com/floooh/visual2a03remix",
+      "language": "HTML"
+    },
+    {
+      "name": "sokol-tools",
+      "repo": "https://github.com/floooh/sokol-tools",
+      "language": "C++"
+    },
+    {
+      "name": "fibs-libs",
+      "repo": "https://github.com/floooh/fibs-libs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chipz-kitty",
+      "repo": "https://github.com/floooh/chipz-kitty",
+      "language": "Zig"
+    },
+    {
+      "name": "fibs-extras",
+      "repo": "https://github.com/floooh/fibs-extras",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cimgui-sokol-starterkit",
+      "repo": "https://github.com/floooh/cimgui-sokol-starterkit",
+      "language": "C++"
+    },
+    {
+      "name": "pacman.c",
+      "repo": "https://github.com/floooh/pacman.c",
+      "language": "C"
+    },
+    {
+      "name": "fibs",
+      "repo": "https://github.com/floooh/fibs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bookmarks",
+      "repo": "https://github.com/floooh/bookmarks"
+    },
+    {
+      "name": "tint-extract",
+      "repo": "https://github.com/floooh/tint-extract",
+      "language": "C++"
+    },
+    {
+      "name": "tiny8bit",
+      "repo": "https://github.com/floooh/tiny8bit",
+      "language": "HTML"
+    },
+    {
+      "name": "pacman.zig",
+      "repo": "https://github.com/floooh/pacman.zig",
+      "language": "Zig"
+    },
+    {
+      "name": "fibs-hello-world",
+      "repo": "https://github.com/floooh/fibs-hello-world",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pacman.d",
+      "repo": "https://github.com/floooh/pacman.d",
+      "url": "https://kassane.github.io/pacman.d/pacman.html",
+      "language": "D"
+    },
+    {
+      "name": "fibs-platforms",
+      "repo": "https://github.com/floooh/fibs-platforms",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fibs-utils",
+      "repo": "https://github.com/floooh/fibs-utils",
+      "language": "TypeScript"
+    },
+    {
+      "name": "floooh.github.io",
+      "repo": "https://github.com/floooh/floooh.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "fips",
+      "repo": "https://github.com/floooh/fips",
+      "language": "Python"
+    },
+    {
+      "name": "sokol-zig-docs",
+      "repo": "https://github.com/floooh/sokol-zig-docs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-kcide",
+      "repo": "https://github.com/floooh/vscode-kcide",
+      "language": "TypeScript"
+    },
+    {
+      "name": "easmx",
+      "repo": "https://github.com/floooh/easmx",
+      "language": "C"
+    },
+    {
+      "name": "sokol-repros",
+      "repo": "https://github.com/floooh/sokol-repros",
+      "language": "C"
+    },
+    {
+      "name": "oryol-sticky-tests",
+      "repo": "https://github.com/floooh/oryol-sticky-tests",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kcide-sample-kc854",
+      "repo": "https://github.com/floooh/kcide-sample-kc854",
+      "language": "Assembly"
+    },
+    {
+      "name": "kcide-hello",
+      "repo": "https://github.com/floooh/kcide-hello",
+      "language": "Assembly"
+    },
+    {
+      "name": "kc85.zig",
+      "repo": "https://github.com/floooh/kc85.zig",
+      "language": "Zig"
+    },
+    {
+      "name": "fibs-test",
+      "repo": "https://github.com/floooh/fibs-test",
+      "language": "C"
+    },
+    {
+      "name": "kcide-sample",
+      "repo": "https://github.com/floooh/kcide-sample",
+      "language": "Assembly"
+    },
+    {
+      "name": "emu-info",
+      "repo": "https://github.com/floooh/emu-info",
+      "language": "Assembly"
+    },
+    {
+      "name": "vscode-asmx",
+      "repo": "https://github.com/floooh/vscode-asmx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-emscripten-debugging",
+      "repo": "https://github.com/floooh/vscode-emscripten-debugging",
+      "language": "C"
+    },
+    {
+      "name": "oryol",
+      "repo": "https://github.com/floooh/oryol",
+      "language": "C++"
+    },
+    {
+      "name": "fips-hello-world",
+      "repo": "https://github.com/floooh/fips-hello-world",
+      "language": "Python"
+    },
+    {
+      "name": "fips-hello-dep1",
+      "repo": "https://github.com/floooh/fips-hello-dep1",
+      "language": "Python"
+    },
+    {
+      "name": "fips-hello-dep2",
+      "repo": "https://github.com/floooh/fips-hello-dep2",
+      "language": "Python"
+    },
+    {
+      "name": "emsc-calloc-emmalloc-repro",
+      "repo": "https://github.com/floooh/emsc-calloc-emmalloc-repro",
+      "language": "C"
+    },
+    {
+      "name": "altai",
+      "repo": "https://github.com/floooh/altai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "oryol-samples",
+      "repo": "https://github.com/floooh/oryol-samples",
+      "language": "C++"
+    },
+    {
+      "name": "tiny8bit-preview",
+      "repo": "https://github.com/floooh/tiny8bit-preview",
+      "language": "HTML"
+    },
+    {
+      "name": "fips-soloud",
+      "repo": "https://github.com/floooh/fips-soloud",
+      "language": "CMake"
+    },
+    {
+      "name": "tiny8bitvs",
+      "repo": "https://github.com/floooh/tiny8bitvs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "objc-ast-experiments",
+      "repo": "https://github.com/floooh/objc-ast-experiments",
+      "language": "C"
+    },
+    {
+      "name": "emsc-interop-demo",
+      "repo": "https://github.com/floooh/emsc-interop-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "nvidia-driver-issue",
+      "repo": "https://github.com/floooh/nvidia-driver-issue",
+      "language": "C"
+    },
+    {
+      "name": "zig-test",
+      "repo": "https://github.com/floooh/zig-test",
+      "language": "Zig"
+    },
+    {
+      "name": "cmake318_vstudio_c_cpp_repro",
+      "repo": "https://github.com/floooh/cmake318_vstudio_c_cpp_repro",
+      "language": "CMake"
+    },
+    {
+      "name": "oryol-nuklear",
+      "repo": "https://github.com/floooh/oryol-nuklear",
+      "language": "C++"
+    },
+    {
+      "name": "fips-nuklear",
+      "repo": "https://github.com/floooh/fips-nuklear",
+      "language": "Python"
+    },
+    {
+      "name": "headeronly-perf",
+      "repo": "https://github.com/floooh/headeronly-perf",
+      "language": "C"
+    },
+    {
+      "name": "oryol-tools",
+      "repo": "https://github.com/floooh/oryol-tools",
+      "language": "C++"
+    },
+    {
+      "name": "sokol-wgpu-preview",
+      "repo": "https://github.com/floooh/sokol-wgpu-preview",
+      "language": "HTML"
+    },
+    {
+      "name": "rz80",
+      "repo": "https://github.com/floooh/rz80",
+      "language": "Rust"
+    },
+    {
+      "name": "oryol-tbui",
+      "repo": "https://github.com/floooh/oryol-tbui",
+      "language": "C++"
+    },
+    {
+      "name": "fips-glm",
+      "repo": "https://github.com/floooh/fips-glm"
+    },
+    {
+      "name": "dummy",
+      "repo": "https://github.com/floooh/dummy"
+    },
+    {
+      "name": "fips-bgfx",
+      "repo": "https://github.com/floooh/fips-bgfx",
+      "language": "CMake"
+    },
+    {
+      "name": "fips-glfw",
+      "repo": "https://github.com/floooh/fips-glfw",
+      "language": "CMake"
+    },
+    {
+      "name": "yakc",
+      "repo": "https://github.com/floooh/yakc",
+      "language": "Assembly"
+    },
+    {
+      "name": "oryol-animation",
+      "repo": "https://github.com/floooh/oryol-animation",
+      "language": "C++"
+    },
+    {
+      "name": "oryol-imgui",
+      "repo": "https://github.com/floooh/oryol-imgui",
+      "language": "C++"
+    },
+    {
+      "name": "docker-c64",
+      "repo": "https://github.com/floooh/docker-c64",
+      "language": "C"
+    },
+    {
+      "name": "docker-kc85",
+      "repo": "https://github.com/floooh/docker-kc85",
+      "language": "C"
+    },
+    {
+      "name": "sokol-nim-samples",
+      "repo": "https://github.com/floooh/sokol-nim-samples",
+      "language": "Nim"
+    },
+    {
+      "name": "fips-cjson",
+      "repo": "https://github.com/floooh/fips-cjson",
+      "language": "CMake"
+    },
+    {
+      "name": "virtualkc",
+      "repo": "https://github.com/floooh/virtualkc",
+      "language": "HTML"
+    },
+    {
+      "name": "todo",
+      "repo": "https://github.com/floooh/todo"
+    },
+    {
+      "name": "oryol-sound",
+      "repo": "https://github.com/floooh/oryol-sound",
+      "language": "C++"
+    },
+    {
+      "name": "tmp-http-test",
+      "repo": "https://github.com/floooh/tmp-http-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hcasm",
+      "repo": "https://github.com/floooh/hcasm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fips-unittestpp",
+      "repo": "https://github.com/floooh/fips-unittestpp",
+      "language": "C++"
+    },
+    {
+      "name": "fips-remotery",
+      "repo": "https://github.com/floooh/fips-remotery",
+      "language": "CMake"
+    },
+    {
+      "name": "gliml",
+      "repo": "https://github.com/floooh/gliml",
+      "language": "C++"
+    },
+    {
+      "name": "fips-zlib",
+      "repo": "https://github.com/floooh/fips-zlib",
+      "language": "C"
+    },
+    {
+      "name": "fips-vld",
+      "repo": "https://github.com/floooh/fips-vld",
+      "language": "C"
+    },
+    {
+      "name": "fips-libcurl",
+      "repo": "https://github.com/floooh/fips-libcurl",
+      "language": "C"
+    },
+    {
+      "name": "fips-bullet",
+      "repo": "https://github.com/floooh/fips-bullet",
+      "language": "CMake"
+    },
+    {
+      "name": "fips-lua",
+      "repo": "https://github.com/floooh/fips-lua",
+      "language": "CMake"
+    },
+    {
+      "name": "fips-luasocket",
+      "repo": "https://github.com/floooh/fips-luasocket",
+      "language": "CMake"
+    },
+    {
+      "name": "oryol-fileformats",
+      "repo": "https://github.com/floooh/oryol-fileformats",
+      "language": "C++"
+    }
+  ],
   "apps": []
 }

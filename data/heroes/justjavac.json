@@ -7,5 +7,564 @@
   "bio": "Creator of vscode-deno. Currently a contributor to Deno.",
   "own_repos": 287,
   "commits": 13908,
+  "repos": [
+    {
+      "name": "zhihu-trending-top-search",
+      "repo": "https://github.com/justjavac/zhihu-trending-top-search",
+      "language": "TypeScript"
+    },
+    {
+      "name": "weibo-trending-hot-search",
+      "repo": "https://github.com/justjavac/weibo-trending-hot-search",
+      "language": "TypeScript"
+    },
+    {
+      "name": "how_many_doms",
+      "repo": "https://github.com/justjavac/how_many_doms",
+      "language": "TypeScript"
+    },
+    {
+      "name": "minecraft-web",
+      "repo": "https://github.com/justjavac/minecraft-web",
+      "url": "https://k3mc.jjc.fun",
+      "language": "TypeScript"
+    },
+    {
+      "name": "free-models",
+      "repo": "https://github.com/justjavac/free-models",
+      "url": "https://models.denohub.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "json-perf-loader",
+      "repo": "https://github.com/justjavac/json-perf-loader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ChromeSnifferPlus",
+      "repo": "https://github.com/justjavac/ChromeSnifferPlus",
+      "url": "https://chrome.google.com/webstore/detail/library-sniffer/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dvm",
+      "repo": "https://github.com/justjavac/dvm",
+      "language": "Rust"
+    },
+    {
+      "name": "chatgpt",
+      "repo": "https://github.com/justjavac/chatgpt",
+      "url": "https://chatgpt.denohub.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "claude-and-codex-website",
+      "repo": "https://github.com/justjavac/claude-and-codex-website"
+    },
+    {
+      "name": "wechat-miniapp-radar",
+      "repo": "https://github.com/justjavac/wechat-miniapp-radar",
+      "url": "https://miniapp.jjc.fun",
+      "language": "TypeScript"
+    },
+    {
+      "name": "proton-demo",
+      "repo": "https://github.com/justjavac/proton-demo",
+      "language": "MoonBit"
+    },
+    {
+      "name": "glitch-token",
+      "repo": "https://github.com/justjavac/glitch-token",
+      "url": "https://glitch-token.jjc.fun",
+      "language": "TypeScript"
+    },
+    {
+      "name": "justjavac",
+      "repo": "https://github.com/justjavac/justjavac",
+      "url": "https://justjavac.com"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "repo": "https://github.com/justjavac/free-programming-books-zh_CN"
+    },
+    {
+      "name": "moonbit-quickjs",
+      "repo": "https://github.com/justjavac/moonbit-quickjs",
+      "url": "https://mooncakes.io/docs/justjavac/quickjs",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-cdp",
+      "repo": "https://github.com/justjavac/moonbit-cdp",
+      "url": "https://mooncakes.io/docs/justjavac/cdp",
+      "language": "MoonBit"
+    },
+    {
+      "name": "ttl",
+      "repo": "https://github.com/justjavac/ttl",
+      "url": "https://mooncakes.io/docs/justjavac/ttl",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-windows-subsystem",
+      "repo": "https://github.com/justjavac/moonbit-windows-subsystem",
+      "url": "https://mooncakes.io/docs/justjavac/windows_subsystem",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-wallpaper",
+      "repo": "https://github.com/justjavac/moonbit-wallpaper",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-walkdir",
+      "repo": "https://github.com/justjavac/moonbit-walkdir",
+      "url": "https://mooncakes.io/docs/justjavac/walkdir",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-tray",
+      "repo": "https://github.com/justjavac/moonbit-tray",
+      "url": "https://mooncakes.io/docs/justjavac/tray",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-terminal-size",
+      "repo": "https://github.com/justjavac/moonbit-terminal-size",
+      "url": "https://mooncakes.io/docs/justjavac/terminal_size",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-template",
+      "repo": "https://github.com/justjavac/moonbit-template",
+      "url": "https://mooncakes.io/docs/justjavac/template",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-sys-locale",
+      "repo": "https://github.com/justjavac/moonbit-sys-locale",
+      "url": "https://mooncakes.io/docs/justjavac/sys_locale",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-screenshots",
+      "repo": "https://github.com/justjavac/moonbit-screenshots",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-replace-self",
+      "repo": "https://github.com/justjavac/moonbit-replace-self",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-platform",
+      "repo": "https://github.com/justjavac/moonbit-platform",
+      "url": "https://mooncakes.io/docs/justjavac/platform",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-num-cpus",
+      "repo": "https://github.com/justjavac/moonbit-num-cpus",
+      "url": "https://mooncakes.io/docs/justjavac/num_cpus",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-notification",
+      "repo": "https://github.com/justjavac/moonbit-notification",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-microphone",
+      "repo": "https://github.com/justjavac/moonbit-microphone",
+      "url": "https://mooncakes.io/docs/justjavac/microphone",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-keepawake",
+      "repo": "https://github.com/justjavac/moonbit-keepawake",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-itoa",
+      "repo": "https://github.com/justjavac/moonbit-itoa",
+      "url": "https://mooncakes.io/docs/justjavac/itoa",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-global-hotkey",
+      "repo": "https://github.com/justjavac/moonbit-global-hotkey",
+      "url": "https://mooncakes.io/docs/justjavac/global_hotkey",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-glob",
+      "repo": "https://github.com/justjavac/moonbit-glob",
+      "url": "https://mooncakes.io/docs/justjavac/glob",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-ffi",
+      "repo": "https://github.com/justjavac/moonbit-ffi",
+      "url": "https://mooncakes.io/docs/justjavac/ffi",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-dirs",
+      "repo": "https://github.com/justjavac/moonbit-dirs",
+      "url": "https://mooncakes.io/docs/justjavac/dirs",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-dialog",
+      "repo": "https://github.com/justjavac/moonbit-dialog",
+      "url": "https://mooncakes.io/docs/justjavac/dialog",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-core-affinity",
+      "repo": "https://github.com/justjavac/moonbit-core-affinity",
+      "url": "https://mooncakes.io/docs/justjavac/core_affinity",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-clipboard",
+      "repo": "https://github.com/justjavac/moonbit-clipboard",
+      "url": "https://mooncakes.io/docs/justjavac/clipboard",
+      "language": "C"
+    },
+    {
+      "name": "moonbit-ci",
+      "repo": "https://github.com/justjavac/moonbit-ci",
+      "url": "https://mooncakes.io/docs/justjavac/ci",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-case",
+      "repo": "https://github.com/justjavac/moonbit-case",
+      "url": "https://mooncakes.io/docs/justjavac/case",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-camera",
+      "repo": "https://github.com/justjavac/moonbit-camera",
+      "url": "https://mooncakes.io/docs/justjavac/camera",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-bytesize",
+      "repo": "https://github.com/justjavac/moonbit-bytesize",
+      "url": "https://mooncakes.io/docs/justjavac/bytesize",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-btoi",
+      "repo": "https://github.com/justjavac/moonbit-btoi",
+      "url": "https://mooncakes.io/docs/justjavac/btoi",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-auto-launch",
+      "repo": "https://github.com/justjavac/moonbit-auto-launch",
+      "url": "https://mooncakes.io/docs/justjavac/auto_launch",
+      "language": "MoonBit"
+    },
+    {
+      "name": "minecraft-agent",
+      "repo": "https://github.com/justjavac/minecraft-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "is-dark-theme",
+      "repo": "https://github.com/justjavac/is-dark-theme",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/justjavac/blog",
+      "language": "TypeScript"
+    },
+    {
+      "name": "baby-time",
+      "repo": "https://github.com/justjavac/baby-time",
+      "url": "https://baby.justjavac.com",
+      "language": "HTML"
+    },
+    {
+      "name": "ReplaceGoogleCDN",
+      "repo": "https://github.com/justjavac/ReplaceGoogleCDN",
+      "url": "https://chrome.google.com/webstore/detail/replace-google-cdn/kpampjmfiopfpkkepbllemkibefkiice",
+      "language": "JavaScript"
+    },
+    {
+      "name": "google-ips",
+      "repo": "https://github.com/justjavac/google-ips",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nesdb-website",
+      "repo": "https://github.com/justjavac/nesdb-website",
+      "url": "https://nesdb.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nes-db",
+      "repo": "https://github.com/justjavac/nes-db",
+      "url": "https://nesdb.denohub.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rust_tinyget",
+      "repo": "https://github.com/justjavac/rust_tinyget",
+      "url": "https://crates.io/crates/tinyget",
+      "language": "Rust"
+    },
+    {
+      "name": "openai-proxy",
+      "repo": "https://github.com/justjavac/openai-proxy",
+      "url": "https://closeai.deno.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "herlang",
+      "repo": "https://github.com/justjavac/herlang",
+      "url": "https://herlang.denohub.com",
+      "language": "Rust"
+    },
+    {
+      "name": "moon-utf8-issue",
+      "repo": "https://github.com/justjavac/moon-utf8-issue",
+      "language": "AMPL"
+    },
+    {
+      "name": "vitest-feishu-reporter",
+      "repo": "https://github.com/justjavac/vitest-feishu-reporter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "moonbit-webview",
+      "repo": "https://github.com/justjavac/moonbit-webview",
+      "url": "https://mooncakes.io/docs/justjavac/webview",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit_ffi_win32_messagebox",
+      "repo": "https://github.com/justjavac/moonbit_ffi_win32_messagebox",
+      "language": "MoonBit"
+    },
+    {
+      "name": "gpui-router",
+      "repo": "https://github.com/justjavac/gpui-router",
+      "language": "Rust"
+    },
+    {
+      "name": "gpui-memory-game",
+      "repo": "https://github.com/justjavac/gpui-memory-game",
+      "language": "Rust"
+    },
+    {
+      "name": "libwebview",
+      "repo": "https://github.com/justjavac/libwebview",
+      "language": "CMake"
+    },
+    {
+      "name": "libquickjs",
+      "repo": "https://github.com/justjavac/libquickjs",
+      "language": "CMake"
+    },
+    {
+      "name": "docland",
+      "repo": "https://github.com/justjavac/docland",
+      "url": "https://doc.deno.js.cn",
+      "language": "TypeScript"
+    },
+    {
+      "name": "certbot-dns-aliyun",
+      "repo": "https://github.com/justjavac/certbot-dns-aliyun",
+      "language": "Shell"
+    },
+    {
+      "name": "rebirth-in-the-qin-dynasty",
+      "repo": "https://github.com/justjavac/rebirth-in-the-qin-dynasty",
+      "url": "https://www.ximalaya.com/album/97928860"
+    },
+    {
+      "name": "moonbit-cache-padded",
+      "repo": "https://github.com/justjavac/moonbit-cache-padded",
+      "url": "https://mooncakes.io/docs/justjavac/cache_padded",
+      "language": "MoonBit"
+    },
+    {
+      "name": "chrome_password.rs",
+      "repo": "https://github.com/justjavac/chrome_password.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "zhihu-trending-hot-questions",
+      "repo": "https://github.com/justjavac/zhihu-trending-hot-questions",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chrome_password.js",
+      "repo": "https://github.com/justjavac/chrome_password.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "deno_trex_game",
+      "repo": "https://github.com/justjavac/deno_trex_game",
+      "url": "https://trex.deno.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "justjavac.github.com",
+      "repo": "https://github.com/justjavac/justjavac.github.com",
+      "url": "https://justjavac.com",
+      "language": "HTML"
+    },
+    {
+      "name": "deno-docs",
+      "repo": "https://github.com/justjavac/deno-docs",
+      "url": "https://docs.denohub.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eso-rss",
+      "repo": "https://github.com/justjavac/eso-rss",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esowiki",
+      "repo": "https://github.com/justjavac/esowiki",
+      "url": "https://eso.denohub.com",
+      "language": "Astro"
+    },
+    {
+      "name": "eso-server-status",
+      "repo": "https://github.com/justjavac/eso-server-status",
+      "url": "https://eso-server-status.deno.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deepseek-fast-clone",
+      "repo": "https://github.com/justjavac/deepseek-fast-clone",
+      "url": "https://deepseek-fast-clone.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dvm_releases",
+      "repo": "https://github.com/justjavac/dvm_releases",
+      "url": "https://github.com/justjavac/dvm"
+    },
+    {
+      "name": "github-actions-youtube-dl",
+      "repo": "https://github.com/justjavac/github-actions-youtube-dl"
+    },
+    {
+      "name": "deno-releases",
+      "repo": "https://github.com/justjavac/deno-releases",
+      "url": "https://releases.deno.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "the-elder-scrolls-legends-tips",
+      "repo": "https://github.com/justjavac/the-elder-scrolls-legends-tips"
+    },
+    {
+      "name": "auto-green-2",
+      "repo": "https://github.com/justjavac/auto-green-2",
+      "language": "Java"
+    },
+    {
+      "name": "dl-deno-sync",
+      "repo": "https://github.com/justjavac/dl-deno-sync",
+      "url": "https://dl.deno.js.cn",
+      "language": "Shell"
+    },
+    {
+      "name": "deno_dirs",
+      "repo": "https://github.com/justjavac/deno_dirs",
+      "url": "https://deno.land/x/dir",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-change-case",
+      "repo": "https://github.com/justjavac/deno-change-case",
+      "url": "https://deno.land/x/case",
+      "language": "TypeScript"
+    },
+    {
+      "name": "no-you-must-beian",
+      "repo": "https://github.com/justjavac/no-you-must-beian",
+      "url": "https://no-you-must-beian.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno_git",
+      "repo": "https://github.com/justjavac/deno_git",
+      "language": "TypeScript"
+    },
+    {
+      "name": "antd-form-devtools",
+      "repo": "https://github.com/justjavac/antd-form-devtools",
+      "url": "https://antd-form-devtools.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chatdoc",
+      "repo": "https://github.com/justjavac/chatdoc",
+      "url": "https://chatdoc.denohub.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "writing-your-own-deep-neural-network",
+      "repo": "https://github.com/justjavac/writing-your-own-deep-neural-network",
+      "url": "https://dnn-playground.deno.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno_docx",
+      "repo": "https://github.com/justjavac/deno_docx",
+      "url": "https://docx.deno.dev/introduction",
+      "language": "TypeScript"
+    },
+    {
+      "name": "writing-your-own-reactive-signal-library",
+      "repo": "https://github.com/justjavac/writing-your-own-reactive-signal-library",
+      "url": "https://writing-your-own-signal.deno.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno_deploy_cors_proxy",
+      "repo": "https://github.com/justjavac/deno_deploy_cors_proxy",
+      "url": "https://cors.deno.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eso-api",
+      "repo": "https://github.com/justjavac/eso-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chatgpt_kook",
+      "repo": "https://github.com/justjavac/chatgpt_kook",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eso-nmt",
+      "repo": "https://github.com/justjavac/eso-nmt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "v8.js.cn",
+      "repo": "https://github.com/justjavac/v8.js.cn",
+      "url": "https://v8.js.cn",
+      "language": "JavaScript"
+    },
+    {
+      "name": "please-use-yarn",
+      "repo": "https://github.com/justjavac/please-use-yarn",
+      "url": "https://www.npmjs.com/package/please-use-yarn",
+      "language": "JavaScript"
+    }
+  ],
   "apps": []
 }

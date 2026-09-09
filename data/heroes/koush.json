@@ -7,5 +7,483 @@
   "website": "https://koush.com/",
   "own_repos": 203,
   "commits": 14977,
+  "repos": [
+    {
+      "name": "scrypted",
+      "repo": "https://github.com/koush/scrypted",
+      "url": "https://scrypted.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ha_scrypted",
+      "repo": "https://github.com/koush/ha_scrypted",
+      "language": "Python"
+    },
+    {
+      "name": "nvr.scrypted.app",
+      "repo": "https://github.com/koush/nvr.scrypted.app"
+    },
+    {
+      "name": "scratch",
+      "repo": "https://github.com/koush/scratch",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ion",
+      "repo": "https://github.com/koush/ion",
+      "language": "Java"
+    },
+    {
+      "name": "manage.scrypted.app",
+      "repo": "https://github.com/koush/manage.scrypted.app",
+      "language": "Vue"
+    },
+    {
+      "name": "docs.scrypted.app",
+      "repo": "https://github.com/koush/docs.scrypted.app",
+      "url": "https://docs.scrypted.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "boilerplate",
+      "repo": "https://github.com/koush/boilerplate",
+      "language": "Java"
+    },
+    {
+      "name": "chatsh",
+      "repo": "https://github.com/koush/chatsh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "scrypted-vscode-typescript",
+      "repo": "https://github.com/koush/scrypted-vscode-typescript",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tui.scrypted.app",
+      "repo": "https://github.com/koush/tui.scrypted.app",
+      "language": "CSS"
+    },
+    {
+      "name": "openvino-models",
+      "repo": "https://github.com/koush/openvino-models"
+    },
+    {
+      "name": "coreml-models",
+      "repo": "https://github.com/koush/coreml-models",
+      "language": "Python"
+    },
+    {
+      "name": "vllm-distributed",
+      "repo": "https://github.com/koush/vllm-distributed",
+      "language": "Python"
+    },
+    {
+      "name": "ncnn-models",
+      "repo": "https://github.com/koush/ncnn-models",
+      "language": "Python"
+    },
+    {
+      "name": "dice.clockworkmod.com",
+      "repo": "https://github.com/koush/dice.clockworkmod.com",
+      "url": "https://dice.clockworkmod.com",
+      "language": "HTML"
+    },
+    {
+      "name": "clockworkmod.com",
+      "repo": "https://github.com/koush/clockworkmod.com",
+      "language": "CSS"
+    },
+    {
+      "name": "scrypted.app",
+      "repo": "https://github.com/koush/scrypted.app",
+      "url": "https://scrypted.app",
+      "language": "CSS"
+    },
+    {
+      "name": "tflite-models",
+      "repo": "https://github.com/koush/tflite-models",
+      "language": "Shell"
+    },
+    {
+      "name": "scrypted-sample-cameraprovider",
+      "repo": "https://github.com/koush/scrypted-sample-cameraprovider",
+      "language": "TypeScript"
+    },
+    {
+      "name": "onnx-models",
+      "repo": "https://github.com/koush/onnx-models"
+    },
+    {
+      "name": "tensorrt-models",
+      "repo": "https://github.com/koush/tensorrt-models"
+    },
+    {
+      "name": "vysor.io",
+      "repo": "https://github.com/koush/vysor.io",
+      "url": "https://vysor.io",
+      "language": "HTML"
+    },
+    {
+      "name": "AnyKernel",
+      "repo": "https://github.com/koush/AnyKernel",
+      "language": "Shell"
+    },
+    {
+      "name": "Superuser",
+      "repo": "https://github.com/koush/Superuser",
+      "language": "C"
+    },
+    {
+      "name": "greenlock",
+      "repo": "https://github.com/koush/greenlock",
+      "language": "JavaScript"
+    },
+    {
+      "name": "acme.js",
+      "repo": "https://github.com/koush/acme.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tfjs-models",
+      "repo": "https://github.com/koush/tfjs-models"
+    },
+    {
+      "name": "release",
+      "repo": "https://github.com/koush/release"
+    },
+    {
+      "name": "vuetify-ios17repro",
+      "repo": "https://github.com/koush/vuetify-ios17repro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vysor-cli",
+      "repo": "https://github.com/koush/vysor-cli",
+      "language": "TypeScript"
+    },
+    {
+      "name": "support.vysor.io",
+      "repo": "https://github.com/koush/support.vysor.io",
+      "language": "HTML"
+    },
+    {
+      "name": "quickjs",
+      "repo": "https://github.com/koush/quickjs",
+      "url": "https://github.com/koush/vscode-quickjs-debug",
+      "language": "C"
+    },
+    {
+      "name": "android_system_core",
+      "repo": "https://github.com/koush/android_system_core",
+      "language": "C"
+    },
+    {
+      "name": "quack-polyfill",
+      "repo": "https://github.com/koush/quack-polyfill",
+      "language": "Kotlin"
+    },
+    {
+      "name": "scrypted-twilio",
+      "repo": "https://github.com/koush/scrypted-twilio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scrypted-thermostat",
+      "repo": "https://github.com/koush/scrypted-thermostat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "AndroidAsync",
+      "repo": "https://github.com/koush/AndroidAsync",
+      "language": "Java"
+    },
+    {
+      "name": "scrypted-private",
+      "repo": "https://github.com/koush/scrypted-private"
+    },
+    {
+      "name": "docker-opencv4nodejs",
+      "repo": "https://github.com/koush/docker-opencv4nodejs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "koush.com",
+      "repo": "https://github.com/koush/koush.com",
+      "language": "SCSS"
+    },
+    {
+      "name": "quack",
+      "repo": "https://github.com/koush/quack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-ffmpeg-to-wrtc",
+      "repo": "https://github.com/koush/node-ffmpeg-to-wrtc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esptool",
+      "repo": "https://github.com/koush/esptool",
+      "language": "TypeScript"
+    },
+    {
+      "name": "UniversalAdbDriver",
+      "repo": "https://github.com/koush/UniversalAdbDriver",
+      "url": "https://adb.clockworkmod.com/",
+      "language": "C#"
+    },
+    {
+      "name": "AppleMobileDeviceSupport",
+      "repo": "https://github.com/koush/AppleMobileDeviceSupport"
+    },
+    {
+      "name": "electron-chrome",
+      "repo": "https://github.com/koush/electron-chrome",
+      "language": "JavaScript"
+    },
+    {
+      "name": "adb.clockworkmod.com",
+      "repo": "https://github.com/koush/adb.clockworkmod.com",
+      "language": "CSS"
+    },
+    {
+      "name": "inkwire.io",
+      "repo": "https://github.com/koush/inkwire.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Kexts",
+      "repo": "https://github.com/koush/Kexts"
+    },
+    {
+      "name": "scrypted-notifier-mixin",
+      "repo": "https://github.com/koush/scrypted-notifier-mixin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "EFI-X99",
+      "repo": "https://github.com/koush/EFI-X99",
+      "language": "Rich Text Format"
+    },
+    {
+      "name": "myshowcase",
+      "repo": "https://github.com/koush/myshowcase",
+      "language": "Java"
+    },
+    {
+      "name": "CastAPI",
+      "repo": "https://github.com/koush/CastAPI",
+      "language": "Java"
+    },
+    {
+      "name": "download.clockworkmod.com",
+      "repo": "https://github.com/koush/download.clockworkmod.com"
+    },
+    {
+      "name": "CarbonResources",
+      "repo": "https://github.com/koush/CarbonResources"
+    },
+    {
+      "name": "TetherResources",
+      "repo": "https://github.com/koush/TetherResources"
+    },
+    {
+      "name": "allcast.io",
+      "repo": "https://github.com/koush/allcast.io",
+      "language": "CSS"
+    },
+    {
+      "name": "CastResources",
+      "repo": "https://github.com/koush/CastResources"
+    },
+    {
+      "name": "InkwireResources",
+      "repo": "https://github.com/koush/InkwireResources"
+    },
+    {
+      "name": "ROMManagerManifest",
+      "repo": "https://github.com/koush/ROMManagerManifest",
+      "language": "JavaScript"
+    },
+    {
+      "name": "workspace",
+      "repo": "https://github.com/koush/workspace"
+    },
+    {
+      "name": "CastSite",
+      "repo": "https://github.com/koush/CastSite",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jenkinsmanifest",
+      "repo": "https://github.com/koush/jenkinsmanifest",
+      "language": "CSS"
+    },
+    {
+      "name": "mvn-repo",
+      "repo": "https://github.com/koush/mvn-repo"
+    },
+    {
+      "name": "dropbox-sdk",
+      "repo": "https://github.com/koush/dropbox-sdk",
+      "language": "Java"
+    },
+    {
+      "name": "scrypted-wemo",
+      "repo": "https://github.com/koush/scrypted-wemo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dev.vysor.io",
+      "repo": "https://github.com/koush/dev.vysor.io",
+      "language": "CSS"
+    },
+    {
+      "name": "EFI-SkullCanyon",
+      "repo": "https://github.com/koush/EFI-SkullCanyon",
+      "language": "Shell"
+    },
+    {
+      "name": "clockworkbilling-java",
+      "repo": "https://github.com/koush/clockworkbilling-java",
+      "language": "Java"
+    },
+    {
+      "name": "EFI",
+      "repo": "https://github.com/koush/EFI",
+      "language": "JavaScript"
+    },
+    {
+      "name": "IONetworkingFamily.kext",
+      "repo": "https://github.com/koush/IONetworkingFamily.kext",
+      "language": "Perl"
+    },
+    {
+      "name": "koush.github.io",
+      "repo": "https://github.com/koush/koush.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "sqlite-net",
+      "repo": "https://github.com/koush/sqlite-net",
+      "language": "C#"
+    },
+    {
+      "name": "vysor-repo",
+      "repo": "https://github.com/koush/vysor-repo"
+    },
+    {
+      "name": "AppleHDA.kext",
+      "repo": "https://github.com/koush/AppleHDA.kext"
+    },
+    {
+      "name": "Widgets",
+      "repo": "https://github.com/koush/Widgets",
+      "language": "Java"
+    },
+    {
+      "name": "GrowBox",
+      "repo": "https://github.com/koush/GrowBox",
+      "language": "Java"
+    },
+    {
+      "name": "Chips",
+      "repo": "https://github.com/koush/Chips"
+    },
+    {
+      "name": "allcast-presskit",
+      "repo": "https://github.com/koush/allcast-presskit"
+    },
+    {
+      "name": "px-drift",
+      "repo": "https://github.com/koush/px-drift",
+      "language": "CSS"
+    },
+    {
+      "name": "MediaRouterSample",
+      "repo": "https://github.com/koush/MediaRouterSample",
+      "language": "Java"
+    },
+    {
+      "name": "SampleImages",
+      "repo": "https://github.com/koush/SampleImages"
+    },
+    {
+      "name": "AMDRadeonX4000.kext",
+      "repo": "https://github.com/koush/AMDRadeonX4000.kext"
+    },
+    {
+      "name": "AMD7000Controller.kext",
+      "repo": "https://github.com/koush/AMD7000Controller.kext"
+    },
+    {
+      "name": "Clear",
+      "repo": "https://github.com/koush/Clear",
+      "language": "Java"
+    },
+    {
+      "name": "m2repository",
+      "repo": "https://github.com/koush/m2repository"
+    },
+    {
+      "name": "android-support",
+      "repo": "https://github.com/koush/android-support"
+    },
+    {
+      "name": "ub-conscrypt-manifest",
+      "repo": "https://github.com/koush/ub-conscrypt-manifest"
+    },
+    {
+      "name": "UrlImageViewHelper",
+      "repo": "https://github.com/koush/UrlImageViewHelper",
+      "language": "Java"
+    },
+    {
+      "name": "ion-test-server",
+      "repo": "https://github.com/koush/ion-test-server",
+      "language": "Python"
+    },
+    {
+      "name": "android-support-v7-appcompat",
+      "repo": "https://github.com/koush/android-support-v7-appcompat"
+    },
+    {
+      "name": "google-play-services_lib",
+      "repo": "https://github.com/koush/google-play-services_lib",
+      "language": "Java"
+    },
+    {
+      "name": "android-support-v7-mediarouter",
+      "repo": "https://github.com/koush/android-support-v7-mediarouter",
+      "language": "Java"
+    },
+    {
+      "name": "WhilWheatonPermissionFixer",
+      "repo": "https://github.com/koush/WhilWheatonPermissionFixer",
+      "language": "Java"
+    },
+    {
+      "name": "support-wiki",
+      "repo": "https://github.com/koush/support-wiki"
+    },
+    {
+      "name": ".idea",
+      "repo": "https://github.com/koush/.idea"
+    },
+    {
+      "name": "ROMManagerAssets",
+      "repo": "https://github.com/koush/ROMManagerAssets",
+      "language": "CSS"
+    },
+    {
+      "name": "IOAHCIBlockStorage.kext",
+      "repo": "https://github.com/koush/IOAHCIBlockStorage.kext"
+    },
+    {
+      "name": "GoogleDrive",
+      "repo": "https://github.com/koush/GoogleDrive"
+    }
+  ],
   "apps": []
 }

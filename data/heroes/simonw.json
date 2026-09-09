@@ -7,5 +7,520 @@
   "website": "https://simonwillison.net/",
   "own_repos": 649,
   "commits": 12611,
+  "repos": [
+    {
+      "name": "scrape-fema-shelters",
+      "repo": "https://github.com/simonw/scrape-fema-shelters"
+    },
+    {
+      "name": "pge-outages",
+      "repo": "https://github.com/simonw/pge-outages"
+    },
+    {
+      "name": "scrape-hacker-news-by-domain",
+      "repo": "https://github.com/simonw/scrape-hacker-news-by-domain",
+      "language": "JavaScript"
+    },
+    {
+      "name": "usgs-scraper",
+      "repo": "https://github.com/simonw/usgs-scraper"
+    },
+    {
+      "name": "package-stats",
+      "repo": "https://github.com/simonw/package-stats",
+      "language": "Python"
+    },
+    {
+      "name": "scrape-fediverse",
+      "repo": "https://github.com/simonw/scrape-fediverse"
+    },
+    {
+      "name": "ollama-models-atom-feed",
+      "repo": "https://github.com/simonw/ollama-models-atom-feed",
+      "language": "Python"
+    },
+    {
+      "name": "usgs-demo",
+      "repo": "https://github.com/simonw/usgs-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "scrape-faa-releasable-aircraft",
+      "repo": "https://github.com/simonw/scrape-faa-releasable-aircraft"
+    },
+    {
+      "name": "simonw",
+      "repo": "https://github.com/simonw/simonw",
+      "url": "https://github.com/simonw",
+      "language": "Python"
+    },
+    {
+      "name": "uv-init-demos",
+      "repo": "https://github.com/simonw/uv-init-demos",
+      "language": "Shell"
+    },
+    {
+      "name": "scrape-roads-dot-ca-gov",
+      "repo": "https://github.com/simonw/scrape-roads-dot-ca-gov",
+      "language": "HTML"
+    },
+    {
+      "name": "simonwillisonblog-backup",
+      "repo": "https://github.com/simonw/simonwillisonblog-backup",
+      "url": "https://datasette.simonwillison.net"
+    },
+    {
+      "name": "recent-california-brown-pelicans",
+      "repo": "https://github.com/simonw/recent-california-brown-pelicans",
+      "url": "https://simonw.github.io/recent-california-brown-pelicans/atom.xml",
+      "language": "Python"
+    },
+    {
+      "name": "datasette",
+      "repo": "https://github.com/simonw/datasette",
+      "url": "https://datasette.io",
+      "language": "Python"
+    },
+    {
+      "name": "scrape-florida-outages",
+      "repo": "https://github.com/simonw/scrape-florida-outages"
+    },
+    {
+      "name": "tools",
+      "repo": "https://github.com/simonw/tools",
+      "url": "https://tools.simonwillison.net",
+      "language": "HTML"
+    },
+    {
+      "name": "llm",
+      "repo": "https://github.com/simonw/llm",
+      "url": "https://llm.datasette.io",
+      "language": "Python"
+    },
+    {
+      "name": "free-threaded-wheels-results",
+      "repo": "https://github.com/simonw/free-threaded-wheels-results",
+      "language": "Shell"
+    },
+    {
+      "name": "simonwillisonblog",
+      "repo": "https://github.com/simonw/simonwillisonblog",
+      "url": "https://simonwillison.net/",
+      "language": "Python"
+    },
+    {
+      "name": "sf-tree-history",
+      "repo": "https://github.com/simonw/sf-tree-history"
+    },
+    {
+      "name": "pypi-datasette-packages",
+      "repo": "https://github.com/simonw/pypi-datasette-packages",
+      "language": "Shell"
+    },
+    {
+      "name": "docs-for-llms",
+      "repo": "https://github.com/simonw/docs-for-llms",
+      "language": "Shell"
+    },
+    {
+      "name": "research",
+      "repo": "https://github.com/simonw/research",
+      "language": "Python"
+    },
+    {
+      "name": "gpt-6-astra-blender-pelican-bicycle",
+      "repo": "https://github.com/simonw/gpt-6-astra-blender-pelican-bicycle",
+      "language": "Python"
+    },
+    {
+      "name": "til",
+      "repo": "https://github.com/simonw/til",
+      "url": "https://til.simonwillison.net",
+      "language": "HTML"
+    },
+    {
+      "name": "inaturalist-clumps",
+      "repo": "https://github.com/simonw/inaturalist-clumps"
+    },
+    {
+      "name": "llm-prices",
+      "repo": "https://github.com/simonw/llm-prices",
+      "url": "https://www.llm-prices.com",
+      "language": "HTML"
+    },
+    {
+      "name": "scrape-github-actions-package-versions",
+      "repo": "https://github.com/simonw/scrape-github-actions-package-versions"
+    },
+    {
+      "name": "monthly-newsletter-archive",
+      "repo": "https://github.com/simonw/monthly-newsletter-archive",
+      "url": "https://github.com/sponsors/simonw/",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-system-prompts",
+      "repo": "https://github.com/simonw/claude-system-prompts",
+      "language": "Python"
+    },
+    {
+      "name": "llm-openrouter",
+      "repo": "https://github.com/simonw/llm-openrouter",
+      "language": "Python"
+    },
+    {
+      "name": "llm-anthropic",
+      "repo": "https://github.com/simonw/llm-anthropic",
+      "language": "Python"
+    },
+    {
+      "name": "llm-gemini",
+      "repo": "https://github.com/simonw/llm-gemini",
+      "language": "Python"
+    },
+    {
+      "name": "sqlite-utils",
+      "repo": "https://github.com/simonw/sqlite-utils",
+      "url": "https://sqlite-utils.datasette.io",
+      "language": "Python"
+    },
+    {
+      "name": "actions-latest",
+      "repo": "https://github.com/simonw/actions-latest",
+      "url": "https://simonw.github.io/actions-latest/versions.txt",
+      "language": "Python"
+    },
+    {
+      "name": "chonkers-alert",
+      "repo": "https://github.com/simonw/chonkers-alert",
+      "url": "https://simonw.github.io/chonkers-alert/",
+      "language": "Python"
+    },
+    {
+      "name": "alchemy-utils",
+      "repo": "https://github.com/simonw/alchemy-utils",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-upload-dbs",
+      "repo": "https://github.com/simonw/datasette-upload-dbs",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-lite",
+      "repo": "https://github.com/simonw/datasette-lite",
+      "url": "https://lite.datasette.io",
+      "language": "CSS"
+    },
+    {
+      "name": "raccoon-heist-codex",
+      "repo": "https://github.com/simonw/raccoon-heist-codex",
+      "url": "https://simonw.github.io/raccoon-heist-codex/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "datasette-auth-tokens",
+      "repo": "https://github.com/simonw/datasette-auth-tokens",
+      "language": "Python"
+    },
+    {
+      "name": "raccoon-heist",
+      "repo": "https://github.com/simonw/raccoon-heist",
+      "url": "https://simonw.github.io/raccoon-heist/",
+      "language": "HTML"
+    },
+    {
+      "name": "llm-mistral",
+      "repo": "https://github.com/simonw/llm-mistral",
+      "language": "Python"
+    },
+    {
+      "name": "condense-json",
+      "repo": "https://github.com/simonw/condense-json",
+      "language": "Python"
+    },
+    {
+      "name": "pelican-bicycle",
+      "repo": "https://github.com/simonw/pelican-bicycle",
+      "language": "Shell"
+    },
+    {
+      "name": "mcp-explorer",
+      "repo": "https://github.com/simonw/mcp-explorer",
+      "language": "Python"
+    },
+    {
+      "name": "django-sql-dashboard",
+      "repo": "https://github.com/simonw/django-sql-dashboard",
+      "url": "https://django-sql-dashboard.datasette.io/",
+      "language": "Python"
+    },
+    {
+      "name": "llm-mcp-client",
+      "repo": "https://github.com/simonw/llm-mcp-client",
+      "language": "Python"
+    },
+    {
+      "name": "llm-chat-completions-server",
+      "repo": "https://github.com/simonw/llm-chat-completions-server",
+      "language": "Python"
+    },
+    {
+      "name": "sqlite-ast-conformance",
+      "repo": "https://github.com/simonw/sqlite-ast-conformance",
+      "language": "C"
+    },
+    {
+      "name": "datasette-rure",
+      "repo": "https://github.com/simonw/datasette-rure",
+      "language": "Python"
+    },
+    {
+      "name": "llm-apple-foundation",
+      "repo": "https://github.com/simonw/llm-apple-foundation",
+      "language": "Python"
+    },
+    {
+      "name": "python-lib-template-repository",
+      "repo": "https://github.com/simonw/python-lib-template-repository"
+    },
+    {
+      "name": "python-lib",
+      "repo": "https://github.com/simonw/python-lib",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-leaflet",
+      "repo": "https://github.com/simonw/datasette-leaflet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "datasette-cluster-map",
+      "repo": "https://github.com/simonw/datasette-cluster-map",
+      "language": "JavaScript"
+    },
+    {
+      "name": "datasette-backup",
+      "repo": "https://github.com/simonw/datasette-backup",
+      "language": "Python"
+    },
+    {
+      "name": "csvs-to-sqlite",
+      "repo": "https://github.com/simonw/csvs-to-sqlite",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-block-robots",
+      "repo": "https://github.com/simonw/datasette-block-robots",
+      "url": "https://datasette.io/plugins/datasette-block-robots",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-allow-permissions-debug",
+      "repo": "https://github.com/simonw/datasette-allow-permissions-debug",
+      "language": "Python"
+    },
+    {
+      "name": "pedalican",
+      "repo": "https://github.com/simonw/pedalican"
+    },
+    {
+      "name": "speech-analyzer-cli",
+      "repo": "https://github.com/simonw/speech-analyzer-cli",
+      "language": "Swift"
+    },
+    {
+      "name": "shot-scraper",
+      "repo": "https://github.com/simonw/shot-scraper",
+      "url": "https://shot-scraper.datasette.io",
+      "language": "Python"
+    },
+    {
+      "name": "llm-meta-ai",
+      "repo": "https://github.com/simonw/llm-meta-ai",
+      "language": "Python"
+    },
+    {
+      "name": "sqlite-migrate",
+      "repo": "https://github.com/simonw/sqlite-migrate",
+      "language": "Python"
+    },
+    {
+      "name": "llm-coding-agent",
+      "repo": "https://github.com/simonw/llm-coding-agent",
+      "language": "Python"
+    },
+    {
+      "name": "browser-compat-db",
+      "repo": "https://github.com/simonw/browser-compat-db",
+      "language": "Python"
+    },
+    {
+      "name": "dclient",
+      "repo": "https://github.com/simonw/dclient",
+      "language": "Python"
+    },
+    {
+      "name": "datasette.io",
+      "repo": "https://github.com/simonw/datasette.io",
+      "url": "https://datasette.io",
+      "language": "HTML"
+    },
+    {
+      "name": "moebius-web",
+      "repo": "https://github.com/simonw/moebius-web",
+      "url": "https://simonw.github.io/moebius-web/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cloudflare-redirect-resolver",
+      "repo": "https://github.com/simonw/cloudflare-redirect-resolver",
+      "language": "TypeScript"
+    },
+    {
+      "name": "datasette-export",
+      "repo": "https://github.com/simonw/datasette-export",
+      "language": "Python"
+    },
+    {
+      "name": "sqlite-chronicle",
+      "repo": "https://github.com/simonw/sqlite-chronicle",
+      "language": "Python"
+    },
+    {
+      "name": "luau-wasm",
+      "repo": "https://github.com/simonw/luau-wasm",
+      "url": "https://simonw.github.io/luau-wasm/",
+      "language": "C++"
+    },
+    {
+      "name": "asyncinject",
+      "repo": "https://github.com/simonw/asyncinject",
+      "language": "Python"
+    },
+    {
+      "name": "micropython-wasm",
+      "repo": "https://github.com/simonw/micropython-wasm",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-css-properties",
+      "repo": "https://github.com/simonw/datasette-css-properties",
+      "language": "Python"
+    },
+    {
+      "name": "whale-spotter",
+      "repo": "https://github.com/simonw/whale-spotter",
+      "language": "Python"
+    },
+    {
+      "name": "udhr-markdown",
+      "repo": "https://github.com/simonw/udhr-markdown",
+      "language": "JavaScript"
+    },
+    {
+      "name": "guidepup-macos-prototype",
+      "repo": "https://github.com/simonw/guidepup-macos-prototype",
+      "language": "JavaScript"
+    },
+    {
+      "name": "inaturalist-clumper",
+      "repo": "https://github.com/simonw/inaturalist-clumper",
+      "language": "Python"
+    },
+    {
+      "name": "llm-echo",
+      "repo": "https://github.com/simonw/llm-echo",
+      "language": "Python"
+    },
+    {
+      "name": "granite-4.1-3b-gguf-pelicans",
+      "repo": "https://github.com/simonw/granite-4.1-3b-gguf-pelicans",
+      "url": "https://simonw.github.io/granite-4.1-3b-gguf-pelicans/",
+      "language": "HTML"
+    },
+    {
+      "name": "llm-openai-via-codex",
+      "repo": "https://github.com/simonw/llm-openai-via-codex",
+      "language": "Python"
+    },
+    {
+      "name": "llm-plugin",
+      "repo": "https://github.com/simonw/llm-plugin",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-gzip",
+      "repo": "https://github.com/simonw/datasette-gzip",
+      "language": "Python"
+    },
+    {
+      "name": "asgi-gzip",
+      "repo": "https://github.com/simonw/asgi-gzip",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-turnstile",
+      "repo": "https://github.com/simonw/datasette-turnstile",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-graphql",
+      "repo": "https://github.com/simonw/datasette-graphql",
+      "url": "https://datasette-graphql-demo.datasette.io/",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-atom",
+      "repo": "https://github.com/simonw/datasette-atom",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-template-sql",
+      "repo": "https://github.com/simonw/datasette-template-sql",
+      "url": "https://datasette.io/plugins/datasette-template-sql",
+      "language": "Python"
+    },
+    {
+      "name": "scan-for-secrets",
+      "repo": "https://github.com/simonw/scan-for-secrets",
+      "language": "Python"
+    },
+    {
+      "name": "research-llm-apis",
+      "repo": "https://github.com/simonw/research-llm-apis",
+      "language": "Shell"
+    },
+    {
+      "name": "llm-private",
+      "repo": "https://github.com/simonw/llm-private",
+      "language": "Python"
+    },
+    {
+      "name": "llm-all-models-async",
+      "repo": "https://github.com/simonw/llm-all-models-async",
+      "language": "Python"
+    },
+    {
+      "name": "llm-mrchatterbox",
+      "repo": "https://github.com/simonw/llm-mrchatterbox",
+      "language": "Python"
+    },
+    {
+      "name": "datasette-showboat",
+      "repo": "https://github.com/simonw/datasette-showboat",
+      "language": "Python"
+    },
+    {
+      "name": "bandwidther",
+      "repo": "https://github.com/simonw/bandwidther",
+      "language": "Swift"
+    },
+    {
+      "name": "gpuer",
+      "repo": "https://github.com/simonw/gpuer",
+      "language": "Swift"
+    }
+  ],
   "apps": []
 }

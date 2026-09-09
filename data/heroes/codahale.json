@@ -8,5 +8,508 @@
   "bio": "A real person.",
   "own_repos": 133,
   "commits": 12521,
+  "repos": [
+    {
+      "name": "kt128",
+      "repo": "https://github.com/codahale/kt128",
+      "language": "Go"
+    },
+    {
+      "name": "treewrap",
+      "repo": "https://github.com/codahale/treewrap",
+      "language": "TeX"
+    },
+    {
+      "name": "thyrse",
+      "repo": "https://github.com/codahale/thyrse",
+      "language": "Go"
+    },
+    {
+      "name": "newplex",
+      "repo": "https://github.com/codahale/newplex",
+      "language": "Go"
+    },
+    {
+      "name": "permutation-city",
+      "repo": "https://github.com/codahale/permutation-city",
+      "language": "Assembly"
+    },
+    {
+      "name": "lockstitch",
+      "repo": "https://github.com/codahale/lockstitch",
+      "language": "Rust"
+    },
+    {
+      "name": "lockstitch-go",
+      "repo": "https://github.com/codahale/lockstitch-go",
+      "language": "Go"
+    },
+    {
+      "name": "yellhole-go",
+      "repo": "https://github.com/codahale/yellhole-go",
+      "language": "Go"
+    },
+    {
+      "name": "yrgourd-go",
+      "repo": "https://github.com/codahale/yrgourd-go",
+      "language": "Go"
+    },
+    {
+      "name": "keydonkey",
+      "repo": "https://github.com/codahale/keydonkey",
+      "language": "Go"
+    },
+    {
+      "name": "yellhole",
+      "repo": "https://github.com/codahale/yellhole",
+      "language": "Rust"
+    },
+    {
+      "name": "veil",
+      "repo": "https://github.com/codahale/veil",
+      "language": "Rust"
+    },
+    {
+      "name": "yrgourd",
+      "repo": "https://github.com/codahale/yrgourd",
+      "language": "Rust"
+    },
+    {
+      "name": "elligator-squared-p256",
+      "repo": "https://github.com/codahale/elligator-squared-p256",
+      "language": "Go"
+    },
+    {
+      "name": "mlkem768",
+      "repo": "https://github.com/codahale/mlkem768",
+      "language": "Rust"
+    },
+    {
+      "name": "sag",
+      "repo": "https://github.com/codahale/sag",
+      "language": "Rust"
+    },
+    {
+      "name": "areion",
+      "repo": "https://github.com/codahale/areion",
+      "language": "Rust"
+    },
+    {
+      "name": "ml-kem-in-the-middle",
+      "repo": "https://github.com/codahale/ml-kem-in-the-middle",
+      "language": "Rust"
+    },
+    {
+      "name": "pqc-signcrypt",
+      "repo": "https://github.com/codahale/pqc-signcrypt",
+      "language": "Rust"
+    },
+    {
+      "name": "zk-cds",
+      "repo": "https://github.com/codahale/zk-cds",
+      "language": "Rust"
+    },
+    {
+      "name": "elligator-squared",
+      "repo": "https://github.com/codahale/elligator-squared",
+      "language": "Rust"
+    },
+    {
+      "name": "shamir",
+      "repo": "https://github.com/codahale/shamir",
+      "language": "Java"
+    },
+    {
+      "name": "rsa_pprf",
+      "repo": "https://github.com/codahale/rsa_pprf",
+      "language": "Rust"
+    },
+    {
+      "name": "usl-rs",
+      "repo": "https://github.com/codahale/usl-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "nanostat",
+      "repo": "https://github.com/codahale/nanostat",
+      "language": "Rust"
+    },
+    {
+      "name": "cyclist",
+      "repo": "https://github.com/codahale/cyclist",
+      "language": "Rust"
+    },
+    {
+      "name": "keccak-p",
+      "repo": "https://github.com/codahale/keccak-p",
+      "language": "Rust"
+    },
+    {
+      "name": "xoodoo-p",
+      "repo": "https://github.com/codahale/xoodoo-p",
+      "language": "Rust"
+    },
+    {
+      "name": "qdsa",
+      "repo": "https://github.com/codahale/qdsa",
+      "language": "Rust"
+    },
+    {
+      "name": "bakery",
+      "repo": "https://github.com/codahale/bakery",
+      "language": "Rust"
+    },
+    {
+      "name": "gubbins",
+      "repo": "https://github.com/codahale/gubbins",
+      "language": "Go"
+    },
+    {
+      "name": "usl",
+      "repo": "https://github.com/codahale/usl",
+      "language": "Go"
+    },
+    {
+      "name": "commit",
+      "repo": "https://github.com/codahale/commit",
+      "language": "Rust"
+    },
+    {
+      "name": "blind",
+      "repo": "https://github.com/codahale/blind",
+      "language": "Rust"
+    },
+    {
+      "name": "vrf",
+      "repo": "https://github.com/codahale/vrf",
+      "language": "Rust"
+    },
+    {
+      "name": "cpace",
+      "repo": "https://github.com/codahale/cpace",
+      "language": "Rust"
+    },
+    {
+      "name": "tinystat",
+      "repo": "https://github.com/codahale/tinystat",
+      "language": "Go"
+    },
+    {
+      "name": "veil-go",
+      "repo": "https://github.com/codahale/veil-go",
+      "language": "Go"
+    },
+    {
+      "name": "eventflow",
+      "repo": "https://github.com/codahale/eventflow",
+      "language": "Java"
+    },
+    {
+      "name": "belvedere",
+      "repo": "https://github.com/codahale/belvedere",
+      "language": "Go"
+    },
+    {
+      "name": "sneaker",
+      "repo": "https://github.com/codahale/sneaker",
+      "language": "Go"
+    },
+    {
+      "name": "common-pom",
+      "repo": "https://github.com/codahale/common-pom"
+    },
+    {
+      "name": "sss.rs",
+      "repo": "https://github.com/codahale/sss.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "time-id",
+      "repo": "https://github.com/codahale/time-id",
+      "language": "Java"
+    },
+    {
+      "name": "fast-uuid",
+      "repo": "https://github.com/codahale/fast-uuid",
+      "language": "Java"
+    },
+    {
+      "name": "aes-gcm-siv",
+      "repo": "https://github.com/codahale/aes-gcm-siv",
+      "language": "Java"
+    },
+    {
+      "name": "veil-java",
+      "repo": "https://github.com/codahale/veil-java",
+      "language": "Java"
+    },
+    {
+      "name": "deyaml",
+      "repo": "https://github.com/codahale/deyaml",
+      "language": "Go"
+    },
+    {
+      "name": "passpol",
+      "repo": "https://github.com/codahale/passpol",
+      "language": "Java"
+    },
+    {
+      "name": "usl4j",
+      "repo": "https://github.com/codahale/usl4j",
+      "language": "Java"
+    },
+    {
+      "name": "longmapper",
+      "repo": "https://github.com/codahale/longmapper",
+      "language": "Java"
+    },
+    {
+      "name": "kms-pass",
+      "repo": "https://github.com/codahale/kms-pass",
+      "language": "Java"
+    },
+    {
+      "name": "gimli",
+      "repo": "https://github.com/codahale/gimli",
+      "language": "Java"
+    },
+    {
+      "name": "balloonhash",
+      "repo": "https://github.com/codahale/balloonhash",
+      "language": "Java"
+    },
+    {
+      "name": "xsalsa20poly1305",
+      "repo": "https://github.com/codahale/xsalsa20poly1305",
+      "language": "Java"
+    },
+    {
+      "name": "aead-stream",
+      "repo": "https://github.com/codahale/aead-stream",
+      "language": "Java"
+    },
+    {
+      "name": "sketchy",
+      "repo": "https://github.com/codahale/sketchy",
+      "language": "Rust"
+    },
+    {
+      "name": "xoroshiro.rs",
+      "repo": "https://github.com/codahale/xoroshiro.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "grpc-proxy",
+      "repo": "https://github.com/codahale/grpc-proxy",
+      "language": "Java"
+    },
+    {
+      "name": "pcg.rs",
+      "repo": "https://github.com/codahale/pcg.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "soy-clj",
+      "repo": "https://github.com/codahale/soy-clj",
+      "language": "Clojure"
+    },
+    {
+      "name": "mocko",
+      "repo": "https://github.com/codahale/mocko",
+      "language": "Clojure"
+    },
+    {
+      "name": "xsalsa20poly1305-clj",
+      "repo": "https://github.com/codahale/xsalsa20poly1305-clj",
+      "language": "Clojure"
+    },
+    {
+      "name": "guava-cache-clj",
+      "repo": "https://github.com/codahale/guava-cache-clj",
+      "language": "Clojure"
+    },
+    {
+      "name": "u2f-clj",
+      "repo": "https://github.com/codahale/u2f-clj",
+      "language": "Clojure"
+    },
+    {
+      "name": "totp-clj",
+      "repo": "https://github.com/codahale/totp-clj",
+      "language": "Clojure"
+    },
+    {
+      "name": "metrics",
+      "repo": "https://github.com/codahale/metrics",
+      "url": "https://github.com/dropwizard/metrics",
+      "language": "Go"
+    },
+    {
+      "name": "sss",
+      "repo": "https://github.com/codahale/sss",
+      "language": "Go"
+    },
+    {
+      "name": "jumphash",
+      "repo": "https://github.com/codahale/jumphash",
+      "language": "Rust"
+    },
+    {
+      "name": "ministat",
+      "repo": "https://github.com/codahale/ministat",
+      "language": "Shell"
+    },
+    {
+      "name": "blake2",
+      "repo": "https://github.com/codahale/blake2",
+      "language": "Go"
+    },
+    {
+      "name": "emacs.d",
+      "repo": "https://github.com/codahale/emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/codahale/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "chacha20poly1305",
+      "repo": "https://github.com/codahale/chacha20poly1305",
+      "language": "Go"
+    },
+    {
+      "name": "chacha20",
+      "repo": "https://github.com/codahale/chacha20",
+      "language": "Go"
+    },
+    {
+      "name": "buster",
+      "repo": "https://github.com/codahale/buster",
+      "language": "Go"
+    },
+    {
+      "name": "hs-shamir",
+      "repo": "https://github.com/codahale/hs-shamir",
+      "language": "Haskell"
+    },
+    {
+      "name": "kmssig",
+      "repo": "https://github.com/codahale/kmssig",
+      "language": "Go"
+    },
+    {
+      "name": "charlie",
+      "repo": "https://github.com/codahale/charlie",
+      "language": "Go"
+    },
+    {
+      "name": "colorbot",
+      "repo": "https://github.com/codahale/colorbot",
+      "language": "Go"
+    },
+    {
+      "name": "grump",
+      "repo": "https://github.com/codahale/grump",
+      "language": "Go"
+    },
+    {
+      "name": "graphicfarts",
+      "repo": "https://github.com/codahale/graphicfarts",
+      "language": "Go"
+    },
+    {
+      "name": "http-handlers",
+      "repo": "https://github.com/codahale/http-handlers",
+      "language": "Go"
+    },
+    {
+      "name": "makwa-go",
+      "repo": "https://github.com/codahale/makwa-go",
+      "language": "Go"
+    },
+    {
+      "name": "geoip",
+      "repo": "https://github.com/codahale/geoip",
+      "language": "Go"
+    },
+    {
+      "name": "testdb",
+      "repo": "https://github.com/codahale/testdb",
+      "language": "Go"
+    },
+    {
+      "name": "safecookie",
+      "repo": "https://github.com/codahale/safecookie",
+      "language": "Go"
+    },
+    {
+      "name": "lunk",
+      "repo": "https://github.com/codahale/lunk",
+      "language": "Go"
+    },
+    {
+      "name": "spritz",
+      "repo": "https://github.com/codahale/spritz",
+      "language": "Go"
+    },
+    {
+      "name": "horcrux",
+      "repo": "https://github.com/codahale/horcrux",
+      "language": "Go"
+    },
+    {
+      "name": "sskg",
+      "repo": "https://github.com/codahale/sskg",
+      "url": "https://eprint.iacr.org/2014/479.pdf",
+      "language": "Go"
+    },
+    {
+      "name": "cpseg",
+      "repo": "https://github.com/codahale/cpseg",
+      "language": "Go"
+    },
+    {
+      "name": "kht",
+      "repo": "https://github.com/codahale/kht",
+      "language": "Go"
+    },
+    {
+      "name": "rfc6979",
+      "repo": "https://github.com/codahale/rfc6979",
+      "language": "Go"
+    },
+    {
+      "name": "etm",
+      "repo": "https://github.com/codahale/etm",
+      "language": "Go"
+    },
+    {
+      "name": "librato-collect",
+      "repo": "https://github.com/codahale/librato-collect",
+      "language": "Go"
+    },
+    {
+      "name": "tmpmysqld",
+      "repo": "https://github.com/codahale/tmpmysqld",
+      "language": "Go"
+    },
+    {
+      "name": "redact",
+      "repo": "https://github.com/codahale/redact",
+      "language": "Go"
+    },
+    {
+      "name": "poly1305",
+      "repo": "https://github.com/codahale/poly1305",
+      "language": "C"
+    },
+    {
+      "name": "hrw",
+      "repo": "https://github.com/codahale/hrw",
+      "language": "Go"
+    }
+  ],
   "apps": []
 }

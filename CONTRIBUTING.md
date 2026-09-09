@@ -62,6 +62,12 @@ name, and names the applications below instead until it has been filled in.
 the figure the second rule asks for. `pnpm run account -- <handle>` reads it off
 the account; the page shows it beside your name, and leaves the line out when
 the entry has no figure.  
+`repos` — optional, and written by `npx hero scan` rather than by hand: a
+hundred of those repositories, the ones pushed to most recently, each with a
+`name`, a `repo`, a `url` where the repository names a home page, and a
+`language`. It is the applications below without the descriptions, which is
+the one thing a scan cannot write; the applications themselves are yours to
+choose and to say what they do, and a scan never touches them.  
 `apps` — at least ten, the most important first. There is no ceiling: the
 count beside a name keeps climbing past a hundred, 124 of 100. The page unfolds
 only the first hundred of the list, so the order is the ranking.  

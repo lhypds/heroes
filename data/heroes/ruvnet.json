@@ -8,5 +8,519 @@
   "bio": "Unicorn Breeder.",
   "own_repos": 192,
   "commits": 13649,
+  "repos": [
+    {
+      "name": "RuView",
+      "repo": "https://github.com/ruvnet/RuView",
+      "url": "https://Cognitum.One/RuView",
+      "language": "Rust"
+    },
+    {
+      "name": "LatentMesh",
+      "repo": "https://github.com/ruvnet/LatentMesh",
+      "language": "Rust"
+    },
+    {
+      "name": "metaharness",
+      "repo": "https://github.com/ruvnet/metaharness",
+      "url": "https://Cognitum.One",
+      "language": "TypeScript"
+    },
+    {
+      "name": "midstream",
+      "repo": "https://github.com/ruvnet/midstream",
+      "url": "https://ruv.io",
+      "language": "Rust"
+    },
+    {
+      "name": "ruflo",
+      "repo": "https://github.com/ruvnet/ruflo",
+      "url": "https://Cognitum.One",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rvm",
+      "repo": "https://github.com/ruvnet/rvm",
+      "language": "Rust"
+    },
+    {
+      "name": "dream-machine",
+      "repo": "https://github.com/ruvnet/dream-machine",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ruClip",
+      "repo": "https://github.com/ruvnet/ruClip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "RuVector",
+      "repo": "https://github.com/ruvnet/RuVector",
+      "url": "https://Cognitum.One/RuVector",
+      "language": "Rust"
+    },
+    {
+      "name": "open-claude-code",
+      "repo": "https://github.com/ruvnet/open-claude-code",
+      "url": "https://github.com/ruvnet/RuVector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rGi",
+      "repo": "https://github.com/ruvnet/rGi",
+      "language": "TypeScript"
+    },
+    {
+      "name": "APx",
+      "repo": "https://github.com/ruvnet/APx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ruvnet",
+      "repo": "https://github.com/ruvnet/ruvnet"
+    },
+    {
+      "name": "RuLake",
+      "repo": "https://github.com/ruvnet/RuLake",
+      "url": "https://ruv.io",
+      "language": "Rust"
+    },
+    {
+      "name": "rufield",
+      "repo": "https://github.com/ruvnet/rufield",
+      "language": "Rust"
+    },
+    {
+      "name": "worldgraph",
+      "repo": "https://github.com/ruvnet/worldgraph",
+      "language": "TypeScript"
+    },
+    {
+      "name": "MoE-Foundry",
+      "repo": "https://github.com/ruvnet/MoE-Foundry",
+      "language": "Python"
+    },
+    {
+      "name": "sparc",
+      "repo": "https://github.com/ruvnet/sparc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "RuForecast",
+      "repo": "https://github.com/ruvnet/RuForecast",
+      "url": "https://ruvnet.github.io/RuForecast/",
+      "language": "Rust"
+    },
+    {
+      "name": "autogenous",
+      "repo": "https://github.com/ruvnet/autogenous",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ruv-drone",
+      "repo": "https://github.com/ruvnet/ruv-drone",
+      "language": "Rust"
+    },
+    {
+      "name": "minitoo-control",
+      "repo": "https://github.com/ruvnet/minitoo-control",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ruos",
+      "repo": "https://github.com/ruvnet/ruos",
+      "language": "Rust"
+    },
+    {
+      "name": "batvu",
+      "repo": "https://github.com/ruvnet/batvu",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rvcsi",
+      "repo": "https://github.com/ruvnet/rvcsi",
+      "language": "Rust"
+    },
+    {
+      "name": "openAVO",
+      "repo": "https://github.com/ruvnet/openAVO"
+    },
+    {
+      "name": "Group-Field-Theory",
+      "repo": "https://github.com/ruvnet/Group-Field-Theory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Event-Horizon",
+      "repo": "https://github.com/ruvnet/Event-Horizon",
+      "url": "https://event-horizon-lab.ruv.chatgpt.site/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "musica",
+      "repo": "https://github.com/ruvnet/musica",
+      "language": "Rust"
+    },
+    {
+      "name": "llm-stream-reformat",
+      "repo": "https://github.com/ruvnet/llm-stream-reformat",
+      "language": "Rust"
+    },
+    {
+      "name": "ai-text-watermark",
+      "repo": "https://github.com/ruvnet/ai-text-watermark",
+      "language": "Rust"
+    },
+    {
+      "name": "wifi-veil",
+      "repo": "https://github.com/ruvnet/wifi-veil",
+      "language": "Rust"
+    },
+    {
+      "name": "ruv-neural",
+      "repo": "https://github.com/ruvnet/ruv-neural",
+      "language": "Rust"
+    },
+    {
+      "name": "ruv-FANN",
+      "repo": "https://github.com/ruvnet/ruv-FANN",
+      "language": "Rust"
+    },
+    {
+      "name": "rvQR",
+      "repo": "https://github.com/ruvnet/rvQR",
+      "language": "JavaScript"
+    },
+    {
+      "name": "helix",
+      "repo": "https://github.com/ruvnet/helix",
+      "url": "https://ruvnet.github.io/helix/",
+      "language": "Rust"
+    },
+    {
+      "name": "sublinear-time-solver",
+      "repo": "https://github.com/ruvnet/sublinear-time-solver",
+      "language": "Rust"
+    },
+    {
+      "name": "RuCelium",
+      "repo": "https://github.com/ruvnet/RuCelium",
+      "url": "https://claude.ai/code/artifact/f36ad019-057a-45f8-9c87-d518456717c5",
+      "language": "Rust"
+    },
+    {
+      "name": "rvdna",
+      "repo": "https://github.com/ruvnet/rvdna",
+      "language": "JavaScript"
+    },
+    {
+      "name": "agentic-flow",
+      "repo": "https://github.com/ruvnet/agentic-flow",
+      "url": "https://ruv.io",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agentdb",
+      "repo": "https://github.com/ruvnet/agentdb",
+      "url": "https://Cognitum.one",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agenticow",
+      "repo": "https://github.com/ruvnet/agenticow",
+      "url": "https://ruvnet.github.io/agenticow/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rvFACE",
+      "repo": "https://github.com/ruvnet/rvFACE",
+      "language": "Rust"
+    },
+    {
+      "name": "hackerone",
+      "repo": "https://github.com/ruvnet/hackerone",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CVE-bench",
+      "repo": "https://github.com/ruvnet/CVE-bench",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rudevolution",
+      "repo": "https://github.com/ruvnet/rudevolution",
+      "url": "https://github.com/ruvnet/RuVector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rupixel",
+      "repo": "https://github.com/ruvnet/rupixel",
+      "language": "Rust"
+    },
+    {
+      "name": "SonicChamber",
+      "repo": "https://github.com/ruvnet/SonicChamber",
+      "url": "https://ruvnet.github.io/SonicChamber/demo/",
+      "language": "Rust"
+    },
+    {
+      "name": "PhotonLayer",
+      "repo": "https://github.com/ruvnet/PhotonLayer",
+      "url": "https://ruvnet.github.io/PhotonLayer/",
+      "language": "Rust"
+    },
+    {
+      "name": "ruqu",
+      "repo": "https://github.com/ruvnet/ruqu",
+      "language": "Rust"
+    },
+    {
+      "name": "ruvn",
+      "repo": "https://github.com/ruvnet/ruvn",
+      "language": "JavaScript"
+    },
+    {
+      "name": "symbolic-scribe",
+      "repo": "https://github.com/ruvnet/symbolic-scribe",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skygraph",
+      "repo": "https://github.com/ruvnet/skygraph",
+      "url": "https://ruvnet.github.io/skygraph/",
+      "language": "Rust"
+    },
+    {
+      "name": "drupaljs",
+      "repo": "https://github.com/ruvnet/drupaljs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ruvbot",
+      "repo": "https://github.com/ruvnet/ruvbot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agentic-security",
+      "repo": "https://github.com/ruvnet/agentic-security",
+      "language": "Python"
+    },
+    {
+      "name": "dspy.ts",
+      "repo": "https://github.com/ruvnet/dspy.ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SynthLang",
+      "repo": "https://github.com/ruvnet/SynthLang",
+      "language": "Python"
+    },
+    {
+      "name": "QuDAG",
+      "repo": "https://github.com/ruvnet/QuDAG",
+      "language": "Rust"
+    },
+    {
+      "name": "Synaptic-Mesh",
+      "repo": "https://github.com/ruvnet/Synaptic-Mesh",
+      "language": "Rust"
+    },
+    {
+      "name": "SAFLA",
+      "repo": "https://github.com/ruvnet/SAFLA",
+      "language": "Python"
+    },
+    {
+      "name": "daa",
+      "repo": "https://github.com/ruvnet/daa",
+      "language": "Rust"
+    },
+    {
+      "name": "agentic-robotics",
+      "repo": "https://github.com/ruvnet/agentic-robotics",
+      "language": "TypeScript"
+    },
+    {
+      "name": "musicai",
+      "repo": "https://github.com/ruvnet/musicai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rUv-dev",
+      "repo": "https://github.com/ruvnet/rUv-dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "marketing",
+      "repo": "https://github.com/ruvnet/marketing",
+      "language": "TypeScript"
+    },
+    {
+      "name": "obsidian-brain",
+      "repo": "https://github.com/ruvnet/obsidian-brain",
+      "url": "https://github.com/ruvnet/RuVector",
+      "language": "TypeScript"
+    },
+    {
+      "name": "FACT",
+      "repo": "https://github.com/ruvnet/FACT",
+      "language": "Python"
+    },
+    {
+      "name": "cognitum-claude-plugin",
+      "repo": "https://github.com/ruvnet/cognitum-claude-plugin",
+      "url": "https://cognitum.one"
+    },
+    {
+      "name": "Connectome-OS",
+      "repo": "https://github.com/ruvnet/Connectome-OS"
+    },
+    {
+      "name": "ruos-macair",
+      "repo": "https://github.com/ruvnet/ruos-macair",
+      "language": "Shell"
+    },
+    {
+      "name": "vibecast",
+      "repo": "https://github.com/ruvnet/vibecast"
+    },
+    {
+      "name": "ruv.io",
+      "repo": "https://github.com/ruvnet/ruv.io"
+    },
+    {
+      "name": "code-mesh",
+      "repo": "https://github.com/ruvnet/code-mesh",
+      "language": "Rust"
+    },
+    {
+      "name": "ARCADIA",
+      "repo": "https://github.com/ruvnet/ARCADIA",
+      "language": "Rust"
+    },
+    {
+      "name": "chatgpt-dev-mode",
+      "repo": "https://github.com/ruvnet/chatgpt-dev-mode"
+    },
+    {
+      "name": "flow-nexus",
+      "repo": "https://github.com/ruvnet/flow-nexus",
+      "url": "https://flow-nexus.ruv.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "genesis",
+      "repo": "https://github.com/ruvnet/genesis",
+      "language": "Python"
+    },
+    {
+      "name": "alienator",
+      "repo": "https://github.com/ruvnet/alienator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Quantum-Virtual-Machine",
+      "repo": "https://github.com/ruvnet/Quantum-Virtual-Machine",
+      "language": "Rust"
+    },
+    {
+      "name": "swarm-world",
+      "repo": "https://github.com/ruvnet/swarm-world",
+      "language": "C#"
+    },
+    {
+      "name": "yyz-agentics-june",
+      "repo": "https://github.com/ruvnet/yyz-agentics-june",
+      "language": "Python"
+    },
+    {
+      "name": "claude-test",
+      "repo": "https://github.com/ruvnet/claude-test",
+      "language": "Shell"
+    },
+    {
+      "name": "ultrasonic",
+      "repo": "https://github.com/ruvnet/ultrasonic",
+      "language": "TypeScript"
+    },
+    {
+      "name": "GenAI-Superstream",
+      "repo": "https://github.com/ruvnet/GenAI-Superstream",
+      "language": "Python"
+    },
+    {
+      "name": "agentic-search",
+      "repo": "https://github.com/ruvnet/agentic-search",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codex-one",
+      "repo": "https://github.com/ruvnet/codex-one",
+      "language": "Python"
+    },
+    {
+      "name": "Agent-Name-Service",
+      "repo": "https://github.com/ruvnet/Agent-Name-Service",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agentic-difusion",
+      "repo": "https://github.com/ruvnet/agentic-difusion",
+      "language": "Python"
+    },
+    {
+      "name": "agentics-meetup",
+      "repo": "https://github.com/ruvnet/agentics-meetup"
+    },
+    {
+      "name": "sparc-ide",
+      "repo": "https://github.com/ruvnet/sparc-ide",
+      "language": "Shell"
+    },
+    {
+      "name": "vsc-remote-mcp",
+      "repo": "https://github.com/ruvnet/vsc-remote-mcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dynamo-mcp",
+      "repo": "https://github.com/ruvnet/dynamo-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "image-agent",
+      "repo": "https://github.com/ruvnet/image-agent",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quantum-magnetic-navigation",
+      "repo": "https://github.com/ruvnet/quantum-magnetic-navigation",
+      "language": "Python"
+    },
+    {
+      "name": "tariffic",
+      "repo": "https://github.com/ruvnet/tariffic",
+      "language": "TypeScript"
+    },
+    {
+      "name": "roomodes",
+      "repo": "https://github.com/ruvnet/roomodes"
+    },
+    {
+      "name": "phone-agent",
+      "repo": "https://github.com/ruvnet/phone-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vibing",
+      "repo": "https://github.com/ruvnet/vibing",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hello_world_agent",
+      "repo": "https://github.com/ruvnet/hello_world_agent",
+      "language": "TypeScript"
+    }
+  ],
   "apps": []
 }

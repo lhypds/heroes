@@ -6,5 +6,504 @@
   ],
   "own_repos": 148,
   "commits": 109728,
+  "repos": [
+    {
+      "name": "weibo-trending-hot-search",
+      "repo": "https://github.com/v5tech/weibo-trending-hot-search",
+      "language": "Python"
+    },
+    {
+      "name": "bing-wallpaper",
+      "repo": "https://github.com/v5tech/bing-wallpaper",
+      "language": "Java"
+    },
+    {
+      "name": "v5tech",
+      "repo": "https://github.com/v5tech/v5tech"
+    },
+    {
+      "name": "r2-webdav",
+      "repo": "https://github.com/v5tech/r2-webdav",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/v5tech/skills"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/v5tech/notes",
+      "url": "https://ameizi.gitee.io/notes",
+      "language": "Shell"
+    },
+    {
+      "name": "awesome-ios-chart",
+      "repo": "https://github.com/v5tech/awesome-ios-chart"
+    },
+    {
+      "name": "awesome-ios-animation",
+      "repo": "https://github.com/v5tech/awesome-ios-animation"
+    },
+    {
+      "name": "vagrant-kubernetes-cluster",
+      "repo": "https://github.com/v5tech/vagrant-kubernetes-cluster",
+      "language": "Shell"
+    },
+    {
+      "name": "geoip",
+      "repo": "https://github.com/v5tech/geoip",
+      "language": "Shell"
+    },
+    {
+      "name": "image-syncer",
+      "repo": "https://github.com/v5tech/image-syncer"
+    },
+    {
+      "name": "mcp-server-location",
+      "repo": "https://github.com/v5tech/mcp-server-location",
+      "url": "https://www.npmjs.com/package/@v8tech/mcp-server-location",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pay-app",
+      "repo": "https://github.com/v5tech/pay-app",
+      "url": "https://v5tech.github.io/pay-app",
+      "language": "HTML"
+    },
+    {
+      "name": "word-app",
+      "repo": "https://github.com/v5tech/word-app",
+      "url": "https://v5tech.github.io/word-app",
+      "language": "HTML"
+    },
+    {
+      "name": "auto-green",
+      "repo": "https://github.com/v5tech/auto-green"
+    },
+    {
+      "name": "daily-poetry-image",
+      "repo": "https://github.com/v5tech/daily-poetry-image",
+      "url": "https://daily.fengj.link",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rabbitmq-examples",
+      "repo": "https://github.com/v5tech/rabbitmq-examples",
+      "language": "Java"
+    },
+    {
+      "name": "springboot-examples",
+      "repo": "https://github.com/v5tech/springboot-examples",
+      "language": "Java"
+    },
+    {
+      "name": "java-labs-code",
+      "repo": "https://github.com/v5tech/java-labs-code",
+      "language": "Java"
+    },
+    {
+      "name": "kubernetes-in-action",
+      "repo": "https://github.com/v5tech/kubernetes-in-action"
+    },
+    {
+      "name": "FoodPin",
+      "repo": "https://github.com/v5tech/FoodPin",
+      "language": "Swift"
+    },
+    {
+      "name": "sync-k8s-images",
+      "repo": "https://github.com/v5tech/sync-k8s-images",
+      "language": "Shell"
+    },
+    {
+      "name": "spring-security-oauth2-sso-sample",
+      "repo": "https://github.com/v5tech/spring-security-oauth2-sso-sample",
+      "language": "CSS"
+    },
+    {
+      "name": "spring-boot-oauth2-jdbc-simple",
+      "repo": "https://github.com/v5tech/spring-boot-oauth2-jdbc-simple",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-ldap",
+      "repo": "https://github.com/v5tech/spring-boot-ldap",
+      "language": "Java"
+    },
+    {
+      "name": "52pojie_sign_bot",
+      "repo": "https://github.com/v5tech/52pojie_sign_bot",
+      "language": "Python"
+    },
+    {
+      "name": "docker-hub",
+      "repo": "https://github.com/v5tech/docker-hub",
+      "language": "Shell"
+    },
+    {
+      "name": "zipkin-server-example",
+      "repo": "https://github.com/v5tech/zipkin-server-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-statemachine-example",
+      "repo": "https://github.com/v5tech/spring-statemachine-example",
+      "language": "Java"
+    },
+    {
+      "name": "wordcloud-example",
+      "repo": "https://github.com/v5tech/wordcloud-example",
+      "language": "Python"
+    },
+    {
+      "name": "wordcloud_girl_dance",
+      "repo": "https://github.com/v5tech/wordcloud_girl_dance",
+      "language": "Python"
+    },
+    {
+      "name": "qlong-Railway",
+      "repo": "https://github.com/v5tech/qlong-Railway",
+      "url": "https://qlong.up.railway.app",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "alist-for-replit",
+      "repo": "https://github.com/v5tech/alist-for-replit",
+      "url": "https://pan.iworks.repl.co",
+      "language": "Shell"
+    },
+    {
+      "name": "argocd-in-action",
+      "repo": "https://github.com/v5tech/argocd-in-action"
+    },
+    {
+      "name": "maven-framework-project",
+      "repo": "https://github.com/v5tech/maven-framework-project",
+      "language": "Java"
+    },
+    {
+      "name": "elasticsearch-jest-example",
+      "repo": "https://github.com/v5tech/elasticsearch-jest-example",
+      "language": "Java"
+    },
+    {
+      "name": "oltu-oauth2-example",
+      "repo": "https://github.com/v5tech/oltu-oauth2-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-activiti-webapp",
+      "repo": "https://github.com/v5tech/spring-activiti-webapp",
+      "language": "Java"
+    },
+    {
+      "name": "spring-cloud-kubernetes-samples",
+      "repo": "https://github.com/v5tech/spring-cloud-kubernetes-samples",
+      "language": "Java"
+    },
+    {
+      "name": "gospider",
+      "repo": "https://github.com/v5tech/gospider",
+      "language": "Go"
+    },
+    {
+      "name": "httpget-with-body",
+      "repo": "https://github.com/v5tech/httpget-with-body",
+      "language": "Java"
+    },
+    {
+      "name": "traefik-lab",
+      "repo": "https://github.com/v5tech/traefik-lab",
+      "language": "Shell"
+    },
+    {
+      "name": "k8s-example",
+      "repo": "https://github.com/v5tech/k8s-example",
+      "language": "Java"
+    },
+    {
+      "name": "springcloud-alibaba-example",
+      "repo": "https://github.com/v5tech/springcloud-alibaba-example",
+      "language": "Java"
+    },
+    {
+      "name": "shiro-jwt-springboot",
+      "repo": "https://github.com/v5tech/shiro-jwt-springboot",
+      "language": "Java"
+    },
+    {
+      "name": "jbang-kubectl-plugins",
+      "repo": "https://github.com/v5tech/jbang-kubectl-plugins",
+      "language": "Java"
+    },
+    {
+      "name": "keycloak-integration-examples",
+      "repo": "https://github.com/v5tech/keycloak-integration-examples",
+      "language": "Java"
+    },
+    {
+      "name": "vagrant-kubeadm-kubernetes",
+      "repo": "https://github.com/v5tech/vagrant-kubeadm-kubernetes",
+      "language": "Shell"
+    },
+    {
+      "name": "k3s-istio-lab",
+      "repo": "https://github.com/v5tech/k3s-istio-lab",
+      "language": "Shell"
+    },
+    {
+      "name": "websocket",
+      "repo": "https://github.com/v5tech/websocket",
+      "language": "Java"
+    },
+    {
+      "name": "spring-cloud-gateway-ratelimit-sample",
+      "repo": "https://github.com/v5tech/spring-cloud-gateway-ratelimit-sample",
+      "language": "Java"
+    },
+    {
+      "name": "sentinel-dashboard",
+      "repo": "https://github.com/v5tech/sentinel-dashboard",
+      "language": "Java"
+    },
+    {
+      "name": "flowable-modeler",
+      "repo": "https://github.com/v5tech/flowable-modeler",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sync-docker-image",
+      "repo": "https://github.com/v5tech/sync-docker-image",
+      "language": "Shell"
+    },
+    {
+      "name": "bigdata-examples",
+      "repo": "https://github.com/v5tech/bigdata-examples",
+      "language": "Java"
+    },
+    {
+      "name": "go-micro-springcloud-grpc-with-consul",
+      "repo": "https://github.com/v5tech/go-micro-springcloud-grpc-with-consul",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-log4j",
+      "repo": "https://github.com/v5tech/kafka-log4j",
+      "language": "Java"
+    },
+    {
+      "name": "ELK",
+      "repo": "https://github.com/v5tech/ELK"
+    },
+    {
+      "name": "distributed-lock-examples",
+      "repo": "https://github.com/v5tech/distributed-lock-examples",
+      "language": "Java"
+    },
+    {
+      "name": "spring-quartz-cluster-sample",
+      "repo": "https://github.com/v5tech/spring-quartz-cluster-sample",
+      "language": "Java"
+    },
+    {
+      "name": "springboot-package-example",
+      "repo": "https://github.com/v5tech/springboot-package-example",
+      "language": "Shell"
+    },
+    {
+      "name": "springboot-fastdfs-example",
+      "repo": "https://github.com/v5tech/springboot-fastdfs-example",
+      "language": "Java"
+    },
+    {
+      "name": "springboot2-micrometer-prometheus-grafana",
+      "repo": "https://github.com/v5tech/springboot2-micrometer-prometheus-grafana",
+      "language": "Java"
+    },
+    {
+      "name": "Clock",
+      "repo": "https://github.com/v5tech/Clock",
+      "language": "Dart"
+    },
+    {
+      "name": "netty-chat",
+      "repo": "https://github.com/v5tech/netty-chat",
+      "language": "Java"
+    },
+    {
+      "name": "springcloud-microservices-sample",
+      "repo": "https://github.com/v5tech/springcloud-microservices-sample",
+      "language": "Java"
+    },
+    {
+      "name": "spring-security-oauth2-samples",
+      "repo": "https://github.com/v5tech/spring-security-oauth2-samples",
+      "language": "Java"
+    },
+    {
+      "name": "hello-spring-cloud-alibaba",
+      "repo": "https://github.com/v5tech/hello-spring-cloud-alibaba",
+      "language": "Java"
+    },
+    {
+      "name": "spring-cloud-alibaba-dubbo",
+      "repo": "https://github.com/v5tech/spring-cloud-alibaba-dubbo",
+      "language": "Java"
+    },
+    {
+      "name": "jmh-benchmark-sample",
+      "repo": "https://github.com/v5tech/jmh-benchmark-sample",
+      "language": "Java"
+    },
+    {
+      "name": "springboot-weixin-mp",
+      "repo": "https://github.com/v5tech/springboot-weixin-mp",
+      "language": "Java"
+    },
+    {
+      "name": "concurrency",
+      "repo": "https://github.com/v5tech/concurrency",
+      "language": "Java"
+    },
+    {
+      "name": "disruptor-sample",
+      "repo": "https://github.com/v5tech/disruptor-sample",
+      "language": "Java"
+    },
+    {
+      "name": "javaagent-samples",
+      "repo": "https://github.com/v5tech/javaagent-samples",
+      "language": "Java"
+    },
+    {
+      "name": "javassist-example",
+      "repo": "https://github.com/v5tech/javassist-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-jwt-sample",
+      "repo": "https://github.com/v5tech/spring-boot-jwt-sample",
+      "language": "Java"
+    },
+    {
+      "name": "graphql-spqr-samples",
+      "repo": "https://github.com/v5tech/graphql-spqr-samples",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spring-boot-admin-samples",
+      "repo": "https://github.com/v5tech/spring-boot-admin-samples",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-prometheus-grafana-example",
+      "repo": "https://github.com/v5tech/spring-boot-prometheus-grafana-example",
+      "language": "Java"
+    },
+    {
+      "name": "nats-example",
+      "repo": "https://github.com/v5tech/nats-example",
+      "language": "Java"
+    },
+    {
+      "name": "graphql-example",
+      "repo": "https://github.com/v5tech/graphql-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-apollo-sample",
+      "repo": "https://github.com/v5tech/spring-boot-apollo-sample",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-starter-sample",
+      "repo": "https://github.com/v5tech/spring-boot-starter-sample",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-docker-example",
+      "repo": "https://github.com/v5tech/spring-boot-docker-example",
+      "language": "Java"
+    },
+    {
+      "name": "NotifyQQ",
+      "repo": "https://github.com/v5tech/NotifyQQ",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-data-rest-example",
+      "repo": "https://github.com/v5tech/spring-boot-data-rest-example",
+      "language": "Java"
+    },
+    {
+      "name": "maven-repo",
+      "repo": "https://github.com/v5tech/maven-repo"
+    },
+    {
+      "name": "spring-boot-oauth2-example",
+      "repo": "https://github.com/v5tech/spring-boot-oauth2-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-dubbo-sample",
+      "repo": "https://github.com/v5tech/spring-boot-dubbo-sample",
+      "language": "Java"
+    },
+    {
+      "name": "cloud",
+      "repo": "https://github.com/v5tech/cloud",
+      "language": "Shell"
+    },
+    {
+      "name": "mybatis-spring",
+      "repo": "https://github.com/v5tech/mybatis-spring",
+      "language": "Java"
+    },
+    {
+      "name": "mybatis-plus-codegen",
+      "repo": "https://github.com/v5tech/mybatis-plus-codegen",
+      "language": "Java"
+    },
+    {
+      "name": "cas-server-webapp",
+      "repo": "https://github.com/v5tech/cas-server-webapp",
+      "language": "Java"
+    },
+    {
+      "name": "SpringBootWindowsService",
+      "repo": "https://github.com/v5tech/SpringBootWindowsService",
+      "language": "Java"
+    },
+    {
+      "name": "springcloud-zookeeper-example",
+      "repo": "https://github.com/v5tech/springcloud-zookeeper-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-cloud-consul-example",
+      "repo": "https://github.com/v5tech/spring-cloud-consul-example",
+      "language": "Java"
+    },
+    {
+      "name": "SpringQuartzClusterSample",
+      "repo": "https://github.com/v5tech/SpringQuartzClusterSample",
+      "language": "Java"
+    },
+    {
+      "name": "spring-mybatisplus-example",
+      "repo": "https://github.com/v5tech/spring-mybatisplus-example",
+      "language": "Java"
+    },
+    {
+      "name": "mybatis-generator-example",
+      "repo": "https://github.com/v5tech/mybatis-generator-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-mybatis-example",
+      "repo": "https://github.com/v5tech/spring-mybatis-example",
+      "language": "Java"
+    }
+  ],
   "apps": []
 }

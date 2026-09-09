@@ -5,6 +5,503 @@
     "https://github.com/beliavsky"
   ],
   "bio": "I analyze financial data in Fortran, R, and Python, post at Fortran Discourse, and tweet @FortranTip.",
+  "own_repos": 149,
   "commits": 10241,
+  "repos": [
+    {
+      "name": "Fortran-code-on-GitHub",
+      "repo": "https://github.com/Beliavsky/Fortran-code-on-GitHub",
+      "url": "https://beliavsky.github.io/Fortran-code-on-GitHub/"
+    },
+    {
+      "name": "fortran-lapack",
+      "repo": "https://github.com/Beliavsky/fortran-lapack",
+      "language": "Fortran"
+    },
+    {
+      "name": "Tidy-Fortran",
+      "repo": "https://github.com/Beliavsky/Tidy-Fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-from-R-packages",
+      "repo": "https://github.com/Beliavsky/Fortran-from-R-packages",
+      "language": "Fortran"
+    },
+    {
+      "name": "Python-to-Fortran",
+      "repo": "https://github.com/Beliavsky/Python-to-Fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-Tools",
+      "repo": "https://github.com/Beliavsky/Fortran-Tools",
+      "url": "https://beliavsky.github.io/Fortran-Tools/"
+    },
+    {
+      "name": "R-to-Fortran",
+      "repo": "https://github.com/Beliavsky/R-to-Fortran",
+      "language": "Python"
+    },
+    {
+      "name": "J-to-Fortran",
+      "repo": "https://github.com/Beliavsky/J-to-Fortran",
+      "language": "Python"
+    },
+    {
+      "name": "TimeSeriesAnalysisBooks",
+      "repo": "https://github.com/Beliavsky/TimeSeriesAnalysisBooks"
+    },
+    {
+      "name": "Cpp-to-Fortran",
+      "repo": "https://github.com/Beliavsky/Cpp-to-Fortran",
+      "language": "Python"
+    },
+    {
+      "name": "C-to-Fortran",
+      "repo": "https://github.com/Beliavsky/C-to-Fortran",
+      "language": "Python"
+    },
+    {
+      "name": "R-Finance-Task-View-Supplement",
+      "repo": "https://github.com/Beliavsky/R-Finance-Task-View-Supplement",
+      "url": "https://beliavsky.github.io/R-Finance-Task-View-Supplement/"
+    },
+    {
+      "name": "Time-Series",
+      "repo": "https://github.com/Beliavsky/Time-Series",
+      "language": "Fortran"
+    },
+    {
+      "name": "LLM-chats",
+      "repo": "https://github.com/Beliavsky/LLM-chats",
+      "language": "Python"
+    },
+    {
+      "name": "R-to-Python",
+      "repo": "https://github.com/Beliavsky/R-to-Python",
+      "language": "Python"
+    },
+    {
+      "name": "GARCH-BFGS",
+      "repo": "https://github.com/Beliavsky/GARCH-BFGS",
+      "language": "Fortran"
+    },
+    {
+      "name": "R-Time-Series-Task-View-Supplement",
+      "repo": "https://github.com/Beliavsky/R-Time-Series-Task-View-Supplement",
+      "url": "https://beliavsky.github.io/R-Time-Series-Task-View-Supplement/"
+    },
+    {
+      "name": "Python",
+      "repo": "https://github.com/Beliavsky/Python",
+      "language": "Python"
+    },
+    {
+      "name": "ofort",
+      "repo": "https://github.com/Beliavsky/ofort",
+      "language": "Fortran"
+    },
+    {
+      "name": "Changepoint-Library",
+      "repo": "https://github.com/Beliavsky/Changepoint-Library",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fit-Student-t",
+      "repo": "https://github.com/Beliavsky/Fit-Student-t",
+      "language": "Fortran"
+    },
+    {
+      "name": "Multivariate-ChangePoints",
+      "repo": "https://github.com/Beliavsky/Multivariate-ChangePoints",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-Intent",
+      "repo": "https://github.com/Beliavsky/Fortran-Intent",
+      "language": "Python"
+    },
+    {
+      "name": "Pure-Fortran-Examples",
+      "repo": "https://github.com/Beliavsky/Pure-Fortran-Examples",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-to-C",
+      "repo": "https://github.com/Beliavsky/Fortran-to-C",
+      "language": "Python"
+    },
+    {
+      "name": "Pure-Fortran",
+      "repo": "https://github.com/Beliavsky/Pure-Fortran",
+      "language": "Python"
+    },
+    {
+      "name": "Fortran-Stock-Quotes",
+      "repo": "https://github.com/Beliavsky/Fortran-Stock-Quotes",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-to-C-Examples",
+      "repo": "https://github.com/Beliavsky/Fortran-to-C-Examples",
+      "language": "Fortran"
+    },
+    {
+      "name": "Rational-Regression",
+      "repo": "https://github.com/Beliavsky/Rational-Regression",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fit-Moments",
+      "repo": "https://github.com/Beliavsky/Fit-Moments",
+      "language": "Fortran"
+    },
+    {
+      "name": "Vector-Error-Correction",
+      "repo": "https://github.com/Beliavsky/Vector-Error-Correction",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-Chess",
+      "repo": "https://github.com/Beliavsky/Fortran-Chess",
+      "language": "Fortran"
+    },
+    {
+      "name": "Array-Compiler",
+      "repo": "https://github.com/Beliavsky/Array-Compiler",
+      "language": "Python"
+    },
+    {
+      "name": "Array-Compiler-Examples",
+      "repo": "https://github.com/Beliavsky/Array-Compiler-Examples",
+      "language": "Fortran"
+    },
+    {
+      "name": "Calc",
+      "repo": "https://github.com/Beliavsky/Calc",
+      "language": "Fortran"
+    },
+    {
+      "name": "Alan-Miller-Fortran",
+      "repo": "https://github.com/Beliavsky/Alan-Miller-Fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "DataFrame",
+      "repo": "https://github.com/Beliavsky/DataFrame",
+      "language": "Fortran"
+    },
+    {
+      "name": "Numpy-Interpreter",
+      "repo": "https://github.com/Beliavsky/Numpy-Interpreter",
+      "language": "Fortran"
+    },
+    {
+      "name": "RetirementSpending",
+      "repo": "https://github.com/Beliavsky/RetirementSpending",
+      "language": "Fortran"
+    },
+    {
+      "name": "FortranCode",
+      "repo": "https://github.com/Beliavsky/FortranCode",
+      "language": "Fortran"
+    },
+    {
+      "name": "Windows-CMD-scripts",
+      "repo": "https://github.com/Beliavsky/Windows-CMD-scripts",
+      "language": "Batchfile"
+    },
+    {
+      "name": "Python-scripts-for-Fortran",
+      "repo": "https://github.com/Beliavsky/Python-scripts-for-Fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "TradingBand",
+      "repo": "https://github.com/Beliavsky/TradingBand",
+      "language": "Fortran"
+    },
+    {
+      "name": "Autoregression",
+      "repo": "https://github.com/Beliavsky/Autoregression",
+      "language": "Fortran"
+    },
+    {
+      "name": "ETF-Symbols",
+      "repo": "https://github.com/Beliavsky/ETF-Symbols",
+      "language": "Python"
+    },
+    {
+      "name": "GARCH-Python",
+      "repo": "https://github.com/Beliavsky/GARCH-Python",
+      "language": "Python"
+    },
+    {
+      "name": "Asset-Allocation",
+      "repo": "https://github.com/Beliavsky/Asset-Allocation",
+      "language": "Fortran"
+    },
+    {
+      "name": "Gnuplot-Fortran",
+      "repo": "https://github.com/Beliavsky/Gnuplot-Fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "Matrix_Inversion",
+      "repo": "https://github.com/Beliavsky/Matrix_Inversion",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-stuff",
+      "repo": "https://github.com/Beliavsky/Fortran-stuff",
+      "language": "Fortran"
+    },
+    {
+      "name": "Portfolio-Optimization",
+      "repo": "https://github.com/Beliavsky/Portfolio-Optimization",
+      "language": "Fortran"
+    },
+    {
+      "name": "FortranTip",
+      "repo": "https://github.com/Beliavsky/FortranTip",
+      "url": "https://zmoon.github.io/FortranTipBrowser/",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-calling-R",
+      "repo": "https://github.com/Beliavsky/Fortran-calling-R",
+      "language": "Fortran"
+    },
+    {
+      "name": "Mat",
+      "repo": "https://github.com/Beliavsky/Mat",
+      "language": "Fortran"
+    },
+    {
+      "name": "Basic-Stats",
+      "repo": "https://github.com/Beliavsky/Basic-Stats",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-LLM-prompts",
+      "repo": "https://github.com/Beliavsky/Fortran-LLM-prompts"
+    },
+    {
+      "name": "Groq-Fortran-agent",
+      "repo": "https://github.com/Beliavsky/Groq-Fortran-agent",
+      "language": "Python"
+    },
+    {
+      "name": "Moment-Matching-Mixtures",
+      "repo": "https://github.com/Beliavsky/Moment-Matching-Mixtures",
+      "language": "Python"
+    },
+    {
+      "name": "GARCH-R",
+      "repo": "https://github.com/Beliavsky/GARCH-R",
+      "language": "R"
+    },
+    {
+      "name": "GARCH",
+      "repo": "https://github.com/Beliavsky/GARCH",
+      "language": "Fortran"
+    },
+    {
+      "name": "Gemini-Fortran-agent",
+      "repo": "https://github.com/Beliavsky/Gemini-Fortran-agent",
+      "language": "Python"
+    },
+    {
+      "name": "OpenAI-Fortran-agent",
+      "repo": "https://github.com/Beliavsky/OpenAI-Fortran-agent",
+      "language": "Python"
+    },
+    {
+      "name": "Dynamic-Linear-Models",
+      "repo": "https://github.com/Beliavsky/Dynamic-Linear-Models",
+      "language": "Fortran"
+    },
+    {
+      "name": "MultipleChangePoints",
+      "repo": "https://github.com/Beliavsky/MultipleChangePoints",
+      "language": "Fortran"
+    },
+    {
+      "name": "Index",
+      "repo": "https://github.com/Beliavsky/Index"
+    },
+    {
+      "name": "f2cpp",
+      "repo": "https://github.com/Beliavsky/f2cpp",
+      "language": "Python"
+    },
+    {
+      "name": "PyC2F",
+      "repo": "https://github.com/Beliavsky/PyC2F",
+      "language": "Python"
+    },
+    {
+      "name": "c2f",
+      "repo": "https://github.com/Beliavsky/c2f",
+      "language": "Fortran"
+    },
+    {
+      "name": "QuadProg-gfortran-windows",
+      "repo": "https://github.com/Beliavsky/QuadProg-gfortran-windows",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-tools-on-GitHub",
+      "repo": "https://github.com/Beliavsky/Fortran-tools-on-GitHub"
+    },
+    {
+      "name": "GARCH-BHHH",
+      "repo": "https://github.com/Beliavsky/GARCH-BHHH",
+      "language": "Python"
+    },
+    {
+      "name": "Mixture-of-Normals-Estimation",
+      "repo": "https://github.com/Beliavsky/Mixture-of-Normals-Estimation",
+      "language": "Python"
+    },
+    {
+      "name": "Hidden-Markov-Models",
+      "repo": "https://github.com/Beliavsky/Hidden-Markov-Models",
+      "language": "Fortran"
+    },
+    {
+      "name": "Statistics-library",
+      "repo": "https://github.com/Beliavsky/Statistics-library",
+      "language": "Fortran"
+    },
+    {
+      "name": "ChatGPT-Fortran-generator",
+      "repo": "https://github.com/Beliavsky/ChatGPT-Fortran-generator",
+      "language": "Python"
+    },
+    {
+      "name": "Fortran-articles",
+      "repo": "https://github.com/Beliavsky/Fortran-articles"
+    },
+    {
+      "name": "Moving-Average-Crossover",
+      "repo": "https://github.com/Beliavsky/Moving-Average-Crossover",
+      "language": "Fortran"
+    },
+    {
+      "name": "GenHyp-cpp",
+      "repo": "https://github.com/Beliavsky/GenHyp-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "Fortran-related-books",
+      "repo": "https://github.com/Beliavsky/Fortran-related-books",
+      "url": "https://beliavsky.github.io/Fortran-related-books/"
+    },
+    {
+      "name": "Fortran-production-code-sites",
+      "repo": "https://github.com/Beliavsky/Fortran-production-code-sites"
+    },
+    {
+      "name": "Statistics-in-Fortran",
+      "repo": "https://github.com/Beliavsky/Statistics-in-Fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "test_fpm",
+      "repo": "https://github.com/Beliavsky/test_fpm",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-QuickSort",
+      "repo": "https://github.com/Beliavsky/Fortran-QuickSort",
+      "language": "Fortran"
+    },
+    {
+      "name": "Fortran-Windows-CMD-scripts",
+      "repo": "https://github.com/Beliavsky/Fortran-Windows-CMD-scripts",
+      "language": "Batchfile"
+    },
+    {
+      "name": "Heisenberg_code_sparse_csr_fortran",
+      "repo": "https://github.com/Beliavsky/Heisenberg_code_sparse_csr_fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "Github-repo-metrics",
+      "repo": "https://github.com/Beliavsky/Github-repo-metrics",
+      "language": "Python"
+    },
+    {
+      "name": "Groq-cpp-agent",
+      "repo": "https://github.com/Beliavsky/Groq-cpp-agent",
+      "language": "Python"
+    },
+    {
+      "name": "Groq-Python-agent",
+      "repo": "https://github.com/Beliavsky/Groq-Python-agent",
+      "language": "Python"
+    },
+    {
+      "name": "beliavsky.github.io",
+      "repo": "https://github.com/Beliavsky/beliavsky.github.io",
+      "url": "https://beliavsky.github.io/"
+    },
+    {
+      "name": "Fortran-packages-list",
+      "repo": "https://github.com/Beliavsky/Fortran-packages-list",
+      "url": "https://beliavsky.github.io/Fortran-packages-list/",
+      "language": "Python"
+    },
+    {
+      "name": "GAMS-Fortran",
+      "repo": "https://github.com/Beliavsky/GAMS-Fortran"
+    },
+    {
+      "name": "Scientific-Subroutine-Package",
+      "repo": "https://github.com/Beliavsky/Scientific-Subroutine-Package",
+      "language": "Fortran"
+    },
+    {
+      "name": "AutoregressiveStochasticVolatility",
+      "repo": "https://github.com/Beliavsky/AutoregressiveStochasticVolatility",
+      "language": "Fortran"
+    },
+    {
+      "name": "Burkardt-Fortran-90",
+      "repo": "https://github.com/Beliavsky/Burkardt-Fortran-90"
+    },
+    {
+      "name": "Burkardt-Fortran-90-codes",
+      "repo": "https://github.com/Beliavsky/Burkardt-Fortran-90-codes",
+      "url": "https://people.sc.fsu.edu/~jburkardt/f_src/f_src.html",
+      "language": "Fortran"
+    },
+    {
+      "name": "Multivariate-Normal-Random-Deviates",
+      "repo": "https://github.com/Beliavsky/Multivariate-Normal-Random-Deviates",
+      "language": "Fortran"
+    },
+    {
+      "name": "Finance-Deep-Research-Grok",
+      "repo": "https://github.com/Beliavsky/Finance-Deep-Research-Grok"
+    },
+    {
+      "name": "Burkardt-Fortran-90-codes-SC",
+      "repo": "https://github.com/Beliavsky/Burkardt-Fortran-90-codes-SC",
+      "url": "https://people.math.sc.edu/Burkardt/",
+      "language": "Fortran"
+    },
+    {
+      "name": "Watch",
+      "repo": "https://github.com/Beliavsky/Watch",
+      "language": "Fortran"
+    },
+    {
+      "name": "LLM-Fortran-bugs",
+      "repo": "https://github.com/Beliavsky/LLM-Fortran-bugs"
+    }
+  ],
   "apps": []
 }

@@ -7,5 +7,505 @@
   "website": "https://kradalby.no/",
   "own_repos": 126,
   "commits": 10481,
+  "repos": [
+    {
+      "name": "tsnixcache",
+      "repo": "https://github.com/kradalby/tsnixcache"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/kradalby/dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "wc3ts",
+      "repo": "https://github.com/kradalby/wc3ts",
+      "language": "Go"
+    },
+    {
+      "name": "hvor",
+      "repo": "https://github.com/kradalby/hvor",
+      "language": "Go"
+    },
+    {
+      "name": "aspargesgaarden-elm",
+      "repo": "https://github.com/kradalby/aspargesgaarden-elm",
+      "url": "https://aspargesgaarden.no",
+      "language": "Elm"
+    },
+    {
+      "name": "garnixlogs",
+      "repo": "https://github.com/kradalby/garnixlogs",
+      "language": "Go"
+    },
+    {
+      "name": "flake-checks",
+      "repo": "https://github.com/kradalby/flake-checks",
+      "language": "Nix"
+    },
+    {
+      "name": "terraform-provider-gigahost",
+      "repo": "https://github.com/kradalby/terraform-provider-gigahost",
+      "language": "Nix"
+    },
+    {
+      "name": "gigahost-go",
+      "repo": "https://github.com/kradalby/gigahost-go",
+      "language": "Go"
+    },
+    {
+      "name": "hugin",
+      "repo": "https://github.com/kradalby/hugin",
+      "language": "Elm"
+    },
+    {
+      "name": "ghdl",
+      "repo": "https://github.com/kradalby/ghdl"
+    },
+    {
+      "name": "tasmota-homekit",
+      "repo": "https://github.com/kradalby/tasmota-homekit",
+      "language": "Go"
+    },
+    {
+      "name": "ts1p",
+      "repo": "https://github.com/kradalby/ts1p",
+      "language": "Go"
+    },
+    {
+      "name": "fiken-go",
+      "repo": "https://github.com/kradalby/fiken-go",
+      "language": "Go"
+    },
+    {
+      "name": "z2m-homekit",
+      "repo": "https://github.com/kradalby/z2m-homekit",
+      "language": "Go"
+    },
+    {
+      "name": "tasmota-exporter",
+      "repo": "https://github.com/kradalby/tasmota-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "qlimaster",
+      "repo": "https://github.com/kradalby/qlimaster",
+      "language": "Go"
+    },
+    {
+      "name": "nefit-homekit",
+      "repo": "https://github.com/kradalby/nefit-homekit",
+      "language": "Go"
+    },
+    {
+      "name": "homewizard-p1-exporter",
+      "repo": "https://github.com/kradalby/homewizard-p1-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "gososi",
+      "repo": "https://github.com/kradalby/gososi",
+      "language": "Go"
+    },
+    {
+      "name": "gopkcs11",
+      "repo": "https://github.com/kradalby/gopkcs11",
+      "language": "Go"
+    },
+    {
+      "name": "tasmota-go",
+      "repo": "https://github.com/kradalby/tasmota-go",
+      "language": "Go"
+    },
+    {
+      "name": "nefit-go",
+      "repo": "https://github.com/kradalby/nefit-go",
+      "language": "Go"
+    },
+    {
+      "name": "kra",
+      "repo": "https://github.com/kradalby/kra",
+      "language": "Go"
+    },
+    {
+      "name": "munin",
+      "repo": "https://github.com/kradalby/munin",
+      "language": "Swift"
+    },
+    {
+      "name": "neovim",
+      "repo": "https://github.com/kradalby/neovim",
+      "language": "Lua"
+    },
+    {
+      "name": "Logger.swift",
+      "repo": "https://github.com/kradalby/Logger.swift",
+      "language": "Swift"
+    },
+    {
+      "name": "dockerfiles",
+      "repo": "https://github.com/kradalby/dockerfiles",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "alertmanager-discord",
+      "repo": "https://github.com/kradalby/alertmanager-discord",
+      "language": "Go"
+    },
+    {
+      "name": "metallb-neighbour-helper",
+      "repo": "https://github.com/kradalby/metallb-neighbour-helper",
+      "language": "Go"
+    },
+    {
+      "name": "lilsnitch",
+      "repo": "https://github.com/kradalby/lilsnitch",
+      "language": "Go"
+    },
+    {
+      "name": "docker",
+      "repo": "https://github.com/kradalby/docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "kubespace",
+      "repo": "https://github.com/kradalby/kubespace",
+      "url": "https://kubespace.kradalby.no",
+      "language": "Go"
+    },
+    {
+      "name": "opnsense-go",
+      "repo": "https://github.com/kradalby/opnsense-go",
+      "language": "Go"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/kradalby/resume",
+      "language": "Elm"
+    },
+    {
+      "name": "SwiftExif",
+      "repo": "https://github.com/kradalby/SwiftExif",
+      "language": "Swift"
+    },
+    {
+      "name": "aspargesgaarden-publii",
+      "repo": "https://github.com/kradalby/aspargesgaarden-publii",
+      "language": "HTML"
+    },
+    {
+      "name": "homekit-qr",
+      "repo": "https://github.com/kradalby/homekit-qr",
+      "language": "Go"
+    },
+    {
+      "name": "plays",
+      "repo": "https://github.com/kradalby/plays",
+      "language": "Shell"
+    },
+    {
+      "name": "kraweb",
+      "repo": "https://github.com/kradalby/kraweb",
+      "language": "Go"
+    },
+    {
+      "name": "fosdem24",
+      "repo": "https://github.com/kradalby/fosdem24",
+      "language": "HTML"
+    },
+    {
+      "name": "pyGE",
+      "repo": "https://github.com/kradalby/pyGE",
+      "language": "Python"
+    },
+    {
+      "name": "bork",
+      "repo": "https://github.com/kradalby/bork",
+      "language": "Elm"
+    },
+    {
+      "name": "map.kradalby.no",
+      "repo": "https://github.com/kradalby/map.kradalby.no",
+      "language": "HTML"
+    },
+    {
+      "name": "webpage",
+      "repo": "https://github.com/kradalby/webpage",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gso",
+      "repo": "https://github.com/kradalby/gso",
+      "language": "HTML"
+    },
+    {
+      "name": "sourceapi",
+      "repo": "https://github.com/kradalby/sourceapi",
+      "language": "Python"
+    },
+    {
+      "name": "flexiday",
+      "repo": "https://github.com/kradalby/flexiday",
+      "language": "Elm"
+    },
+    {
+      "name": "Config.swift",
+      "repo": "https://github.com/kradalby/Config.swift",
+      "language": "Swift"
+    },
+    {
+      "name": "presentations",
+      "repo": "https://github.com/kradalby/presentations",
+      "language": "HTML"
+    },
+    {
+      "name": "glossary",
+      "repo": "https://github.com/kradalby/glossary",
+      "language": "Elm"
+    },
+    {
+      "name": "recipes",
+      "repo": "https://github.com/kradalby/recipes"
+    },
+    {
+      "name": "MagickWand",
+      "repo": "https://github.com/kradalby/MagickWand",
+      "language": "Swift"
+    },
+    {
+      "name": "aspargesgaarden-swift",
+      "repo": "https://github.com/kradalby/aspargesgaarden-swift",
+      "language": "Swift"
+    },
+    {
+      "name": "tradfri-mqttthing",
+      "repo": "https://github.com/kradalby/tradfri-mqttthing",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-provider-opnsense",
+      "repo": "https://github.com/kradalby/terraform-provider-opnsense",
+      "language": "Go"
+    },
+    {
+      "name": "awx-job-tailer",
+      "repo": "https://github.com/kradalby/awx-job-tailer",
+      "language": "Python"
+    },
+    {
+      "name": "investapi",
+      "repo": "https://github.com/kradalby/investapi",
+      "language": "Python"
+    },
+    {
+      "name": "helm",
+      "repo": "https://github.com/kradalby/helm",
+      "language": "Mustache"
+    },
+    {
+      "name": "drone-jsonnet",
+      "repo": "https://github.com/kradalby/drone-jsonnet",
+      "language": "Jsonnet"
+    },
+    {
+      "name": "drone-kubectl",
+      "repo": "https://github.com/kradalby/drone-kubectl",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-nginx-ldap-auth",
+      "repo": "https://github.com/kradalby/docker-nginx-ldap-auth",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "dfektlan.no",
+      "repo": "https://github.com/kradalby/dfektlan.no",
+      "language": "HTML"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/kradalby/renovate-config"
+    },
+    {
+      "name": "fatbobman.github.io",
+      "repo": "https://github.com/kradalby/fatbobman.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "jxa",
+      "repo": "https://github.com/kradalby/jxa",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotrepo",
+      "repo": "https://github.com/kradalby/dotrepo",
+      "language": "Elm"
+    },
+    {
+      "name": "cloudinit",
+      "repo": "https://github.com/kradalby/cloudinit"
+    },
+    {
+      "name": "terraform-modules",
+      "repo": "https://github.com/kradalby/terraform-modules",
+      "language": "HCL"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/kradalby/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "mdns-repeater",
+      "repo": "https://github.com/kradalby/mdns-repeater",
+      "language": "C"
+    },
+    {
+      "name": "lanweb",
+      "repo": "https://github.com/kradalby/lanweb",
+      "language": "Python"
+    },
+    {
+      "name": "kradalby.no",
+      "repo": "https://github.com/kradalby/kradalby.no",
+      "language": "CSS"
+    },
+    {
+      "name": "IT1901",
+      "repo": "https://github.com/kradalby/IT1901",
+      "language": "Java"
+    },
+    {
+      "name": "programming-tasks",
+      "repo": "https://github.com/kradalby/programming-tasks",
+      "language": "Python"
+    },
+    {
+      "name": "aspargesgaarden.no",
+      "repo": "https://github.com/kradalby/aspargesgaarden.no",
+      "language": "Python"
+    },
+    {
+      "name": "enigma",
+      "repo": "https://github.com/kradalby/enigma",
+      "language": "Python"
+    },
+    {
+      "name": "netboxxx",
+      "repo": "https://github.com/kradalby/netboxxx",
+      "language": "Go"
+    },
+    {
+      "name": "dlinkconfig",
+      "repo": "https://github.com/kradalby/dlinkconfig",
+      "url": "https://builds.kradalby.no",
+      "language": "Go"
+    },
+    {
+      "name": "cv",
+      "repo": "https://github.com/kradalby/cv",
+      "language": "Standard ML"
+    },
+    {
+      "name": "libsandwich",
+      "repo": "https://github.com/kradalby/libsandwich",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-module-vcloud-template-upload",
+      "repo": "https://github.com/kradalby/ansible-module-vcloud-template-upload",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-module-packer-build",
+      "repo": "https://github.com/kradalby/ansible-module-packer-build",
+      "language": "Python"
+    },
+    {
+      "name": "suberduber",
+      "repo": "https://github.com/kradalby/suberduber",
+      "language": "Python"
+    },
+    {
+      "name": "tupy",
+      "repo": "https://github.com/kradalby/tupy",
+      "language": "Python"
+    },
+    {
+      "name": "talkmoresms",
+      "repo": "https://github.com/kradalby/talkmoresms",
+      "language": "Python"
+    },
+    {
+      "name": "source_table",
+      "repo": "https://github.com/kradalby/source_table",
+      "language": "JavaScript"
+    },
+    {
+      "name": "emacs.d",
+      "repo": "https://github.com/kradalby/emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "upm-erlang",
+      "repo": "https://github.com/kradalby/upm-erlang",
+      "language": "Erlang"
+    },
+    {
+      "name": "nettbrett2",
+      "repo": "https://github.com/kradalby/nettbrett2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "xploration-testing",
+      "repo": "https://github.com/kradalby/xploration-testing",
+      "language": "Java"
+    },
+    {
+      "name": "erlsrcds",
+      "repo": "https://github.com/kradalby/erlsrcds",
+      "language": "Erlang"
+    },
+    {
+      "name": "xploration-shared",
+      "repo": "https://github.com/kradalby/xploration-shared",
+      "language": "Java"
+    },
+    {
+      "name": "zsh-plugins",
+      "repo": "https://github.com/kradalby/zsh-plugins",
+      "language": "Shell"
+    },
+    {
+      "name": "mailpimp",
+      "repo": "https://github.com/kradalby/mailpimp",
+      "language": "Python"
+    },
+    {
+      "name": "kavik",
+      "repo": "https://github.com/kradalby/kavik",
+      "language": "Python"
+    },
+    {
+      "name": "erl_ip4_utils",
+      "repo": "https://github.com/kradalby/erl_ip4_utils",
+      "language": "Erlang"
+    },
+    {
+      "name": "nettbrett",
+      "repo": "https://github.com/kradalby/nettbrett",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple_snmp",
+      "repo": "https://github.com/kradalby/simple_snmp",
+      "language": "Erlang"
+    },
+    {
+      "name": "linter-erlang-dialyzer",
+      "repo": "https://github.com/kradalby/linter-erlang-dialyzer",
+      "language": "CoffeeScript"
+    }
+  ],
   "apps": []
 }

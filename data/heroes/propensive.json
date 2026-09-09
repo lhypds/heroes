@@ -8,5 +8,557 @@
   "bio": "Scala developer",
   "own_repos": 159,
   "commits": 47887,
+  "repos": [
+    {
+      "name": "flame",
+      "repo": "https://github.com/propensive/flame",
+      "language": "Scala"
+    },
+    {
+      "name": "proscala",
+      "repo": "https://github.com/propensive/proscala",
+      "url": "https://propensive.com/",
+      "language": "Scala"
+    },
+    {
+      "name": "pyrocosm",
+      "repo": "https://github.com/propensive/pyrocosm",
+      "language": "Scala"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/propensive/.github"
+    },
+    {
+      "name": "fume",
+      "repo": "https://github.com/propensive/fume",
+      "language": "Scala"
+    },
+    {
+      "name": "xeq",
+      "repo": "https://github.com/propensive/xeq"
+    },
+    {
+      "name": "soundness",
+      "repo": "https://github.com/propensive/soundness",
+      "language": "Scala"
+    },
+    {
+      "name": "lira",
+      "repo": "https://github.com/propensive/lira",
+      "language": "Scala"
+    },
+    {
+      "name": "tel",
+      "repo": "https://github.com/propensive/tel",
+      "language": "Rust"
+    },
+    {
+      "name": "glimpse",
+      "repo": "https://github.com/propensive/glimpse",
+      "language": "Python"
+    },
+    {
+      "name": "consequent",
+      "repo": "https://github.com/propensive/consequent",
+      "language": "Scala"
+    },
+    {
+      "name": "fluence",
+      "repo": "https://github.com/propensive/fluence",
+      "language": "Scala"
+    },
+    {
+      "name": "soundness.dev",
+      "repo": "https://github.com/propensive/soundness.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "principledmetaprogramming",
+      "repo": "https://github.com/propensive/principledmetaprogramming",
+      "language": "Scala"
+    },
+    {
+      "name": "cardinality",
+      "repo": "https://github.com/propensive/cardinality",
+      "url": "https://soundness.dev/cardinality/",
+      "language": "Scala"
+    },
+    {
+      "name": "capricious",
+      "repo": "https://github.com/propensive/capricious",
+      "url": "https://soundness.dev/capricious/",
+      "language": "Scala"
+    },
+    {
+      "name": "camouflage",
+      "repo": "https://github.com/propensive/camouflage",
+      "language": "Scala"
+    },
+    {
+      "name": "caesura",
+      "repo": "https://github.com/propensive/caesura",
+      "url": "https://propensive.com/caesura/",
+      "language": "Scala"
+    },
+    {
+      "name": "burdock",
+      "repo": "https://github.com/propensive/burdock",
+      "language": "Scala"
+    },
+    {
+      "name": "bitumen",
+      "repo": "https://github.com/propensive/bitumen",
+      "language": "Scala"
+    },
+    {
+      "name": "baroque",
+      "repo": "https://github.com/propensive/baroque",
+      "language": "Scala"
+    },
+    {
+      "name": "aviation",
+      "repo": "https://github.com/propensive/aviation",
+      "url": "https://propensive.com/temporaneous",
+      "language": "Scala"
+    },
+    {
+      "name": "anticipation",
+      "repo": "https://github.com/propensive/anticipation",
+      "url": "https://soundness.dev/anticipation/",
+      "language": "Scala"
+    },
+    {
+      "name": "anthology",
+      "repo": "https://github.com/propensive/anthology",
+      "language": "Scala"
+    },
+    {
+      "name": "ambience",
+      "repo": "https://github.com/propensive/ambience",
+      "url": "https://soundness.dev/ambience/",
+      "language": "Scala"
+    },
+    {
+      "name": "adversaria",
+      "repo": "https://github.com/propensive/adversaria",
+      "url": "https://propensive.com/adversaria/",
+      "language": "Scala"
+    },
+    {
+      "name": "acyclicity",
+      "repo": "https://github.com/propensive/acyclicity",
+      "url": "https://soundness.dev/acyclicity/",
+      "language": "Scala"
+    },
+    {
+      "name": "abacist",
+      "repo": "https://github.com/propensive/abacist",
+      "url": "https://soundness.dev/abacist/",
+      "language": "Scala"
+    },
+    {
+      "name": "turbulence",
+      "repo": "https://github.com/propensive/turbulence",
+      "url": "https://soundness.dev/turbulence/",
+      "language": "Scala"
+    },
+    {
+      "name": "zephyrine",
+      "repo": "https://github.com/propensive/zephyrine",
+      "language": "Scala"
+    },
+    {
+      "name": "telekinesis",
+      "repo": "https://github.com/propensive/telekinesis",
+      "url": "https://propensive.com/telekinesis/",
+      "language": "Scala"
+    },
+    {
+      "name": "gesticulate",
+      "repo": "https://github.com/propensive/gesticulate",
+      "url": "https://propensive.com/gesticulate/",
+      "language": "Scala"
+    },
+    {
+      "name": "nectary",
+      "repo": "https://github.com/propensive/nectary",
+      "language": "Scala"
+    },
+    {
+      "name": "aristotle",
+      "repo": "https://github.com/propensive/aristotle",
+      "language": "Scala"
+    },
+    {
+      "name": "rudiments",
+      "repo": "https://github.com/propensive/rudiments",
+      "url": "https://soundness.dev/rudiments/",
+      "language": "Scala"
+    },
+    {
+      "name": "xylophone",
+      "repo": "https://github.com/propensive/xylophone",
+      "url": "https://propensive.com/xylophone/",
+      "language": "Scala"
+    },
+    {
+      "name": "tarantula",
+      "repo": "https://github.com/propensive/tarantula",
+      "url": "https://propensive.com/tarantula/",
+      "language": "Scala"
+    },
+    {
+      "name": "superlunary",
+      "repo": "https://github.com/propensive/superlunary",
+      "language": "Scala"
+    },
+    {
+      "name": "spectacular",
+      "repo": "https://github.com/propensive/spectacular",
+      "url": "https://soundness.dev/spectacular/",
+      "language": "Scala"
+    },
+    {
+      "name": "serpentine",
+      "repo": "https://github.com/propensive/serpentine",
+      "url": "https://soundness.dev/serpentine/",
+      "language": "Scala"
+    },
+    {
+      "name": "scintillate",
+      "repo": "https://github.com/propensive/scintillate",
+      "url": "https://propensive.com/scintillate/",
+      "language": "Scala"
+    },
+    {
+      "name": "revolution",
+      "repo": "https://github.com/propensive/revolution",
+      "language": "Scala"
+    },
+    {
+      "name": "punctuation",
+      "repo": "https://github.com/propensive/punctuation",
+      "url": "https://propensive.com/punctuation/",
+      "language": "Scala"
+    },
+    {
+      "name": "profanity",
+      "repo": "https://github.com/propensive/profanity",
+      "url": "https://soundness.dev/profanity/",
+      "language": "Scala"
+    },
+    {
+      "name": "probably",
+      "repo": "https://github.com/propensive/probably",
+      "url": "https://propensive.com/probably/",
+      "language": "Scala"
+    },
+    {
+      "name": "octogenarian",
+      "repo": "https://github.com/propensive/octogenarian",
+      "language": "Scala"
+    },
+    {
+      "name": "nomenclature",
+      "repo": "https://github.com/propensive/nomenclature",
+      "language": "Scala"
+    },
+    {
+      "name": "nettlesome",
+      "repo": "https://github.com/propensive/nettlesome",
+      "url": "https://soundness.dev/nettlesome/",
+      "language": "Scala"
+    },
+    {
+      "name": "jacinta",
+      "repo": "https://github.com/propensive/jacinta",
+      "url": "https://propensive.com/jacinta/",
+      "language": "Scala"
+    },
+    {
+      "name": "hieroglyph",
+      "repo": "https://github.com/propensive/hieroglyph",
+      "url": "https://soundness.dev/hieroglyph/",
+      "language": "Scala"
+    },
+    {
+      "name": "hellenism",
+      "repo": "https://github.com/propensive/hellenism",
+      "url": "https://soundness.dev/hellenism/",
+      "language": "Scala"
+    },
+    {
+      "name": "guillotine",
+      "repo": "https://github.com/propensive/guillotine",
+      "url": "https://soundness.dev/guillotine/",
+      "language": "Scala"
+    },
+    {
+      "name": "gossamer",
+      "repo": "https://github.com/propensive/gossamer",
+      "url": "https://soundness.dev/gossamer/",
+      "language": "Scala"
+    },
+    {
+      "name": "geodesy",
+      "repo": "https://github.com/propensive/geodesy",
+      "language": "Scala"
+    },
+    {
+      "name": "fulminate",
+      "repo": "https://github.com/propensive/fulminate",
+      "url": "https://soundness.dev/fulminate/",
+      "language": "Scala"
+    },
+    {
+      "name": "exoskeleton",
+      "repo": "https://github.com/propensive/exoskeleton",
+      "url": "https://soundness.dev/exoskeleton/",
+      "language": "Scala"
+    },
+    {
+      "name": "ethereal",
+      "repo": "https://github.com/propensive/ethereal",
+      "url": "https://soundness.dev/ethereal/",
+      "language": "Scala"
+    },
+    {
+      "name": "enigmatic",
+      "repo": "https://github.com/propensive/enigmatic",
+      "language": "Scala"
+    },
+    {
+      "name": "distillate",
+      "repo": "https://github.com/propensive/distillate",
+      "language": "Scala"
+    },
+    {
+      "name": "cosmopolite",
+      "repo": "https://github.com/propensive/cosmopolite",
+      "url": "https://propensive.com/cosmopolite/",
+      "language": "Scala"
+    },
+    {
+      "name": "coaxial",
+      "repo": "https://github.com/propensive/coaxial",
+      "language": "Scala"
+    },
+    {
+      "name": "cellulose",
+      "repo": "https://github.com/propensive/cellulose",
+      "language": "Scala"
+    },
+    {
+      "name": "embarcadero",
+      "repo": "https://github.com/propensive/embarcadero",
+      "language": "Shell"
+    },
+    {
+      "name": "escapade",
+      "repo": "https://github.com/propensive/escapade",
+      "url": "https://soundness.dev/escapade/",
+      "language": "Scala"
+    },
+    {
+      "name": "imperial",
+      "repo": "https://github.com/propensive/imperial",
+      "url": "https://propensive.com/imperial/",
+      "language": "Scala"
+    },
+    {
+      "name": "plutocrat",
+      "repo": "https://github.com/propensive/plutocrat",
+      "language": "Scala"
+    },
+    {
+      "name": "quantitative",
+      "repo": "https://github.com/propensive/quantitative",
+      "url": "https://soundness.dev/quantitative/",
+      "language": "Scala"
+    },
+    {
+      "name": "hypotenuse",
+      "repo": "https://github.com/propensive/hypotenuse",
+      "url": "https://soundness.dev/hypotenuse/",
+      "language": "Scala"
+    },
+    {
+      "name": "eucalyptus",
+      "repo": "https://github.com/propensive/eucalyptus",
+      "url": "https://soundness.dev/eucalyptus/",
+      "language": "Scala"
+    },
+    {
+      "name": "mercator",
+      "repo": "https://github.com/propensive/mercator",
+      "language": "Scala"
+    },
+    {
+      "name": "honeycomb",
+      "repo": "https://github.com/propensive/honeycomb",
+      "url": "https://propensive.com/honeycomb/",
+      "language": "Scala"
+    },
+    {
+      "name": "hallucination",
+      "repo": "https://github.com/propensive/hallucination",
+      "language": "Scala"
+    },
+    {
+      "name": "cataclysm",
+      "repo": "https://github.com/propensive/cataclysm",
+      "url": "https://propensive.com/cataclysm/",
+      "language": "Scala"
+    },
+    {
+      "name": "surveillance",
+      "repo": "https://github.com/propensive/surveillance",
+      "url": "https://soundness.dev/surveillance/",
+      "language": "Scala"
+    },
+    {
+      "name": "galilei",
+      "repo": "https://github.com/propensive/galilei",
+      "url": "https://soundness.dev/galilei/",
+      "language": "Scala"
+    },
+    {
+      "name": "diuretic",
+      "repo": "https://github.com/propensive/diuretic",
+      "url": "https://soundness.dev/diuretic/",
+      "language": "Scala"
+    },
+    {
+      "name": "zeppelin",
+      "repo": "https://github.com/propensive/zeppelin",
+      "language": "Scala"
+    },
+    {
+      "name": "parasite",
+      "repo": "https://github.com/propensive/parasite",
+      "url": "https://soundness.dev/parasite/",
+      "language": "Scala"
+    },
+    {
+      "name": "sedentary",
+      "repo": "https://github.com/propensive/sedentary",
+      "language": "Scala"
+    },
+    {
+      "name": "dissonance",
+      "repo": "https://github.com/propensive/dissonance",
+      "url": "https://soundness.dev/dissonance/",
+      "language": "Scala"
+    },
+    {
+      "name": "wisteria",
+      "repo": "https://github.com/propensive/wisteria",
+      "url": "https://soundness.dev/wisteria/",
+      "language": "Scala"
+    },
+    {
+      "name": "legerdemain",
+      "repo": "https://github.com/propensive/legerdemain",
+      "language": "Scala"
+    },
+    {
+      "name": "digression",
+      "repo": "https://github.com/propensive/digression",
+      "url": "https://soundness.dev/digression/",
+      "language": "Scala"
+    },
+    {
+      "name": "kaleidoscope",
+      "repo": "https://github.com/propensive/kaleidoscope",
+      "url": "https://soundness.dev/kaleidoscope/",
+      "language": "Scala"
+    },
+    {
+      "name": "yossarian",
+      "repo": "https://github.com/propensive/yossarian",
+      "language": "Scala"
+    },
+    {
+      "name": "vicarious",
+      "repo": "https://github.com/propensive/vicarious",
+      "language": "Scala"
+    },
+    {
+      "name": "ulysses",
+      "repo": "https://github.com/propensive/ulysses",
+      "language": "Scala"
+    },
+    {
+      "name": "savagery",
+      "repo": "https://github.com/propensive/savagery",
+      "language": "Scala"
+    },
+    {
+      "name": "proscenium",
+      "repo": "https://github.com/propensive/proscenium",
+      "language": "Scala"
+    },
+    {
+      "name": "polyvinyl",
+      "repo": "https://github.com/propensive/polyvinyl",
+      "url": "https://propensive.com/polyvinyl/",
+      "language": "Scala"
+    },
+    {
+      "name": "polaris",
+      "repo": "https://github.com/propensive/polaris",
+      "language": "Scala"
+    },
+    {
+      "name": "metamorphose",
+      "repo": "https://github.com/propensive/metamorphose",
+      "url": "https://soundness.dev/metamorphose/",
+      "language": "Scala"
+    },
+    {
+      "name": "monotonous",
+      "repo": "https://github.com/propensive/monotonous",
+      "language": "Scala"
+    },
+    {
+      "name": "mosquito",
+      "repo": "https://github.com/propensive/mosquito",
+      "language": "Scala"
+    },
+    {
+      "name": "merino",
+      "repo": "https://github.com/propensive/merino",
+      "language": "Scala"
+    },
+    {
+      "name": "iridescence",
+      "repo": "https://github.com/propensive/iridescence",
+      "url": "https://soundness.dev/iridescence/",
+      "language": "Scala"
+    },
+    {
+      "name": "inimitable",
+      "repo": "https://github.com/propensive/inimitable",
+      "url": "https://soundness.dev/inimitable/",
+      "language": "Scala"
+    },
+    {
+      "name": "phoenicia",
+      "repo": "https://github.com/propensive/phoenicia",
+      "language": "Scala"
+    },
+    {
+      "name": "panopticon",
+      "repo": "https://github.com/propensive/panopticon",
+      "language": "Scala"
+    },
+    {
+      "name": "gastronomy",
+      "repo": "https://github.com/propensive/gastronomy",
+      "url": "https://propensive.com/gastronomy/",
+      "language": "Scala"
+    }
+  ],
   "apps": []
 }

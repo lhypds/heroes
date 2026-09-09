@@ -7,5 +7,515 @@
   "website": "https://dmitrykandalov.com/",
   "own_repos": 105,
   "commits": 12874,
+  "repos": [
+    {
+      "name": "metalgigs",
+      "repo": "https://github.com/dkandalov/metalgigs",
+      "language": "HTML"
+    },
+    {
+      "name": "live-plugin",
+      "repo": "https://github.com/dkandalov/live-plugin",
+      "url": "https://plugins.jetbrains.com/plugin/7282",
+      "language": "Kotlin"
+    },
+    {
+      "name": "dkandalov.github.io",
+      "repo": "https://github.com/dkandalov/dkandalov.github.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "howoldismike2",
+      "repo": "https://github.com/dkandalov/howoldismike2",
+      "language": "HTML"
+    },
+    {
+      "name": "promotion-service-kata",
+      "repo": "https://github.com/dkandalov/promotion-service-kata",
+      "language": "FreeBASIC"
+    },
+    {
+      "name": "tab-shifter",
+      "repo": "https://github.com/dkandalov/tab-shifter",
+      "url": "https://plugins.jetbrains.com/plugin/7475",
+      "language": "Kotlin"
+    },
+    {
+      "name": "limited-wip",
+      "repo": "https://github.com/dkandalov/limited-wip",
+      "url": "https://plugins.jetbrains.com/plugin/7655",
+      "language": "Kotlin"
+    },
+    {
+      "name": "test-progress-bar-intellij-plugin",
+      "repo": "https://github.com/dkandalov/test-progress-bar-intellij-plugin"
+    },
+    {
+      "name": "kotlin-99",
+      "repo": "https://github.com/dkandalov/kotlin-99",
+      "language": "Kotlin"
+    },
+    {
+      "name": "error-handling-in-kotlin",
+      "repo": "https://github.com/dkandalov/error-handling-in-kotlin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ijkl-shortcuts-plugin",
+      "repo": "https://github.com/dkandalov/ijkl-shortcuts-plugin",
+      "url": "https://plugins.jetbrains.com/plugin/9852-ijkl-shortctus",
+      "language": "Kotlin"
+    },
+    {
+      "name": "dir-checksum-kotlin",
+      "repo": "https://github.com/dkandalov/dir-checksum-kotlin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "quick-fix",
+      "repo": "https://github.com/dkandalov/quick-fix",
+      "url": "https://plugins.jetbrains.com/plugin/16366-quick-fix",
+      "language": "Kotlin"
+    },
+    {
+      "name": "pomodoro-tm",
+      "repo": "https://github.com/dkandalov/pomodoro-tm",
+      "url": "https://plugins.jetbrains.com/plugin/4954",
+      "language": "Kotlin"
+    },
+    {
+      "name": "katas",
+      "repo": "https://github.com/dkandalov/katas",
+      "language": "Roff"
+    },
+    {
+      "name": "activity-tracker",
+      "repo": "https://github.com/dkandalov/activity-tracker",
+      "url": "https://plugins.jetbrains.com/plugin/8126?pr=idea",
+      "language": "Kotlin"
+    },
+    {
+      "name": "gilded-rose",
+      "repo": "https://github.com/dkandalov/gilded-rose",
+      "url": "https://www.youtube.com/watch?v=AxxNHKCldzA",
+      "language": "Kotlin"
+    },
+    {
+      "name": "scratch",
+      "repo": "https://github.com/dkandalov/scratch",
+      "language": "Kotlin"
+    },
+    {
+      "name": "hello-KT-17206",
+      "repo": "https://github.com/dkandalov/hello-KT-17206",
+      "language": "Kotlin"
+    },
+    {
+      "name": "aoc-golf-day4-2023",
+      "repo": "https://github.com/dkandalov/aoc-golf-day4-2023",
+      "language": "Kotlin"
+    },
+    {
+      "name": "friday-mario",
+      "repo": "https://github.com/dkandalov/friday-mario",
+      "url": "https://plugins.jetbrains.com/plugin/7599",
+      "language": "Kotlin"
+    },
+    {
+      "name": "man-page-viewer",
+      "repo": "https://github.com/dkandalov/man-page-viewer",
+      "url": "https://plugins.jetbrains.com/plugin/11167-man-page-viewer",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kotlin-failed-line-inspection",
+      "repo": "https://github.com/dkandalov/kotlin-failed-line-inspection",
+      "url": "https://plugins.jetbrains.com/plugin/11943-failed-line-inspection-for-kotlin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "datsok",
+      "repo": "https://github.com/dkandalov/datsok",
+      "language": "Kotlin"
+    },
+    {
+      "name": "tictactoe4k",
+      "repo": "https://github.com/dkandalov/tictactoe4k",
+      "url": "https://www.youtube.com/watch?v=FVvn-aFO--Q",
+      "language": "Kotlin"
+    },
+    {
+      "name": "lsystem-js",
+      "repo": "https://github.com/dkandalov/lsystem-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gilded-rose-service",
+      "repo": "https://github.com/dkandalov/gilded-rose-service",
+      "language": "Kotlin"
+    },
+    {
+      "name": "easy-way-to-create-ij-plugins",
+      "repo": "https://github.com/dkandalov/easy-way-to-create-ij-plugins",
+      "language": "Kotlin"
+    },
+    {
+      "name": "programming-kotlin-with-nothing",
+      "repo": "https://github.com/dkandalov/programming-kotlin-with-nothing",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kotlin-puzzlers",
+      "repo": "https://github.com/dkandalov/kotlin-puzzlers",
+      "language": "Kotlin"
+    },
+    {
+      "name": "intellij-tidalcycles",
+      "repo": "https://github.com/dkandalov/intellij-tidalcycles",
+      "language": "Groovy"
+    },
+    {
+      "name": "limited-wip-for-devs",
+      "repo": "https://github.com/dkandalov/limited-wip-for-devs",
+      "language": "Kotlin"
+    },
+    {
+      "name": "spa-http4k",
+      "repo": "https://github.com/dkandalov/spa-http4k",
+      "language": "Kotlin"
+    },
+    {
+      "name": "nonstdlib",
+      "repo": "https://github.com/dkandalov/nonstdlib",
+      "language": "Kotlin"
+    },
+    {
+      "name": "power-assert-fail",
+      "repo": "https://github.com/dkandalov/power-assert-fail",
+      "language": "Kotlin"
+    },
+    {
+      "name": "table-reader",
+      "repo": "https://github.com/dkandalov/table-reader",
+      "language": "Kotlin"
+    },
+    {
+      "name": "definilizer",
+      "repo": "https://github.com/dkandalov/definilizer",
+      "language": "Java"
+    },
+    {
+      "name": "crypto-order-board",
+      "repo": "https://github.com/dkandalov/crypto-order-board",
+      "language": "Kotlin"
+    },
+    {
+      "name": "parser-combinator-koans",
+      "repo": "https://github.com/dkandalov/parser-combinator-koans",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Parser_Combinator_Koans",
+      "repo": "https://github.com/dkandalov/Parser_Combinator_Koans",
+      "url": "https://stepik.org/course/74183",
+      "language": "Kotlin"
+    },
+    {
+      "name": "parser4k",
+      "repo": "https://github.com/dkandalov/parser4k",
+      "language": "Kotlin"
+    },
+    {
+      "name": "slides-presenter",
+      "repo": "https://github.com/dkandalov/slides-presenter",
+      "url": "https://plugins.jetbrains.com/plugin/10832-slides-presenter",
+      "language": "Kotlin"
+    },
+    {
+      "name": "squasher",
+      "repo": "https://github.com/dkandalov/squasher",
+      "url": "https://dkandalov.github.io/squasher",
+      "language": "Assembly"
+    },
+    {
+      "name": "connect-four",
+      "repo": "https://github.com/dkandalov/connect-four",
+      "language": "Kotlin"
+    },
+    {
+      "name": "coding-dojo-47",
+      "repo": "https://github.com/dkandalov/coding-dojo-47",
+      "language": "Kotlin"
+    },
+    {
+      "name": "regex-matcher",
+      "repo": "https://github.com/dkandalov/regex-matcher",
+      "language": "Kotlin"
+    },
+    {
+      "name": "MarkdownParse",
+      "repo": "https://github.com/dkandalov/MarkdownParse",
+      "language": "Kotlin"
+    },
+    {
+      "name": "scala-native-snake",
+      "repo": "https://github.com/dkandalov/scala-native-snake",
+      "language": "Scala"
+    },
+    {
+      "name": "rust-snake",
+      "repo": "https://github.com/dkandalov/rust-snake",
+      "language": "Rust"
+    },
+    {
+      "name": "kotlin-native-snake",
+      "repo": "https://github.com/dkandalov/kotlin-native-snake",
+      "language": "Kotlin"
+    },
+    {
+      "name": "live-order-board",
+      "repo": "https://github.com/dkandalov/live-order-board",
+      "language": "Java"
+    },
+    {
+      "name": "hello-rsocket",
+      "repo": "https://github.com/dkandalov/hello-rsocket",
+      "language": "Kotlin"
+    },
+    {
+      "name": "show-me-a-tree",
+      "repo": "https://github.com/dkandalov/show-me-a-tree",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graalvm-snake",
+      "repo": "https://github.com/dkandalov/graalvm-snake",
+      "language": "Kotlin"
+    },
+    {
+      "name": "coroutines-explained",
+      "repo": "https://github.com/dkandalov/coroutines-explained",
+      "language": "Kotlin"
+    },
+    {
+      "name": "quick-sort",
+      "repo": "https://github.com/dkandalov/quick-sort",
+      "language": "Kotlin"
+    },
+    {
+      "name": "heap-sort",
+      "repo": "https://github.com/dkandalov/heap-sort",
+      "language": "Kotlin"
+    },
+    {
+      "name": "rosettacode-kotlin",
+      "repo": "https://github.com/dkandalov/rosettacode-kotlin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "binary-search",
+      "repo": "https://github.com/dkandalov/binary-search",
+      "language": "Kotlin"
+    },
+    {
+      "name": "merge-sort",
+      "repo": "https://github.com/dkandalov/merge-sort",
+      "language": "Kotlin"
+    },
+    {
+      "name": "continuous-integration-travis",
+      "repo": "https://github.com/dkandalov/continuous-integration-travis",
+      "url": "https://lab.github.com/githubtraining/continuous-integration-with-travis-ci",
+      "language": "Ruby"
+    },
+    {
+      "name": "michael.js",
+      "repo": "https://github.com/dkandalov/michael.js"
+    },
+    {
+      "name": "go-snake",
+      "repo": "https://github.com/dkandalov/go-snake",
+      "language": "Go"
+    },
+    {
+      "name": "longest-palindromes",
+      "repo": "https://github.com/dkandalov/longest-palindromes",
+      "language": "Kotlin"
+    },
+    {
+      "name": "vcs-reader",
+      "repo": "https://github.com/dkandalov/vcs-reader",
+      "language": "Java"
+    },
+    {
+      "name": "hello-keras",
+      "repo": "https://github.com/dkandalov/hello-keras",
+      "language": "Python"
+    },
+    {
+      "name": "atom-hello-package",
+      "repo": "https://github.com/dkandalov/atom-hello-package",
+      "language": "JavaScript"
+    },
+    {
+      "name": "code-history-mining",
+      "repo": "https://github.com/dkandalov/code-history-mining",
+      "language": "Groovy"
+    },
+    {
+      "name": "football-booking",
+      "repo": "https://github.com/dkandalov/football-booking",
+      "language": "Kotlin"
+    },
+    {
+      "name": "drum-lessons-notes",
+      "repo": "https://github.com/dkandalov/drum-lessons-notes"
+    },
+    {
+      "name": "ijkl-keymaps",
+      "repo": "https://github.com/dkandalov/ijkl-keymaps"
+    },
+    {
+      "name": "http4k-playground",
+      "repo": "https://github.com/dkandalov/http4k-playground",
+      "language": "Kotlin"
+    },
+    {
+      "name": "vcs-reader-examples",
+      "repo": "https://github.com/dkandalov/vcs-reader-examples",
+      "language": "Java"
+    },
+    {
+      "name": "hello-sentient",
+      "repo": "https://github.com/dkandalov/hello-sentient"
+    },
+    {
+      "name": "sentient-exercises",
+      "repo": "https://github.com/dkandalov/sentient-exercises"
+    },
+    {
+      "name": "min-span-graph",
+      "repo": "https://github.com/dkandalov/min-span-graph",
+      "url": "https://dkandalov.github.io/min-span-graph/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "refactorings",
+      "repo": "https://github.com/dkandalov/refactorings",
+      "language": "Groovy"
+    },
+    {
+      "name": "d3-components",
+      "repo": "https://github.com/dkandalov/d3-components",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hello-lscc",
+      "repo": "https://github.com/dkandalov/hello-lscc",
+      "language": "Java"
+    },
+    {
+      "name": "Beautiful-code-best-practice-enterprise-patterns",
+      "repo": "https://github.com/dkandalov/Beautiful-code-best-practice-enterprise-patterns"
+    },
+    {
+      "name": "colorizer",
+      "repo": "https://github.com/dkandalov/colorizer",
+      "language": "Groovy"
+    },
+    {
+      "name": "groovy-beans",
+      "repo": "https://github.com/dkandalov/groovy-beans",
+      "language": "Groovy"
+    },
+    {
+      "name": "code-history-mining-cli",
+      "repo": "https://github.com/dkandalov/code-history-mining-cli"
+    },
+    {
+      "name": "project-treemap",
+      "repo": "https://github.com/dkandalov/project-treemap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "monolob.js",
+      "repo": "https://github.com/dkandalov/monolob.js"
+    },
+    {
+      "name": "c-99-problems",
+      "repo": "https://github.com/dkandalov/c-99-problems",
+      "language": "C++"
+    },
+    {
+      "name": "understanding-computation",
+      "repo": "https://github.com/dkandalov/understanding-computation",
+      "language": "Ruby"
+    },
+    {
+      "name": "BreadShop",
+      "repo": "https://github.com/dkandalov/BreadShop",
+      "language": "Java"
+    },
+    {
+      "name": "lscc-talks-live-plugin",
+      "repo": "https://github.com/dkandalov/lscc-talks-live-plugin",
+      "language": "Groovy"
+    },
+    {
+      "name": "dependencies-graph",
+      "repo": "https://github.com/dkandalov/dependencies-graph",
+      "language": "Groovy"
+    },
+    {
+      "name": "project-histograms",
+      "repo": "https://github.com/dkandalov/project-histograms",
+      "language": "JavaScript"
+    },
+    {
+      "name": "neo-psi",
+      "repo": "https://github.com/dkandalov/neo-psi",
+      "language": "Groovy"
+    },
+    {
+      "name": "game-of-life-3d",
+      "repo": "https://github.com/dkandalov/game-of-life-3d",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hello-webgl",
+      "repo": "https://github.com/dkandalov/hello-webgl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "history-slider-plugin",
+      "repo": "https://github.com/dkandalov/history-slider-plugin",
+      "language": "Groovy"
+    },
+    {
+      "name": "intellij-wordcloud",
+      "repo": "https://github.com/dkandalov/intellij-wordcloud",
+      "language": "JavaScript"
+    },
+    {
+      "name": "d3_in_intellij",
+      "repo": "https://github.com/dkandalov/d3_in_intellij",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fizzbuzz-android",
+      "repo": "https://github.com/dkandalov/fizzbuzz-android",
+      "language": "Java"
+    },
+    {
+      "name": "htmlexport",
+      "repo": "https://github.com/dkandalov/htmlexport",
+      "language": "Java"
+    },
+    {
+      "name": "statemachine",
+      "repo": "https://github.com/dkandalov/statemachine",
+      "language": "Ruby"
+    }
+  ],
   "apps": []
 }

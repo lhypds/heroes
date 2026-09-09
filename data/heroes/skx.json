@@ -6,5 +6,514 @@
   ],
   "own_repos": 122,
   "commits": 14503,
+  "repos": [
+    {
+      "name": "cpmulator",
+      "repo": "https://github.com/skx/cpmulator",
+      "language": "Go"
+    },
+    {
+      "name": "cpm-test",
+      "repo": "https://github.com/skx/cpm-test",
+      "language": "C"
+    },
+    {
+      "name": "cpm-dist",
+      "repo": "https://github.com/skx/cpm-dist",
+      "language": "C"
+    },
+    {
+      "name": "forth",
+      "repo": "https://github.com/skx/forth",
+      "language": "Assembly"
+    },
+    {
+      "name": "skx",
+      "repo": "https://github.com/skx/skx"
+    },
+    {
+      "name": "foth",
+      "repo": "https://github.com/skx/foth",
+      "language": "Go"
+    },
+    {
+      "name": "slisp",
+      "repo": "https://github.com/skx/slisp",
+      "language": "Go"
+    },
+    {
+      "name": "s-lang",
+      "repo": "https://github.com/skx/s-lang",
+      "language": "Go"
+    },
+    {
+      "name": "bfcc",
+      "repo": "https://github.com/skx/bfcc",
+      "url": "https://blog.steve.fi/writing_a_brainfuck_compiler_.html",
+      "language": "Go"
+    },
+    {
+      "name": "math-compiler",
+      "repo": "https://github.com/skx/math-compiler",
+      "language": "Go"
+    },
+    {
+      "name": "org-diary",
+      "repo": "https://github.com/skx/org-diary",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-people",
+      "repo": "https://github.com/skx/org-people",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "auto-sort-lines",
+      "repo": "https://github.com/skx/auto-sort-lines",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-eval",
+      "repo": "https://github.com/skx/org-eval",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-tag-cloud",
+      "repo": "https://github.com/skx/org-tag-cloud",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/skx/dotfiles",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "rss2email",
+      "repo": "https://github.com/skx/rss2email",
+      "language": "Go"
+    },
+    {
+      "name": "purppura",
+      "repo": "https://github.com/skx/purppura",
+      "language": "Go"
+    },
+    {
+      "name": "closure-based-brainfuck-vm",
+      "repo": "https://github.com/skx/closure-based-brainfuck-vm",
+      "language": "Go"
+    },
+    {
+      "name": "yal",
+      "repo": "https://github.com/skx/yal",
+      "language": "Go"
+    },
+    {
+      "name": "labeller",
+      "repo": "https://github.com/skx/labeller",
+      "language": "Go"
+    },
+    {
+      "name": "deployr",
+      "repo": "https://github.com/skx/deployr",
+      "language": "Go"
+    },
+    {
+      "name": "z80-examples",
+      "repo": "https://github.com/skx/z80-examples",
+      "language": "Makefile"
+    },
+    {
+      "name": "github2mr",
+      "repo": "https://github.com/skx/github2mr",
+      "language": "Go"
+    },
+    {
+      "name": "sysbox",
+      "repo": "https://github.com/skx/sysbox",
+      "language": "Go"
+    },
+    {
+      "name": "runme",
+      "repo": "https://github.com/skx/runme",
+      "language": "Go"
+    },
+    {
+      "name": "mpd-web",
+      "repo": "https://github.com/skx/mpd-web",
+      "language": "Go"
+    },
+    {
+      "name": "git-history-2",
+      "repo": "https://github.com/skx/git-history-2",
+      "url": "https://docs.google.com/presentation/d/1DPAKoLHu4cv7bztM9HHaVNnOIyq-vKn6kwfS7x1i9Rg/edit?usp=sharing"
+    },
+    {
+      "name": "git-history-1",
+      "repo": "https://github.com/skx/git-history-1",
+      "url": "https://docs.google.com/presentation/d/1DPAKoLHu4cv7bztM9HHaVNnOIyq-vKn6kwfS7x1i9Rg/edit?usp=sharing"
+    },
+    {
+      "name": "tunneller",
+      "repo": "https://github.com/skx/tunneller",
+      "language": "Go"
+    },
+    {
+      "name": "knownfs",
+      "repo": "https://github.com/skx/knownfs",
+      "language": "Go"
+    },
+    {
+      "name": "lighthouse-of-doom",
+      "repo": "https://github.com/skx/lighthouse-of-doom",
+      "url": "https://steve.fi/Software/lighthouse/",
+      "language": "C"
+    },
+    {
+      "name": "marionette",
+      "repo": "https://github.com/skx/marionette",
+      "language": "Go"
+    },
+    {
+      "name": "rss2hook",
+      "repo": "https://github.com/skx/rss2hook",
+      "language": "Go"
+    },
+    {
+      "name": "puppet-summary",
+      "repo": "https://github.com/skx/puppet-summary",
+      "language": "Go"
+    },
+    {
+      "name": "evalfilter",
+      "repo": "https://github.com/skx/evalfilter",
+      "language": "Go"
+    },
+    {
+      "name": "save-check.el",
+      "repo": "https://github.com/skx/save-check.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "gobasic",
+      "repo": "https://github.com/skx/gobasic",
+      "url": "https://blog.steve.fi/tags/basic/",
+      "language": "Go"
+    },
+    {
+      "name": "ephemeris",
+      "repo": "https://github.com/skx/ephemeris",
+      "url": "https://blog.steve.fi/",
+      "language": "Go"
+    },
+    {
+      "name": "monkey",
+      "repo": "https://github.com/skx/monkey",
+      "language": "Go"
+    },
+    {
+      "name": "z80-cpm-scripting-interpreter",
+      "repo": "https://github.com/skx/z80-cpm-scripting-interpreter",
+      "language": "Makefile"
+    },
+    {
+      "name": "simple-vpn",
+      "repo": "https://github.com/skx/simple-vpn",
+      "language": "Go"
+    },
+    {
+      "name": "pass",
+      "repo": "https://github.com/skx/pass",
+      "language": "Shell"
+    },
+    {
+      "name": "overseer",
+      "repo": "https://github.com/skx/overseer",
+      "language": "Go"
+    },
+    {
+      "name": "aws-utils",
+      "repo": "https://github.com/skx/aws-utils",
+      "language": "Go"
+    },
+    {
+      "name": "org-nested-links",
+      "repo": "https://github.com/skx/org-nested-links",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "z80retroshield",
+      "repo": "https://github.com/skx/z80retroshield",
+      "language": "Shell"
+    },
+    {
+      "name": "critical",
+      "repo": "https://github.com/skx/critical",
+      "language": "Go"
+    },
+    {
+      "name": "alphavet",
+      "repo": "https://github.com/skx/alphavet",
+      "url": "https://blog.steve.fi/alphabetical_linting___.html",
+      "language": "Go"
+    },
+    {
+      "name": "toy-language-benchmarks",
+      "repo": "https://github.com/skx/toy-language-benchmarks",
+      "language": "Go"
+    },
+    {
+      "name": "go.vm",
+      "repo": "https://github.com/skx/go.vm",
+      "language": "Go"
+    },
+    {
+      "name": "simple.vm",
+      "repo": "https://github.com/skx/simple.vm",
+      "language": "C"
+    },
+    {
+      "name": "templer",
+      "repo": "https://github.com/skx/templer",
+      "language": "Perl"
+    },
+    {
+      "name": "github-action-publish-binaries",
+      "repo": "https://github.com/skx/github-action-publish-binaries",
+      "language": "Shell"
+    },
+    {
+      "name": "org-worklog",
+      "repo": "https://github.com/skx/org-worklog"
+    },
+    {
+      "name": "asql",
+      "repo": "https://github.com/skx/asql",
+      "url": "https://steve.fi/Software/asql/",
+      "language": "Perl"
+    },
+    {
+      "name": "subcommands",
+      "repo": "https://github.com/skx/subcommands",
+      "language": "Go"
+    },
+    {
+      "name": "aws-list",
+      "repo": "https://github.com/skx/aws-list"
+    },
+    {
+      "name": "dns-api-go",
+      "repo": "https://github.com/skx/dns-api-go",
+      "language": "Go"
+    },
+    {
+      "name": "z80-formatter",
+      "repo": "https://github.com/skx/z80-formatter",
+      "language": "Perl"
+    },
+    {
+      "name": "lexing-parsing-linting-stuffs",
+      "repo": "https://github.com/skx/lexing-parsing-linting-stuffs",
+      "language": "Python"
+    },
+    {
+      "name": "implant",
+      "repo": "https://github.com/skx/implant",
+      "language": "Go"
+    },
+    {
+      "name": "linux-security-modules",
+      "repo": "https://github.com/skx/linux-security-modules",
+      "language": "C"
+    },
+    {
+      "name": "esp8266",
+      "repo": "https://github.com/skx/esp8266",
+      "language": "C++"
+    },
+    {
+      "name": "remotehttp",
+      "repo": "https://github.com/skx/remotehttp",
+      "language": "Go"
+    },
+    {
+      "name": "kpie",
+      "repo": "https://github.com/skx/kpie",
+      "language": "C"
+    },
+    {
+      "name": "assembler",
+      "repo": "https://github.com/skx/assembler",
+      "language": "Go"
+    },
+    {
+      "name": "webmail",
+      "repo": "https://github.com/skx/webmail",
+      "language": "Go"
+    },
+    {
+      "name": "CGI--Application--Plugin--Throttle",
+      "repo": "https://github.com/skx/CGI--Application--Plugin--Throttle",
+      "language": "Perl"
+    },
+    {
+      "name": "turtle",
+      "repo": "https://github.com/skx/turtle",
+      "language": "Go"
+    },
+    {
+      "name": "github-action-tester",
+      "repo": "https://github.com/skx/github-action-tester",
+      "language": "Shell"
+    },
+    {
+      "name": "github-action-build",
+      "repo": "https://github.com/skx/github-action-build",
+      "language": "Shell"
+    },
+    {
+      "name": "dhcp.io",
+      "repo": "https://github.com/skx/dhcp.io",
+      "language": "Perl"
+    },
+    {
+      "name": "release-test",
+      "repo": "https://github.com/skx/release-test",
+      "url": "https://github.com/skx/github-action-publish-binaries",
+      "language": "Shell"
+    },
+    {
+      "name": "markdownshare",
+      "repo": "https://github.com/skx/markdownshare",
+      "language": "Go"
+    },
+    {
+      "name": "devopswithdocker.com",
+      "repo": "https://github.com/skx/devopswithdocker.com",
+      "url": "https://devopswithdocker.com",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "httpd",
+      "repo": "https://github.com/skx/httpd",
+      "language": "Go"
+    },
+    {
+      "name": "arduino-mega-z80-simplest",
+      "repo": "https://github.com/skx/arduino-mega-z80-simplest",
+      "language": "C++"
+    },
+    {
+      "name": "chronicle2",
+      "repo": "https://github.com/skx/chronicle2",
+      "language": "Perl"
+    },
+    {
+      "name": "sysadmin-util",
+      "repo": "https://github.com/skx/sysadmin-util",
+      "language": "Perl"
+    },
+    {
+      "name": "da-serverspec",
+      "repo": "https://github.com/skx/da-serverspec",
+      "language": "Ruby"
+    },
+    {
+      "name": "sos",
+      "repo": "https://github.com/skx/sos",
+      "language": "Go"
+    },
+    {
+      "name": "maildir-tools",
+      "repo": "https://github.com/skx/maildir-tools",
+      "url": "https://blog.steve.fi/tags/maildir-utils/",
+      "language": "Go"
+    },
+    {
+      "name": "go-experiments",
+      "repo": "https://github.com/skx/go-experiments",
+      "language": "Go"
+    },
+    {
+      "name": "Buffalo-220-NAS",
+      "repo": "https://github.com/skx/Buffalo-220-NAS",
+      "language": "Shell"
+    },
+    {
+      "name": "run-directory",
+      "repo": "https://github.com/skx/run-directory",
+      "language": "Go"
+    },
+    {
+      "name": "headerfile",
+      "repo": "https://github.com/skx/headerfile",
+      "language": "Go"
+    },
+    {
+      "name": "pam_pwnd",
+      "repo": "https://github.com/skx/pam_pwnd",
+      "url": "https://blog.steve.fi/tags/haveibeenpwned/",
+      "language": "C"
+    },
+    {
+      "name": "kilua",
+      "repo": "https://github.com/skx/kilua",
+      "language": "C++"
+    },
+    {
+      "name": "bookmarks.public",
+      "repo": "https://github.com/skx/bookmarks.public",
+      "language": "JavaScript"
+    },
+    {
+      "name": "golang-metrics",
+      "repo": "https://github.com/skx/golang-metrics",
+      "language": "Go"
+    },
+    {
+      "name": "mod_blacklist",
+      "repo": "https://github.com/skx/mod_blacklist",
+      "language": "C"
+    },
+    {
+      "name": "yawns",
+      "repo": "https://github.com/skx/yawns",
+      "language": "Perl"
+    },
+    {
+      "name": "thyme",
+      "repo": "https://github.com/skx/thyme",
+      "language": "Perl"
+    },
+    {
+      "name": "markdownshare.com",
+      "repo": "https://github.com/skx/markdownshare.com",
+      "language": "Perl"
+    },
+    {
+      "name": "dns-api.org",
+      "repo": "https://github.com/skx/dns-api.org",
+      "language": "Perl"
+    },
+    {
+      "name": "purple",
+      "repo": "https://github.com/skx/purple",
+      "language": "Perl"
+    },
+    {
+      "name": "docker-api-gateway",
+      "repo": "https://github.com/skx/docker-api-gateway",
+      "language": "Go"
+    },
+    {
+      "name": "e-comments",
+      "repo": "https://github.com/skx/e-comments",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tweaked.io",
+      "repo": "https://github.com/skx/tweaked.io",
+      "language": "JavaScript"
+    }
+  ],
   "apps": []
 }

@@ -8,5 +8,528 @@
   "bio": "• Founder + CEO of Socket (@SocketDev) • Started @webtorrent and @standard • 100+ open source packages on npm • Stanford lecturer for Web Security",
   "own_repos": 133,
   "commits": 12239,
+  "repos": [
+    {
+      "name": "bitmidi.com",
+      "repo": "https://github.com/feross/bitmidi.com",
+      "url": "https://bitmidi.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/feross/dotfiles",
+      "url": "https://feross.org",
+      "language": "Shell"
+    },
+    {
+      "name": "express-sitemap-xml",
+      "repo": "https://github.com/feross/express-sitemap-xml",
+      "language": "JavaScript"
+    },
+    {
+      "name": "buffer",
+      "repo": "https://github.com/feross/buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "feross.org",
+      "repo": "https://github.com/feross/feross.org",
+      "url": "https://feross.org",
+      "language": "HTML"
+    },
+    {
+      "name": "base64-js",
+      "repo": "https://github.com/feross/base64-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hostile",
+      "repo": "https://github.com/feross/hostile",
+      "language": "JavaScript"
+    },
+    {
+      "name": "connectivity",
+      "repo": "https://github.com/feross/connectivity",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-peer",
+      "repo": "https://github.com/feross/simple-peer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "arch",
+      "repo": "https://github.com/feross/arch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cross-zip",
+      "repo": "https://github.com/feross/cross-zip",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timidity",
+      "repo": "https://github.com/feross/timidity",
+      "url": "https://bitmidi.com",
+      "language": "Shell"
+    },
+    {
+      "name": "chrome-dgram",
+      "repo": "https://github.com/feross/chrome-dgram",
+      "url": "https://webtorrent.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chrome-net",
+      "repo": "https://github.com/feross/chrome-net",
+      "url": "https://webtorrent.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "TheAnnoyingSite.com",
+      "repo": "https://github.com/feross/TheAnnoyingSite.com",
+      "url": "https://theannoyingsite.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "queue-microtask",
+      "repo": "https://github.com/feross/queue-microtask",
+      "url": "https://feross.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hyperscript-attribute-to-property",
+      "repo": "https://github.com/feross/hyperscript-attribute-to-property",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yt-player",
+      "repo": "https://github.com/feross/yt-player",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drag-drop",
+      "repo": "https://github.com/feross/drag-drop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-sha256",
+      "repo": "https://github.com/feross/simple-sha256",
+      "language": "JavaScript"
+    },
+    {
+      "name": "thanks",
+      "repo": "https://github.com/feross/thanks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "safe-buffer",
+      "repo": "https://github.com/feross/safe-buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-pull-or-clone",
+      "repo": "https://github.com/feross/git-pull-or-clone",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-get",
+      "repo": "https://github.com/feross/simple-get",
+      "language": "JavaScript"
+    },
+    {
+      "name": "speakeasyjs.com",
+      "repo": "https://github.com/feross/speakeasyjs.com",
+      "url": "https://speakeasyjs.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "run-series",
+      "repo": "https://github.com/feross/run-series",
+      "language": "JavaScript"
+    },
+    {
+      "name": "run-parallel",
+      "repo": "https://github.com/feross/run-parallel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "run-auto",
+      "repo": "https://github.com/feross/run-auto",
+      "language": "JavaScript"
+    },
+    {
+      "name": "run-parallel-limit",
+      "repo": "https://github.com/feross/run-parallel-limit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "studynotes.org",
+      "repo": "https://github.com/feross/studynotes.org",
+      "url": "https://www.apstudynotes.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-websocket",
+      "repo": "https://github.com/feross/simple-websocket",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cache-chunk-store",
+      "repo": "https://github.com/feross/cache-chunk-store",
+      "language": "JavaScript"
+    },
+    {
+      "name": "immediate-chunk-store",
+      "repo": "https://github.com/feross/immediate-chunk-store",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mad-science-bot",
+      "repo": "https://github.com/feross/mad-science-bot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "play.cash",
+      "repo": "https://github.com/feross/play.cash",
+      "url": "https://play.cash",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reddit",
+      "repo": "https://github.com/feross/reddit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chunk-store-stream",
+      "repo": "https://github.com/feross/chunk-store-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awesome-mad-science",
+      "repo": "https://github.com/feross/awesome-mad-science"
+    },
+    {
+      "name": "unmute-ios-audio",
+      "repo": "https://github.com/feross/unmute-ios-audio",
+      "url": "https://bitmidi.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "conferences",
+      "repo": "https://github.com/feross/conferences",
+      "url": "https://feross.org"
+    },
+    {
+      "name": "cs253.stanford.edu",
+      "repo": "https://github.com/feross/cs253.stanford.edu",
+      "url": "https://cs253.stanford.edu",
+      "language": "JavaScript"
+    },
+    {
+      "name": "config",
+      "repo": "https://github.com/feross/config",
+      "url": "https://feross.org",
+      "language": "HTML"
+    },
+    {
+      "name": "multistream",
+      "repo": "https://github.com/feross/multistream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "is-buffer",
+      "repo": "https://github.com/feross/is-buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ieee754",
+      "repo": "https://github.com/feross/ieee754",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clipboard-copy",
+      "repo": "https://github.com/feross/clipboard-copy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "last-fm",
+      "repo": "https://github.com/feross/last-fm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "render-media",
+      "repo": "https://github.com/feross/render-media",
+      "url": "https://webtorrent.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stream-to-blob",
+      "repo": "https://github.com/feross/stream-to-blob",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mediasource",
+      "repo": "https://github.com/feross/mediasource",
+      "language": "JavaScript"
+    },
+    {
+      "name": "load-script2",
+      "repo": "https://github.com/feross/load-script2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "p2p-graph",
+      "repo": "https://github.com/feross/p2p-graph",
+      "language": "JavaScript"
+    },
+    {
+      "name": "login-with-twitter",
+      "repo": "https://github.com/feross/login-with-twitter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typedarray-to-buffer",
+      "repo": "https://github.com/feross/typedarray-to-buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spoof",
+      "repo": "https://github.com/feross/spoof",
+      "url": "https://feross.org/spoofmac/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fromentries",
+      "repo": "https://github.com/feross/fromentries",
+      "language": "JavaScript"
+    },
+    {
+      "name": "re-emitter",
+      "repo": "https://github.com/feross/re-emitter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "run-waterfall",
+      "repo": "https://github.com/feross/run-waterfall",
+      "language": "JavaScript"
+    },
+    {
+      "name": "freepats",
+      "repo": "https://github.com/feross/freepats",
+      "url": "https://bitmidi.com",
+      "language": "Shell"
+    },
+    {
+      "name": "objection-slug",
+      "repo": "https://github.com/feross/objection-slug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "available",
+      "repo": "https://github.com/feross/available",
+      "language": "JavaScript"
+    },
+    {
+      "name": "magickeyboard.io",
+      "repo": "https://github.com/feross/magickeyboard.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cyberhobo",
+      "repo": "https://github.com/feross/cyberhobo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nagger",
+      "repo": "https://github.com/feross/nagger",
+      "language": "JavaScript"
+    },
+    {
+      "name": "function-with-timeout",
+      "repo": "https://github.com/feross/function-with-timeout",
+      "language": "JavaScript"
+    },
+    {
+      "name": "downgrade",
+      "repo": "https://github.com/feross/downgrade",
+      "language": "JavaScript"
+    },
+    {
+      "name": "get-package-readme",
+      "repo": "https://github.com/feross/get-package-readme",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chrome-portfinder",
+      "repo": "https://github.com/feross/chrome-portfinder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "call-log",
+      "repo": "https://github.com/feross/call-log",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blob-to-buffer",
+      "repo": "https://github.com/feross/blob-to-buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "funding",
+      "repo": "https://github.com/feross/funding",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-feross",
+      "repo": "https://github.com/feross/node-feross",
+      "language": "JavaScript"
+    },
+    {
+      "name": "feross-card",
+      "repo": "https://github.com/feross/feross-card",
+      "url": "https://feross.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "capture-frame",
+      "repo": "https://github.com/feross/capture-frame",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zero-fill",
+      "repo": "https://github.com/feross/zero-fill",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unlimited",
+      "repo": "https://github.com/feross/unlimited",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-concat",
+      "repo": "https://github.com/feross/simple-concat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stream-with-known-length-to-buffer",
+      "repo": "https://github.com/feross/stream-with-known-length-to-buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oculus-drone",
+      "repo": "https://github.com/feross/oculus-drone",
+      "language": "C"
+    },
+    {
+      "name": "electron-workshop",
+      "repo": "https://github.com/feross/electron-workshop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "memo-async-lru",
+      "repo": "https://github.com/feross/memo-async-lru",
+      "language": "JavaScript"
+    },
+    {
+      "name": "async-lru",
+      "repo": "https://github.com/feross/async-lru",
+      "language": "JavaScript"
+    },
+    {
+      "name": "location-history",
+      "repo": "https://github.com/feross/location-history",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cpus",
+      "repo": "https://github.com/feross/cpus",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stream-to-blob-url",
+      "repo": "https://github.com/feross/stream-to-blob-url",
+      "language": "JavaScript"
+    },
+    {
+      "name": "string-to-stream",
+      "repo": "https://github.com/feross/string-to-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vlc-command",
+      "repo": "https://github.com/feross/vlc-command",
+      "language": "JavaScript"
+    },
+    {
+      "name": "preload-img",
+      "repo": "https://github.com/feross/preload-img",
+      "language": "JavaScript"
+    },
+    {
+      "name": "color-scheme-change",
+      "repo": "https://github.com/feross/color-scheme-change",
+      "url": "https://bitmidi.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beepbeep",
+      "repo": "https://github.com/feross/beepbeep",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zelda",
+      "repo": "https://github.com/feross/zelda",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bg-sound",
+      "repo": "https://github.com/feross/bg-sound",
+      "url": "https://bitmidi.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ytinstant.com",
+      "repo": "https://github.com/feross/ytinstant.com",
+      "url": "https://ytinstant.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "filldisk.com",
+      "repo": "https://github.com/feross/filldisk.com",
+      "language": "HTML"
+    },
+    {
+      "name": "emuspin.com",
+      "repo": "https://github.com/feross/emuspin.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "BrainGrinder",
+      "repo": "https://github.com/feross/BrainGrinder",
+      "url": "https://feross.org/hacks/braingrinder",
+      "language": "CSS"
+    },
+    {
+      "name": "whiteboard",
+      "repo": "https://github.com/feross/whiteboard",
+      "language": "JavaScript"
+    },
+    {
+      "name": "peerdb",
+      "repo": "https://github.com/feross/peerdb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chrome-dns",
+      "repo": "https://github.com/feross/chrome-dns",
+      "url": "https://webtorrent.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/feross/.github"
+    }
+  ],
   "apps": []
 }

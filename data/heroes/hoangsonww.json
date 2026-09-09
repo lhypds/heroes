@@ -8,5 +8,607 @@
   "bio": "swe @ tiktok & unc-ch graduate",
   "own_repos": 117,
   "commits": 22047,
+  "repos": [
+    {
+      "name": "Claude-Code-Agent-Monitor",
+      "repo": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor",
+      "url": "https://hoangsonww.github.io/Claude-Code-Agent-Monitor/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Threadline-RealTime-Collab",
+      "repo": "https://github.com/hoangsonww/Threadline-RealTime-Collab",
+      "url": "https://threadline-rtc.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Diffuse-Native-Apps",
+      "repo": "https://github.com/hoangsonww/Diffuse-Native-Apps",
+      "url": "https://hoangsonww.github.io/Diffuse-Native-Apps/",
+      "language": "Swift"
+    },
+    {
+      "name": "Forge-Agentic-Coding-CLI",
+      "repo": "https://github.com/hoangsonww/Forge-Agentic-Coding-CLI",
+      "url": "https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "AI-News-Briefing",
+      "repo": "https://github.com/hoangsonww/AI-News-Briefing",
+      "url": "https://hoangsonww.github.io/AI-News-Briefing/",
+      "language": "Shell"
+    },
+    {
+      "name": "EstateWise-Chapel-Hill-Chatbot",
+      "repo": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot",
+      "url": "https://estatewise.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "WealthWise-Finance-Tracker",
+      "repo": "https://github.com/hoangsonww/WealthWise-Finance-Tracker",
+      "url": "https://wealthwisefinancial.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PetSwipe-Match-App",
+      "repo": "https://github.com/hoangsonww/PetSwipe-Match-App",
+      "url": "https://petswipe.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SymptomSync-Health-App",
+      "repo": "https://github.com/hoangsonww/SymptomSync-Health-App",
+      "url": "https://symptomsync.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "AI-Gov-Content-Curator",
+      "repo": "https://github.com/hoangsonww/AI-Gov-Content-Curator",
+      "url": "https://synthoraai.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "AI-RAG-Assistant-Chatbot",
+      "repo": "https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot",
+      "url": "https://lumina-david.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "AI-Agents-Orchestrator",
+      "repo": "https://github.com/hoangsonww/AI-Agents-Orchestrator",
+      "url": "https://hoangsonww.github.io/AI-Agents-Orchestrator/",
+      "language": "Python"
+    },
+    {
+      "name": "YouTube-Success-Prediction-ML",
+      "repo": "https://github.com/hoangsonww/YouTube-Success-Prediction-ML",
+      "url": "https://hoangsonww.github.io/YouTube-Success-Prediction-ML/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Spot-the-Scam-AI-Job-Fraud",
+      "repo": "https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud",
+      "url": "https://hoangsonww.github.io/Spot-the-Scam-AI-Job-Fraud/",
+      "language": "Python"
+    },
+    {
+      "name": "MetaWave-MP3-App",
+      "repo": "https://github.com/hoangsonww/MetaWave-MP3-App",
+      "url": "https://metawave.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Collabify-Project-Manager",
+      "repo": "https://github.com/hoangsonww/Collabify-Project-Manager",
+      "url": "https://collabify-pm.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Customizable-AI-Chatbot",
+      "repo": "https://github.com/hoangsonww/Customizable-AI-Chatbot",
+      "url": "https://customizable-ai-chatbot.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Meadows-Social-Media",
+      "repo": "https://github.com/hoangsonww/Meadows-Social-Media",
+      "url": "https://meadows.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Boxed-Inventory-App",
+      "repo": "https://github.com/hoangsonww/Boxed-Inventory-App",
+      "url": "https://boxed-app.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Urlvy-URL-Shortener-App",
+      "repo": "https://github.com/hoangsonww/Urlvy-URL-Shortener-App",
+      "url": "https://urlvy.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "DevVerse-SWE-Blog",
+      "repo": "https://github.com/hoangsonww/DevVerse-SWE-Blog",
+      "url": "https://devverse-swe.vercel.app",
+      "language": "MDX"
+    },
+    {
+      "name": "MermaidGenie-UML-Diagram-App",
+      "repo": "https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App",
+      "url": "https://mermaidgenie.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "End-to-End-Data-Pipeline",
+      "repo": "https://github.com/hoangsonww/End-to-End-Data-Pipeline",
+      "url": "https://hoangsonww.github.io/End-to-End-Data-Pipeline/",
+      "language": "Python"
+    },
+    {
+      "name": "Agentic-AI-Pipeline",
+      "repo": "https://github.com/hoangsonww/Agentic-AI-Pipeline",
+      "url": "https://hoangsonww.github.io/Agentic-AI-Pipeline",
+      "language": "Python"
+    },
+    {
+      "name": "RAG-LangChain-AI-System",
+      "repo": "https://github.com/hoangsonww/RAG-LangChain-AI-System",
+      "url": "https://hoangsonww.github.io/RAG-LangChain-AI-System/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "2048-Game",
+      "repo": "https://github.com/hoangsonww/2048-Game",
+      "url": "https://the-2048.netlify.app/",
+      "language": "Swift"
+    },
+    {
+      "name": "Task-Manager-ReactNative",
+      "repo": "https://github.com/hoangsonww/Task-Manager-ReactNative",
+      "url": "https://hoangsonww.github.io/Task-Manager-ReactNative/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "AI-ML-Classifiers",
+      "repo": "https://github.com/hoangsonww/AI-ML-Classifiers",
+      "url": "https://ai-ml-info.vercel.app",
+      "language": "Python"
+    },
+    {
+      "name": "LatticeDB-NextGen-DBMS",
+      "repo": "https://github.com/hoangsonww/LatticeDB-NextGen-DBMS",
+      "url": "https://hoangsonww.github.io/LatticeDB-NextGen-DBMS/",
+      "language": "C++"
+    },
+    {
+      "name": "DocuThinker-AI-App",
+      "repo": "https://github.com/hoangsonww/DocuThinker-AI-App",
+      "url": "https://docuthinker.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Moodify-Emotion-Music-App",
+      "repo": "https://github.com/hoangsonww/Moodify-Emotion-Music-App",
+      "url": "https://moodify-app.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Budget-Management-Backend-API",
+      "repo": "https://github.com/hoangsonww/Budget-Management-Backend-API",
+      "url": "https://hoangsonww.github.io/Budget-Management-Backend-API/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Employee-Management-Fullstack-App",
+      "repo": "https://github.com/hoangsonww/Employee-Management-Fullstack-App",
+      "url": "https://hoangsonww.github.io/Employee-Management-Fullstack-App/",
+      "language": "Java"
+    },
+    {
+      "name": "Post-Analyzer-Webserver",
+      "repo": "https://github.com/hoangsonww/Post-Analyzer-Webserver",
+      "url": "https://hoangsonww.github.io/Post-Analyzer-Webserver/",
+      "language": "Go"
+    },
+    {
+      "name": "ToDo-App-NextJS-Fullstack",
+      "repo": "https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack",
+      "url": "https://flowlist-app.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ClipChronicle-Cross-Platform-App",
+      "repo": "https://github.com/hoangsonww/ClipChronicle-Cross-Platform-App",
+      "url": "https://clipchronicle.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "StudySync-Study-Buddy-App",
+      "repo": "https://github.com/hoangsonww/StudySync-Study-Buddy-App",
+      "url": "https://study-sync-app.vercel.app",
+      "language": "Vue"
+    },
+    {
+      "name": "The-Pokedex-Database",
+      "repo": "https://github.com/hoangsonww/The-Pokedex-Database",
+      "url": "https://pokedex-db.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "The-Maze-Game",
+      "repo": "https://github.com/hoangsonww/The-Maze-Game",
+      "url": "https://the-maze-game.onrender.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Flappy-Bird-Game",
+      "repo": "https://github.com/hoangsonww/Flappy-Bird-Game",
+      "url": "https://hoangsonww.github.io/Flappy-Bird-Game/",
+      "language": "Swift"
+    },
+    {
+      "name": "Tic-Tac-Toe-Fullstack-Game",
+      "repo": "https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game",
+      "url": "https://tictactoe-ai-app.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Learning-Management-System-Fullstack",
+      "repo": "https://github.com/hoangsonww/Learning-Management-System-Fullstack",
+      "url": "https://hoangsonww.github.io/Learning-Management-System-Fullstack/",
+      "language": "HCL"
+    },
+    {
+      "name": "CollabNote-Fullstack-App",
+      "repo": "https://github.com/hoangsonww/CollabNote-Fullstack-App",
+      "url": "https://collabnote-app.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "AegisVision-Computer-Vision-System",
+      "repo": "https://github.com/hoangsonww/AegisVision-Computer-Vision-System",
+      "url": "https://hoangsonww.github.io/AegisVision-Computer-Vision-System/",
+      "language": "Go"
+    },
+    {
+      "name": "Library-Management-Backend",
+      "repo": "https://github.com/hoangsonww/Library-Management-Backend",
+      "url": "https://hoangsonww.github.io/Library-Management-Backend/",
+      "language": "Go"
+    },
+    {
+      "name": "GitIntel-MCP-Server",
+      "repo": "https://github.com/hoangsonww/GitIntel-MCP-Server",
+      "url": "https://hoangsonww.github.io/GitIntel-MCP-Server/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PuzzleForge-Game-Hub",
+      "repo": "https://github.com/hoangsonww/PuzzleForge-Game-Hub",
+      "url": "https://puzzlesforge.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PantryPal-Streamlit-App",
+      "repo": "https://github.com/hoangsonww/PantryPal-Streamlit-App",
+      "url": "https://pantrypal-app.streamlit.app",
+      "language": "Python"
+    },
+    {
+      "name": "The-MovieVerse-Database",
+      "repo": "https://github.com/hoangsonww/The-MovieVerse-Database",
+      "url": "https://movie-verse.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Image-Video-Tools",
+      "repo": "https://github.com/hoangsonww/Image-Video-Tools",
+      "url": "https://image-video-tools.onrender.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MERN-Stack-Ecommerce-App",
+      "repo": "https://github.com/hoangsonww/MERN-Stack-Ecommerce-App",
+      "url": "https://fusion-ecommerce-app.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "JWT-Module",
+      "repo": "https://github.com/hoangsonww/JWT-Module",
+      "url": "https://hoangsonww.github.io/JWT-Module/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "FRED-Data-Analysis",
+      "repo": "https://github.com/hoangsonww/FRED-Data-Analysis",
+      "url": "https://fred-data-analysis.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ShadowVault-Decentralized-Backup-Agent",
+      "repo": "https://github.com/hoangsonww/ShadowVault-Decentralized-Backup-Agent",
+      "url": "https://hoangsonww.github.io/ShadowVault-Decentralized-Backup-Agent/",
+      "language": "Go"
+    },
+    {
+      "name": "Passwordless-Auth-Rust",
+      "repo": "https://github.com/hoangsonww/Passwordless-Auth-Rust",
+      "url": "https://hoangsonww.github.io/Passwordless-Auth-Rust/",
+      "language": "Rust"
+    },
+    {
+      "name": "ReproVM-Virtual-Machine",
+      "repo": "https://github.com/hoangsonww/ReproVM-Virtual-Machine",
+      "url": "https://hoangsonww.github.io/ReproVM-Virtual-Machine/",
+      "language": "C"
+    },
+    {
+      "name": "SQL-Mongo-Query-Converter",
+      "repo": "https://github.com/hoangsonww/SQL-Mongo-Query-Converter",
+      "url": "https://pypi.org/project/sql-mongo-converter/",
+      "language": "Python"
+    },
+    {
+      "name": "GhostCache-API-Cache",
+      "repo": "https://github.com/hoangsonww/GhostCache-API-Cache",
+      "url": "https://npmjs.com/package/ghost-cache",
+      "language": "TypeScript"
+    },
+    {
+      "name": "GhostIO-Invisible-Data-Prefetch",
+      "repo": "https://github.com/hoangsonww/GhostIO-Invisible-Data-Prefetch",
+      "url": "https://npmjs.com/package/ghost-io",
+      "language": "TypeScript"
+    },
+    {
+      "name": "FastFetch-API-Fetch-Enhancer",
+      "repo": "https://github.com/hoangsonww/FastFetch-API-Fetch-Enhancer",
+      "url": "https://npmjs.com/package/@hoangsonw/fast-fetch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Time-Warp-Manipulation-Library",
+      "repo": "https://github.com/hoangsonww/Time-Warp-Manipulation-Library",
+      "url": "https://npmjs.com/package/time-warp-manipulation",
+      "language": "TypeScript"
+    },
+    {
+      "name": "EnvGuard-Env-Validator",
+      "repo": "https://github.com/hoangsonww/EnvGuard-Env-Validator",
+      "url": "https://npmjs.com/package/@hoangsonw/env-guard",
+      "language": "JavaScript"
+    },
+    {
+      "name": "RecipeGenie-App",
+      "repo": "https://github.com/hoangsonww/RecipeGenie-App",
+      "url": "https://recipe-genie.netlify.app/",
+      "language": "Swift"
+    },
+    {
+      "name": "The-StickyNotes-App",
+      "repo": "https://github.com/hoangsonww/The-StickyNotes-App",
+      "url": "https://stickynotes-app.onrender.com/",
+      "language": "Java"
+    },
+    {
+      "name": "WeatherMate-App",
+      "repo": "https://github.com/hoangsonww/WeatherMate-App",
+      "url": "https://the-weathermate.vercel.app/",
+      "language": "Java"
+    },
+    {
+      "name": "Akari-Puzzle-Game-JavaFX",
+      "repo": "https://github.com/hoangsonww/Akari-Puzzle-Game-JavaFX",
+      "url": "https://hoangsonww.github.io/Akari-Puzzle-Game-JavaFX/",
+      "language": "Java"
+    },
+    {
+      "name": "Game-2048-JavaFX",
+      "repo": "https://github.com/hoangsonww/Game-2048-JavaFX",
+      "url": "https://hoangsonww.github.io/Game-2048-JavaFX/",
+      "language": "Java"
+    },
+    {
+      "name": "Space-Invader-Game-JavaFX",
+      "repo": "https://github.com/hoangsonww/Space-Invader-Game-JavaFX",
+      "url": "https://hoangsonww.github.io/Space-Invader-Game-JavaFX/",
+      "language": "Java"
+    },
+    {
+      "name": "Bouncing-Ball-Game-JavaFX",
+      "repo": "https://github.com/hoangsonww/Bouncing-Ball-Game-JavaFX",
+      "url": "https://hoangsonww.github.io/Bouncing-Ball-Game-JavaFX/",
+      "language": "Java"
+    },
+    {
+      "name": "Software-Design-Patterns",
+      "repo": "https://github.com/hoangsonww/Software-Design-Patterns",
+      "url": "https://hoangsonww.github.io/Software-Design-Patterns/",
+      "language": "Java"
+    },
+    {
+      "name": "NuCalc-Calculator-App",
+      "repo": "https://github.com/hoangsonww/NuCalc-Calculator-App",
+      "url": "https://nucalc-app.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Graph-Data-Structure",
+      "repo": "https://github.com/hoangsonww/Graph-Data-Structure",
+      "url": "https://hoangsonww.github.io/Graph-Data-Structure/",
+      "language": "Java"
+    },
+    {
+      "name": "Queue-And-HashTable-DSA",
+      "repo": "https://github.com/hoangsonww/Queue-And-HashTable-DSA",
+      "url": "https://hoangsonww.github.io/Queue-And-HashTable-DSA/",
+      "language": "Java"
+    },
+    {
+      "name": "Sorting-Algorithms-DSA",
+      "repo": "https://github.com/hoangsonww/Sorting-Algorithms-DSA",
+      "url": "https://hoangsonww.github.io/Sorting-Algorithms-DSA/",
+      "language": "Java"
+    },
+    {
+      "name": "Binary-Search-Tree-DSA",
+      "repo": "https://github.com/hoangsonww/Binary-Search-Tree-DSA",
+      "url": "https://hoangsonww.github.io/Binary-Search-Tree-DSA/",
+      "language": "Java"
+    },
+    {
+      "name": "C-Shell-Implementation",
+      "repo": "https://github.com/hoangsonww/C-Shell-Implementation",
+      "url": "https://hoangsonww.github.io/C-Shell-Implementation/",
+      "language": "C++"
+    },
+    {
+      "name": "Digital-Design-Labs",
+      "repo": "https://github.com/hoangsonww/Digital-Design-Labs",
+      "url": "https://hoangsonww.github.io/Digital-Design-Labs/",
+      "language": "Assembly"
+    },
+    {
+      "name": "Amazon-Reviews-Analysis",
+      "repo": "https://github.com/hoangsonww/Amazon-Reviews-Analysis",
+      "url": "https://hoangsonww.github.io/Amazon-Reviews-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Earthquake-R-Analysis",
+      "repo": "https://github.com/hoangsonww/Earthquake-R-Analysis",
+      "url": "https://hoangsonww.github.io/Earthquake-R-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "CO2-Global-Emissions-Analysis",
+      "repo": "https://github.com/hoangsonww/CO2-Global-Emissions-Analysis",
+      "url": "https://hoangsonww.github.io/CO2-Global-Emissions-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Stock-Data-Analysis-R",
+      "repo": "https://github.com/hoangsonww/Stock-Data-Analysis-R",
+      "url": "https://hoangsonww.github.io/Stock-Data-Analysis-R/",
+      "language": "R"
+    },
+    {
+      "name": "Gapminder-R-Analysis",
+      "repo": "https://github.com/hoangsonww/Gapminder-R-Analysis",
+      "url": "https://hoangsonww.github.io/Gapminder-R-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Wine-Quality-Data-Analysis",
+      "repo": "https://github.com/hoangsonww/Wine-Quality-Data-Analysis",
+      "url": "https://hoangsonww.github.io/Wine-Quality-Data-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Olympic-Medal-Data-Analysis",
+      "repo": "https://github.com/hoangsonww/Olympic-Medal-Data-Analysis",
+      "url": "https://hoangsonww.github.io/Olympic-Medal-Data-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Global-COVID19-Analysis",
+      "repo": "https://github.com/hoangsonww/Global-COVID19-Analysis",
+      "url": "https://hoangsonww.github.io/Global-COVID19-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "North-Carolina-Household-Analysis",
+      "repo": "https://github.com/hoangsonww/North-Carolina-Household-Analysis",
+      "url": "https://hoangsonww.github.io/North-Carolina-Household-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Brazilian-Portuguese-Nonce-Accessbility",
+      "repo": "https://github.com/hoangsonww/Brazilian-Portuguese-Nonce-Accessbility",
+      "url": "https://hoangsonww.github.io/Brazilian-Portuguese-Nonce-Accessbility/",
+      "language": "R"
+    },
+    {
+      "name": "Malawian-CiTonga-Tone-Production",
+      "repo": "https://github.com/hoangsonww/Malawian-CiTonga-Tone-Production",
+      "url": "https://hoangsonww.github.io/Malawian-CiTonga-Tone-Production/",
+      "language": "R"
+    },
+    {
+      "name": "Pokemon-Name-Physique-Analysis",
+      "repo": "https://github.com/hoangsonww/Pokemon-Name-Physique-Analysis",
+      "url": "https://hoangsonww.github.io/Pokemon-Name-Physique-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Pokemon-Attack-R-Analysis",
+      "repo": "https://github.com/hoangsonww/Pokemon-Attack-R-Analysis",
+      "url": "https://hoangsonww.github.io/Pokemon-Attack-R-Analysis/",
+      "language": "R"
+    },
+    {
+      "name": "Django-Poll-Application",
+      "repo": "https://github.com/hoangsonww/Django-Poll-Application",
+      "url": "https://hoangsonww.github.io/Django-Poll-Application/",
+      "language": "Python"
+    },
+    {
+      "name": "Django-Quote-Application",
+      "repo": "https://github.com/hoangsonww/Django-Quote-Application",
+      "url": "https://hoangsonww.github.io/Django-Quote-Application/",
+      "language": "Python"
+    },
+    {
+      "name": "hoangsonww.github.io",
+      "repo": "https://github.com/hoangsonww/hoangsonww.github.io",
+      "url": "https://sonnguyenhoang.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hoangsonww",
+      "repo": "https://github.com/hoangsonww/hoangsonww",
+      "url": "https://sonnguyenhoang.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Lovely-Girlfriend-Website",
+      "repo": "https://github.com/hoangsonww/Lovely-Girlfriend-Website",
+      "url": "https://ilyathu.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Brewed-Bliss-Coffee-Website",
+      "repo": "https://github.com/hoangsonww/Brewed-Bliss-Coffee-Website",
+      "url": "https://hoangsonww.github.io/Brewed-Bliss-Coffee-Website/",
+      "language": "HTML"
+    },
+    {
+      "name": "The-Event-Horizon-App",
+      "repo": "https://github.com/hoangsonww/The-Event-Horizon-App",
+      "url": "https://hoangsonww.github.io/The-Event-Horizon-App/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "The-GitPeek-App",
+      "repo": "https://github.com/hoangsonww/The-GitPeek-App",
+      "url": "https://gitpeek-app.netlify.app/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "The-ToDo-App",
+      "repo": "https://github.com/hoangsonww/The-ToDo-App",
+      "url": "https://hoangsonww.github.io/The-ToDo-App/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "BadminVerse-Property-Booker",
+      "repo": "https://github.com/hoangsonww/BadminVerse-Property-Booker",
+      "url": "https://badminverse-property-booker.onrender.com",
+      "language": "HTML"
+    }
+  ],
   "apps": []
 }

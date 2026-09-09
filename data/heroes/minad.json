@@ -7,5 +7,508 @@
   "bio": "minadmacs",
   "own_repos": 107,
   "commits": 10355,
+  "repos": [
+    {
+      "name": "consult",
+      "repo": "https://github.com/minad/consult",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "vertico",
+      "repo": "https://github.com/minad/vertico",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "marginalia",
+      "repo": "https://github.com/minad/marginalia",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mini-popup",
+      "repo": "https://github.com/minad/mini-popup",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "tab-bookmark",
+      "repo": "https://github.com/minad/tab-bookmark",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cape",
+      "repo": "https://github.com/minad/cape",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "corfu",
+      "repo": "https://github.com/minad/corfu",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-shader-demo",
+      "repo": "https://github.com/minad/emacs-shader-demo",
+      "language": "C"
+    },
+    {
+      "name": "emacs-gl-demo",
+      "repo": "https://github.com/minad/emacs-gl-demo",
+      "language": "C"
+    },
+    {
+      "name": "emacs-canvas-patch",
+      "repo": "https://github.com/minad/emacs-canvas-patch",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dicom",
+      "repo": "https://github.com/minad/dicom",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-modern",
+      "repo": "https://github.com/minad/org-modern",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "tempel",
+      "repo": "https://github.com/minad/tempel",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "jinx",
+      "repo": "https://github.com/minad/jinx",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "osm",
+      "repo": "https://github.com/minad/osm",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "unit",
+      "repo": "https://github.com/minad/unit",
+      "language": "Ruby"
+    },
+    {
+      "name": "affe",
+      "repo": "https://github.com/minad/affe",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "recursion-indicator",
+      "repo": "https://github.com/minad/recursion-indicator",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "goggles",
+      "repo": "https://github.com/minad/goggles",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "consult-flycheck",
+      "repo": "https://github.com/minad/consult-flycheck",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bookmark-view",
+      "repo": "https://github.com/minad/bookmark-view",
+      "url": "https://github.com/minad/bookmark-view",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "polyp",
+      "repo": "https://github.com/minad/polyp",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "tack",
+      "repo": "https://github.com/minad/tack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "uchronia",
+      "repo": "https://github.com/minad/uchronia",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "hasklig-mode",
+      "repo": "https://github.com/minad/hasklig-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "persist",
+      "repo": "https://github.com/minad/persist",
+      "language": "Haskell"
+    },
+    {
+      "name": "lmdb",
+      "repo": "https://github.com/minad/lmdb",
+      "url": "https://github.com/minad/lmdb",
+      "language": "C"
+    },
+    {
+      "name": "special-values",
+      "repo": "https://github.com/minad/special-values",
+      "language": "Haskell"
+    },
+    {
+      "name": "osm2shp",
+      "repo": "https://github.com/minad/osm2shp",
+      "language": "C++"
+    },
+    {
+      "name": "encode-string",
+      "repo": "https://github.com/minad/encode-string",
+      "language": "Haskell"
+    },
+    {
+      "name": "wl-pprint-annotated",
+      "repo": "https://github.com/minad/wl-pprint-annotated",
+      "language": "Haskell"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/minad/.github"
+    },
+    {
+      "name": "writer-cps-mtl",
+      "repo": "https://github.com/minad/writer-cps-mtl",
+      "language": "Haskell"
+    },
+    {
+      "name": "3delta",
+      "repo": "https://github.com/minad/3delta",
+      "language": "Tcl"
+    },
+    {
+      "name": "9mount",
+      "repo": "https://github.com/minad/9mount",
+      "language": "C"
+    },
+    {
+      "name": "emacs-theme",
+      "repo": "https://github.com/minad/emacs-theme",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bigint-unboxed",
+      "repo": "https://github.com/minad/bigint-unboxed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "z",
+      "repo": "https://github.com/minad/z",
+      "language": "C"
+    },
+    {
+      "name": "intro",
+      "repo": "https://github.com/minad/intro",
+      "language": "Haskell"
+    },
+    {
+      "name": "persist-state",
+      "repo": "https://github.com/minad/persist-state",
+      "language": "Haskell"
+    },
+    {
+      "name": "paripari",
+      "repo": "https://github.com/minad/paripari",
+      "language": "Haskell"
+    },
+    {
+      "name": "colorful-monoids",
+      "repo": "https://github.com/minad/colorful-monoids",
+      "language": "Haskell"
+    },
+    {
+      "name": "crts",
+      "repo": "https://github.com/minad/crts",
+      "language": "C"
+    },
+    {
+      "name": "tailcall-plugin",
+      "repo": "https://github.com/minad/tailcall-plugin",
+      "language": "C++"
+    },
+    {
+      "name": "chasm",
+      "repo": "https://github.com/minad/chasm",
+      "language": "Java"
+    },
+    {
+      "name": "tasty-stats",
+      "repo": "https://github.com/minad/tasty-stats",
+      "language": "Haskell"
+    },
+    {
+      "name": "writer-cps-transformers",
+      "repo": "https://github.com/minad/writer-cps-transformers",
+      "language": "Haskell"
+    },
+    {
+      "name": "bpfasm",
+      "repo": "https://github.com/minad/bpfasm",
+      "language": "Yacc"
+    },
+    {
+      "name": "writer-cps-full",
+      "repo": "https://github.com/minad/writer-cps-full",
+      "language": "Haskell"
+    },
+    {
+      "name": "writer-cps-exceptions",
+      "repo": "https://github.com/minad/writer-cps-exceptions",
+      "language": "Haskell"
+    },
+    {
+      "name": "doxygen2adoc",
+      "repo": "https://github.com/minad/doxygen2adoc",
+      "language": "XSLT"
+    },
+    {
+      "name": "ihs",
+      "repo": "https://github.com/minad/ihs",
+      "language": "LLVM"
+    },
+    {
+      "name": "pacgem",
+      "repo": "https://github.com/minad/pacgem",
+      "language": "Ruby"
+    },
+    {
+      "name": "wl-pprint-console",
+      "repo": "https://github.com/minad/wl-pprint-console",
+      "language": "Haskell"
+    },
+    {
+      "name": "hashtable",
+      "repo": "https://github.com/minad/hashtable",
+      "language": "C"
+    },
+    {
+      "name": "experiments",
+      "repo": "https://github.com/minad/experiments"
+    },
+    {
+      "name": "tasty-auto",
+      "repo": "https://github.com/minad/tasty-auto",
+      "url": "https://github.com/lwm/tasty-discover",
+      "language": "Haskell"
+    },
+    {
+      "name": "asciidoctest",
+      "repo": "https://github.com/minad/asciidoctest"
+    },
+    {
+      "name": "rack-embed",
+      "repo": "https://github.com/minad/rack-embed",
+      "language": "Ruby"
+    },
+    {
+      "name": "gridslides",
+      "repo": "https://github.com/minad/gridslides",
+      "language": "TeX"
+    },
+    {
+      "name": "quickcheck-special",
+      "repo": "https://github.com/minad/quickcheck-special",
+      "language": "Haskell"
+    },
+    {
+      "name": "strict-base",
+      "repo": "https://github.com/minad/strict-base",
+      "language": "Haskell"
+    },
+    {
+      "name": "isometric",
+      "repo": "https://github.com/minad/isometric",
+      "language": "C"
+    },
+    {
+      "name": "implant",
+      "repo": "https://github.com/minad/implant",
+      "language": "Shell"
+    },
+    {
+      "name": "webdav",
+      "repo": "https://github.com/minad/webdav",
+      "language": "PHP"
+    },
+    {
+      "name": "winde",
+      "repo": "https://github.com/minad/winde",
+      "language": "C"
+    },
+    {
+      "name": "grouptsp",
+      "repo": "https://github.com/minad/grouptsp",
+      "language": "Java"
+    },
+    {
+      "name": "echoxul",
+      "repo": "https://github.com/minad/echoxul",
+      "language": "Java"
+    },
+    {
+      "name": "tsp",
+      "repo": "https://github.com/minad/tsp",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "decrypter",
+      "repo": "https://github.com/minad/decrypter",
+      "language": "C"
+    },
+    {
+      "name": "game_of_life",
+      "repo": "https://github.com/minad/game_of_life",
+      "language": "Java"
+    },
+    {
+      "name": "terrain",
+      "repo": "https://github.com/minad/terrain",
+      "language": "C++"
+    },
+    {
+      "name": "particle",
+      "repo": "https://github.com/minad/particle",
+      "language": "C++"
+    },
+    {
+      "name": "mandelbrot",
+      "repo": "https://github.com/minad/mandelbrot",
+      "language": "Java"
+    },
+    {
+      "name": "os-experiment",
+      "repo": "https://github.com/minad/os-experiment",
+      "language": "C"
+    },
+    {
+      "name": "turing",
+      "repo": "https://github.com/minad/turing",
+      "language": "C++"
+    },
+    {
+      "name": "wmr918",
+      "repo": "https://github.com/minad/wmr918",
+      "language": "C"
+    },
+    {
+      "name": "safe-convert",
+      "repo": "https://github.com/minad/safe-convert",
+      "language": "Haskell"
+    },
+    {
+      "name": "psychosis",
+      "repo": "https://github.com/minad/psychosis",
+      "language": "Scheme"
+    },
+    {
+      "name": "console-style",
+      "repo": "https://github.com/minad/console-style",
+      "language": "Haskell"
+    },
+    {
+      "name": "writer-cps-monads-tf",
+      "repo": "https://github.com/minad/writer-cps-monads-tf",
+      "language": "Haskell"
+    },
+    {
+      "name": "intro-prelude",
+      "repo": "https://github.com/minad/intro-prelude",
+      "language": "Haskell"
+    },
+    {
+      "name": "i3-config",
+      "repo": "https://github.com/minad/i3-config",
+      "url": "https://github.com/SietsevanderMolen/i3-qubes",
+      "language": "Shell"
+    },
+    {
+      "name": "sciruby-gems",
+      "repo": "https://github.com/minad/sciruby-gems",
+      "language": "HTML"
+    },
+    {
+      "name": "bibtex-ruby",
+      "repo": "https://github.com/minad/bibtex-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "henk",
+      "repo": "https://github.com/minad/henk",
+      "language": "Haskell"
+    },
+    {
+      "name": "typohero",
+      "repo": "https://github.com/minad/typohero",
+      "language": "Ruby"
+    },
+    {
+      "name": "andromeda.hs",
+      "repo": "https://github.com/minad/andromeda.hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "tinygem",
+      "repo": "https://github.com/minad/tinygem",
+      "language": "Ruby"
+    },
+    {
+      "name": "TaskList",
+      "repo": "https://github.com/minad/TaskList",
+      "language": "PHP"
+    },
+    {
+      "name": "arduino-pi-gefrickel",
+      "repo": "https://github.com/minad/arduino-pi-gefrickel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slim-examples",
+      "repo": "https://github.com/minad/slim-examples",
+      "language": "Ruby"
+    },
+    {
+      "name": "hexns",
+      "repo": "https://github.com/minad/hexns",
+      "language": "C"
+    },
+    {
+      "name": "arch-packages",
+      "repo": "https://github.com/minad/arch-packages",
+      "language": "Shell"
+    },
+    {
+      "name": "evaluator",
+      "repo": "https://github.com/minad/evaluator",
+      "language": "Ruby"
+    },
+    {
+      "name": "bibsync",
+      "repo": "https://github.com/minad/bibsync",
+      "language": "Ruby"
+    },
+    {
+      "name": "pasty",
+      "repo": "https://github.com/minad/pasty",
+      "language": "PHP"
+    },
+    {
+      "name": "gitrb",
+      "repo": "https://github.com/minad/gitrb",
+      "language": "Ruby"
+    },
+    {
+      "name": "vle",
+      "repo": "https://github.com/minad/vle",
+      "language": "Verilog"
+    },
+    {
+      "name": "mapgen",
+      "repo": "https://github.com/minad/mapgen",
+      "language": "Python"
+    }
+  ],
   "apps": []
 }

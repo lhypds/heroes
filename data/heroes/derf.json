@@ -7,5 +7,524 @@
   "website": "https://finalrewind.org/",
   "own_repos": 109,
   "commits": 12232,
+  "repos": [
+    {
+      "name": "dfatool",
+      "repo": "https://github.com/derf/dfatool",
+      "language": "Python"
+    },
+    {
+      "name": "feh",
+      "repo": "https://github.com/derf/feh",
+      "url": "https://feh.finalrewind.org",
+      "language": "C"
+    },
+    {
+      "name": "multipass",
+      "repo": "https://github.com/derf/multipass",
+      "url": "https://finalrewind.org/projects/multipass/",
+      "language": "C++"
+    },
+    {
+      "name": "pyggle",
+      "repo": "https://github.com/derf/pyggle",
+      "language": "Python"
+    },
+    {
+      "name": "n6705b-logger",
+      "repo": "https://github.com/derf/n6705b-logger",
+      "language": "Python"
+    },
+    {
+      "name": "travelynx",
+      "repo": "https://github.com/derf/travelynx",
+      "url": "https://travelynx.de",
+      "language": "Perl"
+    },
+    {
+      "name": "Travel-Routing-DE-DBRIS",
+      "repo": "https://github.com/derf/Travel-Routing-DE-DBRIS",
+      "language": "Perl"
+    },
+    {
+      "name": "db-fakedisplay",
+      "repo": "https://github.com/derf/db-fakedisplay",
+      "url": "https://dbf.finalrewind.org",
+      "language": "Perl"
+    },
+    {
+      "name": "Travel-Status-DE-DBRIS",
+      "repo": "https://github.com/derf/Travel-Status-DE-DBRIS",
+      "language": "Perl"
+    },
+    {
+      "name": "Travel-Status-DE-IRIS",
+      "repo": "https://github.com/derf/Travel-Status-DE-IRIS",
+      "url": "https://finalrewind.org/projects/Travel-Status-DE-IRIS/",
+      "language": "Perl"
+    },
+    {
+      "name": "plutosdr-playground",
+      "repo": "https://github.com/derf/plutosdr-playground",
+      "language": "Python"
+    },
+    {
+      "name": "Travel-Routing-DE-EFA",
+      "repo": "https://github.com/derf/Travel-Routing-DE-EFA",
+      "language": "Slice"
+    },
+    {
+      "name": "Travel-Routing-DE-HAFAS",
+      "repo": "https://github.com/derf/Travel-Routing-DE-HAFAS",
+      "language": "Perl"
+    },
+    {
+      "name": "Travel-Status-DE-EFA",
+      "repo": "https://github.com/derf/Travel-Status-DE-EFA",
+      "language": "Perl"
+    },
+    {
+      "name": "msp430-etv",
+      "repo": "https://github.com/derf/msp430-etv",
+      "url": "https://finalrewind.org/projects/msp430-etv/",
+      "language": "Python"
+    },
+    {
+      "name": "zlib-deflate-nostdlib",
+      "repo": "https://github.com/derf/zlib-deflate-nostdlib",
+      "url": "https://finalrewind.org/projects/zlib-deflate-nostdlib/",
+      "language": "C"
+    },
+    {
+      "name": "blinkencat",
+      "repo": "https://github.com/derf/blinkencat",
+      "url": "https://finalrewind.org/projects/blinkencat/",
+      "language": "C++"
+    },
+    {
+      "name": "dlog-viewer",
+      "repo": "https://github.com/derf/dlog-viewer",
+      "url": "https://finalrewind.org/projects/dlog-viewer/",
+      "language": "Python"
+    },
+    {
+      "name": "Travel-Status-DE-HAFAS",
+      "repo": "https://github.com/derf/Travel-Status-DE-HAFAS",
+      "url": "https://finalrewind.org/projects/Travel-Status-DE-DeutscheBahn",
+      "language": "Perl"
+    },
+    {
+      "name": "upmem-db-kernels",
+      "repo": "https://github.com/derf/upmem-db-kernels",
+      "language": "C"
+    },
+    {
+      "name": "caretaker",
+      "repo": "https://github.com/derf/caretaker",
+      "language": "Shell"
+    },
+    {
+      "name": "korad-logger",
+      "repo": "https://github.com/derf/korad-logger",
+      "url": "https://finalrewind.org/projects/korad-logger/",
+      "language": "Python"
+    },
+    {
+      "name": "esp8266-nodemcu-temt6000",
+      "repo": "https://github.com/derf/esp8266-nodemcu-temt6000",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-ssd1306",
+      "repo": "https://github.com/derf/esp8266-nodemcu-ssd1306",
+      "url": "https://finalrewind.org/projects/esp8266-nodemcu-ssd1306/",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-mh-z19",
+      "repo": "https://github.com/derf/esp8266-nodemcu-mh-z19",
+      "url": "https://finalrewind.org/projects/esp8266-nodemcu-mh-z19/",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-max44009",
+      "repo": "https://github.com/derf/esp8266-nodemcu-max44009",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-max44006",
+      "repo": "https://github.com/derf/esp8266-nodemcu-max44006",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-veml6075",
+      "repo": "https://github.com/derf/esp8266-nodemcu-veml6075",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-scd4x",
+      "repo": "https://github.com/derf/esp8266-nodemcu-scd4x",
+      "url": "https://finalrewind.org/projects/esp8266-nodemcu-scd4x/",
+      "language": "Lua"
+    },
+    {
+      "name": "co2-monitor-mhz19-ssd1306",
+      "repo": "https://github.com/derf/co2-monitor-mhz19-ssd1306",
+      "language": "Lua"
+    },
+    {
+      "name": "mobile-co2-monitor",
+      "repo": "https://github.com/derf/mobile-co2-monitor",
+      "url": "https://finalrewind.org/projects/mobile-co2-monitor/",
+      "language": "OpenSCAD"
+    },
+    {
+      "name": "esp8266-nodemcu-sen5x",
+      "repo": "https://github.com/derf/esp8266-nodemcu-sen5x",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-sds011",
+      "repo": "https://github.com/derf/esp8266-nodemcu-sds011",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-pm1006",
+      "repo": "https://github.com/derf/esp8266-nodemcu-pm1006",
+      "language": "Lua"
+    },
+    {
+      "name": "esp8266-nodemcu-ccs811",
+      "repo": "https://github.com/derf/esp8266-nodemcu-ccs811",
+      "language": "Lua"
+    },
+    {
+      "name": "train-platform-directions",
+      "repo": "https://github.com/derf/train-platform-directions",
+      "language": "Perl"
+    },
+    {
+      "name": "esp8266-nodemcu-sen66",
+      "repo": "https://github.com/derf/esp8266-nodemcu-sen66",
+      "language": "Lua"
+    },
+    {
+      "name": "Travel-Status-DE-DBWagenreihung",
+      "repo": "https://github.com/derf/Travel-Status-DE-DBWagenreihung",
+      "url": "https://finalrewind.org/projects/Travel-Status-DE-DBWagenreihung/",
+      "language": "Perl"
+    },
+    {
+      "name": "zsh",
+      "repo": "https://github.com/derf/zsh",
+      "language": "Shell"
+    },
+    {
+      "name": "eva-to-efa-gw",
+      "repo": "https://github.com/derf/eva-to-efa-gw",
+      "language": "Python"
+    },
+    {
+      "name": "esp8266-nodemcu-uart-bridge",
+      "repo": "https://github.com/derf/esp8266-nodemcu-uart-bridge",
+      "language": "Lua"
+    },
+    {
+      "name": "vusb-i2c",
+      "repo": "https://github.com/derf/vusb-i2c",
+      "language": "Assembly"
+    },
+    {
+      "name": "nvm",
+      "repo": "https://github.com/derf/nvm",
+      "language": "Python"
+    },
+    {
+      "name": "card10-datalogger",
+      "repo": "https://github.com/derf/card10-datalogger",
+      "language": "Python"
+    },
+    {
+      "name": "Travel-Status-DE-URA",
+      "repo": "https://github.com/derf/Travel-Status-DE-URA",
+      "language": "Perl"
+    },
+    {
+      "name": "App-Raps2",
+      "repo": "https://github.com/derf/App-Raps2",
+      "language": "Perl"
+    },
+    {
+      "name": "vrr-fakedisplay",
+      "repo": "https://github.com/derf/vrr-fakedisplay",
+      "language": "Perl"
+    },
+    {
+      "name": "dthumb",
+      "repo": "https://github.com/derf/dthumb",
+      "language": "Perl"
+    },
+    {
+      "name": "geolocation-to-train",
+      "repo": "https://github.com/derf/geolocation-to-train",
+      "language": "Python"
+    },
+    {
+      "name": "db-fahrzeuglexikon-parser",
+      "repo": "https://github.com/derf/db-fahrzeuglexikon-parser",
+      "language": "Shell"
+    },
+    {
+      "name": "db-zugbildung-to-json",
+      "repo": "https://github.com/derf/db-zugbildung-to-json",
+      "language": "Perl"
+    },
+    {
+      "name": "icinga2-check-submitter",
+      "repo": "https://github.com/derf/icinga2-check-submitter",
+      "language": "Python"
+    },
+    {
+      "name": "docker-dh-make-perl",
+      "repo": "https://github.com/derf/docker-dh-make-perl",
+      "url": "https://finalrewind.org/interblag/entry/packaging-perl-modules-for-debian-in-docker/",
+      "language": "Shell"
+    },
+    {
+      "name": "App-Slackeria",
+      "repo": "https://github.com/derf/App-Slackeria",
+      "language": "Perl"
+    },
+    {
+      "name": "App-Hashl",
+      "repo": "https://github.com/derf/App-Hashl",
+      "language": "Perl"
+    },
+    {
+      "name": "icli",
+      "repo": "https://github.com/derf/icli",
+      "language": "Perl"
+    },
+    {
+      "name": "mqtt-syncdir",
+      "repo": "https://github.com/derf/mqtt-syncdir",
+      "language": "Perl"
+    },
+    {
+      "name": "mqtt-to-dorfmap",
+      "repo": "https://github.com/derf/mqtt-to-dorfmap",
+      "language": "Perl"
+    },
+    {
+      "name": "is_nighttime",
+      "repo": "https://github.com/derf/is_nighttime",
+      "language": "Perl"
+    },
+    {
+      "name": "up.finalrewind.org",
+      "repo": "https://github.com/derf/up.finalrewind.org",
+      "language": "Perl"
+    },
+    {
+      "name": "screen",
+      "repo": "https://github.com/derf/screen",
+      "language": "Perl"
+    },
+    {
+      "name": "mqtt-multipub",
+      "repo": "https://github.com/derf/mqtt-multipub",
+      "language": "Perl"
+    },
+    {
+      "name": "picomon",
+      "repo": "https://github.com/derf/picomon",
+      "language": "Perl"
+    },
+    {
+      "name": "mqtt-to-influxdb",
+      "repo": "https://github.com/derf/mqtt-to-influxdb",
+      "language": "Perl"
+    },
+    {
+      "name": "esp8266-playground",
+      "repo": "https://github.com/derf/esp8266-playground",
+      "language": "C"
+    },
+    {
+      "name": "cocoos-aspectc",
+      "repo": "https://github.com/derf/cocoos-aspectc",
+      "language": "C"
+    },
+    {
+      "name": "ekgping",
+      "repo": "https://github.com/derf/ekgping",
+      "language": "Perl"
+    },
+    {
+      "name": "msp430fr5969-playground",
+      "repo": "https://github.com/derf/msp430fr5969-playground",
+      "language": "C"
+    },
+    {
+      "name": "lm4f120h5qr-playground",
+      "repo": "https://github.com/derf/lm4f120h5qr-playground",
+      "language": "C"
+    },
+    {
+      "name": "minipart",
+      "repo": "https://github.com/derf/minipart",
+      "language": "Perl"
+    },
+    {
+      "name": "dorfmap-light",
+      "repo": "https://github.com/derf/dorfmap-light",
+      "language": "Perl"
+    },
+    {
+      "name": "Travel-Routing-DE-HAFAS-legacy",
+      "repo": "https://github.com/derf/Travel-Routing-DE-HAFAS-legacy",
+      "language": "Perl"
+    },
+    {
+      "name": "mediawiki-orderhelper",
+      "repo": "https://github.com/derf/mediawiki-orderhelper",
+      "language": "Perl"
+    },
+    {
+      "name": "munin-plugins",
+      "repo": "https://github.com/derf/munin-plugins",
+      "language": "Shell"
+    },
+    {
+      "name": "iris-delay-stats",
+      "repo": "https://github.com/derf/iris-delay-stats",
+      "language": "Perl"
+    },
+    {
+      "name": "Travel-Status-DE-DBFahrplan",
+      "repo": "https://github.com/derf/Travel-Status-DE-DBFahrplan",
+      "language": "Perl"
+    },
+    {
+      "name": "vusb-si2c",
+      "repo": "https://github.com/derf/vusb-si2c",
+      "language": "Eagle"
+    },
+    {
+      "name": "wii-sensors",
+      "repo": "https://github.com/derf/wii-sensors",
+      "language": "C"
+    },
+    {
+      "name": "owi-slave",
+      "repo": "https://github.com/derf/owi-slave",
+      "language": "Eagle"
+    },
+    {
+      "name": "tudo-wifi-location",
+      "repo": "https://github.com/derf/tudo-wifi-location",
+      "language": "Erlang"
+    },
+    {
+      "name": "derf-web",
+      "repo": "https://github.com/derf/derf-web",
+      "language": "Perl"
+    },
+    {
+      "name": "downloaders",
+      "repo": "https://github.com/derf/downloaders",
+      "language": "Perl"
+    },
+    {
+      "name": "ssh-forcecommand",
+      "repo": "https://github.com/derf/ssh-forcecommand",
+      "language": "Perl"
+    },
+    {
+      "name": "simplestore",
+      "repo": "https://github.com/derf/simplestore",
+      "language": "Perl"
+    },
+    {
+      "name": "debian-utils",
+      "repo": "https://github.com/derf/debian-utils",
+      "language": "Perl"
+    },
+    {
+      "name": "visual",
+      "repo": "https://github.com/derf/visual",
+      "url": "https://derf.homelinux.org/interblag/entry/ghetto-widgets-putting-pngs-onto-your-wallpaper",
+      "language": "Perl"
+    },
+    {
+      "name": "host",
+      "repo": "https://github.com/derf/host",
+      "language": "C"
+    },
+    {
+      "name": "comirror",
+      "repo": "https://github.com/derf/comirror",
+      "language": "Perl"
+    },
+    {
+      "name": "greedy",
+      "repo": "https://github.com/derf/greedy"
+    },
+    {
+      "name": "linktrack",
+      "repo": "https://github.com/derf/linktrack",
+      "language": "Perl"
+    },
+    {
+      "name": "vulnerable-web",
+      "repo": "https://github.com/derf/vulnerable-web",
+      "language": "Perl"
+    },
+    {
+      "name": "ds1m12",
+      "repo": "https://github.com/derf/ds1m12",
+      "language": "C"
+    },
+    {
+      "name": "hacklace-gameoflife",
+      "repo": "https://github.com/derf/hacklace-gameoflife",
+      "language": "C"
+    },
+    {
+      "name": "pgctl",
+      "repo": "https://github.com/derf/pgctl",
+      "language": "C"
+    },
+    {
+      "name": "devtodo-web",
+      "repo": "https://github.com/derf/devtodo-web",
+      "language": "Perl"
+    },
+    {
+      "name": "hacklace-utils",
+      "repo": "https://github.com/derf/hacklace-utils",
+      "language": "Perl"
+    },
+    {
+      "name": "tinyrgb",
+      "repo": "https://github.com/derf/tinyrgb",
+      "language": "C"
+    },
+    {
+      "name": "drehgewinnt",
+      "repo": "https://github.com/derf/drehgewinnt",
+      "language": "Perl"
+    },
+    {
+      "name": "blinkdings1",
+      "repo": "https://github.com/derf/blinkdings1",
+      "language": "C"
+    },
+    {
+      "name": "tischlicht",
+      "repo": "https://github.com/derf/tischlicht",
+      "language": "C"
+    }
+  ],
   "apps": []
 }

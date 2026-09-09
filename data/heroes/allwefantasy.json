@@ -8,5 +8,492 @@
   "bio": "Cofounder Of InfiniSynapse(@InfiniSynapse) The author of InfiniSQL/auto-coder.chat/winclaw.me",
   "own_repos": 105,
   "commits": 14572,
+  "repos": [
+    {
+      "name": "InfiniSynapse-Growth",
+      "repo": "https://github.com/allwefantasy/InfiniSynapse-Growth",
+      "language": "HTML"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/allwefantasy/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "auto-coder",
+      "repo": "https://github.com/allwefantasy/auto-coder",
+      "url": "https://auto-coder.chat",
+      "language": "Python"
+    },
+    {
+      "name": "spark",
+      "repo": "https://github.com/allwefantasy/spark",
+      "language": "Scala"
+    },
+    {
+      "name": "posttome-skills",
+      "repo": "https://github.com/allwefantasy/posttome-skills",
+      "language": "Shell"
+    },
+    {
+      "name": "ServiceFramework",
+      "repo": "https://github.com/allwefantasy/ServiceFramework",
+      "language": "Java"
+    },
+    {
+      "name": "pyjava",
+      "repo": "https://github.com/allwefantasy/pyjava",
+      "language": "Python"
+    },
+    {
+      "name": "ac-aibot-com",
+      "repo": "https://github.com/allwefantasy/ac-aibot-com"
+    },
+    {
+      "name": "infinisynpase-mysql-meta-exporter",
+      "repo": "https://github.com/allwefantasy/infinisynpase-mysql-meta-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "autocoder-rag-sdk-go",
+      "repo": "https://github.com/allwefantasy/autocoder-rag-sdk-go",
+      "language": "Go"
+    },
+    {
+      "name": "auto-coder.memory",
+      "repo": "https://github.com/allwefantasy/auto-coder.memory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "auto-coder-subagents",
+      "repo": "https://github.com/allwefantasy/auto-coder-subagents"
+    },
+    {
+      "name": "auto-coder.web",
+      "repo": "https://github.com/allwefantasy/auto-coder.web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "autocoder-cli-sdk-go",
+      "repo": "https://github.com/allwefantasy/autocoder-cli-sdk-go",
+      "language": "Go"
+    },
+    {
+      "name": "llm_friendly_packages",
+      "repo": "https://github.com/allwefantasy/llm_friendly_packages",
+      "language": "MoonBit"
+    },
+    {
+      "name": "readline.mbt",
+      "repo": "https://github.com/allwefantasy/readline.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-pilot-help-docs",
+      "repo": "https://github.com/allwefantasy/moonbit-pilot-help-docs"
+    },
+    {
+      "name": "byzer-llm",
+      "repo": "https://github.com/allwefantasy/byzer-llm",
+      "language": "Python"
+    },
+    {
+      "name": "william-toolbox",
+      "repo": "https://github.com/allwefantasy/william-toolbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "projects-tools",
+      "repo": "https://github.com/allwefantasy/projects-tools",
+      "language": "Python"
+    },
+    {
+      "name": "BYZER-RETRIEVAL",
+      "repo": "https://github.com/allwefantasy/BYZER-RETRIEVAL",
+      "language": "Java"
+    },
+    {
+      "name": "real_agent",
+      "repo": "https://github.com/allwefantasy/real_agent",
+      "language": "Python"
+    },
+    {
+      "name": "code-dataset",
+      "repo": "https://github.com/allwefantasy/code-dataset",
+      "language": "Python"
+    },
+    {
+      "name": "super-analysis-doc",
+      "repo": "https://github.com/allwefantasy/super-analysis-doc",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "long-translate",
+      "repo": "https://github.com/allwefantasy/long-translate",
+      "language": "Python"
+    },
+    {
+      "name": "privacy_policy",
+      "repo": "https://github.com/allwefantasy/privacy_policy"
+    },
+    {
+      "name": "auto-coder.example_01",
+      "repo": "https://github.com/allwefantasy/auto-coder.example_01",
+      "language": "TypeScript"
+    },
+    {
+      "name": "byzer-sql.example",
+      "repo": "https://github.com/allwefantasy/byzer-sql.example"
+    },
+    {
+      "name": "llm-memory",
+      "repo": "https://github.com/allwefantasy/llm-memory"
+    },
+    {
+      "name": "auto-coder.example",
+      "repo": "https://github.com/allwefantasy/auto-coder.example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "byzer-agent",
+      "repo": "https://github.com/allwefantasy/byzer-agent",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "byzerperf",
+      "repo": "https://github.com/allwefantasy/byzerperf",
+      "language": "Python"
+    },
+    {
+      "name": "byzer-agents",
+      "repo": "https://github.com/allwefantasy/byzer-agents"
+    },
+    {
+      "name": "spark-adhoc-kafka",
+      "repo": "https://github.com/allwefantasy/spark-adhoc-kafka",
+      "language": "Scala"
+    },
+    {
+      "name": "spark-hbase",
+      "repo": "https://github.com/allwefantasy/spark-hbase",
+      "language": "Scala"
+    },
+    {
+      "name": "byzer-data-as-form",
+      "repo": "https://github.com/allwefantasy/byzer-data-as-form",
+      "language": "Scala"
+    },
+    {
+      "name": "common-utils",
+      "repo": "https://github.com/allwefantasy/common-utils",
+      "language": "Java"
+    },
+    {
+      "name": "mlsql-ps-service",
+      "repo": "https://github.com/allwefantasy/mlsql-ps-service",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsql-store",
+      "repo": "https://github.com/allwefantasy/mlsql-store",
+      "language": "Rust"
+    },
+    {
+      "name": "spark-binlog",
+      "repo": "https://github.com/allwefantasy/spark-binlog",
+      "language": "Scala"
+    },
+    {
+      "name": "byzer-ml-example",
+      "repo": "https://github.com/allwefantasy/byzer-ml-example"
+    },
+    {
+      "name": "byzer-visualization-example",
+      "repo": "https://github.com/allwefantasy/byzer-visualization-example"
+    },
+    {
+      "name": "ar_runtime_web_console",
+      "repo": "https://github.com/allwefantasy/ar_runtime_web_console",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-platform",
+      "repo": "https://github.com/allwefantasy/web-platform",
+      "language": "Scala"
+    },
+    {
+      "name": "user-system",
+      "repo": "https://github.com/allwefantasy/user-system",
+      "language": "Scala"
+    },
+    {
+      "name": "baseweb",
+      "repo": "https://github.com/allwefantasy/baseweb",
+      "language": "Shell"
+    },
+    {
+      "name": "my-life",
+      "repo": "https://github.com/allwefantasy/my-life",
+      "language": "GCC Machine Description"
+    },
+    {
+      "name": "byzer-python-example",
+      "repo": "https://github.com/allwefantasy/byzer-python-example"
+    },
+    {
+      "name": "byzer-cocodataset",
+      "repo": "https://github.com/allwefantasy/byzer-cocodataset",
+      "language": "Python"
+    },
+    {
+      "name": "byzer-objectstore",
+      "repo": "https://github.com/allwefantasy/byzer-objectstore"
+    },
+    {
+      "name": "mlsql_plugin_tool",
+      "repo": "https://github.com/allwefantasy/mlsql_plugin_tool",
+      "language": "Python"
+    },
+    {
+      "name": "mlsql-jdbc",
+      "repo": "https://github.com/allwefantasy/mlsql-jdbc",
+      "language": "Scala"
+    },
+    {
+      "name": "byzer-code-examples",
+      "repo": "https://github.com/allwefantasy/byzer-code-examples"
+    },
+    {
+      "name": "mlsql-api-console",
+      "repo": "https://github.com/allwefantasy/mlsql-api-console",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsql-plugins",
+      "repo": "https://github.com/allwefantasy/mlsql-plugins",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsql-lang-example-project",
+      "repo": "https://github.com/allwefantasy/mlsql-lang-example-project",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "lib-core",
+      "repo": "https://github.com/allwefantasy/lib-core",
+      "language": "Python"
+    },
+    {
+      "name": "app_runtime_with_db",
+      "repo": "https://github.com/allwefantasy/app_runtime_with_db",
+      "language": "Scala"
+    },
+    {
+      "name": "simple-schema",
+      "repo": "https://github.com/allwefantasy/simple-schema",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsql-lang-vscode-plugin",
+      "repo": "https://github.com/allwefantasy/mlsql-lang-vscode-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mlsql",
+      "repo": "https://github.com/allwefantasy/mlsql",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mlsql-docs",
+      "repo": "https://github.com/allwefantasy/mlsql-docs",
+      "language": "CSS"
+    },
+    {
+      "name": "mlsql-deploy",
+      "repo": "https://github.com/allwefantasy/mlsql-deploy",
+      "language": "Go"
+    },
+    {
+      "name": "mlsql-lang-cli",
+      "repo": "https://github.com/allwefantasy/mlsql-lang-cli",
+      "language": "Go"
+    },
+    {
+      "name": "ar_plugin_repo",
+      "repo": "https://github.com/allwefantasy/ar_plugin_repo",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsql-build",
+      "repo": "https://github.com/allwefantasy/mlsql-build",
+      "language": "Shell"
+    },
+    {
+      "name": "mlsql-web-console",
+      "repo": "https://github.com/allwefantasy/mlsql-web-console",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mlsql-example",
+      "repo": "https://github.com/allwefantasy/mlsql-example"
+    },
+    {
+      "name": "spark-submitter-console",
+      "repo": "https://github.com/allwefantasy/spark-submitter-console",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mlsql-tech-docker",
+      "repo": "https://github.com/allwefantasy/mlsql-tech-docker",
+      "language": "HTML"
+    },
+    {
+      "name": "delta-plus",
+      "repo": "https://github.com/allwefantasy/delta-plus",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsql-native",
+      "repo": "https://github.com/allwefantasy/mlsql-native",
+      "language": "C++"
+    },
+    {
+      "name": "sql-code-intelligence",
+      "repo": "https://github.com/allwefantasy/sql-code-intelligence",
+      "language": "Scala"
+    },
+    {
+      "name": "ar_python",
+      "repo": "https://github.com/allwefantasy/ar_python",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsqlscheduler",
+      "repo": "https://github.com/allwefantasy/mlsqlscheduler",
+      "language": "Scala"
+    },
+    {
+      "name": "app-runtime",
+      "repo": "https://github.com/allwefantasy/app-runtime",
+      "language": "Scala"
+    },
+    {
+      "name": "web-platform-commons",
+      "repo": "https://github.com/allwefantasy/web-platform-commons",
+      "language": "Shell"
+    },
+    {
+      "name": "web-platform-py-sdk",
+      "repo": "https://github.com/allwefantasy/web-platform-py-sdk",
+      "language": "Python"
+    },
+    {
+      "name": "mlsql-python-predictor",
+      "repo": "https://github.com/allwefantasy/mlsql-python-predictor"
+    },
+    {
+      "name": "deltaehancer",
+      "repo": "https://github.com/allwefantasy/deltaehancer",
+      "language": "Scala"
+    },
+    {
+      "name": "mlsql-redis",
+      "repo": "https://github.com/allwefantasy/mlsql-redis",
+      "language": "Scala"
+    },
+    {
+      "name": "sql-toolkit",
+      "repo": "https://github.com/allwefantasy/sql-toolkit",
+      "language": "Scala"
+    },
+    {
+      "name": "PyMLSQL",
+      "repo": "https://github.com/allwefantasy/PyMLSQL",
+      "language": "Python"
+    },
+    {
+      "name": "spark-deep-learning-toy",
+      "repo": "https://github.com/allwefantasy/spark-deep-learning-toy",
+      "language": "Python"
+    },
+    {
+      "name": "serviceframework-api-ui",
+      "repo": "https://github.com/allwefantasy/serviceframework-api-ui",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mlsql-web",
+      "repo": "https://github.com/allwefantasy/mlsql-web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spark-ml-example",
+      "repo": "https://github.com/allwefantasy/spark-ml-example",
+      "language": "Scala"
+    },
+    {
+      "name": "ServiceframeworkDispatcher",
+      "repo": "https://github.com/allwefantasy/ServiceframeworkDispatcher",
+      "language": "Scala"
+    },
+    {
+      "name": "streamingpro-editor2",
+      "repo": "https://github.com/allwefantasy/streamingpro-editor2",
+      "language": "Java"
+    },
+    {
+      "name": "structured-streaming",
+      "repo": "https://github.com/allwefantasy/structured-streaming",
+      "language": "Scala"
+    },
+    {
+      "name": "stuq-example",
+      "repo": "https://github.com/allwefantasy/stuq-example",
+      "language": "Scala"
+    },
+    {
+      "name": "active_orm",
+      "repo": "https://github.com/allwefantasy/active_orm",
+      "language": "Java"
+    },
+    {
+      "name": "csdn_common",
+      "repo": "https://github.com/allwefantasy/csdn_common",
+      "language": "Java"
+    },
+    {
+      "name": "spark-streaming-book",
+      "repo": "https://github.com/allwefantasy/spark-streaming-book"
+    },
+    {
+      "name": "mammuthus-yarn-client",
+      "repo": "https://github.com/allwefantasy/mammuthus-yarn-client",
+      "language": "Scala"
+    },
+    {
+      "name": "mammuthus-yarn-docker-scheduler",
+      "repo": "https://github.com/allwefantasy/mammuthus-yarn-docker-scheduler"
+    },
+    {
+      "name": "mammuthus-dynamic-deploy",
+      "repo": "https://github.com/allwefantasy/mammuthus-dynamic-deploy",
+      "language": "Scala"
+    },
+    {
+      "name": "DCS",
+      "repo": "https://github.com/allwefantasy/DCS",
+      "language": "Shell"
+    },
+    {
+      "name": "mammuthus-nginx",
+      "repo": "https://github.com/allwefantasy/mammuthus-nginx",
+      "language": "Shell"
+    },
+    {
+      "name": "godear",
+      "repo": "https://github.com/allwefantasy/godear",
+      "language": "Java"
+    }
+  ],
   "apps": []
 }

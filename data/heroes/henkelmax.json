@@ -7,5 +7,516 @@
   "website": "https://modrepo.de/",
   "own_repos": 108,
   "commits": 10693,
+  "repos": [
+    {
+      "name": "modrepo-dev",
+      "repo": "https://github.com/henkelmax/modrepo-dev",
+      "url": "https://dev.modrepo.de",
+      "language": "HTML"
+    },
+    {
+      "name": "modrepo",
+      "repo": "https://github.com/henkelmax/modrepo",
+      "url": "https://modrepo.de/"
+    },
+    {
+      "name": "simple-voice-chat",
+      "repo": "https://github.com/henkelmax/simple-voice-chat",
+      "url": "https://modrepo.de/minecraft/voicechat/wiki",
+      "language": "Java"
+    },
+    {
+      "name": "audio-player",
+      "repo": "https://github.com/henkelmax/audio-player",
+      "language": "Java"
+    },
+    {
+      "name": "xisumas-hermitcraft-pack",
+      "repo": "https://github.com/henkelmax/xisumas-hermitcraft-pack",
+      "url": "https://modrinth.com/modpack/xisumas-hermitcraft-pack",
+      "language": "Shell"
+    },
+    {
+      "name": "mod-gradle-scripts",
+      "repo": "https://github.com/henkelmax/mod-gradle-scripts"
+    },
+    {
+      "name": "datapack-injector",
+      "repo": "https://github.com/henkelmax/datapack-injector",
+      "language": "Java"
+    },
+    {
+      "name": "peek",
+      "repo": "https://github.com/henkelmax/peek",
+      "language": "Java"
+    },
+    {
+      "name": "corelib",
+      "repo": "https://github.com/henkelmax/corelib",
+      "language": "Java"
+    },
+    {
+      "name": "henkelmax",
+      "repo": "https://github.com/henkelmax/henkelmax"
+    },
+    {
+      "name": "gravestone",
+      "repo": "https://github.com/henkelmax/gravestone",
+      "language": "Java"
+    },
+    {
+      "name": "simple-voice-animations",
+      "repo": "https://github.com/henkelmax/simple-voice-animations",
+      "language": "Java"
+    },
+    {
+      "name": "corpse",
+      "repo": "https://github.com/henkelmax/corpse",
+      "language": "Java"
+    },
+    {
+      "name": "camera",
+      "repo": "https://github.com/henkelmax/camera",
+      "language": "Java"
+    },
+    {
+      "name": "pipez",
+      "repo": "https://github.com/henkelmax/pipez",
+      "language": "Java"
+    },
+    {
+      "name": "hermitcraft-server",
+      "repo": "https://github.com/henkelmax/hermitcraft-server",
+      "url": "https://modrinth.com/modpack/hermitcraft",
+      "language": "Shell"
+    },
+    {
+      "name": "better-respawn",
+      "repo": "https://github.com/henkelmax/better-respawn",
+      "language": "Java"
+    },
+    {
+      "name": "replay-voice-chat",
+      "repo": "https://github.com/henkelmax/replay-voice-chat",
+      "language": "Java"
+    },
+    {
+      "name": "homecontrol",
+      "repo": "https://github.com/henkelmax/homecontrol",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bitwarden-to-keepass",
+      "repo": "https://github.com/henkelmax/bitwarden-to-keepass",
+      "language": "TypeScript"
+    },
+    {
+      "name": "easy-villagers",
+      "repo": "https://github.com/henkelmax/easy-villagers",
+      "language": "Java"
+    },
+    {
+      "name": "simple-voice-chat-bot",
+      "repo": "https://github.com/henkelmax/simple-voice-chat-bot",
+      "language": "Java"
+    },
+    {
+      "name": "config-builder",
+      "repo": "https://github.com/henkelmax/config-builder",
+      "language": "Java"
+    },
+    {
+      "name": "simplevoicechat.de",
+      "repo": "https://github.com/henkelmax/simplevoicechat.de",
+      "url": "https://simplevoicechat.de",
+      "language": "Vue"
+    },
+    {
+      "name": "weather-server",
+      "repo": "https://github.com/henkelmax/weather-server",
+      "language": "Java"
+    },
+    {
+      "name": "camera-utils",
+      "repo": "https://github.com/henkelmax/camera-utils",
+      "language": "Java"
+    },
+    {
+      "name": "status",
+      "repo": "https://github.com/henkelmax/status",
+      "language": "Java"
+    },
+    {
+      "name": "ultimate-car-mod",
+      "repo": "https://github.com/henkelmax/ultimate-car-mod",
+      "language": "Java"
+    },
+    {
+      "name": "coordinate-hud",
+      "repo": "https://github.com/henkelmax/coordinate-hud",
+      "language": "Java"
+    },
+    {
+      "name": "vanilla-plus",
+      "repo": "https://github.com/henkelmax/vanilla-plus",
+      "language": "Java"
+    },
+    {
+      "name": "advanced-shulkerboxes",
+      "repo": "https://github.com/henkelmax/advanced-shulkerboxes",
+      "language": "Java"
+    },
+    {
+      "name": "trade-cycling",
+      "repo": "https://github.com/henkelmax/trade-cycling",
+      "language": "Java"
+    },
+    {
+      "name": "admiral",
+      "repo": "https://github.com/henkelmax/admiral",
+      "url": "https://modrinth.com/mod/admiral",
+      "language": "Java"
+    },
+    {
+      "name": "sleeping-bags",
+      "repo": "https://github.com/henkelmax/sleeping-bags",
+      "language": "Java"
+    },
+    {
+      "name": "easy-piglins",
+      "repo": "https://github.com/henkelmax/easy-piglins",
+      "language": "Java"
+    },
+    {
+      "name": "reap",
+      "repo": "https://github.com/henkelmax/reap",
+      "language": "Java"
+    },
+    {
+      "name": "ultimate-plane-mod",
+      "repo": "https://github.com/henkelmax/ultimate-plane-mod",
+      "language": "Java"
+    },
+    {
+      "name": "inhabitor",
+      "repo": "https://github.com/henkelmax/inhabitor",
+      "language": "Java"
+    },
+    {
+      "name": "chat-signing-hider",
+      "repo": "https://github.com/henkelmax/chat-signing-hider",
+      "language": "Java"
+    },
+    {
+      "name": "server-resourcepack-checker",
+      "repo": "https://github.com/henkelmax/server-resourcepack-checker",
+      "language": "Java"
+    },
+    {
+      "name": "enhanced-groups",
+      "repo": "https://github.com/henkelmax/enhanced-groups",
+      "language": "Java"
+    },
+    {
+      "name": "view-distance-fix",
+      "repo": "https://github.com/henkelmax/view-distance-fix",
+      "language": "Java"
+    },
+    {
+      "name": "voicechat-interaction",
+      "repo": "https://github.com/henkelmax/voicechat-interaction",
+      "language": "Java"
+    },
+    {
+      "name": "speex4j",
+      "repo": "https://github.com/henkelmax/speex4j",
+      "language": "Java"
+    },
+    {
+      "name": "rnnoise4j",
+      "repo": "https://github.com/henkelmax/rnnoise4j",
+      "language": "C"
+    },
+    {
+      "name": "lame4j",
+      "repo": "https://github.com/henkelmax/lame4j",
+      "language": "Java"
+    },
+    {
+      "name": "opus4j",
+      "repo": "https://github.com/henkelmax/opus4j",
+      "language": "Java"
+    },
+    {
+      "name": "mod-update-server",
+      "repo": "https://github.com/henkelmax/mod-update-server",
+      "language": "Java"
+    },
+    {
+      "name": "timelapse",
+      "repo": "https://github.com/henkelmax/timelapse",
+      "language": "Java"
+    },
+    {
+      "name": "mod-update-plugin",
+      "repo": "https://github.com/henkelmax/mod-update-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "voicechat-api-forge",
+      "repo": "https://github.com/henkelmax/voicechat-api-forge",
+      "language": "Java"
+    },
+    {
+      "name": "voicechat-api-fabric",
+      "repo": "https://github.com/henkelmax/voicechat-api-fabric",
+      "language": "Java"
+    },
+    {
+      "name": "voicechat-api-bukkit",
+      "repo": "https://github.com/henkelmax/voicechat-api-bukkit",
+      "language": "Java"
+    },
+    {
+      "name": "voicechat-api-neoforge",
+      "repo": "https://github.com/henkelmax/voicechat-api-neoforge",
+      "language": "Java"
+    },
+    {
+      "name": "coord-finder",
+      "repo": "https://github.com/henkelmax/coord-finder",
+      "language": "Java"
+    },
+    {
+      "name": "native-utils",
+      "repo": "https://github.com/henkelmax/native-utils",
+      "language": "Java"
+    },
+    {
+      "name": "rnnoise-weights",
+      "repo": "https://github.com/henkelmax/rnnoise-weights"
+    },
+    {
+      "name": "reusable-rockets",
+      "repo": "https://github.com/henkelmax/reusable-rockets",
+      "language": "Java"
+    },
+    {
+      "name": "mod-update-checker",
+      "repo": "https://github.com/henkelmax/mod-update-checker",
+      "language": "Java"
+    },
+    {
+      "name": "vanilla-edge",
+      "repo": "https://github.com/henkelmax/vanilla-edge",
+      "language": "Shell"
+    },
+    {
+      "name": "svc-cli-utils",
+      "repo": "https://github.com/henkelmax/svc-cli-utils",
+      "language": "Rust"
+    },
+    {
+      "name": "openhud",
+      "repo": "https://github.com/henkelmax/openhud",
+      "url": "https://modrinth.com/mod/openhud",
+      "language": "Java"
+    },
+    {
+      "name": "advanced-mining-dimension",
+      "repo": "https://github.com/henkelmax/advanced-mining-dimension",
+      "language": "Java"
+    },
+    {
+      "name": "save-fix",
+      "repo": "https://github.com/henkelmax/save-fix",
+      "language": "Java"
+    },
+    {
+      "name": "traefik-mailcow-certdumper",
+      "repo": "https://github.com/henkelmax/traefik-mailcow-certdumper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wiretap",
+      "repo": "https://github.com/henkelmax/wiretap",
+      "language": "Java"
+    },
+    {
+      "name": "shulker-pick",
+      "repo": "https://github.com/henkelmax/shulker-pick",
+      "language": "Java"
+    },
+    {
+      "name": "cycle-hotbar",
+      "repo": "https://github.com/henkelmax/cycle-hotbar",
+      "language": "Java"
+    },
+    {
+      "name": "character-renderer",
+      "repo": "https://github.com/henkelmax/character-renderer",
+      "language": "Java"
+    },
+    {
+      "name": "simple-voice-chat-radio",
+      "repo": "https://github.com/henkelmax/simple-voice-chat-radio",
+      "language": "Java"
+    },
+    {
+      "name": "teamspeak-connect",
+      "repo": "https://github.com/henkelmax/teamspeak-connect",
+      "language": "Java"
+    },
+    {
+      "name": "delivery-inc",
+      "repo": "https://github.com/henkelmax/delivery-inc",
+      "url": "https://www.curseforge.com/minecraft/modpacks/delivery-inc",
+      "language": "ZenScript"
+    },
+    {
+      "name": "mod-enforcer",
+      "repo": "https://github.com/henkelmax/mod-enforcer",
+      "language": "Java"
+    },
+    {
+      "name": "persistent-players",
+      "repo": "https://github.com/henkelmax/persistent-players",
+      "language": "Java"
+    },
+    {
+      "name": "advanced-tools",
+      "repo": "https://github.com/henkelmax/advanced-tools",
+      "language": "Java"
+    },
+    {
+      "name": "fake-blocks",
+      "repo": "https://github.com/henkelmax/fake-blocks",
+      "language": "Java"
+    },
+    {
+      "name": "anti-mob-griefing",
+      "repo": "https://github.com/henkelmax/anti-mob-griefing",
+      "language": "Java"
+    },
+    {
+      "name": "storage-overhaul",
+      "repo": "https://github.com/henkelmax/storage-overhaul",
+      "language": "Java"
+    },
+    {
+      "name": "dynamic-render-distance",
+      "repo": "https://github.com/henkelmax/dynamic-render-distance",
+      "language": "Java"
+    },
+    {
+      "name": "curseforge-analytics",
+      "repo": "https://github.com/henkelmax/curseforge-analytics",
+      "language": "Vue"
+    },
+    {
+      "name": "chat-hider",
+      "repo": "https://github.com/henkelmax/chat-hider",
+      "language": "Java"
+    },
+    {
+      "name": "issue-template-checker",
+      "repo": "https://github.com/henkelmax/issue-template-checker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "voicechat-broadcast-plugin",
+      "repo": "https://github.com/henkelmax/voicechat-broadcast-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "sound-limit",
+      "repo": "https://github.com/henkelmax/sound-limit",
+      "language": "Java"
+    },
+    {
+      "name": "emoji",
+      "repo": "https://github.com/henkelmax/emoji",
+      "language": "Java"
+    },
+    {
+      "name": "command-permissions",
+      "repo": "https://github.com/henkelmax/command-permissions",
+      "language": "Java"
+    },
+    {
+      "name": "qr-scanner",
+      "repo": "https://github.com/henkelmax/qr-scanner",
+      "language": "Java"
+    },
+    {
+      "name": "delivery-questing",
+      "repo": "https://github.com/henkelmax/delivery-questing",
+      "language": "Java"
+    },
+    {
+      "name": "persistent-chat",
+      "repo": "https://github.com/henkelmax/persistent-chat",
+      "language": "Java"
+    },
+    {
+      "name": "hide-ip",
+      "repo": "https://github.com/henkelmax/hide-ip",
+      "language": "Java"
+    },
+    {
+      "name": "heartrate-graph",
+      "repo": "https://github.com/henkelmax/heartrate-graph",
+      "url": "https://henkelmax.github.io/heartrate-graph",
+      "language": "Vue"
+    },
+    {
+      "name": "steam-common-games",
+      "repo": "https://github.com/henkelmax/steam-common-games",
+      "url": "https://henkelmax.github.io/steam-common-games/",
+      "language": "Vue"
+    },
+    {
+      "name": "steam-common-games-server",
+      "repo": "https://github.com/henkelmax/steam-common-games-server",
+      "url": "https://henkelmax.github.io/steam-common-games/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dreamcatcher",
+      "repo": "https://github.com/henkelmax/dreamcatcher",
+      "url": "https://henkelmax.github.io/dreamcatcher",
+      "language": "Vue"
+    },
+    {
+      "name": "copystation",
+      "repo": "https://github.com/henkelmax/copystation",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cigar2-server",
+      "repo": "https://github.com/henkelmax/cigar2-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "curseforge-modpack-server-generator",
+      "repo": "https://github.com/henkelmax/curseforge-modpack-server-generator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "delivery-inc-discord-announcer-action",
+      "repo": "https://github.com/henkelmax/delivery-inc-discord-announcer-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "upload-curseforge-modpack-action",
+      "repo": "https://github.com/henkelmax/upload-curseforge-modpack-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "build-modpack-server-action",
+      "repo": "https://github.com/henkelmax/build-modpack-server-action",
+      "language": "JavaScript"
+    }
+  ],
   "apps": []
 }

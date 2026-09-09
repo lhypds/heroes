@@ -8,5 +8,575 @@
   "bio": "Biostatistician, Ph. D. (& cinephile 🎬) @quarto-dev wizard 🧙‍♂️",
   "own_repos": 111,
   "commits": 12127,
+  "repos": [
+    {
+      "name": "quarto-wizard",
+      "repo": "https://github.com/mcanouil/quarto-wizard",
+      "url": "https://m.canouil.dev/quarto-wizard/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quarto-extensions",
+      "repo": "https://github.com/mcanouil/quarto-extensions",
+      "language": "Lua"
+    },
+    {
+      "name": "imdb-ratings",
+      "repo": "https://github.com/mcanouil/imdb-ratings",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quarto-extension-test",
+      "repo": "https://github.com/mcanouil/quarto-extension-test",
+      "url": "https://m.canouil.dev/quarto-extension-test/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-typst-render",
+      "repo": "https://github.com/mcanouil/quarto-typst-render",
+      "url": "https://m.canouil.dev/quarto-typst-render/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-toc-depth",
+      "repo": "https://github.com/mcanouil/quarto-toc-depth",
+      "url": "https://m.canouil.dev/quarto-toc-depth/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-revealjs-social",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-social",
+      "url": "https://m.canouil.dev/quarto-revealjs-social/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-revealjs-comic",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-comic",
+      "url": "https://m.canouil.dev/quarto-revealjs-comic/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-revealjs-codefrag",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-codefrag",
+      "url": "https://m.canouil.dev/quarto-revealjs-codefrag/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-revealjs-cascade",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-cascade",
+      "url": "https://m.canouil.dev/quarto-revealjs-cascade/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-remember",
+      "repo": "https://github.com/mcanouil/quarto-remember",
+      "url": "https://m.canouil.dev/quarto-remember/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-prism",
+      "repo": "https://github.com/mcanouil/quarto-prism",
+      "url": "https://m.canouil.dev/quarto-prism/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-preview-colour",
+      "repo": "https://github.com/mcanouil/quarto-preview-colour",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-portable-links",
+      "repo": "https://github.com/mcanouil/quarto-portable-links",
+      "url": "https://m.canouil.dev/quarto-portable-links/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-offset-headings",
+      "repo": "https://github.com/mcanouil/quarto-offset-headings",
+      "url": "https://m.canouil.dev/quarto-offset-headings/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-offcanvas",
+      "repo": "https://github.com/mcanouil/quarto-offcanvas",
+      "url": "https://m.canouil.dev/quarto-offcanvas/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-modal",
+      "repo": "https://github.com/mcanouil/quarto-modal",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-mcanouil",
+      "repo": "https://github.com/mcanouil/quarto-mcanouil",
+      "url": "https://m.canouil.dev/quarto-mcanouil/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-lua-env",
+      "repo": "https://github.com/mcanouil/quarto-lua-env",
+      "url": "https://m.canouil.dev/quarto-lua-env/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-iconify",
+      "repo": "https://github.com/mcanouil/quarto-iconify",
+      "url": "https://m.canouil.dev/quarto-iconify/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-external",
+      "repo": "https://github.com/mcanouil/quarto-external",
+      "url": "https://m.canouil.dev/quarto-external/"
+    },
+    {
+      "name": "quarto-elevator",
+      "repo": "https://github.com/mcanouil/quarto-elevator",
+      "url": "https://m.canouil.dev/quarto-elevator/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-div-reuse",
+      "repo": "https://github.com/mcanouil/quarto-div-reuse",
+      "url": "https://m.canouil.dev/quarto-div-reuse/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-collapse-output",
+      "repo": "https://github.com/mcanouil/quarto-collapse-output",
+      "url": "https://m.canouil.dev/quarto-collapse-output/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-badge",
+      "repo": "https://github.com/mcanouil/quarto-badge",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-animate",
+      "repo": "https://github.com/mcanouil/quarto-animate",
+      "url": "https://m.canouil.dev/quarto-animate/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-revealjs-tabset",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-tabset",
+      "url": "https://m.canouil.dev/quarto-revealjs-tabset/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quarto-revealjs-storybook",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-storybook",
+      "url": "https://m.canouil.dev/quarto-revealjs-storybook/",
+      "language": "SCSS"
+    },
+    {
+      "name": "quarto-revealjs-spotlight",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-spotlight",
+      "url": "https://m.canouil.dev/quarto-revealjs-spotlight/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quarto-revealjs-fragmention",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-fragmention",
+      "url": "https://m.canouil.dev/quarto-revealjs-fragmention/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-revealjs-coeos",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-coeos",
+      "url": "https://m.canouil.dev/quarto-revealjs-coeos/",
+      "language": "HTML"
+    },
+    {
+      "name": "quarto-revealjs-a11y",
+      "repo": "https://github.com/mcanouil/quarto-revealjs-a11y",
+      "url": "https://m.canouil.dev/quarto-revealjs-a11y/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quarto-invoice",
+      "repo": "https://github.com/mcanouil/quarto-invoice",
+      "url": "https://m.canouil.dev/quarto-invoice/index.pdf",
+      "language": "Typst"
+    },
+    {
+      "name": "quarto-better-word",
+      "repo": "https://github.com/mcanouil/quarto-better-word",
+      "url": "https://m.canouil.dev/quarto-better-word/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-masonry",
+      "repo": "https://github.com/mcanouil/quarto-masonry",
+      "url": "https://m.canouil.dev/quarto-masonry/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-letter",
+      "repo": "https://github.com/mcanouil/quarto-letter",
+      "url": "https://m.canouil.dev/quarto-letter/index.pdf",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-highlight-text",
+      "repo": "https://github.com/mcanouil/quarto-highlight-text",
+      "url": "https://m.canouil.dev/quarto-highlight-text/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-gitlink",
+      "repo": "https://github.com/mcanouil/quarto-gitlink",
+      "url": "https://m.canouil.dev/quarto-gitlink/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-code-window",
+      "repo": "https://github.com/mcanouil/quarto-code-window",
+      "url": "https://m.canouil.dev/quarto-code-window/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-atelier",
+      "repo": "https://github.com/mcanouil/quarto-atelier",
+      "url": "https://m.canouil.dev/quarto-atelier/",
+      "language": "SCSS"
+    },
+    {
+      "name": "quarto-lua-modules",
+      "repo": "https://github.com/mcanouil/quarto-lua-modules",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-pastel",
+      "repo": "https://github.com/mcanouil/quarto-pastel",
+      "url": "https://m.canouil.dev/quarto-pastel/",
+      "language": "SCSS"
+    },
+    {
+      "name": "mickael.canouil.fr",
+      "repo": "https://github.com/mcanouil/mickael.canouil.fr",
+      "url": "https://mickael.canouil.fr",
+      "language": "HTML"
+    },
+    {
+      "name": "quarto-completions",
+      "repo": "https://github.com/mcanouil/quarto-completions",
+      "url": "https://m.canouil.dev/quarto-completions/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quarto-gallimaufry",
+      "repo": "https://github.com/mcanouil/quarto-gallimaufry",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-codespaces",
+      "repo": "https://github.com/mcanouil/quarto-codespaces",
+      "url": "https://m.canouil.dev/quarto-codespaces/",
+      "language": "Shell"
+    },
+    {
+      "name": "gribouille",
+      "repo": "https://github.com/mcanouil/gribouille",
+      "url": "https://m.canouil.dev/gribouille/",
+      "language": "Typst"
+    },
+    {
+      "name": "quarto-extensions-updater",
+      "repo": "https://github.com/mcanouil/quarto-extensions-updater",
+      "url": "https://m.canouil.dev/quarto-extensions-updater/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "oboro",
+      "repo": "https://github.com/mcanouil/oboro",
+      "url": "https://m.canouil.dev/oboro/",
+      "language": "Rust"
+    },
+    {
+      "name": "tidytuesday",
+      "repo": "https://github.com/mcanouil/tidytuesday",
+      "language": "Lua"
+    },
+    {
+      "name": "mastering-quarto-cli",
+      "repo": "https://github.com/mcanouil/mastering-quarto-cli",
+      "url": "https://m.canouil.dev/mastering-quarto-cli/",
+      "language": "Lua"
+    },
+    {
+      "name": "minato",
+      "repo": "https://github.com/mcanouil/minato",
+      "url": "https://m.canouil.dev/minato/",
+      "language": "Rust"
+    },
+    {
+      "name": "typst-carousel-gallery",
+      "repo": "https://github.com/mcanouil/typst-carousel-gallery",
+      "url": "https://m.canouil.dev/typst-carousel-gallery/",
+      "language": "Typst"
+    },
+    {
+      "name": "quarto-cli-activity",
+      "repo": "https://github.com/mcanouil/quarto-cli-activity",
+      "language": "Shell"
+    },
+    {
+      "name": "labrador-retriever",
+      "repo": "https://github.com/mcanouil/labrador-retriever",
+      "language": "R"
+    },
+    {
+      "name": "keisen",
+      "repo": "https://github.com/mcanouil/keisen",
+      "url": "https://m.canouil.dev/keisen/",
+      "language": "Typst"
+    },
+    {
+      "name": "quarto-issues-experiments",
+      "repo": "https://github.com/mcanouil/quarto-issues-experiments",
+      "language": "HTML"
+    },
+    {
+      "name": "q2-container",
+      "repo": "https://github.com/mcanouil/q2-container",
+      "language": "Shell"
+    },
+    {
+      "name": "demo-quarto-clinical-report",
+      "repo": "https://github.com/mcanouil/demo-quarto-clinical-report",
+      "url": "https://m.canouil.dev/demo-quarto-clinical-report/",
+      "language": "R"
+    },
+    {
+      "name": "demo-generate-quarto-invoices",
+      "repo": "https://github.com/mcanouil/demo-generate-quarto-invoices",
+      "language": "Typst"
+    },
+    {
+      "name": "radvanced",
+      "repo": "https://github.com/mcanouil/radvanced",
+      "url": "https://m.canouil.dev/radvanced/",
+      "language": "Lua"
+    },
+    {
+      "name": "2025-devcontainer-introduction",
+      "repo": "https://github.com/mcanouil/2025-devcontainer-introduction",
+      "url": "https://m.canouil.dev/2025-devcontainer-introduction/",
+      "language": "Lua"
+    },
+    {
+      "name": "mcanouil.github.io",
+      "repo": "https://github.com/mcanouil/mcanouil.github.io",
+      "url": "https://m.canouil.dev/"
+    },
+    {
+      "name": "mcanouil",
+      "repo": "https://github.com/mcanouil/mcanouil"
+    },
+    {
+      "name": "NACHO",
+      "repo": "https://github.com/mcanouil/NACHO",
+      "url": "https://m.canouil.dev/NACHO/",
+      "language": "R"
+    },
+    {
+      "name": "insane",
+      "repo": "https://github.com/mcanouil/insane",
+      "url": "https://m.canouil.dev/insane/",
+      "language": "R"
+    },
+    {
+      "name": "awesome-quarto",
+      "repo": "https://github.com/mcanouil/awesome-quarto"
+    },
+    {
+      "name": "2026-ggplot2-extenders-gribouille",
+      "repo": "https://github.com/mcanouil/2026-ggplot2-extenders-gribouille",
+      "url": "https://m.canouil.dev/2026-ggplot2-extenders-gribouille/",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-workflows",
+      "repo": "https://github.com/mcanouil/quarto-workflows",
+      "language": "R"
+    },
+    {
+      "name": "2023-gentle-intro-to-quarto",
+      "repo": "https://github.com/mcanouil/2023-gentle-intro-to-quarto",
+      "url": "https://m.canouil.dev/2023-gentle-intro-to-quarto/",
+      "language": "Lua"
+    },
+    {
+      "name": "test-extensions-updater",
+      "repo": "https://github.com/mcanouil/test-extensions-updater",
+      "url": "https://github.com/mcanouil/quarto-extensions-updater",
+      "language": "Lua"
+    },
+    {
+      "name": "demo-shiny-great-docs",
+      "repo": "https://github.com/mcanouil/demo-shiny-great-docs",
+      "language": "Python"
+    },
+    {
+      "name": "quarto-language-cell-decorator",
+      "repo": "https://github.com/mcanouil/quarto-language-cell-decorator",
+      "url": "https://m.canouil.dev/quarto-language-cell-decorator/",
+      "language": "Lua"
+    },
+    {
+      "name": "demo-quarto-pr-preview",
+      "repo": "https://github.com/mcanouil/demo-quarto-pr-preview",
+      "url": "https://m.canouil.dev/demo-quarto-pr-preview/",
+      "language": "CSS"
+    },
+    {
+      "name": "quarto-github",
+      "repo": "https://github.com/mcanouil/quarto-github",
+      "url": "https://m.canouil.dev/quarto-github/",
+      "language": "Lua"
+    },
+    {
+      "name": "curriculum-vitae",
+      "repo": "https://github.com/mcanouil/curriculum-vitae",
+      "url": "https://m.canouil.dev/curriculum-vitae/",
+      "language": "Typst"
+    },
+    {
+      "name": "demo-r-package-shiny-quarto",
+      "repo": "https://github.com/mcanouil/demo-r-package-shiny-quarto",
+      "url": "https://mickael.canouil.fr/posts/2026-07-01-r-package-shiny-quarto/",
+      "language": "R"
+    },
+    {
+      "name": "demo-quarto-brand-renderings",
+      "repo": "https://github.com/mcanouil/demo-quarto-brand-renderings",
+      "url": "https://m.canouil.dev/demo-quarto-brand-renderings/",
+      "language": "R"
+    },
+    {
+      "name": "eggla",
+      "repo": "https://github.com/mcanouil/eggla",
+      "url": "https://m.canouil.dev/eggla/",
+      "language": "R"
+    },
+    {
+      "name": "demo-quarto-dashboard",
+      "repo": "https://github.com/mcanouil/demo-quarto-dashboard",
+      "url": "https://m.canouil.dev/demo-quarto-dashboard/",
+      "language": "R"
+    },
+    {
+      "name": "palgwas",
+      "repo": "https://github.com/mcanouil/palgwas",
+      "url": "https://m.canouil.dev/palgwas/",
+      "language": "R"
+    },
+    {
+      "name": "issue-large-brand-yml",
+      "repo": "https://github.com/mcanouil/issue-large-brand-yml",
+      "language": "CSS"
+    },
+    {
+      "name": "demo-brand-quarto-pkgdown",
+      "repo": "https://github.com/mcanouil/demo-brand-quarto-pkgdown",
+      "url": "https://m.canouil.dev/demo-brand-quarto-pkgdown/",
+      "language": "R"
+    },
+    {
+      "name": "mcanouil.r-universe.dev",
+      "repo": "https://github.com/mcanouil/mcanouil.r-universe.dev",
+      "url": "https://mcanouil.r-universe.dev",
+      "language": "R"
+    },
+    {
+      "name": "demo-quarto-venv",
+      "repo": "https://github.com/mcanouil/demo-quarto-venv"
+    },
+    {
+      "name": "publishing-templates",
+      "repo": "https://github.com/mcanouil/publishing-templates",
+      "language": "HTML"
+    },
+    {
+      "name": "analysis-scripts-templates",
+      "repo": "https://github.com/mcanouil/analysis-scripts-templates",
+      "language": "R"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/mcanouil/slides",
+      "url": "https://m.canouil.dev/slides/",
+      "language": "HTML"
+    },
+    {
+      "name": "MiSTr",
+      "repo": "https://github.com/mcanouil/MiSTr",
+      "url": "https://m.canouil.dev/MiSTr/",
+      "language": "R"
+    },
+    {
+      "name": "ggpacman",
+      "repo": "https://github.com/mcanouil/ggpacman",
+      "language": "R"
+    },
+    {
+      "name": "docker-versioned",
+      "repo": "https://github.com/mcanouil/docker-versioned",
+      "url": "https://hub.docker.com/orgs/umr1283/repositories",
+      "language": "Shell"
+    },
+    {
+      "name": "ggFunctions",
+      "repo": "https://github.com/mcanouil/ggFunctions",
+      "language": "R"
+    },
+    {
+      "name": "xaringan-template",
+      "repo": "https://github.com/mcanouil/xaringan-template",
+      "language": "HTML"
+    },
+    {
+      "name": "xaringan-storybook",
+      "repo": "https://github.com/mcanouil/xaringan-storybook",
+      "language": "HTML"
+    },
+    {
+      "name": "RHAPSODY",
+      "repo": "https://github.com/mcanouil/RHAPSODY",
+      "url": "https://m.canouil.dev/RHAPSODY/",
+      "language": "R"
+    },
+    {
+      "name": "hex-stickers",
+      "repo": "https://github.com/mcanouil/hex-stickers"
+    },
+    {
+      "name": "rpackages",
+      "repo": "https://github.com/mcanouil/rpackages",
+      "url": "https://m.canouil.dev/rpackages/",
+      "language": "HTML"
+    },
+    {
+      "name": "rstartup",
+      "repo": "https://github.com/mcanouil/rstartup",
+      "url": "https://m.canouil.dev/rstartup/",
+      "language": "HTML"
+    },
+    {
+      "name": "journey-reproducibility",
+      "repo": "https://github.com/mcanouil/journey-reproducibility",
+      "url": "https://m.canouil.dev/journey-reproducibility/",
+      "language": "HTML"
+    },
+    {
+      "name": "NACHO_slides",
+      "repo": "https://github.com/mcanouil/NACHO_slides",
+      "url": "https://m.canouil.dev/NACHO_slides/",
+      "language": "TeX"
+    }
+  ],
   "apps": []
 }

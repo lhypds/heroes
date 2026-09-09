@@ -8,5 +8,507 @@
   "bio": "Chief Scientist at @posit-pbc",
   "own_repos": 203,
   "commits": 10714,
+  "repos": [
+    {
+      "name": "iah-wait-time",
+      "repo": "https://github.com/hadley/iah-wait-time",
+      "language": "R"
+    },
+    {
+      "name": "contoso",
+      "repo": "https://github.com/hadley/contoso",
+      "language": "R"
+    },
+    {
+      "name": "bananarama",
+      "repo": "https://github.com/hadley/bananarama",
+      "url": "https://hadley.github.io/bananarama/",
+      "language": "R"
+    },
+    {
+      "name": "r-pkgs",
+      "repo": "https://github.com/hadley/r-pkgs",
+      "url": "https://r-pkgs.org",
+      "language": "R"
+    },
+    {
+      "name": "cran-deadlines",
+      "repo": "https://github.com/hadley/cran-deadlines",
+      "url": "https://hadley.github.io/cran-deadlines/",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "available-work",
+      "repo": "https://github.com/hadley/available-work",
+      "language": "R"
+    },
+    {
+      "name": "houston-pollen",
+      "repo": "https://github.com/hadley/houston-pollen",
+      "language": "R"
+    },
+    {
+      "name": "data-diff",
+      "repo": "https://github.com/hadley/data-diff",
+      "language": "Rust"
+    },
+    {
+      "name": "r-internals",
+      "repo": "https://github.com/hadley/r-internals",
+      "language": "C"
+    },
+    {
+      "name": "adventure-works",
+      "repo": "https://github.com/hadley/adventure-works",
+      "language": "R"
+    },
+    {
+      "name": "dabstep",
+      "repo": "https://github.com/hadley/dabstep",
+      "language": "R"
+    },
+    {
+      "name": "otters",
+      "repo": "https://github.com/hadley/otters",
+      "language": "HTML"
+    },
+    {
+      "name": "foodbank",
+      "repo": "https://github.com/hadley/foodbank",
+      "language": "R"
+    },
+    {
+      "name": "loan-application",
+      "repo": "https://github.com/hadley/loan-application",
+      "language": "R"
+    },
+    {
+      "name": "y-code",
+      "repo": "https://github.com/hadley/y-code"
+    },
+    {
+      "name": "r4ds",
+      "repo": "https://github.com/hadley/r4ds",
+      "url": "https://r4ds.hadley.nz/",
+      "language": "R"
+    },
+    {
+      "name": "tidyverse-learnings",
+      "repo": "https://github.com/hadley/tidyverse-learnings",
+      "language": "R"
+    },
+    {
+      "name": "hadleynz",
+      "repo": "https://github.com/hadley/hadleynz",
+      "url": "https://hadley.nz"
+    },
+    {
+      "name": "posit-shorts",
+      "repo": "https://github.com/hadley/posit-shorts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "data-editor",
+      "repo": "https://github.com/hadley/data-editor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hermes-bags",
+      "repo": "https://github.com/hadley/hermes-bags",
+      "language": "HTML"
+    },
+    {
+      "name": "mailinglist-data",
+      "repo": "https://github.com/hadley/mailinglist-data",
+      "language": "R"
+    },
+    {
+      "name": "26-04-health-spending",
+      "repo": "https://github.com/hadley/26-04-health-spending",
+      "language": "R"
+    },
+    {
+      "name": "lazyeval",
+      "repo": "https://github.com/hadley/lazyeval",
+      "language": "C"
+    },
+    {
+      "name": "gridfinity",
+      "repo": "https://github.com/hadley/gridfinity",
+      "language": "OpenSCAD"
+    },
+    {
+      "name": "classifly",
+      "repo": "https://github.com/hadley/classifly",
+      "language": "R"
+    },
+    {
+      "name": "mastering-shiny",
+      "repo": "https://github.com/hadley/mastering-shiny",
+      "url": "https://mastering-shiny.org/",
+      "language": "R"
+    },
+    {
+      "name": "time-will-tell",
+      "repo": "https://github.com/hadley/time-will-tell",
+      "language": "Swift"
+    },
+    {
+      "name": "smolpoll",
+      "repo": "https://github.com/hadley/smolpoll",
+      "language": "Go"
+    },
+    {
+      "name": "YELLING",
+      "repo": "https://github.com/hadley/YELLING",
+      "url": "https://hadley.github.io/YELLING/",
+      "language": "R"
+    },
+    {
+      "name": "highlight",
+      "repo": "https://github.com/hadley/highlight",
+      "language": "C++"
+    },
+    {
+      "name": "workshop-llm-hackathon",
+      "repo": "https://github.com/hadley/workshop-llm-hackathon",
+      "language": "R"
+    },
+    {
+      "name": "reshape",
+      "repo": "https://github.com/hadley/reshape",
+      "language": "R"
+    },
+    {
+      "name": "genzplyr",
+      "repo": "https://github.com/hadley/genzplyr",
+      "url": "https://hadley.github.io/genzplyr/",
+      "language": "R"
+    },
+    {
+      "name": "vignettepaths",
+      "repo": "https://github.com/hadley/vignettepaths",
+      "url": "https://hadley.github.io/vignettepaths/"
+    },
+    {
+      "name": "productplots",
+      "repo": "https://github.com/hadley/productplots",
+      "language": "R"
+    },
+    {
+      "name": "25-tidyverse-history",
+      "repo": "https://github.com/hadley/25-tidyverse-history",
+      "url": "https://hadley.github.io/25-tidyverse-history/",
+      "language": "R"
+    },
+    {
+      "name": "news-scraping",
+      "repo": "https://github.com/hadley/news-scraping",
+      "language": "R"
+    },
+    {
+      "name": "madlibs5",
+      "repo": "https://github.com/hadley/madlibs5",
+      "language": "R"
+    },
+    {
+      "name": "diamonds5",
+      "repo": "https://github.com/hadley/diamonds5",
+      "url": "https://hadley.github.io/diamonds5/"
+    },
+    {
+      "name": "diamonds4",
+      "repo": "https://github.com/hadley/diamonds4"
+    },
+    {
+      "name": "purrrlyr",
+      "repo": "https://github.com/hadley/purrrlyr",
+      "language": "C++"
+    },
+    {
+      "name": "news-2",
+      "repo": "https://github.com/hadley/news-2",
+      "language": "R"
+    },
+    {
+      "name": "diamonds3",
+      "repo": "https://github.com/hadley/diamonds3"
+    },
+    {
+      "name": "lvplot",
+      "repo": "https://github.com/hadley/lvplot",
+      "language": "R"
+    },
+    {
+      "name": "cocktails",
+      "repo": "https://github.com/hadley/cocktails",
+      "url": "https://cocktails.hadley.nz/",
+      "language": "R"
+    },
+    {
+      "name": "r-in-production",
+      "repo": "https://github.com/hadley/r-in-production",
+      "url": "https://r-in-production.org/",
+      "language": "SCSS"
+    },
+    {
+      "name": "strict",
+      "repo": "https://github.com/hadley/strict",
+      "url": "https://hadley.github.io/strict/",
+      "language": "R"
+    },
+    {
+      "name": "nasaweather",
+      "repo": "https://github.com/hadley/nasaweather",
+      "language": "R"
+    },
+    {
+      "name": "failrmd",
+      "repo": "https://github.com/hadley/failrmd",
+      "language": "R"
+    },
+    {
+      "name": "adv-r",
+      "repo": "https://github.com/hadley/adv-r",
+      "language": "TeX"
+    },
+    {
+      "name": "ggplot2-book",
+      "repo": "https://github.com/hadley/ggplot2-book",
+      "url": "https://ggplot2-book.org/",
+      "language": "Perl"
+    },
+    {
+      "name": "recipes",
+      "repo": "https://github.com/hadley/recipes",
+      "language": "R"
+    },
+    {
+      "name": "r4ds-1e",
+      "repo": "https://github.com/hadley/r4ds-1e",
+      "url": "https://r4ds.had.co.nz/",
+      "language": "R"
+    },
+    {
+      "name": "testvignette",
+      "repo": "https://github.com/hadley/testvignette"
+    },
+    {
+      "name": "ggplot1",
+      "repo": "https://github.com/hadley/ggplot1",
+      "language": "R"
+    },
+    {
+      "name": "plyr",
+      "repo": "https://github.com/hadley/plyr",
+      "language": "R"
+    },
+    {
+      "name": "product-sales",
+      "repo": "https://github.com/hadley/product-sales",
+      "language": "R"
+    },
+    {
+      "name": "cocktails-demo",
+      "repo": "https://github.com/hadley/cocktails-demo",
+      "url": "https://connect.posit.cloud/hadley/content/0191a3d0-753a-28a7-7f5e-d668d412007d",
+      "language": "R"
+    },
+    {
+      "name": "madlibs4",
+      "repo": "https://github.com/hadley/madlibs4",
+      "language": "R"
+    },
+    {
+      "name": "newsapp",
+      "repo": "https://github.com/hadley/newsapp",
+      "language": "R"
+    },
+    {
+      "name": "madlibs3",
+      "repo": "https://github.com/hadley/madlibs3",
+      "language": "R"
+    },
+    {
+      "name": "quarto-fail",
+      "repo": "https://github.com/hadley/quarto-fail"
+    },
+    {
+      "name": "eggnogr",
+      "repo": "https://github.com/hadley/eggnogr",
+      "url": "https://hadley-eggnogr.share.connect.posit.cloud",
+      "language": "R"
+    },
+    {
+      "name": "madlib",
+      "repo": "https://github.com/hadley/madlib",
+      "url": "https://hadley-madlib.share.connect.posit.cloud",
+      "language": "R"
+    },
+    {
+      "name": "knitr-error",
+      "repo": "https://github.com/hadley/knitr-error"
+    },
+    {
+      "name": "web-scraping",
+      "repo": "https://github.com/hadley/web-scraping",
+      "language": "R"
+    },
+    {
+      "name": "gha",
+      "repo": "https://github.com/hadley/gha",
+      "language": "R"
+    },
+    {
+      "name": "useself",
+      "repo": "https://github.com/hadley/useself"
+    },
+    {
+      "name": "pkgdown.issue2505",
+      "repo": "https://github.com/hadley/pkgdown.issue2505",
+      "language": "R"
+    },
+    {
+      "name": "pryr",
+      "repo": "https://github.com/hadley/pryr",
+      "language": "R"
+    },
+    {
+      "name": "l1tf",
+      "repo": "https://github.com/hadley/l1tf",
+      "language": "C"
+    },
+    {
+      "name": "talk-httr2",
+      "repo": "https://github.com/hadley/talk-httr2",
+      "language": "R"
+    },
+    {
+      "name": "pkgdown.gganimate",
+      "repo": "https://github.com/hadley/pkgdown.gganimate"
+    },
+    {
+      "name": "chequer",
+      "repo": "https://github.com/hadley/chequer"
+    },
+    {
+      "name": "testcoverage",
+      "repo": "https://github.com/hadley/testcoverage",
+      "language": "R"
+    },
+    {
+      "name": "stringb",
+      "repo": "https://github.com/hadley/stringb",
+      "language": "R"
+    },
+    {
+      "name": "renvdep",
+      "repo": "https://github.com/hadley/renvdep",
+      "language": "R"
+    },
+    {
+      "name": "assertthat",
+      "repo": "https://github.com/hadley/assertthat",
+      "language": "R"
+    },
+    {
+      "name": "catfda",
+      "repo": "https://github.com/hadley/catfda",
+      "language": "R"
+    },
+    {
+      "name": "htmlbook",
+      "repo": "https://github.com/hadley/htmlbook",
+      "language": "HTML"
+    },
+    {
+      "name": "test4",
+      "repo": "https://github.com/hadley/test4"
+    },
+    {
+      "name": "test3",
+      "repo": "https://github.com/hadley/test3"
+    },
+    {
+      "name": "testtest",
+      "repo": "https://github.com/hadley/testtest"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/hadley/test"
+    },
+    {
+      "name": "crantastic",
+      "repo": "https://github.com/hadley/crantastic",
+      "language": "Ruby"
+    },
+    {
+      "name": "tidycore",
+      "repo": "https://github.com/hadley/tidycore",
+      "language": "R"
+    },
+    {
+      "name": "minby",
+      "repo": "https://github.com/hadley/minby",
+      "language": "R"
+    },
+    {
+      "name": "cubelyr",
+      "repo": "https://github.com/hadley/cubelyr",
+      "language": "R"
+    },
+    {
+      "name": "proto",
+      "repo": "https://github.com/hadley/proto",
+      "language": "R"
+    },
+    {
+      "name": "tidyverse-iceland",
+      "repo": "https://github.com/hadley/tidyverse-iceland",
+      "language": "SCSS"
+    },
+    {
+      "name": "kittens",
+      "repo": "https://github.com/hadley/kittens"
+    },
+    {
+      "name": "froofilicious",
+      "repo": "https://github.com/hadley/froofilicious"
+    },
+    {
+      "name": "meifly",
+      "repo": "https://github.com/hadley/meifly",
+      "language": "R"
+    },
+    {
+      "name": "babynames",
+      "repo": "https://github.com/hadley/babynames",
+      "language": "R"
+    },
+    {
+      "name": "test-pins",
+      "repo": "https://github.com/hadley/test-pins"
+    },
+    {
+      "name": "monthApp",
+      "repo": "https://github.com/hadley/monthApp",
+      "language": "R"
+    },
+    {
+      "name": "scagnostics",
+      "repo": "https://github.com/hadley/scagnostics",
+      "language": "C++"
+    },
+    {
+      "name": "s3method",
+      "repo": "https://github.com/hadley/s3method",
+      "language": "R"
+    },
+    {
+      "name": "requirements",
+      "repo": "https://github.com/hadley/requirements",
+      "language": "R"
+    }
+  ],
   "apps": []
 }

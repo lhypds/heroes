@@ -8,5 +8,502 @@
   "bio": "Professor of Computer Science",
   "own_repos": 127,
   "commits": 26018,
+  "repos": [
+    {
+      "name": "tennlab-fpga",
+      "repo": "https://github.com/simondlevy/tennlab-fpga",
+      "language": "C++"
+    },
+    {
+      "name": "ArduinoTools",
+      "repo": "https://github.com/simondlevy/ArduinoTools",
+      "language": "C++"
+    },
+    {
+      "name": "Hackflight",
+      "repo": "https://github.com/simondlevy/Hackflight",
+      "language": "C++"
+    },
+    {
+      "name": "simondlevy.github.io",
+      "repo": "https://github.com/simondlevy/simondlevy.github.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "iteberneac",
+      "repo": "https://github.com/simondlevy/iteberneac"
+    },
+    {
+      "name": "tbakare",
+      "repo": "https://github.com/simondlevy/tbakare",
+      "language": "Python"
+    },
+    {
+      "name": "mrafid",
+      "repo": "https://github.com/simondlevy/mrafid",
+      "language": "Python"
+    },
+    {
+      "name": "a7-uart",
+      "repo": "https://github.com/simondlevy/a7-uart",
+      "language": "Verilog"
+    },
+    {
+      "name": "bmi088-i2c-breakout",
+      "repo": "https://github.com/simondlevy/bmi088-i2c-breakout"
+    },
+    {
+      "name": "espnow-transponder",
+      "repo": "https://github.com/simondlevy/espnow-transponder",
+      "language": "C++"
+    },
+    {
+      "name": "dshot-teensy4",
+      "repo": "https://github.com/simondlevy/dshot-teensy4",
+      "language": "C++"
+    },
+    {
+      "name": "RealtimePlotter",
+      "repo": "https://github.com/simondlevy/RealtimePlotter",
+      "language": "Python"
+    },
+    {
+      "name": "UCLIF",
+      "repo": "https://github.com/simondlevy/UCLIF",
+      "language": "Python"
+    },
+    {
+      "name": "TinyEKF",
+      "repo": "https://github.com/simondlevy/TinyEKF",
+      "language": "Python"
+    },
+    {
+      "name": "simsensors",
+      "repo": "https://github.com/simondlevy/simsensors",
+      "language": "C++"
+    },
+    {
+      "name": "PyRoboViz",
+      "repo": "https://github.com/simondlevy/PyRoboViz",
+      "language": "Python"
+    },
+    {
+      "name": "BreezySLAM",
+      "repo": "https://github.com/simondlevy/BreezySLAM",
+      "language": "C"
+    },
+    {
+      "name": "DSMRX",
+      "repo": "https://github.com/simondlevy/DSMRX",
+      "language": "C++"
+    },
+    {
+      "name": "OneShot125",
+      "repo": "https://github.com/simondlevy/OneShot125",
+      "language": "C++"
+    },
+    {
+      "name": "DynamicDispatch",
+      "repo": "https://github.com/simondlevy/DynamicDispatch",
+      "language": "Java"
+    },
+    {
+      "name": "VL53L5CX",
+      "repo": "https://github.com/simondlevy/VL53L5CX",
+      "language": "C"
+    },
+    {
+      "name": "PAA3905",
+      "repo": "https://github.com/simondlevy/PAA3905",
+      "language": "C++"
+    },
+    {
+      "name": "PMW3901",
+      "repo": "https://github.com/simondlevy/PMW3901",
+      "language": "C++"
+    },
+    {
+      "name": "atm",
+      "repo": "https://github.com/simondlevy/atm",
+      "language": "Python"
+    },
+    {
+      "name": "MPU6x00",
+      "repo": "https://github.com/simondlevy/MPU6x00",
+      "language": "C++"
+    },
+    {
+      "name": "xtensa-math",
+      "repo": "https://github.com/simondlevy/xtensa-math",
+      "language": "C"
+    },
+    {
+      "name": "gym-mygame",
+      "repo": "https://github.com/simondlevy/gym-mygame",
+      "language": "Python"
+    },
+    {
+      "name": "ltspice",
+      "repo": "https://github.com/simondlevy/ltspice",
+      "language": "AGS Script"
+    },
+    {
+      "name": "spikeplotter",
+      "repo": "https://github.com/simondlevy/spikeplotter",
+      "language": "Python"
+    },
+    {
+      "name": "pysmirfduino",
+      "repo": "https://github.com/simondlevy/pysmirfduino",
+      "language": "Python"
+    },
+    {
+      "name": "RealAntBT",
+      "repo": "https://github.com/simondlevy/RealAntBT",
+      "language": "Python"
+    },
+    {
+      "name": "posix-utils",
+      "repo": "https://github.com/simondlevy/posix-utils",
+      "language": "C++"
+    },
+    {
+      "name": "eDVS",
+      "repo": "https://github.com/simondlevy/eDVS",
+      "language": "Python"
+    },
+    {
+      "name": "MulticopterSim",
+      "repo": "https://github.com/simondlevy/MulticopterSim",
+      "language": "C++"
+    },
+    {
+      "name": "SimFlightControl",
+      "repo": "https://github.com/simondlevy/SimFlightControl",
+      "language": "Python"
+    },
+    {
+      "name": "USFS",
+      "repo": "https://github.com/simondlevy/USFS",
+      "language": "C++"
+    },
+    {
+      "name": "MultirotorDynamics",
+      "repo": "https://github.com/simondlevy/MultirotorDynamics",
+      "language": "MATLAB"
+    },
+    {
+      "name": "gym-copter",
+      "repo": "https://github.com/simondlevy/gym-copter",
+      "language": "Python"
+    },
+    {
+      "name": "arduino-STM32L4",
+      "repo": "https://github.com/simondlevy/arduino-STM32L4",
+      "language": "C"
+    },
+    {
+      "name": "Copilot",
+      "repo": "https://github.com/simondlevy/Copilot",
+      "language": "Haskell"
+    },
+    {
+      "name": "OpticalFlow",
+      "repo": "https://github.com/simondlevy/OpticalFlow",
+      "language": "C++"
+    },
+    {
+      "name": "PySticks",
+      "repo": "https://github.com/simondlevy/PySticks",
+      "language": "Python"
+    },
+    {
+      "name": "BreezyLidar",
+      "repo": "https://github.com/simondlevy/BreezyLidar",
+      "language": "C"
+    },
+    {
+      "name": "simdvs",
+      "repo": "https://github.com/simondlevy/simdvs",
+      "language": "Python"
+    },
+    {
+      "name": "RoverPylot",
+      "repo": "https://github.com/simondlevy/RoverPylot",
+      "language": "Python"
+    },
+    {
+      "name": "CrossPlatformDataBus",
+      "repo": "https://github.com/simondlevy/CrossPlatformDataBus",
+      "language": "C++"
+    },
+    {
+      "name": "dvs-filters",
+      "repo": "https://github.com/simondlevy/dvs-filters",
+      "language": "Python"
+    },
+    {
+      "name": "ArduRust32",
+      "repo": "https://github.com/simondlevy/ArduRust32",
+      "language": "Python"
+    },
+    {
+      "name": "BreezyArduCAM",
+      "repo": "https://github.com/simondlevy/BreezyArduCAM",
+      "language": "C"
+    },
+    {
+      "name": "Crazyflie-Cable-Deck",
+      "repo": "https://github.com/simondlevy/Crazyflie-Cable-Deck"
+    },
+    {
+      "name": "bolt-esc",
+      "repo": "https://github.com/simondlevy/bolt-esc"
+    },
+    {
+      "name": "WslLinuxSocket",
+      "repo": "https://github.com/simondlevy/WslLinuxSocket",
+      "language": "C++"
+    },
+    {
+      "name": "kbhit",
+      "repo": "https://github.com/simondlevy/kbhit",
+      "language": "Python"
+    },
+    {
+      "name": "DshotSTM32",
+      "repo": "https://github.com/simondlevy/DshotSTM32",
+      "language": "C++"
+    },
+    {
+      "name": "BMI270-SPI",
+      "repo": "https://github.com/simondlevy/BMI270-SPI",
+      "language": "C"
+    },
+    {
+      "name": "TwoStepFilter",
+      "repo": "https://github.com/simondlevy/TwoStepFilter",
+      "language": "TeX"
+    },
+    {
+      "name": "dynamixel-ax12",
+      "repo": "https://github.com/simondlevy/dynamixel-ax12",
+      "language": "Python"
+    },
+    {
+      "name": "AC-Gym",
+      "repo": "https://github.com/simondlevy/AC-Gym",
+      "language": "Python"
+    },
+    {
+      "name": "PyBulletAnt",
+      "repo": "https://github.com/simondlevy/PyBulletAnt",
+      "language": "Python"
+    },
+    {
+      "name": "RoboFirmwareToolkit",
+      "repo": "https://github.com/simondlevy/RoboFirmwareToolkit",
+      "language": "C++"
+    },
+    {
+      "name": "PyQuadSim",
+      "repo": "https://github.com/simondlevy/PyQuadSim",
+      "language": "Python"
+    },
+    {
+      "name": "Hackflight-VREP",
+      "repo": "https://github.com/simondlevy/Hackflight-VREP",
+      "language": "C++"
+    },
+    {
+      "name": "SensorFusion",
+      "repo": "https://github.com/simondlevy/SensorFusion",
+      "language": "MATLAB"
+    },
+    {
+      "name": "EMS22A50",
+      "repo": "https://github.com/simondlevy/EMS22A50",
+      "language": "Python"
+    },
+    {
+      "name": "csci252-examples",
+      "repo": "https://github.com/simondlevy/csci252-examples",
+      "language": "Python"
+    },
+    {
+      "name": "AirSimCar",
+      "repo": "https://github.com/simondlevy/AirSimCar",
+      "language": "Python"
+    },
+    {
+      "name": "sockets",
+      "repo": "https://github.com/simondlevy/sockets",
+      "language": "Python"
+    },
+    {
+      "name": "MSPPG",
+      "repo": "https://github.com/simondlevy/MSPPG"
+    },
+    {
+      "name": "neat-gym",
+      "repo": "https://github.com/simondlevy/neat-gym",
+      "language": "Python"
+    },
+    {
+      "name": "OpenCV-Python-Hacks",
+      "repo": "https://github.com/simondlevy/OpenCV-Python-Hacks",
+      "language": "Python"
+    },
+    {
+      "name": "ES-Gym",
+      "repo": "https://github.com/simondlevy/ES-Gym",
+      "language": "Python"
+    },
+    {
+      "name": "CMA-Gym",
+      "repo": "https://github.com/simondlevy/CMA-Gym",
+      "language": "Python"
+    },
+    {
+      "name": "SUEAP",
+      "repo": "https://github.com/simondlevy/SUEAP",
+      "language": "MATLAB"
+    },
+    {
+      "name": "TinyNEF",
+      "repo": "https://github.com/simondlevy/TinyNEF",
+      "language": "Python"
+    },
+    {
+      "name": "WaveshareOLED",
+      "repo": "https://github.com/simondlevy/WaveshareOLED",
+      "language": "C++"
+    },
+    {
+      "name": "clothing",
+      "repo": "https://github.com/simondlevy/clothing",
+      "language": "Python"
+    },
+    {
+      "name": "pidcontroller",
+      "repo": "https://github.com/simondlevy/pidcontroller",
+      "language": "Python"
+    },
+    {
+      "name": "CppSockets",
+      "repo": "https://github.com/simondlevy/CppSockets",
+      "language": "C++"
+    },
+    {
+      "name": "actor_critic",
+      "repo": "https://github.com/simondlevy/actor_critic",
+      "language": "Python"
+    },
+    {
+      "name": "NengoCPP",
+      "repo": "https://github.com/simondlevy/NengoCPP",
+      "language": "C++"
+    },
+    {
+      "name": "WinJSTest",
+      "repo": "https://github.com/simondlevy/WinJSTest",
+      "language": "C++"
+    },
+    {
+      "name": "PythonSockets",
+      "repo": "https://github.com/simondlevy/PythonSockets",
+      "language": "Python"
+    },
+    {
+      "name": "LateralInhibition",
+      "repo": "https://github.com/simondlevy/LateralInhibition",
+      "language": "MATLAB"
+    },
+    {
+      "name": "GraphIsomorphism",
+      "repo": "https://github.com/simondlevy/GraphIsomorphism",
+      "language": "MATLAB"
+    },
+    {
+      "name": "Beetle",
+      "repo": "https://github.com/simondlevy/Beetle",
+      "language": "MATLAB"
+    },
+    {
+      "name": "GradientDescent",
+      "repo": "https://github.com/simondlevy/GradientDescent",
+      "language": "MATLAB"
+    },
+    {
+      "name": "OpenCV_GStreamer",
+      "repo": "https://github.com/simondlevy/OpenCV_GStreamer",
+      "language": "C++"
+    },
+    {
+      "name": "UE4_OpenCV",
+      "repo": "https://github.com/simondlevy/UE4_OpenCV",
+      "language": "C++"
+    },
+    {
+      "name": "ArduEye",
+      "repo": "https://github.com/simondlevy/ArduEye",
+      "language": "C++"
+    },
+    {
+      "name": "LSM6DSM",
+      "repo": "https://github.com/simondlevy/LSM6DSM",
+      "language": "C++"
+    },
+    {
+      "name": "CPPMRX",
+      "repo": "https://github.com/simondlevy/CPPMRX",
+      "language": "C++"
+    },
+    {
+      "name": "LPS22HB",
+      "repo": "https://github.com/simondlevy/LPS22HB",
+      "language": "C++"
+    },
+    {
+      "name": "LIS2MDL",
+      "repo": "https://github.com/simondlevy/LIS2MDL",
+      "language": "C++"
+    },
+    {
+      "name": "MS5637",
+      "repo": "https://github.com/simondlevy/MS5637",
+      "language": "C++"
+    },
+    {
+      "name": "MB1242",
+      "repo": "https://github.com/simondlevy/MB1242",
+      "language": "C++"
+    },
+    {
+      "name": "csci313_ps0",
+      "repo": "https://github.com/simondlevy/csci313_ps0",
+      "language": "TeX"
+    },
+    {
+      "name": "AirSimTensorFlow",
+      "repo": "https://github.com/simondlevy/AirSimTensorFlow",
+      "language": "Python"
+    },
+    {
+      "name": "PS2X_lib",
+      "repo": "https://github.com/simondlevy/PS2X_lib",
+      "language": "C++"
+    },
+    {
+      "name": "xvlidar",
+      "repo": "https://github.com/simondlevy/xvlidar",
+      "language": "Python"
+    },
+    {
+      "name": "ARDroneAutoPylot",
+      "repo": "https://github.com/simondlevy/ARDroneAutoPylot",
+      "language": "C"
+    }
+  ],
   "apps": []
 }

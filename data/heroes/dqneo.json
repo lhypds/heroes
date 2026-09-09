@@ -7,5 +7,498 @@
   "bio": "Software Engineer at @mercari",
   "own_repos": 135,
   "commits": 15436,
+  "repos": [
+    {
+      "name": "ai-tech-writing",
+      "repo": "https://github.com/DQNEO/ai-tech-writing"
+    },
+    {
+      "name": "claude-code-book-builder",
+      "repo": "https://github.com/DQNEO/claude-code-book-builder",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/DQNEO/dotfiles",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "apple-dictionary-parser",
+      "repo": "https://github.com/DQNEO/apple-dictionary-parser",
+      "language": "Go"
+    },
+    {
+      "name": "Renshu",
+      "repo": "https://github.com/DQNEO/Renshu",
+      "language": "HTML"
+    },
+    {
+      "name": "babygo",
+      "repo": "https://github.com/DQNEO/babygo",
+      "language": "Go"
+    },
+    {
+      "name": "go-samples",
+      "repo": "https://github.com/DQNEO/go-samples",
+      "language": "Go"
+    },
+    {
+      "name": "matrix",
+      "repo": "https://github.com/DQNEO/matrix",
+      "language": "Go"
+    },
+    {
+      "name": "goas",
+      "repo": "https://github.com/DQNEO/goas",
+      "language": "Assembly"
+    },
+    {
+      "name": "docker-ubuntu",
+      "repo": "https://github.com/DQNEO/docker-ubuntu",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-build-bash",
+      "repo": "https://github.com/DQNEO/go-build-bash",
+      "language": "Shell"
+    },
+    {
+      "name": "ai-corrects-my-monologue",
+      "repo": "https://github.com/DQNEO/ai-corrects-my-monologue",
+      "language": "Shell"
+    },
+    {
+      "name": "splatoon3-random",
+      "repo": "https://github.com/DQNEO/splatoon3-random",
+      "url": "https://dqneo.github.io/splatoon3-random",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ansible-role-nginx",
+      "repo": "https://github.com/DQNEO/ansible-role-nginx"
+    },
+    {
+      "name": "memo",
+      "repo": "https://github.com/DQNEO/memo",
+      "language": "PHP"
+    },
+    {
+      "name": "Amazon-S3-Thin",
+      "repo": "https://github.com/DQNEO/Amazon-S3-Thin",
+      "url": "https://metacpan.org/pod/Amazon::S3::Thin",
+      "language": "Perl"
+    },
+    {
+      "name": "oxgame",
+      "repo": "https://github.com/DQNEO/oxgame",
+      "url": "https://dqneo.github.io/oxgame/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gospec",
+      "repo": "https://github.com/DQNEO/gospec",
+      "url": "https://dqneo.github.io/gospec/spec.html",
+      "language": "Makefile"
+    },
+    {
+      "name": "gospec-analyzer",
+      "repo": "https://github.com/DQNEO/gospec-analyzer",
+      "language": "HTML"
+    },
+    {
+      "name": "go-webapp-example",
+      "repo": "https://github.com/DQNEO/go-webapp-example",
+      "language": "Go"
+    },
+    {
+      "name": "Kaomoji",
+      "repo": "https://github.com/DQNEO/Kaomoji"
+    },
+    {
+      "name": "minigo",
+      "repo": "https://github.com/DQNEO/minigo",
+      "language": "Go"
+    },
+    {
+      "name": "cookbook-tokyotyrant",
+      "repo": "https://github.com/DQNEO/cookbook-tokyotyrant",
+      "language": "Shell"
+    },
+    {
+      "name": "php-HelloWorldEnterpriseEdition",
+      "repo": "https://github.com/DQNEO/php-HelloWorldEnterpriseEdition",
+      "language": "PHP"
+    },
+    {
+      "name": "Assembly",
+      "repo": "https://github.com/DQNEO/Assembly",
+      "language": "Assembly"
+    },
+    {
+      "name": "php-skeleton",
+      "repo": "https://github.com/DQNEO/php-skeleton",
+      "language": "PHP"
+    },
+    {
+      "name": "8cc.go",
+      "repo": "https://github.com/DQNEO/8cc.go",
+      "language": "C"
+    },
+    {
+      "name": "gojvm",
+      "repo": "https://github.com/DQNEO/gojvm",
+      "language": "Go"
+    },
+    {
+      "name": "HowToWriteACompiler",
+      "repo": "https://github.com/DQNEO/HowToWriteACompiler",
+      "language": "Go"
+    },
+    {
+      "name": "CppTetris",
+      "repo": "https://github.com/DQNEO/CppTetris",
+      "language": "C++"
+    },
+    {
+      "name": "ansible-example",
+      "repo": "https://github.com/DQNEO/ansible-example",
+      "language": "Shell"
+    },
+    {
+      "name": "RebaseMe",
+      "repo": "https://github.com/DQNEO/RebaseMe"
+    },
+    {
+      "name": "slack-curl-bot",
+      "repo": "https://github.com/DQNEO/slack-curl-bot",
+      "language": "Go"
+    },
+    {
+      "name": "curl-shell",
+      "repo": "https://github.com/DQNEO/curl-shell",
+      "language": "Go"
+    },
+    {
+      "name": "ethfony",
+      "repo": "https://github.com/DQNEO/ethfony",
+      "language": "PHP"
+    },
+    {
+      "name": "php-search-php",
+      "repo": "https://github.com/DQNEO/php-search-php",
+      "language": "PHP"
+    },
+    {
+      "name": "php-phpunit-test",
+      "repo": "https://github.com/DQNEO/php-phpunit-test",
+      "language": "PHP"
+    },
+    {
+      "name": "php-mysql-test",
+      "repo": "https://github.com/DQNEO/php-mysql-test",
+      "language": "PHP"
+    },
+    {
+      "name": "go-FizzBuzzEnterpriseEdition",
+      "repo": "https://github.com/DQNEO/go-FizzBuzzEnterpriseEdition",
+      "language": "Go"
+    },
+    {
+      "name": "ReactExamples",
+      "repo": "https://github.com/DQNEO/ReactExamples",
+      "language": "HTML"
+    },
+    {
+      "name": "voa-reader",
+      "repo": "https://github.com/DQNEO/voa-reader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "minigit",
+      "repo": "https://github.com/DQNEO/minigit",
+      "language": "C"
+    },
+    {
+      "name": "php-FizzBuzzEnterpriseEdition",
+      "repo": "https://github.com/DQNEO/php-FizzBuzzEnterpriseEdition",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-php",
+      "repo": "https://github.com/DQNEO/docker-php",
+      "url": "https://registry.hub.docker.com/u/dqneo/phpbuild/"
+    },
+    {
+      "name": "tupaijs-simple-proxy",
+      "repo": "https://github.com/DQNEO/tupaijs-simple-proxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "smarty-delimiter-converter",
+      "repo": "https://github.com/DQNEO/smarty-delimiter-converter",
+      "language": "PHP"
+    },
+    {
+      "name": "hello",
+      "repo": "https://github.com/DQNEO/hello"
+    },
+    {
+      "name": "SmallSymfony",
+      "repo": "https://github.com/DQNEO/SmallSymfony",
+      "language": "PHP"
+    },
+    {
+      "name": "ansible-role-php7",
+      "repo": "https://github.com/DQNEO/ansible-role-php7"
+    },
+    {
+      "name": "dietcube-helloworld",
+      "repo": "https://github.com/DQNEO/dietcube-helloworld",
+      "language": "PHP"
+    },
+    {
+      "name": "ansible-role-example",
+      "repo": "https://github.com/DQNEO/ansible-role-example"
+    },
+    {
+      "name": "ansible-role-dqneobase",
+      "repo": "https://github.com/DQNEO/ansible-role-dqneobase"
+    },
+    {
+      "name": "cookbook-nginx",
+      "repo": "https://github.com/DQNEO/cookbook-nginx",
+      "language": "Nginx"
+    },
+    {
+      "name": "kitchen-plenv-imagemagick",
+      "repo": "https://github.com/DQNEO/kitchen-plenv-imagemagick",
+      "language": "Ruby"
+    },
+    {
+      "name": "mykitchen",
+      "repo": "https://github.com/DQNEO/mykitchen",
+      "language": "Ruby"
+    },
+    {
+      "name": "Vagrantfile-php7",
+      "repo": "https://github.com/DQNEO/Vagrantfile-php7",
+      "language": "Shell"
+    },
+    {
+      "name": "DisplayTest",
+      "repo": "https://github.com/DQNEO/DisplayTest",
+      "language": "HTML"
+    },
+    {
+      "name": "php-mddoc",
+      "repo": "https://github.com/DQNEO/php-mddoc",
+      "language": "PHP"
+    },
+    {
+      "name": "composer-exception",
+      "repo": "https://github.com/DQNEO/composer-exception",
+      "language": "Makefile"
+    },
+    {
+      "name": "php-fluent-simplelogger",
+      "repo": "https://github.com/DQNEO/php-fluent-simplelogger",
+      "language": "PHP"
+    },
+    {
+      "name": "myelectron",
+      "repo": "https://github.com/DQNEO/myelectron",
+      "language": "JavaScript"
+    },
+    {
+      "name": "GitInternals",
+      "repo": "https://github.com/DQNEO/GitInternals"
+    },
+    {
+      "name": "git-delete-remote-merged-branch",
+      "repo": "https://github.com/DQNEO/git-delete-remote-merged-branch",
+      "language": "Shell"
+    },
+    {
+      "name": "TupaiSampleApp",
+      "repo": "https://github.com/DQNEO/TupaiSampleApp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vienna2",
+      "repo": "https://github.com/DQNEO/vienna2",
+      "language": "HTML"
+    },
+    {
+      "name": "movabletype2hugo",
+      "repo": "https://github.com/DQNEO/movabletype2hugo",
+      "language": "Perl"
+    },
+    {
+      "name": "S3Signer",
+      "repo": "https://github.com/DQNEO/S3Signer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vagrant-chef-symfony",
+      "repo": "https://github.com/DQNEO/vagrant-chef-symfony",
+      "language": "HTML"
+    },
+    {
+      "name": "vagrant-chef",
+      "repo": "https://github.com/DQNEO/vagrant-chef",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-remi",
+      "repo": "https://github.com/DQNEO/cookbook-remi",
+      "language": "Ruby"
+    },
+    {
+      "name": "php",
+      "repo": "https://github.com/DQNEO/php",
+      "language": "PHP"
+    },
+    {
+      "name": "Yukiwikimini-on-Ethnam",
+      "repo": "https://github.com/DQNEO/Yukiwikimini-on-Ethnam",
+      "language": "PHP"
+    },
+    {
+      "name": "kitchen-sakuravps-old",
+      "repo": "https://github.com/DQNEO/kitchen-sakuravps-old",
+      "language": "Ruby"
+    },
+    {
+      "name": "nodejs",
+      "repo": "https://github.com/DQNEO/nodejs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "English",
+      "repo": "https://github.com/DQNEO/English"
+    },
+    {
+      "name": "cookbook-null",
+      "repo": "https://github.com/DQNEO/cookbook-null",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-hello",
+      "repo": "https://github.com/DQNEO/cookbook-hello",
+      "language": "Ruby"
+    },
+    {
+      "name": "php-mini",
+      "repo": "https://github.com/DQNEO/php-mini",
+      "language": "PHP"
+    },
+    {
+      "name": "Shiwake",
+      "repo": "https://github.com/DQNEO/Shiwake",
+      "language": "PHP"
+    },
+    {
+      "name": "vagrant-hello",
+      "repo": "https://github.com/DQNEO/vagrant-hello"
+    },
+    {
+      "name": "vagrant-init",
+      "repo": "https://github.com/DQNEO/vagrant-init",
+      "language": "Shell"
+    },
+    {
+      "name": "cookbook-yum-virt7testing",
+      "repo": "https://github.com/DQNEO/cookbook-yum-virt7testing",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-dqneo",
+      "repo": "https://github.com/DQNEO/cookbook-dqneo",
+      "language": "Ruby"
+    },
+    {
+      "name": "YukiWikiMini",
+      "repo": "https://github.com/DQNEO/YukiWikiMini",
+      "language": "Perl"
+    },
+    {
+      "name": "PEAR_Exception",
+      "repo": "https://github.com/DQNEO/PEAR_Exception",
+      "language": "PHP"
+    },
+    {
+      "name": "binarykun",
+      "repo": "https://github.com/DQNEO/binarykun",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-perlimagemagick",
+      "repo": "https://github.com/DQNEO/docker-perlimagemagick",
+      "language": "Makefile"
+    },
+    {
+      "name": "imagemagicks",
+      "repo": "https://github.com/DQNEO/imagemagicks"
+    },
+    {
+      "name": "rsolo",
+      "repo": "https://github.com/DQNEO/rsolo",
+      "language": "Shell"
+    },
+    {
+      "name": "kitchen-perlimagemagick",
+      "repo": "https://github.com/DQNEO/kitchen-perlimagemagick",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-perl",
+      "repo": "https://github.com/DQNEO/cookbook-perl",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-imagemagick",
+      "repo": "https://github.com/DQNEO/cookbook-imagemagick",
+      "language": "Ruby"
+    },
+    {
+      "name": "c-s3-client",
+      "repo": "https://github.com/DQNEO/c-s3-client",
+      "language": "C"
+    },
+    {
+      "name": "use-json-c",
+      "repo": "https://github.com/DQNEO/use-json-c",
+      "language": "C"
+    },
+    {
+      "name": "JSWikiMini",
+      "repo": "https://github.com/DQNEO/JSWikiMini"
+    },
+    {
+      "name": "yourdotfiles",
+      "repo": "https://github.com/DQNEO/yourdotfiles",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-emacs",
+      "repo": "https://github.com/DQNEO/cookbook-emacs",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-php56",
+      "repo": "https://github.com/DQNEO/cookbook-php56",
+      "language": "Ruby"
+    },
+    {
+      "name": "chef-repo-simple",
+      "repo": "https://github.com/DQNEO/chef-repo-simple",
+      "language": "Ruby"
+    },
+    {
+      "name": "cookbook-zsh",
+      "repo": "https://github.com/DQNEO/cookbook-zsh",
+      "language": "Ruby"
+    }
+  ],
   "apps": []
 }

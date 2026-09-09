@@ -7,5 +7,525 @@
   "website": "https://dy.github.io/",
   "own_repos": 146,
   "commits": 16893,
+  "repos": [
+    {
+      "name": "jz",
+      "repo": "https://github.com/dy/jz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "subscript",
+      "repo": "https://github.com/dy/subscript",
+      "url": "https://dy.github.io/subscript/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "watr",
+      "repo": "https://github.com/dy/watr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sprae",
+      "repo": "https://github.com/dy/sprae",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wavefont",
+      "repo": "https://github.com/dy/wavefont",
+      "url": "https://dy.github.io/wavefont/scripts/",
+      "language": "HTML"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/dy/skills"
+    },
+    {
+      "name": "dy.github.io",
+      "repo": "https://github.com/dy/dy.github.io",
+      "url": "https://dy.github.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/dy/resume",
+      "language": "HTML"
+    },
+    {
+      "name": "define-element",
+      "repo": "https://github.com/dy/define-element",
+      "url": "https://dy.github.io/define-element/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yap",
+      "repo": "https://github.com/dy/yap",
+      "url": "https://dy.github.io/yap/",
+      "language": "HTML"
+    },
+    {
+      "name": "hyperf",
+      "repo": "https://github.com/dy/hyperf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "xhtm",
+      "repo": "https://github.com/dy/xhtm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "noisc",
+      "repo": "https://github.com/dy/noisc",
+      "language": "HTML"
+    },
+    {
+      "name": "questions-that-see",
+      "repo": "https://github.com/dy/questions-that-see"
+    },
+    {
+      "name": "wavearea",
+      "repo": "https://github.com/dy/wavearea",
+      "url": "https://dy.github.io/wavearea",
+      "language": "JavaScript"
+    },
+    {
+      "name": "linefont",
+      "repo": "https://github.com/dy/linefont",
+      "url": "https://dy.github.io/linefont/scripts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "piezo",
+      "repo": "https://github.com/dy/piezo",
+      "url": "https://dy.github.io/piezo/examples",
+      "language": "JavaScript"
+    },
+    {
+      "name": "settings-panel",
+      "repo": "https://github.com/dy/settings-panel",
+      "url": "https://dy.github.io/settings-panel/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lines-intersection",
+      "repo": "https://github.com/dy/lines-intersection",
+      "language": "JavaScript"
+    },
+    {
+      "name": "piano-key",
+      "repo": "https://github.com/dy/piano-key",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dy",
+      "repo": "https://github.com/dy/dy"
+    },
+    {
+      "name": "analogs",
+      "repo": "https://github.com/dy/analogs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "point-cluster",
+      "repo": "https://github.com/dy/point-cluster",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tst",
+      "repo": "https://github.com/dy/tst",
+      "language": "JavaScript"
+    },
+    {
+      "name": "svg-path-bounds",
+      "repo": "https://github.com/dy/svg-path-bounds",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spect",
+      "repo": "https://github.com/dy/spect",
+      "url": "https://dy.github.io/spect",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scope-css",
+      "repo": "https://github.com/dy/scope-css",
+      "language": "JavaScript"
+    },
+    {
+      "name": "resizable",
+      "repo": "https://github.com/dy/resizable",
+      "language": "JavaScript"
+    },
+    {
+      "name": "svg-path-sdf",
+      "repo": "https://github.com/dy/svg-path-sdf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "to-array-buffer",
+      "repo": "https://github.com/dy/to-array-buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parenthesis",
+      "repo": "https://github.com/dy/parenthesis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gl-util",
+      "repo": "https://github.com/dy/gl-util",
+      "language": "JavaScript"
+    },
+    {
+      "name": "array-normalize",
+      "repo": "https://github.com/dy/array-normalize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "image-output",
+      "repo": "https://github.com/dy/image-output",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pxls",
+      "repo": "https://github.com/dy/pxls",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-parts",
+      "repo": "https://github.com/dy/template-parts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "draggy",
+      "repo": "https://github.com/dy/draggy",
+      "url": "https://dy.github.io/draggy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "emmy",
+      "repo": "https://github.com/dy/emmy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "array-bounds",
+      "repo": "https://github.com/dy/array-bounds",
+      "language": "JavaScript"
+    },
+    {
+      "name": "has-hover",
+      "repo": "https://github.com/dy/has-hover",
+      "url": "https://dfcreative.github.io/has-hover/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "is-svg-path",
+      "repo": "https://github.com/dy/is-svg-path",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotprop",
+      "repo": "https://github.com/dy/dotprop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "swapdom",
+      "repo": "https://github.com/dy/swapdom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "any-hooks",
+      "repo": "https://github.com/dy/any-hooks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "signal-struct",
+      "repo": "https://github.com/dy/signal-struct",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sube",
+      "repo": "https://github.com/dy/sube",
+      "language": "JavaScript"
+    },
+    {
+      "name": "audio-lab",
+      "repo": "https://github.com/dy/audio-lab",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sort-ids",
+      "repo": "https://github.com/dy/sort-ids",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bitmap-sdf",
+      "repo": "https://github.com/dy/bitmap-sdf",
+      "url": "https://dy.github.io/bitmap-sdf/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "image-decode",
+      "repo": "https://github.com/dy/image-decode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "element-props",
+      "repo": "https://github.com/dy/element-props",
+      "language": "JavaScript"
+    },
+    {
+      "name": "plot-grid",
+      "repo": "https://github.com/dy/plot-grid",
+      "url": "https://dy.github.io/plot-grid",
+      "language": "JavaScript"
+    },
+    {
+      "name": "popoff",
+      "repo": "https://github.com/dy/popoff",
+      "url": "https://dy.github.io/popoff",
+      "language": "JavaScript"
+    },
+    {
+      "name": "placer",
+      "repo": "https://github.com/dy/placer",
+      "url": "https://dy.github.io/placer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gl-spectrum",
+      "repo": "https://github.com/dy/gl-spectrum",
+      "url": "https://dy.github.io/gl-spectrum",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gl-waveform",
+      "repo": "https://github.com/dy/gl-waveform",
+      "url": "https://dy.github.io/gl-waveform/",
+      "language": "HTML"
+    },
+    {
+      "name": "unhook",
+      "repo": "https://github.com/dy/unhook",
+      "language": "JavaScript"
+    },
+    {
+      "name": "primitive-pool",
+      "repo": "https://github.com/dy/primitive-pool",
+      "language": "JavaScript"
+    },
+    {
+      "name": "prepr",
+      "repo": "https://github.com/dy/prepr",
+      "url": "https://npmjs.org/package/prepr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "planet-mouches",
+      "repo": "https://github.com/dy/planet-mouches",
+      "language": "JavaScript"
+    },
+    {
+      "name": "negative-index",
+      "repo": "https://github.com/dy/negative-index",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unihooks",
+      "repo": "https://github.com/dy/unihooks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wait-please",
+      "repo": "https://github.com/dy/wait-please",
+      "language": "JavaScript"
+    },
+    {
+      "name": "enhook",
+      "repo": "https://github.com/dy/enhook",
+      "language": "JavaScript"
+    },
+    {
+      "name": "value-ref",
+      "repo": "https://github.com/dy/value-ref",
+      "language": "JavaScript"
+    },
+    {
+      "name": "templize",
+      "repo": "https://github.com/dy/templize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "array-rearrange",
+      "repo": "https://github.com/dy/array-rearrange",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parse-fraction",
+      "repo": "https://github.com/dy/parse-fraction",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pan-zoom",
+      "repo": "https://github.com/dy/pan-zoom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "set-microtask",
+      "repo": "https://github.com/dy/set-microtask",
+      "language": "JavaScript"
+    },
+    {
+      "name": "st8",
+      "repo": "https://github.com/dy/st8",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typographic-hotkeys",
+      "repo": "https://github.com/dy/typographic-hotkeys",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "symbol-dispose",
+      "repo": "https://github.com/dy/symbol-dispose",
+      "language": "JavaScript"
+    },
+    {
+      "name": "to-float32",
+      "repo": "https://github.com/dy/to-float32",
+      "language": "JavaScript"
+    },
+    {
+      "name": "input-number",
+      "repo": "https://github.com/dy/input-number",
+      "language": "JavaScript"
+    },
+    {
+      "name": "piano-game",
+      "repo": "https://github.com/dy/piano-game",
+      "language": "JavaScript"
+    },
+    {
+      "name": "image-encode",
+      "repo": "https://github.com/dy/image-encode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "normal-pdf",
+      "repo": "https://github.com/dy/normal-pdf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gaussian-fit",
+      "repo": "https://github.com/dy/gaussian-fit",
+      "url": "https://formant.github.io/gaussian-fit/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "log",
+      "repo": "https://github.com/dy/log"
+    },
+    {
+      "name": "save-file",
+      "repo": "https://github.com/dy/save-file",
+      "language": "JavaScript"
+    },
+    {
+      "name": "autoesm",
+      "repo": "https://github.com/dy/autoesm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "optical-properties",
+      "repo": "https://github.com/dy/optical-properties",
+      "url": "https://dfcreative.github.io/optical-properties",
+      "language": "JavaScript"
+    },
+    {
+      "name": "swizz",
+      "repo": "https://github.com/dy/swizz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "obj-map-prop",
+      "repo": "https://github.com/dy/obj-map-prop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "audio-experiment",
+      "repo": "https://github.com/dy/audio-experiment",
+      "language": "JavaScript"
+    },
+    {
+      "name": "image-pixels",
+      "repo": "https://github.com/dy/image-pixels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "string-chars",
+      "repo": "https://github.com/dy/string-chars",
+      "language": "JavaScript"
+    },
+    {
+      "name": "image-equal",
+      "repo": "https://github.com/dy/image-equal",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fps-indicator",
+      "repo": "https://github.com/dy/fps-indicator",
+      "url": "https://dy.github.io/fps-indicator/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "arraybuffer-to-string",
+      "repo": "https://github.com/dy/arraybuffer-to-string",
+      "language": "JavaScript"
+    },
+    {
+      "name": "to-uint8",
+      "repo": "https://github.com/dy/to-uint8",
+      "language": "JavaScript"
+    },
+    {
+      "name": "string-to-arraybuffer",
+      "repo": "https://github.com/dy/string-to-arraybuffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "is-float-array",
+      "repo": "https://github.com/dy/is-float-array",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flip-pixels",
+      "repo": "https://github.com/dy/flip-pixels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clip-pixels",
+      "repo": "https://github.com/dy/clip-pixels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cln",
+      "repo": "https://github.com/dy/cln",
+      "language": "JavaScript"
+    },
+    {
+      "name": "detect-kerning",
+      "repo": "https://github.com/dy/detect-kerning",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jquery-react",
+      "repo": "https://github.com/dy/jquery-react"
+    },
+    {
+      "name": "font-atlas-sdf",
+      "repo": "https://github.com/dy/font-atlas-sdf",
+      "url": "https://dy.github.io/font-atlas-sdf",
+      "language": "JavaScript"
+    }
+  ],
   "apps": []
 }

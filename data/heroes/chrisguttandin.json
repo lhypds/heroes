@@ -7,5 +7,507 @@
   "website": "https://media-codings.com/",
   "own_repos": 118,
   "commits": 305510,
+  "repos": [
+    {
+      "name": "timed-audio-buffer-source-node-audio-worklet",
+      "repo": "https://github.com/chrisguttandin/timed-audio-buffer-source-node-audio-worklet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timed-audio-buffer-source-node-audio-worklet-processor",
+      "repo": "https://github.com/chrisguttandin/timed-audio-buffer-source-node-audio-worklet-processor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timing-provider",
+      "repo": "https://github.com/chrisguttandin/timing-provider",
+      "language": "TypeScript"
+    },
+    {
+      "name": "timing-object",
+      "repo": "https://github.com/chrisguttandin/timing-object",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rtc-on-2025",
+      "repo": "https://github.com/chrisguttandin/rtc-on-2025",
+      "language": "TypeScript"
+    },
+    {
+      "name": "audio-fingerprinting-file-reader",
+      "repo": "https://github.com/chrisguttandin/audio-fingerprinting-file-reader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "audio-context-timers",
+      "repo": "https://github.com/chrisguttandin/audio-context-timers",
+      "language": "TypeScript"
+    },
+    {
+      "name": "array-buffer-cache",
+      "repo": "https://github.com/chrisguttandin/array-buffer-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "array-buffer-cache-broker",
+      "repo": "https://github.com/chrisguttandin/array-buffer-cache-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "array-buffer-cache-worker",
+      "repo": "https://github.com/chrisguttandin/array-buffer-cache-worker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "angular-audio-context",
+      "repo": "https://github.com/chrisguttandin/angular-audio-context",
+      "language": "TypeScript"
+    },
+    {
+      "name": "analog4all-provider",
+      "repo": "https://github.com/chrisguttandin/analog4all-provider",
+      "language": "TypeScript"
+    },
+    {
+      "name": "extendable-media-recorder",
+      "repo": "https://github.com/chrisguttandin/extendable-media-recorder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "recorder-audio-worklet",
+      "repo": "https://github.com/chrisguttandin/recorder-audio-worklet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "subscribable-things",
+      "repo": "https://github.com/chrisguttandin/subscribable-things",
+      "language": "JavaScript"
+    },
+    {
+      "name": "recorder-audio-worklet-processor",
+      "repo": "https://github.com/chrisguttandin/recorder-audio-worklet-processor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "multi-buffer-data-view",
+      "repo": "https://github.com/chrisguttandin/multi-buffer-data-view",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-codecs",
+      "repo": "https://github.com/chrisguttandin/web-codecs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "media-encoder-host",
+      "repo": "https://github.com/chrisguttandin/media-encoder-host",
+      "language": "JavaScript"
+    },
+    {
+      "name": "media-encoder-host-broker",
+      "repo": "https://github.com/chrisguttandin/media-encoder-host-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timingsrc",
+      "repo": "https://github.com/chrisguttandin/timingsrc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "media-encoder-host-worker",
+      "repo": "https://github.com/chrisguttandin/media-encoder-host-worker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "extendable-media-recorder-wav-encoder",
+      "repo": "https://github.com/chrisguttandin/extendable-media-recorder-wav-encoder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "extendable-media-recorder-wav-encoder-broker",
+      "repo": "https://github.com/chrisguttandin/extendable-media-recorder-wav-encoder-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "extendable-media-recorder-wav-encoder-worker",
+      "repo": "https://github.com/chrisguttandin/extendable-media-recorder-wav-encoder-worker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "standardized-audio-context",
+      "repo": "https://github.com/chrisguttandin/standardized-audio-context",
+      "language": "JavaScript"
+    },
+    {
+      "name": "automation-events",
+      "repo": "https://github.com/chrisguttandin/automation-events",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compilerr",
+      "repo": "https://github.com/chrisguttandin/compilerr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rxjs-broker",
+      "repo": "https://github.com/chrisguttandin/rxjs-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "midi-player",
+      "repo": "https://github.com/chrisguttandin/midi-player",
+      "language": "JavaScript"
+    },
+    {
+      "name": "worker-timers",
+      "repo": "https://github.com/chrisguttandin/worker-timers",
+      "language": "JavaScript"
+    },
+    {
+      "name": "worker-timers-broker",
+      "repo": "https://github.com/chrisguttandin/worker-timers-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "worker-timers-worker",
+      "repo": "https://github.com/chrisguttandin/worker-timers-worker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "midi-file-slicer",
+      "repo": "https://github.com/chrisguttandin/midi-file-slicer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "midi-json-parser",
+      "repo": "https://github.com/chrisguttandin/midi-json-parser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "midi-json-parser-broker",
+      "repo": "https://github.com/chrisguttandin/midi-json-parser-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-midi-encoder",
+      "repo": "https://github.com/chrisguttandin/json-midi-encoder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-midi-encoder-broker",
+      "repo": "https://github.com/chrisguttandin/json-midi-encoder-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-midi-encoder-worker",
+      "repo": "https://github.com/chrisguttandin/json-midi-encoder-worker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "json-midi-message-encoder",
+      "repo": "https://github.com/chrisguttandin/json-midi-message-encoder",
+      "language": "TypeScript"
+    },
+    {
+      "name": "midi-json-parser-worker",
+      "repo": "https://github.com/chrisguttandin/midi-json-parser-worker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "broker-factory",
+      "repo": "https://github.com/chrisguttandin/broker-factory",
+      "language": "JavaScript"
+    },
+    {
+      "name": "worker-factory",
+      "repo": "https://github.com/chrisguttandin/worker-factory",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fast-unique-numbers",
+      "repo": "https://github.com/chrisguttandin/fast-unique-numbers",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-config-holy-grail",
+      "repo": "https://github.com/chrisguttandin/eslint-config-holy-grail",
+      "language": "JavaScript"
+    },
+    {
+      "name": "window-and-worker-timers-test",
+      "repo": "https://github.com/chrisguttandin/window-and-worker-timers-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-timing-demo",
+      "repo": "https://github.com/chrisguttandin/web-timing-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-midi-autoplay-policy-test",
+      "repo": "https://github.com/chrisguttandin/web-midi-autoplay-policy-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-audio-metronome-demo",
+      "repo": "https://github.com/chrisguttandin/web-audio-metronome-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-audio-meetup-may-2019",
+      "repo": "https://github.com/chrisguttandin/web-audio-meetup-may-2019",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-audio-meetup-march-2017",
+      "repo": "https://github.com/chrisguttandin/web-audio-meetup-march-2017",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-audio-conference-2025",
+      "repo": "https://github.com/chrisguttandin/web-audio-conference-2025",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-audio-conference-2024",
+      "repo": "https://github.com/chrisguttandin/web-audio-conference-2024",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-audio-conference-2019",
+      "repo": "https://github.com/chrisguttandin/web-audio-conference-2019",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-audio-conference-2018",
+      "repo": "https://github.com/chrisguttandin/web-audio-conference-2018",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-audio-conference-2017",
+      "repo": "https://github.com/chrisguttandin/web-audio-conference-2017",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-audio-conference-2016",
+      "repo": "https://github.com/chrisguttandin/web-audio-conference-2016",
+      "language": "TypeScript"
+    },
+    {
+      "name": "video-synchronization-demo",
+      "repo": "https://github.com/chrisguttandin/video-synchronization-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "user-media-audio-visualizer",
+      "repo": "https://github.com/chrisguttandin/user-media-audio-visualizer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unmuted-video-element-test",
+      "repo": "https://github.com/chrisguttandin/unmuted-video-element-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tpac-2022",
+      "repo": "https://github.com/chrisguttandin/tpac-2022",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tonejs-synchronization-demo",
+      "repo": "https://github.com/chrisguttandin/tonejs-synchronization-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timing-provider-server",
+      "repo": "https://github.com/chrisguttandin/timing-provider-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "standardized-audio-context-demo",
+      "repo": "https://github.com/chrisguttandin/standardized-audio-context-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-audio-beat-detector",
+      "repo": "https://github.com/chrisguttandin/web-audio-beat-detector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-audio-beat-detector-broker",
+      "repo": "https://github.com/chrisguttandin/web-audio-beat-detector-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-audio-beat-detector-worker",
+      "repo": "https://github.com/chrisguttandin/web-audio-beat-detector-worker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "worker-timers-mock",
+      "repo": "https://github.com/chrisguttandin/worker-timers-mock",
+      "language": "TypeScript"
+    },
+    {
+      "name": "standardized-audio-context-mock",
+      "repo": "https://github.com/chrisguttandin/standardized-audio-context-mock",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vehicles",
+      "repo": "https://github.com/chrisguttandin/vehicles",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rxjs-connector",
+      "repo": "https://github.com/chrisguttandin/rxjs-connector",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reliable-web-summit-2021",
+      "repo": "https://github.com/chrisguttandin/reliable-web-summit-2021",
+      "language": "TypeScript"
+    },
+    {
+      "name": "playout-audio-worklet",
+      "repo": "https://github.com/chrisguttandin/playout-audio-worklet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "playout-audio-worklet-processor",
+      "repo": "https://github.com/chrisguttandin/playout-audio-worklet-processor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "muted-audio-element-test",
+      "repo": "https://github.com/chrisguttandin/muted-audio-element-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mse-tests",
+      "repo": "https://github.com/chrisguttandin/mse-tests",
+      "language": "JavaScript"
+    },
+    {
+      "name": "metadata-detector-streams",
+      "repo": "https://github.com/chrisguttandin/metadata-detector-streams",
+      "language": "TypeScript"
+    },
+    {
+      "name": "metadata-detector",
+      "repo": "https://github.com/chrisguttandin/metadata-detector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "metadata-detector-broker",
+      "repo": "https://github.com/chrisguttandin/metadata-detector-broker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "metadata-detector-worker",
+      "repo": "https://github.com/chrisguttandin/metadata-detector-worker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "media-session-with-web-audio-test",
+      "repo": "https://github.com/chrisguttandin/media-session-with-web-audio-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "media-production-workshop-2021",
+      "repo": "https://github.com/chrisguttandin/media-production-workshop-2021",
+      "language": "TypeScript"
+    },
+    {
+      "name": "limiter-audio-worklet",
+      "repo": "https://github.com/chrisguttandin/limiter-audio-worklet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "limiter-audio-worklet-processor",
+      "repo": "https://github.com/chrisguttandin/limiter-audio-worklet-processor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "launchpad-detector",
+      "repo": "https://github.com/chrisguttandin/launchpad-detector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "synchsafe",
+      "repo": "https://github.com/chrisguttandin/synchsafe",
+      "language": "TypeScript"
+    },
+    {
+      "name": "here-maps-type-guards",
+      "repo": "https://github.com/chrisguttandin/here-maps-type-guards",
+      "language": "TypeScript"
+    },
+    {
+      "name": "demuxed-2022",
+      "repo": "https://github.com/chrisguttandin/demuxed-2022",
+      "language": "HTML"
+    },
+    {
+      "name": "commcon-2024",
+      "repo": "https://github.com/chrisguttandin/commcon-2024",
+      "language": "TypeScript"
+    },
+    {
+      "name": "commcon-2023",
+      "repo": "https://github.com/chrisguttandin/commcon-2023",
+      "language": "TypeScript"
+    },
+    {
+      "name": "berlin-video-tech-meetup-june-2023",
+      "repo": "https://github.com/chrisguttandin/berlin-video-tech-meetup-june-2023",
+      "language": "TypeScript"
+    },
+    {
+      "name": "audio-developer-conference-2022",
+      "repo": "https://github.com/chrisguttandin/audio-developer-conference-2022",
+      "language": "TypeScript"
+    },
+    {
+      "name": "audio-developer-conference-2019",
+      "repo": "https://github.com/chrisguttandin/audio-developer-conference-2019",
+      "language": "TypeScript"
+    },
+    {
+      "name": "angular-prerender",
+      "repo": "https://github.com/chrisguttandin/angular-prerender",
+      "language": "JavaScript"
+    },
+    {
+      "name": "angular-meetup-berlin-april-2019",
+      "repo": "https://github.com/chrisguttandin/angular-meetup-berlin-april-2019",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dynamo-db-provisioner",
+      "repo": "https://github.com/chrisguttandin/dynamo-db-provisioner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dynamo-db-local",
+      "repo": "https://github.com/chrisguttandin/dynamo-db-local",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dynamo-converters",
+      "repo": "https://github.com/chrisguttandin/dynamo-converters",
+      "language": "JavaScript"
+    },
+    {
+      "name": "aws-client-factories",
+      "repo": "https://github.com/chrisguttandin/aws-client-factories",
+      "language": "JavaScript"
+    },
+    {
+      "name": "analog4all-client",
+      "repo": "https://github.com/chrisguttandin/analog4all-client",
+      "language": "TypeScript"
+    }
+  ],
   "apps": []
 }

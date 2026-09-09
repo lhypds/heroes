@@ -8,5 +8,533 @@
   "bio": "Coffee, coding & cats, mostly.",
   "own_repos": 101,
   "commits": 16326,
+  "repos": [
+    {
+      "name": "uftpd",
+      "repo": "https://github.com/troglobit/uftpd",
+      "url": "https://troglobit.com/projects/uftpd/",
+      "language": "C"
+    },
+    {
+      "name": "mg",
+      "repo": "https://github.com/troglobit/mg",
+      "url": "https://troglobit.com/projects/mg/",
+      "language": "C"
+    },
+    {
+      "name": "merecat",
+      "repo": "https://github.com/troglobit/merecat",
+      "url": "https://troglobit.com/projects/merecat/",
+      "language": "C"
+    },
+    {
+      "name": "troglobit.github.io",
+      "repo": "https://github.com/troglobit/troglobit.github.io",
+      "url": "https://troglobit.com",
+      "language": "HTML"
+    },
+    {
+      "name": "mdnsd",
+      "repo": "https://github.com/troglobit/mdnsd",
+      "url": "https://troglobit.com/projects/mdnsd/",
+      "language": "C"
+    },
+    {
+      "name": "smcroute",
+      "repo": "https://github.com/troglobit/smcroute",
+      "url": "https://troglobit.com/projects/smcroute/",
+      "language": "C"
+    },
+    {
+      "name": "mini-snmpd",
+      "repo": "https://github.com/troglobit/mini-snmpd",
+      "url": "https://troglobit.com/projects/mini-snmpd/",
+      "language": "C"
+    },
+    {
+      "name": "mrouted",
+      "repo": "https://github.com/troglobit/mrouted",
+      "url": "https://troglobit.com/projects/mrouted/",
+      "language": "C"
+    },
+    {
+      "name": "drone",
+      "repo": "https://github.com/troglobit/drone",
+      "language": "C"
+    },
+    {
+      "name": "sntpd",
+      "repo": "https://github.com/troglobit/sntpd",
+      "language": "C"
+    },
+    {
+      "name": "myLinux",
+      "repo": "https://github.com/troglobit/myLinux",
+      "url": "https://troglobit.com/post/2022-01-16-finit-v4.2-released/",
+      "language": "Shell"
+    },
+    {
+      "name": "mdns-alias",
+      "repo": "https://github.com/troglobit/mdns-alias",
+      "language": "C"
+    },
+    {
+      "name": "pacman",
+      "repo": "https://github.com/troglobit/pacman",
+      "language": "C"
+    },
+    {
+      "name": "mirror",
+      "repo": "https://github.com/troglobit/mirror",
+      "language": "Python"
+    },
+    {
+      "name": "digit",
+      "repo": "https://github.com/troglobit/digit",
+      "url": "https://git.troglobit.com/",
+      "language": "Go"
+    },
+    {
+      "name": "editline",
+      "repo": "https://github.com/troglobit/editline",
+      "url": "https://troglobit.com/projects/editline/",
+      "language": "C"
+    },
+    {
+      "name": "man",
+      "repo": "https://github.com/troglobit/man",
+      "url": "https://man.troglobit.com/",
+      "language": "Roff"
+    },
+    {
+      "name": "sysklogd",
+      "repo": "https://github.com/troglobit/sysklogd",
+      "url": "https://troglobit.com/sysklogd.html",
+      "language": "C"
+    },
+    {
+      "name": "mtools",
+      "repo": "https://github.com/troglobit/mtools",
+      "url": "https://web.archive.org/web/20180804184034/http://www.cs.virginia.edu/~mngroup/software/",
+      "language": "C"
+    },
+    {
+      "name": "mcjoin",
+      "repo": "https://github.com/troglobit/mcjoin",
+      "url": "https://github.com/troglobit/mcjoin/releases",
+      "language": "C"
+    },
+    {
+      "name": "watchdogd",
+      "repo": "https://github.com/troglobit/watchdogd",
+      "url": "https://troglobit.com/watchdogd.html",
+      "language": "C"
+    },
+    {
+      "name": "pim6sd",
+      "repo": "https://github.com/troglobit/pim6sd",
+      "language": "C"
+    },
+    {
+      "name": "mping",
+      "repo": "https://github.com/troglobit/mping",
+      "language": "C"
+    },
+    {
+      "name": "libite",
+      "repo": "https://github.com/troglobit/libite",
+      "url": "https://codedocs.xyz/troglobit/libite/",
+      "language": "C"
+    },
+    {
+      "name": "troglobit",
+      "repo": "https://github.com/troglobit/troglobit"
+    },
+    {
+      "name": "inadyn",
+      "repo": "https://github.com/troglobit/inadyn",
+      "language": "C"
+    },
+    {
+      "name": "misc",
+      "repo": "https://github.com/troglobit/misc",
+      "language": "Makefile"
+    },
+    {
+      "name": "tetris",
+      "repo": "https://github.com/troglobit/tetris",
+      "language": "C"
+    },
+    {
+      "name": "pimd-dense",
+      "repo": "https://github.com/troglobit/pimd-dense",
+      "language": "C"
+    },
+    {
+      "name": "toolbox",
+      "repo": "https://github.com/troglobit/toolbox",
+      "language": "C"
+    },
+    {
+      "name": "pev",
+      "repo": "https://github.com/troglobit/pev",
+      "language": "C"
+    },
+    {
+      "name": "libuev",
+      "repo": "https://github.com/troglobit/libuev",
+      "url": "https://codedocs.xyz/troglobit/libuev/",
+      "language": "C"
+    },
+    {
+      "name": "go-templates",
+      "repo": "https://github.com/troglobit/go-templates",
+      "language": "HTML"
+    },
+    {
+      "name": "yangdoc",
+      "repo": "https://github.com/troglobit/yangdoc",
+      "url": "https://pypi.org/project/yangdoc/",
+      "language": "Python"
+    },
+    {
+      "name": "crobots",
+      "repo": "https://github.com/troglobit/crobots",
+      "language": "C"
+    },
+    {
+      "name": "netcalc",
+      "repo": "https://github.com/troglobit/netcalc",
+      "language": "C"
+    },
+    {
+      "name": "webby",
+      "repo": "https://github.com/troglobit/webby",
+      "language": "Python"
+    },
+    {
+      "name": "redir",
+      "repo": "https://github.com/troglobit/redir",
+      "language": "C"
+    },
+    {
+      "name": "ssdp-responder",
+      "repo": "https://github.com/troglobit/ssdp-responder",
+      "language": "C"
+    },
+    {
+      "name": "awesome-redshift",
+      "repo": "https://github.com/troglobit/awesome-redshift",
+      "url": "https://github.com/YoRyan/awesome-redshift/",
+      "language": "Lua"
+    },
+    {
+      "name": "adventure",
+      "repo": "https://github.com/troglobit/adventure",
+      "language": "C"
+    },
+    {
+      "name": "sun",
+      "repo": "https://github.com/troglobit/sun",
+      "language": "C"
+    },
+    {
+      "name": "zoo",
+      "repo": "https://github.com/troglobit/zoo",
+      "language": "C"
+    },
+    {
+      "name": "temp",
+      "repo": "https://github.com/troglobit/temp",
+      "url": "https://troglobit.com",
+      "language": "C"
+    },
+    {
+      "name": "faux",
+      "repo": "https://github.com/troglobit/faux",
+      "url": "https://src.libcode.org/pkun/faux.git",
+      "language": "C"
+    },
+    {
+      "name": "awesome-config",
+      "repo": "https://github.com/troglobit/awesome-config",
+      "language": "Lua"
+    },
+    {
+      "name": "cx",
+      "repo": "https://github.com/troglobit/cx",
+      "language": "Shell"
+    },
+    {
+      "name": "backlight",
+      "repo": "https://github.com/troglobit/backlight",
+      "language": "C"
+    },
+    {
+      "name": "snake",
+      "repo": "https://github.com/troglobit/snake",
+      "language": "C"
+    },
+    {
+      "name": "klish-plugin-sysrepo",
+      "repo": "https://github.com/troglobit/klish-plugin-sysrepo",
+      "url": "https://src.libcode.org/pkun/klish-plugin-sysrepo.git",
+      "language": "C"
+    },
+    {
+      "name": "klish",
+      "repo": "https://github.com/troglobit/klish",
+      "url": "https://src.libcode.org/pkun/klish",
+      "language": "C"
+    },
+    {
+      "name": "xplugd",
+      "repo": "https://github.com/troglobit/xplugd",
+      "language": "C"
+    },
+    {
+      "name": "uredir",
+      "repo": "https://github.com/troglobit/uredir",
+      "language": "C"
+    },
+    {
+      "name": "uget",
+      "repo": "https://github.com/troglobit/uget",
+      "language": "Shell"
+    },
+    {
+      "name": "zephyr-uart-test",
+      "repo": "https://github.com/troglobit/zephyr-uart-test",
+      "language": "C"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/troglobit/resume",
+      "url": "https://resume.troglobit.com",
+      "language": "TeX"
+    },
+    {
+      "name": "busybox-builder",
+      "repo": "https://github.com/troglobit/busybox-builder",
+      "language": "Shell"
+    },
+    {
+      "name": "zephyr-app",
+      "repo": "https://github.com/troglobit/zephyr-app",
+      "language": "C"
+    },
+    {
+      "name": "logit",
+      "repo": "https://github.com/troglobit/logit",
+      "language": "C"
+    },
+    {
+      "name": "pimd",
+      "repo": "https://github.com/troglobit/pimd",
+      "language": "C"
+    },
+    {
+      "name": "gul",
+      "repo": "https://github.com/troglobit/gul",
+      "language": "C"
+    },
+    {
+      "name": "lipify",
+      "repo": "https://github.com/troglobit/lipify",
+      "language": "C"
+    },
+    {
+      "name": "tinyroot",
+      "repo": "https://github.com/troglobit/tinyroot",
+      "language": "Makefile"
+    },
+    {
+      "name": "ttinfo",
+      "repo": "https://github.com/troglobit/ttinfo",
+      "language": "C"
+    },
+    {
+      "name": "jush",
+      "repo": "https://github.com/troglobit/jush",
+      "language": "C"
+    },
+    {
+      "name": "mrdisc",
+      "repo": "https://github.com/troglobit/mrdisc",
+      "url": "https://tools.ietf.org/html/rfc4286",
+      "language": "C"
+    },
+    {
+      "name": "libicmp",
+      "repo": "https://github.com/troglobit/libicmp",
+      "language": "C"
+    },
+    {
+      "name": "nlmon",
+      "repo": "https://github.com/troglobit/nlmon",
+      "language": "C"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/troglobit/talks",
+      "language": "HTML"
+    },
+    {
+      "name": "bridged",
+      "repo": "https://github.com/troglobit/bridged",
+      "language": "C"
+    },
+    {
+      "name": "alpine-qemu-image",
+      "repo": "https://github.com/troglobit/alpine-qemu-image",
+      "language": "Shell"
+    },
+    {
+      "name": "ns",
+      "repo": "https://github.com/troglobit/ns",
+      "language": "C"
+    },
+    {
+      "name": "spd",
+      "repo": "https://github.com/troglobit/spd",
+      "language": "C"
+    },
+    {
+      "name": "uemacs",
+      "repo": "https://github.com/troglobit/uemacs",
+      "language": "C"
+    },
+    {
+      "name": "MicroEMACS",
+      "repo": "https://github.com/troglobit/MicroEMACS",
+      "language": "C"
+    },
+    {
+      "name": "plotty",
+      "repo": "https://github.com/troglobit/plotty",
+      "language": "C"
+    },
+    {
+      "name": "demo",
+      "repo": "https://github.com/troglobit/demo",
+      "language": "C"
+    },
+    {
+      "name": "booz",
+      "repo": "https://github.com/troglobit/booz",
+      "language": "C"
+    },
+    {
+      "name": "awesome-plain",
+      "repo": "https://github.com/troglobit/awesome-plain",
+      "language": "Lua"
+    },
+    {
+      "name": "libc-chaos",
+      "repo": "https://github.com/troglobit/libc-chaos",
+      "language": "C"
+    },
+    {
+      "name": "awesome",
+      "repo": "https://github.com/troglobit/awesome",
+      "url": "https://github.com/lcpz/awesome-copycats",
+      "language": "Lua"
+    },
+    {
+      "name": "pok3r-layouts",
+      "repo": "https://github.com/troglobit/pok3r-layouts",
+      "url": "https://github.com/davidjenni/pok3r-layouts"
+    },
+    {
+      "name": "aliens",
+      "repo": "https://github.com/troglobit/aliens",
+      "language": "C"
+    },
+    {
+      "name": "omping",
+      "repo": "https://github.com/troglobit/omping",
+      "url": "https://github.com/jfriesse/omping",
+      "language": "C"
+    },
+    {
+      "name": "rfctl",
+      "repo": "https://github.com/troglobit/rfctl",
+      "language": "C"
+    },
+    {
+      "name": "awesome-light",
+      "repo": "https://github.com/troglobit/awesome-light",
+      "language": "Lua"
+    },
+    {
+      "name": "polybar-config",
+      "repo": "https://github.com/troglobit/polybar-config",
+      "language": "Shell"
+    },
+    {
+      "name": "i3-config",
+      "repo": "https://github.com/troglobit/i3-config",
+      "language": "Python"
+    },
+    {
+      "name": "net",
+      "repo": "https://github.com/troglobit/net",
+      "language": "M4"
+    },
+    {
+      "name": "sniffer",
+      "repo": "https://github.com/troglobit/sniffer",
+      "language": "C"
+    },
+    {
+      "name": "deb",
+      "repo": "https://github.com/troglobit/deb"
+    },
+    {
+      "name": "getty",
+      "repo": "https://github.com/troglobit/getty",
+      "language": "C"
+    },
+    {
+      "name": "pyhacks",
+      "repo": "https://github.com/troglobit/pyhacks",
+      "language": "Python"
+    },
+    {
+      "name": "logrun",
+      "repo": "https://github.com/troglobit/logrun",
+      "language": "Perl"
+    },
+    {
+      "name": "weatherd",
+      "repo": "https://github.com/troglobit/weatherd",
+      "language": "C"
+    },
+    {
+      "name": "ubot",
+      "repo": "https://github.com/troglobit/ubot",
+      "language": "C"
+    },
+    {
+      "name": "quagga",
+      "repo": "https://github.com/troglobit/quagga",
+      "language": "C"
+    },
+    {
+      "name": "mctools",
+      "repo": "https://github.com/troglobit/mctools",
+      "language": "C"
+    },
+    {
+      "name": "usbctl",
+      "repo": "https://github.com/troglobit/usbctl",
+      "language": "C"
+    },
+    {
+      "name": "keepalived",
+      "repo": "https://github.com/troglobit/keepalived",
+      "language": "C"
+    }
+  ],
   "apps": []
 }

@@ -8,5 +8,515 @@
   "bio": "CTO @SocketDev previously: @npm, @telus, @kong, @cbcrc",
   "own_repos": 113,
   "commits": 11162,
+  "repos": [
+    {
+      "name": "benchmark-node-json-parse",
+      "repo": "https://github.com/ahmadnassri/benchmark-node-json-parse",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-template",
+      "repo": "https://github.com/ahmadnassri/template-template",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-github-pages",
+      "repo": "https://github.com/ahmadnassri/docker-github-pages",
+      "language": "Makefile"
+    },
+    {
+      "name": "node-cli",
+      "repo": "https://github.com/ahmadnassri/node-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-metalsmith-request",
+      "repo": "https://github.com/ahmadnassri/node-metalsmith-request",
+      "url": "https://www.npmjs.com/package/metalsmith-request",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-serve-reload-replace",
+      "repo": "https://github.com/ahmadnassri/node-serve-reload-replace",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-oas-schemas",
+      "repo": "https://github.com/ahmadnassri/node-oas-schemas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-module-cloudflare",
+      "repo": "https://github.com/ahmadnassri/terraform-module-cloudflare",
+      "language": "HCL"
+    },
+    {
+      "name": "node-oas-request",
+      "repo": "https://github.com/ahmadnassri/node-oas-request",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-updated",
+      "repo": "https://github.com/ahmadnassri/node-updated",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-nightwatch-accessibility",
+      "repo": "https://github.com/ahmadnassri/node-nightwatch-accessibility",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-cloudevents-schemas",
+      "repo": "https://github.com/ahmadnassri/node-cloudevents-schemas",
+      "language": "Makefile"
+    },
+    {
+      "name": "action-workflow-queue",
+      "repo": "https://github.com/ahmadnassri/action-workflow-queue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-commit-lint",
+      "repo": "https://github.com/ahmadnassri/action-commit-lint",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-semantic-release",
+      "repo": "https://github.com/ahmadnassri/action-semantic-release",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-unifi-api-browser",
+      "repo": "https://github.com/ahmadnassri/docker-unifi-api-browser",
+      "language": "PHP"
+    },
+    {
+      "name": "node-oas-fastify",
+      "repo": "https://github.com/ahmadnassri/node-oas-fastify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-install-group",
+      "repo": "https://github.com/ahmadnassri/node-install-group",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-autoenv",
+      "repo": "https://github.com/ahmadnassri/node-autoenv",
+      "url": "https://www.npmjs.com/package/autoenv",
+      "language": "Makefile"
+    },
+    {
+      "name": "node-ahmad",
+      "repo": "https://github.com/ahmadnassri/node-ahmad",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-marked-promise",
+      "repo": "https://github.com/ahmadnassri/node-marked-promise",
+      "url": "https://www.npmjs.com/package/marked-promise",
+      "language": "Makefile"
+    },
+    {
+      "name": "node-har",
+      "repo": "https://github.com/ahmadnassri/node-har",
+      "url": "https://www.npmjs.org/package/har",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-static-site-generator",
+      "repo": "https://github.com/ahmadnassri/node-static-site-generator",
+      "language": "Makefile"
+    },
+    {
+      "name": "node-metalsmith-paths",
+      "repo": "https://github.com/ahmadnassri/node-metalsmith-paths",
+      "url": "https://www.npmjs.com/package/metalsmith-paths",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-template-repository-sync",
+      "repo": "https://github.com/ahmadnassri/action-template-repository-sync",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-action-node",
+      "repo": "https://github.com/ahmadnassri/template-action-node",
+      "language": "Makefile"
+    },
+    {
+      "name": "action-terraform-report",
+      "repo": "https://github.com/ahmadnassri/action-terraform-report",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-pretty-exceptions",
+      "repo": "https://github.com/ahmadnassri/node-pretty-exceptions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-fs-writefile-promise",
+      "repo": "https://github.com/ahmadnassri/node-fs-writefile-promise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-har-validator",
+      "repo": "https://github.com/ahmadnassri/node-har-validator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-smart-promise",
+      "repo": "https://github.com/ahmadnassri/node-smart-promise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-metalsmith-pug",
+      "repo": "https://github.com/ahmadnassri/node-metalsmith-pug",
+      "url": "https://www.npmjs.com/package/metalsmith-pug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-glob-promise",
+      "repo": "https://github.com/ahmadnassri/node-glob-promise",
+      "url": "https://www.npmjs.com/package/glob-promise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-api-problem",
+      "repo": "https://github.com/ahmadnassri/node-api-problem",
+      "url": "https://www.npmjs.com/package/api-problem",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-template-literals-engine",
+      "repo": "https://github.com/ahmadnassri/node-template-literals-engine",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-spawn-promise",
+      "repo": "https://github.com/ahmadnassri/node-spawn-promise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-terraform-unidiff",
+      "repo": "https://github.com/ahmadnassri/node-terraform-unidiff",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-stringify-clone",
+      "repo": "https://github.com/ahmadnassri/node-stringify-clone",
+      "language": "Makefile"
+    },
+    {
+      "name": "node-error",
+      "repo": "https://github.com/ahmadnassri/node-error",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-workflow-run-wait",
+      "repo": "https://github.com/ahmadnassri/action-workflow-run-wait",
+      "language": "JavaScript"
+    },
+    {
+      "name": "temp-fastify-autoload",
+      "repo": "https://github.com/ahmadnassri/temp-fastify-autoload",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-debug",
+      "repo": "https://github.com/ahmadnassri/node-debug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-vscode-server",
+      "repo": "https://github.com/ahmadnassri/docker-vscode-server",
+      "language": "Makefile"
+    },
+    {
+      "name": "logo-builder",
+      "repo": "https://github.com/ahmadnassri/logo-builder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-node-lib",
+      "repo": "https://github.com/ahmadnassri/template-node-lib",
+      "language": "Makefile"
+    },
+    {
+      "name": "node-uncaught-extender",
+      "repo": "https://github.com/ahmadnassri/node-uncaught-extender",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-april-fools",
+      "repo": "https://github.com/ahmadnassri/node-april-fools",
+      "language": "Makefile"
+    },
+    {
+      "name": "logress",
+      "repo": "https://github.com/ahmadnassri/logress",
+      "language": "JavaScript"
+    },
+    {
+      "name": "furmat",
+      "repo": "https://github.com/ahmadnassri/furmat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-slack-workflow-notifications",
+      "repo": "https://github.com/ahmadnassri/action-slack-workflow-notifications",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-file-cache",
+      "repo": "https://github.com/ahmadnassri/simple-file-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-dependabot-auto-merge",
+      "repo": "https://github.com/ahmadnassri/action-dependabot-auto-merge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-metalsmith-imagemin",
+      "repo": "https://github.com/ahmadnassri/node-metalsmith-imagemin",
+      "url": "https://www.npmjs.com/package/metalsmith-imagemin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-js-lib",
+      "repo": "https://github.com/ahmadnassri/template-js-lib",
+      "language": "JavaScript"
+    },
+    {
+      "name": "i-jest-you-not",
+      "repo": "https://github.com/ahmadnassri/i-jest-you-not",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gaza-everywhere",
+      "repo": "https://github.com/ahmadnassri/gaza-everywhere",
+      "url": "https://www.ahmadnassri.com/projects/gaza-everywhere/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "benchmark-node-clone",
+      "repo": "https://github.com/ahmadnassri/benchmark-node-clone",
+      "language": "JavaScript"
+    },
+    {
+      "name": "catppuccin-nano",
+      "repo": "https://github.com/ahmadnassri/catppuccin-nano",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gh-dependabot",
+      "repo": "https://github.com/ahmadnassri/gh-dependabot",
+      "language": "Shell"
+    },
+    {
+      "name": "action-changed-files",
+      "repo": "https://github.com/ahmadnassri/action-changed-files",
+      "language": "Shell"
+    },
+    {
+      "name": "node-oas-request-readme",
+      "repo": "https://github.com/ahmadnassri/node-oas-request-readme",
+      "language": "Makefile"
+    },
+    {
+      "name": "terraform-module-github",
+      "repo": "https://github.com/ahmadnassri/terraform-module-github",
+      "language": "HCL"
+    },
+    {
+      "name": "template-terraform-module",
+      "repo": "https://github.com/ahmadnassri/template-terraform-module",
+      "language": "Makefile"
+    },
+    {
+      "name": "awesome-coworking",
+      "repo": "https://github.com/ahmadnassri/awesome-coworking"
+    },
+    {
+      "name": "shell-direnv-1password",
+      "repo": "https://github.com/ahmadnassri/shell-direnv-1password",
+      "language": "Makefile"
+    },
+    {
+      "name": "action-dotenv",
+      "repo": "https://github.com/ahmadnassri/action-dotenv",
+      "language": "Makefile"
+    },
+    {
+      "name": "gh-clone",
+      "repo": "https://github.com/ahmadnassri/gh-clone",
+      "language": "Makefile"
+    },
+    {
+      "name": "gh-prx",
+      "repo": "https://github.com/ahmadnassri/gh-prx",
+      "language": "Shell"
+    },
+    {
+      "name": "gh-gitea-mirror",
+      "repo": "https://github.com/ahmadnassri/gh-gitea-mirror",
+      "language": "Shell"
+    },
+    {
+      "name": "template-shell",
+      "repo": "https://github.com/ahmadnassri/template-shell",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-rapidoc-server",
+      "repo": "https://github.com/ahmadnassri/docker-rapidoc-server",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-bolt-diy",
+      "repo": "https://github.com/ahmadnassri/docker-bolt-diy",
+      "language": "Makefile"
+    },
+    {
+      "name": "template-docker",
+      "repo": "https://github.com/ahmadnassri/template-docker",
+      "language": "Makefile"
+    },
+    {
+      "name": "template-action-docker",
+      "repo": "https://github.com/ahmadnassri/template-action-docker",
+      "language": "Makefile"
+    },
+    {
+      "name": "action-github-registry-npm-proxy",
+      "repo": "https://github.com/ahmadnassri/action-github-registry-npm-proxy",
+      "language": "Makefile"
+    },
+    {
+      "name": "action-google-cloud-sql-proxy",
+      "repo": "https://github.com/ahmadnassri/action-google-cloud-sql-proxy",
+      "language": "Shell"
+    },
+    {
+      "name": "action-npm-global-path",
+      "repo": "https://github.com/ahmadnassri/action-npm-global-path",
+      "language": "Makefile"
+    },
+    {
+      "name": "template-action-composite",
+      "repo": "https://github.com/ahmadnassri/template-action-composite",
+      "language": "Makefile"
+    },
+    {
+      "name": "action-terraform-cloud-api",
+      "repo": "https://github.com/ahmadnassri/action-terraform-cloud-api",
+      "language": "Shell"
+    },
+    {
+      "name": "action-metadata",
+      "repo": "https://github.com/ahmadnassri/action-metadata",
+      "language": "Shell"
+    },
+    {
+      "name": "template-terraform",
+      "repo": "https://github.com/ahmadnassri/template-terraform",
+      "language": "Makefile"
+    },
+    {
+      "name": "unraid-templates",
+      "repo": "https://github.com/ahmadnassri/unraid-templates"
+    },
+    {
+      "name": "docker-gollum",
+      "repo": "https://github.com/ahmadnassri/docker-gollum",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-mermaid-cli",
+      "repo": "https://github.com/ahmadnassri/docker-mermaid-cli",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-node-puppeteer",
+      "repo": "https://github.com/ahmadnassri/docker-node-puppeteer",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ahmadnassri",
+      "repo": "https://github.com/ahmadnassri/ahmadnassri"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/ahmadnassri/.github"
+    },
+    {
+      "name": "docs-engineering-matrix",
+      "repo": "https://github.com/ahmadnassri/docs-engineering-matrix"
+    },
+    {
+      "name": "node-winston-tcp",
+      "repo": "https://github.com/ahmadnassri/node-winston-tcp",
+      "url": "https://www.npmjs.com/package/winston-tcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "echint",
+      "repo": "https://github.com/ahmadnassri/echint",
+      "url": "https://www.npmjs.com/package/echint",
+      "language": "JavaScript"
+    },
+    {
+      "name": "har-schema",
+      "repo": "https://github.com/ahmadnassri/har-schema",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mkdirp-promise",
+      "repo": "https://github.com/ahmadnassri/mkdirp-promise",
+      "url": "https://www.npmjs.com/package/mkdirp-promise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "har-spec",
+      "repo": "https://github.com/ahmadnassri/har-spec"
+    },
+    {
+      "name": "awesome-accelerators",
+      "repo": "https://github.com/ahmadnassri/awesome-accelerators"
+    },
+    {
+      "name": "forwarded-http",
+      "repo": "https://github.com/ahmadnassri/forwarded-http",
+      "url": "https://www.npmjs.com/package/forwarded-http",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pkg-config",
+      "repo": "https://github.com/ahmadnassri/pkg-config",
+      "language": "JavaScript"
+    },
+    {
+      "name": "har-resources",
+      "repo": "https://github.com/ahmadnassri/har-resources",
+      "language": "HTML"
+    },
+    {
+      "name": "har-cli",
+      "repo": "https://github.com/ahmadnassri/har-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parakeet",
+      "repo": "https://github.com/ahmadnassri/parakeet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hacker-bio",
+      "repo": "https://github.com/ahmadnassri/hacker-bio",
+      "url": "https://hacker.bio",
+      "language": "HTML"
+    }
+  ],
   "apps": []
 }

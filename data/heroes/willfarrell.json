@@ -7,5 +7,500 @@
   "website": "https://willfarrell.ca/",
   "own_repos": 105,
   "commits": 71721,
+  "repos": [
+    {
+      "name": "design-system",
+      "repo": "https://github.com/willfarrell/design-system",
+      "url": "https://design-system.willfarrell.ca",
+      "language": "Svelte"
+    },
+    {
+      "name": "workbee",
+      "repo": "https://github.com/willfarrell/workbee",
+      "url": "https://workbee.js.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fluent-transpiler",
+      "repo": "https://github.com/willfarrell/fluent-transpiler",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ajv-ftl-i18n",
+      "repo": "https://github.com/willfarrell/ajv-ftl-i18n",
+      "language": "Fluent"
+    },
+    {
+      "name": "sast-json-schema",
+      "repo": "https://github.com/willfarrell/sast-json-schema",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ajv-cmd",
+      "repo": "https://github.com/willfarrell/ajv-cmd",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sveltekit-adapter-middy",
+      "repo": "https://github.com/willfarrell/sveltekit-adapter-middy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "1auth",
+      "repo": "https://github.com/willfarrell/1auth",
+      "url": "https://1auth.js.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-npm",
+      "repo": "https://github.com/willfarrell/template-npm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "datastream",
+      "repo": "https://github.com/willfarrell/datastream",
+      "url": "https://datastream.js.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "middy-rds",
+      "repo": "https://github.com/willfarrell/middy-rds",
+      "language": "JavaScript"
+    },
+    {
+      "name": "1state",
+      "repo": "https://github.com/willfarrell/1state",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-waf-module",
+      "repo": "https://github.com/willfarrell/terraform-waf-module",
+      "language": "HCL"
+    },
+    {
+      "name": "aws-events",
+      "repo": "https://github.com/willfarrell/aws-events",
+      "language": "JavaScript"
+    },
+    {
+      "name": "contribPlusPlus",
+      "repo": "https://github.com/willfarrell/contribPlusPlus"
+    },
+    {
+      "name": "aws-lambda-framework-benchmark",
+      "repo": "https://github.com/willfarrell/aws-lambda-framework-benchmark",
+      "language": "JavaScript"
+    },
+    {
+      "name": "documentation",
+      "repo": "https://github.com/willfarrell/documentation"
+    },
+    {
+      "name": "aws-bastion",
+      "repo": "https://github.com/willfarrell/aws-bastion",
+      "language": "Shell"
+    },
+    {
+      "name": "willfarrell",
+      "repo": "https://github.com/willfarrell/willfarrell"
+    },
+    {
+      "name": "terraform-vpc-module",
+      "repo": "https://github.com/willfarrell/terraform-vpc-module",
+      "language": "HCL"
+    },
+    {
+      "name": "aws-wishlist",
+      "repo": "https://github.com/willfarrell/aws-wishlist"
+    },
+    {
+      "name": "alfred-pkgman-workflow",
+      "repo": "https://github.com/willfarrell/alfred-pkgman-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-autoheal",
+      "repo": "https://github.com/willfarrell/docker-autoheal",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-public-static-assets-module",
+      "repo": "https://github.com/willfarrell/terraform-public-static-assets-module",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-ec-modules",
+      "repo": "https://github.com/willfarrell/terraform-ec-modules",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-account-modules",
+      "repo": "https://github.com/willfarrell/terraform-account-modules",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-lb-module",
+      "repo": "https://github.com/willfarrell/terraform-lb-module",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-logs-module",
+      "repo": "https://github.com/willfarrell/terraform-logs-module",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-state-module",
+      "repo": "https://github.com/willfarrell/terraform-state-module",
+      "language": "HCL"
+    },
+    {
+      "name": "csv-benchmarks",
+      "repo": "https://github.com/willfarrell/csv-benchmarks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alfred-caniuse-workflow",
+      "repo": "https://github.com/willfarrell/alfred-caniuse-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "pass-sdlc",
+      "repo": "https://github.com/willfarrell/pass-sdlc"
+    },
+    {
+      "name": "docker-crontab",
+      "repo": "https://github.com/willfarrell/docker-crontab",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-db-modules",
+      "repo": "https://github.com/willfarrell/terraform-db-modules",
+      "language": "HCL"
+    },
+    {
+      "name": "docker-ping",
+      "repo": "https://github.com/willfarrell/docker-ping",
+      "language": "Shell"
+    },
+    {
+      "name": "node-semver-compare-range",
+      "repo": "https://github.com/willfarrell/node-semver-compare-range",
+      "language": "JavaScript"
+    },
+    {
+      "name": "csv-rex",
+      "repo": "https://github.com/willfarrell/csv-rex",
+      "url": "https://csv-rex.js.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "middy-jsonapi",
+      "repo": "https://github.com/willfarrell/middy-jsonapi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craft-intl-material",
+      "repo": "https://github.com/willfarrell/craft-intl-material",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browser-wishlist",
+      "repo": "https://github.com/willfarrell/browser-wishlist"
+    },
+    {
+      "name": "alfred-encode-decode-workflow",
+      "repo": "https://github.com/willfarrell/alfred-encode-decode-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "middy-ajv",
+      "repo": "https://github.com/willfarrell/middy-ajv",
+      "language": "JavaScript"
+    },
+    {
+      "name": "willfarrell.ca-terraform",
+      "repo": "https://github.com/willfarrell/willfarrell.ca-terraform",
+      "language": "HCL"
+    },
+    {
+      "name": "github-workflows",
+      "repo": "https://github.com/willfarrell/github-workflows",
+      "language": "JavaScript"
+    },
+    {
+      "name": "middy-serverless-perf",
+      "repo": "https://github.com/willfarrell/middy-serverless-perf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alfred-hash-workflow",
+      "repo": "https://github.com/willfarrell/alfred-hash-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "apidoc-plugin-schema",
+      "repo": "https://github.com/willfarrell/apidoc-plugin-schema",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alfred-workflows",
+      "repo": "https://github.com/willfarrell/alfred-workflows",
+      "language": "JavaScript"
+    },
+    {
+      "name": "prettier-standard",
+      "repo": "https://github.com/willfarrell/prettier-standard",
+      "language": "Shell"
+    },
+    {
+      "name": "accessibility",
+      "repo": "https://github.com/willfarrell/accessibility"
+    },
+    {
+      "name": "codeship-template",
+      "repo": "https://github.com/willfarrell/codeship-template",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-letsencrypt",
+      "repo": "https://github.com/willfarrell/docker-letsencrypt",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "terraform-aws-template",
+      "repo": "https://github.com/willfarrell/terraform-aws-template",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-defaults-module",
+      "repo": "https://github.com/willfarrell/terraform-defaults-module",
+      "language": "HCL"
+    },
+    {
+      "name": "docker-hello-world",
+      "repo": "https://github.com/willfarrell/docker-hello-world",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-idp-module",
+      "repo": "https://github.com/willfarrell/terraform-idp-module"
+    },
+    {
+      "name": "serverless-template",
+      "repo": "https://github.com/willfarrell/serverless-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "apidoc-plugin-example",
+      "repo": "https://github.com/willfarrell/apidoc-plugin-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "secret-patterns",
+      "repo": "https://github.com/willfarrell/secret-patterns",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-libressl",
+      "repo": "https://github.com/willfarrell/docker-libressl",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "react-intl-material",
+      "repo": "https://github.com/willfarrell/react-intl-material",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-prime",
+      "repo": "https://github.com/willfarrell/terraform-prime",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-webhint",
+      "repo": "https://github.com/willfarrell/docker-webhint",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-nginx",
+      "repo": "https://github.com/willfarrell/docker-nginx",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-selfsigncert",
+      "repo": "https://github.com/willfarrell/docker-selfsigncert",
+      "language": "Shell"
+    },
+    {
+      "name": "upu-postcode",
+      "repo": "https://github.com/willfarrell/upu-postcode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-intl-locale",
+      "repo": "https://github.com/willfarrell/react-intl-locale",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ip-cidr-rebase",
+      "repo": "https://github.com/willfarrell/ip-cidr-rebase",
+      "language": "JavaScript"
+    },
+    {
+      "name": "serverless-terraform",
+      "repo": "https://github.com/willfarrell/serverless-terraform",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-filebeat",
+      "repo": "https://github.com/willfarrell/docker-filebeat",
+      "language": "Shell"
+    },
+    {
+      "name": "Leaflet.Clipper",
+      "repo": "https://github.com/willfarrell/Leaflet.Clipper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-elasticsearch-curator",
+      "repo": "https://github.com/willfarrell/docker-elasticsearch-curator",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-playbook-aws",
+      "repo": "https://github.com/willfarrell/ansible-playbook-aws",
+      "language": "Python"
+    },
+    {
+      "name": "docker-redis",
+      "repo": "https://github.com/willfarrell/docker-redis",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-docker",
+      "repo": "https://github.com/willfarrell/ansible-role-docker"
+    },
+    {
+      "name": "ansible-role-sshd",
+      "repo": "https://github.com/willfarrell/ansible-role-sshd"
+    },
+    {
+      "name": "ansible-playbook-bastion",
+      "repo": "https://github.com/willfarrell/ansible-playbook-bastion",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-playbook-docker",
+      "repo": "https://github.com/willfarrell/ansible-playbook-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "alfred-github-workflow",
+      "repo": "https://github.com/willfarrell/alfred-github-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "php",
+      "repo": "https://github.com/willfarrell/php",
+      "language": "PHP"
+    },
+    {
+      "name": "alfred-youtube-workflow",
+      "repo": "https://github.com/willfarrell/alfred-youtube-workflow",
+      "language": "Python"
+    },
+    {
+      "name": "docker-vault-env",
+      "repo": "https://github.com/willfarrell/docker-vault-env",
+      "language": "Shell"
+    },
+    {
+      "name": "alfred-cdn-workflow",
+      "repo": "https://github.com/willfarrell/alfred-cdn-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-kafka",
+      "repo": "https://github.com/willfarrell/docker-kafka",
+      "language": "Shell"
+    },
+    {
+      "name": "apidoc-plugins",
+      "repo": "https://github.com/willfarrell/apidoc-plugins"
+    },
+    {
+      "name": "ievms",
+      "repo": "https://github.com/willfarrell/ievms",
+      "language": "Shell"
+    },
+    {
+      "name": "alfred-dash-workflow",
+      "repo": "https://github.com/willfarrell/alfred-dash-workflow"
+    },
+    {
+      "name": "rfqs",
+      "repo": "https://github.com/willfarrell/rfqs",
+      "language": "PHP"
+    },
+    {
+      "name": "angular-modernizr",
+      "repo": "https://github.com/willfarrell/angular-modernizr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotVhosts",
+      "repo": "https://github.com/willfarrell/dotVhosts",
+      "language": "PHP"
+    },
+    {
+      "name": "Browsers",
+      "repo": "https://github.com/willfarrell/Browsers",
+      "language": "Python"
+    },
+    {
+      "name": "keyStorage.js",
+      "repo": "https://github.com/willfarrell/keyStorage.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alfred-debugger",
+      "repo": "https://github.com/willfarrell/alfred-debugger",
+      "language": "Shell"
+    },
+    {
+      "name": "dotCrontab",
+      "repo": "https://github.com/willfarrell/dotCrontab",
+      "language": "Shell"
+    },
+    {
+      "name": "angular-io",
+      "repo": "https://github.com/willfarrell/angular-io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alfred-localhost-workflow",
+      "repo": "https://github.com/willfarrell/alfred-localhost-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "alfred-blank-workflow",
+      "repo": "https://github.com/willfarrell/alfred-blank-workflow",
+      "language": "PHP"
+    },
+    {
+      "name": "mac-ci",
+      "repo": "https://github.com/willfarrell/mac-ci",
+      "language": "Shell"
+    },
+    {
+      "name": "angular-io-app",
+      "repo": "https://github.com/willfarrell/angular-io-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Coda-Plugins",
+      "repo": "https://github.com/willfarrell/Coda-Plugins",
+      "language": "PHP"
+    }
+  ],
   "apps": []
 }

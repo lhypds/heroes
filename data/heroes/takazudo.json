@@ -7,5 +7,498 @@
   "website": "https://takazudo.me/",
   "own_repos": 167,
   "commits": 15148,
+  "repos": [
+    {
+      "name": "zudo-composer",
+      "repo": "https://github.com/Takazudo/zudo-composer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-front-builder",
+      "repo": "https://github.com/Takazudo/zudo-front-builder",
+      "language": "Rust"
+    },
+    {
+      "name": "zudo-design-token-panel",
+      "repo": "https://github.com/Takazudo/zudo-design-token-panel",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-led-lamp",
+      "repo": "https://github.com/Takazudo/zudo-led-lamp",
+      "language": "Python"
+    },
+    {
+      "name": "zudo-sg",
+      "repo": "https://github.com/Takazudo/zudo-sg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-test-wisdom",
+      "repo": "https://github.com/Takazudo/zudo-test-wisdom",
+      "language": "MDX"
+    },
+    {
+      "name": "ccresdoc",
+      "repo": "https://github.com/Takazudo/ccresdoc",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/Takazudo/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "zudo-design-token-panel-example-zfb-tailwind",
+      "repo": "https://github.com/Takazudo/zudo-design-token-panel-example-zfb-tailwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-design-token-panel-example-zfb",
+      "repo": "https://github.com/Takazudo/zudo-design-token-panel-example-zfb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-design-token-panel-example-vite-react",
+      "repo": "https://github.com/Takazudo/zudo-design-token-panel-example-vite-react",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-design-token-panel-example-nextjs",
+      "repo": "https://github.com/Takazudo/zudo-design-token-panel-example-nextjs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-design-token-panel-example-astro",
+      "repo": "https://github.com/Takazudo/zudo-design-token-panel-example-astro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zdtp-tweaker",
+      "repo": "https://github.com/Takazudo/zdtp-tweaker",
+      "language": "Shell"
+    },
+    {
+      "name": "zfb-example-password-gate",
+      "repo": "https://github.com/Takazudo/zfb-example-password-gate",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zfb-example-webshop",
+      "repo": "https://github.com/Takazudo/zfb-example-webshop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zfb-example-workers-cache",
+      "repo": "https://github.com/Takazudo/zfb-example-workers-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zfb-example-kv-guestbook",
+      "repo": "https://github.com/Takazudo/zfb-example-kv-guestbook",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zfb-example-json-api",
+      "repo": "https://github.com/Takazudo/zfb-example-json-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zfb-example-img-gallery",
+      "repo": "https://github.com/Takazudo/zfb-example-img-gallery",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zfb-example-corporate-website",
+      "repo": "https://github.com/Takazudo/zfb-example-corporate-website",
+      "language": "CSS"
+    },
+    {
+      "name": "zfb-example-ai-summarizer",
+      "repo": "https://github.com/Takazudo/zfb-example-ai-summarizer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zfb-example-reverse-proxy",
+      "repo": "https://github.com/Takazudo/zfb-example-reverse-proxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zfb-example-blog",
+      "repo": "https://github.com/Takazudo/zfb-example-blog",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-tauri-wisdom",
+      "repo": "https://github.com/Takazudo/zudo-tauri-wisdom",
+      "language": "MDX"
+    },
+    {
+      "name": "takazudomodular-manuals",
+      "repo": "https://github.com/Takazudo/takazudomodular-manuals",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wisdom-tweaker",
+      "repo": "https://github.com/Takazudo/wisdom-tweaker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zudo-history-stash",
+      "repo": "https://github.com/Takazudo/zudo-history-stash",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zfbex-tweaker",
+      "repo": "https://github.com/Takazudo/zfbex-tweaker",
+      "language": "Shell"
+    },
+    {
+      "name": "zudo-cloudflare-wisdom",
+      "repo": "https://github.com/Takazudo/zudo-cloudflare-wisdom",
+      "language": "MDX"
+    },
+    {
+      "name": "zudo-slack-wisdom",
+      "repo": "https://github.com/Takazudo/zudo-slack-wisdom",
+      "language": "MDX"
+    },
+    {
+      "name": "zudo-codemirror-wisdom",
+      "repo": "https://github.com/Takazudo/zudo-codemirror-wisdom",
+      "language": "MDX"
+    },
+    {
+      "name": "zudo-css-wisdom",
+      "repo": "https://github.com/Takazudo/zudo-css-wisdom",
+      "language": "MDX"
+    },
+    {
+      "name": "mdx-formatter",
+      "repo": "https://github.com/Takazudo/mdx-formatter",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-resources",
+      "repo": "https://github.com/Takazudo/claude-resources",
+      "language": "Shell"
+    },
+    {
+      "name": "zudo-design-token-lint",
+      "repo": "https://github.com/Takazudo/zudo-design-token-lint",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cloudflare-app-bootstrap-skill",
+      "repo": "https://github.com/Takazudo/cloudflare-app-bootstrap-skill",
+      "language": "Shell"
+    },
+    {
+      "name": "zudo-pd",
+      "repo": "https://github.com/Takazudo/zudo-pd",
+      "language": "Python"
+    },
+    {
+      "name": "beatsaber-overlay",
+      "repo": "https://github.com/Takazudo/beatsaber-overlay",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-ogp-check-panel",
+      "repo": "https://github.com/Takazudo/zudo-ogp-check-panel",
+      "language": "TypeScript"
+    },
+    {
+      "name": "case-estimate",
+      "repo": "https://github.com/Takazudo/case-estimate",
+      "language": "TypeScript"
+    },
+    {
+      "name": "takazudo.me",
+      "repo": "https://github.com/Takazudo/takazudo.me"
+    },
+    {
+      "name": "zudo-blanks",
+      "repo": "https://github.com/Takazudo/zudo-blanks",
+      "language": "Python"
+    },
+    {
+      "name": "filament-finder",
+      "repo": "https://github.com/Takazudo/filament-finder"
+    },
+    {
+      "name": "kumiko-gen",
+      "repo": "https://github.com/Takazudo/kumiko-gen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zudo-doc-template",
+      "repo": "https://github.com/Takazudo/zudo-doc-template"
+    },
+    {
+      "name": "presentation-claude-code-docusaurus",
+      "repo": "https://github.com/Takazudo/presentation-claude-code-docusaurus",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zudo-bus",
+      "repo": "https://github.com/Takazudo/zudo-bus",
+      "language": "Python"
+    },
+    {
+      "name": "takazudomodular-metamodule-doc",
+      "repo": "https://github.com/Takazudo/takazudomodular-metamodule-doc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jlcpcb-parts-finder-skill",
+      "repo": "https://github.com/Takazudo/jlcpcb-parts-finder-skill",
+      "language": "JavaScript"
+    },
+    {
+      "name": "takazudomodular-product-dev",
+      "repo": "https://github.com/Takazudo/takazudomodular-product-dev"
+    },
+    {
+      "name": "graveyard",
+      "repo": "https://github.com/Takazudo/graveyard",
+      "language": "HTML"
+    },
+    {
+      "name": "jlcpcb-parts-find-mcp",
+      "repo": "https://github.com/Takazudo/jlcpcb-parts-find-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "synth-resources",
+      "repo": "https://github.com/Takazudo/synth-resources"
+    },
+    {
+      "name": "modular-ideas",
+      "repo": "https://github.com/Takazudo/modular-ideas"
+    },
+    {
+      "name": "synth-DIY",
+      "repo": "https://github.com/Takazudo/synth-DIY",
+      "language": "C++"
+    },
+    {
+      "name": "just-a-simple-amplify-example",
+      "repo": "https://github.com/Takazudo/just-a-simple-amplify-example",
+      "language": "HTML"
+    },
+    {
+      "name": "restaurant-template-cms",
+      "repo": "https://github.com/Takazudo/restaurant-template-cms",
+      "language": "HTML"
+    },
+    {
+      "name": "gatsby-starter-netlify-cms",
+      "repo": "https://github.com/Takazudo/gatsby-starter-netlify-cms",
+      "language": "JavaScript"
+    },
+    {
+      "name": "netlify-funcitons-misc",
+      "repo": "https://github.com/Takazudo/netlify-funcitons-misc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nextjs-hello-world",
+      "repo": "https://github.com/Takazudo/nextjs-hello-world",
+      "url": "https://nextjs-hello-world.now.sh",
+      "language": "JavaScript"
+    },
+    {
+      "name": "one-click-hugo-cms",
+      "repo": "https://github.com/Takazudo/one-click-hugo-cms",
+      "language": "CSS"
+    },
+    {
+      "name": "takazudo-gatsby-doc-template",
+      "repo": "https://github.com/Takazudo/takazudo-gatsby-doc-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nextjs-monorepo-components-stash",
+      "repo": "https://github.com/Takazudo/nextjs-monorepo-components-stash",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gatsby-cloud-prismic-tryout",
+      "repo": "https://github.com/Takazudo/gatsby-cloud-prismic-tryout",
+      "language": "JavaScript"
+    },
+    {
+      "name": "amplify-auth",
+      "repo": "https://github.com/Takazudo/amplify-auth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gatsby-cloud-tryout",
+      "repo": "https://github.com/Takazudo/gatsby-cloud-tryout",
+      "language": "CSS"
+    },
+    {
+      "name": "road-to-tailwind",
+      "repo": "https://github.com/Takazudo/road-to-tailwind",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gatsby-loadable-components-example",
+      "repo": "https://github.com/Takazudo/gatsby-loadable-components-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gatsby-monorepo-example",
+      "repo": "https://github.com/Takazudo/gatsby-monorepo-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tailwindcss-direct-postcss-bootstrap",
+      "repo": "https://github.com/Takazudo/tailwindcss-direct-postcss-bootstrap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tweet-to-instapaper",
+      "repo": "https://github.com/Takazudo/tweet-to-instapaper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blue-tulip",
+      "repo": "https://github.com/Takazudo/blue-tulip",
+      "language": "CSS"
+    },
+    {
+      "name": "unique-potato",
+      "repo": "https://github.com/Takazudo/unique-potato",
+      "language": "CSS"
+    },
+    {
+      "name": "demo-ec-site",
+      "repo": "https://github.com/Takazudo/demo-ec-site"
+    },
+    {
+      "name": "trelloExport",
+      "repo": "https://github.com/Takazudo/trelloExport",
+      "language": "JavaScript"
+    },
+    {
+      "name": "querystring",
+      "repo": "https://github.com/Takazudo/querystring",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.DeferredPipeline",
+      "repo": "https://github.com/Takazudo/jQuery.DeferredPipeline",
+      "language": "JavaScript"
+    },
+    {
+      "name": "presentation-css-saves-project",
+      "repo": "https://github.com/Takazudo/presentation-css-saves-project"
+    },
+    {
+      "name": "presentation-project-save-css",
+      "repo": "https://github.com/Takazudo/presentation-project-save-css",
+      "language": "JavaScript"
+    },
+    {
+      "name": "presentation-flex-component",
+      "repo": "https://github.com/Takazudo/presentation-flex-component"
+    },
+    {
+      "name": "presentation-ecss2",
+      "repo": "https://github.com/Takazudo/presentation-ecss2"
+    },
+    {
+      "name": "presentation-pastAndNow",
+      "repo": "https://github.com/Takazudo/presentation-pastAndNow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.EaseScroller",
+      "repo": "https://github.com/Takazudo/jQuery.EaseScroller",
+      "language": "HTML"
+    },
+    {
+      "name": "presentation-html5",
+      "repo": "https://github.com/Takazudo/presentation-html5",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cdn-hamalog",
+      "repo": "https://github.com/Takazudo/cdn-hamalog",
+      "language": "HTML"
+    },
+    {
+      "name": "presentation-promise",
+      "repo": "https://github.com/Takazudo/presentation-promise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "presentation-absolute-margin-auto",
+      "repo": "https://github.com/Takazudo/presentation-absolute-margin-auto",
+      "language": "JavaScript"
+    },
+    {
+      "name": "EaseStepper",
+      "repo": "https://github.com/Takazudo/EaseStepper",
+      "language": "HTML"
+    },
+    {
+      "name": "presentation-inlineLayout",
+      "repo": "https://github.com/Takazudo/presentation-inlineLayout",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.allchecker",
+      "repo": "https://github.com/Takazudo/jQuery.allchecker",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "jQuery.LycheeBox",
+      "repo": "https://github.com/Takazudo/jQuery.LycheeBox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.imgUtil",
+      "repo": "https://github.com/Takazudo/jQuery.imgUtil",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.scrollfollowable",
+      "repo": "https://github.com/Takazudo/jQuery.scrollfollowable",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.touchdragh",
+      "repo": "https://github.com/Takazudo/jQuery.touchdragh",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jqb",
+      "repo": "https://github.com/Takazudo/jqb"
+    },
+    {
+      "name": "jQuery.socialthings",
+      "repo": "https://github.com/Takazudo/jQuery.socialthings",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.WinEnterWatcher",
+      "repo": "https://github.com/Takazudo/jQuery.WinEnterWatcher",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jQuery.NiceToggler",
+      "repo": "https://github.com/Takazudo/jQuery.NiceToggler",
+      "url": "https://github.com/Takazudo/jQuery.NiceToggler",
+      "language": "JavaScript"
+    },
+    {
+      "name": "presentation-list-bullet",
+      "repo": "https://github.com/Takazudo/presentation-list-bullet",
+      "language": "JavaScript"
+    }
+  ],
   "apps": []
 }

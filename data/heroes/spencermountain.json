@@ -8,5 +8,517 @@
   "bio": "freelance javascripter, believer in the internet",
   "own_repos": 124,
   "commits": 10903,
+  "repos": [
+    {
+      "name": "spacetime",
+      "repo": "https://github.com/spencermountain/spacetime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compromise",
+      "repo": "https://github.com/spencermountain/compromise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "suffix-thumb",
+      "repo": "https://github.com/spencermountain/suffix-thumb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atmpt",
+      "repo": "https://github.com/spencermountain/atmpt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dumpster-dip",
+      "repo": "https://github.com/spencermountain/dumpster-dip",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dumpster-doc",
+      "repo": "https://github.com/spencermountain/dumpster-doc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "al18ner",
+      "repo": "https://github.com/spencermountain/al18ner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dumpster-disk",
+      "repo": "https://github.com/spencermountain/dumpster-disk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf_wikipedia",
+      "repo": "https://github.com/spencermountain/wtf_wikipedia",
+      "url": "https://observablehq.com/@spencermountain/wtf_wikipedia",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spencermountain.github.io",
+      "repo": "https://github.com/spencermountain/spencermountain.github.io",
+      "url": "https://spencermounta.in/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-nsfw",
+      "repo": "https://github.com/spencermountain/wtf-plugin-nsfw",
+      "language": "JavaScript"
+    },
+    {
+      "name": "out-of-character",
+      "repo": "https://github.com/spencermountain/out-of-character",
+      "language": "JavaScript"
+    },
+    {
+      "name": "floornet",
+      "repo": "https://github.com/spencermountain/floornet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "floorbase",
+      "repo": "https://github.com/spencermountain/floorbase",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flooronto",
+      "repo": "https://github.com/spencermountain/flooronto",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vttpeg",
+      "repo": "https://github.com/spencermountain/vttpeg",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pmtpeg",
+      "repo": "https://github.com/spencermountain/pmtpeg",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timezone-soft",
+      "repo": "https://github.com/spencermountain/timezone-soft",
+      "url": "https://observablehq.com/@spencermountain/current-time-in",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-slop",
+      "repo": "https://github.com/spencermountain/git-slop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "folk-timezone",
+      "repo": "https://github.com/spencermountain/folk-timezone",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graphs",
+      "repo": "https://github.com/spencermountain/graphs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ca-inflation",
+      "repo": "https://github.com/spencermountain/ca-inflation",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dumpster-dive",
+      "repo": "https://github.com/spencermountain/dumpster-dive",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rug-lang",
+      "repo": "https://github.com/spencermountain/rug-lang",
+      "language": "JavaScript"
+    },
+    {
+      "name": "linoleum",
+      "repo": "https://github.com/spencermountain/linoleum",
+      "language": "JavaScript"
+    },
+    {
+      "name": "same-diff",
+      "repo": "https://github.com/spencermountain/same-diff",
+      "language": "JavaScript"
+    },
+    {
+      "name": "TO-housing-dashboard",
+      "repo": "https://github.com/spencermountain/TO-housing-dashboard",
+      "language": "HTML"
+    },
+    {
+      "name": "efrt",
+      "repo": "https://github.com/spencermountain/efrt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rollup-plugin-filesize-check",
+      "repo": "https://github.com/spencermountain/rollup-plugin-filesize-check",
+      "language": "JavaScript"
+    },
+    {
+      "name": "remote-work",
+      "repo": "https://github.com/spencermountain/remote-work",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-mlb",
+      "repo": "https://github.com/spencermountain/wtf-plugin-mlb",
+      "url": "https://beta.observablehq.com/@spencermountain/wikipedia-baseball-table-parser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-nhl",
+      "repo": "https://github.com/spencermountain/wtf-plugin-nhl",
+      "url": "https://observablehq.com/@spencermountain/wtf-plugin-nhl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "endofactor",
+      "repo": "https://github.com/spencermountain/endofactor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-calendar",
+      "repo": "https://github.com/spencermountain/somehow-calendar",
+      "url": "https://spencermounta.in/somehow-calendar/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-barchart",
+      "repo": "https://github.com/spencermountain/somehow-barchart",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-sankey",
+      "repo": "https://github.com/spencermountain/somehow-sankey",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-timeline",
+      "repo": "https://github.com/spencermountain/somehow-timeline",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-maps",
+      "repo": "https://github.com/spencermountain/somehow-maps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-circle",
+      "repo": "https://github.com/spencermountain/somehow-circle",
+      "url": "https://spencermounta.in/somehow-circle/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compromise-highlight",
+      "repo": "https://github.com/spencermountain/compromise-highlight",
+      "url": "https://spencermounta.in/compromise-highlight/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-script",
+      "repo": "https://github.com/spencermountain/somehow-script",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fit-aspect-ratio",
+      "repo": "https://github.com/spencermountain/fit-aspect-ratio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compromise-align",
+      "repo": "https://github.com/spencermountain/compromise-align",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slow",
+      "repo": "https://github.com/spencermountain/slow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spacetime-ticks",
+      "repo": "https://github.com/spencermountain/spacetime-ticks",
+      "url": "https://spencermounta.in/spacetime-ticks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-3d",
+      "repo": "https://github.com/spencermountain/somehow-3d",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spacetime-week",
+      "repo": "https://github.com/spencermountain/spacetime-week",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alt-up",
+      "repo": "https://github.com/spencermountain/alt-up",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spencer-css",
+      "repo": "https://github.com/spencermountain/spencer-css",
+      "url": "https://spencermounta.in/spencer-css/",
+      "language": "CSS"
+    },
+    {
+      "name": "spacetime-daylight",
+      "repo": "https://github.com/spencermountain/spacetime-daylight",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crap_regex",
+      "repo": "https://github.com/spencermountain/crap_regex",
+      "language": "Rust"
+    },
+    {
+      "name": "somehow-slider",
+      "repo": "https://github.com/spencermountain/somehow-slider",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-grid",
+      "repo": "https://github.com/spencermountain/somehow-grid",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-input",
+      "repo": "https://github.com/spencermountain/somehow-input",
+      "language": "JavaScript"
+    },
+    {
+      "name": "whoa-german-numbers",
+      "repo": "https://github.com/spencermountain/whoa-german-numbers",
+      "language": "Rust"
+    },
+    {
+      "name": "spencer-svelte",
+      "repo": "https://github.com/spencermountain/spencer-svelte",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spacetime-geo",
+      "repo": "https://github.com/spencermountain/spacetime-geo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "grad-school",
+      "repo": "https://github.com/spencermountain/grad-school",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crop-aspect",
+      "repo": "https://github.com/spencermountain/crop-aspect",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sunday-driver",
+      "repo": "https://github.com/spencermountain/sunday-driver",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spacetime-holiday",
+      "repo": "https://github.com/spencermountain/spacetime-holiday",
+      "language": "JavaScript"
+    },
+    {
+      "name": "suffix-predict",
+      "repo": "https://github.com/spencermountain/suffix-predict",
+      "language": "JavaScript"
+    },
+    {
+      "name": "change-hands",
+      "repo": "https://github.com/spencermountain/change-hands",
+      "language": "JavaScript"
+    },
+    {
+      "name": "what-links-here",
+      "repo": "https://github.com/spencermountain/what-links-here",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scal",
+      "repo": "https://github.com/spencermountain/scal",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spencer-color",
+      "repo": "https://github.com/spencermountain/spencer-color",
+      "url": "https://spencermounta.in/spencer-color",
+      "language": "JavaScript"
+    },
+    {
+      "name": "garbage-patch",
+      "repo": "https://github.com/spencermountain/garbage-patch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "half-past",
+      "repo": "https://github.com/spencermountain/half-past",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beefsto",
+      "repo": "https://github.com/spencermountain/beefsto"
+    },
+    {
+      "name": "amble",
+      "repo": "https://github.com/spencermountain/amble",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unrequired",
+      "repo": "https://github.com/spencermountain/unrequired",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-tldr",
+      "repo": "https://github.com/spencermountain/wtf-tldr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-scale",
+      "repo": "https://github.com/spencermountain/somehow-scale",
+      "language": "JavaScript"
+    },
+    {
+      "name": "NLP-OSS-2020",
+      "repo": "https://github.com/spencermountain/NLP-OSS-2020",
+      "language": "JavaScript"
+    },
+    {
+      "name": "future-model-toronto",
+      "repo": "https://github.com/spencermountain/future-model-toronto",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-keyboard",
+      "repo": "https://github.com/spencermountain/somehow-keyboard",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-year",
+      "repo": "https://github.com/spencermountain/somehow-year",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow",
+      "repo": "https://github.com/spencermountain/somehow"
+    },
+    {
+      "name": "somehow-graph",
+      "repo": "https://github.com/spencermountain/somehow-graph",
+      "url": "https://spencermounta.in/somehow-graph/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-horizon",
+      "repo": "https://github.com/spencermountain/somehow-horizon",
+      "language": "HTML"
+    },
+    {
+      "name": "headache",
+      "repo": "https://github.com/spencermountain/headache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wiki-summary",
+      "repo": "https://github.com/spencermountain/wiki-summary",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-markdown",
+      "repo": "https://github.com/spencermountain/wtf-plugin-markdown",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-wikitext",
+      "repo": "https://github.com/spencermountain/wtf-plugin-wikitext",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-latex",
+      "repo": "https://github.com/spencermountain/wtf-plugin-latex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-html",
+      "repo": "https://github.com/spencermountain/wtf-plugin-html",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compromise-redact",
+      "repo": "https://github.com/spencermountain/compromise-redact",
+      "language": "JavaScript"
+    },
+    {
+      "name": "osm_yeah",
+      "repo": "https://github.com/spencermountain/osm_yeah",
+      "language": "HTML"
+    },
+    {
+      "name": "somehow-ticks",
+      "repo": "https://github.com/spencermountain/somehow-ticks",
+      "url": "https://spencermounta.in/somehow-ticks/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pouchdb-workflow",
+      "repo": "https://github.com/spencermountain/pouchdb-workflow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "table-turn",
+      "repo": "https://github.com/spencermountain/table-turn",
+      "language": "JavaScript"
+    },
+    {
+      "name": "first-left",
+      "repo": "https://github.com/spencermountain/first-left",
+      "language": "JavaScript"
+    },
+    {
+      "name": "somehow-shapes",
+      "repo": "https://github.com/spencermountain/somehow-shapes",
+      "url": "https://spencermounta.in/spencer-shapes"
+    },
+    {
+      "name": "a_wall_map",
+      "repo": "https://github.com/spencermountain/a_wall_map",
+      "language": "JavaScript"
+    },
+    {
+      "name": "begin-functions-app",
+      "repo": "https://github.com/spencermountain/begin-functions-app",
+      "url": "https://begin.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "toronto-daylight",
+      "repo": "https://github.com/spencermountain/toronto-daylight",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dim",
+      "repo": "https://github.com/spencermountain/dim",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clooney",
+      "repo": "https://github.com/spencermountain/clooney",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bitbar",
+      "repo": "https://github.com/spencermountain/bitbar"
+    },
+    {
+      "name": "front_yard",
+      "repo": "https://github.com/spencermountain/front_yard"
+    }
+  ],
   "apps": []
 }

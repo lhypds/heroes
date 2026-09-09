@@ -8,5 +8,528 @@
   "bio": "require_relative 'interesting'",
   "own_repos": 137,
   "commits": 10247,
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/kachick/dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "irb-power_assert",
+      "repo": "https://github.com/kachick/irb-power_assert",
+      "language": "Ruby"
+    },
+    {
+      "name": "anylang-template",
+      "repo": "https://github.com/kachick/anylang-template",
+      "language": "Nix"
+    },
+    {
+      "name": "renovate-config-dprint",
+      "repo": "https://github.com/kachick/renovate-config-dprint",
+      "language": "TypeScript"
+    },
+    {
+      "name": "selfup",
+      "repo": "https://github.com/kachick/selfup",
+      "language": "Go"
+    },
+    {
+      "name": "wait-other-jobs",
+      "repo": "https://github.com/kachick/wait-other-jobs",
+      "url": "https://github.com/marketplace/actions/wait-other-jobs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nixpkgs-health-check-action",
+      "repo": "https://github.com/kachick/nixpkgs-health-check-action",
+      "language": "Nix"
+    },
+    {
+      "name": "pdf-workspace",
+      "repo": "https://github.com/kachick/pdf-workspace",
+      "language": "Nix"
+    },
+    {
+      "name": "depop",
+      "repo": "https://github.com/kachick/depop",
+      "url": "https://chrome.google.com/webstore/detail/eyes-away-from-github-pop/bblbchjekobacogfioehogggccfagkmk",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rspec-matchers-power_assert_matchers",
+      "repo": "https://github.com/kachick/rspec-matchers-power_assert_matchers",
+      "language": "Ruby"
+    },
+    {
+      "name": "micro-kdl",
+      "repo": "https://github.com/kachick/micro-kdl",
+      "url": "https://github.com/zyedidia/micro/pull/3549",
+      "language": "YAML"
+    },
+    {
+      "name": "kachick.github.io",
+      "repo": "https://github.com/kachick/kachick.github.io",
+      "url": "https://kachick.github.io/",
+      "language": "HTML"
+    },
+    {
+      "name": "dprint-plugin-typstyle",
+      "repo": "https://github.com/kachick/dprint-plugin-typstyle",
+      "language": "Rust"
+    },
+    {
+      "name": "containers",
+      "repo": "https://github.com/kachick/containers",
+      "language": "Rust"
+    },
+    {
+      "name": "dprint-plugin-kdl",
+      "repo": "https://github.com/kachick/dprint-plugin-kdl",
+      "language": "Rust"
+    },
+    {
+      "name": "PSFzfHistory",
+      "repo": "https://github.com/kachick/PSFzfHistory",
+      "url": "https://www.powershellgallery.com/packages/PSFzfHistory",
+      "language": "PowerShell"
+    },
+    {
+      "name": "lishogi-dev",
+      "repo": "https://github.com/kachick/lishogi-dev",
+      "language": "Shell"
+    },
+    {
+      "name": "nixpkgs-reviewing-workspace",
+      "repo": "https://github.com/kachick/nixpkgs-reviewing-workspace",
+      "language": "Go"
+    },
+    {
+      "name": "irbrc",
+      "repo": "https://github.com/kachick/irbrc",
+      "language": "Ruby"
+    },
+    {
+      "name": "times_kachick",
+      "repo": "https://github.com/kachick/times_kachick",
+      "url": "https://github.com/kachick/times_kachick/issues?q=is%3Aissue+is%3Aclosed",
+      "language": "Nix"
+    },
+    {
+      "name": "nixpkgs-update-log-checker",
+      "repo": "https://github.com/kachick/nixpkgs-update-log-checker",
+      "language": "Rust"
+    },
+    {
+      "name": "nixpkgs-maintained-by",
+      "repo": "https://github.com/kachick/nixpkgs-maintained-by",
+      "language": "Nix"
+    },
+    {
+      "name": "kemal-playground",
+      "repo": "https://github.com/kachick/kemal-playground",
+      "language": "Crystal"
+    },
+    {
+      "name": "chawan",
+      "repo": "https://github.com/kachick/chawan",
+      "url": "https://git.sr.ht/~bptato/chawan",
+      "language": "Nim"
+    },
+    {
+      "name": "ruby-ulid",
+      "repo": "https://github.com/kachick/ruby-ulid",
+      "url": "https://kachick.github.io/ruby-ulid/",
+      "language": "Ruby"
+    },
+    {
+      "name": "test-actions-runner-images-12574",
+      "repo": "https://github.com/kachick/test-actions-runner-images-12574"
+    },
+    {
+      "name": "gh-action-escape",
+      "repo": "https://github.com/kachick/gh-action-escape",
+      "language": "Go"
+    },
+    {
+      "name": "action-typescript-template",
+      "repo": "https://github.com/kachick/action-typescript-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "emobu",
+      "repo": "https://github.com/kachick/emobu",
+      "url": "https://mobu-elm.web.app/",
+      "language": "Elm"
+    },
+    {
+      "name": "deploy-yard-to-pages",
+      "repo": "https://github.com/kachick/deploy-yard-to-pages",
+      "language": "Nix"
+    },
+    {
+      "name": "example-octokit-graphql-schema-968",
+      "repo": "https://github.com/kachick/example-octokit-graphql-schema-968",
+      "language": "TypeScript"
+    },
+    {
+      "name": "example-actions-languageservices-78",
+      "repo": "https://github.com/kachick/example-actions-languageservices-78",
+      "language": "Nix"
+    },
+    {
+      "name": "gwurl",
+      "repo": "https://github.com/kachick/gwurl",
+      "language": "Go"
+    },
+    {
+      "name": "devcontainer-ubuntu-nix",
+      "repo": "https://github.com/kachick/devcontainer-ubuntu-nix",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "elm-dependency-submission",
+      "repo": "https://github.com/kachick/elm-dependency-submission",
+      "url": "https://github.com/marketplace/actions/elm-dependency-submission",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eqq",
+      "repo": "https://github.com/kachick/eqq",
+      "language": "Ruby"
+    },
+    {
+      "name": "convert-color-json-between-windows-terminal-and-vscode",
+      "repo": "https://github.com/kachick/convert-color-json-between-windows-terminal-and-vscode",
+      "url": "https://color-json-terminal-and-vscode.web.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "never18",
+      "repo": "https://github.com/kachick/never18",
+      "language": "Go"
+    },
+    {
+      "name": "yank-all-versions-of-a-gem-to-release-the-valuable-namespace-for-others",
+      "repo": "https://github.com/kachick/yank-all-versions-of-a-gem-to-release-the-valuable-namespace-for-others",
+      "language": "Ruby"
+    },
+    {
+      "name": "example-tree-ubuntu-24.04-runner-image",
+      "repo": "https://github.com/kachick/example-tree-ubuntu-24.04-runner-image",
+      "url": "https://github.com/actions/runner-images/issues/9935"
+    },
+    {
+      "name": "striuct",
+      "repo": "https://github.com/kachick/striuct",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-gem-template",
+      "repo": "https://github.com/kachick/ruby-gem-template",
+      "language": "Ruby"
+    },
+    {
+      "name": "integer-base",
+      "repo": "https://github.com/kachick/integer-base",
+      "language": "Ruby"
+    },
+    {
+      "name": "my_vagrant",
+      "repo": "https://github.com/kachick/my_vagrant",
+      "url": "https://github.com/kachick/times_kachick/issues/204",
+      "language": "Shell"
+    },
+    {
+      "name": "renovate-config-asdf",
+      "repo": "https://github.com/kachick/renovate-config-asdf",
+      "url": "https://github.com/renovatebot/renovate/pull/18612",
+      "language": "Crystal"
+    },
+    {
+      "name": "nixpkgs-url",
+      "repo": "https://github.com/kachick/nixpkgs-url",
+      "language": "Go"
+    },
+    {
+      "name": "action-update-dprint-plugins",
+      "repo": "https://github.com/kachick/action-update-dprint-plugins",
+      "language": "Nix"
+    },
+    {
+      "name": "lettercase",
+      "repo": "https://github.com/kachick/lettercase",
+      "language": "Ruby"
+    },
+    {
+      "name": "abb",
+      "repo": "https://github.com/kachick/abb",
+      "language": "Ruby"
+    },
+    {
+      "name": "declare",
+      "repo": "https://github.com/kachick/declare",
+      "language": "Ruby"
+    },
+    {
+      "name": "module-dbc",
+      "repo": "https://github.com/kachick/module-dbc",
+      "language": "Ruby"
+    },
+    {
+      "name": "ltsv",
+      "repo": "https://github.com/kachick/ltsv",
+      "language": "Ruby"
+    },
+    {
+      "name": "time-unit",
+      "repo": "https://github.com/kachick/time-unit",
+      "language": "Ruby"
+    },
+    {
+      "name": "optionalargument",
+      "repo": "https://github.com/kachick/optionalargument",
+      "language": "Ruby"
+    },
+    {
+      "name": "terminal-progress_bar",
+      "repo": "https://github.com/kachick/terminal-progress_bar",
+      "language": "Ruby"
+    },
+    {
+      "name": "action-parse-asdf-tool-versions",
+      "repo": "https://github.com/kachick/action-parse-asdf-tool-versions",
+      "language": "Ruby"
+    },
+    {
+      "name": "hash-diff",
+      "repo": "https://github.com/kachick/hash-diff",
+      "url": "https://kachick.github.io/hash-diff/",
+      "language": "Ruby"
+    },
+    {
+      "name": "pebbles-totsugen",
+      "repo": "https://github.com/kachick/pebbles-totsugen",
+      "url": "https://kachick.github.io/pebbles-totsugen/",
+      "language": "Ruby"
+    },
+    {
+      "name": "string-safe_inspector",
+      "repo": "https://github.com/kachick/string-safe_inspector",
+      "url": "https://kachick.github.io/string-safe_inspector/",
+      "language": "Ruby"
+    },
+    {
+      "name": "io-nosey",
+      "repo": "https://github.com/kachick/io-nosey",
+      "language": "Ruby"
+    },
+    {
+      "name": "asdf2json",
+      "repo": "https://github.com/kachick/asdf2json",
+      "language": "Haskell"
+    },
+    {
+      "name": "net-ipaddress",
+      "repo": "https://github.com/kachick/net-ipaddress",
+      "language": "Ruby"
+    },
+    {
+      "name": "proc-isolation",
+      "repo": "https://github.com/kachick/proc-isolation",
+      "url": "https://kachick.github.io/proc-isolation/",
+      "language": "Ruby"
+    },
+    {
+      "name": "family",
+      "repo": "https://github.com/kachick/family",
+      "url": "https://kachick.github.io/family/",
+      "language": "Ruby"
+    },
+    {
+      "name": "extoday",
+      "repo": "https://github.com/kachick/extoday",
+      "language": "Shell"
+    },
+    {
+      "name": "learn_Elm_todo",
+      "repo": "https://github.com/kachick/learn_Elm_todo",
+      "url": "https://kachick.github.io/learn_Elm_todo/",
+      "language": "Elm"
+    },
+    {
+      "name": "learn_Elm_command",
+      "repo": "https://github.com/kachick/learn_Elm_command",
+      "url": "https://kachick.github.io/learn_Elm_command/",
+      "language": "Elm"
+    },
+    {
+      "name": "validation",
+      "repo": "https://github.com/kachick/validation",
+      "url": "https://kachick.github.io/validation/",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-urifreezer",
+      "repo": "https://github.com/kachick/github-urifreezer",
+      "url": "https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/getting-permanent-links-to-files",
+      "language": "Ruby"
+    },
+    {
+      "name": "adjustn",
+      "repo": "https://github.com/kachick/adjustn",
+      "language": "Ruby"
+    },
+    {
+      "name": "yabmi",
+      "repo": "https://github.com/kachick/yabmi",
+      "url": "https://kachick.github.io/yabmi/",
+      "language": "Ruby"
+    },
+    {
+      "name": "sandbox-renovate-config-asdf",
+      "repo": "https://github.com/kachick/sandbox-renovate-config-asdf"
+    },
+    {
+      "name": "sandbox-steep",
+      "repo": "https://github.com/kachick/sandbox-steep",
+      "language": "Ruby"
+    },
+    {
+      "name": "struct-validatable",
+      "repo": "https://github.com/kachick/struct-validatable",
+      "language": "Ruby"
+    },
+    {
+      "name": "auto-merge-dependabot-prs-without-pat-after-workflows-passed",
+      "repo": "https://github.com/kachick/auto-merge-dependabot-prs-without-pat-after-workflows-passed",
+      "url": "https://github.com/kachick/wait-other-jobs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "keyvalidatable",
+      "repo": "https://github.com/kachick/keyvalidatable",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-password_generator",
+      "repo": "https://github.com/kachick/ruby-password_generator",
+      "language": "Ruby"
+    },
+    {
+      "name": "sandbox-github-issue-template",
+      "repo": "https://github.com/kachick/sandbox-github-issue-template"
+    },
+    {
+      "name": "sandbox.ruby.html-calc",
+      "repo": "https://github.com/kachick/sandbox.ruby.html-calc",
+      "language": "Ruby"
+    },
+    {
+      "name": "aprilfool",
+      "repo": "https://github.com/kachick/aprilfool",
+      "language": "Ruby"
+    },
+    {
+      "name": "learn_Ruby",
+      "repo": "https://github.com/kachick/learn_Ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "abstractstack",
+      "repo": "https://github.com/kachick/abstractstack",
+      "language": "Ruby"
+    },
+    {
+      "name": "module-mixy",
+      "repo": "https://github.com/kachick/module-mixy",
+      "language": "Ruby"
+    },
+    {
+      "name": "visibility_predicates",
+      "repo": "https://github.com/kachick/visibility_predicates",
+      "language": "Ruby"
+    },
+    {
+      "name": "method_visibility",
+      "repo": "https://github.com/kachick/method_visibility",
+      "language": "Ruby"
+    },
+    {
+      "name": "kernel-visibility_singleton_methods",
+      "repo": "https://github.com/kachick/kernel-visibility_singleton_methods",
+      "language": "Ruby"
+    },
+    {
+      "name": "test-declare",
+      "repo": "https://github.com/kachick/test-declare",
+      "language": "Ruby"
+    },
+    {
+      "name": "wrapingr",
+      "repo": "https://github.com/kachick/wrapingr",
+      "language": "Ruby"
+    },
+    {
+      "name": "time-delta",
+      "repo": "https://github.com/kachick/time-delta",
+      "language": "Ruby"
+    },
+    {
+      "name": "unsorted_uniq",
+      "repo": "https://github.com/kachick/unsorted_uniq",
+      "language": "Ruby"
+    },
+    {
+      "name": "structus",
+      "repo": "https://github.com/kachick/structus",
+      "language": "Ruby"
+    },
+    {
+      "name": "st",
+      "repo": "https://github.com/kachick/st",
+      "language": "Ruby"
+    },
+    {
+      "name": "to_h",
+      "repo": "https://github.com/kachick/to_h",
+      "language": "Ruby"
+    },
+    {
+      "name": "instancevalue",
+      "repo": "https://github.com/kachick/instancevalue",
+      "language": "Ruby"
+    },
+    {
+      "name": "struct-for_pairs",
+      "repo": "https://github.com/kachick/struct-for_pairs",
+      "language": "Ruby"
+    },
+    {
+      "name": "struct-default_value",
+      "repo": "https://github.com/kachick/struct-default_value",
+      "language": "Ruby"
+    },
+    {
+      "name": "structable",
+      "repo": "https://github.com/kachick/structable",
+      "language": "Ruby"
+    },
+    {
+      "name": "uri-hasparser",
+      "repo": "https://github.com/kachick/uri-hasparser",
+      "language": "Ruby"
+    },
+    {
+      "name": "exceptioncatchable",
+      "repo": "https://github.com/kachick/exceptioncatchable",
+      "language": "Ruby"
+    },
+    {
+      "name": "flyweight",
+      "repo": "https://github.com/kachick/flyweight",
+      "language": "Ruby"
+    }
+  ],
   "apps": []
 }

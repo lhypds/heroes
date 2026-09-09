@@ -8,5 +8,503 @@
   "bio": "I love to code.",
   "own_repos": 109,
   "commits": 12360,
+  "repos": [
+    {
+      "name": "toml",
+      "repo": "https://github.com/BurntSushi/toml",
+      "language": "Go"
+    },
+    {
+      "name": "memchr",
+      "repo": "https://github.com/BurntSushi/memchr",
+      "language": "Rust"
+    },
+    {
+      "name": "aho-corasick",
+      "repo": "https://github.com/BurntSushi/aho-corasick",
+      "language": "Rust"
+    },
+    {
+      "name": "bstr",
+      "repo": "https://github.com/BurntSushi/bstr",
+      "language": "Rust"
+    },
+    {
+      "name": "jiff",
+      "repo": "https://github.com/BurntSushi/jiff",
+      "language": "Rust"
+    },
+    {
+      "name": "ripgrep",
+      "repo": "https://github.com/BurntSushi/ripgrep",
+      "language": "Rust"
+    },
+    {
+      "name": "encoding_rs_io",
+      "repo": "https://github.com/BurntSushi/encoding_rs_io",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-csv",
+      "repo": "https://github.com/BurntSushi/rust-csv",
+      "language": "Rust"
+    },
+    {
+      "name": "bttf",
+      "repo": "https://github.com/BurntSushi/bttf",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/BurntSushi/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/BurntSushi/blog",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-snappy",
+      "repo": "https://github.com/BurntSushi/rust-snappy",
+      "language": "Rust"
+    },
+    {
+      "name": "mempool",
+      "repo": "https://github.com/BurntSushi/mempool",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-cbor",
+      "repo": "https://github.com/BurntSushi/rust-cbor",
+      "language": "Rust"
+    },
+    {
+      "name": "rebar",
+      "repo": "https://github.com/BurntSushi/rebar",
+      "language": "Python"
+    },
+    {
+      "name": "walkdir",
+      "repo": "https://github.com/BurntSushi/walkdir",
+      "language": "Rust"
+    },
+    {
+      "name": "wingo",
+      "repo": "https://github.com/BurntSushi/wingo",
+      "language": "Go"
+    },
+    {
+      "name": "quickcheck",
+      "repo": "https://github.com/BurntSushi/quickcheck",
+      "language": "Rust"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/BurntSushi/notes"
+    },
+    {
+      "name": "present",
+      "repo": "https://github.com/BurntSushi/present",
+      "language": "HTML"
+    },
+    {
+      "name": "same-file",
+      "repo": "https://github.com/BurntSushi/same-file",
+      "language": "Rust"
+    },
+    {
+      "name": "ripgrep-release-test",
+      "repo": "https://github.com/BurntSushi/ripgrep-release-test",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-pcre2",
+      "repo": "https://github.com/BurntSushi/rust-pcre2",
+      "language": "C"
+    },
+    {
+      "name": "tabwriter",
+      "repo": "https://github.com/BurntSushi/tabwriter",
+      "language": "Rust"
+    },
+    {
+      "name": "winapi-util",
+      "repo": "https://github.com/BurntSushi/winapi-util",
+      "language": "Rust"
+    },
+    {
+      "name": "xsv",
+      "repo": "https://github.com/BurntSushi/xsv",
+      "language": "Rust"
+    },
+    {
+      "name": "go-sumtype",
+      "repo": "https://github.com/BurntSushi/go-sumtype",
+      "language": "Go"
+    },
+    {
+      "name": "rg-cratesio-typosquat",
+      "repo": "https://github.com/BurntSushi/rg-cratesio-typosquat",
+      "language": "Rust"
+    },
+    {
+      "name": "duration-unit-lookup",
+      "repo": "https://github.com/BurntSushi/duration-unit-lookup",
+      "language": "Rust"
+    },
+    {
+      "name": "termcolor",
+      "repo": "https://github.com/BurntSushi/termcolor",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-cmail",
+      "repo": "https://github.com/BurntSushi/rust-cmail",
+      "language": "Rust"
+    },
+    {
+      "name": "ucd-generate",
+      "repo": "https://github.com/BurntSushi/ucd-generate",
+      "language": "Rust"
+    },
+    {
+      "name": "critcmp",
+      "repo": "https://github.com/BurntSushi/critcmp",
+      "language": "Rust"
+    },
+    {
+      "name": "imdb-rename",
+      "repo": "https://github.com/BurntSushi/imdb-rename",
+      "language": "Rust"
+    },
+    {
+      "name": "byteorder",
+      "repo": "https://github.com/BurntSushi/byteorder",
+      "language": "Rust"
+    },
+    {
+      "name": "fst",
+      "repo": "https://github.com/BurntSushi/fst",
+      "language": "Rust"
+    },
+    {
+      "name": "erd",
+      "repo": "https://github.com/BurntSushi/erd",
+      "language": "Haskell"
+    },
+    {
+      "name": "cargo-benchcmp",
+      "repo": "https://github.com/BurntSushi/cargo-benchcmp",
+      "language": "Rust"
+    },
+    {
+      "name": "globset",
+      "repo": "https://github.com/BurntSushi/globset",
+      "language": "Rust"
+    },
+    {
+      "name": "rure-go",
+      "repo": "https://github.com/BurntSushi/rure-go",
+      "language": "Go"
+    },
+    {
+      "name": "memchr-2.6-mov-regression",
+      "repo": "https://github.com/BurntSushi/memchr-2.6-mov-regression",
+      "language": "Rust"
+    },
+    {
+      "name": "rsc-regexp",
+      "repo": "https://github.com/BurntSushi/rsc-regexp",
+      "language": "Rust"
+    },
+    {
+      "name": "suffix",
+      "repo": "https://github.com/BurntSushi/suffix",
+      "language": "Rust"
+    },
+    {
+      "name": "regex-automata",
+      "repo": "https://github.com/BurntSushi/regex-automata",
+      "language": "Rust"
+    },
+    {
+      "name": "graphics-go",
+      "repo": "https://github.com/BurntSushi/graphics-go",
+      "language": "Go"
+    },
+    {
+      "name": "rust-stats",
+      "repo": "https://github.com/BurntSushi/rust-stats",
+      "language": "Rust"
+    },
+    {
+      "name": "utf8-ranges",
+      "repo": "https://github.com/BurntSushi/utf8-ranges",
+      "language": "Rust"
+    },
+    {
+      "name": "xgb",
+      "repo": "https://github.com/BurntSushi/xgb",
+      "language": "Go"
+    },
+    {
+      "name": "advent-of-code",
+      "repo": "https://github.com/BurntSushi/advent-of-code",
+      "language": "Rust"
+    },
+    {
+      "name": "chan",
+      "repo": "https://github.com/BurntSushi/chan",
+      "language": "Rust"
+    },
+    {
+      "name": "nfldb",
+      "repo": "https://github.com/BurntSushi/nfldb",
+      "language": "Python"
+    },
+    {
+      "name": "nakala",
+      "repo": "https://github.com/BurntSushi/nakala",
+      "language": "Rust"
+    },
+    {
+      "name": "rum",
+      "repo": "https://github.com/BurntSushi/rum",
+      "language": "Rust"
+    },
+    {
+      "name": "xgbutil",
+      "repo": "https://github.com/BurntSushi/xgbutil",
+      "language": "Go"
+    },
+    {
+      "name": "gohead",
+      "repo": "https://github.com/BurntSushi/gohead",
+      "language": "Go"
+    },
+    {
+      "name": "gribble",
+      "repo": "https://github.com/BurntSushi/gribble",
+      "language": "Go"
+    },
+    {
+      "name": "nflgame",
+      "repo": "https://github.com/BurntSushi/nflgame",
+      "language": "Python"
+    },
+    {
+      "name": "crev-proofs",
+      "repo": "https://github.com/BurntSushi/crev-proofs"
+    },
+    {
+      "name": "chan-signal",
+      "repo": "https://github.com/BurntSushi/chan-signal",
+      "language": "Rust"
+    },
+    {
+      "name": "xpybutil",
+      "repo": "https://github.com/BurntSushi/xpybutil",
+      "language": "Python"
+    },
+    {
+      "name": "pcre2-mirror",
+      "repo": "https://github.com/BurntSushi/pcre2-mirror"
+    },
+    {
+      "name": "rust-error-handling-case-study",
+      "repo": "https://github.com/BurntSushi/rust-error-handling-case-study",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-sorts",
+      "repo": "https://github.com/BurntSushi/rust-sorts",
+      "language": "Rust"
+    },
+    {
+      "name": "vcr",
+      "repo": "https://github.com/BurntSushi/vcr",
+      "language": "Rust"
+    },
+    {
+      "name": "rucd",
+      "repo": "https://github.com/BurntSushi/rucd",
+      "language": "Rust"
+    },
+    {
+      "name": "nflvid",
+      "repo": "https://github.com/BurntSushi/nflvid",
+      "language": "Python"
+    },
+    {
+      "name": "locker",
+      "repo": "https://github.com/BurntSushi/locker",
+      "language": "Go"
+    },
+    {
+      "name": "findfile",
+      "repo": "https://github.com/BurntSushi/findfile",
+      "language": "Rust"
+    },
+    {
+      "name": "goim",
+      "repo": "https://github.com/BurntSushi/goim",
+      "language": "Go"
+    },
+    {
+      "name": "play",
+      "repo": "https://github.com/BurntSushi/play"
+    },
+    {
+      "name": "pager-multihead",
+      "repo": "https://github.com/BurntSushi/pager-multihead",
+      "language": "Python"
+    },
+    {
+      "name": "rust-docs",
+      "repo": "https://github.com/BurntSushi/rust-docs",
+      "language": "Python"
+    },
+    {
+      "name": "imgv",
+      "repo": "https://github.com/BurntSushi/imgv",
+      "language": "Go"
+    },
+    {
+      "name": "clibs",
+      "repo": "https://github.com/BurntSushi/clibs",
+      "language": "C"
+    },
+    {
+      "name": "freetype-go",
+      "repo": "https://github.com/BurntSushi/freetype-go",
+      "language": "Go"
+    },
+    {
+      "name": "regexp",
+      "repo": "https://github.com/BurntSushi/regexp",
+      "language": "Rust"
+    },
+    {
+      "name": "nflfan",
+      "repo": "https://github.com/BurntSushi/nflfan",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pytyle3",
+      "repo": "https://github.com/BurntSushi/pytyle3",
+      "language": "Python"
+    },
+    {
+      "name": "cablastp",
+      "repo": "https://github.com/BurntSushi/cablastp",
+      "language": "Go"
+    },
+    {
+      "name": "nflcmd",
+      "repo": "https://github.com/BurntSushi/nflcmd",
+      "language": "Python"
+    },
+    {
+      "name": "burntsushi-blog",
+      "repo": "https://github.com/BurntSushi/burntsushi-blog",
+      "language": "CSS"
+    },
+    {
+      "name": "lcmweb",
+      "repo": "https://github.com/BurntSushi/lcmweb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fex",
+      "repo": "https://github.com/BurntSushi/fex",
+      "language": "Haskell"
+    },
+    {
+      "name": "csql",
+      "repo": "https://github.com/BurntSushi/csql",
+      "language": "Go"
+    },
+    {
+      "name": "sqlauth",
+      "repo": "https://github.com/BurntSushi/sqlauth",
+      "language": "Vim Script"
+    },
+    {
+      "name": "sqlsess",
+      "repo": "https://github.com/BurntSushi/sqlsess",
+      "language": "Go"
+    },
+    {
+      "name": "ty",
+      "repo": "https://github.com/BurntSushi/ty",
+      "language": "Go"
+    },
+    {
+      "name": "cmail",
+      "repo": "https://github.com/BurntSushi/cmail",
+      "language": "Go"
+    },
+    {
+      "name": "migration",
+      "repo": "https://github.com/BurntSushi/migration",
+      "language": "Go"
+    },
+    {
+      "name": "cif",
+      "repo": "https://github.com/BurntSushi/cif",
+      "language": "Go"
+    },
+    {
+      "name": "intern",
+      "repo": "https://github.com/BurntSushi/intern",
+      "language": "Go"
+    },
+    {
+      "name": "rtmpdump-ksv",
+      "repo": "https://github.com/BurntSushi/rtmpdump-ksv",
+      "language": "C"
+    },
+    {
+      "name": "genecentric",
+      "repo": "https://github.com/BurntSushi/genecentric",
+      "language": "Python"
+    },
+    {
+      "name": "c_cablastp",
+      "repo": "https://github.com/BurntSushi/c_cablastp",
+      "language": "C"
+    },
+    {
+      "name": "150fp-practice",
+      "repo": "https://github.com/BurntSushi/150fp-practice",
+      "language": "Haskell"
+    },
+    {
+      "name": "qcsv",
+      "repo": "https://github.com/BurntSushi/qcsv",
+      "language": "Python"
+    },
+    {
+      "name": "xdg",
+      "repo": "https://github.com/BurntSushi/xdg",
+      "language": "Go"
+    },
+    {
+      "name": "fanfoot",
+      "repo": "https://github.com/BurntSushi/fanfoot",
+      "language": "Python"
+    },
+    {
+      "name": "bcbgo",
+      "repo": "https://github.com/BurntSushi/bcbgo",
+      "language": "Go"
+    },
+    {
+      "name": "cluster",
+      "repo": "https://github.com/BurntSushi/cluster",
+      "language": "Go"
+    }
+  ],
   "apps": []
 }

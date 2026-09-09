@@ -13,6 +13,328 @@
   },
   "own_repos": 61,
   "commits": 9108,
+  "repos": [
+    {
+      "name": "heroes",
+      "repo": "https://github.com/lhypds/heroes",
+      "url": "https://heros.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "liveboard-mod-basic",
+      "repo": "https://github.com/lhypds/liveboard-mod-basic",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lo",
+      "repo": "https://github.com/lhypds/lo",
+      "url": "https://lo.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lo-even",
+      "repo": "https://github.com/lhypds/lo-even",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gift",
+      "repo": "https://github.com/lhypds/gift",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-ai-chat",
+      "repo": "https://github.com/gcc3/simple-ai-chat",
+      "url": "https://simple-ai.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "content-hub",
+      "repo": "https://github.com/gcc3/content-hub",
+      "url": "https://gcc³.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lhypds",
+      "repo": "https://github.com/lhypds/lhypds"
+    },
+    {
+      "name": "stash",
+      "repo": "https://github.com/lhypds/stash",
+      "url": "https://stash.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sc-even",
+      "repo": "https://github.com/gcc3/sc-even",
+      "url": "https://hub.evenrealities.com/hub/com.gcc3.g2sc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tikt",
+      "repo": "https://github.com/lhypds/tikt",
+      "url": "https://tikt.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "liveboard",
+      "repo": "https://github.com/lhypds/liveboard",
+      "url": "https://liveboard.gcc3.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "q",
+      "repo": "https://github.com/lhypds/q",
+      "url": "https://q.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pob",
+      "repo": "https://github.com/lhypds/pob",
+      "url": "https://gcc3.com/pob",
+      "language": "Go"
+    },
+    {
+      "name": ".note",
+      "repo": "https://github.com/lhypds/.note",
+      "language": "Rust"
+    },
+    {
+      "name": "timer",
+      "repo": "https://github.com/lhypds/timer",
+      "url": "https://timer.gcc3.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "psl",
+      "repo": "https://github.com/lhypds/psl",
+      "url": "https://gcc3.com/psl",
+      "language": "Go"
+    },
+    {
+      "name": "yt",
+      "repo": "https://github.com/lhypds/yt",
+      "language": "Python"
+    },
+    {
+      "name": "ft",
+      "repo": "https://github.com/lhypds/ft",
+      "language": "Python"
+    },
+    {
+      "name": "tgen",
+      "repo": "https://github.com/lhypds/tgen",
+      "url": "https://tgen.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "liveboard-mod-calc",
+      "repo": "https://github.com/lhypds/liveboard-mod-calc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "timeline",
+      "repo": "https://github.com/lhypds/timeline",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotenv-web",
+      "repo": "https://github.com/lhypds/dotenv-web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timeline",
+      "repo": "https://github.com/gcc3/timeline",
+      "url": "https://timeline.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clipboard-ol",
+      "repo": "https://github.com/lhypds/clipboard-ol",
+      "language": "PHP"
+    },
+    {
+      "name": "tcopy",
+      "repo": "https://github.com/lhypds/tcopy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-window-color-rotator",
+      "repo": "https://github.com/lhypds/vscode-window-color-rotator",
+      "url": "https://marketplace.visualstudio.com/items?itemName=gcc3.window-color-rotator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pico-hid",
+      "repo": "https://github.com/lhypds/pico-hid",
+      "language": "Python"
+    },
+    {
+      "name": "keyboard",
+      "repo": "https://github.com/lhypds/keyboard",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "taskmgr-cl",
+      "repo": "https://github.com/lhypds/taskmgr-cl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pdfmd",
+      "repo": "https://github.com/lhypds/pdfmd",
+      "language": "Python"
+    },
+    {
+      "name": "tts-video",
+      "repo": "https://github.com/lhypds/tts-video",
+      "language": "Python"
+    },
+    {
+      "name": "take-photo",
+      "repo": "https://github.com/lhypds/take-photo",
+      "language": "Python"
+    },
+    {
+      "name": "awaker",
+      "repo": "https://github.com/lhypds/awaker",
+      "language": "Python"
+    },
+    {
+      "name": "photo-reciever",
+      "repo": "https://github.com/lhypds/photo-reciever",
+      "language": "Python"
+    },
+    {
+      "name": "photo-sender-kt",
+      "repo": "https://github.com/lhypds/photo-sender-kt",
+      "language": "Kotlin"
+    },
+    {
+      "name": "geojson-previewer",
+      "repo": "https://github.com/lhypds/geojson-previewer",
+      "language": "Python"
+    },
+    {
+      "name": "mock-server",
+      "repo": "https://github.com/lhypds/mock-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-client",
+      "repo": "https://github.com/lhypds/mcp-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-server-weather",
+      "repo": "https://github.com/lhypds/mcp-server-weather",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-server-time",
+      "repo": "https://github.com/lhypds/mcp-server-time",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tts-reader",
+      "repo": "https://github.com/lhypds/tts-reader",
+      "language": "Python"
+    },
+    {
+      "name": "picodav",
+      "repo": "https://github.com/lhypds/picodav",
+      "language": "PHP"
+    },
+    {
+      "name": "simple-ai-node",
+      "repo": "https://github.com/gcc3/simple-ai-node",
+      "language": "Python"
+    },
+    {
+      "name": "utf8-checker",
+      "repo": "https://github.com/lhypds/utf8-checker",
+      "language": "Python"
+    },
+    {
+      "name": "calculator",
+      "repo": "https://github.com/lhypds/calculator",
+      "language": "C#"
+    },
+    {
+      "name": "i18n-app-reproduce",
+      "repo": "https://github.com/lhypds/i18n-app-reproduce",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-ai-hub",
+      "repo": "https://github.com/gcc3/simple-ai-hub",
+      "language": "Go"
+    },
+    {
+      "name": "quick-launcher-2",
+      "repo": "https://github.com/lhypds/quick-launcher-2",
+      "language": "C#"
+    },
+    {
+      "name": "timeline-api",
+      "repo": "https://github.com/gcc3/timeline-api",
+      "url": "https://timeline-api.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "input-method-switcher",
+      "repo": "https://github.com/lhypds/input-method-switcher",
+      "language": "C#"
+    },
+    {
+      "name": "bash-scripts",
+      "repo": "https://github.com/lhypds/bash-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "tf-gui",
+      "repo": "https://github.com/lhypds/tf-gui",
+      "language": "C#"
+    },
+    {
+      "name": "queue-paster",
+      "repo": "https://github.com/lhypds/queue-paster",
+      "language": "Python"
+    },
+    {
+      "name": "gopro-csharp-dev",
+      "repo": "https://github.com/lhypds/gopro-csharp-dev",
+      "language": "C#"
+    },
+    {
+      "name": "adb-auto-connect",
+      "repo": "https://github.com/lhypds/adb-auto-connect",
+      "language": "PowerShell"
+    },
+    {
+      "name": "livox-sdk-dev",
+      "repo": "https://github.com/lhypds/livox-sdk-dev",
+      "language": "C++"
+    },
+    {
+      "name": "livox-shortcut",
+      "repo": "https://github.com/lhypds/livox-shortcut",
+      "language": "Shell"
+    },
+    {
+      "name": "livox-auto-calibration-dev",
+      "repo": "https://github.com/lhypds/livox-auto-calibration-dev",
+      "language": "C++"
+    },
+    {
+      "name": "bluetooth-file-transfor",
+      "repo": "https://github.com/lhypds/bluetooth-file-transfor",
+      "language": "Kotlin"
+    },
+    {
+      "name": "speak-vbs",
+      "repo": "https://github.com/lhypds/speak-vbs",
+      "language": "VBScript"
+    }
+  ],
   "apps": [
     {
       "name": "Simple AI",
