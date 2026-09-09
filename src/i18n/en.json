@@ -4,7 +4,7 @@
   },
   "hero": {
     "name": "Code Heroes",
-    "tagline": "Programmers who build hundreds of repositories and make thousands of commits.",
+    "tagline": "Programmers who build hundreds of repositories and make tens of thousands of commits.",
     "lede": "Code Heroes is a public list of programmers who have a hundred public repositories of their own, every one of them real code. The bar to join is ten. Ten public repositories put a name on the list; the count beside it runs to a hundred. Anyone can check an entry, and anyone can add one with a pull request.",
     "join": "Be a hero",
     "source": "Source on GitHub"
@@ -19,6 +19,10 @@
       {
         "name": "At least one repository with 1,000 commits",
         "body": "At least one of your public repositories must contain 1,000 or more commits."
+      },
+      {
+        "name": "More than 10,000 commits in all",
+        "body": "The commits in your own public repositories, added up, must come to more than 10,000. Every repository of your own counts toward the total, the ones that fall short of the first rule as well; forks are not counted, here or anywhere else."
       }
     ]
   },
@@ -29,6 +33,7 @@
   "leads": {
     "title": "Other genius programmers",
     "count": "{{n}} of 100",
+    "commits": "{{n}} commits",
     "grid": "{{n}} of 100 applications",
     "open": "Open",
     "source": "Source",
@@ -76,7 +81,8 @@
     "one": "{{n}} of {{need}}, {{over}} passed over",
     "three": "{{repo}}, {{n}} commits",
     "none": "nothing near a thousand commits yet",
-    "hero": "A hero: a hundred repositories that count, and one of them with a thousand commits.",
+    "total": "{{n}} of {{need}}",
+    "hero": "A hero: a hundred repositories that count, one of them with a thousand commits, and more than ten thousand commits in all.",
     "listed": "On the list: {{n}} of the hundred. Ten is the bar to join.",
     "under": "{{n}} of the ten the list starts at.",
     "sieve": "A repository counts when it is yours, not a fork, and has 10 commits or more and more than 100 lines of code. Lines are read off the bytes GitHub gives for each language, at thirty bytes a line, so a repository near the line is worth a second look.",

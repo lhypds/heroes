@@ -92,6 +92,12 @@ const checkLead = (file, lead) => {
   }
   if (lead.website !== undefined && !isHttps(lead.website)) problem(file, `website must be an https:// address`);
   checkLocalised(file, "bio", lead.bio, false);
+  // What their own repositories come to in commits, which the page shows
+  // beside the name. Whether the figure is right is read by a person, the way
+  // the rules themselves are; this only asks that it is a whole number.
+  if (lead.commits !== undefined && !(Number.isInteger(lead.commits) && lead.commits >= 0)) {
+    problem(file, `commits must be a whole number of commits`);
+  }
 
   if (!Array.isArray(lead.apps)) {
     problem(file, `apps must be a list`);

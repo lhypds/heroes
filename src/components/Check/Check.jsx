@@ -4,10 +4,11 @@ import Hundred from "../Hundred";
 import { HUNDRED } from "../../constants";
 import styles from "./check.module.css";
 
-// A GitHub account, read against the two rules: how many of that account's
-// public repositories of their own are real code, and whether one of them
-// carries a thousand commits. The reading is api/handler.js's, at /api; this
-// is the box it is asked from and the answer set out.
+// A GitHub account, read against the three rules: how many of that account's
+// public repositories of their own are real code, whether one of them carries
+// a thousand commits, and what they come to in all. The reading is
+// api/handler.js's, at /api; this is the box it is asked from and the answer
+// set out.
 //
 // An account is a person or an organisation, and several of them, separated by
 // commas, are read as one — a person's work is often spread over more than one
@@ -52,7 +53,7 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const usable = (body) =>
   Array.isArray(body?.accounts) && body.accounts.length > 0 &&
   body.repositories != null && body.commits != null &&
-  body.rules?.repositories != null && body.rules?.commits != null &&
+  body.rules?.repositories != null && body.rules?.commits != null && body.rules?.total != null &&
   Array.isArray(body.counted) && Array.isArray(body.passedOver);
 
 // A number as the reader's language writes it.
@@ -190,7 +191,7 @@ export default function Check() {
   const several = report ? report.accounts.length > 1 : false;
   const named = (owner, name) => (several ? `${owner}/${name}` : name);
 
-  // The two rules, each with what this account has against it. The first is
+  // The three rules, each with what this account has against it. The first is
   // counted through a sieve, so it says what it sifted out as well as what it
   // let through.
   const marks = report && [
@@ -210,6 +211,13 @@ export default function Check() {
           repo: named(report.rules.commits.owner, report.rules.commits.repository),
           n: count(report.rules.commits.have, language),
         }),
+    },
+    {
+      ok: report.rules.total.ok,
+      value: t("check.total", {
+        n: count(report.rules.total.have, language),
+        need: count(report.rules.total.need, language),
+      }),
     },
   ];
 

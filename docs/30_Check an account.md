@@ -26,7 +26,7 @@ one address from outside.
 
 The page asks it too. Under the rules in "Be a hero" there is a box that takes
 a username — or several with commas — and sets the answer out: the score out
-of a hundred, the two rules with what the accounts have against each, and,
+of a hundred, the three rules with what the accounts have against each, and,
 unfolded, every repository that counts and every one that does not.  
 
 
@@ -67,7 +67,8 @@ Ask again, every second or two, until it answers `200`:
   "rules": {
     "repositories": { "need": 100, "have": 144, "ok": true, "passedOver": 78 },
     "code": { "commits": 10, "lines": 100, "bytesPerLine": 30, "counted": 144, "passedOver": 78 },
-    "commits": { "need": 1000, "have": 2983, "owner": "jaywcjlove", "repository": "awesome-mac", "ok": true }
+    "commits": { "need": 1000, "have": 2983, "owner": "jaywcjlove", "repository": "awesome-mac", "ok": true },
+    "total": { "need": 10000, "have": 74381, "ok": true }
   },
   "hero": true,
   "listed": true,
@@ -89,10 +90,11 @@ is all of them together: `repositories` is the sum, and `counted` and
 `passedOver` are one list between them, each repository saying which account
 `owner` it belongs to, since two accounts may both have one called dotfiles.  
 
-`commits` is what the reading added up to and not a rule: `total` over every
-repository read, `counted` over the ones that count. A person with a great
-many commits in repositories that are not code will see the two figures far
-apart, which is worth knowing before an entry is written.  
+`commits` is what the reading added up to: `total` over every repository read,
+which is what rule 3 asks for and `rules.total` answers, and `counted` over
+the ones that count, which no rule asks for. A person with a great many
+commits in repositories that are not code will see the two figures far apart,
+which is worth knowing before an entry is written.  
 
 `counted` are the repositories that meet rule 1, busiest first; `passedOver`
 are the rest, each saying what is short: `reason` in a word — `mirror`,
@@ -118,7 +120,7 @@ so twenty checks of one, or four of five.
 What it counts
 --------------
 
-The two rules are in [README.md](../README.md). This is how each is read.  
+The three rules are in [README.md](../README.md). This is how each is read.  
 
 Rule 1 asks for a hundred repositories that are real code, which is one rule
 read in two moves: a repository counts when it is public, yours, not a fork
@@ -135,8 +137,15 @@ together. Whether that is fair is for whoever reads the entry to say — an
 organisation one person writes all of is one thing, and one with fifty
 contributors is another. The check adds up; it does not judge.  
 
-A hundred that count makes a hero — `hero` — and one of them must carry a
-thousand commits. Ten puts a name on the list — `listed`.  
+Rule 2 is read off the repositories that count, since a repository that is not
+code is not one of yours to point at either. Rule 3 is read off every
+repository read instead — their own public repositories, forks out — so the
+commits in one that fell short of rule 1 are still their commits. It is
+`commits.total`, and `rules.total` says it against the ten thousand.  
+
+A hundred that count makes a hero — `hero` — with one of them carrying a
+thousand commits and more than ten thousand commits in all. Ten puts a name on
+the list — `listed`.  
 
 
 Lines

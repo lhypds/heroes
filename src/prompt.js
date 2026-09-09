@@ -23,6 +23,7 @@ const FULL = `{
   "github": "https://github.com/you",
   "website": "https://example.com",
   "bio": "One line about what you build.",
+  "commits": 12345,
   "apps": [
     {
       "name": "An app",
@@ -43,7 +44,7 @@ export const PROMPT = `Write an entry for Code Heroes, a public list of programm
 The person: https://github.com/<handle>
 Replace <handle> with their GitHub username. If it still says <handle>, ask for it before doing anything else.
 
-Read their profile and their public repositories, and pick the ones that count. There are two rules. One: it is a public repository of their own, one they created, that anyone can open, read and clone. Forks and mirrors of other people's work do not count, and neither does anyone else's repository. Two: it is real code: ten commits or more, and more than a hundred lines of code in a programming language. A repository that is only a README, or only prose, data or configuration, does not count. Stars do not matter. A repository short of either rule is left out.
+Read their profile and their public repositories, and pick the ones that count. A repository counts when two things are true. One: it is a public repository of their own, one they created, that anyone can open, read and clone. Forks and mirrors of other people's work do not count, and neither does anyone else's repository. Two: it is real code: ten commits or more, and more than a hundred lines of code in a programming language. A repository that is only a README, or only prose, data or configuration, does not count. Stars do not matter. A repository short of either rule is left out.
 
 Answer with one JSON file, data/heroes/<handle>.json, and nothing else. It looks like this:
 
@@ -55,6 +56,7 @@ The entry:
 - github: their profile, https://github.com/<handle>.
 - website: optional, an address of their own.
 - bio: optional, one line about what they build.
+- commits: optional, the commits their own public repositories come to in all, forks out — a whole number. Leave it out rather than guess at it.
 - apps: at least ten, and as many as count; the count keeps climbing past a hundred. The most important first: the page unfolds only the first hundred of the list, so the order is the ranking.
 
 Each application:

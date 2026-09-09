@@ -26,6 +26,7 @@ The file looks like this:
   "github": "https://github.com/you",
   "website": "https://example.com",
   "bio": "One line about what you build.",
+  "commits": 12345,
   "apps": [
     {
       "name": "An app",
@@ -50,6 +51,10 @@ The entry:
 `github` — the address of your GitHub profile.  
 `website` — optional, an address of your own.  
 `bio` — optional, one line, English or translated (see below).  
+`commits` — optional, the commits your own public repositories come to in all,
+the figure the third rule asks for. `pnpm run account -- <handle>` reads it off
+the account; the page shows it beside your name, and leaves the line out when
+the entry has no figure.  
 `apps` — at least ten, the most important first. There is no ceiling: the
 count beside a name keeps climbing past a hundred, 124 of 100. The page unfolds
 only the first hundred of the list, so the order is the ranking.  
@@ -84,9 +89,12 @@ extension, a bot, a library, a framework: all of them count the same, as long
 as the repository passes both rules. A repository short of either is left out;
 it does not count toward the ten to join or the hundred.  
 
-One rule is about the set rather than each repository: at least one of the
-repositories in an entry carries a thousand commits or more. The rest need only
-the ten.  
+Two rules are about the set rather than each repository: at least one of the
+repositories in an entry carries a thousand commits or more, and your own
+public repositories come to more than ten thousand commits in all. The rest
+need only the ten. The second of the two is read over every repository of
+yours, the ones that are left out of the entry as well — `commits` in the file
+is that figure.  
 
 Every application in an entry is the author's own. Someone else's application
 belongs in that person's entry.  
@@ -102,6 +110,7 @@ The check
 - there are at least ten applications  
 - every application has a `name`, a `description` and a `repo`  
 - every `repo` is an `https://` address, listed once  
+- `commits`, where there is one, is a whole number  
 - translations use the six known codes, and always include `en`  
 
 With `--online` it also asks each `repo` whether it answers, and mentions any

@@ -4,7 +4,7 @@
   },
   "hero": {
     "name": "Héroes del código",
-    "tagline": "Programadores que construyen cientos de repositorios y hacen miles de commits.",
+    "tagline": "Programadores que construyen cientos de repositorios y hacen decenas de miles de commits.",
     "lede": "Héroes del código es una lista pública de programadores que tienen cien repositorios públicos creados por ellos mismos, cada uno hecho de código de verdad. El listón para entrar es diez. Diez repositorios públicos ponen un nombre en la lista; la cuenta de al lado llega hasta cien. Cualquiera puede comprobar una entrada, y cualquiera puede añadir una con un pull request.",
     "join": "Sé un héroe",
     "source": "Código en GitHub"
@@ -19,6 +19,10 @@
       {
         "name": "Al menos un repositorio con 1000 commits",
         "body": "Al menos uno de tus repositorios públicos debe tener 1000 commits o más."
+      },
+      {
+        "name": "Más de 10 000 commits en total",
+        "body": "Los commits de tus repositorios públicos propios, sumados, deben pasar de 10 000. Todos tus repositorios entran en ese total, también los que se quedan cortos en la primera regla; los forks no cuentan, aquí ni en ningún sitio."
       }
     ]
   },
@@ -29,6 +33,7 @@
   "leads": {
     "title": "Otros programadores geniales",
     "count": "{{n}} de 100",
+    "commits": "{{n}} commits",
     "grid": "{{n}} de 100 aplicaciones",
     "open": "Abrir",
     "source": "Código",
@@ -76,7 +81,8 @@
     "one": "{{n}} de {{need}}, {{over}} descartados",
     "three": "{{repo}}, {{n}} commits",
     "none": "todavía ningún repositorio cerca de los mil commits",
-    "hero": "Un héroe: cien repositorios que cuentan, y uno de ellos con mil commits.",
+    "total": "{{n}} de {{need}}",
+    "hero": "Un héroe: cien repositorios que cuentan, uno de ellos con mil commits, y más de diez mil commits en total.",
     "listed": "En la lista: {{n}} de cien. El listón para entrar es diez.",
     "under": "{{n}} de los diez con los que empieza la lista.",
     "sieve": "Un repositorio cuenta si es tuyo, no es un fork, y tiene 10 commits o más y más de 100 líneas de código. Las líneas se estiman a partir de los bytes que GitHub da para cada lenguaje, a treinta bytes por línea, así que un repositorio justo en el límite merece una segunda mirada.",

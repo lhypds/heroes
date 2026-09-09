@@ -13,13 +13,17 @@ import styles from "./lead.module.css";
 // The count beside the name is the whole list, and may pass a hundred; the
 // rows that unfold are the first hundred of it, the entry's most important.
 //
+// Under the count, the commits their own public repositories come to, which
+// is the third rule. It is a figure somebody read off the account rather than
+// off this list, so an entry without it simply does not show one.
+//
 // Their GitHub picture beside the name, read from the address GitHub gives
 // every profile picture, hero or not. If it does not load, nothing is shown
 // in its place.
 export default function Lead({ lead }) {
   const { t, i18n } = useTranslation();
   const language = i18n.language;
-  const { handle, name, github, website, bio, apps } = lead;
+  const { handle, name, github, website, bio, apps, commits } = lead;
   const count = apps.length;
   const [open, setOpen] = useState(() => window.location.hash === `#${handle}`);
   const [noAvatar, setNoAvatar] = useState(false);
@@ -68,6 +72,11 @@ export default function Lead({ lead }) {
             <span className={styles.n}>{count}</span>
             <span className={styles.of}>/ 100</span>
           </div>
+          {commits > 0 && (
+            <div className={styles.commits}>
+              {t("leads.commits", { n: Number(commits).toLocaleString(language) })}
+            </div>
+          )}
           <Hundred
             count={count}
             titles={apps.map((app) => app.name)}

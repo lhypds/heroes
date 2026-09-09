@@ -126,6 +126,15 @@
   color: var(--muted);
 }
 
+/* What their repositories come to in commits, set as the figures in the rows
+   below are, under the count and above the squares. */
+.commits {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
 /* One application per row: its number, what it is, what it is written in
    and for, and the two places it can be followed to. */
 .apps {
