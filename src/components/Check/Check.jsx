@@ -232,12 +232,8 @@ export default function Check() {
 
       <form className={styles.form} onSubmit={run}>
         <div className={styles.field}>
-          {/* The @ says a handle goes here, and it is drawn in the field so
-              that what is typed is one. It goes when a second account is
-              typed, since it would then be the first name's alone. */}
-          {asked.length <= 1 && <span className={styles.at} aria-hidden="true">@</span>}
           <input
-            className={asked.length <= 1 ? styles.input : `${styles.input} ${styles.alone}`}
+            className={styles.input}
             type="text"
             value={typed}
             onChange={(event) => setTyped(event.target.value)}

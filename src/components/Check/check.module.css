@@ -31,7 +31,10 @@
 }
 
 /* GitHub's text field: a 1px border, 32px tall, the same box as the button
-   beside it. The @ is drawn inside it, so what is typed is a handle. */
+   beside it. Nothing is drawn inside it in front of what is typed, since what
+   is typed may be several names with commas between and a single @ would then
+   belong to the first alone. A name may still be given with one, or as a
+   profile address; the field takes it off. */
 .field {
   display: flex;
   align-items: baseline;
@@ -49,13 +52,6 @@
   box-shadow: inset 0 0 0 1px var(--ink);
 }
 
-.at {
-  padding-left: 12px;
-  font-family: var(--font-mono);
-  font-size: 14px;
-  color: var(--muted);
-}
-
 /* Wide enough for a handle and then some, since several can be typed into it
    with commas between; narrower windows shrink it, the form having room to
    wrap and the field to give way. */
@@ -63,7 +59,7 @@
   width: 32ch;
   min-width: 0;
   max-width: 100%;
-  padding: 6px 12px 6px 2px;
+  padding: 6px 12px;
   border: 0;
   background: none;
   color: var(--ink);
@@ -73,14 +69,19 @@
   letter-spacing: var(--tracking-body);
 }
 
-/* With no @ beside it the field's left padding is the input's own. */
-.alone {
-  padding-left: 12px;
-}
-
 .input::placeholder {
   color: var(--muted);
   font-family: var(--font-sans);
+}
+
+/* Safari on iOS zooms the page in when it focuses a field set under sixteen
+   pixels, and it does not zoom back out afterwards. Touch devices get the
+   sixteen; the line height is the field's, so the box is the same height
+   either way and only the letters are larger. */
+@media (pointer: coarse) {
+  .input {
+    font-size: 16px;
+  }
 }
 
 .input:focus {
