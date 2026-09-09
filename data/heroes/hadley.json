@@ -6,13 +6,24 @@
   ],
   "website": "https://hadley.nz/",
   "bio": "Chief Scientist at @posit-pbc",
-  "own_repos": 203,
+  "own_repos": 204,
   "commits": 10714,
   "repos": [
     {
       "name": "iah-wait-time",
       "repo": "https://github.com/hadley/iah-wait-time",
       "language": "R"
+    },
+    {
+      "name": "frog-jumping",
+      "repo": "https://github.com/hadley/frog-jumping",
+      "language": "R"
+    },
+    {
+      "name": "cran-deadlines",
+      "repo": "https://github.com/hadley/cran-deadlines",
+      "url": "https://hadley.github.io/cran-deadlines/",
+      "language": "Dockerfile"
     },
     {
       "name": "contoso",
@@ -30,12 +41,6 @@
       "repo": "https://github.com/hadley/r-pkgs",
       "url": "https://r-pkgs.org",
       "language": "R"
-    },
-    {
-      "name": "cran-deadlines",
-      "repo": "https://github.com/hadley/cran-deadlines",
-      "url": "https://hadley.github.io/cran-deadlines/",
-      "language": "Dockerfile"
     },
     {
       "name": "available-work",
@@ -502,11 +507,6 @@
     {
       "name": "s3method",
       "repo": "https://github.com/hadley/s3method",
-      "language": "R"
-    },
-    {
-      "name": "requirements",
-      "repo": "https://github.com/hadley/requirements",
       "language": "R"
     }
   ]

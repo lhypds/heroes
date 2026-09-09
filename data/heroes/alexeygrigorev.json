@@ -10,9 +10,19 @@
   "commits": 11921,
   "repos": [
     {
+      "name": "pocketshell-desktop",
+      "repo": "https://github.com/alexeygrigorev/pocketshell-desktop",
+      "language": "TypeScript"
+    },
+    {
       "name": "pocketshell",
       "repo": "https://github.com/alexeygrigorev/pocketshell",
       "language": "Kotlin"
+    },
+    {
+      "name": "telegram-writing-assistant",
+      "repo": "https://github.com/alexeygrigorev/telegram-writing-assistant",
+      "language": "Python"
     },
     {
       "name": ".agents",
@@ -25,11 +35,6 @@
       "language": "Rust"
     },
     {
-      "name": "pocketshell-desktop",
-      "repo": "https://github.com/alexeygrigorev/pocketshell-desktop",
-      "language": "TypeScript"
-    },
-    {
       "name": "quse",
       "repo": "https://github.com/alexeygrigorev/quse",
       "language": "Python"
@@ -37,11 +42,6 @@
     {
       "name": "stylint",
       "repo": "https://github.com/alexeygrigorev/stylint",
-      "language": "Python"
-    },
-    {
-      "name": "telegram-writing-assistant",
-      "repo": "https://github.com/alexeygrigorev/telegram-writing-assistant",
       "language": "Python"
     },
     {

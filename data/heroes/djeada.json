@@ -6,6 +6,518 @@
   ],
   "website": "https://adamdjellouli.com/",
   "bio": "Software Engineer (C++/Python/Rust)",
+  "own_repos": 103,
   "commits": 14785,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "Standard-of-Iron",
+      "repo": "https://github.com/djeada/Standard-of-Iron",
+      "url": "https://discord.gg/jVaBZP5PD",
+      "language": "C++"
+    },
+    {
+      "name": "Lightpad",
+      "repo": "https://github.com/djeada/Lightpad",
+      "language": "C++"
+    },
+    {
+      "name": "Kaggle-US-Pollution",
+      "repo": "https://github.com/djeada/Kaggle-US-Pollution",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Kafka-Notes",
+      "repo": "https://github.com/djeada/Kafka-Notes",
+      "language": "Python"
+    },
+    {
+      "name": "FullScreen-Pencil-Draw",
+      "repo": "https://github.com/djeada/FullScreen-Pencil-Draw",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Testio",
+      "repo": "https://github.com/djeada/Testio",
+      "language": "Python"
+    },
+    {
+      "name": "Django-Minimal",
+      "repo": "https://github.com/djeada/Django-Minimal",
+      "language": "Python"
+    },
+    {
+      "name": "TempoBench",
+      "repo": "https://github.com/djeada/TempoBench",
+      "language": "Python"
+    },
+    {
+      "name": "Bash-Scripts",
+      "repo": "https://github.com/djeada/Bash-Scripts",
+      "url": "https://adamdjellouli.com/articles/linux_notes",
+      "language": "Shell"
+    },
+    {
+      "name": "Flask-Minimal",
+      "repo": "https://github.com/djeada/Flask-Minimal",
+      "language": "Python"
+    },
+    {
+      "name": "Doing-Math-With-Python",
+      "repo": "https://github.com/djeada/Doing-Math-With-Python",
+      "language": "Python"
+    },
+    {
+      "name": "Personal-Website",
+      "repo": "https://github.com/djeada/Personal-Website",
+      "url": "https://adamdjellouli.com",
+      "language": "HTML"
+    },
+    {
+      "name": "Parallel-And-Concurrent-Programming",
+      "repo": "https://github.com/djeada/Parallel-And-Concurrent-Programming",
+      "url": "https://adamdjellouli.com/articles/parallel_and_concurrent_programming",
+      "language": "C++"
+    },
+    {
+      "name": "Statistics-Notes",
+      "repo": "https://github.com/djeada/Statistics-Notes",
+      "url": "https://adamdjellouli.com/articles/statistics_notes",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Flask-Blog",
+      "repo": "https://github.com/djeada/Flask-Blog",
+      "language": "Python"
+    },
+    {
+      "name": "Databases-Notes",
+      "repo": "https://github.com/djeada/Databases-Notes",
+      "url": "https://adamdjellouli.com/articles/databases_notes",
+      "language": "Python"
+    },
+    {
+      "name": "Linux-Notes",
+      "repo": "https://github.com/djeada/Linux-Notes",
+      "url": "https://adamdjellouli.com/articles/linux_notes",
+      "language": "Python"
+    },
+    {
+      "name": "Numpy-Tutorials",
+      "repo": "https://github.com/djeada/Numpy-Tutorials",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "paraview-mcp-server",
+      "repo": "https://github.com/djeada/paraview-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "Python-For-Informatics",
+      "repo": "https://github.com/djeada/Python-For-Informatics",
+      "language": "Python"
+    },
+    {
+      "name": "E-Goat",
+      "repo": "https://github.com/djeada/E-Goat",
+      "language": "Go"
+    },
+    {
+      "name": "10-Days-Statistics",
+      "repo": "https://github.com/djeada/10-Days-Statistics",
+      "language": "Python"
+    },
+    {
+      "name": "Elastic-Kibana-Notes",
+      "repo": "https://github.com/djeada/Elastic-Kibana-Notes"
+    },
+    {
+      "name": "llm-queries",
+      "repo": "https://github.com/djeada/llm-queries",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blender-mcp-server",
+      "repo": "https://github.com/djeada/blender-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "Computational-Fluid-Dynamics-CFD-Resources",
+      "repo": "https://github.com/djeada/Computational-Fluid-Dynamics-CFD-Resources",
+      "language": "Python"
+    },
+    {
+      "name": "AdSense-SEO-Agent",
+      "repo": "https://github.com/djeada/AdSense-SEO-Agent"
+    },
+    {
+      "name": "Kurs-Podstaw-Pythona",
+      "repo": "https://github.com/djeada/Kurs-Podstaw-Pythona",
+      "url": "https://adamdjellouli.com/courses/kurs_podstaw_pythona/",
+      "language": "Python"
+    },
+    {
+      "name": "Krotki-Kurs-Backend",
+      "repo": "https://github.com/djeada/Krotki-Kurs-Backend",
+      "language": "TeX"
+    },
+    {
+      "name": "Backend-Engineers-Guide",
+      "repo": "https://github.com/djeada/Backend-Engineers-Guide",
+      "language": "Python"
+    },
+    {
+      "name": "Bash-HackerRank",
+      "repo": "https://github.com/djeada/Bash-HackerRank",
+      "language": "Shell"
+    },
+    {
+      "name": "NeuraCommand",
+      "repo": "https://github.com/djeada/NeuraCommand",
+      "language": "Python"
+    },
+    {
+      "name": "Markdown-Image-Generator",
+      "repo": "https://github.com/djeada/Markdown-Image-Generator",
+      "language": "Python"
+    },
+    {
+      "name": "Leetcode-Solutions",
+      "repo": "https://github.com/djeada/Leetcode-Solutions",
+      "language": "Python"
+    },
+    {
+      "name": "Git-Notes",
+      "repo": "https://github.com/djeada/Git-Notes",
+      "url": "https://adamdjellouli.com/articles/git_notes"
+    },
+    {
+      "name": "OpenFoam-Tutorials",
+      "repo": "https://github.com/djeada/OpenFoam-Tutorials",
+      "language": "C++"
+    },
+    {
+      "name": "Networking-Notes",
+      "repo": "https://github.com/djeada/Networking-Notes",
+      "language": "Python"
+    },
+    {
+      "name": "Fresh-OS-Install",
+      "repo": "https://github.com/djeada/Fresh-OS-Install",
+      "language": "Shell"
+    },
+    {
+      "name": "Vtk-Examples",
+      "repo": "https://github.com/djeada/Vtk-Examples",
+      "url": "https://adamdjellouli.com/articles/vtk_examples",
+      "language": "Python"
+    },
+    {
+      "name": "LaTeX-Tutorial",
+      "repo": "https://github.com/djeada/LaTeX-Tutorial",
+      "language": "Python"
+    },
+    {
+      "name": "Nauka-Programowania",
+      "repo": "https://github.com/djeada/Nauka-Programowania",
+      "url": "https://adamdjellouli.com/courses/kurs_podstaw_pythona/",
+      "language": "Java"
+    },
+    {
+      "name": "Numerical-Methods",
+      "repo": "https://github.com/djeada/Numerical-Methods",
+      "url": "https://adamdjellouli.com/articles/numerical_methods",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Coding-Interviews",
+      "repo": "https://github.com/djeada/Coding-Interviews",
+      "language": "C++"
+    },
+    {
+      "name": "OpenCaption",
+      "repo": "https://github.com/djeada/OpenCaption",
+      "language": "Go"
+    },
+    {
+      "name": "Od-C-do-Cpp",
+      "repo": "https://github.com/djeada/Od-C-do-Cpp",
+      "url": "https://adamdjellouli.com/articles/od_c_do_cpp",
+      "language": "C++"
+    },
+    {
+      "name": "Papers-I-Read",
+      "repo": "https://github.com/djeada/Papers-I-Read",
+      "language": "Shell"
+    },
+    {
+      "name": "Asciiquest",
+      "repo": "https://github.com/djeada/Asciiquest",
+      "language": "C++"
+    },
+    {
+      "name": "djeada",
+      "repo": "https://github.com/djeada/djeada"
+    },
+    {
+      "name": "GuardRM",
+      "repo": "https://github.com/djeada/GuardRM",
+      "language": "Shell"
+    },
+    {
+      "name": "Algorithms-And-Data-Structures",
+      "repo": "https://github.com/djeada/Algorithms-And-Data-Structures",
+      "url": "https://adamdjellouli.com/articles/algorithms_and_data_structures",
+      "language": "C++"
+    },
+    {
+      "name": "Linux-System-Programming",
+      "repo": "https://github.com/djeada/Linux-System-Programming",
+      "language": "C"
+    },
+    {
+      "name": "3D-Pong",
+      "repo": "https://github.com/djeada/3D-Pong",
+      "language": "Python"
+    },
+    {
+      "name": "Proste-Projekty",
+      "repo": "https://github.com/djeada/Proste-Projekty",
+      "url": "https://adamdjellouli.com/courses/kurs_podstaw_pythona/",
+      "language": "Python"
+    },
+    {
+      "name": "Type-Simulator",
+      "repo": "https://github.com/djeada/Type-Simulator",
+      "language": "Python"
+    },
+    {
+      "name": "Pong-Curses",
+      "repo": "https://github.com/djeada/Pong-Curses",
+      "language": "C"
+    },
+    {
+      "name": "Jubilant-Rifle",
+      "repo": "https://github.com/djeada/Jubilant-Rifle",
+      "language": "C"
+    },
+    {
+      "name": "USB-Cleaner",
+      "repo": "https://github.com/djeada/USB-Cleaner",
+      "language": "Shell"
+    },
+    {
+      "name": "Cuda-Notes",
+      "repo": "https://github.com/djeada/Cuda-Notes",
+      "language": "Cuda"
+    },
+    {
+      "name": "Notes-On-Programming-Massively-Parallel-Processors",
+      "repo": "https://github.com/djeada/Notes-On-Programming-Massively-Parallel-Processors"
+    },
+    {
+      "name": "Calculus-And-Analysis",
+      "repo": "https://github.com/djeada/Calculus-And-Analysis",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Frontend-Notes",
+      "repo": "https://github.com/djeada/Frontend-Notes",
+      "url": "https://adamdjellouli.com/articles/frontend_notes",
+      "language": "HTML"
+    },
+    {
+      "name": "VIM-Config",
+      "repo": "https://github.com/djeada/VIM-Config",
+      "language": "Vim Script"
+    },
+    {
+      "name": "Design-Patterns-General-Overview",
+      "repo": "https://github.com/djeada/Design-Patterns-General-Overview",
+      "language": "Python"
+    },
+    {
+      "name": "Taxi-Fleet-Manager",
+      "repo": "https://github.com/djeada/Taxi-Fleet-Manager"
+    },
+    {
+      "name": "CMake-Examples",
+      "repo": "https://github.com/djeada/CMake-Examples",
+      "language": "C++"
+    },
+    {
+      "name": "Kaggle-House-Prices",
+      "repo": "https://github.com/djeada/Kaggle-House-Prices",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Coin-Detection",
+      "repo": "https://github.com/djeada/Coin-Detection",
+      "language": "Python"
+    },
+    {
+      "name": "Docker-Notes",
+      "repo": "https://github.com/djeada/Docker-Notes",
+      "language": "Python"
+    },
+    {
+      "name": "Data-Visualization",
+      "repo": "https://github.com/djeada/Data-Visualization"
+    },
+    {
+      "name": "Cybersecurity-Notes",
+      "repo": "https://github.com/djeada/Cybersecurity-Notes",
+      "language": "Python"
+    },
+    {
+      "name": "Ansible-Fundamentals",
+      "repo": "https://github.com/djeada/Ansible-Fundamentals",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Stanford-Machine-Learning",
+      "repo": "https://github.com/djeada/Stanford-Machine-Learning",
+      "url": "https://adamdjellouli.com/pages/stanford_machine_learning",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Qt-Widgets",
+      "repo": "https://github.com/djeada/Qt-Widgets",
+      "language": "Python"
+    },
+    {
+      "name": "NodeJs-Minimal",
+      "repo": "https://github.com/djeada/NodeJs-Minimal",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Testolini",
+      "repo": "https://github.com/djeada/Testolini",
+      "language": "Shell"
+    },
+    {
+      "name": "Csharp-Recipes",
+      "repo": "https://github.com/djeada/Csharp-Recipes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Kaggle-World-Happiness",
+      "repo": "https://github.com/djeada/Kaggle-World-Happiness",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Kaggle-Titanic",
+      "repo": "https://github.com/djeada/Kaggle-Titanic",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Camac",
+      "repo": "https://github.com/djeada/Camac",
+      "language": "Python"
+    },
+    {
+      "name": "Git-Hooks",
+      "repo": "https://github.com/djeada/Git-Hooks",
+      "language": "Python"
+    },
+    {
+      "name": "Think-Python",
+      "repo": "https://github.com/djeada/Think-Python",
+      "language": "Python"
+    },
+    {
+      "name": "Simple-Web-Server",
+      "repo": "https://github.com/djeada/Simple-Web-Server",
+      "language": "Python"
+    },
+    {
+      "name": "10-Days-JavaScript",
+      "repo": "https://github.com/djeada/10-Days-JavaScript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Maze-Solver",
+      "repo": "https://github.com/djeada/Maze-Solver",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Webpack-Minimal",
+      "repo": "https://github.com/djeada/Webpack-Minimal",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Pandas-Tutorials",
+      "repo": "https://github.com/djeada/Pandas-Tutorials",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Cpp-HackerRank",
+      "repo": "https://github.com/djeada/Cpp-HackerRank",
+      "language": "C++"
+    },
+    {
+      "name": "Sql-HackerRank",
+      "repo": "https://github.com/djeada/Sql-HackerRank"
+    },
+    {
+      "name": "Markdown-Table-Of-Contents-Generator",
+      "repo": "https://github.com/djeada/Markdown-Table-Of-Contents-Generator",
+      "language": "Python"
+    },
+    {
+      "name": "Hdf5-Examples",
+      "repo": "https://github.com/djeada/Hdf5-Examples",
+      "language": "Python"
+    },
+    {
+      "name": "QML-Recipes",
+      "repo": "https://github.com/djeada/QML-Recipes",
+      "language": "QML"
+    },
+    {
+      "name": "Find-Your-Windows-Product-Key",
+      "repo": "https://github.com/djeada/Find-Your-Windows-Product-Key",
+      "language": "Python"
+    },
+    {
+      "name": "PowerShell-Scripts",
+      "repo": "https://github.com/djeada/PowerShell-Scripts",
+      "language": "PowerShell"
+    },
+    {
+      "name": "Root",
+      "repo": "https://github.com/djeada/Root",
+      "language": "C++"
+    },
+    {
+      "name": "AVR",
+      "repo": "https://github.com/djeada/AVR",
+      "language": "C"
+    },
+    {
+      "name": "Simulation-Covid",
+      "repo": "https://github.com/djeada/Simulation-Covid",
+      "language": "C++"
+    },
+    {
+      "name": "Arduino",
+      "repo": "https://github.com/djeada/Arduino",
+      "language": "C++"
+    },
+    {
+      "name": "Stack",
+      "repo": "https://github.com/djeada/Stack",
+      "language": "C++"
+    },
+    {
+      "name": "Linked-List",
+      "repo": "https://github.com/djeada/Linked-List",
+      "language": "C++"
+    },
+    {
+      "name": "Binary-Search-Tree",
+      "repo": "https://github.com/djeada/Binary-Search-Tree",
+      "language": "C++"
+    }
+  ]
 }

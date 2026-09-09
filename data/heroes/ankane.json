@@ -5,5 +5,511 @@
     "https://github.com/ankane"
   ],
   "website": "https://ankane.org/",
-  "commits": 29755
+  "own_repos": 274,
+  "commits": 29755,
+  "repos": [
+    {
+      "name": "blazer-dev",
+      "repo": "https://github.com/ankane/blazer-dev",
+      "language": "HTML"
+    },
+    {
+      "name": "isotree-ruby",
+      "repo": "https://github.com/ankane/isotree-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "tokenizers-ruby",
+      "repo": "https://github.com/ankane/tokenizers-ruby",
+      "language": "Rust"
+    },
+    {
+      "name": "xgboost-ruby",
+      "repo": "https://github.com/ankane/xgboost-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "archer",
+      "repo": "https://github.com/ankane/archer",
+      "language": "Ruby"
+    },
+    {
+      "name": "lockbox",
+      "repo": "https://github.com/ankane/lockbox",
+      "language": "Ruby"
+    },
+    {
+      "name": "the-ultimate-guide-to-ruby-timeouts",
+      "repo": "https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts",
+      "language": "Ruby"
+    },
+    {
+      "name": "setup-elasticsearch",
+      "repo": "https://github.com/ankane/setup-elasticsearch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "neighbor",
+      "repo": "https://github.com/ankane/neighbor",
+      "language": "Ruby"
+    },
+    {
+      "name": "setup-postgres",
+      "repo": "https://github.com/ankane/setup-postgres",
+      "language": "JavaScript"
+    },
+    {
+      "name": "setup-opensearch",
+      "repo": "https://github.com/ankane/setup-opensearch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "highs-ruby",
+      "repo": "https://github.com/ankane/highs-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "pghero",
+      "repo": "https://github.com/ankane/pghero",
+      "language": "Ruby"
+    },
+    {
+      "name": "delta-ruby",
+      "repo": "https://github.com/ankane/delta-ruby",
+      "language": "Rust"
+    },
+    {
+      "name": "ruby-polars",
+      "repo": "https://github.com/ankane/ruby-polars",
+      "language": "Ruby"
+    },
+    {
+      "name": "torch.rb",
+      "repo": "https://github.com/ankane/torch.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "blazer-docker",
+      "repo": "https://github.com/ankane/blazer-docker",
+      "language": "Ruby"
+    },
+    {
+      "name": "scs-ruby",
+      "repo": "https://github.com/ankane/scs-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "cargo-3pl",
+      "repo": "https://github.com/ankane/cargo-3pl",
+      "language": "Rust"
+    },
+    {
+      "name": "tailslide",
+      "repo": "https://github.com/ankane/tailslide",
+      "language": "Python"
+    },
+    {
+      "name": "tailslide-php",
+      "repo": "https://github.com/ankane/tailslide-php",
+      "language": "PHP"
+    },
+    {
+      "name": "active_median",
+      "repo": "https://github.com/ankane/active_median",
+      "language": "Ruby"
+    },
+    {
+      "name": "pdscan",
+      "repo": "https://github.com/ankane/pdscan",
+      "language": "Go"
+    },
+    {
+      "name": "blazer",
+      "repo": "https://github.com/ankane/blazer",
+      "language": "Ruby"
+    },
+    {
+      "name": "disco-go",
+      "repo": "https://github.com/ankane/disco-go",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-brew",
+      "repo": "https://github.com/ankane/homebrew-brew",
+      "language": "Ruby"
+    },
+    {
+      "name": "searchkick",
+      "repo": "https://github.com/ankane/searchkick",
+      "language": "Ruby"
+    },
+    {
+      "name": "ahoy_email",
+      "repo": "https://github.com/ankane/ahoy_email",
+      "language": "Ruby"
+    },
+    {
+      "name": "hightop",
+      "repo": "https://github.com/ankane/hightop",
+      "language": "Ruby"
+    },
+    {
+      "name": "ahoy",
+      "repo": "https://github.com/ankane/ahoy",
+      "language": "Ruby"
+    },
+    {
+      "name": "dexter",
+      "repo": "https://github.com/ankane/dexter",
+      "language": "Ruby"
+    },
+    {
+      "name": "pgsync",
+      "repo": "https://github.com/ankane/pgsync",
+      "language": "Ruby"
+    },
+    {
+      "name": "groupdate",
+      "repo": "https://github.com/ankane/groupdate",
+      "language": "Ruby"
+    },
+    {
+      "name": "strong_migrations",
+      "repo": "https://github.com/ankane/strong_migrations",
+      "language": "Ruby"
+    },
+    {
+      "name": "chartkick",
+      "repo": "https://github.com/ankane/chartkick",
+      "url": "https://chartkick.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "rover",
+      "repo": "https://github.com/ankane/rover",
+      "language": "Ruby"
+    },
+    {
+      "name": "seaduck-php",
+      "repo": "https://github.com/ankane/seaduck-php",
+      "language": "PHP"
+    },
+    {
+      "name": "ducklake-php",
+      "repo": "https://github.com/ankane/ducklake-php",
+      "language": "PHP"
+    },
+    {
+      "name": "onnxruntime-ruby",
+      "repo": "https://github.com/ankane/onnxruntime-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "onnxruntime-php",
+      "repo": "https://github.com/ankane/onnxruntime-php",
+      "language": "PHP"
+    },
+    {
+      "name": "ffi-repro",
+      "repo": "https://github.com/ankane/ffi-repro",
+      "language": "Ruby"
+    },
+    {
+      "name": "sqlite3-ruby-ffi",
+      "repo": "https://github.com/ankane/sqlite3-ruby-ffi",
+      "language": "Ruby"
+    },
+    {
+      "name": "iceberg-ruby",
+      "repo": "https://github.com/ankane/iceberg-ruby",
+      "language": "Rust"
+    },
+    {
+      "name": "stl-ruby",
+      "repo": "https://github.com/ankane/stl-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "stl-cpp",
+      "repo": "https://github.com/ankane/stl-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "mailkick",
+      "repo": "https://github.com/ankane/mailkick",
+      "language": "Ruby"
+    },
+    {
+      "name": "mittens",
+      "repo": "https://github.com/ankane/mittens",
+      "language": "Ruby"
+    },
+    {
+      "name": "nanoarrow-ruby",
+      "repo": "https://github.com/ankane/nanoarrow-ruby",
+      "language": "C"
+    },
+    {
+      "name": "ml-builds",
+      "repo": "https://github.com/ankane/ml-builds"
+    },
+    {
+      "name": "faiss-ruby",
+      "repo": "https://github.com/ankane/faiss-ruby",
+      "language": "C++"
+    },
+    {
+      "name": "active_hll",
+      "repo": "https://github.com/ankane/active_hll",
+      "language": "Ruby"
+    },
+    {
+      "name": "3pl-source",
+      "repo": "https://github.com/ankane/3pl-source"
+    },
+    {
+      "name": "seaduck",
+      "repo": "https://github.com/ankane/seaduck",
+      "language": "Ruby"
+    },
+    {
+      "name": "ducklake-ruby",
+      "repo": "https://github.com/ankane/ducklake-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "numo.hpp",
+      "repo": "https://github.com/ankane/numo.hpp",
+      "language": "C++"
+    },
+    {
+      "name": "field_test",
+      "repo": "https://github.com/ankane/field_test",
+      "language": "Ruby"
+    },
+    {
+      "name": "lightgbm-ruby",
+      "repo": "https://github.com/ankane/lightgbm-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "immudb-ruby",
+      "repo": "https://github.com/ankane/immudb-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "opt",
+      "repo": "https://github.com/ankane/opt",
+      "language": "Ruby"
+    },
+    {
+      "name": "setup-mariadb",
+      "repo": "https://github.com/ankane/setup-mariadb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "librcf",
+      "repo": "https://github.com/ankane/librcf",
+      "language": "Rust"
+    },
+    {
+      "name": "rcf-cli",
+      "repo": "https://github.com/ankane/rcf-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "or-tools-ruby",
+      "repo": "https://github.com/ankane/or-tools-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "awesome-legal",
+      "repo": "https://github.com/ankane/awesome-legal"
+    },
+    {
+      "name": "go-timeouts",
+      "repo": "https://github.com/ankane/go-timeouts",
+      "language": "Go"
+    },
+    {
+      "name": "safetensors-ruby",
+      "repo": "https://github.com/ankane/safetensors-ruby",
+      "language": "Rust"
+    },
+    {
+      "name": "torchaudio-ruby",
+      "repo": "https://github.com/ankane/torchaudio-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "torchvision-ruby",
+      "repo": "https://github.com/ankane/torchvision-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "blind_index",
+      "repo": "https://github.com/ankane/blind_index",
+      "language": "Ruby"
+    },
+    {
+      "name": "s3tk",
+      "repo": "https://github.com/ankane/s3tk",
+      "language": "Python"
+    },
+    {
+      "name": "informers",
+      "repo": "https://github.com/ankane/informers",
+      "language": "Ruby"
+    },
+    {
+      "name": "ahoy.js",
+      "repo": "https://github.com/ankane/ahoy.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "setup-mongodb",
+      "repo": "https://github.com/ankane/setup-mongodb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eps",
+      "repo": "https://github.com/ankane/eps",
+      "language": "Ruby"
+    },
+    {
+      "name": "chartkick.js",
+      "repo": "https://github.com/ankane/chartkick.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "setup-mysql",
+      "repo": "https://github.com/ankane/setup-mysql",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chartkick.py",
+      "repo": "https://github.com/ankane/chartkick.py",
+      "url": "https://chartkick.com/python",
+      "language": "JavaScript"
+    },
+    {
+      "name": "breakout-ruby",
+      "repo": "https://github.com/ankane/breakout-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "AnomalyDetection.rb",
+      "repo": "https://github.com/ankane/AnomalyDetection.rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "trend-api",
+      "repo": "https://github.com/ankane/trend-api",
+      "language": "R"
+    },
+    {
+      "name": "trend-ruby",
+      "repo": "https://github.com/ankane/trend-ruby",
+      "url": "https://trendapi.org",
+      "language": "Ruby"
+    },
+    {
+      "name": "rollup",
+      "repo": "https://github.com/ankane/rollup",
+      "language": "Ruby"
+    },
+    {
+      "name": "vue-chartkick",
+      "repo": "https://github.com/ankane/vue-chartkick",
+      "url": "https://chartkick.com/vue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-chartkick",
+      "repo": "https://github.com/ankane/react-chartkick",
+      "url": "https://chartkick.com/react",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pgslice",
+      "repo": "https://github.com/ankane/pgslice",
+      "language": "Ruby"
+    },
+    {
+      "name": "secure-spreadsheet",
+      "repo": "https://github.com/ankane/secure-spreadsheet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mapkick.js",
+      "repo": "https://github.com/ankane/mapkick.js",
+      "url": "https://chartkick.com/mapkick-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "libmf-node",
+      "repo": "https://github.com/ankane/libmf-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "disco-node",
+      "repo": "https://github.com/ankane/disco-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-timeouts",
+      "repo": "https://github.com/ankane/node-timeouts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cmdstan-ruby",
+      "repo": "https://github.com/ankane/cmdstan-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "hypershield",
+      "repo": "https://github.com/ankane/hypershield",
+      "language": "Ruby"
+    },
+    {
+      "name": "movielens.sql",
+      "repo": "https://github.com/ankane/movielens.sql",
+      "language": "Ruby"
+    },
+    {
+      "name": "disco",
+      "repo": "https://github.com/ankane/disco",
+      "language": "Ruby"
+    },
+    {
+      "name": "setup-sqlserver",
+      "repo": "https://github.com/ankane/setup-sqlserver",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stl-rust",
+      "repo": "https://github.com/ankane/stl-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "disco-rust",
+      "repo": "https://github.com/ankane/disco-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "vega-ruby",
+      "repo": "https://github.com/ankane/vega-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "disco-cli",
+      "repo": "https://github.com/ankane/disco-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "dist-zig",
+      "repo": "https://github.com/ankane/dist-zig",
+      "language": "Zig"
+    }
+  ]
 }

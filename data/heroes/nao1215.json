@@ -5,6 +5,513 @@
     "https://github.com/nao1215"
   ],
   "website": "https://debimate.jp/",
+  "own_repos": 110,
   "commits": 13390,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "sqly",
+      "repo": "https://github.com/nao1215/sqly",
+      "url": "https://nao1215.github.io/sqly/",
+      "language": "Go"
+    },
+    {
+      "name": "markdown",
+      "repo": "https://github.com/nao1215/markdown",
+      "language": "Go"
+    },
+    {
+      "name": "atago",
+      "repo": "https://github.com/nao1215/atago",
+      "url": "https://nao1215.github.io/atago/",
+      "language": "Go"
+    },
+    {
+      "name": "gup",
+      "repo": "https://github.com/nao1215/gup",
+      "url": "https://nao1215.github.io/gup/",
+      "language": "Go"
+    },
+    {
+      "name": "onionscan",
+      "repo": "https://github.com/nao1215/onionscan",
+      "language": "Go"
+    },
+    {
+      "name": "imaging",
+      "repo": "https://github.com/nao1215/imaging",
+      "language": "Go"
+    },
+    {
+      "name": "mimixbox",
+      "repo": "https://github.com/nao1215/mimixbox",
+      "language": "Go"
+    },
+    {
+      "name": "nao1215",
+      "repo": "https://github.com/nao1215/nao1215",
+      "language": "Shell"
+    },
+    {
+      "name": "filesql",
+      "repo": "https://github.com/nao1215/filesql",
+      "language": "Go"
+    },
+    {
+      "name": "jose",
+      "repo": "https://github.com/nao1215/jose",
+      "language": "Go"
+    },
+    {
+      "name": "truss",
+      "repo": "https://github.com/nao1215/truss",
+      "url": "https://nao1215.github.io/truss/",
+      "language": "Rust"
+    },
+    {
+      "name": "debimate",
+      "repo": "https://github.com/nao1215/debimate",
+      "url": "https://debimate.jp/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "octocovs-central-repo",
+      "repo": "https://github.com/nao1215/octocovs-central-repo"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/nao1215/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "prompt",
+      "repo": "https://github.com/nao1215/prompt",
+      "language": "Go"
+    },
+    {
+      "name": "tornago",
+      "repo": "https://github.com/nao1215/tornago",
+      "language": "Go"
+    },
+    {
+      "name": "career",
+      "repo": "https://github.com/nao1215/career",
+      "language": "Go"
+    },
+    {
+      "name": "mobilepkg",
+      "repo": "https://github.com/nao1215/mobilepkg",
+      "language": "Go"
+    },
+    {
+      "name": "block",
+      "repo": "https://github.com/nao1215/block",
+      "url": "https://nao1215.github.io/block/",
+      "language": "Go"
+    },
+    {
+      "name": "omokage",
+      "repo": "https://github.com/nao1215/omokage",
+      "language": "Go"
+    },
+    {
+      "name": "sensitive",
+      "repo": "https://github.com/nao1215/sensitive",
+      "language": "Go"
+    },
+    {
+      "name": "iso8583tool",
+      "repo": "https://github.com/nao1215/iso8583tool",
+      "language": "Go"
+    },
+    {
+      "name": "block-registry",
+      "repo": "https://github.com/nao1215/block-registry",
+      "url": "https://nao1215.github.io/block-registry/",
+      "language": "Go"
+    },
+    {
+      "name": "setup-block",
+      "repo": "https://github.com/nao1215/setup-block",
+      "url": "https://nao1215.github.io/setup-block/",
+      "language": "CSS"
+    },
+    {
+      "name": "oaspec",
+      "repo": "https://github.com/nao1215/oaspec",
+      "language": "Gleam"
+    },
+    {
+      "name": "sqlode",
+      "repo": "https://github.com/nao1215/sqlode",
+      "url": "https://hexdocs.pm/sqlode",
+      "language": "Gleam"
+    },
+    {
+      "name": "horcrux",
+      "repo": "https://github.com/nao1215/horcrux",
+      "language": "TypeScript"
+    },
+    {
+      "name": "setup-iso8583tool",
+      "repo": "https://github.com/nao1215/setup-iso8583tool",
+      "language": "Shell"
+    },
+    {
+      "name": "yabase",
+      "repo": "https://github.com/nao1215/yabase",
+      "language": "Gleam"
+    },
+    {
+      "name": "finanza",
+      "repo": "https://github.com/nao1215/finanza",
+      "language": "Gleam"
+    },
+    {
+      "name": "textmetrics",
+      "repo": "https://github.com/nao1215/textmetrics",
+      "language": "Gleam"
+    },
+    {
+      "name": "fileframe",
+      "repo": "https://github.com/nao1215/fileframe",
+      "language": "Go"
+    },
+    {
+      "name": "fileparser",
+      "repo": "https://github.com/nao1215/fileparser",
+      "language": "Go"
+    },
+    {
+      "name": "fileprep",
+      "repo": "https://github.com/nao1215/fileprep",
+      "language": "Go"
+    },
+    {
+      "name": "dataprep",
+      "repo": "https://github.com/nao1215/dataprep",
+      "language": "Gleam"
+    },
+    {
+      "name": "datastream",
+      "repo": "https://github.com/nao1215/datastream",
+      "url": "https://hexdocs.pm/datastream",
+      "language": "Gleam"
+    },
+    {
+      "name": "ssevents",
+      "repo": "https://github.com/nao1215/ssevents",
+      "language": "Gleam"
+    },
+    {
+      "name": "multipartkit",
+      "repo": "https://github.com/nao1215/multipartkit",
+      "language": "Gleam"
+    },
+    {
+      "name": "metamon",
+      "repo": "https://github.com/nao1215/metamon",
+      "language": "Gleam"
+    },
+    {
+      "name": "sparklinekit",
+      "repo": "https://github.com/nao1215/sparklinekit",
+      "language": "Gleam"
+    },
+    {
+      "name": "setup-atago",
+      "repo": "https://github.com/nao1215/setup-atago",
+      "language": "Shell"
+    },
+    {
+      "name": "libvalacore",
+      "repo": "https://github.com/nao1215/libvalacore",
+      "language": "Vala"
+    },
+    {
+      "name": "diff",
+      "repo": "https://github.com/nao1215/diff",
+      "language": "Go"
+    },
+    {
+      "name": "mimetype",
+      "repo": "https://github.com/nao1215/mimetype",
+      "url": "https://hex.pm/packages/mimetype",
+      "language": "Gleam"
+    },
+    {
+      "name": "packkit",
+      "repo": "https://github.com/nao1215/packkit",
+      "language": "Gleam"
+    },
+    {
+      "name": "machine-learning-notes",
+      "repo": "https://github.com/nao1215/machine-learning-notes",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "qrkit",
+      "repo": "https://github.com/nao1215/qrkit",
+      "language": "Gleam"
+    },
+    {
+      "name": "geokit",
+      "repo": "https://github.com/nao1215/geokit",
+      "language": "Gleam"
+    },
+    {
+      "name": "automata",
+      "repo": "https://github.com/nao1215/automata",
+      "url": "https://hexdocs.pm/automata",
+      "language": "Gleam"
+    },
+    {
+      "name": "deapk",
+      "repo": "https://github.com/nao1215/deapk",
+      "language": "Go"
+    },
+    {
+      "name": "imgconv",
+      "repo": "https://github.com/nao1215/imgconv",
+      "language": "TypeScript"
+    },
+    {
+      "name": "micro",
+      "repo": "https://github.com/nao1215/micro",
+      "language": "Go"
+    },
+    {
+      "name": "spectest",
+      "repo": "https://github.com/nao1215/spectest",
+      "language": "Go"
+    },
+    {
+      "name": "clockwork-base32",
+      "repo": "https://github.com/nao1215/clockwork-base32",
+      "language": "Haskell"
+    },
+    {
+      "name": "stringx",
+      "repo": "https://github.com/nao1215/stringx",
+      "language": "OCaml"
+    },
+    {
+      "name": "snow-toolchain",
+      "repo": "https://github.com/nao1215/snow-toolchain",
+      "language": "OCaml"
+    },
+    {
+      "name": "csv",
+      "repo": "https://github.com/nao1215/csv",
+      "language": "Go"
+    },
+    {
+      "name": "mkgoprj",
+      "repo": "https://github.com/nao1215/mkgoprj",
+      "language": "Go"
+    },
+    {
+      "name": "onionlint",
+      "repo": "https://github.com/nao1215/onionlint",
+      "language": "Go"
+    },
+    {
+      "name": "vogen",
+      "repo": "https://github.com/nao1215/vogen",
+      "language": "Go"
+    },
+    {
+      "name": "cic",
+      "repo": "https://github.com/nao1215/cic",
+      "language": "Rust"
+    },
+    {
+      "name": "hottest",
+      "repo": "https://github.com/nao1215/hottest",
+      "language": "Go"
+    },
+    {
+      "name": "selfish",
+      "repo": "https://github.com/nao1215/selfish",
+      "language": "OCaml"
+    },
+    {
+      "name": "sqluv",
+      "repo": "https://github.com/nao1215/sqluv",
+      "language": "Go"
+    },
+    {
+      "name": "actions-hottest",
+      "repo": "https://github.com/nao1215/actions-hottest",
+      "language": "Shell"
+    },
+    {
+      "name": "snow",
+      "repo": "https://github.com/nao1215/snow",
+      "language": "AMPL"
+    },
+    {
+      "name": "morrigan",
+      "repo": "https://github.com/nao1215/morrigan",
+      "language": "Go"
+    },
+    {
+      "name": "posixer",
+      "repo": "https://github.com/nao1215/posixer",
+      "language": "Go"
+    },
+    {
+      "name": "rainbow",
+      "repo": "https://github.com/nao1215/rainbow",
+      "language": "Go"
+    },
+    {
+      "name": "BugBountyLesson",
+      "repo": "https://github.com/nao1215/BugBountyLesson"
+    },
+    {
+      "name": "leadtime",
+      "repo": "https://github.com/nao1215/leadtime",
+      "language": "Go"
+    },
+    {
+      "name": "coincheck",
+      "repo": "https://github.com/nao1215/coincheck",
+      "language": "Go"
+    },
+    {
+      "name": "nao1215.github.io",
+      "repo": "https://github.com/nao1215/nao1215.github.io"
+    },
+    {
+      "name": "http-status-code",
+      "repo": "https://github.com/nao1215/http-status-code",
+      "language": "Go"
+    },
+    {
+      "name": "go-ddd-example",
+      "repo": "https://github.com/nao1215/go-ddd-example"
+    },
+    {
+      "name": "honeycomb",
+      "repo": "https://github.com/nao1215/honeycomb",
+      "language": "Go"
+    },
+    {
+      "name": "actions-ebitengine",
+      "repo": "https://github.com/nao1215/actions-ebitengine"
+    },
+    {
+      "name": "denv",
+      "repo": "https://github.com/nao1215/denv",
+      "language": "Go"
+    },
+    {
+      "name": "aws",
+      "repo": "https://github.com/nao1215/aws",
+      "language": "Go"
+    },
+    {
+      "name": "hasher",
+      "repo": "https://github.com/nao1215/hasher",
+      "language": "Go"
+    },
+    {
+      "name": "database-schema-design-examples",
+      "repo": "https://github.com/nao1215/database-schema-design-examples"
+    },
+    {
+      "name": "mermaid",
+      "repo": "https://github.com/nao1215/mermaid",
+      "language": "Go"
+    },
+    {
+      "name": "gorky",
+      "repo": "https://github.com/nao1215/gorky",
+      "language": "Go"
+    },
+    {
+      "name": "emigre",
+      "repo": "https://github.com/nao1215/emigre",
+      "language": "Go"
+    },
+    {
+      "name": "spare",
+      "repo": "https://github.com/nao1215/spare",
+      "language": "Go"
+    },
+    {
+      "name": "goavl",
+      "repo": "https://github.com/nao1215/goavl",
+      "language": "Go"
+    },
+    {
+      "name": "Klipy",
+      "repo": "https://github.com/nao1215/Klipy",
+      "language": "Kotlin"
+    },
+    {
+      "name": "aws-cloudformation-lesson",
+      "repo": "https://github.com/nao1215/aws-cloudformation-lesson",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reddit-downloader",
+      "repo": "https://github.com/nao1215/reddit-downloader",
+      "language": "Go"
+    },
+    {
+      "name": "lgtm",
+      "repo": "https://github.com/nao1215/lgtm",
+      "language": "Makefile"
+    },
+    {
+      "name": "golling",
+      "repo": "https://github.com/nao1215/golling",
+      "language": "Go"
+    },
+    {
+      "name": "speaker",
+      "repo": "https://github.com/nao1215/speaker",
+      "language": "Go"
+    },
+    {
+      "name": "subaru",
+      "repo": "https://github.com/nao1215/subaru",
+      "language": "Go"
+    },
+    {
+      "name": "contributor",
+      "repo": "https://github.com/nao1215/contributor",
+      "language": "Go"
+    },
+    {
+      "name": "go-lapras",
+      "repo": "https://github.com/nao1215/go-lapras",
+      "language": "Go"
+    },
+    {
+      "name": "oss-project-idea",
+      "repo": "https://github.com/nao1215/oss-project-idea"
+    },
+    {
+      "name": "KotlinLesson",
+      "repo": "https://github.com/nao1215/KotlinLesson",
+      "language": "Kotlin"
+    },
+    {
+      "name": "food-ware-license",
+      "repo": "https://github.com/nao1215/food-ware-license"
+    },
+    {
+      "name": "golden",
+      "repo": "https://github.com/nao1215/golden",
+      "language": "Go"
+    },
+    {
+      "name": "ddl-maker",
+      "repo": "https://github.com/nao1215/ddl-maker",
+      "language": "Go"
+    }
+  ]
 }

@@ -5,5 +5,525 @@
     "https://github.com/jdx"
   ],
   "website": "https://jdx.dev/",
-  "commits": 11543
+  "own_repos": 380,
+  "commits": 11543,
+  "repos": [
+    {
+      "name": "mise",
+      "repo": "https://github.com/jdx/mise",
+      "url": "https://mise.jdx.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "mise-versions",
+      "repo": "https://github.com/jdx/mise-versions",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mr-boxington",
+      "repo": "https://github.com/jdx/mr-boxington",
+      "language": "Rust"
+    },
+    {
+      "name": "mise-java",
+      "repo": "https://github.com/jdx/mise-java",
+      "language": "Rust"
+    },
+    {
+      "name": "triaghe",
+      "repo": "https://github.com/jdx/triaghe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fnox",
+      "repo": "https://github.com/jdx/fnox",
+      "url": "https://fnox.jdx.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "packslip",
+      "repo": "https://github.com/jdx/packslip",
+      "language": "Rust"
+    },
+    {
+      "name": "communique",
+      "repo": "https://github.com/jdx/communique",
+      "url": "https://communique.jdx.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "usage",
+      "repo": "https://github.com/jdx/usage",
+      "url": "https://usage.jdx.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "mise-action",
+      "repo": "https://github.com/jdx/mise-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mise-analytics",
+      "repo": "https://github.com/jdx/mise-analytics",
+      "language": "Python"
+    },
+    {
+      "name": "pitchfork",
+      "repo": "https://github.com/jdx/pitchfork",
+      "url": "https://pitchfork.jdx.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "hk",
+      "repo": "https://github.com/jdx/hk",
+      "url": "https://hk.jdx.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "tak",
+      "repo": "https://github.com/jdx/tak",
+      "language": "Rust"
+    },
+    {
+      "name": "usage-sh",
+      "repo": "https://github.com/jdx/usage-sh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "expr.rs",
+      "repo": "https://github.com/jdx/expr.rs",
+      "url": "https://docs.rs/expr-lang",
+      "language": "Rust"
+    },
+    {
+      "name": "aube-action",
+      "repo": "https://github.com/jdx/aube-action",
+      "url": "https://github.com/endevco/aube"
+    },
+    {
+      "name": "demand",
+      "repo": "https://github.com/jdx/demand",
+      "url": "https://docs.rs/demand",
+      "language": "Rust"
+    },
+    {
+      "name": "xx",
+      "repo": "https://github.com/jdx/xx",
+      "url": "https://docs.rs/xx",
+      "language": "Rust"
+    },
+    {
+      "name": "pklr",
+      "repo": "https://github.com/jdx/pklr",
+      "language": "Rust"
+    },
+    {
+      "name": "envol",
+      "repo": "https://github.com/jdx/envol",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jdx-tar",
+      "repo": "https://github.com/jdx/jdx-tar",
+      "language": "Rust"
+    },
+    {
+      "name": "clx",
+      "repo": "https://github.com/jdx/clx",
+      "language": "Rust"
+    },
+    {
+      "name": "pacvamp",
+      "repo": "https://github.com/jdx/pacvamp",
+      "url": "https://pacvamp.com",
+      "language": "Rust"
+    },
+    {
+      "name": "ensembler",
+      "repo": "https://github.com/jdx/ensembler",
+      "language": "Rust"
+    },
+    {
+      "name": "mr-boxington-action",
+      "repo": "https://github.com/jdx/mr-boxington-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/jdx/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "mr-boxington-cache",
+      "repo": "https://github.com/jdx/mr-boxington-cache",
+      "url": "https://mr-boxington.jdx.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "jdxld",
+      "repo": "https://github.com/jdx/jdxld",
+      "language": "Rust"
+    },
+    {
+      "name": "vfox-eza",
+      "repo": "https://github.com/jdx/vfox-eza",
+      "language": "Lua"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/jdx/renovate-config"
+    },
+    {
+      "name": "aube-primer-packages",
+      "repo": "https://github.com/jdx/aube-primer-packages",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vfox-mysql",
+      "repo": "https://github.com/jdx/vfox-mysql",
+      "language": "Lua"
+    },
+    {
+      "name": "ruby",
+      "repo": "https://github.com/jdx/ruby",
+      "url": "https://mise.jdx.dev/lang/ruby.html",
+      "language": "Ruby"
+    },
+    {
+      "name": "jdx-flavored-github",
+      "repo": "https://github.com/jdx/jdx-flavored-github",
+      "url": "https://chromewebstore.google.com/detail/jdx-flavored-github/dmiieoopojnjepheeimdcdlhdhdfiija",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cible",
+      "repo": "https://github.com/jdx/cible",
+      "language": "Rust"
+    },
+    {
+      "name": "gabarit",
+      "repo": "https://github.com/jdx/gabarit",
+      "language": "Rust"
+    },
+    {
+      "name": "pr-closer",
+      "repo": "https://github.com/jdx/pr-closer",
+      "language": "Shell"
+    },
+    {
+      "name": "exa",
+      "repo": "https://github.com/jdx/exa",
+      "language": "Rust"
+    },
+    {
+      "name": "coderabbit",
+      "repo": "https://github.com/jdx/coderabbit"
+    },
+    {
+      "name": "vfox-graalvm",
+      "repo": "https://github.com/jdx/vfox-graalvm",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-elasticsearch",
+      "repo": "https://github.com/jdx/vfox-elasticsearch",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-oci",
+      "repo": "https://github.com/jdx/vfox-oci",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-tinytex",
+      "repo": "https://github.com/jdx/vfox-tinytex",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-v",
+      "repo": "https://github.com/jdx/vfox-v",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-clojure",
+      "repo": "https://github.com/jdx/vfox-clojure",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-teleport-ent",
+      "repo": "https://github.com/jdx/vfox-teleport-ent",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-teleport-community",
+      "repo": "https://github.com/jdx/vfox-teleport-community",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-spring-boot",
+      "repo": "https://github.com/jdx/vfox-spring-boot",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-jib",
+      "repo": "https://github.com/jdx/vfox-jib",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-tiny",
+      "repo": "https://github.com/jdx/vfox-tiny",
+      "language": "Lua"
+    },
+    {
+      "name": "wait-for-gh-rate-limit",
+      "repo": "https://github.com/jdx/wait-for-gh-rate-limit",
+      "language": "Rust"
+    },
+    {
+      "name": "go-example",
+      "repo": "https://github.com/jdx/go-example",
+      "language": "Go"
+    },
+    {
+      "name": "sigstore-verification",
+      "repo": "https://github.com/jdx/sigstore-verification",
+      "url": "https://docs.rs/sigstore-verification",
+      "language": "Rust"
+    },
+    {
+      "name": "deepmerge",
+      "repo": "https://github.com/jdx/deepmerge",
+      "language": "Rust"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/jdx/.github"
+    },
+    {
+      "name": "is-process-active",
+      "repo": "https://github.com/jdx/is-process-active",
+      "url": "https://www.npmjs.com/package/is-process-active",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rwlockfile",
+      "repo": "https://github.com/jdx/rwlockfile",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cli-engine-screen",
+      "repo": "https://github.com/jdx/cli-engine-screen",
+      "language": "Shell"
+    },
+    {
+      "name": "mise-env-fnox",
+      "repo": "https://github.com/jdx/mise-env-fnox",
+      "language": "Lua"
+    },
+    {
+      "name": "mise-env-sample",
+      "repo": "https://github.com/jdx/mise-env-sample",
+      "language": "Lua"
+    },
+    {
+      "name": "mise-tool-plugin-template",
+      "repo": "https://github.com/jdx/mise-tool-plugin-template",
+      "language": "Lua"
+    },
+    {
+      "name": "mise-backend-plugin-template",
+      "repo": "https://github.com/jdx/mise-backend-plugin-template",
+      "language": "Lua"
+    },
+    {
+      "name": "mise-env-plugin-template",
+      "repo": "https://github.com/jdx/mise-env-plugin-template",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-npm",
+      "repo": "https://github.com/jdx/vfox-npm",
+      "language": "Lua"
+    },
+    {
+      "name": "vfox-dummy",
+      "repo": "https://github.com/jdx/vfox-dummy",
+      "language": "Lua"
+    },
+    {
+      "name": "tiny",
+      "repo": "https://github.com/jdx/tiny"
+    },
+    {
+      "name": "claude-nag",
+      "repo": "https://github.com/jdx/claude-nag",
+      "language": "Python"
+    },
+    {
+      "name": "clap-sort",
+      "repo": "https://github.com/jdx/clap-sort",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles-ng",
+      "repo": "https://github.com/jdx/dotfiles-ng",
+      "language": "Shell"
+    },
+    {
+      "name": "nitro",
+      "repo": "https://github.com/jdx/nitro",
+      "language": "C"
+    },
+    {
+      "name": "quick-bool",
+      "repo": "https://github.com/jdx/quick-bool",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mise-test-fixtures",
+      "repo": "https://github.com/jdx/mise-test-fixtures"
+    },
+    {
+      "name": "vfox.rs",
+      "repo": "https://github.com/jdx/vfox.rs",
+      "url": "https://docs.rs/vfox",
+      "language": "Rust"
+    },
+    {
+      "name": "speed",
+      "repo": "https://github.com/jdx/speed",
+      "language": "Rust"
+    },
+    {
+      "name": "oclip",
+      "repo": "https://github.com/jdx/oclip",
+      "url": "https://npmjs.com/package/oclip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "npm-register",
+      "repo": "https://github.com/jdx/npm-register",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-netrc-parser",
+      "repo": "https://github.com/jdx/node-netrc-parser",
+      "language": "TypeScript"
+    },
+    {
+      "name": "password-prompt",
+      "repo": "https://github.com/jdx/password-prompt",
+      "url": "https://www.npmjs.com/package/password-prompt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jdx-csv-lint",
+      "repo": "https://github.com/jdx/jdx-csv-lint",
+      "url": "https://crates.io/crates/jdx-csv-lint",
+      "language": "Rust"
+    },
+    {
+      "name": "aur-test-docker",
+      "repo": "https://github.com/jdx/aur-test-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "mise-docs",
+      "repo": "https://github.com/jdx/mise-docs",
+      "url": "https://mise.jdx.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-heroku",
+      "repo": "https://github.com/jdx/homebrew-heroku",
+      "language": "Ruby"
+    },
+    {
+      "name": "heroku-production-check",
+      "repo": "https://github.com/jdx/heroku-production-check",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mean-sample-joe",
+      "repo": "https://github.com/jdx/mean-sample-joe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "angular-boilerplate",
+      "repo": "https://github.com/jdx/angular-boilerplate",
+      "url": "https://angular-boilerplate.herokuapp.com/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nd-rs",
+      "repo": "https://github.com/jdx/nd-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "updeps.com",
+      "repo": "https://github.com/jdx/updeps.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "server110",
+      "repo": "https://github.com/jdx/server110",
+      "language": "Ruby"
+    },
+    {
+      "name": "docker-haproxy",
+      "repo": "https://github.com/jdx/docker-haproxy",
+      "language": "Shell"
+    },
+    {
+      "name": "photoupload-ios",
+      "repo": "https://github.com/jdx/photoupload-ios",
+      "language": "Objective-C"
+    },
+    {
+      "name": "yarn-shim",
+      "repo": "https://github.com/jdx/yarn-shim",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-mean",
+      "repo": "https://github.com/jdx/simple-mean",
+      "url": "https://medium.com/@dickeyxxx/mean-how-to-start-cd71d788dd83",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ng-mean",
+      "repo": "https://github.com/jdx/ng-mean",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tsc-bug-example",
+      "repo": "https://github.com/jdx/tsc-bug-example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "runplan",
+      "repo": "https://github.com/jdx/runplan",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stdout-stderr",
+      "repo": "https://github.com/jdx/stdout-stderr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mean-ng2",
+      "repo": "https://github.com/jdx/mean-ng2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crm_scala_finagle",
+      "repo": "https://github.com/jdx/crm_scala_finagle",
+      "language": "Scala"
+    },
+    {
+      "name": "heroku-top",
+      "repo": "https://github.com/jdx/heroku-top",
+      "language": "JavaScript"
+    }
+  ]
 }

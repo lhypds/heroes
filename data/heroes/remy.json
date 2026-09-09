@@ -6,5 +6,523 @@
   ],
   "website": "https://remysharp.com/",
   "bio": "JavaScript (node + client side) developer with web experience starting in 1999. Contact me for any work or questions about JS I might be able to help you with.",
-  "commits": 10740
+  "own_repos": 250,
+  "commits": 10740,
+  "repos": [
+    {
+      "name": "remysharp.com",
+      "repo": "https://github.com/remy/remysharp.com",
+      "url": "https://remysharp.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nodemon",
+      "repo": "https://github.com/remy/nodemon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yamo",
+      "repo": "https://github.com/remy/yamo",
+      "language": "Go"
+    },
+    {
+      "name": "tools",
+      "repo": "https://github.com/remy/tools",
+      "url": "https://tools.remysharp.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unrot.link",
+      "repo": "https://github.com/remy/unrot.link",
+      "language": "TypeScript"
+    },
+    {
+      "name": "voice-pe-with-remote-timer",
+      "repo": "https://github.com/remy/voice-pe-with-remote-timer"
+    },
+    {
+      "name": "immich-share",
+      "repo": "https://github.com/remy/immich-share",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ha_immich_picture",
+      "repo": "https://github.com/remy/ha_immich_picture",
+      "language": "Python"
+    },
+    {
+      "name": "simple-cfp-browser",
+      "repo": "https://github.com/remy/simple-cfp-browser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-components",
+      "repo": "https://github.com/remy/web-components",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mit-license",
+      "repo": "https://github.com/remy/mit-license",
+      "language": "CSS"
+    },
+    {
+      "name": "rembot-discord",
+      "repo": "https://github.com/remy/rembot-discord",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ha_fan_card",
+      "repo": "https://github.com/remy/ha_fan_card",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ws-pcb-db",
+      "repo": "https://github.com/remy/ws-pcb-db",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gb-link-test",
+      "repo": "https://github.com/remy/gb-link-test",
+      "language": "C"
+    },
+    {
+      "name": "marbles2",
+      "repo": "https://github.com/remy/marbles2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "retrobyrem",
+      "repo": "https://github.com/remy/retrobyrem",
+      "language": "CSS"
+    },
+    {
+      "name": "gb-marbles-highscores",
+      "repo": "https://github.com/remy/gb-marbles-highscores"
+    },
+    {
+      "name": "jsconsole",
+      "repo": "https://github.com/remy/jsconsole",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ha_bag_pick",
+      "repo": "https://github.com/remy/ha_bag_pick",
+      "language": "Python"
+    },
+    {
+      "name": "ha_restore_last_changed",
+      "repo": "https://github.com/remy/ha_restore_last_changed",
+      "language": "Python"
+    },
+    {
+      "name": "pokemon-pcb",
+      "repo": "https://github.com/remy/pokemon-pcb",
+      "url": "https://pm.remysharp.com/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ha_addons",
+      "repo": "https://github.com/remy/ha_addons",
+      "language": "JavaScript"
+    },
+    {
+      "name": "snap",
+      "repo": "https://github.com/remy/snap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "IDotMatrix-Now-Playing",
+      "repo": "https://github.com/remy/IDotMatrix-Now-Playing",
+      "language": "Python"
+    },
+    {
+      "name": "spoken-slides",
+      "repo": "https://github.com/remy/spoken-slides",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bins",
+      "repo": "https://github.com/remy/bins",
+      "language": "HTML"
+    },
+    {
+      "name": "karaoke",
+      "repo": "https://github.com/remy/karaoke",
+      "url": "https://karaoke.isthe.link",
+      "language": "Vue"
+    },
+    {
+      "name": "introducinghtml5",
+      "repo": "https://github.com/remy/introducinghtml5",
+      "language": "HTML"
+    },
+    {
+      "name": "jqterm",
+      "repo": "https://github.com/remy/jqterm",
+      "url": "https://jqterm.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "days-to-christmas",
+      "repo": "https://github.com/remy/days-to-christmas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "advent-of-code-solved",
+      "repo": "https://github.com/remy/advent-of-code-solved",
+      "language": "jq"
+    },
+    {
+      "name": "talkie.isthe.link",
+      "repo": "https://github.com/remy/talkie.isthe.link",
+      "language": "HTML"
+    },
+    {
+      "name": "gimme-rss",
+      "repo": "https://github.com/remy/gimme-rss",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zx-tools",
+      "repo": "https://github.com/remy/zx-tools",
+      "url": "https://zx.remysharp.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "renvy",
+      "repo": "https://github.com/remy/renvy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pico-dmg-arcade",
+      "repo": "https://github.com/remy/pico-dmg-arcade",
+      "language": "C"
+    },
+    {
+      "name": "redirect-cleaner",
+      "repo": "https://github.com/remy/redirect-cleaner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "capture-frame",
+      "repo": "https://github.com/remy/capture-frame",
+      "language": "JavaScript"
+    },
+    {
+      "name": "strip-generator",
+      "repo": "https://github.com/remy/strip-generator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-nextbasic",
+      "repo": "https://github.com/remy/vscode-nextbasic",
+      "url": "https://marketplace.visualstudio.com/items?itemName=remysharp.nextbasic",
+      "language": "JavaScript"
+    },
+    {
+      "name": "txt2bas",
+      "repo": "https://github.com/remy/txt2bas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bitcalc",
+      "repo": "https://github.com/remy/bitcalc",
+      "url": "https://bitcalc.isthe.link",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nexus",
+      "repo": "https://github.com/remy/nexus",
+      "url": "https://nexus-ten.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "httplog",
+      "repo": "https://github.com/remy/httplog",
+      "language": "JavaScript"
+    },
+    {
+      "name": "doesitmutate",
+      "repo": "https://github.com/remy/doesitmutate",
+      "url": "https://doesitmutate.xyz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kettle-notify",
+      "repo": "https://github.com/remy/kettle-notify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "extension-quick-history",
+      "repo": "https://github.com/remy/extension-quick-history",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nice-ls",
+      "repo": "https://github.com/remy/nice-ls",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ducky-switch",
+      "repo": "https://github.com/remy/ducky-switch",
+      "language": "Python"
+    },
+    {
+      "name": "jsonbin-proxy",
+      "repo": "https://github.com/remy/jsonbin-proxy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wm",
+      "repo": "https://github.com/remy/wm",
+      "url": "https://webmention.app",
+      "language": "HTML"
+    },
+    {
+      "name": "next-http",
+      "repo": "https://github.com/remy/next-http",
+      "language": "Assembly"
+    },
+    {
+      "name": "unpack",
+      "repo": "https://github.com/remy/unpack",
+      "url": "https://unpack.isthe.link/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pm-breakout",
+      "repo": "https://github.com/remy/pm-breakout"
+    },
+    {
+      "name": "transform",
+      "repo": "https://github.com/remy/transform",
+      "url": "https://transform.isthe.link",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fetch-rewrite",
+      "repo": "https://github.com/remy/fetch-rewrite",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rem.io",
+      "repo": "https://github.com/remy/rem.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-xmodem",
+      "repo": "https://github.com/remy/web-xmodem",
+      "language": "JavaScript"
+    },
+    {
+      "name": "when-do",
+      "repo": "https://github.com/remy/when-do",
+      "language": "JavaScript"
+    },
+    {
+      "name": "goodreads-scrape",
+      "repo": "https://github.com/remy/goodreads-scrape",
+      "language": "JavaScript"
+    },
+    {
+      "name": "isthe.link",
+      "repo": "https://github.com/remy/isthe.link",
+      "url": "https://isthe.link",
+      "language": "CSS"
+    },
+    {
+      "name": "jsonbin",
+      "repo": "https://github.com/remy/jsonbin",
+      "url": "https://jsonbin.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bug-enhance-style-leak-render-issue",
+      "repo": "https://github.com/remy/bug-enhance-style-leak-render-issue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tags",
+      "repo": "https://github.com/remy/tags",
+      "url": "https://ttags.rem.now.sh",
+      "language": "Vue"
+    },
+    {
+      "name": "jqueryfordesigners.com",
+      "repo": "https://github.com/remy/jqueryfordesigners.com",
+      "language": "HTML"
+    },
+    {
+      "name": "pm-refurb",
+      "repo": "https://github.com/remy/pm-refurb",
+      "language": "Assembly"
+    },
+    {
+      "name": "ip2tz-lite",
+      "repo": "https://github.com/remy/ip2tz-lite",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ip2tz",
+      "repo": "https://github.com/remy/ip2tz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zxdb-specnext-api",
+      "repo": "https://github.com/remy/zxdb-specnext-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gb-gamepad",
+      "repo": "https://github.com/remy/gb-gamepad",
+      "language": "C++"
+    },
+    {
+      "name": "viewer.isthe.link",
+      "repo": "https://github.com/remy/viewer.isthe.link",
+      "language": "JavaScript"
+    },
+    {
+      "name": "5minutefork",
+      "repo": "https://github.com/remy/5minutefork",
+      "language": "JavaScript"
+    },
+    {
+      "name": "twivatar",
+      "repo": "https://github.com/remy/twivatar",
+      "url": "https://twivatar.glitch.me/",
+      "language": "HTML"
+    },
+    {
+      "name": "inliner",
+      "repo": "https://github.com/remy/inliner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clite",
+      "repo": "https://github.com/remy/clite",
+      "language": "JavaScript"
+    },
+    {
+      "name": "phrame",
+      "repo": "https://github.com/remy/phrame",
+      "language": "JavaScript"
+    },
+    {
+      "name": "polyfills",
+      "repo": "https://github.com/remy/polyfills",
+      "language": "JavaScript"
+    },
+    {
+      "name": "light-dark-switcher",
+      "repo": "https://github.com/remy/light-dark-switcher",
+      "language": "JavaScript"
+    },
+    {
+      "name": "undefsafe",
+      "repo": "https://github.com/remy/undefsafe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "midi-to-ps2",
+      "repo": "https://github.com/remy/midi-to-ps2",
+      "language": "C++"
+    },
+    {
+      "name": "sds",
+      "repo": "https://github.com/remy/sds",
+      "language": "JavaScript"
+    },
+    {
+      "name": "palm-marbles",
+      "repo": "https://github.com/remy/palm-marbles",
+      "language": "C"
+    },
+    {
+      "name": "next-marbles2",
+      "repo": "https://github.com/remy/next-marbles2",
+      "language": "Assembly"
+    },
+    {
+      "name": "test-progressive-web-app",
+      "repo": "https://github.com/remy/test-progressive-web-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "byte.isthe.link",
+      "repo": "https://github.com/remy/byte.isthe.link",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ps2-remote",
+      "repo": "https://github.com/remy/ps2-remote",
+      "language": "C++"
+    },
+    {
+      "name": "marbles",
+      "repo": "https://github.com/remy/marbles",
+      "url": "https://begin.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "z80-code-conventions",
+      "repo": "https://github.com/remy/z80-code-conventions"
+    },
+    {
+      "name": "next-ayfx",
+      "repo": "https://github.com/remy/next-ayfx",
+      "url": "https://zx.remysharp.com/audio/",
+      "language": "Assembly"
+    },
+    {
+      "name": "cloud-worker",
+      "repo": "https://github.com/remy/cloud-worker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/remy/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "bind.js",
+      "repo": "https://github.com/remy/bind.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mdn-will-it-miss",
+      "repo": "https://github.com/remy/mdn-will-it-miss",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nextbasic-procs",
+      "repo": "https://github.com/remy/nextbasic-procs"
+    },
+    {
+      "name": "blend",
+      "repo": "https://github.com/remy/blend",
+      "language": "HTML"
+    },
+    {
+      "name": "write",
+      "repo": "https://github.com/remy/write",
+      "url": "https://write.leftlogic.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "next-rnd",
+      "repo": "https://github.com/remy/next-rnd",
+      "language": "JavaScript"
+    },
+    {
+      "name": "next-go-mummy",
+      "repo": "https://github.com/remy/next-go-mummy",
+      "url": "https://remysharp.itch.io/go-mummy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "next-invaders-revenge",
+      "repo": "https://github.com/remy/next-invaders-revenge"
+    }
+  ]
 }

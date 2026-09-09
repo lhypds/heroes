@@ -10,6 +10,12 @@
   "commits": 16326,
   "repos": [
     {
+      "name": "troglobit.github.io",
+      "repo": "https://github.com/troglobit/troglobit.github.io",
+      "url": "https://troglobit.com",
+      "language": "HTML"
+    },
+    {
       "name": "uftpd",
       "repo": "https://github.com/troglobit/uftpd",
       "url": "https://troglobit.com/projects/uftpd/",
@@ -26,12 +32,6 @@
       "repo": "https://github.com/troglobit/merecat",
       "url": "https://troglobit.com/projects/merecat/",
       "language": "C"
-    },
-    {
-      "name": "troglobit.github.io",
-      "repo": "https://github.com/troglobit/troglobit.github.io",
-      "url": "https://troglobit.com",
-      "language": "HTML"
     },
     {
       "name": "mdnsd",

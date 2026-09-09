@@ -6,5 +6,506 @@
   ],
   "website": "https://thraxil.org/",
   "bio": "-type output() :: code | art | music. -spec thraxil(coffee()) -> output().",
-  "commits": 10747
+  "own_repos": 104,
+  "commits": 10747,
+  "repos": [
+    {
+      "name": "sebastian",
+      "repo": "https://github.com/thraxil/sebastian",
+      "language": "Python"
+    },
+    {
+      "name": "adnos",
+      "repo": "https://github.com/thraxil/adnos",
+      "language": "Go"
+    },
+    {
+      "name": "auriga",
+      "repo": "https://github.com/thraxil/auriga",
+      "language": "Elixir"
+    },
+    {
+      "name": "maya",
+      "repo": "https://github.com/thraxil/maya",
+      "language": "Elixir"
+    },
+    {
+      "name": "vega",
+      "repo": "https://github.com/thraxil/vega",
+      "language": "Elixir"
+    },
+    {
+      "name": "garrulus",
+      "repo": "https://github.com/thraxil/garrulus",
+      "language": "Elixir"
+    },
+    {
+      "name": "concord",
+      "repo": "https://github.com/thraxil/concord",
+      "language": "Elixir"
+    },
+    {
+      "name": "gearspotting",
+      "repo": "https://github.com/thraxil/gearspotting",
+      "language": "JavaScript"
+    },
+    {
+      "name": "djlintr",
+      "repo": "https://github.com/thraxil/djlintr",
+      "language": "Rust"
+    },
+    {
+      "name": "reticulum",
+      "repo": "https://github.com/thraxil/reticulum",
+      "language": "Go"
+    },
+    {
+      "name": "luister",
+      "repo": "https://github.com/thraxil/luister",
+      "language": "Go"
+    },
+    {
+      "name": "finch",
+      "repo": "https://github.com/thraxil/finch",
+      "language": "Go"
+    },
+    {
+      "name": "undt",
+      "repo": "https://github.com/thraxil/undt",
+      "language": "Python"
+    },
+    {
+      "name": "cask",
+      "repo": "https://github.com/thraxil/cask",
+      "language": "Go"
+    },
+    {
+      "name": "augend",
+      "repo": "https://github.com/thraxil/augend",
+      "language": "Go"
+    },
+    {
+      "name": "hakmes",
+      "repo": "https://github.com/thraxil/hakmes",
+      "language": "Go"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/thraxil/skills"
+    },
+    {
+      "name": ".emacs.d",
+      "repo": "https://github.com/thraxil/.emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cyclo",
+      "repo": "https://github.com/thraxil/cyclo",
+      "language": "Go"
+    },
+    {
+      "name": "macnix",
+      "repo": "https://github.com/thraxil/macnix",
+      "language": "Nix"
+    },
+    {
+      "name": "melo",
+      "repo": "https://github.com/thraxil/melo",
+      "language": "Elixir"
+    },
+    {
+      "name": "sofi",
+      "repo": "https://github.com/thraxil/sofi",
+      "language": "Go"
+    },
+    {
+      "name": "antisocial",
+      "repo": "https://github.com/thraxil/antisocial",
+      "language": "Python"
+    },
+    {
+      "name": "anders-notebook-test",
+      "repo": "https://github.com/thraxil/anders-notebook-test",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "intweet",
+      "repo": "https://github.com/thraxil/intweet",
+      "language": "Go"
+    },
+    {
+      "name": "mithras",
+      "repo": "https://github.com/thraxil/mithras",
+      "language": "Python"
+    },
+    {
+      "name": "auratus",
+      "repo": "https://github.com/thraxil/auratus",
+      "language": "JavaScript"
+    },
+    {
+      "name": "thraxilsettings",
+      "repo": "https://github.com/thraxil/thraxilsettings",
+      "language": "Python"
+    },
+    {
+      "name": "myopica",
+      "repo": "https://github.com/thraxil/myopica",
+      "language": "HTML"
+    },
+    {
+      "name": "docker",
+      "repo": "https://github.com/thraxil/docker",
+      "language": "Shell"
+    },
+    {
+      "name": "chimney",
+      "repo": "https://github.com/thraxil/chimney",
+      "language": "Go"
+    },
+    {
+      "name": "pixelvore",
+      "repo": "https://github.com/thraxil/pixelvore",
+      "language": "Python"
+    },
+    {
+      "name": "lumen",
+      "repo": "https://github.com/thraxil/lumen",
+      "language": "Go"
+    },
+    {
+      "name": "django-expvar",
+      "repo": "https://github.com/thraxil/django-expvar",
+      "language": "Python"
+    },
+    {
+      "name": "spokehub",
+      "repo": "https://github.com/thraxil/spokehub",
+      "language": "Python"
+    },
+    {
+      "name": "veilig",
+      "repo": "https://github.com/thraxil/veilig",
+      "language": "Python"
+    },
+    {
+      "name": "nib",
+      "repo": "https://github.com/thraxil/nib",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/thraxil/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "artsho",
+      "repo": "https://github.com/thraxil/artsho",
+      "language": "Python"
+    },
+    {
+      "name": "skinflint",
+      "repo": "https://github.com/thraxil/skinflint",
+      "language": "JavaScript"
+    },
+    {
+      "name": "maut",
+      "repo": "https://github.com/thraxil/maut",
+      "language": "HTML"
+    },
+    {
+      "name": "django-deploy-action",
+      "repo": "https://github.com/thraxil/django-deploy-action",
+      "language": "Shell"
+    },
+    {
+      "name": "upgrayedd",
+      "repo": "https://github.com/thraxil/upgrayedd",
+      "language": "Python"
+    },
+    {
+      "name": "bcscrape",
+      "repo": "https://github.com/thraxil/bcscrape",
+      "language": "Go"
+    },
+    {
+      "name": "xroboto",
+      "repo": "https://github.com/thraxil/xroboto",
+      "language": "HTML"
+    },
+    {
+      "name": "bourbon",
+      "repo": "https://github.com/thraxil/bourbon",
+      "language": "Python"
+    },
+    {
+      "name": "samlare",
+      "repo": "https://github.com/thraxil/samlare",
+      "language": "Go"
+    },
+    {
+      "name": "dogan",
+      "repo": "https://github.com/thraxil/dogan",
+      "language": "Go"
+    },
+    {
+      "name": "waggle",
+      "repo": "https://github.com/thraxil/waggle",
+      "language": "C"
+    },
+    {
+      "name": "resize",
+      "repo": "https://github.com/thraxil/resize",
+      "language": "Go"
+    },
+    {
+      "name": "randwalk",
+      "repo": "https://github.com/thraxil/randwalk",
+      "language": "Go"
+    },
+    {
+      "name": "mediacheck",
+      "repo": "https://github.com/thraxil/mediacheck",
+      "language": "Go"
+    },
+    {
+      "name": "ampulex",
+      "repo": "https://github.com/thraxil/ampulex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "erlang_mooc",
+      "repo": "https://github.com/thraxil/erlang_mooc",
+      "language": "Erlang"
+    },
+    {
+      "name": "windsock",
+      "repo": "https://github.com/thraxil/windsock",
+      "language": "Go"
+    },
+    {
+      "name": "restclient",
+      "repo": "https://github.com/thraxil/restclient",
+      "language": "Python"
+    },
+    {
+      "name": "aquarelle",
+      "repo": "https://github.com/thraxil/aquarelle",
+      "language": "Elixir"
+    },
+    {
+      "name": "django-expvar-psutil",
+      "repo": "https://github.com/thraxil/django-expvar-psutil",
+      "language": "Python"
+    },
+    {
+      "name": "django-expvar-resource",
+      "repo": "https://github.com/thraxil/django-expvar-resource",
+      "language": "Python"
+    },
+    {
+      "name": "django-expvar-cmdline",
+      "repo": "https://github.com/thraxil/django-expvar-cmdline",
+      "language": "Python"
+    },
+    {
+      "name": "cbp",
+      "repo": "https://github.com/thraxil/cbp",
+      "language": "Go"
+    },
+    {
+      "name": "etudes",
+      "repo": "https://github.com/thraxil/etudes",
+      "language": "Elixir"
+    },
+    {
+      "name": "slugerl",
+      "repo": "https://github.com/thraxil/slugerl",
+      "language": "Erlang"
+    },
+    {
+      "name": "simpleduration",
+      "repo": "https://github.com/thraxil/simpleduration",
+      "language": "Python"
+    },
+    {
+      "name": "frontdesk",
+      "repo": "https://github.com/thraxil/frontdesk",
+      "language": "Go"
+    },
+    {
+      "name": "gori",
+      "repo": "https://github.com/thraxil/gori",
+      "language": "Go"
+    },
+    {
+      "name": "tako",
+      "repo": "https://github.com/thraxil/tako",
+      "language": "Python"
+    },
+    {
+      "name": "bitly",
+      "repo": "https://github.com/thraxil/bitly",
+      "language": "Go"
+    },
+    {
+      "name": "constraint",
+      "repo": "https://github.com/thraxil/constraint",
+      "language": "Python"
+    },
+    {
+      "name": "mountwatch",
+      "repo": "https://github.com/thraxil/mountwatch",
+      "language": "Go"
+    },
+    {
+      "name": "transponder",
+      "repo": "https://github.com/thraxil/transponder"
+    },
+    {
+      "name": "houston",
+      "repo": "https://github.com/thraxil/houston",
+      "language": "Go"
+    },
+    {
+      "name": "paginate",
+      "repo": "https://github.com/thraxil/paginate",
+      "language": "Go"
+    },
+    {
+      "name": "courses",
+      "repo": "https://github.com/thraxil/courses",
+      "language": "Go"
+    },
+    {
+      "name": "harken",
+      "repo": "https://github.com/thraxil/harken",
+      "language": "Python"
+    },
+    {
+      "name": "rhabdom",
+      "repo": "https://github.com/thraxil/rhabdom",
+      "language": "Go"
+    },
+    {
+      "name": "cgi_app",
+      "repo": "https://github.com/thraxil/cgi_app",
+      "language": "Python"
+    },
+    {
+      "name": "faktum",
+      "repo": "https://github.com/thraxil/faktum",
+      "language": "Python"
+    },
+    {
+      "name": "bilateral",
+      "repo": "https://github.com/thraxil/bilateral",
+      "language": "JavaScript"
+    },
+    {
+      "name": "riaki",
+      "repo": "https://github.com/thraxil/riaki",
+      "language": "Python"
+    },
+    {
+      "name": "gridtodo",
+      "repo": "https://github.com/thraxil/gridtodo",
+      "language": "Python"
+    },
+    {
+      "name": "griddo",
+      "repo": "https://github.com/thraxil/griddo",
+      "language": "Go"
+    },
+    {
+      "name": "exifgo",
+      "repo": "https://github.com/thraxil/exifgo",
+      "language": "Go"
+    },
+    {
+      "name": "stygian",
+      "repo": "https://github.com/thraxil/stygian",
+      "language": "Go"
+    },
+    {
+      "name": "fitor",
+      "repo": "https://github.com/thraxil/fitor",
+      "language": "Go"
+    },
+    {
+      "name": "gofaktum",
+      "repo": "https://github.com/thraxil/gofaktum",
+      "language": "JavaScript"
+    },
+    {
+      "name": "laktare",
+      "repo": "https://github.com/thraxil/laktare",
+      "language": "Erlang"
+    },
+    {
+      "name": "canhaz",
+      "repo": "https://github.com/thraxil/canhaz",
+      "language": "Erlang"
+    },
+    {
+      "name": "petra",
+      "repo": "https://github.com/thraxil/petra",
+      "language": "Erlang"
+    },
+    {
+      "name": "tailserver",
+      "repo": "https://github.com/thraxil/tailserver",
+      "language": "Erlang"
+    },
+    {
+      "name": "apomixis",
+      "repo": "https://github.com/thraxil/apomixis",
+      "language": "Python"
+    },
+    {
+      "name": "cat",
+      "repo": "https://github.com/thraxil/cat",
+      "language": "Python"
+    },
+    {
+      "name": "boggle",
+      "repo": "https://github.com/thraxil/boggle",
+      "language": "C"
+    },
+    {
+      "name": "zeuxis",
+      "repo": "https://github.com/thraxil/zeuxis",
+      "language": "Python"
+    },
+    {
+      "name": "rigs",
+      "repo": "https://github.com/thraxil/rigs",
+      "language": "Python"
+    },
+    {
+      "name": "django-tahoestorage",
+      "repo": "https://github.com/thraxil/django-tahoestorage",
+      "language": "Python"
+    },
+    {
+      "name": "foxy",
+      "repo": "https://github.com/thraxil/foxy",
+      "language": "Python"
+    },
+    {
+      "name": "canopy",
+      "repo": "https://github.com/thraxil/canopy",
+      "language": "Python"
+    },
+    {
+      "name": "fu",
+      "repo": "https://github.com/thraxil/fu",
+      "language": "Python"
+    },
+    {
+      "name": "modus",
+      "repo": "https://github.com/thraxil/modus",
+      "language": "Python"
+    }
+  ]
 }

@@ -10,6 +10,11 @@
   "commits": 52426,
   "repos": [
     {
+      "name": "phoss-directory",
+      "repo": "https://github.com/phax/phoss-directory",
+      "language": "Java"
+    },
+    {
       "name": "ParserGeneratorCC",
       "repo": "https://github.com/phax/ParserGeneratorCC",
       "language": "Java"
@@ -27,11 +32,6 @@
     {
       "name": "meta",
       "repo": "https://github.com/phax/meta",
-      "language": "Java"
-    },
-    {
-      "name": "phoss-directory",
-      "repo": "https://github.com/phax/phoss-directory",
       "language": "Java"
     },
     {

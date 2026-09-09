@@ -6,6 +6,542 @@
   ],
   "website": "https://ken-matsui.github.io/",
   "bio": "Compiler Engineer at MediaTek. Creator of @cabinpkg, C/C++ package manager and build system.",
+  "own_repos": 128,
   "commits": 12024,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/ken-matsui/dotfiles",
+      "url": "https://ken-matsui.github.io/dotfiles/dev/bench",
+      "language": "Shell"
+    },
+    {
+      "name": "zenn-content",
+      "repo": "https://github.com/ken-matsui/zenn-content",
+      "url": "https://zenn.dev/matken",
+      "language": "Markdown"
+    },
+    {
+      "name": "suggest",
+      "repo": "https://github.com/ken-matsui/suggest",
+      "url": "https://crates.io/crates/suggest",
+      "language": "Rust"
+    },
+    {
+      "name": "jyt",
+      "repo": "https://github.com/ken-matsui/jyt",
+      "url": "https://crates.io/crates/jyt",
+      "language": "Rust"
+    },
+    {
+      "name": "ken-matsui.github.io",
+      "repo": "https://github.com/ken-matsui/ken-matsui.github.io",
+      "url": "https://ken-matsui.github.io",
+      "language": "Markdown"
+    },
+    {
+      "name": "suggest-command-not-found",
+      "repo": "https://github.com/ken-matsui/suggest-command-not-found",
+      "url": "https://crates.io/crates/suggest-command-not-found",
+      "language": "Rust"
+    },
+    {
+      "name": "notify-slack",
+      "repo": "https://github.com/ken-matsui/notify-slack",
+      "url": "https://github.com/marketplace/actions/notify-works-on-github-to-slack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cabin-website",
+      "repo": "https://github.com/ken-matsui/cabin-website",
+      "url": "https://cabinpkg.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cabin-cpp",
+      "repo": "https://github.com/ken-matsui/cabin-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "base64-cli",
+      "repo": "https://github.com/ken-matsui/base64-cli",
+      "url": "https://wapm.io/ken-matsui/base64",
+      "language": "Rust"
+    },
+    {
+      "name": "rs-cpp",
+      "repo": "https://github.com/ken-matsui/rs-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "poac-legacy",
+      "repo": "https://github.com/ken-matsui/poac-legacy",
+      "language": "C++"
+    },
+    {
+      "name": "mat",
+      "repo": "https://github.com/ken-matsui/mat",
+      "url": "https://ken-matsui.github.io/mat",
+      "language": "Java"
+    },
+    {
+      "name": "leetcode",
+      "repo": "https://github.com/ken-matsui/leetcode",
+      "url": "https://leetcode.com/ken-matsui",
+      "language": "C++"
+    },
+    {
+      "name": "poac-docs",
+      "repo": "https://github.com/ken-matsui/poac-docs",
+      "url": "https://docs.poac.dev",
+      "language": "MDX"
+    },
+    {
+      "name": "doitm",
+      "repo": "https://github.com/ken-matsui/doitm",
+      "url": "https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/best-practices/data-operand-independent-timing-isa-guidance.html",
+      "language": "C"
+    },
+    {
+      "name": "gcc-bench",
+      "repo": "https://github.com/ken-matsui/gcc-bench",
+      "language": "C++"
+    },
+    {
+      "name": "api.poac.dev",
+      "repo": "https://github.com/ken-matsui/api.poac.dev",
+      "url": "https://api.poac.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "psync",
+      "repo": "https://github.com/ken-matsui/psync",
+      "url": "https://crates.io/crates/psync",
+      "language": "Rust"
+    },
+    {
+      "name": "gcc-gsoc23",
+      "repo": "https://github.com/ken-matsui/gcc-gsoc23"
+    },
+    {
+      "name": "gsoc23",
+      "repo": "https://github.com/ken-matsui/gsoc23",
+      "url": "https://summerofcode.withgoogle.com/programs/2023/projects/SuvI1tlp",
+      "language": "C++"
+    },
+    {
+      "name": "matmul",
+      "repo": "https://github.com/ken-matsui/matmul",
+      "language": "C"
+    },
+    {
+      "name": "devto-cli",
+      "repo": "https://github.com/ken-matsui/devto-cli",
+      "url": "https://crates.io/crates/devto-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "uuid-v4-cli",
+      "repo": "https://github.com/ken-matsui/uuid-v4-cli",
+      "url": "https://wapm.io/ken-matsui/uuid",
+      "language": "Rust"
+    },
+    {
+      "name": "devto-content",
+      "repo": "https://github.com/ken-matsui/devto-content",
+      "url": "https://dev.to/kmatsui",
+      "language": "Markdown"
+    },
+    {
+      "name": "minchain",
+      "repo": "https://github.com/ken-matsui/minchain",
+      "language": "Rust"
+    },
+    {
+      "name": "algos",
+      "repo": "https://github.com/ken-matsui/algos",
+      "language": "Rust"
+    },
+    {
+      "name": "fast-matmul",
+      "repo": "https://github.com/ken-matsui/fast-matmul",
+      "url": "https://ken-matsui.github.io/fast-matmul/",
+      "language": "Rust"
+    },
+    {
+      "name": "arm-neon-example",
+      "repo": "https://github.com/ken-matsui/arm-neon-example",
+      "language": "C++"
+    },
+    {
+      "name": "html-styled-extra",
+      "repo": "https://github.com/ken-matsui/html-styled-extra",
+      "url": "https://package.elm-lang.org/packages/ken-matsui/html-styled-extra/",
+      "language": "Elm"
+    },
+    {
+      "name": "diagonal-loop",
+      "repo": "https://github.com/ken-matsui/diagonal-loop",
+      "language": "Rust"
+    },
+    {
+      "name": "constexpr-pow",
+      "repo": "https://github.com/ken-matsui/constexpr-pow",
+      "language": "C++"
+    },
+    {
+      "name": "cloud-run-mecab",
+      "repo": "https://github.com/ken-matsui/cloud-run-mecab",
+      "url": "https://github.com/matsulib/mecab-service",
+      "language": "Python"
+    },
+    {
+      "name": "mini-morello",
+      "repo": "https://github.com/ken-matsui/mini-morello",
+      "url": "https://kmatsui.dev/mini-morello/",
+      "language": "Rust"
+    },
+    {
+      "name": "egg-drop",
+      "repo": "https://github.com/ken-matsui/egg-drop",
+      "url": "https://ken-matsui.github.io/egg-drop/",
+      "language": "Rust"
+    },
+    {
+      "name": "eslint-config-next",
+      "repo": "https://github.com/ken-matsui/eslint-config-next",
+      "url": "https://www.npmjs.com/package/@ken-matsui/eslint-config-next",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-config-typescript",
+      "repo": "https://github.com/ken-matsui/eslint-config-typescript",
+      "url": "https://www.npmjs.com/package/@ken-matsui/eslint-config-typescript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-config-react",
+      "repo": "https://github.com/ken-matsui/eslint-config-react",
+      "url": "https://www.npmjs.com/package/@ken-matsui/eslint-config-react",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-config-js",
+      "repo": "https://github.com/ken-matsui/eslint-config-js",
+      "url": "https://www.npmjs.com/package/@ken-matsui/eslint-config-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "poac-design",
+      "repo": "https://github.com/ken-matsui/poac-design"
+    },
+    {
+      "name": "matsukenbot",
+      "repo": "https://github.com/ken-matsui/matsukenbot",
+      "url": "https://lin.ee/FPQ9DqS",
+      "language": "Python"
+    },
+    {
+      "name": "git2-cpp",
+      "repo": "https://github.com/ken-matsui/git2-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "gcp-auth",
+      "repo": "https://github.com/ken-matsui/gcp-auth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebrew-poac",
+      "repo": "https://github.com/ken-matsui/homebrew-poac",
+      "language": "Ruby"
+    },
+    {
+      "name": "poac-pkgs",
+      "repo": "https://github.com/ken-matsui/poac-pkgs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "misleading-name-check",
+      "repo": "https://github.com/ken-matsui/misleading-name-check"
+    },
+    {
+      "name": "cloud-run-seq2seq-linebot",
+      "repo": "https://github.com/ken-matsui/cloud-run-seq2seq-linebot",
+      "language": "Python"
+    },
+    {
+      "name": "lev_distance",
+      "repo": "https://github.com/ken-matsui/lev_distance",
+      "url": "https://crates.io/crates/lev_distance",
+      "language": "Rust"
+    },
+    {
+      "name": "vault-template",
+      "repo": "https://github.com/ken-matsui/vault-template",
+      "language": "HCL"
+    },
+    {
+      "name": "slack-cleaner",
+      "repo": "https://github.com/ken-matsui/slack-cleaner",
+      "language": "Shell"
+    },
+    {
+      "name": "termcolor2",
+      "repo": "https://github.com/ken-matsui/termcolor2",
+      "language": "C++"
+    },
+    {
+      "name": "gae-seq2seq-linebot",
+      "repo": "https://github.com/ken-matsui/gae-seq2seq-linebot",
+      "language": "Python"
+    },
+    {
+      "name": "gae-seq2seq-slackbot",
+      "repo": "https://github.com/ken-matsui/gae-seq2seq-slackbot",
+      "language": "Python"
+    },
+    {
+      "name": "chainer-att-seq2seq",
+      "repo": "https://github.com/ken-matsui/chainer-att-seq2seq",
+      "url": "https://arxiv.org/abs/1409.0473",
+      "language": "Python"
+    },
+    {
+      "name": "poac-infrastructure",
+      "repo": "https://github.com/ken-matsui/poac-infrastructure",
+      "language": "HCL"
+    },
+    {
+      "name": "tauri-yew-web-sys-example",
+      "repo": "https://github.com/ken-matsui/tauri-yew-web-sys-example",
+      "language": "Rust"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/ken-matsui/.github"
+    },
+    {
+      "name": "oF-camera-example",
+      "repo": "https://github.com/ken-matsui/oF-camera-example",
+      "language": "C++"
+    },
+    {
+      "name": "oF-wavy-particle",
+      "repo": "https://github.com/ken-matsui/oF-wavy-particle",
+      "language": "C++"
+    },
+    {
+      "name": "oF-forced-particle-gui",
+      "repo": "https://github.com/ken-matsui/oF-forced-particle-gui",
+      "language": "C++"
+    },
+    {
+      "name": "oF-forced-particle",
+      "repo": "https://github.com/ken-matsui/oF-forced-particle",
+      "language": "C++"
+    },
+    {
+      "name": "oF-drawable-particle",
+      "repo": "https://github.com/ken-matsui/oF-drawable-particle",
+      "language": "C++"
+    },
+    {
+      "name": "oF-appear-circles",
+      "repo": "https://github.com/ken-matsui/oF-appear-circles",
+      "language": "C++"
+    },
+    {
+      "name": "oF-fire-particle",
+      "repo": "https://github.com/ken-matsui/oF-fire-particle",
+      "language": "C++"
+    },
+    {
+      "name": "oF-hsb-noise",
+      "repo": "https://github.com/ken-matsui/oF-hsb-noise",
+      "language": "C++"
+    },
+    {
+      "name": "oF-particle-wave",
+      "repo": "https://github.com/ken-matsui/oF-particle-wave",
+      "language": "C++"
+    },
+    {
+      "name": "oF-beautiful-particle",
+      "repo": "https://github.com/ken-matsui/oF-beautiful-particle",
+      "language": "C++"
+    },
+    {
+      "name": "oF-test-neural",
+      "repo": "https://github.com/ken-matsui/oF-test-neural",
+      "language": "C++"
+    },
+    {
+      "name": "react-counter",
+      "repo": "https://github.com/ken-matsui/react-counter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "webdriverio-image-crawler",
+      "repo": "https://github.com/ken-matsui/webdriverio-image-crawler",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nodejs-websocket-example",
+      "repo": "https://github.com/ken-matsui/nodejs-websocket-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cvc4-example",
+      "repo": "https://github.com/ken-matsui/cvc4-example",
+      "language": "SMT"
+    },
+    {
+      "name": "minisat-example",
+      "repo": "https://github.com/ken-matsui/minisat-example"
+    },
+    {
+      "name": "tensorflow-practice",
+      "repo": "https://github.com/ken-matsui/tensorflow-practice",
+      "language": "Python"
+    },
+    {
+      "name": "python-logging-server",
+      "repo": "https://github.com/ken-matsui/python-logging-server",
+      "language": "Python"
+    },
+    {
+      "name": "python-turtle-example",
+      "repo": "https://github.com/ken-matsui/python-turtle-example",
+      "language": "Python"
+    },
+    {
+      "name": "java-app-practice",
+      "repo": "https://github.com/ken-matsui/java-app-practice",
+      "language": "Java"
+    },
+    {
+      "name": "swift-data-storage-example",
+      "repo": "https://github.com/ken-matsui/swift-data-storage-example",
+      "language": "Swift"
+    },
+    {
+      "name": "swift-discount-calc",
+      "repo": "https://github.com/ken-matsui/swift-discount-calc",
+      "language": "Swift"
+    },
+    {
+      "name": "swift-counter",
+      "repo": "https://github.com/ken-matsui/swift-counter",
+      "language": "Swift"
+    },
+    {
+      "name": "go-mecab-auto-updater",
+      "repo": "https://github.com/ken-matsui/go-mecab-auto-updater",
+      "language": "Go"
+    },
+    {
+      "name": "elixir-maclaurin",
+      "repo": "https://github.com/ken-matsui/elixir-maclaurin",
+      "language": "Elixir"
+    },
+    {
+      "name": "processing-particles",
+      "repo": "https://github.com/ken-matsui/processing-particles",
+      "language": "Processing"
+    },
+    {
+      "name": "processing-scattered-circles",
+      "repo": "https://github.com/ken-matsui/processing-scattered-circles",
+      "language": "Processing"
+    },
+    {
+      "name": "processing-flag-game",
+      "repo": "https://github.com/ken-matsui/processing-flag-game",
+      "language": "Processing"
+    },
+    {
+      "name": "processing-noise-circle",
+      "repo": "https://github.com/ken-matsui/processing-noise-circle",
+      "language": "Processing"
+    },
+    {
+      "name": "processing-clock",
+      "repo": "https://github.com/ken-matsui/processing-clock",
+      "language": "Processing"
+    },
+    {
+      "name": "processing-cross-stripes",
+      "repo": "https://github.com/ken-matsui/processing-cross-stripes",
+      "language": "Processing"
+    },
+    {
+      "name": "semver",
+      "repo": "https://github.com/ken-matsui/semver",
+      "language": "C++"
+    },
+    {
+      "name": "c-genetic-algorithm",
+      "repo": "https://github.com/ken-matsui/c-genetic-algorithm",
+      "language": "C"
+    },
+    {
+      "name": "unity-simple-game",
+      "repo": "https://github.com/ken-matsui/unity-simple-game",
+      "language": "C#"
+    },
+    {
+      "name": "to_TFRecord",
+      "repo": "https://github.com/ken-matsui/to_TFRecord",
+      "language": "Python"
+    },
+    {
+      "name": "macc",
+      "repo": "https://github.com/ken-matsui/macc",
+      "language": "C"
+    },
+    {
+      "name": "keras-densenet",
+      "repo": "https://github.com/ken-matsui/keras-densenet",
+      "url": "https://arxiv.org/abs/1608.06993",
+      "language": "Python"
+    },
+    {
+      "name": "keras-resnet",
+      "repo": "https://github.com/ken-matsui/keras-resnet",
+      "url": "https://arxiv.org/abs/1512.03385",
+      "language": "Python"
+    },
+    {
+      "name": "keras-mobilenet",
+      "repo": "https://github.com/ken-matsui/keras-mobilenet",
+      "url": "https://arxiv.org/abs/1704.04861",
+      "language": "Python"
+    },
+    {
+      "name": "keras-alexnet",
+      "repo": "https://github.com/ken-matsui/keras-alexnet",
+      "url": "https://arxiv.org/abs/1803.01164",
+      "language": "Python"
+    },
+    {
+      "name": "keras-anogan",
+      "repo": "https://github.com/ken-matsui/keras-anogan",
+      "url": "https://arxiv.org/abs/1703.05921",
+      "language": "Python"
+    },
+    {
+      "name": "tfkeras-dcgan",
+      "repo": "https://github.com/ken-matsui/tfkeras-dcgan",
+      "url": "https://arxiv.org/abs/1511.06434",
+      "language": "Python"
+    },
+    {
+      "name": "keras-seq2seq",
+      "repo": "https://github.com/ken-matsui/keras-seq2seq",
+      "url": "https://arxiv.org/abs/1409.3215",
+      "language": "Python"
+    }
+  ]
 }

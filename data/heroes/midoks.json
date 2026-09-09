@@ -6,6 +6,504 @@
   ],
   "website": "https://www.cachecha.com/",
   "bio": "Your star is my happiness",
+  "own_repos": 111,
   "commits": 23533,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "mdserver-web",
+      "repo": "https://github.com/midoks/mdserver-web",
+      "url": "https://www.midoks.icu/",
+      "language": "Python"
+    },
+    {
+      "name": "midoks",
+      "repo": "https://github.com/midoks/midoks",
+      "url": "https://www.cachecha.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shell",
+      "repo": "https://github.com/midoks/shell",
+      "language": "Shell"
+    },
+    {
+      "name": "fastcdn",
+      "repo": "https://github.com/midoks/fastcdn"
+    },
+    {
+      "name": "tgbot",
+      "repo": "https://github.com/midoks/tgbot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "imail",
+      "repo": "https://github.com/midoks/imail",
+      "language": "Go"
+    },
+    {
+      "name": "mgo_web",
+      "repo": "https://github.com/midoks/mgo_web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "network_probe",
+      "repo": "https://github.com/midoks/network_probe",
+      "language": "Go"
+    },
+    {
+      "name": "uptimepk",
+      "repo": "https://github.com/midoks/uptimepk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "choose-linux-go",
+      "repo": "https://github.com/midoks/choose-linux-go",
+      "language": "Shell"
+    },
+    {
+      "name": "mdserver-mac-reinstall",
+      "repo": "https://github.com/midoks/mdserver-mac-reinstall",
+      "language": "Shell"
+    },
+    {
+      "name": "move86go",
+      "repo": "https://github.com/midoks/move86go",
+      "language": "Go"
+    },
+    {
+      "name": "mdserver-mac",
+      "repo": "https://github.com/midoks/mdserver-mac",
+      "url": "https://www.cachecha.com",
+      "language": "Objective-C"
+    },
+    {
+      "name": "fastcdn-web",
+      "repo": "https://github.com/midoks/fastcdn-web",
+      "language": "Vue"
+    },
+    {
+      "name": "web-m3u8",
+      "repo": "https://github.com/midoks/web-m3u8"
+    },
+    {
+      "name": "midoks.github.io",
+      "repo": "https://github.com/midoks/midoks.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "dztasks",
+      "repo": "https://github.com/midoks/dztasks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zzz",
+      "repo": "https://github.com/midoks/zzz",
+      "language": "Go"
+    },
+    {
+      "name": "vez",
+      "repo": "https://github.com/midoks/vez",
+      "language": "JavaScript"
+    },
+    {
+      "name": "golang-try",
+      "repo": "https://github.com/midoks/golang-try",
+      "language": "Go"
+    },
+    {
+      "name": "layui-project",
+      "repo": "https://github.com/midoks/layui-project",
+      "language": "HTML"
+    },
+    {
+      "name": "choose-linux-python",
+      "repo": "https://github.com/midoks/choose-linux-python",
+      "language": "Shell"
+    },
+    {
+      "name": "freeproxy",
+      "repo": "https://github.com/midoks/freeproxy",
+      "language": "Go"
+    },
+    {
+      "name": "simpleping",
+      "repo": "https://github.com/midoks/simpleping",
+      "language": "Go"
+    },
+    {
+      "name": "digbot",
+      "repo": "https://github.com/midoks/digbot",
+      "language": "Go"
+    },
+    {
+      "name": "tg-king",
+      "repo": "https://github.com/midoks/tg-king",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/midoks/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "linux-kernel-intercept",
+      "repo": "https://github.com/midoks/linux-kernel-intercept",
+      "language": "C"
+    },
+    {
+      "name": "nezha",
+      "repo": "https://github.com/midoks/nezha",
+      "language": "Go"
+    },
+    {
+      "name": "nezha-agent",
+      "repo": "https://github.com/midoks/nezha-agent",
+      "language": "Go"
+    },
+    {
+      "name": "change-linux-mirrors",
+      "repo": "https://github.com/midoks/change-linux-mirrors",
+      "language": "Shell"
+    },
+    {
+      "name": "dagger",
+      "repo": "https://github.com/midoks/dagger",
+      "language": "Objective-C"
+    },
+    {
+      "name": "novelsearch",
+      "repo": "https://github.com/midoks/novelsearch",
+      "language": "Go"
+    },
+    {
+      "name": "m3u8-http-cache",
+      "repo": "https://github.com/midoks/m3u8-http-cache",
+      "language": "Python"
+    },
+    {
+      "name": "dynamic-tracking-system",
+      "repo": "https://github.com/midoks/dynamic-tracking-system"
+    },
+    {
+      "name": "netpd",
+      "repo": "https://github.com/midoks/netpd",
+      "language": "CMake"
+    },
+    {
+      "name": "pingce",
+      "repo": "https://github.com/midoks/pingce"
+    },
+    {
+      "name": "attack",
+      "repo": "https://github.com/midoks/attack",
+      "language": "Python"
+    },
+    {
+      "name": "iptables",
+      "repo": "https://github.com/midoks/iptables"
+    },
+    {
+      "name": "wp-cache-db",
+      "repo": "https://github.com/midoks/wp-cache-db",
+      "language": "PHP"
+    },
+    {
+      "name": "mw-gerapy",
+      "repo": "https://github.com/midoks/mw-gerapy",
+      "language": "Shell"
+    },
+    {
+      "name": "ossbc",
+      "repo": "https://github.com/midoks/ossbc",
+      "language": "Python"
+    },
+    {
+      "name": "go-raft",
+      "repo": "https://github.com/midoks/go-raft"
+    },
+    {
+      "name": "vez-en",
+      "repo": "https://github.com/midoks/vez-en",
+      "language": "Go"
+    },
+    {
+      "name": "utils",
+      "repo": "https://github.com/midoks/utils",
+      "language": "Go"
+    },
+    {
+      "name": "simdht",
+      "repo": "https://github.com/midoks/simdht",
+      "language": "Go"
+    },
+    {
+      "name": "checkword",
+      "repo": "https://github.com/midoks/checkword",
+      "language": "Go"
+    },
+    {
+      "name": "webcron",
+      "repo": "https://github.com/midoks/webcron",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-p2p-server",
+      "repo": "https://github.com/midoks/go-p2p-server",
+      "language": "Go"
+    },
+    {
+      "name": "mac-build-linux",
+      "repo": "https://github.com/midoks/mac-build-linux",
+      "language": "Shell"
+    },
+    {
+      "name": "smplayer",
+      "repo": "https://github.com/midoks/smplayer",
+      "language": "C"
+    },
+    {
+      "name": "mdbox",
+      "repo": "https://github.com/midoks/mdbox"
+    },
+    {
+      "name": "mcopa",
+      "repo": "https://github.com/midoks/mcopa",
+      "language": "Go"
+    },
+    {
+      "name": "chrome-extensions",
+      "repo": "https://github.com/midoks/chrome-extensions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zcode",
+      "repo": "https://github.com/midoks/zcode",
+      "language": "C"
+    },
+    {
+      "name": "hlsjs-p2p-free",
+      "repo": "https://github.com/midoks/hlsjs-p2p-free",
+      "language": "JavaScript"
+    },
+    {
+      "name": "GoPHP",
+      "repo": "https://github.com/midoks/GoPHP",
+      "language": "Lex"
+    },
+    {
+      "name": "wp-multi-domain",
+      "repo": "https://github.com/midoks/wp-multi-domain",
+      "language": "PHP"
+    },
+    {
+      "name": "vms",
+      "repo": "https://github.com/midoks/vms",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ddvideo",
+      "repo": "https://github.com/midoks/ddvideo",
+      "url": "https://www.ikantv.xyz",
+      "language": "HTML"
+    },
+    {
+      "name": "mdproxy",
+      "repo": "https://github.com/midoks/mdproxy",
+      "language": "Go"
+    },
+    {
+      "name": "FileMG",
+      "repo": "https://github.com/midoks/FileMG",
+      "language": "Objective-C"
+    },
+    {
+      "name": "macosx-demo",
+      "repo": "https://github.com/midoks/macosx-demo",
+      "language": "C"
+    },
+    {
+      "name": "smplayer-web-demo",
+      "repo": "https://github.com/midoks/smplayer-web-demo"
+    },
+    {
+      "name": "LibMpv",
+      "repo": "https://github.com/midoks/LibMpv",
+      "language": "C"
+    },
+    {
+      "name": "LibFfmpeg",
+      "repo": "https://github.com/midoks/LibFfmpeg",
+      "language": "C"
+    },
+    {
+      "name": "hammer",
+      "repo": "https://github.com/midoks/hammer",
+      "language": "Go"
+    },
+    {
+      "name": "libhash",
+      "repo": "https://github.com/midoks/libhash",
+      "language": "C++"
+    },
+    {
+      "name": "iOS-Learning",
+      "repo": "https://github.com/midoks/iOS-Learning",
+      "language": "Swift"
+    },
+    {
+      "name": "Iceberg",
+      "repo": "https://github.com/midoks/Iceberg",
+      "language": "Objective-C"
+    },
+    {
+      "name": "dfs",
+      "repo": "https://github.com/midoks/dfs",
+      "language": "Go"
+    },
+    {
+      "name": "speedtest",
+      "repo": "https://github.com/midoks/speedtest",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-php",
+      "repo": "https://github.com/midoks/docker-php",
+      "language": "Shell"
+    },
+    {
+      "name": "php-eureka-client",
+      "repo": "https://github.com/midoks/php-eureka-client",
+      "language": "PHP"
+    },
+    {
+      "name": "euraka-server",
+      "repo": "https://github.com/midoks/euraka-server",
+      "language": "Java"
+    },
+    {
+      "name": "xiuno_github_login",
+      "repo": "https://github.com/midoks/xiuno_github_login",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-go",
+      "repo": "https://github.com/midoks/docker-go",
+      "language": "Makefile"
+    },
+    {
+      "name": "md_xhprof",
+      "repo": "https://github.com/midoks/md_xhprof",
+      "language": "C"
+    },
+    {
+      "name": "MDserver_64",
+      "repo": "https://github.com/midoks/MDserver_64",
+      "language": "C#"
+    },
+    {
+      "name": "docker-learning",
+      "repo": "https://github.com/midoks/docker-learning",
+      "language": "Shell"
+    },
+    {
+      "name": "mw-simdht",
+      "repo": "https://github.com/midoks/mw-simdht",
+      "language": "Python"
+    },
+    {
+      "name": "WebAttacks",
+      "repo": "https://github.com/midoks/WebAttacks"
+    },
+    {
+      "name": "mw-qbittorrent",
+      "repo": "https://github.com/midoks/mw-qbittorrent",
+      "language": "Python"
+    },
+    {
+      "name": "mw-l2tp",
+      "repo": "https://github.com/midoks/mw-l2tp",
+      "language": "Shell"
+    },
+    {
+      "name": "DnsPod",
+      "repo": "https://github.com/midoks/DnsPod",
+      "language": "Objective-C"
+    },
+    {
+      "name": "wp-weixin-robot",
+      "repo": "https://github.com/midoks/wp-weixin-robot",
+      "language": "PHP"
+    },
+    {
+      "name": "MDHT",
+      "repo": "https://github.com/midoks/MDHT",
+      "language": "Python"
+    },
+    {
+      "name": "BigData",
+      "repo": "https://github.com/midoks/BigData",
+      "language": "Objective-C"
+    },
+    {
+      "name": "md_monitor",
+      "repo": "https://github.com/midoks/md_monitor",
+      "language": "C"
+    },
+    {
+      "name": "Custom_YAF",
+      "repo": "https://github.com/midoks/Custom_YAF",
+      "language": "PHP"
+    },
+    {
+      "name": "openresty-picture-processing",
+      "repo": "https://github.com/midoks/openresty-picture-processing",
+      "language": "Lua"
+    },
+    {
+      "name": "oursphp",
+      "repo": "https://github.com/midoks/oursphp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MDRead",
+      "repo": "https://github.com/midoks/MDRead",
+      "language": "Objective-C"
+    },
+    {
+      "name": "opencv",
+      "repo": "https://github.com/midoks/opencv",
+      "language": "C++"
+    },
+    {
+      "name": "WebCodePush",
+      "repo": "https://github.com/midoks/WebCodePush",
+      "language": "CSS"
+    },
+    {
+      "name": "lua-resty-elasticsearch",
+      "repo": "https://github.com/midoks/lua-resty-elasticsearch",
+      "language": "Lua"
+    },
+    {
+      "name": "elastic_plugin_demo",
+      "repo": "https://github.com/midoks/elastic_plugin_demo",
+      "language": "Java"
+    },
+    {
+      "name": "WinService",
+      "repo": "https://github.com/midoks/WinService",
+      "language": "C#"
+    },
+    {
+      "name": "WordPressPlugins",
+      "repo": "https://github.com/midoks/WordPressPlugins",
+      "language": "PHP"
+    },
+    {
+      "name": "mws",
+      "repo": "https://github.com/midoks/mws",
+      "language": "C"
+    }
+  ]
 }

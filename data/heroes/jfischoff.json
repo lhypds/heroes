@@ -5,5 +5,503 @@
     "https://github.com/jfischoff"
   ],
   "website": "https://jfischoff.github.io/",
-  "commits": 20917
+  "own_repos": 103,
+  "commits": 20917,
+  "repos": [
+    {
+      "name": "pmpp",
+      "repo": "https://github.com/jfischoff/pmpp",
+      "language": "C++"
+    },
+    {
+      "name": "tmp-postgres",
+      "repo": "https://github.com/jfischoff/tmp-postgres",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgres-options",
+      "repo": "https://github.com/jfischoff/postgres-options",
+      "language": "Haskell"
+    },
+    {
+      "name": "new-supir",
+      "repo": "https://github.com/jfischoff/new-supir",
+      "language": "Python"
+    },
+    {
+      "name": "svd-inpainting",
+      "repo": "https://github.com/jfischoff/svd-inpainting",
+      "language": "Python"
+    },
+    {
+      "name": "twitch",
+      "repo": "https://github.com/jfischoff/twitch",
+      "language": "Haskell"
+    },
+    {
+      "name": "svd-tomesd",
+      "repo": "https://github.com/jfischoff/svd-tomesd",
+      "language": "Python"
+    },
+    {
+      "name": "svd-playground",
+      "repo": "https://github.com/jfischoff/svd-playground",
+      "language": "Python"
+    },
+    {
+      "name": "jfischoff.github.io",
+      "repo": "https://github.com/jfischoff/jfischoff.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "glitch-diffuse",
+      "repo": "https://github.com/jfischoff/glitch-diffuse",
+      "language": "Python"
+    },
+    {
+      "name": "replace-background-sd",
+      "repo": "https://github.com/jfischoff/replace-background-sd"
+    },
+    {
+      "name": "next-pose-control-net",
+      "repo": "https://github.com/jfischoff/next-pose-control-net",
+      "language": "Python"
+    },
+    {
+      "name": "nano-sd",
+      "repo": "https://github.com/jfischoff/nano-sd",
+      "language": "Python"
+    },
+    {
+      "name": "super-channel-control-net",
+      "repo": "https://github.com/jfischoff/super-channel-control-net"
+    },
+    {
+      "name": "plutus-nft",
+      "repo": "https://github.com/jfischoff/plutus-nft",
+      "language": "Haskell"
+    },
+    {
+      "name": "pg-transact-hspec",
+      "repo": "https://github.com/jfischoff/pg-transact-hspec",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-queue",
+      "repo": "https://github.com/jfischoff/hasql-queue",
+      "language": "Haskell"
+    },
+    {
+      "name": "pg-transact",
+      "repo": "https://github.com/jfischoff/pg-transact",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs-cmdstan",
+      "repo": "https://github.com/jfischoff/hs-cmdstan",
+      "language": "Haskell"
+    },
+    {
+      "name": "trek",
+      "repo": "https://github.com/jfischoff/trek",
+      "language": "Haskell"
+    },
+    {
+      "name": "tmp-minio",
+      "repo": "https://github.com/jfischoff/tmp-minio",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgresql-simple-opts",
+      "repo": "https://github.com/jfischoff/postgresql-simple-opts",
+      "language": "Haskell"
+    },
+    {
+      "name": "threadwaitread-race",
+      "repo": "https://github.com/jfischoff/threadwaitread-race",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgresql-libpq-notify",
+      "repo": "https://github.com/jfischoff/postgresql-libpq-notify",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgresql-queue",
+      "repo": "https://github.com/jfischoff/postgresql-queue",
+      "language": "Haskell"
+    },
+    {
+      "name": "port-utils",
+      "repo": "https://github.com/jfischoff/port-utils",
+      "language": "Haskell"
+    },
+    {
+      "name": "hspec-expectations-monadthrow",
+      "repo": "https://github.com/jfischoff/hspec-expectations-monadthrow",
+      "language": "Haskell"
+    },
+    {
+      "name": "tcp-listener",
+      "repo": "https://github.com/jfischoff/tcp-listener",
+      "language": "Haskell"
+    },
+    {
+      "name": "reflection-extras",
+      "repo": "https://github.com/jfischoff/reflection-extras",
+      "language": "Haskell"
+    },
+    {
+      "name": "has-type-class-pattern",
+      "repo": "https://github.com/jfischoff/has-type-class-pattern",
+      "language": "Haskell"
+    },
+    {
+      "name": "fuzzy-bounded-queue",
+      "repo": "https://github.com/jfischoff/fuzzy-bounded-queue",
+      "language": "Haskell"
+    },
+    {
+      "name": "concurrency-primitive-benchmarks",
+      "repo": "https://github.com/jfischoff/concurrency-primitive-benchmarks",
+      "language": "HTML"
+    },
+    {
+      "name": "safe-password",
+      "repo": "https://github.com/jfischoff/safe-password",
+      "language": "Haskell"
+    },
+    {
+      "name": "asynchronous-email-example",
+      "repo": "https://github.com/jfischoff/asynchronous-email-example",
+      "language": "Haskell"
+    },
+    {
+      "name": "oxymoron",
+      "repo": "https://github.com/jfischoff/oxymoron",
+      "language": "Haskell"
+    },
+    {
+      "name": "categorical-algebra",
+      "repo": "https://github.com/jfischoff/categorical-algebra",
+      "language": "Haskell"
+    },
+    {
+      "name": "are-mutable-references-in-haskell-fast",
+      "repo": "https://github.com/jfischoff/are-mutable-references-in-haskell-fast",
+      "language": "Assembly"
+    },
+    {
+      "name": "partial-options-monoid-pattern",
+      "repo": "https://github.com/jfischoff/partial-options-monoid-pattern",
+      "language": "Haskell"
+    },
+    {
+      "name": "redirect-stdout-example",
+      "repo": "https://github.com/jfischoff/redirect-stdout-example",
+      "language": "Haskell"
+    },
+    {
+      "name": "prism-exception-experiments",
+      "repo": "https://github.com/jfischoff/prism-exception-experiments",
+      "language": "Haskell"
+    },
+    {
+      "name": "async-extras",
+      "repo": "https://github.com/jfischoff/async-extras",
+      "language": "Haskell"
+    },
+    {
+      "name": "reuse-port-example",
+      "repo": "https://github.com/jfischoff/reuse-port-example",
+      "language": "Haskell"
+    },
+    {
+      "name": "distributed-flow",
+      "repo": "https://github.com/jfischoff/distributed-flow"
+    },
+    {
+      "name": "modulespection",
+      "repo": "https://github.com/jfischoff/modulespection",
+      "language": "Haskell"
+    },
+    {
+      "name": "gdiff-th",
+      "repo": "https://github.com/jfischoff/gdiff-th",
+      "language": "Haskell"
+    },
+    {
+      "name": "promise",
+      "repo": "https://github.com/jfischoff/promise",
+      "language": "Haskell"
+    },
+    {
+      "name": "file-command-qq",
+      "repo": "https://github.com/jfischoff/file-command-qq",
+      "language": "Haskell"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/jfischoff/blog"
+    },
+    {
+      "name": "simple-poly",
+      "repo": "https://github.com/jfischoff/simple-poly",
+      "language": "Haskell"
+    },
+    {
+      "name": "maxent",
+      "repo": "https://github.com/jfischoff/maxent",
+      "language": "Haskell"
+    },
+    {
+      "name": "lagrangian",
+      "repo": "https://github.com/jfischoff/lagrangian",
+      "language": "Haskell"
+    },
+    {
+      "name": "tweak",
+      "repo": "https://github.com/jfischoff/tweak",
+      "language": "Haskell"
+    },
+    {
+      "name": "incremental",
+      "repo": "https://github.com/jfischoff/incremental",
+      "language": "Haskell"
+    },
+    {
+      "name": "inc-ref",
+      "repo": "https://github.com/jfischoff/inc-ref",
+      "language": "Haskell"
+    },
+    {
+      "name": "async-manager",
+      "repo": "https://github.com/jfischoff/async-manager",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs-mitsuba",
+      "repo": "https://github.com/jfischoff/hs-mitsuba",
+      "language": "Haskell"
+    },
+    {
+      "name": "lens-expression",
+      "repo": "https://github.com/jfischoff/lens-expression",
+      "language": "Haskell"
+    },
+    {
+      "name": "generic-maybe",
+      "repo": "https://github.com/jfischoff/generic-maybe",
+      "language": "Haskell"
+    },
+    {
+      "name": "kydo",
+      "repo": "https://github.com/jfischoff/kydo",
+      "language": "Haskell"
+    },
+    {
+      "name": "llvm-quasi",
+      "repo": "https://github.com/jfischoff/llvm-quasi",
+      "language": "Haskell"
+    },
+    {
+      "name": "tuple-lenses",
+      "repo": "https://github.com/jfischoff/tuple-lenses",
+      "language": "Haskell"
+    },
+    {
+      "name": "test-framework-testing-feat",
+      "repo": "https://github.com/jfischoff/test-framework-testing-feat",
+      "language": "Haskell"
+    },
+    {
+      "name": "graph-manip",
+      "repo": "https://github.com/jfischoff/graph-manip",
+      "language": "Haskell"
+    },
+    {
+      "name": "Sharpen",
+      "repo": "https://github.com/jfischoff/Sharpen",
+      "language": "Haskell"
+    },
+    {
+      "name": "Rater",
+      "repo": "https://github.com/jfischoff/Rater",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-ios-simple-setup",
+      "repo": "https://github.com/jfischoff/ghc-ios-simple-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "repa-image",
+      "repo": "https://github.com/jfischoff/repa-image",
+      "language": "Haskell"
+    },
+    {
+      "name": "meta-format",
+      "repo": "https://github.com/jfischoff/meta-format",
+      "language": "Haskell"
+    },
+    {
+      "name": "universe-th",
+      "repo": "https://github.com/jfischoff/universe-th",
+      "language": "Haskell"
+    },
+    {
+      "name": "th-plate",
+      "repo": "https://github.com/jfischoff/th-plate",
+      "language": "Haskell"
+    },
+    {
+      "name": "joust",
+      "repo": "https://github.com/jfischoff/joust",
+      "language": "Haskell"
+    },
+    {
+      "name": "simple-c-type-th",
+      "repo": "https://github.com/jfischoff/simple-c-type-th",
+      "language": "Haskell"
+    },
+    {
+      "name": "simple-c-type",
+      "repo": "https://github.com/jfischoff/simple-c-type",
+      "language": "Haskell"
+    },
+    {
+      "name": "simple-c-value",
+      "repo": "https://github.com/jfischoff/simple-c-value",
+      "language": "Haskell"
+    },
+    {
+      "name": "simple-c-meta-value",
+      "repo": "https://github.com/jfischoff/simple-c-meta-value",
+      "language": "Haskell"
+    },
+    {
+      "name": "swfft",
+      "repo": "https://github.com/jfischoff/swfft",
+      "language": "Haskell"
+    },
+    {
+      "name": "minimal-resource-protocol",
+      "repo": "https://github.com/jfischoff/minimal-resource-protocol",
+      "language": "Haskell"
+    },
+    {
+      "name": "opengl-eval",
+      "repo": "https://github.com/jfischoff/opengl-eval",
+      "language": "Haskell"
+    },
+    {
+      "name": "simple-c-evaluator",
+      "repo": "https://github.com/jfischoff/simple-c-evaluator",
+      "language": "Haskell"
+    },
+    {
+      "name": "language-c-quote-utils",
+      "repo": "https://github.com/jfischoff/language-c-quote-utils",
+      "language": "Haskell"
+    },
+    {
+      "name": "symbolic-combinatorics",
+      "repo": "https://github.com/jfischoff/symbolic-combinatorics",
+      "language": "Haskell"
+    },
+    {
+      "name": "jfischoff.github.com",
+      "repo": "https://github.com/jfischoff/jfischoff.github.com"
+    },
+    {
+      "name": "specialize-th",
+      "repo": "https://github.com/jfischoff/specialize-th",
+      "language": "Haskell"
+    },
+    {
+      "name": "type-sub-th",
+      "repo": "https://github.com/jfischoff/type-sub-th",
+      "language": "Haskell"
+    },
+    {
+      "name": "ThumbRater",
+      "repo": "https://github.com/jfischoff/ThumbRater",
+      "language": "Haskell"
+    },
+    {
+      "name": "th-instances",
+      "repo": "https://github.com/jfischoff/th-instances",
+      "language": "Haskell"
+    },
+    {
+      "name": "EvalGL",
+      "repo": "https://github.com/jfischoff/EvalGL",
+      "language": "Haskell"
+    },
+    {
+      "name": "PushApple",
+      "repo": "https://github.com/jfischoff/PushApple",
+      "language": "Haskell"
+    },
+    {
+      "name": "LambdaCal",
+      "repo": "https://github.com/jfischoff/LambdaCal",
+      "language": "Haskell"
+    },
+    {
+      "name": "LambdaAST",
+      "repo": "https://github.com/jfischoff/LambdaAST",
+      "language": "Haskell"
+    },
+    {
+      "name": "LambdaPrettyQuote",
+      "repo": "https://github.com/jfischoff/LambdaPrettyQuote",
+      "language": "Haskell"
+    },
+    {
+      "name": "Quantify_Me",
+      "repo": "https://github.com/jfischoff/Quantify_Me",
+      "language": "Haskell"
+    },
+    {
+      "name": "better",
+      "repo": "https://github.com/jfischoff/better",
+      "language": "Haskell"
+    },
+    {
+      "name": "bitstring",
+      "repo": "https://github.com/jfischoff/bitstring",
+      "language": "C++"
+    },
+    {
+      "name": "obido_opengl",
+      "repo": "https://github.com/jfischoff/obido_opengl",
+      "language": "C++"
+    },
+    {
+      "name": "obido_mesh_primitives",
+      "repo": "https://github.com/jfischoff/obido_mesh_primitives",
+      "language": "C++"
+    },
+    {
+      "name": "obido_mesh",
+      "repo": "https://github.com/jfischoff/obido_mesh",
+      "language": "C++"
+    },
+    {
+      "name": "obido_math",
+      "repo": "https://github.com/jfischoff/obido_math",
+      "language": "C++"
+    },
+    {
+      "name": "obido_engine",
+      "repo": "https://github.com/jfischoff/obido_engine",
+      "language": "C++"
+    },
+    {
+      "name": "obido_collections",
+      "repo": "https://github.com/jfischoff/obido_collections",
+      "language": "C++"
+    }
+  ]
 }

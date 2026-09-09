@@ -6,5 +6,496 @@
   ],
   "website": "https://brenton-bluehouse-portfolio.vercel.app/",
   "bio": "Full-Stack & AI Engineer · Python · Next.js · AWS · 10+ years building scalable SaaS platforms & AI-powered products. MS Cybersecurity.",
-  "commits": 29305
+  "own_repos": 106,
+  "commits": 29305,
+  "repos": [
+    {
+      "name": "glad-stack",
+      "repo": "https://github.com/brentonbluehouse/glad-stack",
+      "language": "Go"
+    },
+    {
+      "name": "cedar",
+      "repo": "https://github.com/brentonbluehouse/cedar",
+      "language": "Rust"
+    },
+    {
+      "name": "Mailspring",
+      "repo": "https://github.com/brentonbluehouse/Mailspring",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "lemontea",
+      "repo": "https://github.com/brentonbluehouse/lemontea",
+      "language": "TypeScript"
+    },
+    {
+      "name": "monorepo",
+      "repo": "https://github.com/brentonbluehouse/monorepo",
+      "language": "HTML"
+    },
+    {
+      "name": "mattermost-mobile",
+      "repo": "https://github.com/brentonbluehouse/mattermost-mobile",
+      "language": "TypeScript"
+    },
+    {
+      "name": "-clustra",
+      "repo": "https://github.com/brentonbluehouse/-clustra",
+      "language": "Python"
+    },
+    {
+      "name": "landing-zone-accelerator-on-aws-for-healthcare",
+      "repo": "https://github.com/brentonbluehouse/landing-zone-accelerator-on-aws-for-healthcare",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Hoopify",
+      "repo": "https://github.com/brentonbluehouse/Hoopify"
+    },
+    {
+      "name": "DiffFashion",
+      "repo": "https://github.com/brentonbluehouse/DiffFashion",
+      "language": "Python"
+    },
+    {
+      "name": "lang-segment-anything",
+      "repo": "https://github.com/brentonbluehouse/lang-segment-anything",
+      "language": "Python"
+    },
+    {
+      "name": "example-csharp-hybrid-online-offline-licensing",
+      "repo": "https://github.com/brentonbluehouse/example-csharp-hybrid-online-offline-licensing",
+      "language": "C#"
+    },
+    {
+      "name": "TailwindTraders-Rewards",
+      "repo": "https://github.com/brentonbluehouse/TailwindTraders-Rewards",
+      "language": "C#"
+    },
+    {
+      "name": "cf_httpclient",
+      "repo": "https://github.com/brentonbluehouse/cf_httpclient",
+      "language": "ColdFusion"
+    },
+    {
+      "name": "BugLogHQ",
+      "repo": "https://github.com/brentonbluehouse/BugLogHQ",
+      "language": "ColdFusion"
+    },
+    {
+      "name": "pocketpal-ai",
+      "repo": "https://github.com/brentonbluehouse/pocketpal-ai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "production-RAG-pipeline",
+      "repo": "https://github.com/brentonbluehouse/production-RAG-pipeline",
+      "language": "Python"
+    },
+    {
+      "name": "memora",
+      "repo": "https://github.com/brentonbluehouse/memora",
+      "language": "Python"
+    },
+    {
+      "name": "ai-chief-of-staff",
+      "repo": "https://github.com/brentonbluehouse/ai-chief-of-staff",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kafka-exam",
+      "repo": "https://github.com/brentonbluehouse/kafka-exam",
+      "language": "Java"
+    },
+    {
+      "name": "dashboard-layout",
+      "repo": "https://github.com/brentonbluehouse/dashboard-layout",
+      "language": "HTML"
+    },
+    {
+      "name": "booking-microservices-java-spring-boot",
+      "repo": "https://github.com/brentonbluehouse/booking-microservices-java-spring-boot",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-kafka-quickstarts",
+      "repo": "https://github.com/brentonbluehouse/spring-boot-kafka-quickstarts"
+    },
+    {
+      "name": "OpenWA",
+      "repo": "https://github.com/brentonbluehouse/OpenWA",
+      "language": "TypeScript"
+    },
+    {
+      "name": "real-estate-hub",
+      "repo": "https://github.com/brentonbluehouse/real-estate-hub",
+      "language": "JavaScript"
+    },
+    {
+      "name": "room-book-simple",
+      "repo": "https://github.com/brentonbluehouse/room-book-simple",
+      "language": "TypeScript"
+    },
+    {
+      "name": "OrbitView",
+      "repo": "https://github.com/brentonbluehouse/OrbitView",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Claude-Code-Agent-Monitor",
+      "repo": "https://github.com/brentonbluehouse/Claude-Code-Agent-Monitor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "oncall-agent",
+      "repo": "https://github.com/brentonbluehouse/oncall-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tyk-pump",
+      "repo": "https://github.com/brentonbluehouse/tyk-pump",
+      "language": "Go"
+    },
+    {
+      "name": "fullstack-go-angular",
+      "repo": "https://github.com/brentonbluehouse/fullstack-go-angular",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-outbox",
+      "repo": "https://github.com/brentonbluehouse/go-outbox",
+      "language": "Go"
+    },
+    {
+      "name": "shopify-ai-agent",
+      "repo": "https://github.com/brentonbluehouse/shopify-ai-agent",
+      "language": "Python"
+    },
+    {
+      "name": "shopify-order-webhook",
+      "repo": "https://github.com/brentonbluehouse/shopify-order-webhook",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust-spiffe",
+      "repo": "https://github.com/brentonbluehouse/rust-spiffe",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-rpxy",
+      "repo": "https://github.com/brentonbluehouse/rust-rpxy",
+      "language": "Rust"
+    },
+    {
+      "name": "tradingview-to-metatrader5",
+      "repo": "https://github.com/brentonbluehouse/tradingview-to-metatrader5",
+      "language": "Python"
+    },
+    {
+      "name": "Back-Tester",
+      "repo": "https://github.com/brentonbluehouse/Back-Tester",
+      "language": "Python"
+    },
+    {
+      "name": "airflow-docker-postgres-etl",
+      "repo": "https://github.com/brentonbluehouse/airflow-docker-postgres-etl",
+      "language": "Python"
+    },
+    {
+      "name": "github-stats-etl",
+      "repo": "https://github.com/brentonbluehouse/github-stats-etl",
+      "language": "Python"
+    },
+    {
+      "name": "data-stream-etl",
+      "repo": "https://github.com/brentonbluehouse/data-stream-etl"
+    },
+    {
+      "name": "FootballVision",
+      "repo": "https://github.com/brentonbluehouse/FootballVision",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "yolov8-fastapi",
+      "repo": "https://github.com/brentonbluehouse/yolov8-fastapi",
+      "language": "Python"
+    },
+    {
+      "name": "fastapi-iac-monitoring",
+      "repo": "https://github.com/brentonbluehouse/fastapi-iac-monitoring",
+      "language": "HCL"
+    },
+    {
+      "name": "rds-proxy-iam-auth",
+      "repo": "https://github.com/brentonbluehouse/rds-proxy-iam-auth",
+      "language": "HCL"
+    },
+    {
+      "name": "migration-runbook",
+      "repo": "https://github.com/brentonbluehouse/migration-runbook",
+      "language": "Mermaid"
+    },
+    {
+      "name": "clearpath-fargate-api",
+      "repo": "https://github.com/brentonbluehouse/clearpath-fargate-api",
+      "language": "Python"
+    },
+    {
+      "name": "rds-proxy-iam-auth-example",
+      "repo": "https://github.com/brentonbluehouse/rds-proxy-iam-auth-example"
+    },
+    {
+      "name": "carolina-futons-mobile",
+      "repo": "https://github.com/brentonbluehouse/carolina-futons-mobile",
+      "language": "TypeScript"
+    },
+    {
+      "name": "acquiremock",
+      "repo": "https://github.com/brentonbluehouse/acquiremock",
+      "language": "Python"
+    },
+    {
+      "name": "solana-vault",
+      "repo": "https://github.com/brentonbluehouse/solana-vault",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fashion_studio_etl_processing",
+      "repo": "https://github.com/brentonbluehouse/fashion_studio_etl_processing",
+      "language": "Python"
+    },
+    {
+      "name": "mma-predictive-modeling",
+      "repo": "https://github.com/brentonbluehouse/mma-predictive-modeling",
+      "language": "Python"
+    },
+    {
+      "name": "Scrapling",
+      "repo": "https://github.com/brentonbluehouse/Scrapling",
+      "language": "Python"
+    },
+    {
+      "name": "forge-viewhubmodels-nodejs-svf2",
+      "repo": "https://github.com/brentonbluehouse/forge-viewhubmodels-nodejs-svf2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "biaotech-api",
+      "repo": "https://github.com/brentonbluehouse/biaotech-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "-fastapi-react-postgres-keycloak-sso",
+      "repo": "https://github.com/brentonbluehouse/-fastapi-react-postgres-keycloak-sso"
+    },
+    {
+      "name": "deploy-eks-helm",
+      "repo": "https://github.com/brentonbluehouse/deploy-eks-helm",
+      "language": "Shell"
+    },
+    {
+      "name": "SimpleConsent",
+      "repo": "https://github.com/brentonbluehouse/SimpleConsent",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-consent-mode-cookie-banner",
+      "repo": "https://github.com/brentonbluehouse/react-consent-mode-cookie-banner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "checkout-sdk-js",
+      "repo": "https://github.com/brentonbluehouse/checkout-sdk-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bigcommerce-blank-theme",
+      "repo": "https://github.com/brentonbluehouse/bigcommerce-blank-theme",
+      "language": "HTML"
+    },
+    {
+      "name": "healthie-sdk",
+      "repo": "https://github.com/brentonbluehouse/healthie-sdk",
+      "language": "TypeScript"
+    },
+    {
+      "name": "medplum-healthie-importer",
+      "repo": "https://github.com/brentonbluehouse/medplum-healthie-importer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghl-marketplace-app-template",
+      "repo": "https://github.com/brentonbluehouse/ghl-marketplace-app-template"
+    },
+    {
+      "name": "page-views-count",
+      "repo": "https://github.com/brentonbluehouse/page-views-count",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bp-xprofile-wp-user-sync",
+      "repo": "https://github.com/brentonbluehouse/bp-xprofile-wp-user-sync",
+      "language": "PHP"
+    },
+    {
+      "name": "brentonbluehouse",
+      "repo": "https://github.com/brentonbluehouse/brentonbluehouse"
+    },
+    {
+      "name": "next-supabase-stripe",
+      "repo": "https://github.com/brentonbluehouse/next-supabase-stripe",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Serverless_WouldYouRather",
+      "repo": "https://github.com/brentonbluehouse/Serverless_WouldYouRather",
+      "language": "TypeScript"
+    },
+    {
+      "name": "-closerintime-wikidata",
+      "repo": "https://github.com/brentonbluehouse/-closerintime-wikidata",
+      "language": "TypeScript"
+    },
+    {
+      "name": "commissions",
+      "repo": "https://github.com/brentonbluehouse/commissions",
+      "language": "Java"
+    },
+    {
+      "name": "hubspot-CRM-sync",
+      "repo": "https://github.com/brentonbluehouse/hubspot-CRM-sync",
+      "language": "Python"
+    },
+    {
+      "name": "apps-script-lead-automation",
+      "repo": "https://github.com/brentonbluehouse/apps-script-lead-automation",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ai-pdf-autofiller",
+      "repo": "https://github.com/brentonbluehouse/ai-pdf-autofiller",
+      "language": "Python"
+    },
+    {
+      "name": "sourcery",
+      "repo": "https://github.com/brentonbluehouse/sourcery",
+      "language": "Python"
+    },
+    {
+      "name": "mondroid",
+      "repo": "https://github.com/brentonbluehouse/mondroid",
+      "language": "Dart"
+    },
+    {
+      "name": "go-notify",
+      "repo": "https://github.com/brentonbluehouse/go-notify",
+      "language": "Go"
+    },
+    {
+      "name": "-RAG-SaaS",
+      "repo": "https://github.com/brentonbluehouse/-RAG-SaaS",
+      "language": "TypeScript"
+    },
+    {
+      "name": "-Data-Subject-Request-tracker",
+      "repo": "https://github.com/brentonbluehouse/-Data-Subject-Request-tracker"
+    },
+    {
+      "name": "Meta-Governor",
+      "repo": "https://github.com/brentonbluehouse/Meta-Governor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "BSpor-dashboard",
+      "repo": "https://github.com/brentonbluehouse/BSpor-dashboard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "NextJsSaas",
+      "repo": "https://github.com/brentonbluehouse/NextJsSaas",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stripe-supabase-subscription-kit",
+      "repo": "https://github.com/brentonbluehouse/stripe-supabase-subscription-kit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "adp",
+      "repo": "https://github.com/brentonbluehouse/adp",
+      "language": "Python"
+    },
+    {
+      "name": "Genius",
+      "repo": "https://github.com/brentonbluehouse/Genius"
+    },
+    {
+      "name": "saas-subscription-helper",
+      "repo": "https://github.com/brentonbluehouse/saas-subscription-helper"
+    },
+    {
+      "name": "dbt_sage_intacct",
+      "repo": "https://github.com/brentonbluehouse/dbt_sage_intacct"
+    },
+    {
+      "name": "B-Intacct",
+      "repo": "https://github.com/brentonbluehouse/B-Intacct",
+      "language": "Apex"
+    },
+    {
+      "name": "BB-2Fast",
+      "repo": "https://github.com/brentonbluehouse/BB-2Fast",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Keepr-Mad",
+      "repo": "https://github.com/brentonbluehouse/Keepr-Mad"
+    },
+    {
+      "name": "arqelynt-tech-website",
+      "repo": "https://github.com/brentonbluehouse/arqelynt-tech-website",
+      "url": "https://arqelynt-tech-website.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cortextflowai",
+      "repo": "https://github.com/brentonbluehouse/cortextflowai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "factur-x-ng",
+      "repo": "https://github.com/brentonbluehouse/factur-x-ng"
+    },
+    {
+      "name": "e-invoice-validator",
+      "repo": "https://github.com/brentonbluehouse/e-invoice-validator",
+      "language": "Java"
+    },
+    {
+      "name": "EdiEngine",
+      "repo": "https://github.com/brentonbluehouse/EdiEngine",
+      "language": "C#"
+    },
+    {
+      "name": "device_xiaomi_vili",
+      "repo": "https://github.com/brentonbluehouse/device_xiaomi_vili",
+      "language": "Makefile"
+    },
+    {
+      "name": "android_packages_apps_GameSpace",
+      "repo": "https://github.com/brentonbluehouse/android_packages_apps_GameSpace",
+      "language": "Kotlin"
+    },
+    {
+      "name": "next-saas-stripe",
+      "repo": "https://github.com/brentonbluehouse/next-saas-stripe",
+      "language": "TypeScript"
+    },
+    {
+      "name": "full-stack-ai-agent",
+      "repo": "https://github.com/brentonbluehouse/full-stack-ai-agent",
+      "language": "Python"
+    }
+  ]
 }

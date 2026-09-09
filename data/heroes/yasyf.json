@@ -6,5 +6,525 @@
   ],
   "website": "https://yasyf.com/",
   "bio": "Engineer. Entrepreneur. CEO of @anetaco. Previously @symopsio, @MIT, @facebook. Proudly Canadian!",
-  "commits": 13609
+  "own_repos": 126,
+  "commits": 13609,
+  "repos": [
+    {
+      "name": "captain-hook",
+      "repo": "https://github.com/yasyf/captain-hook",
+      "url": "https://yasyf.github.io/captain-hook/",
+      "language": "Python"
+    },
+    {
+      "name": "cc-context",
+      "repo": "https://github.com/yasyf/cc-context",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/yasyf/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "yasyf",
+      "repo": "https://github.com/yasyf/yasyf"
+    },
+    {
+      "name": "cc-notes",
+      "repo": "https://github.com/yasyf/cc-notes",
+      "language": "Go"
+    },
+    {
+      "name": "cc-steer",
+      "repo": "https://github.com/yasyf/cc-steer",
+      "url": "https://yasyf.github.io/cc-steer/",
+      "language": "Python"
+    },
+    {
+      "name": "cc-transcript",
+      "repo": "https://github.com/yasyf/cc-transcript",
+      "url": "https://yasyf.github.io/cc-transcript/",
+      "language": "Rust"
+    },
+    {
+      "name": "reposync",
+      "repo": "https://github.com/yasyf/reposync",
+      "language": "Go"
+    },
+    {
+      "name": "cc-guides",
+      "repo": "https://github.com/yasyf/cc-guides",
+      "language": "Go"
+    },
+    {
+      "name": "slop-cop",
+      "repo": "https://github.com/yasyf/slop-cop",
+      "language": "Go"
+    },
+    {
+      "name": "cc-pane",
+      "repo": "https://github.com/yasyf/cc-pane",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cc-runtime",
+      "repo": "https://github.com/yasyf/cc-runtime",
+      "language": "Go"
+    },
+    {
+      "name": "pocket-llm",
+      "repo": "https://github.com/yasyf/pocket-llm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "daemonkit",
+      "repo": "https://github.com/yasyf/daemonkit",
+      "language": "Go"
+    },
+    {
+      "name": "authkit",
+      "repo": "https://github.com/yasyf/authkit",
+      "language": "Swift"
+    },
+    {
+      "name": "fusekit",
+      "repo": "https://github.com/yasyf/fusekit",
+      "language": "Go"
+    },
+    {
+      "name": "getaway",
+      "repo": "https://github.com/yasyf/getaway",
+      "language": "Python"
+    },
+    {
+      "name": "yclaw",
+      "repo": "https://github.com/yasyf/yclaw",
+      "language": "Python"
+    },
+    {
+      "name": "cc-sentiment",
+      "repo": "https://github.com/yasyf/cc-sentiment",
+      "url": "https://sentiments.cc",
+      "language": "Python"
+    },
+    {
+      "name": "cookiesync",
+      "repo": "https://github.com/yasyf/cookiesync",
+      "language": "Go"
+    },
+    {
+      "name": "cc-review",
+      "repo": "https://github.com/yasyf/cc-review",
+      "url": "https://yasyf.github.io/cc-review",
+      "language": "Go"
+    },
+    {
+      "name": "cc-sudo",
+      "repo": "https://github.com/yasyf/cc-sudo",
+      "language": "Swift"
+    },
+    {
+      "name": "cc-squash",
+      "repo": "https://github.com/yasyf/cc-squash",
+      "url": "https://yasyf.github.io/cc-squash/",
+      "language": "Rust"
+    },
+    {
+      "name": "cc-vigil",
+      "repo": "https://github.com/yasyf/cc-vigil",
+      "language": "Swift"
+    },
+    {
+      "name": "dailies",
+      "repo": "https://github.com/yasyf/dailies",
+      "language": "Python"
+    },
+    {
+      "name": "cc-interact",
+      "repo": "https://github.com/yasyf/cc-interact",
+      "language": "Go"
+    },
+    {
+      "name": "cc-pool",
+      "repo": "https://github.com/yasyf/cc-pool",
+      "language": "Go"
+    },
+    {
+      "name": "cc-factory",
+      "repo": "https://github.com/yasyf/cc-factory"
+    },
+    {
+      "name": "binrun",
+      "repo": "https://github.com/yasyf/binrun",
+      "language": "Go"
+    },
+    {
+      "name": "cc-patch",
+      "repo": "https://github.com/yasyf/cc-patch",
+      "language": "Go"
+    },
+    {
+      "name": "spawnllm",
+      "repo": "https://github.com/yasyf/spawnllm",
+      "url": "https://yasyf.github.io/spawnllm/",
+      "language": "Python"
+    },
+    {
+      "name": "semisweet",
+      "repo": "https://github.com/yasyf/semisweet",
+      "language": "Rust"
+    },
+    {
+      "name": "cc-orchestrate",
+      "repo": "https://github.com/yasyf/cc-orchestrate",
+      "url": "https://yasyf.github.io/cc-orchestrate/",
+      "language": "Go"
+    },
+    {
+      "name": "experiment-at-home",
+      "repo": "https://github.com/yasyf/experiment-at-home",
+      "url": "https://yasyf.github.io/experiment-at-home/",
+      "language": "Python"
+    },
+    {
+      "name": "cc-merge",
+      "repo": "https://github.com/yasyf/cc-merge",
+      "language": "Go"
+    },
+    {
+      "name": "cc-present",
+      "repo": "https://github.com/yasyf/cc-present",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-dsl",
+      "repo": "https://github.com/yasyf/docker-dsl",
+      "url": "https://yasyf.github.io/docker-dsl/",
+      "language": "Python"
+    },
+    {
+      "name": "synckit",
+      "repo": "https://github.com/yasyf/synckit",
+      "language": "Go"
+    },
+    {
+      "name": "cc-skills",
+      "repo": "https://github.com/yasyf/cc-skills",
+      "language": "HTML"
+    },
+    {
+      "name": "gpt-do",
+      "repo": "https://github.com/yasyf/gpt-do",
+      "url": "https://pypi.org/project/gpt-do/",
+      "language": "Python"
+    },
+    {
+      "name": "summ",
+      "repo": "https://github.com/yasyf/summ",
+      "url": "https://summ.rtfd.io",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-summ",
+      "repo": "https://github.com/yasyf/homebrew-summ",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-do",
+      "repo": "https://github.com/yasyf/homebrew-do",
+      "language": "Ruby"
+    },
+    {
+      "name": "bitfieldable",
+      "repo": "https://github.com/yasyf/bitfieldable",
+      "language": "Ruby"
+    },
+    {
+      "name": "python-secret-type",
+      "repo": "https://github.com/yasyf/python-secret-type",
+      "url": "https://python-secret-type.readthedocs.io",
+      "language": "Python"
+    },
+    {
+      "name": "anthropic-computer-use-modal",
+      "repo": "https://github.com/yasyf/anthropic-computer-use-modal",
+      "language": "Python"
+    },
+    {
+      "name": "safemodels",
+      "repo": "https://github.com/yasyf/safemodels",
+      "url": "https://musings.yasyf.com/on-llm-supply-chain-attacks/",
+      "language": "Python"
+    },
+    {
+      "name": "python-defer",
+      "repo": "https://github.com/yasyf/python-defer",
+      "language": "Python"
+    },
+    {
+      "name": "haystack-hybrid-embedding",
+      "repo": "https://github.com/yasyf/haystack-hybrid-embedding",
+      "language": "Python"
+    },
+    {
+      "name": "compress-gpt",
+      "repo": "https://github.com/yasyf/compress-gpt",
+      "language": "Python"
+    },
+    {
+      "name": "versioned-routes-rails",
+      "repo": "https://github.com/yasyf/versioned-routes-rails",
+      "language": "Ruby"
+    },
+    {
+      "name": "vc",
+      "repo": "https://github.com/yasyf/vc",
+      "language": "Ruby"
+    },
+    {
+      "name": "wordle-solver",
+      "repo": "https://github.com/yasyf/wordle-solver",
+      "url": "https://asciinema.org/a/gjjIhfVORcWd1wn7BQJ7tuWsn",
+      "language": "Ruby"
+    },
+    {
+      "name": "www",
+      "repo": "https://github.com/yasyf/www",
+      "language": "CSS"
+    },
+    {
+      "name": "soprano",
+      "repo": "https://github.com/yasyf/soprano",
+      "language": "Python"
+    },
+    {
+      "name": "vcpr",
+      "repo": "https://github.com/yasyf/vcpr",
+      "language": "Python"
+    },
+    {
+      "name": "shlink-railway",
+      "repo": "https://github.com/yasyf/shlink-railway",
+      "language": "Shell"
+    },
+    {
+      "name": "shamer",
+      "repo": "https://github.com/yasyf/shamer",
+      "language": "Python"
+    },
+    {
+      "name": "bday",
+      "repo": "https://github.com/yasyf/bday",
+      "language": "Ruby"
+    },
+    {
+      "name": "bcferries",
+      "repo": "https://github.com/yasyf/bcferries",
+      "language": "Python"
+    },
+    {
+      "name": "schedule-cli",
+      "repo": "https://github.com/yasyf/schedule-cli",
+      "language": "Ruby"
+    },
+    {
+      "name": "meng",
+      "repo": "https://github.com/yasyf/meng",
+      "language": "TeX"
+    },
+    {
+      "name": "drfbot",
+      "repo": "https://github.com/yasyf/drfbot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cryptosents",
+      "repo": "https://github.com/yasyf/cryptosents"
+    },
+    {
+      "name": "hifromtheotherside",
+      "repo": "https://github.com/yasyf/hifromtheotherside",
+      "language": "Ruby"
+    },
+    {
+      "name": "karuna-bot",
+      "repo": "https://github.com/yasyf/karuna-bot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "groupthink",
+      "repo": "https://github.com/yasyf/groupthink",
+      "url": "https://group-think-app.herokuapp.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "drf-www",
+      "repo": "https://github.com/yasyf/drf-www",
+      "language": "Ruby"
+    },
+    {
+      "name": "snarl",
+      "repo": "https://github.com/yasyf/snarl",
+      "url": "https://github.com/yasyf/snarl/blob/master/tex/paper/paper.pdf",
+      "language": "HTML"
+    },
+    {
+      "name": "beaverc",
+      "repo": "https://github.com/yasyf/beaverc",
+      "language": "C++"
+    },
+    {
+      "name": "mit-textbooks",
+      "repo": "https://github.com/yasyf/mit-textbooks",
+      "language": "Python"
+    },
+    {
+      "name": "vcbot",
+      "repo": "https://github.com/yasyf/vcbot",
+      "url": "https://twitter.com/veeceebot",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/yasyf/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "hardest-game",
+      "repo": "https://github.com/yasyf/hardest-game",
+      "language": "Python"
+    },
+    {
+      "name": "fishbowl-web",
+      "repo": "https://github.com/yasyf/fishbowl-web",
+      "language": "HTML"
+    },
+    {
+      "name": "cslo-img",
+      "repo": "https://github.com/yasyf/cslo-img"
+    },
+    {
+      "name": "sentinents",
+      "repo": "https://github.com/yasyf/sentinents",
+      "language": "Python"
+    },
+    {
+      "name": "sandhi",
+      "repo": "https://github.com/yasyf/sandhi",
+      "language": "Ruby"
+    },
+    {
+      "name": "mitclasses",
+      "repo": "https://github.com/yasyf/mitclasses",
+      "language": "Ruby"
+    },
+    {
+      "name": "finance",
+      "repo": "https://github.com/yasyf/finance",
+      "language": "Ruby"
+    },
+    {
+      "name": "facelock",
+      "repo": "https://github.com/yasyf/facelock",
+      "language": "Python"
+    },
+    {
+      "name": "atel",
+      "repo": "https://github.com/yasyf/atel",
+      "language": "Python"
+    },
+    {
+      "name": "classifier",
+      "repo": "https://github.com/yasyf/classifier",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "rainbow",
+      "repo": "https://github.com/yasyf/rainbow",
+      "language": "Python"
+    },
+    {
+      "name": "FishBowl",
+      "repo": "https://github.com/yasyf/FishBowl",
+      "language": "Objective-C"
+    },
+    {
+      "name": "featurer",
+      "repo": "https://github.com/yasyf/featurer",
+      "language": "Ruby"
+    },
+    {
+      "name": "flask-start",
+      "repo": "https://github.com/yasyf/flask-start",
+      "language": "HTML"
+    },
+    {
+      "name": "HelloWorldSwift",
+      "repo": "https://github.com/yasyf/HelloWorldSwift",
+      "language": "Swift"
+    },
+    {
+      "name": "mit-grades",
+      "repo": "https://github.com/yasyf/mit-grades",
+      "url": "https://mit-grades.herokuapp.com/",
+      "language": "Python"
+    },
+    {
+      "name": "vancouvereagles-registration",
+      "repo": "https://github.com/yasyf/vancouvereagles-registration",
+      "language": "Python"
+    },
+    {
+      "name": "ferry-time",
+      "repo": "https://github.com/yasyf/ferry-time",
+      "url": "https://ferryti.me",
+      "language": "Python"
+    },
+    {
+      "name": "controlio",
+      "repo": "https://github.com/yasyf/controlio",
+      "language": "Ruby"
+    },
+    {
+      "name": "controlio_web",
+      "repo": "https://github.com/yasyf/controlio_web",
+      "language": "Python"
+    },
+    {
+      "name": "lob-coding-challenge",
+      "repo": "https://github.com/yasyf/lob-coding-challenge",
+      "language": "Python"
+    },
+    {
+      "name": "PplFindr",
+      "repo": "https://github.com/yasyf/PplFindr",
+      "language": "Ruby"
+    },
+    {
+      "name": "ProjectEuler",
+      "repo": "https://github.com/yasyf/ProjectEuler",
+      "url": "https://projecteuler.net/",
+      "language": "Ruby"
+    },
+    {
+      "name": "PostPushr",
+      "repo": "https://github.com/yasyf/PostPushr",
+      "language": "Python"
+    },
+    {
+      "name": "drupal-as-ums",
+      "repo": "https://github.com/yasyf/drupal-as-ums",
+      "language": "PHP"
+    },
+    {
+      "name": "hours",
+      "repo": "https://github.com/yasyf/hours",
+      "language": "Ruby"
+    },
+    {
+      "name": "pymbta",
+      "repo": "https://github.com/yasyf/pymbta",
+      "language": "Python"
+    }
+  ]
 }

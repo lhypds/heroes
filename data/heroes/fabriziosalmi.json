@@ -6,6 +6,575 @@
   ],
   "website": "https://www.researchgate.net/profile/Fabrizio-Salmi",
   "bio": "I am not a coder.",
+  "own_repos": 100,
   "commits": 15668,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "wildbox",
+      "repo": "https://github.com/fabriziosalmi/wildbox",
+      "url": "https://www.wildbox.io",
+      "language": "Python"
+    },
+    {
+      "name": "flareover",
+      "repo": "https://github.com/fabriziosalmi/flareover",
+      "url": "https://www.flareover.com",
+      "language": "Go"
+    },
+    {
+      "name": "lws",
+      "repo": "https://github.com/fabriziosalmi/lws",
+      "url": "https://fabriziosalmi.github.io/lws/",
+      "language": "Python"
+    },
+    {
+      "name": "agssh",
+      "repo": "https://github.com/fabriziosalmi/agssh",
+      "url": "https://agssh.dev/",
+      "language": "Go"
+    },
+    {
+      "name": "certmate",
+      "repo": "https://github.com/fabriziosalmi/certmate",
+      "url": "https://www.certmate.org/",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-flareover",
+      "repo": "https://github.com/fabriziosalmi/homebrew-flareover",
+      "language": "Ruby"
+    },
+    {
+      "name": "secure-proxy-manager",
+      "repo": "https://github.com/fabriziosalmi/secure-proxy-manager",
+      "url": "https://fabriziosalmi.github.io/secure-proxy-manager/",
+      "language": "Go"
+    },
+    {
+      "name": "blacklists",
+      "repo": "https://github.com/fabriziosalmi/blacklists",
+      "url": "https://fabriziosalmi.github.io/blacklists/",
+      "language": "Python"
+    },
+    {
+      "name": "llmproxy",
+      "repo": "https://github.com/fabriziosalmi/llmproxy",
+      "url": "https://fabriziosalmi.github.io/llmproxy/",
+      "language": "Python"
+    },
+    {
+      "name": "proxxx",
+      "repo": "https://github.com/fabriziosalmi/proxxx",
+      "url": "https://fabriziosalmi.github.io/proxxx/",
+      "language": "Rust"
+    },
+    {
+      "name": "proxmox-lxc-autoscale-ml",
+      "repo": "https://github.com/fabriziosalmi/proxmox-lxc-autoscale-ml",
+      "url": "https://fabriziosalmi.github.io/proxmox-lxc-autoscale-ml/",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-proxxx",
+      "repo": "https://github.com/fabriziosalmi/homebrew-proxxx",
+      "language": "Ruby"
+    },
+    {
+      "name": "uglyfeed-cdn",
+      "repo": "https://github.com/fabriziosalmi/uglyfeed-cdn",
+      "language": "Python"
+    },
+    {
+      "name": "fabriziosalmi",
+      "repo": "https://github.com/fabriziosalmi/fabriziosalmi",
+      "language": "Python"
+    },
+    {
+      "name": "patterns",
+      "repo": "https://github.com/fabriziosalmi/patterns",
+      "url": "https://fabriziosalmi.github.io/patterns/",
+      "language": "Python"
+    },
+    {
+      "name": "cf-box",
+      "repo": "https://github.com/fabriziosalmi/cf-box",
+      "language": "Python"
+    },
+    {
+      "name": "caddy-waf",
+      "repo": "https://github.com/fabriziosalmi/caddy-waf",
+      "url": "https://www.caddy-waf.com/",
+      "language": "Go"
+    },
+    {
+      "name": "asn-api",
+      "repo": "https://github.com/fabriziosalmi/asn-api",
+      "url": "https://fabriziosalmi.github.io/asn-api/",
+      "language": "Python"
+    },
+    {
+      "name": "slopless",
+      "repo": "https://github.com/fabriziosalmi/slopless",
+      "url": "https://fabriziosalmi.github.io/slopless/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fabriziosalmi.github.io",
+      "repo": "https://github.com/fabriziosalmi/fabriziosalmi.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "zion",
+      "repo": "https://github.com/fabriziosalmi/zion",
+      "url": "https://fabriziosalmi.github.io/zion/",
+      "language": "Rust"
+    },
+    {
+      "name": "nis2-public",
+      "repo": "https://github.com/fabriziosalmi/nis2-public",
+      "url": "https://fabriziosalmi.github.io/nis2-public/",
+      "language": "Python"
+    },
+    {
+      "name": "aidlp",
+      "repo": "https://github.com/fabriziosalmi/aidlp",
+      "url": "https://fabriziosalmi.github.io/aidlp/",
+      "language": "Python"
+    },
+    {
+      "name": "pdf-ocr",
+      "repo": "https://github.com/fabriziosalmi/pdf-ocr",
+      "url": "https://fabriziosalmi.github.io/pdf-ocr/",
+      "language": "Python"
+    },
+    {
+      "name": "naso",
+      "repo": "https://github.com/fabriziosalmi/naso",
+      "url": "https://fabriziosalmi.github.io/naso/",
+      "language": "Python"
+    },
+    {
+      "name": "proxmox-lxc-autoscale",
+      "repo": "https://github.com/fabriziosalmi/proxmox-lxc-autoscale",
+      "url": "https://fabriziosalmi.github.io/proxmox-lxc-autoscale/",
+      "language": "Python"
+    },
+    {
+      "name": "proxmox-vm-autoscale",
+      "repo": "https://github.com/fabriziosalmi/proxmox-vm-autoscale",
+      "url": "https://fabriziosalmi.github.io/proxmox-vm-autoscale/",
+      "language": "Python"
+    },
+    {
+      "name": "nginx-waf-ai",
+      "repo": "https://github.com/fabriziosalmi/nginx-waf-ai",
+      "language": "Python"
+    },
+    {
+      "name": "fabgpt-faq",
+      "repo": "https://github.com/fabriziosalmi/fabgpt-faq",
+      "url": "https://fabriziosalmi.github.io/fabgpt-faq/",
+      "language": "HTML"
+    },
+    {
+      "name": "repos",
+      "repo": "https://github.com/fabriziosalmi/repos",
+      "url": "https://fabriziosalmi.github.io/repos/",
+      "language": "Python"
+    },
+    {
+      "name": "mixi",
+      "repo": "https://github.com/fabriziosalmi/mixi",
+      "url": "https://www.mixidaw.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tanstack-compromise-checker",
+      "repo": "https://github.com/fabriziosalmi/tanstack-compromise-checker",
+      "language": "Shell"
+    },
+    {
+      "name": "speedmate",
+      "repo": "https://github.com/fabriziosalmi/speedmate",
+      "url": "https://fabriziosalmi.github.io/speedmate/",
+      "language": "PHP"
+    },
+    {
+      "name": "audiolibri",
+      "repo": "https://github.com/fabriziosalmi/audiolibri",
+      "language": "HTML"
+    },
+    {
+      "name": "caddy-mib",
+      "repo": "https://github.com/fabriziosalmi/caddy-mib",
+      "language": "Go"
+    },
+    {
+      "name": "iamnotacoder",
+      "repo": "https://github.com/fabriziosalmi/iamnotacoder",
+      "language": "Python"
+    },
+    {
+      "name": "csv-anonymizer",
+      "repo": "https://github.com/fabriziosalmi/csv-anonymizer",
+      "url": "https://fabriziosalmi.github.io/csv-anonymizer/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "limits",
+      "repo": "https://github.com/fabriziosalmi/limits",
+      "language": "Python"
+    },
+    {
+      "name": "brandkit",
+      "repo": "https://github.com/fabriziosalmi/brandkit",
+      "url": "https://fabriziosalmi.github.io/brandkit/",
+      "language": "HTML"
+    },
+    {
+      "name": "certmate-tools",
+      "repo": "https://github.com/fabriziosalmi/certmate-tools",
+      "url": "https://tools.certmate.org",
+      "language": "Astro"
+    },
+    {
+      "name": "freeundergroundtekno",
+      "repo": "https://github.com/fabriziosalmi/freeundergroundtekno",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nis2-model",
+      "repo": "https://github.com/fabriziosalmi/nis2-model",
+      "url": "https://fabriziosalmi.github.io/nis2-model/",
+      "language": "Rust"
+    },
+    {
+      "name": "web-kick",
+      "repo": "https://github.com/fabriziosalmi/web-kick",
+      "url": "https://fabriziosalmi.github.io/web-kick/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "txt2vst",
+      "repo": "https://github.com/fabriziosalmi/txt2vst",
+      "url": "https://www.txt2vst.com/",
+      "language": "Python"
+    },
+    {
+      "name": "proxymate",
+      "repo": "https://github.com/fabriziosalmi/proxymate",
+      "url": "https://fabriziosalmi.github.io/proxymate/",
+      "language": "Swift"
+    },
+    {
+      "name": "open-bpm",
+      "repo": "https://github.com/fabriziosalmi/open-bpm",
+      "url": "https://fabriziosalmi.github.io/open-bpm/",
+      "language": "Rust"
+    },
+    {
+      "name": "occam-observer",
+      "repo": "https://github.com/fabriziosalmi/occam-observer",
+      "url": "https://fabriziosalmi.github.io/occam-observer/",
+      "language": "Shell"
+    },
+    {
+      "name": "occam-gitignore",
+      "repo": "https://github.com/fabriziosalmi/occam-gitignore",
+      "url": "https://fabriziosalmi.github.io/occam-gitignore/",
+      "language": "Python"
+    },
+    {
+      "name": "navigator",
+      "repo": "https://github.com/fabriziosalmi/navigator",
+      "url": "https://fabriziosalmi.github.io/navigator/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mixi-decks",
+      "repo": "https://github.com/fabriziosalmi/mixi-decks",
+      "url": "https://fabriziosalmi.github.io/mixi-decks/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "logos",
+      "repo": "https://github.com/fabriziosalmi/logos",
+      "url": "https://fabriziosalmi.github.io/logos/",
+      "language": "Go"
+    },
+    {
+      "name": "l0-git",
+      "repo": "https://github.com/fabriziosalmi/l0-git",
+      "url": "https://fabriziosalmi.github.io/l0-git/",
+      "language": "Go"
+    },
+    {
+      "name": "github-social-preview-generator",
+      "repo": "https://github.com/fabriziosalmi/github-social-preview-generator",
+      "url": "https://fabriziosalmi.github.io/github-social-preview-generator/",
+      "language": "Python"
+    },
+    {
+      "name": "domainmate",
+      "repo": "https://github.com/fabriziosalmi/domainmate",
+      "url": "https://fabriziosalmi.github.io/domainmate/",
+      "language": "Python"
+    },
+    {
+      "name": "dnscontrol-actions",
+      "repo": "https://github.com/fabriziosalmi/dnscontrol-actions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "certmate-website",
+      "repo": "https://github.com/fabriziosalmi/certmate-website",
+      "url": "https://www.certmate.org/",
+      "language": "Astro"
+    },
+    {
+      "name": "certmate-agent",
+      "repo": "https://github.com/fabriziosalmi/certmate-agent",
+      "url": "https://agent.certmate.org/",
+      "language": "Python"
+    },
+    {
+      "name": "caddy-feeds",
+      "repo": "https://github.com/fabriziosalmi/caddy-feeds",
+      "url": "https://github.com/fabriziosalmi/caddy-waf",
+      "language": "Python"
+    },
+    {
+      "name": "brutal-coding-tool",
+      "repo": "https://github.com/fabriziosalmi/brutal-coding-tool",
+      "language": "TypeScript"
+    },
+    {
+      "name": "audiogen",
+      "repo": "https://github.com/fabriziosalmi/audiogen",
+      "language": "Python"
+    },
+    {
+      "name": "ai-hallucination-research",
+      "repo": "https://github.com/fabriziosalmi/ai-hallucination-research",
+      "url": "https://fabriziosalmi.github.io/ai-hallucination-research/",
+      "language": "Astro"
+    },
+    {
+      "name": "ai-dependency-guard",
+      "repo": "https://github.com/fabriziosalmi/ai-dependency-guard",
+      "language": "Python"
+    },
+    {
+      "name": "silicondev",
+      "repo": "https://github.com/fabriziosalmi/silicondev",
+      "url": "https://fabriziosalmi.github.io/silicondev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "noted",
+      "repo": "https://github.com/fabriziosalmi/noted",
+      "url": "https://fabriziosalmi.github.io/noted/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vibe-check",
+      "repo": "https://github.com/fabriziosalmi/vibe-check",
+      "language": "Python"
+    },
+    {
+      "name": "websites-monitor",
+      "repo": "https://github.com/fabriziosalmi/websites-monitor",
+      "language": "Python"
+    },
+    {
+      "name": "UglyFeed",
+      "repo": "https://github.com/fabriziosalmi/UglyFeed",
+      "url": "https://fabriziosalmi.github.io/UglyFeed/",
+      "language": "Python"
+    },
+    {
+      "name": "proximity",
+      "repo": "https://github.com/fabriziosalmi/proximity",
+      "url": "https://fabriziosalmi.github.io/proximity/",
+      "language": "Python"
+    },
+    {
+      "name": "newsgator",
+      "repo": "https://github.com/fabriziosalmi/newsgator",
+      "url": "https://fabriziosalmi.github.io/newsgator/",
+      "language": "Python"
+    },
+    {
+      "name": "open-video-watermark",
+      "repo": "https://github.com/fabriziosalmi/open-video-watermark",
+      "url": "https://fabriziosalmi.github.io/open-video-watermark/",
+      "language": "Python"
+    },
+    {
+      "name": "synapseed",
+      "repo": "https://github.com/fabriziosalmi/synapseed",
+      "url": "https://fabriziosalmi.github.io/synapseed/",
+      "language": "Rust"
+    },
+    {
+      "name": "rainlogs",
+      "repo": "https://github.com/fabriziosalmi/rainlogs",
+      "url": "https://fabriziosalmi.github.io/rainlogs/",
+      "language": "Go"
+    },
+    {
+      "name": "fqdn-model",
+      "repo": "https://github.com/fabriziosalmi/fqdn-model",
+      "url": "https://fabriziosalmi.github.io/fqdn-model/",
+      "language": "Python"
+    },
+    {
+      "name": "l0-memory",
+      "repo": "https://github.com/fabriziosalmi/l0-memory",
+      "url": "https://fabriziosalmi.github.io/l0-memory/",
+      "language": "Go"
+    },
+    {
+      "name": "l0-compressor",
+      "repo": "https://github.com/fabriziosalmi/l0-compressor",
+      "url": "https://fabriziosalmi.github.io/l0-compressor/",
+      "language": "Rust"
+    },
+    {
+      "name": "mixi-cut",
+      "repo": "https://github.com/fabriziosalmi/mixi-cut",
+      "url": "https://fabriziosalmi.github.io/mixi-cut/",
+      "language": "Python"
+    },
+    {
+      "name": "b2v",
+      "repo": "https://github.com/fabriziosalmi/b2v",
+      "url": "https://fabriziosalmi.github.io/b2v/",
+      "language": "Rust"
+    },
+    {
+      "name": "ethical-ai",
+      "repo": "https://github.com/fabriziosalmi/ethical-ai",
+      "url": "https://fabriziosalmi.github.io/ethical-ai/",
+      "language": "Python"
+    },
+    {
+      "name": "webtek",
+      "repo": "https://github.com/fabriziosalmi/webtek",
+      "url": "https://webtek.live",
+      "language": "HTML"
+    },
+    {
+      "name": "aimp",
+      "repo": "https://github.com/fabriziosalmi/aimp",
+      "url": "https://fabriziosalmi.github.io/aimp/",
+      "language": "Rust"
+    },
+    {
+      "name": "silence",
+      "repo": "https://github.com/fabriziosalmi/silence",
+      "language": "Python"
+    },
+    {
+      "name": "linux",
+      "repo": "https://github.com/fabriziosalmi/linux",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "llm-benchmarks",
+      "repo": "https://github.com/fabriziosalmi/llm-benchmarks",
+      "language": "Python"
+    },
+    {
+      "name": "You-Know-What-AI-Mean",
+      "repo": "https://github.com/fabriziosalmi/You-Know-What-AI-Mean",
+      "url": "https://fabriziosalmi.github.io/You-Know-What-AI-Mean/",
+      "language": "HTML"
+    },
+    {
+      "name": "space23",
+      "repo": "https://github.com/fabriziosalmi/space23",
+      "url": "https://fabriziosalmi.github.io/space23/",
+      "language": "GDScript"
+    },
+    {
+      "name": "ai-security",
+      "repo": "https://github.com/fabriziosalmi/ai-security",
+      "url": "https://github.com/fabriziosalmi/ai-security/blob/main/ai-security.md",
+      "language": "HTML"
+    },
+    {
+      "name": "awesomeness",
+      "repo": "https://github.com/fabriziosalmi/awesomeness"
+    },
+    {
+      "name": "DevGPT",
+      "repo": "https://github.com/fabriziosalmi/DevGPT",
+      "url": "https://chat.openai.com/g/g-eN7HtAqXW-code-togheter"
+    },
+    {
+      "name": "proxmox-cluster-balancer",
+      "repo": "https://github.com/fabriziosalmi/proxmox-cluster-balancer",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-proxymate",
+      "repo": "https://github.com/fabriziosalmi/homebrew-proxymate",
+      "language": "Ruby"
+    },
+    {
+      "name": "zonecontrol",
+      "repo": "https://github.com/fabriziosalmi/zonecontrol",
+      "language": "Python"
+    },
+    {
+      "name": "cloudflare-backup-actions",
+      "repo": "https://github.com/fabriziosalmi/cloudflare-backup-actions"
+    },
+    {
+      "name": "wafcontrol",
+      "repo": "https://github.com/fabriziosalmi/wafcontrol",
+      "language": "Python"
+    },
+    {
+      "name": "alma",
+      "repo": "https://github.com/fabriziosalmi/alma",
+      "url": "https://fabriziosalmi.github.io/alma/",
+      "language": "Python"
+    },
+    {
+      "name": "trinity",
+      "repo": "https://github.com/fabriziosalmi/trinity",
+      "url": "https://fabriziosalmi.github.io/trinity/",
+      "language": "Python"
+    },
+    {
+      "name": "caddy-adf",
+      "repo": "https://github.com/fabriziosalmi/caddy-adf",
+      "language": "Go"
+    },
+    {
+      "name": "tubeconv",
+      "repo": "https://github.com/fabriziosalmi/tubeconv",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shortlist",
+      "repo": "https://github.com/fabriziosalmi/shortlist",
+      "url": "https://fabriziosalmi.github.io/shortlist/",
+      "language": "Python"
+    },
+    {
+      "name": "synapse-ng",
+      "repo": "https://github.com/fabriziosalmi/synapse-ng",
+      "url": "https://fabriziosalmi.github.io/synapse-ng/",
+      "language": "Python"
+    },
+    {
+      "name": "zitto.net",
+      "repo": "https://github.com/fabriziosalmi/zitto.net",
+      "language": "Elixir"
+    }
+  ]
 }

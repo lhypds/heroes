@@ -10,6 +10,12 @@
   "commits": 17604,
   "repos": [
     {
+      "name": "FeatherQR",
+      "repo": "https://github.com/guitarrapc/FeatherQR",
+      "url": "https://guitarrapc.github.io/SkiaSharp.QrCode/",
+      "language": "C#"
+    },
+    {
       "name": "ol",
       "repo": "https://github.com/guitarrapc/ol",
       "language": "C#"
@@ -35,12 +41,6 @@
       "name": "envoy-lab",
       "repo": "https://github.com/guitarrapc/envoy-lab",
       "language": "Go"
-    },
-    {
-      "name": "FeatherQR",
-      "repo": "https://github.com/guitarrapc/FeatherQR",
-      "url": "https://guitarrapc.github.io/SkiaSharp.QrCode/",
-      "language": "C#"
     },
     {
       "name": "setup-ol",

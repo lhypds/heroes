@@ -6,5 +6,503 @@
   ],
   "website": "https://ricostacruz.com/",
   "bio": "@rstacruz@hachyderm.io",
-  "commits": 10151
+  "own_repos": 305,
+  "commits": 10151,
+  "repos": [
+    {
+      "name": "agentic-toolkit",
+      "repo": "https://github.com/rstacruz/agentic-toolkit",
+      "language": "Shell"
+    },
+    {
+      "name": "vimfiles",
+      "repo": "https://github.com/rstacruz/vimfiles",
+      "language": "Lua"
+    },
+    {
+      "name": "cheatsheets",
+      "repo": "https://github.com/rstacruz/cheatsheets",
+      "url": "https://devhints.io",
+      "language": "SCSS"
+    },
+    {
+      "name": "pamcode",
+      "repo": "https://github.com/rstacruz/pamcode",
+      "language": "Shell"
+    },
+    {
+      "name": "skimmable",
+      "repo": "https://github.com/rstacruz/skimmable",
+      "language": "TypeScript"
+    },
+    {
+      "name": "herdr-dividers",
+      "repo": "https://github.com/rstacruz/herdr-dividers"
+    },
+    {
+      "name": "herdr-workspace-description",
+      "repo": "https://github.com/rstacruz/herdr-workspace-description",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wt-spawn",
+      "repo": "https://github.com/rstacruz/wt-spawn",
+      "language": "Shell"
+    },
+    {
+      "name": "astro-starter-rsc",
+      "repo": "https://github.com/rstacruz/astro-starter-rsc",
+      "language": "Astro"
+    },
+    {
+      "name": "playwright-cdp-skill",
+      "repo": "https://github.com/rstacruz/playwright-cdp-skill",
+      "language": "Shell"
+    },
+    {
+      "name": "slack-bot-skill",
+      "repo": "https://github.com/rstacruz/slack-bot-skill"
+    },
+    {
+      "name": "youtube-transcript",
+      "repo": "https://github.com/rstacruz/youtube-transcript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "my-zmk-config",
+      "repo": "https://github.com/rstacruz/my-zmk-config",
+      "language": "C"
+    },
+    {
+      "name": "tmuxfiles",
+      "repo": "https://github.com/rstacruz/tmuxfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "opencode-autoask",
+      "repo": "https://github.com/rstacruz/opencode-autoask",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vibecheck-llm-attempts",
+      "repo": "https://github.com/rstacruz/vibecheck-llm-attempts",
+      "url": "https://vibecheck.rstacruz.workers.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spec-mode-prompt",
+      "repo": "https://github.com/rstacruz/spec-mode-prompt",
+      "language": "Shell"
+    },
+    {
+      "name": "gh-show-actions-log",
+      "repo": "https://github.com/rstacruz/gh-show-actions-log",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codebase-analysis-prompt",
+      "repo": "https://github.com/rstacruz/codebase-analysis-prompt",
+      "language": "Shell"
+    },
+    {
+      "name": "onmount",
+      "repo": "https://github.com/rstacruz/onmount",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rsjs",
+      "repo": "https://github.com/rstacruz/rsjs"
+    },
+    {
+      "name": "fish-asdf",
+      "repo": "https://github.com/rstacruz/fish-asdf",
+      "language": "Shell"
+    },
+    {
+      "name": "sparkup",
+      "repo": "https://github.com/rstacruz/sparkup",
+      "language": "Python"
+    },
+    {
+      "name": "vim-closer",
+      "repo": "https://github.com/rstacruz/vim-closer",
+      "language": "Vim Script"
+    },
+    {
+      "name": "fishfiles",
+      "repo": "https://github.com/rstacruz/fishfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "authsense",
+      "repo": "https://github.com/rstacruz/authsense",
+      "language": "Elixir"
+    },
+    {
+      "name": "rspec-repeat",
+      "repo": "https://github.com/rstacruz/rspec-repeat",
+      "language": "Ruby"
+    },
+    {
+      "name": "devhints-mirror",
+      "repo": "https://github.com/rstacruz/devhints-mirror",
+      "language": "HTML"
+    },
+    {
+      "name": "ricostacruz-dot-com-discussions",
+      "repo": "https://github.com/rstacruz/ricostacruz-dot-com-discussions"
+    },
+    {
+      "name": "bump-cli",
+      "repo": "https://github.com/rstacruz/bump-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rscss",
+      "repo": "https://github.com/rstacruz/rscss",
+      "url": "https://ricostacruz.com/rscss"
+    },
+    {
+      "name": "flatdoc",
+      "repo": "https://github.com/rstacruz/flatdoc",
+      "language": "CSS"
+    },
+    {
+      "name": "my_qmk_keymaps",
+      "repo": "https://github.com/rstacruz/my_qmk_keymaps",
+      "language": "C"
+    },
+    {
+      "name": "swipeshow",
+      "repo": "https://github.com/rstacruz/swipeshow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "remount",
+      "repo": "https://github.com/rstacruz/remount",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nvim-starter",
+      "repo": "https://github.com/rstacruz/nvim-starter",
+      "language": "Lua"
+    },
+    {
+      "name": "rehype-sectionize",
+      "repo": "https://github.com/rstacruz/rehype-sectionize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tailwind-variable-theming",
+      "repo": "https://github.com/rstacruz/tailwind-variable-theming",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typecat",
+      "repo": "https://github.com/rstacruz/typecat",
+      "url": "https://typecat.now.sh/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ionicons-inline",
+      "repo": "https://github.com/rstacruz/ionicons-inline",
+      "language": "JavaScript"
+    },
+    {
+      "name": "i3-organizer",
+      "repo": "https://github.com/rstacruz/i3-organizer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kingraph",
+      "repo": "https://github.com/rstacruz/kingraph",
+      "language": "JavaScript"
+    },
+    {
+      "name": "penpad",
+      "repo": "https://github.com/rstacruz/penpad",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mocha-jsdom",
+      "repo": "https://github.com/rstacruz/mocha-jsdom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rstacruz",
+      "repo": "https://github.com/rstacruz/rstacruz"
+    },
+    {
+      "name": "vim-coc-settings",
+      "repo": "https://github.com/rstacruz/vim-coc-settings",
+      "language": "Vim Script"
+    },
+    {
+      "name": "hicat",
+      "repo": "https://github.com/rstacruz/hicat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "modern-development",
+      "repo": "https://github.com/rstacruz/modern-development",
+      "url": "https://effective-development.now.sh/",
+      "language": "CSS"
+    },
+    {
+      "name": "dom101",
+      "repo": "https://github.com/rstacruz/dom101",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-from-scratch",
+      "repo": "https://github.com/rstacruz/vim-from-scratch"
+    },
+    {
+      "name": "til-2020",
+      "repo": "https://github.com/rstacruz/til-2020",
+      "url": "https://ricostacruz.com/til/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stylelint-rscss",
+      "repo": "https://github.com/rstacruz/stylelint-rscss",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mdextract",
+      "repo": "https://github.com/rstacruz/mdextract",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nprogress",
+      "repo": "https://github.com/rstacruz/nprogress",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fish-theme-r20",
+      "repo": "https://github.com/rstacruz/fish-theme-r20",
+      "language": "Shell"
+    },
+    {
+      "name": "marp-basetype",
+      "repo": "https://github.com/rstacruz/marp-basetype",
+      "language": "CSS"
+    },
+    {
+      "name": "fish-npm-global",
+      "repo": "https://github.com/rstacruz/fish-npm-global",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-microtone",
+      "repo": "https://github.com/rstacruz/vim-microtone",
+      "language": "Vim Script"
+    },
+    {
+      "name": "webpack-tricks",
+      "repo": "https://github.com/rstacruz/webpack-tricks"
+    },
+    {
+      "name": "jquery.transit",
+      "repo": "https://github.com/rstacruz/jquery.transit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "taskpaper.js",
+      "repo": "https://github.com/rstacruz/taskpaper.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-gitgrep",
+      "repo": "https://github.com/rstacruz/vim-gitgrep",
+      "language": "Vim Script"
+    },
+    {
+      "name": "arch-install-helper",
+      "repo": "https://github.com/rstacruz/arch-install-helper",
+      "language": "Shell"
+    },
+    {
+      "name": "arch-installer",
+      "repo": "https://github.com/rstacruz/arch-installer",
+      "language": "Shell"
+    },
+    {
+      "name": "feh-blur-wallpaper",
+      "repo": "https://github.com/rstacruz/feh-blur-wallpaper",
+      "language": "Shell"
+    },
+    {
+      "name": "rehype-table-separators",
+      "repo": "https://github.com/rstacruz/rehype-table-separators",
+      "language": "JavaScript"
+    },
+    {
+      "name": "js2coffee.py",
+      "repo": "https://github.com/rstacruz/js2coffee.py",
+      "language": "Python"
+    },
+    {
+      "name": "vim-hyperstyle",
+      "repo": "https://github.com/rstacruz/vim-hyperstyle",
+      "language": "Python"
+    },
+    {
+      "name": "vim-xtract",
+      "repo": "https://github.com/rstacruz/vim-xtract",
+      "language": "Vim Script"
+    },
+    {
+      "name": "details-polyfill",
+      "repo": "https://github.com/rstacruz/details-polyfill",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eleventy-parcel-demo",
+      "repo": "https://github.com/rstacruz/eleventy-parcel-demo",
+      "language": "Nunjucks"
+    },
+    {
+      "name": "npm-pipeline-rails",
+      "repo": "https://github.com/rstacruz/npm-pipeline-rails",
+      "language": "Ruby"
+    },
+    {
+      "name": "iconfonts",
+      "repo": "https://github.com/rstacruz/iconfonts",
+      "language": "CSS"
+    },
+    {
+      "name": "oec-guide",
+      "repo": "https://github.com/rstacruz/oec-guide",
+      "language": "CSS"
+    },
+    {
+      "name": "cheatsheets-ng",
+      "repo": "https://github.com/rstacruz/cheatsheets-ng",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scour",
+      "repo": "https://github.com/rstacruz/scour",
+      "language": "JavaScript"
+    },
+    {
+      "name": "prettier-plugin-markdown-code-fences",
+      "repo": "https://github.com/rstacruz/prettier-plugin-markdown-code-fences",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jsdom-global",
+      "repo": "https://github.com/rstacruz/jsdom-global",
+      "language": "JavaScript"
+    },
+    {
+      "name": "what-do-you-call-this-in-javascript",
+      "repo": "https://github.com/rstacruz/what-do-you-call-this-in-javascript"
+    },
+    {
+      "name": "cron-scheduler",
+      "repo": "https://github.com/rstacruz/cron-scheduler",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-prlog",
+      "repo": "https://github.com/rstacruz/git-prlog",
+      "language": "Shell"
+    },
+    {
+      "name": "tape-watch",
+      "repo": "https://github.com/rstacruz/tape-watch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "responsive-modular-scale.css",
+      "repo": "https://github.com/rstacruz/responsive-modular-scale.css"
+    },
+    {
+      "name": "rrlemon",
+      "repo": "https://github.com/rstacruz/rrlemon",
+      "language": "Shell"
+    },
+    {
+      "name": "userstyles",
+      "repo": "https://github.com/rstacruz/userstyles",
+      "language": "CSS"
+    },
+    {
+      "name": "diceware-password",
+      "repo": "https://github.com/rstacruz/diceware-password",
+      "language": "Rust"
+    },
+    {
+      "name": "react-meta-elements",
+      "repo": "https://github.com/rstacruz/react-meta-elements",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rehype-decorate",
+      "repo": "https://github.com/rstacruz/rehype-decorate",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slack-emoji-magic",
+      "repo": "https://github.com/rstacruz/slack-emoji-magic",
+      "language": "Makefile"
+    },
+    {
+      "name": "klwp-presets",
+      "repo": "https://github.com/rstacruz/klwp-presets"
+    },
+    {
+      "name": "til-2013",
+      "repo": "https://github.com/rstacruz/til-2013",
+      "language": "CSS"
+    },
+    {
+      "name": "rehype-wrapify",
+      "repo": "https://github.com/rstacruz/rehype-wrapify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ractive-touch",
+      "repo": "https://github.com/rstacruz/ractive-touch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "remount-elm",
+      "repo": "https://github.com/rstacruz/remount-elm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "metalsmith-start",
+      "repo": "https://github.com/rstacruz/metalsmith-start",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bookmarks",
+      "repo": "https://github.com/rstacruz/bookmarks"
+    },
+    {
+      "name": "rsui",
+      "repo": "https://github.com/rstacruz/rsui",
+      "url": "https://codesandbox.io/s/github/rstacruz/rsui",
+      "language": "CSS"
+    },
+    {
+      "name": "firefox-stealthfox",
+      "repo": "https://github.com/rstacruz/firefox-stealthfox",
+      "language": "CSS"
+    },
+    {
+      "name": "grub-theme-bandersnatch",
+      "repo": "https://github.com/rstacruz/grub-theme-bandersnatch",
+      "language": "Makefile"
+    },
+    {
+      "name": "passtime",
+      "repo": "https://github.com/rstacruz/passtime",
+      "language": "JavaScript"
+    }
+  ]
 }

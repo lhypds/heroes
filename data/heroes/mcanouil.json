@@ -10,6 +10,11 @@
   "commits": 12127,
   "repos": [
     {
+      "name": "quarto-lua-modules",
+      "repo": "https://github.com/mcanouil/quarto-lua-modules",
+      "language": "Lua"
+    },
+    {
       "name": "quarto-wizard",
       "repo": "https://github.com/mcanouil/quarto-wizard",
       "url": "https://m.canouil.dev/quarto-wizard/",
@@ -242,11 +247,6 @@
       "repo": "https://github.com/mcanouil/quarto-atelier",
       "url": "https://m.canouil.dev/quarto-atelier/",
       "language": "SCSS"
-    },
-    {
-      "name": "quarto-lua-modules",
-      "repo": "https://github.com/mcanouil/quarto-lua-modules",
-      "language": "Lua"
     },
     {
       "name": "quarto-pastel",

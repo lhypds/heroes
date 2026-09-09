@@ -5,6 +5,529 @@
     "https://github.com/threeal"
   ],
   "bio": "https://youtu.be/UuzA4U1njO8",
+  "own_repos": 102,
   "commits": 11092,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "action-starter",
+      "repo": "https://github.com/threeal/action-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "leetspace",
+      "repo": "https://github.com/threeal/leetspace",
+      "url": "https://leetcode.com/threeal",
+      "language": "C++"
+    },
+    {
+      "name": "gcovr-action",
+      "repo": "https://github.com/threeal/gcovr-action",
+      "url": "https://github.com/marketplace/actions/gcovr-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-starter",
+      "repo": "https://github.com/threeal/react-starter",
+      "url": "https://threeal.github.io/react-starter/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nodejs-starter",
+      "repo": "https://github.com/threeal/nodejs-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": ".claude",
+      "repo": "https://github.com/threeal/.claude",
+      "language": "Shell"
+    },
+    {
+      "name": "leettest",
+      "repo": "https://github.com/threeal/leettest",
+      "language": "TypeScript"
+    },
+    {
+      "name": "greenwall",
+      "repo": "https://github.com/threeal/greenwall",
+      "url": "https://threeal.github.io/greenwall/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "setup-pnpm-action",
+      "repo": "https://github.com/threeal/setup-pnpm-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cofre",
+      "repo": "https://github.com/threeal/cofre",
+      "url": "https://threeal.github.io/cofre",
+      "language": "TypeScript"
+    },
+    {
+      "name": "setup-yarn-action",
+      "repo": "https://github.com/threeal/setup-yarn-action",
+      "url": "https://github.com/marketplace/actions/setup-yarn-berry",
+      "language": "TypeScript"
+    },
+    {
+      "name": "python-starter",
+      "repo": "https://github.com/threeal/python-starter",
+      "language": "Python"
+    },
+    {
+      "name": "ctest-action",
+      "repo": "https://github.com/threeal/ctest-action",
+      "url": "https://github.com/marketplace/actions/ctest-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "google-rank",
+      "repo": "https://github.com/threeal/google-rank",
+      "url": "https://www.npmjs.com/package/google-rank",
+      "language": "TypeScript"
+    },
+    {
+      "name": "canudev",
+      "repo": "https://github.com/threeal/canudev",
+      "language": "Shell"
+    },
+    {
+      "name": "pipx-install-action",
+      "repo": "https://github.com/threeal/pipx-install-action",
+      "url": "https://threeal.github.io/pipx-install-action/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "diffusion-gen",
+      "repo": "https://github.com/threeal/diffusion-gen",
+      "url": "https://threeal.github.io/diffusion-gen/",
+      "language": "Python"
+    },
+    {
+      "name": "whatscraper",
+      "repo": "https://github.com/threeal/whatscraper",
+      "language": "TypeScript"
+    },
+    {
+      "name": "category-counter-app",
+      "repo": "https://github.com/threeal/category-counter-app",
+      "url": "https://threeal.github.io/category-counter-app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "full-stack-starter",
+      "repo": "https://github.com/threeal/full-stack-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-dependents",
+      "repo": "https://github.com/threeal/github-dependents",
+      "url": "https://threeal.github.io/github-dependents/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gift-box",
+      "repo": "https://github.com/threeal/gift-box",
+      "url": "https://threeal.github.io/gift-box/",
+      "language": "HTML"
+    },
+    {
+      "name": "threeal",
+      "repo": "https://github.com/threeal/threeal",
+      "url": "https://github.com/threeal/"
+    },
+    {
+      "name": "project-starter",
+      "repo": "https://github.com/threeal/project-starter"
+    },
+    {
+      "name": "ghakit",
+      "repo": "https://github.com/threeal/ghakit",
+      "url": "https://threeal.github.io/ghakit/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "result",
+      "repo": "https://github.com/threeal/result",
+      "url": "https://threeal.github.io/result/",
+      "language": "C++"
+    },
+    {
+      "name": "math",
+      "repo": "https://github.com/threeal/math",
+      "url": "https://threeal.github.io/math/",
+      "language": "C++"
+    },
+    {
+      "name": "cache-action",
+      "repo": "https://github.com/threeal/cache-action",
+      "url": "https://threeal.github.io/cache-action/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "git-checkout-cmake",
+      "repo": "https://github.com/threeal/git-checkout-cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "composite-action-starter",
+      "repo": "https://github.com/threeal/composite-action-starter"
+    },
+    {
+      "name": "errors-cpp",
+      "repo": "https://github.com/threeal/errors-cpp",
+      "url": "https://threeal.github.io/errors-cpp/",
+      "language": "C++"
+    },
+    {
+      "name": "discord-bot-starter",
+      "repo": "https://github.com/threeal/discord-bot-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "args-quote",
+      "repo": "https://github.com/threeal/args-quote",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kill-process-go",
+      "repo": "https://github.com/threeal/kill-process-go",
+      "language": "Go"
+    },
+    {
+      "name": "shell-go",
+      "repo": "https://github.com/threeal/shell-go",
+      "language": "Go"
+    },
+    {
+      "name": "flow-go",
+      "repo": "https://github.com/threeal/flow-go",
+      "language": "Go"
+    },
+    {
+      "name": "go-starter",
+      "repo": "https://github.com/threeal/go-starter",
+      "language": "Go"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/threeal/blog",
+      "language": "Astro"
+    },
+    {
+      "name": "cmake-action",
+      "repo": "https://github.com/threeal/cmake-action",
+      "url": "https://github.com/marketplace/actions/cmake-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "leetspace-starter",
+      "repo": "https://github.com/threeal/leetspace-starter",
+      "language": "C++"
+    },
+    {
+      "name": "setup-lefthook-action",
+      "repo": "https://github.com/threeal/setup-lefthook-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "volume-cpp",
+      "repo": "https://github.com/threeal/volume-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "cmake-starter",
+      "repo": "https://github.com/threeal/cmake-starter",
+      "language": "CMake"
+    },
+    {
+      "name": "CDeps.cmake",
+      "repo": "https://github.com/threeal/CDeps.cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "CheckWarning.cmake",
+      "repo": "https://github.com/threeal/CheckWarning.cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "FixFormat.cmake",
+      "repo": "https://github.com/threeal/FixFormat.cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "cpp-starter",
+      "repo": "https://github.com/threeal/cpp-starter",
+      "language": "CMake"
+    },
+    {
+      "name": "assertion-cmake",
+      "repo": "https://github.com/threeal/assertion-cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "git-submodule-example",
+      "repo": "https://github.com/threeal/git-submodule-example"
+    },
+    {
+      "name": "leettest-action",
+      "repo": "https://github.com/threeal/leettest-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aoc-space",
+      "repo": "https://github.com/threeal/aoc-space",
+      "language": "C++"
+    },
+    {
+      "name": "setup-go-cmake",
+      "repo": "https://github.com/threeal/setup-go-cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "setup-qt-cmake",
+      "repo": "https://github.com/threeal/setup-qt-cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "setup-poetry-action",
+      "repo": "https://github.com/threeal/setup-poetry-action"
+    },
+    {
+      "name": "python-cpp-bindings-starter",
+      "repo": "https://github.com/threeal/python-cpp-bindings-starter",
+      "language": "Python"
+    },
+    {
+      "name": "rust-starter",
+      "repo": "https://github.com/threeal/rust-starter",
+      "language": "Rust"
+    },
+    {
+      "name": "cursers",
+      "repo": "https://github.com/threeal/cursers",
+      "url": "https://threeal.github.io/cursers/",
+      "language": "Python"
+    },
+    {
+      "name": "minimal-act-policy",
+      "repo": "https://github.com/threeal/minimal-act-policy",
+      "language": "Python"
+    },
+    {
+      "name": "piper-kit",
+      "repo": "https://github.com/threeal/piper-kit",
+      "url": "https://threeal.github.io/piper-kit/",
+      "language": "Python"
+    },
+    {
+      "name": "CheckCoverage.cmake",
+      "repo": "https://github.com/threeal/CheckCoverage.cmake",
+      "language": "CMake"
+    },
+    {
+      "name": "bro",
+      "repo": "https://github.com/threeal/bro",
+      "language": "Go"
+    },
+    {
+      "name": "upwork-notifier-bot",
+      "repo": "https://github.com/threeal/upwork-notifier-bot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "buku-kp-ati-warehouse",
+      "repo": "https://github.com/threeal/buku-kp-ati-warehouse",
+      "language": "TeX"
+    },
+    {
+      "name": "minimal-animatediff",
+      "repo": "https://github.com/threeal/minimal-animatediff",
+      "language": "Python"
+    },
+    {
+      "name": "actions-kit",
+      "repo": "https://github.com/threeal/actions-kit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "doxycode",
+      "repo": "https://github.com/threeal/doxycode",
+      "language": "Python"
+    },
+    {
+      "name": "spotify-recommendations",
+      "repo": "https://github.com/threeal/spotify-recommendations",
+      "language": "Python"
+    },
+    {
+      "name": "angka",
+      "repo": "https://github.com/threeal/angka",
+      "language": "Rust"
+    },
+    {
+      "name": "buku-ta-simulasi-robot",
+      "repo": "https://github.com/threeal/buku-ta-simulasi-robot",
+      "language": "TeX"
+    },
+    {
+      "name": "beine_gazebo_plugins",
+      "repo": "https://github.com/threeal/beine_gazebo_plugins",
+      "language": "C++"
+    },
+    {
+      "name": "beine",
+      "repo": "https://github.com/threeal/beine",
+      "language": "C++"
+    },
+    {
+      "name": "dienen_behaviors",
+      "repo": "https://github.com/threeal/dienen_behaviors",
+      "language": "C++"
+    },
+    {
+      "name": "dienen_gazebo_plugins",
+      "repo": "https://github.com/threeal/dienen_gazebo_plugins",
+      "language": "C++"
+    },
+    {
+      "name": "ros2_mediapipe",
+      "repo": "https://github.com/threeal/ros2_mediapipe",
+      "language": "Python"
+    },
+    {
+      "name": "robotics-simulation-paper",
+      "repo": "https://github.com/threeal/robotics-simulation-paper",
+      "language": "TeX"
+    },
+    {
+      "name": "github-report",
+      "repo": "https://github.com/threeal/github-report",
+      "language": "C++"
+    },
+    {
+      "name": "dienen_gazebo_sim",
+      "repo": "https://github.com/threeal/dienen_gazebo_sim",
+      "language": "Python"
+    },
+    {
+      "name": "tosshin",
+      "repo": "https://github.com/threeal/tosshin",
+      "language": "C++"
+    },
+    {
+      "name": "dienen_controller",
+      "repo": "https://github.com/threeal/dienen_controller",
+      "language": "C++"
+    },
+    {
+      "name": "ros2_kinect2",
+      "repo": "https://github.com/threeal/ros2_kinect2",
+      "language": "C++"
+    },
+    {
+      "name": "deb-cpack-template",
+      "repo": "https://github.com/threeal/deb-cpack-template",
+      "language": "CMake"
+    },
+    {
+      "name": "libfreenect2-deb",
+      "repo": "https://github.com/threeal/libfreenect2-deb",
+      "language": "CMake"
+    },
+    {
+      "name": "shisen_gazebo_plugins",
+      "repo": "https://github.com/threeal/shisen_gazebo_plugins",
+      "language": "C++"
+    },
+    {
+      "name": "proposal-ta-simulasi-robot",
+      "repo": "https://github.com/threeal/proposal-ta-simulasi-robot",
+      "language": "TeX"
+    },
+    {
+      "name": "beine_dienen_legs",
+      "repo": "https://github.com/threeal/beine_dienen_legs",
+      "language": "C++"
+    },
+    {
+      "name": "libargparse-deb",
+      "repo": "https://github.com/threeal/libargparse-deb",
+      "language": "CMake"
+    },
+    {
+      "name": "librtabmap-deb",
+      "repo": "https://github.com/threeal/librtabmap-deb",
+      "language": "CMake"
+    },
+    {
+      "name": "tosshin-app",
+      "repo": "https://github.com/threeal/tosshin-app",
+      "url": "https://threeal.github.io/tosshin-app/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sunny-land",
+      "repo": "https://github.com/threeal/sunny-land",
+      "language": "C++"
+    },
+    {
+      "name": "golden-age-nusantara",
+      "repo": "https://github.com/threeal/golden-age-nusantara",
+      "language": "C#"
+    },
+    {
+      "name": "ati-warehouse",
+      "repo": "https://github.com/threeal/ati-warehouse",
+      "url": "https://ati-warehouse.herokuapp.com/",
+      "language": "Vue"
+    },
+    {
+      "name": "omf-plugin-update-date",
+      "repo": "https://github.com/threeal/omf-plugin-update-date",
+      "language": "Shell"
+    },
+    {
+      "name": "surabaya-2048",
+      "repo": "https://github.com/threeal/surabaya-2048",
+      "language": "C#"
+    },
+    {
+      "name": "smart-tourism-app",
+      "repo": "https://github.com/threeal/smart-tourism-app",
+      "language": "Kotlin"
+    },
+    {
+      "name": "nodemcu_mqtt_example",
+      "repo": "https://github.com/threeal/nodemcu_mqtt_example",
+      "language": "C++"
+    },
+    {
+      "name": "mosquitto_example",
+      "repo": "https://github.com/threeal/mosquitto_example",
+      "language": "C++"
+    },
+    {
+      "name": "ros2_latency",
+      "repo": "https://github.com/threeal/ros2_latency",
+      "language": "C++"
+    },
+    {
+      "name": "repo",
+      "repo": "https://github.com/threeal/repo",
+      "url": "https://threeal.github.io/repo/",
+      "language": "Shell"
+    },
+    {
+      "name": "libopencv4-deb",
+      "repo": "https://github.com/threeal/libopencv4-deb",
+      "language": "CMake"
+    },
+    {
+      "name": "Simple-Web",
+      "repo": "https://github.com/threeal/Simple-Web",
+      "language": "C++"
+    }
+  ]
 }

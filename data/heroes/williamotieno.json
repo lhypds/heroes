@@ -6,5 +6,504 @@
   ],
   "website": "https://homelab.tech4granted.com/",
   "bio": "Software Craftsman.",
-  "commits": 290288
+  "own_repos": 125,
+  "commits": 290288,
+  "repos": [
+    {
+      "name": "WilliamOtieno",
+      "repo": "https://github.com/WilliamOtieno/WilliamOtieno"
+    },
+    {
+      "name": "nvim",
+      "repo": "https://github.com/WilliamOtieno/nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "QR_BarCode_scanner",
+      "repo": "https://github.com/WilliamOtieno/QR_BarCode_scanner",
+      "language": "Python"
+    },
+    {
+      "name": "ObjectDetection",
+      "repo": "https://github.com/WilliamOtieno/ObjectDetection",
+      "language": "Python"
+    },
+    {
+      "name": "ObjectMeasurement",
+      "repo": "https://github.com/WilliamOtieno/ObjectMeasurement",
+      "language": "Python"
+    },
+    {
+      "name": "alacritty-config",
+      "repo": "https://github.com/WilliamOtieno/alacritty-config"
+    },
+    {
+      "name": "zsh-config",
+      "repo": "https://github.com/WilliamOtieno/zsh-config",
+      "language": "Shell"
+    },
+    {
+      "name": "python-flutterwave",
+      "repo": "https://github.com/WilliamOtieno/python-flutterwave",
+      "url": "https://pypi.org/project/python-flutterwave/",
+      "language": "Python"
+    },
+    {
+      "name": "opencvpi",
+      "repo": "https://github.com/WilliamOtieno/opencvpi",
+      "language": "Python"
+    },
+    {
+      "name": "TextDetection",
+      "repo": "https://github.com/WilliamOtieno/TextDetection",
+      "language": "Python"
+    },
+    {
+      "name": "custom_nvim",
+      "repo": "https://github.com/WilliamOtieno/custom_nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "yalb",
+      "repo": "https://github.com/WilliamOtieno/yalb",
+      "language": "Go"
+    },
+    {
+      "name": "AyullaAsset",
+      "repo": "https://github.com/WilliamOtieno/AyullaAsset",
+      "language": "Python"
+    },
+    {
+      "name": "python-daraja",
+      "repo": "https://github.com/WilliamOtieno/python-daraja",
+      "url": "https://pypi.org/project/python-daraja/",
+      "language": "Python"
+    },
+    {
+      "name": "butler",
+      "repo": "https://github.com/WilliamOtieno/butler",
+      "language": "Go"
+    },
+    {
+      "name": "dj-easy-pdf",
+      "repo": "https://github.com/WilliamOtieno/dj-easy-pdf",
+      "language": "Python"
+    },
+    {
+      "name": "eagle-eye-backend",
+      "repo": "https://github.com/WilliamOtieno/eagle-eye-backend",
+      "language": "Python"
+    },
+    {
+      "name": "DigitClassification",
+      "repo": "https://github.com/WilliamOtieno/DigitClassification",
+      "language": "Python"
+    },
+    {
+      "name": "SpotifyAutobot",
+      "repo": "https://github.com/WilliamOtieno/SpotifyAutobot",
+      "language": "Python"
+    },
+    {
+      "name": "AutoChat",
+      "repo": "https://github.com/WilliamOtieno/AutoChat",
+      "language": "Python"
+    },
+    {
+      "name": "weather_app",
+      "repo": "https://github.com/WilliamOtieno/weather_app",
+      "language": "Python"
+    },
+    {
+      "name": "priv",
+      "repo": "https://github.com/WilliamOtieno/priv",
+      "language": "Python"
+    },
+    {
+      "name": "moringa_git",
+      "repo": "https://github.com/WilliamOtieno/moringa_git",
+      "language": "HTML"
+    },
+    {
+      "name": "django-flutterwave",
+      "repo": "https://github.com/WilliamOtieno/django-flutterwave",
+      "language": "Python"
+    },
+    {
+      "name": "ksb",
+      "repo": "https://github.com/WilliamOtieno/ksb",
+      "language": "Python"
+    },
+    {
+      "name": "django_compose",
+      "repo": "https://github.com/WilliamOtieno/django_compose",
+      "language": "Python"
+    },
+    {
+      "name": "MyLiving_Backend",
+      "repo": "https://github.com/WilliamOtieno/MyLiving_Backend",
+      "language": "Python"
+    },
+    {
+      "name": "BurgerPlace",
+      "repo": "https://github.com/WilliamOtieno/BurgerPlace",
+      "language": "Python"
+    },
+    {
+      "name": "WMA_Flutterwave_API",
+      "repo": "https://github.com/WilliamOtieno/WMA_Flutterwave_API",
+      "language": "Python"
+    },
+    {
+      "name": "GH-Unfollower",
+      "repo": "https://github.com/WilliamOtieno/GH-Unfollower",
+      "language": "Python"
+    },
+    {
+      "name": "DevChat",
+      "repo": "https://github.com/WilliamOtieno/DevChat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "farmstack_backend",
+      "repo": "https://github.com/WilliamOtieno/farmstack_backend",
+      "language": "Python"
+    },
+    {
+      "name": "shop_elarian",
+      "repo": "https://github.com/WilliamOtieno/shop_elarian",
+      "language": "Python"
+    },
+    {
+      "name": "elarian-core",
+      "repo": "https://github.com/WilliamOtieno/elarian-core",
+      "language": "Python"
+    },
+    {
+      "name": "elarian_py",
+      "repo": "https://github.com/WilliamOtieno/elarian_py",
+      "language": "Python"
+    },
+    {
+      "name": "elarian-backend",
+      "repo": "https://github.com/WilliamOtieno/elarian-backend",
+      "language": "Python"
+    },
+    {
+      "name": "APM",
+      "repo": "https://github.com/WilliamOtieno/APM",
+      "language": "TypeScript"
+    },
+    {
+      "name": "e-commerce",
+      "repo": "https://github.com/WilliamOtieno/e-commerce",
+      "language": "Python"
+    },
+    {
+      "name": "startup-script",
+      "repo": "https://github.com/WilliamOtieno/startup-script",
+      "language": "Shell"
+    },
+    {
+      "name": "job_pale_mtaa",
+      "repo": "https://github.com/WilliamOtieno/job_pale_mtaa",
+      "language": "HTML"
+    },
+    {
+      "name": "SpringBoot",
+      "repo": "https://github.com/WilliamOtieno/SpringBoot",
+      "language": "Java"
+    },
+    {
+      "name": "TaskTrackerNg",
+      "repo": "https://github.com/WilliamOtieno/TaskTrackerNg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gooa-prod",
+      "repo": "https://github.com/WilliamOtieno/gooa-prod",
+      "language": "JavaScript"
+    },
+    {
+      "name": "portfolio",
+      "repo": "https://github.com/WilliamOtieno/portfolio",
+      "language": "CSS"
+    },
+    {
+      "name": "Wave",
+      "repo": "https://github.com/WilliamOtieno/Wave",
+      "language": "JavaScript"
+    },
+    {
+      "name": "RabbitMQ_python",
+      "repo": "https://github.com/WilliamOtieno/RabbitMQ_python",
+      "language": "Python"
+    },
+    {
+      "name": "Music_OSS",
+      "repo": "https://github.com/WilliamOtieno/Music_OSS",
+      "language": "Python"
+    },
+    {
+      "name": "LeadManager_ReactDjango",
+      "repo": "https://github.com/WilliamOtieno/LeadManager_ReactDjango",
+      "language": "Python"
+    },
+    {
+      "name": "Garage_Hub",
+      "repo": "https://github.com/WilliamOtieno/Garage_Hub",
+      "language": "CSS"
+    },
+    {
+      "name": "URL_Shortener",
+      "repo": "https://github.com/WilliamOtieno/URL_Shortener",
+      "language": "EJS"
+    },
+    {
+      "name": "CRM_System",
+      "repo": "https://github.com/WilliamOtieno/CRM_System",
+      "language": "JavaScript"
+    },
+    {
+      "name": "GarageHub",
+      "repo": "https://github.com/WilliamOtieno/GarageHub",
+      "language": "JavaScript"
+    },
+    {
+      "name": "AppointmentScheduler",
+      "repo": "https://github.com/WilliamOtieno/AppointmentScheduler",
+      "language": "Python"
+    },
+    {
+      "name": "social_net",
+      "repo": "https://github.com/WilliamOtieno/social_net",
+      "language": "Python"
+    },
+    {
+      "name": "spring-boot-app",
+      "repo": "https://github.com/WilliamOtieno/spring-boot-app"
+    },
+    {
+      "name": "easy-software-react-app",
+      "repo": "https://github.com/WilliamOtieno/easy-software-react-app"
+    },
+    {
+      "name": "fish_config",
+      "repo": "https://github.com/WilliamOtieno/fish_config",
+      "language": "Shell"
+    },
+    {
+      "name": "microservices_admin",
+      "repo": "https://github.com/WilliamOtieno/microservices_admin",
+      "language": "Python"
+    },
+    {
+      "name": "exercise-tracker",
+      "repo": "https://github.com/WilliamOtieno/exercise-tracker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "LibraryManagement",
+      "repo": "https://github.com/WilliamOtieno/LibraryManagement",
+      "language": "HTML"
+    },
+    {
+      "name": "VehicleTracker",
+      "repo": "https://github.com/WilliamOtieno/VehicleTracker",
+      "language": "Python"
+    },
+    {
+      "name": "Euclid_Bezout",
+      "repo": "https://github.com/WilliamOtieno/Euclid_Bezout",
+      "language": "Python"
+    },
+    {
+      "name": "HandTracking",
+      "repo": "https://github.com/WilliamOtieno/HandTracking",
+      "language": "Python"
+    },
+    {
+      "name": "IP_Sniffer",
+      "repo": "https://github.com/WilliamOtieno/IP_Sniffer",
+      "language": "Rust"
+    },
+    {
+      "name": "PySerial",
+      "repo": "https://github.com/WilliamOtieno/PySerial",
+      "language": "Python"
+    },
+    {
+      "name": "blog_app",
+      "repo": "https://github.com/WilliamOtieno/blog_app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "DataStructuresAlgos",
+      "repo": "https://github.com/WilliamOtieno/DataStructuresAlgos",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Python_ML",
+      "repo": "https://github.com/WilliamOtieno/Python_ML",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "LeadManager",
+      "repo": "https://github.com/WilliamOtieno/LeadManager"
+    },
+    {
+      "name": "TaskTracker",
+      "repo": "https://github.com/WilliamOtieno/TaskTracker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "StockMarket",
+      "repo": "https://github.com/WilliamOtieno/StockMarket",
+      "language": "Python"
+    },
+    {
+      "name": "weebontech",
+      "repo": "https://github.com/WilliamOtieno/weebontech",
+      "language": "JavaScript"
+    },
+    {
+      "name": "3d-printer-firmware",
+      "repo": "https://github.com/WilliamOtieno/3d-printer-firmware",
+      "language": "C++"
+    },
+    {
+      "name": "africastalking_sms",
+      "repo": "https://github.com/WilliamOtieno/africastalking_sms",
+      "language": "Python"
+    },
+    {
+      "name": "ChatMe",
+      "repo": "https://github.com/WilliamOtieno/ChatMe",
+      "language": "Python"
+    },
+    {
+      "name": "linkedOut",
+      "repo": "https://github.com/WilliamOtieno/linkedOut",
+      "language": "Python"
+    },
+    {
+      "name": "SamaritanSpeech",
+      "repo": "https://github.com/WilliamOtieno/SamaritanSpeech",
+      "language": "Python"
+    },
+    {
+      "name": "phone_num_info",
+      "repo": "https://github.com/WilliamOtieno/phone_num_info",
+      "language": "Python"
+    },
+    {
+      "name": "adafruit_pn532",
+      "repo": "https://github.com/WilliamOtieno/adafruit_pn532",
+      "language": "C++"
+    },
+    {
+      "name": "django_blog",
+      "repo": "https://github.com/WilliamOtieno/django_blog",
+      "language": "Python"
+    },
+    {
+      "name": "tcp_chat",
+      "repo": "https://github.com/WilliamOtieno/tcp_chat",
+      "language": "Python"
+    },
+    {
+      "name": "WilliamOtieno.github.io",
+      "repo": "https://github.com/WilliamOtieno/WilliamOtieno.github.io"
+    },
+    {
+      "name": "Samaritan",
+      "repo": "https://github.com/WilliamOtieno/Samaritan",
+      "language": "Python"
+    },
+    {
+      "name": "discordbot",
+      "repo": "https://github.com/WilliamOtieno/discordbot",
+      "language": "Python"
+    },
+    {
+      "name": "gooa-freighters",
+      "repo": "https://github.com/WilliamOtieno/gooa-freighters",
+      "language": "HTML"
+    },
+    {
+      "name": "sudokuSolver",
+      "repo": "https://github.com/WilliamOtieno/sudokuSolver",
+      "language": "Python"
+    },
+    {
+      "name": "binarySearch",
+      "repo": "https://github.com/WilliamOtieno/binarySearch",
+      "language": "Python"
+    },
+    {
+      "name": "TicTacToe",
+      "repo": "https://github.com/WilliamOtieno/TicTacToe",
+      "language": "Python"
+    },
+    {
+      "name": "awesome-config",
+      "repo": "https://github.com/WilliamOtieno/awesome-config",
+      "language": "Lua"
+    },
+    {
+      "name": "DiceRoller",
+      "repo": "https://github.com/WilliamOtieno/DiceRoller",
+      "language": "Kotlin"
+    },
+    {
+      "name": "telusko",
+      "repo": "https://github.com/WilliamOtieno/telusko",
+      "language": "CSS"
+    },
+    {
+      "name": "sample",
+      "repo": "https://github.com/WilliamOtieno/sample",
+      "language": "Python"
+    },
+    {
+      "name": "openwaredummy",
+      "repo": "https://github.com/WilliamOtieno/openwaredummy",
+      "language": "HTML"
+    },
+    {
+      "name": "devstuff",
+      "repo": "https://github.com/WilliamOtieno/devstuff",
+      "language": "Python"
+    },
+    {
+      "name": "joystick-servo",
+      "repo": "https://github.com/WilliamOtieno/joystick-servo",
+      "language": "C++"
+    },
+    {
+      "name": "nlp_nlu",
+      "repo": "https://github.com/WilliamOtieno/nlp_nlu",
+      "language": "Python"
+    },
+    {
+      "name": "L298N",
+      "repo": "https://github.com/WilliamOtieno/L298N",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/WilliamOtieno/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "riced-awesome",
+      "repo": "https://github.com/WilliamOtieno/riced-awesome",
+      "language": "Lua"
+    },
+    {
+      "name": "minimalist-awesome-config",
+      "repo": "https://github.com/WilliamOtieno/minimalist-awesome-config",
+      "language": "Lua"
+    }
+  ]
 }

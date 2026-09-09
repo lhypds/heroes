@@ -5,16 +5,21 @@
     "https://github.com/simonw"
   ],
   "website": "https://simonwillison.net/",
-  "own_repos": 649,
+  "own_repos": 650,
   "commits": 12611,
   "repos": [
     {
-      "name": "scrape-fema-shelters",
-      "repo": "https://github.com/simonw/scrape-fema-shelters"
+      "name": "package-stats",
+      "repo": "https://github.com/simonw/package-stats",
+      "language": "Python"
     },
     {
       "name": "pge-outages",
       "repo": "https://github.com/simonw/pge-outages"
+    },
+    {
+      "name": "scrape-fema-shelters",
+      "repo": "https://github.com/simonw/scrape-fema-shelters"
     },
     {
       "name": "scrape-hacker-news-by-domain",
@@ -22,12 +27,24 @@
       "language": "JavaScript"
     },
     {
+      "name": "simonw",
+      "repo": "https://github.com/simonw/simonw",
+      "url": "https://github.com/simonw",
+      "language": "Python"
+    },
+    {
       "name": "usgs-scraper",
       "repo": "https://github.com/simonw/usgs-scraper"
     },
     {
-      "name": "package-stats",
-      "repo": "https://github.com/simonw/package-stats",
+      "name": "commit-rewriter",
+      "repo": "https://github.com/simonw/commit-rewriter",
+      "language": "Python"
+    },
+    {
+      "name": "recent-california-brown-pelicans",
+      "repo": "https://github.com/simonw/recent-california-brown-pelicans",
+      "url": "https://simonw.github.io/recent-california-brown-pelicans/atom.xml",
       "language": "Python"
     },
     {
@@ -49,12 +66,6 @@
       "repo": "https://github.com/simonw/scrape-faa-releasable-aircraft"
     },
     {
-      "name": "simonw",
-      "repo": "https://github.com/simonw/simonw",
-      "url": "https://github.com/simonw",
-      "language": "Python"
-    },
-    {
       "name": "uv-init-demos",
       "repo": "https://github.com/simonw/uv-init-demos",
       "language": "Shell"
@@ -68,12 +79,6 @@
       "name": "simonwillisonblog-backup",
       "repo": "https://github.com/simonw/simonwillisonblog-backup",
       "url": "https://datasette.simonwillison.net"
-    },
-    {
-      "name": "recent-california-brown-pelicans",
-      "repo": "https://github.com/simonw/recent-california-brown-pelicans",
-      "url": "https://simonw.github.io/recent-california-brown-pelicans/atom.xml",
-      "language": "Python"
     },
     {
       "name": "datasette",
@@ -514,11 +519,6 @@
     {
       "name": "bandwidther",
       "repo": "https://github.com/simonw/bandwidther",
-      "language": "Swift"
-    },
-    {
-      "name": "gpuer",
-      "repo": "https://github.com/simonw/gpuer",
       "language": "Swift"
     }
   ]

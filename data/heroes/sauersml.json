@@ -4,6 +4,496 @@
   "github": [
     "https://github.com/sauersml"
   ],
+  "own_repos": 107,
   "commits": 36351,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "ferromic",
+      "repo": "https://github.com/SauersML/ferromic",
+      "language": "Python"
+    },
+    {
+      "name": "gam",
+      "repo": "https://github.com/SauersML/gam",
+      "language": "Rust"
+    },
+    {
+      "name": "group-approximation",
+      "repo": "https://github.com/SauersML/group-approximation",
+      "language": "Lean"
+    },
+    {
+      "name": "gnomon",
+      "repo": "https://github.com/SauersML/gnomon",
+      "language": "Lean"
+    },
+    {
+      "name": "convert_genome",
+      "repo": "https://github.com/SauersML/convert_genome",
+      "language": "Rust"
+    },
+    {
+      "name": "opt",
+      "repo": "https://github.com/SauersML/opt",
+      "language": "Rust"
+    },
+    {
+      "name": "ferromic_benchmark",
+      "repo": "https://github.com/SauersML/ferromic_benchmark",
+      "language": "Python"
+    },
+    {
+      "name": "pathogenic",
+      "repo": "https://github.com/SauersML/pathogenic",
+      "language": "Rust"
+    },
+    {
+      "name": "params",
+      "repo": "https://github.com/SauersML/params",
+      "language": "Lean"
+    },
+    {
+      "name": "Cairn",
+      "repo": "https://github.com/SauersML/Cairn",
+      "language": "Python"
+    },
+    {
+      "name": "Descent",
+      "repo": "https://github.com/SauersML/Descent",
+      "language": "Lean"
+    },
+    {
+      "name": "recursive-alignment-site",
+      "repo": "https://github.com/SauersML/recursive-alignment-site",
+      "language": "HTML"
+    },
+    {
+      "name": "Outputs",
+      "repo": "https://github.com/SauersML/Outputs"
+    },
+    {
+      "name": "general-mcmc",
+      "repo": "https://github.com/SauersML/general-mcmc",
+      "language": "Rust"
+    },
+    {
+      "name": "patina",
+      "repo": "https://github.com/SauersML/patina",
+      "language": "Rust"
+    },
+    {
+      "name": "SV-PGS",
+      "repo": "https://github.com/SauersML/SV-PGS",
+      "language": "Python"
+    },
+    {
+      "name": "Manifold-SAE",
+      "repo": "https://github.com/SauersML/Manifold-SAE",
+      "language": "Python"
+    },
+    {
+      "name": "gnome",
+      "repo": "https://github.com/SauersML/gnome",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reagle",
+      "repo": "https://github.com/SauersML/reagle",
+      "language": "Rust"
+    },
+    {
+      "name": "check_build",
+      "repo": "https://github.com/SauersML/check_build",
+      "language": "Rust"
+    },
+    {
+      "name": "infer_sex",
+      "repo": "https://github.com/SauersML/infer_sex",
+      "language": "Python"
+    },
+    {
+      "name": "genterp",
+      "repo": "https://github.com/SauersML/genterp",
+      "language": "Python"
+    },
+    {
+      "name": "concept_search",
+      "repo": "https://github.com/SauersML/concept_search",
+      "language": "Python"
+    },
+    {
+      "name": "causal-pred",
+      "repo": "https://github.com/SauersML/causal-pred",
+      "language": "Python"
+    },
+    {
+      "name": "genomic-fm-sae-experiments",
+      "repo": "https://github.com/SauersML/genomic-fm-sae-experiments",
+      "language": "Python"
+    },
+    {
+      "name": "wikitool",
+      "repo": "https://github.com/SauersML/wikitool",
+      "url": "https://wikisearch.sauerslabs.workers.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claudporter",
+      "repo": "https://github.com/SauersML/claudporter",
+      "language": "Python"
+    },
+    {
+      "name": "WatcherBench",
+      "repo": "https://github.com/SauersML/WatcherBench",
+      "language": "Python"
+    },
+    {
+      "name": "StenoBench",
+      "repo": "https://github.com/SauersML/StenoBench",
+      "language": "Python"
+    },
+    {
+      "name": "claude-introspection",
+      "repo": "https://github.com/SauersML/claude-introspection",
+      "language": "Python"
+    },
+    {
+      "name": "claude-plays-minecraft",
+      "repo": "https://github.com/SauersML/claude-plays-minecraft",
+      "language": "Python"
+    },
+    {
+      "name": "gnome-science",
+      "repo": "https://github.com/SauersML/gnome-science",
+      "language": "TypeScript"
+    },
+    {
+      "name": "latex-editor",
+      "repo": "https://github.com/SauersML/latex-editor",
+      "language": "HTML"
+    },
+    {
+      "name": "agent_explore",
+      "repo": "https://github.com/SauersML/agent_explore",
+      "language": "Python"
+    },
+    {
+      "name": "crabingest",
+      "repo": "https://github.com/SauersML/crabingest",
+      "language": "Python"
+    },
+    {
+      "name": "matrix",
+      "repo": "https://github.com/SauersML/matrix"
+    },
+    {
+      "name": "hbz_gene_prediction",
+      "repo": "https://github.com/SauersML/hbz_gene_prediction",
+      "language": "Python"
+    },
+    {
+      "name": "graphome",
+      "repo": "https://github.com/SauersML/graphome",
+      "language": "Rust"
+    },
+    {
+      "name": "hpc_queue",
+      "repo": "https://github.com/SauersML/hpc_queue",
+      "language": "Python"
+    },
+    {
+      "name": "BayesR3",
+      "repo": "https://github.com/SauersML/BayesR3"
+    },
+    {
+      "name": "IMPUTE5",
+      "repo": "https://github.com/SauersML/IMPUTE5"
+    },
+    {
+      "name": "Beagle",
+      "repo": "https://github.com/SauersML/Beagle",
+      "language": "Java"
+    },
+    {
+      "name": "market_jensen",
+      "repo": "https://github.com/SauersML/market_jensen",
+      "language": "Python"
+    },
+    {
+      "name": "vol",
+      "repo": "https://github.com/SauersML/vol",
+      "language": "Python"
+    },
+    {
+      "name": "efficient_pca",
+      "repo": "https://github.com/SauersML/efficient_pca",
+      "language": "Rust"
+    },
+    {
+      "name": "minds_RL",
+      "repo": "https://github.com/SauersML/minds_RL",
+      "language": "Python"
+    },
+    {
+      "name": "scheming_transcripts",
+      "repo": "https://github.com/SauersML/scheming_transcripts"
+    },
+    {
+      "name": "vpn_script",
+      "repo": "https://github.com/SauersML/vpn_script",
+      "language": "Shell"
+    },
+    {
+      "name": "CoT_data",
+      "repo": "https://github.com/SauersML/CoT_data",
+      "language": "Python"
+    },
+    {
+      "name": "Clast",
+      "repo": "https://github.com/SauersML/Clast",
+      "language": "Python"
+    },
+    {
+      "name": "genomic_pca",
+      "repo": "https://github.com/SauersML/genomic_pca",
+      "language": "Python"
+    },
+    {
+      "name": "DeepDetect",
+      "repo": "https://github.com/SauersML/DeepDetect",
+      "language": "Python"
+    },
+    {
+      "name": "pixpack",
+      "repo": "https://github.com/SauersML/pixpack",
+      "language": "Rust"
+    },
+    {
+      "name": "rustformer",
+      "repo": "https://github.com/SauersML/rustformer",
+      "language": "Rust"
+    },
+    {
+      "name": "bankpipes",
+      "repo": "https://github.com/SauersML/bankpipes",
+      "language": "Python"
+    },
+    {
+      "name": "getdoc",
+      "repo": "https://github.com/SauersML/getdoc",
+      "language": "Rust"
+    },
+    {
+      "name": "filecheck",
+      "repo": "https://github.com/SauersML/filecheck"
+    },
+    {
+      "name": "SAEvolution",
+      "repo": "https://github.com/SauersML/SAEvolution",
+      "language": "Python"
+    },
+    {
+      "name": "inv",
+      "repo": "https://github.com/SauersML/inv",
+      "language": "Shell"
+    },
+    {
+      "name": "ScoreMod",
+      "repo": "https://github.com/SauersML/ScoreMod"
+    },
+    {
+      "name": "rm",
+      "repo": "https://github.com/SauersML/rm",
+      "language": "Rust"
+    },
+    {
+      "name": "vpn-config",
+      "repo": "https://github.com/SauersML/vpn-config",
+      "language": "Shell"
+    },
+    {
+      "name": "data",
+      "repo": "https://github.com/SauersML/data"
+    },
+    {
+      "name": "meowify",
+      "repo": "https://github.com/SauersML/meowify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "knit",
+      "repo": "https://github.com/SauersML/knit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "falsta",
+      "repo": "https://github.com/SauersML/falsta"
+    },
+    {
+      "name": "segdup_lookup",
+      "repo": "https://github.com/SauersML/segdup_lookup",
+      "language": "Python"
+    },
+    {
+      "name": "SpeedScore",
+      "repo": "https://github.com/SauersML/SpeedScore",
+      "language": "Rust"
+    },
+    {
+      "name": "sunrays_seedy",
+      "repo": "https://github.com/SauersML/sunrays_seedy",
+      "language": "Rust"
+    },
+    {
+      "name": "eq",
+      "repo": "https://github.com/SauersML/eq",
+      "language": "Rust"
+    },
+    {
+      "name": "no-op",
+      "repo": "https://github.com/SauersML/no-op",
+      "language": "Rust"
+    },
+    {
+      "name": "voxel",
+      "repo": "https://github.com/SauersML/voxel",
+      "language": "Rust"
+    },
+    {
+      "name": "brain_state_scaling",
+      "repo": "https://github.com/SauersML/brain_state_scaling",
+      "language": "Python"
+    },
+    {
+      "name": "neuralloy",
+      "repo": "https://github.com/SauersML/neuralloy"
+    },
+    {
+      "name": "deadlock",
+      "repo": "https://github.com/SauersML/deadlock"
+    },
+    {
+      "name": "prediction",
+      "repo": "https://github.com/SauersML/prediction",
+      "language": "Python"
+    },
+    {
+      "name": "fall",
+      "repo": "https://github.com/SauersML/fall",
+      "language": "Python"
+    },
+    {
+      "name": "SAE",
+      "repo": "https://github.com/SauersML/SAE",
+      "language": "Python"
+    },
+    {
+      "name": "value",
+      "repo": "https://github.com/SauersML/value",
+      "language": "Python"
+    },
+    {
+      "name": "fast_eigen",
+      "repo": "https://github.com/SauersML/fast_eigen",
+      "language": "Python"
+    },
+    {
+      "name": "AoU_scripts",
+      "repo": "https://github.com/SauersML/AoU_scripts",
+      "language": "Python"
+    },
+    {
+      "name": "var_test",
+      "repo": "https://github.com/SauersML/var_test",
+      "language": "Python"
+    },
+    {
+      "name": "graphical_abstract",
+      "repo": "https://github.com/SauersML/graphical_abstract",
+      "language": "JavaScript"
+    },
+    {
+      "name": "local_container",
+      "repo": "https://github.com/SauersML/local_container"
+    },
+    {
+      "name": "Needleman-Wunsch-Aligner",
+      "repo": "https://github.com/SauersML/Needleman-Wunsch-Aligner",
+      "language": "Rust"
+    },
+    {
+      "name": "sequence_learning",
+      "repo": "https://github.com/SauersML/sequence_learning",
+      "language": "Python"
+    },
+    {
+      "name": "sedloop",
+      "repo": "https://github.com/SauersML/sedloop",
+      "language": "Python"
+    },
+    {
+      "name": "recurser",
+      "repo": "https://github.com/SauersML/recurser",
+      "language": "Python"
+    },
+    {
+      "name": "inversions",
+      "repo": "https://github.com/SauersML/inversions"
+    },
+    {
+      "name": "neovim_config",
+      "repo": "https://github.com/SauersML/neovim_config",
+      "language": "Lua"
+    },
+    {
+      "name": "pangenome",
+      "repo": "https://github.com/SauersML/pangenome",
+      "language": "Python"
+    },
+    {
+      "name": "subtex",
+      "repo": "https://github.com/SauersML/subtex"
+    },
+    {
+      "name": "converge",
+      "repo": "https://github.com/SauersML/converge",
+      "language": "Rust"
+    },
+    {
+      "name": "sleep_data_merge",
+      "repo": "https://github.com/SauersML/sleep_data_merge",
+      "language": "Python"
+    },
+    {
+      "name": "DockerTest",
+      "repo": "https://github.com/SauersML/DockerTest",
+      "language": "Python"
+    },
+    {
+      "name": "column_tools",
+      "repo": "https://github.com/SauersML/column_tools",
+      "language": "Python"
+    },
+    {
+      "name": "merger",
+      "repo": "https://github.com/SauersML/merger",
+      "language": "Python"
+    },
+    {
+      "name": "WaveMaker",
+      "repo": "https://github.com/SauersML/WaveMaker",
+      "language": "Python"
+    },
+    {
+      "name": "Insider-Analysis",
+      "repo": "https://github.com/SauersML/Insider-Analysis",
+      "language": "Python"
+    },
+    {
+      "name": "synthetic_pgs",
+      "repo": "https://github.com/SauersML/synthetic_pgs",
+      "language": "Jupyter Notebook"
+    }
+  ]
 }

@@ -5,6 +5,518 @@
     "https://github.com/nicholasdille"
   ],
   "bio": "DevOps Engineer | Containers, Kubernetes, Automation, Observability, Continuous Delivery",
+  "own_repos": 116,
   "commits": 11351,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/nicholasdille/dotfiles",
+      "url": "https://dille.name/blog",
+      "language": "Shell"
+    },
+    {
+      "name": "container-slides",
+      "repo": "https://github.com/nicholasdille/container-slides",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-module-playground",
+      "repo": "https://github.com/nicholasdille/terraform-module-playground",
+      "language": "HCL"
+    },
+    {
+      "name": "capictl",
+      "repo": "https://github.com/nicholasdille/capictl",
+      "language": "Shell"
+    },
+    {
+      "name": "project-template",
+      "repo": "https://github.com/nicholasdille/project-template",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "images",
+      "repo": "https://github.com/nicholasdille/images",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "seatctl",
+      "repo": "https://github.com/nicholasdille/seatctl",
+      "language": "Shell"
+    },
+    {
+      "name": "go-tools",
+      "repo": "https://github.com/nicholasdille/go-tools",
+      "language": "Go"
+    },
+    {
+      "name": "oidc-claims",
+      "repo": "https://github.com/nicholasdille/oidc-claims",
+      "language": "Go"
+    },
+    {
+      "name": "dille.name",
+      "repo": "https://github.com/nicholasdille/dille.name",
+      "url": "https://dille.name",
+      "language": "HTML"
+    },
+    {
+      "name": "phoniebox",
+      "repo": "https://github.com/nicholasdille/phoniebox",
+      "language": "Python"
+    },
+    {
+      "name": "scripts",
+      "repo": "https://github.com/nicholasdille/scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "awesome-workload-identity",
+      "repo": "https://github.com/nicholasdille/awesome-workload-identity"
+    },
+    {
+      "name": "playground",
+      "repo": "https://github.com/nicholasdille/playground",
+      "language": "HCL"
+    },
+    {
+      "name": "renovate-demo-devsmeetup",
+      "repo": "https://github.com/nicholasdille/renovate-demo-devsmeetup",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "clc23-renovate-demo",
+      "repo": "https://github.com/nicholasdille/clc23-renovate-demo",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "renovate-demo-devsec",
+      "repo": "https://github.com/nicholasdille/renovate-demo-devsec",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "image-pull-secrets-controller",
+      "repo": "https://github.com/nicholasdille/image-pull-secrets-controller",
+      "language": "Makefile"
+    },
+    {
+      "name": "k8s-caph-talos",
+      "repo": "https://github.com/nicholasdille/k8s-caph-talos",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-tools",
+      "repo": "https://github.com/nicholasdille/docker-tools"
+    },
+    {
+      "name": "docker-pod",
+      "repo": "https://github.com/nicholasdille/docker-pod",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-papermc",
+      "repo": "https://github.com/nicholasdille/docker-papermc",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "minecraft",
+      "repo": "https://github.com/nicholasdille/minecraft",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "renovate-demo",
+      "repo": "https://github.com/nicholasdille/renovate-demo",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "heise-k8s-colg",
+      "repo": "https://github.com/nicholasdille/heise-k8s-colg",
+      "url": "https://www.heise-academy.de/run/4d571f26-46f0-4ac4-8d23-75a6c910a839",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "actions",
+      "repo": "https://github.com/nicholasdille/actions"
+    },
+    {
+      "name": "go-demo-tty-pipe",
+      "repo": "https://github.com/nicholasdille/go-demo-tty-pipe",
+      "language": "Go"
+    },
+    {
+      "name": "freisitz",
+      "repo": "https://github.com/nicholasdille/freisitz",
+      "url": "https://nicholasdille.github.io/freisitz/",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-setup",
+      "repo": "https://github.com/nicholasdille/docker-setup",
+      "url": "https://docker-setup.dille.io",
+      "language": "Go"
+    },
+    {
+      "name": "docker-setup-action",
+      "repo": "https://github.com/nicholasdille/docker-setup-action"
+    },
+    {
+      "name": "dotfiles-windows",
+      "repo": "https://github.com/nicholasdille/dotfiles-windows",
+      "url": "https://dille.name",
+      "language": "PowerShell"
+    },
+    {
+      "name": "crun-static",
+      "repo": "https://github.com/nicholasdille/crun-static",
+      "url": "https://github.com/containers/crun",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-cli-manpages",
+      "repo": "https://github.com/nicholasdille/docker-cli-manpages",
+      "url": "https://github.com/docker/cli",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cheats",
+      "repo": "https://github.com/nicholasdille/cheats"
+    },
+    {
+      "name": "buildah-static",
+      "repo": "https://github.com/nicholasdille/buildah-static",
+      "url": "https://github.com/containers/buildah",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "skopeo-static",
+      "repo": "https://github.com/nicholasdille/skopeo-static",
+      "url": "https://github.com/containers/skopeo",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "podman-static",
+      "repo": "https://github.com/nicholasdille/podman-static",
+      "url": "https://github.com/containers/podman",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "hcloud-uptime-alerter",
+      "repo": "https://github.com/nicholasdille/hcloud-uptime-alerter",
+      "language": "Shell"
+    },
+    {
+      "name": "conmon-static",
+      "repo": "https://github.com/nicholasdille/conmon-static",
+      "url": "https://github.com/containers/conmon",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "go-md2man-static",
+      "repo": "https://github.com/nicholasdille/go-md2man-static",
+      "url": "https://github.com/cpuguy83/go-md2man",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "qemu-static",
+      "repo": "https://github.com/nicholasdille/qemu-static",
+      "url": "https://github.com/qemu/qemu",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "homebrew-direct",
+      "repo": "https://github.com/nicholasdille/homebrew-direct",
+      "language": "Shell"
+    },
+    {
+      "name": "layerlego",
+      "repo": "https://github.com/nicholasdille/layerlego",
+      "language": "Shell"
+    },
+    {
+      "name": "containerized-tools",
+      "repo": "https://github.com/nicholasdille/containerized-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "nicholasdille",
+      "repo": "https://github.com/nicholasdille/nicholasdille"
+    },
+    {
+      "name": "nicholasdille.github.io",
+      "repo": "https://github.com/nicholasdille/nicholasdille.github.io",
+      "url": "https://nicholasdille.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "rubiks_cube",
+      "repo": "https://github.com/nicholasdille/rubiks_cube"
+    },
+    {
+      "name": "renovate-homebrew",
+      "repo": "https://github.com/nicholasdille/renovate-homebrew",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/nicholasdille/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "renovate-presets",
+      "repo": "https://github.com/nicholasdille/renovate-presets"
+    },
+    {
+      "name": "centos-iptables-legacy",
+      "repo": "https://github.com/nicholasdille/centos-iptables-legacy",
+      "url": "https://www.netfilter.org/projects/iptables/index.html"
+    },
+    {
+      "name": "go-containers",
+      "repo": "https://github.com/nicholasdille/go-containers",
+      "language": "Go"
+    },
+    {
+      "name": "sonarqube-java8u252-issue",
+      "repo": "https://github.com/nicholasdille/sonarqube-java8u252-issue",
+      "language": "Shell"
+    },
+    {
+      "name": "traefik-maintenance",
+      "repo": "https://github.com/nicholasdille/traefik-maintenance",
+      "url": "https://dille.name/blog/tags/#traefik",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-ansible",
+      "repo": "https://github.com/nicholasdille/docker-ansible",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "workflows",
+      "repo": "https://github.com/nicholasdille/workflows"
+    },
+    {
+      "name": "docker-homebrew",
+      "repo": "https://github.com/nicholasdille/docker-homebrew",
+      "language": "Shell"
+    },
+    {
+      "name": "dependernetes",
+      "repo": "https://github.com/nicholasdille/dependernetes",
+      "language": "Python"
+    },
+    {
+      "name": "cnb-tools",
+      "repo": "https://github.com/nicholasdille/cnb-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "bash-args-parser",
+      "repo": "https://github.com/nicholasdille/bash-args-parser",
+      "language": "Shell"
+    },
+    {
+      "name": "buildkit-wrapper",
+      "repo": "https://github.com/nicholasdille/buildkit-wrapper",
+      "language": "Shell"
+    },
+    {
+      "name": "PowerShell-BitBucketServer",
+      "repo": "https://github.com/nicholasdille/PowerShell-BitBucketServer",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-GoCD",
+      "repo": "https://github.com/nicholasdille/PowerShell-GoCD",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-Rancher",
+      "repo": "https://github.com/nicholasdille/PowerShell-Rancher",
+      "language": "PowerShell"
+    },
+    {
+      "name": "homebrew-immortal",
+      "repo": "https://github.com/nicholasdille/homebrew-immortal",
+      "language": "Shell"
+    },
+    {
+      "name": "dind-ssh",
+      "repo": "https://github.com/nicholasdille/dind-ssh",
+      "language": "Shell"
+    },
+    {
+      "name": "packages",
+      "repo": "https://github.com/nicholasdille/packages",
+      "language": "Shell"
+    },
+    {
+      "name": "PowerShell-Statistics",
+      "repo": "https://github.com/nicholasdille/PowerShell-Statistics",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-BitBucketCloud",
+      "repo": "https://github.com/nicholasdille/PowerShell-BitBucketCloud",
+      "language": "PowerShell"
+    },
+    {
+      "name": "traefik-dns",
+      "repo": "https://github.com/nicholasdille/traefik-dns",
+      "language": "Shell"
+    },
+    {
+      "name": "k8s-templates",
+      "repo": "https://github.com/nicholasdille/k8s-templates",
+      "language": "Shell"
+    },
+    {
+      "name": "k8s-gitops",
+      "repo": "https://github.com/nicholasdille/k8s-gitops",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-waterfall",
+      "repo": "https://github.com/nicholasdille/docker-waterfall",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "PowerShell-RegistryDocker",
+      "repo": "https://github.com/nicholasdille/PowerShell-RegistryDocker",
+      "language": "PowerShell"
+    },
+    {
+      "name": "insulatr",
+      "repo": "https://github.com/nicholasdille/insulatr",
+      "url": "https://dille.name/blog/2019/05/15/container-native-builds-using-insulatr/",
+      "language": "Go"
+    },
+    {
+      "name": "renovate-versioning-regex",
+      "repo": "https://github.com/nicholasdille/renovate-versioning-regex",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "flux-ytt",
+      "repo": "https://github.com/nicholasdille/flux-ytt",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-shellinabox",
+      "repo": "https://github.com/nicholasdille/docker-shellinabox",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gitopscli",
+      "repo": "https://github.com/nicholasdille/gitopscli",
+      "language": "Shell"
+    },
+    {
+      "name": "kastemais",
+      "repo": "https://github.com/nicholasdille/kastemais",
+      "language": "Makefile"
+    },
+    {
+      "name": "Sessions",
+      "repo": "https://github.com/nicholasdille/Sessions",
+      "language": "PowerShell"
+    },
+    {
+      "name": "ansible-k8s",
+      "repo": "https://github.com/nicholasdille/ansible-k8s"
+    },
+    {
+      "name": "docker-cicd-env",
+      "repo": "https://github.com/nicholasdille/docker-cicd-env",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-mcrcon",
+      "repo": "https://github.com/nicholasdille/docker-mcrcon",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "make_recipes",
+      "repo": "https://github.com/nicholasdille/make_recipes",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-lab",
+      "repo": "https://github.com/nicholasdille/docker-lab",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "k8s",
+      "repo": "https://github.com/nicholasdille/k8s",
+      "language": "Shell"
+    },
+    {
+      "name": "k8s-kthw-hcloud",
+      "repo": "https://github.com/nicholasdille/k8s-kthw-hcloud",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-k8s-kthw",
+      "repo": "https://github.com/nicholasdille/ansible-k8s-kthw",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-auth-proxy",
+      "repo": "https://github.com/nicholasdille/docker-auth-proxy",
+      "url": "https://dille.name/blog/2018/11/18/publishing-the-docker-daemon-using-a-containerized-reverse-proxy/",
+      "language": "Shell"
+    },
+    {
+      "name": "PowerShell-InfluxDb",
+      "repo": "https://github.com/nicholasdille/PowerShell-InfluxDb",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-Artifactory",
+      "repo": "https://github.com/nicholasdille/PowerShell-Artifactory",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-Build",
+      "repo": "https://github.com/nicholasdille/PowerShell-Build",
+      "language": "PowerShell"
+    },
+    {
+      "name": "cicd-lab",
+      "repo": "https://github.com/nicholasdille/cicd-lab",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "foe_arc_calculator",
+      "repo": "https://github.com/nicholasdille/foe_arc_calculator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "professional-powershell",
+      "repo": "https://github.com/nicholasdille/professional-powershell",
+      "url": "https://dille.name/professional-powershell",
+      "language": "HTML"
+    },
+    {
+      "name": "PowerShell-HetznerCloud",
+      "repo": "https://github.com/nicholasdille/PowerShell-HetznerCloud",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-Helpers",
+      "repo": "https://github.com/nicholasdille/PowerShell-Helpers",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-Waitfile",
+      "repo": "https://github.com/nicholasdille/PowerShell-Waitfile",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PowerShell-WebRequest",
+      "repo": "https://github.com/nicholasdille/PowerShell-WebRequest",
+      "language": "PowerShell"
+    }
+  ]
 }

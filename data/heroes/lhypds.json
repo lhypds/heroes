@@ -8,6 +8,20 @@
   "commits": 9108,
   "repos": [
     {
+      "name": "ft",
+      "repo": "https://github.com/lhypds/ft",
+      "language": "Python"
+    },
+    {
+      "name": "yt",
+      "repo": "https://github.com/lhypds/yt",
+      "language": "Python"
+    },
+    {
+      "name": "lhypds",
+      "repo": "https://github.com/lhypds/lhypds"
+    },
+    {
       "name": "heroes",
       "repo": "https://github.com/lhypds/heroes",
       "url": "https://heros.gcc3.com",
@@ -45,10 +59,6 @@
       "repo": "https://github.com/gcc3/content-hub",
       "url": "https://gcc³.com",
       "language": "JavaScript"
-    },
-    {
-      "name": "lhypds",
-      "repo": "https://github.com/lhypds/lhypds"
     },
     {
       "name": "stash",
@@ -102,16 +112,6 @@
       "repo": "https://github.com/lhypds/psl",
       "url": "https://gcc3.com/psl",
       "language": "Go"
-    },
-    {
-      "name": "yt",
-      "repo": "https://github.com/lhypds/yt",
-      "language": "Python"
-    },
-    {
-      "name": "ft",
-      "repo": "https://github.com/lhypds/ft",
-      "language": "Python"
     },
     {
       "name": "tgen",

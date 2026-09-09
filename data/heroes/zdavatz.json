@@ -6,6 +6,516 @@
   ],
   "website": "https://just.do/",
   "bio": "Taking care of public domain drug data in Switzerland.",
+  "own_repos": 119,
   "commits": 13319,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "swissdamed2sqlite",
+      "repo": "https://github.com/zdavatz/swissdamed2sqlite",
+      "language": "Rust"
+    },
+    {
+      "name": "ganglion",
+      "repo": "https://github.com/zdavatz/ganglion",
+      "language": "Ruby"
+    },
+    {
+      "name": "rpc2sqlite",
+      "repo": "https://github.com/zdavatz/rpc2sqlite",
+      "language": "Rust"
+    },
+    {
+      "name": "adhs-expert",
+      "repo": "https://github.com/zdavatz/adhs-expert",
+      "language": "Rust"
+    },
+    {
+      "name": "parados",
+      "repo": "https://github.com/zdavatz/parados",
+      "language": "HTML"
+    },
+    {
+      "name": "fundaziun-davaz",
+      "repo": "https://github.com/zdavatz/fundaziun-davaz",
+      "language": "Rust"
+    },
+    {
+      "name": "sdif",
+      "repo": "https://github.com/zdavatz/sdif",
+      "language": "Rust"
+    },
+    {
+      "name": "oc",
+      "repo": "https://github.com/zdavatz/oc",
+      "language": "Rust"
+    },
+    {
+      "name": "schoenlein-henoch",
+      "repo": "https://github.com/zdavatz/schoenlein-henoch",
+      "language": "Rust"
+    },
+    {
+      "name": "pegelstand",
+      "repo": "https://github.com/zdavatz/pegelstand",
+      "language": "HTML"
+    },
+    {
+      "name": "movement_logger_ios",
+      "repo": "https://github.com/zdavatz/movement_logger_ios",
+      "language": "Swift"
+    },
+    {
+      "name": "crawl2pump",
+      "repo": "https://github.com/zdavatz/crawl2pump",
+      "language": "Rust"
+    },
+    {
+      "name": "davaz.com",
+      "repo": "https://github.com/zdavatz/davaz.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "oddb2xml",
+      "repo": "https://github.com/zdavatz/oddb2xml",
+      "language": "Ruby"
+    },
+    {
+      "name": "oddb.org",
+      "repo": "https://github.com/zdavatz/oddb.org",
+      "url": "https://ch.oddb.org",
+      "language": "Ruby"
+    },
+    {
+      "name": "aips2sqlite",
+      "repo": "https://github.com/zdavatz/aips2sqlite",
+      "language": "Java"
+    },
+    {
+      "name": "eudamed2firstbase",
+      "repo": "https://github.com/zdavatz/eudamed2firstbase",
+      "language": "Rust"
+    },
+    {
+      "name": "odba",
+      "repo": "https://github.com/zdavatz/odba",
+      "language": "Ruby"
+    },
+    {
+      "name": "yopenedi",
+      "repo": "https://github.com/zdavatz/yopenedi",
+      "language": "Java"
+    },
+    {
+      "name": "taxtsueri",
+      "repo": "https://github.com/zdavatz/taxtsueri",
+      "language": "Rust"
+    },
+    {
+      "name": "old2new",
+      "repo": "https://github.com/zdavatz/old2new",
+      "language": "Rust"
+    },
+    {
+      "name": "movement_logger_android",
+      "repo": "https://github.com/zdavatz/movement_logger_android",
+      "language": "Kotlin"
+    },
+    {
+      "name": "cpp2sqlite",
+      "repo": "https://github.com/zdavatz/cpp2sqlite",
+      "language": "C++"
+    },
+    {
+      "name": "rust2xml",
+      "repo": "https://github.com/zdavatz/rust2xml",
+      "language": "Rust"
+    },
+    {
+      "name": "swiyu4health",
+      "repo": "https://github.com/zdavatz/swiyu4health",
+      "language": "Shell"
+    },
+    {
+      "name": "migel",
+      "repo": "https://github.com/zdavatz/migel",
+      "language": "Ruby"
+    },
+    {
+      "name": "chrome2linkedin",
+      "repo": "https://github.com/zdavatz/chrome2linkedin",
+      "language": "Rust"
+    },
+    {
+      "name": "ts4cpp",
+      "repo": "https://github.com/zdavatz/ts4cpp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nahrung2sqlite",
+      "repo": "https://github.com/zdavatz/nahrung2sqlite",
+      "language": "Rust"
+    },
+    {
+      "name": "unroot-launchers",
+      "repo": "https://github.com/zdavatz/unroot-launchers",
+      "language": "Shell"
+    },
+    {
+      "name": "ebics-fetch",
+      "repo": "https://github.com/zdavatz/ebics-fetch",
+      "language": "Ruby"
+    },
+    {
+      "name": "ydim",
+      "repo": "https://github.com/zdavatz/ydim",
+      "language": "Ruby"
+    },
+    {
+      "name": "parados_rust",
+      "repo": "https://github.com/zdavatz/parados_rust",
+      "language": "HTML"
+    },
+    {
+      "name": "ydim-html",
+      "repo": "https://github.com/zdavatz/ydim-html",
+      "language": "Ruby"
+    },
+    {
+      "name": "listingtracker",
+      "repo": "https://github.com/zdavatz/listingtracker",
+      "language": "HTML"
+    },
+    {
+      "name": "smart-order",
+      "repo": "https://github.com/zdavatz/smart-order",
+      "language": "Java"
+    },
+    {
+      "name": "gdt2dicom",
+      "repo": "https://github.com/zdavatz/gdt2dicom",
+      "language": "Rust"
+    },
+    {
+      "name": "gang2fts5",
+      "repo": "https://github.com/zdavatz/gang2fts5",
+      "language": "Rust"
+    },
+    {
+      "name": "movement_logger_firmware",
+      "repo": "https://github.com/zdavatz/movement_logger_firmware",
+      "language": "C"
+    },
+    {
+      "name": "movement_logger_desktop",
+      "repo": "https://github.com/zdavatz/movement_logger_desktop",
+      "language": "Rust"
+    },
+    {
+      "name": "fachinfo_ai",
+      "repo": "https://github.com/zdavatz/fachinfo_ai",
+      "language": "Rust"
+    },
+    {
+      "name": "movement_logger_watchos",
+      "repo": "https://github.com/zdavatz/movement_logger_watchos",
+      "language": "Swift"
+    },
+    {
+      "name": "parados_ios",
+      "repo": "https://github.com/zdavatz/parados_ios",
+      "language": "HTML"
+    },
+    {
+      "name": "parados_android",
+      "repo": "https://github.com/zdavatz/parados_android",
+      "language": "HTML"
+    },
+    {
+      "name": "ywesee.com",
+      "repo": "https://github.com/zdavatz/ywesee.com",
+      "language": "HTML"
+    },
+    {
+      "name": "oddb2xml_files",
+      "repo": "https://github.com/zdavatz/oddb2xml_files",
+      "language": "Rust"
+    },
+    {
+      "name": "pumpspots",
+      "repo": "https://github.com/zdavatz/pumpspots",
+      "language": "Python"
+    },
+    {
+      "name": "gigacrawl",
+      "repo": "https://github.com/zdavatz/gigacrawl",
+      "language": "Rust"
+    },
+    {
+      "name": "fingerfoil",
+      "repo": "https://github.com/zdavatz/fingerfoil",
+      "language": "Python"
+    },
+    {
+      "name": "generikacc",
+      "repo": "https://github.com/zdavatz/generikacc",
+      "url": "https://apps.apple.com/us/app/generika/id520038123?ls=1",
+      "language": "Objective-C"
+    },
+    {
+      "name": "generika_android",
+      "repo": "https://github.com/zdavatz/generika_android",
+      "url": "https://play.google.com/store/apps/details?id=org.oddb.generika",
+      "language": "Java"
+    },
+    {
+      "name": "gamecrawler",
+      "repo": "https://github.com/zdavatz/gamecrawler",
+      "language": "Rust"
+    },
+    {
+      "name": "brand2csv",
+      "repo": "https://github.com/zdavatz/brand2csv",
+      "language": "HTML"
+    },
+    {
+      "name": "storetemplate",
+      "repo": "https://github.com/zdavatz/storetemplate",
+      "language": "Rust"
+    },
+    {
+      "name": "eudamed2swissdamed",
+      "repo": "https://github.com/zdavatz/eudamed2swissdamed",
+      "language": "Rust"
+    },
+    {
+      "name": "spreadsheet",
+      "repo": "https://github.com/zdavatz/spreadsheet",
+      "language": "Ruby"
+    },
+    {
+      "name": "audit",
+      "repo": "https://github.com/zdavatz/audit"
+    },
+    {
+      "name": "yjg",
+      "repo": "https://github.com/zdavatz/yjg",
+      "language": "Python"
+    },
+    {
+      "name": "audio2text",
+      "repo": "https://github.com/zdavatz/audio2text",
+      "language": "Rust"
+    },
+    {
+      "name": "pro-zurituutsch.ch",
+      "repo": "https://github.com/zdavatz/pro-zurituutsch.ch",
+      "language": "PHP"
+    },
+    {
+      "name": "sdif_android",
+      "repo": "https://github.com/zdavatz/sdif_android",
+      "language": "Kotlin"
+    },
+    {
+      "name": "sdif_ios",
+      "repo": "https://github.com/zdavatz/sdif_ios",
+      "language": "Swift"
+    },
+    {
+      "name": "fb2sqlite",
+      "repo": "https://github.com/zdavatz/fb2sqlite",
+      "language": "Rust"
+    },
+    {
+      "name": "amiko-web",
+      "repo": "https://github.com/zdavatz/amiko-web",
+      "url": "https://amiko.oddb.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "who2csv",
+      "repo": "https://github.com/zdavatz/who2csv",
+      "language": "Rust"
+    },
+    {
+      "name": "imgvidsort",
+      "repo": "https://github.com/zdavatz/imgvidsort",
+      "language": "Python"
+    },
+    {
+      "name": "pharma2merge",
+      "repo": "https://github.com/zdavatz/pharma2merge",
+      "language": "Rust"
+    },
+    {
+      "name": "eudamed",
+      "repo": "https://github.com/zdavatz/eudamed",
+      "language": "C++"
+    },
+    {
+      "name": "remoterun",
+      "repo": "https://github.com/zdavatz/remoterun",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ymeteor",
+      "repo": "https://github.com/zdavatz/ymeteor",
+      "url": "https://ywesee.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "swissmedicinfo",
+      "repo": "https://github.com/zdavatz/swissmedicinfo",
+      "language": "Rust"
+    },
+    {
+      "name": "amiko_csharp",
+      "repo": "https://github.com/zdavatz/amiko_csharp",
+      "url": "https://www.microsoft.com/de-ch/p/amiko-desitin/9wzdncrdffxc",
+      "language": "C#"
+    },
+    {
+      "name": "amiko-osx",
+      "repo": "https://github.com/zdavatz/amiko-osx",
+      "url": "https://apps.apple.com/ch/app/amiko-desitin/id708142753?mt=12",
+      "language": "Objective-C"
+    },
+    {
+      "name": "AmiKo-iOS",
+      "repo": "https://github.com/zdavatz/AmiKo-iOS",
+      "url": "https://apps.apple.com/ch/app/amiko-desitin/id687642725",
+      "language": "Objective-C"
+    },
+    {
+      "name": "AmiKo-Android",
+      "repo": "https://github.com/zdavatz/AmiKo-Android",
+      "url": "https://play.google.com/store/apps/details?id=com.ywesee.amiko.de&hl=de_CH",
+      "language": "Java"
+    },
+    {
+      "name": "swissmedic-diff",
+      "repo": "https://github.com/zdavatz/swissmedic-diff",
+      "language": "Ruby"
+    },
+    {
+      "name": "chmed2email",
+      "repo": "https://github.com/zdavatz/chmed2email",
+      "language": "Java"
+    },
+    {
+      "name": "zr_crawl",
+      "repo": "https://github.com/zdavatz/zr_crawl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ypm",
+      "repo": "https://github.com/zdavatz/ypm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "socialhealth",
+      "repo": "https://github.com/zdavatz/socialhealth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ydbi",
+      "repo": "https://github.com/zdavatz/ydbi",
+      "language": "Ruby"
+    },
+    {
+      "name": "yus",
+      "repo": "https://github.com/zdavatz/yus",
+      "language": "Ruby"
+    },
+    {
+      "name": "htmlgrid",
+      "repo": "https://github.com/zdavatz/htmlgrid",
+      "language": "Ruby"
+    },
+    {
+      "name": "sbsm",
+      "repo": "https://github.com/zdavatz/sbsm",
+      "language": "Ruby"
+    },
+    {
+      "name": "amiko_wx",
+      "repo": "https://github.com/zdavatz/amiko_wx",
+      "language": "C++"
+    },
+    {
+      "name": "diprela",
+      "repo": "https://github.com/zdavatz/diprela",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ydocx",
+      "repo": "https://github.com/zdavatz/ydocx",
+      "language": "Ruby"
+    },
+    {
+      "name": "ypdf-writer",
+      "repo": "https://github.com/zdavatz/ypdf-writer",
+      "language": "Ruby"
+    },
+    {
+      "name": "covid19_ch",
+      "repo": "https://github.com/zdavatz/covid19_ch",
+      "language": "Python"
+    },
+    {
+      "name": "de.oddb.org",
+      "repo": "https://github.com/zdavatz/de.oddb.org",
+      "language": "HTML"
+    },
+    {
+      "name": "Scan2Post",
+      "repo": "https://github.com/zdavatz/Scan2Post",
+      "language": "Objective-C"
+    },
+    {
+      "name": "sandoz.xmlconv.bbmb.ch",
+      "repo": "https://github.com/zdavatz/sandoz.xmlconv.bbmb.ch",
+      "language": "Ruby"
+    },
+    {
+      "name": "sandoz.bbmb.ch",
+      "repo": "https://github.com/zdavatz/sandoz.bbmb.ch",
+      "language": "Ruby"
+    },
+    {
+      "name": "xmlconv",
+      "repo": "https://github.com/zdavatz/xmlconv",
+      "language": "Ruby"
+    },
+    {
+      "name": "voice2graph",
+      "repo": "https://github.com/zdavatz/voice2graph"
+    },
+    {
+      "name": "ywesee_scripts",
+      "repo": "https://github.com/zdavatz/ywesee_scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "virbac.bbmb.ch",
+      "repo": "https://github.com/zdavatz/virbac.bbmb.ch",
+      "language": "Ruby"
+    },
+    {
+      "name": "bbmb",
+      "repo": "https://github.com/zdavatz/bbmb",
+      "language": "Ruby"
+    },
+    {
+      "name": "currency",
+      "repo": "https://github.com/zdavatz/currency",
+      "language": "Ruby"
+    },
+    {
+      "name": "vetoquinol.bbmb.ch",
+      "repo": "https://github.com/zdavatz/vetoquinol.bbmb.ch",
+      "language": "Ruby"
+    }
+  ]
 }

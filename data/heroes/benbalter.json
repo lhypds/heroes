@@ -10,6 +10,26 @@
   "commits": 13193,
   "repos": [
     {
+      "name": "copilot-bumper",
+      "repo": "https://github.com/benbalter/copilot-bumper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "comment-rollup",
+      "repo": "https://github.com/benbalter/comment-rollup",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bulk-issue-creator",
+      "repo": "https://github.com/benbalter/bulk-issue-creator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "word-to-markdown-js",
+      "repo": "https://github.com/benbalter/word-to-markdown-js",
+      "language": "TypeScript"
+    },
+    {
       "name": "site-inspector-js",
       "repo": "https://github.com/benbalter/site-inspector-js",
       "language": "TypeScript"
@@ -17,11 +37,6 @@
     {
       "name": "reorg-tuesdays",
       "repo": "https://github.com/benbalter/reorg-tuesdays",
-      "language": "TypeScript"
-    },
-    {
-      "name": "word-to-markdown-js",
-      "repo": "https://github.com/benbalter/word-to-markdown-js",
       "language": "TypeScript"
     },
     {
@@ -37,11 +52,6 @@
     {
       "name": "last-run-action",
       "repo": "https://github.com/benbalter/last-run-action",
-      "language": "TypeScript"
-    },
-    {
-      "name": "bulk-issue-creator",
-      "repo": "https://github.com/benbalter/bulk-issue-creator",
       "language": "TypeScript"
     },
     {
@@ -77,11 +87,6 @@
       "language": "TypeScript"
     },
     {
-      "name": "copilot-bumper",
-      "repo": "https://github.com/benbalter/copilot-bumper",
-      "language": "JavaScript"
-    },
-    {
       "name": "ai-community-moderator",
       "repo": "https://github.com/benbalter/ai-community-moderator",
       "language": "TypeScript"
@@ -94,11 +99,6 @@
     {
       "name": "alt-text-generator-action",
       "repo": "https://github.com/benbalter/alt-text-generator-action",
-      "language": "TypeScript"
-    },
-    {
-      "name": "comment-rollup",
-      "repo": "https://github.com/benbalter/comment-rollup",
       "language": "TypeScript"
     },
     {

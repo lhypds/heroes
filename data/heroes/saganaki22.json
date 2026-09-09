@@ -6,6 +6,552 @@
   ],
   "website": "https://drbaph.xyz/",
   "bio": "• 3D Artist • Illustrator • ML Research",
+  "own_repos": 100,
   "commits": 22216,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "ComfyUI-Viggle-Animate-H3",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3",
+      "url": "https://huggingface.co/drbaph/Viggle-Animate-ComfyUI",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-VDN-H3",
+      "repo": "https://github.com/Saganaki22/ComfyUI-VDN-H3",
+      "url": "https://huggingface.co/drbaph/vdn-minimax-h3-int8-convrot-comfyui",
+      "language": "Python"
+    },
+    {
+      "name": "Higgs_v3-TTS-ComfyUI",
+      "repo": "https://github.com/Saganaki22/Higgs_v3-TTS-ComfyUI",
+      "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-Breeze-TTS-2",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2",
+      "url": "https://huggingface.co/drbaph/Breeze-TTS-2-comfyui",
+      "language": "Python"
+    },
+    {
+      "name": "obs-dlss5-nr",
+      "repo": "https://github.com/Saganaki22/obs-dlss5-nr",
+      "language": "C++"
+    },
+    {
+      "name": "ComfyUI-Raon-OpenTTS",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Raon-OpenTTS",
+      "url": "https://huggingface.co/drbaph/Raon-OpenTTS-comfyui",
+      "language": "Python"
+    },
+    {
+      "name": "FireRedTTS3-ComfyUI",
+      "repo": "https://github.com/Saganaki22/FireRedTTS3-ComfyUI",
+      "language": "Python"
+    },
+    {
+      "name": "AgebypassX",
+      "repo": "https://github.com/Saganaki22/AgebypassX",
+      "url": "https://greasyfork.org/en/scripts/547244-agebypassx-tampermonkey-edition",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Saganaki22",
+      "repo": "https://github.com/Saganaki22/Saganaki22",
+      "url": "https://instagram.com/drbaph"
+    },
+    {
+      "name": "CrisperWhisper.cpp",
+      "repo": "https://github.com/Saganaki22/CrisperWhisper.cpp",
+      "url": "https://huggingface.co/nyralabs",
+      "language": "C++"
+    },
+    {
+      "name": "ComfyUI-sol-attn",
+      "repo": "https://github.com/Saganaki22/ComfyUI-sol-attn",
+      "url": "https://nvlabs.github.io/Sana/Sol-Attn/",
+      "language": "Python"
+    },
+    {
+      "name": "GNM-Studio",
+      "repo": "https://github.com/Saganaki22/GNM-Studio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "X-Feed-Filter",
+      "repo": "https://github.com/Saganaki22/X-Feed-Filter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Higgs-Audio-v3-Studio",
+      "repo": "https://github.com/Saganaki22/Higgs-Audio-v3-Studio",
+      "language": "C++"
+    },
+    {
+      "name": "Moss_TTS-ComfyUI",
+      "repo": "https://github.com/Saganaki22/Moss_TTS-ComfyUI",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "language": "Python"
+    },
+    {
+      "name": "MantraSynth",
+      "repo": "https://github.com/Saganaki22/MantraSynth",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Zonos2_TTS-ComfyUI",
+      "repo": "https://github.com/Saganaki22/Zonos2_TTS-ComfyUI",
+      "url": "https://huggingface.co/drbaph/ZONOS2-BF16",
+      "language": "Python"
+    },
+    {
+      "name": "Pixal3D-ComfyUI",
+      "repo": "https://github.com/Saganaki22/Pixal3D-ComfyUI",
+      "url": "https://ldyang694.github.io/projects/pixal3d/",
+      "language": "Python"
+    },
+    {
+      "name": "Dots-TTS-ComfyUI",
+      "repo": "https://github.com/Saganaki22/Dots-TTS-ComfyUI",
+      "url": "https://github.com/rednote-hilab/dots.tts",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-OmniVoice-TTS",
+      "repo": "https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS",
+      "url": "https://zhu-han.github.io/omnivoice/",
+      "language": "Python"
+    },
+    {
+      "name": "ideogram4_prompter-ComfyUI",
+      "repo": "https://github.com/Saganaki22/ideogram4_prompter-ComfyUI",
+      "url": "https://ideogram.ai/manage-api",
+      "language": "Python"
+    },
+    {
+      "name": "SAM3DBody_Desktop",
+      "repo": "https://github.com/Saganaki22/SAM3DBody_Desktop",
+      "url": "https://github.com/AmmarkoV/SAM3DBody-cpp",
+      "language": "C"
+    },
+    {
+      "name": "WavTTS-ComfyUI",
+      "repo": "https://github.com/Saganaki22/WavTTS-ComfyUI",
+      "url": "https://huggingface.co/drbaph/WavTTS",
+      "language": "Python"
+    },
+    {
+      "name": "MisoTTS-ComfyUI",
+      "repo": "https://github.com/Saganaki22/MisoTTS-ComfyUI",
+      "url": "https://github.com/MisoLabsAI/MisoTTS",
+      "language": "Python"
+    },
+    {
+      "name": "Supertonic_3_TTS_App",
+      "repo": "https://github.com/Saganaki22/Supertonic_3_TTS_App",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "language": "TypeScript"
+    },
+    {
+      "name": "supertonic_embeddings_trainer",
+      "repo": "https://github.com/Saganaki22/supertonic_embeddings_trainer",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "language": "Python"
+    },
+    {
+      "name": "supertonic-web-tts",
+      "repo": "https://github.com/Saganaki22/supertonic-web-tts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "HiDream_O1-ComfyUI",
+      "repo": "https://github.com/Saganaki22/HiDream_O1-ComfyUI",
+      "url": "https://github.com/HiDream-ai/HiDream-O1-Image",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-Woosh",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Woosh",
+      "url": "https://huggingface.co/drbaph/Woosh",
+      "language": "Python"
+    },
+    {
+      "name": "breakout",
+      "repo": "https://github.com/Saganaki22/breakout",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ComfyUI-FishAudioS2",
+      "repo": "https://github.com/Saganaki22/ComfyUI-FishAudioS2",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-VoxCPM2",
+      "repo": "https://github.com/Saganaki22/ComfyUI-VoxCPM2",
+      "url": "https://huggingface.co/openbmb/VoxCPM2",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-dotWaveform",
+      "repo": "https://github.com/Saganaki22/ComfyUI-dotWaveform",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ComfyUI-LongCat-AudioDIT-TTS",
+      "repo": "https://github.com/Saganaki22/ComfyUI-LongCat-AudioDIT-TTS",
+      "language": "Python"
+    },
+    {
+      "name": "contributions-painter",
+      "repo": "https://github.com/Saganaki22/contributions-painter"
+    },
+    {
+      "name": "ComfyUI-Foundation-1",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Foundation-1",
+      "url": "https://huggingface.co/RoyalCities/Foundation-1",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-KittenTTS",
+      "repo": "https://github.com/Saganaki22/ComfyUI-KittenTTS",
+      "url": "https://huggingface.co/KittenML",
+      "language": "Python"
+    },
+    {
+      "name": "ContentMachine",
+      "repo": "https://github.com/Saganaki22/ContentMachine",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Ace-Step-Web",
+      "repo": "https://github.com/Saganaki22/Ace-Step-Web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kokoro-web",
+      "repo": "https://github.com/Saganaki22/kokoro-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ComfyUI-SoulX-Singer",
+      "repo": "https://github.com/Saganaki22/ComfyUI-SoulX-Singer",
+      "url": "https://huggingface.co/drbaph/SoulX-Singer",
+      "language": "Python"
+    },
+    {
+      "name": "Gemini-LoRA-Dataset-Gen",
+      "repo": "https://github.com/Saganaki22/Gemini-LoRA-Dataset-Gen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "BTC-trade-sim",
+      "repo": "https://github.com/Saganaki22/BTC-trade-sim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ComfyUI-AudioSR",
+      "repo": "https://github.com/Saganaki22/ComfyUI-AudioSR",
+      "url": "https://huggingface.co/drbaph/AudioSR",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-NovaSR",
+      "repo": "https://github.com/Saganaki22/ComfyUI-NovaSR",
+      "url": "https://huggingface.co/drbaph/NovaSR/tree/main",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-KugelAudio",
+      "repo": "https://github.com/Saganaki22/ComfyUI-KugelAudio",
+      "url": "https://huggingface.co/kugelaudio/kugelaudio-0-open",
+      "language": "Python"
+    },
+    {
+      "name": "Gemini-Img-tagger",
+      "repo": "https://github.com/Saganaki22/Gemini-Img-tagger",
+      "language": "TypeScript"
+    },
+    {
+      "name": "LofiLamp",
+      "repo": "https://github.com/Saganaki22/LofiLamp",
+      "language": "HTML"
+    },
+    {
+      "name": "Jewelry-Studio-PRO",
+      "repo": "https://github.com/Saganaki22/Jewelry-Studio-PRO",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Wallpaper-Archive",
+      "repo": "https://github.com/Saganaki22/Wallpaper-Archive",
+      "url": "https://wallpaper-archive.pages.dev/"
+    },
+    {
+      "name": "ComfyUI-Img2Spec",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Img2Spec"
+    },
+    {
+      "name": "SpectroGram",
+      "repo": "https://github.com/Saganaki22/SpectroGram"
+    },
+    {
+      "name": "ComfyUI-Step_Audio_EditX_TTS",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Step_Audio_EditX_TTS",
+      "url": "https://huggingface.co/stepfun-ai/Step-Audio-EditX",
+      "language": "Python"
+    },
+    {
+      "name": "Nano-Banana-Pro",
+      "repo": "https://github.com/Saganaki22/Nano-Banana-Pro",
+      "language": "HTML"
+    },
+    {
+      "name": "PWD_Gen",
+      "repo": "https://github.com/Saganaki22/PWD_Gen",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Image-Compressor",
+      "repo": "https://github.com/Saganaki22/Image-Compressor"
+    },
+    {
+      "name": "ComfyUI-Maya1_TTS",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Maya1_TTS",
+      "url": "https://huggingface.co/maya-research/maya1",
+      "language": "Python"
+    },
+    {
+      "name": "Emojeez",
+      "repo": "https://github.com/Saganaki22/Emojeez"
+    },
+    {
+      "name": "Res-calc",
+      "repo": "https://github.com/Saganaki22/Res-calc",
+      "url": "https://drbaph.is-a.dev/Res-calc/"
+    },
+    {
+      "name": "ai-studio-watermark-blocker",
+      "repo": "https://github.com/Saganaki22/ai-studio-watermark-blocker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Sora-Code-Gen",
+      "repo": "https://github.com/Saganaki22/Sora-Code-Gen",
+      "language": "Python"
+    },
+    {
+      "name": "ComfyUI-Seedream4_Replicate",
+      "repo": "https://github.com/Saganaki22/ComfyUI-Seedream4_Replicate",
+      "language": "Python"
+    },
+    {
+      "name": "saganaki22.github.io",
+      "repo": "https://github.com/Saganaki22/saganaki22.github.io",
+      "url": "https://drbaph.is-a.dev/",
+      "language": "HTML"
+    },
+    {
+      "name": "ComfyUI-ytdl_nodes",
+      "repo": "https://github.com/Saganaki22/ComfyUI-ytdl_nodes",
+      "url": "https://registry.comfy.org/publishers/saganaki22/nodes/comfyui-ytdl-nodes",
+      "language": "Python"
+    },
+    {
+      "name": "WaveStudio",
+      "repo": "https://github.com/Saganaki22/WaveStudio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "RemoveBG",
+      "repo": "https://github.com/Saganaki22/RemoveBG",
+      "url": "https://drbaph.is-a.dev/RemoveBG/",
+      "language": "HTML"
+    },
+    {
+      "name": "ASCII-GEN",
+      "repo": "https://github.com/Saganaki22/ASCII-GEN",
+      "url": "https://asciigen.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Nicotine",
+      "repo": "https://github.com/Saganaki22/Nicotine",
+      "url": "https://drbaph.is-a.dev/Nicotine/",
+      "language": "HTML"
+    },
+    {
+      "name": "StarMap",
+      "repo": "https://github.com/Saganaki22/StarMap",
+      "url": "https://drbaph.is-a.dev/StarMap/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "AuroraPoetica",
+      "repo": "https://github.com/Saganaki22/AuroraPoetica",
+      "language": "HTML"
+    },
+    {
+      "name": "Hand-dance",
+      "repo": "https://github.com/Saganaki22/Hand-dance",
+      "url": "https://drbaph.is-a.dev/Hand-dance/",
+      "language": "HTML"
+    },
+    {
+      "name": "Waves",
+      "repo": "https://github.com/Saganaki22/Waves",
+      "language": "HTML"
+    },
+    {
+      "name": "iSpoof",
+      "repo": "https://github.com/Saganaki22/iSpoof",
+      "language": "HTML"
+    },
+    {
+      "name": "BTC",
+      "repo": "https://github.com/Saganaki22/BTC",
+      "language": "HTML"
+    },
+    {
+      "name": "NeonOracle",
+      "repo": "https://github.com/Saganaki22/NeonOracle",
+      "language": "HTML"
+    },
+    {
+      "name": "Hash-II",
+      "repo": "https://github.com/Saganaki22/Hash-II",
+      "url": "https://hash-ii.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ProceduralGen",
+      "repo": "https://github.com/Saganaki22/ProceduralGen",
+      "url": "https://drbaph.is-a.dev/ProceduralGen/",
+      "language": "HTML"
+    },
+    {
+      "name": "Dither",
+      "repo": "https://github.com/Saganaki22/Dither",
+      "url": "https://dither-drbaph.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Hash",
+      "repo": "https://github.com/Saganaki22/Hash",
+      "language": "HTML"
+    },
+    {
+      "name": "XyloRimba",
+      "repo": "https://github.com/Saganaki22/XyloRimba",
+      "language": "HTML"
+    },
+    {
+      "name": "Rodin-3DGen",
+      "repo": "https://github.com/Saganaki22/Rodin-3DGen",
+      "url": "https://3dgen-sable.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ProDrum",
+      "repo": "https://github.com/Saganaki22/ProDrum",
+      "url": "https://prodrum.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PeriodicTable",
+      "repo": "https://github.com/Saganaki22/PeriodicTable",
+      "url": "https://ptable-drbaph.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PeriodicTable-old",
+      "repo": "https://github.com/Saganaki22/PeriodicTable-old",
+      "language": "HTML"
+    },
+    {
+      "name": "Grids",
+      "repo": "https://github.com/Saganaki22/Grids",
+      "language": "HTML"
+    },
+    {
+      "name": "Clarity",
+      "repo": "https://github.com/Saganaki22/Clarity",
+      "url": "https://clarityapp.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Plinksy",
+      "repo": "https://github.com/Saganaki22/Plinksy",
+      "language": "HTML"
+    },
+    {
+      "name": "Glitch",
+      "repo": "https://github.com/Saganaki22/Glitch",
+      "url": "https://glitch22.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ASCII",
+      "repo": "https://github.com/Saganaki22/ASCII",
+      "language": "HTML"
+    },
+    {
+      "name": "EZPiano",
+      "repo": "https://github.com/Saganaki22/EZPiano",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Blackjack",
+      "repo": "https://github.com/Saganaki22/Blackjack",
+      "language": "HTML"
+    },
+    {
+      "name": "SynthRain",
+      "repo": "https://github.com/Saganaki22/SynthRain",
+      "url": "https://saganaki22.github.io/SynthRain/",
+      "language": "HTML"
+    },
+    {
+      "name": "QKQR",
+      "repo": "https://github.com/Saganaki22/QKQR",
+      "language": "HTML"
+    },
+    {
+      "name": "Greentendo",
+      "repo": "https://github.com/Saganaki22/Greentendo",
+      "language": "HTML"
+    },
+    {
+      "name": "AetherStrum",
+      "repo": "https://github.com/Saganaki22/AetherStrum",
+      "language": "HTML"
+    },
+    {
+      "name": "MetalFlow",
+      "repo": "https://github.com/Saganaki22/MetalFlow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Swarm",
+      "repo": "https://github.com/Saganaki22/Swarm",
+      "language": "HTML"
+    },
+    {
+      "name": ".matrix",
+      "repo": "https://github.com/Saganaki22/.matrix",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Drbaph_shapes",
+      "repo": "https://github.com/Saganaki22/Drbaph_shapes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "StableAudioWebUI",
+      "repo": "https://github.com/Saganaki22/StableAudioWebUI",
+      "url": "https://instagram.com/drbaph",
+      "language": "Python"
+    }
+  ]
 }

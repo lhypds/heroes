@@ -6,5 +6,504 @@
   ],
   "website": "https://letmedoit.ai/",
   "bio": "https://letmedoit.ai https://biblemate.ai https://BibleTools.app https://UniqueBible.app https://Marvel.bible https://BibleBento.com",
-  "commits": 10985
+  "own_repos": 101,
+  "commits": 10985,
+  "repos": [
+    {
+      "name": "biblemate-agentic-workspace",
+      "repo": "https://github.com/eliranwong/biblemate-agentic-workspace",
+      "language": "Python"
+    },
+    {
+      "name": "biblematedata",
+      "repo": "https://github.com/eliranwong/biblematedata",
+      "language": "Python"
+    },
+    {
+      "name": "UniqueBible",
+      "repo": "https://github.com/eliranwong/UniqueBible",
+      "url": "https://UniqueBible.app",
+      "language": "Python"
+    },
+    {
+      "name": "biblemate",
+      "repo": "https://github.com/eliranwong/biblemate",
+      "url": "https://biblemate.ai"
+    },
+    {
+      "name": "agentmake",
+      "repo": "https://github.com/eliranwong/agentmake",
+      "url": "https://toolmate.ai",
+      "language": "Python"
+    },
+    {
+      "name": "termux-antigravity-claude-code-codex-ollama",
+      "repo": "https://github.com/eliranwong/termux-antigravity-claude-code-codex-ollama"
+    },
+    {
+      "name": "AMD_iGPU_AI_Setup",
+      "repo": "https://github.com/eliranwong/AMD_iGPU_AI_Setup"
+    },
+    {
+      "name": "openclaw_stock_trading",
+      "repo": "https://github.com/eliranwong/openclaw_stock_trading"
+    },
+    {
+      "name": "Codex_SearXNG_DeepResearch",
+      "repo": "https://github.com/eliranwong/Codex_SearXNG_DeepResearch",
+      "language": "Python"
+    },
+    {
+      "name": "Claude_SearXNG_DeepResearch",
+      "repo": "https://github.com/eliranwong/Claude_SearXNG_DeepResearch"
+    },
+    {
+      "name": "NvidiaJetsonOpenClaw",
+      "repo": "https://github.com/eliranwong/NvidiaJetsonOpenClaw",
+      "language": "Shell"
+    },
+    {
+      "name": "ChromeOSLinux",
+      "repo": "https://github.com/eliranwong/ChromeOSLinux"
+    },
+    {
+      "name": "biblemateagent",
+      "repo": "https://github.com/eliranwong/biblemateagent",
+      "language": "Python"
+    },
+    {
+      "name": "biblemateweb",
+      "repo": "https://github.com/eliranwong/biblemateweb",
+      "language": "Python"
+    },
+    {
+      "name": "biblematecli",
+      "repo": "https://github.com/eliranwong/biblematecli",
+      "language": "Python"
+    },
+    {
+      "name": "PixelPhoneOpenClaw",
+      "repo": "https://github.com/eliranwong/PixelPhoneOpenClaw"
+    },
+    {
+      "name": "MultiAMDGPU_AIDev_Ubuntu",
+      "repo": "https://github.com/eliranwong/MultiAMDGPU_AIDev_Ubuntu",
+      "url": "https://letmedoit.ai"
+    },
+    {
+      "name": "computemate",
+      "repo": "https://github.com/eliranwong/computemate",
+      "language": "Python"
+    },
+    {
+      "name": "biblemate_custom_mcp",
+      "repo": "https://github.com/eliranwong/biblemate_custom_mcp",
+      "language": "Python"
+    },
+    {
+      "name": "BibleBookStudies",
+      "repo": "https://github.com/eliranwong/BibleBookStudies",
+      "language": "Python"
+    },
+    {
+      "name": "AI_Commentary",
+      "repo": "https://github.com/eliranwong/AI_Commentary",
+      "language": "Python"
+    },
+    {
+      "name": "BibleChapterSummaries",
+      "repo": "https://github.com/eliranwong/BibleChapterSummaries",
+      "language": "Python"
+    },
+    {
+      "name": "biblematesc",
+      "repo": "https://github.com/eliranwong/biblematesc",
+      "url": "https://biblemate.ai",
+      "language": "Python"
+    },
+    {
+      "name": "biblematetc",
+      "repo": "https://github.com/eliranwong/biblematetc",
+      "url": "https://biblemate.ai",
+      "language": "Python"
+    },
+    {
+      "name": "markdown_bible_KJV",
+      "repo": "https://github.com/eliranwong/markdown_bible_KJV"
+    },
+    {
+      "name": "markdown_bible_NET",
+      "repo": "https://github.com/eliranwong/markdown_bible_NET"
+    },
+    {
+      "name": "etextedit",
+      "repo": "https://github.com/eliranwong/etextedit",
+      "language": "Python"
+    },
+    {
+      "name": "agentmakemcp",
+      "repo": "https://github.com/eliranwong/agentmakemcp",
+      "language": "Python"
+    },
+    {
+      "name": "Bible_Podcast_Complete_66_Books",
+      "repo": "https://github.com/eliranwong/Bible_Podcast_Complete_66_Books",
+      "language": "Python"
+    },
+    {
+      "name": "agentmakestudio",
+      "repo": "https://github.com/eliranwong/agentmakestudio",
+      "language": "Python"
+    },
+    {
+      "name": "letmedoit",
+      "repo": "https://github.com/eliranwong/letmedoit",
+      "url": "https://letmedoit.ai",
+      "language": "Python"
+    },
+    {
+      "name": "teamgenai",
+      "repo": "https://github.com/eliranwong/teamgenai",
+      "url": "https://toolmate.ai",
+      "language": "Python"
+    },
+    {
+      "name": "groqchat",
+      "repo": "https://github.com/eliranwong/groqchat",
+      "language": "Python"
+    },
+    {
+      "name": "Bible_Podcast_Daniel",
+      "repo": "https://github.com/eliranwong/Bible_Podcast_Daniel"
+    },
+    {
+      "name": "searchbibleai",
+      "repo": "https://github.com/eliranwong/searchbibleai",
+      "language": "Python"
+    },
+    {
+      "name": "incus_container_gui_setup",
+      "repo": "https://github.com/eliranwong/incus_container_gui_setup"
+    },
+    {
+      "name": "UniqueBibleAPI",
+      "repo": "https://github.com/eliranwong/UniqueBibleAPI",
+      "language": "Python"
+    },
+    {
+      "name": "ubuntu_on_surface_go",
+      "repo": "https://github.com/eliranwong/ubuntu_on_surface_go"
+    },
+    {
+      "name": "wsl2",
+      "repo": "https://github.com/eliranwong/wsl2",
+      "language": "Shell"
+    },
+    {
+      "name": "googleaistudio",
+      "repo": "https://github.com/eliranwong/googleaistudio",
+      "url": "https://letmedoit.ai",
+      "language": "Python"
+    },
+    {
+      "name": "UniqueBible_Plugins_Menu",
+      "repo": "https://github.com/eliranwong/UniqueBible_Plugins_Menu"
+    },
+    {
+      "name": "ChatGPT-GUI",
+      "repo": "https://github.com/eliranwong/ChatGPT-GUI",
+      "url": "https://github.com/eliranwong/ChatGPT-GUI",
+      "language": "Python"
+    },
+    {
+      "name": "autobuilder",
+      "repo": "https://github.com/eliranwong/autobuilder",
+      "language": "Python"
+    },
+    {
+      "name": "autoassistant",
+      "repo": "https://github.com/eliranwong/autoassistant",
+      "language": "Python"
+    },
+    {
+      "name": "automath",
+      "repo": "https://github.com/eliranwong/automath",
+      "language": "Python"
+    },
+    {
+      "name": "autoretriever",
+      "repo": "https://github.com/eliranwong/autoretriever",
+      "language": "Python"
+    },
+    {
+      "name": "autoteachable",
+      "repo": "https://github.com/eliranwong/autoteachable",
+      "language": "Python"
+    },
+    {
+      "name": "OpenHebrewBible",
+      "repo": "https://github.com/eliranwong/OpenHebrewBible",
+      "url": "https://marvel.bible",
+      "language": "HCL"
+    },
+    {
+      "name": "BibleBookOutlines",
+      "repo": "https://github.com/eliranwong/BibleBookOutlines"
+    },
+    {
+      "name": "UniqueBible_Plugins_Context",
+      "repo": "https://github.com/eliranwong/UniqueBible_Plugins_Context"
+    },
+    {
+      "name": "ffocos",
+      "repo": "https://github.com/eliranwong/ffocos",
+      "language": "Go"
+    },
+    {
+      "name": "gobible",
+      "repo": "https://github.com/eliranwong/gobible",
+      "language": "Go"
+    },
+    {
+      "name": "get-path-prompt",
+      "repo": "https://github.com/eliranwong/get-path-prompt",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_WebEnglishBible_british",
+      "repo": "https://github.com/eliranwong/MP3_WebEnglishBible_british",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_ChineseUnionVersion_mandarin",
+      "repo": "https://github.com/eliranwong/MP3_ChineseUnionVersion_mandarin",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_BibleInBasicEnglish_british",
+      "repo": "https://github.com/eliranwong/MP3_BibleInBasicEnglish_british",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_InternationalStandardVersion_british",
+      "repo": "https://github.com/eliranwong/MP3_InternationalStandardVersion_british",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_InternationalStandardVersion_american",
+      "repo": "https://github.com/eliranwong/MP3_InternationalStandardVersion_american",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_BereanStudyBible_british",
+      "repo": "https://github.com/eliranwong/MP3_BereanStudyBible_british",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_BereanStudyBible_american",
+      "repo": "https://github.com/eliranwong/MP3_BereanStudyBible_american",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_LexhamEnglishBible_british",
+      "repo": "https://github.com/eliranwong/MP3_LexhamEnglishBible_british",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_LexhamEnglishBible_american",
+      "repo": "https://github.com/eliranwong/MP3_LexhamEnglishBible_american"
+    },
+    {
+      "name": "MP3_ChineseUnionVersion_cantonese",
+      "repo": "https://github.com/eliranwong/MP3_ChineseUnionVersion_cantonese"
+    },
+    {
+      "name": "MP3_NewEnglishTranslation_american",
+      "repo": "https://github.com/eliranwong/MP3_NewEnglishTranslation_american"
+    },
+    {
+      "name": "MP3_NewEnglishTranslation_british",
+      "repo": "https://github.com/eliranwong/MP3_NewEnglishTranslation_british"
+    },
+    {
+      "name": "MP3_KingJamesVersion_british",
+      "repo": "https://github.com/eliranwong/MP3_KingJamesVersion_british"
+    },
+    {
+      "name": "MP3_EnglishRevisedVersion_british",
+      "repo": "https://github.com/eliranwong/MP3_EnglishRevisedVersion_british",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_AmericanStandardVersion_american",
+      "repo": "https://github.com/eliranwong/MP3_AmericanStandardVersion_american",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_OpenHebrewGreekBible_fast",
+      "repo": "https://github.com/eliranwong/MP3_OpenHebrewGreekBible_fast",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_OpenHebrewGreekBible_slow",
+      "repo": "https://github.com/eliranwong/MP3_OpenHebrewGreekBible_slow"
+    },
+    {
+      "name": "MP3_KingJamesVersion_american",
+      "repo": "https://github.com/eliranwong/MP3_KingJamesVersion_american",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_BHS5_word-by-word",
+      "repo": "https://github.com/eliranwong/MP3_BHS5_word-by-word",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_OpenGNT_word-by-word",
+      "repo": "https://github.com/eliranwong/MP3_OpenGNT_word-by-word",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_WLC_slow",
+      "repo": "https://github.com/eliranwong/MP3_WLC_slow",
+      "language": "Python"
+    },
+    {
+      "name": "MP3_WLC_fast",
+      "repo": "https://github.com/eliranwong/MP3_WLC_fast"
+    },
+    {
+      "name": "MP3_SBLGNT_fast",
+      "repo": "https://github.com/eliranwong/MP3_SBLGNT_fast"
+    },
+    {
+      "name": "MP3_SBLGNT_slow",
+      "repo": "https://github.com/eliranwong/MP3_SBLGNT_slow"
+    },
+    {
+      "name": "OpenGNT",
+      "repo": "https://github.com/eliranwong/OpenGNT",
+      "url": "https://OpenGNT.com",
+      "language": "sed"
+    },
+    {
+      "name": "ChineseUnionVersionCantoneseMP3",
+      "repo": "https://github.com/eliranwong/ChineseUnionVersionCantoneseMP3"
+    },
+    {
+      "name": "uniquebibleapp-webtop",
+      "repo": "https://github.com/eliranwong/uniquebibleapp-webtop",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ArchLinuxWebtop",
+      "repo": "https://github.com/eliranwong/ArchLinuxWebtop"
+    },
+    {
+      "name": "uniquebibleapp-alpine",
+      "repo": "https://github.com/eliranwong/uniquebibleapp-alpine",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "UniqueBibleAppHybrid",
+      "repo": "https://github.com/eliranwong/UniqueBibleAppHybrid",
+      "url": "https://UniqueBible.app",
+      "language": "Dart"
+    },
+    {
+      "name": "DartBible-Flutter",
+      "repo": "https://github.com/eliranwong/DartBible-Flutter",
+      "url": "https://UniqueBible.app",
+      "language": "Dart"
+    },
+    {
+      "name": "bible-verse-parser",
+      "repo": "https://github.com/eliranwong/bible-verse-parser",
+      "url": "https://marvel.bible",
+      "language": "Python"
+    },
+    {
+      "name": "bible",
+      "repo": "https://github.com/eliranwong/bible",
+      "language": "Dart"
+    },
+    {
+      "name": "LXX-Rahlfs-1935",
+      "repo": "https://github.com/eliranwong/LXX-Rahlfs-1935",
+      "url": "https://marvel.bible",
+      "language": "sed"
+    },
+    {
+      "name": "Chinese_synopsis",
+      "repo": "https://github.com/eliranwong/Chinese_synopsis",
+      "url": "https://marvel.bible"
+    },
+    {
+      "name": "Hebrew-analytical-lexicon",
+      "repo": "https://github.com/eliranwong/Hebrew-analytical-lexicon",
+      "url": "https://marvel.bible",
+      "language": "sed"
+    },
+    {
+      "name": "BHS-Strong-no",
+      "repo": "https://github.com/eliranwong/BHS-Strong-no",
+      "url": "https://marvel.bible",
+      "language": "sed"
+    },
+    {
+      "name": "Precious-Bible-Promises",
+      "repo": "https://github.com/eliranwong/Precious-Bible-Promises",
+      "language": "Python"
+    },
+    {
+      "name": "take-words-with-you",
+      "repo": "https://github.com/eliranwong/take-words-with-you",
+      "language": "Python"
+    },
+    {
+      "name": "Marvel.bible",
+      "repo": "https://github.com/eliranwong/Marvel.bible",
+      "url": "https://marvel.bible",
+      "language": "Shell"
+    },
+    {
+      "name": "unabridged-BDB-Hebrew-lexicon",
+      "repo": "https://github.com/eliranwong/unabridged-BDB-Hebrew-lexicon",
+      "url": "https://marvel.bible"
+    },
+    {
+      "name": "ETCBC-recycle",
+      "repo": "https://github.com/eliranwong/ETCBC-recycle",
+      "url": "https://marvel.bible",
+      "language": "sed"
+    },
+    {
+      "name": "BibleBento",
+      "repo": "https://github.com/eliranwong/BibleBento",
+      "url": "https://marvel.bible"
+    },
+    {
+      "name": "SBLGNT-add-ons",
+      "repo": "https://github.com/eliranwong/SBLGNT-add-ons",
+      "url": "https://marvel.bible",
+      "language": "HCL"
+    },
+    {
+      "name": "LXX-Swete-1930",
+      "repo": "https://github.com/eliranwong/LXX-Swete-1930",
+      "url": "https://marvel.bible"
+    },
+    {
+      "name": "Berean-remix",
+      "repo": "https://github.com/eliranwong/Berean-remix",
+      "url": "https://marvel.bible",
+      "language": "Shell"
+    },
+    {
+      "name": "ETCBC-remix",
+      "repo": "https://github.com/eliranwong/ETCBC-remix",
+      "url": "https://marvel.bible",
+      "language": "Shell"
+    }
+  ]
 }

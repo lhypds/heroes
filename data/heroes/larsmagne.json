@@ -5,6 +5,516 @@
     "https://github.com/larsmagne"
   ],
   "website": "https://lars.ingebrigtsen.no/",
+  "own_repos": 128,
   "commits": 10987,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "spllng.el",
+      "repo": "https://github.com/larsmagne/spllng.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "query-assistant.el",
+      "repo": "https://github.com/larsmagne/query-assistant.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "gcal.el",
+      "repo": "https://github.com/larsmagne/gcal.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bookiez.el",
+      "repo": "https://github.com/larsmagne/bookiez.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "browse-d64",
+      "repo": "https://github.com/larsmagne/browse-d64",
+      "language": "HTML"
+    },
+    {
+      "name": "ewp",
+      "repo": "https://github.com/larsmagne/ewp",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "smalldisplay.el",
+      "repo": "https://github.com/larsmagne/smalldisplay.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flutter",
+      "repo": "https://github.com/larsmagne/flutter",
+      "language": "Perl"
+    },
+    {
+      "name": "coconino-county",
+      "repo": "https://github.com/larsmagne/coconino-county"
+    },
+    {
+      "name": "alarm-clock.el",
+      "repo": "https://github.com/larsmagne/alarm-clock.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "previews.el",
+      "repo": "https://github.com/larsmagne/previews.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "wse",
+      "repo": "https://github.com/larsmagne/wse",
+      "url": "https://lars.ingebrigtsen.no/2025/01/11/wordpress-statistics-me/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "meme",
+      "repo": "https://github.com/larsmagne/meme",
+      "url": "https://lars.ingebrigtsen.no/2016/06/27/an-emacs-meme-generator/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "eplot",
+      "repo": "https://github.com/larsmagne/eplot",
+      "url": "https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "seeedframe",
+      "repo": "https://github.com/larsmagne/seeedframe",
+      "language": "Shell"
+    },
+    {
+      "name": "tellstick.el",
+      "repo": "https://github.com/larsmagne/tellstick.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "fetch-dom.el",
+      "repo": "https://github.com/larsmagne/fetch-dom.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "movie.el",
+      "repo": "https://github.com/larsmagne/movie.el",
+      "url": "https://lars.ingebrigtsen.no/2011/04/12/emacs-movie-browser/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "imdb.el",
+      "repo": "https://github.com/larsmagne/imdb.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "hn.py",
+      "repo": "https://github.com/larsmagne/hn.py",
+      "language": "Python"
+    },
+    {
+      "name": "csid",
+      "repo": "https://github.com/larsmagne/csid",
+      "language": "JavaScript"
+    },
+    {
+      "name": "emacs",
+      "repo": "https://github.com/larsmagne/emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "magscan.el",
+      "repo": "https://github.com/larsmagne/magscan.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "gnus-spsl.el",
+      "repo": "https://github.com/larsmagne/gnus-spsl.el",
+      "url": "https://lars.ingebrigtsen.no/2026/06/05/super-simple-spam-splitting-for-gnus/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "anddo.el",
+      "repo": "https://github.com/larsmagne/anddo.el",
+      "url": "https://lars.ingebrigtsen.no/2024/06/17/a-super-simple-todo-package-for-emacs/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "screensaver.el",
+      "repo": "https://github.com/larsmagne/screensaver.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pixilate-images",
+      "repo": "https://github.com/larsmagne/pixilate-images",
+      "language": "Shell"
+    },
+    {
+      "name": "posters.el",
+      "repo": "https://github.com/larsmagne/posters.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "link-shot",
+      "repo": "https://github.com/larsmagne/link-shot",
+      "url": "https://lars.ingebrigtsen.no/2026/03/17/screenshot-all-the-links/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "watch-directory.el",
+      "repo": "https://github.com/larsmagne/watch-directory.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "svg-aux.el",
+      "repo": "https://github.com/larsmagne/svg-aux.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cddb.el",
+      "repo": "https://github.com/larsmagne/cddb.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "touchgrid.el",
+      "repo": "https://github.com/larsmagne/touchgrid.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "libinput.el",
+      "repo": "https://github.com/larsmagne/libinput.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emerald",
+      "repo": "https://github.com/larsmagne/emerald",
+      "language": "JavaScript"
+    },
+    {
+      "name": "roman.el",
+      "repo": "https://github.com/larsmagne/roman.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pgdn-fixer",
+      "repo": "https://github.com/larsmagne/pgdn-fixer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drivedown",
+      "repo": "https://github.com/larsmagne/drivedown",
+      "url": "https://lars.ingebrigtsen.no/2024/09/26/downloading-pdfs-from-google-drive/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chart",
+      "repo": "https://github.com/larsmagne/chart",
+      "language": "PHP"
+    },
+    {
+      "name": "dkim-on-exim4",
+      "repo": "https://github.com/larsmagne/dkim-on-exim4",
+      "url": "https://lars.ingebrigtsen.no/2020/03/22/outgoing-dkim-and-exim4/",
+      "language": "Shell"
+    },
+    {
+      "name": "gwene",
+      "repo": "https://github.com/larsmagne/gwene",
+      "language": "Perl"
+    },
+    {
+      "name": "weaverd",
+      "repo": "https://github.com/larsmagne/weaverd",
+      "language": "C"
+    },
+    {
+      "name": "evrouter",
+      "repo": "https://github.com/larsmagne/evrouter",
+      "language": "TeX"
+    },
+    {
+      "name": "make-mta",
+      "repo": "https://github.com/larsmagne/make-mta",
+      "url": "https://lars.ingebrigtsen.no/2020/03/25/so-you-want-to-run-your-own-mail-server/",
+      "language": "Shell"
+    },
+    {
+      "name": "ahrefs.el",
+      "repo": "https://github.com/larsmagne/ahrefs.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lapbus.el",
+      "repo": "https://github.com/larsmagne/lapbus.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "open-web.el",
+      "repo": "https://github.com/larsmagne/open-web.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "scrobble.el",
+      "repo": "https://github.com/larsmagne/scrobble.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "simple-auto-poster-for-bluesky",
+      "repo": "https://github.com/larsmagne/simple-auto-poster-for-bluesky",
+      "language": "PHP"
+    },
+    {
+      "name": "world-map",
+      "repo": "https://github.com/larsmagne/world-map"
+    },
+    {
+      "name": "archive-rss.el",
+      "repo": "https://github.com/larsmagne/archive-rss.el",
+      "url": "https://lars.ingebrigtsen.no/2025/01/05/a-simple-archive-org-rss-feed-creator/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "clock.el",
+      "repo": "https://github.com/larsmagne/clock.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "wave",
+      "repo": "https://github.com/larsmagne/wave",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pqiv",
+      "repo": "https://github.com/larsmagne/pqiv",
+      "language": "C"
+    },
+    {
+      "name": "album-years",
+      "repo": "https://github.com/larsmagne/album-years",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dae.el",
+      "repo": "https://github.com/larsmagne/dae.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "app-csid",
+      "repo": "https://github.com/larsmagne/app-csid",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sqorm.el",
+      "repo": "https://github.com/larsmagne/sqorm.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "eval-server.el",
+      "repo": "https://github.com/larsmagne/eval-server.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "multiface-firmware",
+      "repo": "https://github.com/larsmagne/multiface-firmware"
+    },
+    {
+      "name": "tcj.el",
+      "repo": "https://github.com/larsmagne/tcj.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lyric-wiki.el",
+      "repo": "https://github.com/larsmagne/lyric-wiki.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "discogs.el",
+      "repo": "https://github.com/larsmagne/discogs.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "musicbrainz.el",
+      "repo": "https://github.com/larsmagne/musicbrainz.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "scan.el",
+      "repo": "https://github.com/larsmagne/scan.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "comics.el",
+      "repo": "https://github.com/larsmagne/comics.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pvr.el",
+      "repo": "https://github.com/larsmagne/pvr.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lantern",
+      "repo": "https://github.com/larsmagne/lantern",
+      "language": "HTML"
+    },
+    {
+      "name": "gnus-twit",
+      "repo": "https://github.com/larsmagne/gnus-twit",
+      "url": "https://lars.ingebrigtsen.no/2020/08/31/you-still-cant-read-twitter-with-gnus/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flit",
+      "repo": "https://github.com/larsmagne/flit",
+      "language": "Perl"
+    },
+    {
+      "name": "git-stats.el",
+      "repo": "https://github.com/larsmagne/git-stats.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flashair.el",
+      "repo": "https://github.com/larsmagne/flashair.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "z-wave.el",
+      "repo": "https://github.com/larsmagne/z-wave.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "wexp.el",
+      "repo": "https://github.com/larsmagne/wexp.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "curlybrace.el",
+      "repo": "https://github.com/larsmagne/curlybrace.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "clipboard-explorer.el",
+      "repo": "https://github.com/larsmagne/clipboard-explorer.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "id3.el",
+      "repo": "https://github.com/larsmagne/id3.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "imgur.el",
+      "repo": "https://github.com/larsmagne/imgur.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "stats-emacs",
+      "repo": "https://github.com/larsmagne/stats-emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "search-youtube.el",
+      "repo": "https://github.com/larsmagne/search-youtube.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flac123",
+      "repo": "https://github.com/larsmagne/flac123",
+      "language": "C"
+    },
+    {
+      "name": "mmaps",
+      "repo": "https://github.com/larsmagne/mmaps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "comics-data",
+      "repo": "https://github.com/larsmagne/comics-data"
+    },
+    {
+      "name": "wp-comments",
+      "repo": "https://github.com/larsmagne/wp-comments",
+      "language": "Python"
+    },
+    {
+      "name": "smtp-callout.el",
+      "repo": "https://github.com/larsmagne/smtp-callout.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "translations",
+      "repo": "https://github.com/larsmagne/translations"
+    },
+    {
+      "name": "pdfscan.el",
+      "repo": "https://github.com/larsmagne/pdfscan.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "undecodify.el",
+      "repo": "https://github.com/larsmagne/undecodify.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "rsync-tr",
+      "repo": "https://github.com/larsmagne/rsync-tr",
+      "language": "C"
+    },
+    {
+      "name": "unsilence",
+      "repo": "https://github.com/larsmagne/unsilence",
+      "url": "https://lars.ingebrigtsen.no/2019/04/21/unsilence/",
+      "language": "C"
+    },
+    {
+      "name": "tinyurl.el",
+      "repo": "https://github.com/larsmagne/tinyurl.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "eyesore.el",
+      "repo": "https://github.com/larsmagne/eyesore.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "usbreset",
+      "repo": "https://github.com/larsmagne/usbreset",
+      "language": "C"
+    },
+    {
+      "name": "tcor",
+      "repo": "https://github.com/larsmagne/tcor"
+    },
+    {
+      "name": "vpt.el",
+      "repo": "https://github.com/larsmagne/vpt.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "qiv",
+      "repo": "https://github.com/larsmagne/qiv",
+      "language": "C"
+    },
+    {
+      "name": "compand",
+      "repo": "https://github.com/larsmagne/compand",
+      "language": "Shell"
+    },
+    {
+      "name": "libibput.el",
+      "repo": "https://github.com/larsmagne/libibput.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mpv",
+      "repo": "https://github.com/larsmagne/mpv",
+      "language": "C"
+    },
+    {
+      "name": "giffy",
+      "repo": "https://github.com/larsmagne/giffy",
+      "language": "Emacs Lisp"
+    }
+  ]
 }

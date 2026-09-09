@@ -6,6 +6,514 @@
   ],
   "website": "https://merkoba.com/",
   "bio": "do not remove features. do not remove features. do not remove features. do not remove features. do not remove features. do not remove features.",
+  "own_repos": 108,
   "commits": 20522,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "grasshopper",
+      "repo": "https://github.com/madprops/grasshopper",
+      "url": "https://addons.mozilla.org/firefox/addon/grasshopper-urls/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/madprops/blog"
+    },
+    {
+      "name": "numb",
+      "repo": "https://github.com/madprops/numb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gifcapture",
+      "repo": "https://github.com/madprops/gifcapture",
+      "language": "Ruby"
+    },
+    {
+      "name": "gifmaker",
+      "repo": "https://github.com/madprops/gifmaker",
+      "language": "Python"
+    },
+    {
+      "name": "timba",
+      "repo": "https://github.com/madprops/timba",
+      "language": "Rust"
+    },
+    {
+      "name": "shis",
+      "repo": "https://github.com/madprops/shis",
+      "language": "Python"
+    },
+    {
+      "name": "airc",
+      "repo": "https://github.com/madprops/airc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "trackcheck",
+      "repo": "https://github.com/madprops/trackcheck",
+      "url": "https://madprops.github.io/trackcheck/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "githop",
+      "repo": "https://github.com/madprops/githop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Hoff",
+      "repo": "https://github.com/madprops/Hoff",
+      "url": "https://madprops.github.io/Hoff/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clipton",
+      "repo": "https://github.com/madprops/clipton",
+      "language": "Python"
+    },
+    {
+      "name": "lq",
+      "repo": "https://github.com/madprops/lq",
+      "language": "Nim"
+    },
+    {
+      "name": "openfile",
+      "repo": "https://github.com/madprops/openfile",
+      "language": "Python"
+    },
+    {
+      "name": "goldie",
+      "repo": "https://github.com/madprops/goldie",
+      "language": "Nim"
+    },
+    {
+      "name": "ezkl",
+      "repo": "https://github.com/madprops/ezkl",
+      "language": "Python"
+    },
+    {
+      "name": "psyop",
+      "repo": "https://github.com/madprops/psyop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awesome-setup",
+      "repo": "https://github.com/madprops/awesome-setup",
+      "language": "Lua"
+    },
+    {
+      "name": "psyop_docker",
+      "repo": "https://github.com/madprops/psyop_docker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gems",
+      "repo": "https://github.com/madprops/gems",
+      "language": "Python"
+    },
+    {
+      "name": "thumbs",
+      "repo": "https://github.com/madprops/thumbs",
+      "language": "Python"
+    },
+    {
+      "name": "beermusic",
+      "repo": "https://github.com/madprops/beermusic",
+      "language": "JavaScript"
+    },
+    {
+      "name": "videohelper",
+      "repo": "https://github.com/madprops/videohelper",
+      "language": "Python"
+    },
+    {
+      "name": "needcontext",
+      "repo": "https://github.com/madprops/needcontext",
+      "language": "JavaScript"
+    },
+    {
+      "name": "memphis",
+      "repo": "https://github.com/madprops/memphis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "playback-control",
+      "repo": "https://github.com/madprops/playback-control",
+      "language": "C++"
+    },
+    {
+      "name": "vscode-settings",
+      "repo": "https://github.com/madprops/vscode-settings"
+    },
+    {
+      "name": "launchkey_control",
+      "repo": "https://github.com/madprops/launchkey_control",
+      "language": "Rust"
+    },
+    {
+      "name": "curls",
+      "repo": "https://github.com/madprops/curls",
+      "url": "https://curls.merkoba.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dom",
+      "repo": "https://github.com/madprops/dom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vaca",
+      "repo": "https://github.com/madprops/vaca",
+      "language": "Shell"
+    },
+    {
+      "name": "gumo",
+      "repo": "https://github.com/madprops/gumo",
+      "language": "Shell"
+    },
+    {
+      "name": "prompts",
+      "repo": "https://github.com/madprops/prompts"
+    },
+    {
+      "name": "empris",
+      "repo": "https://github.com/madprops/empris",
+      "language": "Python"
+    },
+    {
+      "name": "strudel",
+      "repo": "https://github.com/madprops/strudel",
+      "language": "Python"
+    },
+    {
+      "name": "semicolor",
+      "repo": "https://github.com/madprops/semicolor",
+      "language": "Python"
+    },
+    {
+      "name": "diaysi",
+      "repo": "https://github.com/madprops/diaysi",
+      "language": "Nim"
+    },
+    {
+      "name": "youloop",
+      "repo": "https://github.com/madprops/youloop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Paste",
+      "repo": "https://github.com/madprops/Paste",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mev",
+      "repo": "https://github.com/madprops/mev",
+      "language": "Python"
+    },
+    {
+      "name": "el",
+      "repo": "https://github.com/madprops/el",
+      "language": "Rust"
+    },
+    {
+      "name": "tres",
+      "repo": "https://github.com/madprops/tres",
+      "language": "Python"
+    },
+    {
+      "name": "ent",
+      "repo": "https://github.com/madprops/ent",
+      "language": "Shell"
+    },
+    {
+      "name": "utilz",
+      "repo": "https://github.com/madprops/utilz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "symview",
+      "repo": "https://github.com/madprops/symview",
+      "language": "Python"
+    },
+    {
+      "name": "nextwatch",
+      "repo": "https://github.com/madprops/nextwatch",
+      "language": "Python"
+    },
+    {
+      "name": "logitech",
+      "repo": "https://github.com/madprops/logitech",
+      "language": "HTML"
+    },
+    {
+      "name": "colorlib",
+      "repo": "https://github.com/madprops/colorlib",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hackernewsmods",
+      "repo": "https://github.com/madprops/hackernewsmods",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/hacker-news-mods/",
+      "language": "CSS"
+    },
+    {
+      "name": "clickman",
+      "repo": "https://github.com/madprops/clickman",
+      "language": "Python"
+    },
+    {
+      "name": "vimview",
+      "repo": "https://github.com/madprops/vimview",
+      "language": "Vim Script"
+    },
+    {
+      "name": "nap",
+      "repo": "https://github.com/madprops/nap",
+      "language": "Nim"
+    },
+    {
+      "name": "mousemanager",
+      "repo": "https://github.com/madprops/mousemanager",
+      "language": "Python"
+    },
+    {
+      "name": "terminator-config",
+      "repo": "https://github.com/madprops/terminator-config",
+      "language": "Python"
+    },
+    {
+      "name": "gifmaker_gui",
+      "repo": "https://github.com/madprops/gifmaker_gui",
+      "language": "Python"
+    },
+    {
+      "name": "nicegesture",
+      "repo": "https://github.com/madprops/nicegesture",
+      "url": "https://madprops.github.io/nicegesture/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "foxprofiles",
+      "repo": "https://github.com/madprops/foxprofiles",
+      "language": "Ruby"
+    },
+    {
+      "name": "youtubecopy",
+      "repo": "https://github.com/madprops/youtubecopy",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-copy/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "objection",
+      "repo": "https://github.com/madprops/objection",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ThemeList",
+      "repo": "https://github.com/madprops/ThemeList",
+      "language": "JavaScript"
+    },
+    {
+      "name": "niceformat",
+      "repo": "https://github.com/madprops/niceformat",
+      "language": "Ruby"
+    },
+    {
+      "name": "colorscreen",
+      "repo": "https://github.com/madprops/colorscreen",
+      "url": "https://madprops.github.io/colorscreen/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crux",
+      "repo": "https://github.com/madprops/crux",
+      "language": "Ruby"
+    },
+    {
+      "name": "sopel-plugins",
+      "repo": "https://github.com/madprops/sopel-plugins",
+      "language": "Python"
+    },
+    {
+      "name": "rofimenu",
+      "repo": "https://github.com/madprops/rofimenu",
+      "language": "Python"
+    },
+    {
+      "name": "occurrence-count",
+      "repo": "https://github.com/madprops/occurrence-count",
+      "language": "JavaScript"
+    },
+    {
+      "name": "userChrome-firefox",
+      "repo": "https://github.com/madprops/userChrome-firefox",
+      "language": "CSS"
+    },
+    {
+      "name": "rumsfeld",
+      "repo": "https://github.com/madprops/rumsfeld",
+      "language": "Nim"
+    },
+    {
+      "name": "videosub",
+      "repo": "https://github.com/madprops/videosub",
+      "language": "Python"
+    },
+    {
+      "name": "pkgbuilds",
+      "repo": "https://github.com/madprops/pkgbuilds",
+      "language": "Shell"
+    },
+    {
+      "name": "copyevent",
+      "repo": "https://github.com/madprops/copyevent",
+      "language": "C"
+    },
+    {
+      "name": "nu-config",
+      "repo": "https://github.com/madprops/nu-config",
+      "language": "Nu"
+    },
+    {
+      "name": "camelfly",
+      "repo": "https://github.com/madprops/camelfly",
+      "language": "JavaScript"
+    },
+    {
+      "name": "audiotag",
+      "repo": "https://github.com/madprops/audiotag",
+      "language": "Python"
+    },
+    {
+      "name": "pulso",
+      "repo": "https://github.com/madprops/pulso",
+      "language": "JavaScript"
+    },
+    {
+      "name": "succ",
+      "repo": "https://github.com/madprops/succ",
+      "language": "Rust"
+    },
+    {
+      "name": "lester",
+      "repo": "https://github.com/madprops/lester",
+      "language": "Nim"
+    },
+    {
+      "name": "rofidict",
+      "repo": "https://github.com/madprops/rofidict",
+      "language": "Python"
+    },
+    {
+      "name": "Nordico",
+      "repo": "https://github.com/madprops/Nordico"
+    },
+    {
+      "name": "numberstring",
+      "repo": "https://github.com/madprops/numberstring",
+      "url": "https://madprops.github.io/numberstring/",
+      "language": "Nim"
+    },
+    {
+      "name": "sym",
+      "repo": "https://github.com/madprops/sym",
+      "language": "Nim"
+    },
+    {
+      "name": "nimbars",
+      "repo": "https://github.com/madprops/nimbars",
+      "language": "Nim"
+    },
+    {
+      "name": "dirfun",
+      "repo": "https://github.com/madprops/dirfun",
+      "language": "Nim"
+    },
+    {
+      "name": "conway",
+      "repo": "https://github.com/madprops/conway",
+      "url": "https://madprops.github.io/conway/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "looper",
+      "repo": "https://github.com/madprops/looper",
+      "language": "Python"
+    },
+    {
+      "name": "dubya",
+      "repo": "https://github.com/madprops/dubya",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mpv-config",
+      "repo": "https://github.com/madprops/mpv-config",
+      "language": "Lua"
+    },
+    {
+      "name": "grop",
+      "repo": "https://github.com/madprops/grop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "frankenbox",
+      "repo": "https://github.com/madprops/frankenbox",
+      "language": "Shell"
+    },
+    {
+      "name": "woke.sh",
+      "repo": "https://github.com/madprops/woke.sh",
+      "language": "Shell"
+    },
+    {
+      "name": "clok",
+      "repo": "https://github.com/madprops/clok",
+      "language": "Rust"
+    },
+    {
+      "name": "StorageUI",
+      "repo": "https://github.com/madprops/StorageUI",
+      "language": "JavaScript"
+    },
+    {
+      "name": "qool",
+      "repo": "https://github.com/madprops/qool",
+      "language": "Rust"
+    },
+    {
+      "name": "schoon",
+      "repo": "https://github.com/madprops/schoon",
+      "language": "Rust"
+    },
+    {
+      "name": "Kya",
+      "repo": "https://github.com/madprops/Kya"
+    },
+    {
+      "name": "colorskill",
+      "repo": "https://github.com/madprops/colorskill",
+      "language": "Rust"
+    },
+    {
+      "name": "Separator",
+      "repo": "https://github.com/madprops/Separator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simpleradio",
+      "repo": "https://github.com/madprops/simpleradio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tower-breaker",
+      "repo": "https://github.com/madprops/tower-breaker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "console-log-checker",
+      "repo": "https://github.com/madprops/console-log-checker",
+      "language": "JavaScript"
+    }
+  ]
 }

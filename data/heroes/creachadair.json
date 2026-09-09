@@ -4,5 +4,505 @@
   "github": [
     "https://github.com/creachadair"
   ],
-  "commits": 17117
+  "own_repos": 108,
+  "commits": 17117,
+  "repos": [
+    {
+      "name": "chirpstore",
+      "repo": "https://github.com/creachadair/chirpstore",
+      "language": "Go"
+    },
+    {
+      "name": "notifier",
+      "repo": "https://github.com/creachadair/notifier",
+      "language": "Go"
+    },
+    {
+      "name": "ansi",
+      "repo": "https://github.com/creachadair/ansi",
+      "language": "Go"
+    },
+    {
+      "name": "mds",
+      "repo": "https://github.com/creachadair/mds",
+      "language": "Go"
+    },
+    {
+      "name": "chirp",
+      "repo": "https://github.com/creachadair/chirp",
+      "language": "Go"
+    },
+    {
+      "name": "mboxlib",
+      "repo": "https://github.com/creachadair/mboxlib",
+      "language": "Go"
+    },
+    {
+      "name": "msync",
+      "repo": "https://github.com/creachadair/msync",
+      "language": "Go"
+    },
+    {
+      "name": "jtree",
+      "repo": "https://github.com/creachadair/jtree",
+      "language": "Go"
+    },
+    {
+      "name": "toys",
+      "repo": "https://github.com/creachadair/toys",
+      "language": "Go"
+    },
+    {
+      "name": "s3store",
+      "repo": "https://github.com/creachadair/s3store",
+      "language": "Go"
+    },
+    {
+      "name": "mhttp",
+      "repo": "https://github.com/creachadair/mhttp",
+      "language": "Go"
+    },
+    {
+      "name": "ffuse",
+      "repo": "https://github.com/creachadair/ffuse",
+      "language": "Go"
+    },
+    {
+      "name": "keyfish",
+      "repo": "https://github.com/creachadair/keyfish",
+      "language": "Go"
+    },
+    {
+      "name": "cobs",
+      "repo": "https://github.com/creachadair/cobs",
+      "language": "Go"
+    },
+    {
+      "name": "ffstools",
+      "repo": "https://github.com/creachadair/ffstools",
+      "language": "Go"
+    },
+    {
+      "name": "misctools",
+      "repo": "https://github.com/creachadair/misctools",
+      "language": "Go"
+    },
+    {
+      "name": "jrpc2",
+      "repo": "https://github.com/creachadair/jrpc2",
+      "language": "Go"
+    },
+    {
+      "name": "examples",
+      "repo": "https://github.com/creachadair/examples",
+      "language": "Go"
+    },
+    {
+      "name": "ffs",
+      "repo": "https://github.com/creachadair/ffs",
+      "language": "Go"
+    },
+    {
+      "name": "keyring",
+      "repo": "https://github.com/creachadair/keyring",
+      "language": "Go"
+    },
+    {
+      "name": "buntdbstore",
+      "repo": "https://github.com/creachadair/buntdbstore",
+      "language": "Go"
+    },
+    {
+      "name": "tea",
+      "repo": "https://github.com/creachadair/tea",
+      "language": "Go"
+    },
+    {
+      "name": "semver",
+      "repo": "https://github.com/creachadair/semver",
+      "language": "Go"
+    },
+    {
+      "name": "snapback",
+      "repo": "https://github.com/creachadair/snapback",
+      "language": "Go"
+    },
+    {
+      "name": "atomicfile",
+      "repo": "https://github.com/creachadair/atomicfile",
+      "language": "Go"
+    },
+    {
+      "name": "command",
+      "repo": "https://github.com/creachadair/command",
+      "language": "Go"
+    },
+    {
+      "name": "gocache",
+      "repo": "https://github.com/creachadair/gocache",
+      "language": "Go"
+    },
+    {
+      "name": "flax",
+      "repo": "https://github.com/creachadair/flax",
+      "language": "Go"
+    },
+    {
+      "name": "gcsstore",
+      "repo": "https://github.com/creachadair/gcsstore",
+      "language": "Go"
+    },
+    {
+      "name": "getpass",
+      "repo": "https://github.com/creachadair/getpass",
+      "language": "Go"
+    },
+    {
+      "name": "otp",
+      "repo": "https://github.com/creachadair/otp",
+      "language": "Go"
+    },
+    {
+      "name": "wirepb",
+      "repo": "https://github.com/creachadair/wirepb",
+      "language": "Go"
+    },
+    {
+      "name": "cookies",
+      "repo": "https://github.com/creachadair/cookies",
+      "language": "Go"
+    },
+    {
+      "name": "enumgen",
+      "repo": "https://github.com/creachadair/enumgen",
+      "language": "Go"
+    },
+    {
+      "name": "pebblestore",
+      "repo": "https://github.com/creachadair/pebblestore",
+      "language": "Go"
+    },
+    {
+      "name": "rosedbstore",
+      "repo": "https://github.com/creachadair/rosedbstore",
+      "language": "Go"
+    },
+    {
+      "name": "boltstore",
+      "repo": "https://github.com/creachadair/boltstore",
+      "language": "Go"
+    },
+    {
+      "name": "badgerstore",
+      "repo": "https://github.com/creachadair/badgerstore",
+      "language": "Go"
+    },
+    {
+      "name": "tomledit",
+      "repo": "https://github.com/creachadair/tomledit",
+      "language": "Go"
+    },
+    {
+      "name": "recipes",
+      "repo": "https://github.com/creachadair/recipes",
+      "language": "Markdown"
+    },
+    {
+      "name": "tlsutil",
+      "repo": "https://github.com/creachadair/tlsutil",
+      "language": "Go"
+    },
+    {
+      "name": "taskgroup",
+      "repo": "https://github.com/creachadair/taskgroup",
+      "language": "Go"
+    },
+    {
+      "name": "git-go",
+      "repo": "https://github.com/creachadair/git-go",
+      "language": "Go"
+    },
+    {
+      "name": "wschannel",
+      "repo": "https://github.com/creachadair/wschannel",
+      "language": "Go"
+    },
+    {
+      "name": "scheddle",
+      "repo": "https://github.com/creachadair/scheddle",
+      "language": "Go"
+    },
+    {
+      "name": "ctrl",
+      "repo": "https://github.com/creachadair/ctrl",
+      "language": "Go"
+    },
+    {
+      "name": "pson",
+      "repo": "https://github.com/creachadair/pson",
+      "language": "Go"
+    },
+    {
+      "name": "cityhash",
+      "repo": "https://github.com/creachadair/cityhash",
+      "language": "Go"
+    },
+    {
+      "name": "bplist",
+      "repo": "https://github.com/creachadair/bplist",
+      "language": "Go"
+    },
+    {
+      "name": "tarsnap",
+      "repo": "https://github.com/creachadair/tarsnap",
+      "language": "Go"
+    },
+    {
+      "name": "stockopt",
+      "repo": "https://github.com/creachadair/stockopt",
+      "language": "Go"
+    },
+    {
+      "name": "miser",
+      "repo": "https://github.com/creachadair/miser",
+      "language": "BASIC"
+    },
+    {
+      "name": "go-presubmit-action",
+      "repo": "https://github.com/creachadair/go-presubmit-action",
+      "language": "Shell"
+    },
+    {
+      "name": "sqlitestore",
+      "repo": "https://github.com/creachadair/sqlitestore",
+      "language": "Go"
+    },
+    {
+      "name": "leveldbstore",
+      "repo": "https://github.com/creachadair/leveldbstore",
+      "language": "Go"
+    },
+    {
+      "name": "bitcaskstore",
+      "repo": "https://github.com/creachadair/bitcaskstore",
+      "language": "Go"
+    },
+    {
+      "name": "postscript",
+      "repo": "https://github.com/creachadair/postscript",
+      "language": "Go"
+    },
+    {
+      "name": "perm",
+      "repo": "https://github.com/creachadair/perm",
+      "language": "Go"
+    },
+    {
+      "name": "pattern",
+      "repo": "https://github.com/creachadair/pattern",
+      "language": "Go"
+    },
+    {
+      "name": "lice",
+      "repo": "https://github.com/creachadair/lice",
+      "language": "Go"
+    },
+    {
+      "name": "hapi",
+      "repo": "https://github.com/creachadair/hapi",
+      "language": "Go"
+    },
+    {
+      "name": "goflags",
+      "repo": "https://github.com/creachadair/goflags",
+      "language": "Go"
+    },
+    {
+      "name": "culprit",
+      "repo": "https://github.com/creachadair/culprit",
+      "language": "Go"
+    },
+    {
+      "name": "imath",
+      "repo": "https://github.com/creachadair/imath",
+      "language": "C"
+    },
+    {
+      "name": "docker-images",
+      "repo": "https://github.com/creachadair/docker-images",
+      "language": "Makefile"
+    },
+    {
+      "name": "eyepopper",
+      "repo": "https://github.com/creachadair/eyepopper",
+      "language": "Python"
+    },
+    {
+      "name": "mazegen",
+      "repo": "https://github.com/creachadair/mazegen",
+      "language": "C"
+    },
+    {
+      "name": "prgfile",
+      "repo": "https://github.com/creachadair/prgfile",
+      "language": "Go"
+    },
+    {
+      "name": "xcal",
+      "repo": "https://github.com/creachadair/xcal",
+      "language": "C"
+    },
+    {
+      "name": "graphsheets",
+      "repo": "https://github.com/creachadair/graphsheets",
+      "language": "PostScript"
+    },
+    {
+      "name": "keyfile",
+      "repo": "https://github.com/creachadair/keyfile",
+      "language": "Go"
+    },
+    {
+      "name": "aoc",
+      "repo": "https://github.com/creachadair/aoc",
+      "language": "Go"
+    },
+    {
+      "name": "pogrebstore",
+      "repo": "https://github.com/creachadair/pogrebstore",
+      "language": "Go"
+    },
+    {
+      "name": "hypercard",
+      "repo": "https://github.com/creachadair/hypercard",
+      "language": "Go"
+    },
+    {
+      "name": "go-paths",
+      "repo": "https://github.com/creachadair/go-paths",
+      "language": "Go"
+    },
+    {
+      "name": "ravelry",
+      "repo": "https://github.com/creachadair/ravelry",
+      "language": "Go"
+    },
+    {
+      "name": "creachadair",
+      "repo": "https://github.com/creachadair/creachadair"
+    },
+    {
+      "name": "leaf",
+      "repo": "https://github.com/creachadair/leaf",
+      "language": "Go"
+    },
+    {
+      "name": "fileinput",
+      "repo": "https://github.com/creachadair/fileinput",
+      "language": "Go"
+    },
+    {
+      "name": "bitstream",
+      "repo": "https://github.com/creachadair/bitstream",
+      "language": "Go"
+    },
+    {
+      "name": "staticfile",
+      "repo": "https://github.com/creachadair/staticfile",
+      "language": "Go"
+    },
+    {
+      "name": "kythebox",
+      "repo": "https://github.com/creachadair/kythebox",
+      "language": "Shell"
+    },
+    {
+      "name": "fusebox",
+      "repo": "https://github.com/creachadair/fusebox"
+    },
+    {
+      "name": "ini",
+      "repo": "https://github.com/creachadair/ini",
+      "language": "Go"
+    },
+    {
+      "name": "nutstore",
+      "repo": "https://github.com/creachadair/nutstore",
+      "language": "Go"
+    },
+    {
+      "name": "tasque",
+      "repo": "https://github.com/creachadair/tasque"
+    },
+    {
+      "name": "twitter",
+      "repo": "https://github.com/creachadair/twitter",
+      "language": "Go"
+    },
+    {
+      "name": "twig",
+      "repo": "https://github.com/creachadair/twig",
+      "language": "Go"
+    },
+    {
+      "name": "rpcstore",
+      "repo": "https://github.com/creachadair/rpcstore",
+      "language": "Go"
+    },
+    {
+      "name": "scrubby",
+      "repo": "https://github.com/creachadair/scrubby",
+      "language": "Python"
+    },
+    {
+      "name": "binpack",
+      "repo": "https://github.com/creachadair/binpack",
+      "language": "Go"
+    },
+    {
+      "name": "vql",
+      "repo": "https://github.com/creachadair/vql",
+      "language": "Go"
+    },
+    {
+      "name": "jhttp",
+      "repo": "https://github.com/creachadair/jhttp",
+      "language": "Go"
+    },
+    {
+      "name": "wirepb-experiment",
+      "repo": "https://github.com/creachadair/wirepb-experiment",
+      "language": "Go"
+    },
+    {
+      "name": "repodeps",
+      "repo": "https://github.com/creachadair/repodeps",
+      "language": "Go"
+    },
+    {
+      "name": "bombgame",
+      "repo": "https://github.com/creachadair/bombgame",
+      "language": "HTML"
+    },
+    {
+      "name": "py-ssh-sftp",
+      "repo": "https://github.com/creachadair/py-ssh-sftp",
+      "language": "Python"
+    },
+    {
+      "name": "classifier",
+      "repo": "https://github.com/creachadair/classifier",
+      "language": "Python"
+    },
+    {
+      "name": "curled",
+      "repo": "https://github.com/creachadair/curled",
+      "language": "Python"
+    },
+    {
+      "name": "kmeans",
+      "repo": "https://github.com/creachadair/kmeans",
+      "language": "Python"
+    }
+  ]
 }

@@ -6,6 +6,512 @@
   ],
   "website": "https://mertturkmenoglu.com/",
   "bio": "Software Engineer | Whovian | Violin and guitar player | Squirrel Geek I know how to exit VIM. I use Arch btw.",
+  "own_repos": 106,
   "commits": 12549,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "wanderlust",
+      "repo": "https://github.com/mertturkmenoglu/wanderlust",
+      "language": "TypeScript"
+    },
+    {
+      "name": "website",
+      "repo": "https://github.com/mertturkmenoglu/website",
+      "url": "https://mertturkmenoglu.com",
+      "language": "MDX"
+    },
+    {
+      "name": "wl-media",
+      "repo": "https://github.com/mertturkmenoglu/wl-media"
+    },
+    {
+      "name": "aoc2025",
+      "repo": "https://github.com/mertturkmenoglu/aoc2025",
+      "language": "TypeScript"
+    },
+    {
+      "name": "squirrel-facts",
+      "repo": "https://github.com/mertturkmenoglu/squirrel-facts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hngo",
+      "repo": "https://github.com/mertturkmenoglu/hngo",
+      "language": "Go"
+    },
+    {
+      "name": "sidequester",
+      "repo": "https://github.com/mertturkmenoglu/sidequester",
+      "language": "TypeScript"
+    },
+    {
+      "name": "horizon",
+      "repo": "https://github.com/mertturkmenoglu/horizon",
+      "language": "Go"
+    },
+    {
+      "name": "aoc2024",
+      "repo": "https://github.com/mertturkmenoglu/aoc2024",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mertturkmenoglu",
+      "repo": "https://github.com/mertturkmenoglu/mertturkmenoglu"
+    },
+    {
+      "name": "breeze",
+      "repo": "https://github.com/mertturkmenoglu/breeze",
+      "language": "Go"
+    },
+    {
+      "name": "go-aoc-utils",
+      "repo": "https://github.com/mertturkmenoglu/go-aoc-utils",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/mertturkmenoglu/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "aoc2023",
+      "repo": "https://github.com/mertturkmenoglu/aoc2023",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mood",
+      "repo": "https://github.com/mertturkmenoglu/mood",
+      "language": "Go"
+    },
+    {
+      "name": "vevericka",
+      "repo": "https://github.com/mertturkmenoglu/vevericka",
+      "url": "https://vevericka.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sorting-visualization",
+      "repo": "https://github.com/mertturkmenoglu/sorting-visualization",
+      "url": "https://mertturkmenoglu.github.io/sorting-visualization/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "path-finding-algorithms",
+      "repo": "https://github.com/mertturkmenoglu/path-finding-algorithms",
+      "url": "https://pathvis.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "todo-app",
+      "repo": "https://github.com/mertturkmenoglu/todo-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vevericka-backend",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-backend",
+      "language": "TypeScript"
+    },
+    {
+      "name": "avalanche",
+      "repo": "https://github.com/mertturkmenoglu/avalanche",
+      "url": "https://projectavalanche.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-wdyr",
+      "repo": "https://github.com/mertturkmenoglu/react-wdyr",
+      "language": "CSS"
+    },
+    {
+      "name": "react-axe-a11y",
+      "repo": "https://github.com/mertturkmenoglu/react-axe-a11y",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-ts-css-modules",
+      "repo": "https://github.com/mertturkmenoglu/react-ts-css-modules",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-ts-webpack-template",
+      "repo": "https://github.com/mertturkmenoglu/react-ts-webpack-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typestack-test",
+      "repo": "https://github.com/mertturkmenoglu/typestack-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-di",
+      "repo": "https://github.com/mertturkmenoglu/ts-di",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typescript-dependency-injection",
+      "repo": "https://github.com/mertturkmenoglu/typescript-dependency-injection",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vevericka-mobile",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-mobile",
+      "language": "TypeScript"
+    },
+    {
+      "name": "map-info",
+      "repo": "https://github.com/mertturkmenoglu/map-info",
+      "url": "https://mertturkmenoglu-map-info.glitch.me/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typegraphql-example",
+      "repo": "https://github.com/mertturkmenoglu/typegraphql-example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "test-api-alp",
+      "repo": "https://github.com/mertturkmenoglu/test-api-alp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-profile-test",
+      "repo": "https://github.com/mertturkmenoglu/vue-profile-test",
+      "language": "Vue"
+    },
+    {
+      "name": "vue-auth-test",
+      "repo": "https://github.com/mertturkmenoglu/vue-auth-test",
+      "language": "Vue"
+    },
+    {
+      "name": "vue-posts-test",
+      "repo": "https://github.com/mertturkmenoglu/vue-posts-test",
+      "language": "Vue"
+    },
+    {
+      "name": "vue-navbar-test",
+      "repo": "https://github.com/mertturkmenoglu/vue-navbar-test",
+      "language": "Vue"
+    },
+    {
+      "name": "node-mongo-graphql-ts",
+      "repo": "https://github.com/mertturkmenoglu/node-mongo-graphql-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vevericka-report-service",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-report-service",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-node-redis",
+      "repo": "https://github.com/mertturkmenoglu/docker-node-redis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jpa-test",
+      "repo": "https://github.com/mertturkmenoglu/jpa-test",
+      "language": "Java"
+    },
+    {
+      "name": "node-passport",
+      "repo": "https://github.com/mertturkmenoglu/node-passport",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-ssr",
+      "repo": "https://github.com/mertturkmenoglu/node-ssr",
+      "language": "EJS"
+    },
+    {
+      "name": "node-selenium",
+      "repo": "https://github.com/mertturkmenoglu/node-selenium",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-img-crop",
+      "repo": "https://github.com/mertturkmenoglu/node-img-crop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-lru-cache",
+      "repo": "https://github.com/mertturkmenoglu/node-lru-cache",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-firebase-test",
+      "repo": "https://github.com/mertturkmenoglu/node-firebase-test",
+      "language": "EJS"
+    },
+    {
+      "name": "node-ms-event-bus",
+      "repo": "https://github.com/mertturkmenoglu/node-ms-event-bus",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-cron-test",
+      "repo": "https://github.com/mertturkmenoglu/node-cron-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "js-xhr",
+      "repo": "https://github.com/mertturkmenoglu/js-xhr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "internship-project",
+      "repo": "https://github.com/mertturkmenoglu/internship-project",
+      "language": "Java"
+    },
+    {
+      "name": "mongo-notes",
+      "repo": "https://github.com/mertturkmenoglu/mongo-notes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "koa-ssr",
+      "repo": "https://github.com/mertturkmenoglu/koa-ssr",
+      "language": "HTML"
+    },
+    {
+      "name": "deno-test",
+      "repo": "https://github.com/mertturkmenoglu/deno-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cattio",
+      "repo": "https://github.com/mertturkmenoglu/cattio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vevericka-post-service",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-post-service",
+      "language": "Kotlin"
+    },
+    {
+      "name": "vevericka-status-service",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-status-service",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vevericka-auth-service",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-auth-service",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vevericka-status-web-client",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-status-web-client",
+      "language": "Vue"
+    },
+    {
+      "name": "react-github-trending",
+      "repo": "https://github.com/mertturkmenoglu/react-github-trending",
+      "language": "JavaScript"
+    },
+    {
+      "name": "user-info-service",
+      "repo": "https://github.com/mertturkmenoglu/user-info-service",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vevericka-message-service",
+      "repo": "https://github.com/mertturkmenoglu/vevericka-message-service",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cdtp",
+      "repo": "https://github.com/mertturkmenoglu/cdtp",
+      "language": "Vue"
+    },
+    {
+      "name": "cdtp-android",
+      "repo": "https://github.com/mertturkmenoglu/cdtp-android",
+      "language": "Kotlin"
+    },
+    {
+      "name": "cdtp-backend",
+      "repo": "https://github.com/mertturkmenoglu/cdtp-backend",
+      "language": "JavaScript"
+    },
+    {
+      "name": "express-boilerplate-instructions",
+      "repo": "https://github.com/mertturkmenoglu/express-boilerplate-instructions"
+    },
+    {
+      "name": "nlp-hw",
+      "repo": "https://github.com/mertturkmenoglu/nlp-hw",
+      "language": "Python"
+    },
+    {
+      "name": "react-ts-test",
+      "repo": "https://github.com/mertturkmenoglu/react-ts-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "random-user-generator",
+      "repo": "https://github.com/mertturkmenoglu/random-user-generator",
+      "language": "Python"
+    },
+    {
+      "name": "haskell-examples",
+      "repo": "https://github.com/mertturkmenoglu/haskell-examples",
+      "language": "Haskell"
+    },
+    {
+      "name": "kotlin-spring-rest-api-test",
+      "repo": "https://github.com/mertturkmenoglu/kotlin-spring-rest-api-test",
+      "language": "Kotlin"
+    },
+    {
+      "name": "react-app-bar-test",
+      "repo": "https://github.com/mertturkmenoglu/react-app-bar-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-user-post-example",
+      "repo": "https://github.com/mertturkmenoglu/react-user-post-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-sign-up-test",
+      "repo": "https://github.com/mertturkmenoglu/react-sign-up-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-material-ui-login-test-ts",
+      "repo": "https://github.com/mertturkmenoglu/react-material-ui-login-test-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "calendar-app",
+      "repo": "https://github.com/mertturkmenoglu/calendar-app",
+      "url": "https://www.youtube.com/watch?v=zxYeMyc-8iE",
+      "language": "Java"
+    },
+    {
+      "name": "mobile-programming",
+      "repo": "https://github.com/mertturkmenoglu/mobile-programming",
+      "url": "https://www.youtube.com/watch?v=K0_FlB4POqE&t=0s",
+      "language": "Java"
+    },
+    {
+      "name": "kotlin-examples",
+      "repo": "https://github.com/mertturkmenoglu/kotlin-examples",
+      "language": "Kotlin"
+    },
+    {
+      "name": "c-sharp-examples-1",
+      "repo": "https://github.com/mertturkmenoglu/c-sharp-examples-1",
+      "language": "C#"
+    },
+    {
+      "name": "js-examples",
+      "repo": "https://github.com/mertturkmenoglu/js-examples"
+    },
+    {
+      "name": "kotlin-processing",
+      "repo": "https://github.com/mertturkmenoglu/kotlin-processing",
+      "language": "Kotlin"
+    },
+    {
+      "name": "bacon-number",
+      "repo": "https://github.com/mertturkmenoglu/bacon-number",
+      "language": "C"
+    },
+    {
+      "name": "python-examples",
+      "repo": "https://github.com/mertturkmenoglu/python-examples",
+      "language": "Python"
+    },
+    {
+      "name": "shell",
+      "repo": "https://github.com/mertturkmenoglu/shell"
+    },
+    {
+      "name": "cpp",
+      "repo": "https://github.com/mertturkmenoglu/cpp",
+      "language": "C++"
+    },
+    {
+      "name": "ts",
+      "repo": "https://github.com/mertturkmenoglu/ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "f-sharp-examples",
+      "repo": "https://github.com/mertturkmenoglu/f-sharp-examples",
+      "language": "F#"
+    },
+    {
+      "name": "JavaPractice",
+      "repo": "https://github.com/mertturkmenoglu/JavaPractice",
+      "language": "Java"
+    },
+    {
+      "name": "rust",
+      "repo": "https://github.com/mertturkmenoglu/rust",
+      "language": "Rust"
+    },
+    {
+      "name": "clojure-examples",
+      "repo": "https://github.com/mertturkmenoglu/clojure-examples",
+      "language": "Clojure"
+    },
+    {
+      "name": "golang",
+      "repo": "https://github.com/mertturkmenoglu/golang",
+      "language": "Go"
+    },
+    {
+      "name": "java",
+      "repo": "https://github.com/mertturkmenoglu/java",
+      "language": "Java"
+    },
+    {
+      "name": "java-design-patterns",
+      "repo": "https://github.com/mertturkmenoglu/java-design-patterns",
+      "language": "Java"
+    },
+    {
+      "name": "kotlin-coroutines",
+      "repo": "https://github.com/mertturkmenoglu/kotlin-coroutines",
+      "language": "Kotlin"
+    },
+    {
+      "name": "c",
+      "repo": "https://github.com/mertturkmenoglu/c",
+      "language": "C"
+    },
+    {
+      "name": "csharp",
+      "repo": "https://github.com/mertturkmenoglu/csharp",
+      "language": "C#"
+    },
+    {
+      "name": "dsa-project",
+      "repo": "https://github.com/mertturkmenoglu/dsa-project",
+      "language": "C"
+    },
+    {
+      "name": "dsa-bst",
+      "repo": "https://github.com/mertturkmenoglu/dsa-bst",
+      "language": "C"
+    },
+    {
+      "name": "oop-semester-project",
+      "repo": "https://github.com/mertturkmenoglu/oop-semester-project",
+      "language": "Java"
+    },
+    {
+      "name": "sand-project",
+      "repo": "https://github.com/mertturkmenoglu/sand-project",
+      "language": "Java"
+    },
+    {
+      "name": "android-counter",
+      "repo": "https://github.com/mertturkmenoglu/android-counter",
+      "language": "Kotlin"
+    }
+  ]
 }

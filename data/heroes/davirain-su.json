@@ -5,6 +5,529 @@
     "https://github.com/davirain-su"
   ],
   "bio": "vibe coding developer.",
+  "own_repos": 108,
   "commits": 12487,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "ProofForgeEvm",
+      "repo": "https://github.com/DaviRain-Su/ProofForgeEvm",
+      "url": "https://davirain-su.github.io/ProofForgeEvm/",
+      "language": "Lean"
+    },
+    {
+      "name": "ProofForgeSvm",
+      "repo": "https://github.com/DaviRain-Su/ProofForgeSvm",
+      "language": "Lean"
+    },
+    {
+      "name": "ProofForgeNear",
+      "repo": "https://github.com/DaviRain-Su/ProofForgeNear",
+      "language": "Lean"
+    },
+    {
+      "name": "ProofForgePsy",
+      "repo": "https://github.com/DaviRain-Su/ProofForgePsy",
+      "language": "Lean"
+    },
+    {
+      "name": "ProofForgeCommon",
+      "repo": "https://github.com/DaviRain-Su/ProofForgeCommon",
+      "language": "Lean"
+    },
+    {
+      "name": "ProofForgeXrpl",
+      "repo": "https://github.com/DaviRain-Su/ProofForgeXrpl",
+      "language": "Lean"
+    },
+    {
+      "name": "ProofForge",
+      "repo": "https://github.com/DaviRain-Su/ProofForge",
+      "url": "https://davirain-su.github.io/ProofForge",
+      "language": "Lean"
+    },
+    {
+      "name": "proof_forge",
+      "repo": "https://github.com/DaviRain-Su/proof_forge",
+      "url": "https://pf.grok.me",
+      "language": "Lean"
+    },
+    {
+      "name": "assembler-semantics",
+      "repo": "https://github.com/DaviRain-Su/assembler-semantics",
+      "language": "Lean"
+    },
+    {
+      "name": "proof_terminal",
+      "repo": "https://github.com/DaviRain-Su/proof_terminal",
+      "language": "Rust"
+    },
+    {
+      "name": "aether",
+      "repo": "https://github.com/DaviRain-Su/aether",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rho",
+      "repo": "https://github.com/DaviRain-Su/rho",
+      "url": "https://davirain-su.github.io/rho/",
+      "language": "Racket"
+    },
+    {
+      "name": "solana-rho",
+      "repo": "https://github.com/DaviRain-Su/solana-rho",
+      "language": "Rust"
+    },
+    {
+      "name": "zag",
+      "repo": "https://github.com/DaviRain-Su/zag",
+      "language": "Zig"
+    },
+    {
+      "name": "zgpui",
+      "repo": "https://github.com/DaviRain-Su/zgpui",
+      "language": "Zig"
+    },
+    {
+      "name": "bas",
+      "repo": "https://github.com/DaviRain-Su/bas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "basic_lean",
+      "repo": "https://github.com/DaviRain-Su/basic_lean",
+      "url": "https://davirain-su.github.io/basic_lean/",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-agent",
+      "repo": "https://github.com/DaviRain-Su/lean-agent",
+      "language": "Lean"
+    },
+    {
+      "name": "solanaos",
+      "repo": "https://github.com/DaviRain-Su/solanaos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "modu",
+      "repo": "https://github.com/DaviRain-Su/modu",
+      "language": "JavaScript"
+    },
+    {
+      "name": "learn-harness-enginnering",
+      "repo": "https://github.com/DaviRain-Su/learn-harness-enginnering",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lean-book",
+      "repo": "https://github.com/DaviRain-Su/lean-book",
+      "url": "https://davirain-su.github.io/lean-book/"
+    },
+    {
+      "name": "zig2lean",
+      "repo": "https://github.com/DaviRain-Su/zig2lean",
+      "language": "Lean"
+    },
+    {
+      "name": "docs",
+      "repo": "https://github.com/DaviRain-Su/docs",
+      "language": "MDX"
+    },
+    {
+      "name": "empty",
+      "repo": "https://github.com/DaviRain-Su/empty",
+      "url": "https://empty-78c.pages.dev",
+      "language": "Swift"
+    },
+    {
+      "name": "sovana",
+      "repo": "https://github.com/DaviRain-Su/sovana",
+      "language": "Rust"
+    },
+    {
+      "name": "lean",
+      "repo": "https://github.com/DaviRain-Su/lean",
+      "url": "https://lean-learning-site.pages.dev",
+      "language": "Lean"
+    },
+    {
+      "name": "tokens-analysis",
+      "repo": "https://github.com/DaviRain-Su/tokens-analysis",
+      "language": "Rust"
+    },
+    {
+      "name": "zxcaml",
+      "repo": "https://github.com/DaviRain-Su/zxcaml",
+      "url": "https://zxcaml.pages.dev",
+      "language": "Zig"
+    },
+    {
+      "name": "tao",
+      "repo": "https://github.com/DaviRain-Su/tao",
+      "language": "Rust"
+    },
+    {
+      "name": "sentry",
+      "repo": "https://github.com/DaviRain-Su/sentry",
+      "language": "JavaScript"
+    },
+    {
+      "name": "classic_system",
+      "repo": "https://github.com/DaviRain-Su/classic_system",
+      "url": "https://davirain-su.github.io/classic_system/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "liber",
+      "repo": "https://github.com/DaviRain-Su/liber",
+      "url": "https://liber.davirain.xyz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rescuegrid",
+      "repo": "https://github.com/DaviRain-Su/rescuegrid",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atlas",
+      "repo": "https://github.com/DaviRain-Su/atlas",
+      "language": "Python"
+    },
+    {
+      "name": "thinking",
+      "repo": "https://github.com/DaviRain-Su/thinking",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fp-agent",
+      "repo": "https://github.com/DaviRain-Su/fp-agent",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-agent",
+      "repo": "https://github.com/DaviRain-Su/ocaml-agent",
+      "language": "OCaml"
+    },
+    {
+      "name": "trader_for_trade",
+      "repo": "https://github.com/DaviRain-Su/trader_for_trade",
+      "language": "Rust"
+    },
+    {
+      "name": "zig-to-yul",
+      "repo": "https://github.com/DaviRain-Su/zig-to-yul",
+      "language": "Zig"
+    },
+    {
+      "name": "gradience",
+      "repo": "https://github.com/DaviRain-Su/gradience",
+      "language": "Zig"
+    },
+    {
+      "name": "davidrain.md",
+      "repo": "https://github.com/DaviRain-Su/davidrain.md",
+      "language": "Python"
+    },
+    {
+      "name": "daojia",
+      "repo": "https://github.com/DaviRain-Su/daojia",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zhouyi",
+      "repo": "https://github.com/DaviRain-Su/zhouyi",
+      "url": "https://zhouyi-oracle.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zigma",
+      "repo": "https://github.com/DaviRain-Su/zigma",
+      "language": "Zig"
+    },
+    {
+      "name": "davirain-su.github.io",
+      "repo": "https://github.com/DaviRain-Su/davirain-su.github.io",
+      "url": "https://davirain-su.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "AgentGeyser",
+      "repo": "https://github.com/DaviRain-Su/AgentGeyser",
+      "language": "Rust"
+    },
+    {
+      "name": "geppetto",
+      "repo": "https://github.com/DaviRain-Su/geppetto",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mythinkread",
+      "repo": "https://github.com/DaviRain-Su/mythinkread",
+      "language": "TypeScript"
+    },
+    {
+      "name": "factory-zh",
+      "repo": "https://github.com/DaviRain-Su/factory-zh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "foodshare",
+      "repo": "https://github.com/DaviRain-Su/foodshare",
+      "url": "https://foodshare.davirain.xyz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "elf2sbpf",
+      "repo": "https://github.com/DaviRain-Su/elf2sbpf",
+      "language": "Zig"
+    },
+    {
+      "name": "make-money",
+      "repo": "https://github.com/DaviRain-Su/make-money",
+      "language": "Python"
+    },
+    {
+      "name": "solana-zig",
+      "repo": "https://github.com/DaviRain-Su/solana-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "rest-api-starter",
+      "repo": "https://github.com/DaviRain-Su/rest-api-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Infracast",
+      "repo": "https://github.com/DaviRain-Su/Infracast",
+      "language": "Go"
+    },
+    {
+      "name": "AgentRepScore",
+      "repo": "https://github.com/DaviRain-Su/AgentRepScore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dev-lifecycle",
+      "repo": "https://github.com/DaviRain-Su/dev-lifecycle",
+      "language": "Shell"
+    },
+    {
+      "name": "gradience_back",
+      "repo": "https://github.com/DaviRain-Su/gradience_back",
+      "url": "https://www.gradiences.xyz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gradience-wallet",
+      "repo": "https://github.com/DaviRain-Su/gradience-wallet",
+      "url": "https://wallets.gradiences.xyz",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-gradience",
+      "repo": "https://github.com/DaviRain-Su/homebrew-gradience",
+      "language": "Ruby"
+    },
+    {
+      "name": "hermes-agent-gui",
+      "repo": "https://github.com/DaviRain-Su/hermes-agent-gui",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pi-mono-zig_back",
+      "repo": "https://github.com/DaviRain-Su/pi-mono-zig_back",
+      "language": "Zig"
+    },
+    {
+      "name": "Hermes-Voice-Connect",
+      "repo": "https://github.com/DaviRain-Su/Hermes-Voice-Connect",
+      "url": "https://replit.com/@davirainsu/Hermes-Voice-Connect",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kimiz",
+      "repo": "https://github.com/DaviRain-Su/kimiz",
+      "language": "Zig"
+    },
+    {
+      "name": "uucode",
+      "repo": "https://github.com/DaviRain-Su/uucode",
+      "language": "Zig"
+    },
+    {
+      "name": "zigimg",
+      "repo": "https://github.com/DaviRain-Su/zigimg"
+    },
+    {
+      "name": "rental-protocol",
+      "repo": "https://github.com/DaviRain-Su/rental-protocol",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-arena",
+      "repo": "https://github.com/DaviRain-Su/agent-arena",
+      "url": "https://agentarena.run",
+      "language": "TypeScript"
+    },
+    {
+      "name": "arena-solana",
+      "repo": "https://github.com/DaviRain-Su/arena-solana",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-cast",
+      "repo": "https://github.com/DaviRain-Su/ai-cast",
+      "url": "https://web-theta-two-99.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chain-hub",
+      "repo": "https://github.com/DaviRain-Su/chain-hub"
+    },
+    {
+      "name": "agentx",
+      "repo": "https://github.com/DaviRain-Su/agentx",
+      "url": "https://gradience-xi.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "davirain-portal",
+      "repo": "https://github.com/DaviRain-Su/davirain-portal",
+      "url": "https://davirain-portal.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/DaviRain-Su/blog",
+      "url": "https://davirain-su.github.io/blog/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/DaviRain-Su/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "pi-docs-cn",
+      "repo": "https://github.com/DaviRain-Su/pi-docs-cn",
+      "url": "https://pi-docs-cn.vercel.app",
+      "language": "Shell"
+    },
+    {
+      "name": "sui-zig-rpc-client",
+      "repo": "https://github.com/DaviRain-Su/sui-zig-rpc-client",
+      "language": "Zig"
+    },
+    {
+      "name": "ton-zig-agent-kit",
+      "repo": "https://github.com/DaviRain-Su/ton-zig-agent-kit",
+      "language": "Zig"
+    },
+    {
+      "name": "ethereum-zig-agent-kit",
+      "repo": "https://github.com/DaviRain-Su/ethereum-zig-agent-kit",
+      "language": "Zig"
+    },
+    {
+      "name": "solana-zig-rpc-client",
+      "repo": "https://github.com/DaviRain-Su/solana-zig-rpc-client",
+      "language": "Zig"
+    },
+    {
+      "name": "pi-chain-tools",
+      "repo": "https://github.com/DaviRain-Su/pi-chain-tools",
+      "url": "https://davirain-su.github.io/pi-chain-tools/#install",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openai-zig",
+      "repo": "https://github.com/DaviRain-Su/openai-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "codecrafters-claude-code-zig",
+      "repo": "https://github.com/DaviRain-Su/codecrafters-claude-code-zig"
+    },
+    {
+      "name": "pi-mono-zig-archive",
+      "repo": "https://github.com/DaviRain-Su/pi-mono-zig-archive",
+      "language": "Zig"
+    },
+    {
+      "name": "solana-sdk-roc",
+      "repo": "https://github.com/DaviRain-Su/solana-sdk-roc",
+      "language": "Zig"
+    },
+    {
+      "name": "solana-zklogin",
+      "repo": "https://github.com/DaviRain-Su/solana-zklogin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "solana-client-zig",
+      "repo": "https://github.com/DaviRain-Su/solana-client-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "solana-sdk-zig",
+      "repo": "https://github.com/DaviRain-Su/solana-sdk-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "anchor-zig",
+      "repo": "https://github.com/DaviRain-Su/anchor-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "privacy-zig",
+      "repo": "https://github.com/DaviRain-Su/privacy-zig",
+      "language": "TypeScript"
+    },
+    {
+      "name": "near-sdk-zig",
+      "repo": "https://github.com/DaviRain-Su/near-sdk-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "titan_framework",
+      "repo": "https://github.com/DaviRain-Su/titan_framework",
+      "language": "JavaScript"
+    },
+    {
+      "name": "uniswap-demo",
+      "repo": "https://github.com/DaviRain-Su/uniswap-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "star-kirby-lang",
+      "repo": "https://github.com/DaviRain-Su/star-kirby-lang",
+      "language": "Zig"
+    },
+    {
+      "name": "solidity-zig",
+      "repo": "https://github.com/DaviRain-Su/solidity-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "poly-sdk-zig",
+      "repo": "https://github.com/DaviRain-Su/poly-sdk-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "codecrafters-shell-zig",
+      "repo": "https://github.com/DaviRain-Su/codecrafters-shell-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "json-zig",
+      "repo": "https://github.com/DaviRain-Su/json-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "nobody",
+      "repo": "https://github.com/DaviRain-Su/nobody",
+      "language": "Rust"
+    }
+  ]
 }

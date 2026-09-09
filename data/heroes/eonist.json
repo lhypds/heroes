@@ -11,7 +11,12 @@
   "repos": [
     {
       "name": "hello-geni-v2",
-      "repo": "https://github.com/eonist/hello-geni-v2"
+      "repo": "https://github.com/eonist/hello-geni-v2",
+      "language": "HTML"
+    },
+    {
+      "name": "eonist",
+      "repo": "https://github.com/eonist/eonist"
     },
     {
       "name": "MenuBarKit",
@@ -22,10 +27,6 @@
       "name": "GitHubClient",
       "repo": "https://github.com/eonist/GitHubClient",
       "language": "Swift"
-    },
-    {
-      "name": "eonist",
-      "repo": "https://github.com/eonist/eonist"
     },
     {
       "name": "pplx-bridge",

@@ -9,30 +9,13 @@
   "commits": 71721,
   "repos": [
     {
-      "name": "design-system",
-      "repo": "https://github.com/willfarrell/design-system",
-      "url": "https://design-system.willfarrell.ca",
-      "language": "Svelte"
-    },
-    {
-      "name": "workbee",
-      "repo": "https://github.com/willfarrell/workbee",
-      "url": "https://workbee.js.org",
-      "language": "JavaScript"
-    },
-    {
-      "name": "fluent-transpiler",
-      "repo": "https://github.com/willfarrell/fluent-transpiler",
-      "language": "JavaScript"
-    },
-    {
       "name": "ajv-ftl-i18n",
       "repo": "https://github.com/willfarrell/ajv-ftl-i18n",
       "language": "Fluent"
     },
     {
-      "name": "sast-json-schema",
-      "repo": "https://github.com/willfarrell/sast-json-schema",
+      "name": "sveltekit-adapter-middy",
+      "repo": "https://github.com/willfarrell/sveltekit-adapter-middy",
       "language": "JavaScript"
     },
     {
@@ -41,8 +24,26 @@
       "language": "JavaScript"
     },
     {
-      "name": "sveltekit-adapter-middy",
-      "repo": "https://github.com/willfarrell/sveltekit-adapter-middy",
+      "name": "design-system",
+      "repo": "https://github.com/willfarrell/design-system",
+      "url": "https://design-system.willfarrell.ca",
+      "language": "Svelte"
+    },
+    {
+      "name": "datastream",
+      "repo": "https://github.com/willfarrell/datastream",
+      "url": "https://datastream.js.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "workbee",
+      "repo": "https://github.com/willfarrell/workbee",
+      "url": "https://workbee.js.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "middy-rds",
+      "repo": "https://github.com/willfarrell/middy-rds",
       "language": "JavaScript"
     },
     {
@@ -52,19 +53,18 @@
       "language": "JavaScript"
     },
     {
+      "name": "sast-json-schema",
+      "repo": "https://github.com/willfarrell/sast-json-schema",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fluent-transpiler",
+      "repo": "https://github.com/willfarrell/fluent-transpiler",
+      "language": "JavaScript"
+    },
+    {
       "name": "template-npm",
       "repo": "https://github.com/willfarrell/template-npm",
-      "language": "JavaScript"
-    },
-    {
-      "name": "datastream",
-      "repo": "https://github.com/willfarrell/datastream",
-      "url": "https://datastream.js.org",
-      "language": "JavaScript"
-    },
-    {
-      "name": "middy-rds",
-      "repo": "https://github.com/willfarrell/middy-rds",
       "language": "JavaScript"
     },
     {

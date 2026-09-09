@@ -10,18 +10,28 @@
   "commits": 10903,
   "repos": [
     {
-      "name": "spacetime",
-      "repo": "https://github.com/spencermountain/spacetime",
-      "language": "JavaScript"
-    },
-    {
       "name": "compromise",
       "repo": "https://github.com/spencermountain/compromise",
       "language": "JavaScript"
     },
     {
+      "name": "git-slop",
+      "repo": "https://github.com/spencermountain/git-slop",
+      "language": "JavaScript"
+    },
+    {
       "name": "suffix-thumb",
       "repo": "https://github.com/spencermountain/suffix-thumb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtf-plugin-nsfw",
+      "repo": "https://github.com/spencermountain/wtf-plugin-nsfw",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spacetime",
+      "repo": "https://github.com/spencermountain/spacetime",
       "language": "JavaScript"
     },
     {
@@ -56,14 +66,9 @@
       "language": "JavaScript"
     },
     {
-      "name": "spencermountain.github.io",
-      "repo": "https://github.com/spencermountain/spencermountain.github.io",
-      "url": "https://spencermounta.in/",
-      "language": "JavaScript"
-    },
-    {
-      "name": "wtf-plugin-nsfw",
-      "repo": "https://github.com/spencermountain/wtf-plugin-nsfw",
+      "name": "home",
+      "repo": "https://github.com/spencermountain/home",
+      "url": "https://spencermountain.dev",
       "language": "JavaScript"
     },
     {
@@ -100,11 +105,6 @@
       "name": "timezone-soft",
       "repo": "https://github.com/spencermountain/timezone-soft",
       "url": "https://observablehq.com/@spencermountain/current-time-in",
-      "language": "JavaScript"
-    },
-    {
-      "name": "git-slop",
-      "repo": "https://github.com/spencermountain/git-slop",
       "language": "JavaScript"
     },
     {

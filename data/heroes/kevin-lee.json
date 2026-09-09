@@ -10,6 +10,11 @@
   "commits": 14459,
   "repos": [
     {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/kevin-lee/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
       "name": "claude-proxymate",
       "repo": "https://github.com/kevin-lee/claude-proxymate",
       "url": "https://claude-proxymate.kevinly.dev",
@@ -19,11 +24,6 @@
       "name": "ai-dumping-ground",
       "repo": "https://github.com/kevin-lee/ai-dumping-ground",
       "language": "HTML"
-    },
-    {
-      "name": "homebrew-tap",
-      "repo": "https://github.com/kevin-lee/homebrew-tap",
-      "language": "Ruby"
     },
     {
       "name": "ai-skills",

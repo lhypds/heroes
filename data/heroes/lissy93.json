@@ -10,6 +10,12 @@
   "commits": 11479,
   "repos": [
     {
+      "name": "bug-bounties",
+      "repo": "https://github.com/lissy93/bug-bounties",
+      "url": "https://bug-bounties.as93.net",
+      "language": "TypeScript"
+    },
+    {
       "name": "domain-locker",
       "repo": "https://github.com/lissy93/domain-locker",
       "url": "https://domain-locker.com",
@@ -30,12 +36,6 @@
       "name": "feeds",
       "repo": "https://github.com/lissy93/feeds",
       "url": "https://lissy93.github.io/feeds/"
-    },
-    {
-      "name": "bug-bounties",
-      "repo": "https://github.com/lissy93/bug-bounties",
-      "url": "https://bug-bounties.as93.net",
-      "language": "TypeScript"
     },
     {
       "name": "awesome-privacy",

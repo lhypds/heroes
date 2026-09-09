@@ -10,6 +10,12 @@
   "commits": 13649,
   "repos": [
     {
+      "name": "ruflo",
+      "repo": "https://github.com/ruvnet/ruflo",
+      "url": "https://Cognitum.One",
+      "language": "TypeScript"
+    },
+    {
       "name": "RuView",
       "repo": "https://github.com/ruvnet/RuView",
       "url": "https://Cognitum.One/RuView",
@@ -31,12 +37,6 @@
       "repo": "https://github.com/ruvnet/midstream",
       "url": "https://ruv.io",
       "language": "Rust"
-    },
-    {
-      "name": "ruflo",
-      "repo": "https://github.com/ruvnet/ruflo",
-      "url": "https://Cognitum.One",
-      "language": "TypeScript"
     },
     {
       "name": "rvm",

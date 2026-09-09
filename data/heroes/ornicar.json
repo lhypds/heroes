@@ -6,5 +6,506 @@
   ],
   "website": "https://mas.to/@thibault",
   "bio": "Maker of lichess.org, a gay hippie communist chess server for drug fueled transgender atheists.",
-  "commits": 13129
+  "own_repos": 132,
+  "commits": 13129,
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/ornicar/dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "pgn-recorder",
+      "repo": "https://github.com/ornicar/pgn-recorder",
+      "language": "TypeScript"
+    },
+    {
+      "name": "recipes",
+      "repo": "https://github.com/ornicar/recipes",
+      "language": "Cooklang"
+    },
+    {
+      "name": "lichess-puzzler",
+      "repo": "https://github.com/ornicar/lichess-puzzler",
+      "language": "Python"
+    },
+    {
+      "name": "lichess-gmail",
+      "repo": "https://github.com/ornicar/lichess-gmail",
+      "url": "https://lichess.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scala-scripts",
+      "repo": "https://github.com/ornicar/scala-scripts",
+      "language": "Scala"
+    },
+    {
+      "name": "azchess.az-frontend",
+      "repo": "https://github.com/ornicar/azchess.az-frontend",
+      "language": "TypeScript"
+    },
+    {
+      "name": "userstyles",
+      "repo": "https://github.com/ornicar/userstyles",
+      "language": "CSS"
+    },
+    {
+      "name": "lichess-mongo-import",
+      "repo": "https://github.com/ornicar/lichess-mongo-import",
+      "url": "https://lichess.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chessiverse-frontend",
+      "repo": "https://github.com/ornicar/chessiverse-frontend",
+      "language": "Vue"
+    },
+    {
+      "name": "OpenRGBHardwareSyncPlugin",
+      "repo": "https://github.com/ornicar/OpenRGBHardwareSyncPlugin",
+      "language": "C++"
+    },
+    {
+      "name": "OpenRGB",
+      "repo": "https://github.com/ornicar/OpenRGB",
+      "language": "C++"
+    },
+    {
+      "name": "nixos-config",
+      "repo": "https://github.com/ornicar/nixos-config",
+      "language": "Nix"
+    },
+    {
+      "name": "lila-dep-graphs",
+      "repo": "https://github.com/ornicar/lila-dep-graphs"
+    },
+    {
+      "name": "lichess-gource",
+      "repo": "https://github.com/ornicar/lichess-gource",
+      "language": "Shell"
+    },
+    {
+      "name": "OrnicarAkismetBundle",
+      "repo": "https://github.com/ornicar/OrnicarAkismetBundle",
+      "language": "PHP"
+    },
+    {
+      "name": "passport-lichess",
+      "repo": "https://github.com/ornicar/passport-lichess",
+      "url": "https://lichess.org/api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stream-voice",
+      "repo": "https://github.com/ornicar/stream-voice",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rm-issue",
+      "repo": "https://github.com/ornicar/rm-issue",
+      "language": "Scala"
+    },
+    {
+      "name": "scalabug",
+      "repo": "https://github.com/ornicar/scalabug",
+      "language": "Scala"
+    },
+    {
+      "name": "chessify-frontend",
+      "repo": "https://github.com/ornicar/chessify-frontend",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chesshq.com-front",
+      "repo": "https://github.com/ornicar/chesshq.com-front",
+      "url": "https://chesshq.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-actions-graph",
+      "repo": "https://github.com/ornicar/github-actions-graph",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ApcBundle",
+      "repo": "https://github.com/ornicar/ApcBundle",
+      "language": "PHP"
+    },
+    {
+      "name": "fide-pgn-viewer",
+      "repo": "https://github.com/ornicar/fide-pgn-viewer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lichess_keyboard",
+      "repo": "https://github.com/ornicar/lichess_keyboard",
+      "language": "JavaScript"
+    },
+    {
+      "name": "haichess.com",
+      "repo": "https://github.com/ornicar/haichess.com",
+      "url": "https://haichess.com",
+      "language": "Scala"
+    },
+    {
+      "name": "haichess",
+      "repo": "https://github.com/ornicar/haichess"
+    },
+    {
+      "name": "lichess-search-import",
+      "repo": "https://github.com/ornicar/lichess-search-import",
+      "language": "Scala"
+    },
+    {
+      "name": "worldchess-frontend",
+      "repo": "https://github.com/ornicar/worldchess-frontend",
+      "language": "TypeScript"
+    },
+    {
+      "name": "app.chesslang.com",
+      "repo": "https://github.com/ornicar/app.chesslang.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lila-jmh-benchmarks",
+      "repo": "https://github.com/ornicar/lila-jmh-benchmarks",
+      "language": "Java"
+    },
+    {
+      "name": "play-cdi-leak",
+      "repo": "https://github.com/ornicar/play-cdi-leak",
+      "language": "Scala"
+    },
+    {
+      "name": "play-run-mem",
+      "repo": "https://github.com/ornicar/play-run-mem",
+      "language": "Scala"
+    },
+    {
+      "name": "wmmatching",
+      "repo": "https://github.com/ornicar/wmmatching",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-netty",
+      "repo": "https://github.com/ornicar/scala-netty",
+      "language": "Scala"
+    },
+    {
+      "name": "http-pgn-split",
+      "repo": "https://github.com/ornicar/http-pgn-split",
+      "url": "https://lichess.org/broadcast",
+      "language": "JavaScript"
+    },
+    {
+      "name": "idbase",
+      "repo": "https://github.com/ornicar/idbase",
+      "language": "Scala"
+    },
+    {
+      "name": "lichess-puzzle-kit",
+      "repo": "https://github.com/ornicar/lichess-puzzle-kit"
+    },
+    {
+      "name": "vindinium",
+      "repo": "https://github.com/ornicar/vindinium",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lichess-layout",
+      "repo": "https://github.com/ornicar/lichess-layout",
+      "language": "CSS"
+    },
+    {
+      "name": "hello-sbt",
+      "repo": "https://github.com/ornicar/hello-sbt",
+      "language": "Scala"
+    },
+    {
+      "name": "lichess-game-migration",
+      "repo": "https://github.com/ornicar/lichess-game-migration",
+      "language": "Scala"
+    },
+    {
+      "name": "supgit",
+      "repo": "https://github.com/ornicar/supgit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mongobits",
+      "repo": "https://github.com/ornicar/mongobits",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scalariver",
+      "repo": "https://github.com/ornicar/scalariver",
+      "language": "HTML"
+    },
+    {
+      "name": "lichess-crowdin",
+      "repo": "https://github.com/ornicar/lichess-crowdin",
+      "language": "OCaml"
+    },
+    {
+      "name": "php-user-agent",
+      "repo": "https://github.com/ornicar/php-user-agent",
+      "language": "PHP"
+    },
+    {
+      "name": "UserScripts",
+      "repo": "https://github.com/ornicar/UserScripts"
+    },
+    {
+      "name": "strategic.international_on_github",
+      "repo": "https://github.com/ornicar/strategic.international_on_github",
+      "language": "JavaScript"
+    },
+    {
+      "name": "php-git-repo",
+      "repo": "https://github.com/ornicar/php-git-repo",
+      "language": "PHP"
+    },
+    {
+      "name": "vindinium-starter-scala",
+      "repo": "https://github.com/ornicar/vindinium-starter-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "maven",
+      "repo": "https://github.com/ornicar/maven"
+    },
+    {
+      "name": "munin-lichess",
+      "repo": "https://github.com/ornicar/munin-lichess",
+      "language": "PHP"
+    },
+    {
+      "name": "vindinium-starter-clojure",
+      "repo": "https://github.com/ornicar/vindinium-starter-clojure",
+      "language": "Clojure"
+    },
+    {
+      "name": "lichomail",
+      "repo": "https://github.com/ornicar/lichomail",
+      "language": "HTML"
+    },
+    {
+      "name": "lichess-data",
+      "repo": "https://github.com/ornicar/lichess-data"
+    },
+    {
+      "name": "lichess.globe",
+      "repo": "https://github.com/ornicar/lichess.globe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scalex-web",
+      "repo": "https://github.com/ornicar/scalex-web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wwc",
+      "repo": "https://github.com/ornicar/wwc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mixit-lichess",
+      "repo": "https://github.com/ornicar/mixit-lichess",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scalex",
+      "repo": "https://github.com/ornicar/scalex",
+      "language": "Scala"
+    },
+    {
+      "name": "hacksquare",
+      "repo": "https://github.com/ornicar/hacksquare",
+      "language": "HTML"
+    },
+    {
+      "name": "zen-catacomb",
+      "repo": "https://github.com/ornicar/zen-catacomb",
+      "language": "Scala"
+    },
+    {
+      "name": "clife-step1",
+      "repo": "https://github.com/ornicar/clife-step1",
+      "language": "Clojure"
+    },
+    {
+      "name": "clojure-kit",
+      "repo": "https://github.com/ornicar/clojure-kit",
+      "language": "Clojure"
+    },
+    {
+      "name": "clojure-starter",
+      "repo": "https://github.com/ornicar/clojure-starter",
+      "language": "Clojure"
+    },
+    {
+      "name": "muteZatShit",
+      "repo": "https://github.com/ornicar/muteZatShit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "muteZatShit-old",
+      "repo": "https://github.com/ornicar/muteZatShit-old",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vindinium-starter-python",
+      "repo": "https://github.com/ornicar/vindinium-starter-python",
+      "language": "Python"
+    },
+    {
+      "name": "piraspbay",
+      "repo": "https://github.com/ornicar/piraspbay"
+    },
+    {
+      "name": "wolfie",
+      "repo": "https://github.com/ornicar/wolfie",
+      "language": "Scala"
+    },
+    {
+      "name": "haskell-prismic",
+      "repo": "https://github.com/ornicar/haskell-prismic",
+      "language": "Haskell"
+    },
+    {
+      "name": "scalex-sbt",
+      "repo": "https://github.com/ornicar/scalex-sbt",
+      "language": "Scala"
+    },
+    {
+      "name": "plugins",
+      "repo": "https://github.com/ornicar/plugins"
+    },
+    {
+      "name": "php-github-api",
+      "repo": "https://github.com/ornicar/php-github-api",
+      "language": "PHP"
+    },
+    {
+      "name": "nestor",
+      "repo": "https://github.com/ornicar/nestor",
+      "language": "Scala"
+    },
+    {
+      "name": "backdoor",
+      "repo": "https://github.com/ornicar/backdoor",
+      "language": "Scala"
+    },
+    {
+      "name": "lichess-old",
+      "repo": "https://github.com/ornicar/lichess-old",
+      "url": "https://lichess.org",
+      "language": "PHP"
+    },
+    {
+      "name": "scalex-http",
+      "repo": "https://github.com/ornicar/scalex-http",
+      "language": "Scala"
+    },
+    {
+      "name": "haskant",
+      "repo": "https://github.com/ornicar/haskant",
+      "language": "Haskell"
+    },
+    {
+      "name": "streetfighter2-versus",
+      "repo": "https://github.com/ornicar/streetfighter2-versus"
+    },
+    {
+      "name": "scala-elasticsearch",
+      "repo": "https://github.com/ornicar/scala-elasticsearch",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-paginator",
+      "repo": "https://github.com/ornicar/scala-paginator",
+      "language": "Scala"
+    },
+    {
+      "name": "jdubext",
+      "repo": "https://github.com/ornicar/jdubext",
+      "language": "Scala"
+    },
+    {
+      "name": "s2test",
+      "repo": "https://github.com/ornicar/s2test",
+      "language": "Scala"
+    },
+    {
+      "name": "play2-blog-jousse",
+      "repo": "https://github.com/ornicar/play2-blog-jousse",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ltc",
+      "repo": "https://github.com/ornicar/ltc",
+      "language": "PHP"
+    },
+    {
+      "name": "scala-aichallenge",
+      "repo": "https://github.com/ornicar/scala-aichallenge",
+      "language": "Scala"
+    },
+    {
+      "name": "kcacup",
+      "repo": "https://github.com/ornicar/kcacup",
+      "language": "Scala"
+    },
+    {
+      "name": "OrnicarInsaneMarkdownBundle",
+      "repo": "https://github.com/ornicar/OrnicarInsaneMarkdownBundle",
+      "language": "PHP"
+    },
+    {
+      "name": "sltc",
+      "repo": "https://github.com/ornicar/sltc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "praxeum",
+      "repo": "https://github.com/ornicar/praxeum",
+      "language": "Scala"
+    },
+    {
+      "name": "conx",
+      "repo": "https://github.com/ornicar/conx",
+      "language": "Scala"
+    },
+    {
+      "name": "furet",
+      "repo": "https://github.com/ornicar/furet",
+      "language": "Scala"
+    },
+    {
+      "name": "FOQTyperBundle",
+      "repo": "https://github.com/ornicar/FOQTyperBundle",
+      "language": "PHP"
+    },
+    {
+      "name": "pgn4web",
+      "repo": "https://github.com/ornicar/pgn4web",
+      "language": "PHP"
+    },
+    {
+      "name": "mongodb-odm-documentation",
+      "repo": "https://github.com/ornicar/mongodb-odm-documentation",
+      "language": "Python"
+    },
+    {
+      "name": "dmWidgetGalleryPlugin",
+      "repo": "https://github.com/ornicar/dmWidgetGalleryPlugin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vulug",
+      "repo": "https://github.com/ornicar/vulug",
+      "language": "Python"
+    }
+  ]
 }

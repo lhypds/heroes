@@ -5,6 +5,507 @@
     "https://github.com/rodneylab"
   ],
   "website": "https://rodneylab.com/",
+  "own_repos": 134,
   "commits": 23053,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "cpp-ci-conf",
+      "repo": "https://github.com/rodneylab/cpp-ci-conf"
+    },
+    {
+      "name": "rust-ci-conf",
+      "repo": "https://github.com/rodneylab/rust-ci-conf"
+    },
+    {
+      "name": ".config",
+      "repo": "https://github.com/rodneylab/.config",
+      "language": "Lua"
+    },
+    {
+      "name": "local-ai-llm-playground",
+      "repo": "https://github.com/rodneylab/local-ai-llm-playground",
+      "language": "Rust"
+    },
+    {
+      "name": "sveltekit-ably-realtime-game",
+      "repo": "https://github.com/rodneylab/sveltekit-ably-realtime-game",
+      "language": "Svelte"
+    },
+    {
+      "name": "rodneylab",
+      "repo": "https://github.com/rodneylab/rodneylab"
+    },
+    {
+      "name": "cmessless",
+      "repo": "https://github.com/rodneylab/cmessless",
+      "language": "Rust"
+    },
+    {
+      "name": "parsedown",
+      "repo": "https://github.com/rodneylab/parsedown",
+      "language": "Rust"
+    },
+    {
+      "name": "picpack",
+      "repo": "https://github.com/rodneylab/picpack",
+      "language": "Rust"
+    },
+    {
+      "name": "arkanoid-clone",
+      "repo": "https://github.com/rodneylab/arkanoid-clone",
+      "language": "C++"
+    },
+    {
+      "name": "elelemer",
+      "repo": "https://github.com/rodneylab/elelemer",
+      "language": "Rust"
+    },
+    {
+      "name": "tokenator",
+      "repo": "https://github.com/rodneylab/tokenator",
+      "language": "Rust"
+    },
+    {
+      "name": "axum-graphql",
+      "repo": "https://github.com/rodneylab/axum-graphql",
+      "language": "Rust"
+    },
+    {
+      "name": "subsetter",
+      "repo": "https://github.com/rodneylab/subsetter",
+      "language": "Python"
+    },
+    {
+      "name": "knights-to-see-you",
+      "repo": "https://github.com/rodneylab/knights-to-see-you",
+      "language": "Rust"
+    },
+    {
+      "name": "neighbours",
+      "repo": "https://github.com/rodneylab/neighbours",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-crate-diffs",
+      "repo": "https://github.com/rodneylab/rust-crate-diffs",
+      "language": "Rust"
+    },
+    {
+      "name": "blocklist-generator",
+      "repo": "https://github.com/rodneylab/blocklist-generator",
+      "language": "Rust"
+    },
+    {
+      "name": "vlintt",
+      "repo": "https://github.com/rodneylab/vlintt",
+      "language": "Rust"
+    },
+    {
+      "name": "flipper",
+      "repo": "https://github.com/rodneylab/flipper",
+      "language": "Rust"
+    },
+    {
+      "name": "rapier-example",
+      "repo": "https://github.com/rodneylab/rapier-example"
+    },
+    {
+      "name": "markwrite",
+      "repo": "https://github.com/rodneylab/markwrite",
+      "language": "Rust"
+    },
+    {
+      "name": "macroquad-rapier-bevy-ecs",
+      "repo": "https://github.com/rodneylab/macroquad-rapier-bevy-ecs",
+      "language": "Rust"
+    },
+    {
+      "name": "raylib-imgui",
+      "repo": "https://github.com/rodneylab/raylib-imgui",
+      "language": "CMake"
+    },
+    {
+      "name": "rapier-bevy-ecs-introspection",
+      "repo": "https://github.com/rodneylab/rapier-bevy-ecs-introspection",
+      "language": "Rust"
+    },
+    {
+      "name": "dungeoncrawl",
+      "repo": "https://github.com/rodneylab/dungeoncrawl",
+      "language": "Rust"
+    },
+    {
+      "name": "sveltekit-s3-compatible-storage",
+      "repo": "https://github.com/rodneylab/sveltekit-s3-compatible-storage",
+      "language": "Svelte"
+    },
+    {
+      "name": "svelte-capsize-style",
+      "repo": "https://github.com/rodneylab/svelte-capsize-style",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-form-example",
+      "repo": "https://github.com/rodneylab/sveltekit-form-example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno",
+      "repo": "https://github.com/rodneylab/deno",
+      "language": "JavaScript"
+    },
+    {
+      "name": "astro",
+      "repo": "https://github.com/rodneylab/astro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sveltekit-session-storage",
+      "repo": "https://github.com/rodneylab/sveltekit-session-storage",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-shiki-code-highlighting",
+      "repo": "https://github.com/rodneylab/sveltekit-shiki-code-highlighting",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sveltekit-lint-css",
+      "repo": "https://github.com/rodneylab/sveltekit-lint-css",
+      "language": "JavaScript"
+    },
+    {
+      "name": "svelte-shy-header",
+      "repo": "https://github.com/rodneylab/svelte-shy-header",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-graphql-fetch",
+      "repo": "https://github.com/rodneylab/sveltekit-graphql-fetch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-fido-u2f-login",
+      "repo": "https://github.com/rodneylab/sveltekit-fido-u2f-login",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-instagram-infinite-scroll",
+      "repo": "https://github.com/rodneylab/sveltekit-instagram-infinite-scroll",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-hcaptcha-form",
+      "repo": "https://github.com/rodneylab/sveltekit-hcaptcha-form",
+      "language": "Svelte"
+    },
+    {
+      "name": "temporal-api-cheatsheet",
+      "repo": "https://github.com/rodneylab/temporal-api-cheatsheet",
+      "language": "Astro"
+    },
+    {
+      "name": "astro-blog-markdown",
+      "repo": "https://github.com/rodneylab/astro-blog-markdown",
+      "language": "CSS"
+    },
+    {
+      "name": "learn-web-gpu",
+      "repo": "https://github.com/rodneylab/learn-web-gpu",
+      "language": "CMake"
+    },
+    {
+      "name": "svelte-login-form",
+      "repo": "https://github.com/rodneylab/svelte-login-form",
+      "language": "JavaScript"
+    },
+    {
+      "name": "macroquad-egui",
+      "repo": "https://github.com/rodneylab/macroquad-egui",
+      "language": "Rust"
+    },
+    {
+      "name": "sveltekit-intersection-observer",
+      "repo": "https://github.com/rodneylab/sveltekit-intersection-observer",
+      "language": "Svelte"
+    },
+    {
+      "name": "jolt-raylib-hello-world",
+      "repo": "https://github.com/rodneylab/jolt-raylib-hello-world",
+      "language": "CMake"
+    },
+    {
+      "name": "cistercian-clock",
+      "repo": "https://github.com/rodneylab/cistercian-clock",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-shortcut-blog",
+      "repo": "https://github.com/rodneylab/vim-shortcut-blog",
+      "language": "Svelte"
+    },
+    {
+      "name": "learn-wgpu",
+      "repo": "https://github.com/rodneylab/learn-wgpu",
+      "language": "Rust"
+    },
+    {
+      "name": "sveltekit-fontaine",
+      "repo": "https://github.com/rodneylab/sveltekit-fontaine",
+      "language": "CSS"
+    },
+    {
+      "name": "stylelint-sveltekit",
+      "repo": "https://github.com/rodneylab/stylelint-sveltekit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sveltekit-typescript-vanilla-extract-starter",
+      "repo": "https://github.com/rodneylab/sveltekit-typescript-vanilla-extract-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-graphql-github",
+      "repo": "https://github.com/rodneylab/sveltekit-graphql-github",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-seo",
+      "repo": "https://github.com/rodneylab/sveltekit-seo",
+      "url": "https://sveltekit-seo.rodneylab.com/",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-blog-mdx",
+      "repo": "https://github.com/rodneylab/sveltekit-blog-mdx",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-components",
+      "repo": "https://github.com/rodneylab/sveltekit-components",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-nextgen-background",
+      "repo": "https://github.com/rodneylab/sveltekit-nextgen-background",
+      "language": "CSS"
+    },
+    {
+      "name": "svelte-social-icons",
+      "repo": "https://github.com/rodneylab/svelte-social-icons",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-vanilla-extract",
+      "repo": "https://github.com/rodneylab/sveltekit-vanilla-extract",
+      "language": "TypeScript"
+    },
+    {
+      "name": "life-logistics",
+      "repo": "https://github.com/rodneylab/life-logistics",
+      "language": "C++"
+    },
+    {
+      "name": "rapier-units-of-measurement",
+      "repo": "https://github.com/rodneylab/rapier-units-of-measurement",
+      "language": "Rust"
+    },
+    {
+      "name": "sveltekit-s3-multipart-upload",
+      "repo": "https://github.com/rodneylab/sveltekit-s3-multipart-upload",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sveltekit-share-buttons",
+      "repo": "https://github.com/rodneylab/sveltekit-share-buttons",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-lazyload-iframe",
+      "repo": "https://github.com/rodneylab/sveltekit-lazyload-iframe",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-netlify-functions",
+      "repo": "https://github.com/rodneylab/sveltekit-netlify-functions",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-static-edge-functions",
+      "repo": "https://github.com/rodneylab/sveltekit-static-edge-functions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "svelte-each",
+      "repo": "https://github.com/rodneylab/svelte-each",
+      "language": "Svelte"
+    },
+    {
+      "name": "uvu-fastify-graphql",
+      "repo": "https://github.com/rodneylab/uvu-fastify-graphql",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-faq-page-seo",
+      "repo": "https://github.com/rodneylab/sveltekit-faq-page-seo",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-json-import",
+      "repo": "https://github.com/rodneylab/sveltekit-json-import",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-css-hover-image-slider",
+      "repo": "https://github.com/rodneylab/sveltekit-css-hover-image-slider",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-map-component",
+      "repo": "https://github.com/rodneylab/sveltekit-map-component",
+      "language": "Svelte"
+    },
+    {
+      "name": "countdown-numbers",
+      "repo": "https://github.com/rodneylab/countdown-numbers",
+      "language": "Rust"
+    },
+    {
+      "name": "svelte-chartjs",
+      "repo": "https://github.com/rodneylab/svelte-chartjs",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-grammar-check",
+      "repo": "https://github.com/rodneylab/sveltekit-grammar-check",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fastify-mercurius-nexus-graphql-api",
+      "repo": "https://github.com/rodneylab/fastify-mercurius-nexus-graphql-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-tooling",
+      "repo": "https://github.com/rodneylab/sveltekit-tooling",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sveltekit-simple-image-gallery",
+      "repo": "https://github.com/rodneylab/sveltekit-simple-image-gallery",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bevy-xpbd-tutorial",
+      "repo": "https://github.com/rodneylab/bevy-xpbd-tutorial",
+      "language": "Rust"
+    },
+    {
+      "name": "sveltekit-iconify",
+      "repo": "https://github.com/rodneylab/sveltekit-iconify",
+      "language": "Svelte"
+    },
+    {
+      "name": "raylib-flecs-imgui-introspection",
+      "repo": "https://github.com/rodneylab/raylib-flecs-imgui-introspection",
+      "language": "CMake"
+    },
+    {
+      "name": "ray-tracing-in-one-weekend",
+      "repo": "https://github.com/rodneylab/ray-tracing-in-one-weekend",
+      "language": "C++"
+    },
+    {
+      "name": "square_eater",
+      "repo": "https://github.com/rodneylab/square_eater",
+      "language": "Rust"
+    },
+    {
+      "name": "sveltekit-accessibility-testing",
+      "repo": "https://github.com/rodneylab/sveltekit-accessibility-testing",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-local-storage",
+      "repo": "https://github.com/rodneylab/sveltekit-local-storage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-content-security-policy",
+      "repo": "https://github.com/rodneylab/sveltekit-content-security-policy",
+      "language": "Svelte"
+    },
+    {
+      "name": "rodneylab.github.io",
+      "repo": "https://github.com/rodneylab/rodneylab.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "sveltekit-image-plugin",
+      "repo": "https://github.com/rodneylab/sveltekit-image-plugin",
+      "language": "Svelte"
+    },
+    {
+      "name": "sveltekit-session-cookies",
+      "repo": "https://github.com/rodneylab/sveltekit-session-cookies",
+      "language": "Svelte"
+    },
+    {
+      "name": "serverless-rust",
+      "repo": "https://github.com/rodneylab/serverless-rust",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fastify-prisma-rest-api",
+      "repo": "https://github.com/rodneylab/fastify-prisma-rest-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-uvu-testing",
+      "repo": "https://github.com/rodneylab/sveltekit-uvu-testing",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fauna-serverless-blog-comments",
+      "repo": "https://github.com/rodneylab/fauna-serverless-blog-comments",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cloudcannon-astro-beginners-tutorial",
+      "repo": "https://github.com/rodneylab/cloudcannon-astro-beginners-tutorial",
+      "language": "Astro"
+    },
+    {
+      "name": "searchlite",
+      "repo": "https://github.com/rodneylab/searchlite",
+      "language": "Rust"
+    },
+    {
+      "name": "cloudcannon-sveltekit-social-sharing-images",
+      "repo": "https://github.com/rodneylab/cloudcannon-sveltekit-social-sharing-images",
+      "url": "https://cloudcannon.com/tutorials/sveltekit-beginner-tutorial/adding-social-sharing-images-in-sveltekit/?utm_campaign=Rodney%20SvelteKit%20Social%20Sharing%20Tutorial&utm_source=email",
+      "language": "Svelte"
+    },
+    {
+      "name": "upstash-redis-deno-perf",
+      "repo": "https://github.com/rodneylab/upstash-redis-deno-perf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "svelte-ecommerce-site-start",
+      "repo": "https://github.com/rodneylab/svelte-ecommerce-site-start",
+      "language": "Svelte"
+    },
+    {
+      "name": "shash",
+      "repo": "https://github.com/rodneylab/shash",
+      "language": "Rust"
+    },
+    {
+      "name": "svelte-ably",
+      "repo": "https://github.com/rodneylab/svelte-ably",
+      "language": "TypeScript"
+    }
+  ]
 }

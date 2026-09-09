@@ -6,5 +6,516 @@
   ],
   "website": "https://primulinus.com/",
   "bio": "Get my public keys here: https://sk.tl/7CPRo8kn",
-  "commits": 13660
+  "own_repos": 350,
+  "commits": 13660,
+  "repos": [
+    {
+      "name": "turbocrypt",
+      "repo": "https://github.com/jedisct1/turbocrypt",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-pairings",
+      "repo": "https://github.com/jedisct1/zig-pairings",
+      "language": "Zig"
+    },
+    {
+      "name": "libsodium",
+      "repo": "https://github.com/jedisct1/libsodium",
+      "url": "https://libsodium.org",
+      "language": "C"
+    },
+    {
+      "name": "zig-base84",
+      "repo": "https://github.com/jedisct1/zig-base84",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-base91",
+      "repo": "https://github.com/jedisct1/zig-base91",
+      "language": "Zig"
+    },
+    {
+      "name": "jedisct1",
+      "repo": "https://github.com/jedisct1/jedisct1"
+    },
+    {
+      "name": "draft-denis-xet",
+      "repo": "https://github.com/jedisct1/draft-denis-xet",
+      "language": "Python"
+    },
+    {
+      "name": "EtchDNS",
+      "repo": "https://github.com/jedisct1/EtchDNS",
+      "url": "https://etchdns.dnscrypt.info",
+      "language": "Rust"
+    },
+    {
+      "name": "prusaslicer-lua-plugins-api-doc",
+      "repo": "https://github.com/jedisct1/prusaslicer-lua-plugins-api-doc"
+    },
+    {
+      "name": "supercop",
+      "repo": "https://github.com/jedisct1/supercop",
+      "url": "https://bench.cr.yp.to",
+      "language": "C"
+    },
+    {
+      "name": "rust-bloom-filter",
+      "repo": "https://github.com/jedisct1/rust-bloom-filter",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-sieve-cache",
+      "repo": "https://github.com/jedisct1/rust-sieve-cache",
+      "language": "Rust"
+    },
+    {
+      "name": "libsodium-sys-stable",
+      "repo": "https://github.com/jedisct1/libsodium-sys-stable",
+      "language": "Rust"
+    },
+    {
+      "name": "minisign",
+      "repo": "https://github.com/jedisct1/minisign",
+      "url": "https://jedisct1.github.io/minisign/",
+      "language": "C"
+    },
+    {
+      "name": "rust-jwt-simple",
+      "repo": "https://github.com/jedisct1/rust-jwt-simple",
+      "url": "https://crates.io/crates/jwt-simple",
+      "language": "Rust"
+    },
+    {
+      "name": "libhydrogen",
+      "repo": "https://github.com/jedisct1/libhydrogen",
+      "url": "https://libhydrogen.org",
+      "language": "C"
+    },
+    {
+      "name": "libsodium-doc",
+      "repo": "https://github.com/jedisct1/libsodium-doc",
+      "url": "https://libsodium.org",
+      "language": "Shell"
+    },
+    {
+      "name": "rust-hctr2",
+      "repo": "https://github.com/jedisct1/rust-hctr2",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-time-format",
+      "repo": "https://github.com/jedisct1/rust-time-format",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-ed25519-compact",
+      "repo": "https://github.com/jedisct1/rust-ed25519-compact",
+      "language": "Rust"
+    },
+    {
+      "name": "zigly",
+      "repo": "https://github.com/jedisct1/zigly",
+      "language": "Zig"
+    },
+    {
+      "name": "pingbar",
+      "repo": "https://github.com/jedisct1/pingbar",
+      "language": "Swift"
+    },
+    {
+      "name": "zig-xet",
+      "repo": "https://github.com/jedisct1/zig-xet",
+      "language": "Zig"
+    },
+    {
+      "name": "ed25519.py",
+      "repo": "https://github.com/jedisct1/ed25519.py",
+      "language": "Python"
+    },
+    {
+      "name": "tigertunnel",
+      "repo": "https://github.com/jedisct1/tigertunnel",
+      "language": "Zig"
+    },
+    {
+      "name": "go-ipcrypt",
+      "repo": "https://github.com/jedisct1/go-ipcrypt",
+      "url": "https://ipcrypt-std.github.io",
+      "language": "Go"
+    },
+    {
+      "name": "logcrypt",
+      "repo": "https://github.com/jedisct1/logcrypt",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-count-min-sketch",
+      "repo": "https://github.com/jedisct1/rust-count-min-sketch",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-superboring",
+      "repo": "https://github.com/jedisct1/rust-superboring",
+      "language": "Rust"
+    },
+    {
+      "name": "badrsa",
+      "repo": "https://github.com/jedisct1/badrsa",
+      "language": "Python"
+    },
+    {
+      "name": "longfellow-zk",
+      "repo": "https://github.com/jedisct1/longfellow-zk",
+      "language": "Zig"
+    },
+    {
+      "name": "pure-ftpd",
+      "repo": "https://github.com/jedisct1/pure-ftpd",
+      "url": "https://www.pureftpd.org",
+      "language": "C"
+    },
+    {
+      "name": "areion",
+      "repo": "https://github.com/jedisct1/areion",
+      "language": "Zig"
+    },
+    {
+      "name": "areion-bitsliced",
+      "repo": "https://github.com/jedisct1/areion-bitsliced",
+      "language": "C"
+    },
+    {
+      "name": "go-aes",
+      "repo": "https://github.com/jedisct1/go-aes",
+      "language": "Go"
+    },
+    {
+      "name": "rust-aegis",
+      "repo": "https://github.com/jedisct1/rust-aegis",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-hiae",
+      "repo": "https://github.com/jedisct1/rust-hiae",
+      "language": "Rust"
+    },
+    {
+      "name": "libsodium.js",
+      "repo": "https://github.com/jedisct1/libsodium.js",
+      "language": "HTML"
+    },
+    {
+      "name": "lol2.0",
+      "repo": "https://github.com/jedisct1/lol2.0",
+      "language": "C"
+    },
+    {
+      "name": "zig-cbc",
+      "repo": "https://github.com/jedisct1/zig-cbc",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-common-access-token",
+      "repo": "https://github.com/jedisct1/zig-common-access-token",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-beanie",
+      "repo": "https://github.com/jedisct1/zig-beanie",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-uricrypt",
+      "repo": "https://github.com/jedisct1/zig-uricrypt",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-fast",
+      "repo": "https://github.com/jedisct1/zig-fast",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-ctsort",
+      "repo": "https://github.com/jedisct1/zig-ctsort",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-vistrutah",
+      "repo": "https://github.com/jedisct1/zig-vistrutah",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-minisign",
+      "repo": "https://github.com/jedisct1/zig-minisign",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-asymcrypt",
+      "repo": "https://github.com/jedisct1/zig-asymcrypt",
+      "language": "Zig"
+    },
+    {
+      "name": "rust-ipcrypt2",
+      "repo": "https://github.com/jedisct1/rust-ipcrypt2",
+      "language": "Rust"
+    },
+    {
+      "name": "zig-silithium",
+      "repo": "https://github.com/jedisct1/zig-silithium",
+      "language": "Zig"
+    },
+    {
+      "name": "PureDB",
+      "repo": "https://github.com/jedisct1/PureDB",
+      "language": "C"
+    },
+    {
+      "name": "wasm-crypto",
+      "repo": "https://github.com/jedisct1/wasm-crypto",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rust-siphash",
+      "repo": "https://github.com/jedisct1/rust-siphash",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-ed25519-wasm",
+      "repo": "https://github.com/jedisct1/rust-ed25519-wasm",
+      "language": "C"
+    },
+    {
+      "name": "twice",
+      "repo": "https://github.com/jedisct1/twice",
+      "language": "C"
+    },
+    {
+      "name": "libsodium-rs",
+      "repo": "https://github.com/jedisct1/libsodium-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "zig-ultracdc",
+      "repo": "https://github.com/jedisct1/zig-ultracdc",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-lz4",
+      "repo": "https://github.com/jedisct1/zig-lz4",
+      "language": "Zig"
+    },
+    {
+      "name": "js-aegis-aead",
+      "repo": "https://github.com/jedisct1/js-aegis-aead",
+      "language": "TypeScript"
+    },
+    {
+      "name": "untrinsics",
+      "repo": "https://github.com/jedisct1/untrinsics",
+      "language": "C"
+    },
+    {
+      "name": "zig-hctr2",
+      "repo": "https://github.com/jedisct1/zig-hctr2",
+      "language": "Zig"
+    },
+    {
+      "name": "py-fast",
+      "repo": "https://github.com/jedisct1/py-fast",
+      "language": "Python"
+    },
+    {
+      "name": "wasi-crypto-preview",
+      "repo": "https://github.com/jedisct1/wasi-crypto-preview",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-ct-codecs",
+      "repo": "https://github.com/jedisct1/rust-ct-codecs",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-softaes",
+      "repo": "https://github.com/jedisct1/rust-softaes",
+      "language": "Rust"
+    },
+    {
+      "name": "dsvpn",
+      "repo": "https://github.com/jedisct1/dsvpn",
+      "language": "C"
+    },
+    {
+      "name": "go-minisign",
+      "repo": "https://github.com/jedisct1/go-minisign",
+      "language": "Go"
+    },
+    {
+      "name": "minisign-verify-c",
+      "repo": "https://github.com/jedisct1/minisign-verify-c",
+      "language": "C"
+    },
+    {
+      "name": "elimac",
+      "repo": "https://github.com/jedisct1/elimac",
+      "language": "C"
+    },
+    {
+      "name": "boringssl-wasm",
+      "repo": "https://github.com/jedisct1/boringssl-wasm",
+      "language": "Zig"
+    },
+    {
+      "name": "Blogbench",
+      "repo": "https://github.com/jedisct1/Blogbench",
+      "language": "C"
+    },
+    {
+      "name": "zig-poly1163",
+      "repo": "https://github.com/jedisct1/zig-poly1163",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-bkdf",
+      "repo": "https://github.com/jedisct1/zig-bkdf",
+      "language": "Zig"
+    },
+    {
+      "name": "c-partially-blind-rsa-signatures",
+      "repo": "https://github.com/jedisct1/c-partially-blind-rsa-signatures",
+      "language": "C"
+    },
+    {
+      "name": "c-blind-rsa-signatures",
+      "repo": "https://github.com/jedisct1/c-blind-rsa-signatures",
+      "language": "C"
+    },
+    {
+      "name": "zig-alf",
+      "repo": "https://github.com/jedisct1/zig-alf",
+      "language": "Zig"
+    },
+    {
+      "name": "charm",
+      "repo": "https://github.com/jedisct1/charm",
+      "language": "C"
+    },
+    {
+      "name": "zig-blind-rsa-signatures",
+      "repo": "https://github.com/jedisct1/zig-blind-rsa-signatures",
+      "language": "Zig"
+    },
+    {
+      "name": "rust-blind-rsa-signatures",
+      "repo": "https://github.com/jedisct1/rust-blind-rsa-signatures",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-minisign-verify",
+      "repo": "https://github.com/jedisct1/rust-minisign-verify",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-minisign",
+      "repo": "https://github.com/jedisct1/rust-minisign",
+      "language": "Rust"
+    },
+    {
+      "name": "zig-rocca-s",
+      "repo": "https://github.com/jedisct1/zig-rocca-s",
+      "language": "Zig"
+    },
+    {
+      "name": "garoupe",
+      "repo": "https://github.com/jedisct1/garoupe",
+      "language": "C"
+    },
+    {
+      "name": "forro",
+      "repo": "https://github.com/jedisct1/forro",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-morus",
+      "repo": "https://github.com/jedisct1/zig-morus",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-ipcrypt",
+      "repo": "https://github.com/jedisct1/zig-ipcrypt",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-hpke",
+      "repo": "https://github.com/jedisct1/zig-hpke",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-alzette",
+      "repo": "https://github.com/jedisct1/zig-alzette",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-cymric",
+      "repo": "https://github.com/jedisct1/zig-cymric",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-bounded-array",
+      "repo": "https://github.com/jedisct1/zig-bounded-array",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-aes-gem",
+      "repo": "https://github.com/jedisct1/zig-aes-gem",
+      "url": "https://github.com/trailofbits/aes-gem",
+      "language": "Zig"
+    },
+    {
+      "name": "zig-charm",
+      "repo": "https://github.com/jedisct1/zig-charm",
+      "language": "Zig"
+    },
+    {
+      "name": "go-dnsstamps",
+      "repo": "https://github.com/jedisct1/go-dnsstamps",
+      "language": "Go"
+    },
+    {
+      "name": "swival-nono-pack",
+      "repo": "https://github.com/jedisct1/swival-nono-pack"
+    },
+    {
+      "name": "rust-asymcrypt",
+      "repo": "https://github.com/jedisct1/rust-asymcrypt",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-seekable-stream-cipher",
+      "repo": "https://github.com/jedisct1/rust-seekable-stream-cipher",
+      "language": "Rust"
+    },
+    {
+      "name": "swift-sodium",
+      "repo": "https://github.com/jedisct1/swift-sodium",
+      "language": "C"
+    },
+    {
+      "name": "js-wesolowski",
+      "repo": "https://github.com/jedisct1/js-wesolowski",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pqconnect",
+      "repo": "https://github.com/jedisct1/pqconnect",
+      "url": "https://www.pqconnect.net",
+      "language": "Python"
+    },
+    {
+      "name": "rust-polymur-hash",
+      "repo": "https://github.com/jedisct1/rust-polymur-hash",
+      "language": "Rust"
+    }
+  ]
 }

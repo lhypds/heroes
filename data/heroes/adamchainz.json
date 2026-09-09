@@ -6,5 +6,516 @@
   ],
   "website": "https://adamj.eu/",
   "bio": "🦄 @django blogger and contributor ✍ Author of 4 books on Django, Git, and GitHub 🇬🇧 @djangolondon co-organizer",
-  "commits": 15162
+  "own_repos": 197,
+  "commits": 15162,
+  "repos": [
+    {
+      "name": "sql-fingerprint",
+      "repo": "https://github.com/adamchainz/sql-fingerprint",
+      "language": "Rust"
+    },
+    {
+      "name": "tprof",
+      "repo": "https://github.com/adamchainz/tprof",
+      "language": "Python"
+    },
+    {
+      "name": "treepoem",
+      "repo": "https://github.com/adamchainz/treepoem",
+      "language": "PostScript"
+    },
+    {
+      "name": "unittest-parametrize",
+      "repo": "https://github.com/adamchainz/unittest-parametrize",
+      "language": "Python"
+    },
+    {
+      "name": "sql-impressao",
+      "repo": "https://github.com/adamchainz/sql-impressao",
+      "language": "Rust"
+    },
+    {
+      "name": "pytest-restrict",
+      "repo": "https://github.com/adamchainz/pytest-restrict",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-reverse",
+      "repo": "https://github.com/adamchainz/pytest-reverse",
+      "language": "Python"
+    },
+    {
+      "name": "pygments-git",
+      "repo": "https://github.com/adamchainz/pygments-git",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-flake8-path",
+      "repo": "https://github.com/adamchainz/pytest-flake8-path",
+      "language": "Python"
+    },
+    {
+      "name": "pip-lock",
+      "repo": "https://github.com/adamchainz/pip-lock",
+      "language": "Python"
+    },
+    {
+      "name": "profiling-explorer",
+      "repo": "https://github.com/adamchainz/profiling-explorer",
+      "language": "Python"
+    },
+    {
+      "name": "patchy",
+      "repo": "https://github.com/adamchainz/patchy",
+      "language": "Python"
+    },
+    {
+      "name": "inline-snapshot-django",
+      "repo": "https://github.com/adamchainz/inline-snapshot-django",
+      "url": "https://inline-snapshot-django.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "icu4py",
+      "repo": "https://github.com/adamchainz/icu4py",
+      "url": "https://icu4py.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "flake8-no-pep420",
+      "repo": "https://github.com/adamchainz/flake8-no-pep420",
+      "language": "Python"
+    },
+    {
+      "name": "flake8-tidy-imports",
+      "repo": "https://github.com/adamchainz/flake8-tidy-imports",
+      "language": "Python"
+    },
+    {
+      "name": "heroicons",
+      "repo": "https://github.com/adamchainz/heroicons",
+      "language": "Python"
+    },
+    {
+      "name": "icu4c-builds",
+      "repo": "https://github.com/adamchainz/icu4c-builds",
+      "language": "Python"
+    },
+    {
+      "name": "flake8-logging",
+      "repo": "https://github.com/adamchainz/flake8-logging",
+      "language": "Python"
+    },
+    {
+      "name": "django-version-checks",
+      "repo": "https://github.com/adamchainz/django-version-checks",
+      "language": "Python"
+    },
+    {
+      "name": "flake8-comprehensions",
+      "repo": "https://github.com/adamchainz/flake8-comprehensions",
+      "language": "Python"
+    },
+    {
+      "name": "emojet",
+      "repo": "https://github.com/adamchainz/emojet",
+      "url": "https://emojet.readthedocs.io/",
+      "language": "Rust"
+    },
+    {
+      "name": "django-rich",
+      "repo": "https://github.com/adamchainz/django-rich",
+      "language": "Python"
+    },
+    {
+      "name": "ec2-metadata",
+      "repo": "https://github.com/adamchainz/ec2-metadata",
+      "language": "Python"
+    },
+    {
+      "name": "django-read-only",
+      "repo": "https://github.com/adamchainz/django-read-only",
+      "language": "Python"
+    },
+    {
+      "name": "django-upgrade",
+      "repo": "https://github.com/adamchainz/django-upgrade",
+      "url": "https://django-upgrade.readthedocs.io/en/latest/",
+      "language": "Python"
+    },
+    {
+      "name": "django-watchfiles",
+      "repo": "https://github.com/adamchainz/django-watchfiles",
+      "language": "Python"
+    },
+    {
+      "name": "django-perf-rec",
+      "repo": "https://github.com/adamchainz/django-perf-rec",
+      "language": "Python"
+    },
+    {
+      "name": "django-permissions-policy",
+      "repo": "https://github.com/adamchainz/django-permissions-policy",
+      "language": "Python"
+    },
+    {
+      "name": "django-http-compression",
+      "repo": "https://github.com/adamchainz/django-http-compression",
+      "language": "Python"
+    },
+    {
+      "name": "django-integrity-policy",
+      "repo": "https://github.com/adamchainz/django-integrity-policy",
+      "language": "Python"
+    },
+    {
+      "name": "django-linear-migrations",
+      "repo": "https://github.com/adamchainz/django-linear-migrations",
+      "language": "Python"
+    },
+    {
+      "name": "django-msgspec",
+      "repo": "https://github.com/adamchainz/django-msgspec",
+      "url": "https://django-msgspec.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "django-mysql",
+      "repo": "https://github.com/adamchainz/django-mysql",
+      "url": "https://django-mysql.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "django-orjson",
+      "repo": "https://github.com/adamchainz/django-orjson",
+      "url": "https://django-orjson.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "django-htmx",
+      "repo": "https://github.com/adamchainz/django-htmx",
+      "url": "https://django-htmx.readthedocs.io/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "apig-wsgi",
+      "repo": "https://github.com/adamchainz/apig-wsgi",
+      "language": "Python"
+    },
+    {
+      "name": "djade",
+      "repo": "https://github.com/adamchainz/djade",
+      "language": "Rust"
+    },
+    {
+      "name": "django-auto-prefetch",
+      "repo": "https://github.com/adamchainz/django-auto-prefetch",
+      "language": "Python"
+    },
+    {
+      "name": "django-crawl",
+      "repo": "https://github.com/adamchainz/django-crawl",
+      "url": "https://django-crawl.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "django-harlequin",
+      "repo": "https://github.com/adamchainz/django-harlequin",
+      "language": "Python"
+    },
+    {
+      "name": "blacken-docs",
+      "repo": "https://github.com/adamchainz/blacken-docs",
+      "language": "Python"
+    },
+    {
+      "name": "django-browser-reload",
+      "repo": "https://github.com/adamchainz/django-browser-reload",
+      "language": "Python"
+    },
+    {
+      "name": "time-machine",
+      "repo": "https://github.com/adamchainz/time-machine",
+      "url": "https://time-machine.readthedocs.io/en/latest/",
+      "language": "Python"
+    },
+    {
+      "name": "unipatch",
+      "repo": "https://github.com/adamchainz/unipatch",
+      "language": "Python"
+    },
+    {
+      "name": "pslr",
+      "repo": "https://github.com/adamchainz/pslr",
+      "language": "Rust"
+    },
+    {
+      "name": "django-cors-headers",
+      "repo": "https://github.com/adamchainz/django-cors-headers",
+      "language": "Python"
+    },
+    {
+      "name": "django-minify-html",
+      "repo": "https://github.com/adamchainz/django-minify-html",
+      "language": "Python"
+    },
+    {
+      "name": "adamchainz",
+      "repo": "https://github.com/adamchainz/adamchainz",
+      "language": "Python"
+    },
+    {
+      "name": "scripts",
+      "repo": "https://github.com/adamchainz/scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "mac-ansible",
+      "repo": "https://github.com/adamchainz/mac-ansible",
+      "language": "Shell"
+    },
+    {
+      "name": "djade-pre-commit",
+      "repo": "https://github.com/adamchainz/djade-pre-commit",
+      "language": "Python"
+    },
+    {
+      "name": "django-talk-quiz-7",
+      "repo": "https://github.com/adamchainz/django-talk-quiz-7",
+      "language": "JavaScript"
+    },
+    {
+      "name": "icupoc",
+      "repo": "https://github.com/adamchainz/icupoc",
+      "language": "C++"
+    },
+    {
+      "name": "django-ticket-36730",
+      "repo": "https://github.com/adamchainz/django-ticket-36730",
+      "language": "Python"
+    },
+    {
+      "name": "django-ticket-36645",
+      "repo": "https://github.com/adamchainz/django-ticket-36645",
+      "language": "Python"
+    },
+    {
+      "name": "django-ticket-36408",
+      "repo": "https://github.com/adamchainz/django-ticket-36408",
+      "language": "Python"
+    },
+    {
+      "name": "django-ticket-36404",
+      "repo": "https://github.com/adamchainz/django-ticket-36404",
+      "language": "Python"
+    },
+    {
+      "name": "talk-data-oriented-django-drei",
+      "repo": "https://github.com/adamchainz/talk-data-oriented-django-drei",
+      "language": "HTML"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/adamchainz/.github"
+    },
+    {
+      "name": "django-talk-quiz-6",
+      "repo": "https://github.com/adamchainz/django-talk-quiz-6",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sublime_text_settings",
+      "repo": "https://github.com/adamchainz/sublime_text_settings",
+      "language": "Python"
+    },
+    {
+      "name": "talk-data-oriented-django-deux",
+      "repo": "https://github.com/adamchainz/talk-data-oriented-django-deux",
+      "language": "HTML"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/adamchainz/homebrew-tap"
+    },
+    {
+      "name": "django-ticket-35090",
+      "repo": "https://github.com/adamchainz/django-ticket-35090",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-is-running",
+      "repo": "https://github.com/adamchainz/pytest-is-running",
+      "language": "Python"
+    },
+    {
+      "name": "django-talk-quiz-5",
+      "repo": "https://github.com/adamchainz/django-talk-quiz-5",
+      "language": "JavaScript"
+    },
+    {
+      "name": "django-5.0-choices-laziness",
+      "repo": "https://github.com/adamchainz/django-5.0-choices-laziness",
+      "language": "Python"
+    },
+    {
+      "name": "django-blue-green-example",
+      "repo": "https://github.com/adamchainz/django-blue-green-example",
+      "language": "Python"
+    },
+    {
+      "name": "django-capture-on-commit-callbacks",
+      "repo": "https://github.com/adamchainz/django-capture-on-commit-callbacks",
+      "language": "Python"
+    },
+    {
+      "name": "pre-commit-dprint",
+      "repo": "https://github.com/adamchainz/pre-commit-dprint"
+    },
+    {
+      "name": "talk-improve-startup-time",
+      "repo": "https://github.com/adamchainz/talk-improve-startup-time",
+      "language": "JavaScript"
+    },
+    {
+      "name": "documentation",
+      "repo": "https://github.com/adamchainz/documentation",
+      "language": "HTML"
+    },
+    {
+      "name": "django-ticket-34063-backport",
+      "repo": "https://github.com/adamchainz/django-ticket-34063-backport",
+      "language": "Python"
+    },
+    {
+      "name": "tox-py",
+      "repo": "https://github.com/adamchainz/tox-py",
+      "language": "Python"
+    },
+    {
+      "name": "mariadb-dyncol",
+      "repo": "https://github.com/adamchainz/mariadb-dyncol",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-super-check",
+      "repo": "https://github.com/adamchainz/pytest-super-check",
+      "language": "Python"
+    },
+    {
+      "name": "flake8-no-types",
+      "repo": "https://github.com/adamchainz/flake8-no-types",
+      "language": "Python"
+    },
+    {
+      "name": "django-settings-file",
+      "repo": "https://github.com/adamchainz/django-settings-file",
+      "language": "Python"
+    },
+    {
+      "name": "channels-bug-connection-closed",
+      "repo": "https://github.com/adamchainz/channels-bug-connection-closed",
+      "language": "Python"
+    },
+    {
+      "name": "django-startproject-templates",
+      "repo": "https://github.com/adamchainz/django-startproject-templates",
+      "language": "Python"
+    },
+    {
+      "name": "talk-most-productive-django-developers",
+      "repo": "https://github.com/adamchainz/talk-most-productive-django-developers",
+      "language": "JavaScript"
+    },
+    {
+      "name": "talk-data-oriented-django",
+      "repo": "https://github.com/adamchainz/talk-data-oriented-django",
+      "language": "JavaScript"
+    },
+    {
+      "name": "workshop-evenergy-concurrency-and-parallelism",
+      "repo": "https://github.com/adamchainz/workshop-evenergy-concurrency-and-parallelism",
+      "language": "Python"
+    },
+    {
+      "name": "owela-club",
+      "repo": "https://github.com/adamchainz/owela-club",
+      "language": "Python"
+    },
+    {
+      "name": "talk-django-and-htmx",
+      "repo": "https://github.com/adamchainz/talk-django-and-htmx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pre-commit-oxipng",
+      "repo": "https://github.com/adamchainz/pre-commit-oxipng",
+      "language": "Rust"
+    },
+    {
+      "name": "advent-of-code-dot-com-answers",
+      "repo": "https://github.com/adamchainz/advent-of-code-dot-com-answers",
+      "url": "https://adventofcode.com/",
+      "language": "Python"
+    },
+    {
+      "name": "talk-jobs",
+      "repo": "https://github.com/adamchainz/talk-jobs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "django-coverage-example",
+      "repo": "https://github.com/adamchainz/django-coverage-example",
+      "language": "Python"
+    },
+    {
+      "name": "workshop-idiomatic-python",
+      "repo": "https://github.com/adamchainz/workshop-idiomatic-python",
+      "language": "Python"
+    },
+    {
+      "name": "workshop-profiling-and-debugging",
+      "repo": "https://github.com/adamchainz/workshop-profiling-and-debugging",
+      "language": "Python"
+    },
+    {
+      "name": "django-ticket-33153",
+      "repo": "https://github.com/adamchainz/django-ticket-33153",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-flake8dir",
+      "repo": "https://github.com/adamchainz/pytest-flake8dir",
+      "language": "Python"
+    },
+    {
+      "name": "workshop-concurrency-and-parallelism",
+      "repo": "https://github.com/adamchainz/workshop-concurrency-and-parallelism",
+      "language": "Python"
+    },
+    {
+      "name": "workshop-recommended-practices",
+      "repo": "https://github.com/adamchainz/workshop-recommended-practices",
+      "language": "Python"
+    },
+    {
+      "name": "django-jsonfield",
+      "repo": "https://github.com/adamchainz/django-jsonfield",
+      "language": "Python"
+    },
+    {
+      "name": "talk-building-interactive-pages-with-htmx",
+      "repo": "https://github.com/adamchainz/talk-building-interactive-pages-with-htmx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "talk-speed-up-your-tests-with-setuptestdata",
+      "repo": "https://github.com/adamchainz/talk-speed-up-your-tests-with-setuptestdata",
+      "language": "JavaScript"
+    },
+    {
+      "name": "workshop-profiling",
+      "repo": "https://github.com/adamchainz/workshop-profiling",
+      "language": "Python"
+    }
+  ]
 }
