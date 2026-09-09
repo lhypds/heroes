@@ -13,6 +13,9 @@ each link whether it answers
 `pnpm run account -- <handle>` — one GitHub account read against the rules,
 or several with commas between, counted together; `--list` says it repository
 by repository, `--json` as the API answers it  
+`npx hero scan` — `own_repos` for every entry under `data/heroes/`, read off
+GitHub; handles restrict it to those entries, `--missing` to the ones without
+the figure, and `--dry` says what would change without writing  
 `./crawl.sh` — people who might be heroes, into `data/crawl.db`  
 
 The same check answers over HTTP under `/api`, on the page's own port:
@@ -20,8 +23,25 @@ The same check answers over HTTP under `/api`, on the page's own port:
 process and nothing proxied. [Check an account](30_Check%20an%20account.md)
 has the addresses and what the numbers mean.  
 
-The account check and the crawl both need a GitHub token: `GITHUB_TOKEN`, in
-the environment or `.env`, or a signed-in `gh`.  
+The account check, the scan and the crawl all need a GitHub token:
+`GITHUB_TOKEN`, in the environment or `.env`, or a signed-in `gh`.  
+
+
+The scan
+--------
+
+`npx hero scan` writes `own_repos` into every entry: how many public
+repositories of their own the entry's accounts hold, forks out, which is the
+figure the page shows beside the name. An entry naming more than one account
+is the accounts added up, since the rules read them as one.  
+
+GitHub keeps that count itself and hands it back without reading a single
+repository, so the whole list is a handful of requests — twenty accounts to
+one — rather than the days a full check of it takes. The token, the pace and
+the retrying are `api/account.js`'s, and so is what counts as their own, asked
+for in the same words. The figure goes into the file on a line of its own and
+nothing else moves, so a scan of an entry someone typed by hand reads as the
+one line it changed.  
 
 `PORT` in `.env` is the port, and the only one: development, preview and the
 PM2 process all listen on it, so what is developed on is what is deployed on.

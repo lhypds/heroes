@@ -1,9 +1,10 @@
 import { HUNDRED } from "../../constants";
 import styles from "./hundred.module.css";
 
-// A hundred squares, ten by ten, one per application, so the whole of what
-// the list asks for is one glance: how far along a name is, and how far there
-// is to go.
+// A hundred squares, ten by ten, one per repository, so the whole of what the
+// first rule asks for is one glance: how far along a name is, and how far
+// there is to go. The check draws the repositories that count this way, and
+// an entry draws the repositories its accounts hold.
 //
 // Past the hundred the count comes round again over the same squares, and
 // each lap is drawn in a colour of its own — green, orange, gold, purple,
@@ -24,7 +25,8 @@ export default function Hundred({ count, titles = [], label }) {
         // times, and the first `rest` of them once more.
         const filled = i < rest;
         const level = Math.min(LAPS, laps + (filled ? 1 : 0));
-        // Which application it stands for is the last one to land on it.
+        // Which one it stands for, where they are named at all, is the last
+        // to land on it.
         const app = ((filled ? laps : laps - 1) * HUNDRED) + i;
         return (
           <span

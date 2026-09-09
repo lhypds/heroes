@@ -160,7 +160,10 @@ const gate = async () => {
 // One query, with the waiting and the retrying data/crawl.js does: a rate
 // limit is waited out, a failure on GitHub's side is asked again, and a
 // handle nobody has comes back as no user rather than as an error.
-const graphql = async (query, variables) => {
+//
+// hero.js asks its own question with it, so the token, the pace and the
+// retrying are kept in the one place.
+export const graphql = async (query, variables) => {
   const bearer = token();
   for (let attempt = 1; ; attempt++) {
     await gate();

@@ -54,6 +54,10 @@ organisation of yours, say — so list every one the applications below come
 from. One account on its own is a list of one.  
 `website` — optional, an address of your own.  
 `bio` — optional, one line, English or translated (see below).  
+`own_repos` — optional, how many public repositories of your own you have,
+forks out, over every account listed above. You need not write it: `npx hero
+scan` reads it off the accounts and fills it in. The page shows it beside your
+name, and names the applications below instead until it has been filled in.  
 `commits` — optional, the commits your own public repositories come to in all,
 the figure the second rule asks for. `pnpm run account -- <handle>` reads it off
 the account; the page shows it beside your name, and leaves the line out when
@@ -86,7 +90,7 @@ The check
 - there are at least ten applications  
 - every application has a `name`, a `description` and a `repo`  
 - every `repo` is an `https://` address, listed once  
-- `commits`, where there is one, is a whole number  
+- `own_repos` and `commits`, where there are any, are whole numbers  
 - translations use the six known codes, and always include `en`  
 
 With `--online` it also asks each `repo` whether it answers, and mentions any

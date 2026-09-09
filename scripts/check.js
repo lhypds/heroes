@@ -119,9 +119,14 @@ const checkLead = (file, lead) => {
   checkAccounts(file, lead.github);
   if (lead.website !== undefined && !isHttps(lead.website)) problem(file, `website must be an https:// address`);
   checkLocalised(file, "bio", lead.bio, false);
-  // What their own repositories come to in commits, which the page shows
-  // beside the name. Whether the figure is right is read by a person, the way
-  // the rules themselves are; this only asks that it is a whole number.
+  // How many repositories of their own they hold and what those come to in
+  // commits, the two figures the page shows beside the name. Whether either
+  // is right is read by a person, the way the rules themselves are — or
+  // written by `npx hero scan`, which reads the first off GitHub; this only
+  // asks that they are whole numbers.
+  if (lead.own_repos !== undefined && !(Number.isInteger(lead.own_repos) && lead.own_repos >= 0)) {
+    problem(file, `own_repos must be a whole number of repositories`);
+  }
   if (lead.commits !== undefined && !(Number.isInteger(lead.commits) && lead.commits >= 0)) {
     problem(file, `commits must be a whole number of commits`);
   }

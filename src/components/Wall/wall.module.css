@@ -42,14 +42,15 @@
 
 /* The entry, unfolded in the wall itself: a row of the grid to itself, drawn
    where the row of the face that was pressed ends. Set on the page's own paper
-   and inside a rule, so it reads as the wall opened onto the page rather than
-   as something laid over it, and the faces above it are not moved. */
+   and drawn no rule, so it reads as the wall opened onto the page rather than
+   as something laid over it, and the faces above it are not moved. Its edges
+   are the wall's own, so what unfolds is set to the same margin the faces
+   are. */
 .entry {
   grid-column: 1 / -1;
   margin: 6px 0;
-  padding: 0 16px 16px 16px;
+  padding: 0 0 16px 0;
   background: var(--paper);
-  border: 1px solid var(--line);
 }
 
 .face:focus-visible {

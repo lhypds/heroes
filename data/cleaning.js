@@ -596,15 +596,20 @@ const address = (website) => {
 };
 
 // The entry the site reads, from what the crawl knows of them and what
-// step 3 counted: the commits are the ones they wrote themselves, the
+// step 3 counted: the repositories are their own, forks out, as the crawl
+// counted them, and the commits are the ones they wrote themselves, the
 // figure the bar is set on. The applications are what a person adds
 // later, and an empty list is how a hero waiting for them is told apart.
+//
+// The repositories are a figure of the day they were crawled; `npx hero scan`
+// reads them off the account again, for every entry, however it was written.
 const entry = (person) => ({
   handle: person.login.toLowerCase(),
   name: person.name?.trim() || person.login,
   github: [`https://github.com/${person.login}`],
   ...(address(person.website) ? { website: address(person.website) } : {}),
   ...(person.bio?.trim() ? { bio: person.bio.trim() } : {}),
+  own_repos: person.own,
   commits: person.authored,
   apps: [],
 });

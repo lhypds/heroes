@@ -10,12 +10,21 @@ import styles from "./hero.module.css";
 // where its source is, once their name is pressed. A link straight to a
 // person — #handle — arrives with them already open.
 //
-// The figure beside the name is the whole list, and may pass a hundred; the
-// rows that unfold are the first hundred of it, the entry's most important.
+// The figure beside the name is what their own public repositories come to —
+// own_repos, which `npx hero scan` reads off the accounts themselves, forks
+// out — and with it the commits in those repositories, which is the second
+// rule, read as a floor. Both are counted off the account rather than off
+// this list; an entry with no commits yet names the repositories alone, and
+// one the scan has not reached names the applications it lists instead.
 //
-// With it, the commits their own public repositories come to, which is the
-// second rule, read as a floor: somebody counted them off the account rather
-// than off this list, and an entry without them names the repositories alone.
+// The grid under it counts the same repositories, a square each against the
+// hundred the first rule asks for, so the figure and the squares are the one
+// thing said twice: how far along the hundred they are, and how far past it
+// they have gone, since it goes round again for every hundred after.
+//
+// The rows that unfold are the applications the entry lists — the ones picked
+// out of those repositories as the entry's most important — first hundred
+// first.
 //
 // Beside the name, every account the entry lists: one person may keep more
 // than one, and the rules read them as one.
@@ -29,8 +38,11 @@ import styles from "./hero.module.css";
 export default function Hero({ hero }) {
   const { t, i18n } = useTranslation();
   const language = i18n.language;
-  const { handle, name, github, website, bio, apps, commits } = hero;
-  const count = apps.length;
+  const { handle, name, github, website, bio, apps, commits, own_repos: own } = hero;
+  // Their own repositories, as the scan last counted them; the applications
+  // the entry lists until it has been counted, which is what the figure and
+  // the squares said before there was anything better to say.
+  const repos = Number.isInteger(own) ? own : apps.length;
   const [open, setOpen] = useState(() => window.location.hash === `#${handle}`);
   const [noAvatar, setNoAvatar] = useState(false);
   const listId = `${handle}-apps`;
@@ -79,16 +91,15 @@ export default function Hero({ hero }) {
           <div className={styles.figures}>
             {commits > 0
               ? t("leads.figures", {
-                  n: count,
+                  n: repos.toLocaleString(language),
                   c: Number(commits).toLocaleString(language),
                 })
-              : t("leads.repositories", { n: count })}
+              : t("leads.repositories", { n: repos.toLocaleString(language) })}
           </div>
-          <Hundred
-            count={count}
-            titles={apps.map((app) => app.name)}
-            label={t("leads.grid", { n: count })}
-          />
+          {/* No square carries a name: the repositories are counted off the
+              account and never listed, so there is nothing to name them by.
+              The applications, which do have names, are the rows below. */}
+          <Hundred count={repos} label={t("leads.grid", { n: repos })} />
         </div>
       </header>
 
