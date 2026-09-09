@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { LanguageSwitcher, ThemeSwitcher, Lead, Json, Check, Boundary } from "@components";
+import { LanguageSwitcher, ThemeSwitcher, Wall, Json, Check, Boundary } from "@components";
 import { LEADS } from "@utils/leads";
-import { REPO, GUIDE, HOME, HUNDRED } from "../../constants";
+import { REPO, GUIDE, HOME } from "../../constants";
 import { EXAMPLE, PROMPT } from "../../prompt";
 import buttons from "../../button.module.css";
 import styles from "./home.module.css";
@@ -15,12 +15,6 @@ export default function Home() {
   const language = i18n.language;
   const rules = t("rules.items", { returnObjects: true });
   const steps = t("join.steps", { returnObjects: true });
-
-  // Two lists: whoever has reached the hundred, and everyone still on the
-  // way. Nobody has reached it, and the first list says so in the largest
-  // type the page has; the day someone does, they are listed there.
-  const heroes = LEADS.filter((lead) => lead.apps.length >= HUNDRED);
-  const others = LEADS.filter((lead) => lead.apps.length < HUNDRED);
 
   useEffect(() => {
     document.title = t("meta.title");
@@ -69,29 +63,13 @@ export default function Home() {
         </div>
       </header>
 
-      <section className={styles.section} id="heroes">
-        <h2 className={styles.label}>{t("heroes.title")}</h2>
-        {heroes.length > 0 ? (
-          <div className={styles.leads}>
-            {heroes.map((lead) => (
-              <Lead lead={lead} key={lead.handle} />
-            ))}
-          </div>
-        ) : (
-          <p className={styles.statusLine}>{t("heroes.none")}</p>
-        )}
+      {/* Everyone at once, under no heading of its own: a wall of faces. A
+          list would be thousands of rows long and read as none of them. Press
+          one and their entry unfolds in the wall, under the row it was pressed
+          in, so it is read beside the faces it was picked from. */}
+      <section className={styles.section} id="leads">
+        <Wall people={LEADS} />
       </section>
-
-      {others.length > 0 && (
-        <section className={styles.section} id="leads">
-          <h2 className={styles.label}>{t("leads.title")}</h2>
-          <div className={styles.leads}>
-            {others.map((lead) => (
-              <Lead lead={lead} key={lead.handle} />
-            ))}
-          </div>
-        </section>
-      )}
 
       {/* What it takes, whether a name has it, and how to say so: three parts
           of one section, each under its own heading and no line between

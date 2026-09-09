@@ -5,11 +5,10 @@ import { HUNDRED } from "../../constants";
 import buttons from "../../button.module.css";
 import styles from "./check.module.css";
 
-// A GitHub account, read against the three rules: how many of that account's
-// public repositories of their own are real code, whether one of them carries
-// a thousand commits, and what they come to in all. The reading is
-// api/handler.js's, at /api; this is the box it is asked from and the answer
-// set out.
+// A GitHub account, read against the two rules: how many of that account's
+// public repositories of their own are real code, and what their commits come
+// to in all. The reading is api/handler.js's, at /api; this is the box it is
+// asked from and the answer set out.
 //
 // An account is a person or an organisation, and several of them, separated by
 // commas, are read as one — a person's work is often spread over more than one
@@ -192,7 +191,7 @@ export default function Check() {
   const several = report ? report.accounts.length > 1 : false;
   const named = (owner, name) => (several ? `${owner}/${name}` : name);
 
-  // The three rules, each with what this account has against it. The first is
+  // The two rules, each with what this account has against it. The first is
   // counted through a sieve, so it says what it sifted out as well as what it
   // let through.
   const marks = report && [
@@ -203,15 +202,6 @@ export default function Check() {
         need: count(report.rules.repositories.need, language),
         over: count(report.rules.repositories.passedOver, language),
       }),
-    },
-    {
-      ok: report.rules.commits.ok,
-      value: report.rules.commits.repository === null
-        ? t("check.none")
-        : t("check.three", {
-          repo: named(report.rules.commits.owner, report.rules.commits.repository),
-          n: count(report.rules.commits.have, language),
-        }),
     },
     {
       ok: report.rules.total.ok,

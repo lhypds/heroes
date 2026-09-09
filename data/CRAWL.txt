@@ -21,4 +21,10 @@ Step 2. someone creates lots of minor repos, is not a hero.
 Remove users whose first 10 repos have less than 100 commits.
 (1 repo less than 10 commits)
 
-Step 3. All repos should have more than 10000 commits.
+Step 3. A hero has more than 10000 commits.
+Take the 100 repos they pushed to most recently, add up the commits on
+their default branches, by anyone. Over 10000, they are a hero, and get
+data/heroes/<handle>.json with what the crawl knows: name, profile,
+website, bio, commits, and an empty apps list to fill in later.
+Whoever falls short is left alone, not removed.
+One request each, about a day and a half for the 33208.

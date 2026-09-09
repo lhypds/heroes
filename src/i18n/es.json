@@ -17,23 +17,18 @@
         "body": "Cien repositorios públicos propios, cada uno código de verdad. «Público» significa que cualquiera puede abrir, leer y clonar el repositorio. «Propio» significa que lo creaste tú; los forks de repositorios de otras personas no cuentan. Y «código de verdad» significa al menos 10 commits y más de 100 líneas en cualquier lenguaje de programación. Varias cuentas cuentan juntas —una cuenta personal y una organización tuya, por ejemplo— siempre que los repositorios que hay en ellas sean obra tuya."
       },
       {
-        "name": "Al menos un repositorio con 1000 commits",
-        "body": "Al menos uno de tus repositorios públicos debe tener 1000 commits o más."
-      },
-      {
         "name": "Más de 10 000 commits en total",
         "body": "Los commits de tus repositorios públicos propios, sumados, deben pasar de 10 000. Todos tus repositorios entran en ese total, también los que se quedan cortos en la primera regla; los forks no cuentan, aquí ni en ningún sitio."
       }
     ]
   },
-  "heroes": {
-    "title": "Héroes de las aplicaciones",
-    "none": "¡Todavía no hay ningún héroe de 100 aplicaciones!"
+  "wall": {
+    "label": "Todos los héroes de la lista, una foto cada uno. Pulsa una, o recórrelas con las flechas del teclado y pulsa Intro, y su entrada se despliega en el muro bajo la fila en la que se pulsó. Escape la repliega.",
+    "count": "{{n}} héroes"
   },
   "leads": {
-    "title": "Otros programadores geniales",
-    "count": "{{n}} de 100",
-    "commits": "{{n}} commits",
+    "repositories": "{{n}} repositorios",
+    "figures": "{{n}} repositorios, al menos {{c}} commits",
     "grid": "{{n}} de 100 aplicaciones",
     "open": "Abrir",
     "source": "Código",
@@ -79,10 +74,8 @@
     "commits": "{{n}} commits en total.",
     "grid": "{{n}} de 100 repositorios que cuentan",
     "one": "{{n}} de {{need}}, {{over}} descartados",
-    "three": "{{repo}}, {{n}} commits",
-    "none": "todavía ningún repositorio cerca de los mil commits",
     "total": "{{n}} de {{need}}",
-    "hero": "Un héroe: cien repositorios que cuentan, uno de ellos con mil commits, y más de diez mil commits en total.",
+    "hero": "Un héroe: cien repositorios que cuentan, y más de diez mil commits en total.",
     "listed": "En la lista: {{n}} de cien. El listón para entrar es diez.",
     "under": "{{n}} de los diez con los que empieza la lista.",
     "sieve": "Un repositorio cuenta si es tuyo, no es un fork, y tiene 10 commits o más y más de 100 líneas de código. Las líneas se estiman a partir de los bytes que GitHub da para cada lenguaje, a treinta bytes por línea, así que un repositorio justo en el límite merece una segunda mirada.",

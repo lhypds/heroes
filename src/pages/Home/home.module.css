@@ -46,7 +46,7 @@
 
 /* Hero */
 .hero {
-  padding: 64px 0 48px 0;
+  padding: 64px 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -88,18 +88,6 @@
 }
 
 /* The buttons themselves are button.module.css's, the page over. */
-
-/* The heroes' list while it is empty: one line, in the largest type below
-   the wordmark. */
-.statusLine {
-  margin: 0;
-  max-width: 20em;
-  font-size: 40px;
-  font-weight: 700;
-  letter-spacing: var(--tracking-display);
-  line-height: 1.1;
-  text-wrap: balance;
-}
 
 /* Sections */
 .section {
@@ -169,12 +157,6 @@
 .ruleBody {
   margin: 0;
   color: var(--muted);
-}
-
-/* The list: the section label sits where a first rule would, so the first
-   entry starts flush. */
-.leads > :first-child {
-  padding-top: 0;
 }
 
 /* Join: the words on one side, the file they describe on the other. */
@@ -271,7 +253,7 @@
 
 @media (max-width: 760px) {
   .hero {
-    padding: 36px 0 32px 0;
+    padding: 36px 0;
   }
 
   .join {
@@ -287,10 +269,6 @@
 
   .tagline {
     font-size: 20px;
-  }
-
-  .statusLine {
-    font-size: 28px;
   }
 
   /* Buttons at a shared width need more room than a phone has; below

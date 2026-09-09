@@ -17,23 +17,18 @@
         "body": "Cent dépôts publics à vous, chacun du vrai code. « Public » signifie que n'importe qui peut ouvrir, lire et cloner le dépôt. « À vous » signifie que c'est vous qui l'avez créé ; les forks des dépôts d'autres personnes ne comptent pas. Et « vrai code » signifie au moins 10 commits et plus de 100 lignes dans n'importe quel langage de programmation. Plusieurs comptes comptent ensemble — un compte personnel et une organisation à vous, par exemple — pourvu que les dépôts qui s'y trouvent soient votre travail."
       },
       {
-        "name": "Au moins un dépôt à 1000 commits",
-        "body": "Au moins un de vos dépôts publics doit compter 1000 commits ou plus."
-      },
-      {
         "name": "Plus de 10 000 commits en tout",
         "body": "Les commits de vos dépôts publics à vous, additionnés, doivent dépasser 10 000. Tous vos dépôts entrent dans ce total, y compris ceux qui n'atteignent pas la première règle ; les forks ne comptent pas, ici comme ailleurs."
       }
     ]
   },
-  "heroes": {
-    "title": "Héros des applications",
-    "none": "Il n'y a pas encore de héros aux 100 applications !"
+  "wall": {
+    "label": "Tous les héros de la liste, une photo chacun. Appuyez sur l'une d'elles, ou parcourez-les avec les flèches du clavier et appuyez sur Entrée, et son entrée se déplie dans le mur sous la rangée où l'on a appuyé. Échap la replie.",
+    "count": "{{n}} héros"
   },
   "leads": {
-    "title": "Les autres programmeurs de génie",
-    "count": "{{n}} sur 100",
-    "commits": "{{n}} commits",
+    "repositories": "{{n}} dépôts",
+    "figures": "{{n}} dépôts, au moins {{c}} commits",
     "grid": "{{n}} applications sur 100",
     "open": "Ouvrir",
     "source": "Source",
@@ -79,10 +74,8 @@
     "commits": "{{n}} commits en tout.",
     "grid": "{{n}} dépôts qui comptent sur 100",
     "one": "{{n}} sur {{need}}, {{over}} écartés",
-    "three": "{{repo}}, {{n}} commits",
-    "none": "aucun dépôt proche des mille commits pour l'instant",
     "total": "{{n}} sur {{need}}",
-    "hero": "Un héros : cent dépôts qui comptent, l'un d'eux avec mille commits, et plus de dix mille commits en tout.",
+    "hero": "Un héros : cent dépôts qui comptent, et plus de dix mille commits en tout.",
     "listed": "Sur la liste : {{n}} sur cent. Le seuil d'entrée est de dix.",
     "under": "{{n}} sur les dix par lesquels la liste commence.",
     "sieve": "Un dépôt compte s'il est à vous, s'il n'est pas un fork, et s'il a 10 commits ou plus et plus de 100 lignes de code. Les lignes sont estimées à partir des octets que GitHub donne pour chaque langage, à trente octets la ligne ; un dépôt tout près de la limite mérite donc un second regard.",

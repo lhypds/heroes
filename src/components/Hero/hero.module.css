@@ -1,9 +1,9 @@
-.lead {
-  padding: 32px 0 0 0;
+.hero {
+  padding: 16px 0 0 0;
 }
 
-.lead + .lead {
-  margin-top: 32px;
+.hero + .hero {
+  margin-top: 16px;
   border-top: 1px solid var(--line);
 }
 
@@ -11,13 +11,13 @@
 .head {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
-  gap: 28px;
+  gap: 20px;
   align-items: start;
 }
 
 .who {
   display: flex;
-  gap: 16px;
+  gap: 12px;
   align-items: flex-start;
 }
 
@@ -29,8 +29,8 @@
    when the page is. Grey until it arrives. */
 .avatar {
   flex: none;
-  width: 48px;
-  height: 48px;
+  width: 36px;
+  height: 36px;
   object-fit: cover;
   background: var(--soft);
   filter: var(--avatar-filter);
@@ -38,7 +38,7 @@
 
 .name {
   margin: 0;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 600;
   letter-spacing: var(--tracking-heading);
   line-height: 1.2;
@@ -68,7 +68,7 @@
 }
 
 .mark {
-  margin-left: 12px;
+  margin-left: 8px;
   font-family: var(--font-mono);
   font-weight: 400;
   color: var(--muted);
@@ -77,9 +77,9 @@
 .links {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
-  margin-top: 6px;
-  font-size: 14px;
+  gap: 12px;
+  margin-top: 2px;
+  font-size: 12px;
 }
 
 .links a,
@@ -94,40 +94,30 @@
   border-color: currentColor;
 }
 
+/* Two lines of it at most: the rows stay a level height however much of
+   themselves a profile writes. */
 .bio {
-  margin: 10px 0 0 0;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  margin: 4px 0 0 0;
   max-width: 42em;
+  font-size: 12px;
+  line-height: 1.5;
   color: var(--muted);
 }
 
 .count {
   display: grid;
   justify-items: end;
-  gap: 10px;
-}
-
-.number {
-  display: flex;
-  align-items: baseline;
   gap: 6px;
-  line-height: 1;
 }
 
-.n {
-  font-size: 32px;
-  font-weight: 700;
-  letter-spacing: var(--tracking-display);
-}
-
-.of {
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--muted);
-}
-
-/* What their repositories come to in commits, set as the figures in the rows
-   below are, under the count and above the squares. */
-.commits {
+/* The repositories and the commits read as one line of figures above the
+   squares, set as the figures in the rows below are: one size throughout and
+   no weight of its own, the squares carrying the emphasis. */
+.figures {
   font-family: var(--font-mono);
   font-size: 12px;
   color: var(--muted);
@@ -140,7 +130,7 @@
   display: grid;
   grid-template-columns: 32px minmax(0, 1fr) auto auto;
   list-style: none;
-  margin: 24px 0 0 0;
+  margin: 14px 0 0 0;
   padding: 0;
   border-top: 1px solid var(--line);
 }
@@ -154,11 +144,11 @@
   grid-column: 1 / -1;
   grid-template-columns: 32px minmax(0, 1fr) auto auto;
   grid-template-columns: subgrid;
-  gap: 20px;
+  gap: 16px;
   align-items: baseline;
   position: relative;
   isolation: isolate;
-  padding: 10px 0;
+  padding: 6px 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -232,6 +222,7 @@
     grid-column: 2;
   }
 
+  .figures,
   .meta {
     white-space: normal;
   }

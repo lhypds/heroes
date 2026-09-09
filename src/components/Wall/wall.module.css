@@ -1,0 +1,79 @@
+/* A wall of faces: one square each, as many to a row as the page is wide,
+   with the same hairline of paper between them that the squares of the
+   hundred are set with. */
+.wall {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+  gap: 2px;
+}
+
+/* The photograph is the whole of the control; there is nothing else in it.
+   The square is the button's own, so a face still standing empty — one that
+   has not arrived, or one there is no picture for — leaves a blank square in
+   the wall rather than a hole. */
+.face {
+  position: relative;
+  display: block;
+  aspect-ratio: 1;
+  padding: 0;
+  border: 0;
+  background: var(--blank);
+  /* A faint edge drawn inside each one, as the hundred's squares have. */
+  box-shadow: inset 0 0 0 1px var(--cell-edge);
+  cursor: pointer;
+}
+
+.avatar {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* In black and white when the page is, as every photograph here is. */
+  filter: var(--avatar-filter);
+}
+
+/* The one unfolded, and the one under the pointer: the page's ink drawn
+   round it, over its neighbours rather than under them. */
+.face:hover,
+.face[data-on] {
+  z-index: 1;
+  box-shadow: 0 0 0 2px var(--ink);
+}
+
+/* The entry, unfolded in the wall itself: a row of the grid to itself, drawn
+   where the row of the face that was pressed ends. Set on the page's own paper
+   and inside a rule, so it reads as the wall opened onto the page rather than
+   as something laid over it, and the faces above it are not moved. */
+.entry {
+  grid-column: 1 / -1;
+  margin: 6px 0;
+  padding: 0 16px 16px 16px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+}
+
+.face:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+  z-index: 2;
+}
+
+/* How many there are: the small print the figures beside a name are set in.
+   What to do with them is not said — a face is pressed and it unfolds, and the
+   reader is told as much by the wall's own label if they are being read to. */
+.caption {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 6px 16px;
+  margin-bottom: 10px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+@media (max-width: 600px) {
+  .wall {
+    grid-template-columns: repeat(auto-fill, minmax(32px, 1fr));
+  }
+}

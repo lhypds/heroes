@@ -17,23 +17,18 @@
         "body": "Hundert eigene öffentliche Repositories, jedes davon echter Code. „Öffentlich“ heißt, dass jeder das Repository öffnen, lesen und klonen kann. „Eigen“ heißt, dass du es angelegt hast; Forks fremder Repositories zählen nicht. Und „echter Code“ heißt mindestens 10 Commits und mehr als 100 Zeilen in einer beliebigen Programmiersprache. Mehrere Konten zählen zusammen — ein persönliches Konto und eine Organisation von dir etwa —, solange die Repositories darunter deine eigene Arbeit sind."
       },
       {
-        "name": "Mindestens ein Repository mit 1000 Commits",
-        "body": "Mindestens eines deiner öffentlichen Repositories muss 1000 oder mehr Commits enthalten."
-      },
-      {
         "name": "Mehr als 10.000 Commits insgesamt",
         "body": "Die Commits deiner eigenen öffentlichen Repositories müssen zusammen mehr als 10.000 ergeben. Alle deine Repositories zählen in diese Summe, auch die, die an der ersten Regel scheitern; Forks zählen nicht, hier so wenig wie sonst."
       }
     ]
   },
-  "heroes": {
-    "title": "Anwendungshelden",
-    "none": "Noch gibt es keinen Helden mit 100 Anwendungen!"
+  "wall": {
+    "label": "Jeder Held der Liste, ein Foto pro Person. Drücken Sie auf eines, oder gehen Sie mit den Pfeiltasten hindurch und drücken Sie die Eingabetaste, und der Eintrag klappt in der Wand unter der Zeile auf, in der gedrückt wurde. Escape klappt ihn wieder zu.",
+    "count": "{{n}} Helden"
   },
   "leads": {
-    "title": "Andere geniale Programmierer",
-    "count": "{{n}} von 100",
-    "commits": "{{n}} Commits",
+    "repositories": "{{n}} Repositories",
+    "figures": "{{n}} Repositories, mindestens {{c}} Commits",
     "grid": "{{n}} von 100 Anwendungen",
     "open": "Öffnen",
     "source": "Quellcode",
@@ -79,10 +74,8 @@
     "commits": "{{n}} Commits insgesamt.",
     "grid": "{{n}} von 100 Repositories, die zählen",
     "one": "{{n}} von {{need}}, {{over}} aussortiert",
-    "three": "{{repo}}, {{n}} Commits",
-    "none": "noch kein Repository nahe an tausend Commits",
     "total": "{{n}} von {{need}}",
-    "hero": "Ein Held: hundert Repositories, die zählen, eines davon mit tausend Commits, und mehr als zehntausend Commits insgesamt.",
+    "hero": "Ein Held: hundert Repositories, die zählen, und mehr als zehntausend Commits insgesamt.",
     "listed": "Auf der Liste: {{n}} von hundert. Die Hürde zum Einstieg liegt bei zehn.",
     "under": "{{n}} von den zehn, bei denen die Liste beginnt.",
     "sieve": "Ein Repository zählt, wenn es deines ist, kein Fork, mit 10 Commits oder mehr und mehr als 100 Zeilen Code. Die Zeilen werden aus den Bytes geschätzt, die GitHub je Sprache angibt, mit dreißig Bytes je Zeile; ein Repository dicht an der Grenze ist einen zweiten Blick wert.",

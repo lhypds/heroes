@@ -14,13 +14,12 @@
 //
 // The rules are in README.md. A repository counts when it has ten commits or
 // more and more than a hundred lines of code; a hundred that count makes a
-// hero, ten puts a name on the list, one of them must carry a thousand
-// commits, and their own repositories must come to more than ten thousand
-// commits in all. Forks are not asked for at all, and a mirror of someone
-// else's work is passed over the way a fork is.
+// hero, ten puts a name on the list, and their own repositories must come to
+// more than ten thousand commits in all. Forks are not asked for at all, and a
+// mirror of someone else's work is passed over the way a fork is.
 //
 // The commits are added up as they are read, so the answer also says how many
-// there are in all — every repository read, which is the third rule, and the
+// there are in all — every repository read, which is the second rule, and the
 // ones that count.
 //
 // Lines are the one thing GitHub does not give. It gives the bytes of every
@@ -39,7 +38,6 @@ const HUNDRED = 100; // repositories that count, to be a hero
 const TEN = 10; // repositories that count, to be on the list
 const MIN_COMMITS = 10; // commits a repository needs to count
 const MIN_LINES = 100; // lines of code it needs, and more than
-const THOUSAND = 1000; // commits one repository must carry
 const TEN_THOUSAND = 10000; // commits their own repositories must come to, and more than
 
 // A line of code, in bytes: 30.6 across this repository, 38 and 39 across two
@@ -396,13 +394,9 @@ export const check = async (asked, options = {}) => {
   const byCommits = (a, b) => b.commits - a.commits || full(a).localeCompare(full(b));
   counted.sort(byCommits);
   passedOver.sort(byCommits);
-  // Rule 2 asks for one repository with a thousand commits; it is read off
-  // the ones that count, since a repository that is not code is not one of
-  // yours to point at either.
-  const busiest = counted[0] ?? null;
   const sum = (what) => accounts.reduce((total, account) => total + account[what], 0);
   const commitsIn = (repos) => repos.reduce((total, repo) => total + repo.commits, 0);
-  // Rule 3 asks what their own repositories come to in all, so it is read off
+  // Rule 2 asks what their own repositories come to in all, so it is read off
   // every repository read — the ones that count and the ones that do not,
   // which together are their own public repositories, forks out.
   const commits = { total: commitsIn(counted) + commitsIn(passedOver), counted: commitsIn(counted) };
@@ -412,7 +406,7 @@ export const check = async (asked, options = {}) => {
     accounts,
     checkedAt: new Date().toISOString(),
     repositories: { public: sum("public"), own: sum("own"), read: sum("read") },
-    // Commits in all: over every repository read, which is what rule 3 asks
+    // Commits in all: over every repository read, which is what rule 2 asks
     // for, and over the ones that count, which no rule asks for and is worth
     // knowing beside it.
     commits,
@@ -433,15 +427,7 @@ export const check = async (asked, options = {}) => {
         counted: counted.length,
         passedOver: passedOver.length,
       },
-      // 2. One of them with a thousand commits.
-      commits: {
-        need: THOUSAND,
-        have: busiest?.commits ?? 0,
-        owner: busiest?.owner ?? null,
-        repository: busiest?.name ?? null,
-        ok: (busiest?.commits ?? 0) >= THOUSAND,
-      },
-      // 3. More than ten thousand commits over their own repositories, all of
+      // 2. More than ten thousand commits over their own repositories, all of
       // them, whether or not each one counts on its own.
       total: {
         need: TEN_THOUSAND,
@@ -449,10 +435,7 @@ export const check = async (asked, options = {}) => {
         ok: commits.total > TEN_THOUSAND,
       },
     },
-    hero:
-      counted.length >= HUNDRED &&
-      (busiest?.commits ?? 0) >= THOUSAND &&
-      commits.total > TEN_THOUSAND,
+    hero: counted.length >= HUNDRED && commits.total > TEN_THOUSAND,
     listed: counted.length >= TEN,
     counted,
     passedOver,
@@ -494,12 +477,6 @@ const say = (report, list) => {
       `${report.commits.counted.toLocaleString("en-US")} of them in the ones that count` +
       `${rules.total.ok ? "" : `, short of ${TEN_THOUSAND.toLocaleString("en-US")}`}`,
   );
-  console.log(
-    rules.commits.repository === null
-      ? "no repository with commits to speak of"
-      : `the busiest is ${named({ owner: rules.commits.owner, name: rules.commits.repository }, several)}, ` +
-        plural(rules.commits.have, "commit"),
-  );
   if (list) {
     if (report.counted.length > 0) console.log(`\nthese count:\n${HEADING}`);
     for (const repo of report.counted) console.log(line(repo, several));
@@ -509,11 +486,10 @@ const say = (report, list) => {
   console.log("");
   console.log(
     report.hero
-      ? `a hero: a hundred repositories that count, one with ${THOUSAND.toLocaleString("en-US")} commits, ` +
+      ? `a hero: a hundred repositories that count, ` +
         `and more than ${TEN_THOUSAND.toLocaleString("en-US")} commits in all`
       : report.listed
-        ? `on the list, ${rules.repositories.have} of ${HUNDRED}` +
-          (rules.commits.ok ? "" : `, and no repository with ${THOUSAND.toLocaleString("en-US")} commits yet`)
+        ? `on the list, ${rules.repositories.have} of ${HUNDRED}`
         : `${rules.repositories.have} of the ${TEN} the list starts at`,
   );
 };

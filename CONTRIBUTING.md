@@ -55,7 +55,7 @@ from. One account on its own is a list of one.
 `website` — optional, an address of your own.  
 `bio` — optional, one line, English or translated (see below).  
 `commits` — optional, the commits your own public repositories come to in all,
-the figure the third rule asks for. `pnpm run account -- <handle>` reads it off
+the figure the second rule asks for. `pnpm run account -- <handle>` reads it off
 the account; the page shows it beside your name, and leaves the line out when
 the entry has no figure.  
 `apps` — at least ten, the most important first. There is no ceiling: the

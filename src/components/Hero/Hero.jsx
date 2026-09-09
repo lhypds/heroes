@@ -3,46 +3,49 @@ import { useTranslation } from "react-i18next";
 import Hundred from "../Hundred";
 import { HUNDRED } from "../../constants";
 import { pick, host, accounts, account } from "@utils/leads";
-import styles from "./lead.module.css";
+import styles from "./hero.module.css";
 
 // One person on the list: who they are and how far along the hundred they
 // are, always; and their applications, one row each, with where it opens and
 // where its source is, once their name is pressed. A link straight to a
 // person — #handle — arrives with them already open.
 //
-// The count beside the name is the whole list, and may pass a hundred; the
+// The figure beside the name is the whole list, and may pass a hundred; the
 // rows that unfold are the first hundred of it, the entry's most important.
 //
-// Under the count, the commits their own public repositories come to, which
-// is the third rule. It is a figure somebody read off the account rather than
-// off this list, so an entry without it simply does not show one.
+// With it, the commits their own public repositories come to, which is the
+// second rule, read as a floor: somebody counted them off the account rather
+// than off this list, and an entry without them names the repositories alone.
 //
 // Beside the name, every account the entry lists: one person may keep more
 // than one, and the rules read them as one.
 //
 // Their GitHub picture beside the name, read from the address GitHub gives
-// every profile picture, hero or not. If it does not load, nothing is shown
-// in its place. It is the account the file is named for.
-export default function Lead({ lead }) {
+// every profile picture, hero or not — the pictures host itself, not the
+// github.com/<handle>.png page that redirects to it, which answers as a
+// document and which Chrome will not take when a picture was asked for. If it
+// does not load, nothing is shown in its place. It is the account the file is
+// named for.
+export default function Hero({ hero }) {
   const { t, i18n } = useTranslation();
   const language = i18n.language;
-  const { handle, name, github, website, bio, apps, commits } = lead;
+  const { handle, name, github, website, bio, apps, commits } = hero;
   const count = apps.length;
   const [open, setOpen] = useState(() => window.location.hash === `#${handle}`);
   const [noAvatar, setNoAvatar] = useState(false);
   const listId = `${handle}-apps`;
 
   return (
-    <article className={styles.lead} id={handle}>
+    <article className={styles.hero} id={handle}>
       <header className={styles.head}>
         <div className={styles.who}>
           {!noAvatar && (
             <img
               className={styles.avatar}
-              src={`https://github.com/${handle}.png?size=96`}
+              src={`https://avatars.githubusercontent.com/${handle}?size=96`}
               alt=""
-              width="48"
-              height="48"
+              width="36"
+              height="36"
               loading="lazy"
               onError={() => setNoAvatar(true)}
             />
@@ -73,15 +76,14 @@ export default function Lead({ lead }) {
           </div>
         </div>
         <div className={styles.count}>
-          <div className={styles.number} aria-hidden="true">
-            <span className={styles.n}>{count}</span>
-            <span className={styles.of}>/ 100</span>
+          <div className={styles.figures}>
+            {commits > 0
+              ? t("leads.figures", {
+                  n: count,
+                  c: Number(commits).toLocaleString(language),
+                })
+              : t("leads.repositories", { n: count })}
           </div>
-          {commits > 0 && (
-            <div className={styles.commits}>
-              {t("leads.commits", { n: Number(commits).toLocaleString(language) })}
-            </div>
-          )}
           <Hundred
             count={count}
             titles={apps.map((app) => app.name)}
