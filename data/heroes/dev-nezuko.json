@@ -5,6 +5,484 @@
     "https://github.com/dev-nezuko"
   ],
   "bio": "Senior AI Engineer | ML Engineer | Agentic AI & GenAI | LLM & RAG | n8n workflow | Building MVPs that Grow into Autonomous AI Products",
+  "own_repos": 111,
   "commits": 21905,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "test_project",
+      "repo": "https://github.com/dev-nezuko/test_project",
+      "language": "Python"
+    },
+    {
+      "name": "csv-field-mapping-tool",
+      "repo": "https://github.com/dev-nezuko/csv-field-mapping-tool",
+      "language": "Python"
+    },
+    {
+      "name": "whisper-finetuning-scripts",
+      "repo": "https://github.com/dev-nezuko/whisper-finetuning-scripts"
+    },
+    {
+      "name": "vue-movie-browser",
+      "repo": "https://github.com/dev-nezuko/vue-movie-browser",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tweet-image-tagger",
+      "repo": "https://github.com/dev-nezuko/tweet-image-tagger",
+      "language": "Python"
+    },
+    {
+      "name": "order-matching-service",
+      "repo": "https://github.com/dev-nezuko/order-matching-service",
+      "language": "Python"
+    },
+    {
+      "name": "django-service-practice",
+      "repo": "https://github.com/dev-nezuko/django-service-practice",
+      "language": "JavaScript"
+    },
+    {
+      "name": "carrier-rating-integration",
+      "repo": "https://github.com/dev-nezuko/carrier-rating-integration",
+      "language": "TypeScript"
+    },
+    {
+      "name": "photo-feed-django-app",
+      "repo": "https://github.com/dev-nezuko/photo-feed-django-app"
+    },
+    {
+      "name": "appointment-booking-assistant",
+      "repo": "https://github.com/dev-nezuko/appointment-booking-assistant",
+      "language": "JavaScript"
+    },
+    {
+      "name": "narrative-persuasion-game",
+      "repo": "https://github.com/dev-nezuko/narrative-persuasion-game",
+      "language": "Python"
+    },
+    {
+      "name": "nested-json-annotator",
+      "repo": "https://github.com/dev-nezuko/nested-json-annotator",
+      "language": "Python"
+    },
+    {
+      "name": "json-field-replacer",
+      "repo": "https://github.com/dev-nezuko/json-field-replacer",
+      "language": "Python"
+    },
+    {
+      "name": "angular-stock-ticker",
+      "repo": "https://github.com/dev-nezuko/angular-stock-ticker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nextjs-audio-player-ui",
+      "repo": "https://github.com/dev-nezuko/nextjs-audio-player-ui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "inventory-forecast-engine",
+      "repo": "https://github.com/dev-nezuko/inventory-forecast-engine",
+      "language": "Python"
+    },
+    {
+      "name": "staff-scheduling-web",
+      "repo": "https://github.com/dev-nezuko/staff-scheduling-web"
+    },
+    {
+      "name": "staff-scheduling-api",
+      "repo": "https://github.com/dev-nezuko/staff-scheduling-api"
+    },
+    {
+      "name": "animated-portfolio-site",
+      "repo": "https://github.com/dev-nezuko/animated-portfolio-site",
+      "language": "TypeScript"
+    },
+    {
+      "name": "annotation-mask-store",
+      "repo": "https://github.com/dev-nezuko/annotation-mask-store",
+      "language": "TypeScript"
+    },
+    {
+      "name": "location-data-ingestor",
+      "repo": "https://github.com/dev-nezuko/location-data-ingestor",
+      "language": "Python"
+    },
+    {
+      "name": "member-profile-feed-app",
+      "repo": "https://github.com/dev-nezuko/member-profile-feed-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "accounting-sync-connector",
+      "repo": "https://github.com/dev-nezuko/accounting-sync-connector",
+      "language": "Python"
+    },
+    {
+      "name": "project-management-dashboard",
+      "repo": "https://github.com/dev-nezuko/project-management-dashboard"
+    },
+    {
+      "name": "github-api-service-kit",
+      "repo": "https://github.com/dev-nezuko/github-api-service-kit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "realtime-stream-dashboard",
+      "repo": "https://github.com/dev-nezuko/realtime-stream-dashboard"
+    },
+    {
+      "name": "recipe-discovery-web",
+      "repo": "https://github.com/dev-nezuko/recipe-discovery-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "form-validation-samples",
+      "repo": "https://github.com/dev-nezuko/form-validation-samples",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rag-document-reporting",
+      "repo": "https://github.com/dev-nezuko/rag-document-reporting",
+      "language": "Python"
+    },
+    {
+      "name": "document-routing-agent",
+      "repo": "https://github.com/dev-nezuko/document-routing-agent",
+      "language": "Python"
+    },
+    {
+      "name": "prophet-forecasting-notebooks",
+      "repo": "https://github.com/dev-nezuko/prophet-forecasting-notebooks",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "product-inventory-dashboard",
+      "repo": "https://github.com/dev-nezuko/product-inventory-dashboard"
+    },
+    {
+      "name": "product-inventory-ui-nextjs",
+      "repo": "https://github.com/dev-nezuko/product-inventory-ui-nextjs"
+    },
+    {
+      "name": "product-inventory-console",
+      "repo": "https://github.com/dev-nezuko/product-inventory-console"
+    },
+    {
+      "name": "image-segmentation-api",
+      "repo": "https://github.com/dev-nezuko/image-segmentation-api"
+    },
+    {
+      "name": "buyer-placement-optimizer",
+      "repo": "https://github.com/dev-nezuko/buyer-placement-optimizer",
+      "language": "Python"
+    },
+    {
+      "name": "district-allocation-solver",
+      "repo": "https://github.com/dev-nezuko/district-allocation-solver",
+      "language": "Python"
+    },
+    {
+      "name": "text-analysis-lambda-service",
+      "repo": "https://github.com/dev-nezuko/text-analysis-lambda-service",
+      "language": "Python"
+    },
+    {
+      "name": "ai-chat-ui-prototype",
+      "repo": "https://github.com/dev-nezuko/ai-chat-ui-prototype",
+      "language": "TypeScript"
+    },
+    {
+      "name": "track-genre-tagger",
+      "repo": "https://github.com/dev-nezuko/track-genre-tagger",
+      "language": "JavaScript"
+    },
+    {
+      "name": "transfer-service-router",
+      "repo": "https://github.com/dev-nezuko/transfer-service-router",
+      "language": "Python"
+    },
+    {
+      "name": "movie-list-react-ui",
+      "repo": "https://github.com/dev-nezuko/movie-list-react-ui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "movie-list-rest-api",
+      "repo": "https://github.com/dev-nezuko/movie-list-rest-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "movie-list-monorepo",
+      "repo": "https://github.com/dev-nezuko/movie-list-monorepo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "film-catalog-console",
+      "repo": "https://github.com/dev-nezuko/film-catalog-console",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mongo-query-to-sql",
+      "repo": "https://github.com/dev-nezuko/mongo-query-to-sql",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kanban-project-board",
+      "repo": "https://github.com/dev-nezuko/kanban-project-board",
+      "language": "Python"
+    },
+    {
+      "name": "trello-style-task-board",
+      "repo": "https://github.com/dev-nezuko/trello-style-task-board",
+      "language": "Python"
+    },
+    {
+      "name": "medical-term-tagger",
+      "repo": "https://github.com/dev-nezuko/medical-term-tagger",
+      "language": "Python"
+    },
+    {
+      "name": "mastra-agent-demo-app",
+      "repo": "https://github.com/dev-nezuko/mastra-agent-demo-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "world-map-explorer",
+      "repo": "https://github.com/dev-nezuko/world-map-explorer"
+    },
+    {
+      "name": "shipment-ops-dashboard",
+      "repo": "https://github.com/dev-nezuko/shipment-ops-dashboard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "onboarding-survey-api",
+      "repo": "https://github.com/dev-nezuko/onboarding-survey-api"
+    },
+    {
+      "name": "audiobook-conversion-api",
+      "repo": "https://github.com/dev-nezuko/audiobook-conversion-api"
+    },
+    {
+      "name": "cms-content-editor-web",
+      "repo": "https://github.com/dev-nezuko/cms-content-editor-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "job-listing-fullstack-app",
+      "repo": "https://github.com/dev-nezuko/job-listing-fullstack-app",
+      "language": "HTML"
+    },
+    {
+      "name": "project-tracking-express-api",
+      "repo": "https://github.com/dev-nezuko/project-tracking-express-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "traffic-signal-priority-system",
+      "repo": "https://github.com/dev-nezuko/traffic-signal-priority-system",
+      "language": "Python"
+    },
+    {
+      "name": "portrait-generation-service",
+      "repo": "https://github.com/dev-nezuko/portrait-generation-service"
+    },
+    {
+      "name": "course-delivery-api",
+      "repo": "https://github.com/dev-nezuko/course-delivery-api",
+      "language": "Python"
+    },
+    {
+      "name": "ai-landing-nextjs-app",
+      "repo": "https://github.com/dev-nezuko/ai-landing-nextjs-app"
+    },
+    {
+      "name": "public-domain-books-web",
+      "repo": "https://github.com/dev-nezuko/public-domain-books-web"
+    },
+    {
+      "name": "public-domain-books-api",
+      "repo": "https://github.com/dev-nezuko/public-domain-books-api"
+    },
+    {
+      "name": "incentive-program-graphql",
+      "repo": "https://github.com/dev-nezuko/incentive-program-graphql",
+      "language": "Python"
+    },
+    {
+      "name": "github-account-linker",
+      "repo": "https://github.com/dev-nezuko/github-account-linker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "goal-response-scoring-app",
+      "repo": "https://github.com/dev-nezuko/goal-response-scoring-app",
+      "language": "Python"
+    },
+    {
+      "name": "flight-data-enrichment-service",
+      "repo": "https://github.com/dev-nezuko/flight-data-enrichment-service",
+      "language": "Python"
+    },
+    {
+      "name": "form-response-filter-api",
+      "repo": "https://github.com/dev-nezuko/form-response-filter-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "webpage-diff-watcher",
+      "repo": "https://github.com/dev-nezuko/webpage-diff-watcher",
+      "language": "Python"
+    },
+    {
+      "name": "booth-scan-tracking-service",
+      "repo": "https://github.com/dev-nezuko/booth-scan-tracking-service",
+      "language": "TypeScript"
+    },
+    {
+      "name": "django-shop-api",
+      "repo": "https://github.com/dev-nezuko/django-shop-api"
+    },
+    {
+      "name": "inventory-console-nextjs",
+      "repo": "https://github.com/dev-nezuko/inventory-console-nextjs"
+    },
+    {
+      "name": "email-matter-grouping",
+      "repo": "https://github.com/dev-nezuko/email-matter-grouping"
+    },
+    {
+      "name": "dockerized-commerce-monorepo",
+      "repo": "https://github.com/dev-nezuko/dockerized-commerce-monorepo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "athletics-league-api",
+      "repo": "https://github.com/dev-nezuko/athletics-league-api",
+      "language": "Python"
+    },
+    {
+      "name": "django-book-lending-api",
+      "repo": "https://github.com/dev-nezuko/django-book-lending-api",
+      "language": "Python"
+    },
+    {
+      "name": "dermal-treatment-preview",
+      "repo": "https://github.com/dev-nezuko/dermal-treatment-preview",
+      "language": "Python"
+    },
+    {
+      "name": "match-making-web-app",
+      "repo": "https://github.com/dev-nezuko/match-making-web-app",
+      "language": "C#"
+    },
+    {
+      "name": "exchange-rate-tracker",
+      "repo": "https://github.com/dev-nezuko/exchange-rate-tracker",
+      "language": "Python"
+    },
+    {
+      "name": "telemetry-schema-models",
+      "repo": "https://github.com/dev-nezuko/telemetry-schema-models",
+      "language": "Python"
+    },
+    {
+      "name": "repo-question-answering-app",
+      "repo": "https://github.com/dev-nezuko/repo-question-answering-app"
+    },
+    {
+      "name": "mixed-language-code-snippets",
+      "repo": "https://github.com/dev-nezuko/mixed-language-code-snippets",
+      "language": "Python"
+    },
+    {
+      "name": "care-note-records-web",
+      "repo": "https://github.com/dev-nezuko/care-note-records-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "care-note-records-api",
+      "repo": "https://github.com/dev-nezuko/care-note-records-api",
+      "language": "Python"
+    },
+    {
+      "name": "book-price-watcher",
+      "repo": "https://github.com/dev-nezuko/book-price-watcher"
+    },
+    {
+      "name": "property-stay-web",
+      "repo": "https://github.com/dev-nezuko/property-stay-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "property-stay-api",
+      "repo": "https://github.com/dev-nezuko/property-stay-api",
+      "language": "Python"
+    },
+    {
+      "name": "blog-reader-web",
+      "repo": "https://github.com/dev-nezuko/blog-reader-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blog-content-api",
+      "repo": "https://github.com/dev-nezuko/blog-content-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blog-platform-monorepo",
+      "repo": "https://github.com/dev-nezuko/blog-platform-monorepo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "integrity-checked-record-store",
+      "repo": "https://github.com/dev-nezuko/integrity-checked-record-store",
+      "language": "TypeScript"
+    },
+    {
+      "name": "python-fundamentals-drills",
+      "repo": "https://github.com/dev-nezuko/python-fundamentals-drills",
+      "language": "Python"
+    },
+    {
+      "name": "typescript-fundamentals-exercises",
+      "repo": "https://github.com/dev-nezuko/typescript-fundamentals-exercises",
+      "language": "TypeScript"
+    },
+    {
+      "name": "curated-art-catalog",
+      "repo": "https://github.com/dev-nezuko/curated-art-catalog",
+      "language": "TypeScript"
+    },
+    {
+      "name": "business-operations-api",
+      "repo": "https://github.com/dev-nezuko/business-operations-api"
+    },
+    {
+      "name": "nextjs-shop-frontend",
+      "repo": "https://github.com/dev-nezuko/nextjs-shop-frontend"
+    },
+    {
+      "name": "wellness-account-api",
+      "repo": "https://github.com/dev-nezuko/wellness-account-api",
+      "language": "Python"
+    },
+    {
+      "name": "realtime-chat-api",
+      "repo": "https://github.com/dev-nezuko/realtime-chat-api"
+    },
+    {
+      "name": "smart-webhook-router",
+      "repo": "https://github.com/dev-nezuko/smart-webhook-router",
+      "language": "Python"
+    },
+    {
+      "name": "live-voice-support-agent",
+      "repo": "https://github.com/dev-nezuko/live-voice-support-agent",
+      "language": "Python"
+    }
+  ]
 }

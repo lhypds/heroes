@@ -1,0 +1,509 @@
+{
+  "handle": "clovenbradshaw-ctrl",
+  "name": "clovenbradshaw-ctrl",
+  "github": [
+    "https://github.com/clovenbradshaw-ctrl"
+  ],
+  "own_repos": 117,
+  "commits": 24628,
+  "apps": [],
+  "repos": [
+    {
+      "name": "the-fold",
+      "repo": "https://github.com/clovenbradshaw-ctrl/the-fold",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoreader7",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader7",
+      "language": "HTML"
+    },
+    {
+      "name": "live_priors",
+      "repo": "https://github.com/clovenbradshaw-ctrl/live_priors",
+      "language": "C"
+    },
+    {
+      "name": "eoreader6.1",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader6.1",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Eviction-Overwatch",
+      "repo": "https://github.com/clovenbradshaw-ctrl/Eviction-Overwatch",
+      "language": "HTML"
+    },
+    {
+      "name": "eo-constitution",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-constitution",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ab",
+      "repo": "https://github.com/clovenbradshaw-ctrl/ab",
+      "language": "HTML"
+    },
+    {
+      "name": "eochat",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eochat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MNPD-DFR",
+      "repo": "https://github.com/clovenbradshaw-ctrl/MNPD-DFR",
+      "language": "Python"
+    },
+    {
+      "name": "eo-lexical-analysis-2.0",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-lexical-analysis-2.0",
+      "language": "Python"
+    },
+    {
+      "name": "rss",
+      "repo": "https://github.com/clovenbradshaw-ctrl/rss",
+      "language": "HTML"
+    },
+    {
+      "name": "amino-airtable",
+      "repo": "https://github.com/clovenbradshaw-ctrl/amino-airtable",
+      "language": "HTML"
+    },
+    {
+      "name": "eopm",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eopm",
+      "url": "https://clovenbradshaw-ctrl.github.io/eopm/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "commoncite",
+      "repo": "https://github.com/clovenbradshaw-ctrl/commoncite",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoreaderhandbook",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreaderhandbook",
+      "language": "HTML"
+    },
+    {
+      "name": "eoWebLLM",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoWebLLM",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eoreader6",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader6",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoreaderapp",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreaderapp",
+      "language": "HTML"
+    },
+    {
+      "name": "DFR",
+      "repo": "https://github.com/clovenbradshaw-ctrl/DFR",
+      "language": "JavaScript"
+    },
+    {
+      "name": "npj",
+      "repo": "https://github.com/clovenbradshaw-ctrl/npj",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoreader6-kernel-rebuild-2026-08",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader6-kernel-rebuild-2026-08",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoPriors",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoPriors",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoreader4.2",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader4.2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoreader5",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader5",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoreader-chat",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader-chat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ncsn",
+      "repo": "https://github.com/clovenbradshaw-ctrl/ncsn",
+      "url": "https://nashvillecommunitysafety.net/",
+      "language": "HTML"
+    },
+    {
+      "name": "eo-wiki",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-wiki",
+      "language": "HTML"
+    },
+    {
+      "name": "eoreader4.1",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader4.1",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Khora",
+      "repo": "https://github.com/clovenbradshaw-ctrl/Khora",
+      "language": "JavaScript"
+    },
+    {
+      "name": "amino",
+      "repo": "https://github.com/clovenbradshaw-ctrl/amino",
+      "language": "JavaScript"
+    },
+    {
+      "name": "memeo",
+      "repo": "https://github.com/clovenbradshaw-ctrl/memeo",
+      "language": "HTML"
+    },
+    {
+      "name": "eoreader4",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader4",
+      "language": "JavaScript"
+    },
+    {
+      "name": "contributor",
+      "repo": "https://github.com/clovenbradshaw-ctrl/contributor",
+      "language": "HTML"
+    },
+    {
+      "name": "eoreader3",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader3",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoplayer",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoplayer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "campaign",
+      "repo": "https://github.com/clovenbradshaw-ctrl/campaign",
+      "language": "HTML"
+    },
+    {
+      "name": "j-o-b",
+      "repo": "https://github.com/clovenbradshaw-ctrl/j-o-b",
+      "language": "HTML"
+    },
+    {
+      "name": "bare-metal-eo-matrix-app",
+      "repo": "https://github.com/clovenbradshaw-ctrl/bare-metal-eo-matrix-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drafteo",
+      "repo": "https://github.com/clovenbradshaw-ctrl/drafteo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "plain-text",
+      "repo": "https://github.com/clovenbradshaw-ctrl/plain-text"
+    },
+    {
+      "name": "scriptEO",
+      "repo": "https://github.com/clovenbradshaw-ctrl/scriptEO",
+      "language": "HTML"
+    },
+    {
+      "name": "ad199b86-adad-44fc-b2bf-4981ac6b9a15",
+      "repo": "https://github.com/clovenbradshaw-ctrl/ad199b86-adad-44fc-b2bf-4981ac6b9a15"
+    },
+    {
+      "name": "eoreader2",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoreader2",
+      "language": "HTML"
+    },
+    {
+      "name": "EODB2",
+      "repo": "https://github.com/clovenbradshaw-ctrl/EODB2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eodb-demo",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eodb-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "EOcodeView",
+      "repo": "https://github.com/clovenbradshaw-ctrl/EOcodeView",
+      "language": "HTML"
+    },
+    {
+      "name": "LLManager",
+      "repo": "https://github.com/clovenbradshaw-ctrl/LLManager",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eoReader",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoReader",
+      "language": "HTML"
+    },
+    {
+      "name": "EO-DB",
+      "repo": "https://github.com/clovenbradshaw-ctrl/EO-DB",
+      "language": "TypeScript"
+    },
+    {
+      "name": "plain-text-log",
+      "repo": "https://github.com/clovenbradshaw-ctrl/plain-text-log"
+    },
+    {
+      "name": "brrst",
+      "repo": "https://github.com/clovenbradshaw-ctrl/brrst",
+      "language": "HTML"
+    },
+    {
+      "name": "khora.us",
+      "repo": "https://github.com/clovenbradshaw-ctrl/khora.us",
+      "language": "JavaScript"
+    },
+    {
+      "name": "provEO",
+      "repo": "https://github.com/clovenbradshaw-ctrl/provEO",
+      "url": "https://clovenbradshaw-ctrl.github.io/provEO/",
+      "language": "HTML"
+    },
+    {
+      "name": "hmail",
+      "repo": "https://github.com/clovenbradshaw-ctrl/hmail",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mike-lacy",
+      "repo": "https://github.com/clovenbradshaw-ctrl/mike-lacy",
+      "language": "HTML"
+    },
+    {
+      "name": "EOedge",
+      "repo": "https://github.com/clovenbradshaw-ctrl/EOedge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hyphaeDB",
+      "repo": "https://github.com/clovenbradshaw-ctrl/hyphaeDB",
+      "language": "HTML"
+    },
+    {
+      "name": "nl-explorer",
+      "repo": "https://github.com/clovenbradshaw-ctrl/nl-explorer",
+      "language": "HTML"
+    },
+    {
+      "name": "naibor",
+      "repo": "https://github.com/clovenbradshaw-ctrl/naibor",
+      "language": "HTML"
+    },
+    {
+      "name": "nearby.ai",
+      "repo": "https://github.com/clovenbradshaw-ctrl/nearby.ai"
+    },
+    {
+      "name": "eo-lexical-analysis",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-lexical-analysis",
+      "language": "Python"
+    },
+    {
+      "name": "aural-history",
+      "repo": "https://github.com/clovenbradshaw-ctrl/aural-history",
+      "language": "JavaScript"
+    },
+    {
+      "name": "emergentontology",
+      "repo": "https://github.com/clovenbradshaw-ctrl/emergentontology",
+      "language": "TypeScript"
+    },
+    {
+      "name": "evidence_observer",
+      "repo": "https://github.com/clovenbradshaw-ctrl/evidence_observer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "khora-demo",
+      "repo": "https://github.com/clovenbradshaw-ctrl/khora-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "habeas_app",
+      "repo": "https://github.com/clovenbradshaw-ctrl/habeas_app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "EOwiki",
+      "repo": "https://github.com/clovenbradshaw-ctrl/EOwiki"
+    },
+    {
+      "name": "Choreo",
+      "repo": "https://github.com/clovenbradshaw-ctrl/Choreo",
+      "language": "Python"
+    },
+    {
+      "name": "gallery",
+      "repo": "https://github.com/clovenbradshaw-ctrl/gallery",
+      "language": "HTML"
+    },
+    {
+      "name": "habeas_patches",
+      "repo": "https://github.com/clovenbradshaw-ctrl/habeas_patches",
+      "language": "JavaScript"
+    },
+    {
+      "name": "habeas",
+      "repo": "https://github.com/clovenbradshaw-ctrl/habeas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "groundtruthmap",
+      "repo": "https://github.com/clovenbradshaw-ctrl/groundtruthmap",
+      "language": "HTML"
+    },
+    {
+      "name": "evictions",
+      "repo": "https://github.com/clovenbradshaw-ctrl/evictions",
+      "language": "HTML"
+    },
+    {
+      "name": "mou",
+      "repo": "https://github.com/clovenbradshaw-ctrl/mou",
+      "language": "HTML"
+    },
+    {
+      "name": "emergencyNashville",
+      "repo": "https://github.com/clovenbradshaw-ctrl/emergencyNashville",
+      "language": "HTML"
+    },
+    {
+      "name": "nodeville",
+      "repo": "https://github.com/clovenbradshaw-ctrl/nodeville",
+      "language": "HTML"
+    },
+    {
+      "name": "site",
+      "repo": "https://github.com/clovenbradshaw-ctrl/site",
+      "language": "HTML"
+    },
+    {
+      "name": "sveltia-cms-auth-cbc",
+      "repo": "https://github.com/clovenbradshaw-ctrl/sveltia-cms-auth-cbc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "standWithTN",
+      "repo": "https://github.com/clovenbradshaw-ctrl/standWithTN",
+      "language": "HTML"
+    },
+    {
+      "name": "noema",
+      "repo": "https://github.com/clovenbradshaw-ctrl/noema",
+      "language": "JavaScript"
+    },
+    {
+      "name": "semantic-disclosure",
+      "repo": "https://github.com/clovenbradshaw-ctrl/semantic-disclosure",
+      "language": "HTML"
+    },
+    {
+      "name": "amino-dedupe",
+      "repo": "https://github.com/clovenbradshaw-ctrl/amino-dedupe",
+      "language": "HTML"
+    },
+    {
+      "name": "53902028",
+      "repo": "https://github.com/clovenbradshaw-ctrl/53902028",
+      "language": "HTML"
+    },
+    {
+      "name": "dedupe2",
+      "repo": "https://github.com/clovenbradshaw-ctrl/dedupe2",
+      "language": "HTML"
+    },
+    {
+      "name": "mnpd-complaint",
+      "repo": "https://github.com/clovenbradshaw-ctrl/mnpd-complaint"
+    },
+    {
+      "name": "clio-merge",
+      "repo": "https://github.com/clovenbradshaw-ctrl/clio-merge",
+      "language": "HTML"
+    },
+    {
+      "name": "eoir",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eoir",
+      "language": "Python"
+    },
+    {
+      "name": "eo-activibase",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-activibase",
+      "language": "HTML"
+    },
+    {
+      "name": "eo-ocracy",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-ocracy",
+      "language": "HTML"
+    },
+    {
+      "name": "substack",
+      "repo": "https://github.com/clovenbradshaw-ctrl/substack",
+      "language": "HTML"
+    },
+    {
+      "name": "hyphae-database",
+      "repo": "https://github.com/clovenbradshaw-ctrl/hyphae-database",
+      "language": "JavaScript"
+    },
+    {
+      "name": "news-editor",
+      "repo": "https://github.com/clovenbradshaw-ctrl/news-editor",
+      "language": "HTML"
+    },
+    {
+      "name": "eo-crm",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-crm",
+      "language": "HTML"
+    },
+    {
+      "name": "gallery-2",
+      "repo": "https://github.com/clovenbradshaw-ctrl/gallery-2",
+      "language": "HTML"
+    },
+    {
+      "name": "hyphae.social",
+      "repo": "https://github.com/clovenbradshaw-ctrl/hyphae.social",
+      "language": "HTML"
+    },
+    {
+      "name": "matrix-app",
+      "repo": "https://github.com/clovenbradshaw-ctrl/matrix-app",
+      "language": "HTML"
+    },
+    {
+      "name": "eo-base",
+      "repo": "https://github.com/clovenbradshaw-ctrl/eo-base",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flexibase",
+      "repo": "https://github.com/clovenbradshaw-ctrl/flexibase",
+      "language": "JavaScript"
+    },
+    {
+      "name": "municpal",
+      "repo": "https://github.com/clovenbradshaw-ctrl/municpal",
+      "language": "HTML"
+    },
+    {
+      "name": "hyphae",
+      "repo": "https://github.com/clovenbradshaw-ctrl/hyphae",
+      "language": "HTML"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "handle": "darkwizard242",
+  "name": "Ali Muhammad",
+  "github": [
+    "https://github.com/darkwizard242"
+  ],
+  "website": "https://www.alimuhammad.dev/",
+  "bio": "Senior DevOps/CloudOps Engineer. Dedicated to Automating everything I come across. Love to work on and learn new technologies/tools everyday!",
+  "own_repos": 117,
+  "commits": 13821,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ansible-role-kubelet",
+      "repo": "https://github.com/darkwizard242/ansible-role-kubelet",
+      "url": "https://galaxy.ansible.com/darkwizard242/kubelet",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-containerd",
+      "repo": "https://github.com/darkwizard242/ansible-role-containerd",
+      "url": "https://galaxy.ansible.com/darkwizard242/containerd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-playground",
+      "repo": "https://github.com/darkwizard242/ansible-playground"
+    },
+    {
+      "name": "ansible-role-dockercompose",
+      "repo": "https://github.com/darkwizard242/ansible-role-dockercompose",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/darkwizard242/dockercompose/",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-minikube",
+      "repo": "https://github.com/darkwizard242/ansible-role-minikube",
+      "url": "https://galaxy.ansible.com/darkwizard242/minikube",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-terraform",
+      "repo": "https://github.com/darkwizard242/ansible-role-terraform",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/darkwizard242/terraform/",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-kubescape",
+      "repo": "https://github.com/darkwizard242/ansible-role-kubescape",
+      "url": "https://galaxy.ansible.com/darkwizard242/kubescape",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-crictl",
+      "repo": "https://github.com/darkwizard242/ansible-role-crictl",
+      "url": "https://galaxy.ansible.com/darkwizard242/crictl",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-flux",
+      "repo": "https://github.com/darkwizard242/ansible-role-flux",
+      "url": "https://galaxy.ansible.com/darkwizard242/flux",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-istioctl",
+      "repo": "https://github.com/darkwizard242/ansible-role-istioctl",
+      "url": "https://galaxy.ansible.com/darkwizard242/istioctl",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-grype",
+      "repo": "https://github.com/darkwizard242/ansible-role-grype",
+      "url": "https://galaxy.ansible.com/darkwizard242/grype",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-syft",
+      "repo": "https://github.com/darkwizard242/ansible-role-syft",
+      "url": "https://galaxy.ansible.com/darkwizard242/syft",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-kubectl",
+      "repo": "https://github.com/darkwizard242/ansible-role-kubectl",
+      "url": "https://galaxy.ansible.com/darkwizard242/kubectl",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-kubeadm",
+      "repo": "https://github.com/darkwizard242/ansible-role-kubeadm",
+      "url": "https://galaxy.ansible.com/darkwizard242/kubeadm",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-subfinder",
+      "repo": "https://github.com/darkwizard242/ansible-role-subfinder",
+      "url": "https://galaxy.ansible.com/darkwizard242/subfinder",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-helmfile",
+      "repo": "https://github.com/darkwizard242/ansible-role-helmfile",
+      "url": "https://galaxy.ansible.com/darkwizard242/helmfile",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-eksctl",
+      "repo": "https://github.com/darkwizard242/ansible-role-eksctl",
+      "url": "https://galaxy.ansible.com/darkwizard242/eksctl",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-helm",
+      "repo": "https://github.com/darkwizard242/ansible-role-helm",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/darkwizard242/helm/",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-hugo",
+      "repo": "https://github.com/darkwizard242/ansible-role-hugo",
+      "url": "https://galaxy.ansible.com/darkwizard242/hugo",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-hadolint",
+      "repo": "https://github.com/darkwizard242/ansible-role-hadolint",
+      "url": "https://galaxy.ansible.com/darkwizard242/hadolint",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-packer",
+      "repo": "https://github.com/darkwizard242/ansible-role-packer",
+      "url": "https://galaxy.ansible.com/darkwizard242/packer",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-infracost",
+      "repo": "https://github.com/darkwizard242/ansible-role-infracost",
+      "url": "https://galaxy.ansible.com/darkwizard242/infracost",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-go",
+      "repo": "https://github.com/darkwizard242/ansible-role-go",
+      "url": "https://galaxy.ansible.com/darkwizard242/go",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-lazydocker",
+      "repo": "https://github.com/darkwizard242/ansible-role-lazydocker",
+      "url": "https://galaxy.ansible.com/darkwizard242/lazydocker",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-kubens",
+      "repo": "https://github.com/darkwizard242/ansible-role-kubens",
+      "url": "https://galaxy.ansible.com/darkwizard242/kubens",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-cni",
+      "repo": "https://github.com/darkwizard242/ansible-role-cni",
+      "url": "https://galaxy.ansible.com/darkwizard242/cni",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-inspec",
+      "repo": "https://github.com/darkwizard242/ansible-role-inspec",
+      "url": "https://galaxy.ansible.com/darkwizard242/inspec",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-duf",
+      "repo": "https://github.com/darkwizard242/ansible-role-duf",
+      "url": "https://galaxy.ansible.com/darkwizard242/duf",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-vagrant",
+      "repo": "https://github.com/darkwizard242/ansible-role-vagrant",
+      "url": "https://galaxy.ansible.com/darkwizard242/vagrant",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-cloc",
+      "repo": "https://github.com/darkwizard242/ansible-role-cloc",
+      "url": "https://galaxy.ansible.com/darkwizard242/cloc",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-tfsec",
+      "repo": "https://github.com/darkwizard242/ansible-role-tfsec",
+      "url": "https://galaxy.ansible.com/darkwizard242/tfsec",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-dive",
+      "repo": "https://github.com/darkwizard242/ansible-role-dive",
+      "url": "https://galaxy.ansible.com/darkwizard242/dive",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-onepassword",
+      "repo": "https://github.com/darkwizard242/ansible-role-onepassword",
+      "url": "https://galaxy.ansible.com/darkwizard242/onepassword",
+      "language": "Python"
+    },
+    {
+      "name": "darkwizard242",
+      "repo": "https://github.com/darkwizard242/darkwizard242"
+    },
+    {
+      "name": "k8s-app-demo",
+      "repo": "https://github.com/darkwizard242/k8s-app-demo",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-terrascan",
+      "repo": "https://github.com/darkwizard242/ansible-role-terrascan",
+      "url": "https://galaxy.ansible.com/darkwizard242/infracost",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-adoptopenjdk",
+      "repo": "https://github.com/darkwizard242/ansible-role-adoptopenjdk",
+      "url": "https://galaxy.ansible.com/darkwizard242/adoptopenjdk",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-virtualbox",
+      "repo": "https://github.com/darkwizard242/ansible-role-virtualbox",
+      "url": "https://galaxy.ansible.com/darkwizard242/virtualbox",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-vscode",
+      "repo": "https://github.com/darkwizard242/ansible-role-vscode",
+      "url": "https://galaxy.ansible.com/darkwizard242/vscode",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-unzip",
+      "repo": "https://github.com/darkwizard242/ansible-role-unzip",
+      "url": "https://galaxy.ansible.com/darkwizard242/unzip",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-uget",
+      "repo": "https://github.com/darkwizard242/ansible-role-uget",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-trivy",
+      "repo": "https://github.com/darkwizard242/ansible-role-trivy",
+      "url": "https://galaxy.ansible.com/darkwizard242/trivy",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-tilix",
+      "repo": "https://github.com/darkwizard242/ansible-role-tilix",
+      "url": "https://galaxy.ansible.com/darkwizard242/tilix",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-subversion",
+      "repo": "https://github.com/darkwizard242/ansible-role-subversion",
+      "url": "https://galaxy.ansible.com/darkwizard242/subversion",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-stacer",
+      "repo": "https://github.com/darkwizard242/ansible-role-stacer",
+      "url": "https://galaxy.ansible.com/darkwizard242/stacer",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-sslscan",
+      "repo": "https://github.com/darkwizard242/ansible-role-sslscan",
+      "url": "https://galaxy.ansible.com/darkwizard242/sslscan",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-speedtest",
+      "repo": "https://github.com/darkwizard242/ansible-role-speedtest",
+      "url": "https://galaxy.ansible.com/darkwizard242/speedtest",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-simplescreenrecorder",
+      "repo": "https://github.com/darkwizard242/ansible-role-simplescreenrecorder",
+      "url": "https://galaxy.ansible.com/darkwizard242/simplescreenrecorder",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-shellcheck",
+      "repo": "https://github.com/darkwizard242/ansible-role-shellcheck",
+      "url": "https://galaxy.ansible.com/darkwizard242/shellcheck",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-scout",
+      "repo": "https://github.com/darkwizard242/ansible-role-scout",
+      "url": "https://galaxy.ansible.com/darkwizard242/scout",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-saws",
+      "repo": "https://github.com/darkwizard242/ansible-role-saws",
+      "url": "https://galaxy.ansible.com/darkwizard242/saws",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-s3cmd",
+      "repo": "https://github.com/darkwizard242/ansible-role-s3cmd",
+      "url": "https://galaxy.ansible.com/darkwizard242/s3cmd",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-ruby",
+      "repo": "https://github.com/darkwizard242/ansible-role-ruby",
+      "url": "https://galaxy.ansible.com/darkwizard242/ruby",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-python3",
+      "repo": "https://github.com/darkwizard242/ansible-role-python3",
+      "url": "https://galaxy.ansible.com/darkwizard242/python3",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-openvpn",
+      "repo": "https://github.com/darkwizard242/ansible-role-openvpn",
+      "url": "https://galaxy.ansible.com/darkwizard242/openvpn",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-openrazer",
+      "repo": "https://github.com/darkwizard242/ansible-role-openrazer",
+      "url": "https://galaxy.ansible.com/darkwizard242/openrazer",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-nordvpn",
+      "repo": "https://github.com/darkwizard242/ansible-role-nordvpn",
+      "url": "https://galaxy.ansible.com/darkwizard242/nordvpn",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-mkcert",
+      "repo": "https://github.com/darkwizard242/ansible-role-mkcert",
+      "url": "https://galaxy.ansible.com/darkwizard242/mkcert",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-mc",
+      "repo": "https://github.com/darkwizard242/ansible-role-mc",
+      "url": "https://galaxy.ansible.com/darkwizard242/mc",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-logrotate",
+      "repo": "https://github.com/darkwizard242/ansible-role-logrotate",
+      "url": "https://galaxy.ansible.com/darkwizard242/logrotate",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-locust",
+      "repo": "https://github.com/darkwizard242/ansible-role-locust",
+      "url": "https://galaxy.ansible.com/darkwizard242/locust",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-lazygit",
+      "repo": "https://github.com/darkwizard242/ansible-role-lazygit",
+      "url": "https://galaxy.ansible.com/darkwizard242/lazygit",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-keybase",
+      "repo": "https://github.com/darkwizard242/ansible-role-keybase",
+      "url": "https://galaxy.ansible.com/darkwizard242/keybase",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-jq",
+      "repo": "https://github.com/darkwizard242/ansible-role-jq",
+      "url": "https://galaxy.ansible.com/darkwizard242/jq",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-jenkinslts",
+      "repo": "https://github.com/darkwizard242/ansible-role-jenkinslts",
+      "url": "https://galaxy.ansible.com/darkwizard242/jenkinslts",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-httpie",
+      "repo": "https://github.com/darkwizard242/ansible-role-httpie",
+      "url": "https://galaxy.ansible.com/darkwizard242/httpie",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-hostctl",
+      "repo": "https://github.com/darkwizard242/ansible-role-hostctl",
+      "url": "https://galaxy.ansible.com/darkwizard242/hostctl",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-googlechrome",
+      "repo": "https://github.com/darkwizard242/ansible-role-googlechrome",
+      "url": "https://galaxy.ansible.com/darkwizard242/googlechrome",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-goofys",
+      "repo": "https://github.com/darkwizard242/ansible-role-goofys",
+      "url": "https://galaxy.ansible.com/darkwizard242/goofys",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-git",
+      "repo": "https://github.com/darkwizard242/ansible-role-git",
+      "url": "https://galaxy.ansible.com/darkwizard242/git",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-gcloudsdk",
+      "repo": "https://github.com/darkwizard242/ansible-role-gcloudsdk",
+      "url": "https://galaxy.ansible.com/darkwizard242/gcloudsdk",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-docker",
+      "repo": "https://github.com/darkwizard242/ansible-role-docker",
+      "url": "https://galaxy.ansible.com/darkwizard242/docker",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-checkov",
+      "repo": "https://github.com/darkwizard242/ansible-role-checkov",
+      "url": "https://galaxy.ansible.com/darkwizard242/checkov",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-bravebrowser",
+      "repo": "https://github.com/darkwizard242/ansible-role-bravebrowser",
+      "url": "https://galaxy.ansible.com/darkwizard242/bravebrowser",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-azurecli",
+      "repo": "https://github.com/darkwizard242/ansible-role-azurecli",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-awsvault",
+      "repo": "https://github.com/darkwizard242/ansible-role-awsvault",
+      "url": "https://galaxy.ansible.com/darkwizard242/awsvault",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-awsnuke",
+      "repo": "https://github.com/darkwizard242/ansible-role-awsnuke",
+      "url": "https://galaxy.ansible.com/darkwizard242/awsnuke",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-awscli",
+      "repo": "https://github.com/darkwizard242/ansible-role-awscli",
+      "url": "https://galaxy.ansible.com/darkwizard242/awscli",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-awless",
+      "repo": "https://github.com/darkwizard242/ansible-role-awless",
+      "url": "https://galaxy.ansible.com/darkwizard242/awless",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-atom",
+      "repo": "https://github.com/darkwizard242/ansible-role-atom",
+      "url": "https://galaxy.ansible.com/darkwizard242/atom",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-asciinema",
+      "repo": "https://github.com/darkwizard242/ansible-role-asciinema",
+      "url": "https://galaxy.ansible.com/darkwizard242/asciinema",
+      "language": "Python"
+    },
+    {
+      "name": "docker-ansible",
+      "repo": "https://github.com/darkwizard242/docker-ansible",
+      "url": "https://hub.docker.com/r/darkwizard242/ansible",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ansible-role-ulauncher",
+      "repo": "https://github.com/darkwizard242/ansible-role-ulauncher",
+      "url": "https://galaxy.ansible.com/darkwizard242/ulauncher",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-terraforming",
+      "repo": "https://github.com/darkwizard242/ansible-role-terraforming",
+      "url": "https://galaxy.ansible.com/darkwizard242/terraforming",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-serverspec",
+      "repo": "https://github.com/darkwizard242/ansible-role-serverspec",
+      "url": "https://galaxy.ansible.com/darkwizard242/serverspec",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-polychromatic",
+      "repo": "https://github.com/darkwizard242/ansible-role-polychromatic",
+      "url": "https://galaxy.ansible.com/darkwizard242/polychromatic",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-pip",
+      "repo": "https://github.com/darkwizard242/ansible-role-pip"
+    },
+    {
+      "name": "ansible-role-openjdk8",
+      "repo": "https://github.com/darkwizard242/ansible-role-openjdk8",
+      "url": "https://galaxy.ansible.com/darkwizard242/openjdk8",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-nodejs",
+      "repo": "https://github.com/darkwizard242/ansible-role-nodejs",
+      "url": "https://galaxy.ansible.com/darkwizard242/nodejs",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-msteams",
+      "repo": "https://github.com/darkwizard242/ansible-role-msteams",
+      "url": "https://galaxy.ansible.com/darkwizard242/msteams",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-node_exporter",
+      "repo": "https://github.com/darkwizard242/ansible-role-node_exporter",
+      "url": "https://galaxy.ansible.com/darkwizard242/node_exporter",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-lens",
+      "repo": "https://github.com/darkwizard242/ansible-role-lens",
+      "url": "https://galaxy.ansible.com/darkwizard242/lens"
+    },
+    {
+      "name": "ansible-apache2webserver",
+      "repo": "https://github.com/darkwizard242/ansible-apache2webserver"
+    },
+    {
+      "name": "prometheus-stack",
+      "repo": "https://github.com/darkwizard242/prometheus-stack",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cis_ubuntu_2004",
+      "repo": "https://github.com/darkwizard242/cis_ubuntu_2004",
+      "url": "https://galaxy.ansible.com/darkwizard242/cis_ubuntu_2004",
+      "language": "Python"
+    },
+    {
+      "name": "inspec-python3",
+      "repo": "https://github.com/darkwizard242/inspec-python3",
+      "language": "Ruby"
+    },
+    {
+      "name": "inspec-openjdk-8-jdk",
+      "repo": "https://github.com/darkwizard242/inspec-openjdk-8-jdk",
+      "language": "Ruby"
+    },
+    {
+      "name": "inspec-jenkins",
+      "repo": "https://github.com/darkwizard242/inspec-jenkins",
+      "language": "Ruby"
+    },
+    {
+      "name": "inspec-git",
+      "repo": "https://github.com/darkwizard242/inspec-git",
+      "language": "Ruby"
+    },
+    {
+      "name": "inspec-ansible",
+      "repo": "https://github.com/darkwizard242/inspec-ansible",
+      "language": "Ruby"
+    }
+  ]
+}
