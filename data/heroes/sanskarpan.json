@@ -10,8 +10,10 @@
   "apps": [],
   "repos": [
     {
-      "name": "TDS-GA1",
-      "repo": "https://github.com/sanskarpan/TDS-GA1"
+      "name": "Latexy",
+      "repo": "https://github.com/sanskarpan/Latexy",
+      "url": "https://latexy.xyz",
+      "language": "Python"
     },
     {
       "name": "tag-agent",
@@ -19,15 +21,13 @@
       "language": "Go"
     },
     {
+      "name": "TDS-GA1",
+      "repo": "https://github.com/sanskarpan/TDS-GA1"
+    },
+    {
       "name": "forge",
       "repo": "https://github.com/sanskarpan/forge",
       "language": "Rust"
-    },
-    {
-      "name": "Latexy",
-      "repo": "https://github.com/sanskarpan/Latexy",
-      "url": "https://latexy.xyz",
-      "language": "Python"
     },
     {
       "name": "beacon",

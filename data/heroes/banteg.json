@@ -1,0 +1,519 @@
+{
+  "handle": "banteg",
+  "name": "banteg",
+  "github": [
+    "https://github.com/banteg"
+  ],
+  "website": "https://banteg.xyz/",
+  "bio": "the bunny talisman of @yearn",
+  "own_repos": 104,
+  "commits": 12859,
+  "apps": [],
+  "repos": [
+    {
+      "name": "evm-compiler-bench",
+      "repo": "https://github.com/banteg/evm-compiler-bench",
+      "url": "https://evm.banteg.xyz/",
+      "language": "Rust"
+    },
+    {
+      "name": "crimson",
+      "repo": "https://github.com/banteg/crimson",
+      "url": "https://crimson.banteg.xyz",
+      "language": "Python"
+    },
+    {
+      "name": "snail",
+      "repo": "https://github.com/banteg/snail",
+      "language": "C"
+    },
+    {
+      "name": "fermion",
+      "repo": "https://github.com/banteg/fermion",
+      "language": "Python"
+    },
+    {
+      "name": "bn",
+      "repo": "https://github.com/banteg/bn",
+      "language": "Python"
+    },
+    {
+      "name": "multicall.py",
+      "repo": "https://github.com/banteg/multicall.py",
+      "language": "C"
+    },
+    {
+      "name": "evm-storage",
+      "repo": "https://github.com/banteg/evm-storage",
+      "language": "Python"
+    },
+    {
+      "name": "vysort",
+      "repo": "https://github.com/banteg/vysort",
+      "language": "Python"
+    },
+    {
+      "name": "takopi",
+      "repo": "https://github.com/banteg/takopi",
+      "url": "https://takopi.dev",
+      "language": "Python"
+    },
+    {
+      "name": "agents",
+      "repo": "https://github.com/banteg/agents",
+      "language": "Python"
+    },
+    {
+      "name": "yeth-exploit",
+      "repo": "https://github.com/banteg/yeth-exploit",
+      "language": "TeX"
+    },
+    {
+      "name": "tokenized-strategy-vyper-mix",
+      "repo": "https://github.com/banteg/tokenized-strategy-vyper-mix",
+      "language": "Vyper"
+    },
+    {
+      "name": "milady-shrinkifier",
+      "repo": "https://github.com/banteg/milady-shrinkifier",
+      "language": "Python"
+    },
+    {
+      "name": "disperse",
+      "repo": "https://github.com/banteg/disperse",
+      "url": "https://disperse.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reflexive",
+      "repo": "https://github.com/banteg/reflexive",
+      "language": "Python"
+    },
+    {
+      "name": "baseline-looper",
+      "repo": "https://github.com/banteg/baseline-looper",
+      "url": "https://loop-da-woop.vercel.app/",
+      "language": "Python"
+    },
+    {
+      "name": "brownie-safe",
+      "repo": "https://github.com/banteg/brownie-safe",
+      "language": "Python"
+    },
+    {
+      "name": "churn-monitor",
+      "repo": "https://github.com/banteg/churn-monitor",
+      "language": "Python"
+    },
+    {
+      "name": "git-loc",
+      "repo": "https://github.com/banteg/git-loc",
+      "language": "Rust"
+    },
+    {
+      "name": "iearn-2025-12-investigation",
+      "repo": "https://github.com/banteg/iearn-2025-12-investigation",
+      "language": "Solidity"
+    },
+    {
+      "name": "c2-overlay",
+      "repo": "https://github.com/banteg/c2-overlay",
+      "language": "Python"
+    },
+    {
+      "name": "snek3",
+      "repo": "https://github.com/banteg/snek3",
+      "language": "Python"
+    },
+    {
+      "name": "llm-fragments-reddit",
+      "repo": "https://github.com/banteg/llm-fragments-reddit",
+      "language": "Python"
+    },
+    {
+      "name": "legible-math",
+      "repo": "https://github.com/banteg/legible-math",
+      "language": "Solidity"
+    },
+    {
+      "name": "princess",
+      "repo": "https://github.com/banteg/princess",
+      "language": "Python"
+    },
+    {
+      "name": "safe-tui",
+      "repo": "https://github.com/banteg/safe-tui",
+      "language": "Python"
+    },
+    {
+      "name": "universal-router",
+      "repo": "https://github.com/banteg/universal-router",
+      "language": "Python"
+    },
+    {
+      "name": "eliza-tweets",
+      "repo": "https://github.com/banteg/eliza-tweets",
+      "language": "Python"
+    },
+    {
+      "name": "yearn-permit",
+      "repo": "https://github.com/banteg/yearn-permit",
+      "url": "https://yearn.banteg.xyz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "raycast-eips",
+      "repo": "https://github.com/banteg/raycast-eips",
+      "language": "TypeScript"
+    },
+    {
+      "name": "etherscan-cache",
+      "repo": "https://github.com/banteg/etherscan-cache",
+      "language": "Python"
+    },
+    {
+      "name": "disperse-research",
+      "repo": "https://github.com/banteg/disperse-research",
+      "url": "https://disperse.app/",
+      "language": "TeX"
+    },
+    {
+      "name": "ajna-auction",
+      "repo": "https://github.com/banteg/ajna-auction",
+      "url": "https://ajna.banteg.xyz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "1up-zap",
+      "repo": "https://github.com/banteg/1up-zap",
+      "language": "Python"
+    },
+    {
+      "name": "dpack",
+      "repo": "https://github.com/banteg/dpack",
+      "language": "Python"
+    },
+    {
+      "name": "pip-blame",
+      "repo": "https://github.com/banteg/pip-blame",
+      "language": "Python"
+    },
+    {
+      "name": "baseline-snapshot",
+      "repo": "https://github.com/banteg/baseline-snapshot",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "yearn-fees",
+      "repo": "https://github.com/banteg/yearn-fees",
+      "language": "Vyper"
+    },
+    {
+      "name": "gas-costs",
+      "repo": "https://github.com/banteg/gas-costs",
+      "language": "Python"
+    },
+    {
+      "name": "strategy-uni-lp-pickle",
+      "repo": "https://github.com/banteg/strategy-uni-lp-pickle",
+      "language": "Python"
+    },
+    {
+      "name": "cryogen",
+      "repo": "https://github.com/banteg/cryogen",
+      "language": "Python"
+    },
+    {
+      "name": "erigon-kv",
+      "repo": "https://github.com/banteg/erigon-kv",
+      "language": "Python"
+    },
+    {
+      "name": "vyper-eip6909",
+      "repo": "https://github.com/banteg/vyper-eip6909",
+      "language": "Vyper"
+    },
+    {
+      "name": "vyper-cwia",
+      "repo": "https://github.com/banteg/vyper-cwia",
+      "language": "Python"
+    },
+    {
+      "name": "vyper-traceback-bug",
+      "repo": "https://github.com/banteg/vyper-traceback-bug",
+      "language": "Vyper"
+    },
+    {
+      "name": "vyper-eip1967",
+      "repo": "https://github.com/banteg/vyper-eip1967",
+      "language": "Vyper"
+    },
+    {
+      "name": "yearn-principles",
+      "repo": "https://github.com/banteg/yearn-principles"
+    },
+    {
+      "name": "vyper-reentrancy",
+      "repo": "https://github.com/banteg/vyper-reentrancy",
+      "language": "Vyper"
+    },
+    {
+      "name": "docsend",
+      "repo": "https://github.com/banteg/docsend",
+      "language": "Python"
+    },
+    {
+      "name": "maker-chief",
+      "repo": "https://github.com/banteg/maker-chief",
+      "language": "Python"
+    },
+    {
+      "name": "uniswap",
+      "repo": "https://github.com/banteg/uniswap",
+      "language": "Python"
+    },
+    {
+      "name": "staking-deposit",
+      "repo": "https://github.com/banteg/staking-deposit",
+      "language": "Python"
+    },
+    {
+      "name": "vmtrace",
+      "repo": "https://github.com/banteg/vmtrace",
+      "language": "Python"
+    },
+    {
+      "name": "ape-events",
+      "repo": "https://github.com/banteg/ape-events",
+      "language": "Python"
+    },
+    {
+      "name": "veyfi-model",
+      "repo": "https://github.com/banteg/veyfi-model",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "yfi-buyer",
+      "repo": "https://github.com/banteg/yfi-buyer",
+      "language": "Python"
+    },
+    {
+      "name": "ape-llamapay",
+      "repo": "https://github.com/banteg/ape-llamapay",
+      "language": "Python"
+    },
+    {
+      "name": "sign-test",
+      "repo": "https://github.com/banteg/sign-test"
+    },
+    {
+      "name": "lobsterdao",
+      "repo": "https://github.com/banteg/lobsterdao",
+      "language": "Python"
+    },
+    {
+      "name": "woofy-snapshot",
+      "repo": "https://github.com/banteg/woofy-snapshot",
+      "language": "Solidity"
+    },
+    {
+      "name": "blue-pill",
+      "repo": "https://github.com/banteg/blue-pill",
+      "language": "Python"
+    },
+    {
+      "name": "fast",
+      "repo": "https://github.com/banteg/fast",
+      "language": "Python"
+    },
+    {
+      "name": "spank-uni-distribution",
+      "repo": "https://github.com/banteg/spank-uni-distribution",
+      "language": "Python"
+    },
+    {
+      "name": "feil-proposal",
+      "repo": "https://github.com/banteg/feil-proposal",
+      "language": "Python"
+    },
+    {
+      "name": "imagehashmasks",
+      "repo": "https://github.com/banteg/imagehashmasks",
+      "language": "Python"
+    },
+    {
+      "name": "yfi-pact",
+      "repo": "https://github.com/banteg/yfi-pact",
+      "language": "Python"
+    },
+    {
+      "name": "lido-keep3r",
+      "repo": "https://github.com/banteg/lido-keep3r",
+      "language": "Python"
+    },
+    {
+      "name": "exploit-ycredit",
+      "repo": "https://github.com/banteg/exploit-ycredit",
+      "language": "Python"
+    },
+    {
+      "name": "lido-vault",
+      "repo": "https://github.com/banteg/lido-vault",
+      "language": "Python"
+    },
+    {
+      "name": "audos",
+      "repo": "https://github.com/banteg/audos",
+      "language": "Python"
+    },
+    {
+      "name": "pytho",
+      "repo": "https://github.com/banteg/pytho",
+      "language": "Python"
+    },
+    {
+      "name": "seed-liquidity",
+      "repo": "https://github.com/banteg/seed-liquidity",
+      "language": "Python"
+    },
+    {
+      "name": "pink-duck",
+      "repo": "https://github.com/banteg/pink-duck",
+      "language": "Python"
+    },
+    {
+      "name": "permit-deposit",
+      "repo": "https://github.com/banteg/permit-deposit",
+      "language": "Python"
+    },
+    {
+      "name": "cornichon",
+      "repo": "https://github.com/banteg/cornichon",
+      "language": "Python"
+    },
+    {
+      "name": "evil-jar",
+      "repo": "https://github.com/banteg/evil-jar",
+      "language": "Python"
+    },
+    {
+      "name": "yGift",
+      "repo": "https://github.com/banteg/yGift",
+      "language": "Solidity"
+    },
+    {
+      "name": "brownie-ds-proxy",
+      "repo": "https://github.com/banteg/brownie-ds-proxy",
+      "language": "Python"
+    },
+    {
+      "name": "unswerve",
+      "repo": "https://github.com/banteg/unswerve",
+      "language": "Python"
+    },
+    {
+      "name": "pickle-snapshot",
+      "repo": "https://github.com/banteg/pickle-snapshot"
+    },
+    {
+      "name": "your-eminence",
+      "repo": "https://github.com/banteg/your-eminence",
+      "url": "https://youreminence.finance/",
+      "language": "Python"
+    },
+    {
+      "name": "parasitic-vault",
+      "repo": "https://github.com/banteg/parasitic-vault",
+      "language": "Python"
+    },
+    {
+      "name": "uniswap-distribution",
+      "repo": "https://github.com/banteg/uniswap-distribution"
+    },
+    {
+      "name": "yearn-vault-keeper",
+      "repo": "https://github.com/banteg/yearn-vault-keeper",
+      "language": "Python"
+    },
+    {
+      "name": "defi-apy",
+      "repo": "https://github.com/banteg/defi-apy",
+      "language": "Python"
+    },
+    {
+      "name": "curvefi",
+      "repo": "https://github.com/banteg/curvefi",
+      "language": "Python"
+    },
+    {
+      "name": "tellor",
+      "repo": "https://github.com/banteg/tellor",
+      "language": "Python"
+    },
+    {
+      "name": "adventofcode-2019",
+      "repo": "https://github.com/banteg/adventofcode-2019",
+      "language": "Python"
+    },
+    {
+      "name": "lto-bridge",
+      "repo": "https://github.com/banteg/lto-bridge",
+      "language": "Python"
+    },
+    {
+      "name": "gasprice",
+      "repo": "https://github.com/banteg/gasprice",
+      "language": "Python"
+    },
+    {
+      "name": "adventofcode-2017",
+      "repo": "https://github.com/banteg/adventofcode-2017",
+      "language": "Python"
+    },
+    {
+      "name": "adventofcode-2018",
+      "repo": "https://github.com/banteg/adventofcode-2018",
+      "language": "Python"
+    },
+    {
+      "name": "telegram",
+      "repo": "https://github.com/banteg/telegram",
+      "language": "Python"
+    },
+    {
+      "name": "coinlisting",
+      "repo": "https://github.com/banteg/coinlisting",
+      "language": "Python"
+    },
+    {
+      "name": "bitcointalk",
+      "repo": "https://github.com/banteg/bitcointalk",
+      "language": "Python"
+    },
+    {
+      "name": "liqui",
+      "repo": "https://github.com/banteg/liqui",
+      "language": "Python"
+    },
+    {
+      "name": "blockfolio",
+      "repo": "https://github.com/banteg/blockfolio",
+      "language": "Python"
+    },
+    {
+      "name": "poloniex",
+      "repo": "https://github.com/banteg/poloniex",
+      "language": "Python"
+    },
+    {
+      "name": "httpie-image",
+      "repo": "https://github.com/banteg/httpie-image",
+      "language": "Python"
+    },
+    {
+      "name": "hug_raven",
+      "repo": "https://github.com/banteg/hug_raven",
+      "language": "Python"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "handle": "jantman",
+  "name": "Jason Antman",
+  "github": [
+    "https://github.com/jantman"
+  ],
+  "website": "https://www.jasonantman.com/",
+  "bio": "Director of SRE @manheim / @Cox-Automotive . Tooling & automation dev, F/OSS lover, maker, tinkerer, generator of half-finished projects. @DecaturMakers",
+  "own_repos": 135,
+  "commits": 12363,
+  "apps": [],
+  "repos": [
+    {
+      "name": "biweeklybudget",
+      "repo": "https://github.com/jantman/biweeklybudget",
+      "language": "Python"
+    },
+    {
+      "name": "electronics-projects",
+      "repo": "https://github.com/jantman/electronics-projects",
+      "language": "Python"
+    },
+    {
+      "name": "robot-army",
+      "repo": "https://github.com/jantman/robot-army",
+      "url": "https://jantman.github.io/robot-army/",
+      "language": "Python"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/jantman/blog",
+      "language": "CSS"
+    },
+    {
+      "name": "workshop-inventory-tracking",
+      "repo": "https://github.com/jantman/workshop-inventory-tracking",
+      "language": "Python"
+    },
+    {
+      "name": "machining-projects",
+      "repo": "https://github.com/jantman/machining-projects",
+      "language": "Python"
+    },
+    {
+      "name": "puppet-shared_infra",
+      "repo": "https://github.com/jantman/puppet-shared_infra",
+      "language": "Puppet"
+    },
+    {
+      "name": "docker-zoneminder",
+      "repo": "https://github.com/jantman/docker-zoneminder",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-pyzm-serve",
+      "repo": "https://github.com/jantman/docker-pyzm-serve",
+      "language": "Shell"
+    },
+    {
+      "name": "misc-scripts",
+      "repo": "https://github.com/jantman/misc-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "arch-pkgbuilds",
+      "repo": "https://github.com/jantman/arch-pkgbuilds",
+      "language": "Python"
+    },
+    {
+      "name": "grafana-cdktf-helpers",
+      "repo": "https://github.com/jantman/grafana-cdktf-helpers",
+      "language": "Python"
+    },
+    {
+      "name": "metrology-data-capture",
+      "repo": "https://github.com/jantman/metrology-data-capture",
+      "language": "Python"
+    },
+    {
+      "name": "jantman",
+      "repo": "https://github.com/jantman/jantman",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-pi-imager",
+      "repo": "https://github.com/jantman/raspberry-pi-imager",
+      "language": "HCL"
+    },
+    {
+      "name": "zoneminder-prometheus-exporter",
+      "repo": "https://github.com/jantman/zoneminder-prometheus-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "prometheus-ecowitt-exporter",
+      "repo": "https://github.com/jantman/prometheus-ecowitt-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "house-electrical",
+      "repo": "https://github.com/jantman/house-electrical",
+      "language": "Python"
+    },
+    {
+      "name": "bk-precision-169x-server",
+      "repo": "https://github.com/jantman/bk-precision-169x-server",
+      "language": "Python"
+    },
+    {
+      "name": "owon-xdm1041-server",
+      "repo": "https://github.com/jantman/owon-xdm1041-server",
+      "language": "Python"
+    },
+    {
+      "name": "claude-code-tools",
+      "repo": "https://github.com/jantman/claude-code-tools",
+      "language": "Python"
+    },
+    {
+      "name": "ford-f150-gen14-can-bus-interface",
+      "repo": "https://github.com/jantman/ford-f150-gen14-can-bus-interface",
+      "language": "HTML"
+    },
+    {
+      "name": "unifi-mongodb-logs-to-loki",
+      "repo": "https://github.com/jantman/unifi-mongodb-logs-to-loki",
+      "language": "Python"
+    },
+    {
+      "name": "zoneminder-loki",
+      "repo": "https://github.com/jantman/zoneminder-loki",
+      "language": "Python"
+    },
+    {
+      "name": "toasterbook",
+      "repo": "https://github.com/jantman/toasterbook",
+      "url": "https://toasterbook.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "levoit-LV-PUR131-fan-controller",
+      "repo": "https://github.com/jantman/levoit-LV-PUR131-fan-controller",
+      "language": "C++"
+    },
+    {
+      "name": "python-wifi-survey-heatmap",
+      "repo": "https://github.com/jantman/python-wifi-survey-heatmap",
+      "language": "Python"
+    },
+    {
+      "name": "seeed-sensecap-indicator",
+      "repo": "https://github.com/jantman/seeed-sensecap-indicator",
+      "language": "C"
+    },
+    {
+      "name": "kodi-benq-projector-control",
+      "repo": "https://github.com/jantman/kodi-benq-projector-control",
+      "language": "Python"
+    },
+    {
+      "name": "pizero-gpslog",
+      "repo": "https://github.com/jantman/pizero-gpslog",
+      "language": "Python"
+    },
+    {
+      "name": "ecsjobs",
+      "repo": "https://github.com/jantman/ecsjobs",
+      "language": "Python"
+    },
+    {
+      "name": "3d-printed-things",
+      "repo": "https://github.com/jantman/3d-printed-things",
+      "language": "G-code"
+    },
+    {
+      "name": "laser-cutter-projects",
+      "repo": "https://github.com/jantman/laser-cutter-projects",
+      "language": "G-code"
+    },
+    {
+      "name": "zoneminder-onvif-date-time-setter",
+      "repo": "https://github.com/jantman/zoneminder-onvif-date-time-setter",
+      "language": "Python"
+    },
+    {
+      "name": "prometheus-synology-api-exporter",
+      "repo": "https://github.com/jantman/prometheus-synology-api-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "s3sfe",
+      "repo": "https://github.com/jantman/s3sfe",
+      "language": "Python"
+    },
+    {
+      "name": "cnc-projects",
+      "repo": "https://github.com/jantman/cnc-projects",
+      "language": "G-code"
+    },
+    {
+      "name": "awslimitchecker",
+      "repo": "https://github.com/jantman/awslimitchecker",
+      "language": "Python"
+    },
+    {
+      "name": "home-automation-configs",
+      "repo": "https://github.com/jantman/home-automation-configs"
+    },
+    {
+      "name": "moonlander-qmk-layout",
+      "repo": "https://github.com/jantman/moonlander-qmk-layout",
+      "language": "C"
+    },
+    {
+      "name": "docker-zm-mlapi",
+      "repo": "https://github.com/jantman/docker-zm-mlapi",
+      "language": "Python"
+    },
+    {
+      "name": "workstation-bootstrap",
+      "repo": "https://github.com/jantman/workstation-bootstrap",
+      "language": "Ruby"
+    },
+    {
+      "name": "py-vista-turbo-serial",
+      "repo": "https://github.com/jantman/py-vista-turbo-serial"
+    },
+    {
+      "name": "python-package-skeleton",
+      "repo": "https://github.com/jantman/python-package-skeleton",
+      "language": "Python"
+    },
+    {
+      "name": "jantman.github.io",
+      "repo": "https://github.com/jantman/jantman.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "repostatus.org",
+      "repo": "https://github.com/jantman/repostatus.org",
+      "language": "Python"
+    },
+    {
+      "name": "docker-glpi",
+      "repo": "https://github.com/jantman/docker-glpi",
+      "url": "https://hub.docker.com/r/jr0w3/glpi",
+      "language": "PHP"
+    },
+    {
+      "name": "prometheus-weathergoose-exporter",
+      "repo": "https://github.com/jantman/prometheus-weathergoose-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "prometheus-snmp-exporter-synology-ds1621",
+      "repo": "https://github.com/jantman/prometheus-snmp-exporter-synology-ds1621",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "vault-aws-creds",
+      "repo": "https://github.com/jantman/vault-aws-creds",
+      "language": "Python"
+    },
+    {
+      "name": "puppet-archlinux-workstation",
+      "repo": "https://github.com/jantman/puppet-archlinux-workstation",
+      "language": "Ruby"
+    },
+    {
+      "name": "docker-appdaemon",
+      "repo": "https://github.com/jantman/docker-appdaemon",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "hiking-logs",
+      "repo": "https://github.com/jantman/hiking-logs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "esp32-mdns-ip-display",
+      "repo": "https://github.com/jantman/esp32-mdns-ip-display",
+      "language": "Python"
+    },
+    {
+      "name": "webhook2lambda2sqs",
+      "repo": "https://github.com/jantman/webhook2lambda2sqs",
+      "language": "Python"
+    },
+    {
+      "name": "pydnstest",
+      "repo": "https://github.com/jantman/pydnstest",
+      "language": "Python"
+    },
+    {
+      "name": "pypi-download-stats",
+      "repo": "https://github.com/jantman/pypi-download-stats",
+      "language": "Python"
+    },
+    {
+      "name": "userscripts",
+      "repo": "https://github.com/jantman/userscripts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-amcrest-noauth-proxy",
+      "repo": "https://github.com/jantman/python-amcrest-noauth-proxy",
+      "language": "Shell"
+    },
+    {
+      "name": "aws-docs-history",
+      "repo": "https://github.com/jantman/aws-docs-history",
+      "language": "HTML"
+    },
+    {
+      "name": "archautorepo",
+      "repo": "https://github.com/jantman/archautorepo",
+      "language": "Python"
+    },
+    {
+      "name": "alexa-skill-trello-todo-list",
+      "repo": "https://github.com/jantman/alexa-skill-trello-todo-list",
+      "language": "Python"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/jantman/resume",
+      "language": "HTML"
+    },
+    {
+      "name": "psread",
+      "repo": "https://github.com/jantman/psread",
+      "language": "Python"
+    },
+    {
+      "name": "openscad-nightstand-plans",
+      "repo": "https://github.com/jantman/openscad-nightstand-plans",
+      "language": "OpenSCAD"
+    },
+    {
+      "name": "versionfinder",
+      "repo": "https://github.com/jantman/versionfinder",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-xscreensaver-tools",
+      "repo": "https://github.com/jantman/rpi-xscreensaver-tools",
+      "language": "Python"
+    },
+    {
+      "name": "pi2graphite",
+      "repo": "https://github.com/jantman/pi2graphite",
+      "language": "Python"
+    },
+    {
+      "name": "micropython-esp32-pulse-generator",
+      "repo": "https://github.com/jantman/micropython-esp32-pulse-generator",
+      "language": "Python"
+    },
+    {
+      "name": "ludlum-3-esp32-scaler",
+      "repo": "https://github.com/jantman/ludlum-3-esp32-scaler",
+      "language": "Python"
+    },
+    {
+      "name": "xfinity-usage",
+      "repo": "https://github.com/jantman/xfinity-usage",
+      "language": "Python"
+    },
+    {
+      "name": "docker-mysqldump-s3",
+      "repo": "https://github.com/jantman/docker-mysqldump-s3",
+      "language": "Shell"
+    },
+    {
+      "name": "jiveapi",
+      "repo": "https://github.com/jantman/jiveapi",
+      "language": "Python"
+    },
+    {
+      "name": "docker-twilio-ppp-proxy",
+      "repo": "https://github.com/jantman/docker-twilio-ppp-proxy",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-provider-verisignmdns",
+      "repo": "https://github.com/jantman/terraform-provider-verisignmdns",
+      "language": "Go"
+    },
+    {
+      "name": "puppet-archlinux-macbookretina",
+      "repo": "https://github.com/jantman/puppet-archlinux-macbookretina",
+      "language": "Ruby"
+    },
+    {
+      "name": "serverspec-extended-types",
+      "repo": "https://github.com/jantman/serverspec-extended-types",
+      "language": "Ruby"
+    },
+    {
+      "name": "aw-watcher-manual-flaskweb",
+      "repo": "https://github.com/jantman/aw-watcher-manual-flaskweb",
+      "language": "Python"
+    },
+    {
+      "name": "motion-pipeline",
+      "repo": "https://github.com/jantman/motion-pipeline",
+      "language": "Python"
+    },
+    {
+      "name": "github-docs-index",
+      "repo": "https://github.com/jantman/github-docs-index",
+      "language": "Python"
+    },
+    {
+      "name": "autosimulationcraft",
+      "repo": "https://github.com/jantman/autosimulationcraft",
+      "language": "Python"
+    },
+    {
+      "name": "pypuppetdb-daily-report",
+      "repo": "https://github.com/jantman/pypuppetdb-daily-report",
+      "language": "Python"
+    },
+    {
+      "name": "rspec-matcher-num-times",
+      "repo": "https://github.com/jantman/rspec-matcher-num-times",
+      "language": "Ruby"
+    },
+    {
+      "name": "rebuildbot",
+      "repo": "https://github.com/jantman/rebuildbot",
+      "language": "Python"
+    },
+    {
+      "name": "ec2-utils-el7",
+      "repo": "https://github.com/jantman/ec2-utils-el7",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-debian-mongodb24",
+      "repo": "https://github.com/jantman/docker-debian-mongodb24"
+    },
+    {
+      "name": "crondigest",
+      "repo": "https://github.com/jantman/crondigest",
+      "language": "Python"
+    },
+    {
+      "name": "RPyMostat-control",
+      "repo": "https://github.com/jantman/RPyMostat-control",
+      "language": "Python"
+    },
+    {
+      "name": "rpymostat-common",
+      "repo": "https://github.com/jantman/rpymostat-common",
+      "language": "Python"
+    },
+    {
+      "name": "RPyMostat-ui",
+      "repo": "https://github.com/jantman/RPyMostat-ui"
+    },
+    {
+      "name": "RPyMostat-sensor",
+      "repo": "https://github.com/jantman/RPyMostat-sensor",
+      "language": "Python"
+    },
+    {
+      "name": "RPyMostat",
+      "repo": "https://github.com/jantman/RPyMostat",
+      "language": "Python"
+    },
+    {
+      "name": "franz-recipe-pushover",
+      "repo": "https://github.com/jantman/franz-recipe-pushover",
+      "language": "JavaScript"
+    },
+    {
+      "name": "versionfinder-test-pkg",
+      "repo": "https://github.com/jantman/versionfinder-test-pkg",
+      "language": "Python"
+    },
+    {
+      "name": "tf-vol-attachment-cycle",
+      "repo": "https://github.com/jantman/tf-vol-attachment-cycle",
+      "url": "https://github.com/hashicorp/terraform/issues/16237",
+      "language": "HCL"
+    },
+    {
+      "name": "nagios-scripts",
+      "repo": "https://github.com/jantman/nagios-scripts",
+      "language": "Perl"
+    },
+    {
+      "name": "vagrant-r10k",
+      "repo": "https://github.com/jantman/vagrant-r10k",
+      "language": "Ruby"
+    },
+    {
+      "name": "piface-webhooks",
+      "repo": "https://github.com/jantman/piface-webhooks",
+      "language": "Python"
+    },
+    {
+      "name": "python-obd",
+      "repo": "https://github.com/jantman/python-obd",
+      "language": "HTML"
+    },
+    {
+      "name": "gw2copilot",
+      "repo": "https://github.com/jantman/gw2copilot",
+      "language": "Python"
+    }
+  ]
+}

@@ -5,27 +5,9 @@
     "https://github.com/simonw"
   ],
   "website": "https://simonwillison.net/",
-  "own_repos": 650,
+  "own_repos": 651,
   "commits": 12611,
   "repos": [
-    {
-      "name": "package-stats",
-      "repo": "https://github.com/simonw/package-stats",
-      "language": "Python"
-    },
-    {
-      "name": "pge-outages",
-      "repo": "https://github.com/simonw/pge-outages"
-    },
-    {
-      "name": "scrape-fema-shelters",
-      "repo": "https://github.com/simonw/scrape-fema-shelters"
-    },
-    {
-      "name": "scrape-hacker-news-by-domain",
-      "repo": "https://github.com/simonw/scrape-hacker-news-by-domain",
-      "language": "JavaScript"
-    },
     {
       "name": "simonw",
       "repo": "https://github.com/simonw/simonw",
@@ -33,8 +15,45 @@
       "language": "Python"
     },
     {
+      "name": "scrape-fema-shelters",
+      "repo": "https://github.com/simonw/scrape-fema-shelters"
+    },
+    {
+      "name": "vibe-coded-blender-projects",
+      "repo": "https://github.com/simonw/vibe-coded-blender-projects",
+      "language": "Python"
+    },
+    {
+      "name": "tools",
+      "repo": "https://github.com/simonw/tools",
+      "url": "https://tools.simonwillison.net",
+      "language": "HTML"
+    },
+    {
       "name": "usgs-scraper",
       "repo": "https://github.com/simonw/usgs-scraper"
+    },
+    {
+      "name": "scrape-florida-outages",
+      "repo": "https://github.com/simonw/scrape-florida-outages"
+    },
+    {
+      "name": "scrape-hacker-news-by-domain",
+      "repo": "https://github.com/simonw/scrape-hacker-news-by-domain",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scrape-fediverse",
+      "repo": "https://github.com/simonw/scrape-fediverse"
+    },
+    {
+      "name": "pge-outages",
+      "repo": "https://github.com/simonw/pge-outages"
+    },
+    {
+      "name": "package-stats",
+      "repo": "https://github.com/simonw/package-stats",
+      "language": "Python"
     },
     {
       "name": "commit-rewriter",
@@ -46,10 +65,6 @@
       "repo": "https://github.com/simonw/recent-california-brown-pelicans",
       "url": "https://simonw.github.io/recent-california-brown-pelicans/atom.xml",
       "language": "Python"
-    },
-    {
-      "name": "scrape-fediverse",
-      "repo": "https://github.com/simonw/scrape-fediverse"
     },
     {
       "name": "ollama-models-atom-feed",
@@ -85,16 +100,6 @@
       "repo": "https://github.com/simonw/datasette",
       "url": "https://datasette.io",
       "language": "Python"
-    },
-    {
-      "name": "scrape-florida-outages",
-      "repo": "https://github.com/simonw/scrape-florida-outages"
-    },
-    {
-      "name": "tools",
-      "repo": "https://github.com/simonw/tools",
-      "url": "https://tools.simonwillison.net",
-      "language": "HTML"
     },
     {
       "name": "llm",
@@ -515,11 +520,6 @@
       "name": "datasette-showboat",
       "repo": "https://github.com/simonw/datasette-showboat",
       "language": "Python"
-    },
-    {
-      "name": "bandwidther",
-      "repo": "https://github.com/simonw/bandwidther",
-      "language": "Swift"
     }
   ]
 }

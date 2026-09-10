@@ -1,0 +1,499 @@
+{
+  "handle": "major",
+  "name": "Major Hayden",
+  "github": [
+    "https://github.com/major"
+  ],
+  "website": "https://major.io/",
+  "bio": "Senior Principal Software Engineer at Red Hat",
+  "own_repos": 178,
+  "commits": 10018,
+  "apps": [],
+  "repos": [
+    {
+      "name": "stocknews",
+      "repo": "https://github.com/major/stocknews",
+      "language": "Go"
+    },
+    {
+      "name": "stockchartsalerts",
+      "repo": "https://github.com/major/stockchartsalerts",
+      "language": "Go"
+    },
+    {
+      "name": "container-images",
+      "repo": "https://github.com/major/container-images",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "index-etfs",
+      "repo": "https://github.com/major/index-etfs",
+      "language": "Python"
+    },
+    {
+      "name": "fedora-rpm-specs",
+      "repo": "https://github.com/major/fedora-rpm-specs",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/major/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "vl-tv-bridge",
+      "repo": "https://github.com/major/vl-tv-bridge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MySQLTuner-perl",
+      "repo": "https://github.com/major/MySQLTuner-perl",
+      "language": "Perl"
+    },
+    {
+      "name": "octodns-porkbun",
+      "repo": "https://github.com/major/octodns-porkbun",
+      "language": "Python"
+    },
+    {
+      "name": "tickerscope",
+      "repo": "https://github.com/major/tickerscope",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-container",
+      "repo": "https://github.com/major/opencode-container",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "volumeleaders",
+      "repo": "https://github.com/major/volumeleaders",
+      "language": "Python"
+    },
+    {
+      "name": "ldap-mcp",
+      "repo": "https://github.com/major/ldap-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "thetanerd.com-stats",
+      "repo": "https://github.com/major/thetanerd.com-stats"
+    },
+    {
+      "name": "tickerlake",
+      "repo": "https://github.com/major/tickerlake",
+      "language": "Python"
+    },
+    {
+      "name": "major.io",
+      "repo": "https://github.com/major/major.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "txlf24-containers",
+      "repo": "https://github.com/major/txlf24-containers"
+    },
+    {
+      "name": "thetanerd.com",
+      "repo": "https://github.com/major/thetanerd.com",
+      "language": "Shell"
+    },
+    {
+      "name": "hackathon-2025",
+      "repo": "https://github.com/major/hackathon-2025",
+      "language": "Python"
+    },
+    {
+      "name": "pcp-mcp",
+      "repo": "https://github.com/major/pcp-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "fez",
+      "repo": "https://github.com/major/fez",
+      "language": "Rust"
+    },
+    {
+      "name": "major.io-stats",
+      "repo": "https://github.com/major/major.io-stats"
+    },
+    {
+      "name": "tradingview",
+      "repo": "https://github.com/major/tradingview"
+    },
+    {
+      "name": "marketsurge-rs",
+      "repo": "https://github.com/major/marketsurge-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "airflow-dags",
+      "repo": "https://github.com/major/airflow-dags",
+      "language": "Python"
+    },
+    {
+      "name": "gitlab-notifier",
+      "repo": "https://github.com/major/gitlab-notifier",
+      "language": "JavaScript"
+    },
+    {
+      "name": "thufir",
+      "repo": "https://github.com/major/thufir",
+      "language": "Rust"
+    },
+    {
+      "name": "volumeleaders-rs",
+      "repo": "https://github.com/major/volumeleaders-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "schwab-rs",
+      "repo": "https://github.com/major/schwab-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "tickerscope-mcp",
+      "repo": "https://github.com/major/tickerscope-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "ffty-etf",
+      "repo": "https://github.com/major/ffty-etf",
+      "language": "Python"
+    },
+    {
+      "name": "arxivwatch",
+      "repo": "https://github.com/major/arxivwatch",
+      "language": "Python"
+    },
+    {
+      "name": "fmp-rs",
+      "repo": "https://github.com/major/fmp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "jira-agent",
+      "repo": "https://github.com/major/jira-agent",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles-old",
+      "repo": "https://github.com/major/dotfiles-old",
+      "language": "Shell"
+    },
+    {
+      "name": "rhel-10-nvidia-install",
+      "repo": "https://github.com/major/rhel-10-nvidia-install",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-efs",
+      "repo": "https://github.com/major/terraform-efs",
+      "language": "HCL"
+    },
+    {
+      "name": "mysql-json-bridge",
+      "repo": "https://github.com/major/mysql-json-bridge",
+      "language": "Python"
+    },
+    {
+      "name": "theta-tracker",
+      "repo": "https://github.com/major/theta-tracker"
+    },
+    {
+      "name": "imagebuilder-terraform",
+      "repo": "https://github.com/major/imagebuilder-terraform",
+      "language": "HCL"
+    },
+    {
+      "name": "quadlets-wordpress",
+      "repo": "https://github.com/major/quadlets-wordpress",
+      "language": "Shell"
+    },
+    {
+      "name": "coderabbit",
+      "repo": "https://github.com/major/coderabbit"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/major/renovate-config"
+    },
+    {
+      "name": "schwab-agent-rs",
+      "repo": "https://github.com/major/schwab-agent-rs",
+      "url": "https://github.com/major/schwab-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "volumeleaders-agent",
+      "repo": "https://github.com/major/volumeleaders-agent",
+      "language": "Go"
+    },
+    {
+      "name": "docling-expander",
+      "repo": "https://github.com/major/docling-expander",
+      "language": "HTML"
+    },
+    {
+      "name": "porkbun-go",
+      "repo": "https://github.com/major/porkbun-go",
+      "language": "Go"
+    },
+    {
+      "name": "optionality",
+      "repo": "https://github.com/major/optionality",
+      "language": "Python"
+    },
+    {
+      "name": "vl-notifier",
+      "repo": "https://github.com/major/vl-notifier",
+      "language": "JavaScript"
+    },
+    {
+      "name": "marketsurge-agent",
+      "repo": "https://github.com/major/marketsurge-agent",
+      "language": "Go"
+    },
+    {
+      "name": "marketsurge-go",
+      "repo": "https://github.com/major/marketsurge-go",
+      "language": "Go"
+    },
+    {
+      "name": "modelgrader",
+      "repo": "https://github.com/major/modelgrader",
+      "language": "Python"
+    },
+    {
+      "name": "volumeleaders-go",
+      "repo": "https://github.com/major/volumeleaders-go",
+      "language": "Go"
+    },
+    {
+      "name": "caddy",
+      "repo": "https://github.com/major/caddy",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "thetagang-scripts",
+      "repo": "https://github.com/major/thetagang-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/major/resume"
+    },
+    {
+      "name": "major",
+      "repo": "https://github.com/major/major",
+      "language": "Python"
+    },
+    {
+      "name": "txlf24-tech-career",
+      "repo": "https://github.com/major/txlf24-tech-career"
+    },
+    {
+      "name": "porkbun-mcp",
+      "repo": "https://github.com/major/porkbun-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "oinker",
+      "repo": "https://github.com/major/oinker",
+      "language": "Python"
+    },
+    {
+      "name": "cronjobs",
+      "repo": "https://github.com/major/cronjobs",
+      "language": "Python"
+    },
+    {
+      "name": "rag-container",
+      "repo": "https://github.com/major/rag-container",
+      "language": "Python"
+    },
+    {
+      "name": "thetagang-notifications",
+      "repo": "https://github.com/major/thetagang-notifications",
+      "language": "Python"
+    },
+    {
+      "name": "selfhosted",
+      "repo": "https://github.com/major/selfhosted"
+    },
+    {
+      "name": "fedora-rpm-builder",
+      "repo": "https://github.com/major/fedora-rpm-builder",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "schwab-go",
+      "repo": "https://github.com/major/schwab-go",
+      "language": "Go"
+    },
+    {
+      "name": "schwab-agent",
+      "repo": "https://github.com/major/schwab-agent",
+      "language": "Go"
+    },
+    {
+      "name": "tampermonkey-userscripts",
+      "repo": "https://github.com/major/tampermonkey-userscripts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tidetrack",
+      "repo": "https://github.com/major/tidetrack"
+    },
+    {
+      "name": "hvcwatch",
+      "repo": "https://github.com/major/hvcwatch",
+      "language": "Python"
+    },
+    {
+      "name": "blograg",
+      "repo": "https://github.com/major/blograg",
+      "language": "Python"
+    },
+    {
+      "name": "ibm-watsonx-ai-tracker",
+      "repo": "https://github.com/major/ibm-watsonx-ai-tracker",
+      "language": "Python"
+    },
+    {
+      "name": "theta-rss",
+      "repo": "https://github.com/major/theta-rss",
+      "url": "https://major.github.io/theta-rss/",
+      "language": "Python"
+    },
+    {
+      "name": "infrastructure",
+      "repo": "https://github.com/major/infrastructure",
+      "language": "HCL"
+    },
+    {
+      "name": "imagebuilder",
+      "repo": "https://github.com/major/imagebuilder",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "hvc-finder",
+      "repo": "https://github.com/major/hvc-finder",
+      "language": "Python"
+    },
+    {
+      "name": "containers",
+      "repo": "https://github.com/major/containers",
+      "language": "Shell"
+    },
+    {
+      "name": "awscli2-c9s",
+      "repo": "https://github.com/major/awscli2-c9s",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "dns",
+      "repo": "https://github.com/major/dns",
+      "language": "JavaScript"
+    },
+    {
+      "name": "earnings",
+      "repo": "https://github.com/major/earnings",
+      "language": "Python"
+    },
+    {
+      "name": "earningsbot",
+      "repo": "https://github.com/major/earningsbot",
+      "language": "Python"
+    },
+    {
+      "name": "imagebuilder-fedora",
+      "repo": "https://github.com/major/imagebuilder-fedora",
+      "language": "Shell"
+    },
+    {
+      "name": "stock-scripts",
+      "repo": "https://github.com/major/stock-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "aws-ec2-instance-connect",
+      "repo": "https://github.com/major/aws-ec2-instance-connect"
+    },
+    {
+      "name": "options",
+      "repo": "https://github.com/major/options",
+      "language": "Python"
+    },
+    {
+      "name": "amazon-ssm-agent-packaging",
+      "repo": "https://github.com/major/amazon-ssm-agent-packaging",
+      "language": "Python"
+    },
+    {
+      "name": "thetaqueue",
+      "repo": "https://github.com/major/thetaqueue",
+      "language": "Makefile"
+    },
+    {
+      "name": "fedora-golang-google-cloud",
+      "repo": "https://github.com/major/fedora-golang-google-cloud",
+      "language": "Shell"
+    },
+    {
+      "name": "mac-drac-automation",
+      "repo": "https://github.com/major/mac-drac-automation"
+    },
+    {
+      "name": "unicode-snowman",
+      "repo": "https://github.com/major/unicode-snowman"
+    },
+    {
+      "name": "openshift-jenkins-test",
+      "repo": "https://github.com/major/openshift-jenkins-test"
+    },
+    {
+      "name": "rhel7stig-sphinx",
+      "repo": "https://github.com/major/rhel7stig-sphinx",
+      "language": "Python"
+    },
+    {
+      "name": "python-mysqltuner",
+      "repo": "https://github.com/major/python-mysqltuner",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-rax-fedora22",
+      "repo": "https://github.com/major/ansible-rax-fedora22"
+    },
+    {
+      "name": "docker-kernel-builder",
+      "repo": "https://github.com/major/docker-kernel-builder",
+      "language": "Shell"
+    },
+    {
+      "name": "letsencrypt-rackspace-hook",
+      "repo": "https://github.com/major/letsencrypt-rackspace-hook",
+      "language": "Python"
+    },
+    {
+      "name": "arksearch",
+      "repo": "https://github.com/major/arksearch",
+      "language": "Python"
+    },
+    {
+      "name": "osic-ansible-crash-course",
+      "repo": "https://github.com/major/osic-ansible-crash-course"
+    },
+    {
+      "name": "kernel-builders",
+      "repo": "https://github.com/major/kernel-builders",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "openshift-uid-test",
+      "repo": "https://github.com/major/openshift-uid-test",
+      "language": "Dockerfile"
+    }
+  ]
+}

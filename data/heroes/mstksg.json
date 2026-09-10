@@ -1,0 +1,533 @@
+{
+  "handle": "mstksg",
+  "name": "Justin Le",
+  "github": [
+    "https://github.com/mstksg"
+  ],
+  "website": "https://blog.jle.im/",
+  "bio": "jle / mstksg / Lê Anh Khoa: Computational physicist & Haskeller, PhD",
+  "own_repos": 114,
+  "commits": 10547,
+  "apps": [],
+  "repos": [
+    {
+      "name": "home-config",
+      "repo": "https://github.com/mstksg/home-config",
+      "language": "Nix"
+    },
+    {
+      "name": "inCode",
+      "repo": "https://github.com/mstksg/inCode",
+      "language": "Haskell"
+    },
+    {
+      "name": "nonempty-containers",
+      "repo": "https://github.com/mstksg/nonempty-containers",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-project-flake",
+      "repo": "https://github.com/mstksg/haskell-project-flake",
+      "language": "Nix"
+    },
+    {
+      "name": "mutable",
+      "repo": "https://github.com/mstksg/mutable",
+      "url": "https://mutable.jle.im",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code",
+      "repo": "https://github.com/mstksg/advent-of-code",
+      "language": "Haskell"
+    },
+    {
+      "name": "santabot",
+      "repo": "https://github.com/mstksg/santabot",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-api",
+      "repo": "https://github.com/mstksg/advent-of-code-api",
+      "url": "https://hackage.haskell.org/package/advent-of-code-api",
+      "language": "Haskell"
+    },
+    {
+      "name": "functor-combinators",
+      "repo": "https://github.com/mstksg/functor-combinators",
+      "url": "https://hackage.haskell.org/package/functor-combinators",
+      "language": "Haskell"
+    },
+    {
+      "name": "backprop",
+      "repo": "https://github.com/mstksg/backprop",
+      "url": "https://backprop.jle.im",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2016",
+      "repo": "https://github.com/mstksg/advent-of-code-2016",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2017",
+      "repo": "https://github.com/mstksg/advent-of-code-2017",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2018",
+      "repo": "https://github.com/mstksg/advent-of-code-2018",
+      "url": "https://mstksg.github.io/advent-of-code-2018/",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2019",
+      "repo": "https://github.com/mstksg/advent-of-code-2019",
+      "url": "https://github.com/mstksg/advent-of-code-2019/blob/master/reflections.md",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2020",
+      "repo": "https://github.com/mstksg/advent-of-code-2020",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2021",
+      "repo": "https://github.com/mstksg/advent-of-code-2021",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2022",
+      "repo": "https://github.com/mstksg/advent-of-code-2022",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2023",
+      "repo": "https://github.com/mstksg/advent-of-code-2023",
+      "language": "Haskell"
+    },
+    {
+      "name": "jle-foss",
+      "repo": "https://github.com/mstksg/jle-foss",
+      "language": "Nix"
+    },
+    {
+      "name": "typelits-printf",
+      "repo": "https://github.com/mstksg/typelits-printf",
+      "url": "https://mstksg.github.io/typelits-printf/",
+      "language": "Haskell"
+    },
+    {
+      "name": "uncertain",
+      "repo": "https://github.com/mstksg/uncertain",
+      "url": "https://hackage.haskell.org/package/uncertain",
+      "language": "Haskell"
+    },
+    {
+      "name": "hamilton",
+      "repo": "https://github.com/mstksg/hamilton",
+      "url": "https://mstksg.github.io/hamilton/",
+      "language": "Haskell"
+    },
+    {
+      "name": "typelits-witnesses",
+      "repo": "https://github.com/mstksg/typelits-witnesses",
+      "language": "Haskell"
+    },
+    {
+      "name": "functor-products",
+      "repo": "https://github.com/mstksg/functor-products",
+      "language": "Haskell"
+    },
+    {
+      "name": "decidable",
+      "repo": "https://github.com/mstksg/decidable",
+      "url": "https://hackage.haskell.org/package/decidable",
+      "language": "Haskell"
+    },
+    {
+      "name": "hoppy",
+      "repo": "https://github.com/mstksg/hoppy",
+      "language": "Haskell"
+    },
+    {
+      "name": "setup-stack",
+      "repo": "https://github.com/mstksg/setup-stack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "list-witnesses",
+      "repo": "https://github.com/mstksg/list-witnesses",
+      "language": "Haskell"
+    },
+    {
+      "name": "otp-authenticator",
+      "repo": "https://github.com/mstksg/otp-authenticator",
+      "language": "Haskell"
+    },
+    {
+      "name": "servant-cli",
+      "repo": "https://github.com/mstksg/servant-cli",
+      "url": "https://hackage.haskell.org/package/servant-cli",
+      "language": "Haskell"
+    },
+    {
+      "name": "hakyll-dhall",
+      "repo": "https://github.com/mstksg/hakyll-dhall",
+      "language": "Haskell"
+    },
+    {
+      "name": "conduino",
+      "repo": "https://github.com/mstksg/conduino",
+      "url": "https://mstksg.github.io/conduino/",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-dev",
+      "repo": "https://github.com/mstksg/advent-of-code-dev",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhall-cv-personal",
+      "repo": "https://github.com/mstksg/dhall-cv-personal",
+      "language": "Dhall"
+    },
+    {
+      "name": "get-package",
+      "repo": "https://github.com/mstksg/get-package",
+      "language": "JavaScript"
+    },
+    {
+      "name": "corona-charts",
+      "repo": "https://github.com/mstksg/corona-charts",
+      "url": "https://coronavirus.jle.im",
+      "language": "PureScript"
+    },
+    {
+      "name": "advent-of-code-ocr",
+      "repo": "https://github.com/mstksg/advent-of-code-ocr",
+      "url": "https://hackage.haskell.org/package/advent-of-code-ocr",
+      "language": "Haskell"
+    },
+    {
+      "name": "cv-static",
+      "repo": "https://github.com/mstksg/cv-static",
+      "url": "https://cv.jle.im",
+      "language": "Dhall"
+    },
+    {
+      "name": "dhall-cv-web",
+      "repo": "https://github.com/mstksg/dhall-cv-web",
+      "language": "Dhall"
+    },
+    {
+      "name": "dhall-text-shell",
+      "repo": "https://github.com/mstksg/dhall-text-shell",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhall-cv",
+      "repo": "https://github.com/mstksg/dhall-cv",
+      "language": "Dhall"
+    },
+    {
+      "name": "dhall-cv-latex",
+      "repo": "https://github.com/mstksg/dhall-cv-latex",
+      "language": "Dhall"
+    },
+    {
+      "name": "purdle",
+      "repo": "https://github.com/mstksg/purdle",
+      "language": "JavaScript"
+    },
+    {
+      "name": "one-liner-instances",
+      "repo": "https://github.com/mstksg/one-liner-instances",
+      "language": "Haskell"
+    },
+    {
+      "name": "jle-utils",
+      "repo": "https://github.com/mstksg/jle-utils",
+      "language": "Haskell"
+    },
+    {
+      "name": "typescript-json",
+      "repo": "https://github.com/mstksg/typescript-json",
+      "language": "Haskell"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/mstksg/talks",
+      "language": "HTML"
+    },
+    {
+      "name": "servant-validate",
+      "repo": "https://github.com/mstksg/servant-validate",
+      "language": "Haskell"
+    },
+    {
+      "name": "dashboard",
+      "repo": "https://github.com/mstksg/dashboard",
+      "language": "Dhall"
+    },
+    {
+      "name": "opto",
+      "repo": "https://github.com/mstksg/opto",
+      "language": "Haskell"
+    },
+    {
+      "name": "corona-analysis",
+      "repo": "https://github.com/mstksg/corona-analysis",
+      "language": "Haskell"
+    },
+    {
+      "name": "phys108L",
+      "repo": "https://github.com/mstksg/phys108L",
+      "language": "Haskell"
+    },
+    {
+      "name": "hmatrix-vector-sized",
+      "repo": "https://github.com/mstksg/hmatrix-vector-sized",
+      "language": "Haskell"
+    },
+    {
+      "name": "hmatrix-backprop",
+      "repo": "https://github.com/mstksg/hmatrix-backprop",
+      "language": "Haskell"
+    },
+    {
+      "name": "backprop-learn",
+      "repo": "https://github.com/mstksg/backprop-learn",
+      "url": "https://mstksg.github.io/backprop-learn/",
+      "language": "Haskell"
+    },
+    {
+      "name": "emd",
+      "repo": "https://github.com/mstksg/emd",
+      "language": "Haskell"
+    },
+    {
+      "name": "wavelets",
+      "repo": "https://github.com/mstksg/wavelets",
+      "language": "Haskell"
+    },
+    {
+      "name": "bins",
+      "repo": "https://github.com/mstksg/bins",
+      "language": "Haskell"
+    },
+    {
+      "name": "interactive-plot",
+      "repo": "https://github.com/mstksg/interactive-plot",
+      "url": "https://hackage.haskell.org/package/interactive-plot",
+      "language": "Haskell"
+    },
+    {
+      "name": "configurator-export",
+      "repo": "https://github.com/mstksg/configurator-export",
+      "language": "Haskell"
+    },
+    {
+      "name": "tagged-binary",
+      "repo": "https://github.com/mstksg/tagged-binary",
+      "language": "Haskell"
+    },
+    {
+      "name": "prompt",
+      "repo": "https://github.com/mstksg/prompt",
+      "language": "Haskell"
+    },
+    {
+      "name": "auto",
+      "repo": "https://github.com/mstksg/auto",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhall-typed",
+      "repo": "https://github.com/mstksg/dhall-typed",
+      "language": "Haskell"
+    },
+    {
+      "name": "pandoc-sync",
+      "repo": "https://github.com/mstksg/pandoc-sync",
+      "language": "Haskell"
+    },
+    {
+      "name": "data-diff",
+      "repo": "https://github.com/mstksg/data-diff",
+      "url": "https://mstksg.github.io/data-diff",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhallscript",
+      "repo": "https://github.com/mstksg/dhallscript",
+      "language": "Haskell"
+    },
+    {
+      "name": "lens-typelevel",
+      "repo": "https://github.com/mstksg/lens-typelevel",
+      "url": "https://hackage.haskell.org/package/lens-typelevel",
+      "language": "Haskell"
+    },
+    {
+      "name": "tic-tac-typed",
+      "repo": "https://github.com/mstksg/tic-tac-typed",
+      "language": "Haskell"
+    },
+    {
+      "name": "vector-algorithms-sized",
+      "repo": "https://github.com/mstksg/vector-algorithms-sized",
+      "language": "Haskell"
+    },
+    {
+      "name": "tic-tac-miso",
+      "repo": "https://github.com/mstksg/tic-tac-miso",
+      "language": "Haskell"
+    },
+    {
+      "name": "eggvisor",
+      "repo": "https://github.com/mstksg/eggvisor",
+      "language": "Haskell"
+    },
+    {
+      "name": "type-combinators-singletons",
+      "repo": "https://github.com/mstksg/type-combinators-singletons",
+      "language": "Haskell"
+    },
+    {
+      "name": "hackerrank",
+      "repo": "https://github.com/mstksg/hackerrank",
+      "language": "Haskell"
+    },
+    {
+      "name": "backpack-tensor",
+      "repo": "https://github.com/mstksg/backpack-tensor",
+      "language": "Haskell"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/mstksg/blog",
+      "language": "Haskell"
+    },
+    {
+      "name": "accelerate-backprop",
+      "repo": "https://github.com/mstksg/accelerate-backprop"
+    },
+    {
+      "name": "generics-lift",
+      "repo": "https://github.com/mstksg/generics-lift",
+      "url": "https://mstksg.github.io/generics-lift",
+      "language": "Haskell"
+    },
+    {
+      "name": "forms-applicative",
+      "repo": "https://github.com/mstksg/forms-applicative",
+      "language": "Haskell"
+    },
+    {
+      "name": "slicer",
+      "repo": "https://github.com/mstksg/slicer",
+      "language": "Haskell"
+    },
+    {
+      "name": "tensor-ops",
+      "repo": "https://github.com/mstksg/tensor-ops",
+      "language": "Haskell"
+    },
+    {
+      "name": "bff-mono",
+      "repo": "https://github.com/mstksg/bff-mono",
+      "language": "Haskell"
+    },
+    {
+      "name": "neural",
+      "repo": "https://github.com/mstksg/neural",
+      "language": "Haskell"
+    },
+    {
+      "name": "cluster",
+      "repo": "https://github.com/mstksg/cluster",
+      "language": "Haskell"
+    },
+    {
+      "name": "neural-tests",
+      "repo": "https://github.com/mstksg/neural-tests",
+      "language": "Haskell"
+    },
+    {
+      "name": "como",
+      "repo": "https://github.com/mstksg/como",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghcjs-websockets",
+      "repo": "https://github.com/mstksg/ghcjs-websockets",
+      "language": "Haskell"
+    },
+    {
+      "name": "mstksg.github.io",
+      "repo": "https://github.com/mstksg/mstksg.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "dmats",
+      "repo": "https://github.com/mstksg/dmats",
+      "language": "Haskell"
+    },
+    {
+      "name": "expr-gadt",
+      "repo": "https://github.com/mstksg/expr-gadt",
+      "language": "Haskell"
+    },
+    {
+      "name": "wavelets-old",
+      "repo": "https://github.com/mstksg/wavelets-old",
+      "language": "Haskell"
+    },
+    {
+      "name": "quotiented",
+      "repo": "https://github.com/mstksg/quotiented",
+      "language": "Haskell"
+    },
+    {
+      "name": "CPSC229-03-WI16-Course-Materials",
+      "repo": "https://github.com/mstksg/CPSC229-03-WI16-Course-Materials",
+      "language": "Haskell"
+    },
+    {
+      "name": "aurum",
+      "repo": "https://github.com/mstksg/aurum",
+      "language": "Haskell"
+    },
+    {
+      "name": "hmatrix-sized",
+      "repo": "https://github.com/mstksg/hmatrix-sized",
+      "language": "Haskell"
+    },
+    {
+      "name": "auto-chatbot",
+      "repo": "https://github.com/mstksg/auto-chatbot",
+      "language": "Haskell"
+    },
+    {
+      "name": "traversablet",
+      "repo": "https://github.com/mstksg/traversablet",
+      "language": "Haskell"
+    },
+    {
+      "name": "memotag",
+      "repo": "https://github.com/mstksg/memotag",
+      "language": "Haskell"
+    },
+    {
+      "name": "auto-examples",
+      "repo": "https://github.com/mstksg/auto-examples",
+      "language": "Haskell"
+    },
+    {
+      "name": "jlebot2",
+      "repo": "https://github.com/mstksg/jlebot2",
+      "language": "Haskell"
+    }
+  ]
+}

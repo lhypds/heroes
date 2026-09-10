@@ -10,6 +10,10 @@
   "commits": 11238,
   "repos": [
     {
+      "name": "mattn.qzz.io",
+      "repo": "https://github.com/mattn/mattn.qzz.io"
+    },
+    {
       "name": "ocaml-nostr-relay",
       "repo": "https://github.com/mattn/ocaml-nostr-relay",
       "language": "OCaml"
@@ -24,10 +28,6 @@
       "repo": "https://github.com/mattn/nostr-buzzword",
       "url": "https://nostter.app/buzzword@compile-error.net",
       "language": "Go"
-    },
-    {
-      "name": "mattn.qzz.io",
-      "repo": "https://github.com/mattn/mattn.qzz.io"
     },
     {
       "name": "casanostr",

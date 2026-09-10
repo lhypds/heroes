@@ -1,0 +1,523 @@
+{
+  "handle": "slashnephy",
+  "name": "slashnephy",
+  "github": [
+    "https://github.com/slashnephy"
+  ],
+  "website": "https://blog.starry.blue/",
+  "bio": "(*˘︶˘*).｡.:*♡ Go, TypeScript, Kubernetes, Kotlin, .NET, Python",
+  "own_repos": 145,
+  "commits": 10083,
+  "apps": [],
+  "repos": [
+    {
+      "name": "arm-supplementary",
+      "repo": "https://github.com/SlashNephy/arm-supplementary",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anime-movie-ical",
+      "repo": "https://github.com/SlashNephy/anime-movie-ical",
+      "url": "https://anime-movie-ical.starrybluesky.workers.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "infrastructure",
+      "repo": "https://github.com/SlashNephy/infrastructure",
+      "language": "Go"
+    },
+    {
+      "name": "annict2anilist",
+      "repo": "https://github.com/SlashNephy/annict2anilist",
+      "language": "Go"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/SlashNephy/renovate-config",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mackerel-operator",
+      "repo": "https://github.com/SlashNephy/mackerel-operator",
+      "url": "https://slashnephy.github.io/mackerel-operator/",
+      "language": "Go"
+    },
+    {
+      "name": "cf-worker-transfer-emails-to-discord",
+      "repo": "https://github.com/SlashNephy/cf-worker-transfer-emails-to-discord",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-config",
+      "repo": "https://github.com/SlashNephy/eslint-config",
+      "url": "https://www.npmjs.com/package/@slashnephy/eslint-config",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anime-omikuji",
+      "repo": "https://github.com/SlashNephy/anime-omikuji",
+      "url": "https://anime-omikuji.pages.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "radiko-enhance-track-links-extension",
+      "repo": "https://github.com/SlashNephy/radiko-enhance-track-links-extension",
+      "language": "TypeScript"
+    },
+    {
+      "name": "annict-tracker",
+      "repo": "https://github.com/SlashNephy/annict-tracker",
+      "url": "https://annict-tracker.pages.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "userscripts",
+      "repo": "https://github.com/SlashNephy/userscripts",
+      "url": "https://greasyfork.org/ja/users/946937-asterianocturna",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-dtv",
+      "repo": "https://github.com/SlashNephy/docker-dtv",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "surasura-roppou",
+      "repo": "https://github.com/SlashNephy/surasura-roppou",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mackerel-plugin-switchbot",
+      "repo": "https://github.com/SlashNephy/mackerel-plugin-switchbot",
+      "language": "Go"
+    },
+    {
+      "name": "SlashNephy",
+      "repo": "https://github.com/SlashNephy/SlashNephy",
+      "url": "https://github.com/SlashNephy"
+    },
+    {
+      "name": "telegraf-plugins",
+      "repo": "https://github.com/SlashNephy/telegraf-plugins",
+      "language": "Go"
+    },
+    {
+      "name": "claude-code-statusline",
+      "repo": "https://github.com/SlashNephy/claude-code-statusline",
+      "language": "Go"
+    },
+    {
+      "name": "claude-code-tts",
+      "repo": "https://github.com/SlashNephy/claude-code-tts",
+      "language": "Python"
+    },
+    {
+      "name": "tokidoki-roppou",
+      "repo": "https://github.com/SlashNephy/tokidoki-roppou",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Divination",
+      "repo": "https://github.com/SlashNephy/Divination",
+      "url": "https://xiv.starry.blue/plugins/master.json",
+      "language": "C#"
+    },
+    {
+      "name": "anime-titles-map",
+      "repo": "https://github.com/SlashNephy/anime-titles-map",
+      "language": "Go"
+    },
+    {
+      "name": "OneMoreCoffee",
+      "repo": "https://github.com/SlashNephy/OneMoreCoffee",
+      "language": "Kotlin"
+    },
+    {
+      "name": "anilist-synchronizer",
+      "repo": "https://github.com/SlashNephy/anilist-synchronizer",
+      "language": "Go"
+    },
+    {
+      "name": "kuroda-bot",
+      "repo": "https://github.com/SlashNephy/kuroda-bot",
+      "language": "Go"
+    },
+    {
+      "name": "actions",
+      "repo": "https://github.com/SlashNephy/actions"
+    },
+    {
+      "name": "m2ts-calendar",
+      "repo": "https://github.com/SlashNephy/m2ts-calendar",
+      "language": "Python"
+    },
+    {
+      "name": "anime-vod-data",
+      "repo": "https://github.com/SlashNephy/anime-vod-data",
+      "language": "Go"
+    },
+    {
+      "name": "mitsubachi",
+      "repo": "https://github.com/SlashNephy/mitsubachi",
+      "language": "Kotlin"
+    },
+    {
+      "name": "TVTest-builder",
+      "repo": "https://github.com/SlashNephy/TVTest-builder",
+      "url": "https://github.com/SlashNephy/TVTest-builder/actions"
+    },
+    {
+      "name": "SimpleVoiceroid2Proxy",
+      "repo": "https://github.com/SlashNephy/SimpleVoiceroid2Proxy",
+      "language": "C#"
+    },
+    {
+      "name": "TVTestAnnictRecorder",
+      "repo": "https://github.com/SlashNephy/TVTestAnnictRecorder",
+      "url": "https://annict.jp/userland/projects/100",
+      "language": "C++"
+    },
+    {
+      "name": "auto-claimer",
+      "repo": "https://github.com/SlashNephy/auto-claimer",
+      "language": "Go"
+    },
+    {
+      "name": "ai-playground",
+      "repo": "https://github.com/SlashNephy/ai-playground"
+    },
+    {
+      "name": "dump_ch2",
+      "repo": "https://github.com/SlashNephy/dump_ch2",
+      "language": "Go"
+    },
+    {
+      "name": "claude-code-law-text-spinner",
+      "repo": "https://github.com/SlashNephy/claude-code-law-text-spinner",
+      "language": "Go"
+    },
+    {
+      "name": "divination-distrib",
+      "repo": "https://github.com/SlashNephy/divination-distrib",
+      "url": "https://xiv.starry.blue"
+    },
+    {
+      "name": "docker-comskip",
+      "repo": "https://github.com/SlashNephy/docker-comskip",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "comskip-tvtplay",
+      "repo": "https://github.com/SlashNephy/comskip-tvtplay",
+      "language": "Python"
+    },
+    {
+      "name": "mackerel-plugin-epgstation",
+      "repo": "https://github.com/SlashNephy/mackerel-plugin-epgstation",
+      "language": "Go"
+    },
+    {
+      "name": "divination-plugin-master-generator",
+      "repo": "https://github.com/SlashNephy/divination-plugin-master-generator",
+      "language": "Go"
+    },
+    {
+      "name": "m2ts-classifier",
+      "repo": "https://github.com/SlashNephy/m2ts-classifier",
+      "language": "Python"
+    },
+    {
+      "name": "tuse",
+      "repo": "https://github.com/SlashNephy/tuse",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TVTestRemoteController",
+      "repo": "https://github.com/SlashNephy/TVTestRemoteController",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stella",
+      "repo": "https://github.com/SlashNephy/stella",
+      "language": "Kotlin"
+    },
+    {
+      "name": "annict2spotify",
+      "repo": "https://github.com/SlashNephy/annict2spotify",
+      "language": "TypeScript"
+    },
+    {
+      "name": "annict-profile-card",
+      "repo": "https://github.com/SlashNephy/annict-profile-card",
+      "url": "https://apps.starry.blue/annict-profile-card",
+      "language": "Rust"
+    },
+    {
+      "name": "samekan052_bot",
+      "repo": "https://github.com/SlashNephy/samekan052_bot",
+      "language": "Python"
+    },
+    {
+      "name": "saya-definitions",
+      "repo": "https://github.com/SlashNephy/saya-definitions"
+    },
+    {
+      "name": "divination-repository",
+      "repo": "https://github.com/SlashNephy/divination-repository",
+      "language": "TypeScript"
+    },
+    {
+      "name": "releasechime",
+      "repo": "https://github.com/SlashNephy/releasechime",
+      "language": "Kotlin"
+    },
+    {
+      "name": "SoundBotReloaded",
+      "repo": "https://github.com/SlashNephy/SoundBotReloaded",
+      "language": "TypeScript"
+    },
+    {
+      "name": "htpasswd-dashboard",
+      "repo": "https://github.com/SlashNephy/htpasswd-dashboard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "DiscordEmoji2Scrapbox",
+      "repo": "https://github.com/SlashNephy/DiscordEmoji2Scrapbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rtx3080-alert",
+      "repo": "https://github.com/SlashNephy/rtx3080-alert",
+      "language": "Kotlin"
+    },
+    {
+      "name": "unveiler",
+      "repo": "https://github.com/SlashNephy/unveiler",
+      "language": "Kotlin"
+    },
+    {
+      "name": "feedchime",
+      "repo": "https://github.com/SlashNephy/feedchime",
+      "language": "Kotlin"
+    },
+    {
+      "name": "github-webhook-manager",
+      "repo": "https://github.com/SlashNephy/github-webhook-manager",
+      "language": "TypeScript"
+    },
+    {
+      "name": "types-amq",
+      "repo": "https://github.com/SlashNephy/types-amq",
+      "url": "https://www.npmjs.com/package/@slashnephy/types-amq",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-markserv",
+      "repo": "https://github.com/SlashNephy/docker-markserv",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "NiceHashQuickMiner.RichPresence",
+      "repo": "https://github.com/SlashNephy/NiceHashQuickMiner.RichPresence",
+      "language": "C#"
+    },
+    {
+      "name": "amq-media-proxy",
+      "repo": "https://github.com/SlashNephy/amq-media-proxy",
+      "language": "Go"
+    },
+    {
+      "name": "msime2mac",
+      "repo": "https://github.com/SlashNephy/msime2mac",
+      "language": "Go"
+    },
+    {
+      "name": "TVTestSDK-rs",
+      "repo": "https://github.com/SlashNephy/TVTestSDK-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-epgdump",
+      "repo": "https://github.com/SlashNephy/docker-epgdump",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-rclone-watch",
+      "repo": "https://github.com/SlashNephy/docker-rclone-watch",
+      "language": "Shell"
+    },
+    {
+      "name": "denentoshi-line",
+      "repo": "https://github.com/SlashNephy/denentoshi-line",
+      "language": "Python"
+    },
+    {
+      "name": "TVTComment-txt",
+      "repo": "https://github.com/SlashNephy/TVTComment-txt",
+      "language": "Python"
+    },
+    {
+      "name": "5ch-thread-title-collector",
+      "repo": "https://github.com/SlashNephy/5ch-thread-title-collector",
+      "language": "Python"
+    },
+    {
+      "name": "google-homed",
+      "repo": "https://github.com/SlashNephy/google-homed",
+      "language": "Python"
+    },
+    {
+      "name": "docker-tpruvot-ccminer",
+      "repo": "https://github.com/SlashNephy/docker-tpruvot-ccminer",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "prettier-config",
+      "repo": "https://github.com/SlashNephy/prettier-config",
+      "url": "https://www.npmjs.com/package/@slashnephy/prettier-config",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-net-radio-archive",
+      "repo": "https://github.com/SlashNephy/docker-net-radio-archive",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "typeshare-example",
+      "repo": "https://github.com/SlashNephy/typeshare-example",
+      "language": "Swift"
+    },
+    {
+      "name": "Teleskope",
+      "repo": "https://github.com/SlashNephy/Teleskope",
+      "language": "Kotlin"
+    },
+    {
+      "name": "docker-dtv-legacy",
+      "repo": "https://github.com/SlashNephy/docker-dtv-legacy",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Gerolt",
+      "repo": "https://github.com/SlashNephy/Gerolt",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ACT.Divination",
+      "repo": "https://github.com/SlashNephy/ACT.Divination",
+      "language": "C#"
+    },
+    {
+      "name": "epgbird",
+      "repo": "https://github.com/SlashNephy/epgbird",
+      "url": "https://twitter.com/a0b4m0c4",
+      "language": "Kotlin"
+    },
+    {
+      "name": "farewell",
+      "repo": "https://github.com/SlashNephy/farewell",
+      "language": "Kotlin"
+    },
+    {
+      "name": "setlist",
+      "repo": "https://github.com/SlashNephy/setlist",
+      "language": "Kotlin"
+    },
+    {
+      "name": "tweetchime",
+      "repo": "https://github.com/SlashNephy/tweetchime",
+      "language": "Kotlin"
+    },
+    {
+      "name": "rummager",
+      "repo": "https://github.com/SlashNephy/rummager",
+      "language": "Kotlin"
+    },
+    {
+      "name": "docker-wolweb",
+      "repo": "https://github.com/SlashNephy/docker-wolweb",
+      "url": "https://github.com/sameerdhoot/wolweb"
+    },
+    {
+      "name": "Dalamud.DivinationPluginRepo",
+      "repo": "https://github.com/SlashNephy/Dalamud.DivinationPluginRepo",
+      "language": "Python"
+    },
+    {
+      "name": "Divination.SseServer",
+      "repo": "https://github.com/SlashNephy/Divination.SseServer",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Divination.SseServer.Faloop",
+      "repo": "https://github.com/SlashNephy/Divination.SseServer.Faloop",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Divination.DiscordBot",
+      "repo": "https://github.com/SlashNephy/Divination.DiscordBot",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Divination.Template",
+      "repo": "https://github.com/SlashNephy/Divination.Template",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.InstanceIDViewer",
+      "repo": "https://github.com/SlashNephy/Divination.InstanceIDViewer",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.AetheryteLinkInChat",
+      "repo": "https://github.com/SlashNephy/Divination.AetheryteLinkInChat",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.DiscordIntegration",
+      "repo": "https://github.com/SlashNephy/Divination.DiscordIntegration",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.Debugger",
+      "repo": "https://github.com/SlashNephy/Divination.Debugger",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.TwitterIntegration",
+      "repo": "https://github.com/SlashNephy/Divination.TwitterIntegration",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.FaloopIntegration",
+      "repo": "https://github.com/SlashNephy/Divination.FaloopIntegration",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.Calculator",
+      "repo": "https://github.com/SlashNephy/Divination.Calculator",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.Server.Companion",
+      "repo": "https://github.com/SlashNephy/Divination.Server.Companion",
+      "language": "Python"
+    },
+    {
+      "name": "Dalamud.DivinationPluginRepo.DownloadCounter",
+      "repo": "https://github.com/SlashNephy/Dalamud.DivinationPluginRepo.DownloadCounter",
+      "language": "Python"
+    },
+    {
+      "name": "Dalamud.Divination.Common",
+      "repo": "https://github.com/SlashNephy/Dalamud.Divination.Common",
+      "language": "C#"
+    },
+    {
+      "name": "Divination.Voiceroid2Talker",
+      "repo": "https://github.com/SlashNephy/Divination.Voiceroid2Talker",
+      "language": "C#"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "handle": "ryoppippi",
+  "name": "ryoppippi",
+  "github": [
+    "https://github.com/ryoppippi"
+  ],
+  "website": "https://ryoppippi.com/",
+  "bio": "coder without AI",
+  "own_repos": 143,
+  "commits": 10087,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ryoppippi.com",
+      "repo": "https://github.com/ryoppippi/ryoppippi.com",
+      "url": "https://ryoppippi.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ryoppippi",
+      "repo": "https://github.com/ryoppippi/ryoppippi",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-bun",
+      "repo": "https://github.com/ryoppippi/nix-bun",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/ryoppippi/dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "sponsors",
+      "repo": "https://github.com/ryoppippi/sponsors",
+      "language": "Nix"
+    },
+    {
+      "name": "svelte-preprocess-budoux",
+      "repo": "https://github.com/ryoppippi/svelte-preprocess-budoux",
+      "url": "https://www.npmjs.com/package/svelte-preprocess-budoux",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-trpc-example",
+      "repo": "https://github.com/ryoppippi/sveltekit-trpc-example",
+      "url": "https://sveltekit-trpc-example.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-config",
+      "repo": "https://github.com/ryoppippi/eslint-config",
+      "url": "https://eslint-config.ryoppippi.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-hono-rpc",
+      "repo": "https://github.com/ryoppippi/sveltekit-hono-rpc",
+      "url": "https://sveltekit-hono-rpc-sveltekit.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pr.ryoppippi.com",
+      "repo": "https://github.com/ryoppippi/pr.ryoppippi.com",
+      "url": "https://pr.ryoppippi.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltweet",
+      "repo": "https://github.com/ryoppippi/sveltweet",
+      "url": "https://sveltweet.vercel.app",
+      "language": "Svelte"
+    },
+    {
+      "name": "nix-claude-code",
+      "repo": "https://github.com/ryoppippi/nix-claude-code",
+      "language": "Nix"
+    },
+    {
+      "name": "hhkb-equals",
+      "repo": "https://github.com/ryoppippi/hhkb-equals",
+      "url": "https://hhkb-equals.pages.dev/",
+      "language": "Svelte"
+    },
+    {
+      "name": "lint-plugin-ryoppippi",
+      "repo": "https://github.com/ryoppippi/lint-plugin-ryoppippi",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-form-examples",
+      "repo": "https://github.com/ryoppippi/sveltekit-form-examples",
+      "url": "https://sveltekit-form-examples.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unocss-preset",
+      "repo": "https://github.com/ryoppippi/unocss-preset",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tanstack-start-template",
+      "repo": "https://github.com/ryoppippi/tanstack-start-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-favicons",
+      "repo": "https://github.com/ryoppippi/vite-plugin-favicons",
+      "url": "https://ryoppippi.github.io/vite-plugin-favicons/",
+      "language": "HTML"
+    },
+    {
+      "name": "svelte-fancy-darkmode",
+      "repo": "https://github.com/ryoppippi/svelte-fancy-darkmode",
+      "url": "https://svelte-fancy-darkmode.pages.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nix-vite-plus",
+      "repo": "https://github.com/ryoppippi/nix-vite-plus",
+      "language": "Nix"
+    },
+    {
+      "name": "chatgpt-heatmap",
+      "repo": "https://github.com/ryoppippi/chatgpt-heatmap",
+      "url": "https://chatgpt-heatmap.ryoppippi.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gh-nippou",
+      "repo": "https://github.com/ryoppippi/gh-nippou",
+      "language": "Go"
+    },
+    {
+      "name": "hono-unknownutil-validator",
+      "repo": "https://github.com/ryoppippi/hono-unknownutil-validator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-dog-tinder",
+      "repo": "https://github.com/ryoppippi/sveltekit-dog-tinder",
+      "url": "https://sveltekit-dog-tinder.ryoppippi.com",
+      "language": "Svelte"
+    },
+    {
+      "name": "svelte-preprocess-import-css",
+      "repo": "https://github.com/ryoppippi/svelte-preprocess-import-css",
+      "url": "https://jsr.io/@ryoppippi/svelte-preprocess-import-css",
+      "language": "TypeScript"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/ryoppippi/renovate-config"
+    },
+    {
+      "name": "pkg-to-jsr",
+      "repo": "https://github.com/ryoppippi/pkg-to-jsr",
+      "url": "https://www.npmjs.com/package/pkg-to-jsr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "is-iibun",
+      "repo": "https://github.com/ryoppippi/is-iibun",
+      "url": "https://www.npmjs.com/package/is-iibun",
+      "language": "TypeScript"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/ryoppippi/talks",
+      "url": "https://ryoppippi.com/talks",
+      "language": "Vue"
+    },
+    {
+      "name": "es-only",
+      "repo": "https://github.com/ryoppippi/es-only",
+      "url": "https://www.npmjs.com/package/es-only",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vite-plugin-cloudflare-workers-env-shims",
+      "repo": "https://github.com/ryoppippi/vite-plugin-cloudflare-workers-env-shims",
+      "url": "https://www.npmjs.com/package/vite-plugin-cloudflare-workers-env-shims",
+      "language": "TypeScript"
+    },
+    {
+      "name": "limo",
+      "repo": "https://github.com/ryoppippi/limo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deepwiki-badge-maker",
+      "repo": "https://github.com/ryoppippi/deepwiki-badge-maker",
+      "url": "https://deepwiki.ryoppippi.com/",
+      "language": "Svelte"
+    },
+    {
+      "name": "openapi-with-hono-and-swift",
+      "repo": "https://github.com/ryoppippi/openapi-with-hono-and-swift",
+      "language": "Swift"
+    },
+    {
+      "name": "sveltekit-firebase-ssr",
+      "repo": "https://github.com/ryoppippi/sveltekit-firebase-ssr",
+      "url": "https://sveltekit-firebase-ssr-beta.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "str-fns",
+      "repo": "https://github.com/ryoppippi/str-fns",
+      "url": "https://jsr.io/@ryoppippi/str-fns",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tgrab",
+      "repo": "https://github.com/ryoppippi/tgrab",
+      "language": "Rust"
+    },
+    {
+      "name": "gemistat",
+      "repo": "https://github.com/ryoppippi/gemistat",
+      "url": "https://www.npmjs.com/package/gemistat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nix-secure-enclave-key",
+      "repo": "https://github.com/ryoppippi/nix-secure-enclave-key",
+      "language": "Nushell"
+    },
+    {
+      "name": "bad-apple",
+      "repo": "https://github.com/ryoppippi/bad-apple",
+      "url": "https://youtu.be/XezoLvr1dX0",
+      "language": "TypeScript"
+    },
+    {
+      "name": "askl",
+      "repo": "https://github.com/ryoppippi/askl",
+      "url": "https://www.npmjs.com/package/oxlint-plugin-agent-skills",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zigcv",
+      "repo": "https://github.com/ryoppippi/zigcv",
+      "url": "https://ryoppippi.github.io/zigcv",
+      "language": "Zig"
+    },
+    {
+      "name": "deno-jsr-template",
+      "repo": "https://github.com/ryoppippi/deno-jsr-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nextjs-dog-tinder",
+      "repo": "https://github.com/ryoppippi/nextjs-dog-tinder",
+      "url": "https://nextjs-dog-tinder.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mirror-jsr-to-npm",
+      "repo": "https://github.com/ryoppippi/mirror-jsr-to-npm",
+      "url": "https://jsr.io/@ryoppippi/mirror-jsr-to-npm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-cmigemo",
+      "repo": "https://github.com/ryoppippi/bun-cmigemo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "my-github-star-watcher",
+      "repo": "https://github.com/ryoppippi/my-github-star-watcher",
+      "language": "TypeScript"
+    },
+    {
+      "name": "denocli",
+      "repo": "https://github.com/ryoppippi/denocli",
+      "url": "https://jsr.io/@cl1/example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-plugin-isolated-decl",
+      "repo": "https://github.com/ryoppippi/bun-plugin-isolated-decl",
+      "url": "https://www.npmjs.com/package/bun-plugin-isolated-decl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rustlings",
+      "repo": "https://github.com/ryoppippi/rustlings",
+      "language": "Rust"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/ryoppippi/skills"
+    },
+    {
+      "name": "gray-matter-es",
+      "repo": "https://github.com/ryoppippi/gray-matter-es",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kanata-darwin-nix",
+      "repo": "https://github.com/ryoppippi/kanata-darwin-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "zigchat",
+      "repo": "https://github.com/ryoppippi/zigchat",
+      "language": "Zig"
+    },
+    {
+      "name": "github-stars-this-year",
+      "repo": "https://github.com/ryoppippi/github-stars-this-year",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cursor-tab-pachinko",
+      "repo": "https://github.com/ryoppippi/cursor-tab-pachinko",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yumemi-passport-frontend",
+      "repo": "https://github.com/ryoppippi/yumemi-passport-frontend",
+      "url": "https://yumemi-passport-frontend-bice.vercel.app",
+      "language": "CSS"
+    },
+    {
+      "name": "cloudflare-redirects-nix",
+      "repo": "https://github.com/ryoppippi/cloudflare-redirects-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "nvim-pnpm-catalog-lens",
+      "repo": "https://github.com/ryoppippi/nvim-pnpm-catalog-lens",
+      "language": "Lua"
+    },
+    {
+      "name": "sveltekit-meeting-notes-with-chatGPT",
+      "repo": "https://github.com/ryoppippi/sveltekit-meeting-notes-with-chatGPT",
+      "language": "Svelte"
+    },
+    {
+      "name": "gunshi-docs-skills-benchmark",
+      "repo": "https://github.com/ryoppippi/gunshi-docs-skills-benchmark",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fish-na",
+      "repo": "https://github.com/ryoppippi/fish-na",
+      "language": "Shell"
+    },
+    {
+      "name": "flake-templates",
+      "repo": "https://github.com/ryoppippi/flake-templates"
+    },
+    {
+      "name": "claude-skills-hono",
+      "repo": "https://github.com/ryoppippi/claude-skills-hono"
+    },
+    {
+      "name": "Ray-Tracing-in-One-Weekend.zig",
+      "repo": "https://github.com/ryoppippi/Ray-Tracing-in-One-Weekend.zig",
+      "url": "https://raytracing.github.io",
+      "language": "Zig"
+    },
+    {
+      "name": "nvim-in-the-loop",
+      "repo": "https://github.com/ryoppippi/nvim-in-the-loop",
+      "url": "https://deepwiki.com/ryoppippi/nvim-in-the-loop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-socket-scanner",
+      "repo": "https://github.com/ryoppippi/bun-socket-scanner",
+      "language": "TypeScript"
+    },
+    {
+      "name": "curxy",
+      "repo": "https://github.com/ryoppippi/curxy",
+      "url": "https://jsr.io/@ryoppippi/curxy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cpp-zig-build-system-demo",
+      "repo": "https://github.com/ryoppippi/cpp-zig-build-system-demo",
+      "language": "Zig"
+    },
+    {
+      "name": "github-actions-python-shell-demo",
+      "repo": "https://github.com/ryoppippi/github-actions-python-shell-demo"
+    },
+    {
+      "name": "rustlings-old",
+      "repo": "https://github.com/ryoppippi/rustlings-old",
+      "language": "Rust"
+    },
+    {
+      "name": "svelte-html-event",
+      "repo": "https://github.com/ryoppippi/svelte-html-event",
+      "url": "https://www.npmjs.com/package/svelte-html-event"
+    },
+    {
+      "name": "rye-github-actions-example",
+      "repo": "https://github.com/ryoppippi/rye-github-actions-example",
+      "language": "Python"
+    },
+    {
+      "name": "cf-worker-cron",
+      "repo": "https://github.com/ryoppippi/cf-worker-cron",
+      "language": "TypeScript"
+    },
+    {
+      "name": "garph-sveltekit",
+      "repo": "https://github.com/ryoppippi/garph-sveltekit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sveltekit-twind-melt-ui-example",
+      "repo": "https://github.com/ryoppippi/sveltekit-twind-melt-ui-example",
+      "language": "Svelte"
+    },
+    {
+      "name": "bun-isolated-prepare-script-bug",
+      "repo": "https://github.com/ryoppippi/bun-isolated-prepare-script-bug"
+    },
+    {
+      "name": "neko-fuck",
+      "repo": "https://github.com/ryoppippi/neko-fuck",
+      "url": "https://neko-fuck.pages.dev/",
+      "language": "Svelte"
+    },
+    {
+      "name": "re-exported-namespace-bundle-issue",
+      "repo": "https://github.com/ryoppippi/re-exported-namespace-bundle-issue"
+    },
+    {
+      "name": "remark-magic-link",
+      "repo": "https://github.com/ryoppippi/remark-magic-link"
+    },
+    {
+      "name": "unplugin-typia",
+      "repo": "https://github.com/ryoppippi/unplugin-typia",
+      "url": "https://www.npmjs.com/package/@ryoppippi/unplugin-typia",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lightpanda-npm",
+      "repo": "https://github.com/ryoppippi/lightpanda-npm",
+      "url": "https://www.npmjs.com/package/@ryoppippi/lightpanda-npm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bunpare",
+      "repo": "https://github.com/ryoppippi/bunpare",
+      "url": "https://www.npmjs.com/package/bunpare",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hono-mcp-stateless-http",
+      "repo": "https://github.com/ryoppippi/hono-mcp-stateless-http"
+    },
+    {
+      "name": "ryoppippi.nvim",
+      "repo": "https://github.com/ryoppippi/ryoppippi.nvim"
+    },
+    {
+      "name": "bun-typia-cli-template",
+      "repo": "https://github.com/ryoppippi/bun-typia-cli-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openai-with-typia",
+      "repo": "https://github.com/ryoppippi/openai-with-typia",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-typia-template",
+      "repo": "https://github.com/ryoppippi/bun-typia-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typiautil",
+      "repo": "https://github.com/ryoppippi/typiautil",
+      "language": "TypeScript"
+    },
+    {
+      "name": "drange-es",
+      "repo": "https://github.com/ryoppippi/drange-es"
+    },
+    {
+      "name": "randexp-es",
+      "repo": "https://github.com/ryoppippi/randexp-es"
+    },
+    {
+      "name": "leetcode",
+      "repo": "https://github.com/ryoppippi/leetcode",
+      "url": "https://leetcode.com/u/ryoppippi/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "my-personal-snippets",
+      "repo": "https://github.com/ryoppippi/my-personal-snippets"
+    },
+    {
+      "name": "slidev-transformer-budoux",
+      "repo": "https://github.com/ryoppippi/slidev-transformer-budoux",
+      "url": "https://jsr.io/@ryoppippi/slidev-transformer-budoux",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-bun-lock",
+      "repo": "https://github.com/ryoppippi/vim-bun-lock",
+      "language": "Vim Script"
+    },
+    {
+      "name": "svelte-preprocess-css-mods",
+      "repo": "https://github.com/ryoppippi/svelte-preprocess-css-mods",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-typia-jsonup-experiments",
+      "repo": "https://github.com/ryoppippi/bun-typia-jsonup-experiments",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-cord",
+      "repo": "https://github.com/ryoppippi/vim-cord",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-ray-so",
+      "repo": "https://github.com/ryoppippi/vim-ray-so",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-svelte-inspector",
+      "repo": "https://github.com/ryoppippi/vim-svelte-inspector",
+      "language": "Lua"
+    }
+  ]
+}

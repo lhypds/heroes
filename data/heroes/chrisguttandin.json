@@ -9,6 +9,11 @@
   "commits": 305510,
   "repos": [
     {
+      "name": "rtc-on-2025",
+      "repo": "https://github.com/chrisguttandin/rtc-on-2025",
+      "language": "TypeScript"
+    },
+    {
       "name": "timed-audio-buffer-source-node-audio-worklet",
       "repo": "https://github.com/chrisguttandin/timed-audio-buffer-source-node-audio-worklet",
       "language": "JavaScript"
@@ -27,11 +32,6 @@
       "name": "timing-object",
       "repo": "https://github.com/chrisguttandin/timing-object",
       "language": "JavaScript"
-    },
-    {
-      "name": "rtc-on-2025",
-      "repo": "https://github.com/chrisguttandin/rtc-on-2025",
-      "language": "TypeScript"
     },
     {
       "name": "audio-fingerprinting-file-reader",

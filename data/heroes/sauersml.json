@@ -9,11 +9,6 @@
   "apps": [],
   "repos": [
     {
-      "name": "ferromic",
-      "repo": "https://github.com/SauersML/ferromic",
-      "language": "Python"
-    },
-    {
       "name": "gam",
       "repo": "https://github.com/SauersML/gam",
       "language": "Rust"
@@ -22,6 +17,11 @@
       "name": "group-approximation",
       "repo": "https://github.com/SauersML/group-approximation",
       "language": "Lean"
+    },
+    {
+      "name": "ferromic",
+      "repo": "https://github.com/SauersML/ferromic",
+      "language": "Python"
     },
     {
       "name": "gnomon",

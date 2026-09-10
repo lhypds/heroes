@@ -1,0 +1,518 @@
+{
+  "handle": "raine",
+  "name": "Raine Virta",
+  "github": [
+    "https://github.com/raine"
+  ],
+  "website": "https://raine.dev/",
+  "bio": "Full-stack developer exploring Go & Rust | Previously Reaktor, now freelance",
+  "own_repos": 153,
+  "commits": 10632,
+  "apps": [],
+  "repos": [
+    {
+      "name": "homebrew-aven",
+      "repo": "https://github.com/raine/homebrew-aven",
+      "language": "Ruby"
+    },
+    {
+      "name": "aven",
+      "repo": "https://github.com/raine/aven",
+      "url": "https://aven.raine.dev/",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-flea",
+      "repo": "https://github.com/raine/homebrew-flea",
+      "language": "Ruby"
+    },
+    {
+      "name": "workmux",
+      "repo": "https://github.com/raine/workmux",
+      "language": "Rust"
+    },
+    {
+      "name": "flea",
+      "repo": "https://github.com/raine/flea",
+      "url": "https://github.com/raine/flea",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-claude-code-proxy",
+      "repo": "https://github.com/raine/homebrew-claude-code-proxy",
+      "language": "Ruby"
+    },
+    {
+      "name": "claude-code-proxy",
+      "repo": "https://github.com/raine/claude-code-proxy",
+      "url": "https://claude-code-proxy.raine.dev/",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-anki-llm",
+      "repo": "https://github.com/raine/homebrew-anki-llm",
+      "language": "Ruby"
+    },
+    {
+      "name": "anki-llm",
+      "repo": "https://github.com/raine/anki-llm",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-workmux",
+      "repo": "https://github.com/raine/homebrew-workmux",
+      "language": "Ruby"
+    },
+    {
+      "name": "holvi-agent-bridge",
+      "repo": "https://github.com/raine/holvi-agent-bridge",
+      "language": "Rust"
+    },
+    {
+      "name": "pi-suba",
+      "repo": "https://github.com/raine/pi-suba",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-consult-llm",
+      "repo": "https://github.com/raine/homebrew-consult-llm",
+      "language": "Ruby"
+    },
+    {
+      "name": "consult-llm",
+      "repo": "https://github.com/raine/consult-llm",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-agent-usage",
+      "repo": "https://github.com/raine/homebrew-agent-usage",
+      "language": "Ruby"
+    },
+    {
+      "name": "tmux-agent-usage",
+      "repo": "https://github.com/raine/tmux-agent-usage",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-history",
+      "repo": "https://github.com/raine/claude-history",
+      "language": "Rust"
+    },
+    {
+      "name": "tgreddit",
+      "repo": "https://github.com/raine/tgreddit",
+      "language": "Rust"
+    },
+    {
+      "name": "Lolgato",
+      "repo": "https://github.com/raine/Lolgato",
+      "language": "Swift"
+    },
+    {
+      "name": "holvi-session-keeper",
+      "repo": "https://github.com/raine/holvi-session-keeper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "better-pi-rewind",
+      "repo": "https://github.com/raine/better-pi-rewind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "steer",
+      "repo": "https://github.com/raine/steer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-lemonaid-agent-bridge",
+      "repo": "https://github.com/raine/homebrew-lemonaid-agent-bridge",
+      "language": "Ruby"
+    },
+    {
+      "name": "lemonaid-agent-bridge",
+      "repo": "https://github.com/raine/lemonaid-agent-bridge",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-claude-history",
+      "repo": "https://github.com/raine/homebrew-claude-history",
+      "language": "Ruby"
+    },
+    {
+      "name": "tmux-file-picker",
+      "repo": "https://github.com/raine/tmux-file-picker",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-holvi-agent-bridge",
+      "repo": "https://github.com/raine/homebrew-holvi-agent-bridge",
+      "language": "Ruby"
+    },
+    {
+      "name": "intagent",
+      "repo": "https://github.com/raine/intagent",
+      "language": "Rust"
+    },
+    {
+      "name": "checkle",
+      "repo": "https://github.com/raine/checkle",
+      "language": "Rust"
+    },
+    {
+      "name": "TreadmillTrace",
+      "repo": "https://github.com/raine/TreadmillTrace",
+      "language": "Swift"
+    },
+    {
+      "name": "sideagent",
+      "repo": "https://github.com/raine/sideagent",
+      "language": "Rust"
+    },
+    {
+      "name": "git-surgeon",
+      "repo": "https://github.com/raine/git-surgeon",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-sideagent",
+      "repo": "https://github.com/raine/homebrew-sideagent",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-tmux-snaglord",
+      "repo": "https://github.com/raine/homebrew-tmux-snaglord",
+      "language": "Ruby"
+    },
+    {
+      "name": "tmux-snaglord",
+      "repo": "https://github.com/raine/tmux-snaglord",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-git-surgeon",
+      "repo": "https://github.com/raine/homebrew-git-surgeon",
+      "language": "Ruby"
+    },
+    {
+      "name": "invoicegen",
+      "repo": "https://github.com/raine/invoicegen",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-invoicegen",
+      "repo": "https://github.com/raine/homebrew-invoicegen",
+      "language": "Ruby"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/raine/skills",
+      "language": "Shell"
+    },
+    {
+      "name": "rust-release-tools",
+      "repo": "https://github.com/raine/rust-release-tools",
+      "language": "Python"
+    },
+    {
+      "name": "telegram-tori-bot",
+      "repo": "https://github.com/raine/telegram-tori-bot",
+      "language": "Go"
+    },
+    {
+      "name": "tmux-tools",
+      "repo": "https://github.com/raine/tmux-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "tmux-bro",
+      "repo": "https://github.com/raine/tmux-bro",
+      "language": "Python"
+    },
+    {
+      "name": "tmux-inspect",
+      "repo": "https://github.com/raine/tmux-inspect",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-restack",
+      "repo": "https://github.com/raine/homebrew-restack",
+      "language": "Ruby"
+    },
+    {
+      "name": "restack",
+      "repo": "https://github.com/raine/restack",
+      "language": "Rust"
+    },
+    {
+      "name": "raine.dev",
+      "repo": "https://github.com/raine/raine.dev"
+    },
+    {
+      "name": "WalkingMate",
+      "repo": "https://github.com/raine/WalkingMate",
+      "url": "https://walkingmate.zendit.fi"
+    },
+    {
+      "name": "kube-setup",
+      "repo": "https://github.com/raine/kube-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "testonly.nvim",
+      "repo": "https://github.com/raine/testonly.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "climbsheet",
+      "repo": "https://github.com/raine/climbsheet",
+      "language": "Rust"
+    },
+    {
+      "name": "fillaripolleri",
+      "repo": "https://github.com/raine/fillaripolleri",
+      "url": "https://fillaripolleri.raine.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ghtool",
+      "repo": "https://github.com/raine/ghtool",
+      "language": "Rust"
+    },
+    {
+      "name": "ghtool-test-repo",
+      "repo": "https://github.com/raine/ghtool-test-repo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bullmq-redis-econnreset",
+      "repo": "https://github.com/raine/bullmq-redis-econnreset",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lasertag-cal",
+      "repo": "https://github.com/raine/lasertag-cal",
+      "language": "HTML"
+    },
+    {
+      "name": "ruoste_bot",
+      "repo": "https://github.com/raine/ruoste_bot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mz-cal",
+      "repo": "https://github.com/raine/mz-cal",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aslak",
+      "repo": "https://github.com/raine/aslak",
+      "language": "JavaScript"
+    },
+    {
+      "name": "advent-of-code",
+      "repo": "https://github.com/raine/advent-of-code",
+      "language": "Rust"
+    },
+    {
+      "name": "json-notify",
+      "repo": "https://github.com/raine/json-notify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ramda-cli",
+      "repo": "https://github.com/raine/ramda-cli",
+      "language": "LiveScript"
+    },
+    {
+      "name": "typera-test",
+      "repo": "https://github.com/raine/typera-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "meas",
+      "repo": "https://github.com/raine/meas",
+      "language": "Rust"
+    },
+    {
+      "name": "ytdlwatch",
+      "repo": "https://github.com/raine/ytdlwatch",
+      "language": "Go"
+    },
+    {
+      "name": "json-watch",
+      "repo": "https://github.com/raine/json-watch",
+      "language": "Go"
+    },
+    {
+      "name": "pr-buddy",
+      "repo": "https://github.com/raine/pr-buddy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tarkov-macros",
+      "repo": "https://github.com/raine/tarkov-macros",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "pg-explain",
+      "repo": "https://github.com/raine/pg-explain",
+      "language": "Shell"
+    },
+    {
+      "name": "markdown-sed",
+      "repo": "https://github.com/raine/markdown-sed",
+      "language": "Shell"
+    },
+    {
+      "name": "runtime-npm-install",
+      "repo": "https://github.com/raine/runtime-npm-install",
+      "language": "JavaScript"
+    },
+    {
+      "name": "data-sharing-poc",
+      "repo": "https://github.com/raine/data-sharing-poc",
+      "language": "PLpgSQL"
+    },
+    {
+      "name": "ramda-json-docs-generator",
+      "repo": "https://github.com/raine/ramda-json-docs-generator",
+      "language": "LiveScript"
+    },
+    {
+      "name": "treis",
+      "repo": "https://github.com/raine/treis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hook-stream",
+      "repo": "https://github.com/raine/hook-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "npm-install-to",
+      "repo": "https://github.com/raine/npm-install-to",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-commit-auto-message",
+      "repo": "https://github.com/raine/git-commit-auto-message",
+      "language": "Shell"
+    },
+    {
+      "name": "taim",
+      "repo": "https://github.com/raine/taim",
+      "language": "JavaScript"
+    },
+    {
+      "name": "safari-stream-http-bug",
+      "repo": "https://github.com/raine/safari-stream-http-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parcel-jsvm",
+      "repo": "https://github.com/raine/parcel-jsvm",
+      "language": "HTML"
+    },
+    {
+      "name": "parse-tori-datetime",
+      "repo": "https://github.com/raine/parse-tori-datetime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "display-ads",
+      "repo": "https://github.com/raine/display-ads",
+      "language": "Shell"
+    },
+    {
+      "name": "livescript-parcel",
+      "repo": "https://github.com/raine/livescript-parcel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "html-table-cli",
+      "repo": "https://github.com/raine/html-table-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ramda-json-docs",
+      "repo": "https://github.com/raine/ramda-json-docs",
+      "language": "Shell"
+    },
+    {
+      "name": "clinical-trials-pg-restore",
+      "repo": "https://github.com/raine/clinical-trials-pg-restore",
+      "language": "Shell"
+    },
+    {
+      "name": "ramda-destruct",
+      "repo": "https://github.com/raine/ramda-destruct",
+      "url": "https://www.npmjs.com/package/ramda-destruct",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alfred-ramda-workflow",
+      "repo": "https://github.com/raine/alfred-ramda-workflow",
+      "language": "Python"
+    },
+    {
+      "name": "canyon-factory-outlet",
+      "repo": "https://github.com/raine/canyon-factory-outlet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parse-gym-log",
+      "repo": "https://github.com/raine/parse-gym-log",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ram-bot",
+      "repo": "https://github.com/raine/ram-bot",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "hubot-ramda-docs",
+      "repo": "https://github.com/raine/hubot-ramda-docs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "std-esm-nodegit",
+      "repo": "https://github.com/raine/std-esm-nodegit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pegjs-playground",
+      "repo": "https://github.com/raine/pegjs-playground",
+      "language": "JavaScript"
+    },
+    {
+      "name": "memrise-forgive-typos",
+      "repo": "https://github.com/raine/memrise-forgive-typos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "esm-babel-test",
+      "repo": "https://github.com/raine/esm-babel-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "raine.github.com",
+      "repo": "https://github.com/raine/raine.github.com",
+      "language": "HTML"
+    },
+    {
+      "name": "site",
+      "repo": "https://github.com/raine/site",
+      "language": "JavaScript"
+    },
+    {
+      "name": "twitch-cli",
+      "repo": "https://github.com/raine/twitch-cli",
+      "language": "Shell"
+    },
+    {
+      "name": "hubot-eval-js",
+      "repo": "https://github.com/raine/hubot-eval-js",
+      "language": "JavaScript"
+    }
+  ]
+}

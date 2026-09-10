@@ -1,0 +1,509 @@
+{
+  "handle": "ich777",
+  "name": "Christoph",
+  "github": [
+    "https://github.com/ich777"
+  ],
+  "website": "https://mos-official.net/",
+  "own_repos": 197,
+  "commits": 31046,
+  "apps": [],
+  "repos": [
+    {
+      "name": "versions",
+      "repo": "https://github.com/ich777/versions"
+    },
+    {
+      "name": "unraid-ugreenleds-driver",
+      "repo": "https://github.com/ich777/unraid-ugreenleds-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "miniassistant",
+      "repo": "https://github.com/ich777/miniassistant",
+      "language": "Python"
+    },
+    {
+      "name": "docker-beamng-mp-server",
+      "repo": "https://github.com/ich777/docker-beamng-mp-server",
+      "language": "Go"
+    },
+    {
+      "name": "unraid-hailort-driver",
+      "repo": "https://github.com/ich777/unraid-hailort-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-qnapec",
+      "repo": "https://github.com/ich777/unraid-qnapec",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-hpsahba",
+      "repo": "https://github.com/ich777/unraid-hpsahba",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-amd-vendor-reset",
+      "repo": "https://github.com/ich777/unraid-amd-vendor-reset",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-corefreq",
+      "repo": "https://github.com/ich777/unraid-corefreq",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-it87-driver",
+      "repo": "https://github.com/ich777/unraid-it87-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-memryx-driver",
+      "repo": "https://github.com/ich777/unraid-memryx-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-nct6687-driver",
+      "repo": "https://github.com/ich777/unraid-nct6687-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid_kernel",
+      "repo": "https://github.com/ich777/unraid_kernel",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-amdgpu-top",
+      "repo": "https://github.com/ich777/mos-amdgpu-top",
+      "language": "Vue"
+    },
+    {
+      "name": "unraid-sound-driver",
+      "repo": "https://github.com/ich777/unraid-sound-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-prometheus_msi_afterburner_exporter",
+      "repo": "https://github.com/ich777/unraid-prometheus_msi_afterburner_exporter",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-prometheus_fritzbox_exporter",
+      "repo": "https://github.com/ich777/unraid-prometheus_fritzbox_exporter",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-prometheus_wireguard_exporter",
+      "repo": "https://github.com/ich777/unraid-prometheus_wireguard_exporter",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-prometheus_nvidia_smi_exporter",
+      "repo": "https://github.com/ich777/unraid-prometheus_nvidia_smi_exporter",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-prometheus_pihole_exporter",
+      "repo": "https://github.com/ich777/unraid-prometheus_pihole_exporter",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-prometheus_smartctl_exporter",
+      "repo": "https://github.com/ich777/unraid-prometheus_smartctl_exporter",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-prometheus_node_exporter",
+      "repo": "https://github.com/ich777/unraid-prometheus_node_exporter",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-sabnzbd",
+      "repo": "https://github.com/ich777/docker-sabnzbd",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-intel-gpu-top",
+      "repo": "https://github.com/ich777/mos-intel-gpu-top",
+      "language": "Vue"
+    },
+    {
+      "name": "docker-proxy-server",
+      "repo": "https://github.com/ich777/docker-proxy-server",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-nzbhydra2",
+      "repo": "https://github.com/ich777/docker-nzbhydra2",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-templates",
+      "repo": "https://github.com/ich777/mos-templates"
+    },
+    {
+      "name": "mos-helm",
+      "repo": "https://github.com/ich777/mos-helm",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-kubernetes",
+      "repo": "https://github.com/ich777/mos-kubernetes",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-pathfix",
+      "repo": "https://github.com/ich777/mos-pathfix",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mos-sriov-driver",
+      "repo": "https://github.com/ich777/mos-sriov-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-nonraid-driver",
+      "repo": "https://github.com/ich777/mos-nonraid-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-openzfs-driver",
+      "repo": "https://github.com/ich777/mos-openzfs-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-it87-driver",
+      "repo": "https://github.com/ich777/mos-it87-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-dvb-drivers",
+      "repo": "https://github.com/ich777/mos-dvb-drivers",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-nvidia-driver",
+      "repo": "https://github.com/ich777/mos-nvidia-driver",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-coral-driver",
+      "repo": "https://github.com/ich777/mos-coral-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-headscale-admin",
+      "repo": "https://github.com/ich777/mos-headscale-admin",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-llama-swap",
+      "repo": "https://github.com/ich777/mos-llama-swap",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-opencode",
+      "repo": "https://github.com/ich777/mos-opencode",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-bluez",
+      "repo": "https://github.com/ich777/mos-bluez",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-powertop",
+      "repo": "https://github.com/ich777/mos-powertop",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-tmux",
+      "repo": "https://github.com/ich777/mos-tmux",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-backup",
+      "repo": "https://github.com/ich777/mos-backup",
+      "language": "Vue"
+    },
+    {
+      "name": "docker-templates",
+      "repo": "https://github.com/ich777/docker-templates",
+      "url": "https://unraid.net/"
+    },
+    {
+      "name": "mos-rclone",
+      "repo": "https://github.com/ich777/mos-rclone",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-vim",
+      "repo": "https://github.com/ich777/mos-vim",
+      "language": "Vue"
+    },
+    {
+      "name": "mos-syncthing",
+      "repo": "https://github.com/ich777/mos-syncthing",
+      "language": "Vue"
+    },
+    {
+      "name": "unraid-plugin_update_helper",
+      "repo": "https://github.com/ich777/unraid-plugin_update_helper"
+    },
+    {
+      "name": "unraid-nvtop",
+      "repo": "https://github.com/ich777/unraid-nvtop",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-lxc-plugin",
+      "repo": "https://github.com/ich777/unraid-lxc-plugin",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-lunamultiplayer-ksp",
+      "repo": "https://github.com/ich777/docker-lunamultiplayer-ksp",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-terraria-server",
+      "repo": "https://github.com/ich777/docker-terraria-server",
+      "url": "https://terraria.org/",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-vintage-story",
+      "repo": "https://github.com/ich777/docker-vintage-story",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-zandronum",
+      "repo": "https://github.com/ich777/docker-zandronum",
+      "language": "Shell"
+    },
+    {
+      "name": "enpass-unraid",
+      "repo": "https://github.com/ich777/enpass-unraid"
+    },
+    {
+      "name": "docker-portfolio-performance",
+      "repo": "https://github.com/ich777/docker-portfolio-performance",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-krusader",
+      "repo": "https://github.com/ich777/docker-krusader",
+      "language": "Shell"
+    },
+    {
+      "name": "mos-docker-shim",
+      "repo": "https://github.com/ich777/mos-docker-shim",
+      "language": "JavaScript"
+    },
+    {
+      "name": "intel-gpu-top",
+      "repo": "https://github.com/ich777/intel-gpu-top",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-lancache-prefill",
+      "repo": "https://github.com/ich777/docker-lancache-prefill",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-electrum",
+      "repo": "https://github.com/ich777/docker-electrum",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-mycrypto",
+      "repo": "https://github.com/ich777/docker-mycrypto",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-readarr",
+      "repo": "https://github.com/ich777/docker-readarr",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-fluttercoin",
+      "repo": "https://github.com/ich777/docker-fluttercoin",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-jenkins",
+      "repo": "https://github.com/ich777/docker-jenkins",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-ombi",
+      "repo": "https://github.com/ich777/docker-ombi",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-radarr",
+      "repo": "https://github.com/ich777/docker-radarr",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-sonarr",
+      "repo": "https://github.com/ich777/docker-sonarr",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-ashmem-driver",
+      "repo": "https://github.com/ich777/unraid-ashmem-driver"
+    },
+    {
+      "name": "docker-minecraft-basic-server",
+      "repo": "https://github.com/ich777/docker-minecraft-basic-server",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-lidarr",
+      "repo": "https://github.com/ich777/docker-lidarr",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-mono-baseimage",
+      "repo": "https://github.com/ich777/docker-mono-baseimage",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-winehq-novnc-baseimage",
+      "repo": "https://github.com/ich777/docker-winehq-novnc-baseimage",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-winehq-baseimage",
+      "repo": "https://github.com/ich777/docker-winehq-baseimage",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-novnc-baseimage",
+      "repo": "https://github.com/ich777/docker-novnc-baseimage",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-debian-baseimage",
+      "repo": "https://github.com/ich777/docker-debian-baseimage",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-minecraft-bedrock",
+      "repo": "https://github.com/ich777/docker-minecraft-bedrock",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-thelounge",
+      "repo": "https://github.com/ich777/docker-thelounge",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-znc",
+      "repo": "https://github.com/ich777/docker-znc",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-anope",
+      "repo": "https://github.com/ich777/docker-anope",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-inspircd",
+      "repo": "https://github.com/ich777/docker-inspircd",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-headscale-admin",
+      "repo": "https://github.com/ich777/unraid-headscale-admin",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-tailscale-cli",
+      "repo": "https://github.com/ich777/unraid-tailscale-cli",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-jdownloader2",
+      "repo": "https://github.com/ich777/docker-jdownloader2",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-debian-bookworm",
+      "repo": "https://github.com/ich777/docker-debian-bookworm",
+      "language": "Shell"
+    },
+    {
+      "name": "iscsi-initiator",
+      "repo": "https://github.com/ich777/iscsi-initiator",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-nut-actions",
+      "repo": "https://github.com/ich777/unraid-nut-actions",
+      "language": "Shell"
+    },
+    {
+      "name": "edk2-unraid",
+      "repo": "https://github.com/ich777/edk2-unraid",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-openrgb-patch",
+      "repo": "https://github.com/ich777/unraid-openrgb-patch",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-mft-tools",
+      "repo": "https://github.com/ich777/unraid-mft-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-firefox",
+      "repo": "https://github.com/ich777/docker-firefox",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-coral-driver",
+      "repo": "https://github.com/ich777/unraid-coral-driver",
+      "language": "PHP"
+    },
+    {
+      "name": "unraid-dvb-driver",
+      "repo": "https://github.com/ich777/unraid-dvb-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-nvidia-driver",
+      "repo": "https://github.com/ich777/unraid-nvidia-driver",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-scrubber",
+      "repo": "https://github.com/ich777/unraid-scrubber",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-megasync",
+      "repo": "https://github.com/ich777/docker-megasync",
+      "language": "Shell"
+    },
+    {
+      "name": "un-get",
+      "repo": "https://github.com/ich777/un-get",
+      "language": "Shell"
+    },
+    {
+      "name": "unraid-aquacomputer-d5next",
+      "repo": "https://github.com/ich777/unraid-aquacomputer-d5next",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-luckybackup",
+      "repo": "https://github.com/ich777/docker-luckybackup",
+      "language": "Shell"
+    }
+  ]
+}

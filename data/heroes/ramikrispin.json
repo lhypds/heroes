@@ -10,6 +10,12 @@
   "commits": 69788,
   "repos": [
     {
+      "name": "eia-poc",
+      "repo": "https://github.com/RamiKrispin/eia-poc",
+      "url": "https://ramikrispin.github.io/eia-poc/",
+      "language": "Jupyter Notebook"
+    },
+    {
       "name": "ai-dev-2024-ml-workshop",
       "repo": "https://github.com/RamiKrispin/ai-dev-2024-ml-workshop",
       "url": "https://ramikrispin.github.io/ai-dev-2024-ml-workshop/",
@@ -20,12 +26,6 @@
       "repo": "https://github.com/RamiKrispin/useR2024-pipeline-workshop",
       "url": "https://ramikrispin.github.io/useR2024-pipeline-workshop/",
       "language": "HTML"
-    },
-    {
-      "name": "eia-poc",
-      "repo": "https://github.com/RamiKrispin/eia-poc",
-      "url": "https://ramikrispin.github.io/eia-poc/",
-      "language": "Jupyter Notebook"
     },
     {
       "name": "rag-with-docker",

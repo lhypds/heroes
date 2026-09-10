@@ -1,0 +1,511 @@
+{
+  "handle": "mudler",
+  "name": "Ettore Di Giacinto",
+  "github": [
+    "https://github.com/mudler"
+  ],
+  "website": "https://mudler.pm/",
+  "bio": "Local AI is the way. ex-SUSE/Rancher, ex-gentoo, ex-Sabayon, @mocaccinoOS",
+  "own_repos": 140,
+  "commits": 12214,
+  "apps": [],
+  "repos": [
+    {
+      "name": "LocalAI",
+      "repo": "https://github.com/mudler/LocalAI",
+      "url": "https://localai.io",
+      "language": "Go"
+    },
+    {
+      "name": "vllm.cpp",
+      "repo": "https://github.com/mudler/vllm.cpp",
+      "language": "C++"
+    },
+    {
+      "name": "edgevpn",
+      "repo": "https://github.com/mudler/edgevpn",
+      "url": "https://mudler.github.io/edgevpn",
+      "language": "Go"
+    },
+    {
+      "name": "yip",
+      "repo": "https://github.com/mudler/yip",
+      "language": "Go"
+    },
+    {
+      "name": "resource-controller",
+      "repo": "https://github.com/mudler/resource-controller",
+      "language": "Go"
+    },
+    {
+      "name": "parakeet.cpp",
+      "repo": "https://github.com/mudler/parakeet.cpp",
+      "language": "C++"
+    },
+    {
+      "name": "dockerfiles",
+      "repo": "https://github.com/mudler/dockerfiles",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "LocalAGI",
+      "repo": "https://github.com/mudler/LocalAGI",
+      "language": "Go"
+    },
+    {
+      "name": "MCPs",
+      "repo": "https://github.com/mudler/MCPs",
+      "language": "Go"
+    },
+    {
+      "name": "go-processmanager",
+      "repo": "https://github.com/mudler/go-processmanager",
+      "language": "Go"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/mudler/blog",
+      "url": "https://mudler.pm",
+      "language": "CSS"
+    },
+    {
+      "name": "nib",
+      "repo": "https://github.com/mudler/nib",
+      "language": "Go"
+    },
+    {
+      "name": "magpie-tts.cpp",
+      "repo": "https://github.com/mudler/magpie-tts.cpp",
+      "language": "C++"
+    },
+    {
+      "name": "luet",
+      "repo": "https://github.com/mudler/luet",
+      "url": "https://luet.io",
+      "language": "Go"
+    },
+    {
+      "name": "locate-anything.cpp",
+      "repo": "https://github.com/mudler/locate-anything.cpp",
+      "language": "C++"
+    },
+    {
+      "name": "luet-k8s",
+      "repo": "https://github.com/mudler/luet-k8s",
+      "language": "Go"
+    },
+    {
+      "name": "cogito",
+      "repo": "https://github.com/mudler/cogito",
+      "language": "Go"
+    },
+    {
+      "name": "LocalRecall",
+      "repo": "https://github.com/mudler/LocalRecall",
+      "language": "Go"
+    },
+    {
+      "name": "moss-tts.cpp",
+      "repo": "https://github.com/mudler/moss-tts.cpp",
+      "language": "C++"
+    },
+    {
+      "name": "face-detect.cpp",
+      "repo": "https://github.com/mudler/face-detect.cpp",
+      "language": "C++"
+    },
+    {
+      "name": "skillserver",
+      "repo": "https://github.com/mudler/skillserver",
+      "language": "Go"
+    },
+    {
+      "name": "entities",
+      "repo": "https://github.com/mudler/entities",
+      "language": "Go"
+    },
+    {
+      "name": "universal-ml-intern",
+      "repo": "https://github.com/mudler/universal-ml-intern",
+      "language": "Python"
+    },
+    {
+      "name": "reports.localai.io",
+      "repo": "https://github.com/mudler/reports.localai.io",
+      "url": "https://reports.localai.io"
+    },
+    {
+      "name": "voxtral-tts.c",
+      "repo": "https://github.com/mudler/voxtral-tts.c",
+      "language": "C"
+    },
+    {
+      "name": "xlog",
+      "repo": "https://github.com/mudler/xlog",
+      "language": "Go"
+    },
+    {
+      "name": "agenthub",
+      "repo": "https://github.com/mudler/agenthub",
+      "url": "https://agenthub.localai.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pytorch-l4t",
+      "repo": "https://github.com/mudler/pytorch-l4t",
+      "language": "Shell"
+    },
+    {
+      "name": "LocalAI-examples",
+      "repo": "https://github.com/mudler/LocalAI-examples",
+      "language": "Bru"
+    },
+    {
+      "name": "localai-github-action",
+      "repo": "https://github.com/mudler/localai-github-action"
+    },
+    {
+      "name": "Keygeist",
+      "repo": "https://github.com/mudler/Keygeist",
+      "language": "Go"
+    },
+    {
+      "name": "docker-companion",
+      "repo": "https://github.com/mudler/docker-companion",
+      "language": "Go"
+    },
+    {
+      "name": "go-libp2p-simple-raft",
+      "repo": "https://github.com/mudler/go-libp2p-simple-raft",
+      "language": "Go"
+    },
+    {
+      "name": "go-piper",
+      "repo": "https://github.com/mudler/go-piper",
+      "language": "C++"
+    },
+    {
+      "name": "go-stable-diffusion",
+      "repo": "https://github.com/mudler/go-stable-diffusion",
+      "language": "C++"
+    },
+    {
+      "name": "cos-demo-labs",
+      "repo": "https://github.com/mudler/cos-demo-labs"
+    },
+    {
+      "name": "remote-jupyter",
+      "repo": "https://github.com/mudler/remote-jupyter",
+      "language": "Shell"
+    },
+    {
+      "name": "go-ggllm.cpp",
+      "repo": "https://github.com/mudler/go-ggllm.cpp",
+      "language": "C++"
+    },
+    {
+      "name": "go-pluggable",
+      "repo": "https://github.com/mudler/go-pluggable",
+      "language": "Go"
+    },
+    {
+      "name": "kubecf-docs",
+      "repo": "https://github.com/mudler/kubecf-docs",
+      "url": "https://mudler.github.io/kubecf-docs/",
+      "language": "HTML"
+    },
+    {
+      "name": "k8s-resource-scheduler",
+      "repo": "https://github.com/mudler/k8s-resource-scheduler",
+      "language": "Go"
+    },
+    {
+      "name": "poco-github-action",
+      "repo": "https://github.com/mudler/poco-github-action",
+      "language": "Go"
+    },
+    {
+      "name": "poco",
+      "repo": "https://github.com/mudler/poco",
+      "language": "Go"
+    },
+    {
+      "name": "edgevpn-gui",
+      "repo": "https://github.com/mudler/edgevpn-gui",
+      "language": "Go"
+    },
+    {
+      "name": "gh-own-k8s",
+      "repo": "https://github.com/mudler/gh-own-k8s",
+      "language": "Shell"
+    },
+    {
+      "name": "golauncher",
+      "repo": "https://github.com/mudler/golauncher",
+      "language": "Go"
+    },
+    {
+      "name": "cos-embedded-images",
+      "repo": "https://github.com/mudler/cos-embedded-images",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "linuxbundles",
+      "repo": "https://github.com/mudler/linuxbundles",
+      "url": "https://mudler.github.io/linuxbundles/",
+      "language": "Shell"
+    },
+    {
+      "name": "gh-k8s",
+      "repo": "https://github.com/mudler/gh-k8s",
+      "language": "Shell"
+    },
+    {
+      "name": "go-isterminal",
+      "repo": "https://github.com/mudler/go-isterminal",
+      "language": "Go"
+    },
+    {
+      "name": "android-builds-recipes",
+      "repo": "https://github.com/mudler/android-builds-recipes",
+      "language": "Shell"
+    },
+    {
+      "name": "luet-autobumper",
+      "repo": "https://github.com/mudler/luet-autobumper",
+      "language": "Go"
+    },
+    {
+      "name": "go-findpeaks",
+      "repo": "https://github.com/mudler/go-findpeaks",
+      "language": "Go"
+    },
+    {
+      "name": "go-kdetect",
+      "repo": "https://github.com/mudler/go-kdetect",
+      "language": "Go"
+    },
+    {
+      "name": "fleet-sample",
+      "repo": "https://github.com/mudler/fleet-sample",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "eirini-ingress",
+      "repo": "https://github.com/mudler/eirini-ingress",
+      "language": "Go"
+    },
+    {
+      "name": "img-controller",
+      "repo": "https://github.com/mudler/img-controller",
+      "language": "Go"
+    },
+    {
+      "name": "kubecfctl",
+      "repo": "https://github.com/mudler/kubecfctl",
+      "language": "Go"
+    },
+    {
+      "name": "charty",
+      "repo": "https://github.com/mudler/charty",
+      "language": "Go"
+    },
+    {
+      "name": "eirini-secscanner",
+      "repo": "https://github.com/mudler/eirini-secscanner",
+      "language": "Go"
+    },
+    {
+      "name": "go-mirror-redirector",
+      "repo": "https://github.com/mudler/go-mirror-redirector",
+      "language": "Go"
+    },
+    {
+      "name": "kubecf-charty",
+      "repo": "https://github.com/mudler/kubecf-charty",
+      "language": "Shell"
+    },
+    {
+      "name": "gluedd-cli",
+      "repo": "https://github.com/mudler/gluedd-cli",
+      "language": "Go"
+    },
+    {
+      "name": "cf-benchmark-tools",
+      "repo": "https://github.com/mudler/cf-benchmark-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "cobra-extensions",
+      "repo": "https://github.com/mudler/cobra-extensions",
+      "language": "Go"
+    },
+    {
+      "name": "ekcp",
+      "repo": "https://github.com/mudler/ekcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wireguard-linux-compat",
+      "repo": "https://github.com/mudler/wireguard-linux-compat",
+      "language": "C"
+    },
+    {
+      "name": "git-encfs",
+      "repo": "https://github.com/mudler/git-encfs",
+      "language": "Shell"
+    },
+    {
+      "name": "ekcp-heat-templates",
+      "repo": "https://github.com/mudler/ekcp-heat-templates"
+    },
+    {
+      "name": "concourse-worker",
+      "repo": "https://github.com/mudler/concourse-worker"
+    },
+    {
+      "name": "gluedd",
+      "repo": "https://github.com/mudler/gluedd",
+      "language": "Go"
+    },
+    {
+      "name": "eirinix-sample-extension",
+      "repo": "https://github.com/mudler/eirinix-sample-extension",
+      "language": "Go"
+    },
+    {
+      "name": "cf-obs-stacks",
+      "repo": "https://github.com/mudler/cf-obs-stacks",
+      "language": "Shell"
+    },
+    {
+      "name": "openqa_testloader_workshop",
+      "repo": "https://github.com/mudler/openqa_testloader_workshop",
+      "language": "Perl"
+    },
+    {
+      "name": "devbot",
+      "repo": "https://github.com/mudler/devbot",
+      "language": "Go"
+    },
+    {
+      "name": "anagent",
+      "repo": "https://github.com/mudler/anagent",
+      "language": "Go"
+    },
+    {
+      "name": "openqa-scheduler-go",
+      "repo": "https://github.com/mudler/openqa-scheduler-go",
+      "language": "Go"
+    },
+    {
+      "name": "perl_training_websocket_chat",
+      "repo": "https://github.com/mudler/perl_training_websocket_chat",
+      "language": "Perl"
+    },
+    {
+      "name": "perl_training",
+      "repo": "https://github.com/mudler/perl_training",
+      "language": "TeX"
+    },
+    {
+      "name": "Mottainai",
+      "repo": "https://github.com/mudler/Mottainai"
+    },
+    {
+      "name": "openqa-dockerfiles",
+      "repo": "https://github.com/mudler/openqa-dockerfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "perl_training_application",
+      "repo": "https://github.com/mudler/perl_training_application",
+      "language": "Perl"
+    },
+    {
+      "name": "Algorithm-Sat-Backtracking",
+      "repo": "https://github.com/mudler/Algorithm-Sat-Backtracking",
+      "language": "Perl"
+    },
+    {
+      "name": "Mojolicious-Plugin-Angular-MaterialDesign",
+      "repo": "https://github.com/mudler/Mojolicious-Plugin-Angular-MaterialDesign",
+      "language": "Perl"
+    },
+    {
+      "name": "go-udp-proxy",
+      "repo": "https://github.com/mudler/go-udp-proxy",
+      "language": "Go"
+    },
+    {
+      "name": "openqa-devscripts",
+      "repo": "https://github.com/mudler/openqa-devscripts",
+      "language": "Shell"
+    },
+    {
+      "name": "gentoo-genkernel-merge",
+      "repo": "https://github.com/mudler/gentoo-genkernel-merge"
+    },
+    {
+      "name": "sabayon-builder-noentrypoint-amd64",
+      "repo": "https://github.com/mudler/sabayon-builder-noentrypoint-amd64"
+    },
+    {
+      "name": "go.cobe",
+      "repo": "https://github.com/mudler/go.cobe",
+      "language": "Go"
+    },
+    {
+      "name": "calamares-openrc-modules",
+      "repo": "https://github.com/mudler/calamares-openrc-modules",
+      "language": "Python"
+    },
+    {
+      "name": "sabayon-website-theme-occasional",
+      "repo": "https://github.com/mudler/sabayon-website-theme-occasional"
+    },
+    {
+      "name": "gitinsight-docker",
+      "repo": "https://github.com/mudler/gitinsight-docker"
+    },
+    {
+      "name": "WebApp-GitInsight",
+      "repo": "https://github.com/mudler/WebApp-GitInsight",
+      "language": "CSS"
+    },
+    {
+      "name": "vagrant-dockerbuilder",
+      "repo": "https://github.com/mudler/vagrant-dockerbuilder",
+      "language": "Shell"
+    },
+    {
+      "name": "Mojolicious-Plugin-Materialize",
+      "repo": "https://github.com/mudler/Mojolicious-Plugin-Materialize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sark-go",
+      "repo": "https://github.com/mudler/sark-go"
+    },
+    {
+      "name": "sabayon-bosons",
+      "repo": "https://github.com/mudler/sabayon-bosons",
+      "language": "Shell"
+    },
+    {
+      "name": "foobot",
+      "repo": "https://github.com/mudler/foobot",
+      "language": "Go"
+    },
+    {
+      "name": "p5-Deeme-Backend-Meerkat",
+      "repo": "https://github.com/mudler/p5-Deeme-Backend-Meerkat",
+      "language": "Perl"
+    },
+    {
+      "name": "http",
+      "repo": "https://github.com/mudler/http",
+      "language": "Perl"
+    }
+  ]
+}

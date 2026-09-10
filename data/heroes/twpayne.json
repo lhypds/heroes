@@ -9,6 +9,12 @@
   "commits": 11607,
   "repos": [
     {
+      "name": "dotfiles",
+      "repo": "https://github.com/twpayne/dotfiles",
+      "url": "https://chezmoi.io",
+      "language": "Go Template"
+    },
+    {
       "name": "chezmoi",
       "repo": "https://github.com/twpayne/chezmoi",
       "url": "https://www.chezmoi.io/",
@@ -62,12 +68,6 @@
       "name": "find-duplicates",
       "repo": "https://github.com/twpayne/find-duplicates",
       "language": "Go"
-    },
-    {
-      "name": "dotfiles",
-      "repo": "https://github.com/twpayne/dotfiles",
-      "url": "https://chezmoi.io",
-      "language": "Go Template"
     },
     {
       "name": "go-xctrack",

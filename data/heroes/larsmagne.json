@@ -10,6 +10,11 @@
   "apps": [],
   "repos": [
     {
+      "name": "bookiez.el",
+      "repo": "https://github.com/larsmagne/bookiez.el",
+      "language": "Emacs Lisp"
+    },
+    {
       "name": "spllng.el",
       "repo": "https://github.com/larsmagne/spllng.el",
       "language": "Emacs Lisp"
@@ -22,11 +27,6 @@
     {
       "name": "gcal.el",
       "repo": "https://github.com/larsmagne/gcal.el",
-      "language": "Emacs Lisp"
-    },
-    {
-      "name": "bookiez.el",
-      "repo": "https://github.com/larsmagne/bookiez.el",
       "language": "Emacs Lisp"
     },
     {

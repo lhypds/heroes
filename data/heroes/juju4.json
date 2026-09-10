@@ -1,0 +1,507 @@
+{
+  "handle": "juju4",
+  "name": "Julien",
+  "github": [
+    "https://github.com/juju4"
+  ],
+  "own_repos": 185,
+  "commits": 17918,
+  "apps": [],
+  "repos": [
+    {
+      "name": "pySigma-backend-openobserve",
+      "repo": "https://github.com/juju4/pySigma-backend-openobserve",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-ci-settings",
+      "repo": "https://github.com/juju4/ansible-ci-settings"
+    },
+    {
+      "name": "ansible-adduser",
+      "repo": "https://github.com/juju4/ansible-adduser",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible_velociraptor",
+      "repo": "https://github.com/juju4/ansible_velociraptor",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-openobserve",
+      "repo": "https://github.com/juju4/ansible-openobserve",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-MISP",
+      "repo": "https://github.com/juju4/ansible-MISP",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-harden-sysctl",
+      "repo": "https://github.com/juju4/ansible-harden-sysctl",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-pandora",
+      "repo": "https://github.com/juju4/ansible-pandora",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-kunai",
+      "repo": "https://github.com/juju4/ansible-kunai",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-opkssh",
+      "repo": "https://github.com/juju4/ansible-opkssh",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-pocketid",
+      "repo": "https://github.com/juju4/ansible-pocketid",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-newspipe",
+      "repo": "https://github.com/juju4/ansible-newspipe",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-semaphoreui",
+      "repo": "https://github.com/juju4/ansible-semaphoreui",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-openwebui",
+      "repo": "https://github.com/juju4/ansible-openwebui",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-ollama",
+      "repo": "https://github.com/juju4/ansible-ollama",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-zeek",
+      "repo": "https://github.com/juju4/ansible-zeek",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-ripe-atlas-swprobe",
+      "repo": "https://github.com/juju4/ansible-ripe-atlas-swprobe",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-arkime",
+      "repo": "https://github.com/juju4/ansible-arkime",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-tailon",
+      "repo": "https://github.com/juju4/ansible-tailon",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-redhat-epel",
+      "repo": "https://github.com/juju4/ansible-redhat-epel",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-caldera",
+      "repo": "https://github.com/juju4/ansible-caldera",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-harden",
+      "repo": "https://github.com/juju4/ansible-harden",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-auditd",
+      "repo": "https://github.com/juju4/ansible-auditd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-falco",
+      "repo": "https://github.com/juju4/ansible-falco",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-ipv6",
+      "repo": "https://github.com/juju4/ansible-ipv6",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-squid",
+      "repo": "https://github.com/juju4/ansible-squid",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-gpgkey_generate",
+      "repo": "https://github.com/juju4/ansible-gpgkey_generate",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-otelcol",
+      "repo": "https://github.com/juju4/ansible-otelcol",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-lookyloo",
+      "repo": "https://github.com/juju4/ansible-lookyloo",
+      "language": "Jinja"
+    },
+    {
+      "name": "velociraptor-offline-collections",
+      "repo": "https://github.com/juju4/velociraptor-offline-collections",
+      "language": "Python"
+    },
+    {
+      "name": "sentinelmde-scripts",
+      "repo": "https://github.com/juju4/sentinelmde-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-fact",
+      "repo": "https://github.com/juju4/ansible-fact",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-up1",
+      "repo": "https://github.com/juju4/ansible-up1",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-macos-apps-install",
+      "repo": "https://github.com/juju4/ansible-macos-apps-install",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-tinyproxy",
+      "repo": "https://github.com/juju4/ansible-tinyproxy",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-harden-darwin",
+      "repo": "https://github.com/juju4/ansible-harden-darwin",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-gift",
+      "repo": "https://github.com/juju4/ansible-gift",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-ipt-netflow",
+      "repo": "https://github.com/juju4/ansible-ipt-netflow",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-snmpd",
+      "repo": "https://github.com/juju4/ansible-snmpd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-faup",
+      "repo": "https://github.com/juju4/ansible-faup",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-fprobe",
+      "repo": "https://github.com/juju4/ansible-fprobe",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-harden-apache",
+      "repo": "https://github.com/juju4/ansible-harden-apache",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-harden-ima",
+      "repo": "https://github.com/juju4/ansible-harden-ima",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-mde",
+      "repo": "https://github.com/juju4/ansible-mde",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-lxdconfigure",
+      "repo": "https://github.com/juju4/ansible-lxdconfigure",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-polarproxy",
+      "repo": "https://github.com/juju4/ansible-polarproxy",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-sysmon",
+      "repo": "https://github.com/juju4/ansible-sysmon",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-harden-systemd",
+      "repo": "https://github.com/juju4/ansible-harden-systemd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-upgrade-pkgs-gem",
+      "repo": "https://github.com/juju4/ansible-upgrade-pkgs-gem",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-remnux",
+      "repo": "https://github.com/juju4/ansible-remnux",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-volatility",
+      "repo": "https://github.com/juju4/ansible-volatility",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-macos-yubikey",
+      "repo": "https://github.com/juju4/ansible-macos-yubikey",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-powershell",
+      "repo": "https://github.com/juju4/ansible-powershell",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-memcapture",
+      "repo": "https://github.com/juju4/ansible-memcapture",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-kvrocks",
+      "repo": "https://github.com/juju4/ansible-kvrocks",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-floss",
+      "repo": "https://github.com/juju4/ansible-floss",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-swap",
+      "repo": "https://github.com/juju4/ansible-swap",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-harden-windows",
+      "repo": "https://github.com/juju4/ansible-harden-windows",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-ntpclient",
+      "repo": "https://github.com/juju4/ansible-ntpclient",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-apt-cacher-ng-client",
+      "repo": "https://github.com/juju4/ansible-apt-cacher-ng-client",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-upgrade-pkgs-pip",
+      "repo": "https://github.com/juju4/ansible-upgrade-pkgs-pip",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-golang",
+      "repo": "https://github.com/juju4/ansible-golang",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-cribl",
+      "repo": "https://github.com/juju4/ansible-cribl",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-ipsumdump",
+      "repo": "https://github.com/juju4/ansible-ipsumdump",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-upgrade-pkgs",
+      "repo": "https://github.com/juju4/ansible-upgrade-pkgs",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-orchestrator",
+      "repo": "https://github.com/juju4/ansible-orchestrator",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-firefox-config",
+      "repo": "https://github.com/juju4/ansible-firefox-config",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-vivisect",
+      "repo": "https://github.com/juju4/ansible-vivisect",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-siftrem",
+      "repo": "https://github.com/juju4/ansible-siftrem",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-harden-mailserver",
+      "repo": "https://github.com/juju4/ansible-harden-mailserver",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-smarthostclient",
+      "repo": "https://github.com/juju4/ansible-smarthostclient",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-sift",
+      "repo": "https://github.com/juju4/ansible-sift",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-xrdp",
+      "repo": "https://github.com/juju4/ansible-xrdp",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-harden-nginx",
+      "repo": "https://github.com/juju4/ansible-harden-nginx",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-dnscrypt-proxy",
+      "repo": "https://github.com/juju4/ansible-dnscrypt-proxy",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-sysdigcapture",
+      "repo": "https://github.com/juju4/ansible-sysdigcapture",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-bind",
+      "repo": "https://github.com/juju4/ansible-bind",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-chrome-config",
+      "repo": "https://github.com/juju4/ansible-chrome-config",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-macos-sleepwatcher",
+      "repo": "https://github.com/juju4/ansible-macos-sleepwatcher",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-syslogclient",
+      "repo": "https://github.com/juju4/ansible-syslogclient",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-openvpnclient",
+      "repo": "https://github.com/juju4/ansible-openvpnclient",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-brim",
+      "repo": "https://github.com/juju4/ansible-brim"
+    },
+    {
+      "name": "ansible-hashlookupserver",
+      "repo": "https://github.com/juju4/ansible-hashlookupserver",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-tlsh",
+      "repo": "https://github.com/juju4/ansible-tlsh",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-lxd",
+      "repo": "https://github.com/juju4/ansible-lxd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-ail-framework",
+      "repo": "https://github.com/juju4/ansible-ail-framework",
+      "language": "Jinja"
+    },
+    {
+      "name": "security-recon-survey-docs",
+      "repo": "https://github.com/juju4/security-recon-survey-docs"
+    },
+    {
+      "name": "ansible-spiderfoot",
+      "repo": "https://github.com/juju4/ansible-spiderfoot",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-pystemon",
+      "repo": "https://github.com/juju4/ansible-pystemon",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-harden-nanokvm",
+      "repo": "https://github.com/juju4/ansible-harden-nanokvm",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-cartography",
+      "repo": "https://github.com/juju4/ansible-cartography",
+      "language": "Jinja"
+    },
+    {
+      "name": "pyinfra-harden-nanokvm",
+      "repo": "https://github.com/juju4/pyinfra-harden-nanokvm",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-win-msoffice",
+      "repo": "https://github.com/juju4/ansible-win-msoffice",
+      "language": "PowerShell"
+    },
+    {
+      "name": "siem-cheatsheets",
+      "repo": "https://github.com/juju4/siem-cheatsheets"
+    },
+    {
+      "name": "azure-export",
+      "repo": "https://github.com/juju4/azure-export",
+      "language": "PowerShell"
+    },
+    {
+      "name": "azure-testing",
+      "repo": "https://github.com/juju4/azure-testing",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-starbase",
+      "repo": "https://github.com/juju4/ansible-starbase",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible_velociraptor-fork",
+      "repo": "https://github.com/juju4/ansible_velociraptor-fork",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-sleuthkit",
+      "repo": "https://github.com/juju4/ansible-sleuthkit"
+    },
+    {
+      "name": "ansible-bricksllm",
+      "repo": "https://github.com/juju4/ansible-bricksllm",
+      "language": "Jinja"
+    }
+  ]
+}

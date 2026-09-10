@@ -1,0 +1,516 @@
+{
+  "handle": "dustin",
+  "name": "Dustin Sallings",
+  "github": [
+    "https://github.com/dustin"
+  ],
+  "own_repos": 198,
+  "commits": 12261,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/dustin/dotfiles",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dwp",
+      "repo": "https://github.com/dustin/dwp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pailolo",
+      "repo": "https://github.com/dustin/pailolo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gopro",
+      "repo": "https://github.com/dustin/gopro",
+      "language": "Haskell"
+    },
+    {
+      "name": "gitmirror",
+      "repo": "https://github.com/dustin/gitmirror",
+      "language": "Go"
+    },
+    {
+      "name": "logmerge",
+      "repo": "https://github.com/dustin/logmerge",
+      "language": "C++"
+    },
+    {
+      "name": "zig-aoc",
+      "repo": "https://github.com/dustin/zig-aoc",
+      "language": "Zig"
+    },
+    {
+      "name": "mqttd",
+      "repo": "https://github.com/dustin/mqttd",
+      "language": "Haskell"
+    },
+    {
+      "name": "s3up",
+      "repo": "https://github.com/dustin/s3up",
+      "language": "Haskell"
+    },
+    {
+      "name": "httputil",
+      "repo": "https://github.com/dustin/httputil",
+      "language": "Go"
+    },
+    {
+      "name": "tesladb",
+      "repo": "https://github.com/dustin/tesladb",
+      "language": "Haskell"
+    },
+    {
+      "name": "mqtt-bridge",
+      "repo": "https://github.com/dustin/mqtt-bridge",
+      "language": "Haskell"
+    },
+    {
+      "name": "graphex",
+      "repo": "https://github.com/dustin/graphex",
+      "language": "Haskell"
+    },
+    {
+      "name": "mqtt-hs",
+      "repo": "https://github.com/dustin/mqtt-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "unixtime",
+      "repo": "https://github.com/dustin/unixtime",
+      "language": "Zig"
+    },
+    {
+      "name": "go-humanize",
+      "repo": "https://github.com/dustin/go-humanize",
+      "url": "https://pkg.go.dev/github.com/dustin/go-humanize",
+      "language": "Go"
+    },
+    {
+      "name": "zig-gpmf",
+      "repo": "https://github.com/dustin/zig-gpmf",
+      "language": "Zig"
+    },
+    {
+      "name": "waitforsocket",
+      "repo": "https://github.com/dustin/waitforsocket",
+      "language": "Nix"
+    },
+    {
+      "name": "snippets",
+      "repo": "https://github.com/dustin/snippets",
+      "language": "C"
+    },
+    {
+      "name": "influxer",
+      "repo": "https://github.com/dustin/influxer",
+      "language": "Haskell"
+    },
+    {
+      "name": "aoc",
+      "repo": "https://github.com/dustin/aoc",
+      "language": "Haskell"
+    },
+    {
+      "name": "net-mqtt-rpc",
+      "repo": "https://github.com/dustin/net-mqtt-rpc",
+      "language": "Haskell"
+    },
+    {
+      "name": "gopro-plus",
+      "repo": "https://github.com/dustin/gopro-plus",
+      "language": "Haskell"
+    },
+    {
+      "name": "net-mqtt-lens",
+      "repo": "https://github.com/dustin/net-mqtt-lens",
+      "language": "Haskell"
+    },
+    {
+      "name": "papertrails",
+      "repo": "https://github.com/dustin/papertrails",
+      "language": "Nix"
+    },
+    {
+      "name": "on1namer",
+      "repo": "https://github.com/dustin/on1namer",
+      "language": "Zig"
+    },
+    {
+      "name": "babysitter",
+      "repo": "https://github.com/dustin/babysitter",
+      "language": "Haskell"
+    },
+    {
+      "name": "tesla",
+      "repo": "https://github.com/dustin/tesla",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpmf",
+      "repo": "https://github.com/dustin/gpmf",
+      "language": "Haskell"
+    },
+    {
+      "name": "pagerduty-hs",
+      "repo": "https://github.com/dustin/pagerduty-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "undup",
+      "repo": "https://github.com/dustin/undup",
+      "language": "Zig"
+    },
+    {
+      "name": "outfluxer",
+      "repo": "https://github.com/dustin/outfluxer",
+      "language": "Nix"
+    },
+    {
+      "name": "go-nmea",
+      "repo": "https://github.com/dustin/go-nmea",
+      "language": "Go"
+    },
+    {
+      "name": "humanFormat",
+      "repo": "https://github.com/dustin/humanFormat",
+      "url": "https://cran.r-project.org/web/packages/humanFormat/index.html",
+      "language": "R"
+    },
+    {
+      "name": "go-wikiparse",
+      "repo": "https://github.com/dustin/go-wikiparse",
+      "language": "Go"
+    },
+    {
+      "name": "go-broadcast",
+      "repo": "https://github.com/dustin/go-broadcast",
+      "language": "Go"
+    },
+    {
+      "name": "go-nntp",
+      "repo": "https://github.com/dustin/go-nntp",
+      "language": "Go"
+    },
+    {
+      "name": "pushover-hs",
+      "repo": "https://github.com/dustin/pushover-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "dustin.sallings.org",
+      "repo": "https://github.com/dustin/dustin.sallings.org",
+      "language": "HTML"
+    },
+    {
+      "name": "java-memcached-client",
+      "repo": "https://github.com/dustin/java-memcached-client",
+      "language": "Java"
+    },
+    {
+      "name": "logic-pwm",
+      "repo": "https://github.com/dustin/logic-pwm",
+      "language": "C++"
+    },
+    {
+      "name": "nntpsucka",
+      "repo": "https://github.com/dustin/nntpsucka",
+      "language": "Python"
+    },
+    {
+      "name": "erl-conc",
+      "repo": "https://github.com/dustin/erl-conc",
+      "language": "Erlang"
+    },
+    {
+      "name": "icebox",
+      "repo": "https://github.com/dustin/icebox",
+      "language": "Haskell"
+    },
+    {
+      "name": "aoc2015",
+      "repo": "https://github.com/dustin/aoc2015",
+      "language": "Haskell"
+    },
+    {
+      "name": "aoc2019",
+      "repo": "https://github.com/dustin/aoc2019",
+      "language": "Haskell"
+    },
+    {
+      "name": "aoc2018",
+      "repo": "https://github.com/dustin/aoc2018",
+      "language": "Haskell"
+    },
+    {
+      "name": "aoc2020",
+      "repo": "https://github.com/dustin/aoc2020",
+      "language": "Haskell"
+    },
+    {
+      "name": "csv2influx",
+      "repo": "https://github.com/dustin/csv2influx",
+      "language": "Haskell"
+    },
+    {
+      "name": "elock",
+      "repo": "https://github.com/dustin/elock",
+      "language": "Erlang"
+    },
+    {
+      "name": "go-aprs",
+      "repo": "https://github.com/dustin/go-aprs",
+      "language": "Go"
+    },
+    {
+      "name": "labrea",
+      "repo": "https://github.com/dustin/labrea",
+      "url": "https://github.com/dustin/labrea/wiki",
+      "language": "C"
+    },
+    {
+      "name": "heatmap",
+      "repo": "https://github.com/dustin/heatmap",
+      "language": "Haskell"
+    },
+    {
+      "name": "haprs",
+      "repo": "https://github.com/dustin/haprs",
+      "language": "Haskell"
+    },
+    {
+      "name": "trash",
+      "repo": "https://github.com/dustin/trash",
+      "language": "Objective-C"
+    },
+    {
+      "name": "owntracker",
+      "repo": "https://github.com/dustin/owntracker",
+      "language": "Haskell"
+    },
+    {
+      "name": "oura",
+      "repo": "https://github.com/dustin/oura",
+      "language": "Haskell"
+    },
+    {
+      "name": "bindir",
+      "repo": "https://github.com/dustin/bindir",
+      "language": "Python"
+    },
+    {
+      "name": "go-heatmap",
+      "repo": "https://github.com/dustin/go-heatmap",
+      "language": "Go"
+    },
+    {
+      "name": "gadzooks",
+      "repo": "https://github.com/dustin/gadzooks",
+      "language": "Go"
+    },
+    {
+      "name": "thermqtt",
+      "repo": "https://github.com/dustin/thermqtt",
+      "language": "Haskell"
+    },
+    {
+      "name": "go-coap",
+      "repo": "https://github.com/dustin/go-coap",
+      "language": "Go"
+    },
+    {
+      "name": "gomemcached",
+      "repo": "https://github.com/dustin/gomemcached",
+      "language": "Go"
+    },
+    {
+      "name": "wwcp",
+      "repo": "https://github.com/dustin/wwcp",
+      "language": "Go"
+    },
+    {
+      "name": "OpenTXLog",
+      "repo": "https://github.com/dustin/OpenTXLog",
+      "language": "Haskell"
+    },
+    {
+      "name": "powerlab",
+      "repo": "https://github.com/dustin/powerlab",
+      "language": "Go"
+    },
+    {
+      "name": "pgedata",
+      "repo": "https://github.com/dustin/pgedata",
+      "language": "Haskell"
+    },
+    {
+      "name": "numberpuzzle",
+      "repo": "https://github.com/dustin/numberpuzzle",
+      "language": "Haskell"
+    },
+    {
+      "name": "eaglelog",
+      "repo": "https://github.com/dustin/eaglelog",
+      "language": "Haskell"
+    },
+    {
+      "name": "beanstalk-tools",
+      "repo": "https://github.com/dustin/beanstalk-tools",
+      "language": "Ruby"
+    },
+    {
+      "name": "arduino-cron",
+      "repo": "https://github.com/dustin/arduino-cron",
+      "language": "C++"
+    },
+    {
+      "name": "westspy",
+      "repo": "https://github.com/dustin/westspy",
+      "language": "Go"
+    },
+    {
+      "name": "reye",
+      "repo": "https://github.com/dustin/reye",
+      "language": "Go"
+    },
+    {
+      "name": "wipi",
+      "repo": "https://github.com/dustin/wipi",
+      "language": "C++"
+    },
+    {
+      "name": "sallingshome",
+      "repo": "https://github.com/dustin/sallingshome",
+      "language": "Go"
+    },
+    {
+      "name": "go-probably",
+      "repo": "https://github.com/dustin/go-probably",
+      "language": "Go"
+    },
+    {
+      "name": "nmahs",
+      "repo": "https://github.com/dustin/nmahs",
+      "language": "Haskell"
+    },
+    {
+      "name": "taranis",
+      "repo": "https://github.com/dustin/taranis",
+      "language": "Lua"
+    },
+    {
+      "name": "octoprint",
+      "repo": "https://github.com/dustin/octoprint",
+      "url": "https://godoc.org/github.com/dustin/octoprint",
+      "language": "Go"
+    },
+    {
+      "name": "bitfog",
+      "repo": "https://github.com/dustin/bitfog",
+      "language": "Go"
+    },
+    {
+      "name": "diff",
+      "repo": "https://github.com/dustin/diff",
+      "language": "Go"
+    },
+    {
+      "name": "gosh",
+      "repo": "https://github.com/dustin/gosh",
+      "language": "Go"
+    },
+    {
+      "name": "arduino-2406",
+      "repo": "https://github.com/dustin/arduino-2406",
+      "language": "Processing"
+    },
+    {
+      "name": "logic-ws2812",
+      "repo": "https://github.com/dustin/logic-ws2812",
+      "language": "C++"
+    },
+    {
+      "name": "go-couch",
+      "repo": "https://github.com/dustin/go-couch",
+      "language": "Go"
+    },
+    {
+      "name": "go-jsonpointer",
+      "repo": "https://github.com/dustin/go-jsonpointer",
+      "language": "Go"
+    },
+    {
+      "name": "go-hashset",
+      "repo": "https://github.com/dustin/go-hashset",
+      "language": "Go"
+    },
+    {
+      "name": "photo-couch",
+      "repo": "https://github.com/dustin/photo-couch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nging",
+      "repo": "https://github.com/dustin/nging",
+      "language": "Go"
+    },
+    {
+      "name": "buggles",
+      "repo": "https://github.com/dustin/buggles",
+      "language": "Eagle"
+    },
+    {
+      "name": "testingbee",
+      "repo": "https://github.com/dustin/testingbee",
+      "language": "C"
+    },
+    {
+      "name": "gojson",
+      "repo": "https://github.com/dustin/gojson",
+      "language": "Go"
+    },
+    {
+      "name": "osx-thermometer",
+      "repo": "https://github.com/dustin/osx-thermometer",
+      "language": "Objective-C"
+    },
+    {
+      "name": "go-logic",
+      "repo": "https://github.com/dustin/go-logic",
+      "language": "Go"
+    },
+    {
+      "name": "seriesly",
+      "repo": "https://github.com/dustin/seriesly",
+      "language": "Go"
+    },
+    {
+      "name": "go-rs232",
+      "repo": "https://github.com/dustin/go-rs232",
+      "language": "Go"
+    },
+    {
+      "name": "logic-cppm",
+      "repo": "https://github.com/dustin/logic-cppm",
+      "language": "C++"
+    },
+    {
+      "name": "logexec",
+      "repo": "https://github.com/dustin/logexec",
+      "language": "Go"
+    },
+    {
+      "name": "twisted-memcached",
+      "repo": "https://github.com/dustin/twisted-memcached",
+      "language": "Python"
+    },
+    {
+      "name": "go-follow",
+      "repo": "https://github.com/dustin/go-follow",
+      "language": "Go"
+    }
+  ]
+}

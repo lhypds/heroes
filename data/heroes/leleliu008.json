@@ -1,0 +1,468 @@
+{
+  "handle": "leleliu008",
+  "name": "leleliu008",
+  "github": [
+    "https://github.com/leleliu008"
+  ],
+  "bio": "前进，前进，进",
+  "own_repos": 167,
+  "commits": 10578,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ppkg",
+      "repo": "https://github.com/leleliu008/ppkg",
+      "language": "Shell"
+    },
+    {
+      "name": "xcpkg-formula-repository-official-core",
+      "repo": "https://github.com/leleliu008/xcpkg-formula-repository-official-core",
+      "language": "Shell"
+    },
+    {
+      "name": "ppkg-formula-repository-official-core",
+      "repo": "https://github.com/leleliu008/ppkg-formula-repository-official-core",
+      "language": "Shell"
+    },
+    {
+      "name": "ndk-pkg-formula-repository-official-core",
+      "repo": "https://github.com/leleliu008/ndk-pkg-formula-repository-official-core",
+      "language": "Shell"
+    },
+    {
+      "name": "ndk-pkg",
+      "repo": "https://github.com/leleliu008/ndk-pkg",
+      "language": "C"
+    },
+    {
+      "name": "patches",
+      "repo": "https://github.com/leleliu008/patches",
+      "language": "C"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.9-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.9-amd64"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.8-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.8-amd64"
+    },
+    {
+      "name": "sync-github-gitee",
+      "repo": "https://github.com/leleliu008/sync-github-gitee",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.7-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.7-amd64"
+    },
+    {
+      "name": "elftool",
+      "repo": "https://github.com/leleliu008/elftool",
+      "language": "C"
+    },
+    {
+      "name": "ppkg-package-manually-build",
+      "repo": "https://github.com/leleliu008/ppkg-package-manually-build"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/leleliu008/test",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm",
+      "repo": "https://github.com/leleliu008/uppm",
+      "language": "C"
+    },
+    {
+      "name": "perl-distribution",
+      "repo": "https://github.com/leleliu008/perl-distribution",
+      "language": "Shell"
+    },
+    {
+      "name": "python-distribution",
+      "repo": "https://github.com/leleliu008/python-distribution",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-14.0-arm64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-14.0-arm64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-15.0-arm64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64",
+      "language": "Shell"
+    },
+    {
+      "name": "liblanginfo",
+      "repo": "https://github.com/leleliu008/liblanginfo",
+      "language": "C"
+    },
+    {
+      "name": "xcpkg-package-manually-build",
+      "repo": "https://github.com/leleliu008/xcpkg-package-manually-build"
+    },
+    {
+      "name": "sysinfo",
+      "repo": "https://github.com/leleliu008/sysinfo",
+      "language": "C"
+    },
+    {
+      "name": "xcpkg",
+      "repo": "https://github.com/leleliu008/xcpkg",
+      "language": "C"
+    },
+    {
+      "name": "uppm-package-repository-macos-26.0-arm64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-14.4-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.6-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.6-amd64"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.5-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.5-amd64"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.4-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.4-amd64"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.3-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.3-amd64"
+    },
+    {
+      "name": "uppm-package-repository-netbsd-10.1-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-netbsd-10.1-amd64"
+    },
+    {
+      "name": "uppm-package-repository-netbsd-10.0-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-netbsd-10.0-amd64"
+    },
+    {
+      "name": "uppm-package-repository-netbsd-9.4-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-netbsd-9.4-amd64"
+    },
+    {
+      "name": "uppm-package-repository-netbsd-9.3-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-netbsd-9.3-amd64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-netbsd-9.2-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-netbsd-9.2-amd64"
+    },
+    {
+      "name": "uppm-package-repository-openbsd-7.2-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-openbsd-7.2-amd64"
+    },
+    {
+      "name": "mach-otool",
+      "repo": "https://github.com/leleliu008/mach-otool"
+    },
+    {
+      "name": "uppm-package-repository-linux-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-linux-x86_64"
+    },
+    {
+      "name": "bsdtar.exe",
+      "repo": "https://github.com/leleliu008/bsdtar.exe"
+    },
+    {
+      "name": "C-examples",
+      "repo": "https://github.com/leleliu008/C-examples",
+      "language": "C"
+    },
+    {
+      "name": "uppm-package-repository-macos-15.0-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-15.0-x86_64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-14.0-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-14.0-x86_64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-13.0-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-12.0-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-12.0-x86_64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-11.0-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-11.0-x86_64",
+      "language": "Shell"
+    },
+    {
+      "name": "android-calendar-for-the-aged",
+      "repo": "https://github.com/leleliu008/android-calendar-for-the-aged",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ndk-pkg-prefab-example-libphonenumber",
+      "repo": "https://github.com/leleliu008/ndk-pkg-prefab-example-libphonenumber",
+      "language": "C++"
+    },
+    {
+      "name": "ndk-pkg-prefab-example-ffmpeg",
+      "repo": "https://github.com/leleliu008/ndk-pkg-prefab-example-ffmpeg",
+      "language": "C"
+    },
+    {
+      "name": "ndk-pkg-prefab-aar-maven-repo",
+      "repo": "https://github.com/leleliu008/ndk-pkg-prefab-aar-maven-repo",
+      "language": "Shell"
+    },
+    {
+      "name": "gnu-config",
+      "repo": "https://github.com/leleliu008/gnu-config",
+      "language": "Perl"
+    },
+    {
+      "name": "bzip2",
+      "repo": "https://github.com/leleliu008/bzip2",
+      "language": "C"
+    },
+    {
+      "name": "uppm-package-repository-macos-13.0-arm64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-13.0-arm64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-12.0-arm64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-11.0-arm64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-11.0-arm64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-macos-10.15-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-macos-10.15-x86_64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-linux-s390x",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-linux-s390x"
+    },
+    {
+      "name": "uppm-package-repository-linux-riscv64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-linux-riscv64"
+    },
+    {
+      "name": "uppm-package-repository-linux-ppc64le",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-linux-ppc64le"
+    },
+    {
+      "name": "uppm-package-repository-linux-loongarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-linux-loongarch64"
+    },
+    {
+      "name": "uppm-package-repository-linux-armv7l",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-linux-armv7l"
+    },
+    {
+      "name": "uppm-package-repository-linux-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-linux-aarch64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-14.3-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-14.2-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-14.1-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-14.1-amd64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-14.0-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-14.0-amd64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-13.5-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-13.5-amd64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-13.4-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-13.4-amd64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-13.3-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-13.3-amd64"
+    },
+    {
+      "name": "uppm-package-repository-freebsd-13.2-amd64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-freebsd-13.2-amd64"
+    },
+    {
+      "name": "uppm-package-repository-dragonflybsd-6.4-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-dragonflybsd-6.4-x86_64"
+    },
+    {
+      "name": "uppm-package-repository-android-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-35-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-35-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-34-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-34-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-33-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-33-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-32-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-32-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-31-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-31-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-30-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-30-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-29-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-29-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-28-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-28-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-27-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-27-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-package-repository-android-26-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-package-repository-android-26-aarch64",
+      "language": "Shell"
+    },
+    {
+      "name": "ndk-pkg-package-manually-build",
+      "repo": "https://github.com/leleliu008/ndk-pkg-package-manually-build"
+    },
+    {
+      "name": "autotools",
+      "repo": "https://github.com/leleliu008/autotools",
+      "language": "Shell"
+    },
+    {
+      "name": "auto",
+      "repo": "https://github.com/leleliu008/auto",
+      "language": "Shell"
+    },
+    {
+      "name": "appimage-runtime-type2-prebuild",
+      "repo": "https://github.com/leleliu008/appimage-runtime-type2-prebuild"
+    },
+    {
+      "name": "ruby-distribution",
+      "repo": "https://github.com/leleliu008/ruby-distribution",
+      "language": "Shell"
+    },
+    {
+      "name": "appimageutil",
+      "repo": "https://github.com/leleliu008/appimageutil",
+      "language": "Shell"
+    },
+    {
+      "name": "android-ndk-missing",
+      "repo": "https://github.com/leleliu008/android-ndk-missing",
+      "language": "C++"
+    },
+    {
+      "name": "uppm-formula-repository-linux-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-linux-x86_64"
+    },
+    {
+      "name": "uctags-build-tools",
+      "repo": "https://github.com/leleliu008/uctags-build-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "non-relocatable-binary-packages",
+      "repo": "https://github.com/leleliu008/non-relocatable-binary-packages",
+      "language": "Shell"
+    },
+    {
+      "name": "basetools",
+      "repo": "https://github.com/leleliu008/basetools",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-formula-repository-linux-aarch64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-linux-aarch64"
+    },
+    {
+      "name": "uppm-formula-repository-linux-riscv64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-linux-riscv64"
+    },
+    {
+      "name": "oh-my-vim",
+      "repo": "https://github.com/leleliu008/oh-my-vim",
+      "language": "Shell"
+    },
+    {
+      "name": "uppm-formula-repository-macos-arm64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-macos-arm64"
+    },
+    {
+      "name": "uppm-formula-repository-macos-x86_64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-macos-x86_64"
+    },
+    {
+      "name": "uppm-formula-repository-linux-s390x",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-linux-s390x"
+    },
+    {
+      "name": "uppm-formula-repository-linux-ppc64le",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-linux-ppc64le"
+    },
+    {
+      "name": "uppm-formula-repository-netbsd-amd64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-netbsd-amd64"
+    },
+    {
+      "name": "uppm-formula-repository-openbsd-amd64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-openbsd-amd64"
+    },
+    {
+      "name": "uppm-formula-repository-freebsd-amd64",
+      "repo": "https://github.com/leleliu008/uppm-formula-repository-freebsd-amd64"
+    }
+  ]
+}

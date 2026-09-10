@@ -1,0 +1,517 @@
+{
+  "handle": "ekmett",
+  "name": "Edward Kmett",
+  "github": [
+    "https://github.com/ekmett"
+  ],
+  "bio": "I write a lot of Haskell.",
+  "own_repos": 217,
+  "commits": 11869,
+  "apps": [],
+  "repos": [
+    {
+      "name": "void",
+      "repo": "https://github.com/ekmett/void",
+      "language": "Haskell"
+    },
+    {
+      "name": "lens",
+      "repo": "https://github.com/ekmett/lens",
+      "language": "Haskell"
+    },
+    {
+      "name": "linear-logic",
+      "repo": "https://github.com/ekmett/linear-logic",
+      "language": "Haskell"
+    },
+    {
+      "name": "reflection",
+      "repo": "https://github.com/ekmett/reflection",
+      "language": "Haskell"
+    },
+    {
+      "name": "linear",
+      "repo": "https://github.com/ekmett/linear",
+      "language": "Haskell"
+    },
+    {
+      "name": "rounded",
+      "repo": "https://github.com/ekmett/rounded",
+      "language": "Haskell"
+    },
+    {
+      "name": "tagged",
+      "repo": "https://github.com/ekmett/tagged",
+      "language": "Haskell"
+    },
+    {
+      "name": "discrimination",
+      "repo": "https://github.com/ekmett/discrimination",
+      "language": "Haskell"
+    },
+    {
+      "name": "half",
+      "repo": "https://github.com/ekmett/half",
+      "language": "Haskell"
+    },
+    {
+      "name": "exceptions",
+      "repo": "https://github.com/ekmett/exceptions",
+      "language": "Haskell"
+    },
+    {
+      "name": "either",
+      "repo": "https://github.com/ekmett/either",
+      "language": "Haskell"
+    },
+    {
+      "name": "quietus",
+      "repo": "https://github.com/ekmett/quietus",
+      "language": "Python"
+    },
+    {
+      "name": "constraints",
+      "repo": "https://github.com/ekmett/constraints",
+      "language": "Haskell"
+    },
+    {
+      "name": "bound",
+      "repo": "https://github.com/ekmett/bound",
+      "url": "https://www.schoolofhaskell.com/user/edwardk/bound",
+      "language": "Haskell"
+    },
+    {
+      "name": "gl",
+      "repo": "https://github.com/ekmett/gl",
+      "language": "Haskell"
+    },
+    {
+      "name": "guanxi",
+      "repo": "https://github.com/ekmett/guanxi",
+      "language": "Haskell"
+    },
+    {
+      "name": "ad",
+      "repo": "https://github.com/ekmett/ad",
+      "language": "Haskell"
+    },
+    {
+      "name": "ein",
+      "repo": "https://github.com/ekmett/ein",
+      "url": "https://ekmett.github.io/ein/",
+      "language": "C++"
+    },
+    {
+      "name": "hyphenation",
+      "repo": "https://github.com/ekmett/hyphenation",
+      "language": "Haskell"
+    },
+    {
+      "name": "semigroupoids",
+      "repo": "https://github.com/ekmett/semigroupoids",
+      "language": "Haskell"
+    },
+    {
+      "name": "transformers-compat",
+      "repo": "https://github.com/ekmett/transformers-compat",
+      "language": "Haskell"
+    },
+    {
+      "name": "free",
+      "repo": "https://github.com/ekmett/free",
+      "language": "Haskell"
+    },
+    {
+      "name": "bifunctors",
+      "repo": "https://github.com/ekmett/bifunctors",
+      "language": "Haskell"
+    },
+    {
+      "name": "keys",
+      "repo": "https://github.com/ekmett/keys",
+      "language": "Haskell"
+    },
+    {
+      "name": "kan-extensions",
+      "repo": "https://github.com/ekmett/kan-extensions",
+      "language": "Haskell"
+    },
+    {
+      "name": "adjunctions",
+      "repo": "https://github.com/ekmett/adjunctions",
+      "language": "Haskell"
+    },
+    {
+      "name": "semigroups",
+      "repo": "https://github.com/ekmett/semigroups",
+      "language": "Haskell"
+    },
+    {
+      "name": "comonad",
+      "repo": "https://github.com/ekmett/comonad",
+      "language": "Haskell"
+    },
+    {
+      "name": "contravariant",
+      "repo": "https://github.com/ekmett/contravariant",
+      "language": "Haskell"
+    },
+    {
+      "name": "distributive",
+      "repo": "https://github.com/ekmett/distributive",
+      "language": "Haskell"
+    },
+    {
+      "name": "bytes",
+      "repo": "https://github.com/ekmett/bytes",
+      "language": "Haskell"
+    },
+    {
+      "name": "structs",
+      "repo": "https://github.com/ekmett/structs",
+      "language": "Haskell"
+    },
+    {
+      "name": "rcu",
+      "repo": "https://github.com/ekmett/rcu",
+      "language": "Haskell"
+    },
+    {
+      "name": "hybrid-vectors",
+      "repo": "https://github.com/ekmett/hybrid-vectors",
+      "language": "Haskell"
+    },
+    {
+      "name": "unique",
+      "repo": "https://github.com/ekmett/unique",
+      "language": "Haskell"
+    },
+    {
+      "name": "ersatz",
+      "repo": "https://github.com/ekmett/ersatz",
+      "language": "Haskell"
+    },
+    {
+      "name": "profunctors",
+      "repo": "https://github.com/ekmett/profunctors",
+      "language": "Haskell"
+    },
+    {
+      "name": "vector-instances",
+      "repo": "https://github.com/ekmett/vector-instances",
+      "language": "Haskell"
+    },
+    {
+      "name": "trifecta",
+      "repo": "https://github.com/ekmett/trifecta",
+      "language": "Haskell"
+    },
+    {
+      "name": "machines",
+      "repo": "https://github.com/ekmett/machines",
+      "language": "Haskell"
+    },
+    {
+      "name": "pointed",
+      "repo": "https://github.com/ekmett/pointed",
+      "language": "Haskell"
+    },
+    {
+      "name": "parsers",
+      "repo": "https://github.com/ekmett/parsers",
+      "language": "Haskell"
+    },
+    {
+      "name": "graphs",
+      "repo": "https://github.com/ekmett/graphs",
+      "language": "Haskell"
+    },
+    {
+      "name": "charset",
+      "repo": "https://github.com/ekmett/charset",
+      "language": "Haskell"
+    },
+    {
+      "name": "reducers",
+      "repo": "https://github.com/ekmett/reducers",
+      "language": "Haskell"
+    },
+    {
+      "name": "hyperloglog",
+      "repo": "https://github.com/ekmett/hyperloglog",
+      "language": "Haskell"
+    },
+    {
+      "name": "intervals",
+      "repo": "https://github.com/ekmett/intervals",
+      "language": "Haskell"
+    },
+    {
+      "name": "lca",
+      "repo": "https://github.com/ekmett/lca",
+      "language": "Haskell"
+    },
+    {
+      "name": "streams",
+      "repo": "https://github.com/ekmett/streams",
+      "language": "Haskell"
+    },
+    {
+      "name": "tagged-transformer",
+      "repo": "https://github.com/ekmett/tagged-transformer",
+      "language": "Haskell"
+    },
+    {
+      "name": "heaps",
+      "repo": "https://github.com/ekmett/heaps",
+      "language": "Haskell"
+    },
+    {
+      "name": "intern",
+      "repo": "https://github.com/ekmett/intern",
+      "language": "Haskell"
+    },
+    {
+      "name": "log-domain",
+      "repo": "https://github.com/ekmett/log-domain",
+      "language": "Haskell"
+    },
+    {
+      "name": "compensated",
+      "repo": "https://github.com/ekmett/compensated",
+      "language": "Haskell"
+    },
+    {
+      "name": "approximate",
+      "repo": "https://github.com/ekmett/approximate",
+      "language": "Haskell"
+    },
+    {
+      "name": "placeholder",
+      "repo": "https://github.com/ekmett/placeholder",
+      "language": "Haskell"
+    },
+    {
+      "name": "coda",
+      "repo": "https://github.com/ekmett/coda",
+      "language": "Haskell"
+    },
+    {
+      "name": "propagators",
+      "repo": "https://github.com/ekmett/propagators",
+      "language": "Haskell"
+    },
+    {
+      "name": "arcade",
+      "repo": "https://github.com/ekmett/arcade",
+      "language": "JavaScript"
+    },
+    {
+      "name": "monad-ran",
+      "repo": "https://github.com/ekmett/monad-ran",
+      "language": "Haskell"
+    },
+    {
+      "name": "bitcoin-verifier-wasm",
+      "repo": "https://github.com/ekmett/bitcoin-verifier-wasm",
+      "language": "Nix"
+    },
+    {
+      "name": "starkify",
+      "repo": "https://github.com/ekmett/starkify",
+      "language": "Haskell"
+    },
+    {
+      "name": "ispc",
+      "repo": "https://github.com/ekmett/ispc",
+      "language": "Haskell"
+    },
+    {
+      "name": "zippers",
+      "repo": "https://github.com/ekmett/zippers",
+      "language": "Haskell"
+    },
+    {
+      "name": "concurrent-supply",
+      "repo": "https://github.com/ekmett/concurrent-supply",
+      "language": "Haskell"
+    },
+    {
+      "name": "hkd",
+      "repo": "https://github.com/ekmett/hkd",
+      "language": "Haskell"
+    },
+    {
+      "name": "numeric-fin",
+      "repo": "https://github.com/ekmett/numeric-fin",
+      "language": "Haskell"
+    },
+    {
+      "name": "nightfall",
+      "repo": "https://github.com/ekmett/nightfall",
+      "language": "Haskell"
+    },
+    {
+      "name": "folds",
+      "repo": "https://github.com/ekmett/folds",
+      "language": "Haskell"
+    },
+    {
+      "name": "lens-action",
+      "repo": "https://github.com/ekmett/lens-action",
+      "language": "Haskell"
+    },
+    {
+      "name": "eq",
+      "repo": "https://github.com/ekmett/eq",
+      "language": "Haskell"
+    },
+    {
+      "name": "rust-lens",
+      "repo": "https://github.com/ekmett/rust-lens",
+      "language": "Rust"
+    },
+    {
+      "name": "unboxed",
+      "repo": "https://github.com/ekmett/unboxed",
+      "language": "Haskell"
+    },
+    {
+      "name": "rust",
+      "repo": "https://github.com/ekmett/rust",
+      "language": "Rust"
+    },
+    {
+      "name": "auth-rs",
+      "repo": "https://github.com/ekmett/auth-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "kanso",
+      "repo": "https://github.com/ekmett/kanso",
+      "language": "Rust"
+    },
+    {
+      "name": "nbe-in-java-19",
+      "repo": "https://github.com/ekmett/nbe-in-java-19",
+      "language": "Java"
+    },
+    {
+      "name": "fish",
+      "repo": "https://github.com/ekmett/fish",
+      "language": "Makefile"
+    },
+    {
+      "name": "transients",
+      "repo": "https://github.com/ekmett/transients",
+      "language": "Haskell"
+    },
+    {
+      "name": "bits",
+      "repo": "https://github.com/ekmett/bits",
+      "language": "Haskell"
+    },
+    {
+      "name": "nats",
+      "repo": "https://github.com/ekmett/nats",
+      "language": "Haskell"
+    },
+    {
+      "name": "codex",
+      "repo": "https://github.com/ekmett/codex",
+      "language": "Haskell"
+    },
+    {
+      "name": "wl-pprint-terminfo",
+      "repo": "https://github.com/ekmett/wl-pprint-terminfo",
+      "language": "Haskell"
+    },
+    {
+      "name": "hyperfunctions",
+      "repo": "https://github.com/ekmett/hyperfunctions",
+      "language": "Haskell"
+    },
+    {
+      "name": "gc",
+      "repo": "https://github.com/ekmett/gc",
+      "url": "https://ekmett.github.io/gc",
+      "language": "Haskell"
+    },
+    {
+      "name": "typed-keys",
+      "repo": "https://github.com/ekmett/typed-keys",
+      "language": "Haskell"
+    },
+    {
+      "name": "make",
+      "repo": "https://github.com/ekmett/make",
+      "language": "Haskell"
+    },
+    {
+      "name": "linear-haskell",
+      "repo": "https://github.com/ekmett/linear-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "cadenza",
+      "repo": "https://github.com/ekmett/cadenza",
+      "url": "https://ekmett.github.io/cadenza",
+      "language": "Kotlin"
+    },
+    {
+      "name": "parsnip",
+      "repo": "https://github.com/ekmett/parsnip",
+      "language": "Haskell"
+    },
+    {
+      "name": "hask",
+      "repo": "https://github.com/ekmett/hask",
+      "language": "Haskell"
+    },
+    {
+      "name": "bad",
+      "repo": "https://github.com/ekmett/bad",
+      "language": "C++"
+    },
+    {
+      "name": "promises",
+      "repo": "https://github.com/ekmett/promises",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell",
+      "repo": "https://github.com/ekmett/haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "lens-core",
+      "repo": "https://github.com/ekmett/lens-core",
+      "language": "Haskell"
+    },
+    {
+      "name": "linear-accelerate",
+      "repo": "https://github.com/ekmett/linear-accelerate",
+      "language": "Haskell"
+    },
+    {
+      "name": "hash",
+      "repo": "https://github.com/ekmett/hash",
+      "language": "Haskell"
+    },
+    {
+      "name": "unpacked-containers",
+      "repo": "https://github.com/ekmett/unpacked-containers",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaw",
+      "repo": "https://github.com/ekmett/yaw",
+      "language": "Assembly"
+    },
+    {
+      "name": "robin",
+      "repo": "https://github.com/ekmett/robin",
+      "language": "Rust"
+    }
+  ]
+}

@@ -9,6 +9,12 @@
   "commits": 71721,
   "repos": [
     {
+      "name": "datastream",
+      "repo": "https://github.com/willfarrell/datastream",
+      "url": "https://datastream.js.org",
+      "language": "JavaScript"
+    },
+    {
       "name": "ajv-ftl-i18n",
       "repo": "https://github.com/willfarrell/ajv-ftl-i18n",
       "language": "Fluent"
@@ -28,12 +34,6 @@
       "repo": "https://github.com/willfarrell/design-system",
       "url": "https://design-system.willfarrell.ca",
       "language": "Svelte"
-    },
-    {
-      "name": "datastream",
-      "repo": "https://github.com/willfarrell/datastream",
-      "url": "https://datastream.js.org",
-      "language": "JavaScript"
     },
     {
       "name": "workbee",

@@ -1,0 +1,512 @@
+{
+  "handle": "oresoftware",
+  "name": "Alexander Mills",
+  "github": [
+    "https://github.com/oresoftware"
+  ],
+  "website": "https://the1mills.github.io/",
+  "bio": "Generalist / asynchronous.",
+  "own_repos": 264,
+  "commits": 19251,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ores-middleware",
+      "repo": "https://github.com/ORESoftware/ores-middleware",
+      "language": "Rust"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/ORESoftware/.github",
+      "language": "Python"
+    },
+    {
+      "name": "ores-gh-bots",
+      "repo": "https://github.com/ORESoftware/ores-gh-bots",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ores-interfaces",
+      "repo": "https://github.com/ORESoftware/ores-interfaces",
+      "language": "JavaScript"
+    },
+    {
+      "name": "k8s-cluster",
+      "repo": "https://github.com/ORESoftware/k8s-cluster",
+      "language": "HTML"
+    },
+    {
+      "name": "api-docs",
+      "repo": "https://github.com/ORESoftware/api-docs",
+      "language": "Python"
+    },
+    {
+      "name": "typespec-json-schema-validator",
+      "repo": "https://github.com/ORESoftware/typespec-json-schema-validator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hb.xyz",
+      "repo": "https://github.com/ORESoftware/hb.xyz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ores-sops",
+      "repo": "https://github.com/ORESoftware/ores-sops",
+      "language": "Shell"
+    },
+    {
+      "name": "slack-ores-integrations",
+      "repo": "https://github.com/ORESoftware/slack-ores-integrations",
+      "language": "JavaScript"
+    },
+    {
+      "name": "next-loggers.ts",
+      "repo": "https://github.com/ORESoftware/next-loggers.ts",
+      "url": "https://github.com/ores-otel/ores.otel.log",
+      "language": "JavaScript"
+    },
+    {
+      "name": "iterators.go",
+      "repo": "https://github.com/ORESoftware/iterators.go",
+      "language": "Go"
+    },
+    {
+      "name": "live-mutex.distributed",
+      "repo": "https://github.com/ORESoftware/live-mutex.distributed",
+      "language": "TypeScript"
+    },
+    {
+      "name": "live-mutex",
+      "repo": "https://github.com/ORESoftware/live-mutex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "iterable.int",
+      "repo": "https://github.com/ORESoftware/iterable.int",
+      "language": "Shell"
+    },
+    {
+      "name": "ai-agent-bridge.rs",
+      "repo": "https://github.com/ORESoftware/ai-agent-bridge.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "mip-solver-node.rs",
+      "repo": "https://github.com/ORESoftware/mip-solver-node.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "ai-agent-coordinator.rs",
+      "repo": "https://github.com/ORESoftware/ai-agent-coordinator.rs",
+      "language": "Python"
+    },
+    {
+      "name": "cmd-line-parser",
+      "repo": "https://github.com/ORESoftware/cmd-line-parser",
+      "language": "Go"
+    },
+    {
+      "name": "server.gleam",
+      "repo": "https://github.com/ORESoftware/server.gleam",
+      "language": "Python"
+    },
+    {
+      "name": "json-stream-native-parser",
+      "repo": "https://github.com/ORESoftware/json-stream-native-parser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-rust-libs",
+      "repo": "https://github.com/ORESoftware/mcp-rust-libs",
+      "language": "Rust"
+    },
+    {
+      "name": "ores-locks-and-leases",
+      "repo": "https://github.com/ORESoftware/ores-locks-and-leases",
+      "language": "Rust"
+    },
+    {
+      "name": "ores-lambdas-template",
+      "repo": "https://github.com/ORESoftware/ores-lambdas-template",
+      "language": "Rust"
+    },
+    {
+      "name": "org-mcp-server-template.rs",
+      "repo": "https://github.com/ORESoftware/org-mcp-server-template.rs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flags-2-env",
+      "repo": "https://github.com/ORESoftware/flags-2-env",
+      "url": "https://github.com/flags-2-env/flags-2-env",
+      "language": "C"
+    },
+    {
+      "name": "ores-codex-plugin",
+      "repo": "https://github.com/ORESoftware/ores-codex-plugin",
+      "language": "Python"
+    },
+    {
+      "name": "oresoftware.github.io",
+      "repo": "https://github.com/ORESoftware/oresoftware.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/ORESoftware/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "devops-slack",
+      "repo": "https://github.com/ORESoftware/devops-slack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "push-notification-server.rs",
+      "repo": "https://github.com/ORESoftware/push-notification-server.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "testing",
+      "repo": "https://github.com/ORESoftware/testing",
+      "language": "Rust"
+    },
+    {
+      "name": "safe-stringify",
+      "repo": "https://github.com/ORESoftware/safe-stringify",
+      "language": "Shell"
+    },
+    {
+      "name": "ores-edge-router",
+      "repo": "https://github.com/ORESoftware/ores-edge-router",
+      "language": "JavaScript"
+    },
+    {
+      "name": "live-mutex-rs",
+      "repo": "https://github.com/ORESoftware/live-mutex-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-unity-unreal-poc",
+      "repo": "https://github.com/ORESoftware/rust-unity-unreal-poc",
+      "language": "Makefile"
+    },
+    {
+      "name": "audio-recording-rolling-window",
+      "repo": "https://github.com/ORESoftware/audio-recording-rolling-window",
+      "language": "Dart"
+    },
+    {
+      "name": "linked-queue.rs",
+      "repo": "https://github.com/ORESoftware/linked-queue.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "live-mutex-mills.rs",
+      "repo": "https://github.com/ORESoftware/live-mutex-mills.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "soccer-sim-game-engine.rs",
+      "repo": "https://github.com/ORESoftware/soccer-sim-game-engine.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "json-logging",
+      "repo": "https://github.com/ORESoftware/json-logging",
+      "language": "Go"
+    },
+    {
+      "name": "ores-contracts",
+      "repo": "https://github.com/ORESoftware/ores-contracts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bunion",
+      "repo": "https://github.com/ORESoftware/bunion",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deep.mixin",
+      "repo": "https://github.com/ORESoftware/deep.mixin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "discrete-event-system",
+      "repo": "https://github.com/ORESoftware/discrete-event-system",
+      "language": "HTML"
+    },
+    {
+      "name": "json-parser",
+      "repo": "https://github.com/ORESoftware/json-parser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "linked-queue",
+      "repo": "https://github.com/ORESoftware/linked-queue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "npm-link-up",
+      "repo": "https://github.com/ORESoftware/npm-link-up",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dankins",
+      "repo": "https://github.com/ORESoftware/dankins",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fake-git-remote",
+      "repo": "https://github.com/ORESoftware/fake-git-remote",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pipe-operator-example",
+      "repo": "https://github.com/ORESoftware/pipe-operator-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zed-pkg-test",
+      "repo": "https://github.com/ORESoftware/zed-pkg-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "llvm-user.new",
+      "repo": "https://github.com/ORESoftware/llvm-user.new",
+      "language": "Rust"
+    },
+    {
+      "name": "r2g",
+      "repo": "https://github.com/ORESoftware/r2g",
+      "language": "TypeScript"
+    },
+    {
+      "name": "benefactor.cc",
+      "repo": "https://github.com/ORESoftware/benefactor.cc",
+      "language": "Astro"
+    },
+    {
+      "name": "ores-web-loader",
+      "repo": "https://github.com/ORESoftware/ores-web-loader"
+    },
+    {
+      "name": "ores-gha-workflows",
+      "repo": "https://github.com/ORESoftware/ores-gha-workflows",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sustainable-bike",
+      "repo": "https://github.com/ORESoftware/sustainable-bike",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pwa-example",
+      "repo": "https://github.com/ORESoftware/pwa-example",
+      "language": "HTML"
+    },
+    {
+      "name": "amqp091-go",
+      "repo": "https://github.com/ORESoftware/amqp091-go",
+      "language": "Go"
+    },
+    {
+      "name": "discrete-event-system.rs",
+      "repo": "https://github.com/ORESoftware/discrete-event-system.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "locking-lib-comparison",
+      "repo": "https://github.com/ORESoftware/locking-lib-comparison",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tarballs-cli",
+      "repo": "https://github.com/ORESoftware/tarballs-cli",
+      "language": "Shell"
+    },
+    {
+      "name": "ores-supabase",
+      "repo": "https://github.com/ORESoftware/ores-supabase",
+      "language": "JavaScript"
+    },
+    {
+      "name": "auto-assist",
+      "repo": "https://github.com/ORESoftware/auto-assist",
+      "language": "HTML"
+    },
+    {
+      "name": "happy-wakey.rs",
+      "repo": "https://github.com/ORESoftware/happy-wakey.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "jetbrains-idea-settings",
+      "repo": "https://github.com/ORESoftware/jetbrains-idea-settings",
+      "language": "Python"
+    },
+    {
+      "name": "mlfmky1b6n",
+      "repo": "https://github.com/ORESoftware/mlfmky1b6n",
+      "language": "Python"
+    },
+    {
+      "name": "honeypot.rs",
+      "repo": "https://github.com/ORESoftware/honeypot.rs"
+    },
+    {
+      "name": "agent-transport-scratch",
+      "repo": "https://github.com/ORESoftware/agent-transport-scratch"
+    },
+    {
+      "name": "chat.webtrc",
+      "repo": "https://github.com/ORESoftware/chat.webtrc",
+      "language": "Go"
+    },
+    {
+      "name": "manage-tabs.ce",
+      "repo": "https://github.com/ORESoftware/manage-tabs.ce",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dbg.trace",
+      "repo": "https://github.com/ORESoftware/dbg.trace",
+      "language": "JavaScript"
+    },
+    {
+      "name": "marketscale",
+      "repo": "https://github.com/ORESoftware/marketscale",
+      "language": "HTML"
+    },
+    {
+      "name": "loze",
+      "repo": "https://github.com/ORESoftware/loze",
+      "language": "HTML"
+    },
+    {
+      "name": "json-logging-cli",
+      "repo": "https://github.com/ORESoftware/json-logging-cli",
+      "language": "Go"
+    },
+    {
+      "name": "oplog-server",
+      "repo": "https://github.com/ORESoftware/oplog-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mongo-oplog-server",
+      "repo": "https://github.com/ORESoftware/mongo-oplog-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dygrep",
+      "repo": "https://github.com/ORESoftware/dygrep",
+      "language": "TypeScript"
+    },
+    {
+      "name": "live-mutex-examples",
+      "repo": "https://github.com/ORESoftware/live-mutex-examples",
+      "language": "TypeScript"
+    },
+    {
+      "name": "marketscale1",
+      "repo": "https://github.com/ORESoftware/marketscale1",
+      "language": "HTML"
+    },
+    {
+      "name": "experimental-npm-project",
+      "repo": "https://github.com/ORESoftware/experimental-npm-project",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-stdio",
+      "repo": "https://github.com/ORESoftware/json-stdio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "read.json",
+      "repo": "https://github.com/ORESoftware/read.json",
+      "language": "Shell"
+    },
+    {
+      "name": "browser-logging-transport",
+      "repo": "https://github.com/ORESoftware/browser-logging-transport",
+      "language": "JavaScript"
+    },
+    {
+      "name": "check-git-status",
+      "repo": "https://github.com/ORESoftware/check-git-status",
+      "language": "JavaScript"
+    },
+    {
+      "name": "generic-subshell",
+      "repo": "https://github.com/ORESoftware/generic-subshell",
+      "language": "JavaScript"
+    },
+    {
+      "name": "phoenix-ML-graphql",
+      "repo": "https://github.com/ORESoftware/phoenix-ML-graphql",
+      "language": "Elixir"
+    },
+    {
+      "name": "picnic-demo-splitme",
+      "repo": "https://github.com/ORESoftware/picnic-demo-splitme",
+      "language": "Shell"
+    },
+    {
+      "name": "npp",
+      "repo": "https://github.com/ORESoftware/npp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "domain-haven",
+      "repo": "https://github.com/ORESoftware/domain-haven",
+      "language": "TypeScript"
+    },
+    {
+      "name": "network-logger",
+      "repo": "https://github.com/ORESoftware/network-logger",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hr4R",
+      "repo": "https://github.com/ORESoftware/hr4R",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dr.strangeloop",
+      "repo": "https://github.com/ORESoftware/dr.strangeloop"
+    },
+    {
+      "name": "nodejs-dep-check",
+      "repo": "https://github.com/ORESoftware/nodejs-dep-check",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nostos",
+      "repo": "https://github.com/ORESoftware/nostos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "adore",
+      "repo": "https://github.com/ORESoftware/adore",
+      "language": "JavaScript"
+    },
+    {
+      "name": "requirejs-metagen",
+      "repo": "https://github.com/ORESoftware/requirejs-metagen",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cerealize",
+      "repo": "https://github.com/ORESoftware/cerealize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eeyore",
+      "repo": "https://github.com/ORESoftware/eeyore",
+      "language": "JavaScript"
+    }
+  ]
+}

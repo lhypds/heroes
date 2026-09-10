@@ -1,0 +1,494 @@
+{
+  "handle": "vfarcic",
+  "name": "Viktor Farcic",
+  "github": [
+    "https://github.com/vfarcic"
+  ],
+  "website": "https://youtube.com/c/devopstoolkit",
+  "bio": "Developer Advocate @Upbound",
+  "own_repos": 453,
+  "commits": 10189,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dot-agent-deck",
+      "repo": "https://github.com/vfarcic/dot-agent-deck",
+      "language": "Rust"
+    },
+    {
+      "name": "dot-ai-ui",
+      "repo": "https://github.com/vfarcic/dot-ai-ui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "devops-toolkit",
+      "repo": "https://github.com/vfarcic/devops-toolkit",
+      "language": "SCSS"
+    },
+    {
+      "name": "dot-ai-infra",
+      "repo": "https://github.com/vfarcic/dot-ai-infra",
+      "language": "Nushell"
+    },
+    {
+      "name": "dot-ai-grafana",
+      "repo": "https://github.com/vfarcic/dot-ai-grafana",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dot-ai-website",
+      "repo": "https://github.com/vfarcic/dot-ai-website",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dot-ai-stack",
+      "repo": "https://github.com/vfarcic/dot-ai-stack",
+      "language": "Shell"
+    },
+    {
+      "name": "inference-demo",
+      "repo": "https://github.com/vfarcic/inference-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "dot-ai-cli",
+      "repo": "https://github.com/vfarcic/dot-ai-cli",
+      "language": "Go"
+    },
+    {
+      "name": "dot-ai",
+      "repo": "https://github.com/vfarcic/dot-ai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "youtube-automation",
+      "repo": "https://github.com/vfarcic/youtube-automation",
+      "language": "Go"
+    },
+    {
+      "name": "devopstoolkit-live",
+      "repo": "https://github.com/vfarcic/devopstoolkit-live",
+      "language": "CSS"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/vfarcic/scoop-bucket"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/vfarcic/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "routines",
+      "repo": "https://github.com/vfarcic/routines"
+    },
+    {
+      "name": "openchoreo-demo",
+      "repo": "https://github.com/vfarcic/openchoreo-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "nu-scripts",
+      "repo": "https://github.com/vfarcic/nu-scripts",
+      "language": "Nushell"
+    },
+    {
+      "name": "renovate-demo2",
+      "repo": "https://github.com/vfarcic/renovate-demo2",
+      "language": "Go"
+    },
+    {
+      "name": "dot-ai-controller",
+      "repo": "https://github.com/vfarcic/dot-ai-controller",
+      "language": "Go"
+    },
+    {
+      "name": "vfarcic.github.io",
+      "repo": "https://github.com/vfarcic/vfarcic.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "pi-extensions",
+      "repo": "https://github.com/vfarcic/pi-extensions",
+      "language": "TypeScript"
+    },
+    {
+      "name": "modelplane-demo",
+      "repo": "https://github.com/vfarcic/modelplane-demo"
+    },
+    {
+      "name": "prompts",
+      "repo": "https://github.com/vfarcic/prompts",
+      "language": "Shell"
+    },
+    {
+      "name": "dot-agent-deck-tests",
+      "repo": "https://github.com/vfarcic/dot-agent-deck-tests"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/vfarcic/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "dot-ai-headlamp",
+      "repo": "https://github.com/vfarcic/dot-ai-headlamp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "archestra-demo",
+      "repo": "https://github.com/vfarcic/archestra-demo"
+    },
+    {
+      "name": "infra-with-ai",
+      "repo": "https://github.com/vfarcic/infra-with-ai",
+      "language": "Nushell"
+    },
+    {
+      "name": "ona-demo",
+      "repo": "https://github.com/vfarcic/ona-demo"
+    },
+    {
+      "name": "trash",
+      "repo": "https://github.com/vfarcic/trash"
+    },
+    {
+      "name": "dot-ai-demo",
+      "repo": "https://github.com/vfarcic/dot-ai-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "xchange",
+      "repo": "https://github.com/vfarcic/xchange",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crossplane-kubernetes",
+      "repo": "https://github.com/vfarcic/crossplane-kubernetes",
+      "language": "KCL"
+    },
+    {
+      "name": "crossplane-inference",
+      "repo": "https://github.com/vfarcic/crossplane-inference",
+      "language": "Nushell"
+    },
+    {
+      "name": "crossplane-cost",
+      "repo": "https://github.com/vfarcic/crossplane-cost"
+    },
+    {
+      "name": "crossplane-app",
+      "repo": "https://github.com/vfarcic/crossplane-app",
+      "language": "Nushell"
+    },
+    {
+      "name": "dot-inference-plane",
+      "repo": "https://github.com/vfarcic/dot-inference-plane",
+      "language": "Shell"
+    },
+    {
+      "name": "dot-ai-skills",
+      "repo": "https://github.com/vfarcic/dot-ai-skills",
+      "language": "Shell"
+    },
+    {
+      "name": "devops-catalog-code",
+      "repo": "https://github.com/vfarcic/devops-catalog-code",
+      "language": "HCL"
+    },
+    {
+      "name": "renovate-demo",
+      "repo": "https://github.com/vfarcic/renovate-demo",
+      "language": "Go"
+    },
+    {
+      "name": "port-ai-demo",
+      "repo": "https://github.com/vfarcic/port-ai-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "silly-demo",
+      "repo": "https://github.com/vfarcic/silly-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "crossplane-sql",
+      "repo": "https://github.com/vfarcic/crossplane-sql",
+      "language": "Nushell"
+    },
+    {
+      "name": "zuplo-demo-project2",
+      "repo": "https://github.com/vfarcic/zuplo-demo-project2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zuplo-demo",
+      "repo": "https://github.com/vfarcic/zuplo-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "jfrog-demo",
+      "repo": "https://github.com/vfarcic/jfrog-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zuplo-demo-project",
+      "repo": "https://github.com/vfarcic/zuplo-demo-project",
+      "language": "TypeScript"
+    },
+    {
+      "name": "idp-demo",
+      "repo": "https://github.com/vfarcic/idp-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "kagent-demo",
+      "repo": "https://github.com/vfarcic/kagent-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "port-crds-demo",
+      "repo": "https://github.com/vfarcic/port-crds-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "kubernetes-events-demo-2",
+      "repo": "https://github.com/vfarcic/kubernetes-events-demo-2",
+      "language": "Nushell"
+    },
+    {
+      "name": "vector-db-demo",
+      "repo": "https://github.com/vfarcic/vector-db-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dot-application",
+      "repo": "https://github.com/vfarcic/dot-application"
+    },
+    {
+      "name": "devops-toolkit-crossplane",
+      "repo": "https://github.com/vfarcic/devops-toolkit-crossplane",
+      "language": "Smarty"
+    },
+    {
+      "name": "mcp-design-demo",
+      "repo": "https://github.com/vfarcic/mcp-design-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "ngrok-demo",
+      "repo": "https://github.com/vfarcic/ngrok-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "idp-ai-demo",
+      "repo": "https://github.com/vfarcic/idp-ai-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "youtube-web",
+      "repo": "https://github.com/vfarcic/youtube-web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crossplane-tutorial",
+      "repo": "https://github.com/vfarcic/crossplane-tutorial",
+      "language": "Shell"
+    },
+    {
+      "name": "idp-full-demo",
+      "repo": "https://github.com/vfarcic/idp-full-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "crossplane-mcp",
+      "repo": "https://github.com/vfarcic/crossplane-mcp"
+    },
+    {
+      "name": "cncf-demo",
+      "repo": "https://github.com/vfarcic/cncf-demo",
+      "language": "Go"
+    },
+    {
+      "name": "kro-vs-helm",
+      "repo": "https://github.com/vfarcic/kro-vs-helm",
+      "language": "Nushell"
+    },
+    {
+      "name": "ack-demo",
+      "repo": "https://github.com/vfarcic/ack-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "idp-with-ai-demo",
+      "repo": "https://github.com/vfarcic/idp-with-ai-demo"
+    },
+    {
+      "name": "copilot-agent-demo",
+      "repo": "https://github.com/vfarcic/copilot-agent-demo"
+    },
+    {
+      "name": "aso-demo",
+      "repo": "https://github.com/vfarcic/aso-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "kubevela-demo-2",
+      "repo": "https://github.com/vfarcic/kubevela-demo-2",
+      "language": "Nushell"
+    },
+    {
+      "name": "gitops-promoter-demo",
+      "repo": "https://github.com/vfarcic/gitops-promoter-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "testkube-demo",
+      "repo": "https://github.com/vfarcic/testkube-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "eks-auto-demo",
+      "repo": "https://github.com/vfarcic/eks-auto-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "perfect-scale-demo",
+      "repo": "https://github.com/vfarcic/perfect-scale-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "neon-demo",
+      "repo": "https://github.com/vfarcic/neon-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "karpor-demo",
+      "repo": "https://github.com/vfarcic/karpor-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "idp-full-app",
+      "repo": "https://github.com/vfarcic/idp-full-app",
+      "language": "Nushell"
+    },
+    {
+      "name": "radius-demo",
+      "repo": "https://github.com/vfarcic/radius-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "twingate-operator-demo",
+      "repo": "https://github.com/vfarcic/twingate-operator-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "crossplane-gh",
+      "repo": "https://github.com/vfarcic/crossplane-gh",
+      "language": "Shell"
+    },
+    {
+      "name": "kro-demo",
+      "repo": "https://github.com/vfarcic/kro-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "kubernetes-demo",
+      "repo": "https://github.com/vfarcic/kubernetes-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "argo-workflows-demo-2",
+      "repo": "https://github.com/vfarcic/argo-workflows-demo-2",
+      "language": "Nushell"
+    },
+    {
+      "name": "velero-demo",
+      "repo": "https://github.com/vfarcic/velero-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "nats-demo",
+      "repo": "https://github.com/vfarcic/nats-demo"
+    },
+    {
+      "name": "kargo-demo",
+      "repo": "https://github.com/vfarcic/kargo-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "backstage-demo",
+      "repo": "https://github.com/vfarcic/backstage-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kubebuilder-demo",
+      "repo": "https://github.com/vfarcic/kubebuilder-demo"
+    },
+    {
+      "name": "upbound-devex-demo",
+      "repo": "https://github.com/vfarcic/upbound-devex-demo"
+    },
+    {
+      "name": "argo-rollouts-demo",
+      "repo": "https://github.com/vfarcic/argo-rollouts-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "kubernetes-gpu-demo",
+      "repo": "https://github.com/vfarcic/kubernetes-gpu-demo",
+      "language": "Nushell"
+    },
+    {
+      "name": "kserve-demo",
+      "repo": "https://github.com/vfarcic/kserve-demo",
+      "language": "Nix"
+    },
+    {
+      "name": "nudgebee-demo",
+      "repo": "https://github.com/vfarcic/nudgebee-demo",
+      "language": "Nix"
+    },
+    {
+      "name": "groundcover-demo",
+      "repo": "https://github.com/vfarcic/groundcover-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "devtron-2-demo",
+      "repo": "https://github.com/vfarcic/devtron-2-demo"
+    },
+    {
+      "name": "crossplane-openfunction-dapr-demo",
+      "repo": "https://github.com/vfarcic/crossplane-openfunction-dapr-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "kubefirst-demo",
+      "repo": "https://github.com/vfarcic/kubefirst-demo"
+    },
+    {
+      "name": "kubescape-node-agent",
+      "repo": "https://github.com/vfarcic/kubescape-node-agent",
+      "language": "Shell"
+    },
+    {
+      "name": "cortex-demo",
+      "repo": "https://github.com/vfarcic/cortex-demo"
+    },
+    {
+      "name": "clis-demo",
+      "repo": "https://github.com/vfarcic/clis-demo",
+      "language": "CUE"
+    },
+    {
+      "name": "cnoe-demo",
+      "repo": "https://github.com/vfarcic/cnoe-demo"
+    },
+    {
+      "name": "holmesgpt-demo",
+      "repo": "https://github.com/vfarcic/holmesgpt-demo"
+    }
+  ]
+}

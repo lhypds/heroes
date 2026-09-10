@@ -11,9 +11,26 @@
   "apps": [],
   "repos": [
     {
-      "name": "wildbox",
-      "repo": "https://github.com/fabriziosalmi/wildbox",
-      "url": "https://www.wildbox.io",
+      "name": "patterns",
+      "repo": "https://github.com/fabriziosalmi/patterns",
+      "url": "https://fabriziosalmi.github.io/patterns/",
+      "language": "Python"
+    },
+    {
+      "name": "blacklists",
+      "repo": "https://github.com/fabriziosalmi/blacklists",
+      "url": "https://fabriziosalmi.github.io/blacklists/",
+      "language": "Python"
+    },
+    {
+      "name": "cf-box",
+      "repo": "https://github.com/fabriziosalmi/cf-box",
+      "language": "Python"
+    },
+    {
+      "name": "lws",
+      "repo": "https://github.com/fabriziosalmi/lws",
+      "url": "https://fabriziosalmi.github.io/lws/",
       "language": "Python"
     },
     {
@@ -23,9 +40,9 @@
       "language": "Go"
     },
     {
-      "name": "lws",
-      "repo": "https://github.com/fabriziosalmi/lws",
-      "url": "https://fabriziosalmi.github.io/lws/",
+      "name": "wildbox",
+      "repo": "https://github.com/fabriziosalmi/wildbox",
+      "url": "https://www.wildbox.io",
       "language": "Python"
     },
     {
@@ -50,12 +67,6 @@
       "repo": "https://github.com/fabriziosalmi/secure-proxy-manager",
       "url": "https://fabriziosalmi.github.io/secure-proxy-manager/",
       "language": "Go"
-    },
-    {
-      "name": "blacklists",
-      "repo": "https://github.com/fabriziosalmi/blacklists",
-      "url": "https://fabriziosalmi.github.io/blacklists/",
-      "language": "Python"
     },
     {
       "name": "llmproxy",
@@ -88,17 +99,6 @@
     {
       "name": "fabriziosalmi",
       "repo": "https://github.com/fabriziosalmi/fabriziosalmi",
-      "language": "Python"
-    },
-    {
-      "name": "patterns",
-      "repo": "https://github.com/fabriziosalmi/patterns",
-      "url": "https://fabriziosalmi.github.io/patterns/",
-      "language": "Python"
-    },
-    {
-      "name": "cf-box",
-      "repo": "https://github.com/fabriziosalmi/cf-box",
       "language": "Python"
     },
     {

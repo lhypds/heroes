@@ -1,0 +1,510 @@
+{
+  "handle": "plops",
+  "name": "plops",
+  "github": [
+    "https://github.com/plops"
+  ],
+  "website": "https://plops.github.io/",
+  "bio": "Common Lisp, microscopy, ultrasound, synthetic aperture radar, laser, integrated photonics, semiconductor, signal processing",
+  "own_repos": 300,
+  "commits": 14252,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cl-cl-generator",
+      "repo": "https://github.com/plops/cl-cl-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-rust-generator",
+      "repo": "https://github.com/plops/cl-rust-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-cpp-generator2",
+      "repo": "https://github.com/plops/cl-cpp-generator2",
+      "language": "C++"
+    },
+    {
+      "name": "mosh-tcp",
+      "repo": "https://github.com/plops/mosh-tcp",
+      "language": "HTML"
+    },
+    {
+      "name": "cl-py-generator",
+      "repo": "https://github.com/plops/cl-py-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "rs-summarizer",
+      "repo": "https://github.com/plops/rs-summarizer",
+      "language": "HTML"
+    },
+    {
+      "name": "py-stars",
+      "repo": "https://github.com/plops/py-stars",
+      "language": "Python"
+    },
+    {
+      "name": "stars",
+      "repo": "https://github.com/plops/stars",
+      "language": "Rust"
+    },
+    {
+      "name": "py-sam",
+      "repo": "https://github.com/plops/py-sam",
+      "language": "Python"
+    },
+    {
+      "name": "lean-py-generator",
+      "repo": "https://github.com/plops/lean-py-generator",
+      "language": "Lean"
+    },
+    {
+      "name": "barium",
+      "repo": "https://github.com/plops/barium",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "afm",
+      "repo": "https://github.com/plops/afm",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "dotemacs",
+      "repo": "https://github.com/plops/dotemacs",
+      "language": "Shell"
+    },
+    {
+      "name": "stock-screen",
+      "repo": "https://github.com/plops/stock-screen",
+      "language": "Python"
+    },
+    {
+      "name": "rp2350-cobs-proto",
+      "repo": "https://github.com/plops/rp2350-cobs-proto",
+      "language": "Rust"
+    },
+    {
+      "name": "slide-tag",
+      "repo": "https://github.com/plops/slide-tag",
+      "language": "Rust"
+    },
+    {
+      "name": "rs-chi2-viz",
+      "repo": "https://github.com/plops/rs-chi2-viz",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-datalib-benchmark",
+      "repo": "https://github.com/plops/rust-datalib-benchmark",
+      "language": "Rust"
+    },
+    {
+      "name": "esp32-c3-adc-nanopb",
+      "repo": "https://github.com/plops/esp32-c3-adc-nanopb",
+      "language": "C++"
+    },
+    {
+      "name": "pipico2w-adc-nanopb",
+      "repo": "https://github.com/plops/pipico2w-adc-nanopb",
+      "language": "C++"
+    },
+    {
+      "name": "ada_forth",
+      "repo": "https://github.com/plops/ada_forth",
+      "language": "Ada"
+    },
+    {
+      "name": "ada_sensor_fusion",
+      "repo": "https://github.com/plops/ada_sensor_fusion",
+      "language": "Ada"
+    },
+    {
+      "name": "ada_lisp",
+      "repo": "https://github.com/plops/ada_lisp",
+      "language": "Ada"
+    },
+    {
+      "name": "chinesisch-lernen",
+      "repo": "https://github.com/plops/chinesisch-lernen",
+      "language": "Typst"
+    },
+    {
+      "name": "coalton-rust-generator",
+      "repo": "https://github.com/plops/coalton-rust-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "aom-decode",
+      "repo": "https://github.com/plops/aom-decode",
+      "language": "Rust"
+    },
+    {
+      "name": "white-rabbit",
+      "repo": "https://github.com/plops/white-rabbit",
+      "language": "TeX"
+    },
+    {
+      "name": "etherbone-core",
+      "repo": "https://github.com/plops/etherbone-core",
+      "language": "C"
+    },
+    {
+      "name": "arduino_due_lisp",
+      "repo": "https://github.com/plops/arduino_due_lisp",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "K325T_SFP_PCIE_2021",
+      "repo": "https://github.com/plops/K325T_SFP_PCIE_2021",
+      "language": "Verilog"
+    },
+    {
+      "name": "cl-r-generator",
+      "repo": "https://github.com/plops/cl-r-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "sb-look-ma-no-libusb",
+      "repo": "https://github.com/plops/sb-look-ma-no-libusb",
+      "language": "Python"
+    },
+    {
+      "name": "cl-pl2303",
+      "repo": "https://github.com/plops/cl-pl2303",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "html5_surveillance",
+      "repo": "https://github.com/plops/html5_surveillance",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-js-generator",
+      "repo": "https://github.com/plops/cl-js-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-online-gnuplot",
+      "repo": "https://github.com/plops/cl-online-gnuplot",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-rust-adalm-pluto-glfw",
+      "repo": "https://github.com/plops/cl-rust-adalm-pluto-glfw",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "fiber-holo",
+      "repo": "https://github.com/plops/fiber-holo",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "ryzen_managment_linux",
+      "repo": "https://github.com/plops/ryzen_managment_linux",
+      "language": "C++"
+    },
+    {
+      "name": "napa-fft3-test-2d",
+      "repo": "https://github.com/plops/napa-fft3-test-2d",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "bacon_fb_test",
+      "repo": "https://github.com/plops/bacon_fb_test",
+      "language": "C"
+    },
+    {
+      "name": "cl-fm-radio-rds",
+      "repo": "https://github.com/plops/cl-fm-radio-rds",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "x11_crosshair",
+      "repo": "https://github.com/plops/x11_crosshair",
+      "language": "C++"
+    },
+    {
+      "name": "neuro-term-rs",
+      "repo": "https://github.com/plops/neuro-term-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "transcript-explorer-rs",
+      "repo": "https://github.com/plops/transcript-explorer-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "rs-example-self-update",
+      "repo": "https://github.com/plops/rs-example-self-update",
+      "language": "Rust"
+    },
+    {
+      "name": "convdicom",
+      "repo": "https://github.com/plops/convdicom",
+      "language": "Python"
+    },
+    {
+      "name": "gemini-summary-embedding",
+      "repo": "https://github.com/plops/gemini-summary-embedding",
+      "language": "HTML"
+    },
+    {
+      "name": "virology_2025",
+      "repo": "https://github.com/plops/virology_2025"
+    },
+    {
+      "name": "olisun_psych",
+      "repo": "https://github.com/plops/olisun_psych",
+      "language": "Typst"
+    },
+    {
+      "name": "pascalc",
+      "repo": "https://github.com/plops/pascalc",
+      "language": "Pascal"
+    },
+    {
+      "name": "hypermedia-systems-book-summary",
+      "repo": "https://github.com/plops/hypermedia-systems-book-summary"
+    },
+    {
+      "name": "x11_blazeface",
+      "repo": "https://github.com/plops/x11_blazeface",
+      "language": "Starlark"
+    },
+    {
+      "name": "rocketrecap2",
+      "repo": "https://github.com/plops/rocketrecap2",
+      "language": "Python"
+    },
+    {
+      "name": "gemini-normalize-links",
+      "repo": "https://github.com/plops/gemini-normalize-links",
+      "language": "Python"
+    },
+    {
+      "name": "play_with_queues",
+      "repo": "https://github.com/plops/play_with_queues",
+      "language": "C++"
+    },
+    {
+      "name": "fcs-plotter",
+      "repo": "https://github.com/plops/fcs-plotter",
+      "language": "Python"
+    },
+    {
+      "name": "cytometry-umap-plot",
+      "repo": "https://github.com/plops/cytometry-umap-plot",
+      "language": "Python"
+    },
+    {
+      "name": "sapkowski_in_english",
+      "repo": "https://github.com/plops/sapkowski_in_english"
+    },
+    {
+      "name": "gemini-competition",
+      "repo": "https://github.com/plops/gemini-competition",
+      "url": "https://rocketrecap.com",
+      "language": "Python"
+    },
+    {
+      "name": "jaxopt_paper_german",
+      "repo": "https://github.com/plops/jaxopt_paper_german",
+      "language": "TeX"
+    },
+    {
+      "name": "cl-typescript-generator",
+      "repo": "https://github.com/plops/cl-typescript-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-kotlin-generator",
+      "repo": "https://github.com/plops/cl-kotlin-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "st",
+      "repo": "https://github.com/plops/st",
+      "language": "C"
+    },
+    {
+      "name": "cl-csharp-generator",
+      "repo": "https://github.com/plops/cl-csharp-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl_nbdev_test",
+      "repo": "https://github.com/plops/cl_nbdev_test",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "cl-golang-generator",
+      "repo": "https://github.com/plops/cl-golang-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "build_pluto_firmware",
+      "repo": "https://github.com/plops/build_pluto_firmware",
+      "language": "C++"
+    },
+    {
+      "name": "try_ferret",
+      "repo": "https://github.com/plops/try_ferret",
+      "language": "Clojure"
+    },
+    {
+      "name": "cl-erlang-generator",
+      "repo": "https://github.com/plops/cl-erlang-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "try_gh_actions",
+      "repo": "https://github.com/plops/try_gh_actions"
+    },
+    {
+      "name": "cl-julia-generator",
+      "repo": "https://github.com/plops/cl-julia-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-verilog-generator",
+      "repo": "https://github.com/plops/cl-verilog-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "try_clojurescript",
+      "repo": "https://github.com/plops/try_clojurescript",
+      "language": "Clojure"
+    },
+    {
+      "name": "cl-vba-generator",
+      "repo": "https://github.com/plops/cl-vba-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "play_with_clasp",
+      "repo": "https://github.com/plops/play_with_clasp",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-tcl-generator",
+      "repo": "https://github.com/plops/cl-tcl-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-commonlisp-generator",
+      "repo": "https://github.com/plops/cl-commonlisp-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "copernicus-radar",
+      "repo": "https://github.com/plops/copernicus-radar",
+      "language": "C++"
+    },
+    {
+      "name": "cl-elixir-generator",
+      "repo": "https://github.com/plops/cl-elixir-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "plops.github.io",
+      "repo": "https://github.com/plops/plops.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "pages",
+      "repo": "https://github.com/plops/pages",
+      "language": "Shell"
+    },
+    {
+      "name": "cl-m-generator",
+      "repo": "https://github.com/plops/cl-m-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-cpp-generator",
+      "repo": "https://github.com/plops/cl-cpp-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-py-finance",
+      "repo": "https://github.com/plops/cl-py-finance",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-try-lispworks",
+      "repo": "https://github.com/plops/cl-try-lispworks",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-swift-generator",
+      "repo": "https://github.com/plops/cl-swift-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-rust-cuda-vis",
+      "repo": "https://github.com/plops/cl-rust-cuda-vis",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-rust-adalm-pluto",
+      "repo": "https://github.com/plops/cl-rust-adalm-pluto",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-rs-amd-uprof-viewer",
+      "repo": "https://github.com/plops/cl-rs-amd-uprof-viewer",
+      "language": "C++"
+    },
+    {
+      "name": "cl-gen2-optix",
+      "repo": "https://github.com/plops/cl-gen2-optix",
+      "language": "C++"
+    },
+    {
+      "name": "cl-gen2-glfw-imgui",
+      "repo": "https://github.com/plops/cl-gen2-glfw-imgui",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "compare_python_plotting",
+      "repo": "https://github.com/plops/compare_python_plotting",
+      "language": "Python"
+    },
+    {
+      "name": "cl-yasm-golang",
+      "repo": "https://github.com/plops/cl-yasm-golang",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "ecl-termux-binary",
+      "repo": "https://github.com/plops/ecl-termux-binary"
+    },
+    {
+      "name": "learn_py_iio",
+      "repo": "https://github.com/plops/learn_py_iio",
+      "language": "Python"
+    },
+    {
+      "name": "cl-try-iup",
+      "repo": "https://github.com/plops/cl-try-iup",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "satellite-plot",
+      "repo": "https://github.com/plops/satellite-plot",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-gen-cpp-wasm",
+      "repo": "https://github.com/plops/cl-gen-cpp-wasm",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "py_scrape_stuff",
+      "repo": "https://github.com/plops/py_scrape_stuff",
+      "language": "Python"
+    }
+  ]
+}

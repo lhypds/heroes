@@ -1,0 +1,512 @@
+{
+  "handle": "jwiegley",
+  "name": "John Wiegley",
+  "github": [
+    "https://github.com/jwiegley"
+  ],
+  "bio": "Haskell & Coq programmer, Emacs devotee, Nix user, and member of the Bahá‘í Faith.",
+  "own_repos": 176,
+  "commits": 26755,
+  "apps": [],
+  "repos": [
+    {
+      "name": "category-theory",
+      "repo": "https://github.com/jwiegley/category-theory",
+      "language": "Rocq Prover"
+    },
+    {
+      "name": "nix-config",
+      "repo": "https://github.com/jwiegley/nix-config",
+      "language": "Nix"
+    },
+    {
+      "name": "nixos-config",
+      "repo": "https://github.com/jwiegley/nixos-config",
+      "language": "Nix"
+    },
+    {
+      "name": "pi-idle-check",
+      "repo": "https://github.com/jwiegley/pi-idle-check",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-workflows",
+      "repo": "https://github.com/jwiegley/agent-workflows",
+      "language": "Haskell"
+    },
+    {
+      "name": "dot-emacs",
+      "repo": "https://github.com/jwiegley/dot-emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "recordings",
+      "repo": "https://github.com/jwiegley/recordings",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-cat",
+      "repo": "https://github.com/jwiegley/agent-cat",
+      "language": "Haskell"
+    },
+    {
+      "name": "llm-setup",
+      "repo": "https://github.com/jwiegley/llm-setup",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-agents",
+      "repo": "https://github.com/jwiegley/org-agents",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "scripts",
+      "repo": "https://github.com/jwiegley/scripts",
+      "language": "Python"
+    },
+    {
+      "name": "ob-gptel",
+      "repo": "https://github.com/jwiegley/ob-gptel",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pi-flag",
+      "repo": "https://github.com/jwiegley/pi-flag",
+      "language": "TypeScript"
+    },
+    {
+      "name": "org-jw",
+      "repo": "https://github.com/jwiegley/org-jw",
+      "language": "Haskell"
+    },
+    {
+      "name": "dirscan",
+      "repo": "https://github.com/jwiegley/dirscan",
+      "language": "Python"
+    },
+    {
+      "name": "washsale",
+      "repo": "https://github.com/jwiegley/washsale",
+      "language": "Rocq Prover"
+    },
+    {
+      "name": "incite",
+      "repo": "https://github.com/jwiegley/incite",
+      "language": "Haskell"
+    },
+    {
+      "name": "agent-functor",
+      "repo": "https://github.com/jwiegley/agent-functor",
+      "language": "Haskell"
+    },
+    {
+      "name": "sessions",
+      "repo": "https://github.com/jwiegley/sessions",
+      "language": "Shell"
+    },
+    {
+      "name": "sizes",
+      "repo": "https://github.com/jwiegley/sizes",
+      "language": "Haskell"
+    },
+    {
+      "name": "pushme",
+      "repo": "https://github.com/jwiegley/pushme",
+      "language": "Haskell"
+    },
+    {
+      "name": "gitlib",
+      "repo": "https://github.com/jwiegley/gitlib",
+      "language": "Haskell"
+    },
+    {
+      "name": "promptdeploy",
+      "repo": "https://github.com/jwiegley/promptdeploy",
+      "language": "Python"
+    },
+    {
+      "name": "org-wiki",
+      "repo": "https://github.com/jwiegley/org-wiki",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-async",
+      "repo": "https://github.com/jwiegley/emacs-async",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "epi",
+      "repo": "https://github.com/jwiegley/epi"
+    },
+    {
+      "name": "ai-nix",
+      "repo": "https://github.com/jwiegley/ai-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "c2hsc",
+      "repo": "https://github.com/jwiegley/c2hsc",
+      "language": "Haskell"
+    },
+    {
+      "name": "translate-tool",
+      "repo": "https://github.com/jwiegley/translate-tool",
+      "language": "Python"
+    },
+    {
+      "name": "comparable",
+      "repo": "https://github.com/jwiegley/comparable",
+      "language": "Rust"
+    },
+    {
+      "name": "convention-speaker-list",
+      "repo": "https://github.com/jwiegley/convention-speaker-list",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rag-client",
+      "repo": "https://github.com/jwiegley/rag-client",
+      "language": "Python"
+    },
+    {
+      "name": "gptel-prompts",
+      "repo": "https://github.com/jwiegley/gptel-prompts",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "correspondence",
+      "repo": "https://github.com/jwiegley/correspondence",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hf",
+      "repo": "https://github.com/jwiegley/hf",
+      "language": "Python"
+    },
+    {
+      "name": "chainweb-node-exporter",
+      "repo": "https://github.com/jwiegley/chainweb-node-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "org-drafts",
+      "repo": "https://github.com/jwiegley/org-drafts",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-agenda-overlay",
+      "repo": "https://github.com/jwiegley/org-agenda-overlay",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "simple-ltl",
+      "repo": "https://github.com/jwiegley/simple-ltl",
+      "language": "Haskell"
+    },
+    {
+      "name": "pending",
+      "repo": "https://github.com/jwiegley/pending",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "coq-cds4ltl",
+      "repo": "https://github.com/jwiegley/coq-cds4ltl",
+      "language": "Rocq Prover"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/jwiegley/notes",
+      "language": "Haskell"
+    },
+    {
+      "name": "ecard",
+      "repo": "https://github.com/jwiegley/ecard",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-table-loeb",
+      "repo": "https://github.com/jwiegley/org-table-loeb",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org2jsonl",
+      "repo": "https://github.com/jwiegley/org2jsonl",
+      "language": "Rust"
+    },
+    {
+      "name": "org-hash",
+      "repo": "https://github.com/jwiegley/org-hash",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "linkdups",
+      "repo": "https://github.com/jwiegley/linkdups",
+      "language": "Python"
+    },
+    {
+      "name": "renamer",
+      "repo": "https://github.com/jwiegley/renamer",
+      "language": "Haskell"
+    },
+    {
+      "name": "hours",
+      "repo": "https://github.com/jwiegley/hours",
+      "language": "Haskell"
+    },
+    {
+      "name": "trade-journal",
+      "repo": "https://github.com/jwiegley/trade-journal",
+      "language": "Haskell"
+    },
+    {
+      "name": "broken",
+      "repo": "https://github.com/jwiegley/broken",
+      "language": "Shell"
+    },
+    {
+      "name": "github-cleanup",
+      "repo": "https://github.com/jwiegley/github-cleanup",
+      "language": "Python"
+    },
+    {
+      "name": "coq-jlib",
+      "repo": "https://github.com/jwiegley/coq-jlib",
+      "language": "Rocq Prover"
+    },
+    {
+      "name": "simple-amount",
+      "repo": "https://github.com/jwiegley/simple-amount",
+      "language": "Haskell"
+    },
+    {
+      "name": "emacs-chess",
+      "repo": "https://github.com/jwiegley/emacs-chess",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "alert",
+      "repo": "https://github.com/jwiegley/alert",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "una",
+      "repo": "https://github.com/jwiegley/una",
+      "language": "Haskell"
+    },
+    {
+      "name": "three-partition",
+      "repo": "https://github.com/jwiegley/three-partition",
+      "language": "Haskell"
+    },
+    {
+      "name": "hashdb",
+      "repo": "https://github.com/jwiegley/hashdb",
+      "language": "Python"
+    },
+    {
+      "name": "git-scripts",
+      "repo": "https://github.com/jwiegley/git-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "git-all",
+      "repo": "https://github.com/jwiegley/git-all",
+      "language": "Haskell"
+    },
+    {
+      "name": "gh-to-org",
+      "repo": "https://github.com/jwiegley/gh-to-org",
+      "language": "Python"
+    },
+    {
+      "name": "magit-ai",
+      "repo": "https://github.com/jwiegley/magit-ai",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "coq-pipes",
+      "repo": "https://github.com/jwiegley/coq-pipes",
+      "language": "Rocq Prover"
+    },
+    {
+      "name": "messages-universal-house-of-justice",
+      "repo": "https://github.com/jwiegley/messages-universal-house-of-justice"
+    },
+    {
+      "name": "coq-lattice",
+      "repo": "https://github.com/jwiegley/coq-lattice",
+      "language": "Rocq Prover"
+    },
+    {
+      "name": "claude-prompts",
+      "repo": "https://github.com/jwiegley/claude-prompts",
+      "language": "Python"
+    },
+    {
+      "name": "sacred-writings",
+      "repo": "https://github.com/jwiegley/sacred-writings",
+      "language": "TeX"
+    },
+    {
+      "name": "vulpea-field",
+      "repo": "https://github.com/jwiegley/vulpea-field",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "rocq-transformer",
+      "repo": "https://github.com/jwiegley/rocq-transformer",
+      "language": "Rocq Prover"
+    },
+    {
+      "name": "hs-annotated-transformer",
+      "repo": "https://github.com/jwiegley/hs-annotated-transformer",
+      "language": "Haskell"
+    },
+    {
+      "name": "org-beamer-template",
+      "repo": "https://github.com/jwiegley/org-beamer-template",
+      "language": "TeX"
+    },
+    {
+      "name": "wallet",
+      "repo": "https://github.com/jwiegley/wallet",
+      "language": "Nix"
+    },
+    {
+      "name": "planner",
+      "repo": "https://github.com/jwiegley/planner",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "remember",
+      "repo": "https://github.com/jwiegley/remember",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "muse",
+      "repo": "https://github.com/jwiegley/muse",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ready-lisp",
+      "repo": "https://github.com/jwiegley/ready-lisp",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "simplefin-download",
+      "repo": "https://github.com/jwiegley/simplefin-download",
+      "language": "Haskell"
+    },
+    {
+      "name": "gptel-litellm",
+      "repo": "https://github.com/jwiegley/gptel-litellm",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "springboard",
+      "repo": "https://github.com/jwiegley/springboard",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-devonthink",
+      "repo": "https://github.com/jwiegley/org-devonthink",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "machines",
+      "repo": "https://github.com/jwiegley/machines",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "gptel-rag",
+      "repo": "https://github.com/jwiegley/gptel-rag",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "gnus-harvest",
+      "repo": "https://github.com/jwiegley/gnus-harvest",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ragflow-imap",
+      "repo": "https://github.com/jwiegley/ragflow-imap",
+      "language": "Python"
+    },
+    {
+      "name": "ragflow-cli",
+      "repo": "https://github.com/jwiegley/ragflow-cli",
+      "language": "Python"
+    },
+    {
+      "name": "indigo-protocol",
+      "repo": "https://github.com/jwiegley/indigo-protocol",
+      "language": "Pact"
+    },
+    {
+      "name": "start-kadena",
+      "repo": "https://github.com/jwiegley/start-kadena",
+      "language": "Nix"
+    },
+    {
+      "name": "use-package-examples",
+      "repo": "https://github.com/jwiegley/use-package-examples"
+    },
+    {
+      "name": "git-undo-el",
+      "repo": "https://github.com/jwiegley/git-undo-el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "putting-lenses-to-work",
+      "repo": "https://github.com/jwiegley/putting-lenses-to-work",
+      "language": "Haskell"
+    },
+    {
+      "name": "thinking-with-functions",
+      "repo": "https://github.com/jwiegley/thinking-with-functions",
+      "language": "Nix"
+    },
+    {
+      "name": "cambl",
+      "repo": "https://github.com/jwiegley/cambl",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "git-from-the-bottom-up",
+      "repo": "https://github.com/jwiegley/git-from-the-bottom-up",
+      "url": "https://jwiegley.github.io/git-from-the-bottom-up/",
+      "language": "SCSS"
+    },
+    {
+      "name": "use-package",
+      "repo": "https://github.com/jwiegley/use-package",
+      "url": "https://jwiegley.github.io/use-package",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "periods",
+      "repo": "https://github.com/jwiegley/periods",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "org-context",
+      "repo": "https://github.com/jwiegley/org-context",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "nix-update-el",
+      "repo": "https://github.com/jwiegley/nix-update-el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "drafts",
+      "repo": "https://github.com/jwiegley/drafts",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "gptel-emacs-tools",
+      "repo": "https://github.com/jwiegley/gptel-emacs-tools",
+      "language": "Emacs Lisp"
+    }
+  ]
+}

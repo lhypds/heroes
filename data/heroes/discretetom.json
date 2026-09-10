@@ -1,0 +1,518 @@
+{
+  "handle": "discretetom",
+  "name": "discretetom",
+  "github": [
+    "https://github.com/discretetom"
+  ],
+  "own_repos": 131,
+  "commits": 10073,
+  "apps": [],
+  "repos": [
+    {
+      "name": "DiscreteTom",
+      "repo": "https://github.com/DiscreteTom/DiscreteTom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "outbridge",
+      "repo": "https://github.com/DiscreteTom/outbridge",
+      "language": "Rust"
+    },
+    {
+      "name": "tts-card-naming-tool",
+      "repo": "https://github.com/DiscreteTom/tts-card-naming-tool",
+      "url": "https://discretetom.github.io/tts-card-naming-tool/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kiro-metrics-exporter",
+      "repo": "https://github.com/DiscreteTom/kiro-metrics-exporter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "juan",
+      "repo": "https://github.com/DiscreteTom/juan",
+      "language": "Rust"
+    },
+    {
+      "name": "godot-4.6-xr-template",
+      "repo": "https://github.com/DiscreteTom/godot-4.6-xr-template",
+      "language": "GDScript"
+    },
+    {
+      "name": "agent-skills-mcp-rs",
+      "repo": "https://github.com/DiscreteTom/agent-skills-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "tiny-loop",
+      "repo": "https://github.com/DiscreteTom/tiny-loop",
+      "url": "https://docs.rs/tiny-loop/latest/tiny_loop/",
+      "language": "Rust"
+    },
+    {
+      "name": "toml-scaffold",
+      "repo": "https://github.com/DiscreteTom/toml-scaffold",
+      "language": "Rust"
+    },
+    {
+      "name": "prompts",
+      "repo": "https://github.com/DiscreteTom/prompts"
+    },
+    {
+      "name": "shinkuro",
+      "repo": "https://github.com/DiscreteTom/shinkuro",
+      "language": "Python"
+    },
+    {
+      "name": "shinkuro-rs",
+      "repo": "https://github.com/DiscreteTom/shinkuro-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-skills-mcp",
+      "repo": "https://github.com/DiscreteTom/agent-skills-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "kiro-management-api",
+      "repo": "https://github.com/DiscreteTom/kiro-management-api",
+      "language": "Python"
+    },
+    {
+      "name": "stickdeck-rs",
+      "repo": "https://github.com/DiscreteTom/stickdeck-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "mock-mcp-server",
+      "repo": "https://github.com/DiscreteTom/mock-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "dtx",
+      "repo": "https://github.com/DiscreteTom/dtx",
+      "language": "Rust"
+    },
+    {
+      "name": "rusty-duplication",
+      "repo": "https://github.com/DiscreteTom/rusty-duplication",
+      "language": "Rust"
+    },
+    {
+      "name": "aws-sigv4-req-builder-skill",
+      "repo": "https://github.com/DiscreteTom/aws-sigv4-req-builder-skill"
+    },
+    {
+      "name": "whitehole",
+      "repo": "https://github.com/DiscreteTom/whitehole",
+      "url": "https://docs.rs/whitehole/",
+      "language": "Rust"
+    },
+    {
+      "name": "amazon-q-developer-batch-register",
+      "repo": "https://github.com/DiscreteTom/amazon-q-developer-batch-register",
+      "language": "Python"
+    },
+    {
+      "name": "dtx-test-fixture",
+      "repo": "https://github.com/DiscreteTom/dtx-test-fixture",
+      "language": "Rust"
+    },
+    {
+      "name": "amazon-q-developer-cli-for-windows",
+      "repo": "https://github.com/DiscreteTom/amazon-q-developer-cli-for-windows",
+      "language": "Batchfile"
+    },
+    {
+      "name": "webping",
+      "repo": "https://github.com/DiscreteTom/webping",
+      "url": "https://discretetom.github.io/webping/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agents.md",
+      "repo": "https://github.com/DiscreteTom/agents.md"
+    },
+    {
+      "name": "refdict",
+      "repo": "https://github.com/DiscreteTom/refdict",
+      "url": "https://pypi.org/project/refdict/",
+      "language": "Python"
+    },
+    {
+      "name": "godot-4.4-xr-template",
+      "repo": "https://github.com/DiscreteTom/godot-4.4-xr-template",
+      "language": "GDScript"
+    },
+    {
+      "name": "q-cli-history-inspector",
+      "repo": "https://github.com/DiscreteTom/q-cli-history-inspector",
+      "url": "https://discretetom.github.io/q-cli-history-inspector/",
+      "language": "Vue"
+    },
+    {
+      "name": "auto-q",
+      "repo": "https://github.com/DiscreteTom/auto-q",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "q-cli-botgroup",
+      "repo": "https://github.com/DiscreteTom/q-cli-botgroup",
+      "language": "JavaScript"
+    },
+    {
+      "name": "defect",
+      "repo": "https://github.com/DiscreteTom/defect",
+      "language": "Rust"
+    },
+    {
+      "name": "defect-demo",
+      "repo": "https://github.com/DiscreteTom/defect-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "setup-defect",
+      "repo": "https://github.com/DiscreteTom/setup-defect",
+      "url": "https://github.com/marketplace/actions/setup-defect"
+    },
+    {
+      "name": "setup-rust-cross",
+      "repo": "https://github.com/DiscreteTom/setup-rust-cross",
+      "url": "https://github.com/marketplace/actions/setup-rust-cross"
+    },
+    {
+      "name": "in_str",
+      "repo": "https://github.com/DiscreteTom/in_str",
+      "language": "Rust"
+    },
+    {
+      "name": "string-hover",
+      "repo": "https://github.com/DiscreteTom/string-hover",
+      "language": "TypeScript"
+    },
+    {
+      "name": "retsac",
+      "repo": "https://github.com/DiscreteTom/retsac",
+      "url": "https://discretetom.github.io/retsac/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "whitehole-bench",
+      "repo": "https://github.com/DiscreteTom/whitehole-bench",
+      "language": "Rust"
+    },
+    {
+      "name": "aws-lambda-python-custom-dns",
+      "repo": "https://github.com/DiscreteTom/aws-lambda-python-custom-dns",
+      "language": "Python"
+    },
+    {
+      "name": "UniStart",
+      "repo": "https://github.com/DiscreteTom/UniStart",
+      "language": "C#"
+    },
+    {
+      "name": "sam-private-rest-api",
+      "repo": "https://github.com/DiscreteTom/sam-private-rest-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stickdeck",
+      "repo": "https://github.com/DiscreteTom/stickdeck",
+      "language": "Python"
+    },
+    {
+      "name": "aws-lambda-log-filter",
+      "repo": "https://github.com/DiscreteTom/aws-lambda-log-filter",
+      "language": "Rust"
+    },
+    {
+      "name": "aws-lambda-log-proxy",
+      "repo": "https://github.com/DiscreteTom/aws-lambda-log-proxy",
+      "language": "Rust"
+    },
+    {
+      "name": "aws-lambda-runtime-proxy",
+      "repo": "https://github.com/DiscreteTom/aws-lambda-runtime-proxy",
+      "language": "Rust"
+    },
+    {
+      "name": "discretetom.github.io",
+      "repo": "https://github.com/DiscreteTom/discretetom.github.io",
+      "url": "https://discretetom.github.io/"
+    },
+    {
+      "name": "onnx-on-aws-lambda-arm64",
+      "repo": "https://github.com/DiscreteTom/onnx-on-aws-lambda-arm64",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "aws-lambda-post-runner",
+      "repo": "https://github.com/DiscreteTom/aws-lambda-post-runner",
+      "language": "Rust"
+    },
+    {
+      "name": "imgproxy-aws-sam-cn",
+      "repo": "https://github.com/DiscreteTom/imgproxy-aws-sam-cn",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "dttk",
+      "repo": "https://github.com/DiscreteTom/dttk",
+      "url": "https://dttk.discretetom.com",
+      "language": "Vue"
+    },
+    {
+      "name": "rust-analyzer-include-issue",
+      "repo": "https://github.com/DiscreteTom/rust-analyzer-include-issue",
+      "language": "Rust"
+    },
+    {
+      "name": "sam-moviepy",
+      "repo": "https://github.com/DiscreteTom/sam-moviepy",
+      "language": "Python"
+    },
+    {
+      "name": "sam-chat-boilerplate",
+      "repo": "https://github.com/DiscreteTom/sam-chat-boilerplate",
+      "language": "Python"
+    },
+    {
+      "name": "aws-lambda-runtime-api-inspector",
+      "repo": "https://github.com/DiscreteTom/aws-lambda-runtime-api-inspector",
+      "language": "Rust"
+    },
+    {
+      "name": "appsync-broadcast-benchmarker",
+      "repo": "https://github.com/DiscreteTom/appsync-broadcast-benchmarker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kontroller",
+      "repo": "https://github.com/DiscreteTom/kontroller",
+      "language": "Rust"
+    },
+    {
+      "name": "bedrock-claude3-hello-world",
+      "repo": "https://github.com/DiscreteTom/bedrock-claude3-hello-world",
+      "language": "Rust"
+    },
+    {
+      "name": "boruto",
+      "repo": "https://github.com/DiscreteTom/boruto",
+      "language": "Rust"
+    },
+    {
+      "name": "dt0",
+      "repo": "https://github.com/DiscreteTom/dt0",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-anchor",
+      "repo": "https://github.com/DiscreteTom/vscode-anchor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-ripgrep-utils",
+      "repo": "https://github.com/DiscreteTom/vscode-ripgrep-utils",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tmlb",
+      "repo": "https://github.com/DiscreteTom/tmlb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esc4sh",
+      "repo": "https://github.com/DiscreteTom/esc4sh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "r-compose",
+      "repo": "https://github.com/DiscreteTom/r-compose",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-dt0",
+      "repo": "https://github.com/DiscreteTom/vscode-dt0",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-retsac",
+      "repo": "https://github.com/DiscreteTom/vscode-retsac"
+    },
+    {
+      "name": "json-hover",
+      "repo": "https://github.com/DiscreteTom/json-hover",
+      "language": "TypeScript"
+    },
+    {
+      "name": "MirrorTest",
+      "repo": "https://github.com/DiscreteTom/MirrorTest",
+      "language": "C#"
+    },
+    {
+      "name": "Omnitrix",
+      "repo": "https://github.com/DiscreteTom/Omnitrix",
+      "url": "https://discretetom.github.io/Omnitrix/",
+      "language": "Vue"
+    },
+    {
+      "name": "ws-server",
+      "repo": "https://github.com/DiscreteTom/ws-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nuxt3-issue",
+      "repo": "https://github.com/DiscreteTom/nuxt3-issue",
+      "language": "Vue"
+    },
+    {
+      "name": "UniUtils",
+      "repo": "https://github.com/DiscreteTom/UniUtils",
+      "language": "C#"
+    },
+    {
+      "name": "HyperStudio",
+      "repo": "https://github.com/DiscreteTom/HyperStudio",
+      "language": "C#"
+    },
+    {
+      "name": "HyperDesktopDuplication",
+      "repo": "https://github.com/DiscreteTom/HyperDesktopDuplication",
+      "language": "C#"
+    },
+    {
+      "name": "hstp-rayneo-air",
+      "repo": "https://github.com/DiscreteTom/hstp-rayneo-air",
+      "language": "Rust"
+    },
+    {
+      "name": "shremdup",
+      "repo": "https://github.com/DiscreteTom/shremdup",
+      "language": "Rust"
+    },
+    {
+      "name": "bimark-playground",
+      "repo": "https://github.com/DiscreteTom/bimark-playground",
+      "url": "https://discretetom.github.io/bimark-playground/",
+      "language": "Vue"
+    },
+    {
+      "name": "unity3d-utils",
+      "repo": "https://github.com/DiscreteTom/unity3d-utils",
+      "language": "C#"
+    },
+    {
+      "name": "dt1",
+      "repo": "https://github.com/DiscreteTom/dt1",
+      "language": "TypeScript"
+    },
+    {
+      "name": "awesome-readme-cards",
+      "repo": "https://github.com/DiscreteTom/awesome-readme-cards"
+    },
+    {
+      "name": "vscode-bimark",
+      "repo": "https://github.com/DiscreteTom/vscode-bimark",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bimark-cli",
+      "repo": "https://github.com/DiscreteTom/bimark-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bimark",
+      "repo": "https://github.com/DiscreteTom/bimark",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dt-blog-boilerplate",
+      "repo": "https://github.com/DiscreteTom/dt-blog-boilerplate",
+      "language": "Vue"
+    },
+    {
+      "name": "WebCaster",
+      "repo": "https://github.com/DiscreteTom/WebCaster",
+      "url": "https://discretetom.github.io/WebCaster",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tcping",
+      "repo": "https://github.com/DiscreteTom/tcping",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mdcg",
+      "repo": "https://github.com/DiscreteTom/mdcg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "batcave",
+      "repo": "https://github.com/DiscreteTom/batcave",
+      "language": "TypeScript"
+    },
+    {
+      "name": "BBTAN",
+      "repo": "https://github.com/DiscreteTom/BBTAN",
+      "language": "ShaderLab"
+    },
+    {
+      "name": "custom-lens-gen",
+      "repo": "https://github.com/DiscreteTom/custom-lens-gen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ses-event-recorder",
+      "repo": "https://github.com/DiscreteTom/ses-event-recorder",
+      "language": "TypeScript"
+    },
+    {
+      "name": "raspi-os-builder-scripts",
+      "repo": "https://github.com/DiscreteTom/raspi-os-builder-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "ble-raspi-manager",
+      "repo": "https://github.com/DiscreteTom/ble-raspi-manager",
+      "language": "Go"
+    },
+    {
+      "name": "awsome-doctor",
+      "repo": "https://github.com/DiscreteTom/awsome-doctor",
+      "url": "https://discretetom.github.io/awsome-doctor/"
+    },
+    {
+      "name": "awsome-doctor-utils",
+      "repo": "https://github.com/DiscreteTom/awsome-doctor-utils",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awsome-doctor-cli",
+      "repo": "https://github.com/DiscreteTom/awsome-doctor-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awsome-doctor-core",
+      "repo": "https://github.com/DiscreteTom/awsome-doctor-core",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awsome-doctor-view",
+      "repo": "https://github.com/DiscreteTom/awsome-doctor-view",
+      "language": "Vue"
+    },
+    {
+      "name": "awsome-doctor-electron",
+      "repo": "https://github.com/DiscreteTom/awsome-doctor-electron",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Infrontier",
+      "repo": "https://github.com/DiscreteTom/Infrontier",
+      "language": "JavaScript"
+    }
+  ]
+}

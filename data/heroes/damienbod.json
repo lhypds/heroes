@@ -1,0 +1,590 @@
+{
+  "handle": "damienbod",
+  "name": "damienbod",
+  "github": [
+    "https://github.com/damienbod"
+  ],
+  "website": "https://damienbod.com/",
+  "bio": "I am living in Switzerland interested in web development, application security and Azure. Interests: ASP.NET Core, OpenID Connect, OAUTH, passkeys, SQL, Angular",
+  "own_repos": 249,
+  "commits": 13803,
+  "apps": [],
+  "repos": [
+    {
+      "name": "angular-auth-oidc-client",
+      "repo": "https://github.com/damienbod/angular-auth-oidc-client",
+      "url": "https://www.npmjs.com/package/angular-auth-oidc-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vibing",
+      "repo": "https://github.com/damienbod/vibing",
+      "language": "HTML"
+    },
+    {
+      "name": "ApiJwtWithTwoSts",
+      "repo": "https://github.com/damienbod/ApiJwtWithTwoSts",
+      "url": "https://damienbod.com/2020/12/03/securing-an-asp-net-core-api-which-uses-multiple-access-tokens/",
+      "language": "C#"
+    },
+    {
+      "name": "Auth0BffDpopApi",
+      "repo": "https://github.com/damienbod/Auth0BffDpopApi",
+      "language": "C#"
+    },
+    {
+      "name": "bff-auth0-aspnetcore-angular",
+      "repo": "https://github.com/damienbod/bff-auth0-aspnetcore-angular",
+      "url": "https://damienbod.com/2023/09/18/secure-angular-application-using-auth0-and-asp-net-core-with-bff/",
+      "language": "C#"
+    },
+    {
+      "name": "token-mgmt-ui-delegated-direct",
+      "repo": "https://github.com/damienbod/token-mgmt-ui-delegated-direct",
+      "url": "https://damienbod.com/2025/01/15/asp-net-core-user-delegated-access-token-management/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreApiAuthMultiIdentityProvider",
+      "repo": "https://github.com/damienbod/AspNetCoreApiAuthMultiIdentityProvider",
+      "url": "https://damienbod.com/2022/09/19/asp-net-core-api-auth-with-multiple-identity-providers/",
+      "language": "C#"
+    },
+    {
+      "name": "token-mgmt-ui-delegated-token-exchange",
+      "repo": "https://github.com/damienbod/token-mgmt-ui-delegated-token-exchange",
+      "url": "https://damienbod.com/2025/02/10/asp-net-core-delegated-oauth-token-exchange-access-token-management/",
+      "language": "C#"
+    },
+    {
+      "name": "MicrosoftEntraIDMultiApis",
+      "repo": "https://github.com/damienbod/MicrosoftEntraIDMultiApis",
+      "url": "https://damienbod.com/2023/01/30/using-multi-tenant-aad-delegated-apis-from-different-tenants/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreExperiments",
+      "repo": "https://github.com/damienbod/AspNetCoreExperiments",
+      "url": "https://damienbod.com/2021/06/28/sign-in-using-multiple-clients-or-tenants-in-asp-net-core-and-azure-ad/",
+      "language": "CSS"
+    },
+    {
+      "name": "AspNetCoreTenantSelect",
+      "repo": "https://github.com/damienbod/AspNetCoreTenantSelect",
+      "url": "https://damienbod.com/2022/10/31/switch-tenants-in-an-asp-net-core-app-using-azure-ad-with-multi-tenants/",
+      "language": "C#"
+    },
+    {
+      "name": "duende-multi-tenant",
+      "repo": "https://github.com/damienbod/duende-multi-tenant",
+      "url": "https://damienbod.com/2025/02/03/multiple-client-sign-in-customizations-using-duende-identity-provider/",
+      "language": "C#"
+    },
+    {
+      "name": "DPOP-aspnetcore-idp",
+      "repo": "https://github.com/damienbod/DPOP-aspnetcore-idp",
+      "language": "C#"
+    },
+    {
+      "name": "OAuthClientAssertions",
+      "repo": "https://github.com/damienbod/OAuthClientAssertions",
+      "url": "https://damienbod.com/2025/04/21/implement-client-assertions-for-oauth-client-credential-flows-in-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "oidc-par-aspnetcore-duende",
+      "repo": "https://github.com/damienbod/oidc-par-aspnetcore-duende",
+      "language": "C#"
+    },
+    {
+      "name": "oidc-client-assertion",
+      "repo": "https://github.com/damienbod/oidc-client-assertion",
+      "url": "https://damienbod.com/2025/02/24/use-client-assertions-in-openid-connect-and-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "DuendeEntraSaml",
+      "repo": "https://github.com/damienbod/DuendeEntraSaml",
+      "url": "https://damienbod.com/2026/07/27/implement-saml-as-an-external-provider-in-an-asp-net-core-identity-application-using-duende-as-an-oidc-server/",
+      "language": "C#"
+    },
+    {
+      "name": "bff-aspnetcore-angular",
+      "repo": "https://github.com/damienbod/bff-aspnetcore-angular",
+      "url": "https://damienbod.com/2023/09/11/implement-a-secure-web-application-using-nx-standalone-angular-and-an-asp-net-core-server/",
+      "language": "C#"
+    },
+    {
+      "name": "McpSecurity",
+      "repo": "https://github.com/damienbod/McpSecurity",
+      "url": "https://mcpoauthsecurity-hag0drckepathyb6.westeurope-01.azurewebsites.net/.well-known/oauth-protected-resource",
+      "language": "C#"
+    },
+    {
+      "name": "OAuthClientAssertionsPerInstance",
+      "repo": "https://github.com/damienbod/OAuthClientAssertionsPerInstance",
+      "url": "https://damienbod.com/2025/06/10/experimental-alternative-flow-for-oauth-first-party-applications/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreNCronJob",
+      "repo": "https://github.com/damienbod/AspNetCoreNCronJob",
+      "url": "https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "token-mgmt-ui-application",
+      "repo": "https://github.com/damienbod/token-mgmt-ui-application",
+      "url": "https://damienbod.com/2025/01/20/asp-net-core-user-application-access-token-management/",
+      "language": "C#"
+    },
+    {
+      "name": "SeparatingApisPerSecurityLevel",
+      "repo": "https://github.com/damienbod/SeparatingApisPerSecurityLevel",
+      "url": "https://damienbod.com/2021/04/12/securing-blazor-web-assembly-using-cookies-and-auth0/",
+      "language": "C#"
+    },
+    {
+      "name": "SendingEncryptedData",
+      "repo": "https://github.com/damienbod/SendingEncryptedData",
+      "language": "C#"
+    },
+    {
+      "name": "WebApiOpenApi",
+      "repo": "https://github.com/damienbod/WebApiOpenApi",
+      "url": "https://damienbod.com/2024/08/06/implementing-an-asp-net-core-api-with-net-9-and-openapi/",
+      "language": "C#"
+    },
+    {
+      "name": "MicrosoftGraphAppToAppSecurity",
+      "repo": "https://github.com/damienbod/MicrosoftGraphAppToAppSecurity",
+      "language": "C#"
+    },
+    {
+      "name": "OAuthGrantExchangeOidcDownstreamApi",
+      "repo": "https://github.com/damienbod/OAuthGrantExchangeOidcDownstreamApi",
+      "url": "https://damienbod.com/2023/01/09/implement-the-oauth-2-0-token-exchange-delegated-flow-between-an-azure-ad-api-and-an-api-protected-using-openiddict/",
+      "language": "C#"
+    },
+    {
+      "name": "DuendeProfileServiceAspNetCoreIdentity",
+      "repo": "https://github.com/damienbod/DuendeProfileServiceAspNetCoreIdentity",
+      "url": "https://damienbod.com/2025/05/19/using-multiple-external-identity-providers-from-asp-net-core-identity-and-duende-identityserver/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreOpenIddict",
+      "repo": "https://github.com/damienbod/AspNetCoreOpenIddict",
+      "url": "https://damienbod.com/2017/04/11/implementing-openid-implicit-flow-using-openiddict-and-angular/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreBackChannelLogout",
+      "repo": "https://github.com/damienbod/AspNetCoreBackChannelLogout",
+      "url": "https://damienbod.com/2018/12/18/openid-connect-back-channel-logout-using-azure-redis-cache-and-identityserver4/",
+      "language": "C#"
+    },
+    {
+      "name": "bff-openiddict-aspnetcore-angular",
+      "repo": "https://github.com/damienbod/bff-openiddict-aspnetcore-angular",
+      "url": "https://damienbod.com/2023/09/25/secure-angular-application-using-openiddict-and-asp-net-core-with-bff/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreQuartz",
+      "repo": "https://github.com/damienbod/AspNetCoreQuartz",
+      "url": "https://damienbod.com/2021/11/08/asp-net-core-scheduling-with-quartz-net-and-signalr-monitoring/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "BlazorServerOidc",
+      "repo": "https://github.com/damienbod/BlazorServerOidc",
+      "url": "https://damienbod.com/2024/01/03/securing-a-blazor-server-application-using-openid-connect-and-security-headers/",
+      "language": "C#"
+    },
+    {
+      "name": "EntraExternalIdCiam",
+      "repo": "https://github.com/damienbod/EntraExternalIdCiam",
+      "url": "https://damienbod.com/2023/05/30/asp-net-core-authentication-using-microsoft-entra-external-id-for-customers-ciam/",
+      "language": "C#"
+    },
+    {
+      "name": "EntraIdTokenLifeTimePolicies",
+      "repo": "https://github.com/damienbod/EntraIdTokenLifeTimePolicies",
+      "language": "C#"
+    },
+    {
+      "name": "MulitipleClientClaimsMapping",
+      "repo": "https://github.com/damienbod/MulitipleClientClaimsMapping",
+      "url": "https://damienbod.com/2023/11/13/authentication-with-multiple-identity-providers-in-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreCertificates",
+      "repo": "https://github.com/damienbod/AspNetCoreCertificates",
+      "url": "https://www.nuget.org/packages/CertificateManager/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreCertificateAuth",
+      "repo": "https://github.com/damienbod/AspNetCoreCertificateAuth",
+      "url": "https://damienbod.com/2019/06/13/certificate-authentication-in-asp-net-core-3-0/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreID4External",
+      "repo": "https://github.com/damienbod/AspNetCoreID4External",
+      "url": "https://damienbod.com/2019/05/17/updating-microsoft-account-logins-in-asp-net-core-with-openid-connect-and-azure-active-directory/",
+      "language": "C#"
+    },
+    {
+      "name": "McpOidcOAuth",
+      "repo": "https://github.com/damienbod/McpOidcOAuth",
+      "url": "https://damienbod.com/2025/11/03/implement-a-secure-mcp-server-using-oauth-dpop-and-duende-identity-provider/",
+      "language": "C#"
+    },
+    {
+      "name": "bff-aspnetcore-oidc-vuejs",
+      "repo": "https://github.com/damienbod/bff-aspnetcore-oidc-vuejs",
+      "language": "C#"
+    },
+    {
+      "name": "BlazorSecurityNet10",
+      "repo": "https://github.com/damienbod/BlazorSecurityNet10",
+      "language": "JavaScript"
+    },
+    {
+      "name": "GrpcAzureAppServiceAppAuth",
+      "repo": "https://github.com/damienbod/GrpcAzureAppServiceAppAuth",
+      "url": "https://damienbod.com/2022/08/29/secure-asp-net-core-grpc-api-hosted-in-a-linux-kestrel-azure-app-service/",
+      "language": "PowerShell"
+    },
+    {
+      "name": "AspNetCoreYarp",
+      "repo": "https://github.com/damienbod/AspNetCoreYarp",
+      "url": "https://damienbod.com/2021/01/11/protecting-legacy-apis-with-an-asp-net-core-yarp-reverse-proxy-and-azure-ad-oauth/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreHybridFlowWithApi",
+      "repo": "https://github.com/damienbod/AspNetCoreHybridFlowWithApi",
+      "url": "https://damienbod.com/2018/02/02/securing-an-asp-net-core-mvc-application-which-uses-a-secure-api/",
+      "language": "C#"
+    },
+    {
+      "name": "MicrosoftEntraIDAuthMicrosoftIdentityWeb",
+      "repo": "https://github.com/damienbod/MicrosoftEntraIDAuthMicrosoftIdentityWeb",
+      "url": "https://damienbod.com/2020/10/01/implement-azure-ad-client-credentials-flow-using-client-certificates-for-service-apis/",
+      "language": "CSS"
+    },
+    {
+      "name": "AspNetCoreFeatures.Toggles",
+      "repo": "https://github.com/damienbod/AspNetCoreFeatures.Toggles",
+      "url": "https://damienbod.com/2022/12/06/implement-feature-management-in-blazor-asp-net-core/",
+      "language": "CSS"
+    },
+    {
+      "name": "AspNetCoreB2cLogout",
+      "repo": "https://github.com/damienbod/AspNetCoreB2cLogout",
+      "url": "https://damienbod.com/2023/03/06/auto-sign-out-using-asp-net-core-razor-pages-with-azure-ad-b2c/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreMeIDCAE",
+      "repo": "https://github.com/damienbod/AspNetCoreMeIDCAE",
+      "url": "https://damienbod.com/2022/04/20/implement-azure-ad-continuous-access-evaluation-in-an-asp-net-core-razor-page-app-using-a-web-api/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreAzureAISearch",
+      "repo": "https://github.com/damienbod/AspNetCoreAzureAISearch",
+      "url": "https://damienbod.com/2020/10/19/implement-a-full-text-search-using-azure-cognitive-search-in-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "bff-aspnetcore-vuejs",
+      "repo": "https://github.com/damienbod/bff-aspnetcore-vuejs",
+      "url": "https://damienbod.com/2023/10/02/implement-a-secure-web-application-using-vue-js-and-an-asp-net-core-server/",
+      "language": "C#"
+    },
+    {
+      "name": "bff-aspnetcore-angular-downstream-api",
+      "repo": "https://github.com/damienbod/bff-aspnetcore-angular-downstream-api",
+      "url": "https://damienbod.com/2024/04/08/bff-secured-asp-net-core-application-using-downstream-api-and-an-oauth-client-credentials-jwt/",
+      "language": "C#"
+    },
+    {
+      "name": "token-mgmt-ui-delegated-obo-entra",
+      "repo": "https://github.com/damienbod/token-mgmt-ui-delegated-obo-entra",
+      "url": "https://damienbod.com/2025/03/25/asp-net-core-delegated-microsoft-obo-access-token-management-entra-only/",
+      "language": "C#"
+    },
+    {
+      "name": "AzureFunctionsSecurity",
+      "repo": "https://github.com/damienbod/AzureFunctionsSecurity",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreServiceBus",
+      "repo": "https://github.com/damienbod/AspNetCoreServiceBus",
+      "url": "https://damienbod.com/2019/04/23/using-azure-service-bus-queues-with-asp-net-core-services/",
+      "language": "C#"
+    },
+    {
+      "name": "AzureDurableFunctions",
+      "repo": "https://github.com/damienbod/AzureDurableFunctions",
+      "url": "https://damienbod.com/2020/07/06/using-external-inputs-in-azure-durable-functions/",
+      "language": "C#"
+    },
+    {
+      "name": "bff-aspnetcore-angular-downstream-cert-api",
+      "repo": "https://github.com/damienbod/bff-aspnetcore-angular-downstream-cert-api",
+      "url": "https://damienbod.com/2024/11/04/asp-net-core-and-angular-bff-using-a-yarp-downstream-api-protected-using-certificate-authentication/",
+      "language": "C#"
+    },
+    {
+      "name": "bff-MicrosoftEntraExternalID-aspnetcore-angular",
+      "repo": "https://github.com/damienbod/bff-MicrosoftEntraExternalID-aspnetcore-angular",
+      "language": "C#"
+    },
+    {
+      "name": "EndToEndSecurity",
+      "repo": "https://github.com/damienbod/EndToEndSecurity",
+      "url": "https://damienbod.com/2024/05/13/using-sonarcloud-with-asp-net-core-angular-and-github-actions/",
+      "language": "C#"
+    },
+    {
+      "name": "OnBehalfFlowOidcDownstreamApi",
+      "repo": "https://github.com/damienbod/OnBehalfFlowOidcDownstreamApi",
+      "url": "https://damienbod.com/2022/10/03/implement-the-on-behalf-of-flow-between-an-azure-ad-protected-api-and-an-api-protected-using-openiddict/",
+      "language": "C#"
+    },
+    {
+      "name": "sien-agov-poc",
+      "repo": "https://github.com/damienbod/sien-agov-poc",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreIdentityFido2Mfa",
+      "repo": "https://github.com/damienbod/AspNetCoreIdentityFido2Mfa",
+      "url": "https://damienbod.com/2019/08/06/asp-net-core-identity-with-fido2-webauthn-mfa/",
+      "language": "CSS"
+    },
+    {
+      "name": "bff-azureadb2c-aspnetcore-angular",
+      "repo": "https://github.com/damienbod/bff-azureadb2c-aspnetcore-angular",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreB2cExtraClaims",
+      "repo": "https://github.com/damienbod/AspNetCoreB2cExtraClaims",
+      "url": "https://damienbod.com/2021/11/15/add-extra-claims-to-an-azure-b2c-user-flow-using-api-connectors/",
+      "language": "C#"
+    },
+    {
+      "name": "IdentityExternalErrorHandling",
+      "repo": "https://github.com/damienbod/IdentityExternalErrorHandling",
+      "url": "https://damienbod.com/2025/06/02/handling-openid-connect-error-events-in-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "aspnetcore-scan-testing",
+      "repo": "https://github.com/damienbod/aspnetcore-scan-testing",
+      "language": "C#"
+    },
+    {
+      "name": "MicrosoftEntraIDReset",
+      "repo": "https://github.com/damienbod/MicrosoftEntraIDReset",
+      "url": "https://damienbod.com/2023/06/12/reset-user-account-passwords-using-microsoft-graph-and-application-permissions/",
+      "language": "C#"
+    },
+    {
+      "name": "keycloak-backchannel",
+      "repo": "https://github.com/damienbod/keycloak-backchannel",
+      "url": "https://damienbod.com/2024/09/02/implement-asp-net-core-openid-connect-oauth-par-client-with-keycloak-using-net-aspire/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreElasticsearchAuditTrail",
+      "repo": "https://github.com/damienbod/AspNetCoreElasticsearchAuditTrail",
+      "url": "https://damienbod.com/2017/02/28/implementing-an-audit-trail-using-asp-net-core-and-elasticsearch-with-nest/",
+      "language": "C#"
+    },
+    {
+      "name": "WebGeoElasticsearch",
+      "repo": "https://github.com/damienbod/WebGeoElasticsearch",
+      "url": "https://damienbod.com/2024/09/23/implement-a-geo-distance-search-using-net-aspire-elasticsearch-and-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "TeamsAdminUI",
+      "repo": "https://github.com/damienbod/TeamsAdminUI",
+      "language": "C#"
+    },
+    {
+      "name": "MicrosoftEntraIDMudBlazor",
+      "repo": "https://github.com/damienbod/MicrosoftEntraIDMudBlazor",
+      "url": "https://damienbod.com/2023/12/13/securing-a-mudblazor-ui-web-application-using-security-headers-and-microsoft-entra-id/",
+      "language": "CSS"
+    },
+    {
+      "name": "MicrosoftEntraIdTapOnboarding",
+      "repo": "https://github.com/damienbod/MicrosoftEntraIdTapOnboarding",
+      "url": "https://damienbod.com/2023/02/27/onboarding-users-in-asp-net-core-using-azure-ad-temporary-access-pass-and-microsoft-graph/",
+      "language": "C#"
+    },
+    {
+      "name": "ME-ID-Auth-MyUI-with-MyAPI",
+      "repo": "https://github.com/damienbod/ME-ID-Auth-MyUI-with-MyAPI",
+      "url": "https://damienbod.com/2020/05/29/login-and-use-asp-net-core-api-with-azure-ad-auth-and-user-access-tokens/",
+      "language": "PowerShell"
+    },
+    {
+      "name": "AspNetCoreMvcSharedLocalization",
+      "repo": "https://github.com/damienbod/AspNetCoreMvcSharedLocalization",
+      "url": "https://damienbod.com/2017/11/01/shared-localization-in-asp-net-core-mvc/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreBootstrap4Validation",
+      "repo": "https://github.com/damienbod/AspNetCoreBootstrap4Validation",
+      "url": "https://damienbod.com/2018/11/09/asp-net-core-mvc-ajax-form-requests-using-jquery-unobtrusive/",
+      "language": "CSS"
+    },
+    {
+      "name": "AspNetCoreFileUploadFileTable",
+      "repo": "https://github.com/damienbod/AspNetCoreFileUploadFileTable",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreLocalization",
+      "repo": "https://github.com/damienbod/AspNetCoreLocalization",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreInjectConfigurationRazor",
+      "repo": "https://github.com/damienbod/AspNetCoreInjectConfigurationRazor",
+      "url": "https://damienbod.com/2016/07/13/injecting-configurations-in-razor-views-in-asp-net-core/",
+      "language": "CSS"
+    },
+    {
+      "name": "AzureIoTHubDps",
+      "repo": "https://github.com/damienbod/AzureIoTHubDps",
+      "url": "https://damienbod.com/2020/02/20/provisioning-x-509-devices-for-azure-iot-hub-using-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "dev-day-sessions",
+      "repo": "https://github.com/damienbod/dev-day-sessions"
+    },
+    {
+      "name": "IdentityOidcPhone2fa",
+      "repo": "https://github.com/damienbod/IdentityOidcPhone2fa",
+      "url": "https://damienbod.com/2025/03/03/implement-phone-verification-2fa-using-asp-net-core-identity/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreEntraIdBlobStorage",
+      "repo": "https://github.com/damienbod/AspNetCoreEntraIdBlobStorage",
+      "url": "https://damienbod.com/2024/02/12/using-blob-storage-from-asp-net-core-with-entra-id-authentication/",
+      "language": "C#"
+    },
+    {
+      "name": "MfaServer",
+      "repo": "https://github.com/damienbod/MfaServer",
+      "url": "https://learn.microsoft.com/en-gb/entra/identity/authentication/concept-authentication-external-method-provider",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreBlazorMicrosoftGraph",
+      "repo": "https://github.com/damienbod/AspNetCoreBlazorMicrosoftGraph",
+      "url": "https://damienbod.com/2021/12/20/use-calendar-mailbox-settings-and-teams-presence-in-asp-net-core-hosted-blazor-wasm-with-microsoft-graph/",
+      "language": "CSS"
+    },
+    {
+      "name": "aspnetcore-azure-logging",
+      "repo": "https://github.com/damienbod/aspnetcore-azure-logging",
+      "url": "https://damienbod.com/2023/08/21/asp-net-core-logging-using-serilog-and-azure/",
+      "language": "HTML"
+    },
+    {
+      "name": "Blazor.BFF.OpenIDConnect.Template",
+      "repo": "https://github.com/damienbod/Blazor.BFF.OpenIDConnect.Template",
+      "url": "https://www.nuget.org/packages/Blazor.BFF.OpenIDConnect.Template/",
+      "language": "CSS"
+    },
+    {
+      "name": "UsingAzureKeyVaultInDevelopment",
+      "repo": "https://github.com/damienbod/UsingAzureKeyVaultInDevelopment",
+      "url": "https://damienbod.com/2024/12/02/using-asp-net-core-with-azure-key-vault/",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreCreatePdf",
+      "repo": "https://github.com/damienbod/AspNetCoreCreatePdf",
+      "url": "https://damienbod.com/2024/06/05/creating-and-downloading-a-pdf-or-docx-in-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "aspnetcore-standup-securing-apis",
+      "repo": "https://github.com/damienbod/aspnetcore-standup-securing-apis",
+      "url": "https://www.youtube.com/watch?v=31InoJvyCSA"
+    },
+    {
+      "name": "Blazor.BFF.AzureAD.Template",
+      "repo": "https://github.com/damienbod/Blazor.BFF.AzureAD.Template",
+      "url": "https://www.nuget.org/packages/Blazor.BFF.AzureAD.Template/",
+      "language": "CSS"
+    },
+    {
+      "name": "BlazorWebOidc",
+      "repo": "https://github.com/damienbod/BlazorWebOidc",
+      "url": "https://damienbod.com/2024/04/15/implement-a-secure-blazor-web-application-using-openid-connect-and-security-headers/",
+      "language": "C#"
+    },
+    {
+      "name": "AzurePim",
+      "repo": "https://github.com/damienbod/AzurePim",
+      "url": "https://damienbod.com/2023/05/15/use-azure-pim-with-groups-in-asp-net-core/",
+      "language": "C#"
+    },
+    {
+      "name": "Zurich-DNUG-2024-04-16",
+      "repo": "https://github.com/damienbod/Zurich-DNUG-2024-04-16",
+      "url": "https://www.meetup.com/de-DE/dotnet-zurich/events/299331660/",
+      "language": "CSS"
+    },
+    {
+      "name": "Hostedblazor8MeID",
+      "repo": "https://github.com/damienbod/Hostedblazor8MeID",
+      "url": "https://damienbod.com/2023/03/20/a-first-look-at-blazor-and-net-8/",
+      "language": "CSS"
+    },
+    {
+      "name": "aspnetcore-standup-authn-authz",
+      "repo": "https://github.com/damienbod/aspnetcore-standup-authn-authz"
+    },
+    {
+      "name": "presentations",
+      "repo": "https://github.com/damienbod/presentations"
+    },
+    {
+      "name": "Blazor.BFF.AzureB2C.Template",
+      "repo": "https://github.com/damienbod/Blazor.BFF.AzureB2C.Template",
+      "url": "https://www.nuget.org/packages/Blazor.BFF.AzureB2C.Template",
+      "language": "CSS"
+    },
+    {
+      "name": "AspNetCoreNlog",
+      "repo": "https://github.com/damienbod/AspNetCoreNlog",
+      "url": "https://damienbod.com/2016/08/17/asp-net-core-logging-with-nlog-and-microsoft-sql-server/",
+      "language": "C#"
+    },
+    {
+      "name": "ClientIpAspNetCoreIIS",
+      "repo": "https://github.com/damienbod/ClientIpAspNetCoreIIS",
+      "url": "https://damienbod.com/2016/12/18/implementing-a-client-white-list-using-asp-net-core-middleware/",
+      "language": "C#"
+    }
+  ]
+}

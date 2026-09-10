@@ -1,0 +1,553 @@
+{
+  "handle": "ology",
+  "name": "Gene Boggs",
+  "github": [
+    "https://github.com/ology"
+  ],
+  "website": "https://www.ology.net/",
+  "bio": "Epistemologist-at-large",
+  "own_repos": 181,
+  "commits": 27994,
+  "apps": [],
+  "repos": [
+    {
+      "name": "Music",
+      "repo": "https://github.com/ology/Music",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Drummer-Tiny",
+      "repo": "https://github.com/ology/MIDI-Drummer-Tiny",
+      "url": "https://metacpan.org/release/MIDI-Drummer-Tiny",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Drummer",
+      "repo": "https://github.com/ology/Music-Drummer",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Bassline-Walk",
+      "repo": "https://github.com/ology/MIDI-Bassline-Walk",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-RtController",
+      "repo": "https://github.com/ology/MIDI-RtController",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-RtMidi-Util",
+      "repo": "https://github.com/ology/MIDI-RtMidi-Util",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Percussion-Tabla",
+      "repo": "https://github.com/ology/Music-Percussion-Tabla",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-MelodicDevice-Arpeggiation",
+      "repo": "https://github.com/ology/Music-MelodicDevice-Arpeggiation",
+      "url": "https://metacpan.org/dist/Music-MelodicDevice-Arpeggiation",
+      "language": "Perl"
+    },
+    {
+      "name": "Data-Dataset-ChordProgressions",
+      "repo": "https://github.com/ology/Data-Dataset-ChordProgressions",
+      "url": "https://metacpan.org/dist/Music-Dataset-ChordProgressions",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Util",
+      "repo": "https://github.com/ology/MIDI-Util",
+      "url": "https://metacpan.org/release/MIDI-Util",
+      "language": "Perl"
+    },
+    {
+      "name": "Phrase-Generator",
+      "repo": "https://github.com/ology/Phrase-Generator",
+      "language": "CSS"
+    },
+    {
+      "name": "Music-Scales",
+      "repo": "https://github.com/ology/Music-Scales",
+      "url": "https://metacpan.org/dist/Music-Scales",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-RtController-Filter-Tonal",
+      "repo": "https://github.com/ology/MIDI-RtController-Filter-Tonal",
+      "language": "Perl"
+    },
+    {
+      "name": "Mojo-MIDIFilter",
+      "repo": "https://github.com/ology/Mojo-MIDIFilter",
+      "language": "Perl"
+    },
+    {
+      "name": "App-ChessInspector",
+      "repo": "https://github.com/ology/App-ChessInspector",
+      "language": "Perl"
+    },
+    {
+      "name": "App-MIDI-Ngram",
+      "repo": "https://github.com/ology/App-MIDI-Ngram",
+      "language": "Perl"
+    },
+    {
+      "name": "Data-Turtle",
+      "repo": "https://github.com/ology/Data-Turtle",
+      "url": "https://metacpan.org/release/Data-Turtle",
+      "language": "Perl"
+    },
+    {
+      "name": "Iterator-Breathe",
+      "repo": "https://github.com/ology/Iterator-Breathe",
+      "url": "https://metacpan.org/dist/Iterator-Breathe",
+      "language": "Perl"
+    },
+    {
+      "name": "Lingua-EN-Opinion",
+      "repo": "https://github.com/ology/Lingua-EN-Opinion",
+      "url": "https://metacpan.org/release/Lingua-EN-Opinion",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Chord-Guitar",
+      "repo": "https://github.com/ology/MIDI-Chord-Guitar",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Ngram",
+      "repo": "https://github.com/ology/MIDI-Ngram",
+      "url": "https://metacpan.org/release/MIDI-Ngram",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Praxis-Variation",
+      "repo": "https://github.com/ology/MIDI-Praxis-Variation",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Simple-Drummer",
+      "repo": "https://github.com/ology/MIDI-Simple-Drummer",
+      "url": "https://metacpan.org/release/MIDI-Simple-Drummer",
+      "language": "Perl"
+    },
+    {
+      "name": "MelodyPermute",
+      "repo": "https://github.com/ology/MelodyPermute",
+      "language": "Perl"
+    },
+    {
+      "name": "Mojo-DPDA",
+      "repo": "https://github.com/ology/Mojo-DPDA",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-BachChoralHarmony",
+      "repo": "https://github.com/ology/Music-BachChoralHarmony",
+      "url": "https://metacpan.org/release/Music-BachChoralHarmony",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Chord-Progression",
+      "repo": "https://github.com/ology/Music-Chord-Progression",
+      "url": "https://metacpan.org/release/Music-Chord-Progression",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Chord-Progression-Transform",
+      "repo": "https://github.com/ology/Music-Chord-Progression-Transform",
+      "url": "https://metacpan.org/pod/Music::Chord::Progression::Transform",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-CreatingRhythms",
+      "repo": "https://github.com/ology/Music-CreatingRhythms",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Duration",
+      "repo": "https://github.com/ology/Music-Duration",
+      "url": "https://metacpan.org/release/Music-Duration",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Duration-Partition",
+      "repo": "https://github.com/ology/Music-Duration-Partition",
+      "url": "https://metacpan.org/release/Music-Duration-Partition",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-FretboardDiagram",
+      "repo": "https://github.com/ology/Music-FretboardDiagram",
+      "url": "https://metacpan.org/release/Music-FretboardDiagram",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Intervals",
+      "repo": "https://github.com/ology/Music-Intervals",
+      "url": "https://metacpan.org/release/Music-Intervals",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-MelodicDevice-Inversion",
+      "repo": "https://github.com/ology/Music-MelodicDevice-Inversion",
+      "url": "https://metacpan.org/release/Music-MelodicDevice-Inversion",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-MelodicDevice-Ornamentation",
+      "repo": "https://github.com/ology/Music-MelodicDevice-Ornamentation",
+      "url": "https://metacpan.org/release/Music-MelodicDevice-Ornamentation",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-MelodicDevice-Transposition",
+      "repo": "https://github.com/ology/Music-MelodicDevice-Transposition",
+      "url": "https://metacpan.org/release/Music-MelodicDevice-Transposition",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-SimpleDrumMachine",
+      "repo": "https://github.com/ology/Music-SimpleDrumMachine",
+      "url": "https://metacpan.org/pod/Music::SimpleDrumMachine",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-ToRoman",
+      "repo": "https://github.com/ology/Music-ToRoman",
+      "url": "https://metacpan.org/release/Music-ToRoman",
+      "language": "Perl"
+    },
+    {
+      "name": "Synth-Config",
+      "repo": "https://github.com/ology/Synth-Config",
+      "url": "https://metacpan.org/dist/Synth-Config",
+      "language": "Perl"
+    },
+    {
+      "name": "WebService-YTSearch",
+      "repo": "https://github.com/ology/WebService-YTSearch",
+      "language": "Perl"
+    },
+    {
+      "name": "Word-Part",
+      "repo": "https://github.com/ology/Word-Part",
+      "language": "Perl"
+    },
+    {
+      "name": "audio-player",
+      "repo": "https://github.com/ology/audio-player",
+      "language": "Perl"
+    },
+    {
+      "name": "idi",
+      "repo": "https://github.com/ology/idi",
+      "url": "https://metacpan.org/dist/idi",
+      "language": "Perl"
+    },
+    {
+      "name": "ology.github.io",
+      "repo": "https://github.com/ology/ology.github.io",
+      "url": "https://ology.github.io/",
+      "language": "HTML"
+    },
+    {
+      "name": "techn.ology.net",
+      "repo": "https://github.com/ology/techn.ology.net",
+      "url": "https://ology.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "MIDI-RtController-Filter-CC",
+      "repo": "https://github.com/ology/MIDI-RtController-Filter-CC",
+      "url": "https://metacpan.org/dist/MIDI-RtController-Filter-CC",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-RtController-Filter-Drums",
+      "repo": "https://github.com/ology/MIDI-RtController-Filter-Drums",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-RtController-Filter",
+      "repo": "https://github.com/ology/MIDI-RtController-Filter",
+      "language": "Perl"
+    },
+    {
+      "name": "Mojo-WordPart",
+      "repo": "https://github.com/ology/Mojo-WordPart",
+      "language": "Perl"
+    },
+    {
+      "name": "Mojo-Shopping-List",
+      "repo": "https://github.com/ology/Mojo-Shopping-List",
+      "language": "Perl"
+    },
+    {
+      "name": "django-chess-inspector",
+      "repo": "https://github.com/ology/django-chess-inspector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Lingua-Word-Parser",
+      "repo": "https://github.com/ology/Lingua-Word-Parser",
+      "url": "https://metacpan.org/release/Lingua-Word-Parser",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-ModalFunction",
+      "repo": "https://github.com/ology/Music-ModalFunction",
+      "url": "https://metacpan.org/dist/Music-ModalFunction",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-VoicePhrase",
+      "repo": "https://github.com/ology/Music-VoicePhrase",
+      "language": "Perl"
+    },
+    {
+      "name": "Miscellaneous",
+      "repo": "https://github.com/ology/Miscellaneous",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-ScaleNote",
+      "repo": "https://github.com/ology/Music-ScaleNote",
+      "url": "https://metacpan.org/release/Music-ScaleNote",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Interval-Barycentric",
+      "repo": "https://github.com/ology/Music-Interval-Barycentric",
+      "url": "https://metacpan.org/release/Music-Interval-Barycentric",
+      "language": "Perl"
+    },
+    {
+      "name": "Jazz-Tool",
+      "repo": "https://github.com/ology/Jazz-Tool",
+      "language": "Perl"
+    },
+    {
+      "name": "Rock-Tool",
+      "repo": "https://github.com/ology/Rock-Tool",
+      "language": "Perl"
+    },
+    {
+      "name": "dzil",
+      "repo": "https://github.com/ology/dzil",
+      "language": "Perl"
+    },
+    {
+      "name": "LoFi",
+      "repo": "https://github.com/ology/LoFi",
+      "language": "Perl"
+    },
+    {
+      "name": "Python-Music-CreatingRhythms",
+      "repo": "https://github.com/ology/Python-Music-CreatingRhythms",
+      "language": "Python"
+    },
+    {
+      "name": "python-chord-progression-network",
+      "repo": "https://github.com/ology/python-chord-progression-network",
+      "language": "Python"
+    },
+    {
+      "name": "YT-AI-Summarizer",
+      "repo": "https://github.com/ology/YT-AI-Summarizer",
+      "language": "Python"
+    },
+    {
+      "name": "Python-MIDI-Device-Control",
+      "repo": "https://github.com/ology/Python-MIDI-Device-Control",
+      "language": "Python"
+    },
+    {
+      "name": "JunkDrawer",
+      "repo": "https://github.com/ology/JunkDrawer",
+      "language": "Perl"
+    },
+    {
+      "name": "ology",
+      "repo": "https://github.com/ology/ology",
+      "url": "https://ology.github.io/"
+    },
+    {
+      "name": "Email",
+      "repo": "https://github.com/ology/Email",
+      "language": "Python"
+    },
+    {
+      "name": "python-music-drummer",
+      "repo": "https://github.com/ology/python-music-drummer",
+      "language": "Python"
+    },
+    {
+      "name": "Python-Music-Bassline-Generator",
+      "repo": "https://github.com/ology/Python-Music-Bassline-Generator",
+      "language": "Python"
+    },
+    {
+      "name": "Python-Music-Dice",
+      "repo": "https://github.com/ology/Python-Music-Dice"
+    },
+    {
+      "name": "python-music-voicegen",
+      "repo": "https://github.com/ology/python-music-voicegen",
+      "language": "Python"
+    },
+    {
+      "name": "Python-Music-TonnetzTransform",
+      "repo": "https://github.com/ology/Python-Music-TonnetzTransform",
+      "language": "Python"
+    },
+    {
+      "name": "Python-Music-MelodicDevice",
+      "repo": "https://github.com/ology/Python-Music-MelodicDevice",
+      "language": "Python"
+    },
+    {
+      "name": "python-random-rhythms",
+      "repo": "https://github.com/ology/python-random-rhythms",
+      "url": "https://pypi.org/project/random-rhythms/",
+      "language": "Python"
+    },
+    {
+      "name": "Delphi-Shopping",
+      "repo": "https://github.com/ology/Delphi-Shopping",
+      "language": "Pascal"
+    },
+    {
+      "name": "Mojo-Music-Scholar",
+      "repo": "https://github.com/ology/Mojo-Music-Scholar",
+      "language": "Perl"
+    },
+    {
+      "name": "Perl-Metrics-Halstead",
+      "repo": "https://github.com/ology/Perl-Metrics-Halstead",
+      "url": "https://metacpan.org/pod/Perl::Metrics::Halstead",
+      "language": "Perl"
+    },
+    {
+      "name": "Mojo-Stoic",
+      "repo": "https://github.com/ology/Mojo-Stoic",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Dice",
+      "repo": "https://github.com/ology/Music-Dice",
+      "url": "https://metacpan.org/dist/Music-Dice",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Device",
+      "repo": "https://github.com/ology/MIDI-Device",
+      "language": "Perl"
+    },
+    {
+      "name": "Types-Music",
+      "repo": "https://github.com/ology/Types-Music",
+      "url": "https://metacpan.org/dist/Types-Music",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-RtMidi-ScorePlayer",
+      "repo": "https://github.com/ology/MIDI-RtMidi-ScorePlayer",
+      "url": "https://metacpan.org/dist/MIDI-RtMidi-ScorePlayer",
+      "language": "Perl"
+    },
+    {
+      "name": "Controller-Interface",
+      "repo": "https://github.com/ology/Controller-Interface",
+      "language": "Perl"
+    },
+    {
+      "name": "Music-Cadence",
+      "repo": "https://github.com/ology/Music-Cadence",
+      "url": "https://metacpan.org/release/Music-Cadence",
+      "language": "Perl"
+    },
+    {
+      "name": "Lex",
+      "repo": "https://github.com/ology/Lex",
+      "language": "Perl"
+    },
+    {
+      "name": "python-chess-coverage",
+      "repo": "https://github.com/ology/python-chess-coverage",
+      "url": "https://pypi.org/project/chess-coverage/",
+      "language": "Python"
+    },
+    {
+      "name": "RPG-AI",
+      "repo": "https://github.com/ology/RPG-AI",
+      "language": "Python"
+    },
+    {
+      "name": "Chemistry-PeriodicTable",
+      "repo": "https://github.com/ology/Chemistry-PeriodicTable",
+      "language": "Perl"
+    },
+    {
+      "name": "Mastodon-Profiler",
+      "repo": "https://github.com/ology/Mastodon-Profiler",
+      "language": "Perl"
+    },
+    {
+      "name": "Math",
+      "repo": "https://github.com/ology/Math",
+      "language": "Perl"
+    },
+    {
+      "name": "Machine-Learning",
+      "repo": "https://github.com/ology/Machine-Learning",
+      "language": "Python"
+    },
+    {
+      "name": "django-ws",
+      "repo": "https://github.com/ology/django-ws",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Mojo-OpenAI",
+      "repo": "https://github.com/ology/Mojo-OpenAI",
+      "language": "Perl"
+    },
+    {
+      "name": "No-Context-Quotes",
+      "repo": "https://github.com/ology/No-Context-Quotes"
+    },
+    {
+      "name": "Date-Holidays-Adapter-USA",
+      "repo": "https://github.com/ology/Date-Holidays-Adapter-USA",
+      "url": "https://metacpan.org/dist/Date-Holidays-Adapter-USA",
+      "language": "Perl"
+    },
+    {
+      "name": "Date-Holidays-USA",
+      "repo": "https://github.com/ology/Date-Holidays-USA",
+      "url": "https://metacpan.org/dist/Date-Holidays-USA",
+      "language": "Perl"
+    },
+    {
+      "name": "Perl-Algorithmic-Music-Advanced-2024",
+      "repo": "https://github.com/ology/Perl-Algorithmic-Music-Advanced-2024",
+      "url": "https://ology.github.io/Perl-Algorithmic-Music-Advanced-2024/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Groove-Tool",
+      "repo": "https://github.com/ology/Groove-Tool",
+      "language": "Perl"
+    },
+    {
+      "name": "MIDI-Monitor",
+      "repo": "https://github.com/ology/MIDI-Monitor",
+      "language": "Perl"
+    }
+  ]
+}

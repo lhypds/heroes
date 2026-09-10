@@ -1,0 +1,520 @@
+{
+  "handle": "krlmlr",
+  "name": "Kirill Müller",
+  "github": [
+    "https://github.com/krlmlr"
+  ],
+  "website": "https://fosstodon.org/@kirill",
+  "bio": "Away from most OSS work until September 2026.",
+  "own_repos": 147,
+  "commits": 11596,
+  "apps": [],
+  "repos": [
+    {
+      "name": "bindr",
+      "repo": "https://github.com/krlmlr/bindr",
+      "url": "https://krlmlr.github.io/bindr",
+      "language": "R"
+    },
+    {
+      "name": "utf8",
+      "repo": "https://github.com/krlmlr/utf8",
+      "url": "https://krlmlr.github.io/utf8/",
+      "language": "C"
+    },
+    {
+      "name": "mockr",
+      "repo": "https://github.com/krlmlr/mockr",
+      "url": "https://krlmlr.github.io/mockr/",
+      "language": "R"
+    },
+    {
+      "name": "bindrcpp",
+      "repo": "https://github.com/krlmlr/bindrcpp",
+      "url": "https://krlmlr.github.io/bindrcpp/",
+      "language": "C++"
+    },
+    {
+      "name": "wrswoR",
+      "repo": "https://github.com/krlmlr/wrswoR",
+      "url": "https://krlmlr.github.io/wrswoR",
+      "language": "R"
+    },
+    {
+      "name": "kimisc",
+      "repo": "https://github.com/krlmlr/kimisc",
+      "language": "R"
+    },
+    {
+      "name": "plogr",
+      "repo": "https://github.com/krlmlr/plogr",
+      "url": "https://github.com/SergiusTheBest/plog",
+      "language": "C++"
+    },
+    {
+      "name": "duckdbneo",
+      "repo": "https://github.com/krlmlr/duckdbneo",
+      "language": "C"
+    },
+    {
+      "name": "scriptlets",
+      "repo": "https://github.com/krlmlr/scriptlets",
+      "language": "Shell"
+    },
+    {
+      "name": "actions-sync",
+      "repo": "https://github.com/krlmlr/actions-sync",
+      "url": "https://krlmlr.github.io/actions-sync/",
+      "language": "Shell"
+    },
+    {
+      "name": "macos-kbd",
+      "repo": "https://github.com/krlmlr/macos-kbd",
+      "language": "Shell"
+    },
+    {
+      "name": "krlmlr.r-universe.dev",
+      "repo": "https://github.com/krlmlr/krlmlr.r-universe.dev",
+      "language": "R"
+    },
+    {
+      "name": "patchstack",
+      "repo": "https://github.com/krlmlr/patchstack",
+      "language": "Shell"
+    },
+    {
+      "name": "repo-sync",
+      "repo": "https://github.com/krlmlr/repo-sync",
+      "language": "Shell"
+    },
+    {
+      "name": "duckdb-r-old",
+      "repo": "https://github.com/krlmlr/duckdb-r-old",
+      "url": "https://krlmlr.github.io/duckdb-r-old/",
+      "language": "R"
+    },
+    {
+      "name": "rigraph",
+      "repo": "https://github.com/krlmlr/rigraph",
+      "language": "R"
+    },
+    {
+      "name": "patchwork",
+      "repo": "https://github.com/krlmlr/patchwork",
+      "language": "C++"
+    },
+    {
+      "name": "igraph",
+      "repo": "https://github.com/krlmlr/igraph",
+      "language": "C"
+    },
+    {
+      "name": "igraph-failing-logs",
+      "repo": "https://github.com/krlmlr/igraph-failing-logs"
+    },
+    {
+      "name": "shinyodbc",
+      "repo": "https://github.com/krlmlr/shinyodbc",
+      "language": "R"
+    },
+    {
+      "name": "MakefileR",
+      "repo": "https://github.com/krlmlr/MakefileR",
+      "url": "https://gitlab.com/fvafrcu/MakefileR",
+      "language": "R"
+    },
+    {
+      "name": "cancel.test",
+      "repo": "https://github.com/krlmlr/cancel.test",
+      "language": "C++"
+    },
+    {
+      "name": "pkgreview",
+      "repo": "https://github.com/krlmlr/pkgreview",
+      "language": "R"
+    },
+    {
+      "name": "duckplyr-archive",
+      "repo": "https://github.com/krlmlr/duckplyr-archive",
+      "url": "https://duckplyr.tidyverse.org/"
+    },
+    {
+      "name": "awesome-vctrs",
+      "repo": "https://github.com/krlmlr/awesome-vctrs"
+    },
+    {
+      "name": "rigraph-san",
+      "repo": "https://github.com/krlmlr/rigraph-san",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "pr-bots",
+      "repo": "https://github.com/krlmlr/pr-bots"
+    },
+    {
+      "name": "duckplyr_demo",
+      "repo": "https://github.com/krlmlr/duckplyr_demo",
+      "language": "R"
+    },
+    {
+      "name": "r-4-duckdb",
+      "repo": "https://github.com/krlmlr/r-4-duckdb",
+      "language": "R"
+    },
+    {
+      "name": "rig-rocky8",
+      "repo": "https://github.com/krlmlr/rig-rocky8",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker",
+      "repo": "https://github.com/krlmlr/docker",
+      "language": "Shell"
+    },
+    {
+      "name": "duckdb-mem",
+      "repo": "https://github.com/krlmlr/duckdb-mem",
+      "language": "R"
+    },
+    {
+      "name": "enc",
+      "repo": "https://github.com/krlmlr/enc",
+      "url": "https://krlmlr.github.io/enc",
+      "language": "R"
+    },
+    {
+      "name": "r-minimal",
+      "repo": "https://github.com/krlmlr/r-minimal",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rig-centos7",
+      "repo": "https://github.com/krlmlr/rig-centos7",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "pois-lm",
+      "repo": "https://github.com/krlmlr/pois-lm",
+      "language": "R"
+    },
+    {
+      "name": "rigraph-forensics",
+      "repo": "https://github.com/krlmlr/rigraph-forensics",
+      "language": "R"
+    },
+    {
+      "name": "stringpool",
+      "repo": "https://github.com/krlmlr/stringpool",
+      "language": "C++"
+    },
+    {
+      "name": "minver",
+      "repo": "https://github.com/krlmlr/minver",
+      "language": "R"
+    },
+    {
+      "name": "obtw",
+      "repo": "https://github.com/krlmlr/obtw",
+      "language": "R"
+    },
+    {
+      "name": "tidyduck",
+      "repo": "https://github.com/krlmlr/tidyduck",
+      "language": "R"
+    },
+    {
+      "name": "r-appveyor",
+      "repo": "https://github.com/krlmlr/r-appveyor",
+      "language": "Shell"
+    },
+    {
+      "name": "wrswoR.benchmark",
+      "repo": "https://github.com/krlmlr/wrswoR.benchmark",
+      "language": "R"
+    },
+    {
+      "name": "fstplyr",
+      "repo": "https://github.com/krlmlr/fstplyr",
+      "url": "https://krlmlr.github.io/fstplyr",
+      "language": "R"
+    },
+    {
+      "name": "renv-test",
+      "repo": "https://github.com/krlmlr/renv-test"
+    },
+    {
+      "name": "brushthat",
+      "repo": "https://github.com/krlmlr/brushthat",
+      "language": "R"
+    },
+    {
+      "name": "oauth2-proxy-ingress",
+      "repo": "https://github.com/krlmlr/oauth2-proxy-ingress"
+    },
+    {
+      "name": "katacoda-scenarios",
+      "repo": "https://github.com/krlmlr/katacoda-scenarios",
+      "url": "https://www.katacoda.com/krlmlr"
+    },
+    {
+      "name": "gha-parallel-test",
+      "repo": "https://github.com/krlmlr/gha-parallel-test"
+    },
+    {
+      "name": "RcppParallelReprex",
+      "repo": "https://github.com/krlmlr/RcppParallelReprex",
+      "language": "C++"
+    },
+    {
+      "name": "misc",
+      "repo": "https://github.com/krlmlr/misc",
+      "language": "R"
+    },
+    {
+      "name": "azure-revdepcheck",
+      "repo": "https://github.com/krlmlr/azure-revdepcheck",
+      "language": "HCL"
+    },
+    {
+      "name": "mangow",
+      "repo": "https://github.com/krlmlr/mangow",
+      "language": "R"
+    },
+    {
+      "name": "ulimit",
+      "repo": "https://github.com/krlmlr/ulimit",
+      "url": "https://github.com/jeroen/unix",
+      "language": "R"
+    },
+    {
+      "name": "vistransrep-proj",
+      "repo": "https://github.com/krlmlr/vistransrep-proj",
+      "language": "R"
+    },
+    {
+      "name": "vistransrep",
+      "repo": "https://github.com/krlmlr/vistransrep",
+      "url": "https://krlmlr.github.io/vistransrep",
+      "language": "ObjectScript"
+    },
+    {
+      "name": "chkchk",
+      "repo": "https://github.com/krlmlr/chkchk",
+      "language": "R"
+    },
+    {
+      "name": "scalar",
+      "repo": "https://github.com/krlmlr/scalar",
+      "language": "R"
+    },
+    {
+      "name": "wilcox-sim",
+      "repo": "https://github.com/krlmlr/wilcox-sim",
+      "language": "R"
+    },
+    {
+      "name": "handson-basel",
+      "repo": "https://github.com/krlmlr/handson-basel",
+      "language": "R"
+    },
+    {
+      "name": "tibblize",
+      "repo": "https://github.com/krlmlr/tibblize",
+      "language": "R"
+    },
+    {
+      "name": "pkgdep",
+      "repo": "https://github.com/krlmlr/pkgdep",
+      "language": "R"
+    },
+    {
+      "name": "tidyprog",
+      "repo": "https://github.com/krlmlr/tidyprog",
+      "url": "https://krlmlr.github.io/tidyprog/",
+      "language": "R"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/krlmlr/slides",
+      "url": "https://krlmlr.github.io/slides",
+      "language": "HTML"
+    },
+    {
+      "name": "pkgfiles",
+      "repo": "https://github.com/krlmlr/pkgfiles",
+      "url": "https://krlmlr.github.io/pkgfiles",
+      "language": "R"
+    },
+    {
+      "name": "tidyprog-proj",
+      "repo": "https://github.com/krlmlr/tidyprog-proj",
+      "url": "https://github.com/krlmlr/tidyprog",
+      "language": "R"
+    },
+    {
+      "name": "drake-pitch",
+      "repo": "https://github.com/krlmlr/drake-pitch",
+      "url": "https://krlmlr.github.io/drake-pitch",
+      "language": "CSS"
+    },
+    {
+      "name": "conmgr",
+      "repo": "https://github.com/krlmlr/conmgr"
+    },
+    {
+      "name": "git-sh-workshop",
+      "repo": "https://github.com/krlmlr/git-sh-workshop",
+      "language": "Shell"
+    },
+    {
+      "name": "RcppNoInitTest",
+      "repo": "https://github.com/krlmlr/RcppNoInitTest",
+      "url": "https://github.com/RcppCore/Rcpp/issues/892",
+      "language": "C++"
+    },
+    {
+      "name": "rstudio-conf18",
+      "repo": "https://github.com/krlmlr/rstudio-conf18"
+    },
+    {
+      "name": "remake-slides",
+      "repo": "https://github.com/krlmlr/remake-slides",
+      "url": "https://krlmlr.github.io/remake-slides",
+      "language": "Makefile"
+    },
+    {
+      "name": "tidyview",
+      "repo": "https://github.com/krlmlr/tidyview",
+      "url": "https://krlmlr.github.io/tidyview/",
+      "language": "R"
+    },
+    {
+      "name": "ci-lifecycle",
+      "repo": "https://github.com/krlmlr/ci-lifecycle"
+    },
+    {
+      "name": "bors-test",
+      "repo": "https://github.com/krlmlr/bors-test",
+      "language": "Shell"
+    },
+    {
+      "name": "tee",
+      "repo": "https://github.com/krlmlr/tee",
+      "language": "R"
+    },
+    {
+      "name": "drake-sib-zurich",
+      "repo": "https://github.com/krlmlr/drake-sib-zurich",
+      "language": "R"
+    },
+    {
+      "name": "cooking",
+      "repo": "https://github.com/krlmlr/cooking",
+      "language": "R"
+    },
+    {
+      "name": "redrake",
+      "repo": "https://github.com/krlmlr/redrake",
+      "language": "R"
+    },
+    {
+      "name": "ticpkg",
+      "repo": "https://github.com/krlmlr/ticpkg"
+    },
+    {
+      "name": "grake",
+      "repo": "https://github.com/krlmlr/grake",
+      "language": "R"
+    },
+    {
+      "name": "travis.log.test",
+      "repo": "https://github.com/krlmlr/travis.log.test"
+    },
+    {
+      "name": "pkg.subdir.test",
+      "repo": "https://github.com/krlmlr/pkg.subdir.test",
+      "language": "R"
+    },
+    {
+      "name": "rextdata",
+      "repo": "https://github.com/krlmlr/rextdata",
+      "language": "R"
+    },
+    {
+      "name": "tempref",
+      "repo": "https://github.com/krlmlr/tempref",
+      "language": "C++"
+    },
+    {
+      "name": "darn",
+      "repo": "https://github.com/krlmlr/darn",
+      "language": "R"
+    },
+    {
+      "name": "RMySQL",
+      "repo": "https://github.com/krlmlr/RMySQL",
+      "language": "C"
+    },
+    {
+      "name": "deparse",
+      "repo": "https://github.com/krlmlr/deparse",
+      "language": "R"
+    },
+    {
+      "name": "histmatch",
+      "repo": "https://github.com/krlmlr/histmatch",
+      "language": "R"
+    },
+    {
+      "name": "dplyr.benchmark",
+      "repo": "https://github.com/krlmlr/dplyr.benchmark",
+      "url": "https://krlmlr.github.io/dplyr.benchmark",
+      "language": "R"
+    },
+    {
+      "name": "select",
+      "repo": "https://github.com/krlmlr/select",
+      "language": "R"
+    },
+    {
+      "name": "dplyr-build",
+      "repo": "https://github.com/krlmlr/dplyr-build",
+      "language": "CMake"
+    },
+    {
+      "name": "repo3",
+      "repo": "https://github.com/krlmlr/repo3"
+    },
+    {
+      "name": "repo2",
+      "repo": "https://github.com/krlmlr/repo2"
+    },
+    {
+      "name": "brushthat.test",
+      "repo": "https://github.com/krlmlr/brushthat.test",
+      "language": "R"
+    },
+    {
+      "name": "git-svn-test",
+      "repo": "https://github.com/krlmlr/git-svn-test"
+    },
+    {
+      "name": "repo1",
+      "repo": "https://github.com/krlmlr/repo1"
+    },
+    {
+      "name": "remake-tutorial",
+      "repo": "https://github.com/krlmlr/remake-tutorial",
+      "language": "R"
+    },
+    {
+      "name": "S3",
+      "repo": "https://github.com/krlmlr/S3",
+      "language": "R"
+    },
+    {
+      "name": "pkg.upgrade.test",
+      "repo": "https://github.com/krlmlr/pkg.upgrade.test"
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "handle": "nyamisty",
+  "name": "nyamisty",
+  "github": [
+    "https://github.com/nyamisty"
+  ],
+  "bio": "I do all sorts of things.",
+  "own_repos": 127,
+  "commits": 18134,
+  "apps": [],
+  "repos": [
+    {
+      "name": "scoop_bucket_misty",
+      "repo": "https://github.com/NyaMisty/scoop_bucket_misty",
+      "language": "PowerShell"
+    },
+    {
+      "name": "nextjs-notion-starter-kit",
+      "repo": "https://github.com/NyaMisty/nextjs-notion-starter-kit",
+      "url": "https://transitivebullsh.it/nextjs-notion-starter-kit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghidra-builder",
+      "repo": "https://github.com/NyaMisty/ghidra-builder",
+      "url": "https://drafts.misty.moe/ghidra-nightly-ci-356a363230624fcdb2b9c37b2fb6d620"
+    },
+    {
+      "name": "ai-battle-cli",
+      "repo": "https://github.com/NyaMisty/ai-battle-cli",
+      "language": "TypeScript"
+    },
+    {
+      "name": "yslzm_updater",
+      "repo": "https://github.com/NyaMisty/yslzm_updater",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "smart-file-move",
+      "repo": "https://github.com/NyaMisty/smart-file-move",
+      "language": "Go"
+    },
+    {
+      "name": "libimobiledevice-nightly-pkg",
+      "repo": "https://github.com/NyaMisty/libimobiledevice-nightly-pkg"
+    },
+    {
+      "name": "docker-ida",
+      "repo": "https://github.com/NyaMisty/docker-ida"
+    },
+    {
+      "name": "workers-simple-apiproxy",
+      "repo": "https://github.com/NyaMisty/workers-simple-apiproxy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "FLEX_builder",
+      "repo": "https://github.com/NyaMisty/FLEX_builder"
+    },
+    {
+      "name": "subagent-auto-manager",
+      "repo": "https://github.com/NyaMisty/subagent-auto-manager",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kasm_uv_docker",
+      "repo": "https://github.com/NyaMisty/kasm_uv_docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ssh-ghaction",
+      "repo": "https://github.com/NyaMisty/ssh-ghaction"
+    },
+    {
+      "name": "telegram-mail-bot",
+      "repo": "https://github.com/NyaMisty/telegram-mail-bot",
+      "language": "Python"
+    },
+    {
+      "name": "protonmail-client-python",
+      "repo": "https://github.com/NyaMisty/protonmail-client-python",
+      "language": "Python"
+    },
+    {
+      "name": "dap-cli-go",
+      "repo": "https://github.com/NyaMisty/dap-cli-go",
+      "language": "Go"
+    },
+    {
+      "name": "go-mitm-cacheproxy",
+      "repo": "https://github.com/NyaMisty/go-mitm-cacheproxy",
+      "language": "Go"
+    },
+    {
+      "name": "idasdk-collection",
+      "repo": "https://github.com/NyaMisty/idasdk-collection"
+    },
+    {
+      "name": "redis_reverse_proxy",
+      "repo": "https://github.com/NyaMisty/redis_reverse_proxy",
+      "language": "Go"
+    },
+    {
+      "name": "docker_tun_helper",
+      "repo": "https://github.com/NyaMisty/docker_tun_helper",
+      "language": "Go"
+    },
+    {
+      "name": "pytcpdump",
+      "repo": "https://github.com/NyaMisty/pytcpdump",
+      "language": "Python"
+    },
+    {
+      "name": "ipatool-py",
+      "repo": "https://github.com/NyaMisty/ipatool-py",
+      "url": "https://drafts.misty.moe/ipatool-py-5848aa887aff4bc49fad6dc495a6578f",
+      "language": "Python"
+    },
+    {
+      "name": "hexrays_microcode_path",
+      "repo": "https://github.com/NyaMisty/hexrays_microcode_path",
+      "language": "Python"
+    },
+    {
+      "name": ".misty_envconf_pub",
+      "repo": "https://github.com/NyaMisty/.misty_envconf_pub",
+      "url": "https://drafts.misty.moe/超级shell环境-3e10293f31fa42d2933dfdcc6df325b1",
+      "language": "Shell"
+    },
+    {
+      "name": "vlmcsd-onekey",
+      "repo": "https://github.com/NyaMisty/vlmcsd-onekey",
+      "language": "Batchfile"
+    },
+    {
+      "name": "docker-wine-dotnet",
+      "repo": "https://github.com/NyaMisty/docker-wine-dotnet",
+      "url": "https://hub.docker.com/r/nyamisty/docker-wine-dotnet"
+    },
+    {
+      "name": "GhidraIDA",
+      "repo": "https://github.com/NyaMisty/GhidraIDA",
+      "language": "Shell"
+    },
+    {
+      "name": "actions-iTunes-header",
+      "repo": "https://github.com/NyaMisty/actions-iTunes-header",
+      "language": "Python"
+    },
+    {
+      "name": "keepalive-workflow",
+      "repo": "https://github.com/NyaMisty/keepalive-workflow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hexvault-docker",
+      "repo": "https://github.com/NyaMisty/hexvault-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "geonames_country_state_city",
+      "repo": "https://github.com/NyaMisty/geonames_country_state_city",
+      "language": "Python"
+    },
+    {
+      "name": "fclone_api",
+      "repo": "https://github.com/NyaMisty/fclone_api",
+      "language": "Go"
+    },
+    {
+      "name": "leafxcy_leafTheFish_DeathNote",
+      "repo": "https://github.com/NyaMisty/leafxcy_leafTheFish_DeathNote",
+      "language": "Python"
+    },
+    {
+      "name": "wsl2-kernel-ci",
+      "repo": "https://github.com/NyaMisty/wsl2-kernel-ci",
+      "language": "Python"
+    },
+    {
+      "name": "pushoo-chan",
+      "repo": "https://github.com/NyaMisty/pushoo-chan",
+      "language": "TypeScript"
+    },
+    {
+      "name": "icloud-passwords-chrome-patched",
+      "repo": "https://github.com/NyaMisty/icloud-passwords-chrome-patched",
+      "language": "CSS"
+    },
+    {
+      "name": "ida-statusbar",
+      "repo": "https://github.com/NyaMisty/ida-statusbar",
+      "language": "Python"
+    },
+    {
+      "name": "AltServer-Linux",
+      "repo": "https://github.com/NyaMisty/AltServer-Linux",
+      "language": "C"
+    },
+    {
+      "name": "OneDriveSymlink",
+      "repo": "https://github.com/NyaMisty/OneDriveSymlink",
+      "url": "https://drafts.misty.moe/onedrivesymlink-60d764b51d424599b405f93456365a95",
+      "language": "C++"
+    },
+    {
+      "name": "amap_wgs84_proxy",
+      "repo": "https://github.com/NyaMisty/amap_wgs84_proxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kdeconnect-surge",
+      "repo": "https://github.com/NyaMisty/kdeconnect-surge",
+      "language": "Logos"
+    },
+    {
+      "name": "detours_cross",
+      "repo": "https://github.com/NyaMisty/detours_cross",
+      "url": "https://drafts.misty.moe/跨平台hook框架-918d3ac00679438e9698bfb3da32ad0a",
+      "language": "C++"
+    },
+    {
+      "name": "unraid_bzroot_pivoter",
+      "repo": "https://github.com/NyaMisty/unraid_bzroot_pivoter",
+      "language": "Shell"
+    },
+    {
+      "name": "ida_gdb_auto_memory",
+      "repo": "https://github.com/NyaMisty/ida_gdb_auto_memory",
+      "language": "Python"
+    },
+    {
+      "name": "microcode_binexport",
+      "repo": "https://github.com/NyaMisty/microcode_binexport",
+      "language": "Python"
+    },
+    {
+      "name": "ida64_forward",
+      "repo": "https://github.com/NyaMisty/ida64_forward",
+      "language": "C"
+    },
+    {
+      "name": "idapython",
+      "repo": "https://github.com/NyaMisty/idapython",
+      "language": "Python"
+    },
+    {
+      "name": "evol_deepspace_scripts",
+      "repo": "https://github.com/NyaMisty/evol_deepspace_scripts",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "adb_termux_shell",
+      "repo": "https://github.com/NyaMisty/adb_termux_shell",
+      "language": "Shell"
+    },
+    {
+      "name": "phpbb_concat",
+      "repo": "https://github.com/NyaMisty/phpbb_concat",
+      "language": "Go"
+    },
+    {
+      "name": "ssl-kill-switch3",
+      "repo": "https://github.com/NyaMisty/ssl-kill-switch3",
+      "language": "Objective-C"
+    },
+    {
+      "name": "fouldecrypt",
+      "repo": "https://github.com/NyaMisty/fouldecrypt",
+      "language": "Objective-C"
+    },
+    {
+      "name": "Zygisk-Il2CppDumper-Json",
+      "repo": "https://github.com/NyaMisty/Zygisk-Il2CppDumper-Json",
+      "language": "Python"
+    },
+    {
+      "name": "slack-conraid-net.github.io",
+      "repo": "https://github.com/NyaMisty/slack-conraid-net.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "action-et-docker-builder",
+      "repo": "https://github.com/NyaMisty/action-et-docker-builder"
+    },
+    {
+      "name": "libexecinfo_libunwind_stub",
+      "repo": "https://github.com/NyaMisty/libexecinfo_libunwind_stub",
+      "language": "C"
+    },
+    {
+      "name": "Surge4Advanced",
+      "repo": "https://github.com/NyaMisty/Surge4Advanced",
+      "url": "https://drafts.misty.moe/surge破解-89fa88c1794d43f6888e43bd30f91bfe",
+      "language": "Logos"
+    },
+    {
+      "name": "action-ipadown",
+      "repo": "https://github.com/NyaMisty/action-ipadown"
+    },
+    {
+      "name": "gh-page",
+      "repo": "https://github.com/NyaMisty/gh-page"
+    },
+    {
+      "name": "MistySurgeScripts",
+      "repo": "https://github.com/NyaMisty/MistySurgeScripts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "UFISmsTools",
+      "repo": "https://github.com/NyaMisty/UFISmsTools",
+      "language": "Shell"
+    },
+    {
+      "name": "ElinkDisableMod",
+      "repo": "https://github.com/NyaMisty/ElinkDisableMod",
+      "url": "https://drafts.misty.moe/%E9%9A%8F%E8%BA%ABwifi%E8%BD%AC%E7%9F%AD%E4%BF%A1%E6%9C%8D%E5%8A%A1%E5%99%A8-e6ce8306fdb34a25babc48973cc9dabf#19b86472a2a545b79c136516069d2ae4",
+      "language": "Java"
+    },
+    {
+      "name": "fclone",
+      "repo": "https://github.com/NyaMisty/fclone",
+      "url": "https://drafts.misty.moe/qbittorrentee-fclone魔改-e18f6000ce944baba1f1f56c3ab2a334",
+      "language": "Go"
+    },
+    {
+      "name": "PunchDataExchangeHost",
+      "repo": "https://github.com/NyaMisty/PunchDataExchangeHost",
+      "language": "C++"
+    },
+    {
+      "name": "IFEODllInjector",
+      "repo": "https://github.com/NyaMisty/IFEODllInjector",
+      "language": "C++"
+    },
+    {
+      "name": "unraid-crack-misty",
+      "repo": "https://github.com/NyaMisty/unraid-crack-misty",
+      "language": "C"
+    },
+    {
+      "name": "ida_kern_til",
+      "repo": "https://github.com/NyaMisty/ida_kern_til",
+      "language": "C++"
+    },
+    {
+      "name": "rclone_tar_uploader",
+      "repo": "https://github.com/NyaMisty/rclone_tar_uploader",
+      "language": "Go"
+    },
+    {
+      "name": "sftp_chroot_hook",
+      "repo": "https://github.com/NyaMisty/sftp_chroot_hook",
+      "language": "C"
+    },
+    {
+      "name": "ghidra_ida_til",
+      "repo": "https://github.com/NyaMisty/ghidra_ida_til",
+      "language": "C"
+    },
+    {
+      "name": "ghidra-data",
+      "repo": "https://github.com/NyaMisty/ghidra-data",
+      "url": "https://www.nsa.gov/ghidra"
+    },
+    {
+      "name": "idatil2c",
+      "repo": "https://github.com/NyaMisty/idatil2c",
+      "language": "Python"
+    },
+    {
+      "name": "ghidraKb",
+      "repo": "https://github.com/NyaMisty/ghidraKb",
+      "language": "Python"
+    },
+    {
+      "name": "HexFuncInliner",
+      "repo": "https://github.com/NyaMisty/HexFuncInliner",
+      "url": "https://drafts.misty.moe/hexfuncinliner--functioninliner%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%89%88-7ef4872e09ea4518ab00e6ae1052f0d1",
+      "language": "Python"
+    },
+    {
+      "name": "alt-anisette-server",
+      "repo": "https://github.com/NyaMisty/alt-anisette-server",
+      "url": "https://hub.docker.com/r/nyamisty/alt_anisette_server",
+      "language": "C++"
+    },
+    {
+      "name": "nicegram_build",
+      "repo": "https://github.com/NyaMisty/nicegram_build",
+      "language": "Shell"
+    },
+    {
+      "name": "GetVirtualDesktopAPI_DIA",
+      "repo": "https://github.com/NyaMisty/GetVirtualDesktopAPI_DIA",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "qtier_daemon",
+      "repo": "https://github.com/NyaMisty/qtier_daemon",
+      "url": "https://drafts.misty.moe/%E5%BF%AB%E8%B4%B4--%E5%85%A8%E8%87%AA%E5%8A%A8ios-win%E5%90%8C%E6%AD%A5%E5%89%AA%E8%B4%B4%E6%9D%BF-9c944b583b784928a0ef097618ae164a",
+      "language": "Logos"
+    },
+    {
+      "name": "blank_alive",
+      "repo": "https://github.com/NyaMisty/blank_alive",
+      "language": "Cycript"
+    },
+    {
+      "name": "simple_dev_docker",
+      "repo": "https://github.com/NyaMisty/simple_dev_docker",
+      "url": "https://hub.docker.com/r/nyamisty/dev",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rclone-7zip",
+      "repo": "https://github.com/NyaMisty/rclone-7zip",
+      "language": "Go"
+    },
+    {
+      "name": "OneDriveBetter",
+      "repo": "https://github.com/NyaMisty/OneDriveBetter",
+      "language": "Logos"
+    },
+    {
+      "name": "LoadProcConfig",
+      "repo": "https://github.com/NyaMisty/LoadProcConfig",
+      "language": "C++"
+    },
+    {
+      "name": "nsi_windows_internal",
+      "repo": "https://github.com/NyaMisty/nsi_windows_internal",
+      "language": "C"
+    },
+    {
+      "name": "AutoIPADownload",
+      "repo": "https://github.com/NyaMisty/AutoIPADownload",
+      "language": "Python"
+    },
+    {
+      "name": "github-ci-template",
+      "repo": "https://github.com/NyaMisty/github-ci-template"
+    },
+    {
+      "name": "corellium-proxy",
+      "repo": "https://github.com/NyaMisty/corellium-proxy",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ssh_appveyor",
+      "repo": "https://github.com/NyaMisty/ssh_appveyor"
+    },
+    {
+      "name": "AltSign-Linux",
+      "repo": "https://github.com/NyaMisty/AltSign-Linux",
+      "language": "C++"
+    },
+    {
+      "name": "ida_kern",
+      "repo": "https://github.com/NyaMisty/ida_kern",
+      "language": "Python"
+    },
+    {
+      "name": "ipt_tcpbody",
+      "repo": "https://github.com/NyaMisty/ipt_tcpbody",
+      "language": "C"
+    },
+    {
+      "name": "Acronis_docker_15",
+      "repo": "https://github.com/NyaMisty/Acronis_docker_15",
+      "language": "Shell"
+    },
+    {
+      "name": "GoogleVoiceRecognization",
+      "repo": "https://github.com/NyaMisty/GoogleVoiceRecognization",
+      "url": "https://drafts.misty.moe/google翻译语音相关接口-d967a83376584282af3c8052e66a1ff7",
+      "language": "Python"
+    },
+    {
+      "name": "PyPLTHook",
+      "repo": "https://github.com/NyaMisty/PyPLTHook",
+      "language": "Cython"
+    },
+    {
+      "name": "grub-vmsnap",
+      "repo": "https://github.com/NyaMisty/grub-vmsnap",
+      "url": "https://drafts.misty.moe/linux-vhd-物理机启动-a6e5b139ea0c429c8bdf8e69bcb66a70",
+      "language": "C"
+    },
+    {
+      "name": "cloudflare-workers-uniproxy",
+      "repo": "https://github.com/NyaMisty/cloudflare-workers-uniproxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "KernInfra",
+      "repo": "https://github.com/NyaMisty/KernInfra",
+      "url": "https://drafts.misty.moe/kerninfra远程struct读写包装-6a8e2dd1a18741b1b542bb4ccf783c1e",
+      "language": "C++"
+    },
+    {
+      "name": "AppraiserPatcher11",
+      "repo": "https://github.com/NyaMisty/AppraiserPatcher11",
+      "url": "https://drafts.misty.moe/appraiserpatcher11win11强制更新-a08f4dcd07bf47eea29de07214928309",
+      "language": "C++"
+    },
+    {
+      "name": "misty_apt_repo_bak",
+      "repo": "https://github.com/NyaMisty/misty_apt_repo_bak",
+      "language": "Shell"
+    },
+    {
+      "name": "theos_ci_template",
+      "repo": "https://github.com/NyaMisty/theos_ci_template"
+    }
+  ]
+}

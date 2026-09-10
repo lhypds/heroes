@@ -9,11 +9,6 @@
   "apps": [],
   "repos": [
     {
-      "name": "dotfiles",
-      "repo": "https://github.com/maksimr/dotfiles",
-      "language": "Shell"
-    },
-    {
       "name": "virtual-scroller",
       "repo": "https://github.com/maksimr/virtual-scroller",
       "url": "https://codesandbox.io/s/github/maksimr/virtual-scroller",
@@ -22,16 +17,6 @@
     {
       "name": "playground-node",
       "repo": "https://github.com/maksimr/playground-node",
-      "language": "JavaScript"
-    },
-    {
-      "name": "playground",
-      "repo": "https://github.com/maksimr/playground",
-      "language": "HTML"
-    },
-    {
-      "name": "karma-test-utils",
-      "repo": "https://github.com/maksimr/karma-test-utils",
       "language": "JavaScript"
     },
     {
@@ -47,6 +32,21 @@
     {
       "name": "uikit",
       "repo": "https://github.com/maksimr/uikit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/maksimr/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "playground",
+      "repo": "https://github.com/maksimr/playground",
+      "language": "HTML"
+    },
+    {
+      "name": "karma-test-utils",
+      "repo": "https://github.com/maksimr/karma-test-utils",
       "language": "JavaScript"
     },
     {

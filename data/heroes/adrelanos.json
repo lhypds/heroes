@@ -1,0 +1,576 @@
+{
+  "handle": "adrelanos",
+  "name": "Patrick Schleizer",
+  "github": [
+    "https://github.com/adrelanos"
+  ],
+  "website": "https://www.kicksecure.com/",
+  "bio": "Security and privacy researcher, developer, Linux distribution maintainer.",
+  "own_repos": 141,
+  "commits": 10556,
+  "apps": [],
+  "repos": [
+    {
+      "name": "derivative-maker",
+      "repo": "https://github.com/adrelanos/derivative-maker",
+      "url": "https://www.kicksecure.com/wiki/Dev/Derivative-Maker",
+      "language": "Shell"
+    },
+    {
+      "name": "whonix-firewall",
+      "repo": "https://github.com/adrelanos/whonix-firewall",
+      "url": "https://www.whonix.org/wiki/Whonix_Firewall",
+      "language": "Shell"
+    },
+    {
+      "name": "whonix-base-files",
+      "repo": "https://github.com/adrelanos/whonix-base-files",
+      "url": "https://www.whonix.org/wiki/Features",
+      "language": "Shell"
+    },
+    {
+      "name": "uwt",
+      "repo": "https://github.com/adrelanos/uwt",
+      "url": "https://www.whonix.org/wiki/Stream_Isolation",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-ws-disable-stacked-tor",
+      "repo": "https://github.com/adrelanos/anon-ws-disable-stacked-tor",
+      "url": "https://www.whonix.org/wiki/Dev/anon-ws-disable-stacked-tor",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-ws-base-files",
+      "repo": "https://github.com/adrelanos/anon-ws-base-files",
+      "url": "https://www.whonix.org/wiki/Whonix-Workstation",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-gw-base-files",
+      "repo": "https://github.com/adrelanos/anon-gw-base-files",
+      "url": "https://www.whonix.org/wiki/Whonix-Gateway",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-gw-anonymizer-config",
+      "repo": "https://github.com/adrelanos/anon-gw-anonymizer-config",
+      "url": "https://www.whonix.org/wiki/Whonix-Gateway",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-apps-config",
+      "repo": "https://github.com/adrelanos/anon-apps-config",
+      "url": "https://www.whonix.org/wiki/Features",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tor-ctrl",
+      "repo": "https://github.com/adrelanos/tor-ctrl",
+      "url": "https://www.whonix.org/wiki/Tor_Controller#tor-ctrl",
+      "language": "Shell"
+    },
+    {
+      "name": "onion-grater",
+      "repo": "https://github.com/adrelanos/onion-grater",
+      "url": "https://www.whonix.org/wiki/Onion-grater",
+      "language": "Python"
+    },
+    {
+      "name": "anon-meta-packages",
+      "repo": "https://github.com/adrelanos/anon-meta-packages",
+      "url": "https://www.whonix.org/wiki/Debian_Packages",
+      "language": "Shell"
+    },
+    {
+      "name": "grml-debootstraptest",
+      "repo": "https://github.com/adrelanos/grml-debootstraptest",
+      "url": "https://www.kicksecure.com/wiki/Dev/Build_Documentation",
+      "language": "Shell"
+    },
+    {
+      "name": "whonix-ws-network-conf",
+      "repo": "https://github.com/adrelanos/whonix-ws-network-conf",
+      "url": "https://www.whonix.org/wiki/Whonix-Workstation"
+    },
+    {
+      "name": "whonix-gw-network-conf",
+      "repo": "https://github.com/adrelanos/whonix-gw-network-conf",
+      "url": "https://www.whonix.org/wiki/Whonix-Gateway",
+      "language": "Shell"
+    },
+    {
+      "name": "binaries-freedom",
+      "repo": "https://github.com/adrelanos/binaries-freedom",
+      "url": "https://www.kicksecure.com",
+      "language": "Shell"
+    },
+    {
+      "name": "package_parser",
+      "repo": "https://github.com/adrelanos/package_parser",
+      "language": "Ruby"
+    },
+    {
+      "name": "devscripts",
+      "repo": "https://github.com/adrelanos/devscripts",
+      "language": "Perl"
+    },
+    {
+      "name": "verified-boot",
+      "repo": "https://github.com/adrelanos/verified-boot"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/adrelanos/.github"
+    },
+    {
+      "name": "lkrg",
+      "repo": "https://github.com/adrelanos/lkrg",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "C"
+    },
+    {
+      "name": "qubes-remote-support",
+      "repo": "https://github.com/adrelanos/qubes-remote-support",
+      "language": "Shell"
+    },
+    {
+      "name": "Kicksecure-wiki-custom",
+      "repo": "https://github.com/adrelanos/Kicksecure-wiki-custom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "minimal-package",
+      "repo": "https://github.com/adrelanos/minimal-package"
+    },
+    {
+      "name": "mediawiki-extensions-BodyScript2",
+      "repo": "https://github.com/adrelanos/mediawiki-extensions-BodyScript2",
+      "language": "PHP"
+    },
+    {
+      "name": "whonixsetup",
+      "repo": "https://github.com/adrelanos/whonixsetup",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "whonix-setup-wizard",
+      "repo": "https://github.com/adrelanos/whonix-setup-wizard",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Python"
+    },
+    {
+      "name": "whonix-repository",
+      "repo": "https://github.com/adrelanos/whonix-repository",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "whonixcheck",
+      "repo": "https://github.com/adrelanos/whonixcheck",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "monero-gui",
+      "repo": "https://github.com/adrelanos/monero-gui",
+      "language": "Shell"
+    },
+    {
+      "name": "old-whonix-mailinglist-mailman-v2",
+      "repo": "https://github.com/adrelanos/old-whonix-mailinglist-mailman-v2",
+      "language": "HTML"
+    },
+    {
+      "name": "python-guimessages",
+      "repo": "https://github.com/adrelanos/python-guimessages",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Python"
+    },
+    {
+      "name": "anon-gw-dns-conf",
+      "repo": "https://github.com/adrelanos/anon-gw-dns-conf",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "anon-ws-leaktest",
+      "repo": "https://github.com/adrelanos/anon-ws-leaktest",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Python"
+    },
+    {
+      "name": "anon-gw-leaktest",
+      "repo": "https://github.com/adrelanos/anon-gw-leaktest",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "xchat-improved-privacy",
+      "repo": "https://github.com/adrelanos/xchat-improved-privacy",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Roff"
+    },
+    {
+      "name": "timezone-utc",
+      "repo": "https://github.com/adrelanos/timezone-utc",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "curl-scripts",
+      "repo": "https://github.com/adrelanos/curl-scripts",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "grub-screen-resolution",
+      "repo": "https://github.com/adrelanos/grub-screen-resolution",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "whonix-ws-start-menu-additions",
+      "repo": "https://github.com/adrelanos/whonix-ws-start-menu-additions",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "whonix-ws-irc-chat-support",
+      "repo": "https://github.com/adrelanos/whonix-ws-irc-chat-support",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "vbox-disable-timesync",
+      "repo": "https://github.com/adrelanos/vbox-disable-timesync",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "swappiness-lowest",
+      "repo": "https://github.com/adrelanos/swappiness-lowest",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "shared-folder-help",
+      "repo": "https://github.com/adrelanos/shared-folder-help",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "scurl",
+      "repo": "https://github.com/adrelanos/scurl",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Roff"
+    },
+    {
+      "name": "ipv6-disable",
+      "repo": "https://github.com/adrelanos/ipv6-disable",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "ipv4-forward-disable",
+      "repo": "https://github.com/adrelanos/ipv4-forward-disable",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "grub-default-live",
+      "repo": "https://github.com/adrelanos/grub-default-live",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "gpl-sources-download",
+      "repo": "https://github.com/adrelanos/gpl-sources-download",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-ws-dns-conf",
+      "repo": "https://github.com/adrelanos/anon-ws-dns-conf",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "anon-mixmaster",
+      "repo": "https://github.com/adrelanos/anon-mixmaster",
+      "url": "https://www.whonix.org/wiki/Impressum"
+    },
+    {
+      "name": "anon-iceweasel-warning",
+      "repo": "https://github.com/adrelanos/anon-iceweasel-warning",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "HTML"
+    },
+    {
+      "name": "anon-gw-dhcp-conf",
+      "repo": "https://github.com/adrelanos/anon-gw-dhcp-conf",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-gpg-tweaks",
+      "repo": "https://github.com/adrelanos/anon-gpg-tweaks",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timer-entropyd",
+      "repo": "https://github.com/adrelanos/timer-entropyd",
+      "language": "C"
+    },
+    {
+      "name": "randomsound",
+      "repo": "https://github.com/adrelanos/randomsound",
+      "language": "C"
+    },
+    {
+      "name": "clrngd",
+      "repo": "https://github.com/adrelanos/clrngd",
+      "language": "C"
+    },
+    {
+      "name": "remote-support",
+      "repo": "https://github.com/adrelanos/remote-support",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "grub-output-verbose",
+      "repo": "https://github.com/adrelanos/grub-output-verbose",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "whonix-host-firewall",
+      "repo": "https://github.com/adrelanos/whonix-host-firewall",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "power-savings-disable-in-vms",
+      "repo": "https://github.com/adrelanos/power-savings-disable-in-vms",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "grub-enable-apparmor",
+      "repo": "https://github.com/adrelanos/grub-enable-apparmor",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "whonix-ws-desktop-shortcuts",
+      "repo": "https://github.com/adrelanos/whonix-ws-desktop-shortcuts",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "whonix-ws-kde-desktop-conf",
+      "repo": "https://github.com/adrelanos/whonix-ws-kde-desktop-conf",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "JavaScript"
+    },
+    {
+      "name": "whonix-gw-desktop-shortcuts",
+      "repo": "https://github.com/adrelanos/whonix-gw-desktop-shortcuts",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "whonix-gw-kde-desktop-conf",
+      "repo": "https://github.com/adrelanos/whonix-gw-kde-desktop-conf",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vpn-firewall",
+      "repo": "https://github.com/adrelanos/vpn-firewall",
+      "url": "https://www.whonix.org/wiki/VPN-Firewall",
+      "language": "Shell"
+    },
+    {
+      "name": "whonix-auto-vpn",
+      "repo": "https://github.com/adrelanos/whonix-auto-vpn",
+      "language": "Shell"
+    },
+    {
+      "name": "anon-torchat",
+      "repo": "https://github.com/adrelanos/anon-torchat",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "i2p-browser-for-cheaters",
+      "repo": "https://github.com/adrelanos/i2p-browser-for-cheaters",
+      "language": "Python"
+    },
+    {
+      "name": "Whonix-I2P",
+      "repo": "https://github.com/adrelanos/Whonix-I2P"
+    },
+    {
+      "name": "pkg-manager-longer-timeouts",
+      "repo": "https://github.com/adrelanos/pkg-manager-longer-timeouts",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "pkg-manager-no-autoupdate",
+      "repo": "https://github.com/adrelanos/pkg-manager-no-autoupdate",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "whonix-ws-firewall",
+      "repo": "https://github.com/adrelanos/whonix-ws-firewall",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-konsole-unlim-scrollback",
+      "repo": "https://github.com/adrelanos/kde-konsole-unlim-scrollback",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "aeternity-wiki",
+      "repo": "https://github.com/adrelanos/aeternity-wiki"
+    },
+    {
+      "name": "onion-grater-remote",
+      "repo": "https://github.com/adrelanos/onion-grater-remote"
+    },
+    {
+      "name": "control-port-filter-python",
+      "repo": "https://github.com/adrelanos/control-port-filter-python",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Python"
+    },
+    {
+      "name": "proposals",
+      "repo": "https://github.com/adrelanos/proposals",
+      "url": "https://www.kicksecure.com/wiki/Dev"
+    },
+    {
+      "name": "nothing-to-see",
+      "repo": "https://github.com/adrelanos/nothing-to-see",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "kde-dolphin-menubar-enable",
+      "repo": "https://github.com/adrelanos/kde-dolphin-menubar-enable",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-kgpg-tweaks",
+      "repo": "https://github.com/adrelanos/kde-kgpg-tweaks",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-lowfat",
+      "repo": "https://github.com/adrelanos/kde-lowfat",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-mouse-doubleclick",
+      "repo": "https://github.com/adrelanos/kde-mouse-doubleclick",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-no-move-max-win",
+      "repo": "https://github.com/adrelanos/kde-no-move-max-win",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-privacy",
+      "repo": "https://github.com/adrelanos/kde-privacy",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-sounds-off",
+      "repo": "https://github.com/adrelanos/kde-sounds-off",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "anon-kde-streamiso",
+      "repo": "https://github.com/adrelanos/anon-kde-streamiso",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "anon-ws-kde-startmenu",
+      "repo": "https://github.com/adrelanos/anon-ws-kde-startmenu",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "anon-gw-kde-startmenu",
+      "repo": "https://github.com/adrelanos/anon-gw-kde-startmenu",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-apper-no-autoupdate",
+      "repo": "https://github.com/adrelanos/kde-apper-no-autoupdate",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-common-resolution",
+      "repo": "https://github.com/adrelanos/kde-common-resolution",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "poweroff-passwordless",
+      "repo": "https://github.com/adrelanos/poweroff-passwordless",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "apparmor-profile-pidgin",
+      "repo": "https://github.com/adrelanos/apparmor-profile-pidgin",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "knetattach-hide",
+      "repo": "https://github.com/adrelanos/knetattach-hide",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kde-kdm-autologin",
+      "repo": "https://github.com/adrelanos/kde-kdm-autologin",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "kmix-disable-autostart",
+      "repo": "https://github.com/adrelanos/kmix-disable-autostart",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "pidgin-improved-privacy",
+      "repo": "https://github.com/adrelanos/pidgin-improved-privacy",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Makefile"
+    },
+    {
+      "name": "ksm",
+      "repo": "https://github.com/adrelanos/ksm",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    },
+    {
+      "name": "minimal-grml-debootstrap-test",
+      "repo": "https://github.com/adrelanos/minimal-grml-debootstrap-test",
+      "url": "https://www.whonix.org/wiki/Impressum",
+      "language": "Shell"
+    }
+  ]
+}

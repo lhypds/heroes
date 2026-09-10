@@ -1,0 +1,532 @@
+{
+  "handle": "hahwul",
+  "name": "hahwul",
+  "github": [
+    "https://github.com/hahwul"
+  ],
+  "website": "https://hahwul.com/",
+  "bio": "Offensive Security Engineer, Developer and H4cker.",
+  "own_repos": 130,
+  "commits": 19738,
+  "apps": [],
+  "repos": [
+    {
+      "name": "assets.hahwul.com",
+      "repo": "https://github.com/hahwul/assets.hahwul.com",
+      "url": "https://assets.hahwul.com",
+      "language": "Shell"
+    },
+    {
+      "name": "gori",
+      "repo": "https://github.com/hahwul/gori",
+      "url": "https://gori.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "urx",
+      "repo": "https://github.com/hahwul/urx",
+      "url": "https://urx.hahwul.com",
+      "language": "Rust"
+    },
+    {
+      "name": "dalfox",
+      "repo": "https://github.com/hahwul/dalfox",
+      "url": "https://dalfox.hahwul.com",
+      "language": "Rust"
+    },
+    {
+      "name": "hwaro",
+      "repo": "https://github.com/hahwul/hwaro",
+      "url": "https://hwaro.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "cvss.cr",
+      "repo": "https://github.com/hahwul/cvss.cr",
+      "url": "https://cvss.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "WebHackersWeapons",
+      "repo": "https://github.com/hahwul/WebHackersWeapons",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-hwaro",
+      "repo": "https://github.com/hahwul/homebrew-hwaro",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-gori",
+      "repo": "https://github.com/hahwul/homebrew-gori",
+      "language": "Ruby"
+    },
+    {
+      "name": "jwt-hack",
+      "repo": "https://github.com/hahwul/jwt-hack",
+      "language": "Rust"
+    },
+    {
+      "name": "ssg-benchmark",
+      "repo": "https://github.com/hahwul/ssg-benchmark",
+      "url": "https://hahwul.github.io/ssg-benchmark/",
+      "language": "HTML"
+    },
+    {
+      "name": "hwaro-examples",
+      "repo": "https://github.com/hahwul/hwaro-examples",
+      "url": "https://examples.hwaro.hahwul.com",
+      "language": "Shell"
+    },
+    {
+      "name": "deadfinder",
+      "repo": "https://github.com/hahwul/deadfinder",
+      "url": "https://deadfinder.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "cjules",
+      "repo": "https://github.com/hahwul/cjules",
+      "language": "Crystal"
+    },
+    {
+      "name": "mzap",
+      "repo": "https://github.com/hahwul/mzap",
+      "language": "Crystal"
+    },
+    {
+      "name": "eoyc",
+      "repo": "https://github.com/hahwul/eoyc",
+      "url": "https://eoyc.hahwul.com/",
+      "language": "Crystal"
+    },
+    {
+      "name": "homebrew-dalfox",
+      "repo": "https://github.com/hahwul/homebrew-dalfox",
+      "language": "Ruby"
+    },
+    {
+      "name": "smugglex",
+      "repo": "https://github.com/hahwul/smugglex",
+      "url": "https://smugglex.hahwul.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-xssmaze",
+      "repo": "https://github.com/hahwul/homebrew-xssmaze",
+      "language": "Ruby"
+    },
+    {
+      "name": "xssmaze",
+      "repo": "https://github.com/hahwul/xssmaze",
+      "language": "Crystal"
+    },
+    {
+      "name": "zap.cr",
+      "repo": "https://github.com/hahwul/zap.cr",
+      "url": "https://zap.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "vex.cr",
+      "repo": "https://github.com/hahwul/vex.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "spdx.cr",
+      "repo": "https://github.com/hahwul/spdx.cr",
+      "url": "https://spdx.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "sarif.cr",
+      "repo": "https://github.com/hahwul/sarif.cr",
+      "url": "https://sarif.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "purl.cr",
+      "repo": "https://github.com/hahwul/purl.cr",
+      "url": "https://purl.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "kev.cr",
+      "repo": "https://github.com/hahwul/kev.cr",
+      "url": "https://kev.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "fm.cr",
+      "repo": "https://github.com/hahwul/fm.cr",
+      "url": "https://fm.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "epss.cr",
+      "repo": "https://github.com/hahwul/epss.cr",
+      "url": "https://epss.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "cwe.cr",
+      "repo": "https://github.com/hahwul/cwe.cr",
+      "url": "https://cwe.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "caido.cr",
+      "repo": "https://github.com/hahwul/caido.cr",
+      "url": "https://caido.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "acp.cr",
+      "repo": "https://github.com/hahwul/acp.cr",
+      "url": "https://acp.cr.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "cyclonedx-cr",
+      "repo": "https://github.com/hahwul/cyclonedx-cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "shards-audit",
+      "repo": "https://github.com/hahwul/shards-audit",
+      "language": "Crystal"
+    },
+    {
+      "name": "DevSecOps",
+      "repo": "https://github.com/hahwul/DevSecOps",
+      "language": "Just"
+    },
+    {
+      "name": "doma",
+      "repo": "https://github.com/hahwul/doma",
+      "url": "https://doma.hahwul.com",
+      "language": "Crystal"
+    },
+    {
+      "name": "homebrew-cyclonedx-cr",
+      "repo": "https://github.com/hahwul/homebrew-cyclonedx-cr",
+      "language": "Ruby"
+    },
+    {
+      "name": "reqs",
+      "repo": "https://github.com/hahwul/reqs",
+      "url": "https://crates.io/crates/reqs",
+      "language": "Rust"
+    },
+    {
+      "name": "goyo",
+      "repo": "https://github.com/hahwul/goyo",
+      "url": "https://goyo.hahwul.com",
+      "language": "HTML"
+    },
+    {
+      "name": "hahwul",
+      "repo": "https://github.com/hahwul/hahwul"
+    },
+    {
+      "name": "authz0",
+      "repo": "https://github.com/hahwul/authz0",
+      "url": "https://authz0.hahwul.com",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-urx",
+      "repo": "https://github.com/hahwul/homebrew-urx",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-doma",
+      "repo": "https://github.com/hahwul/homebrew-doma",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-jwt-hack",
+      "repo": "https://github.com/hahwul/homebrew-jwt-hack",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-shards-audit",
+      "repo": "https://github.com/hahwul/homebrew-shards-audit"
+    },
+    {
+      "name": "homebrew-smugglex",
+      "repo": "https://github.com/hahwul/homebrew-smugglex",
+      "language": "Ruby"
+    },
+    {
+      "name": "ShadowShell",
+      "repo": "https://github.com/hahwul/ShadowShell",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Hex",
+      "repo": "https://github.com/hahwul/Hex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "OmniOAST",
+      "repo": "https://github.com/hahwul/OmniOAST",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-cjules",
+      "repo": "https://github.com/hahwul/homebrew-cjules",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-mzap",
+      "repo": "https://github.com/hahwul/homebrew-mzap",
+      "language": "Ruby"
+    },
+    {
+      "name": "midnight-in-seoul",
+      "repo": "https://github.com/hahwul/midnight-in-seoul"
+    },
+    {
+      "name": "homebrew-eoyc",
+      "repo": "https://github.com/hahwul/homebrew-eoyc",
+      "language": "Ruby"
+    },
+    {
+      "name": "XSpear",
+      "repo": "https://github.com/hahwul/XSpear",
+      "language": "Ruby"
+    },
+    {
+      "name": "MobileHackersWeapons",
+      "repo": "https://github.com/hahwul/MobileHackersWeapons",
+      "language": "Ruby"
+    },
+    {
+      "name": "jekyll-securitytxt",
+      "repo": "https://github.com/hahwul/jekyll-securitytxt",
+      "url": "https://rubygems.org/gems/jekyll-securitytxt",
+      "language": "Ruby"
+    },
+    {
+      "name": "gh-test-rust",
+      "repo": "https://github.com/hahwul/gh-test-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "xss_benchmark",
+      "repo": "https://github.com/hahwul/xss_benchmark",
+      "language": "Ruby"
+    },
+    {
+      "name": "zokipedia",
+      "repo": "https://github.com/hahwul/zokipedia",
+      "url": "https://zokipedia.hahwul.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "homebrew-reqs",
+      "repo": "https://github.com/hahwul/homebrew-reqs",
+      "language": "Ruby"
+    },
+    {
+      "name": "zest-env",
+      "repo": "https://github.com/hahwul/zest-env",
+      "language": "Shell"
+    },
+    {
+      "name": "gee",
+      "repo": "https://github.com/hahwul/gee",
+      "url": "https://gee.hahwul.com",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-hack",
+      "repo": "https://github.com/hahwul/mcp-hack",
+      "language": "Rust"
+    },
+    {
+      "name": "gh-test-crystal",
+      "repo": "https://github.com/hahwul/gh-test-crystal",
+      "language": "Crystal"
+    },
+    {
+      "name": "awesome-zola",
+      "repo": "https://github.com/hahwul/awesome-zola",
+      "language": "HTML"
+    },
+    {
+      "name": "go-github-selfupdate-patched",
+      "repo": "https://github.com/hahwul/go-github-selfupdate-patched",
+      "language": "Go"
+    },
+    {
+      "name": "volt",
+      "repo": "https://github.com/hahwul/volt",
+      "language": "Go"
+    },
+    {
+      "name": "deadfinder-action-test",
+      "repo": "https://github.com/hahwul/deadfinder-action-test"
+    },
+    {
+      "name": "homebrew-gee",
+      "repo": "https://github.com/hahwul/homebrew-gee",
+      "language": "Ruby"
+    },
+    {
+      "name": "gitls",
+      "repo": "https://github.com/hahwul/gitls",
+      "language": "Go"
+    },
+    {
+      "name": "asfasdf",
+      "repo": "https://github.com/hahwul/asfasdf"
+    },
+    {
+      "name": "bad-usb-scripts",
+      "repo": "https://github.com/hahwul/bad-usb-scripts"
+    },
+    {
+      "name": "CaidoTweaks",
+      "repo": "https://github.com/hahwul/CaidoTweaks"
+    },
+    {
+      "name": "zaproxy-ruby",
+      "repo": "https://github.com/hahwul/zaproxy-ruby",
+      "url": "https://rubygems.org/gems/zaproxy",
+      "language": "Ruby"
+    },
+    {
+      "name": "action-dalfox",
+      "repo": "https://github.com/hahwul/action-dalfox",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "homebrew-noir",
+      "repo": "https://github.com/hahwul/homebrew-noir",
+      "language": "Ruby"
+    },
+    {
+      "name": "fuzzstone",
+      "repo": "https://github.com/hahwul/fuzzstone",
+      "language": "JavaScript"
+    },
+    {
+      "name": "melody.cr",
+      "repo": "https://github.com/hahwul/melody.cr",
+      "language": "Crystal"
+    },
+    {
+      "name": "hack-pet",
+      "repo": "https://github.com/hahwul/hack-pet",
+      "language": "Go"
+    },
+    {
+      "name": "s3reverse",
+      "repo": "https://github.com/hahwul/s3reverse",
+      "language": "Go"
+    },
+    {
+      "name": "github-aciton-injection-test",
+      "repo": "https://github.com/hahwul/github-aciton-injection-test"
+    },
+    {
+      "name": "crystal-smuggle",
+      "repo": "https://github.com/hahwul/crystal-smuggle",
+      "language": "Crystal"
+    },
+    {
+      "name": "mycert",
+      "repo": "https://github.com/hahwul/mycert",
+      "language": "Ruby"
+    },
+    {
+      "name": "RegexPassive",
+      "repo": "https://github.com/hahwul/RegexPassive"
+    },
+    {
+      "name": "mad-metasploit",
+      "repo": "https://github.com/hahwul/mad-metasploit",
+      "language": "Ruby"
+    },
+    {
+      "name": "rings",
+      "repo": "https://github.com/hahwul/rings",
+      "url": "https://rubygems.org/gems/rings",
+      "language": "Ruby"
+    },
+    {
+      "name": "ws-smuggler",
+      "repo": "https://github.com/hahwul/ws-smuggler",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-gitls",
+      "repo": "https://github.com/hahwul/homebrew-gitls",
+      "language": "Ruby"
+    },
+    {
+      "name": "MemBi",
+      "repo": "https://github.com/hahwul/MemBi",
+      "language": "Go"
+    },
+    {
+      "name": "action-authz0-test",
+      "repo": "https://github.com/hahwul/action-authz0-test"
+    },
+    {
+      "name": "homebrew-authz0",
+      "repo": "https://github.com/hahwul/homebrew-authz0",
+      "language": "Ruby"
+    },
+    {
+      "name": "backbomb",
+      "repo": "https://github.com/hahwul/backbomb",
+      "language": "Go"
+    },
+    {
+      "name": "qs-openvpn",
+      "repo": "https://github.com/hahwul/qs-openvpn",
+      "language": "Shell"
+    },
+    {
+      "name": "licaner",
+      "repo": "https://github.com/hahwul/licaner",
+      "language": "Go"
+    },
+    {
+      "name": "lab",
+      "repo": "https://github.com/hahwul/lab"
+    },
+    {
+      "name": "homebrew-s3reverse",
+      "repo": "https://github.com/hahwul/homebrew-s3reverse",
+      "language": "Ruby"
+    },
+    {
+      "name": "zap-cloud-scan",
+      "repo": "https://github.com/hahwul/zap-cloud-scan"
+    },
+    {
+      "name": "homebrew-backbomb",
+      "repo": "https://github.com/hahwul/homebrew-backbomb",
+      "language": "Ruby"
+    },
+    {
+      "name": "a2sv",
+      "repo": "https://github.com/hahwul/a2sv",
+      "language": "Python"
+    },
+    {
+      "name": "jqueen",
+      "repo": "https://github.com/hahwul/jqueen",
+      "language": "Go"
+    },
+    {
+      "name": "hlogger",
+      "repo": "https://github.com/hahwul/hlogger",
+      "language": "Go"
+    }
+  ]
+}

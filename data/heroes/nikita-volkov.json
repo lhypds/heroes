@@ -1,0 +1,515 @@
+{
+  "handle": "nikita-volkov",
+  "name": "Nikita Volkov",
+  "github": [
+    "https://github.com/nikita-volkov"
+  ],
+  "website": "https://codemine.io/",
+  "bio": "I help companies with pGenie, architecture, Haskell and Rust.",
+  "own_repos": 243,
+  "commits": 13049,
+  "apps": [],
+  "repos": [
+    {
+      "name": "postgresql-types-algebra",
+      "repo": "https://github.com/nikita-volkov/postgresql-types-algebra",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-coding-standards",
+      "repo": "https://github.com/nikita-volkov/haskell-coding-standards"
+    },
+    {
+      "name": "pqi-native",
+      "repo": "https://github.com/nikita-volkov/pqi-native",
+      "language": "Haskell"
+    },
+    {
+      "name": "pqi-conformance",
+      "repo": "https://github.com/nikita-volkov/pqi-conformance",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgresql-syntax",
+      "repo": "https://github.com/nikita-volkov/postgresql-syntax",
+      "language": "Yacc"
+    },
+    {
+      "name": "hasql",
+      "repo": "https://github.com/nikita-volkov/hasql",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-transaction",
+      "repo": "https://github.com/nikita-volkov/hasql-transaction",
+      "language": "Haskell"
+    },
+    {
+      "name": "conclude.skill",
+      "repo": "https://github.com/nikita-volkov/conclude.skill"
+    },
+    {
+      "name": "pqi",
+      "repo": "https://github.com/nikita-volkov/pqi",
+      "language": "Haskell"
+    },
+    {
+      "name": "nikita-volkov.github.io",
+      "repo": "https://github.com/nikita-volkov/nikita-volkov.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "hasql-mapping",
+      "repo": "https://github.com/nikita-volkov/hasql-mapping",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-docs",
+      "repo": "https://github.com/nikita-volkov/hasql-docs"
+    },
+    {
+      "name": "haskell-hackage-lib-github-actions-workflows",
+      "repo": "https://github.com/nikita-volkov/haskell-hackage-lib-github-actions-workflows"
+    },
+    {
+      "name": "postgresql-codecs",
+      "repo": "https://github.com/nikita-volkov/postgresql-codecs",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-pool",
+      "repo": "https://github.com/nikita-volkov/hasql-pool",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-dev",
+      "repo": "https://github.com/nikita-volkov/hasql-dev",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-cursor-query",
+      "repo": "https://github.com/nikita-volkov/hasql-cursor-query",
+      "language": "Haskell"
+    },
+    {
+      "name": "pqi-ffi",
+      "repo": "https://github.com/nikita-volkov/pqi-ffi",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-dynamic-statements",
+      "repo": "https://github.com/nikita-volkov/hasql-dynamic-statements",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-cursor-transaction",
+      "repo": "https://github.com/nikita-volkov/hasql-cursor-transaction",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-implicits",
+      "repo": "https://github.com/nikita-volkov/hasql-implicits",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-postgresql-types",
+      "repo": "https://github.com/nikita-volkov/hasql-postgresql-types",
+      "language": "Haskell"
+    },
+    {
+      "name": "hasql-th",
+      "repo": "https://github.com/nikita-volkov/hasql-th",
+      "language": "Haskell"
+    },
+    {
+      "name": "ormolu.github-action",
+      "repo": "https://github.com/nikita-volkov/ormolu.github-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cabal-gild.github-action",
+      "repo": "https://github.com/nikita-volkov/cabal-gild.github-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "changelog-driven-release.github-action",
+      "repo": "https://github.com/nikita-volkov/changelog-driven-release.github-action",
+      "language": "Shell"
+    },
+    {
+      "name": "hasql-tutorial1",
+      "repo": "https://github.com/nikita-volkov/hasql-tutorial1",
+      "language": "Haskell"
+    },
+    {
+      "name": "prune-haskell-exports.skill",
+      "repo": "https://github.com/nikita-volkov/prune-haskell-exports.skill"
+    },
+    {
+      "name": "release-haskell-package.github-action",
+      "repo": "https://github.com/nikita-volkov/release-haskell-package.github-action"
+    },
+    {
+      "name": "nikita-volkov",
+      "repo": "https://github.com/nikita-volkov/nikita-volkov"
+    },
+    {
+      "name": "postgresql-types",
+      "repo": "https://github.com/nikita-volkov/postgresql-types",
+      "url": "https://hackage.haskell.org/package/postgresql-types",
+      "language": "Haskell"
+    },
+    {
+      "name": "structure-kit",
+      "repo": "https://github.com/nikita-volkov/structure-kit",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgresql-simple-postgresql-types",
+      "repo": "https://github.com/nikita-volkov/postgresql-simple-postgresql-types",
+      "language": "Haskell"
+    },
+    {
+      "name": "typeclasses.dhall",
+      "repo": "https://github.com/nikita-volkov/typeclasses.dhall",
+      "language": "Dhall"
+    },
+    {
+      "name": "testcontainers-postgresql",
+      "repo": "https://github.com/nikita-volkov/testcontainers-postgresql",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhall-resolve.github-action",
+      "repo": "https://github.com/nikita-volkov/dhall-resolve.github-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "syntactic-class",
+      "repo": "https://github.com/nikita-volkov/syntactic-class",
+      "language": "Haskell"
+    },
+    {
+      "name": "edit-cabal-version.github-action",
+      "repo": "https://github.com/nikita-volkov/edit-cabal-version.github-action",
+      "language": "Haskell"
+    },
+    {
+      "name": "relations",
+      "repo": "https://github.com/nikita-volkov/relations",
+      "language": "Haskell"
+    },
+    {
+      "name": "canapi",
+      "repo": "https://github.com/nikita-volkov/canapi",
+      "language": "Haskell"
+    },
+    {
+      "name": "coalmine",
+      "repo": "https://github.com/nikita-volkov/coalmine",
+      "language": "Haskell"
+    },
+    {
+      "name": "theatre",
+      "repo": "https://github.com/nikita-volkov/theatre",
+      "language": "Haskell"
+    },
+    {
+      "name": "cases",
+      "repo": "https://github.com/nikita-volkov/cases",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhall-directory-tree.github-action",
+      "repo": "https://github.com/nikita-volkov/dhall-directory-tree.github-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "fx",
+      "repo": "https://github.com/nikita-volkov/fx",
+      "language": "Haskell"
+    },
+    {
+      "name": "strict-list",
+      "repo": "https://github.com/nikita-volkov/strict-list",
+      "url": "https://hackage.haskell.org/package/strict-list",
+      "language": "Haskell"
+    },
+    {
+      "name": "ptr",
+      "repo": "https://github.com/nikita-volkov/ptr",
+      "language": "Haskell"
+    },
+    {
+      "name": "deque",
+      "repo": "https://github.com/nikita-volkov/deque",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhall-docs.github-action",
+      "repo": "https://github.com/nikita-volkov/dhall-docs.github-action",
+      "language": "Shell"
+    },
+    {
+      "name": "ptr-peeker",
+      "repo": "https://github.com/nikita-volkov/ptr-peeker",
+      "url": "https://hackage.haskell.org/package/ptr-peeker",
+      "language": "Haskell"
+    },
+    {
+      "name": "text-builder-lawful-conversions",
+      "repo": "https://github.com/nikita-volkov/text-builder-lawful-conversions",
+      "url": "https://hackage.haskell.org/package/text-builder-lawful-conversions",
+      "language": "Haskell"
+    },
+    {
+      "name": "lawful-conversions",
+      "repo": "https://github.com/nikita-volkov/lawful-conversions",
+      "url": "https://hackage.haskell.org/package/lawful-conversions",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgresql-connection-string",
+      "repo": "https://github.com/nikita-volkov/postgresql-connection-string",
+      "url": "https://hackage.haskell.org/package/postgresql-connection-string",
+      "language": "Haskell"
+    },
+    {
+      "name": "algebraic-path",
+      "repo": "https://github.com/nikita-volkov/algebraic-path",
+      "url": "https://hackage.haskell.org/package/algebraic-path",
+      "language": "Haskell"
+    },
+    {
+      "name": "rerebase",
+      "repo": "https://github.com/nikita-volkov/rerebase"
+    },
+    {
+      "name": "rebase",
+      "repo": "https://github.com/nikita-volkov/rebase",
+      "language": "Haskell"
+    },
+    {
+      "name": "deploy-dhall-docs-to-github-pages.github-actions-workflow",
+      "repo": "https://github.com/nikita-volkov/deploy-dhall-docs-to-github-pages.github-actions-workflow"
+    },
+    {
+      "name": "quickcheck-extras",
+      "repo": "https://github.com/nikita-volkov/quickcheck-extras",
+      "language": "Haskell"
+    },
+    {
+      "name": "ptr-poker",
+      "repo": "https://github.com/nikita-volkov/ptr-poker",
+      "language": "Haskell"
+    },
+    {
+      "name": "domain-aeson",
+      "repo": "https://github.com/nikita-volkov/domain-aeson",
+      "language": "Haskell"
+    },
+    {
+      "name": "deferred-folds",
+      "repo": "https://github.com/nikita-volkov/deferred-folds",
+      "language": "Haskell"
+    },
+    {
+      "name": "text-builder-dev",
+      "repo": "https://github.com/nikita-volkov/text-builder-dev",
+      "url": "https://hackage.haskell.org/package/text-builder-dev",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaml-unscrambler",
+      "repo": "https://github.com/nikita-volkov/yaml-unscrambler",
+      "url": "https://hackage.haskell.org/package/yaml-unscrambler",
+      "language": "Haskell"
+    },
+    {
+      "name": "vector-builder",
+      "repo": "https://github.com/nikita-volkov/vector-builder",
+      "language": "Haskell"
+    },
+    {
+      "name": "acc",
+      "repo": "https://github.com/nikita-volkov/acc",
+      "language": "Haskell"
+    },
+    {
+      "name": "stm-hamt",
+      "repo": "https://github.com/nikita-volkov/stm-hamt",
+      "url": "https://hackage.haskell.org/package/stm-hamt",
+      "language": "Haskell"
+    },
+    {
+      "name": "text-builder-core",
+      "repo": "https://github.com/nikita-volkov/text-builder-core",
+      "url": "https://hackage.haskell.org/package/text-builder-core",
+      "language": "Haskell"
+    },
+    {
+      "name": "isomorphism-class",
+      "repo": "https://github.com/nikita-volkov/isomorphism-class",
+      "url": "https://hackage.haskell.org/package/isomorphism-class",
+      "language": "Haskell"
+    },
+    {
+      "name": "template-haskell-compat-v0208",
+      "repo": "https://github.com/nikita-volkov/template-haskell-compat-v0208",
+      "language": "Haskell"
+    },
+    {
+      "name": "postgresql-binary",
+      "repo": "https://github.com/nikita-volkov/postgresql-binary",
+      "language": "Haskell"
+    },
+    {
+      "name": "stm-containers",
+      "repo": "https://github.com/nikita-volkov/stm-containers",
+      "language": "Haskell"
+    },
+    {
+      "name": "text-builder",
+      "repo": "https://github.com/nikita-volkov/text-builder",
+      "url": "https://hackage.haskell.org/package/text-builder",
+      "language": "Haskell"
+    },
+    {
+      "name": "iri",
+      "repo": "https://github.com/nikita-volkov/iri",
+      "url": "https://hackage.haskell.org/package/iri",
+      "language": "Haskell"
+    },
+    {
+      "name": "binary-parser",
+      "repo": "https://github.com/nikita-volkov/binary-parser",
+      "language": "Haskell"
+    },
+    {
+      "name": "optima",
+      "repo": "https://github.com/nikita-volkov/optima",
+      "language": "Haskell"
+    },
+    {
+      "name": "vector-extras",
+      "repo": "https://github.com/nikita-volkov/vector-extras",
+      "language": "Haskell"
+    },
+    {
+      "name": "text-builder-time",
+      "repo": "https://github.com/nikita-volkov/text-builder-time",
+      "language": "Haskell"
+    },
+    {
+      "name": "xml-parser",
+      "repo": "https://github.com/nikita-volkov/xml-parser",
+      "language": "Haskell"
+    },
+    {
+      "name": "check-haskell-fast.github-actions-workflow",
+      "repo": "https://github.com/nikita-volkov/check-haskell-fast.github-actions-workflow"
+    },
+    {
+      "name": "check-haskell-optimally.github-actions-workflow",
+      "repo": "https://github.com/nikita-volkov/check-haskell-optimally.github-actions-workflow"
+    },
+    {
+      "name": "extract-metadata-from-cabal.github-action",
+      "repo": "https://github.com/nikita-volkov/extract-metadata-from-cabal.github-action"
+    },
+    {
+      "name": "yc-logger",
+      "repo": "https://github.com/nikita-volkov/yc-logger",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean-http-client",
+      "repo": "https://github.com/nikita-volkov/lean-http-client",
+      "language": "Haskell"
+    },
+    {
+      "name": "primitive-extras",
+      "repo": "https://github.com/nikita-volkov/primitive-extras",
+      "language": "Haskell"
+    },
+    {
+      "name": "bytestring-strict-builder",
+      "repo": "https://github.com/nikita-volkov/bytestring-strict-builder",
+      "language": "Haskell"
+    },
+    {
+      "name": "bytestring-tree-builder",
+      "repo": "https://github.com/nikita-volkov/bytestring-tree-builder",
+      "language": "Haskell"
+    },
+    {
+      "name": "modeliero",
+      "repo": "https://github.com/nikita-volkov/modeliero",
+      "language": "Haskell"
+    },
+    {
+      "name": "modeliero-base",
+      "repo": "https://github.com/nikita-volkov/modeliero-base",
+      "language": "Haskell"
+    },
+    {
+      "name": "combinators",
+      "repo": "https://github.com/nikita-volkov/combinators",
+      "language": "Haskell"
+    },
+    {
+      "name": "xml-types-content",
+      "repo": "https://github.com/nikita-volkov/xml-types-content",
+      "url": "https://hackage.haskell.org/package/xml-types-content",
+      "language": "Haskell"
+    },
+    {
+      "name": "QuickCheck-GenT",
+      "repo": "https://github.com/nikita-volkov/QuickCheck-GenT",
+      "language": "Haskell"
+    },
+    {
+      "name": "refined",
+      "repo": "https://github.com/nikita-volkov/refined",
+      "language": "Haskell"
+    },
+    {
+      "name": "build-and-test-cabal-package.github-action",
+      "repo": "https://github.com/nikita-volkov/build-and-test-cabal-package.github-action"
+    },
+    {
+      "name": "envparse-extras",
+      "repo": "https://github.com/nikita-volkov/envparse-extras",
+      "language": "Haskell"
+    },
+    {
+      "name": "acquire",
+      "repo": "https://github.com/nikita-volkov/acquire",
+      "language": "Haskell"
+    },
+    {
+      "name": "codegen-kit",
+      "repo": "https://github.com/nikita-volkov/codegen-kit",
+      "language": "Haskell"
+    },
+    {
+      "name": "stack-snapshot",
+      "repo": "https://github.com/nikita-volkov/stack-snapshot"
+    },
+    {
+      "name": "html-entities",
+      "repo": "https://github.com/nikita-volkov/html-entities",
+      "language": "Haskell"
+    },
+    {
+      "name": "conversion-text",
+      "repo": "https://github.com/nikita-volkov/conversion-text",
+      "language": "Haskell"
+    },
+    {
+      "name": "conversion-bytestring",
+      "repo": "https://github.com/nikita-volkov/conversion-bytestring",
+      "language": "Haskell"
+    }
+  ]
+}

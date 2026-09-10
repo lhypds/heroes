@@ -1,0 +1,518 @@
+{
+  "handle": "akirak",
+  "name": "Akira Komamura",
+  "github": [
+    "https://github.com/akirak"
+  ],
+  "website": "https://jingsi.space/",
+  "own_repos": 146,
+  "commits": 20093,
+  "apps": [],
+  "repos": [
+    {
+      "name": "emacs-config",
+      "repo": "https://github.com/akirak/emacs-config",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flake-templates",
+      "repo": "https://github.com/akirak/flake-templates",
+      "url": "https://akirak.github.io/flake-templates/",
+      "language": "Nix"
+    },
+    {
+      "name": "gleam-inertia",
+      "repo": "https://github.com/akirak/gleam-inertia",
+      "language": "Gleam"
+    },
+    {
+      "name": "nix-playwright-cli",
+      "repo": "https://github.com/akirak/nix-playwright-cli",
+      "language": "Nix"
+    },
+    {
+      "name": "crista",
+      "repo": "https://github.com/akirak/crista",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-react-demo",
+      "repo": "https://github.com/akirak/ocaml-react-demo",
+      "language": "Reason"
+    },
+    {
+      "name": "flake-pins",
+      "repo": "https://github.com/akirak/flake-pins",
+      "language": "Nix"
+    },
+    {
+      "name": "org-pivot-search",
+      "repo": "https://github.com/akirak/org-pivot-search",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-dog",
+      "repo": "https://github.com/akirak/org-dog",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "passlint",
+      "repo": "https://github.com/akirak/passlint",
+      "language": "Rust"
+    },
+    {
+      "name": "ranmaru",
+      "repo": "https://github.com/akirak/ranmaru",
+      "language": "OCaml"
+    },
+    {
+      "name": "late-stack",
+      "repo": "https://github.com/akirak/late-stack",
+      "url": "https://jingsi.space/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "akirak",
+      "repo": "https://github.com/akirak/akirak"
+    },
+    {
+      "name": "capnp-ts-mode",
+      "repo": "https://github.com/akirak/capnp-ts-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "reason-ts-mode",
+      "repo": "https://github.com/akirak/reason-ts-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "docco.el",
+      "repo": "https://github.com/akirak/docco.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "nix-playwright-mcp",
+      "repo": "https://github.com/akirak/nix-playwright-mcp",
+      "language": "Nix"
+    },
+    {
+      "name": "squasher",
+      "repo": "https://github.com/akirak/squasher",
+      "language": "Go"
+    },
+    {
+      "name": "localai-cli",
+      "repo": "https://github.com/akirak/localai-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "iconv_all",
+      "repo": "https://github.com/akirak/iconv_all",
+      "language": "Elixir"
+    },
+    {
+      "name": "hcloud-nixos-terraform-example",
+      "repo": "https://github.com/akirak/hcloud-nixos-terraform-example",
+      "language": "HCL"
+    },
+    {
+      "name": "flake-no-path",
+      "repo": "https://github.com/akirak/flake-no-path",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-config",
+      "repo": "https://github.com/akirak/nix-config",
+      "language": "Nix"
+    },
+    {
+      "name": "yastar",
+      "repo": "https://github.com/akirak/yastar",
+      "language": "Rust"
+    },
+    {
+      "name": "streamlit-react-template",
+      "repo": "https://github.com/akirak/streamlit-react-template",
+      "language": "Python"
+    },
+    {
+      "name": "ocaml-mcp-example",
+      "repo": "https://github.com/akirak/ocaml-mcp-example",
+      "language": "OCaml"
+    },
+    {
+      "name": "kindle-pc-scraper",
+      "repo": "https://github.com/akirak/kindle-pc-scraper",
+      "language": "Rust"
+    },
+    {
+      "name": "electric-todomvc",
+      "repo": "https://github.com/akirak/electric-todomvc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "epubinfo",
+      "repo": "https://github.com/akirak/epubinfo",
+      "language": "Haskell"
+    },
+    {
+      "name": "org-reverse-datetree",
+      "repo": "https://github.com/akirak/org-reverse-datetree",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "vite-plugin-genql",
+      "repo": "https://github.com/akirak/vite-plugin-genql",
+      "language": "TypeScript"
+    },
+    {
+      "name": "emacs-dumb-japanese",
+      "repo": "https://github.com/akirak/emacs-dumb-japanese",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "orgabilize.el",
+      "repo": "https://github.com/akirak/orgabilize.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "twind.el",
+      "repo": "https://github.com/akirak/twind.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cosmetic-transient.el",
+      "repo": "https://github.com/akirak/cosmetic-transient.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-rooted",
+      "repo": "https://github.com/akirak/org-rooted",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-blockers-block",
+      "repo": "https://github.com/akirak/org-blockers-block",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "akirak.github.io",
+      "repo": "https://github.com/akirak/akirak.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "mozc-posframe",
+      "repo": "https://github.com/akirak/mozc-posframe",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-memento",
+      "repo": "https://github.com/akirak/org-memento",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flymake-actionlint1",
+      "repo": "https://github.com/akirak/flymake-actionlint1",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "tanstack-start-demo",
+      "repo": "https://github.com/akirak/tanstack-start-demo",
+      "url": "https://tanstack.com/router/latest/docs/framework/react/start/getting-started",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bookmark-frecency.el",
+      "repo": "https://github.com/akirak/bookmark-frecency.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "git-identity.el",
+      "repo": "https://github.com/akirak/git-identity.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flake-templates-doc",
+      "repo": "https://github.com/akirak/flake-templates-doc",
+      "url": "https://akirak.github.io/flake-templates/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotenvy.ml",
+      "repo": "https://github.com/akirak/dotenvy.ml",
+      "url": "https://akirak.github.io/dotenvy.ml/",
+      "language": "OCaml"
+    },
+    {
+      "name": "github-linguist.el",
+      "repo": "https://github.com/akirak/github-linguist.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ziglings",
+      "repo": "https://github.com/akirak/ziglings",
+      "url": "https://codeberg.org/ziglings/exercises",
+      "language": "Zig"
+    },
+    {
+      "name": "haskell-pdftotext",
+      "repo": "https://github.com/akirak/haskell-pdftotext",
+      "url": "https://hg.sr.ht/~geyaeb/haskell-pdftotext",
+      "language": "Haskell"
+    },
+    {
+      "name": "design-tokens-pipeline-demo",
+      "repo": "https://github.com/akirak/design-tokens-pipeline-demo"
+    },
+    {
+      "name": "fonts-container",
+      "repo": "https://github.com/akirak/fonts-container",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "conventional-commit.el",
+      "repo": "https://github.com/akirak/conventional-commit.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "contributors",
+      "repo": "https://github.com/akirak/contributors",
+      "language": "Go"
+    },
+    {
+      "name": "ivy-omni-org",
+      "repo": "https://github.com/akirak/ivy-omni-org",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-nlink.el",
+      "repo": "https://github.com/akirak/org-nlink.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "use-package-tags",
+      "repo": "https://github.com/akirak/use-package-tags",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-multi-wiki",
+      "repo": "https://github.com/akirak/org-multi-wiki",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "readability-cli",
+      "repo": "https://github.com/akirak/readability-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fullstack-react-on-elysia-demo",
+      "repo": "https://github.com/akirak/fullstack-react-on-elysia-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nix-boilerplate",
+      "repo": "https://github.com/akirak/nix-boilerplate",
+      "language": "Nix"
+    },
+    {
+      "name": "nixpkgs-overlay",
+      "repo": "https://github.com/akirak/nixpkgs-overlay",
+      "language": "Nix"
+    },
+    {
+      "name": "org-volume",
+      "repo": "https://github.com/akirak/org-volume",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "react-calc",
+      "repo": "https://github.com/akirak/react-calc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nix-env-install",
+      "repo": "https://github.com/akirak/nix-env-install",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-hyprctl",
+      "repo": "https://github.com/akirak/org-hyprctl",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "podman.el",
+      "repo": "https://github.com/akirak/podman.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-starter",
+      "repo": "https://github.com/akirak/org-starter",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "docker-chromium",
+      "repo": "https://github.com/akirak/docker-chromium",
+      "url": "https://hub.docker.com/repository/docker/akirak/chromium",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-emacs-make",
+      "repo": "https://github.com/akirak/docker-emacs-make",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "octopus.el",
+      "repo": "https://github.com/akirak/octopus.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-chronos",
+      "repo": "https://github.com/akirak/org-chronos",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-epubinfo",
+      "repo": "https://github.com/akirak/org-epubinfo",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "kino_iconv_all",
+      "repo": "https://github.com/akirak/kino_iconv_all",
+      "language": "Elixir"
+    },
+    {
+      "name": "xmind-org-el",
+      "repo": "https://github.com/akirak/xmind-org-el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "workbox.el",
+      "repo": "https://github.com/akirak/workbox.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "nix-magit",
+      "repo": "https://github.com/akirak/nix-magit",
+      "language": "Nix"
+    },
+    {
+      "name": "oahu.el",
+      "repo": "https://github.com/akirak/oahu.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "nix-fmt.el",
+      "repo": "https://github.com/akirak/nix-fmt.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs.d",
+      "repo": "https://github.com/akirak/emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "livebook-flake",
+      "repo": "https://github.com/akirak/livebook-flake",
+      "language": "Nix"
+    },
+    {
+      "name": "flymake-bean-check",
+      "repo": "https://github.com/akirak/flymake-bean-check",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "related-file",
+      "repo": "https://github.com/akirak/related-file",
+      "language": "Prolog"
+    },
+    {
+      "name": "react-spa-template",
+      "repo": "https://github.com/akirak/react-spa-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "org-lang-env",
+      "repo": "https://github.com/akirak/org-lang-env",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "node-packages-overlay",
+      "repo": "https://github.com/akirak/node-packages-overlay",
+      "language": "Nix"
+    },
+    {
+      "name": "huan.el",
+      "repo": "https://github.com/akirak/huan.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "duckduckgo.el",
+      "repo": "https://github.com/akirak/duckduckgo.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "helm-tail",
+      "repo": "https://github.com/akirak/helm-tail",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "akirak-mode",
+      "repo": "https://github.com/akirak/akirak-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org-make-toc-action",
+      "repo": "https://github.com/akirak/org-make-toc-action",
+      "language": "Nix"
+    },
+    {
+      "name": "git-hooks",
+      "repo": "https://github.com/akirak/git-hooks",
+      "language": "Nix"
+    },
+    {
+      "name": "elinter-demo",
+      "repo": "https://github.com/akirak/elinter-demo"
+    },
+    {
+      "name": "elinter",
+      "repo": "https://github.com/akirak/elinter",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "counsel-org-clock",
+      "repo": "https://github.com/akirak/counsel-org-clock",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "makem.nix",
+      "repo": "https://github.com/akirak/makem.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "clipurl.el",
+      "repo": "https://github.com/akirak/clipurl.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "makem-action",
+      "repo": "https://github.com/akirak/makem-action",
+      "language": "Nix"
+    },
+    {
+      "name": "flk",
+      "repo": "https://github.com/akirak/flk",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-desktop",
+      "repo": "https://github.com/akirak/nix-desktop",
+      "language": "Nix"
+    },
+    {
+      "name": "emacs-data",
+      "repo": "https://github.com/akirak/emacs-data",
+      "language": "Nix"
+    }
+  ]
+}

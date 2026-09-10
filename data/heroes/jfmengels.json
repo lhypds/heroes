@@ -1,0 +1,529 @@
+{
+  "handle": "jfmengels",
+  "name": "Jeroen Engels",
+  "github": [
+    "https://github.com/jfmengels"
+  ],
+  "website": "https://jfmengels.net/",
+  "bio": "Elm developer. Author of elm-review. Co-host of Elm Radio. Working on making programming easier through static analysis and functional programming.",
+  "own_repos": 115,
+  "commits": 11872,
+  "apps": [],
+  "repos": [
+    {
+      "name": "eslint-concurrent-fixes-sscce",
+      "repo": "https://github.com/jfmengels/eslint-concurrent-fixes-sscce",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/jfmengels/blog",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-run-format",
+      "repo": "https://github.com/jfmengels/elm-run-format",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-simplify",
+      "repo": "https://github.com/jfmengels/elm-review-simplify",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-simplify/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "node-elm-review",
+      "repo": "https://github.com/jfmengels/node-elm-review",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review",
+      "repo": "https://github.com/jfmengels/elm-review",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-config",
+      "repo": "https://github.com/jfmengels/elm-review-config",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-optimizations",
+      "repo": "https://github.com/jfmengels/elm-optimizations"
+    },
+    {
+      "name": "elm-review-unused",
+      "repo": "https://github.com/jfmengels/elm-review-unused",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-unused/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-common",
+      "repo": "https://github.com/jfmengels/elm-review-common",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-common/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-documentation",
+      "repo": "https://github.com/jfmengels/elm-review-documentation",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-documentation/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-test-values",
+      "repo": "https://github.com/jfmengels/elm-review-test-values",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-test-values/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-debug",
+      "repo": "https://github.com/jfmengels/elm-review-debug",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-debug/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "carre-das",
+      "repo": "https://github.com/jfmengels/carre-das",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-benchmarks",
+      "repo": "https://github.com/jfmengels/elm-benchmarks",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-lazy-shallow",
+      "repo": "https://github.com/jfmengels/elm-lazy-shallow",
+      "language": "Elm"
+    },
+    {
+      "name": "glogg",
+      "repo": "https://github.com/jfmengels/glogg",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-review-code-style",
+      "repo": "https://github.com/jfmengels/elm-review-code-style",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-code-style/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-metrics",
+      "repo": "https://github.com/jfmengels/elm-review-metrics",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-review-the-elm-architecture",
+      "repo": "https://github.com/jfmengels/elm-review-the-elm-architecture",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-the-elm-architecture/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-css",
+      "repo": "https://github.com/jfmengels/elm-review-css",
+      "language": "Elm"
+    },
+    {
+      "name": "eslint-ava-rule-tester",
+      "repo": "https://github.com/jfmengels/eslint-ava-rule-tester",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-review-testing-something",
+      "repo": "https://github.com/jfmengels/elm-review-testing-something",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-review-reporter",
+      "repo": "https://github.com/jfmengels/elm-review-reporter",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-reporter/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-cognitive-complexity",
+      "repo": "https://github.com/jfmengels/elm-review-cognitive-complexity",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-bad-code",
+      "repo": "https://github.com/jfmengels/elm-review-bad-code",
+      "language": "Elm"
+    },
+    {
+      "name": "awesome-elm-sponsorship",
+      "repo": "https://github.com/jfmengels/awesome-elm-sponsorship"
+    },
+    {
+      "name": "elm-review-performance",
+      "repo": "https://github.com/jfmengels/elm-review-performance",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-performance/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "eslint-rule-documentation",
+      "repo": "https://github.com/jfmengels/eslint-rule-documentation",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-plugin-lodash-fp",
+      "repo": "https://github.com/jfmengels/eslint-plugin-lodash-fp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-review-scope",
+      "repo": "https://github.com/jfmengels/elm-review-scope",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-example",
+      "repo": "https://github.com/jfmengels/elm-review-example",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-lint/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-license",
+      "repo": "https://github.com/jfmengels/elm-review-license",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review-license/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-random-insights",
+      "repo": "https://github.com/jfmengels/elm-review-random-insights",
+      "language": "Elm"
+    },
+    {
+      "name": "the-elm-architecture-example",
+      "repo": "https://github.com/jfmengels/the-elm-architecture-example",
+      "language": "Elm"
+    },
+    {
+      "name": "create-eslint-index",
+      "repo": "https://github.com/jfmengels/create-eslint-index",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-package-with-application-sscce",
+      "repo": "https://github.com/jfmengels/elm-package-with-application-sscce",
+      "language": "Elm"
+    },
+    {
+      "name": "advent-of-code-2021",
+      "repo": "https://github.com/jfmengels/advent-of-code-2021",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-compiler-case-mismatch-sscce",
+      "repo": "https://github.com/jfmengels/elm-compiler-case-mismatch-sscce",
+      "language": "Elm"
+    },
+    {
+      "name": "review-tea",
+      "repo": "https://github.com/jfmengels/review-tea",
+      "url": "https://package.elm-lang.org/packages/jfmengels/review-tea/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "review-common",
+      "repo": "https://github.com/jfmengels/review-common",
+      "url": "https://package.elm-lang.org/packages/jfmengels/review-common/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "review-documentation",
+      "repo": "https://github.com/jfmengels/review-documentation",
+      "url": "https://package.elm-lang.org/packages/jfmengels/review-documentation/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "review-debug",
+      "repo": "https://github.com/jfmengels/review-debug",
+      "url": "https://package.elm-lang.org/packages/jfmengels/review-debug/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "review-unused",
+      "repo": "https://github.com/jfmengels/review-unused",
+      "url": "https://package.elm-lang.org/packages/jfmengels/review-unused/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-no-ignoring-errors",
+      "repo": "https://github.com/jfmengels/elm-review-no-ignoring-errors",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-noop",
+      "repo": "https://github.com/jfmengels/elm-review-noop",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-review-module-organization",
+      "repo": "https://github.com/jfmengels/elm-review-module-organization",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-review-rule-ideas",
+      "repo": "https://github.com/jfmengels/elm-review-rule-ideas",
+      "url": "https://github.com/topics/elm-review"
+    },
+    {
+      "name": "elm-review-design-discussions",
+      "repo": "https://github.com/jfmengels/elm-review-design-discussions",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-review/latest/"
+    },
+    {
+      "name": "humio",
+      "repo": "https://github.com/jfmengels/humio"
+    },
+    {
+      "name": "eslint-plugin-fp",
+      "repo": "https://github.com/jfmengels/eslint-plugin-fp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-review-no-hardcoded-css",
+      "repo": "https://github.com/jfmengels/elm-review-no-hardcoded-css",
+      "language": "Elm"
+    },
+    {
+      "name": "lodash-fp-docs",
+      "repo": "https://github.com/jfmengels/lodash-fp-docs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test-node-elm-review",
+      "repo": "https://github.com/jfmengels/test-node-elm-review",
+      "language": "Elm"
+    },
+    {
+      "name": "review-all-packages",
+      "repo": "https://github.com/jfmengels/review-all-packages",
+      "language": "JavaScript"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/jfmengels/.github"
+    },
+    {
+      "name": "factory-example",
+      "repo": "https://github.com/jfmengels/factory-example",
+      "language": "Elm"
+    },
+    {
+      "name": "node-elm-lint",
+      "repo": "https://github.com/jfmengels/node-elm-lint",
+      "url": "https://github.com/jfmengels/elm-lint",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-lint",
+      "repo": "https://github.com/jfmengels/elm-lint",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-lint/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "lint-debug",
+      "repo": "https://github.com/jfmengels/lint-debug",
+      "url": "https://package.elm-lang.org/packages/jfmengels/lint-debug/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "lint-unused",
+      "repo": "https://github.com/jfmengels/lint-unused",
+      "url": "https://package.elm-lang.org/packages/jfmengels/lint-unused/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "elm-lint-reporter",
+      "repo": "https://github.com/jfmengels/elm-lint-reporter",
+      "url": "https://package.elm-lang.org/packages/jfmengels/elm-lint-reporter/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "some-elm-links",
+      "repo": "https://github.com/jfmengels/some-elm-links"
+    },
+    {
+      "name": "connect3",
+      "repo": "https://github.com/jfmengels/connect3",
+      "language": "Elm"
+    },
+    {
+      "name": "online-elm-format",
+      "repo": "https://github.com/jfmengels/online-elm-format",
+      "language": "Elm"
+    },
+    {
+      "name": "run-everywhere",
+      "repo": "https://github.com/jfmengels/run-everywhere",
+      "language": "JavaScript"
+    },
+    {
+      "name": "impro",
+      "repo": "https://github.com/jfmengels/impro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "db-multiverse",
+      "repo": "https://github.com/jfmengels/db-multiverse",
+      "language": "JavaScript"
+    },
+    {
+      "name": "JavaScript30",
+      "repo": "https://github.com/jfmengels/JavaScript30",
+      "language": "HTML"
+    },
+    {
+      "name": "mangatown-manganese",
+      "repo": "https://github.com/jfmengels/mangatown-manganese",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-ast-utils",
+      "repo": "https://github.com/jfmengels/eslint-ast-utils",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wuxiaworld-manganese",
+      "repo": "https://github.com/jfmengels/wuxiaworld-manganese",
+      "language": "JavaScript"
+    },
+    {
+      "name": "multiple-scripts",
+      "repo": "https://github.com/jfmengels/multiple-scripts"
+    },
+    {
+      "name": "set-union",
+      "repo": "https://github.com/jfmengels/set-union",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lodash-codemods",
+      "repo": "https://github.com/jfmengels/lodash-codemods",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jscodeshift-ava-tester",
+      "repo": "https://github.com/jfmengels/jscodeshift-ava-tester",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-ast",
+      "repo": "https://github.com/jfmengels/elm-ast"
+    },
+    {
+      "name": "incorrect-coverage",
+      "repo": "https://github.com/jfmengels/incorrect-coverage",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jfmengels-playground",
+      "repo": "https://github.com/jfmengels/jfmengels-playground",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elm-linter",
+      "repo": "https://github.com/jfmengels/elm-linter"
+    },
+    {
+      "name": "micro-cluster",
+      "repo": "https://github.com/jfmengels/micro-cluster",
+      "url": "https://npmjs.com/micro-cluster",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lib-upgrader",
+      "repo": "https://github.com/jfmengels/lib-upgrader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mocha-vs-ava-performance",
+      "repo": "https://github.com/jfmengels/mocha-vs-ava-performance",
+      "language": "JavaScript"
+    },
+    {
+      "name": "enhance-visitors",
+      "repo": "https://github.com/jfmengels/enhance-visitors",
+      "language": "JavaScript"
+    },
+    {
+      "name": "inject-in-tag",
+      "repo": "https://github.com/jfmengels/inject-in-tag",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-plugin-import-order",
+      "repo": "https://github.com/jfmengels/eslint-plugin-import-order",
+      "language": "JavaScript"
+    },
+    {
+      "name": "update-travis",
+      "repo": "https://github.com/jfmengels/update-travis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-boilerplate",
+      "repo": "https://github.com/jfmengels/react-boilerplate",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-find-plugin-rules",
+      "repo": "https://github.com/jfmengels/eslint-find-plugin-rules",
+      "language": "JavaScript"
+    },
+    {
+      "name": "example-validator",
+      "repo": "https://github.com/jfmengels/example-validator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "intro",
+      "repo": "https://github.com/jfmengels/intro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test-ava-glob",
+      "repo": "https://github.com/jfmengels/test-ava-glob",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fuzzy-matching",
+      "repo": "https://github.com/jfmengels/fuzzy-matching",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lucie",
+      "repo": "https://github.com/jfmengels/lucie",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tac-tik",
+      "repo": "https://github.com/jfmengels/tac-tik",
+      "language": "JavaScript"
+    },
+    {
+      "name": "game-of-the-goose",
+      "repo": "https://github.com/jfmengels/game-of-the-goose"
+    },
+    {
+      "name": "inmyfridge-api",
+      "repo": "https://github.com/jfmengels/inmyfridge-api"
+    },
+    {
+      "name": "inmyfridge",
+      "repo": "https://github.com/jfmengels/inmyfridge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slidesv2",
+      "repo": "https://github.com/jfmengels/slidesv2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-plugin-max-chars-in-function",
+      "repo": "https://github.com/jfmengels/eslint-plugin-max-chars-in-function",
+      "language": "JavaScript"
+    }
+  ]
+}

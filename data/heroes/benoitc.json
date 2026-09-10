@@ -1,0 +1,506 @@
+{
+  "handle": "benoitc",
+  "name": "Benoit Chesneau",
+  "github": [
+    "https://github.com/benoitc"
+  ],
+  "own_repos": 131,
+  "commits": 10307,
+  "apps": [],
+  "repos": [
+    {
+      "name": "gunicorn",
+      "repo": "https://github.com/benoitc/gunicorn",
+      "language": "Python"
+    },
+    {
+      "name": "erlang_wasm",
+      "repo": "https://github.com/benoitc/erlang_wasm",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang_quic",
+      "repo": "https://github.com/benoitc/erlang_quic",
+      "language": "Erlang"
+    },
+    {
+      "name": "hackney",
+      "repo": "https://github.com/benoitc/hackney",
+      "language": "Erlang"
+    },
+    {
+      "name": "wasm_demo",
+      "repo": "https://github.com/benoitc/wasm_demo",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-dist",
+      "repo": "https://github.com/benoitc/erlang-dist",
+      "language": "Shell"
+    },
+    {
+      "name": "erlang-python",
+      "repo": "https://github.com/benoitc/erlang-python",
+      "language": "Erlang"
+    },
+    {
+      "name": "livery",
+      "repo": "https://github.com/benoitc/livery",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang_h1",
+      "repo": "https://github.com/benoitc/erlang_h1",
+      "language": "Erlang"
+    },
+    {
+      "name": "wasmtime_demo",
+      "repo": "https://github.com/benoitc/wasmtime_demo",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-wasmtime",
+      "repo": "https://github.com/benoitc/erlang-wasmtime",
+      "language": "Erlang"
+    },
+    {
+      "name": "erllama",
+      "repo": "https://github.com/benoitc/erllama",
+      "url": "https://hexdocs.pm/erllama",
+      "language": "C++"
+    },
+    {
+      "name": "gunicorn_h1c",
+      "repo": "https://github.com/benoitc/gunicorn_h1c",
+      "language": "C"
+    },
+    {
+      "name": "erlang-iommap",
+      "repo": "https://github.com/benoitc/erlang-iommap",
+      "language": "C"
+    },
+    {
+      "name": "hornbeam",
+      "repo": "https://github.com/benoitc/hornbeam",
+      "url": "https://hornbeam.dev",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-webtransport",
+      "repo": "https://github.com/benoitc/erlang-webtransport",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang_h2",
+      "repo": "https://github.com/benoitc/erlang_h2",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-quickjs",
+      "repo": "https://github.com/benoitc/erlang-quickjs",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang_ws",
+      "repo": "https://github.com/benoitc/erlang_ws",
+      "language": "Erlang"
+    },
+    {
+      "name": "livery_s3",
+      "repo": "https://github.com/benoitc/livery_s3",
+      "language": "Erlang"
+    },
+    {
+      "name": "instrument",
+      "repo": "https://github.com/benoitc/instrument",
+      "language": "Erlang"
+    },
+    {
+      "name": "livery_grpc",
+      "repo": "https://github.com/benoitc/livery_grpc",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang_masque",
+      "repo": "https://github.com/benoitc/erlang_masque",
+      "language": "Erlang"
+    },
+    {
+      "name": "livery_stripe",
+      "repo": "https://github.com/benoitc/livery_stripe",
+      "language": "Erlang"
+    },
+    {
+      "name": "livery_revolut",
+      "repo": "https://github.com/benoitc/livery_revolut",
+      "language": "Erlang"
+    },
+    {
+      "name": "couchbeam",
+      "repo": "https://github.com/benoitc/couchbeam",
+      "language": "Erlang"
+    },
+    {
+      "name": "mycelium",
+      "repo": "https://github.com/benoitc/mycelium",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang_qpack",
+      "repo": "https://github.com/benoitc/erlang_qpack",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-derp",
+      "repo": "https://github.com/benoitc/erlang-derp",
+      "language": "Assembly"
+    },
+    {
+      "name": "mimerl",
+      "repo": "https://github.com/benoitc/mimerl",
+      "language": "Erlang"
+    },
+    {
+      "name": "estun",
+      "repo": "https://github.com/benoitc/estun",
+      "language": "Erlang"
+    },
+    {
+      "name": "inet_ext",
+      "repo": "https://github.com/benoitc/inet_ext",
+      "language": "Erlang"
+    },
+    {
+      "name": "hlc",
+      "repo": "https://github.com/benoitc/hlc",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-nat",
+      "repo": "https://github.com/benoitc/erlang-nat",
+      "language": "Erlang"
+    },
+    {
+      "name": "kazoo-opencore",
+      "repo": "https://github.com/benoitc/kazoo-opencore"
+    },
+    {
+      "name": "erlang-duktape",
+      "repo": "https://github.com/benoitc/erlang-duktape",
+      "language": "C"
+    },
+    {
+      "name": "erlang-bson",
+      "repo": "https://github.com/benoitc/erlang-bson",
+      "language": "Erlang"
+    },
+    {
+      "name": "freebsd_helpers",
+      "repo": "https://github.com/benoitc/freebsd_helpers"
+    },
+    {
+      "name": "hooks",
+      "repo": "https://github.com/benoitc/hooks",
+      "language": "Erlang"
+    },
+    {
+      "name": "unicode_util_compat",
+      "repo": "https://github.com/benoitc/unicode_util_compat",
+      "language": "Erlang"
+    },
+    {
+      "name": "rebar3_path_deps",
+      "repo": "https://github.com/benoitc/rebar3_path_deps",
+      "language": "Erlang"
+    },
+    {
+      "name": "http-parser",
+      "repo": "https://github.com/benoitc/http-parser",
+      "language": "C"
+    },
+    {
+      "name": "inet_cidr",
+      "repo": "https://github.com/benoitc/inet_cidr",
+      "language": "Erlang"
+    },
+    {
+      "name": "gaffer",
+      "repo": "https://github.com/benoitc/gaffer",
+      "language": "Python"
+    },
+    {
+      "name": "socketpool",
+      "repo": "https://github.com/benoitc/socketpool",
+      "language": "Python"
+    },
+    {
+      "name": "echohttp",
+      "repo": "https://github.com/benoitc/echohttp",
+      "language": "Erlang"
+    },
+    {
+      "name": "restkit",
+      "repo": "https://github.com/benoitc/restkit",
+      "language": "Python"
+    },
+    {
+      "name": "hackney_lib",
+      "repo": "https://github.com/benoitc/hackney_lib",
+      "language": "Erlang"
+    },
+    {
+      "name": "nat_upnp",
+      "repo": "https://github.com/benoitc/nat_upnp",
+      "language": "Erlang"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/benoitc/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "rebar3_cargo",
+      "repo": "https://github.com/benoitc/rebar3_cargo",
+      "language": "Erlang"
+    },
+    {
+      "name": "couchdocs",
+      "repo": "https://github.com/benoitc/couchdocs",
+      "language": "Objective-C"
+    },
+    {
+      "name": "pywebmachine",
+      "repo": "https://github.com/benoitc/pywebmachine",
+      "language": "Python"
+    },
+    {
+      "name": "hello_world",
+      "repo": "https://github.com/benoitc/hello_world",
+      "language": "Erlang"
+    },
+    {
+      "name": "dummy_app",
+      "repo": "https://github.com/benoitc/dummy_app",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-metrics",
+      "repo": "https://github.com/benoitc/erlang-metrics",
+      "language": "Erlang"
+    },
+    {
+      "name": "erlang-ucs",
+      "repo": "https://github.com/benoitc/erlang-ucs"
+    },
+    {
+      "name": "cbt",
+      "repo": "https://github.com/benoitc/cbt",
+      "language": "Erlang"
+    },
+    {
+      "name": "couchdbkit",
+      "repo": "https://github.com/benoitc/couchdbkit",
+      "language": "Python"
+    },
+    {
+      "name": "unicode_extra",
+      "repo": "https://github.com/benoitc/unicode_extra",
+      "language": "Erlang"
+    },
+    {
+      "name": "qrkit",
+      "repo": "https://github.com/benoitc/qrkit",
+      "language": "Python"
+    },
+    {
+      "name": "erica",
+      "repo": "https://github.com/benoitc/erica",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mz_counter",
+      "repo": "https://github.com/benoitc/mz_counter",
+      "language": "C"
+    },
+    {
+      "name": "dnssd_erlang",
+      "repo": "https://github.com/benoitc/dnssd_erlang",
+      "language": "Erlang"
+    },
+    {
+      "name": "ejson",
+      "repo": "https://github.com/benoitc/ejson",
+      "language": "C"
+    },
+    {
+      "name": "erlang-pbkdf2-nif",
+      "repo": "https://github.com/benoitc/erlang-pbkdf2-nif",
+      "language": "C"
+    },
+    {
+      "name": "mochicow",
+      "repo": "https://github.com/benoitc/mochicow",
+      "language": "Erlang"
+    },
+    {
+      "name": "econfig",
+      "repo": "https://github.com/benoitc/econfig",
+      "language": "Erlang"
+    },
+    {
+      "name": "rebar3_protobuffs",
+      "repo": "https://github.com/benoitc/rebar3_protobuffs",
+      "language": "Erlang"
+    },
+    {
+      "name": "nplib",
+      "repo": "https://github.com/benoitc/nplib",
+      "language": "Erlang"
+    },
+    {
+      "name": "natpmp",
+      "repo": "https://github.com/benoitc/natpmp",
+      "language": "Erlang"
+    },
+    {
+      "name": "esync",
+      "repo": "https://github.com/benoitc/esync",
+      "language": "Erlang"
+    },
+    {
+      "name": "dj-webmachine",
+      "repo": "https://github.com/benoitc/dj-webmachine",
+      "language": "Python"
+    },
+    {
+      "name": "tiptoe",
+      "repo": "https://github.com/benoitc/tiptoe"
+    },
+    {
+      "name": "memdb",
+      "repo": "https://github.com/benoitc/memdb",
+      "language": "Erlang"
+    },
+    {
+      "name": "cowboy_revproxy",
+      "repo": "https://github.com/benoitc/cowboy_revproxy",
+      "language": "Erlang"
+    },
+    {
+      "name": "sieve",
+      "repo": "https://github.com/benoitc/sieve",
+      "language": "Erlang"
+    },
+    {
+      "name": "hackney_pooler",
+      "repo": "https://github.com/benoitc/hackney_pooler",
+      "language": "Erlang"
+    },
+    {
+      "name": "uzmq",
+      "repo": "https://github.com/benoitc/uzmq",
+      "language": "Python"
+    },
+    {
+      "name": "enki",
+      "repo": "https://github.com/benoitc/enki"
+    },
+    {
+      "name": "mod_percept2",
+      "repo": "https://github.com/benoitc/mod_percept2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "overlay",
+      "repo": "https://github.com/benoitc/overlay",
+      "language": "CSS"
+    },
+    {
+      "name": "offset",
+      "repo": "https://github.com/benoitc/offset",
+      "language": "Python"
+    },
+    {
+      "name": "nymphormation",
+      "repo": "https://github.com/benoitc/nymphormation",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tproxy",
+      "repo": "https://github.com/benoitc/tproxy",
+      "language": "Python"
+    },
+    {
+      "name": "opencouch",
+      "repo": "https://github.com/benoitc/opencouch",
+      "language": "Erlang"
+    },
+    {
+      "name": "dcouch",
+      "repo": "https://github.com/benoitc/dcouch"
+    },
+    {
+      "name": "erlang-idna-nif",
+      "repo": "https://github.com/benoitc/erlang-idna-nif",
+      "language": "C"
+    },
+    {
+      "name": "hackney_disp",
+      "repo": "https://github.com/benoitc/hackney_disp",
+      "language": "Erlang"
+    },
+    {
+      "name": "enki--multimedia.org",
+      "repo": "https://github.com/benoitc/enki--multimedia.org"
+    },
+    {
+      "name": "couchdb_internals",
+      "repo": "https://github.com/benoitc/couchdb_internals"
+    },
+    {
+      "name": "osdc2013_demo",
+      "repo": "https://github.com/benoitc/osdc2013_demo",
+      "language": "Erlang"
+    },
+    {
+      "name": "flower",
+      "repo": "https://github.com/benoitc/flower",
+      "language": "Python"
+    },
+    {
+      "name": "upnp",
+      "repo": "https://github.com/benoitc/upnp",
+      "language": "Erlang"
+    },
+    {
+      "name": "erl_stun",
+      "repo": "https://github.com/benoitc/erl_stun",
+      "language": "Erlang"
+    },
+    {
+      "name": "dj-revproxy",
+      "repo": "https://github.com/benoitc/dj-revproxy",
+      "language": "Python"
+    },
+    {
+      "name": "couchdb",
+      "repo": "https://github.com/benoitc/couchdb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "libcouch",
+      "repo": "https://github.com/benoitc/libcouch",
+      "language": "Erlang"
+    },
+    {
+      "name": "build-android",
+      "repo": "https://github.com/benoitc/build-android",
+      "language": "Shell"
+    },
+    {
+      "name": "fserve",
+      "repo": "https://github.com/benoitc/fserve",
+      "language": "Python"
+    }
+  ]
+}

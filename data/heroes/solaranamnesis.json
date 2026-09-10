@@ -6,17 +6,21 @@
   ],
   "website": "https://www.solaranamnesis.com/",
   "bio": "Static site for www.solaranamnesis.com also repositories for transcribing Public Domain texts. Translations are CC BY-NC. LaTeX files included, using pdflatex.",
-  "own_repos": 185,
+  "own_repos": 186,
   "commits": 15263,
   "repos": [
     {
-      "name": "ottohahn",
-      "repo": "https://github.com/solaranamnesis/ottohahn",
-      "language": "TeX"
+      "name": "karl-friedrich-mohr",
+      "repo": "https://github.com/solaranamnesis/karl-friedrich-mohr"
     },
     {
       "name": "john-lawrence-smith",
       "repo": "https://github.com/solaranamnesis/john-lawrence-smith"
+    },
+    {
+      "name": "ottohahn",
+      "repo": "https://github.com/solaranamnesis/ottohahn",
+      "language": "TeX"
     },
     {
       "name": "emilie-du-chastelet",
@@ -490,11 +494,6 @@
     {
       "name": "David-Friedrich-Weinland",
       "repo": "https://github.com/solaranamnesis/David-Friedrich-Weinland",
-      "language": "TeX"
-    },
-    {
-      "name": "joseph-norman-lockyer",
-      "repo": "https://github.com/solaranamnesis/joseph-norman-lockyer",
       "language": "TeX"
     }
   ]

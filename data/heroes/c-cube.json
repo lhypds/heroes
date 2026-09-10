@@ -1,0 +1,554 @@
+{
+  "handle": "c-cube",
+  "name": "Simon Cruanes",
+  "github": [
+    "https://github.com/c-cube"
+  ],
+  "website": "https://simon.cedeela.fr/",
+  "bio": "Computer scientist in computational logic, automated theorem proving, and formal methods. Seasoned OCaml programmer, dabbling with rust and Odin.",
+  "own_repos": 102,
+  "commits": 13294,
+  "apps": [],
+  "repos": [
+    {
+      "name": "tiny_httpd",
+      "repo": "https://github.com/c-cube/tiny_httpd",
+      "url": "https://c-cube.github.io/tiny_httpd",
+      "language": "OCaml"
+    },
+    {
+      "name": "c-cube-common",
+      "repo": "https://github.com/c-cube/c-cube-common",
+      "language": "Shell"
+    },
+    {
+      "name": "qcheck",
+      "repo": "https://github.com/c-cube/qcheck",
+      "url": "https://c-cube.github.io/qcheck/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-containers",
+      "repo": "https://github.com/c-cube/ocaml-containers",
+      "url": "https://c-cube.github.io/ocaml-containers/",
+      "language": "OCaml"
+    },
+    {
+      "name": "linol",
+      "repo": "https://github.com/c-cube/linol",
+      "url": "https://c-cube.github.io/linol/",
+      "language": "OCaml"
+    },
+    {
+      "name": "nnn",
+      "repo": "https://github.com/c-cube/nnn",
+      "language": "Rust"
+    },
+    {
+      "name": "trustee",
+      "repo": "https://github.com/c-cube/trustee",
+      "url": "https://trustee.cedeela.fr/",
+      "language": "OCaml"
+    },
+    {
+      "name": "fuseau",
+      "repo": "https://github.com/c-cube/fuseau",
+      "url": "https://c-cube.github.io/fuseau/",
+      "language": "OCaml"
+    },
+    {
+      "name": "moonpool",
+      "repo": "https://github.com/c-cube/moonpool",
+      "url": "https://c-cube.github.io/moonpool/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-avro",
+      "repo": "https://github.com/c-cube/ocaml-avro",
+      "url": "https://c-cube.github.io/ocaml-avro/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ezcurl",
+      "repo": "https://github.com/c-cube/ezcurl",
+      "url": "https://c-cube.github.io/ezcurl/",
+      "language": "OCaml"
+    },
+    {
+      "name": "micronats.ml",
+      "repo": "https://github.com/c-cube/micronats.ml",
+      "language": "OCaml"
+    },
+    {
+      "name": "iter",
+      "repo": "https://github.com/c-cube/iter",
+      "url": "https://c-cube.github.io/iter",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-iostream",
+      "repo": "https://github.com/c-cube/ocaml-iostream",
+      "url": "https://c-cube.github.io/ocaml-iostream/",
+      "language": "OCaml"
+    },
+    {
+      "name": "calculon",
+      "repo": "https://github.com/c-cube/calculon",
+      "url": "https://c-cube.github.io/calculon/",
+      "language": "OCaml"
+    },
+    {
+      "name": "irky",
+      "repo": "https://github.com/c-cube/irky",
+      "url": "https://c-cube.github.io/irky/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocabot",
+      "repo": "https://github.com/c-cube/ocabot",
+      "language": "OCaml"
+    },
+    {
+      "name": "sidekick",
+      "repo": "https://github.com/c-cube/sidekick",
+      "url": "https://c-cube.github.io/sidekick/",
+      "language": "SMT"
+    },
+    {
+      "name": "batsat",
+      "repo": "https://github.com/c-cube/batsat",
+      "url": "https://docs.rs/batsat/",
+      "language": "Rust"
+    },
+    {
+      "name": "ezlua",
+      "repo": "https://github.com/c-cube/ezlua",
+      "language": "OCaml"
+    },
+    {
+      "name": "c-cube",
+      "repo": "https://github.com/c-cube/c-cube"
+    },
+    {
+      "name": "datalog",
+      "repo": "https://github.com/c-cube/datalog",
+      "url": "https://c-cube.github.io/datalog",
+      "language": "Prolog"
+    },
+    {
+      "name": "maki",
+      "repo": "https://github.com/c-cube/maki",
+      "language": "OCaml"
+    },
+    {
+      "name": "hx-plot",
+      "repo": "https://github.com/c-cube/hx-plot",
+      "url": "https://c-cube.github.io/hx-plot/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "twine-data.rs",
+      "repo": "https://github.com/c-cube/twine-data.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "gen",
+      "repo": "https://github.com/c-cube/gen",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-context",
+      "repo": "https://github.com/c-cube/ocaml-context",
+      "url": "https://c-cube.github.io/rcontext/",
+      "language": "OCaml"
+    },
+    {
+      "name": "playground",
+      "repo": "https://github.com/c-cube/playground",
+      "language": "Rust"
+    },
+    {
+      "name": "json2jsonl",
+      "repo": "https://github.com/c-cube/json2jsonl",
+      "language": "Rust"
+    },
+    {
+      "name": "ocaml-twirp",
+      "repo": "https://github.com/c-cube/ocaml-twirp",
+      "url": "https://c-cube.github.io/ocaml-twirp/",
+      "language": "OCaml"
+    },
+    {
+      "name": "tiny-httpd-moonpool-bench",
+      "repo": "https://github.com/c-cube/tiny-httpd-moonpool-bench",
+      "language": "Dune"
+    },
+    {
+      "name": "nanoev",
+      "repo": "https://github.com/c-cube/nanoev",
+      "url": "https://c-cube.github.io/nanoev/",
+      "language": "OCaml"
+    },
+    {
+      "name": "blag",
+      "repo": "https://github.com/c-cube/blag",
+      "url": "https://blag.cedeela.fr",
+      "language": "CSS"
+    },
+    {
+      "name": "cephalopod",
+      "repo": "https://github.com/c-cube/cephalopod",
+      "url": "https://c-cube.github.io/cephalopod/",
+      "language": "OCaml"
+    },
+    {
+      "name": "printbox",
+      "repo": "https://github.com/c-cube/printbox",
+      "url": "https://c-cube.github.io/printbox/",
+      "language": "OCaml"
+    },
+    {
+      "name": "spelll",
+      "repo": "https://github.com/c-cube/spelll",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-template",
+      "repo": "https://github.com/c-cube/ocaml-template",
+      "language": "Makefile"
+    },
+    {
+      "name": "thread-local-storage",
+      "repo": "https://github.com/c-cube/thread-local-storage",
+      "url": "https://c-cube.github.io/thread-local-storage/",
+      "language": "OCaml"
+    },
+    {
+      "name": "playground-k8s",
+      "repo": "https://github.com/c-cube/playground-k8s",
+      "language": "OCaml"
+    },
+    {
+      "name": "bare-ocaml",
+      "repo": "https://github.com/c-cube/bare-ocaml",
+      "url": "https://c-cube.github.io/bare-ocaml/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-gnuplot",
+      "repo": "https://github.com/c-cube/ocaml-gnuplot",
+      "url": "https://c-cube.github.io/ocaml-gnuplot/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-minisat",
+      "repo": "https://github.com/c-cube/ocaml-minisat",
+      "url": "https://c-cube.github.io/ocaml-minisat/",
+      "language": "C++"
+    },
+    {
+      "name": "smtlib-utils",
+      "repo": "https://github.com/c-cube/smtlib-utils",
+      "url": "https://c-cube.github.io/smtlib-utils/",
+      "language": "SMT"
+    },
+    {
+      "name": "thrifty",
+      "repo": "https://github.com/c-cube/thrifty",
+      "language": "Thrift"
+    },
+    {
+      "name": "mc2",
+      "repo": "https://github.com/c-cube/mc2",
+      "url": "https://c-cube.github.io/mc2/",
+      "language": "SMT"
+    },
+    {
+      "name": "oseq",
+      "repo": "https://github.com/c-cube/oseq",
+      "url": "https://c-cube.github.io/oseq/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ccbor",
+      "repo": "https://github.com/c-cube/ccbor",
+      "language": "OCaml"
+    },
+    {
+      "name": "poc-modular-io",
+      "repo": "https://github.com/c-cube/poc-modular-io",
+      "language": "OCaml"
+    },
+    {
+      "name": "ldl",
+      "repo": "https://github.com/c-cube/ldl",
+      "language": "OCaml"
+    },
+    {
+      "name": "microsat",
+      "repo": "https://github.com/c-cube/microsat",
+      "language": "Rust"
+    },
+    {
+      "name": "quip-book",
+      "repo": "https://github.com/c-cube/quip-book",
+      "url": "https://c-cube.github.io/quip-book/",
+      "language": "SMT"
+    },
+    {
+      "name": "quip",
+      "repo": "https://github.com/c-cube/quip",
+      "url": "https://c-cube.github.io/quip-book/",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-qbf",
+      "repo": "https://github.com/c-cube/ocaml-qbf",
+      "language": "C"
+    },
+    {
+      "name": "seq",
+      "repo": "https://github.com/c-cube/seq",
+      "language": "OCaml"
+    },
+    {
+      "name": "z3-ocaml-multithread-test",
+      "repo": "https://github.com/c-cube/z3-ocaml-multithread-test",
+      "language": "OCaml"
+    },
+    {
+      "name": "smbc",
+      "repo": "https://github.com/c-cube/smbc",
+      "language": "OCaml"
+    },
+    {
+      "name": "andes",
+      "repo": "https://github.com/c-cube/andes",
+      "language": "OCaml"
+    },
+    {
+      "name": "sqlite3_utils",
+      "repo": "https://github.com/c-cube/sqlite3_utils",
+      "url": "https://c-cube.github.io/sqlite3_utils/",
+      "language": "OCaml"
+    },
+    {
+      "name": "stimsym",
+      "repo": "https://github.com/c-cube/stimsym",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-atomic",
+      "repo": "https://github.com/c-cube/ocaml-atomic",
+      "language": "OCaml"
+    },
+    {
+      "name": "batsat-ocaml",
+      "repo": "https://github.com/c-cube/batsat-ocaml",
+      "url": "https://c-cube.github.io/batsat-ocaml/",
+      "language": "OCaml"
+    },
+    {
+      "name": "lwt-pipe",
+      "repo": "https://github.com/c-cube/lwt-pipe",
+      "url": "https://c-cube.github.io/lwt-pipe/",
+      "language": "OCaml"
+    },
+    {
+      "name": "choice",
+      "repo": "https://github.com/c-cube/choice",
+      "url": "https://c-cube.github.io/choice/",
+      "language": "OCaml"
+    },
+    {
+      "name": "tip-parser",
+      "repo": "https://github.com/c-cube/tip-parser",
+      "url": "https://c-cube.github.io/tip-parser",
+      "language": "OCaml"
+    },
+    {
+      "name": "neperien",
+      "repo": "https://github.com/c-cube/neperien",
+      "language": "OCaml"
+    },
+    {
+      "name": "zulip-log-viewer",
+      "repo": "https://github.com/c-cube/zulip-log-viewer",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-bigstring",
+      "repo": "https://github.com/c-cube/ocaml-bigstring",
+      "language": "OCaml"
+    },
+    {
+      "name": "funarith",
+      "repo": "https://github.com/c-cube/funarith",
+      "url": "https://c-cube.github.io/funarith/",
+      "language": "OCaml"
+    },
+    {
+      "name": "olinq",
+      "repo": "https://github.com/c-cube/olinq",
+      "language": "OCaml"
+    },
+    {
+      "name": "iterators_bench",
+      "repo": "https://github.com/c-cube/iterators_bench",
+      "language": "OCaml"
+    },
+    {
+      "name": "gemini-client",
+      "repo": "https://github.com/c-cube/gemini-client",
+      "language": "OCaml"
+    },
+    {
+      "name": "jsonrpc2",
+      "repo": "https://github.com/c-cube/jsonrpc2",
+      "url": "https://c-cube.github.io/jsonrpc2/",
+      "language": "OCaml"
+    },
+    {
+      "name": "cconv",
+      "repo": "https://github.com/c-cube/cconv",
+      "url": "https://c-cube.github.io/cconv/",
+      "language": "OCaml"
+    },
+    {
+      "name": "c-cube.github.io-backup",
+      "repo": "https://github.com/c-cube/c-cube.github.io-backup",
+      "url": "https://simon.cedeela.fr ",
+      "language": "OCaml"
+    },
+    {
+      "name": "strictly_tally",
+      "repo": "https://github.com/c-cube/strictly_tally",
+      "language": "Rust"
+    },
+    {
+      "name": "frog-utils",
+      "repo": "https://github.com/c-cube/frog-utils",
+      "language": "OCaml"
+    },
+    {
+      "name": "logtk",
+      "repo": "https://github.com/c-cube/logtk",
+      "language": "OCaml"
+    },
+    {
+      "name": "space_camels",
+      "repo": "https://github.com/c-cube/space_camels",
+      "language": "OCaml"
+    },
+    {
+      "name": "hashset_benchs",
+      "repo": "https://github.com/c-cube/hashset_benchs",
+      "language": "Clojure"
+    },
+    {
+      "name": "bibtex",
+      "repo": "https://github.com/c-cube/bibtex",
+      "language": "TeX"
+    },
+    {
+      "name": "vim-tptp",
+      "repo": "https://github.com/c-cube/vim-tptp",
+      "language": "Vim Script"
+    },
+    {
+      "name": "bencode_rpc",
+      "repo": "https://github.com/c-cube/bencode_rpc",
+      "language": "OCaml"
+    },
+    {
+      "name": "bender",
+      "repo": "https://github.com/c-cube/bender",
+      "language": "Rust"
+    },
+    {
+      "name": "oasis-parser",
+      "repo": "https://github.com/c-cube/oasis-parser",
+      "language": "OCaml"
+    },
+    {
+      "name": "paradox",
+      "repo": "https://github.com/c-cube/paradox",
+      "language": "Haskell"
+    },
+    {
+      "name": "containers-misc",
+      "repo": "https://github.com/c-cube/containers-misc",
+      "language": "OCaml"
+    },
+    {
+      "name": "containers-lwt",
+      "repo": "https://github.com/c-cube/containers-lwt",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-irclog",
+      "repo": "https://github.com/c-cube/ocaml-irclog",
+      "language": "OCaml"
+    },
+    {
+      "name": "bender-ocaml",
+      "repo": "https://github.com/c-cube/bender-ocaml",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-polynomials",
+      "repo": "https://github.com/c-cube/ocaml-polynomials",
+      "language": "OCaml"
+    },
+    {
+      "name": "ty",
+      "repo": "https://github.com/c-cube/ty",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-aig",
+      "repo": "https://github.com/c-cube/ocaml-aig",
+      "language": "OCaml"
+    },
+    {
+      "name": "abrasatcuda",
+      "repo": "https://github.com/c-cube/abrasatcuda",
+      "language": "C"
+    },
+    {
+      "name": "indexed-set",
+      "repo": "https://github.com/c-cube/indexed-set",
+      "language": "OCaml"
+    },
+    {
+      "name": "ppx_deriving_cconv",
+      "repo": "https://github.com/c-cube/ppx_deriving_cconv",
+      "language": "OCaml"
+    },
+    {
+      "name": "tomato-chan",
+      "repo": "https://github.com/c-cube/tomato-chan",
+      "language": "OCaml"
+    },
+    {
+      "name": "unif-visitor",
+      "repo": "https://github.com/c-cube/unif-visitor",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-ty",
+      "repo": "https://github.com/c-cube/ocaml-ty",
+      "language": "OCaml"
+    },
+    {
+      "name": "ocaml-chord",
+      "repo": "https://github.com/c-cube/ocaml-chord",
+      "language": "OCaml"
+    },
+    {
+      "name": "lwt_scheduler",
+      "repo": "https://github.com/c-cube/lwt_scheduler",
+      "language": "OCaml"
+    }
+  ]
+}

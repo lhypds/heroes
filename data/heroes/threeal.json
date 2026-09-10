@@ -10,6 +10,23 @@
   "apps": [],
   "repos": [
     {
+      "name": "python-starter",
+      "repo": "https://github.com/threeal/python-starter",
+      "language": "Python"
+    },
+    {
+      "name": "cofre",
+      "repo": "https://github.com/threeal/cofre",
+      "url": "https://threeal.github.io/cofre",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gcovr-action",
+      "repo": "https://github.com/threeal/gcovr-action",
+      "url": "https://github.com/marketplace/actions/gcovr-action",
+      "language": "TypeScript"
+    },
+    {
       "name": "action-starter",
       "repo": "https://github.com/threeal/action-starter",
       "language": "TypeScript"
@@ -19,12 +36,6 @@
       "repo": "https://github.com/threeal/leetspace",
       "url": "https://leetcode.com/threeal",
       "language": "C++"
-    },
-    {
-      "name": "gcovr-action",
-      "repo": "https://github.com/threeal/gcovr-action",
-      "url": "https://github.com/marketplace/actions/gcovr-action",
-      "language": "TypeScript"
     },
     {
       "name": "react-starter",
@@ -59,21 +70,10 @@
       "language": "TypeScript"
     },
     {
-      "name": "cofre",
-      "repo": "https://github.com/threeal/cofre",
-      "url": "https://threeal.github.io/cofre",
-      "language": "TypeScript"
-    },
-    {
       "name": "setup-yarn-action",
       "repo": "https://github.com/threeal/setup-yarn-action",
       "url": "https://github.com/marketplace/actions/setup-yarn-berry",
       "language": "TypeScript"
-    },
-    {
-      "name": "python-starter",
-      "repo": "https://github.com/threeal/python-starter",
-      "language": "Python"
     },
     {
       "name": "ctest-action",

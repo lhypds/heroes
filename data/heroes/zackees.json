@@ -1,0 +1,523 @@
+{
+  "handle": "zackees",
+  "name": "Zachary Vorhies",
+  "github": [
+    "https://github.com/zackees"
+  ],
+  "bio": "High-velocity engineer (51k commits in 2023). Most of my stuff is open source and serves as building blocks for deploying custom apps to clients.",
+  "own_repos": 146,
+  "commits": 18194,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mimalloc-pprof",
+      "repo": "https://github.com/zackees/mimalloc-pprof",
+      "url": "https://zackees.github.io/mimalloc-pprof/",
+      "language": "C"
+    },
+    {
+      "name": "reld",
+      "repo": "https://github.com/zackees/reld",
+      "language": "Rust"
+    },
+    {
+      "name": "soldr-toolchain",
+      "repo": "https://github.com/zackees/soldr-toolchain",
+      "language": "Python"
+    },
+    {
+      "name": "rust-docs",
+      "repo": "https://github.com/zackees/rust-docs",
+      "language": "Rust"
+    },
+    {
+      "name": "kernal-api",
+      "repo": "https://github.com/zackees/kernal-api",
+      "language": "Rust"
+    },
+    {
+      "name": "soldr",
+      "repo": "https://github.com/zackees/soldr",
+      "url": "https://zackees.github.io/soldr/",
+      "language": "Rust"
+    },
+    {
+      "name": "zccache",
+      "repo": "https://github.com/zackees/zccache",
+      "url": "https://zackees.github.io/zccache/",
+      "language": "Rust"
+    },
+    {
+      "name": "nixos",
+      "repo": "https://github.com/zackees/nixos",
+      "language": "Nix"
+    },
+    {
+      "name": "setup-soldr",
+      "repo": "https://github.com/zackees/setup-soldr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "clud",
+      "repo": "https://github.com/zackees/clud",
+      "url": "https://pypi.org/project/clud/",
+      "language": "Rust"
+    },
+    {
+      "name": "ledmapper",
+      "repo": "https://github.com/zackees/ledmapper",
+      "url": "https://www.ledmapper.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-mac-x64",
+      "repo": "https://github.com/zackees/docker-mac-x64",
+      "language": "Python"
+    },
+    {
+      "name": "running-process",
+      "repo": "https://github.com/zackees/running-process",
+      "url": "https://pypi.org/project/running-process/",
+      "language": "Rust"
+    },
+    {
+      "name": "bosn",
+      "repo": "https://github.com/zackees/bosn",
+      "language": "Python"
+    },
+    {
+      "name": "clang-tool-chain",
+      "repo": "https://github.com/zackees/clang-tool-chain",
+      "language": "Python"
+    },
+    {
+      "name": "fastled-wasm",
+      "repo": "https://github.com/zackees/fastled-wasm",
+      "url": "https://zackees.github.io/fastled-wasm/",
+      "language": "Rust"
+    },
+    {
+      "name": "llvm-ld",
+      "repo": "https://github.com/zackees/llvm-ld",
+      "language": "C++"
+    },
+    {
+      "name": "manifest.json",
+      "repo": "https://github.com/zackees/manifest.json",
+      "language": "Python"
+    },
+    {
+      "name": "zackees",
+      "repo": "https://github.com/zackees/zackees"
+    },
+    {
+      "name": "forge",
+      "repo": "https://github.com/zackees/forge",
+      "language": "Python"
+    },
+    {
+      "name": "getgo",
+      "repo": "https://github.com/zackees/getgo",
+      "language": "Python"
+    },
+    {
+      "name": "soundwake",
+      "repo": "https://github.com/zackees/soundwake",
+      "language": "Python"
+    },
+    {
+      "name": "clang-tool-chain-bins",
+      "repo": "https://github.com/zackees/clang-tool-chain-bins",
+      "language": "Python"
+    },
+    {
+      "name": "transcribe-anything",
+      "repo": "https://github.com/zackees/transcribe-anything",
+      "url": "https://pypi.org/project/transcribe-anything/",
+      "language": "Python"
+    },
+    {
+      "name": "ffmpeg-bins2",
+      "repo": "https://github.com/zackees/ffmpeg-bins2",
+      "language": "Python"
+    },
+    {
+      "name": "static_ffmpeg",
+      "repo": "https://github.com/zackees/static_ffmpeg",
+      "url": "https://pypi.org/project/static-ffmpeg/",
+      "language": "Python"
+    },
+    {
+      "name": "template-python-rust-cmd",
+      "repo": "https://github.com/zackees/template-python-rust-cmd",
+      "language": "Python"
+    },
+    {
+      "name": "python-rust-build-chain",
+      "repo": "https://github.com/zackees/python-rust-build-chain",
+      "language": "Python"
+    },
+    {
+      "name": "memex",
+      "repo": "https://github.com/zackees/memex",
+      "url": "https://zackees.github.io/memex/",
+      "language": "Python"
+    },
+    {
+      "name": "tap",
+      "repo": "https://github.com/zackees/tap"
+    },
+    {
+      "name": "ai-tools",
+      "repo": "https://github.com/zackees/ai-tools",
+      "language": "Rust"
+    },
+    {
+      "name": "zcmds_win32",
+      "repo": "https://github.com/zackees/zcmds_win32",
+      "language": "Python"
+    },
+    {
+      "name": "ai-image-video-models",
+      "repo": "https://github.com/zackees/ai-image-video-models",
+      "language": "Python"
+    },
+    {
+      "name": "zcmds",
+      "repo": "https://github.com/zackees/zcmds",
+      "language": "Python"
+    },
+    {
+      "name": "askai",
+      "repo": "https://github.com/zackees/askai",
+      "language": "Python"
+    },
+    {
+      "name": "iso-env",
+      "repo": "https://github.com/zackees/iso-env",
+      "url": "https://pypi.org/project/uv-iso-env/",
+      "language": "Python"
+    },
+    {
+      "name": "codeup",
+      "repo": "https://github.com/zackees/codeup",
+      "language": "Python"
+    },
+    {
+      "name": "diskmeter",
+      "repo": "https://github.com/zackees/diskmeter",
+      "language": "Python"
+    },
+    {
+      "name": "fastled-issue-assets",
+      "repo": "https://github.com/zackees/fastled-issue-assets"
+    },
+    {
+      "name": "fastled-wasm-compiler",
+      "repo": "https://github.com/zackees/fastled-wasm-compiler",
+      "language": "Python"
+    },
+    {
+      "name": "mindy-robinson",
+      "repo": "https://github.com/zackees/mindy-robinson",
+      "language": "TypeScript"
+    },
+    {
+      "name": "soundtrack",
+      "repo": "https://github.com/zackees/soundtrack"
+    },
+    {
+      "name": "fastled-wasm-server",
+      "repo": "https://github.com/zackees/fastled-wasm-server",
+      "language": "Python"
+    },
+    {
+      "name": "ffmpeg_bins",
+      "repo": "https://github.com/zackees/ffmpeg_bins"
+    },
+    {
+      "name": "template-python-cmd",
+      "repo": "https://github.com/zackees/template-python-cmd",
+      "language": "Python"
+    },
+    {
+      "name": "zapio",
+      "repo": "https://github.com/zackees/zapio",
+      "language": "Python"
+    },
+    {
+      "name": "youtube-sync",
+      "repo": "https://github.com/zackees/youtube-sync",
+      "language": "Python"
+    },
+    {
+      "name": "vidcrawler",
+      "repo": "https://github.com/zackees/vidcrawler",
+      "url": "https://pypi.org/project/vidcrawler/",
+      "language": "Python"
+    },
+    {
+      "name": "setenvironment",
+      "repo": "https://github.com/zackees/setenvironment",
+      "url": "https://pypi.org/project/setenvironment/",
+      "language": "Python"
+    },
+    {
+      "name": "clud-central",
+      "repo": "https://github.com/zackees/clud-central",
+      "language": "Shell"
+    },
+    {
+      "name": "tx",
+      "repo": "https://github.com/zackees/tx",
+      "language": "Python"
+    },
+    {
+      "name": "ytclip",
+      "repo": "https://github.com/zackees/ytclip",
+      "url": "https://pypi.org/project/ytclip/",
+      "language": "Python"
+    },
+    {
+      "name": "create-python-cmd",
+      "repo": "https://github.com/zackees/create-python-cmd",
+      "language": "Python"
+    },
+    {
+      "name": "pdf-ingest",
+      "repo": "https://github.com/zackees/pdf-ingest",
+      "language": "Python"
+    },
+    {
+      "name": "pio-compiler",
+      "repo": "https://github.com/zackees/pio-compiler",
+      "language": "Python"
+    },
+    {
+      "name": "template-fastapi-project",
+      "repo": "https://github.com/zackees/template-fastapi-project",
+      "language": "Python"
+    },
+    {
+      "name": "template-docker-fastapi-site",
+      "repo": "https://github.com/zackees/template-docker-fastapi-site",
+      "language": "Python"
+    },
+    {
+      "name": "install.py",
+      "repo": "https://github.com/zackees/install.py",
+      "language": "Shell"
+    },
+    {
+      "name": "static-npm",
+      "repo": "https://github.com/zackees/static-npm",
+      "url": "https://pypi.org/project/static-npm/",
+      "language": "Python"
+    },
+    {
+      "name": "vids-db-server",
+      "repo": "https://github.com/zackees/vids-db-server",
+      "language": "Python"
+    },
+    {
+      "name": "aicode",
+      "repo": "https://github.com/zackees/aicode",
+      "language": "Python"
+    },
+    {
+      "name": "digital-ocean-cluster",
+      "repo": "https://github.com/zackees/digital-ocean-cluster",
+      "language": "Python"
+    },
+    {
+      "name": "disklru",
+      "repo": "https://github.com/zackees/disklru",
+      "language": "Python"
+    },
+    {
+      "name": "haystack",
+      "repo": "https://github.com/zackees/haystack",
+      "language": "Python"
+    },
+    {
+      "name": "make-fastapi-app",
+      "repo": "https://github.com/zackees/make-fastapi-app",
+      "language": "Python"
+    },
+    {
+      "name": "torrent-worker-coordinator",
+      "repo": "https://github.com/zackees/torrent-worker-coordinator",
+      "language": "Python"
+    },
+    {
+      "name": "semi-secret",
+      "repo": "https://github.com/zackees/semi-secret",
+      "language": "Python"
+    },
+    {
+      "name": "transcribe-everything",
+      "repo": "https://github.com/zackees/transcribe-everything",
+      "language": "Python"
+    },
+    {
+      "name": "vids-db",
+      "repo": "https://github.com/zackees/vids-db",
+      "language": "Python"
+    },
+    {
+      "name": "virtual-fs",
+      "repo": "https://github.com/zackees/virtual-fs",
+      "url": "https://pypi.org/project/virtual-fs/",
+      "language": "Python"
+    },
+    {
+      "name": "rclone-api",
+      "repo": "https://github.com/zackees/rclone-api",
+      "url": "https://pypi.org/project/rclone-api/",
+      "language": "Python"
+    },
+    {
+      "name": "python-docker-app",
+      "repo": "https://github.com/zackees/python-docker-app",
+      "language": "Python"
+    },
+    {
+      "name": "docker-buildx-template",
+      "repo": "https://github.com/zackees/docker-buildx-template",
+      "language": "Python"
+    },
+    {
+      "name": "static-graphviz",
+      "repo": "https://github.com/zackees/static-graphviz",
+      "language": "Python"
+    },
+    {
+      "name": "static-sox",
+      "repo": "https://github.com/zackees/static-sox",
+      "url": "https://pypi.org/project/static-sox/",
+      "language": "Python"
+    },
+    {
+      "name": "open-webdriver",
+      "repo": "https://github.com/zackees/open-webdriver",
+      "language": "Python"
+    },
+    {
+      "name": "shellexecute",
+      "repo": "https://github.com/zackees/shellexecute",
+      "language": "Python"
+    },
+    {
+      "name": "pyflutterinstall",
+      "repo": "https://github.com/zackees/pyflutterinstall",
+      "language": "Python"
+    },
+    {
+      "name": "gptneox20b",
+      "repo": "https://github.com/zackees/gptneox20b",
+      "language": "Python"
+    },
+    {
+      "name": "e32",
+      "repo": "https://github.com/zackees/e32",
+      "language": "Python"
+    },
+    {
+      "name": "docker-run-cmd",
+      "repo": "https://github.com/zackees/docker-run-cmd",
+      "language": "Python"
+    },
+    {
+      "name": "capturing_process",
+      "repo": "https://github.com/zackees/capturing_process",
+      "language": "Python"
+    },
+    {
+      "name": "android-tester",
+      "repo": "https://github.com/zackees/android-tester",
+      "language": "Python"
+    },
+    {
+      "name": "aidb",
+      "repo": "https://github.com/zackees/aidb",
+      "language": "Python"
+    },
+    {
+      "name": "isolated-environment",
+      "repo": "https://github.com/zackees/isolated-environment",
+      "language": "Python"
+    },
+    {
+      "name": "esp-rmt-led-strip-component-idf-5-1-cpp",
+      "repo": "https://github.com/zackees/esp-rmt-led-strip-component-idf-5-1-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "python-compile",
+      "repo": "https://github.com/zackees/python-compile",
+      "language": "Python"
+    },
+    {
+      "name": "torrent-test",
+      "repo": "https://github.com/zackees/torrent-test"
+    },
+    {
+      "name": "zlibry",
+      "repo": "https://github.com/zackees/zlibry"
+    },
+    {
+      "name": "blast.video",
+      "repo": "https://github.com/zackees/blast.video",
+      "language": "Python"
+    },
+    {
+      "name": "fadecandy",
+      "repo": "https://github.com/zackees/fadecandy",
+      "language": "C"
+    },
+    {
+      "name": "fastled_bug_s3_idf5x",
+      "repo": "https://github.com/zackees/fastled_bug_s3_idf5x",
+      "language": "C++"
+    },
+    {
+      "name": "esp32-c6-devkitc-1",
+      "repo": "https://github.com/zackees/esp32-c6-devkitc-1"
+    },
+    {
+      "name": "sqs-legacy-adapter",
+      "repo": "https://github.com/zackees/sqs-legacy-adapter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "youtube-html-parser",
+      "repo": "https://github.com/zackees/youtube-html-parser",
+      "language": "HTML"
+    },
+    {
+      "name": "keyvalue_sqlite",
+      "repo": "https://github.com/zackees/keyvalue_sqlite",
+      "language": "Python"
+    },
+    {
+      "name": "esp32-v51-inmp441",
+      "repo": "https://github.com/zackees/esp32-v51-inmp441",
+      "language": "C++"
+    },
+    {
+      "name": "docker-mysql-replica",
+      "repo": "https://github.com/zackees/docker-mysql-replica",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-mysql-proxy",
+      "repo": "https://github.com/zackees/docker-mysql-proxy",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-yt-dlp",
+      "repo": "https://github.com/zackees/docker-yt-dlp",
+      "language": "Python"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "handle": "inkarkat",
+  "name": "Ingo Karkat",
+  "github": [
+    "https://github.com/inkarkat"
+  ],
+  "website": "https://ingo-karkat.de/",
+  "own_repos": 207,
+  "commits": 25837,
+  "apps": [],
+  "repos": [
+    {
+      "name": "shell-transformations",
+      "repo": "https://github.com/inkarkat/shell-transformations",
+      "language": "Shell"
+    },
+    {
+      "name": "pipes",
+      "repo": "https://github.com/inkarkat/pipes",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-tools",
+      "repo": "https://github.com/inkarkat/shell-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "nanoDB",
+      "repo": "https://github.com/inkarkat/nanoDB",
+      "language": "Shell"
+    },
+    {
+      "name": "executionMarker",
+      "repo": "https://github.com/inkarkat/executionMarker",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-fields",
+      "repo": "https://github.com/inkarkat/shell-fields",
+      "language": "Shell"
+    },
+    {
+      "name": "withTransaction",
+      "repo": "https://github.com/inkarkat/withTransaction",
+      "language": "Shell"
+    },
+    {
+      "name": "addOrUpdate",
+      "repo": "https://github.com/inkarkat/addOrUpdate",
+      "language": "Shell"
+    },
+    {
+      "name": "key-value",
+      "repo": "https://github.com/inkarkat/key-value",
+      "language": "Shell"
+    },
+    {
+      "name": "picoDB",
+      "repo": "https://github.com/inkarkat/picoDB",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-basics",
+      "repo": "https://github.com/inkarkat/shell-basics",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-filter-effect",
+      "repo": "https://github.com/inkarkat/shell-filter-effect",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-filters",
+      "repo": "https://github.com/inkarkat/shell-filters",
+      "language": "Shell"
+    },
+    {
+      "name": "bag",
+      "repo": "https://github.com/inkarkat/bag",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-user-interactions",
+      "repo": "https://github.com/inkarkat/shell-user-interactions",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-scripting",
+      "repo": "https://github.com/inkarkat/shell-scripting",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-testing",
+      "repo": "https://github.com/inkarkat/shell-testing",
+      "language": "Shell"
+    },
+    {
+      "name": "miniDB",
+      "repo": "https://github.com/inkarkat/miniDB",
+      "language": "Shell"
+    },
+    {
+      "name": "memoizers",
+      "repo": "https://github.com/inkarkat/memoizers",
+      "language": "Shell"
+    },
+    {
+      "name": "reldate",
+      "repo": "https://github.com/inkarkat/reldate",
+      "language": "Perl"
+    },
+    {
+      "name": "date-extensions",
+      "repo": "https://github.com/inkarkat/date-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-debugging",
+      "repo": "https://github.com/inkarkat/shell-debugging",
+      "language": "Shell"
+    },
+    {
+      "name": "khal-extensions",
+      "repo": "https://github.com/inkarkat/khal-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "git-extensions",
+      "repo": "https://github.com/inkarkat/git-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "todo.sh-extensions",
+      "repo": "https://github.com/inkarkat/todo.sh-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "todo.txt-cli-ex",
+      "repo": "https://github.com/inkarkat/todo.txt-cli-ex",
+      "language": "Shell"
+    },
+    {
+      "name": "tmux-extensions",
+      "repo": "https://github.com/inkarkat/tmux-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "svn-extensions",
+      "repo": "https://github.com/inkarkat/svn-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "kubectl-extensions",
+      "repo": "https://github.com/inkarkat/kubectl-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-extensions",
+      "repo": "https://github.com/inkarkat/docker-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "borgmatic-extensions",
+      "repo": "https://github.com/inkarkat/borgmatic-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "asciinema-extensions",
+      "repo": "https://github.com/inkarkat/asciinema-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "aichat-extensions",
+      "repo": "https://github.com/inkarkat/aichat-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-filesystem",
+      "repo": "https://github.com/inkarkat/shell-filesystem",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-InsertFromAround",
+      "repo": "https://github.com/inkarkat/vim-InsertFromAround",
+      "language": "Vim Script"
+    },
+    {
+      "name": "tmux-partial-paste",
+      "repo": "https://github.com/inkarkat/tmux-partial-paste",
+      "language": "Shell"
+    },
+    {
+      "name": "sed-extensions",
+      "repo": "https://github.com/inkarkat/sed-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "convert-extensions",
+      "repo": "https://github.com/inkarkat/convert-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-ingo-library",
+      "repo": "https://github.com/inkarkat/vim-ingo-library",
+      "language": "Vim Script"
+    },
+    {
+      "name": "scripting-testrunner",
+      "repo": "https://github.com/inkarkat/scripting-testrunner",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-RootTerminal",
+      "repo": "https://github.com/inkarkat/vim-RootTerminal",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-EntryComplete",
+      "repo": "https://github.com/inkarkat/vim-EntryComplete",
+      "language": "Vim Script"
+    },
+    {
+      "name": "run",
+      "repo": "https://github.com/inkarkat/run",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-ArgsAndMore",
+      "repo": "https://github.com/inkarkat/vim-ArgsAndMore",
+      "language": "Vim Script"
+    },
+    {
+      "name": "runVimTests",
+      "repo": "https://github.com/inkarkat/runVimTests",
+      "language": "Vim Script"
+    },
+    {
+      "name": "software",
+      "repo": "https://github.com/inkarkat/software",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-system",
+      "repo": "https://github.com/inkarkat/shell-system",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-packages",
+      "repo": "https://github.com/inkarkat/shell-packages",
+      "language": "Shell"
+    },
+    {
+      "name": "desktop",
+      "repo": "https://github.com/inkarkat/desktop",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-DropQuery",
+      "repo": "https://github.com/inkarkat/vim-DropQuery",
+      "language": "Vim Script"
+    },
+    {
+      "name": "headers",
+      "repo": "https://github.com/inkarkat/headers",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-TextTransform",
+      "repo": "https://github.com/inkarkat/vim-TextTransform",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-LineJuggler",
+      "repo": "https://github.com/inkarkat/vim-LineJuggler",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-repeatableMapping",
+      "repo": "https://github.com/inkarkat/vim-repeatableMapping",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SelectSameVisualBlock",
+      "repo": "https://github.com/inkarkat/vim-SelectSameVisualBlock",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-visualrepeat",
+      "repo": "https://github.com/inkarkat/vim-visualrepeat",
+      "language": "Vim Script"
+    },
+    {
+      "name": "tmux-named-registers",
+      "repo": "https://github.com/inkarkat/tmux-named-registers",
+      "language": "Shell"
+    },
+    {
+      "name": "test3",
+      "repo": "https://github.com/inkarkat/test3"
+    },
+    {
+      "name": "git-supersubinout",
+      "repo": "https://github.com/inkarkat/git-supersubinout",
+      "language": "Shell"
+    },
+    {
+      "name": "scripting-setup",
+      "repo": "https://github.com/inkarkat/scripting-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "somethingOr",
+      "repo": "https://github.com/inkarkat/somethingOr",
+      "language": "Shell"
+    },
+    {
+      "name": "shell-converters",
+      "repo": "https://github.com/inkarkat/shell-converters",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-ConflictMotions",
+      "repo": "https://github.com/inkarkat/vim-ConflictMotions",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-AutoAdapt",
+      "repo": "https://github.com/inkarkat/vim-AutoAdapt",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-ModelineCommands",
+      "repo": "https://github.com/inkarkat/vim-ModelineCommands",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-ReplaceWithRegister",
+      "repo": "https://github.com/inkarkat/vim-ReplaceWithRegister",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-VcsRoot",
+      "repo": "https://github.com/inkarkat/vim-VcsRoot",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-ingocompletion",
+      "repo": "https://github.com/inkarkat/vim-ingocompletion",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-KeepText",
+      "repo": "https://github.com/inkarkat/vim-KeepText",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-asciinema",
+      "repo": "https://github.com/inkarkat/vim-asciinema",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-VcsMessageRecall",
+      "repo": "https://github.com/inkarkat/vim-VcsMessageRecall",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-MessageRecall",
+      "repo": "https://github.com/inkarkat/vim-MessageRecall",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-BufferPersist",
+      "repo": "https://github.com/inkarkat/vim-BufferPersist",
+      "language": "Vim Script"
+    },
+    {
+      "name": "gnuplot-extensions",
+      "repo": "https://github.com/inkarkat/gnuplot-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-AdvancedHardcopy",
+      "repo": "https://github.com/inkarkat/vim-AdvancedHardcopy",
+      "language": "Vim Script"
+    },
+    {
+      "name": "qpdf-extensions",
+      "repo": "https://github.com/inkarkat/qpdf-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-writebackup",
+      "repo": "https://github.com/inkarkat/vim-writebackup",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-WORDComplete",
+      "repo": "https://github.com/inkarkat/vim-WORDComplete",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SpecialLocationComplete",
+      "repo": "https://github.com/inkarkat/vim-SpecialLocationComplete",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-LogViewer",
+      "repo": "https://github.com/inkarkat/vim-LogViewer",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-CaptureClipboard",
+      "repo": "https://github.com/inkarkat/vim-CaptureClipboard",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SpecialFileLocations",
+      "repo": "https://github.com/inkarkat/vim-SpecialFileLocations",
+      "language": "Vim Script"
+    },
+    {
+      "name": "flatpak-extensions",
+      "repo": "https://github.com/inkarkat/flatpak-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "snap-extensions",
+      "repo": "https://github.com/inkarkat/snap-extensions",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-SnippetComplete",
+      "repo": "https://github.com/inkarkat/vim-SnippetComplete",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SearchSpecial",
+      "repo": "https://github.com/inkarkat/vim-SearchSpecial",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SearchRepeat",
+      "repo": "https://github.com/inkarkat/vim-SearchRepeat",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SearchPosition",
+      "repo": "https://github.com/inkarkat/vim-SearchPosition",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-TaskMotions",
+      "repo": "https://github.com/inkarkat/vim-TaskMotions",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-cloneSimilar",
+      "repo": "https://github.com/inkarkat/vim-cloneSimilar",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-clone",
+      "repo": "https://github.com/inkarkat/vim-clone",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-diffwindow_movement",
+      "repo": "https://github.com/inkarkat/vim-diffwindow_movement",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SyntaxRange",
+      "repo": "https://github.com/inkarkat/vim-SyntaxRange",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SwapText",
+      "repo": "https://github.com/inkarkat/vim-SwapText",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SubstituteExpression",
+      "repo": "https://github.com/inkarkat/vim-SubstituteExpression",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-StatusLineHighlight",
+      "repo": "https://github.com/inkarkat/vim-StatusLineHighlight",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SpellCheck",
+      "repo": "https://github.com/inkarkat/vim-SpellCheck",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-SameSyntaxMotion",
+      "repo": "https://github.com/inkarkat/vim-SameSyntaxMotion",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-RelativeNumberCurrentWindow",
+      "repo": "https://github.com/inkarkat/vim-RelativeNumberCurrentWindow",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-QuickFixCurrentNumber",
+      "repo": "https://github.com/inkarkat/vim-QuickFixCurrentNumber",
+      "language": "Vim Script"
+    }
+  ]
+}

@@ -10,6 +10,16 @@
   "commits": 10770,
   "repos": [
     {
+      "name": "code-challenges",
+      "repo": "https://github.com/hantsy/code-challenges",
+      "language": "Java"
+    },
+    {
+      "name": "aws-sdk-kotlin-spring-example",
+      "repo": "https://github.com/hantsy/aws-sdk-kotlin-spring-example",
+      "language": "Kotlin"
+    },
+    {
       "name": "nestjs-rest-sample",
       "repo": "https://github.com/hantsy/nestjs-rest-sample",
       "url": "https://hantsy.github.io/nestjs-rest-sample/",
@@ -20,11 +30,6 @@
       "repo": "https://github.com/hantsy/spring-reactive-sample",
       "url": "https://hantsy.github.io/spring-reactive-sample/",
       "language": "Java"
-    },
-    {
-      "name": "aws-sdk-kotlin-spring-example",
-      "repo": "https://github.com/hantsy/aws-sdk-kotlin-spring-example",
-      "language": "Kotlin"
     },
     {
       "name": "jakartaee-rest-sample",
@@ -40,11 +45,6 @@
       "name": "dataframe-sandbox",
       "repo": "https://github.com/hantsy/dataframe-sandbox",
       "language": "Kotlin"
-    },
-    {
-      "name": "code-challenges",
-      "repo": "https://github.com/hantsy/code-challenges",
-      "language": "Java"
     },
     {
       "name": "jakartaee-ddd-example",

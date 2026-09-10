@@ -1,0 +1,527 @@
+{
+  "handle": "crispstrobe",
+  "name": "crispstrobe",
+  "github": [
+    "https://github.com/crispstrobe"
+  ],
+  "own_repos": 107,
+  "commits": 22382,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cometbeat",
+      "repo": "https://github.com/CrispStrobe/cometbeat",
+      "url": "https://crispstrobe.github.io/cometbeat/",
+      "language": "Dart"
+    },
+    {
+      "name": "kerotakis",
+      "repo": "https://github.com/CrispStrobe/kerotakis",
+      "language": "Rust"
+    },
+    {
+      "name": "brickwright-spike-prime-fw",
+      "repo": "https://github.com/CrispStrobe/brickwright-spike-prime-fw",
+      "language": "C"
+    },
+    {
+      "name": "bw-board",
+      "repo": "https://github.com/CrispStrobe/bw-board",
+      "language": "JavaScript"
+    },
+    {
+      "name": "LLMProviders",
+      "repo": "https://github.com/CrispStrobe/LLMProviders",
+      "url": "https://llmproviders.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "renode-spike-prime",
+      "repo": "https://github.com/CrispStrobe/renode-spike-prime",
+      "language": "RobotFramework"
+    },
+    {
+      "name": "CrispChess",
+      "repo": "https://github.com/CrispStrobe/CrispChess",
+      "language": "Dart"
+    },
+    {
+      "name": "brickwright-lite",
+      "repo": "https://github.com/CrispStrobe/brickwright-lite",
+      "url": "https://brickwright-lite.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hectopolis",
+      "repo": "https://github.com/CrispStrobe/hectopolis",
+      "url": "https://crispstrobe.github.io/hectopolis/",
+      "language": "Dart"
+    },
+    {
+      "name": "bw-circuit-ui",
+      "repo": "https://github.com/CrispStrobe/bw-circuit-ui",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sb3-creator",
+      "repo": "https://github.com/CrispStrobe/sb3-creator",
+      "url": "https://sb3-creator.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "CrispZotLib",
+      "repo": "https://github.com/CrispStrobe/CrispZotLib",
+      "language": "TypeScript"
+    },
+    {
+      "name": "renode-infrastructure-spike-prime",
+      "repo": "https://github.com/CrispStrobe/renode-infrastructure-spike-prime",
+      "language": "C#"
+    },
+    {
+      "name": "sdcc-wasm",
+      "repo": "https://github.com/CrispStrobe/sdcc-wasm",
+      "language": "C"
+    },
+    {
+      "name": "CrispASR",
+      "repo": "https://github.com/CrispStrobe/CrispASR",
+      "language": "C++"
+    },
+    {
+      "name": "stc-compiler",
+      "repo": "https://github.com/CrispStrobe/stc-compiler",
+      "url": "https://stc-compiler.vercel.app",
+      "language": "C"
+    },
+    {
+      "name": "onnx_runtime_dart",
+      "repo": "https://github.com/CrispStrobe/onnx_runtime_dart",
+      "language": "Dart"
+    },
+    {
+      "name": "bingo",
+      "repo": "https://github.com/CrispStrobe/bingo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bw-parts",
+      "repo": "https://github.com/CrispStrobe/bw-parts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crispaudio",
+      "repo": "https://github.com/CrispStrobe/crispaudio",
+      "url": "https://crispaudio-psi.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crisp_chess_engine",
+      "repo": "https://github.com/CrispStrobe/crisp_chess_engine",
+      "language": "Dart"
+    },
+    {
+      "name": "CrisperWeaver",
+      "repo": "https://github.com/CrispStrobe/CrisperWeaver",
+      "language": "Dart"
+    },
+    {
+      "name": "CrispDeck",
+      "repo": "https://github.com/CrispStrobe/CrispDeck",
+      "url": "https://crispdeck.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CrispMath",
+      "repo": "https://github.com/CrispStrobe/CrispMath",
+      "url": "https://github.com/CrispStrobe/CrispCalc",
+      "language": "Dart"
+    },
+    {
+      "name": "bw-pages-concurrency-proof",
+      "repo": "https://github.com/CrispStrobe/bw-pages-concurrency-proof",
+      "language": "Shell"
+    },
+    {
+      "name": "stc12c5a60s2-lab",
+      "repo": "https://github.com/CrispStrobe/stc12c5a60s2-lab",
+      "language": "Rust"
+    },
+    {
+      "name": "internxt-python",
+      "repo": "https://github.com/CrispStrobe/internxt-python",
+      "language": "Python"
+    },
+    {
+      "name": "internxt-dart",
+      "repo": "https://github.com/CrispStrobe/internxt-dart",
+      "language": "Dart"
+    },
+    {
+      "name": "covfuzz",
+      "repo": "https://github.com/CrispStrobe/covfuzz",
+      "language": "Dart"
+    },
+    {
+      "name": "CrispEmbed",
+      "repo": "https://github.com/CrispStrobe/CrispEmbed",
+      "language": "C++"
+    },
+    {
+      "name": "sundials-kinetics-rs",
+      "repo": "https://github.com/CrispStrobe/sundials-kinetics-rs",
+      "language": "C++"
+    },
+    {
+      "name": "CrispCloud",
+      "repo": "https://github.com/CrispStrobe/CrispCloud",
+      "url": "https://crisp-cloud.vercel.app",
+      "language": "Dart"
+    },
+    {
+      "name": "ucsim-stc",
+      "repo": "https://github.com/CrispStrobe/ucsim-stc",
+      "language": "C++"
+    },
+    {
+      "name": "glint",
+      "repo": "https://github.com/CrispStrobe/glint",
+      "language": "C++"
+    },
+    {
+      "name": "stcbsl",
+      "repo": "https://github.com/CrispStrobe/stcbsl",
+      "language": "Rust"
+    },
+    {
+      "name": "apple-scoped-bookmarks",
+      "repo": "https://github.com/CrispStrobe/apple-scoped-bookmarks",
+      "language": "Rust"
+    },
+    {
+      "name": "flutter_tuner",
+      "repo": "https://github.com/CrispStrobe/flutter_tuner",
+      "url": "https://crisptuner.vercel.app",
+      "language": "Dart"
+    },
+    {
+      "name": "naga",
+      "repo": "https://github.com/CrispStrobe/naga",
+      "language": "Dart"
+    },
+    {
+      "name": "Sudoku",
+      "repo": "https://github.com/CrispStrobe/Sudoku",
+      "language": "Dart"
+    },
+    {
+      "name": "bw-cfront",
+      "repo": "https://github.com/CrispStrobe/bw-cfront",
+      "language": "Python"
+    },
+    {
+      "name": "brickwright-gpl-lab",
+      "repo": "https://github.com/CrispStrobe/brickwright-gpl-lab",
+      "language": "Shell"
+    },
+    {
+      "name": "Susurrus",
+      "repo": "https://github.com/CrispStrobe/Susurrus",
+      "language": "Python"
+    },
+    {
+      "name": "basic-m6502-bw",
+      "repo": "https://github.com/CrispStrobe/basic-m6502-bw",
+      "language": "Assembly"
+    },
+    {
+      "name": "bw-bundle",
+      "repo": "https://github.com/CrispStrobe/bw-bundle"
+    },
+    {
+      "name": "chroma-mixer",
+      "repo": "https://github.com/CrispStrobe/chroma-mixer",
+      "language": "HTML"
+    },
+    {
+      "name": "CrispSorter",
+      "repo": "https://github.com/CrispStrobe/CrispSorter",
+      "language": "Rust"
+    },
+    {
+      "name": "CrispTTS",
+      "repo": "https://github.com/CrispStrobe/CrispTTS",
+      "language": "Python"
+    },
+    {
+      "name": "crisp_notation",
+      "repo": "https://github.com/CrispStrobe/crisp_notation",
+      "language": "Dart"
+    },
+    {
+      "name": "filen-dart",
+      "repo": "https://github.com/CrispStrobe/filen-dart",
+      "language": "Dart"
+    },
+    {
+      "name": "crispcloud-delta-sync",
+      "repo": "https://github.com/CrispStrobe/crispcloud-delta-sync",
+      "language": "Python"
+    },
+    {
+      "name": "crisp-cloud-rs",
+      "repo": "https://github.com/CrispStrobe/crisp-cloud-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "crisp-filen",
+      "repo": "https://github.com/CrispStrobe/crisp-filen",
+      "url": "https://github.com/CrispStrobe/crisp-filen"
+    },
+    {
+      "name": "qrgen",
+      "repo": "https://github.com/CrispStrobe/qrgen",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dart_csp",
+      "repo": "https://github.com/CrispStrobe/dart_csp",
+      "language": "Dart"
+    },
+    {
+      "name": "c2pa-audio",
+      "repo": "https://github.com/CrispStrobe/c2pa-audio",
+      "language": "C++"
+    },
+    {
+      "name": "nrbf-editor",
+      "repo": "https://github.com/CrispStrobe/nrbf-editor",
+      "language": "Dart"
+    },
+    {
+      "name": "ExcelLLMAddin",
+      "repo": "https://github.com/CrispStrobe/ExcelLLMAddin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "symbolic_math_bridge",
+      "repo": "https://github.com/CrispStrobe/symbolic_math_bridge",
+      "language": "C++"
+    },
+    {
+      "name": "math-stack-ios-builder",
+      "repo": "https://github.com/CrispStrobe/math-stack-ios-builder",
+      "language": "C"
+    },
+    {
+      "name": "zoom-recordings",
+      "repo": "https://github.com/CrispStrobe/zoom-recordings",
+      "language": "Python"
+    },
+    {
+      "name": "sokoban-generator",
+      "repo": "https://github.com/CrispStrobe/sokoban-generator",
+      "language": "Dart"
+    },
+    {
+      "name": "nrbf",
+      "repo": "https://github.com/CrispStrobe/nrbf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nlp-de",
+      "repo": "https://github.com/CrispStrobe/nlp-de",
+      "language": "Python"
+    },
+    {
+      "name": "filen-python",
+      "repo": "https://github.com/CrispStrobe/filen-python",
+      "language": "Python"
+    },
+    {
+      "name": "crisp-docx",
+      "repo": "https://github.com/CrispStrobe/crisp-docx",
+      "language": "Rust"
+    },
+    {
+      "name": "CrispTranslator",
+      "repo": "https://github.com/CrispStrobe/CrispTranslator",
+      "language": "Python"
+    },
+    {
+      "name": "brickwright-android",
+      "repo": "https://github.com/CrispStrobe/brickwright-android",
+      "language": "Swift"
+    },
+    {
+      "name": "brickwright-ios",
+      "repo": "https://github.com/CrispStrobe/brickwright-ios",
+      "language": "JavaScript"
+    },
+    {
+      "name": "legacy-lego-compiler",
+      "repo": "https://github.com/CrispStrobe/legacy-lego-compiler",
+      "language": "C"
+    },
+    {
+      "name": "brickwright-bridges",
+      "repo": "https://github.com/CrispStrobe/brickwright-bridges",
+      "url": "https://crispstrobe.github.io/brickwright-bridges/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "CrispLib",
+      "repo": "https://github.com/CrispStrobe/CrispLib",
+      "language": "Python"
+    },
+    {
+      "name": "BiblioForge",
+      "repo": "https://github.com/CrispStrobe/BiblioForge",
+      "language": "Python"
+    },
+    {
+      "name": "CrispRAG",
+      "repo": "https://github.com/CrispStrobe/CrispRAG",
+      "language": "Python"
+    },
+    {
+      "name": "starter-pack-explorer",
+      "repo": "https://github.com/CrispStrobe/starter-pack-explorer",
+      "url": "https://starter-pack-explorer-o13o.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "math-stack-test",
+      "repo": "https://github.com/CrispStrobe/math-stack-test",
+      "language": "C"
+    },
+    {
+      "name": "lego-3x3-matrix",
+      "repo": "https://github.com/CrispStrobe/lego-3x3-matrix",
+      "url": "https://crispstrobe.github.io/lego-3x3-matrix/",
+      "language": "HTML"
+    },
+    {
+      "name": "highlighter",
+      "repo": "https://github.com/CrispStrobe/highlighter",
+      "language": "Python"
+    },
+    {
+      "name": "crispfxr-app",
+      "repo": "https://github.com/CrispStrobe/crispfxr-app",
+      "url": "https://crispfxr.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "allmyposts",
+      "repo": "https://github.com/CrispStrobe/allmyposts",
+      "url": "https://allmyposts.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Catfish",
+      "repo": "https://github.com/CrispStrobe/Catfish",
+      "language": "Python"
+    },
+    {
+      "name": "archivebox-stuff",
+      "repo": "https://github.com/CrispStrobe/archivebox-stuff"
+    },
+    {
+      "name": "christen-muslime",
+      "repo": "https://github.com/CrispStrobe/christen-muslime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "which-theologian",
+      "repo": "https://github.com/CrispStrobe/which-theologian",
+      "url": "https://crispstrobe.github.io/which-theologian/",
+      "language": "HTML"
+    },
+    {
+      "name": "vcompress",
+      "repo": "https://github.com/CrispStrobe/vcompress",
+      "language": "Python"
+    },
+    {
+      "name": "CrispTranslator-flutter",
+      "repo": "https://github.com/CrispStrobe/CrispTranslator-flutter",
+      "language": "Dart"
+    },
+    {
+      "name": "pyatd",
+      "repo": "https://github.com/CrispStrobe/pyatd",
+      "language": "Python"
+    },
+    {
+      "name": "rushhour",
+      "repo": "https://github.com/CrispStrobe/rushhour",
+      "language": "Dart"
+    },
+    {
+      "name": "sh1106-py",
+      "repo": "https://github.com/CrispStrobe/sh1106-py",
+      "language": "Python"
+    },
+    {
+      "name": "lcd_20x4",
+      "repo": "https://github.com/CrispStrobe/lcd_20x4",
+      "language": "Python"
+    },
+    {
+      "name": "ppt-xtract",
+      "repo": "https://github.com/CrispStrobe/ppt-xtract",
+      "language": "Python"
+    },
+    {
+      "name": "allmyskeets",
+      "repo": "https://github.com/CrispStrobe/allmyskeets",
+      "url": "https://allmyskeets.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gemini-cli-py",
+      "repo": "https://github.com/CrispStrobe/gemini-cli-py",
+      "language": "Python"
+    },
+    {
+      "name": "areopagus",
+      "repo": "https://github.com/CrispStrobe/areopagus",
+      "language": "HTML"
+    },
+    {
+      "name": "llm_scripts",
+      "repo": "https://github.com/CrispStrobe/llm_scripts",
+      "language": "Python"
+    },
+    {
+      "name": "uSketches",
+      "repo": "https://github.com/CrispStrobe/uSketches",
+      "language": "Python"
+    },
+    {
+      "name": "mlxrag",
+      "repo": "https://github.com/CrispStrobe/mlxrag",
+      "language": "Python"
+    },
+    {
+      "name": "xformers-wheel",
+      "repo": "https://github.com/CrispStrobe/xformers-wheel"
+    },
+    {
+      "name": "meilisearch-stuff",
+      "repo": "https://github.com/CrispStrobe/meilisearch-stuff",
+      "language": "Python"
+    },
+    {
+      "name": "sort_files",
+      "repo": "https://github.com/CrispStrobe/sort_files",
+      "language": "Python"
+    },
+    {
+      "name": "freespeech-eval",
+      "repo": "https://github.com/CrispStrobe/freespeech-eval",
+      "language": "Python"
+    }
+  ]
+}

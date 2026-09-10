@@ -1,0 +1,513 @@
+{
+  "handle": "inducer",
+  "name": "Andreas Klöckner",
+  "github": [
+    "https://github.com/inducer"
+  ],
+  "own_repos": 136,
+  "commits": 26761,
+  "apps": [],
+  "repos": [
+    {
+      "name": "relate",
+      "repo": "https://github.com/inducer/relate",
+      "language": "Python"
+    },
+    {
+      "name": "fast-alg-ie-notes",
+      "repo": "https://github.com/inducer/fast-alg-ie-notes",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "config-and-scripts",
+      "repo": "https://github.com/inducer/config-and-scripts",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "starlark-pyo3",
+      "repo": "https://github.com/inducer/starlark-pyo3",
+      "language": "Rust"
+    },
+    {
+      "name": "namedisl",
+      "repo": "https://github.com/inducer/namedisl",
+      "language": "Python"
+    },
+    {
+      "name": "pytential",
+      "repo": "https://github.com/inducer/pytential",
+      "url": "https://pypi.python.org/pypi/pytential",
+      "language": "Python"
+    },
+    {
+      "name": "pytato",
+      "repo": "https://github.com/inducer/pytato",
+      "language": "Python"
+    },
+    {
+      "name": "pymbolic",
+      "repo": "https://github.com/inducer/pymbolic",
+      "language": "Python"
+    },
+    {
+      "name": "sumpy",
+      "repo": "https://github.com/inducer/sumpy",
+      "language": "Python"
+    },
+    {
+      "name": "loopy",
+      "repo": "https://github.com/inducer/loopy",
+      "language": "Python"
+    },
+    {
+      "name": "modepy",
+      "repo": "https://github.com/inducer/modepy",
+      "language": "Python"
+    },
+    {
+      "name": "boxtree",
+      "repo": "https://github.com/inducer/boxtree",
+      "language": "Python"
+    },
+    {
+      "name": "meshmode",
+      "repo": "https://github.com/inducer/meshmode",
+      "url": "https://documen.tician.de/meshmode/",
+      "language": "Python"
+    },
+    {
+      "name": "meshpy",
+      "repo": "https://github.com/inducer/meshpy",
+      "language": "C++"
+    },
+    {
+      "name": "pudb",
+      "repo": "https://github.com/inducer/pudb",
+      "url": "https://documen.tician.de/pudb/",
+      "language": "Python"
+    },
+    {
+      "name": "islpy",
+      "repo": "https://github.com/inducer/islpy",
+      "language": "Python"
+    },
+    {
+      "name": "grudge",
+      "repo": "https://github.com/inducer/grudge",
+      "language": "Python"
+    },
+    {
+      "name": "pymetis",
+      "repo": "https://github.com/inducer/pymetis",
+      "language": "C"
+    },
+    {
+      "name": "arraycontext",
+      "repo": "https://github.com/inducer/arraycontext",
+      "language": "Python"
+    },
+    {
+      "name": "pyfmmlib",
+      "repo": "https://github.com/inducer/pyfmmlib",
+      "language": "Python"
+    },
+    {
+      "name": "expensely",
+      "repo": "https://github.com/inducer/expensely",
+      "language": "Python"
+    },
+    {
+      "name": "uiuc-academic-integrity",
+      "repo": "https://github.com/inducer/uiuc-academic-integrity",
+      "language": "Python"
+    },
+    {
+      "name": "course-tools",
+      "repo": "https://github.com/inducer/course-tools",
+      "language": "Python"
+    },
+    {
+      "name": "pyopencl",
+      "repo": "https://github.com/inducer/pyopencl",
+      "language": "Python"
+    },
+    {
+      "name": "pycuda",
+      "repo": "https://github.com/inducer/pycuda",
+      "language": "Python"
+    },
+    {
+      "name": "pyvisfile",
+      "repo": "https://github.com/inducer/pyvisfile",
+      "language": "Python"
+    },
+    {
+      "name": "gmsh_interop",
+      "repo": "https://github.com/inducer/gmsh_interop",
+      "language": "Python"
+    },
+    {
+      "name": "codepy",
+      "repo": "https://github.com/inducer/codepy",
+      "language": "Python"
+    },
+    {
+      "name": "cgen",
+      "repo": "https://github.com/inducer/cgen",
+      "language": "Python"
+    },
+    {
+      "name": "pytools",
+      "repo": "https://github.com/inducer/pytools",
+      "language": "Python"
+    },
+    {
+      "name": "openai-proxy",
+      "repo": "https://github.com/inducer/openai-proxy",
+      "language": "Python"
+    },
+    {
+      "name": "pycparserext",
+      "repo": "https://github.com/inducer/pycparserext",
+      "language": "Python"
+    },
+    {
+      "name": "genpy",
+      "repo": "https://github.com/inducer/genpy",
+      "language": "Python"
+    },
+    {
+      "name": "grist-template",
+      "repo": "https://github.com/inducer/grist-template",
+      "language": "Python"
+    },
+    {
+      "name": "sphinxconfig",
+      "repo": "https://github.com/inducer/sphinxconfig",
+      "language": "Python"
+    },
+    {
+      "name": "pygrist-mini",
+      "repo": "https://github.com/inducer/pygrist-mini",
+      "language": "Python"
+    },
+    {
+      "name": "compyte",
+      "repo": "https://github.com/inducer/compyte",
+      "language": "Python"
+    },
+    {
+      "name": "akinfra-shared",
+      "repo": "https://github.com/inducer/akinfra-shared",
+      "language": "Python"
+    },
+    {
+      "name": "grist-fill-form",
+      "repo": "https://github.com/inducer/grist-fill-form",
+      "language": "Python"
+    },
+    {
+      "name": "ci-support",
+      "repo": "https://github.com/inducer/ci-support",
+      "language": "Shell"
+    },
+    {
+      "name": "grist-availability",
+      "repo": "https://github.com/inducer/grist-availability",
+      "language": "Python"
+    },
+    {
+      "name": "uih",
+      "repo": "https://github.com/inducer/uih",
+      "language": "Python"
+    },
+    {
+      "name": "numerics-notes",
+      "repo": "https://github.com/inducer/numerics-notes",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "katarakt",
+      "repo": "https://github.com/inducer/katarakt",
+      "language": "C++"
+    },
+    {
+      "name": "codery",
+      "repo": "https://github.com/inducer/codery",
+      "language": "Python"
+    },
+    {
+      "name": "acreplay",
+      "repo": "https://github.com/inducer/acreplay",
+      "language": "Python"
+    },
+    {
+      "name": "insorderset",
+      "repo": "https://github.com/inducer/insorderset"
+    },
+    {
+      "name": "relate-sample",
+      "repo": "https://github.com/inducer/relate-sample",
+      "language": "Jinja"
+    },
+    {
+      "name": "ipython-demo-tools",
+      "repo": "https://github.com/inducer/ipython-demo-tools",
+      "language": "Python"
+    },
+    {
+      "name": "extrausers-maint",
+      "repo": "https://github.com/inducer/extrausers-maint",
+      "language": "Python"
+    },
+    {
+      "name": "isl",
+      "repo": "https://github.com/inducer/isl",
+      "language": "C"
+    },
+    {
+      "name": "grist-mailmerge",
+      "repo": "https://github.com/inducer/grist-mailmerge",
+      "language": "Python"
+    },
+    {
+      "name": "dagrt",
+      "repo": "https://github.com/inducer/dagrt",
+      "language": "Python"
+    },
+    {
+      "name": "illinois-poster-template",
+      "repo": "https://github.com/inducer/illinois-poster-template",
+      "language": "TeX"
+    },
+    {
+      "name": "hpc-lang-abstr-notes",
+      "repo": "https://github.com/inducer/hpc-lang-abstr-notes",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "bpl-subset",
+      "repo": "https://github.com/inducer/bpl-subset",
+      "language": "C++"
+    },
+    {
+      "name": "barvinok",
+      "repo": "https://github.com/inducer/barvinok",
+      "language": "C"
+    },
+    {
+      "name": "leap",
+      "repo": "https://github.com/inducer/leap",
+      "language": "Python"
+    },
+    {
+      "name": "aksetup",
+      "repo": "https://github.com/inducer/aksetup",
+      "language": "Python"
+    },
+    {
+      "name": "indexset",
+      "repo": "https://github.com/inducer/indexset",
+      "language": "Rust"
+    },
+    {
+      "name": "numpde-notes",
+      "repo": "https://github.com/inducer/numpde-notes",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "edit-on-web",
+      "repo": "https://github.com/inducer/edit-on-web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "grist-widgets",
+      "repo": "https://github.com/inducer/grist-widgets",
+      "language": "HTML"
+    },
+    {
+      "name": "pdf2data",
+      "repo": "https://github.com/inducer/pdf2data",
+      "language": "Python"
+    },
+    {
+      "name": "interacticrop",
+      "repo": "https://github.com/inducer/interacticrop",
+      "language": "Python"
+    },
+    {
+      "name": "languages-and-codegen-tutorial",
+      "repo": "https://github.com/inducer/languages-and-codegen-tutorial",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "xmpp-popup",
+      "repo": "https://github.com/inducer/xmpp-popup",
+      "language": "Python"
+    },
+    {
+      "name": "pyrecious",
+      "repo": "https://github.com/inducer/pyrecious",
+      "language": "Python"
+    },
+    {
+      "name": "math-experiments-py",
+      "repo": "https://github.com/inducer/math-experiments-py",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "pylatexparse",
+      "repo": "https://github.com/inducer/pylatexparse",
+      "language": "Python"
+    },
+    {
+      "name": "geometries",
+      "repo": "https://github.com/inducer/geometries"
+    },
+    {
+      "name": "munge-xournal",
+      "repo": "https://github.com/inducer/munge-xournal",
+      "language": "Python"
+    },
+    {
+      "name": "disttune",
+      "repo": "https://github.com/inducer/disttune",
+      "language": "Python"
+    },
+    {
+      "name": "math-experiments",
+      "repo": "https://github.com/inducer/math-experiments",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "spde-notes",
+      "repo": "https://github.com/inducer/spde-notes",
+      "language": "Tcl"
+    },
+    {
+      "name": "257-notes",
+      "repo": "https://github.com/inducer/257-notes",
+      "language": "Tcl"
+    },
+    {
+      "name": "pde2-notes",
+      "repo": "https://github.com/inducer/pde2-notes",
+      "language": "Tcl"
+    },
+    {
+      "name": "pde-notes",
+      "repo": "https://github.com/inducer/pde-notes",
+      "language": "Tcl"
+    },
+    {
+      "name": "brown-beamer",
+      "repo": "https://github.com/inducer/brown-beamer",
+      "language": "TeX"
+    },
+    {
+      "name": "mide",
+      "repo": "https://github.com/inducer/mide",
+      "language": "C++"
+    },
+    {
+      "name": "ocaml-library",
+      "repo": "https://github.com/inducer/ocaml-library",
+      "language": "OCaml"
+    },
+    {
+      "name": "thesis-experiments",
+      "repo": "https://github.com/inducer/thesis-experiments",
+      "language": "Python"
+    },
+    {
+      "name": "konnekte",
+      "repo": "https://github.com/inducer/konnekte",
+      "language": "Python"
+    },
+    {
+      "name": "multigrid-notes",
+      "repo": "https://github.com/inducer/multigrid-notes",
+      "language": "Tcl"
+    },
+    {
+      "name": "analysis-aufschrieb",
+      "repo": "https://github.com/inducer/analysis-aufschrieb",
+      "language": "TeX"
+    },
+    {
+      "name": "pywannier",
+      "repo": "https://github.com/inducer/pywannier",
+      "language": "Python"
+    },
+    {
+      "name": "fempy",
+      "repo": "https://github.com/inducer/fempy",
+      "language": "Python"
+    },
+    {
+      "name": "pylinear",
+      "repo": "https://github.com/inducer/pylinear",
+      "language": "Python"
+    },
+    {
+      "name": "clockwork",
+      "repo": "https://github.com/inducer/clockwork",
+      "language": "Shell"
+    },
+    {
+      "name": "caller-id",
+      "repo": "https://github.com/inducer/caller-id",
+      "language": "Python"
+    },
+    {
+      "name": "wgwam",
+      "repo": "https://github.com/inducer/wgwam",
+      "language": "PHP"
+    },
+    {
+      "name": "diplomatik",
+      "repo": "https://github.com/inducer/diplomatik",
+      "language": "Python"
+    },
+    {
+      "name": "wam",
+      "repo": "https://github.com/inducer/wam",
+      "language": "C++"
+    },
+    {
+      "name": "sdlucid",
+      "repo": "https://github.com/inducer/sdlucid",
+      "language": "C++"
+    },
+    {
+      "name": "madman",
+      "repo": "https://github.com/inducer/madman",
+      "language": "C++"
+    },
+    {
+      "name": "puzzle-solvers",
+      "repo": "https://github.com/inducer/puzzle-solvers",
+      "language": "Python"
+    },
+    {
+      "name": "whatup",
+      "repo": "https://github.com/inducer/whatup",
+      "language": "Python"
+    },
+    {
+      "name": "iterative-cuda",
+      "repo": "https://github.com/inducer/iterative-cuda",
+      "language": "C++"
+    },
+    {
+      "name": "boost-numeric-bindings",
+      "repo": "https://github.com/inducer/boost-numeric-bindings",
+      "language": "C++"
+    },
+    {
+      "name": "commit-timeline",
+      "repo": "https://github.com/inducer/commit-timeline",
+      "language": "Python"
+    }
+  ]
+}

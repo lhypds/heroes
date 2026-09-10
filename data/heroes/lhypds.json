@@ -8,6 +8,12 @@
   "commits": 9108,
   "repos": [
     {
+      "name": "heroes",
+      "repo": "https://github.com/lhypds/heroes",
+      "url": "https://heroes.gcc3.com",
+      "language": "JavaScript"
+    },
+    {
       "name": "ft",
       "repo": "https://github.com/lhypds/ft",
       "language": "Python"
@@ -20,12 +26,6 @@
     {
       "name": "lhypds",
       "repo": "https://github.com/lhypds/lhypds"
-    },
-    {
-      "name": "heroes",
-      "repo": "https://github.com/lhypds/heroes",
-      "url": "https://heros.gcc3.com",
-      "language": "JavaScript"
     },
     {
       "name": "liveboard-mod-basic",

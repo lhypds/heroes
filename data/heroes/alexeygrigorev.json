@@ -10,14 +10,14 @@
   "commits": 11921,
   "repos": [
     {
-      "name": "pocketshell-desktop",
-      "repo": "https://github.com/alexeygrigorev/pocketshell-desktop",
-      "language": "TypeScript"
-    },
-    {
       "name": "pocketshell",
       "repo": "https://github.com/alexeygrigorev/pocketshell",
       "language": "Kotlin"
+    },
+    {
+      "name": "pocketshell-desktop",
+      "repo": "https://github.com/alexeygrigorev/pocketshell-desktop",
+      "language": "TypeScript"
     },
     {
       "name": "telegram-writing-assistant",

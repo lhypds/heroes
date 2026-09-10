@@ -1,0 +1,514 @@
+{
+  "handle": "dandavison",
+  "name": "Dan Davison",
+  "github": [
+    "https://github.com/dandavison"
+  ],
+  "own_repos": 146,
+  "commits": 12238,
+  "apps": [],
+  "repos": [
+    {
+      "name": "chrome-etc",
+      "repo": "https://github.com/dandavison/chrome-etc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-skills",
+      "repo": "https://github.com/dandavison/agent-skills",
+      "language": "MDX"
+    },
+    {
+      "name": "agent-sessions",
+      "repo": "https://github.com/dandavison/agent-sessions",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/dandavison/dotfiles",
+      "language": "Lua"
+    },
+    {
+      "name": "wormhole",
+      "repo": "https://github.com/dandavison/wormhole",
+      "language": "Rust"
+    },
+    {
+      "name": "delta",
+      "repo": "https://github.com/dandavison/delta",
+      "url": "https://dandavison.github.io/delta/",
+      "language": "Rust"
+    },
+    {
+      "name": "tools",
+      "repo": "https://github.com/dandavison/tools",
+      "language": "Python"
+    },
+    {
+      "name": "temporal-workloads",
+      "repo": "https://github.com/dandavison/temporal-workloads",
+      "language": "Python"
+    },
+    {
+      "name": "etc",
+      "repo": "https://github.com/dandavison/etc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bin",
+      "repo": "https://github.com/dandavison/bin",
+      "language": "Shell"
+    },
+    {
+      "name": "temporal-animations",
+      "repo": "https://github.com/dandavison/temporal-animations",
+      "url": "https://dandavison.github.io/temporal-animations/",
+      "language": "Python"
+    },
+    {
+      "name": "shell-config",
+      "repo": "https://github.com/dandavison/shell-config",
+      "language": "Shell"
+    },
+    {
+      "name": "devenv",
+      "repo": "https://github.com/dandavison/devenv",
+      "language": "Python"
+    },
+    {
+      "name": "temporal-latency-experiments",
+      "repo": "https://github.com/dandavison/temporal-latency-experiments",
+      "language": "Go"
+    },
+    {
+      "name": "temporalio-notes",
+      "repo": "https://github.com/dandavison/temporalio-notes",
+      "url": "https://dandavison.github.io/temporalio-notes/",
+      "language": "D2"
+    },
+    {
+      "name": "call-hierarchy",
+      "repo": "https://github.com/dandavison/call-hierarchy",
+      "language": "Go"
+    },
+    {
+      "name": "temporal-ai-benchmark",
+      "repo": "https://github.com/dandavison/temporal-ai-benchmark",
+      "language": "Python"
+    },
+    {
+      "name": "esv",
+      "repo": "https://github.com/dandavison/esv",
+      "language": "Python"
+    },
+    {
+      "name": "tringa",
+      "repo": "https://github.com/dandavison/tringa",
+      "language": "Python"
+    },
+    {
+      "name": "misc-bevy",
+      "repo": "https://github.com/dandavison/misc-bevy",
+      "language": "Rust"
+    },
+    {
+      "name": "magit-delta",
+      "repo": "https://github.com/dandavison/magit-delta",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "vscode-etc",
+      "repo": "https://github.com/dandavison/vscode-etc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "xolmis",
+      "repo": "https://github.com/dandavison/xolmis",
+      "language": "Rust"
+    },
+    {
+      "name": "tide",
+      "repo": "https://github.com/dandavison/tide",
+      "language": "Python"
+    },
+    {
+      "name": "sleep",
+      "repo": "https://github.com/dandavison/sleep",
+      "language": "Python"
+    },
+    {
+      "name": "seq2boxes",
+      "repo": "https://github.com/dandavison/seq2boxes",
+      "url": "https://dandavison.github.io/seq2boxes/",
+      "language": "Go"
+    },
+    {
+      "name": "neomorphus",
+      "repo": "https://github.com/dandavison/neomorphus",
+      "language": "Python"
+    },
+    {
+      "name": "misc-python",
+      "repo": "https://github.com/dandavison/misc-python",
+      "language": "Python"
+    },
+    {
+      "name": "hyperlinked",
+      "repo": "https://github.com/dandavison/hyperlinked",
+      "language": "Go"
+    },
+    {
+      "name": "audio-filter",
+      "repo": "https://github.com/dandavison/audio-filter",
+      "language": "Python"
+    },
+    {
+      "name": "ails",
+      "repo": "https://github.com/dandavison/ails",
+      "language": "TypeScript"
+    },
+    {
+      "name": "xenops",
+      "repo": "https://github.com/dandavison/xenops",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "temporalio-features-lite",
+      "repo": "https://github.com/dandavison/temporalio-features-lite",
+      "language": "Python"
+    },
+    {
+      "name": "statistics",
+      "repo": "https://github.com/dandavison/statistics",
+      "language": "Python"
+    },
+    {
+      "name": "rgi",
+      "repo": "https://github.com/dandavison/rgi",
+      "language": "Python"
+    },
+    {
+      "name": "ro",
+      "repo": "https://github.com/dandavison/ro",
+      "language": "Python"
+    },
+    {
+      "name": "reduct",
+      "repo": "https://github.com/dandavison/reduct",
+      "language": "Python"
+    },
+    {
+      "name": "fzfui",
+      "repo": "https://github.com/dandavison/fzfui",
+      "language": "Python"
+    },
+    {
+      "name": "misc",
+      "repo": "https://github.com/dandavison/misc",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "emacs-config",
+      "repo": "https://github.com/dandavison/emacs-config",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dandavison.github.io",
+      "repo": "https://github.com/dandavison/dandavison.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "mathematics",
+      "repo": "https://github.com/dandavison/mathematics",
+      "url": "https://github.com/dandavison/mathematics/raw/main/mathematics.pdf",
+      "language": "TeX"
+    },
+    {
+      "name": "optimistic-reload",
+      "repo": "https://github.com/dandavison/optimistic-reload",
+      "language": "Python"
+    },
+    {
+      "name": "wormhole-gui",
+      "repo": "https://github.com/dandavison/wormhole-gui",
+      "language": "Swift"
+    },
+    {
+      "name": "temporal",
+      "repo": "https://github.com/dandavison/temporal",
+      "language": "Makefile"
+    },
+    {
+      "name": "temporal-sdk-docs",
+      "repo": "https://github.com/dandavison/temporal-sdk-docs",
+      "url": "https://dandavison.github.io/temporal-sdk-docs/",
+      "language": "HTML"
+    },
+    {
+      "name": "nexus-a2a-python",
+      "repo": "https://github.com/dandavison/nexus-a2a-python",
+      "language": "Python"
+    },
+    {
+      "name": "pl",
+      "repo": "https://github.com/dandavison/pl",
+      "language": "Python"
+    },
+    {
+      "name": "diag-examples",
+      "repo": "https://github.com/dandavison/diag-examples",
+      "language": "JavaScript"
+    },
+    {
+      "name": "prompts",
+      "repo": "https://github.com/dandavison/prompts"
+    },
+    {
+      "name": "temporalio-server",
+      "repo": "https://github.com/dandavison/temporalio-server",
+      "language": "Python"
+    },
+    {
+      "name": "tringa-test",
+      "repo": "https://github.com/dandavison/tringa-test"
+    },
+    {
+      "name": "chronologer",
+      "repo": "https://github.com/dandavison/chronologer",
+      "language": "Python"
+    },
+    {
+      "name": "temporalio-misc",
+      "repo": "https://github.com/dandavison/temporalio-misc"
+    },
+    {
+      "name": "twitch",
+      "repo": "https://github.com/dandavison/twitch",
+      "language": "Python"
+    },
+    {
+      "name": "nushell-config",
+      "repo": "https://github.com/dandavison/nushell-config",
+      "language": "Nushell"
+    },
+    {
+      "name": "ok-compiler",
+      "repo": "https://github.com/dandavison/ok-compiler",
+      "language": "Rust"
+    },
+    {
+      "name": "open-in-editor",
+      "repo": "https://github.com/dandavison/open-in-editor",
+      "language": "Python"
+    },
+    {
+      "name": "misc-scala",
+      "repo": "https://github.com/dandavison/misc-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "prob-trees",
+      "repo": "https://github.com/dandavison/prob-trees",
+      "language": "Python"
+    },
+    {
+      "name": "warp",
+      "repo": "https://github.com/dandavison/warp"
+    },
+    {
+      "name": "autopilot",
+      "repo": "https://github.com/dandavison/autopilot",
+      "language": "Python"
+    },
+    {
+      "name": "facet",
+      "repo": "https://github.com/dandavison/facet",
+      "language": "Python"
+    },
+    {
+      "name": "gocd-get-test-failures",
+      "repo": "https://github.com/dandavison/gocd-get-test-failures",
+      "language": "Python"
+    },
+    {
+      "name": "elaenia",
+      "repo": "https://github.com/dandavison/elaenia",
+      "language": "Python"
+    },
+    {
+      "name": "react-force-graph-debugging",
+      "repo": "https://github.com/dandavison/react-force-graph-debugging",
+      "language": "TypeScript"
+    },
+    {
+      "name": "temporalio-hello-world-java",
+      "repo": "https://github.com/dandavison/temporalio-hello-world-java",
+      "language": "Java"
+    },
+    {
+      "name": "vte-ansi-tools",
+      "repo": "https://github.com/dandavison/vte-ansi-tools",
+      "language": "Rust"
+    },
+    {
+      "name": "dask-cloud-provider-problem",
+      "repo": "https://github.com/dandavison/dask-cloud-provider-problem",
+      "language": "Python"
+    },
+    {
+      "name": "_owldock",
+      "repo": "https://github.com/dandavison/_owldock",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dsrtn",
+      "repo": "https://github.com/dandavison/dsrtn"
+    },
+    {
+      "name": "sylph",
+      "repo": "https://github.com/dandavison/sylph",
+      "language": "Python"
+    },
+    {
+      "name": "vue-component-graph",
+      "repo": "https://github.com/dandavison/vue-component-graph",
+      "language": "TypeScript"
+    },
+    {
+      "name": "trogon",
+      "repo": "https://github.com/dandavison/trogon",
+      "url": "https://trogon.app",
+      "language": "Vue"
+    },
+    {
+      "name": "temporalio-money-transfer-project-java",
+      "repo": "https://github.com/dandavison/temporalio-money-transfer-project-java",
+      "language": "Java"
+    },
+    {
+      "name": "shellfish",
+      "repo": "https://github.com/dandavison/shellfish",
+      "language": "C"
+    },
+    {
+      "name": "_sylph",
+      "repo": "https://github.com/dandavison/_sylph",
+      "language": "Vue"
+    },
+    {
+      "name": "vue3-tutorial-tania-rascia",
+      "repo": "https://github.com/dandavison/vue3-tutorial-tania-rascia",
+      "language": "Vue"
+    },
+    {
+      "name": "iterm2-dwim",
+      "repo": "https://github.com/dandavison/iterm2-dwim",
+      "language": "Python"
+    },
+    {
+      "name": "compilers-course",
+      "repo": "https://github.com/dandavison/compilers-course",
+      "language": "Python"
+    },
+    {
+      "name": "emacs-lisp-sublime-syntax",
+      "repo": "https://github.com/dandavison/emacs-lisp-sublime-syntax"
+    },
+    {
+      "name": "pocket",
+      "repo": "https://github.com/dandavison/pocket",
+      "language": "HTML"
+    },
+    {
+      "name": "emacs-mac",
+      "repo": "https://github.com/dandavison/emacs-mac",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "iterminator",
+      "repo": "https://github.com/dandavison/iterminator",
+      "language": "Python"
+    },
+    {
+      "name": "xeno-quero",
+      "repo": "https://github.com/dandavison/xeno-quero",
+      "language": "Python"
+    },
+    {
+      "name": "pytorch_examples",
+      "repo": "https://github.com/dandavison/pytorch_examples",
+      "language": "Python"
+    },
+    {
+      "name": "sylvia",
+      "repo": "https://github.com/dandavison/sylvia",
+      "language": "Swift"
+    },
+    {
+      "name": "django-devkernel",
+      "repo": "https://github.com/dandavison/django-devkernel",
+      "language": "Python"
+    },
+    {
+      "name": "matplotlib-utils",
+      "repo": "https://github.com/dandavison/matplotlib-utils",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "turing",
+      "repo": "https://github.com/dandavison/turing",
+      "language": "Python"
+    },
+    {
+      "name": "ml",
+      "repo": "https://github.com/dandavison/ml",
+      "language": "Python"
+    },
+    {
+      "name": "haskell",
+      "repo": "https://github.com/dandavison/haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "myproject",
+      "repo": "https://github.com/dandavison/myproject",
+      "language": "Haskell"
+    },
+    {
+      "name": "aoc-awk",
+      "repo": "https://github.com/dandavison/aoc-awk",
+      "language": "Awk"
+    },
+    {
+      "name": "react-base",
+      "repo": "https://github.com/dandavison/react-base",
+      "language": "JavaScript"
+    },
+    {
+      "name": "paredit-c",
+      "repo": "https://github.com/dandavison/paredit-c",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bitbar-plugins",
+      "repo": "https://github.com/dandavison/bitbar-plugins",
+      "language": "Shell"
+    },
+    {
+      "name": "swimlane",
+      "repo": "https://github.com/dandavison/swimlane",
+      "language": "Python"
+    },
+    {
+      "name": "eplot",
+      "repo": "https://github.com/dandavison/eplot",
+      "language": "Ruby"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/dandavison/notes",
+      "url": "https://dandavison.github.io/notes/",
+      "language": "Makefile"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "handle": "wichtounet",
+  "name": "Baptiste Wicht",
+  "github": [
+    "https://github.com/wichtounet"
+  ],
+  "website": "https://baptiste-wicht.com/",
+  "bio": "Senior Software Engineer with a Ph.D. in machine learning and a fondness for C++, performance optimizations, compiler theory, and operating systems development.",
+  "own_repos": 126,
+  "commits": 26242,
+  "apps": [],
+  "repos": [
+    {
+      "name": "swr-calculator",
+      "repo": "https://github.com/wichtounet/swr-calculator",
+      "language": "C++"
+    },
+    {
+      "name": "wichtounet.github.io",
+      "repo": "https://github.com/wichtounet/wichtounet.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "articles",
+      "repo": "https://github.com/wichtounet/articles",
+      "language": "C++"
+    },
+    {
+      "name": "budgetwarrior",
+      "repo": "https://github.com/wichtounet/budgetwarrior",
+      "language": "C++"
+    },
+    {
+      "name": "budgetwarrior_web",
+      "repo": "https://github.com/wichtounet/budgetwarrior_web",
+      "language": "C++"
+    },
+    {
+      "name": "make-utils",
+      "repo": "https://github.com/wichtounet/make-utils",
+      "language": "Makefile"
+    },
+    {
+      "name": "cpp",
+      "repo": "https://github.com/wichtounet/cpp",
+      "url": "https://hub.docker.com/r/wichtounet/cpp",
+      "language": "Shell"
+    },
+    {
+      "name": "rust-etl",
+      "repo": "https://github.com/wichtounet/rust-etl",
+      "language": "Rust"
+    },
+    {
+      "name": "dll",
+      "repo": "https://github.com/wichtounet/dll",
+      "language": "C++"
+    },
+    {
+      "name": "etl",
+      "repo": "https://github.com/wichtounet/etl",
+      "language": "C++"
+    },
+    {
+      "name": "eddic",
+      "repo": "https://github.com/wichtounet/eddic",
+      "language": "C++"
+    },
+    {
+      "name": "rust-dll",
+      "repo": "https://github.com/wichtounet/rust-dll",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/wichtounet/dotfiles",
+      "language": "Lua"
+    },
+    {
+      "name": "rust-helloworld",
+      "repo": "https://github.com/wichtounet/rust-helloworld",
+      "language": "Rust"
+    },
+    {
+      "name": "thor-os",
+      "repo": "https://github.com/wichtounet/thor-os",
+      "language": "C++"
+    },
+    {
+      "name": "wichtounet-overlay",
+      "repo": "https://github.com/wichtounet/wichtounet-overlay",
+      "language": "Shell"
+    },
+    {
+      "name": "cpp_utils",
+      "repo": "https://github.com/wichtounet/cpp_utils",
+      "language": "C++"
+    },
+    {
+      "name": "etl-gpu-blas",
+      "repo": "https://github.com/wichtounet/etl-gpu-blas",
+      "language": "C++"
+    },
+    {
+      "name": "cpp_utils_test",
+      "repo": "https://github.com/wichtounet/cpp_utils_test",
+      "language": "C++"
+    },
+    {
+      "name": "cpm",
+      "repo": "https://github.com/wichtounet/cpm",
+      "language": "C++"
+    },
+    {
+      "name": "cifar-10",
+      "repo": "https://github.com/wichtounet/cifar-10",
+      "language": "C++"
+    },
+    {
+      "name": "frameworks",
+      "repo": "https://github.com/wichtounet/frameworks",
+      "language": "Lua"
+    },
+    {
+      "name": "mnist",
+      "repo": "https://github.com/wichtounet/mnist",
+      "language": "C++"
+    },
+    {
+      "name": "sudoku_dataset",
+      "repo": "https://github.com/wichtounet/sudoku_dataset",
+      "language": "C++"
+    },
+    {
+      "name": "docker-images",
+      "repo": "https://github.com/wichtounet/docker-images",
+      "language": "Shell"
+    },
+    {
+      "name": "portage-config",
+      "repo": "https://github.com/wichtounet/portage-config",
+      "language": "Mask"
+    },
+    {
+      "name": "sudoku_recognizer",
+      "repo": "https://github.com/wichtounet/sudoku_recognizer",
+      "language": "C++"
+    },
+    {
+      "name": "word_spotting",
+      "repo": "https://github.com/wichtounet/word_spotting",
+      "language": "C++"
+    },
+    {
+      "name": "dotfiles-zsh",
+      "repo": "https://github.com/wichtounet/dotfiles-zsh",
+      "language": "Shell"
+    },
+    {
+      "name": "dotfiles-x",
+      "repo": "https://github.com/wichtounet/dotfiles-x"
+    },
+    {
+      "name": "dotfiles-vim",
+      "repo": "https://github.com/wichtounet/dotfiles-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dotfiles-pentadactyl",
+      "repo": "https://github.com/wichtounet/dotfiles-pentadactyl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles-git",
+      "repo": "https://github.com/wichtounet/dotfiles-git"
+    },
+    {
+      "name": "dotfiles-conky",
+      "repo": "https://github.com/wichtounet/dotfiles-conky",
+      "language": "Lua"
+    },
+    {
+      "name": "thesis-perfs",
+      "repo": "https://github.com/wichtounet/thesis-perfs",
+      "language": "C++"
+    },
+    {
+      "name": "gooda-to-afdo-converter",
+      "repo": "https://github.com/wichtounet/gooda-to-afdo-converter",
+      "language": "C++"
+    },
+    {
+      "name": "jenkins_playground",
+      "repo": "https://github.com/wichtounet/jenkins_playground"
+    },
+    {
+      "name": "asgard-itt-1500-driver",
+      "repo": "https://github.com/wichtounet/asgard-itt-1500-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-server",
+      "repo": "https://github.com/wichtounet/asgard-server",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-system-driver",
+      "repo": "https://github.com/wichtounet/asgard-system-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-wol-driver",
+      "repo": "https://github.com/wichtounet/asgard-wol-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-random-driver",
+      "repo": "https://github.com/wichtounet/asgard-random-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-kodi-driver",
+      "repo": "https://github.com/wichtounet/asgard-kodi-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-dht11-driver",
+      "repo": "https://github.com/wichtounet/asgard-dht11-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-echo-driver",
+      "repo": "https://github.com/wichtounet/asgard-echo-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-ir-driver",
+      "repo": "https://github.com/wichtounet/asgard-ir-driver",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-lib",
+      "repo": "https://github.com/wichtounet/asgard-lib",
+      "language": "C++"
+    },
+    {
+      "name": "coverage_cleaner",
+      "repo": "https://github.com/wichtounet/coverage_cleaner",
+      "language": "C++"
+    },
+    {
+      "name": "dll-autoencoders",
+      "repo": "https://github.com/wichtounet/dll-autoencoders",
+      "language": "C++"
+    },
+    {
+      "name": "frakking-histograph",
+      "repo": "https://github.com/wichtounet/frakking-histograph",
+      "language": "C++"
+    },
+    {
+      "name": "nice_svm",
+      "repo": "https://github.com/wichtounet/nice_svm",
+      "language": "C++"
+    },
+    {
+      "name": "domoticz-dht11",
+      "repo": "https://github.com/wichtounet/domoticz-dht11",
+      "language": "C++"
+    },
+    {
+      "name": "domoticz-system",
+      "repo": "https://github.com/wichtounet/domoticz-system",
+      "language": "C++"
+    },
+    {
+      "name": "systemd-unit-files",
+      "repo": "https://github.com/wichtounet/systemd-unit-files"
+    },
+    {
+      "name": "etl_vs_blaze",
+      "repo": "https://github.com/wichtounet/etl_vs_blaze",
+      "language": "C++"
+    },
+    {
+      "name": "asgard-rf-driver",
+      "repo": "https://github.com/wichtounet/asgard-rf-driver",
+      "language": "C++"
+    },
+    {
+      "name": "caltech-101-dll",
+      "repo": "https://github.com/wichtounet/caltech-101-dll",
+      "language": "C++"
+    },
+    {
+      "name": "aggregator-plugin",
+      "repo": "https://github.com/wichtounet/aggregator-plugin",
+      "language": "HTML"
+    },
+    {
+      "name": "spirit_x3_tests",
+      "repo": "https://github.com/wichtounet/spirit_x3_tests",
+      "language": "C++"
+    },
+    {
+      "name": "docker-dll",
+      "repo": "https://github.com/wichtounet/docker-dll"
+    },
+    {
+      "name": "dbn_experiments",
+      "repo": "https://github.com/wichtounet/dbn_experiments",
+      "language": "C++"
+    },
+    {
+      "name": "hmm-mlplack-test",
+      "repo": "https://github.com/wichtounet/hmm-mlplack-test",
+      "language": "C++"
+    },
+    {
+      "name": "acquisition-lazy",
+      "repo": "https://github.com/wichtounet/acquisition-lazy",
+      "language": "C++"
+    },
+    {
+      "name": "test-cppsqlite3",
+      "repo": "https://github.com/wichtounet/test-cppsqlite3",
+      "language": "C++"
+    },
+    {
+      "name": "mongoose-test",
+      "repo": "https://github.com/wichtounet/mongoose-test",
+      "language": "C++"
+    },
+    {
+      "name": "inlining-analyzer",
+      "repo": "https://github.com/wichtounet/inlining-analyzer",
+      "language": "C++"
+    },
+    {
+      "name": "coverage_merger",
+      "repo": "https://github.com/wichtounet/coverage_merger",
+      "language": "C++"
+    },
+    {
+      "name": "pkg-config",
+      "repo": "https://github.com/wichtounet/pkg-config"
+    },
+    {
+      "name": "dotfiles-ranger",
+      "repo": "https://github.com/wichtounet/dotfiles-ranger",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles-gnt",
+      "repo": "https://github.com/wichtounet/dotfiles-gnt"
+    },
+    {
+      "name": "ana_template",
+      "repo": "https://github.com/wichtounet/ana_template",
+      "language": "C++"
+    },
+    {
+      "name": "btrees",
+      "repo": "https://github.com/wichtounet/btrees",
+      "language": "C++"
+    },
+    {
+      "name": "rc-switch-rpi",
+      "repo": "https://github.com/wichtounet/rc-switch-rpi",
+      "language": "C++"
+    },
+    {
+      "name": "dll_template",
+      "repo": "https://github.com/wichtounet/dll_template",
+      "language": "C++"
+    },
+    {
+      "name": "dotfiles-awesome",
+      "repo": "https://github.com/wichtounet/dotfiles-awesome",
+      "language": "Lua"
+    },
+    {
+      "name": "dotfiles-fonts",
+      "repo": "https://github.com/wichtounet/dotfiles-fonts"
+    },
+    {
+      "name": "dotfiles-budgetwarrior",
+      "repo": "https://github.com/wichtounet/dotfiles-budgetwarrior"
+    },
+    {
+      "name": "dotfiles-tmux",
+      "repo": "https://github.com/wichtounet/dotfiles-tmux"
+    },
+    {
+      "name": "metal-memory",
+      "repo": "https://github.com/wichtounet/metal-memory"
+    },
+    {
+      "name": "dll_toy_mnist_rbm",
+      "repo": "https://github.com/wichtounet/dll_toy_mnist_rbm",
+      "language": "C++"
+    },
+    {
+      "name": "CMakeLatex",
+      "repo": "https://github.com/wichtounet/CMakeLatex",
+      "language": "Awk"
+    },
+    {
+      "name": "ninja-daylight-x",
+      "repo": "https://github.com/wichtounet/ninja-daylight-x",
+      "language": "JavaScript"
+    },
+    {
+      "name": "icdar",
+      "repo": "https://github.com/wichtounet/icdar",
+      "language": "C++"
+    },
+    {
+      "name": "svm_mnist",
+      "repo": "https://github.com/wichtounet/svm_mnist",
+      "language": "C++"
+    },
+    {
+      "name": "ninja-random-binary",
+      "repo": "https://github.com/wichtounet/ninja-random-binary",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ninja-random-value",
+      "repo": "https://github.com/wichtounet/ninja-random-value",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pm",
+      "repo": "https://github.com/wichtounet/pm",
+      "language": "Python"
+    },
+    {
+      "name": "analysis-examples",
+      "repo": "https://github.com/wichtounet/analysis-examples",
+      "language": "C++"
+    },
+    {
+      "name": "zabbix-lld",
+      "repo": "https://github.com/wichtounet/zabbix-lld",
+      "language": "Shell"
+    },
+    {
+      "name": "neuralnet",
+      "repo": "https://github.com/wichtounet/neuralnet",
+      "language": "Java"
+    },
+    {
+      "name": "triangle-peg-solitaire",
+      "repo": "https://github.com/wichtounet/triangle-peg-solitaire",
+      "language": "C++"
+    },
+    {
+      "name": "TaskManager",
+      "repo": "https://github.com/wichtounet/TaskManager",
+      "language": "C++"
+    },
+    {
+      "name": "gcc-loop-fusion",
+      "repo": "https://github.com/wichtounet/gcc-loop-fusion",
+      "language": "C++"
+    },
+    {
+      "name": "google-visualization-wordpress",
+      "repo": "https://github.com/wichtounet/google-visualization-wordpress",
+      "language": "PHP"
+    },
+    {
+      "name": "taskwarrior-php",
+      "repo": "https://github.com/wichtounet/taskwarrior-php",
+      "language": "PHP"
+    },
+    {
+      "name": "HazardManager",
+      "repo": "https://github.com/wichtounet/HazardManager",
+      "language": "C++"
+    },
+    {
+      "name": "tetris-ai",
+      "repo": "https://github.com/wichtounet/tetris-ai",
+      "language": "Java"
+    },
+    {
+      "name": "shell-tools",
+      "repo": "https://github.com/wichtounet/shell-tools"
+    },
+    {
+      "name": "latex-makefile",
+      "repo": "https://github.com/wichtounet/latex-makefile"
+    },
+    {
+      "name": "VaadinBoard",
+      "repo": "https://github.com/wichtounet/VaadinBoard",
+      "language": "Java"
+    }
+  ]
+}

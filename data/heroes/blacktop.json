@@ -1,0 +1,504 @@
+{
+  "handle": "blacktop",
+  "name": "blacktop",
+  "github": [
+    "https://github.com/blacktop"
+  ],
+  "own_repos": 122,
+  "commits": 11989,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ipsw",
+      "repo": "https://github.com/blacktop/ipsw",
+      "url": "https://blacktop.github.io/ipsw",
+      "language": "Go"
+    },
+    {
+      "name": "go-macho",
+      "repo": "https://github.com/blacktop/go-macho",
+      "language": "Go"
+    },
+    {
+      "name": "ipsw-diffs",
+      "repo": "https://github.com/blacktop/ipsw-diffs",
+      "language": "Python"
+    },
+    {
+      "name": "go-download",
+      "repo": "https://github.com/blacktop/go-download",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-tts",
+      "repo": "https://github.com/blacktop/mcp-tts",
+      "language": "Go"
+    },
+    {
+      "name": "Usage",
+      "repo": "https://github.com/blacktop/Usage",
+      "language": "Swift"
+    },
+    {
+      "name": "darwin-xnu-build",
+      "repo": "https://github.com/blacktop/darwin-xnu-build",
+      "language": "Shell"
+    },
+    {
+      "name": "spot-defy",
+      "repo": "https://github.com/blacktop/spot-defy",
+      "language": "Rust"
+    },
+    {
+      "name": "twit",
+      "repo": "https://github.com/blacktop/twit",
+      "language": "Rust"
+    },
+    {
+      "name": "darwin-dyld-build",
+      "repo": "https://github.com/blacktop/darwin-dyld-build",
+      "language": "Shell"
+    },
+    {
+      "name": "ida-mcp-rs",
+      "repo": "https://github.com/blacktop/ida-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/blacktop/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/blacktop/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "ports",
+      "repo": "https://github.com/blacktop/ports",
+      "language": "Tcl"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/blacktop/scoop-bucket"
+    },
+    {
+      "name": "Voice",
+      "repo": "https://github.com/blacktop/Voice",
+      "language": "Swift"
+    },
+    {
+      "name": "nur",
+      "repo": "https://github.com/blacktop/nur",
+      "language": "Nix"
+    },
+    {
+      "name": "ghidra-app",
+      "repo": "https://github.com/blacktop/ghidra-app",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-ghidra",
+      "repo": "https://github.com/blacktop/docker-ghidra",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "fm-rs",
+      "repo": "https://github.com/blacktop/fm-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "symbolicator",
+      "repo": "https://github.com/blacktop/symbolicator",
+      "language": "Python"
+    },
+    {
+      "name": "cves",
+      "repo": "https://github.com/blacktop/cves"
+    },
+    {
+      "name": "go-apfs",
+      "repo": "https://github.com/blacktop/go-apfs",
+      "language": "Go"
+    },
+    {
+      "name": "go-template",
+      "repo": "https://github.com/blacktop/go-template",
+      "language": "Go"
+    },
+    {
+      "name": "slack-tooy",
+      "repo": "https://github.com/blacktop/slack-tooy",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-containers",
+      "repo": "https://github.com/blacktop/agent-containers",
+      "language": "Shell"
+    },
+    {
+      "name": "go-termimg",
+      "repo": "https://github.com/blacktop/go-termimg",
+      "language": "Go"
+    },
+    {
+      "name": "clim8",
+      "repo": "https://github.com/blacktop/clim8",
+      "language": "Go"
+    },
+    {
+      "name": "ipsw-skill",
+      "repo": "https://github.com/blacktop/ipsw-skill"
+    },
+    {
+      "name": "flow",
+      "repo": "https://github.com/blacktop/flow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "disctui",
+      "repo": "https://github.com/blacktop/disctui",
+      "language": "Rust"
+    },
+    {
+      "name": "alf",
+      "repo": "https://github.com/blacktop/alf",
+      "language": "Python"
+    },
+    {
+      "name": "lifx",
+      "repo": "https://github.com/blacktop/lifx",
+      "language": "Go"
+    },
+    {
+      "name": "arm64-cgo",
+      "repo": "https://github.com/blacktop/arm64-cgo",
+      "language": "C"
+    },
+    {
+      "name": "bottle-bomb",
+      "repo": "https://github.com/blacktop/bottle-bomb",
+      "language": "Go"
+    },
+    {
+      "name": "go-foundationmodels",
+      "repo": "https://github.com/blacktop/go-foundationmodels",
+      "language": "Go"
+    },
+    {
+      "name": "what-dis",
+      "repo": "https://github.com/blacktop/what-dis",
+      "language": "Go"
+    },
+    {
+      "name": "xpost",
+      "repo": "https://github.com/blacktop/xpost",
+      "language": "Go"
+    },
+    {
+      "name": "jules-cli",
+      "repo": "https://github.com/blacktop/jules-cli",
+      "language": "Go"
+    },
+    {
+      "name": "blacktop",
+      "repo": "https://github.com/blacktop/blacktop"
+    },
+    {
+      "name": "docker-ida",
+      "repo": "https://github.com/blacktop/docker-ida"
+    },
+    {
+      "name": "go-hypervisor",
+      "repo": "https://github.com/blacktop/go-hypervisor",
+      "language": "Go"
+    },
+    {
+      "name": "sbir-search",
+      "repo": "https://github.com/blacktop/sbir-search",
+      "language": "Python"
+    },
+    {
+      "name": "lzfse-cgo",
+      "repo": "https://github.com/blacktop/lzfse-cgo",
+      "language": "C"
+    },
+    {
+      "name": "go-bindiff",
+      "repo": "https://github.com/blacktop/go-bindiff",
+      "language": "Go"
+    },
+    {
+      "name": "darwin-webkit-build",
+      "repo": "https://github.com/blacktop/darwin-webkit-build",
+      "language": "Shell"
+    },
+    {
+      "name": "ccpaths",
+      "repo": "https://github.com/blacktop/ccpaths",
+      "language": "Go"
+    },
+    {
+      "name": "fluxy",
+      "repo": "https://github.com/blacktop/fluxy",
+      "language": "Go"
+    },
+    {
+      "name": "siri",
+      "repo": "https://github.com/blacktop/siri"
+    },
+    {
+      "name": "go-gitfamous",
+      "repo": "https://github.com/blacktop/go-gitfamous",
+      "language": "Go"
+    },
+    {
+      "name": "pdf",
+      "repo": "https://github.com/blacktop/pdf",
+      "language": "Swift"
+    },
+    {
+      "name": "create-gpui-docview",
+      "repo": "https://github.com/blacktop/create-gpui-docview",
+      "language": "Rust"
+    },
+    {
+      "name": "zed-objc",
+      "repo": "https://github.com/blacktop/zed-objc",
+      "language": "Tree-sitter Query"
+    },
+    {
+      "name": "lzss",
+      "repo": "https://github.com/blacktop/lzss",
+      "language": "C"
+    },
+    {
+      "name": "aarch64-cssc",
+      "repo": "https://github.com/blacktop/aarch64-cssc",
+      "language": "Python"
+    },
+    {
+      "name": "zed-codeql",
+      "repo": "https://github.com/blacktop/zed-codeql",
+      "language": "Rust"
+    },
+    {
+      "name": "lporg",
+      "repo": "https://github.com/blacktop/lporg",
+      "language": "Go"
+    },
+    {
+      "name": "devault",
+      "repo": "https://github.com/blacktop/devault"
+    },
+    {
+      "name": "dyld-src-fixes",
+      "repo": "https://github.com/blacktop/dyld-src-fixes",
+      "language": "C++"
+    },
+    {
+      "name": "MedGemma",
+      "repo": "https://github.com/blacktop/MedGemma",
+      "language": "Python"
+    },
+    {
+      "name": "disass-gpui",
+      "repo": "https://github.com/blacktop/disass-gpui",
+      "language": "Rust"
+    },
+    {
+      "name": "go-dwarf",
+      "repo": "https://github.com/blacktop/go-dwarf",
+      "language": "Go"
+    },
+    {
+      "name": "bindiff-rs",
+      "repo": "https://github.com/blacktop/bindiff-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "go-idalib",
+      "repo": "https://github.com/blacktop/go-idalib",
+      "language": "C++"
+    },
+    {
+      "name": "disassegen",
+      "repo": "https://github.com/blacktop/disassegen",
+      "language": "Python"
+    },
+    {
+      "name": "yardens-sb-profs",
+      "repo": "https://github.com/blacktop/yardens-sb-profs"
+    },
+    {
+      "name": "swift-demangle-cgo",
+      "repo": "https://github.com/blacktop/swift-demangle-cgo",
+      "language": "C++"
+    },
+    {
+      "name": "docker-elasticsearch-alpine",
+      "repo": "https://github.com/blacktop/docker-elasticsearch-alpine",
+      "language": "Shell"
+    },
+    {
+      "name": "clt",
+      "repo": "https://github.com/blacktop/clt"
+    },
+    {
+      "name": "app-icon",
+      "repo": "https://github.com/blacktop/app-icon",
+      "language": "Go"
+    },
+    {
+      "name": "ipsw-py",
+      "repo": "https://github.com/blacktop/ipsw-py",
+      "language": "Python"
+    },
+    {
+      "name": "frida-scripts",
+      "repo": "https://github.com/blacktop/frida-scripts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "presentations",
+      "repo": "https://github.com/blacktop/presentations",
+      "url": "https://blacktop.github.io/presentations/",
+      "language": "HTML"
+    },
+    {
+      "name": "scifgif",
+      "repo": "https://github.com/blacktop/scifgif",
+      "language": "Go"
+    },
+    {
+      "name": "graboid",
+      "repo": "https://github.com/blacktop/graboid",
+      "language": "Go"
+    },
+    {
+      "name": "vscode-terminal-highlighter",
+      "repo": "https://github.com/blacktop/vscode-terminal-highlighter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lzfse.js",
+      "repo": "https://github.com/blacktop/lzfse.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-kafka-alpine",
+      "repo": "https://github.com/blacktop/docker-kafka-alpine",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-zeek",
+      "repo": "https://github.com/blacktop/docker-zeek",
+      "language": "Zeek"
+    },
+    {
+      "name": "docker-volatility",
+      "repo": "https://github.com/blacktop/docker-volatility",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-yara",
+      "repo": "https://github.com/blacktop/docker-yara",
+      "language": "YARA"
+    },
+    {
+      "name": "docker-elastic-stack",
+      "repo": "https://github.com/blacktop/docker-elastic-stack",
+      "language": "Shell"
+    },
+    {
+      "name": "dreadnought",
+      "repo": "https://github.com/blacktop/dreadnought",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-kibana-alpine",
+      "repo": "https://github.com/blacktop/docker-kibana-alpine",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "vscode-calc",
+      "repo": "https://github.com/blacktop/vscode-calc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "seccomp-gen",
+      "repo": "https://github.com/blacktop/seccomp-gen",
+      "language": "Go"
+    },
+    {
+      "name": "pixz-cgo",
+      "repo": "https://github.com/blacktop/pixz-cgo",
+      "language": "C"
+    },
+    {
+      "name": "go-lzfse",
+      "repo": "https://github.com/blacktop/go-lzfse",
+      "language": "C"
+    },
+    {
+      "name": "language-yara",
+      "repo": "https://github.com/blacktop/language-yara"
+    },
+    {
+      "name": "x86-cgo",
+      "repo": "https://github.com/blacktop/x86-cgo",
+      "language": "C"
+    },
+    {
+      "name": "shiv-example",
+      "repo": "https://github.com/blacktop/shiv-example",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-arm64",
+      "repo": "https://github.com/blacktop/go-arm64",
+      "language": "Go"
+    },
+    {
+      "name": "docker-logstash-alpine",
+      "repo": "https://github.com/blacktop/docker-logstash-alpine",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "partialzip",
+      "repo": "https://github.com/blacktop/partialzip",
+      "language": "Go"
+    },
+    {
+      "name": "go-llvm-mc",
+      "repo": "https://github.com/blacktop/go-llvm-mc",
+      "language": "Go"
+    },
+    {
+      "name": "docker-filebeat",
+      "repo": "https://github.com/blacktop/docker-filebeat",
+      "language": "Shell"
+    },
+    {
+      "name": "disasster",
+      "repo": "https://github.com/blacktop/disasster",
+      "language": "Go"
+    },
+    {
+      "name": "ios-pocs",
+      "repo": "https://github.com/blacktop/ios-pocs",
+      "language": "C"
+    },
+    {
+      "name": "docker-cuckoo",
+      "repo": "https://github.com/blacktop/docker-cuckoo",
+      "language": "Shell"
+    },
+    {
+      "name": "go-coresymbolication",
+      "repo": "https://github.com/blacktop/go-coresymbolication",
+      "language": "C"
+    }
+  ]
+}

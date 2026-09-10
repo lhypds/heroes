@@ -1,0 +1,579 @@
+{
+  "handle": "tfausak",
+  "name": "Taylor Fausak",
+  "github": [
+    "https://github.com/tfausak"
+  ],
+  "website": "https://taylor.fausak.me/",
+  "own_repos": 148,
+  "commits": 13074,
+  "apps": [],
+  "repos": [
+    {
+      "name": "pawl",
+      "repo": "https://github.com/tfausak/pawl",
+      "language": "Haskell"
+    },
+    {
+      "name": "linear-nix",
+      "repo": "https://github.com/tfausak/linear-nix",
+      "url": "https://github.com/schpet/linear-cli",
+      "language": "Nix"
+    },
+    {
+      "name": "code-nix",
+      "repo": "https://github.com/tfausak/code-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "purple-yolk",
+      "repo": "https://github.com/tfausak/purple-yolk",
+      "url": "https://marketplace.visualstudio.com/items?itemName=taylorfausak.purple-yolk",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cabal-gild-setup-action",
+      "repo": "https://github.com/tfausak/cabal-gild-setup-action",
+      "url": "https://github.com/marketplace/actions/setup-gild",
+      "language": "JavaScript"
+    },
+    {
+      "name": "patrol",
+      "repo": "https://github.com/tfausak/patrol",
+      "url": "https://hackage.haskell.org/package/patrol",
+      "language": "Haskell"
+    },
+    {
+      "name": "cabal-gild-nix",
+      "repo": "https://github.com/tfausak/cabal-gild-nix",
+      "url": "https://github.com/tfausak/cabal-gild",
+      "language": "Nix"
+    },
+    {
+      "name": "cabal-gild",
+      "repo": "https://github.com/tfausak/cabal-gild",
+      "url": "https://hackage.haskell.org/package/cabal-gild",
+      "language": "Haskell"
+    },
+    {
+      "name": "hooky-nix",
+      "repo": "https://github.com/tfausak/hooky-nix",
+      "url": "https://github.com/brandonchinn178/hooky",
+      "language": "Nix"
+    },
+    {
+      "name": "saturn",
+      "repo": "https://github.com/tfausak/saturn",
+      "url": "https://hackage.haskell.org/package/saturn",
+      "language": "Haskell"
+    },
+    {
+      "name": "haddock-dingus",
+      "repo": "https://github.com/tfausak/haddock-dingus",
+      "url": "https://haddock-dingus.fly.dev",
+      "language": "Haskell"
+    },
+    {
+      "name": "scrod",
+      "repo": "https://github.com/tfausak/scrod",
+      "url": "https://scrod.fyi/",
+      "language": "Haskell"
+    },
+    {
+      "name": "rampart",
+      "repo": "https://github.com/tfausak/rampart",
+      "url": "https://hackage.haskell.org/package/rampart",
+      "language": "Haskell"
+    },
+    {
+      "name": "github-release",
+      "repo": "https://github.com/tfausak/github-release",
+      "url": "https://hackage.haskell.org/package/github-release",
+      "language": "Haskell"
+    },
+    {
+      "name": "autoexporter",
+      "repo": "https://github.com/tfausak/autoexporter",
+      "url": "https://hackage.haskell.org/package/autoexporter",
+      "language": "Haskell"
+    },
+    {
+      "name": "literally",
+      "repo": "https://github.com/tfausak/literally",
+      "url": "https://hackage.haskell.org/package/literally",
+      "language": "Haskell"
+    },
+    {
+      "name": "strive",
+      "repo": "https://github.com/tfausak/strive",
+      "url": "https://hackage.haskell.org/package/strive",
+      "language": "Haskell"
+    },
+    {
+      "name": "wuss",
+      "repo": "https://github.com/tfausak/wuss",
+      "url": "https://hackage.haskell.org/package/wuss",
+      "language": "Haskell"
+    },
+    {
+      "name": "witch",
+      "repo": "https://github.com/tfausak/witch",
+      "url": "https://hackage.haskell.org/package/witch",
+      "language": "Haskell"
+    },
+    {
+      "name": "heptapod",
+      "repo": "https://github.com/tfausak/heptapod",
+      "url": "https://hackage.haskell.org/package/heptapod",
+      "language": "Haskell"
+    },
+    {
+      "name": "heck",
+      "repo": "https://github.com/tfausak/heck",
+      "url": "https://hackage.haskell.org/package/heck",
+      "language": "Haskell"
+    },
+    {
+      "name": "imp",
+      "repo": "https://github.com/tfausak/imp",
+      "url": "https://hackage.haskell.org/package/imp",
+      "language": "Haskell"
+    },
+    {
+      "name": "lackey",
+      "repo": "https://github.com/tfausak/lackey",
+      "url": "https://hackage.haskell.org/package/lackey",
+      "language": "Haskell"
+    },
+    {
+      "name": "burrito",
+      "repo": "https://github.com/tfausak/burrito",
+      "url": "https://hackage.haskell.org/package/burrito",
+      "language": "Haskell"
+    },
+    {
+      "name": "salve",
+      "repo": "https://github.com/tfausak/salve",
+      "url": "https://hackage.haskell.org/package/salve",
+      "language": "Haskell"
+    },
+    {
+      "name": "flow",
+      "repo": "https://github.com/tfausak/flow",
+      "url": "https://hackage.haskell.org/package/flow",
+      "language": "Haskell"
+    },
+    {
+      "name": "ratel",
+      "repo": "https://github.com/tfausak/ratel",
+      "url": "https://hackage.haskell.org/package/ratel",
+      "language": "Haskell"
+    },
+    {
+      "name": "json-feed",
+      "repo": "https://github.com/tfausak/json-feed",
+      "url": "https://hackage.haskell.org/package/json-feed",
+      "language": "Haskell"
+    },
+    {
+      "name": "ratel-wai",
+      "repo": "https://github.com/tfausak/ratel-wai",
+      "url": "https://hackage.haskell.org/package/ratel-wai",
+      "language": "Haskell"
+    },
+    {
+      "name": "quartz",
+      "repo": "https://github.com/tfausak/quartz",
+      "url": "https://package.elm-lang.org/packages/tfausak/quartz/latest/",
+      "language": "Elm"
+    },
+    {
+      "name": "haskell-packages",
+      "repo": "https://github.com/tfausak/haskell-packages",
+      "url": "https://hackage.haskell.org/user/fozworth"
+    },
+    {
+      "name": "ormolu-setup-action",
+      "repo": "https://github.com/tfausak/ormolu-setup-action",
+      "url": "https://github.com/marketplace/actions/setup-ormolu",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Pylo",
+      "repo": "https://github.com/tfausak/Pylo",
+      "url": "https://apps.apple.com/us/app/pylo-homekit-camera/id6759997187",
+      "language": "Swift"
+    },
+    {
+      "name": "tfausak.github.io",
+      "repo": "https://github.com/tfausak/tfausak.github.io",
+      "url": "https://taylor.fausak.me",
+      "language": "HTML"
+    },
+    {
+      "name": "notion-nix",
+      "repo": "https://github.com/tfausak/notion-nix",
+      "url": "https://github.com/nitaiaharoni1/notion-cli",
+      "language": "Nix"
+    },
+    {
+      "name": "scrod-2",
+      "repo": "https://github.com/tfausak/scrod-2",
+      "language": "Haskell"
+    },
+    {
+      "name": "monadoc",
+      "repo": "https://github.com/tfausak/monadoc",
+      "url": "https://monadoc.com",
+      "language": "Haskell"
+    },
+    {
+      "name": "scrod-1",
+      "repo": "https://github.com/tfausak/scrod-1",
+      "url": "https://scrod.fly.dev",
+      "language": "Haskell"
+    },
+    {
+      "name": "daylatro",
+      "repo": "https://github.com/tfausak/daylatro",
+      "url": "https://daylatro.fly.dev",
+      "language": "Haskell"
+    },
+    {
+      "name": "unison-devcontainer",
+      "repo": "https://github.com/tfausak/unison-devcontainer",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rattletrap",
+      "repo": "https://github.com/tfausak/rattletrap",
+      "url": "https://hackage.haskell.org/package/rattletrap",
+      "language": "Haskell"
+    },
+    {
+      "name": "docker-haskell",
+      "repo": "https://github.com/tfausak/docker-haskell",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "splint",
+      "repo": "https://github.com/tfausak/splint",
+      "url": "https://hackage.haskell.org/package/splint",
+      "language": "Haskell"
+    },
+    {
+      "name": "jawa",
+      "repo": "https://github.com/tfausak/jawa",
+      "url": "https://package.elm-lang.org/packages/tfausak/jawa/latest",
+      "language": "Elm"
+    },
+    {
+      "name": "advent-of-code-2023",
+      "repo": "https://github.com/tfausak/advent-of-code-2023",
+      "language": "Haskell"
+    },
+    {
+      "name": "xml-conduit-writer",
+      "repo": "https://github.com/tfausak/xml-conduit-writer",
+      "language": "Haskell"
+    },
+    {
+      "name": "hacana",
+      "repo": "https://github.com/tfausak/hacana",
+      "language": "Haskell"
+    },
+    {
+      "name": "lazuli",
+      "repo": "https://github.com/tfausak/lazuli",
+      "url": "https://tfausak-lazuli.fly.dev/",
+      "language": "Haskell"
+    },
+    {
+      "name": "evoke",
+      "repo": "https://github.com/tfausak/evoke",
+      "url": "https://hackage.haskell.org/package/evoke",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2022",
+      "repo": "https://github.com/tfausak/advent-of-code-2022",
+      "language": "F#"
+    },
+    {
+      "name": "advent-of-code-2019",
+      "repo": "https://github.com/tfausak/advent-of-code-2019",
+      "url": "https://adventofcode.com/2019",
+      "language": "Haskell"
+    },
+    {
+      "name": "brittany-action",
+      "repo": "https://github.com/tfausak/brittany-action",
+      "url": "https://github.com/marketplace/actions/brittany-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "obsidian-publish-action",
+      "repo": "https://github.com/tfausak/obsidian-publish-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "haskell-knowledge-base",
+      "repo": "https://github.com/tfausak/haskell-knowledge-base",
+      "url": "https://publish.obsidian.md/haskell",
+      "language": "Markdown"
+    },
+    {
+      "name": "argo",
+      "repo": "https://github.com/tfausak/argo",
+      "url": "https://hackage.haskell.org/package/argo",
+      "language": "Haskell"
+    },
+    {
+      "name": "hlint-action",
+      "repo": "https://github.com/tfausak/hlint-action",
+      "url": "https://github.com/marketplace/actions/hlint-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "derulo",
+      "repo": "https://github.com/tfausak/derulo",
+      "url": "https://hackage.haskell.org/package/derulo",
+      "language": "Haskell"
+    },
+    {
+      "name": "list-singleton",
+      "repo": "https://github.com/tfausak/list-singleton",
+      "url": "https://hackage.haskell.org/package/list-singleton",
+      "language": "Haskell"
+    },
+    {
+      "name": "disable-warnings",
+      "repo": "https://github.com/tfausak/disable-warnings",
+      "language": "Haskell"
+    },
+    {
+      "name": "multi-line-string",
+      "repo": "https://github.com/tfausak/multi-line-string",
+      "language": "Haskell"
+    },
+    {
+      "name": "velma",
+      "repo": "https://github.com/tfausak/velma",
+      "url": "https://hackage.haskell.org/package/velma",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-codespace",
+      "repo": "https://github.com/tfausak/haskell-codespace",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "zippy",
+      "repo": "https://github.com/tfausak/zippy",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code-2021",
+      "repo": "https://github.com/tfausak/advent-of-code-2021",
+      "url": "https://adventofcode.com",
+      "language": "F#"
+    },
+    {
+      "name": "monadoc-7",
+      "repo": "https://github.com/tfausak/monadoc-7",
+      "language": "Haskell"
+    },
+    {
+      "name": "2021-haskell-survey",
+      "repo": "https://github.com/tfausak/2021-haskell-survey",
+      "url": "https://taylor.fausak.me/2021-haskell-survey/",
+      "language": "Elm"
+    },
+    {
+      "name": "monadoc-6",
+      "repo": "https://github.com/tfausak/monadoc-6",
+      "language": "Haskell"
+    },
+    {
+      "name": "deca",
+      "repo": "https://github.com/tfausak/deca",
+      "language": "Haskell"
+    },
+    {
+      "name": "bartleby",
+      "repo": "https://github.com/tfausak/bartleby",
+      "url": "https://taylor.fausak.me/bartleby/",
+      "language": "Elm"
+    },
+    {
+      "name": "docker-i386-haskell",
+      "repo": "https://github.com/tfausak/docker-i386-haskell",
+      "url": "https://hub.docker.com/r/taylorfausak/i386-haskell",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "advent-of-code-2020",
+      "repo": "https://github.com/tfausak/advent-of-code-2020",
+      "url": "https://adventofcode.com",
+      "language": "Elm"
+    },
+    {
+      "name": "cod-archive",
+      "repo": "https://github.com/tfausak/cod-archive",
+      "language": "Haskell"
+    },
+    {
+      "name": "ichor",
+      "repo": "https://github.com/tfausak/ichor",
+      "language": "Haskell"
+    },
+    {
+      "name": "aftershock",
+      "repo": "https://github.com/tfausak/aftershock",
+      "language": "Rust"
+    },
+    {
+      "name": "monadoc-5",
+      "repo": "https://github.com/tfausak/monadoc-5",
+      "url": "https://www.monadoc.com",
+      "language": "Haskell"
+    },
+    {
+      "name": "monadoc-4",
+      "repo": "https://github.com/tfausak/monadoc-4",
+      "url": "https://www.monadoc.com",
+      "language": "Haskell"
+    },
+    {
+      "name": "docker-stack",
+      "repo": "https://github.com/tfausak/docker-stack",
+      "url": "https://hub.docker.com/r/taylorfausak/stack",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "monadoc-3",
+      "repo": "https://github.com/tfausak/monadoc-3",
+      "language": "Haskell"
+    },
+    {
+      "name": "yolk",
+      "repo": "https://github.com/tfausak/yolk",
+      "url": "https://github.com/tfausak/purple-yolk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "monadoc-2",
+      "repo": "https://github.com/tfausak/monadoc-2",
+      "url": "https://taylorfausak.semaphoreci.com/projects/monadoc",
+      "language": "Haskell"
+    },
+    {
+      "name": "types-design-yahtzee",
+      "repo": "https://github.com/tfausak/types-design-yahtzee",
+      "language": "Haskell"
+    },
+    {
+      "name": "hslogger",
+      "repo": "https://github.com/tfausak/hslogger",
+      "url": "https://github.com/haskell-hvr/hslogger/pull/54",
+      "language": "Haskell"
+    },
+    {
+      "name": "advent-of-code",
+      "repo": "https://github.com/tfausak/advent-of-code",
+      "url": "https://adventofcode.com",
+      "language": "Haskell"
+    },
+    {
+      "name": "aural",
+      "repo": "https://github.com/tfausak/aural",
+      "url": "https://taylor.fausak.me/aural/",
+      "language": "Haskell"
+    },
+    {
+      "name": "ripper",
+      "repo": "https://github.com/tfausak/ripper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gizmo-gg",
+      "repo": "https://github.com/tfausak/gizmo-gg",
+      "language": "Haskell"
+    },
+    {
+      "name": "semabadge",
+      "repo": "https://github.com/tfausak/semabadge",
+      "language": "Haskell"
+    },
+    {
+      "name": "candle",
+      "repo": "https://github.com/tfausak/candle",
+      "language": "Elm"
+    },
+    {
+      "name": "grawlix",
+      "repo": "https://github.com/tfausak/grawlix",
+      "url": "https://grawlix.herokuapp.com",
+      "language": "Haskell"
+    },
+    {
+      "name": "taylor-and-hillary",
+      "repo": "https://github.com/tfausak/taylor-and-hillary",
+      "url": "https://taylorandhillary.com",
+      "language": "HTML"
+    },
+    {
+      "name": "caltrop",
+      "repo": "https://github.com/tfausak/caltrop",
+      "language": "Haskell"
+    },
+    {
+      "name": "endo",
+      "repo": "https://github.com/tfausak/endo",
+      "url": "https://taylor.fausak.me/endo/",
+      "language": "Haskell"
+    },
+    {
+      "name": "atom-haskell-phalanx",
+      "repo": "https://github.com/tfausak/atom-haskell-phalanx",
+      "url": "https://atom.io/packages/haskell-phalanx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cherry-top",
+      "repo": "https://github.com/tfausak/cherry-top",
+      "language": "Haskell"
+    },
+    {
+      "name": "atom-haskell-cleanse",
+      "repo": "https://github.com/tfausak/atom-haskell-cleanse",
+      "url": "https://atom.io/packages/haskell-cleanse",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-haskell-scry",
+      "repo": "https://github.com/tfausak/atom-haskell-scry",
+      "url": "https://atom.io/packages/haskell-scry",
+      "language": "CSS"
+    },
+    {
+      "name": "haskell-package-checklist",
+      "repo": "https://github.com/tfausak/haskell-package-checklist"
+    },
+    {
+      "name": "honeycrisp",
+      "repo": "https://github.com/tfausak/honeycrisp",
+      "language": "Haskell"
+    },
+    {
+      "name": "storm",
+      "repo": "https://github.com/tfausak/storm",
+      "language": "Haskell"
+    },
+    {
+      "name": "beeswax",
+      "repo": "https://github.com/tfausak/beeswax",
+      "language": "Haskell"
+    }
+  ]
+}

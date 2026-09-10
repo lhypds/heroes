@@ -1,0 +1,579 @@
+{
+  "handle": "antononcube",
+  "name": "Anton Antonov",
+  "github": [
+    "https://github.com/antononcube"
+  ],
+  "website": "https://mathematicaforprediction.wordpress.com/",
+  "bio": "Senior research (data) scientist. Former kernel developer of Mathematica. I also like doing combinatorial optimization and design conversational agents.",
+  "own_repos": 229,
+  "commits": 13199,
+  "apps": [],
+  "repos": [
+    {
+      "name": "antononcube",
+      "repo": "https://github.com/antononcube/antononcube"
+    },
+    {
+      "name": "Raku-Math-NIntegrate",
+      "repo": "https://github.com/antononcube/Raku-Math-NIntegrate",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-H2O-Client",
+      "repo": "https://github.com/antononcube/Raku-H2O-Client",
+      "url": "https://raku.land/zef:antononcube/H2O::Client",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Agent-Skills",
+      "repo": "https://github.com/antononcube/Raku-Agent-Skills",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Math-NumberTheory",
+      "repo": "https://github.com/antononcube/Raku-Math-NumberTheory",
+      "url": "https://raku.land/zef:antononcube/Math::NumberTheory",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-LLM-Resources",
+      "repo": "https://github.com/antononcube/Raku-LLM-Resources",
+      "url": "https://raku.land/zef:antononcube/LLM::Resources",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Lingua-Stem-Portuguese",
+      "repo": "https://github.com/antononcube/Raku-Lingua-Stem-Portuguese",
+      "url": "https://raku.land/zef:antononcube/Lingua::Stem::Portuguese",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-LLM-Graph",
+      "repo": "https://github.com/antononcube/Raku-LLM-Graph",
+      "url": "https://raku.land/zef:antononcube/LLM::Graph",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Graph",
+      "repo": "https://github.com/antononcube/Raku-Graph",
+      "url": "https://raku.land/zef:antononcube/Graph",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-LaTeX-Grammar",
+      "repo": "https://github.com/antononcube/Raku-LaTeX-Grammar",
+      "url": "https://raku.land/zef:antononcube/LaTeX::Grammar",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-LeftistHeap",
+      "repo": "https://github.com/antononcube/Raku-LeftistHeap",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-CellularAutomata",
+      "repo": "https://github.com/antononcube/Raku-CellularAutomata",
+      "url": "https://raku.land/zef:antononcube/CellularAutomata",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Data-Transformers",
+      "repo": "https://github.com/antononcube/Raku-Data-Transformers",
+      "url": "https://raku.land/zef:antononcube/Data::Transformers",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Math-SparseMatrix",
+      "repo": "https://github.com/antononcube/Raku-Math-SparseMatrix",
+      "url": "https://raku.land/zef:antononcube/Math::SparseMatrix",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-RakuppLink-paclet",
+      "repo": "https://github.com/antononcube/WL-RakuppLink-paclet",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "WL-RakuMode-paclet",
+      "repo": "https://github.com/antononcube/WL-RakuMode-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/RakuMode/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Raku-Mathematica-Serializer",
+      "repo": "https://github.com/antononcube/Raku-Mathematica-Serializer",
+      "url": "https://raku.land/zef:antononcube/Mathematica::Serializer",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-MonadicQuantileRegression-paclet",
+      "repo": "https://github.com/antononcube/WL-MonadicQuantileRegression-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/MonadicQuantileRegression/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Raku-Data-TypeSystem",
+      "repo": "https://github.com/antononcube/Raku-Data-TypeSystem",
+      "url": "https://raku.land/zef:antononcube/Data::TypeSystem",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-Dimensionless-paclet",
+      "repo": "https://github.com/antononcube/WL-Dimensionless-paclet",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Raku-Statistics-Distributions",
+      "repo": "https://github.com/antononcube/Raku-Statistics-Distributions",
+      "url": "https://raku.land/zef:antononcube/Statistics::Distributions",
+      "language": "Raku"
+    },
+    {
+      "name": "Python-GeoSpatialPricingEngine",
+      "repo": "https://github.com/antononcube/Python-GeoSpatialPricingEngine",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "SimplifiedMachineLearningWorkflows-book",
+      "repo": "https://github.com/antononcube/SimplifiedMachineLearningWorkflows-book",
+      "language": "HTML"
+    },
+    {
+      "name": "Python-JupyterChatbook",
+      "repo": "https://github.com/antononcube/Python-JupyterChatbook",
+      "url": "https://pypi.org/project/JupyterChatbook/",
+      "language": "Python"
+    },
+    {
+      "name": "Raku-WWW-OpenRouter",
+      "repo": "https://github.com/antononcube/Raku-WWW-OpenRouter",
+      "url": "https://raku.land/zef:antononcube/WWW::OpenRouter",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-WWW-XAI",
+      "repo": "https://github.com/antononcube/Raku-WWW-XAI",
+      "url": "https://raku.land/zef:antononcube/WWW::XAI",
+      "language": "Raku"
+    },
+    {
+      "name": "RakuForPrediction-blog",
+      "repo": "https://github.com/antononcube/RakuForPrediction-blog",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Raku-DSL-Entity-Jobs",
+      "repo": "https://github.com/antononcube/Raku-DSL-Entity-Jobs",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-Entity-Foods",
+      "repo": "https://github.com/antononcube/Raku-DSL-Entity-Foods",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-Entity-Geographics",
+      "repo": "https://github.com/antononcube/Raku-DSL-Entity-Geographics",
+      "url": "https://raku.land/zef:antononcube/DSL::Entity::Geographics",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-English-RecruitingWorkflows",
+      "repo": "https://github.com/antononcube/Raku-DSL-English-RecruitingWorkflows",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-WWW-OpenAI",
+      "repo": "https://github.com/antononcube/Raku-WWW-OpenAI",
+      "url": "https://raku.land/zef:antononcube/WWW::OpenAI",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-LLM-Functions",
+      "repo": "https://github.com/antononcube/Raku-LLM-Functions",
+      "url": "https://raku.land/zef:antononcube/LLM::Functions",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-CortexJS",
+      "repo": "https://github.com/antononcube/Raku-CortexJS",
+      "url": "https://raku.land/zef:antononcube/CortexJS",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-JavaScript-D3",
+      "repo": "https://github.com/antononcube/Raku-JavaScript-D3",
+      "url": "https://raku.land/zef:antononcube/JavaScript::D3",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Markup-Calendar",
+      "repo": "https://github.com/antononcube/Raku-Markup-Calendar",
+      "url": "https://raku.land/zef:antononcube/Markup::Calendar",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-MermaidJS-paclet",
+      "repo": "https://github.com/antononcube/WL-MermaidJS-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/MermaidJS/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "PythonForPrediction-blog",
+      "repo": "https://github.com/antononcube/PythonForPrediction-blog",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Python-GeometricNearestNeighborsProcessor",
+      "repo": "https://github.com/antononcube/Python-GeometricNearestNeighborsProcessor",
+      "url": "https://pypi.org/project/GeometricNearestNeighborsProcessor/",
+      "language": "Python"
+    },
+    {
+      "name": "Raku-WWW-Ollama",
+      "repo": "https://github.com/antononcube/Raku-WWW-Ollama",
+      "url": "https://raku.land/zef:antononcube/WWW::Ollama",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-WWW-Gemini",
+      "repo": "https://github.com/antononcube/Raku-WWW-Gemini",
+      "url": "https://raku.land/zef:antononcube/WWW::Gemini",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-MonadicGeometricNearestNeighbors-paclet",
+      "repo": "https://github.com/antononcube/WL-MonadicGeometricNearestNeighbors-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/MonadicGeometricNearestNeighbors/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "SystemModeling",
+      "repo": "https://github.com/antononcube/SystemModeling",
+      "language": "HTML"
+    },
+    {
+      "name": "Raku-Math-DistanceFunctions-Native",
+      "repo": "https://github.com/antononcube/Raku-Math-DistanceFunctions-Native",
+      "url": "https://raku.land/zef:antononcube/Math::DistanceFunctions::Native",
+      "language": "C"
+    },
+    {
+      "name": "Raku-WWW-HorizonsEphemerisSystem",
+      "repo": "https://github.com/antononcube/Raku-WWW-HorizonsEphemerisSystem",
+      "url": "https://raku.land/zef:antononcube/WWW::HorizonsEphemerisSystem",
+      "language": "HTML"
+    },
+    {
+      "name": "Raku-Math-Nearest",
+      "repo": "https://github.com/antononcube/Raku-Math-Nearest",
+      "url": "https://raku.land/zef:antononcube/Math::Nearest",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Algorithm-KDimensionalTree",
+      "repo": "https://github.com/antononcube/Raku-Algorithm-KDimensionalTree",
+      "url": "https://raku.land/zef:antononcube/Algorithm::KDimensionalTree",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Math-DistanceFunctions",
+      "repo": "https://github.com/antononcube/Raku-Math-DistanceFunctions",
+      "url": "https://raku.land/zef:antononcube/Math::DistanceFunctions",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-DSLExamples-paclet",
+      "repo": "https://github.com/antononcube/WL-DSLExamples-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/DSLExamples/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Python-DSLExamples",
+      "repo": "https://github.com/antononcube/Python-DSLExamples",
+      "url": "https://pypi.org/project/DSLExamples/",
+      "language": "Python"
+    },
+    {
+      "name": "Raku-DSL-Examples",
+      "repo": "https://github.com/antononcube/Raku-DSL-Examples",
+      "url": "https://raku.land/zef:antononcube/DSL::Examples",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-MCPClient-paclet",
+      "repo": "https://github.com/antononcube/WL-MCPClient-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/MCPClient/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Raku-MCP-Client",
+      "repo": "https://github.com/antononcube/Raku-MCP-Client",
+      "url": "https://raku.land/zef:antononcube/MCP::Client",
+      "language": "Raku"
+    },
+    {
+      "name": "MathematicaForPrediction",
+      "repo": "https://github.com/antononcube/MathematicaForPrediction",
+      "url": "https://mathematicaforprediction.wordpress.com",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Raku-Proc-ZMQed",
+      "repo": "https://github.com/antononcube/Raku-Proc-ZMQed",
+      "url": "https://raku.land/zef:antononcube/Proc::ZMQed",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-LLM-Prompts",
+      "repo": "https://github.com/antononcube/Raku-LLM-Prompts",
+      "url": "https://raku.land/zef:antononcube/LLM::Prompts",
+      "language": "Raku"
+    },
+    {
+      "name": "Python-packages",
+      "repo": "https://github.com/antononcube/Python-packages",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "WL-Chatnik-paclet",
+      "repo": "https://github.com/antononcube/WL-Chatnik-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/Chatnik/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Raku-Chatnik",
+      "repo": "https://github.com/antononcube/Raku-Chatnik",
+      "url": "https://raku.land/zef:antononcube/Chatnik",
+      "language": "Raku"
+    },
+    {
+      "name": "Python-Chatnik",
+      "repo": "https://github.com/antononcube/Python-Chatnik",
+      "url": "https://pypi.org/project/Chatnik/",
+      "language": "Python"
+    },
+    {
+      "name": "Raku-Data-Importers",
+      "repo": "https://github.com/antononcube/Raku-Data-Importers",
+      "url": "https://raku.land/zef:antononcube/Data::Importers",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Math-SparseMatrix-Native",
+      "repo": "https://github.com/antononcube/Raku-Math-SparseMatrix-Native",
+      "url": "https://raku.land/zef:antononcube/Math::SparseMatrix::Native",
+      "language": "C"
+    },
+    {
+      "name": "Raku-ML-LatentSemanticAnalyzer",
+      "repo": "https://github.com/antononcube/Raku-ML-LatentSemanticAnalyzer",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-Translators",
+      "repo": "https://github.com/antononcube/Raku-DSL-Translators",
+      "url": "https://raku.land/zef:antononcube/DSL::Translators",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-ML-NLPTemplateEngine",
+      "repo": "https://github.com/antononcube/Raku-ML-NLPTemplateEngine",
+      "url": "https://raku.land/zef:antononcube/ML::NLPTemplateEngine",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-English-LatentSemanticAnalysisWorkflows",
+      "repo": "https://github.com/antononcube/Raku-DSL-English-LatentSemanticAnalysisWorkflows",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-DataReshapers-paclet",
+      "repo": "https://github.com/antononcube/WL-DataReshapers-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/DataReshapers/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "WL-MonadicLatentSemanticAnalysis-paclet",
+      "repo": "https://github.com/antononcube/WL-MonadicLatentSemanticAnalysis-paclet",
+      "url": "https://resources.wolframcloud.com/PacletRepository/resources/AntonAntonov/MonadicLatentSemanticAnalysis/",
+      "language": "Wolfram Language"
+    },
+    {
+      "name": "Raku-ML-SparseMatrixRecommender",
+      "repo": "https://github.com/antononcube/Raku-ML-SparseMatrixRecommender",
+      "url": "https://raku.land/zef:antononcube/ML::SparseMatrixRecommender",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Data-Translators",
+      "repo": "https://github.com/antononcube/Raku-Data-Translators",
+      "url": "https://raku.land/zef:antononcube/Data::Translators",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-JavaScript-Google-Charts",
+      "repo": "https://github.com/antononcube/Raku-JavaScript-Google-Charts",
+      "url": "https://raku.land/zef:antononcube/JavaScript::Google::Charts",
+      "language": "Raku"
+    },
+    {
+      "name": "RakuForPrediction-book",
+      "repo": "https://github.com/antononcube/RakuForPrediction-book",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Raku-DSL-English-EpidemiologyModelingWorkflows",
+      "repo": "https://github.com/antononcube/Raku-DSL-English-EpidemiologyModelingWorkflows",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-English-DataAcquisitionWorkflows",
+      "repo": "https://github.com/antononcube/Raku-DSL-English-DataAcquisitionWorkflows",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-English-FoodPreparationWorkflows",
+      "repo": "https://github.com/antononcube/Raku-DSL-English-FoodPreparationWorkflows",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Math-GameTheory",
+      "repo": "https://github.com/antononcube/Raku-Math-GameTheory",
+      "url": "https://raku.land/zef:antononcube/Math::GameTheory",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Text-Calendar",
+      "repo": "https://github.com/antononcube/Raku-Text-Calendar",
+      "url": "https://raku.land/zef:antononcube/Text::Calendar",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-LaTeX-Serializer",
+      "repo": "https://github.com/antononcube/Raku-LaTeX-Serializer"
+    },
+    {
+      "name": "Raku-Math-SalvoCombatModeling",
+      "repo": "https://github.com/antononcube/Raku-Math-SalvoCombatModeling",
+      "url": "https://raku.land/zef:antononcube/Math::SalvoCombatModeling",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-MermaidJS-Grammar",
+      "repo": "https://github.com/antononcube/Raku-MermaidJS-Grammar",
+      "url": "https://raku.land/zef:antononcube/MermaidJS::Grammar",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Image-Markup-Utilities",
+      "repo": "https://github.com/antononcube/Raku-Image-Markup-Utilities",
+      "url": "https://raku.land/zef:antononcube/Image::Markup::Utilities",
+      "language": "Raku"
+    },
+    {
+      "name": "Python-NLPTemplateEngine",
+      "repo": "https://github.com/antononcube/Python-NLPTemplateEngine",
+      "url": "https://pypi.org/project/NLPTemplateEngine/",
+      "language": "Python"
+    },
+    {
+      "name": "Python-TileStats",
+      "repo": "https://github.com/antononcube/Python-TileStats",
+      "url": "https://pypi.org/project/TileStats",
+      "language": "Python"
+    },
+    {
+      "name": "WL-JavaGoogleORToolsLink-paclet",
+      "repo": "https://github.com/antononcube/WL-JavaGoogleORToolsLink-paclet"
+    },
+    {
+      "name": "Python-LLMTextualAnswer",
+      "repo": "https://github.com/antononcube/Python-LLMTextualAnswer",
+      "url": "https://pypi.org/project/LLMTextualAnswer/",
+      "language": "Python"
+    },
+    {
+      "name": "EconomicsAI",
+      "repo": "https://github.com/antononcube/EconomicsAI",
+      "url": "https://antononcube.shinyapps.io/RAG-evaluations/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "R-packages",
+      "repo": "https://github.com/antononcube/R-packages",
+      "language": "HTML"
+    },
+    {
+      "name": "Raku-LLM-RetrievalAugmentedGeneration",
+      "repo": "https://github.com/antononcube/Raku-LLM-RetrievalAugmentedGeneration",
+      "url": "https://raku.land/zef:antononcube/LLM::RetrievalAugmentedGeneration",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Graphviz-DOT-Chessboard",
+      "repo": "https://github.com/antononcube/Raku-Graphviz-DOT-Chessboard",
+      "url": "https://raku.land/zef:antononcube/Graphviz::DOT::Chessboard",
+      "language": "Raku"
+    },
+    {
+      "name": "WL-DSLLink-paclet",
+      "repo": "https://github.com/antononcube/WL-DSLLink-paclet"
+    },
+    {
+      "name": "WL-EDALink-paclet",
+      "repo": "https://github.com/antononcube/WL-EDALink-paclet"
+    },
+    {
+      "name": "Raku-Graph-RandomMaze",
+      "repo": "https://github.com/antononcube/Raku-Graph-RandomMaze",
+      "url": "https://raku.land/zef:antononcube/Graph::RandomMaze",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-ML-FindTextualAnswer",
+      "repo": "https://github.com/antononcube/Raku-ML-FindTextualAnswer",
+      "url": "https://raku.land/zef:antononcube/ML::FindTextualAnswer",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-Bulgarian",
+      "repo": "https://github.com/antononcube/Raku-DSL-Bulgarian",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Jupyter-Converter",
+      "repo": "https://github.com/antononcube/Raku-Jupyter-Converter",
+      "url": "https://raku.land/zef:antononcube/Jupyter::Converter",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Math-Mesh",
+      "repo": "https://github.com/antononcube/Raku-Math-Mesh"
+    },
+    {
+      "name": "Raku-Markdown-Grammar",
+      "repo": "https://github.com/antononcube/Raku-Markdown-Grammar",
+      "url": "https://raku.land/zef:antononcube/Markdown::Grammar",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-ML-AssociationRuleLearning",
+      "repo": "https://github.com/antononcube/Raku-ML-AssociationRuleLearning",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-Data-ExampleDatasets",
+      "repo": "https://github.com/antononcube/Raku-Data-ExampleDatasets",
+      "url": "https://raku.land/zef:antononcube/Data::ExampleDatasets",
+      "language": "Raku"
+    },
+    {
+      "name": "Raku-DSL-English-DataQueryWorkflows",
+      "repo": "https://github.com/antononcube/Raku-DSL-English-DataQueryWorkflows",
+      "url": "https://raku.land/zef:antononcube/DSL::English::DataQueryWorkflows",
+      "language": "Raku"
+    }
+  ]
+}

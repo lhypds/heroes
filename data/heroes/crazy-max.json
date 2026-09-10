@@ -1,0 +1,536 @@
+{
+  "handle": "crazy-max",
+  "name": "CrazyMax",
+  "github": [
+    "https://github.com/crazy-max"
+  ],
+  "website": "https://crazymax.dev/",
+  "bio": "Open source, containers, and build systems",
+  "own_repos": 136,
+  "commits": 18457,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ghaction-github-pages",
+      "repo": "https://github.com/crazy-max/ghaction-github-pages",
+      "url": "https://github.com/marketplace/actions/github-pages",
+      "language": "TypeScript"
+    },
+    {
+      "name": "WindowsSpyBlocker",
+      "repo": "https://github.com/crazy-max/WindowsSpyBlocker",
+      "url": "https://crazymax.dev/WindowsSpyBlocker/",
+      "language": "Go"
+    },
+    {
+      "name": "ddns-route53",
+      "repo": "https://github.com/crazy-max/ddns-route53",
+      "url": "https://crazymax.dev/ddns-route53/",
+      "language": "Go"
+    },
+    {
+      "name": "gomod-updates",
+      "repo": "https://github.com/crazy-max/gomod-updates",
+      "language": "Go"
+    },
+    {
+      "name": "undock",
+      "repo": "https://github.com/crazy-max/undock",
+      "url": "https://crazymax.dev/undock/",
+      "language": "Go"
+    },
+    {
+      "name": "crazy-max",
+      "repo": "https://github.com/crazy-max/crazy-max"
+    },
+    {
+      "name": "swarm-cronjob",
+      "repo": "https://github.com/crazy-max/swarm-cronjob",
+      "url": "https://crazymax.dev/swarm-cronjob/",
+      "language": "Go"
+    },
+    {
+      "name": "ghaction-docker-status",
+      "repo": "https://github.com/crazy-max/ghaction-docker-status",
+      "url": "https://github.com/marketplace/actions/docker-status",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-container-scan",
+      "repo": "https://github.com/crazy-max/ghaction-container-scan",
+      "url": "https://github.com/marketplace/actions/container-scan",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-virustotal",
+      "repo": "https://github.com/crazy-max/ghaction-virustotal",
+      "url": "https://github.com/marketplace/actions/virustotal-github-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-github-status",
+      "repo": "https://github.com/crazy-max/ghaction-github-status",
+      "url": "https://github.com/marketplace/actions/github-status",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-import-gpg",
+      "repo": "https://github.com/crazy-max/ghaction-import-gpg",
+      "url": "https://github.com/marketplace/actions/import-gpg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-upx",
+      "repo": "https://github.com/crazy-max/ghaction-upx",
+      "url": "https://github.com/marketplace/actions/upx-github-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-github-labeler",
+      "repo": "https://github.com/crazy-max/ghaction-github-labeler",
+      "url": "https://github.com/marketplace/actions/github-labeler",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-xgo",
+      "repo": "https://github.com/crazy-max/ghaction-xgo",
+      "url": "https://github.com/marketplace/actions/golang-cgo-cross-compiler",
+      "language": "TypeScript"
+    },
+    {
+      "name": "echo-ipfilter",
+      "repo": "https://github.com/crazy-max/echo-ipfilter",
+      "language": "Go"
+    },
+    {
+      "name": "diun",
+      "repo": "https://github.com/crazy-max/diun",
+      "url": "https://crazymax.dev/diun/",
+      "language": "Go"
+    },
+    {
+      "name": "docker-fail2ban",
+      "repo": "https://github.com/crazy-max/docker-fail2ban",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-rtorrent-rutorrent",
+      "repo": "https://github.com/crazy-max/docker-rtorrent-rutorrent",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ghaction-github-runtime",
+      "repo": "https://github.com/crazy-max/ghaction-github-runtime",
+      "url": "https://github.com/marketplace/actions/github-runtime",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-msmtpd",
+      "repo": "https://github.com/crazy-max/docker-msmtpd",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ghaction-chocolatey",
+      "repo": "https://github.com/crazy-max/ghaction-chocolatey",
+      "url": "https://github.com/marketplace/actions/chocolatey-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "goxx",
+      "repo": "https://github.com/crazy-max/goxx",
+      "language": "Shell"
+    },
+    {
+      "name": "xgo",
+      "repo": "https://github.com/crazy-max/xgo",
+      "url": "https://hub.docker.com/r/crazymax/xgo/tags/?page=1&ordering=last_updated",
+      "language": "Shell"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/crazy-max/.github"
+    },
+    {
+      "name": "ftpgrab",
+      "repo": "https://github.com/crazy-max/ftpgrab",
+      "url": "https://crazymax.dev/ftpgrab/",
+      "language": "Go"
+    },
+    {
+      "name": "docker-nextcloud",
+      "repo": "https://github.com/crazy-max/docker-nextcloud",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-osxcross",
+      "repo": "https://github.com/crazy-max/docker-osxcross",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "geoip-updater",
+      "repo": "https://github.com/crazy-max/geoip-updater",
+      "url": "https://crazymax.dev/geoip-updater/",
+      "language": "Go"
+    },
+    {
+      "name": "docker-flarum",
+      "repo": "https://github.com/crazy-max/docker-flarum",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gonfig",
+      "repo": "https://github.com/crazy-max/gonfig",
+      "url": "https://pkg.go.dev/github.com/crazy-max/gonfig",
+      "language": "Go"
+    },
+    {
+      "name": "docker-samba",
+      "repo": "https://github.com/crazy-max/docker-samba",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ghaction-dockerhub-mirror",
+      "repo": "https://github.com/crazy-max/ghaction-dockerhub-mirror",
+      "url": "https://github.com/marketplace/actions/dockerhub-mirror"
+    },
+    {
+      "name": "ghaction-dump-context",
+      "repo": "https://github.com/crazy-max/ghaction-dump-context",
+      "url": "https://github.com/marketplace/actions/dump-context"
+    },
+    {
+      "name": "gohealthchecks",
+      "repo": "https://github.com/crazy-max/gohealthchecks",
+      "url": "https://pkg.go.dev/github.com/crazy-max/gohealthchecks",
+      "language": "Go"
+    },
+    {
+      "name": "crazy-max.github.io",
+      "repo": "https://github.com/crazy-max/crazy-max.github.io",
+      "url": "https://crazymax.dev",
+      "language": "Markdown"
+    },
+    {
+      "name": "docker-alpine-s6",
+      "repo": "https://github.com/crazy-max/docker-alpine-s6",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gotestlist",
+      "repo": "https://github.com/crazy-max/gotestlist",
+      "language": "Go"
+    },
+    {
+      "name": "docker-7zip",
+      "repo": "https://github.com/crazy-max/docker-7zip",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-linguist",
+      "repo": "https://github.com/crazy-max/docker-linguist",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-matomo",
+      "repo": "https://github.com/crazy-max/docker-matomo",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-qbittorrent",
+      "repo": "https://github.com/crazy-max/docker-qbittorrent",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-unbound",
+      "repo": "https://github.com/crazy-max/docker-unbound",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-pure-ftpd",
+      "repo": "https://github.com/crazy-max/docker-pure-ftpd",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-rrdcached",
+      "repo": "https://github.com/crazy-max/docker-rrdcached",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cmk-agent-sync",
+      "repo": "https://github.com/crazy-max/cmk-agent-sync"
+    },
+    {
+      "name": "docker-scrutiny",
+      "repo": "https://github.com/crazy-max/docker-scrutiny",
+      "language": "Shell"
+    },
+    {
+      "name": "xcalxls2csv",
+      "repo": "https://github.com/crazy-max/xcalxls2csv",
+      "language": "Go"
+    },
+    {
+      "name": "yasu",
+      "repo": "https://github.com/crazy-max/yasu",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-dokuwiki",
+      "repo": "https://github.com/crazy-max/docker-dokuwiki",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "buildx-buildkit-tests",
+      "repo": "https://github.com/crazy-max/buildx-buildkit-tests",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ghaction-hugo",
+      "repo": "https://github.com/crazy-max/ghaction-hugo",
+      "url": "https://github.com/marketplace/actions/hugo-github-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "upload-artifact-skiparchive",
+      "repo": "https://github.com/crazy-max/upload-artifact-skiparchive"
+    },
+    {
+      "name": "gh-attest-test",
+      "repo": "https://github.com/crazy-max/gh-attest-test"
+    },
+    {
+      "name": "docker-spliit",
+      "repo": "https://github.com/crazy-max/docker-spliit",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-cloudflared",
+      "repo": "https://github.com/crazy-max/docker-cloudflared",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "buildx-3338",
+      "repo": "https://github.com/crazy-max/buildx-3338",
+      "language": "HCL"
+    },
+    {
+      "name": "buildx-2905",
+      "repo": "https://github.com/crazy-max/buildx-2905",
+      "language": "HCL"
+    },
+    {
+      "name": "test-builder-action",
+      "repo": "https://github.com/crazy-max/test-builder-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "builder-action",
+      "repo": "https://github.com/crazy-max/builder-action"
+    },
+    {
+      "name": "docker-jetbrains-license-server",
+      "repo": "https://github.com/crazy-max/docker-jetbrains-license-server",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "login-servers-enhanced",
+      "repo": "https://github.com/crazy-max/login-servers-enhanced",
+      "language": "PHP"
+    },
+    {
+      "name": "dokuwiki-plugin-syntaxhighlighter4",
+      "repo": "https://github.com/crazy-max/dokuwiki-plugin-syntaxhighlighter4",
+      "language": "PHP"
+    },
+    {
+      "name": "ghaction-setup-containerd",
+      "repo": "https://github.com/crazy-max/ghaction-setup-containerd",
+      "url": "https://github.com/marketplace/actions/setup-containerd",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghaction-github-release",
+      "repo": "https://github.com/crazy-max/ghaction-github-release",
+      "url": "https://github.com/marketplace/actions/github-release-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "csgo-server-launcher",
+      "repo": "https://github.com/crazy-max/csgo-server-launcher",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-zig",
+      "repo": "https://github.com/crazy-max/docker-zig",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-captains-briefing-20250129",
+      "repo": "https://github.com/crazy-max/docker-captains-briefing-20250129"
+    },
+    {
+      "name": "docker-healthchecks",
+      "repo": "https://github.com/crazy-max/docker-healthchecks",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-ejtserver",
+      "repo": "https://github.com/crazy-max/docker-ejtserver",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-docker",
+      "repo": "https://github.com/crazy-max/docker-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "test-setup-docker",
+      "repo": "https://github.com/crazy-max/test-setup-docker"
+    },
+    {
+      "name": "releases-json-test",
+      "repo": "https://github.com/crazy-max/releases-json-test"
+    },
+    {
+      "name": "go-longpath-win",
+      "repo": "https://github.com/crazy-max/go-longpath-win",
+      "language": "Go"
+    },
+    {
+      "name": "docker-captains-briefing-20241106",
+      "repo": "https://github.com/crazy-max/docker-captains-briefing-20241106",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-n8n",
+      "repo": "https://github.com/crazy-max/docker-n8n",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-loop",
+      "repo": "https://github.com/crazy-max/docker-loop",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "alpine-edge-musl-segfault",
+      "repo": "https://github.com/crazy-max/alpine-edge-musl-segfault",
+      "language": "Go"
+    },
+    {
+      "name": "artifactory-cleanup",
+      "repo": "https://github.com/crazy-max/artifactory-cleanup",
+      "url": "https://crazymax.dev/artifactory-cleanup/",
+      "language": "Go"
+    },
+    {
+      "name": "docker-shodan",
+      "repo": "https://github.com/crazy-max/docker-shodan",
+      "language": "HCL"
+    },
+    {
+      "name": "buildkit-buildsources-test",
+      "repo": "https://github.com/crazy-max/buildkit-buildsources-test",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rust-docker-cross",
+      "repo": "https://github.com/crazy-max/rust-docker-cross",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "goreleaser-xx",
+      "repo": "https://github.com/crazy-max/goreleaser-xx",
+      "language": "Go"
+    },
+    {
+      "name": "docker-firefox-syncserver",
+      "repo": "https://github.com/crazy-max/docker-firefox-syncserver",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-cli-bench",
+      "repo": "https://github.com/crazy-max/docker-cli-bench",
+      "language": "Shell"
+    },
+    {
+      "name": "xmlrpc-c",
+      "repo": "https://github.com/crazy-max/xmlrpc-c",
+      "url": "https://svn.code.sf.net/p/xmlrpc-c/code/",
+      "language": "C"
+    },
+    {
+      "name": "git-rewrite-author",
+      "repo": "https://github.com/crazy-max/git-rewrite-author",
+      "language": "Go"
+    },
+    {
+      "name": "firefox-history-merger",
+      "repo": "https://github.com/crazy-max/firefox-history-merger",
+      "language": "Go"
+    },
+    {
+      "name": "docker-allhands2-buildx-bake",
+      "repo": "https://github.com/crazy-max/docker-allhands2-buildx-bake",
+      "url": "https://crazy-max.github.io/docker-allhands2-buildx-bake/",
+      "language": "HCL"
+    },
+    {
+      "name": "twitch-demo-gha",
+      "repo": "https://github.com/crazy-max/twitch-demo-gha",
+      "url": "https://crazymax.dev/twitch-demo-gha/",
+      "language": "HCL"
+    },
+    {
+      "name": "docker-docs-new",
+      "repo": "https://github.com/crazy-max/docker-docs-new",
+      "url": "https://crazymax.dev/docker-docs/",
+      "language": "HTML"
+    },
+    {
+      "name": "buildx-dockerignore-issue",
+      "repo": "https://github.com/crazy-max/buildx-dockerignore-issue",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "buildkit-nofrontend",
+      "repo": "https://github.com/crazy-max/buildkit-nofrontend",
+      "language": "Go"
+    },
+    {
+      "name": "dockerfile",
+      "repo": "https://github.com/crazy-max/dockerfile",
+      "language": "Go"
+    },
+    {
+      "name": "log4j-cve-scan",
+      "repo": "https://github.com/crazy-max/log4j-cve-scan",
+      "language": "Shell"
+    },
+    {
+      "name": "lorrainejug-buildx-bake",
+      "repo": "https://github.com/crazy-max/lorrainejug-buildx-bake",
+      "url": "https://crazymax.dev/lorrainejug-buildx-bake/",
+      "language": "HCL"
+    },
+    {
+      "name": "buildkit-git-umask",
+      "repo": "https://github.com/crazy-max/buildkit-git-umask",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "nodejs-portable",
+      "repo": "https://github.com/crazy-max/nodejs-portable",
+      "language": "Go"
+    },
+    {
+      "name": "docker-xbake-ext-demo",
+      "repo": "https://github.com/crazy-max/docker-xbake-ext-demo",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rocketchat-xray",
+      "repo": "https://github.com/crazy-max/rocketchat-xray",
+      "language": "JavaScript"
+    }
+  ]
+}

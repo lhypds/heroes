@@ -10,6 +10,11 @@
   "commits": 10247,
   "repos": [
     {
+      "name": "containers",
+      "repo": "https://github.com/kachick/containers",
+      "language": "Rust"
+    },
+    {
       "name": "dotfiles",
       "repo": "https://github.com/kachick/dotfiles",
       "language": "Nix"
@@ -76,11 +81,6 @@
     {
       "name": "dprint-plugin-typstyle",
       "repo": "https://github.com/kachick/dprint-plugin-typstyle",
-      "language": "Rust"
-    },
-    {
-      "name": "containers",
-      "repo": "https://github.com/kachick/containers",
       "language": "Rust"
     },
     {

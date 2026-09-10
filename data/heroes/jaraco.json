@@ -1,0 +1,512 @@
+{
+  "handle": "jaraco",
+  "name": "Jason R. Coombs",
+  "github": [
+    "https://github.com/jaraco"
+  ],
+  "website": "https://www.jaraco.com/",
+  "own_repos": 160,
+  "commits": 49700,
+  "apps": [],
+  "repos": [
+    {
+      "name": "jaraco.develop",
+      "repo": "https://github.com/jaraco/jaraco.develop",
+      "language": "Python"
+    },
+    {
+      "name": "skeleton",
+      "repo": "https://github.com/jaraco/skeleton"
+    },
+    {
+      "name": "pluslife-analyzer",
+      "repo": "https://github.com/jaraco/pluslife-analyzer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jaraco.compat",
+      "repo": "https://github.com/jaraco/jaraco.compat",
+      "language": "Python"
+    },
+    {
+      "name": "microsoft-config",
+      "repo": "https://github.com/jaraco/microsoft-config",
+      "language": "PowerShell"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/jaraco/dotfiles",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jaraco.xonsh",
+      "repo": "https://github.com/jaraco/jaraco.xonsh",
+      "language": "Xonsh"
+    },
+    {
+      "name": "Perfect-Fields",
+      "repo": "https://github.com/jaraco/Perfect-Fields",
+      "language": "Swift"
+    },
+    {
+      "name": "pytest-perf",
+      "repo": "https://github.com/jaraco/pytest-perf",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.packaging",
+      "repo": "https://github.com/jaraco/jaraco.packaging",
+      "language": "Python"
+    },
+    {
+      "name": "tempora",
+      "repo": "https://github.com/jaraco/tempora",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.functools",
+      "repo": "https://github.com/jaraco/jaraco.functools",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.text",
+      "repo": "https://github.com/jaraco/jaraco.text",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.test",
+      "repo": "https://github.com/jaraco/jaraco.test",
+      "language": "Python"
+    },
+    {
+      "name": "setuptools_hacks.bypass_summary_newline",
+      "repo": "https://github.com/jaraco/setuptools_hacks.bypass_summary_newline",
+      "language": "Python"
+    },
+    {
+      "name": "safety-tox",
+      "repo": "https://github.com/jaraco/safety-tox",
+      "language": "Python"
+    },
+    {
+      "name": "setuptools_svn",
+      "repo": "https://github.com/jaraco/setuptools_svn",
+      "language": "Python"
+    },
+    {
+      "name": "world",
+      "repo": "https://github.com/jaraco/world"
+    },
+    {
+      "name": "zipp",
+      "repo": "https://github.com/jaraco/zipp",
+      "language": "Python"
+    },
+    {
+      "name": "multipy-tox",
+      "repo": "https://github.com/jaraco/multipy-tox",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "jaraco.context",
+      "repo": "https://github.com/jaraco/jaraco.context",
+      "language": "Python"
+    },
+    {
+      "name": "cssutils",
+      "repo": "https://github.com/jaraco/cssutils",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.modb",
+      "repo": "https://github.com/jaraco/jaraco.modb",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "jaraco.itertools",
+      "repo": "https://github.com/jaraco/jaraco.itertools",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.structures",
+      "repo": "https://github.com/jaraco/jaraco.structures",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.office",
+      "repo": "https://github.com/jaraco/jaraco.office",
+      "language": "Python"
+    },
+    {
+      "name": "librarypaste",
+      "repo": "https://github.com/jaraco/librarypaste",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.apt",
+      "repo": "https://github.com/jaraco/jaraco.apt",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.ui",
+      "repo": "https://github.com/jaraco/jaraco.ui",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.envs",
+      "repo": "https://github.com/jaraco/jaraco.envs",
+      "language": "Python"
+    },
+    {
+      "name": "rst.linker",
+      "repo": "https://github.com/jaraco/rst.linker",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.translate",
+      "repo": "https://github.com/jaraco/jaraco.translate",
+      "language": "Python"
+    },
+    {
+      "name": "freedompop",
+      "repo": "https://github.com/jaraco/freedompop",
+      "language": "Python"
+    },
+    {
+      "name": "nspektr",
+      "repo": "https://github.com/jaraco/nspektr",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.util",
+      "repo": "https://github.com/jaraco/jaraco.util",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-enabler",
+      "repo": "https://github.com/jaraco/pytest-enabler",
+      "language": "Python"
+    },
+    {
+      "name": "oathtool",
+      "repo": "https://github.com/jaraco/oathtool",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.classes",
+      "repo": "https://github.com/jaraco/jaraco.classes",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.geo",
+      "repo": "https://github.com/jaraco/jaraco.geo",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.windows",
+      "repo": "https://github.com/jaraco/jaraco.windows",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.logging",
+      "repo": "https://github.com/jaraco/jaraco.logging",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.keyring",
+      "repo": "https://github.com/jaraco/jaraco.keyring",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.home",
+      "repo": "https://github.com/jaraco/jaraco.home",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.imaging",
+      "repo": "https://github.com/jaraco/jaraco.imaging",
+      "language": "Python"
+    },
+    {
+      "name": "portend",
+      "repo": "https://github.com/jaraco/portend",
+      "language": "Python"
+    },
+    {
+      "name": "backports.tarfile",
+      "repo": "https://github.com/jaraco/backports.tarfile",
+      "language": "Python"
+    },
+    {
+      "name": "singledispatch",
+      "repo": "https://github.com/jaraco/singledispatch",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.clipboard",
+      "repo": "https://github.com/jaraco/jaraco.clipboard",
+      "language": "Python"
+    },
+    {
+      "name": "backports.hook_compressed",
+      "repo": "https://github.com/jaraco/backports.hook_compressed",
+      "language": "Python"
+    },
+    {
+      "name": "pip-run",
+      "repo": "https://github.com/jaraco/pip-run",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-home",
+      "repo": "https://github.com/jaraco/pytest-home",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.financial",
+      "repo": "https://github.com/jaraco/jaraco.financial",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.crypto",
+      "repo": "https://github.com/jaraco/jaraco.crypto",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.input",
+      "repo": "https://github.com/jaraco/jaraco.input",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.xkcd",
+      "repo": "https://github.com/jaraco/jaraco.xkcd",
+      "language": "Python"
+    },
+    {
+      "name": "wolframalpha",
+      "repo": "https://github.com/jaraco/wolframalpha",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-checkdocs",
+      "repo": "https://github.com/jaraco/pytest-checkdocs",
+      "language": "Python"
+    },
+    {
+      "name": "cmdix",
+      "repo": "https://github.com/jaraco/cmdix",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.collections",
+      "repo": "https://github.com/jaraco/jaraco.collections",
+      "language": "Python"
+    },
+    {
+      "name": "recapturedocs",
+      "repo": "https://github.com/jaraco/recapturedocs",
+      "url": "https://www.recapturedocs.com",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.path",
+      "repo": "https://github.com/jaraco/jaraco.path",
+      "language": "Python"
+    },
+    {
+      "name": "pmxbot.webhooks",
+      "repo": "https://github.com/jaraco/pmxbot.webhooks",
+      "language": "Python"
+    },
+    {
+      "name": "svg.charts",
+      "repo": "https://github.com/jaraco/svg.charts",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.abode",
+      "repo": "https://github.com/jaraco/jaraco.abode",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.desktop",
+      "repo": "https://github.com/jaraco/jaraco.desktop",
+      "language": "Python"
+    },
+    {
+      "name": "lpaste",
+      "repo": "https://github.com/jaraco/lpaste",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.video",
+      "repo": "https://github.com/jaraco/jaraco.video",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.fabric",
+      "repo": "https://github.com/jaraco/jaraco.fabric",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.net",
+      "repo": "https://github.com/jaraco/jaraco.net",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.nxt",
+      "repo": "https://github.com/jaraco/jaraco.nxt",
+      "language": "Python"
+    },
+    {
+      "name": "xlsxcessive",
+      "repo": "https://github.com/jaraco/xlsxcessive",
+      "language": "Python"
+    },
+    {
+      "name": "dropbox-index",
+      "repo": "https://github.com/jaraco/dropbox-index",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.mongodb",
+      "repo": "https://github.com/jaraco/jaraco.mongodb",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.postgres",
+      "repo": "https://github.com/jaraco/jaraco.postgres",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.email",
+      "repo": "https://github.com/jaraco/jaraco.email",
+      "language": "Python"
+    },
+    {
+      "name": "inflect",
+      "repo": "https://github.com/jaraco/inflect",
+      "url": "https://pypi.org/project/inflect",
+      "language": "Python"
+    },
+    {
+      "name": "openpack",
+      "repo": "https://github.com/jaraco/openpack",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.env",
+      "repo": "https://github.com/jaraco/jaraco.env",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.tidelift",
+      "repo": "https://github.com/jaraco/jaraco.tidelift",
+      "language": "HTML"
+    },
+    {
+      "name": "jaraco.media",
+      "repo": "https://github.com/jaraco/jaraco.media",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.vcs",
+      "repo": "https://github.com/jaraco/jaraco.vcs",
+      "language": "Python"
+    },
+    {
+      "name": "configparser",
+      "repo": "https://github.com/jaraco/configparser",
+      "language": "Python"
+    },
+    {
+      "name": "treehouse",
+      "repo": "https://github.com/jaraco/treehouse",
+      "language": "Python"
+    },
+    {
+      "name": "keyrings.alt",
+      "repo": "https://github.com/jaraco/keyrings.alt",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.zstd",
+      "repo": "https://github.com/jaraco/jaraco.zstd",
+      "language": "Python"
+    },
+    {
+      "name": "keyrings.firefox",
+      "repo": "https://github.com/jaraco/keyrings.firefox",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.stream",
+      "repo": "https://github.com/jaraco/jaraco.stream",
+      "language": "Python"
+    },
+    {
+      "name": "paradocx",
+      "repo": "https://github.com/jaraco/paradocx",
+      "language": "Python"
+    },
+    {
+      "name": "irc",
+      "repo": "https://github.com/jaraco/irc",
+      "language": "Python"
+    },
+    {
+      "name": "backports.functools_lru_cache",
+      "repo": "https://github.com/jaraco/backports.functools_lru_cache",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.versioning",
+      "repo": "https://github.com/jaraco/jaraco.versioning",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.pmxbot",
+      "repo": "https://github.com/jaraco/jaraco.pmxbot",
+      "language": "Python"
+    },
+    {
+      "name": "path",
+      "repo": "https://github.com/jaraco/path",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.site",
+      "repo": "https://github.com/jaraco/jaraco.site",
+      "language": "HTML"
+    },
+    {
+      "name": "jaraco.services",
+      "repo": "https://github.com/jaraco/jaraco.services",
+      "language": "Python"
+    },
+    {
+      "name": "keyring",
+      "repo": "https://github.com/jaraco/keyring",
+      "language": "Python"
+    },
+    {
+      "name": "backports.pdb",
+      "repo": "https://github.com/jaraco/backports.pdb",
+      "language": "Python"
+    },
+    {
+      "name": "backports.entry_points_selectable",
+      "repo": "https://github.com/jaraco/backports.entry_points_selectable",
+      "language": "Python"
+    },
+    {
+      "name": "jaraco.docker",
+      "repo": "https://github.com/jaraco/jaraco.docker",
+      "language": "Python"
+    },
+    {
+      "name": "tidelift",
+      "repo": "https://github.com/jaraco/tidelift"
+    }
+  ]
+}

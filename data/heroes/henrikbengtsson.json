@@ -1,0 +1,559 @@
+{
+  "handle": "henrikbengtsson",
+  "name": "Henrik Bengtsson",
+  "github": [
+    "https://github.com/henrikbengtsson"
+  ],
+  "bio": "Assoc Professor. R Foundation. R Consortium. Many R packages, e.g. future & matrixStats.",
+  "own_repos": 133,
+  "commits": 19565,
+  "apps": [],
+  "repos": [
+    {
+      "name": "R.matlab",
+      "repo": "https://github.com/HenrikBengtsson/R.matlab",
+      "url": "https://cran.r-project.org/package=R.matlab",
+      "language": "R"
+    },
+    {
+      "name": "CBI-software",
+      "repo": "https://github.com/HenrikBengtsson/CBI-software",
+      "language": "Makefile"
+    },
+    {
+      "name": "lmodweb",
+      "repo": "https://github.com/HenrikBengtsson/lmodweb",
+      "language": "R"
+    },
+    {
+      "name": "matrixStats",
+      "repo": "https://github.com/HenrikBengtsson/matrixStats",
+      "url": "https://cran.r-project.org/package=matrixStats",
+      "language": "R"
+    },
+    {
+      "name": "TopDom",
+      "repo": "https://github.com/HenrikBengtsson/TopDom",
+      "url": "https://henrikbengtsson.github.io/TopDom/",
+      "language": "R"
+    },
+    {
+      "name": "teeny",
+      "repo": "https://github.com/HenrikBengtsson/teeny",
+      "language": "R"
+    },
+    {
+      "name": "jottr.org",
+      "repo": "https://github.com/HenrikBengtsson/jottr.org",
+      "language": "HTML"
+    },
+    {
+      "name": "affxparser",
+      "repo": "https://github.com/HenrikBengtsson/affxparser",
+      "language": "C++"
+    },
+    {
+      "name": "ucsf-vpn",
+      "repo": "https://github.com/HenrikBengtsson/ucsf-vpn",
+      "url": "https://github.com/HenrikBengtsson/ucsf-vpn",
+      "language": "Shell"
+    },
+    {
+      "name": "x86-64-level",
+      "repo": "https://github.com/HenrikBengtsson/x86-64-level",
+      "url": "https://github.com/HenrikBengtsson/x86-64-level",
+      "language": "Shell"
+    },
+    {
+      "name": "revdepcheck.extras",
+      "repo": "https://github.com/HenrikBengtsson/revdepcheck.extras",
+      "url": "https://github.com/HenrikBengtsson/revdepcheck.extras",
+      "language": "R"
+    },
+    {
+      "name": "dotfiles-for-R",
+      "repo": "https://github.com/HenrikBengtsson/dotfiles-for-R",
+      "language": "R"
+    },
+    {
+      "name": "pkgdown.extras",
+      "repo": "https://github.com/HenrikBengtsson/pkgdown.extras",
+      "url": "https://github.com/HenrikBengtsson/pkgdown.extras",
+      "language": "R"
+    },
+    {
+      "name": "dumpsterfire",
+      "repo": "https://github.com/HenrikBengtsson/dumpsterfire",
+      "url": "https://github.com/HenrikBengtsson/dumpsterfire",
+      "language": "R"
+    },
+    {
+      "name": "talk-user2025-p2p",
+      "repo": "https://github.com/HenrikBengtsson/talk-user2025-p2p",
+      "url": "https://henrikbengtsson.github.io/talk-user2025-p2p/",
+      "language": "CSS"
+    },
+    {
+      "name": "repl-on-enter",
+      "repo": "https://github.com/HenrikBengtsson/repl-on-enter",
+      "language": "Shell"
+    },
+    {
+      "name": "R.devices",
+      "repo": "https://github.com/HenrikBengtsson/R.devices",
+      "url": "https://henrikbengtsson.github.io/R.devices/",
+      "language": "R"
+    },
+    {
+      "name": "startup",
+      "repo": "https://github.com/HenrikBengtsson/startup",
+      "url": "https://henrikbengtsson.github.io/startup/",
+      "language": "R"
+    },
+    {
+      "name": "brother-ptouch-label-printer-on-linux",
+      "repo": "https://github.com/HenrikBengtsson/brother-ptouch-label-printer-on-linux",
+      "language": "Lua"
+    },
+    {
+      "name": "zm",
+      "repo": "https://github.com/HenrikBengtsson/zm",
+      "language": "Shell"
+    },
+    {
+      "name": "my-paragliding-setup",
+      "repo": "https://github.com/HenrikBengtsson/my-paragliding-setup",
+      "url": "https://henrikbengtsson.github.io/my-paragliding-setup/",
+      "language": "TeX"
+    },
+    {
+      "name": "article-bengtsson-future",
+      "repo": "https://github.com/HenrikBengtsson/article-bengtsson-future",
+      "url": "https://journal.r-project.org/archive/2021/RJ-2021-048/index.html",
+      "language": "TeX"
+    },
+    {
+      "name": "git-r",
+      "repo": "https://github.com/HenrikBengtsson/git-r",
+      "language": "Shell"
+    },
+    {
+      "name": "aroma.affymetrix",
+      "repo": "https://github.com/HenrikBengtsson/aroma.affymetrix",
+      "url": "https://cran.r-project.org/package=aroma.affymetrix",
+      "language": "R"
+    },
+    {
+      "name": "talk-latinr2025-p2p",
+      "repo": "https://github.com/HenrikBengtsson/talk-latinr2025-p2p",
+      "url": "https://henrikbengtsson.github.io/talk-latinr2025-p2p/",
+      "language": "CSS"
+    },
+    {
+      "name": "trackers",
+      "repo": "https://github.com/HenrikBengtsson/trackers",
+      "language": "R"
+    },
+    {
+      "name": "ucsf-hpc-intro-2025",
+      "repo": "https://github.com/HenrikBengtsson/ucsf-hpc-intro-2025",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ucsf-hpc-intro-2024",
+      "repo": "https://github.com/HenrikBengtsson/ucsf-hpc-intro-2024",
+      "url": "https://henrikbengtsson.github.io/ucsf-hpc-intro-2024/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shellcheck-repl",
+      "repo": "https://github.com/HenrikBengtsson/shellcheck-repl",
+      "url": "https://github.com/HenrikBengtsson/shellcheck-repl",
+      "language": "Shell"
+    },
+    {
+      "name": "ACNE",
+      "repo": "https://github.com/HenrikBengtsson/ACNE",
+      "url": "https://cran.r-project.org/package=ACNE",
+      "language": "R"
+    },
+    {
+      "name": "aroma.core",
+      "repo": "https://github.com/HenrikBengtsson/aroma.core",
+      "url": "https://cran.r-project.org/package=aroma.core",
+      "language": "R"
+    },
+    {
+      "name": "henrikbengtsson.r-universe.dev",
+      "repo": "https://github.com/HenrikBengtsson/henrikbengtsson.r-universe.dev",
+      "url": "https://henrikbengtsson.r-universe.dev/"
+    },
+    {
+      "name": "future-tutorial-user2024",
+      "repo": "https://github.com/HenrikBengtsson/future-tutorial-user2024",
+      "url": "https://henrikbengtsson.github.io/future-tutorial-user2024/",
+      "language": "HTML"
+    },
+    {
+      "name": "R.cache",
+      "repo": "https://github.com/HenrikBengtsson/R.cache",
+      "url": "https://henrikbengtsson.github.io/R.cache/",
+      "language": "R"
+    },
+    {
+      "name": "R.oo",
+      "repo": "https://github.com/HenrikBengtsson/R.oo",
+      "url": "https://henrikbengtsson.github.io/R.oo/",
+      "language": "R"
+    },
+    {
+      "name": "profmem",
+      "repo": "https://github.com/HenrikBengtsson/profmem",
+      "url": "https://henrikbengtsson.github.io/profmem/",
+      "language": "R"
+    },
+    {
+      "name": "PSCBS",
+      "repo": "https://github.com/HenrikBengtsson/PSCBS",
+      "url": "https://cran.r-project.org/package=PSCBS",
+      "language": "R"
+    },
+    {
+      "name": "aroma.apd",
+      "repo": "https://github.com/HenrikBengtsson/aroma.apd",
+      "url": "https://cran.r-project.org/package=aroma.apd",
+      "language": "R"
+    },
+    {
+      "name": "conda-stage",
+      "repo": "https://github.com/HenrikBengtsson/conda-stage",
+      "url": "https://github.com/HenrikBengtsson/conda-stage",
+      "language": "Shell"
+    },
+    {
+      "name": "R.utils",
+      "repo": "https://github.com/HenrikBengtsson/R.utils",
+      "url": "https://henrikbengtsson.github.io/R.utils/",
+      "language": "R"
+    },
+    {
+      "name": "environments",
+      "repo": "https://github.com/HenrikBengtsson/environments",
+      "url": "https://henrikbengtsson.github.io/environments/",
+      "language": "R"
+    },
+    {
+      "name": "R.rsp",
+      "repo": "https://github.com/HenrikBengtsson/R.rsp",
+      "url": "https://henrikbengtsson.github.io/R.rsp/",
+      "language": "R"
+    },
+    {
+      "name": "R.methodsS3",
+      "repo": "https://github.com/HenrikBengtsson/R.methodsS3",
+      "url": "https://cran.r-project.org/package=R.methodsS3",
+      "language": "R"
+    },
+    {
+      "name": "r-package-files",
+      "repo": "https://github.com/HenrikBengtsson/r-package-files",
+      "language": "Makefile"
+    },
+    {
+      "name": "R_CRAN_Booster",
+      "repo": "https://github.com/HenrikBengtsson/R_CRAN_Booster",
+      "url": "https://github.com/HenrikBengtsson/R_CRAN_Booster",
+      "language": "JavaScript"
+    },
+    {
+      "name": "talk-user2024-future.mirai",
+      "repo": "https://github.com/HenrikBengtsson/talk-user2024-future.mirai",
+      "url": "https://henrikbengtsson.github.io/talk-user2024-future.mirai/",
+      "language": "CSS"
+    },
+    {
+      "name": "illuminaio",
+      "repo": "https://github.com/HenrikBengtsson/illuminaio",
+      "language": "R"
+    },
+    {
+      "name": "Wishlist-for-R",
+      "repo": "https://github.com/HenrikBengtsson/Wishlist-for-R",
+      "url": "https://github.com/HenrikBengtsson/Wishlist-for-R/issues",
+      "language": "R"
+    },
+    {
+      "name": "port4me",
+      "repo": "https://github.com/HenrikBengtsson/port4me",
+      "url": "https://github.com/HenrikBengtsson/port4me",
+      "language": "Shell"
+    },
+    {
+      "name": "aroma.cn",
+      "repo": "https://github.com/HenrikBengtsson/aroma.cn",
+      "url": "https://cran.r-project.org/package=aroma.cn",
+      "language": "R"
+    },
+    {
+      "name": "R.filesets",
+      "repo": "https://github.com/HenrikBengtsson/R.filesets",
+      "url": "https://cran.r-project.org/package=R.filesets",
+      "language": "R"
+    },
+    {
+      "name": "R.huge",
+      "repo": "https://github.com/HenrikBengtsson/R.huge",
+      "url": "https://cran.r-project.org/package=R.huge",
+      "language": "R"
+    },
+    {
+      "name": "ucsf-hpc-intro-2023",
+      "repo": "https://github.com/HenrikBengtsson/ucsf-hpc-intro-2023",
+      "url": "https://henrikbengtsson.github.io/ucsf-hpc-intro-2023/",
+      "language": "SCSS"
+    },
+    {
+      "name": "aroma.light",
+      "repo": "https://github.com/HenrikBengtsson/aroma.light",
+      "language": "R"
+    },
+    {
+      "name": "future-tutorial-user2022",
+      "repo": "https://github.com/HenrikBengtsson/future-tutorial-user2022",
+      "url": "https://henrikbengtsson.github.io/future-tutorial-user2022/",
+      "language": "R"
+    },
+    {
+      "name": "RNativeAPI",
+      "repo": "https://github.com/HenrikBengtsson/RNativeAPI",
+      "url": "https://henrikbengtsson.github.io/RNativeAPI/",
+      "language": "R"
+    },
+    {
+      "name": "future.clustermq",
+      "repo": "https://github.com/HenrikBengtsson/future.clustermq",
+      "language": "R"
+    },
+    {
+      "name": "HaarSeg",
+      "repo": "https://github.com/HenrikBengtsson/HaarSeg",
+      "language": "C"
+    },
+    {
+      "name": "sfit",
+      "repo": "https://github.com/HenrikBengtsson/sfit",
+      "url": "https://github.com/HenrikBengtsson/sfit",
+      "language": "C"
+    },
+    {
+      "name": "expectile",
+      "repo": "https://github.com/HenrikBengtsson/expectile",
+      "url": "https://github.com/HenrikBengtsson/expectile",
+      "language": "C"
+    },
+    {
+      "name": "markin",
+      "repo": "https://github.com/HenrikBengtsson/markin",
+      "url": "https://github.com/HenrikBengtsson/markin",
+      "language": "Shell"
+    },
+    {
+      "name": "easycatfs",
+      "repo": "https://github.com/HenrikBengtsson/easycatfs",
+      "url": "https://github.com/HenrikBengtsson/easycatfs",
+      "language": "Shell"
+    },
+    {
+      "name": "calmate",
+      "repo": "https://github.com/HenrikBengtsson/calmate",
+      "url": "https://cran.r-project.org/package=calmate",
+      "language": "R"
+    },
+    {
+      "name": "matrixStats.benchmarks",
+      "repo": "https://github.com/HenrikBengtsson/matrixStats.benchmarks"
+    },
+    {
+      "name": "TopDomStudy",
+      "repo": "https://github.com/HenrikBengtsson/TopDomStudy",
+      "url": "https://github.com/HenrikBengtsson/TopDomStudy",
+      "language": "R"
+    },
+    {
+      "name": "drat",
+      "repo": "https://github.com/HenrikBengtsson/drat"
+    },
+    {
+      "name": "TopDomData",
+      "repo": "https://github.com/HenrikBengtsson/TopDomData",
+      "url": "https://github.com/HenrikBengtsson/TopDomData",
+      "language": "R"
+    },
+    {
+      "name": "future.aws.lambda",
+      "repo": "https://github.com/HenrikBengtsson/future.aws.lambda"
+    },
+    {
+      "name": "hex-stickers",
+      "repo": "https://github.com/HenrikBengtsson/hex-stickers",
+      "url": "https://github.com/HenrikBengtsson/hex-stickers",
+      "language": "R"
+    },
+    {
+      "name": "dirdf",
+      "repo": "https://github.com/HenrikBengtsson/dirdf",
+      "url": "https://github.com/HenrikBengtsson/dirdf",
+      "language": "R"
+    },
+    {
+      "name": "GSE84920.parser",
+      "repo": "https://github.com/HenrikBengtsson/GSE84920.parser",
+      "url": "https://github.com/HenrikBengtsson/ramani",
+      "language": "R"
+    },
+    {
+      "name": "CostelloPSCNSeq",
+      "repo": "https://github.com/HenrikBengtsson/CostelloPSCNSeq",
+      "language": "R"
+    },
+    {
+      "name": "aroma.seq",
+      "repo": "https://github.com/HenrikBengtsson/aroma.seq",
+      "url": "https://github.com/HenrikBengtsson/aroma.seq",
+      "language": "R"
+    },
+    {
+      "name": "OpenViaUCSF",
+      "repo": "https://github.com/HenrikBengtsson/OpenViaUCSF",
+      "url": "https://github.com/HenrikBengtsson/OpenViaUCSF",
+      "language": "JavaScript"
+    },
+    {
+      "name": "LinuxEnvironmentModules",
+      "repo": "https://github.com/HenrikBengtsson/LinuxEnvironmentModules",
+      "language": "R"
+    },
+    {
+      "name": "rcli",
+      "repo": "https://github.com/HenrikBengtsson/rcli",
+      "url": "https://github.com/HenrikBengtsson/rcli",
+      "language": "R"
+    },
+    {
+      "name": "r-mirrors",
+      "repo": "https://github.com/HenrikBengtsson/r-mirrors",
+      "language": "Makefile"
+    },
+    {
+      "name": "hpc-stager",
+      "repo": "https://github.com/HenrikBengtsson/hpc-stager",
+      "language": "Shell"
+    },
+    {
+      "name": "aroma.cn.eval",
+      "repo": "https://github.com/HenrikBengtsson/aroma.cn.eval",
+      "language": "R"
+    },
+    {
+      "name": "hsa",
+      "repo": "https://github.com/HenrikBengtsson/hsa",
+      "language": "R"
+    },
+    {
+      "name": "dotfiles-for-emacs",
+      "repo": "https://github.com/HenrikBengtsson/dotfiles-for-emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "fix.connections",
+      "repo": "https://github.com/HenrikBengtsson/fix.connections",
+      "language": "R"
+    },
+    {
+      "name": "fake-hdf5r",
+      "repo": "https://github.com/HenrikBengtsson/fake-hdf5r",
+      "language": "R"
+    },
+    {
+      "name": "bash-startup",
+      "repo": "https://github.com/HenrikBengtsson/bash-startup",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-spark-r",
+      "repo": "https://github.com/HenrikBengtsson/docker-spark-r"
+    },
+    {
+      "name": "future-and-promises",
+      "repo": "https://github.com/HenrikBengtsson/future-and-promises",
+      "language": "R"
+    },
+    {
+      "name": "thinkpad-modsign",
+      "repo": "https://github.com/HenrikBengtsson/thinkpad-modsign",
+      "url": "https://github.com/HenrikBengtsson/thinkpad-modsign",
+      "language": "Shell"
+    },
+    {
+      "name": "future.api.tests",
+      "repo": "https://github.com/HenrikBengtsson/future.api.tests"
+    },
+    {
+      "name": "GRV",
+      "repo": "https://github.com/HenrikBengtsson/GRV",
+      "language": "R"
+    },
+    {
+      "name": "r-base-centos7",
+      "repo": "https://github.com/HenrikBengtsson/r-base-centos7"
+    },
+    {
+      "name": "communicate_with_text",
+      "repo": "https://github.com/HenrikBengtsson/communicate_with_text"
+    },
+    {
+      "name": "speedtest-cli-extras",
+      "repo": "https://github.com/HenrikBengtsson/speedtest-cli-extras",
+      "language": "Shell"
+    },
+    {
+      "name": "r-base-future",
+      "repo": "https://github.com/HenrikBengtsson/r-base-future",
+      "language": "Shell"
+    },
+    {
+      "name": "ucsf-tools",
+      "repo": "https://github.com/HenrikBengtsson/ucsf-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "amazonlinux-r-minimal",
+      "repo": "https://github.com/HenrikBengtsson/amazonlinux-r-minimal",
+      "url": "https://hub.docker.com/r/henrikbengtsson/amazonlinux-r-minimal/"
+    },
+    {
+      "name": "R.menu",
+      "repo": "https://github.com/HenrikBengtsson/R.menu",
+      "language": "R"
+    },
+    {
+      "name": "git-bioc",
+      "repo": "https://github.com/HenrikBengtsson/git-bioc",
+      "language": "Shell"
+    },
+    {
+      "name": "fake-GLAD",
+      "repo": "https://github.com/HenrikBengtsson/fake-GLAD",
+      "language": "Makefile"
+    },
+    {
+      "name": "ThinkpadX1-Windows10-Middle_mouse_button_issue",
+      "repo": "https://github.com/HenrikBengtsson/ThinkpadX1-Windows10-Middle_mouse_button_issue",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "Wishlist-for-Android",
+      "repo": "https://github.com/HenrikBengtsson/Wishlist-for-Android"
+    }
+  ]
+}

@@ -10,9 +10,9 @@
   "commits": 12127,
   "repos": [
     {
-      "name": "quarto-lua-modules",
-      "repo": "https://github.com/mcanouil/quarto-lua-modules",
-      "language": "Lua"
+      "name": "imdb-ratings",
+      "repo": "https://github.com/mcanouil/imdb-ratings",
+      "language": "TypeScript"
     },
     {
       "name": "quarto-wizard",
@@ -21,14 +21,14 @@
       "language": "TypeScript"
     },
     {
-      "name": "quarto-extensions",
-      "repo": "https://github.com/mcanouil/quarto-extensions",
+      "name": "quarto-lua-modules",
+      "repo": "https://github.com/mcanouil/quarto-lua-modules",
       "language": "Lua"
     },
     {
-      "name": "imdb-ratings",
-      "repo": "https://github.com/mcanouil/imdb-ratings",
-      "language": "TypeScript"
+      "name": "quarto-extensions",
+      "repo": "https://github.com/mcanouil/quarto-extensions",
+      "language": "Lua"
     },
     {
       "name": "quarto-extension-test",

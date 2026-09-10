@@ -1,0 +1,502 @@
+{
+  "handle": "azuwis",
+  "name": "Zhong Jianxin",
+  "github": [
+    "https://github.com/azuwis"
+  ],
+  "website": "https://azuwis.github.io/",
+  "own_repos": 118,
+  "commits": 11791,
+  "apps": [],
+  "repos": [
+    {
+      "name": "actions",
+      "repo": "https://github.com/azuwis/actions",
+      "language": "Shell"
+    },
+    {
+      "name": "nix-config",
+      "repo": "https://github.com/azuwis/nix-config",
+      "language": "Nix"
+    },
+    {
+      "name": "torrent-ratio",
+      "repo": "https://github.com/azuwis/torrent-ratio",
+      "language": "Go"
+    },
+    {
+      "name": "pianotrans",
+      "repo": "https://github.com/azuwis/pianotrans",
+      "language": "Nix"
+    },
+    {
+      "name": "zigbee2mqtt-networkmap",
+      "repo": "https://github.com/azuwis/zigbee2mqtt-networkmap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "PureModeDisabler",
+      "repo": "https://github.com/azuwis/PureModeDisabler",
+      "language": "Java"
+    },
+    {
+      "name": "fence-agent.nix",
+      "repo": "https://github.com/azuwis/fence-agent.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "nvd",
+      "repo": "https://github.com/azuwis/nvd",
+      "language": "Python"
+    },
+    {
+      "name": "wheelswipe",
+      "repo": "https://github.com/azuwis/wheelswipe",
+      "language": "C"
+    },
+    {
+      "name": "openwrt-azuwis",
+      "repo": "https://github.com/azuwis/openwrt-azuwis",
+      "language": "Shell"
+    },
+    {
+      "name": "lazyvim-nixvim",
+      "repo": "https://github.com/azuwis/lazyvim-nixvim",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-workflow",
+      "repo": "https://github.com/azuwis/nix-workflow"
+    },
+    {
+      "name": "openwrt-config",
+      "repo": "https://github.com/azuwis/openwrt-config",
+      "language": "Shell"
+    },
+    {
+      "name": "nix-action",
+      "repo": "https://github.com/azuwis/nix-action",
+      "language": "Shell"
+    },
+    {
+      "name": "flakelight-eval-test",
+      "repo": "https://github.com/azuwis/flakelight-eval-test",
+      "language": "Nix"
+    },
+    {
+      "name": "pianosight",
+      "repo": "https://github.com/azuwis/pianosight",
+      "language": "HTML"
+    },
+    {
+      "name": "piano-vlog",
+      "repo": "https://github.com/azuwis/piano-vlog",
+      "language": "Svelte"
+    },
+    {
+      "name": "nix-flakes",
+      "repo": "https://github.com/azuwis/nix-flakes",
+      "language": "Nix"
+    },
+    {
+      "name": "windows",
+      "repo": "https://github.com/azuwis/windows",
+      "url": "https://azuwis.github.io/",
+      "language": "PowerShell"
+    },
+    {
+      "name": ".vimfx",
+      "repo": "https://github.com/azuwis/.vimfx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "org",
+      "repo": "https://github.com/azuwis/org",
+      "language": "Shell"
+    },
+    {
+      "name": "hass-config",
+      "repo": "https://github.com/azuwis/hass-config",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-pc",
+      "repo": "https://github.com/azuwis/ansible-pc",
+      "language": "Jinja"
+    },
+    {
+      "name": "home",
+      "repo": "https://github.com/azuwis/home",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": ".config_fcitx_rime",
+      "repo": "https://github.com/azuwis/.config_fcitx_rime",
+      "language": "Shell"
+    },
+    {
+      "name": ".config_vscode",
+      "repo": "https://github.com/azuwis/.config_vscode"
+    },
+    {
+      "name": "magenta_transcribe",
+      "repo": "https://github.com/azuwis/magenta_transcribe",
+      "language": "PowerShell"
+    },
+    {
+      "name": "bin",
+      "repo": "https://github.com/azuwis/bin",
+      "language": "Python"
+    },
+    {
+      "name": ".mozilla_firefox",
+      "repo": "https://github.com/azuwis/.mozilla_firefox",
+      "language": "CSS"
+    },
+    {
+      "name": "debian",
+      "repo": "https://github.com/azuwis/debian"
+    },
+    {
+      "name": "cdktf-alicloud-demo",
+      "repo": "https://github.com/azuwis/cdktf-alicloud-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "terraform_alicloud_resouce_group_demo",
+      "repo": "https://github.com/azuwis/terraform_alicloud_resouce_group_demo",
+      "language": "HCL"
+    },
+    {
+      "name": "cross-notify",
+      "repo": "https://github.com/azuwis/cross-notify",
+      "language": "Python"
+    },
+    {
+      "name": "svelte-template-hot-tailwind",
+      "repo": "https://github.com/azuwis/svelte-template-hot-tailwind",
+      "language": "JavaScript"
+    },
+    {
+      "name": "AmazfitBipS-WatchFace-Timestyle",
+      "repo": "https://github.com/azuwis/AmazfitBipS-WatchFace-Timestyle",
+      "language": "Shell"
+    },
+    {
+      "name": "AmazfitBipS-WatchFace-Kospet",
+      "repo": "https://github.com/azuwis/AmazfitBipS-WatchFace-Kospet"
+    },
+    {
+      "name": "openwrt-binary-packages",
+      "repo": "https://github.com/azuwis/openwrt-binary-packages",
+      "language": "Standard ML"
+    },
+    {
+      "name": "debian_fonts-fira",
+      "repo": "https://github.com/azuwis/debian_fonts-fira"
+    },
+    {
+      "name": "geotrace-svelte",
+      "repo": "https://github.com/azuwis/geotrace-svelte",
+      "language": "JavaScript"
+    },
+    {
+      "name": "android-backup-restore",
+      "repo": "https://github.com/azuwis/android-backup-restore",
+      "language": "Shell"
+    },
+    {
+      "name": "motion-viewer",
+      "repo": "https://github.com/azuwis/motion-viewer",
+      "language": "Vue"
+    },
+    {
+      "name": "TileHome",
+      "repo": "https://github.com/azuwis/TileHome",
+      "language": "Java"
+    },
+    {
+      "name": "fai-cloud-images",
+      "repo": "https://github.com/azuwis/fai-cloud-images",
+      "language": "Shell"
+    },
+    {
+      "name": "motion-viewer-absolute",
+      "repo": "https://github.com/azuwis/motion-viewer-absolute",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blob",
+      "repo": "https://github.com/azuwis/blob"
+    },
+    {
+      "name": "debian-repo",
+      "repo": "https://github.com/azuwis/debian-repo",
+      "language": "Shell"
+    },
+    {
+      "name": "ruby-gphotos",
+      "repo": "https://github.com/azuwis/ruby-gphotos",
+      "language": "Ruby"
+    },
+    {
+      "name": "ddime-tools",
+      "repo": "https://github.com/azuwis/ddime-tools",
+      "language": "Ruby"
+    },
+    {
+      "name": "geotr",
+      "repo": "https://github.com/azuwis/geotr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "windows_cmder",
+      "repo": "https://github.com/azuwis/windows_cmder",
+      "language": "Perl"
+    },
+    {
+      "name": "debian_emacs24",
+      "repo": "https://github.com/azuwis/debian_emacs24",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "typing",
+      "repo": "https://github.com/azuwis/typing",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-openwrt",
+      "repo": "https://github.com/azuwis/ansible-openwrt",
+      "language": "Shell"
+    },
+    {
+      "name": ".pentadactyl",
+      "repo": "https://github.com/azuwis/.pentadactyl",
+      "language": "JavaScript"
+    },
+    {
+      "name": ".pentadactyl_plugins_dactyl",
+      "repo": "https://github.com/azuwis/.pentadactyl_plugins_dactyl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "speedpad",
+      "repo": "https://github.com/azuwis/speedpad",
+      "language": "Python"
+    },
+    {
+      "name": "debian_qbittorrent",
+      "repo": "https://github.com/azuwis/debian_qbittorrent",
+      "language": "C++"
+    },
+    {
+      "name": "ruby-lknovel",
+      "repo": "https://github.com/azuwis/ruby-lknovel",
+      "language": "Ruby"
+    },
+    {
+      "name": "debian_rote",
+      "repo": "https://github.com/azuwis/debian_rote",
+      "language": "C"
+    },
+    {
+      "name": "debian_omnitty",
+      "repo": "https://github.com/azuwis/debian_omnitty",
+      "language": "C"
+    },
+    {
+      "name": "debian_bspwm-extra",
+      "repo": "https://github.com/azuwis/debian_bspwm-extra"
+    },
+    {
+      "name": ".emacs.d",
+      "repo": "https://github.com/azuwis/.emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "debian_redshift",
+      "repo": "https://github.com/azuwis/debian_redshift",
+      "language": "Shell"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/azuwis/slides",
+      "language": "Shell"
+    },
+    {
+      "name": "cmdown",
+      "repo": "https://github.com/azuwis/cmdown",
+      "language": "Perl"
+    },
+    {
+      "name": "azuwis",
+      "repo": "https://github.com/azuwis/azuwis",
+      "language": "CSS"
+    },
+    {
+      "name": "scrap",
+      "repo": "https://github.com/azuwis/scrap",
+      "language": "CSS"
+    },
+    {
+      "name": "debian_docker.io",
+      "repo": "https://github.com/azuwis/debian_docker.io",
+      "language": "Go"
+    },
+    {
+      "name": "android_DinnerTime",
+      "repo": "https://github.com/azuwis/android_DinnerTime",
+      "language": "Java"
+    },
+    {
+      "name": "android_vendor_azuwis",
+      "repo": "https://github.com/azuwis/android_vendor_azuwis",
+      "language": "Shell"
+    },
+    {
+      "name": "gerrit-formula",
+      "repo": "https://github.com/azuwis/gerrit-formula",
+      "language": "Scheme"
+    },
+    {
+      "name": "erlang-for-dummies-zh-cn",
+      "repo": "https://github.com/azuwis/erlang-for-dummies-zh-cn",
+      "language": "Erlang"
+    },
+    {
+      "name": "debian-lenny_bash",
+      "repo": "https://github.com/azuwis/debian-lenny_bash"
+    },
+    {
+      "name": "debian_util-linux-extra",
+      "repo": "https://github.com/azuwis/debian_util-linux-extra",
+      "language": "C"
+    },
+    {
+      "name": ".vim",
+      "repo": "https://github.com/azuwis/.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "debian_iscsitarget",
+      "repo": "https://github.com/azuwis/debian_iscsitarget",
+      "language": "C"
+    },
+    {
+      "name": "debian_graphicsmagick",
+      "repo": "https://github.com/azuwis/debian_graphicsmagick",
+      "language": "C"
+    },
+    {
+      "name": ".config_awesome",
+      "repo": "https://github.com/azuwis/.config_awesome",
+      "language": "Lua"
+    },
+    {
+      "name": "markup_workshop",
+      "repo": "https://github.com/azuwis/markup_workshop",
+      "language": "CSS"
+    },
+    {
+      "name": "android_WebToolbox",
+      "repo": "https://github.com/azuwis/android_WebToolbox",
+      "language": "Java"
+    },
+    {
+      "name": "gerrit-gitblit",
+      "repo": "https://github.com/azuwis/gerrit-gitblit",
+      "language": "Java"
+    },
+    {
+      "name": "android-tools",
+      "repo": "https://github.com/azuwis/android-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "netease.github.com",
+      "repo": "https://github.com/azuwis/netease.github.com",
+      "language": "CSS"
+    },
+    {
+      "name": "awestruct-foundation-demo",
+      "repo": "https://github.com/azuwis/awestruct-foundation-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nanoc-demo",
+      "repo": "https://github.com/azuwis/nanoc-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sphinx_demo",
+      "repo": "https://github.com/azuwis/sphinx_demo",
+      "language": "Python"
+    },
+    {
+      "name": "debian_raid1-dkms",
+      "repo": "https://github.com/azuwis/debian_raid1-dkms",
+      "language": "C"
+    },
+    {
+      "name": "fetch-win32-symbols",
+      "repo": "https://github.com/azuwis/fetch-win32-symbols",
+      "language": "Python"
+    },
+    {
+      "name": "deb_java-package",
+      "repo": "https://github.com/azuwis/deb_java-package",
+      "language": "Shell"
+    },
+    {
+      "name": "bookmarklet",
+      "repo": "https://github.com/azuwis/bookmarklet"
+    },
+    {
+      "name": "deb_pommed",
+      "repo": "https://github.com/azuwis/deb_pommed",
+      "language": "C"
+    },
+    {
+      "name": "asciidoc_demo",
+      "repo": "https://github.com/azuwis/asciidoc_demo",
+      "language": "XML"
+    },
+    {
+      "name": ".fonts_powerline",
+      "repo": "https://github.com/azuwis/.fonts_powerline"
+    },
+    {
+      "name": "android_theme_engine_mintheme",
+      "repo": "https://github.com/azuwis/android_theme_engine_mintheme",
+      "language": "Shell"
+    },
+    {
+      "name": "mkrdns",
+      "repo": "https://github.com/azuwis/mkrdns"
+    },
+    {
+      "name": "android_youku_helper",
+      "repo": "https://github.com/azuwis/android_youku_helper",
+      "language": "Java"
+    },
+    {
+      "name": "ec2_etc",
+      "repo": "https://github.com/azuwis/ec2_etc"
+    },
+    {
+      "name": "azuwis.github.com",
+      "repo": "https://github.com/azuwis/azuwis.github.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gmailThis",
+      "repo": "https://github.com/azuwis/gmailThis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kindle_compcache",
+      "repo": "https://github.com/azuwis/kindle_compcache",
+      "language": "C"
+    }
+  ]
+}

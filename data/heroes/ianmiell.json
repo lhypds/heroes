@@ -1,0 +1,502 @@
+{
+  "handle": "ianmiell",
+  "name": "Ian Miell",
+  "github": [
+    "https://github.com/ianmiell"
+  ],
+  "website": "https://zwischenzugs.com/",
+  "bio": "Writer: @ianmiell.bsky.social Blogger: https://zwischenzugs.com/",
+  "own_repos": 215,
+  "commits": 10276,
+  "apps": [],
+  "repos": [
+    {
+      "name": "bash-and-agents-project",
+      "repo": "https://github.com/ianmiell/bash-and-agents-project"
+    },
+    {
+      "name": "bash-and-agents-private",
+      "repo": "https://github.com/ianmiell/bash-and-agents-private"
+    },
+    {
+      "name": "shell-with-genai-oreilly",
+      "repo": "https://github.com/ianmiell/shell-with-genai-oreilly",
+      "language": "Shell"
+    },
+    {
+      "name": "learngitthehardway",
+      "repo": "https://github.com/ianmiell/learngitthehardway"
+    },
+    {
+      "name": "bash-and-agents",
+      "repo": "https://github.com/ianmiell/bash-and-agents"
+    },
+    {
+      "name": "ianmiell-mcp-server",
+      "repo": "https://github.com/ianmiell/ianmiell-mcp-server",
+      "language": "Makefile"
+    },
+    {
+      "name": "mcp_minimal",
+      "repo": "https://github.com/ianmiell/mcp_minimal",
+      "language": "Python"
+    },
+    {
+      "name": "curzon-listings",
+      "repo": "https://github.com/ianmiell/curzon-listings",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fine-tune",
+      "repo": "https://github.com/ianmiell/fine-tune",
+      "language": "Shell"
+    },
+    {
+      "name": "gtd-public",
+      "repo": "https://github.com/ianmiell/gtd-public",
+      "language": "Shell"
+    },
+    {
+      "name": "openaiserver",
+      "repo": "https://github.com/ianmiell/openaiserver",
+      "language": "Go"
+    },
+    {
+      "name": "git-clinic-example",
+      "repo": "https://github.com/ianmiell/git-clinic-example"
+    },
+    {
+      "name": "letter-boxed",
+      "repo": "https://github.com/ianmiell/letter-boxed",
+      "language": "Python"
+    },
+    {
+      "name": "llm_history_essay",
+      "repo": "https://github.com/ianmiell/llm_history_essay",
+      "language": "Python"
+    },
+    {
+      "name": "python-fundamentals",
+      "repo": "https://github.com/ianmiell/python-fundamentals"
+    },
+    {
+      "name": "util-templates",
+      "repo": "https://github.com/ianmiell/util-templates",
+      "language": "Shell"
+    },
+    {
+      "name": "upjet-provider-1",
+      "repo": "https://github.com/ianmiell/upjet-provider-1",
+      "language": "Go"
+    },
+    {
+      "name": "bash-scripting-in-three-weeks",
+      "repo": "https://github.com/ianmiell/bash-scripting-in-three-weeks",
+      "language": "Shell"
+    },
+    {
+      "name": "infrastructure",
+      "repo": "https://github.com/ianmiell/infrastructure",
+      "language": "Shell"
+    },
+    {
+      "name": "simple-dockerfile",
+      "repo": "https://github.com/ianmiell/simple-dockerfile",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cheapci",
+      "repo": "https://github.com/ianmiell/cheapci",
+      "language": "Shell"
+    },
+    {
+      "name": "shutit-k3s",
+      "repo": "https://github.com/ianmiell/shutit-k3s",
+      "language": "Python"
+    },
+    {
+      "name": "shutit",
+      "repo": "https://github.com/ianmiell/shutit",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-k8s",
+      "repo": "https://github.com/ianmiell/shutit-k8s",
+      "language": "Python"
+    },
+    {
+      "name": "jq-examples",
+      "repo": "https://github.com/ianmiell/jq-examples",
+      "language": "Shell"
+    },
+    {
+      "name": "photogrammetry",
+      "repo": "https://github.com/ianmiell/photogrammetry",
+      "language": "HCL"
+    },
+    {
+      "name": "katacoda-scenarios",
+      "repo": "https://github.com/ianmiell/katacoda-scenarios",
+      "url": "https://www.katacoda.com/ianmiell",
+      "language": "Shell"
+    },
+    {
+      "name": "bad-dockerfile",
+      "repo": "https://github.com/ianmiell/bad-dockerfile",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "get-things-done",
+      "repo": "https://github.com/ianmiell/get-things-done",
+      "language": "Shell"
+    },
+    {
+      "name": "shutit-ebpf",
+      "repo": "https://github.com/ianmiell/shutit-ebpf",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-test",
+      "repo": "https://github.com/ianmiell/shutit-test",
+      "language": "HTML"
+    },
+    {
+      "name": "gitops-example-infra",
+      "repo": "https://github.com/ianmiell/gitops-example-infra"
+    },
+    {
+      "name": "gitops-example-deploy",
+      "repo": "https://github.com/ianmiell/gitops-example-deploy"
+    },
+    {
+      "name": "gitops-example-app",
+      "repo": "https://github.com/ianmiell/gitops-example-app",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "bash-next-steps",
+      "repo": "https://github.com/ianmiell/bash-next-steps",
+      "language": "Shell"
+    },
+    {
+      "name": "introduction-to-the-command-line",
+      "repo": "https://github.com/ianmiell/introduction-to-the-command-line"
+    },
+    {
+      "name": "sqliteonwebpage",
+      "repo": "https://github.com/ianmiell/sqliteonwebpage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gitops-first-steps",
+      "repo": "https://github.com/ianmiell/gitops-first-steps"
+    },
+    {
+      "name": "introduction-to-bash",
+      "repo": "https://github.com/ianmiell/introduction-to-bash",
+      "url": "https://learning.oreilly.com/live-training/courses/introduction-to-the-bash-shell/0636920267348/",
+      "language": "Shell"
+    },
+    {
+      "name": "shutit-minikube",
+      "repo": "https://github.com/ianmiell/shutit-minikube",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-openshift-cluster-ansible",
+      "repo": "https://github.com/ianmiell/shutit-openshift-cluster-ansible",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-scripts",
+      "repo": "https://github.com/ianmiell/shutit-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-write-sys-call",
+      "repo": "https://github.com/ianmiell/shutit-write-sys-call",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-trow",
+      "repo": "https://github.com/ianmiell/shutit-trow",
+      "language": "Python"
+    },
+    {
+      "name": "git-rebase-tutorial",
+      "repo": "https://github.com/ianmiell/git-rebase-tutorial",
+      "language": "Python"
+    },
+    {
+      "name": "revision-system",
+      "repo": "https://github.com/ianmiell/revision-system",
+      "language": "Python"
+    },
+    {
+      "name": "gitops-example",
+      "repo": "https://github.com/ianmiell/gitops-example"
+    },
+    {
+      "name": "revision-system-images",
+      "repo": "https://github.com/ianmiell/revision-system-images"
+    },
+    {
+      "name": "shutit-home-server",
+      "repo": "https://github.com/ianmiell/shutit-home-server",
+      "language": "Groovy"
+    },
+    {
+      "name": "lucid",
+      "repo": "https://github.com/ianmiell/lucid",
+      "language": "Python"
+    },
+    {
+      "name": "equal_experts",
+      "repo": "https://github.com/ianmiell/equal_experts",
+      "language": "Python"
+    },
+    {
+      "name": "actions-play",
+      "repo": "https://github.com/ianmiell/actions-play"
+    },
+    {
+      "name": "hello-github-actions",
+      "repo": "https://github.com/ianmiell/hello-github-actions",
+      "url": "https://lab.github.com/github/hello-github-actions!",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shutit-vultr",
+      "repo": "https://github.com/ianmiell/shutit-vultr",
+      "language": "Python"
+    },
+    {
+      "name": "vultr-bare-metal",
+      "repo": "https://github.com/ianmiell/vultr-bare-metal",
+      "language": "HCL"
+    },
+    {
+      "name": "shutit-minishift",
+      "repo": "https://github.com/ianmiell/shutit-minishift",
+      "language": "Python"
+    },
+    {
+      "name": "flux-get-started-tenant",
+      "repo": "https://github.com/ianmiell/flux-get-started-tenant",
+      "language": "Smarty"
+    },
+    {
+      "name": "shutit-openstack",
+      "repo": "https://github.com/ianmiell/shutit-openstack",
+      "language": "Python"
+    },
+    {
+      "name": "terraform-provider-ltthw",
+      "repo": "https://github.com/ianmiell/terraform-provider-ltthw",
+      "language": "Go"
+    },
+    {
+      "name": "simple_terraform_template_loop",
+      "repo": "https://github.com/ianmiell/simple_terraform_template_loop",
+      "language": "HCL"
+    },
+    {
+      "name": "ZZshutit-home-desktop",
+      "repo": "https://github.com/ianmiell/ZZshutit-home-desktop",
+      "language": "Python"
+    },
+    {
+      "name": "share-tracker",
+      "repo": "https://github.com/ianmiell/share-tracker",
+      "language": "PLpgSQL"
+    },
+    {
+      "name": "tiller-chart",
+      "repo": "https://github.com/ianmiell/tiller-chart",
+      "language": "Smarty"
+    },
+    {
+      "name": "test-chart",
+      "repo": "https://github.com/ianmiell/test-chart",
+      "language": "Smarty"
+    },
+    {
+      "name": "bash_startup",
+      "repo": "https://github.com/ianmiell/bash_startup",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shutit-openshift-cluster",
+      "repo": "https://github.com/ianmiell/shutit-openshift-cluster",
+      "language": "Python"
+    },
+    {
+      "name": "concourse-play",
+      "repo": "https://github.com/ianmiell/concourse-play"
+    },
+    {
+      "name": "concourse-meta-pipeline-example",
+      "repo": "https://github.com/ianmiell/concourse-meta-pipeline-example"
+    },
+    {
+      "name": "net-tools",
+      "repo": "https://github.com/ianmiell/net-tools",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shutit-k8s-the-hard-way",
+      "repo": "https://github.com/ianmiell/shutit-k8s-the-hard-way",
+      "language": "Python"
+    },
+    {
+      "name": "cherry-pick-mystery",
+      "repo": "https://github.com/ianmiell/cherry-pick-mystery",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-provider-tm",
+      "repo": "https://github.com/ianmiell/terraform-provider-tm",
+      "url": "https://triggermesh.com",
+      "language": "Go"
+    },
+    {
+      "name": "shutit-wikijs",
+      "repo": "https://github.com/ianmiell/shutit-wikijs",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-k8s-by-hand",
+      "repo": "https://github.com/ianmiell/shutit-k8s-by-hand",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-library",
+      "repo": "https://github.com/ianmiell/shutit-library",
+      "language": "Shell"
+    },
+    {
+      "name": "ZZ_DEAD_ansible-home-servers",
+      "repo": "https://github.com/ianmiell/ZZ_DEAD_ansible-home-servers"
+    },
+    {
+      "name": "shutit-examples",
+      "repo": "https://github.com/ianmiell/shutit-examples",
+      "language": "Python"
+    },
+    {
+      "name": "terraform-scripts",
+      "repo": "https://github.com/ianmiell/terraform-scripts",
+      "language": "HCL"
+    },
+    {
+      "name": "landrush-test",
+      "repo": "https://github.com/ianmiell/landrush-test",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shutit-terraform-build",
+      "repo": "https://github.com/ianmiell/shutit-terraform-build",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-vpn-example",
+      "repo": "https://github.com/ianmiell/shutit-vpn-example",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-vault",
+      "repo": "https://github.com/ianmiell/shutit-vault",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-linux-dns",
+      "repo": "https://github.com/ianmiell/shutit-linux-dns",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-docs",
+      "repo": "https://github.com/ianmiell/shutit-docs",
+      "language": "HTML"
+    },
+    {
+      "name": "shutit-multiple-ips",
+      "repo": "https://github.com/ianmiell/shutit-multiple-ips",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-laptop-vm",
+      "repo": "https://github.com/ianmiell/shutit-laptop-vm"
+    },
+    {
+      "name": "autotrace",
+      "repo": "https://github.com/ianmiell/autotrace",
+      "language": "Python"
+    },
+    {
+      "name": "docker-sleep",
+      "repo": "https://github.com/ianmiell/docker-sleep",
+      "language": "Assembly"
+    },
+    {
+      "name": "pimpbash",
+      "repo": "https://github.com/ianmiell/pimpbash",
+      "language": "C"
+    },
+    {
+      "name": "shutit-orca-build",
+      "repo": "https://github.com/ianmiell/shutit-orca-build",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-gvisor",
+      "repo": "https://github.com/ianmiell/shutit-gvisor",
+      "language": "Python"
+    },
+    {
+      "name": "git-101-tutorial",
+      "repo": "https://github.com/ianmiell/git-101-tutorial",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-kaniko",
+      "repo": "https://github.com/ianmiell/shutit-kaniko",
+      "language": "Python"
+    },
+    {
+      "name": "shutit-chef-env",
+      "repo": "https://github.com/ianmiell/shutit-chef-env",
+      "language": "Python"
+    },
+    {
+      "name": "sar_report",
+      "repo": "https://github.com/ianmiell/sar_report",
+      "url": "https://zwischenzugs.com/2018/03/27/terminal-perf-graphs-in-one-command/",
+      "language": "Awk"
+    },
+    {
+      "name": "themortgagemeter",
+      "repo": "https://github.com/ianmiell/themortgagemeter",
+      "language": "HTML"
+    },
+    {
+      "name": "cookbook-openshift3-frozen",
+      "repo": "https://github.com/ianmiell/cookbook-openshift3-frozen",
+      "language": "Ruby"
+    },
+    {
+      "name": "gitdags",
+      "repo": "https://github.com/ianmiell/gitdags",
+      "url": "https://zwischenzugs.com/2018/03/08/create-your-own-git-diagrams/",
+      "language": "Shell"
+    },
+    {
+      "name": "base91",
+      "repo": "https://github.com/ianmiell/base91"
+    },
+    {
+      "name": "shutit-ethereum",
+      "repo": "https://github.com/ianmiell/shutit-ethereum",
+      "language": "Python"
+    }
+  ]
+}

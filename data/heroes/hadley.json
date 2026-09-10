@@ -10,8 +10,25 @@
   "commits": 10714,
   "repos": [
     {
+      "name": "cran-deadlines",
+      "repo": "https://github.com/hadley/cran-deadlines",
+      "url": "https://hadley.github.io/cran-deadlines/",
+      "language": "Dockerfile"
+    },
+    {
       "name": "iah-wait-time",
       "repo": "https://github.com/hadley/iah-wait-time",
+      "language": "R"
+    },
+    {
+      "name": "bananarama",
+      "repo": "https://github.com/hadley/bananarama",
+      "url": "https://hadley.github.io/bananarama/",
+      "language": "R"
+    },
+    {
+      "name": "houston-pollen",
+      "repo": "https://github.com/hadley/houston-pollen",
       "language": "R"
     },
     {
@@ -20,20 +37,8 @@
       "language": "R"
     },
     {
-      "name": "cran-deadlines",
-      "repo": "https://github.com/hadley/cran-deadlines",
-      "url": "https://hadley.github.io/cran-deadlines/",
-      "language": "Dockerfile"
-    },
-    {
       "name": "contoso",
       "repo": "https://github.com/hadley/contoso",
-      "language": "R"
-    },
-    {
-      "name": "bananarama",
-      "repo": "https://github.com/hadley/bananarama",
-      "url": "https://hadley.github.io/bananarama/",
       "language": "R"
     },
     {
@@ -45,11 +50,6 @@
     {
       "name": "available-work",
       "repo": "https://github.com/hadley/available-work",
-      "language": "R"
-    },
-    {
-      "name": "houston-pollen",
-      "repo": "https://github.com/hadley/houston-pollen",
       "language": "R"
     },
     {

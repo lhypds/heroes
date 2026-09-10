@@ -1,0 +1,509 @@
+{
+  "handle": "itchyny",
+  "name": "itchyny",
+  "github": [
+    "https://github.com/itchyny"
+  ],
+  "bio": "Professional of jq.",
+  "own_repos": 128,
+  "commits": 12535,
+  "apps": [],
+  "repos": [
+    {
+      "name": "timefmt-go",
+      "repo": "https://github.com/itchyny/timefmt-go",
+      "language": "Go"
+    },
+    {
+      "name": "s3-cache-action",
+      "repo": "https://github.com/itchyny/s3-cache-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gojq",
+      "repo": "https://github.com/itchyny/gojq",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/itchyny/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "qhs",
+      "repo": "https://github.com/itchyny/qhs",
+      "language": "Haskell"
+    },
+    {
+      "name": "vim-insert-mode-motion",
+      "repo": "https://github.com/itchyny/vim-insert-mode-motion",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/itchyny/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "pihex",
+      "repo": "https://github.com/itchyny/pihex",
+      "language": "Rust"
+    },
+    {
+      "name": "go2bf",
+      "repo": "https://github.com/itchyny/go2bf",
+      "language": "Go"
+    },
+    {
+      "name": "astgen-go",
+      "repo": "https://github.com/itchyny/astgen-go",
+      "language": "Go"
+    },
+    {
+      "name": "maketen-go",
+      "repo": "https://github.com/itchyny/maketen-go",
+      "language": "Go"
+    },
+    {
+      "name": "volume-go",
+      "repo": "https://github.com/itchyny/volume-go",
+      "url": "https://pkg.go.dev/github.com/itchyny/volume-go?tab=doc",
+      "language": "Go"
+    },
+    {
+      "name": "calendar.vim",
+      "repo": "https://github.com/itchyny/calendar.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "lightline.vim",
+      "repo": "https://github.com/itchyny/lightline.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "golang-simple-server-sample",
+      "repo": "https://github.com/itchyny/golang-simple-server-sample",
+      "language": "Go"
+    },
+    {
+      "name": "bin",
+      "repo": "https://github.com/itchyny/bin",
+      "language": "Shell"
+    },
+    {
+      "name": "itchyny",
+      "repo": "https://github.com/itchyny/itchyny"
+    },
+    {
+      "name": "base58-go",
+      "repo": "https://github.com/itchyny/base58-go",
+      "language": "Go"
+    },
+    {
+      "name": "json2yaml",
+      "repo": "https://github.com/itchyny/json2yaml",
+      "language": "Go"
+    },
+    {
+      "name": "vim-haskell-indent",
+      "repo": "https://github.com/itchyny/vim-haskell-indent",
+      "language": "Haskell"
+    },
+    {
+      "name": "setup",
+      "repo": "https://github.com/itchyny/setup",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-qfedit",
+      "repo": "https://github.com/itchyny/vim-qfedit",
+      "language": "Vim Script"
+    },
+    {
+      "name": "unite-preview",
+      "repo": "https://github.com/itchyny/unite-preview",
+      "language": "Vim Script"
+    },
+    {
+      "name": "gojo",
+      "repo": "https://github.com/itchyny/gojo",
+      "language": "Go"
+    },
+    {
+      "name": "miv",
+      "repo": "https://github.com/itchyny/miv",
+      "language": "Haskell"
+    },
+    {
+      "name": "vim-grep",
+      "repo": "https://github.com/itchyny/vim-grep",
+      "language": "Vim Script"
+    },
+    {
+      "name": "unite-changetime",
+      "repo": "https://github.com/itchyny/unite-changetime",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-haskell-sort-import",
+      "repo": "https://github.com/itchyny/vim-haskell-sort-import",
+      "language": "Haskell"
+    },
+    {
+      "name": "mackerel-client-hs",
+      "repo": "https://github.com/itchyny/mackerel-client-hs",
+      "url": "https://hackage.haskell.org/package/mackerel-client",
+      "language": "Haskell"
+    },
+    {
+      "name": "vim-highlighturl",
+      "repo": "https://github.com/itchyny/vim-highlighturl",
+      "language": "Vim Script"
+    },
+    {
+      "name": "mtimedir",
+      "repo": "https://github.com/itchyny/mtimedir",
+      "language": "Go"
+    },
+    {
+      "name": "bed",
+      "repo": "https://github.com/itchyny/bed",
+      "language": "Go"
+    },
+    {
+      "name": "screensaver.vim",
+      "repo": "https://github.com/itchyny/screensaver.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-increx",
+      "repo": "https://github.com/itchyny/vim-increx",
+      "language": "Vim Script"
+    },
+    {
+      "name": "lightline-powerful",
+      "repo": "https://github.com/itchyny/lightline-powerful",
+      "language": "Vim Script"
+    },
+    {
+      "name": "mackerel-client-rs",
+      "repo": "https://github.com/itchyny/mackerel-client-rs",
+      "url": "https://crates.io/crates/mackerel_client",
+      "language": "Rust"
+    },
+    {
+      "name": "uptime-rs",
+      "repo": "https://github.com/itchyny/uptime-rs",
+      "url": "https://crates.io/crates/uptime_lib",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-tmpbuffer",
+      "repo": "https://github.com/itchyny/vim-tmpbuffer",
+      "language": "Vim Script"
+    },
+    {
+      "name": "rassemble-go",
+      "repo": "https://github.com/itchyny/rassemble-go",
+      "language": "Go"
+    },
+    {
+      "name": "log2hex",
+      "repo": "https://github.com/itchyny/log2hex",
+      "language": "Rust"
+    },
+    {
+      "name": "zshhist-go",
+      "repo": "https://github.com/itchyny/zshhist-go",
+      "language": "Go"
+    },
+    {
+      "name": "actions-cache-issues-1263",
+      "repo": "https://github.com/itchyny/actions-cache-issues-1263"
+    },
+    {
+      "name": "fastinvsqrt",
+      "repo": "https://github.com/itchyny/fastinvsqrt",
+      "language": "Makefile"
+    },
+    {
+      "name": "maze",
+      "repo": "https://github.com/itchyny/maze",
+      "language": "Go"
+    },
+    {
+      "name": "renovate-reproduction-go-mod-directive",
+      "repo": "https://github.com/itchyny/renovate-reproduction-go-mod-directive",
+      "language": "Go"
+    },
+    {
+      "name": "formulate",
+      "repo": "https://github.com/itchyny/formulate",
+      "language": "Shell"
+    },
+    {
+      "name": "mackerel-plugin-dice",
+      "repo": "https://github.com/itchyny/mackerel-plugin-dice",
+      "language": "Rust"
+    },
+    {
+      "name": "mackerel-plugin-rs",
+      "repo": "https://github.com/itchyny/mackerel-plugin-rs",
+      "url": "https://crates.io/crates/mackerel_plugin",
+      "language": "Rust"
+    },
+    {
+      "name": "mackerel-plugin-dice-sh",
+      "repo": "https://github.com/itchyny/mackerel-plugin-dice-sh",
+      "language": "Shell"
+    },
+    {
+      "name": "mackerel-plugin-loadavg",
+      "repo": "https://github.com/itchyny/mackerel-plugin-loadavg",
+      "language": "Rust"
+    },
+    {
+      "name": "mackerel-plugin-uptime",
+      "repo": "https://github.com/itchyny/mackerel-plugin-uptime",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-extra-snippets",
+      "repo": "https://github.com/itchyny/vim-extra-snippets",
+      "language": "Vim Snippet"
+    },
+    {
+      "name": "gh-issues-8092",
+      "repo": "https://github.com/itchyny/gh-issues-8092"
+    },
+    {
+      "name": "mackerel-plugin-battery",
+      "repo": "https://github.com/itchyny/mackerel-plugin-battery",
+      "language": "Go"
+    },
+    {
+      "name": "vim-gof",
+      "repo": "https://github.com/itchyny/vim-gof",
+      "language": "Vim Script"
+    },
+    {
+      "name": "mmv",
+      "repo": "https://github.com/itchyny/mmv",
+      "language": "Go"
+    },
+    {
+      "name": "zsh-git-alias",
+      "repo": "https://github.com/itchyny/zsh-git-alias",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-cursorword",
+      "repo": "https://github.com/itchyny/vim-cursorword",
+      "language": "Vim Script"
+    },
+    {
+      "name": "brainfuck",
+      "repo": "https://github.com/itchyny/brainfuck",
+      "language": "Brainfuck"
+    },
+    {
+      "name": "mkrg",
+      "repo": "https://github.com/itchyny/mkrg",
+      "language": "Go"
+    },
+    {
+      "name": "github-migrator",
+      "repo": "https://github.com/itchyny/github-migrator",
+      "language": "Go"
+    },
+    {
+      "name": "vim-term",
+      "repo": "https://github.com/itchyny/vim-term",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-winfix",
+      "repo": "https://github.com/itchyny/vim-winfix",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-cmdline-ranges",
+      "repo": "https://github.com/itchyny/vim-cmdline-ranges",
+      "language": "Vim Script"
+    },
+    {
+      "name": "thumbnail.vim",
+      "repo": "https://github.com/itchyny/thumbnail.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-cmdline-escape",
+      "repo": "https://github.com/itchyny/vim-cmdline-escape",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-gitbranch",
+      "repo": "https://github.com/itchyny/vim-gitbranch",
+      "language": "Vim Script"
+    },
+    {
+      "name": "nhknewsrss",
+      "repo": "https://github.com/itchyny/nhknewsrss",
+      "language": "Shell"
+    },
+    {
+      "name": "git-branch-name",
+      "repo": "https://github.com/itchyny/git-branch-name",
+      "language": "C"
+    },
+    {
+      "name": "vim-closebuffer",
+      "repo": "https://github.com/itchyny/vim-closebuffer",
+      "language": "Vim Script"
+    },
+    {
+      "name": "fillin",
+      "repo": "https://github.com/itchyny/fillin",
+      "language": "Go"
+    },
+    {
+      "name": "rexdep",
+      "repo": "https://github.com/itchyny/rexdep",
+      "language": "Go"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/itchyny/.github"
+    },
+    {
+      "name": "event-go",
+      "repo": "https://github.com/itchyny/event-go",
+      "language": "Go"
+    },
+    {
+      "name": "tie",
+      "repo": "https://github.com/itchyny/tie",
+      "language": "Go"
+    },
+    {
+      "name": "mackerel-plugin-ntp",
+      "repo": "https://github.com/itchyny/mackerel-plugin-ntp",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-external",
+      "repo": "https://github.com/itchyny/vim-external",
+      "language": "Vim Script"
+    },
+    {
+      "name": "landscape.vim",
+      "repo": "https://github.com/itchyny/landscape.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-qffrom",
+      "repo": "https://github.com/itchyny/vim-qffrom",
+      "language": "Vim Script"
+    },
+    {
+      "name": "atcoder",
+      "repo": "https://github.com/itchyny/atcoder",
+      "url": "https://atcoder.jp/",
+      "language": "Rust"
+    },
+    {
+      "name": "zsh-auto-fillin",
+      "repo": "https://github.com/itchyny/zsh-auto-fillin",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-parenmatch",
+      "repo": "https://github.com/itchyny/vim-parenmatch",
+      "language": "Vim Script"
+    },
+    {
+      "name": "sjsp",
+      "repo": "https://github.com/itchyny/sjsp",
+      "url": "https://hackage.haskell.org/package/sjsp",
+      "language": "Haskell"
+    },
+    {
+      "name": "dictionary.vim",
+      "repo": "https://github.com/itchyny/dictionary.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "github-better-header",
+      "repo": "https://github.com/itchyny/github-better-header",
+      "language": "HTML"
+    },
+    {
+      "name": "homebrew-rexdep",
+      "repo": "https://github.com/itchyny/homebrew-rexdep",
+      "url": "https://github.com/itchyny/rexdep"
+    },
+    {
+      "name": "homebrew-fillin",
+      "repo": "https://github.com/itchyny/homebrew-fillin"
+    },
+    {
+      "name": "homebrew-maze",
+      "repo": "https://github.com/itchyny/homebrew-maze"
+    },
+    {
+      "name": "homebrew-miv",
+      "repo": "https://github.com/itchyny/homebrew-miv"
+    },
+    {
+      "name": "homebrew-qhs",
+      "repo": "https://github.com/itchyny/homebrew-qhs"
+    },
+    {
+      "name": "homebrew-gojo",
+      "repo": "https://github.com/itchyny/homebrew-gojo"
+    },
+    {
+      "name": "homebrew-git-branch-name",
+      "repo": "https://github.com/itchyny/homebrew-git-branch-name"
+    },
+    {
+      "name": "shell-function-and",
+      "repo": "https://github.com/itchyny/shell-function-and"
+    },
+    {
+      "name": "vim-hatena-link",
+      "repo": "https://github.com/itchyny/vim-hatena-link",
+      "language": "Vim Script"
+    },
+    {
+      "name": "setupfiles-go",
+      "repo": "https://github.com/itchyny/setupfiles-go",
+      "language": "Go"
+    },
+    {
+      "name": "unite-eject",
+      "repo": "https://github.com/itchyny/unite-eject",
+      "language": "Vim Script"
+    },
+    {
+      "name": "sbt-compile-warn",
+      "repo": "https://github.com/itchyny/sbt-compile-warn",
+      "language": "Go"
+    },
+    {
+      "name": "vim-autoft",
+      "repo": "https://github.com/itchyny/vim-autoft",
+      "language": "Vim Script"
+    },
+    {
+      "name": "mmpp",
+      "repo": "https://github.com/itchyny/mmpp",
+      "language": "Rust"
+    },
+    {
+      "name": "procout",
+      "repo": "https://github.com/itchyny/procout",
+      "language": "Rust"
+    }
+  ]
+}

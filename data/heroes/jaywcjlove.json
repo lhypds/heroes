@@ -8,6 +8,12 @@
   "commits": 52743,
   "repos": [
     {
+      "name": "releases",
+      "repo": "https://github.com/jaywcjlove/releases",
+      "url": "https://wangchujiang.com/releases/",
+      "language": "EJS"
+    },
+    {
       "name": "hotkeys-js",
       "repo": "https://github.com/jaywcjlove/hotkeys-js",
       "url": "https://jaywcjlove.github.io/hotkeys-js",
@@ -18,12 +24,6 @@
       "repo": "https://github.com/jaywcjlove/awesome-swift-macos-apps",
       "url": "https://wangchujiang.com/awesome-swift-macos-apps/",
       "language": "Swift"
-    },
-    {
-      "name": "releases",
-      "repo": "https://github.com/jaywcjlove/releases",
-      "url": "https://wangchujiang.com/releases/",
-      "language": "EJS"
     },
     {
       "name": "bookmarks",

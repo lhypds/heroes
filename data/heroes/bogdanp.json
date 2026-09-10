@@ -1,0 +1,536 @@
+{
+  "handle": "bogdanp",
+  "name": "Bogdan Popa",
+  "github": [
+    "https://github.com/bogdanp"
+  ],
+  "website": "https://defn.io/",
+  "own_repos": 186,
+  "commits": 10958,
+  "apps": [],
+  "repos": [
+    {
+      "name": "awesome-advent-of-code",
+      "repo": "https://github.com/Bogdanp/awesome-advent-of-code",
+      "language": "Markdown"
+    },
+    {
+      "name": "setup-racket",
+      "repo": "https://github.com/Bogdanp/setup-racket",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dramatiq_sqs",
+      "repo": "https://github.com/Bogdanp/dramatiq_sqs",
+      "url": "https://dramatiq.io",
+      "language": "Python"
+    },
+    {
+      "name": "dramatiq",
+      "repo": "https://github.com/Bogdanp/dramatiq",
+      "url": "https://dramatiq.io",
+      "language": "Python"
+    },
+    {
+      "name": "racket-lua",
+      "repo": "https://github.com/Bogdanp/racket-lua",
+      "language": "Racket"
+    },
+    {
+      "name": "Franz",
+      "repo": "https://github.com/Bogdanp/Franz",
+      "url": "https://franz.defn.io",
+      "language": "Racket"
+    },
+    {
+      "name": "Noise",
+      "repo": "https://github.com/Bogdanp/Noise",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-review",
+      "repo": "https://github.com/Bogdanp/racket-review",
+      "language": "Racket"
+    },
+    {
+      "name": "koyo",
+      "repo": "https://github.com/Bogdanp/koyo",
+      "url": "https://koyoweb.org",
+      "language": "Racket"
+    },
+    {
+      "name": "koyo-north",
+      "repo": "https://github.com/Bogdanp/koyo-north",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-north",
+      "repo": "https://github.com/Bogdanp/racket-north",
+      "language": "Racket"
+    },
+    {
+      "name": "deta",
+      "repo": "https://github.com/Bogdanp/deta",
+      "url": "https://deta.defn.io",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-to-jsexpr",
+      "repo": "https://github.com/Bogdanp/racket-to-jsexpr",
+      "language": "Racket"
+    },
+    {
+      "name": "marionette",
+      "repo": "https://github.com/Bogdanp/marionette",
+      "url": "https://docs.racket-lang.org/marionette/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-resource-pool",
+      "repo": "https://github.com/Bogdanp/racket-resource-pool",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-gui-easy",
+      "repo": "https://github.com/Bogdanp/racket-gui-easy",
+      "url": "https://docs.racket-lang.org/gui-easy/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-lsp-client",
+      "repo": "https://github.com/Bogdanp/racket-lsp-client",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-geoip",
+      "repo": "https://github.com/Bogdanp/racket-geoip",
+      "language": "Racket"
+    },
+    {
+      "name": "django_dramatiq",
+      "repo": "https://github.com/Bogdanp/django_dramatiq",
+      "url": "https://dramatiq.io",
+      "language": "Python"
+    },
+    {
+      "name": "racket-smtp-server",
+      "repo": "https://github.com/Bogdanp/racket-smtp-server",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-actor",
+      "repo": "https://github.com/Bogdanp/racket-actor",
+      "url": "https://docs.racket-lang.org/actor/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "Ruckus",
+      "repo": "https://github.com/Bogdanp/Ruckus",
+      "url": "https://bogdanp.github.io/Ruckus/",
+      "language": "Swift"
+    },
+    {
+      "name": "defn.io",
+      "repo": "https://github.com/Bogdanp/defn.io",
+      "url": "https://defn.io",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-sentry",
+      "repo": "https://github.com/Bogdanp/racket-sentry",
+      "language": "Racket"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/Bogdanp/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": ".emacs.d",
+      "repo": "https://github.com/Bogdanp/.emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "koyo-sentry",
+      "repo": "https://github.com/Bogdanp/koyo-sentry",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-crontab",
+      "repo": "https://github.com/Bogdanp/racket-crontab",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-http-easy",
+      "repo": "https://github.com/Bogdanp/racket-http-easy",
+      "url": "https://docs.racket-lang.org/http-easy/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-ollama",
+      "repo": "https://github.com/Bogdanp/racket-ollama",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-web-push",
+      "repo": "https://github.com/Bogdanp/racket-web-push",
+      "url": "https://docs.racket-lang.org/web-push/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-forms",
+      "repo": "https://github.com/Bogdanp/racket-forms",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-net-mime-type",
+      "repo": "https://github.com/Bogdanp/racket-net-mime-type",
+      "language": "Racket"
+    },
+    {
+      "name": "mobilpay",
+      "repo": "https://github.com/Bogdanp/mobilpay",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-net-ip",
+      "repo": "https://github.com/Bogdanp/racket-net-ip",
+      "language": "Racket"
+    },
+    {
+      "name": "racksnaps",
+      "repo": "https://github.com/Bogdanp/racksnaps",
+      "url": "https://racksnaps.defn.io",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-kafka",
+      "repo": "https://github.com/Bogdanp/racket-kafka",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-libargon2",
+      "repo": "https://github.com/Bogdanp/racket-libargon2",
+      "language": "Shell"
+    },
+    {
+      "name": "racket-libzstd",
+      "repo": "https://github.com/Bogdanp/racket-libzstd",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-libsqlite3",
+      "repo": "https://github.com/Bogdanp/racket-libsqlite3",
+      "language": "Shell"
+    },
+    {
+      "name": "racket-condvar",
+      "repo": "https://github.com/Bogdanp/racket-condvar",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-redis",
+      "repo": "https://github.com/Bogdanp/racket-redis",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-dbg",
+      "repo": "https://github.com/Bogdanp/racket-dbg",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-box-extra",
+      "repo": "https://github.com/Bogdanp/racket-box-extra",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-buid",
+      "repo": "https://github.com/Bogdanp/racket-buid",
+      "language": "Racket"
+    },
+    {
+      "name": "NoiseBackendExample",
+      "repo": "https://github.com/Bogdanp/NoiseBackendExample",
+      "language": "Swift"
+    },
+    {
+      "name": "user-agents",
+      "repo": "https://github.com/Bogdanp/user-agents",
+      "language": "Racket"
+    },
+    {
+      "name": "setup-racket-cache-example",
+      "repo": "https://github.com/Bogdanp/setup-racket-cache-example"
+    },
+    {
+      "name": "struct-define-lint-lib",
+      "repo": "https://github.com/Bogdanp/struct-define-lint-lib",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-monocle",
+      "repo": "https://github.com/Bogdanp/racket-monocle",
+      "url": "https://docs.racket-lang.org/monocle/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-import-profiler",
+      "repo": "https://github.com/Bogdanp/racket-import-profiler",
+      "language": "Racket"
+    },
+    {
+      "name": "taskqueues.com",
+      "repo": "https://github.com/Bogdanp/taskqueues.com",
+      "url": "https://taskqueues.com",
+      "language": "HTML"
+    },
+    {
+      "name": "racket-http-proxy",
+      "repo": "https://github.com/Bogdanp/racket-http-proxy",
+      "language": "Racket"
+    },
+    {
+      "name": "drist",
+      "repo": "https://github.com/Bogdanp/drist",
+      "language": "Shell"
+    },
+    {
+      "name": "racket-component",
+      "repo": "https://github.com/Bogdanp/racket-component",
+      "language": "Racket"
+    },
+    {
+      "name": "aoc2024",
+      "repo": "https://github.com/Bogdanp/aoc2024",
+      "language": "Racket"
+    },
+    {
+      "name": "cursive_re",
+      "repo": "https://github.com/Bogdanp/cursive_re",
+      "language": "Python"
+    },
+    {
+      "name": "watchdog_gevent",
+      "repo": "https://github.com/Bogdanp/watchdog_gevent",
+      "language": "Python"
+    },
+    {
+      "name": "racket-place-tcp-listener",
+      "repo": "https://github.com/Bogdanp/racket-place-tcp-listener",
+      "language": "Racket"
+    },
+    {
+      "name": "omniopencon24",
+      "repo": "https://github.com/Bogdanp/omniopencon24",
+      "language": "Racket"
+    },
+    {
+      "name": "funarch24",
+      "repo": "https://github.com/Bogdanp/funarch24",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-define-query",
+      "repo": "https://github.com/Bogdanp/racket-define-query",
+      "url": "https://docs.racket-lang.org/define-query/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "remember",
+      "repo": "https://github.com/Bogdanp/remember",
+      "url": "https://remember.defn.io",
+      "language": "Swift"
+    },
+    {
+      "name": "koyo-sessions-redis",
+      "repo": "https://github.com/Bogdanp/koyo-sessions-redis",
+      "language": "Racket"
+    },
+    {
+      "name": "rackcheck",
+      "repo": "https://github.com/Bogdanp/rackcheck",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-country",
+      "repo": "https://github.com/Bogdanp/racket-country",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-review-ext-example",
+      "repo": "https://github.com/Bogdanp/racket-review-ext-example",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-binfmt",
+      "repo": "https://github.com/Bogdanp/racket-binfmt",
+      "url": "https://docs.racket-lang.org/binfmt-manual/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-avro",
+      "repo": "https://github.com/Bogdanp/racket-avro",
+      "url": "https://docs.racket-lang.org/avro-manual/index.html",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-messagepack",
+      "repo": "https://github.com/Bogdanp/racket-messagepack",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-json-lexer",
+      "repo": "https://github.com/Bogdanp/racket-json-lexer",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-protocol-buffers",
+      "repo": "https://github.com/Bogdanp/racket-protocol-buffers",
+      "language": "Racket"
+    },
+    {
+      "name": "aoc2023",
+      "repo": "https://github.com/Bogdanp/aoc2023",
+      "language": "Racket"
+    },
+    {
+      "name": "personal-website",
+      "repo": "https://github.com/Bogdanp/personal-website",
+      "url": "https://defn.io",
+      "language": "Racket"
+    },
+    {
+      "name": "py-test.el",
+      "repo": "https://github.com/Bogdanp/py-test.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "racket-snappy",
+      "repo": "https://github.com/Bogdanp/racket-snappy",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-lz4",
+      "repo": "https://github.com/Bogdanp/racket-lz4",
+      "language": "Racket"
+    },
+    {
+      "name": "koyo-postmark",
+      "repo": "https://github.com/Bogdanp/koyo-postmark",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-wasm",
+      "repo": "https://github.com/Bogdanp/racket-wasm",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-protohackers",
+      "repo": "https://github.com/Bogdanp/racket-protohackers",
+      "language": "Racket"
+    },
+    {
+      "name": "racketfest2023-talk",
+      "repo": "https://github.com/Bogdanp/racketfest2023-talk",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-gui-extra",
+      "repo": "https://github.com/Bogdanp/racket-gui-extra",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-sass",
+      "repo": "https://github.com/Bogdanp/racket-sass",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-libsass",
+      "repo": "https://github.com/Bogdanp/racket-libsass",
+      "language": "Shell"
+    },
+    {
+      "name": "racket-sameday",
+      "repo": "https://github.com/Bogdanp/racket-sameday",
+      "language": "Racket"
+    },
+    {
+      "name": "aoc2022",
+      "repo": "https://github.com/Bogdanp/aoc2022",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-monotonic",
+      "repo": "https://github.com/Bogdanp/racket-monotonic",
+      "language": "Racket"
+    },
+    {
+      "name": "try-racket-client",
+      "repo": "https://github.com/Bogdanp/try-racket-client",
+      "url": "https://try-racket.defn.io",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-postmark",
+      "repo": "https://github.com/Bogdanp/racket-postmark",
+      "url": "https://postmarkapp.com/",
+      "language": "Racket"
+    },
+    {
+      "name": "nevermore",
+      "repo": "https://github.com/Bogdanp/nevermore",
+      "language": "Racket"
+    },
+    {
+      "name": "raco-invoke",
+      "repo": "https://github.com/Bogdanp/raco-invoke",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-twilio",
+      "repo": "https://github.com/Bogdanp/racket-twilio",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-ulid",
+      "repo": "https://github.com/Bogdanp/racket-ulid",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-iso-printf",
+      "repo": "https://github.com/Bogdanp/racket-iso-printf",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-chief",
+      "repo": "https://github.com/Bogdanp/racket-chief",
+      "language": "Racket"
+    },
+    {
+      "name": "racket-bench-ws-logging",
+      "repo": "https://github.com/Bogdanp/racket-bench-ws-logging",
+      "language": "Racket"
+    },
+    {
+      "name": "evil",
+      "repo": "https://github.com/Bogdanp/evil",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dramatiq_dashboard",
+      "repo": "https://github.com/Bogdanp/dramatiq_dashboard",
+      "url": "https://dramatiq.io",
+      "language": "Python"
+    },
+    {
+      "name": "aoc2021",
+      "repo": "https://github.com/Bogdanp/aoc2021",
+      "language": "Racket"
+    },
+    {
+      "name": "ruse",
+      "repo": "https://github.com/Bogdanp/ruse",
+      "language": "Scheme"
+    }
+  ]
+}

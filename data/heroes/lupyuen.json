@@ -1,0 +1,572 @@
+{
+  "handle": "lupyuen",
+  "name": "Lup Yuen Lee",
+  "github": [
+    "https://github.com/lupyuen"
+  ],
+  "website": "https://lupyuen.org/",
+  "bio": "李立源 / IoT Techie and Educator / Apache NuttX PMC",
+  "own_repos": 137,
+  "commits": 81178,
+  "apps": [],
+  "repos": [
+    {
+      "name": "nuttx-riscv64",
+      "repo": "https://github.com/lupyuen/nuttx-riscv64",
+      "url": "https://lupyuen.org/articles/riscv",
+      "language": "Shell"
+    },
+    {
+      "name": "pinephone-nuttx",
+      "repo": "https://github.com/lupyuen/pinephone-nuttx",
+      "url": "https://lupyuen.org/articles/what.html",
+      "language": "Zig"
+    },
+    {
+      "name": "nuttx-sg2000",
+      "repo": "https://github.com/lupyuen/nuttx-sg2000",
+      "url": "https://lupyuen.org/articles/sg2000"
+    },
+    {
+      "name": "nuttx-ox64",
+      "repo": "https://github.com/lupyuen/nuttx-ox64",
+      "url": "https://www.hackster.io/lupyuen/8-risc-v-sbc-on-a-real-time-operating-system-ox64-nuttx-474358",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nuttx-star64",
+      "repo": "https://github.com/lupyuen/nuttx-star64",
+      "url": "https://lupyuen.org/articles/release",
+      "language": "C"
+    },
+    {
+      "name": "fit-to-unity",
+      "repo": "https://github.com/lupyuen/fit-to-unity",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-metrics",
+      "repo": "https://github.com/lupyuen/nuttx-metrics",
+      "url": "https://lupyuen.org/articles/ci3#live-metric-for-full-time-runners",
+      "language": "Shell"
+    },
+    {
+      "name": "nuttx-github-jobs",
+      "repo": "https://github.com/lupyuen/nuttx-github-jobs",
+      "url": "https://www.youtube.com/watch?v=gOgUvyL-XJA"
+    },
+    {
+      "name": "lupyuen.github.io",
+      "repo": "https://github.com/lupyuen/lupyuen.github.io",
+      "url": "https://lupyuen.org",
+      "language": "HTML"
+    },
+    {
+      "name": "lupyuen-premiere-plugin",
+      "repo": "https://github.com/lupyuen/lupyuen-premiere-plugin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "export-nuttx-builds",
+      "repo": "https://github.com/lupyuen/export-nuttx-builds",
+      "url": "https://youtu.be/182h8cRpfvI",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-release",
+      "repo": "https://github.com/lupyuen/nuttx-release",
+      "url": "https://lupyuen.org/articles/avaota",
+      "language": "Shell"
+    },
+    {
+      "name": "nuttx-github-metrics",
+      "repo": "https://github.com/lupyuen/nuttx-github-metrics",
+      "url": "https://github.com/apache/nuttx/issues/18906",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-test-bot",
+      "repo": "https://github.com/lupyuen/nuttx-test-bot",
+      "url": "https://lupyuen.org/articles/testbot.html",
+      "language": "Rust"
+    },
+    {
+      "name": "ingest-nuttx-builds",
+      "repo": "https://github.com/lupyuen/ingest-nuttx-builds",
+      "url": "https://lupyuen.org/articles/ci4",
+      "language": "Rust"
+    },
+    {
+      "name": "parse-nuttx-builds",
+      "repo": "https://github.com/lupyuen/parse-nuttx-builds",
+      "url": "https://youtu.be/182h8cRpfvI",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-build-farm",
+      "repo": "https://github.com/lupyuen/nuttx-build-farm",
+      "url": "https://lupyuen.org/articles/ci2",
+      "language": "Shell"
+    },
+    {
+      "name": "nuttx-arm64-emulator",
+      "repo": "https://github.com/lupyuen/nuttx-arm64-emulator",
+      "url": "https://lupyuen.org/articles/unicorn4.html",
+      "language": "Assembly"
+    },
+    {
+      "name": "nuttx-avaota-a1",
+      "repo": "https://github.com/lupyuen/nuttx-avaota-a1",
+      "url": "https://lupyuen.org/articles/avaota.html",
+      "language": "Shell"
+    },
+    {
+      "name": "nuttx-starpro64",
+      "repo": "https://github.com/lupyuen/nuttx-starpro64",
+      "url": "https://lupyuen.org/articles/starpro64.html"
+    },
+    {
+      "name": "nuttx-rewind-notify",
+      "repo": "https://github.com/lupyuen/nuttx-rewind-notify",
+      "url": "https://lupyuen.org/articles/rewind.html",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-prometheus-to-mastodon",
+      "repo": "https://github.com/lupyuen/nuttx-prometheus-to-mastodon",
+      "url": "https://lupyuen.org/articles/mastodon.html",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-rust-app",
+      "repo": "https://github.com/lupyuen/nuttx-rust-app",
+      "url": "https://lupyuen.org/articles/rust7.html",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-forgejo",
+      "repo": "https://github.com/lupyuen/nuttx-forgejo",
+      "url": "https://lupyuen.org/articles/forgejo.html",
+      "language": "Shell"
+    },
+    {
+      "name": "nuttx-bisect",
+      "repo": "https://github.com/lupyuen/nuttx-bisect",
+      "url": "https://lupyuen.org/articles/bisect.html",
+      "language": "Shell"
+    },
+    {
+      "name": "nuttx-pr-bot",
+      "repo": "https://github.com/lupyuen/nuttx-pr-bot",
+      "url": "https://lupyuen.org/articles/llm.html",
+      "language": "Rust"
+    },
+    {
+      "name": "remote-bl602",
+      "repo": "https://github.com/lupyuen/remote-bl602",
+      "url": "https://lupyuen.org/articles/auto",
+      "language": "Shell"
+    },
+    {
+      "name": "nuttx-pinevox",
+      "repo": "https://github.com/lupyuen/nuttx-pinevox"
+    },
+    {
+      "name": "nuttx-mmu-log-parser",
+      "repo": "https://github.com/lupyuen/nuttx-mmu-log-parser",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-tinyemu",
+      "repo": "https://github.com/lupyuen/nuttx-tinyemu",
+      "url": "https://lupyuen.org/articles/tinyemu"
+    },
+    {
+      "name": "nuttx-purescript-parser",
+      "repo": "https://github.com/lupyuen/nuttx-purescript-parser",
+      "url": "https://lupyuen.org/articles/purescript",
+      "language": "PureScript"
+    },
+    {
+      "name": "nuttx-disassembly-chunker",
+      "repo": "https://github.com/lupyuen/nuttx-disassembly-chunker",
+      "url": "https://lupyuen.org/articles/purescript",
+      "language": "Rust"
+    },
+    {
+      "name": "nuttx-blockly",
+      "repo": "https://github.com/lupyuen/nuttx-blockly",
+      "url": "https://lupyuen.org/articles/quickjs2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nuttx-nim",
+      "repo": "https://github.com/lupyuen/nuttx-nim",
+      "url": "https://lupyuen.org/articles/nim"
+    },
+    {
+      "name": "lvglterm",
+      "repo": "https://github.com/lupyuen/lvglterm",
+      "url": "https://lupyuen.org/articles/terminal",
+      "language": "C"
+    },
+    {
+      "name": "pinephone-lvgl-zig",
+      "repo": "https://github.com/lupyuen/pinephone-lvgl-zig",
+      "url": "https://lupyuen.org/articles/lvgl4",
+      "language": "Zig"
+    },
+    {
+      "name": "pinephone-nuttx-usb",
+      "repo": "https://github.com/lupyuen/pinephone-nuttx-usb",
+      "url": "https://lupyuen.org/articles/usb3",
+      "language": "C"
+    },
+    {
+      "name": "visual-embedded-rust",
+      "repo": "https://github.com/lupyuen/visual-embedded-rust",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nshtask",
+      "repo": "https://github.com/lupyuen/nshtask",
+      "language": "Makefile"
+    },
+    {
+      "name": "zig-bl602-nuttx",
+      "repo": "https://github.com/lupyuen/zig-bl602-nuttx",
+      "url": "https://lupyuen.org/articles/iot",
+      "language": "Zig"
+    },
+    {
+      "name": "cst816s-nuttx",
+      "repo": "https://github.com/lupyuen/cst816s-nuttx",
+      "url": "https://lupyuen.github.io/articles/touch",
+      "language": "C"
+    },
+    {
+      "name": "pinetime-updater",
+      "repo": "https://github.com/lupyuen/pinetime-updater",
+      "url": "https://lupyuen.org/pinetime-rust-mynewt/articles/pinetime",
+      "language": "Shell"
+    },
+    {
+      "name": "zig-pinephone-gui",
+      "repo": "https://github.com/lupyuen/zig-pinephone-gui",
+      "url": "https://lupyuen.org/articles/pinephone",
+      "language": "Zig"
+    },
+    {
+      "name": "visual-zig-nuttx",
+      "repo": "https://github.com/lupyuen/visual-zig-nuttx",
+      "url": "https://lupyuen.org/articles/visual",
+      "language": "Zig"
+    },
+    {
+      "name": "lvgltest-nuttx",
+      "repo": "https://github.com/lupyuen/lvgltest-nuttx",
+      "url": "https://lupyuen.org/articles/touch",
+      "language": "C"
+    },
+    {
+      "name": "bme280-nuttx",
+      "repo": "https://github.com/lupyuen/bme280-nuttx",
+      "url": "https://lupyuen.github.io/articles/bme280",
+      "language": "C"
+    },
+    {
+      "name": "zig-pinephone-mach",
+      "repo": "https://github.com/lupyuen/zig-pinephone-mach"
+    },
+    {
+      "name": "tinycbor_test",
+      "repo": "https://github.com/lupyuen/tinycbor_test",
+      "url": "https://lupyuen.github.io/articles/lorawan3",
+      "language": "C"
+    },
+    {
+      "name": "zig-lvgl-nuttx",
+      "repo": "https://github.com/lupyuen/zig-lvgl-nuttx",
+      "language": "Zig"
+    },
+    {
+      "name": "lora-sx1262",
+      "repo": "https://github.com/lupyuen/lora-sx1262",
+      "language": "C"
+    },
+    {
+      "name": "lorawan_test",
+      "repo": "https://github.com/lupyuen/lorawan_test",
+      "url": "https://lupyuen.github.io/articles/sx1262",
+      "language": "C"
+    },
+    {
+      "name": "wisblock-lora-transmitter",
+      "repo": "https://github.com/lupyuen/wisblock-lora-transmitter",
+      "url": "https://lupyuen.github.io/articles/wisblock",
+      "language": "C++"
+    },
+    {
+      "name": "nuttx-embedded-hal",
+      "repo": "https://github.com/lupyuen/nuttx-embedded-hal",
+      "url": "https://crates.io/crates/nuttx-embedded-hal",
+      "language": "Rust"
+    },
+    {
+      "name": "bl602_expander",
+      "repo": "https://github.com/lupyuen/bl602_expander",
+      "url": "https://lupyuen.github.io/articles/pinedio2#gpio-expander",
+      "language": "C"
+    },
+    {
+      "name": "sx1262_test",
+      "repo": "https://github.com/lupyuen/sx1262_test",
+      "url": "https://lupyuen.github.io/articles/sx1262",
+      "language": "C"
+    },
+    {
+      "name": "bl602_adc",
+      "repo": "https://github.com/lupyuen/bl602_adc",
+      "url": "https://lupyuen.github.io/articles/book#nuttx-on-bl602",
+      "language": "C"
+    },
+    {
+      "name": "pinedio-stack-nuttx",
+      "repo": "https://github.com/lupyuen/pinedio-stack-nuttx",
+      "url": "https://lupyuen.github.io/articles/pinedio2"
+    },
+    {
+      "name": "st7789-nuttx",
+      "repo": "https://github.com/lupyuen/st7789-nuttx",
+      "url": "https://lupyuen.github.io/articles/book#nuttx-on-bl602"
+    },
+    {
+      "name": "rust-nuttx",
+      "repo": "https://github.com/lupyuen/rust-nuttx",
+      "url": "https://lupyuen.github.io/articles/rust2",
+      "language": "Makefile"
+    },
+    {
+      "name": "rust-i2c-nuttx",
+      "repo": "https://github.com/lupyuen/rust-i2c-nuttx",
+      "url": "https://lupyuen.github.io/articles/rusti2c",
+      "language": "Rust"
+    },
+    {
+      "name": "rust_test",
+      "repo": "https://github.com/lupyuen/rust_test",
+      "url": "https://lupyuen.github.io/articles/rust2",
+      "language": "Rust"
+    },
+    {
+      "name": "ikea_air_quality_sensor",
+      "repo": "https://github.com/lupyuen/ikea_air_quality_sensor",
+      "language": "C"
+    },
+    {
+      "name": "bl602-eflash-loader",
+      "repo": "https://github.com/lupyuen/bl602-eflash-loader",
+      "url": "https://lupyuen.github.io/articles/loader",
+      "language": "C"
+    },
+    {
+      "name": "bl602_adc_test",
+      "repo": "https://github.com/lupyuen/bl602_adc_test",
+      "language": "C"
+    },
+    {
+      "name": "pinetime-companion",
+      "repo": "https://github.com/lupyuen/pinetime-companion",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/companion",
+      "language": "Dart"
+    },
+    {
+      "name": "bl602-simulator",
+      "repo": "https://github.com/lupyuen/bl602-simulator",
+      "url": "https://lupyuen.github.io/articles/rustsim",
+      "language": "Shell"
+    },
+    {
+      "name": "pinephone-lora",
+      "repo": "https://github.com/lupyuen/pinephone-lora"
+    },
+    {
+      "name": "lorawan",
+      "repo": "https://github.com/lupyuen/lorawan",
+      "language": "C"
+    },
+    {
+      "name": "lora-sx1276",
+      "repo": "https://github.com/lupyuen/lora-sx1276",
+      "language": "C"
+    },
+    {
+      "name": "prometheus-the-things-network",
+      "repo": "https://github.com/lupyuen/prometheus-the-things-network",
+      "url": "https://lupyuen.github.io/articles/prometheus"
+    },
+    {
+      "name": "roblox-the-things-network",
+      "repo": "https://github.com/lupyuen/roblox-the-things-network",
+      "language": "Lua"
+    },
+    {
+      "name": "bl602-rust-wrapper",
+      "repo": "https://github.com/lupyuen/bl602-rust-wrapper",
+      "url": "https://lupyuen.github.io/articles/adc",
+      "language": "Rust"
+    },
+    {
+      "name": "wisblock-lorawan",
+      "repo": "https://github.com/lupyuen/wisblock-lorawan",
+      "language": "C++"
+    },
+    {
+      "name": "wisblock-lora-receiver",
+      "repo": "https://github.com/lupyuen/wisblock-lora-receiver",
+      "url": "https://lupyuen.github.io/articles/wisblock",
+      "language": "C++"
+    },
+    {
+      "name": "barebones-watchface",
+      "repo": "https://github.com/lupyuen/barebones-watchface",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface",
+      "language": "Rust"
+    },
+    {
+      "name": "pinetime-watchface",
+      "repo": "https://github.com/lupyuen/pinetime-watchface",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface",
+      "language": "Rust"
+    },
+    {
+      "name": "pinetime-mynewt",
+      "repo": "https://github.com/lupyuen/pinetime-mynewt",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface",
+      "language": "Rust"
+    },
+    {
+      "name": "pinetime-macros",
+      "repo": "https://github.com/lupyuen/pinetime-macros",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface",
+      "language": "Rust"
+    },
+    {
+      "name": "pinecone-rust-mynewt",
+      "repo": "https://github.com/lupyuen/pinecone-rust-mynewt",
+      "url": "https://lupyuen.github.io/articles/mynewt",
+      "language": "C"
+    },
+    {
+      "name": "pinetime-rust-mynewt",
+      "repo": "https://github.com/lupyuen/pinetime-rust-mynewt",
+      "url": "https://lupyuen.github.io/articles/sneak-peek-of-pinetime-smart-watch-and-why-its-perfect-for-teaching-iot",
+      "language": "Assembly"
+    },
+    {
+      "name": "LoRaArduino",
+      "repo": "https://github.com/lupyuen/LoRaArduino",
+      "language": "C++"
+    },
+    {
+      "name": "pinetime-logo-loader",
+      "repo": "https://github.com/lupyuen/pinetime-logo-loader",
+      "language": "Assembly"
+    },
+    {
+      "name": "pinetime-graphic",
+      "repo": "https://github.com/lupyuen/pinetime-graphic",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/mcuboot",
+      "language": "Rust"
+    },
+    {
+      "name": "pinetime_lvgl_mynewt",
+      "repo": "https://github.com/lupyuen/pinetime_lvgl_mynewt",
+      "language": "C"
+    },
+    {
+      "name": "stm32bluepill-mynewt-sensor",
+      "repo": "https://github.com/lupyuen/stm32bluepill-mynewt-sensor",
+      "url": "https://medium.com/@ly.lee",
+      "language": "C"
+    },
+    {
+      "name": "stm32-blue-pill-rust",
+      "repo": "https://github.com/lupyuen/stm32-blue-pill-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "remote-pinetime-bot",
+      "repo": "https://github.com/lupyuen/remote-pinetime-bot",
+      "language": "Rust"
+    },
+    {
+      "name": "handdrawn-watchface",
+      "repo": "https://github.com/lupyuen/handdrawn-watchface",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface",
+      "language": "Rust"
+    },
+    {
+      "name": "pinetime-lvgl",
+      "repo": "https://github.com/lupyuen/pinetime-lvgl",
+      "language": "Rust"
+    },
+    {
+      "name": "KittehWatchOS-newt",
+      "repo": "https://github.com/lupyuen/KittehWatchOS-newt",
+      "language": "C"
+    },
+    {
+      "name": "patch-bin",
+      "repo": "https://github.com/lupyuen/patch-bin",
+      "language": "C"
+    },
+    {
+      "name": "pinephone-mir",
+      "repo": "https://github.com/lupyuen/pinephone-mir",
+      "language": "C"
+    },
+    {
+      "name": "ble-explorer",
+      "repo": "https://github.com/lupyuen/ble-explorer",
+      "language": "Go"
+    },
+    {
+      "name": "flutter-blue-sample",
+      "repo": "https://github.com/lupyuen/flutter-blue-sample",
+      "url": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/flutter",
+      "language": "Dart"
+    },
+    {
+      "name": "interpolate-surface",
+      "repo": "https://github.com/lupyuen/interpolate-surface",
+      "language": "Rust"
+    },
+    {
+      "name": "pi-swd-spi",
+      "repo": "https://github.com/lupyuen/pi-swd-spi",
+      "language": "C"
+    },
+    {
+      "name": "iot-mission",
+      "repo": "https://github.com/lupyuen/iot-mission"
+    },
+    {
+      "name": "hrs3300_sprd",
+      "repo": "https://github.com/lupyuen/hrs3300_sprd",
+      "url": "https://medium.com/swlh/sneak-peek-of-pinetime-smart-watch-and-why-its-perfect-for-teaching-iot-81b74161c159?source=friends_link&sk=d9301466f5499bece3e7b638e99ec20d",
+      "language": "C"
+    },
+    {
+      "name": "hynitron_i2c_cst0xxse",
+      "repo": "https://github.com/lupyuen/hynitron_i2c_cst0xxse",
+      "url": "https://medium.com/swlh/sneak-peek-of-pinetime-smart-watch-and-why-its-perfect-for-teaching-iot-81b74161c159?source=friends_link&sk=d9301466f5499bece3e7b638e99ec20d",
+      "language": "C"
+    },
+    {
+      "name": "thethingsio-wifi-geolocation",
+      "repo": "https://github.com/lupyuen/thethingsio-wifi-geolocation",
+      "language": "JavaScript"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "handle": "sile",
+  "name": "Takeru Ohta",
+  "github": [
+    "https://github.com/sile"
+  ],
+  "own_repos": 290,
+  "commits": 14644,
+  "apps": [],
+  "repos": [
+    {
+      "name": "tuinix",
+      "repo": "https://github.com/sile/tuinix",
+      "language": "Rust"
+    },
+    {
+      "name": "ffmml",
+      "repo": "https://github.com/sile/ffmml",
+      "language": "Rust"
+    },
+    {
+      "name": "erlls",
+      "repo": "https://github.com/sile/erlls",
+      "language": "Rust"
+    },
+    {
+      "name": "noflate",
+      "repo": "https://github.com/sile/noflate",
+      "language": "Rust"
+    },
+    {
+      "name": "libflate",
+      "repo": "https://github.com/sile/libflate",
+      "url": "https://docs.rs/libflate",
+      "language": "Rust"
+    },
+    {
+      "name": "elint",
+      "repo": "https://github.com/sile/elint",
+      "language": "Rust"
+    },
+    {
+      "name": "nojson",
+      "repo": "https://github.com/sile/nojson",
+      "language": "Rust"
+    },
+    {
+      "name": "efmt",
+      "repo": "https://github.com/sile/efmt",
+      "language": "Rust"
+    },
+    {
+      "name": "erl_parse",
+      "repo": "https://github.com/sile/erl_parse",
+      "language": "Rust"
+    },
+    {
+      "name": "erl_pp",
+      "repo": "https://github.com/sile/erl_pp",
+      "language": "Rust"
+    },
+    {
+      "name": "erl_tokenize",
+      "repo": "https://github.com/sile/erl_tokenize",
+      "language": "Rust"
+    },
+    {
+      "name": "noraft",
+      "repo": "https://github.com/sile/noraft",
+      "language": "Rust"
+    },
+    {
+      "name": "sukari",
+      "repo": "https://github.com/sile/sukari",
+      "language": "Rust"
+    },
+    {
+      "name": "noprop",
+      "repo": "https://github.com/sile/noprop",
+      "language": "Rust"
+    },
+    {
+      "name": "mpeg2ts",
+      "repo": "https://github.com/sile/mpeg2ts",
+      "language": "Rust"
+    },
+    {
+      "name": "patricia_tree",
+      "repo": "https://github.com/sile/patricia_tree",
+      "language": "Rust"
+    },
+    {
+      "name": "noargs",
+      "repo": "https://github.com/sile/noargs",
+      "language": "Rust"
+    },
+    {
+      "name": "optjournal",
+      "repo": "https://github.com/sile/optjournal",
+      "language": "Python"
+    },
+    {
+      "name": "wstcp",
+      "repo": "https://github.com/sile/wstcp",
+      "language": "Rust"
+    },
+    {
+      "name": "raylib4-sys",
+      "repo": "https://github.com/sile/raylib4-sys",
+      "language": "Rust"
+    },
+    {
+      "name": "trackable",
+      "repo": "https://github.com/sile/trackable",
+      "language": "Rust"
+    },
+    {
+      "name": "hash_ring",
+      "repo": "https://github.com/sile/hash_ring",
+      "language": "Erlang"
+    },
+    {
+      "name": "rtmp_handshake",
+      "repo": "https://github.com/sile/rtmp_handshake",
+      "language": "Erlang"
+    },
+    {
+      "name": "logi",
+      "repo": "https://github.com/sile/logi",
+      "language": "Erlang"
+    },
+    {
+      "name": "kurobako-go",
+      "repo": "https://github.com/sile/kurobako-go",
+      "language": "Go"
+    },
+    {
+      "name": "patica",
+      "repo": "https://github.com/sile/patica",
+      "language": "Rust"
+    },
+    {
+      "name": "textparse",
+      "repo": "https://github.com/sile/textparse",
+      "language": "Rust"
+    },
+    {
+      "name": "nowasm",
+      "repo": "https://github.com/sile/nowasm",
+      "language": "Rust"
+    },
+    {
+      "name": "sloggers",
+      "repo": "https://github.com/sile/sloggers",
+      "language": "Rust"
+    },
+    {
+      "name": "rustun",
+      "repo": "https://github.com/sile/rustun",
+      "language": "Rust"
+    },
+    {
+      "name": "plumcast",
+      "repo": "https://github.com/sile/plumcast",
+      "language": "Rust"
+    },
+    {
+      "name": "pixcil",
+      "repo": "https://github.com/sile/pixcil",
+      "language": "Rust"
+    },
+    {
+      "name": "pagurus",
+      "repo": "https://github.com/sile/pagurus",
+      "language": "Rust"
+    },
+    {
+      "name": "mlmdquery",
+      "repo": "https://github.com/sile/mlmdquery",
+      "language": "Rust"
+    },
+    {
+      "name": "mlmd",
+      "repo": "https://github.com/sile/mlmd",
+      "language": "Rust"
+    },
+    {
+      "name": "mamegrep",
+      "repo": "https://github.com/sile/mamegrep",
+      "language": "Rust"
+    },
+    {
+      "name": "magpies",
+      "repo": "https://github.com/sile/magpies",
+      "language": "Rust"
+    },
+    {
+      "name": "jlou",
+      "repo": "https://github.com/sile/jlou",
+      "language": "Rust"
+    },
+    {
+      "name": "jlot",
+      "repo": "https://github.com/sile/jlot",
+      "language": "Rust"
+    },
+    {
+      "name": "hporecord",
+      "repo": "https://github.com/sile/hporecord",
+      "language": "Rust"
+    },
+    {
+      "name": "erldash",
+      "repo": "https://github.com/sile/erldash",
+      "language": "Rust"
+    },
+    {
+      "name": "amf",
+      "repo": "https://github.com/sile/amf",
+      "language": "Rust"
+    },
+    {
+      "name": "thrift_codec",
+      "repo": "https://github.com/sile/thrift_codec",
+      "language": "Rust"
+    },
+    {
+      "name": "stun_codec",
+      "repo": "https://github.com/sile/stun_codec",
+      "language": "Rust"
+    },
+    {
+      "name": "rusturn",
+      "repo": "https://github.com/sile/rusturn",
+      "language": "Rust"
+    },
+    {
+      "name": "rustracing_jaeger",
+      "repo": "https://github.com/sile/rustracing_jaeger",
+      "language": "Rust"
+    },
+    {
+      "name": "rustracing",
+      "repo": "https://github.com/sile/rustracing",
+      "language": "Rust"
+    },
+    {
+      "name": "erl_ast",
+      "repo": "https://github.com/sile/erl_ast",
+      "language": "Rust"
+    },
+    {
+      "name": "beamcode",
+      "repo": "https://github.com/sile/beamcode",
+      "language": "Rust"
+    },
+    {
+      "name": "agcwd",
+      "repo": "https://github.com/sile/agcwd",
+      "language": "Rust"
+    },
+    {
+      "name": "tasque",
+      "repo": "https://github.com/sile/tasque",
+      "language": "Rust"
+    },
+    {
+      "name": "sysinfojson",
+      "repo": "https://github.com/sile/sysinfojson",
+      "language": "Rust"
+    },
+    {
+      "name": "sorastats",
+      "repo": "https://github.com/sile/sorastats",
+      "language": "Rust"
+    },
+    {
+      "name": "soralog",
+      "repo": "https://github.com/sile/soralog",
+      "language": "Rust"
+    },
+    {
+      "name": "jlu",
+      "repo": "https://github.com/sile/jlu",
+      "language": "Rust"
+    },
+    {
+      "name": "funst",
+      "repo": "https://github.com/sile/funst",
+      "language": "Rust"
+    },
+    {
+      "name": "fibers_transport",
+      "repo": "https://github.com/sile/fibers_transport",
+      "language": "Rust"
+    },
+    {
+      "name": "copic_colors",
+      "repo": "https://github.com/sile/copic_colors",
+      "language": "Rust"
+    },
+    {
+      "name": "beam_file",
+      "repo": "https://github.com/sile/beam_file",
+      "language": "Rust"
+    },
+    {
+      "name": "uribo",
+      "repo": "https://github.com/sile/uribo",
+      "language": "Rust"
+    },
+    {
+      "name": "mineplacer",
+      "repo": "https://github.com/sile/mineplacer",
+      "url": "https://sile.github.io/mineplacer/",
+      "language": "Rust"
+    },
+    {
+      "name": "ceratophrys",
+      "repo": "https://github.com/sile/ceratophrys",
+      "language": "Rust"
+    },
+    {
+      "name": "tpe",
+      "repo": "https://github.com/sile/tpe",
+      "language": "Rust"
+    },
+    {
+      "name": "splay_tree",
+      "repo": "https://github.com/sile/splay_tree",
+      "language": "Rust"
+    },
+    {
+      "name": "succparen",
+      "repo": "https://github.com/sile/succparen",
+      "language": "Rust"
+    },
+    {
+      "name": "scalable_cuckoo_filter",
+      "repo": "https://github.com/sile/scalable_cuckoo_filter",
+      "language": "Rust"
+    },
+    {
+      "name": "siru",
+      "repo": "https://github.com/sile/siru",
+      "language": "Rust"
+    },
+    {
+      "name": "rjg",
+      "repo": "https://github.com/sile/rjg",
+      "language": "Rust"
+    },
+    {
+      "name": "rofis",
+      "repo": "https://github.com/sile/rofis",
+      "language": "Rust"
+    },
+    {
+      "name": "rustats",
+      "repo": "https://github.com/sile/rustats",
+      "language": "Rust"
+    },
+    {
+      "name": "plumtree",
+      "repo": "https://github.com/sile/plumtree",
+      "language": "Rust"
+    },
+    {
+      "name": "raftpico",
+      "repo": "https://github.com/sile/raftpico",
+      "language": "Rust"
+    },
+    {
+      "name": "randomforest",
+      "repo": "https://github.com/sile/randomforest",
+      "language": "Rust"
+    },
+    {
+      "name": "orfail",
+      "repo": "https://github.com/sile/orfail",
+      "language": "Rust"
+    },
+    {
+      "name": "niho",
+      "repo": "https://github.com/sile/niho",
+      "language": "Rust"
+    },
+    {
+      "name": "nopng",
+      "repo": "https://github.com/sile/nopng",
+      "language": "Rust"
+    },
+    {
+      "name": "mame",
+      "repo": "https://github.com/sile/mame",
+      "language": "Rust"
+    },
+    {
+      "name": "mamediff",
+      "repo": "https://github.com/sile/mamediff",
+      "language": "Rust"
+    },
+    {
+      "name": "jsone",
+      "repo": "https://github.com/sile/jsone",
+      "language": "Erlang"
+    },
+    {
+      "name": "jsonlrpc",
+      "repo": "https://github.com/sile/jsonlrpc",
+      "language": "Rust"
+    },
+    {
+      "name": "jsonlrpc_mio",
+      "repo": "https://github.com/sile/jsonlrpc_mio",
+      "language": "Rust"
+    },
+    {
+      "name": "jcfmt",
+      "repo": "https://github.com/sile/jcfmt",
+      "language": "Rust"
+    },
+    {
+      "name": "gen_cop",
+      "repo": "https://github.com/sile/gen_cop",
+      "language": "Erlang"
+    },
+    {
+      "name": "gp",
+      "repo": "https://github.com/sile/gp",
+      "language": "Rust"
+    },
+    {
+      "name": "grepatch",
+      "repo": "https://github.com/sile/grepatch",
+      "language": "Rust"
+    },
+    {
+      "name": "hls_m3u8",
+      "repo": "https://github.com/sile/hls_m3u8",
+      "language": "Rust"
+    },
+    {
+      "name": "fanova",
+      "repo": "https://github.com/sile/fanova",
+      "language": "Rust"
+    },
+    {
+      "name": "erl_rpc",
+      "repo": "https://github.com/sile/erl_rpc",
+      "language": "Rust"
+    },
+    {
+      "name": "erl_dist",
+      "repo": "https://github.com/sile/erl_dist",
+      "language": "Rust"
+    },
+    {
+      "name": "dokosa",
+      "repo": "https://github.com/sile/dokosa",
+      "language": "Rust"
+    },
+    {
+      "name": "doodles",
+      "repo": "https://github.com/sile/doodles",
+      "language": "Rust"
+    },
+    {
+      "name": "eetf",
+      "repo": "https://github.com/sile/eetf",
+      "language": "Rust"
+    },
+    {
+      "name": "bytecodec",
+      "repo": "https://github.com/sile/bytecodec",
+      "language": "Rust"
+    },
+    {
+      "name": "daberu",
+      "repo": "https://github.com/sile/daberu",
+      "language": "Rust"
+    },
+    {
+      "name": "dagc",
+      "repo": "https://github.com/sile/dagc",
+      "language": "Rust"
+    },
+    {
+      "name": "ekvsb",
+      "repo": "https://github.com/sile/ekvsb",
+      "language": "Rust"
+    },
+    {
+      "name": "jaeger_remote_tracer",
+      "repo": "https://github.com/sile/jaeger_remote_tracer",
+      "language": "Rust"
+    },
+    {
+      "name": "udrpc",
+      "repo": "https://github.com/sile/udrpc",
+      "language": "Rust"
+    },
+    {
+      "name": "rufton",
+      "repo": "https://github.com/sile/rufton",
+      "language": "Rust"
+    },
+    {
+      "name": "tuke",
+      "repo": "https://github.com/sile/tuke",
+      "language": "Rust"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "handle": "nefarius",
+  "name": "Benjamin Höglinger-Stelzer",
+  "github": [
+    "https://github.com/nefarius"
+  ],
+  "website": "https://about.nefarius.at/",
+  "bio": "Gaming Input Peripherals Expert, Windows Device Drivers Developer, Austrian Open Source Ambassador",
+  "own_repos": 124,
+  "commits": 17784,
+  "apps": [],
+  "repos": [
+    {
+      "name": "DsHidMini",
+      "repo": "https://github.com/nefarius/DsHidMini",
+      "url": "https://docs.nefarius.at/projects/DsHidMini/",
+      "language": "C#"
+    },
+    {
+      "name": "MultiPadTester",
+      "repo": "https://github.com/nefarius/MultiPadTester",
+      "url": "https://discord.nefarius.at",
+      "language": "C++"
+    },
+    {
+      "name": "TorSharp.Mirror",
+      "repo": "https://github.com/nefarius/TorSharp.Mirror",
+      "url": "https://discord.nefarius.at",
+      "language": "Python"
+    },
+    {
+      "name": "Legacinator",
+      "repo": "https://github.com/nefarius/Legacinator",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "LupuServ",
+      "repo": "https://github.com/nefarius/LupuServ",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Standards.CAMT",
+      "repo": "https://github.com/nefarius/Nefarius.Standards.CAMT",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.HttpClient.LiteDbCache",
+      "repo": "https://github.com/nefarius/Nefarius.HttpClient.LiteDbCache",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "ArtifactShelf",
+      "repo": "https://github.com/nefarius/ArtifactShelf",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.DeviceManagement",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.DeviceManagement",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "WinDbgSymbolsCachingProxy",
+      "repo": "https://github.com/nefarius/WinDbgSymbolsCachingProxy",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Drivers.WinUSB",
+      "repo": "https://github.com/nefarius/Nefarius.Drivers.WinUSB",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Legacy.DataProtector",
+      "repo": "https://github.com/nefarius/Nefarius.Legacy.DataProtector",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.Bluetooth",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.Bluetooth",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.DotNetInstaller",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.DotNetInstaller",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.Registry",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.Registry",
+      "language": "C#"
+    },
+    {
+      "name": "wdkwhere",
+      "repo": "https://github.com/nefarius/wdkwhere",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "vicius",
+      "repo": "https://github.com/nefarius/vicius",
+      "url": "https://docs.nefarius.at/projects/Vicius",
+      "language": "C++"
+    },
+    {
+      "name": "nefcon",
+      "repo": "https://github.com/nefarius/nefcon",
+      "url": "https://discord.nefarius.at",
+      "language": "C++"
+    },
+    {
+      "name": "Nefarius.Utilities.ETW",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.ETW",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.Assembly",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.Assembly",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.AspNetCore",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.AspNetCore",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.HIDReportKit",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.HIDReportKit",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "vpatch",
+      "repo": "https://github.com/nefarius/vpatch",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Shared.PdbUtils",
+      "repo": "https://github.com/nefarius/Nefarius.Shared.PdbUtils",
+      "language": "C#"
+    },
+    {
+      "name": "SignRelay",
+      "repo": "https://github.com/nefarius/SignRelay",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "AppVeyorArtifactsReceiver",
+      "repo": "https://github.com/nefarius/AppVeyorArtifactsReceiver",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.WindowsVersion",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.WindowsVersion",
+      "language": "C#"
+    },
+    {
+      "name": "nefarius-vcpkg-registry",
+      "repo": "https://github.com/nefarius/nefarius-vcpkg-registry",
+      "url": "https://discord.nefarius.at",
+      "language": "PowerShell"
+    },
+    {
+      "name": "neflib",
+      "repo": "https://github.com/nefarius/neflib",
+      "url": "https://discord.nefarius.at",
+      "language": "C++"
+    },
+    {
+      "name": "Nefarius.Drivers.HidHide",
+      "repo": "https://github.com/nefarius/Nefarius.Drivers.HidHide",
+      "url": "https://docs.nefarius.at/projects/HidHide/",
+      "language": "C#"
+    },
+    {
+      "name": "GotifySmtpForwarder",
+      "repo": "https://github.com/nefarius/GotifySmtpForwarder",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "AdvancedUpdaterGitHubProxy",
+      "repo": "https://github.com/nefarius/AdvancedUpdaterGitHubProxy",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "GitHubLastChangeWidget",
+      "repo": "https://github.com/nefarius/GitHubLastChangeWidget",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "IgorBot",
+      "repo": "https://github.com/nefarius/IgorBot",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "docs.nefarius.at",
+      "repo": "https://github.com/nefarius/docs.nefarius.at",
+      "url": "https://docs.nefarius.at/",
+      "language": "HTML"
+    },
+    {
+      "name": "Nefarius.Keycloak.Webhooks",
+      "repo": "https://github.com/nefarius/Nefarius.Keycloak.Webhooks",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "HidHide",
+      "repo": "https://github.com/nefarius/HidHide",
+      "url": "https://docs.nefarius.at/projects/HidHide/",
+      "language": "C++"
+    },
+    {
+      "name": "BthPS3",
+      "repo": "https://github.com/nefarius/BthPS3",
+      "url": "https://docs.nefarius.at/projects/BthPS3/",
+      "language": "C"
+    },
+    {
+      "name": "Nefarius.Utilities.WixSharp",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.WixSharp",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Vicius.Abstractions",
+      "repo": "https://github.com/nefarius/Nefarius.Vicius.Abstractions",
+      "url": "https://github.com/nefarius/vicius",
+      "language": "C#"
+    },
+    {
+      "name": "nefarius",
+      "repo": "https://github.com/nefarius/nefarius"
+    },
+    {
+      "name": "Nefarius.Utilities.NtDll",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.NtDll",
+      "language": "C#"
+    },
+    {
+      "name": "HydraHook",
+      "repo": "https://github.com/nefarius/HydraHook",
+      "url": "https://discord.nefarius.at",
+      "language": "C++"
+    },
+    {
+      "name": "Injector",
+      "repo": "https://github.com/nefarius/Injector",
+      "url": "https://discord.nefarius.at",
+      "language": "C++"
+    },
+    {
+      "name": "HydraHookManager",
+      "repo": "https://github.com/nefarius/HydraHookManager",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Steam.PartnerWebApi",
+      "repo": "https://github.com/nefarius/Nefarius.Steam.PartnerWebApi",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Backblaze.NativeApi",
+      "repo": "https://github.com/nefarius/Nefarius.Backblaze.NativeApi",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "ds4sniffer",
+      "repo": "https://github.com/nefarius/ds4sniffer",
+      "url": "https://discord.nefarius.at",
+      "language": "C++"
+    },
+    {
+      "name": "libsbc",
+      "repo": "https://github.com/nefarius/libsbc",
+      "url": "https://git.kernel.org/pub/scm/bluetooth/sbc.git",
+      "language": "C"
+    },
+    {
+      "name": "DLLSpy",
+      "repo": "https://github.com/nefarius/DLLSpy",
+      "language": "C++"
+    },
+    {
+      "name": "Nefarius.DSharpPlus.Extensions.Hosting",
+      "repo": "https://github.com/nefarius/Nefarius.DSharpPlus.Extensions.Hosting",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "docker-kernel-rockchip",
+      "repo": "https://github.com/nefarius/docker-kernel-rockchip",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "NuGetCachingProxy",
+      "repo": "https://github.com/nefarius/NuGetCachingProxy",
+      "url": "https://discord.nefarius.at",
+      "language": "C#"
+    },
+    {
+      "name": "ScpToolkit",
+      "repo": "https://github.com/nefarius/ScpToolkit",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.EnglishExceptions",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.EnglishExceptions",
+      "language": "C#"
+    },
+    {
+      "name": "XInputHooker",
+      "repo": "https://github.com/nefarius/XInputHooker",
+      "language": "C++"
+    },
+    {
+      "name": "docker-node-service-host",
+      "repo": "https://github.com/nefarius/docker-node-service-host",
+      "url": "https://discord.nefarius.at",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "h5ai-nginx-alpine",
+      "repo": "https://github.com/nefarius/h5ai-nginx-alpine",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Nefarius.Utilities.GitHubUpdater",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.GitHubUpdater",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Peripherals.SerialPort",
+      "repo": "https://github.com/nefarius/Nefarius.Peripherals.SerialPort",
+      "language": "C#"
+    },
+    {
+      "name": "Nefarius.Utilities.SessionNotification",
+      "repo": "https://github.com/nefarius/Nefarius.Utilities.SessionNotification",
+      "language": "C#"
+    },
+    {
+      "name": "MightyDsHidMini",
+      "repo": "https://github.com/nefarius/MightyDsHidMini",
+      "language": "C#"
+    },
+    {
+      "name": "Mana",
+      "repo": "https://github.com/nefarius/Mana",
+      "language": "C#"
+    },
+    {
+      "name": "EPPT",
+      "repo": "https://github.com/nefarius/EPPT",
+      "language": "C++"
+    },
+    {
+      "name": "docs.dsx.gg",
+      "repo": "https://github.com/nefarius/docs.dsx.gg"
+    },
+    {
+      "name": "socksifier",
+      "repo": "https://github.com/nefarius/socksifier",
+      "language": "C"
+    },
+    {
+      "name": "metamodmmt",
+      "repo": "https://github.com/nefarius/metamodmmt",
+      "language": "C++"
+    },
+    {
+      "name": "pwnat-docker-build",
+      "repo": "https://github.com/nefarius/pwnat-docker-build",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Identinator",
+      "repo": "https://github.com/nefarius/Identinator",
+      "language": "C#"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/nefarius/.github"
+    },
+    {
+      "name": "ViGEmBus",
+      "repo": "https://github.com/nefarius/ViGEmBus",
+      "url": "https://docs.nefarius.at/projects/ViGEm/",
+      "language": "C++"
+    },
+    {
+      "name": "ViGEmClient",
+      "repo": "https://github.com/nefarius/ViGEmClient",
+      "url": "https://docs.nefarius.at/projects/ViGEm/",
+      "language": "C"
+    },
+    {
+      "name": "ViGEm.NET",
+      "repo": "https://github.com/nefarius/ViGEm.NET",
+      "url": "https://docs.nefarius.at/projects/ViGEm/",
+      "language": "C#"
+    },
+    {
+      "name": "ViGEm.github.io",
+      "repo": "https://github.com/nefarius/ViGEm.github.io",
+      "url": "https://github.com/nefarius/docs.nefarius.at",
+      "language": "HTML"
+    },
+    {
+      "name": "WireShock",
+      "repo": "https://github.com/nefarius/WireShock",
+      "url": "https://docs.nefarius.at/projects/WireShock/",
+      "language": "C"
+    },
+    {
+      "name": "Shibari",
+      "repo": "https://github.com/nefarius/Shibari",
+      "url": "https://docs.nefarius.at/projects/Shibari/",
+      "language": "C#"
+    },
+    {
+      "name": "HidGuardian",
+      "repo": "https://github.com/nefarius/HidGuardian",
+      "url": "https://docs.nefarius.at/projects/HidGuardian/",
+      "language": "C"
+    },
+    {
+      "name": "VDX",
+      "repo": "https://github.com/nefarius/VDX",
+      "url": "https://docs.nefarius.at/projects/ViGEm/",
+      "language": "C++"
+    },
+    {
+      "name": "FireShock",
+      "repo": "https://github.com/nefarius/FireShock",
+      "url": "https://docs.nefarius.at/projects/FireShock/",
+      "language": "C"
+    },
+    {
+      "name": "AirBender",
+      "repo": "https://github.com/nefarius/AirBender",
+      "url": "https://docs.nefarius.at/projects/AirBender/",
+      "language": "C"
+    },
+    {
+      "name": "XInputPlayerToDevicePath",
+      "repo": "https://github.com/nefarius/XInputPlayerToDevicePath",
+      "language": "C++"
+    },
+    {
+      "name": "WinApiSniffer",
+      "repo": "https://github.com/nefarius/WinApiSniffer",
+      "language": "C"
+    },
+    {
+      "name": "WDF-Utils",
+      "repo": "https://github.com/nefarius/WDF-Utils",
+      "language": "C"
+    },
+    {
+      "name": "nefarius.github.io",
+      "repo": "https://github.com/nefarius/nefarius.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "ViGEm.Jaeger",
+      "repo": "https://github.com/nefarius/ViGEm.Jaeger",
+      "language": "C++"
+    },
+    {
+      "name": "rtmp-server",
+      "repo": "https://github.com/nefarius/rtmp-server",
+      "language": "HTML"
+    },
+    {
+      "name": "garbage-and-scam-sites",
+      "repo": "https://github.com/nefarius/garbage-and-scam-sites"
+    },
+    {
+      "name": "shibboleth-sp",
+      "repo": "https://github.com/nefarius/shibboleth-sp",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ManagedDevcon",
+      "repo": "https://github.com/nefarius/ManagedDevcon",
+      "url": "https://github.com/nefarius/Nefarius.Utilities.DeviceManagement",
+      "language": "C#"
+    },
+    {
+      "name": "ViGEmClient.vcpkg",
+      "repo": "https://github.com/nefarius/ViGEmClient.vcpkg",
+      "language": "CMake"
+    },
+    {
+      "name": "WorkshopMapLoader",
+      "repo": "https://github.com/nefarius/WorkshopMapLoader",
+      "url": "https://forums.alliedmods.net/showthread.php?p=2081908",
+      "language": "SourcePawn"
+    },
+    {
+      "name": "AnnoyingFlooder",
+      "repo": "https://github.com/nefarius/AnnoyingFlooder",
+      "language": "C#"
+    },
+    {
+      "name": "ReactiveProtobuf",
+      "repo": "https://github.com/nefarius/ReactiveProtobuf",
+      "language": "C#"
+    },
+    {
+      "name": "HidCerberus",
+      "repo": "https://github.com/nefarius/HidCerberus",
+      "url": "https://vigem.org/projects/HidGuardian/",
+      "language": "C#"
+    },
+    {
+      "name": "WpfRichText.Ex",
+      "repo": "https://github.com/nefarius/WpfRichText.Ex",
+      "language": "C#"
+    },
+    {
+      "name": "ViGEm.Setup",
+      "repo": "https://github.com/nefarius/ViGEm.Setup",
+      "url": "https://forums.vigem.org/",
+      "language": "C#"
+    },
+    {
+      "name": "Candler",
+      "repo": "https://github.com/nefarius/Candler",
+      "language": "C#"
+    },
+    {
+      "name": "POCO-Windows",
+      "repo": "https://github.com/nefarius/POCO-Windows",
+      "url": "https://pocoproject.org/",
+      "language": "PowerShell"
+    },
+    {
+      "name": "sm-ext-socket",
+      "repo": "https://github.com/nefarius/sm-ext-socket",
+      "url": "https://forums.alliedmods.net/showthread.php?t=67640",
+      "language": "C++"
+    },
+    {
+      "name": "docker-mdwiki",
+      "repo": "https://github.com/nefarius/docker-mdwiki",
+      "language": "HTML"
+    }
+  ]
+}

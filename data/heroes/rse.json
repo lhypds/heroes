@@ -1,0 +1,547 @@
+{
+  "handle": "rse",
+  "name": "Dr. Ralf S. Engelschall",
+  "github": [
+    "https://github.com/rse"
+  ],
+  "bio": "53-year old computer scientist, senior project manager, solution engineer and software artist from Munich, Germany. CTO msg Group and Director msg Research.",
+  "own_repos": 264,
+  "commits": 18557,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ase",
+      "repo": "https://github.com/rse/ase",
+      "url": "https://ase.tools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "specbook",
+      "repo": "https://github.com/rse/specbook",
+      "url": "https://specbook.tools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "broadcast",
+      "repo": "https://github.com/rse/broadcast",
+      "url": "https://github.com/rse/broadcast",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gradia",
+      "repo": "https://github.com/rse/gradia",
+      "url": "https://npmjs.com/@rse/gradia",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claudex",
+      "repo": "https://github.com/rse/claudex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rundown",
+      "repo": "https://github.com/rse/rundown",
+      "url": "https://rundown.studio.msg.team/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mqtt-plus",
+      "repo": "https://github.com/rse/mqtt-plus",
+      "url": "https://npmjs.com/mqtt-plus",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mrcs",
+      "repo": "https://github.com/rse/mrcs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yycs",
+      "repo": "https://github.com/rse/yycs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bash-authorize",
+      "repo": "https://github.com/rse/bash-authorize",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-to-harness",
+      "repo": "https://github.com/rse/mcp-to-harness",
+      "language": "TypeScript"
+    },
+    {
+      "name": "junction",
+      "repo": "https://github.com/rse/junction",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ase-media",
+      "repo": "https://github.com/rse/ase-media",
+      "language": "Nunjucks"
+    },
+    {
+      "name": "speechflow",
+      "repo": "https://github.com/rse/speechflow",
+      "url": "https://npmjs.com/speechflow",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-to-openai",
+      "repo": "https://github.com/rse/mcp-to-openai",
+      "url": "https://npmjs.com/mcp-to-openai",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stmux",
+      "repo": "https://github.com/rse/stmux",
+      "url": "https://npmjs.com/stmux",
+      "language": "TypeScript"
+    },
+    {
+      "name": "asty",
+      "repo": "https://github.com/rse/asty",
+      "url": "https://npmjs.com/asty",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blessed-xterm",
+      "repo": "https://github.com/rse/blessed-xterm",
+      "url": "https://www.npmjs.com/package/blessed-xterm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "execa-cli",
+      "repo": "https://github.com/rse/execa-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ansi-recolor",
+      "repo": "https://github.com/rse/ansi-recolor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "npm-install-fetch",
+      "repo": "https://github.com/rse/npm-install-fetch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "upd",
+      "repo": "https://github.com/rse/upd",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-asty",
+      "repo": "https://github.com/rse/json-asty",
+      "language": "JavaScript"
+    },
+    {
+      "name": "asty-astq",
+      "repo": "https://github.com/rse/asty-astq",
+      "url": "https://www.npmjs.com/package/asty",
+      "language": "JavaScript"
+    },
+    {
+      "name": "astq",
+      "repo": "https://github.com/rse/astq",
+      "url": "https://npmjs.com/astq",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browserify-derequire",
+      "repo": "https://github.com/rse/browserify-derequire",
+      "url": "https://www.npmjs.com/package/browserify-derequire",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pegjs-util",
+      "repo": "https://github.com/rse/pegjs-util",
+      "url": "https://npmjs.com/pegjs-util",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pegjs-otf",
+      "repo": "https://github.com/rse/pegjs-otf",
+      "url": "https://www.npmjs.com/package/pegjs-otf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "huds-pad",
+      "repo": "https://github.com/rse/huds-pad",
+      "url": "https://pad.huds.io/",
+      "language": "Vue"
+    },
+    {
+      "name": "k8s-sample",
+      "repo": "https://github.com/rse/k8s-sample",
+      "language": "JavaScript"
+    },
+    {
+      "name": "encodr",
+      "repo": "https://github.com/rse/encodr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-json-rpc",
+      "repo": "https://github.com/rse/mqtt-json-rpc",
+      "url": "https://npmjs.com/mqtt-json-rpc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "simo",
+      "repo": "https://github.com/rse/simo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ipc-pubsub",
+      "repo": "https://github.com/rse/ipc-pubsub",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graphql-tools-subscribe",
+      "repo": "https://github.com/rse/graphql-tools-subscribe",
+      "url": "https://npmjs.com/graphql-tools-subscribe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ipc-keyval",
+      "repo": "https://github.com/rse/ipc-keyval",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chunking",
+      "repo": "https://github.com/rse/chunking",
+      "language": "JavaScript"
+    },
+    {
+      "name": "func-params",
+      "repo": "https://github.com/rse/func-params",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stdapi",
+      "repo": "https://github.com/rse/stdapi",
+      "url": "https://npmjs.com/stdapi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "divertr",
+      "repo": "https://github.com/rse/divertr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "object-to-table",
+      "repo": "https://github.com/rse/object-to-table",
+      "language": "JavaScript"
+    },
+    {
+      "name": "babel-plugin-named-params",
+      "repo": "https://github.com/rse/babel-plugin-named-params",
+      "language": "JavaScript"
+    },
+    {
+      "name": "peertime",
+      "repo": "https://github.com/rse/peertime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graphql-tools-types",
+      "repo": "https://github.com/rse/graphql-tools-types",
+      "url": "https://www.npmjs.com/package/graphql-tools-types",
+      "language": "JavaScript"
+    },
+    {
+      "name": "babel-runtime-named-params",
+      "repo": "https://github.com/rse/babel-runtime-named-params",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oset",
+      "repo": "https://github.com/rse/oset",
+      "url": "https://www.npmjs.com/package/oset",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gdo",
+      "repo": "https://github.com/rse/gdo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ducky",
+      "repo": "https://github.com/rse/ducky",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mostlikely",
+      "repo": "https://github.com/rse/mostlikely",
+      "url": "https://www.npmjs.com/package/mostlikely",
+      "language": "JavaScript"
+    },
+    {
+      "name": "extraction",
+      "repo": "https://github.com/rse/extraction",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hashtag-similarity",
+      "repo": "https://github.com/rse/hashtag-similarity",
+      "language": "JavaScript"
+    },
+    {
+      "name": "syntax",
+      "repo": "https://github.com/rse/syntax",
+      "url": "https://www.npmjs.com/package/syntax",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cache-lru",
+      "repo": "https://github.com/rse/cache-lru",
+      "url": "https://www.npmjs.com/package/cache-lru",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tokenizr",
+      "repo": "https://github.com/rse/tokenizr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "obs-setup",
+      "repo": "https://github.com/rse/obs-setup"
+    },
+    {
+      "name": "stx",
+      "repo": "https://github.com/rse/stx",
+      "url": "https://npmjs.com/@rse/stx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "busylight",
+      "repo": "https://github.com/rse/busylight",
+      "language": "TypeScript"
+    },
+    {
+      "name": "microkernel-mod-hapi",
+      "repo": "https://github.com/rse/microkernel-mod-hapi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pdf-personalize",
+      "repo": "https://github.com/rse/pdf-personalize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "psd2pptx",
+      "repo": "https://github.com/rse/psd2pptx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sdkig",
+      "repo": "https://github.com/rse/sdkig",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nunjucks-addons",
+      "repo": "https://github.com/rse/nunjucks-addons",
+      "url": "https://npmjs.com/@rse/nunjucks-addons",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nunjucks-cli",
+      "repo": "https://github.com/rse/nunjucks-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mosquitto",
+      "repo": "https://github.com/rse/mosquitto",
+      "url": "https://github.com/rse/mosquitto",
+      "language": "TypeScript"
+    },
+    {
+      "name": "capsula",
+      "repo": "https://github.com/rse/capsula",
+      "url": "https://npmjs.com/capsula",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/rse/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "node-prince",
+      "repo": "https://github.com/rse/node-prince",
+      "url": "https://npmjs.com/prince",
+      "language": "JavaScript"
+    },
+    {
+      "name": "px",
+      "repo": "https://github.com/rse/px",
+      "language": "Shell"
+    },
+    {
+      "name": "tty-attr",
+      "repo": "https://github.com/rse/tty-attr",
+      "language": "C++"
+    },
+    {
+      "name": "postproc",
+      "repo": "https://github.com/rse/postproc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-inline-assets",
+      "repo": "https://github.com/rse/node-inline-assets",
+      "url": "https://www.npmjs.org/package/inline-assets",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nx",
+      "repo": "https://github.com/rse/nx",
+      "language": "Shell"
+    },
+    {
+      "name": "vdon-call",
+      "repo": "https://github.com/rse/vdon-call",
+      "url": "https://caller.studio/",
+      "language": "HTML"
+    },
+    {
+      "name": "claude-code-setup",
+      "repo": "https://github.com/rse/claude-code-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "nebulize",
+      "repo": "https://github.com/rse/nebulize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sieving",
+      "repo": "https://github.com/rse/sieving",
+      "url": "https://npmjs.com/sieving",
+      "language": "JavaScript"
+    },
+    {
+      "name": "textframe",
+      "repo": "https://github.com/rse/textframe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bash-sc",
+      "repo": "https://github.com/rse/bash-sc",
+      "language": "Shell"
+    },
+    {
+      "name": "typopro-dtp",
+      "repo": "https://github.com/rse/typopro-dtp",
+      "language": "PowerShell"
+    },
+    {
+      "name": "typopro-web",
+      "repo": "https://github.com/rse/typopro-web",
+      "language": "CSS"
+    },
+    {
+      "name": "typopro-src",
+      "repo": "https://github.com/rse/typopro-src",
+      "language": "Shell"
+    },
+    {
+      "name": "kickout",
+      "repo": "https://github.com/rse/kickout",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pure-uuid",
+      "repo": "https://github.com/rse/pure-uuid",
+      "url": "https://www.npmjs.com/package/pure-uuid",
+      "language": "JavaScript"
+    },
+    {
+      "name": "huds-hud-training",
+      "repo": "https://github.com/rse/huds-hud-training",
+      "language": "Vue"
+    },
+    {
+      "name": "vmix-vptz",
+      "repo": "https://github.com/rse/vmix-vptz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typopro",
+      "repo": "https://github.com/rse/typopro"
+    },
+    {
+      "name": "studio-ai",
+      "repo": "https://github.com/rse/studio-ai",
+      "language": "Vue"
+    },
+    {
+      "name": "rulebook",
+      "repo": "https://github.com/rse/rulebook",
+      "url": "https://github.com/rse/rulebook",
+      "language": "TypeScript"
+    },
+    {
+      "name": "audio-setup",
+      "repo": "https://github.com/rse/audio-setup"
+    },
+    {
+      "name": "glyphs2font",
+      "repo": "https://github.com/rse/glyphs2font",
+      "url": "https://www.npmjs.com/package/glyphs2font",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pptx-surgeon",
+      "repo": "https://github.com/rse/pptx-surgeon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "microkernel",
+      "repo": "https://github.com/rse/microkernel",
+      "url": "https://www.npmjs.com/package/microkernel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "microkernel-mod-config",
+      "repo": "https://github.com/rse/microkernel-mod-config",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cau",
+      "repo": "https://github.com/rse/cau",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wordnet-ris",
+      "repo": "https://github.com/rse/wordnet-ris",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wordnet-lmf",
+      "repo": "https://github.com/rse/wordnet-lmf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "huds",
+      "repo": "https://github.com/rse/huds",
+      "language": "JavaScript"
+    },
+    {
+      "name": "source-code-error",
+      "repo": "https://github.com/rse/source-code-error",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pdfbox-simple",
+      "repo": "https://github.com/rse/pdfbox-simple",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ael",
+      "repo": "https://github.com/rse/ael",
+      "language": "JavaScript"
+    }
+  ]
+}

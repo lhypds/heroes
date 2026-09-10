@@ -6,10 +6,14 @@
   ],
   "website": "https://drbaph.xyz/",
   "bio": "• 3D Artist • Illustrator • ML Research",
-  "own_repos": 100,
+  "own_repos": 101,
   "commits": 22216,
   "apps": [],
   "repos": [
+    {
+      "name": "ComfyUI-AuK",
+      "repo": "https://github.com/Saganaki22/ComfyUI-AuK"
+    },
     {
       "name": "ComfyUI-Viggle-Animate-H3",
       "repo": "https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3",
@@ -546,12 +550,6 @@
       "name": "Drbaph_shapes",
       "repo": "https://github.com/Saganaki22/Drbaph_shapes",
       "language": "JavaScript"
-    },
-    {
-      "name": "StableAudioWebUI",
-      "repo": "https://github.com/Saganaki22/StableAudioWebUI",
-      "url": "https://instagram.com/drbaph",
-      "language": "Python"
     }
   ]
 }

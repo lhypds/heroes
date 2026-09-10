@@ -1,0 +1,546 @@
+{
+  "handle": "esamattis",
+  "name": "Esa-Matti Suuronen",
+  "github": [
+    "https://github.com/esamattis"
+  ],
+  "website": "https://esamatti.fi/",
+  "bio": "I write code and jump from airplanes 🪂",
+  "own_repos": 112,
+  "commits": 11159,
+  "apps": [],
+  "repos": [
+    {
+      "name": "redoor",
+      "repo": "https://github.com/esamattis/redoor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "loki",
+      "repo": "https://github.com/esamattis/loki",
+      "url": "https://loki.hyppykeli.fi/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/esamattis/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "mitmwall",
+      "repo": "https://github.com/esamattis/mitmwall",
+      "language": "Python"
+    },
+    {
+      "name": "toggl-slip",
+      "repo": "https://github.com/esamattis/toggl-slip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hyppykeli",
+      "repo": "https://github.com/esamattis/hyppykeli",
+      "url": "https://hyppykeli.fi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hostcmd",
+      "repo": "https://github.com/esamattis/hostcmd",
+      "language": "Rust"
+    },
+    {
+      "name": "kello",
+      "repo": "https://github.com/esamattis/kello",
+      "url": "https://kello.esamatti.fi/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "underscore.string",
+      "repo": "https://github.com/esamattis/underscore.string",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rt",
+      "repo": "https://github.com/esamattis/rt",
+      "language": "Rust"
+    },
+    {
+      "name": "git-aicommit",
+      "repo": "https://github.com/esamattis/git-aicommit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "deno_karabiner",
+      "repo": "https://github.com/esamattis/deno_karabiner",
+      "url": "https://deno.land/x/karabiner",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esamattis",
+      "repo": "https://github.com/esamattis/esamattis"
+    },
+    {
+      "name": "react-zorm",
+      "repo": "https://github.com/esamattis/react-zorm",
+      "url": "https://npmjs.com/package/react-zorm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lunarvim-config",
+      "repo": "https://github.com/esamattis/lunarvim-config",
+      "language": "Lua"
+    },
+    {
+      "name": "vimconfig",
+      "repo": "https://github.com/esamattis/vimconfig",
+      "language": "Vim Script"
+    },
+    {
+      "name": "react-bemed",
+      "repo": "https://github.com/esamattis/react-bemed",
+      "url": "https://bemed-components.netlify.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "toggl-paster",
+      "repo": "https://github.com/esamattis/toggl-paster",
+      "url": "https://toggl-paster.netlify.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "npm-release",
+      "repo": "https://github.com/esamattis/npm-release",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sh-thunk",
+      "repo": "https://github.com/esamattis/sh-thunk",
+      "url": "https://www.npmjs.com/package/sh-thunk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "utils",
+      "repo": "https://github.com/esamattis/utils",
+      "language": "TypeScript"
+    },
+    {
+      "name": "immer-reducer",
+      "repo": "https://github.com/esamattis/immer-reducer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-hbsfy",
+      "repo": "https://github.com/esamattis/node-hbsfy",
+      "url": "https://npmjs.org/package/hbsfy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shell-cheatsheet",
+      "repo": "https://github.com/esamattis/shell-cheatsheet"
+    },
+    {
+      "name": "multip",
+      "repo": "https://github.com/esamattis/multip",
+      "language": "Rust"
+    },
+    {
+      "name": "remix-jest-line-numbers-bug",
+      "repo": "https://github.com/esamattis/remix-jest-line-numbers-bug",
+      "language": "TypeScript"
+    },
+    {
+      "name": "remix-jest-bug",
+      "repo": "https://github.com/esamattis/remix-jest-bug",
+      "url": "https://github.com/remix-run/remix/issues/2068",
+      "language": "TypeScript"
+    },
+    {
+      "name": "trpc-cloudflare-worker",
+      "repo": "https://github.com/esamattis/trpc-cloudflare-worker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "konf",
+      "repo": "https://github.com/esamattis/konf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nextjs-history-replace-bug",
+      "repo": "https://github.com/esamattis/nextjs-history-replace-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "postcss-ts-classnames",
+      "repo": "https://github.com/esamattis/postcss-ts-classnames",
+      "url": "https://npm.im/postcss-ts-classnames",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slimux",
+      "repo": "https://github.com/esamattis/slimux",
+      "language": "Vim Script"
+    },
+    {
+      "name": "jquery.panfullsize",
+      "repo": "https://github.com/esamattis/jquery.panfullsize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "twisted-asyncio",
+      "repo": "https://github.com/esamattis/twisted-asyncio",
+      "language": "Python"
+    },
+    {
+      "name": "autohotkey",
+      "repo": "https://github.com/esamattis/autohotkey",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "piler",
+      "repo": "https://github.com/esamattis/piler",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "redux-render-prop",
+      "repo": "https://github.com/esamattis/redux-render-prop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "redux-stack",
+      "repo": "https://github.com/esamattis/redux-stack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-bemed-docs",
+      "repo": "https://github.com/esamattis/react-bemed-docs",
+      "url": "https://bemed-components.netlify.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "babel-plugin-ts-optchain",
+      "repo": "https://github.com/esamattis/babel-plugin-ts-optchain",
+      "url": "https://npm.im/babel-plugin-ts-optchain",
+      "language": "TypeScript"
+    },
+    {
+      "name": "redux-hooks",
+      "repo": "https://github.com/esamattis/redux-hooks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "graphql-codegen-issue",
+      "repo": "https://github.com/esamattis/graphql-codegen-issue",
+      "url": "https://github.com/dotansimha/graphql-code-generator/issues/1432",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typescript-redux-todoapp",
+      "repo": "https://github.com/esamattis/typescript-redux-todoapp",
+      "url": "https://medium.com/@esamatti/type-safe-boilerplate-free-redux-906844ec6325",
+      "language": "TypeScript"
+    },
+    {
+      "name": "emotion-source-map-bug",
+      "repo": "https://github.com/esamattis/emotion-source-map-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "next-emotion-bug",
+      "repo": "https://github.com/esamattis/next-emotion-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wp-graphql-todoapp",
+      "repo": "https://github.com/esamattis/wp-graphql-todoapp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-box",
+      "repo": "https://github.com/esamattis/ts-box",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-unsaved",
+      "repo": "https://github.com/esamattis/vscode-unsaved",
+      "url": "https://marketplace.visualstudio.com/items?itemName=esamatti.unsaved",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-rawpop",
+      "repo": "https://github.com/esamattis/react-rawpop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "myhours",
+      "repo": "https://github.com/esamattis/myhours",
+      "language": "TypeScript"
+    },
+    {
+      "name": "source-map-peek",
+      "repo": "https://github.com/esamattis/source-map-peek",
+      "url": "https://www.npmjs.org/package/source-map-peek",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-unrealmodule",
+      "repo": "https://github.com/esamattis/git-unrealmodule",
+      "language": "Shell"
+    },
+    {
+      "name": "qdomain",
+      "repo": "https://github.com/esamattis/qdomain",
+      "url": "https://npmjs.org/package/qdomain",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-promisepipe",
+      "repo": "https://github.com/esamattis/node-promisepipe",
+      "url": "https://npmjs.org/package/promisepipe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lean-redux",
+      "repo": "https://github.com/esamattis/lean-redux",
+      "url": "https://epeli.github.io/lean-redux/examples/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browserify-externalize",
+      "repo": "https://github.com/esamattis/browserify-externalize",
+      "url": "https://npmjs.org/package/externalize",
+      "language": "JavaScript"
+    },
+    {
+      "name": "angry-caching-proxy",
+      "repo": "https://github.com/esamattis/angry-caching-proxy",
+      "url": "https://npmjs.org/package/angry-caching-proxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yalr",
+      "repo": "https://github.com/esamattis/yalr",
+      "url": "https://npmjs.org/package/yalr",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tmpshare",
+      "repo": "https://github.com/esamattis/tmpshare",
+      "url": "https://www.npmjs.com/package/tmpshare",
+      "language": "JavaScript"
+    },
+    {
+      "name": "TextareaServer",
+      "repo": "https://github.com/esamattis/TextareaServer",
+      "url": "https://chrome.google.com/webstore/detail/ooddekcmdpjicehjkgobdopbkgepmahj",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "streams-dojo",
+      "repo": "https://github.com/esamattis/streams-dojo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "socketio-ios6-bug",
+      "repo": "https://github.com/esamattis/socketio-ios6-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "skydivejkl-theme-old",
+      "repo": "https://github.com/esamattis/skydivejkl-theme-old",
+      "language": "CSS"
+    },
+    {
+      "name": "sharejs-ipad",
+      "repo": "https://github.com/esamattis/sharejs-ipad",
+      "url": "https://github.com/josephg/ShareJS/issues/142",
+      "language": "JavaScript"
+    },
+    {
+      "name": "redux-connect-demo",
+      "repo": "https://github.com/esamattis/redux-connect-demo",
+      "url": "https://github.com/rackt/react-redux/issues/86",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reallyexpress",
+      "repo": "https://github.com/esamattis/reallyexpress",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "react-simple",
+      "repo": "https://github.com/esamattis/react-simple",
+      "url": "https://epeli.github.io/react-simple/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-makefile",
+      "repo": "https://github.com/esamattis/react-makefile",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Projectwatch",
+      "repo": "https://github.com/esamattis/Projectwatch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "npm-mkrelease",
+      "repo": "https://github.com/esamattis/npm-mkrelease",
+      "url": "https://npmjs.org/package/npm-mkrelease",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nodeschool",
+      "repo": "https://github.com/esamattis/nodeschool",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-nyanstream",
+      "repo": "https://github.com/esamattis/node-nyanstream",
+      "url": "https://npmjs.org/package/nyanstream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-lights",
+      "repo": "https://github.com/esamattis/node-lights",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "node-handlebars-runtime",
+      "repo": "https://github.com/esamattis/node-handlebars-runtime",
+      "url": "https://npmjs.org/package/handlebars-runtime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-clim",
+      "repo": "https://github.com/esamattis/node-clim",
+      "url": "https://npmjs.org/package/clim",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lazy-browserify",
+      "repo": "https://github.com/esamattis/lazy-browserify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ircshare",
+      "repo": "https://github.com/esamattis/ircshare",
+      "language": "JavaScript"
+    },
+    {
+      "name": "IRCPost",
+      "repo": "https://github.com/esamattis/IRCPost",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "geekslides",
+      "repo": "https://github.com/esamattis/geekslides",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flysight-subtitles",
+      "repo": "https://github.com/esamattis/flysight-subtitles",
+      "url": "https://esamattis.github.io/flysight-subtitles/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flips.io",
+      "repo": "https://github.com/esamattis/flips.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "carcounter",
+      "repo": "https://github.com/esamattis/carcounter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browserify-cs-example",
+      "repo": "https://github.com/esamattis/browserify-cs-example",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "backbone.viewmaster",
+      "repo": "https://github.com/esamattis/backbone.viewmaster",
+      "language": "JavaScript"
+    },
+    {
+      "name": "babel-plugin-display-name-custom",
+      "repo": "https://github.com/esamattis/babel-plugin-display-name-custom",
+      "url": "https://www.npmjs.com/package/babel-plugin-display-name-custom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "aswyg-editor",
+      "repo": "https://github.com/esamattis/aswyg-editor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "0cjs-webpack-dev-server",
+      "repo": "https://github.com/esamattis/0cjs-webpack-dev-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "requirejs-hbs",
+      "repo": "https://github.com/esamattis/requirejs-hbs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "neovim-config",
+      "repo": "https://github.com/esamattis/neovim-config",
+      "language": "Vim Script"
+    },
+    {
+      "name": "tunnit",
+      "repo": "https://github.com/esamattis/tunnit",
+      "language": "Elm"
+    },
+    {
+      "name": "laputin",
+      "repo": "https://github.com/esamattis/laputin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "redux-setstate-test",
+      "repo": "https://github.com/esamattis/redux-setstate-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jslibs",
+      "repo": "https://github.com/esamattis/jslibs"
+    },
+    {
+      "name": "testikirja",
+      "repo": "https://github.com/esamattis/testikirja"
+    },
+    {
+      "name": "browserify-bug",
+      "repo": "https://github.com/esamattis/browserify-bug",
+      "url": "https://github.com/substack/node-browserify/issues/1063",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lxci",
+      "repo": "https://github.com/esamattis/lxci",
+      "url": "https://github.com/opinsys/lxci",
+      "language": "Python"
+    },
+    {
+      "name": "pico-aswyg-editor-plugin",
+      "repo": "https://github.com/esamattis/pico-aswyg-editor-plugin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gems-in-deb",
+      "repo": "https://github.com/esamattis/gems-in-deb",
+      "language": "Ruby"
+    },
+    {
+      "name": "awesome",
+      "repo": "https://github.com/esamattis/awesome",
+      "language": "Lua"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/esamattis/blog",
+      "language": "JavaScript"
+    }
+  ]
+}

@@ -10,6 +10,16 @@
   "apps": [],
   "repos": [
     {
+      "name": "images",
+      "repo": "https://github.com/nicholasdille/images",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "project-template",
+      "repo": "https://github.com/nicholasdille/project-template",
+      "language": "Dockerfile"
+    },
+    {
       "name": "dotfiles",
       "repo": "https://github.com/nicholasdille/dotfiles",
       "url": "https://dille.name/blog",
@@ -29,16 +39,6 @@
       "name": "capictl",
       "repo": "https://github.com/nicholasdille/capictl",
       "language": "Shell"
-    },
-    {
-      "name": "project-template",
-      "repo": "https://github.com/nicholasdille/project-template",
-      "language": "Dockerfile"
-    },
-    {
-      "name": "images",
-      "repo": "https://github.com/nicholasdille/images",
-      "language": "Dockerfile"
     },
     {
       "name": "seatctl",

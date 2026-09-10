@@ -1,0 +1,509 @@
+{
+  "handle": "j5ik2o",
+  "name": "Junichi Kato",
+  "github": [
+    "https://github.com/j5ik2o"
+  ],
+  "website": "https://lapras.com/public/NHXS5RH",
+  "bio": "I'm a tech-lead in the IDEO;PLUS Inc, is lover to Scala/Rust, Akka, DDD/CQRS+Event Sourcing.",
+  "own_repos": 179,
+  "commits": 28737,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/j5ik2o/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "event-store-adapter-js",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "event-store-adapter-go",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-go",
+      "language": "Go"
+    },
+    {
+      "name": "takt-sdd",
+      "repo": "https://github.com/j5ik2o/takt-sdd",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ai-tools",
+      "repo": "https://github.com/j5ik2o/ai-tools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cqrs-es-example-go",
+      "repo": "https://github.com/j5ik2o/cqrs-es-example-go",
+      "language": "Go"
+    },
+    {
+      "name": "event-store-adapter-dotnet",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-dotnet",
+      "language": "C#"
+    },
+    {
+      "name": "akka-elasticsearch",
+      "repo": "https://github.com/j5ik2o/akka-elasticsearch",
+      "language": "Scala"
+    },
+    {
+      "name": "baseunits-rs",
+      "repo": "https://github.com/j5ik2o/baseunits-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "event-store-adapter-php",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-php",
+      "language": "PHP"
+    },
+    {
+      "name": "prop-check-rs",
+      "repo": "https://github.com/j5ik2o/prop-check-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "pekko-kinesis",
+      "repo": "https://github.com/j5ik2o/pekko-kinesis",
+      "language": "Scala"
+    },
+    {
+      "name": "chronos-scheduler-scala",
+      "repo": "https://github.com/j5ik2o/chronos-scheduler-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "event-store-adapter-scala",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "intervals-scala",
+      "repo": "https://github.com/j5ik2o/intervals-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "akka-persistence-dynamodb",
+      "repo": "https://github.com/j5ik2o/akka-persistence-dynamodb",
+      "language": "Scala"
+    },
+    {
+      "name": "dgx-spark-rack",
+      "repo": "https://github.com/j5ik2o/dgx-spark-rack"
+    },
+    {
+      "name": "pekko-persistence-dynamodb",
+      "repo": "https://github.com/j5ik2o/pekko-persistence-dynamodb",
+      "language": "Scala"
+    },
+    {
+      "name": "design-patterns-in-jvm",
+      "repo": "https://github.com/j5ik2o/design-patterns-in-jvm",
+      "language": "Java"
+    },
+    {
+      "name": "niseoku-js",
+      "repo": "https://github.com/j5ik2o/niseoku-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "event-store-adapter-java",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-java",
+      "language": "Java"
+    },
+    {
+      "name": "fraktor-rs",
+      "repo": "https://github.com/j5ik2o/fraktor-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "cqrs-es-example-js",
+      "repo": "https://github.com/j5ik2o/cqrs-es-example-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cqrs-es-example-java",
+      "repo": "https://github.com/j5ik2o/cqrs-es-example-java",
+      "language": "Java"
+    },
+    {
+      "name": "chronos-parser-scala",
+      "repo": "https://github.com/j5ik2o/chronos-parser-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "pekko-persistence-effector",
+      "repo": "https://github.com/j5ik2o/pekko-persistence-effector",
+      "language": "Scala"
+    },
+    {
+      "name": "uri-scala",
+      "repo": "https://github.com/j5ik2o/uri-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "akka-kinesis",
+      "repo": "https://github.com/j5ik2o/akka-kinesis",
+      "language": "Scala"
+    },
+    {
+      "name": "event-store-adapter-rs",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-rs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "event-store-adapter-kotlin",
+      "repo": "https://github.com/j5ik2o/event-store-adapter-kotlin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "aws-gatling-tools",
+      "repo": "https://github.com/j5ik2o/aws-gatling-tools",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-controller-scala",
+      "repo": "https://github.com/j5ik2o/docker-controller-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "niseoku-go",
+      "repo": "https://github.com/j5ik2o/niseoku-go",
+      "language": "Go"
+    },
+    {
+      "name": "reactive-system-development-guide-using-akka",
+      "repo": "https://github.com/j5ik2o/reactive-system-development-guide-using-akka",
+      "language": "Scala"
+    },
+    {
+      "name": "base64scala",
+      "repo": "https://github.com/j5ik2o/base64scala",
+      "language": "Scala"
+    },
+    {
+      "name": "cqrs-es-example-rs",
+      "repo": "https://github.com/j5ik2o/cqrs-es-example-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "ci",
+      "repo": "https://github.com/j5ik2o/ci",
+      "language": "JavaScript"
+    },
+    {
+      "name": "queue-rs",
+      "repo": "https://github.com/j5ik2o/queue-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "chronos-scheduler-rs",
+      "repo": "https://github.com/j5ik2o/chronos-scheduler-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "intervals-rs",
+      "repo": "https://github.com/j5ik2o/intervals-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "ulid-generator-rs",
+      "repo": "https://github.com/j5ik2o/ulid-generator-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "chronos-parser-rs",
+      "repo": "https://github.com/j5ik2o/chronos-parser-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "design-patterns-in-rust",
+      "repo": "https://github.com/j5ik2o/design-patterns-in-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "marp-ai-base",
+      "repo": "https://github.com/j5ik2o/marp-ai-base",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-dlc-project-template",
+      "repo": "https://github.com/j5ik2o/ai-dlc-project-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "takt-marp",
+      "repo": "https://github.com/j5ik2o/takt-marp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oni-comb-rs",
+      "repo": "https://github.com/j5ik2o/oni-comb-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "okite-ai",
+      "repo": "https://github.com/j5ik2o/okite-ai",
+      "language": "Python"
+    },
+    {
+      "name": "oauth2-study-example",
+      "repo": "https://github.com/j5ik2o/oauth2-study-example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kademlia-rs",
+      "repo": "https://github.com/j5ik2o/kademlia-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "book-lending",
+      "repo": "https://github.com/j5ik2o/book-lending",
+      "language": "Python"
+    },
+    {
+      "name": "design-patterns-in-lean4",
+      "repo": "https://github.com/j5ik2o/design-patterns-in-lean4",
+      "language": "Lean"
+    },
+    {
+      "name": "zain",
+      "repo": "https://github.com/j5ik2o/zain",
+      "language": "Scala"
+    },
+    {
+      "name": "cqrs-es-spec-kit-js",
+      "repo": "https://github.com/j5ik2o/cqrs-es-spec-kit-js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cqrs-es-spec-kit-go",
+      "repo": "https://github.com/j5ik2o/cqrs-es-spec-kit-go",
+      "language": "Go"
+    },
+    {
+      "name": "pekko-cqrs-es-example",
+      "repo": "https://github.com/j5ik2o/pekko-cqrs-es-example",
+      "language": "Scala"
+    },
+    {
+      "name": "cellex-rs",
+      "repo": "https://github.com/j5ik2o/cellex-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "cqrs-es-spec-kit-rs",
+      "repo": "https://github.com/j5ik2o/cqrs-es-spec-kit-rs",
+      "language": "Shell"
+    },
+    {
+      "name": "ai-modeling-verification",
+      "repo": "https://github.com/j5ik2o/ai-modeling-verification",
+      "language": "Rust"
+    },
+    {
+      "name": "nexus-actor-rs",
+      "repo": "https://github.com/j5ik2o/nexus-actor-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "j5ik2o",
+      "repo": "https://github.com/j5ik2o/j5ik2o"
+    },
+    {
+      "name": "cqrs-es-example",
+      "repo": "https://github.com/j5ik2o/cqrs-es-example"
+    },
+    {
+      "name": "akka-cqrs-es-example-typed",
+      "repo": "https://github.com/j5ik2o/akka-cqrs-es-example-typed",
+      "language": "Scala"
+    },
+    {
+      "name": "shared-knowledge-mcp",
+      "repo": "https://github.com/j5ik2o/shared-knowledge-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "event-store-adapter",
+      "repo": "https://github.com/j5ik2o/event-store-adapter"
+    },
+    {
+      "name": "rust-fp",
+      "repo": "https://github.com/j5ik2o/rust-fp",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-ddd-rest-api-template",
+      "repo": "https://github.com/j5ik2o/rust-ddd-rest-api-template",
+      "language": "Rust"
+    },
+    {
+      "name": "server-misc",
+      "repo": "https://github.com/j5ik2o/server-misc",
+      "language": "Shell"
+    },
+    {
+      "name": "akka-at-least-once-delivery",
+      "repo": "https://github.com/j5ik2o/akka-at-least-once-delivery",
+      "language": "Scala"
+    },
+    {
+      "name": "blog-press",
+      "repo": "https://github.com/j5ik2o/blog-press",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles_old",
+      "repo": "https://github.com/j5ik2o/dotfiles_old",
+      "language": "Shell"
+    },
+    {
+      "name": "actor-system-rs",
+      "repo": "https://github.com/j5ik2o/actor-system-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "cqrs-es-example-scala",
+      "repo": "https://github.com/j5ik2o/cqrs-es-example-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "akka-persistence-s3",
+      "repo": "https://github.com/j5ik2o/akka-persistence-s3",
+      "language": "Scala"
+    },
+    {
+      "name": "notion-blog",
+      "repo": "https://github.com/j5ik2o/notion-blog",
+      "language": "TypeScript"
+    },
+    {
+      "name": "webpack-typescript-flux-react",
+      "repo": "https://github.com/j5ik2o/webpack-typescript-flux-react",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dci-example-rust",
+      "repo": "https://github.com/j5ik2o/dci-example-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "tdd-money-scala",
+      "repo": "https://github.com/j5ik2o/tdd-money-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-with-scalafmt.g8",
+      "repo": "https://github.com/j5ik2o/sbt-with-scalafmt.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "akka-stream-dynamodb",
+      "repo": "https://github.com/j5ik2o/akka-stream-dynamodb",
+      "language": "Scala"
+    },
+    {
+      "name": "yoshie-lang",
+      "repo": "https://github.com/j5ik2o/yoshie-lang",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-registry-on-ecs",
+      "repo": "https://github.com/j5ik2o/docker-registry-on-ecs",
+      "language": "HCL"
+    },
+    {
+      "name": "dci-example-scala",
+      "repo": "https://github.com/j5ik2o/dci-example-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "akka-backoff-supervisor-enhancement",
+      "repo": "https://github.com/j5ik2o/akka-backoff-supervisor-enhancement",
+      "language": "Scala"
+    },
+    {
+      "name": "btree-hs",
+      "repo": "https://github.com/j5ik2o/btree-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "scala3-example",
+      "repo": "https://github.com/j5ik2o/scala3-example",
+      "language": "Scala"
+    },
+    {
+      "name": "chatwork-client",
+      "repo": "https://github.com/j5ik2o/chatwork-client",
+      "language": "Scala"
+    },
+    {
+      "name": "wallet",
+      "repo": "https://github.com/j5ik2o/wallet",
+      "language": "Scala"
+    },
+    {
+      "name": "authlete-scala-common",
+      "repo": "https://github.com/j5ik2o/authlete-scala-common",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-parser-study",
+      "repo": "https://github.com/j5ik2o/scala-parser-study",
+      "language": "Scala"
+    },
+    {
+      "name": "scalajs-vuejs-webpack4-example",
+      "repo": "https://github.com/j5ik2o/scalajs-vuejs-webpack4-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "old-example",
+      "repo": "https://github.com/j5ik2o/old-example",
+      "language": "Scala"
+    },
+    {
+      "name": "duedate",
+      "repo": "https://github.com/j5ik2o/duedate",
+      "language": "Scala"
+    },
+    {
+      "name": "akka-study",
+      "repo": "https://github.com/j5ik2o/akka-study",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-js-angular-example",
+      "repo": "https://github.com/j5ik2o/scala-js-angular-example"
+    },
+    {
+      "name": "layered-play-projects",
+      "repo": "https://github.com/j5ik2o/layered-play-projects",
+      "language": "Scala"
+    },
+    {
+      "name": "design-patterns-in-haskell",
+      "repo": "https://github.com/j5ik2o/design-patterns-in-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "tdd-money-rs",
+      "repo": "https://github.com/j5ik2o/tdd-money-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "java-ddd-example",
+      "repo": "https://github.com/j5ik2o/java-ddd-example",
+      "language": "Java"
+    },
+    {
+      "name": "warikan-domain-scala",
+      "repo": "https://github.com/j5ik2o/warikan-domain-scala",
+      "language": "Scala"
+    }
+  ]
+}

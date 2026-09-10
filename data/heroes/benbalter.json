@@ -10,6 +10,16 @@
   "commits": 13193,
   "repos": [
     {
+      "name": "reorg-tuesdays",
+      "repo": "https://github.com/benbalter/reorg-tuesdays",
+      "language": "TypeScript"
+    },
+    {
+      "name": "benbalter.github.com",
+      "repo": "https://github.com/benbalter/benbalter.github.com",
+      "language": "TypeScript"
+    },
+    {
       "name": "copilot-bumper",
       "repo": "https://github.com/benbalter/copilot-bumper",
       "language": "JavaScript"
@@ -35,19 +45,9 @@
       "language": "TypeScript"
     },
     {
-      "name": "reorg-tuesdays",
-      "repo": "https://github.com/benbalter/reorg-tuesdays",
-      "language": "TypeScript"
-    },
-    {
       "name": "zoom-go",
       "repo": "https://github.com/benbalter/zoom-go",
       "language": "Go"
-    },
-    {
-      "name": "benbalter.github.com",
-      "repo": "https://github.com/benbalter/benbalter.github.com",
-      "language": "TypeScript"
     },
     {
       "name": "last-run-action",
