@@ -32,8 +32,8 @@
    when the page is. Grey until it arrives. */
 .avatar {
   flex: none;
-  width: 36px;
-  height: 36px;
+  width: 72px;
+  height: 72px;
   object-fit: cover;
   background: var(--soft);
   filter: var(--avatar-filter);

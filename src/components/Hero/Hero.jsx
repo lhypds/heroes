@@ -59,10 +59,10 @@ export default function Hero({ hero }) {
           {!noAvatar && (
             <img
               className={styles.avatar}
-              src={`https://avatars.githubusercontent.com/${handle}?size=96`}
+              src={`https://avatars.githubusercontent.com/${handle}?size=144`}
               alt=""
-              width="36"
-              height="36"
+              width="72"
+              height="72"
               loading="lazy"
               onError={() => setNoAvatar(true)}
             />
