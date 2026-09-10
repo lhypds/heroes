@@ -1,0 +1,518 @@
+{
+  "handle": "muflone",
+  "name": "Muflone",
+  "github": [
+    "https://github.com/muflone"
+  ],
+  "website": "https://www.muflone.com/",
+  "bio": "Arch Linux for life, pacman -Syu to continue to live",
+  "own_repos": 128,
+  "commits": 11677,
+  "apps": [],
+  "repos": [
+    {
+      "name": "pkgbuilds",
+      "repo": "https://github.com/muflone/pkgbuilds",
+      "language": "Shell"
+    },
+    {
+      "name": "muflo_enjoy",
+      "repo": "https://github.com/muflone/muflo_enjoy",
+      "language": "Python"
+    },
+    {
+      "name": "telegram-archwiki-bot",
+      "repo": "https://github.com/muflone/telegram-archwiki-bot",
+      "language": "Python"
+    },
+    {
+      "name": "docker-cloud-nextcloud",
+      "repo": "https://github.com/muflone/docker-cloud-nextcloud",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-cloud-telegram-archwiki-bot",
+      "repo": "https://github.com/muflone/docker-cloud-telegram-archwiki-bot"
+    },
+    {
+      "name": "docker-cloud-telegram-logging-bot",
+      "repo": "https://github.com/muflone/docker-cloud-telegram-logging-bot"
+    },
+    {
+      "name": "telegram-logging-bot",
+      "repo": "https://github.com/muflone/telegram-logging-bot",
+      "language": "Python"
+    },
+    {
+      "name": "docker-cloud-pulldocker",
+      "repo": "https://github.com/muflone/docker-cloud-pulldocker"
+    },
+    {
+      "name": "docker-cloud-muflopping",
+      "repo": "https://github.com/muflone/docker-cloud-muflopping"
+    },
+    {
+      "name": "pyodoo",
+      "repo": "https://github.com/muflone/pyodoo",
+      "language": "Python"
+    },
+    {
+      "name": "muflopping",
+      "repo": "https://github.com/muflone/muflopping",
+      "language": "Kotlin"
+    },
+    {
+      "name": "gwakeonlan",
+      "repo": "https://github.com/muflone/gwakeonlan",
+      "url": "https://www.muflone.com/gwakeonlan/",
+      "language": "Python"
+    },
+    {
+      "name": "django-muflopping",
+      "repo": "https://github.com/muflone/django-muflopping",
+      "language": "Python"
+    },
+    {
+      "name": "django-hotels-android",
+      "repo": "https://github.com/muflone/django-hotels-android",
+      "language": "Java"
+    },
+    {
+      "name": "ansible-cloud-servers",
+      "repo": "https://github.com/muflone/ansible-cloud-servers",
+      "language": "Jinja"
+    },
+    {
+      "name": "docker-cloud-pastey",
+      "repo": "https://github.com/muflone/docker-cloud-pastey",
+      "language": "Python"
+    },
+    {
+      "name": "django-remotes",
+      "repo": "https://github.com/muflone/django-remotes",
+      "language": "Python"
+    },
+    {
+      "name": "jekyll-muflone",
+      "repo": "https://github.com/muflone/jekyll-muflone",
+      "language": "CSS"
+    },
+    {
+      "name": "muflone-rendered",
+      "repo": "https://github.com/muflone/muflone-rendered",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-cloud-borgmatic",
+      "repo": "https://github.com/muflone/docker-cloud-borgmatic"
+    },
+    {
+      "name": "docker-cloud-uptime-kuma",
+      "repo": "https://github.com/muflone/docker-cloud-uptime-kuma"
+    },
+    {
+      "name": "docker-cloud-yourls",
+      "repo": "https://github.com/muflone/docker-cloud-yourls",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-cloud-mariadb",
+      "repo": "https://github.com/muflone/docker-cloud-mariadb"
+    },
+    {
+      "name": "docker-cloud-nginx-proxy-manager",
+      "repo": "https://github.com/muflone/docker-cloud-nginx-proxy-manager"
+    },
+    {
+      "name": "docker-cloud-nginx",
+      "repo": "https://github.com/muflone/docker-cloud-nginx"
+    },
+    {
+      "name": "MuBatteryStats",
+      "repo": "https://github.com/muflone/MuBatteryStats",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rn-todo",
+      "repo": "https://github.com/muflone/rn-todo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pulldocker",
+      "repo": "https://github.com/muflone/pulldocker",
+      "language": "Python"
+    },
+    {
+      "name": "docker-cloud-telegram-youtube-bot",
+      "repo": "https://github.com/muflone/docker-cloud-telegram-youtube-bot"
+    },
+    {
+      "name": "telegram-youtube-bot",
+      "repo": "https://github.com/muflone/telegram-youtube-bot",
+      "language": "Python"
+    },
+    {
+      "name": "remmina-plugin-builder",
+      "repo": "https://github.com/muflone/remmina-plugin-builder",
+      "url": "https://www.muflone.com/remmina-plugin-builder/",
+      "language": "CMake"
+    },
+    {
+      "name": "docker-cloud-portainer_agent",
+      "repo": "https://github.com/muflone/docker-cloud-portainer_agent"
+    },
+    {
+      "name": "pyzendesk",
+      "repo": "https://github.com/muflone/pyzendesk",
+      "language": "Python"
+    },
+    {
+      "name": "wmectrl",
+      "repo": "https://github.com/muflone/wmectrl",
+      "language": "Python"
+    },
+    {
+      "name": "docker-cloud-certbot",
+      "repo": "https://github.com/muflone/docker-cloud-certbot"
+    },
+    {
+      "name": "autorepo",
+      "repo": "https://github.com/muflone/autorepo",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-dnsmasq",
+      "repo": "https://github.com/muflone/docker-dnsmasq",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "vbsimple-rendered",
+      "repo": "https://github.com/muflone/vbsimple-rendered",
+      "language": "HTML"
+    },
+    {
+      "name": "gnome-appfolders-manager",
+      "repo": "https://github.com/muflone/gnome-appfolders-manager",
+      "url": "https://www.muflone.com/gnome-appfolders-manager/",
+      "language": "Python"
+    },
+    {
+      "name": "bluewho",
+      "repo": "https://github.com/muflone/bluewho",
+      "url": "https://www.muflone.com/bluewho/",
+      "language": "Python"
+    },
+    {
+      "name": "django-snippets",
+      "repo": "https://github.com/muflone/django-snippets",
+      "language": "Python"
+    },
+    {
+      "name": "odoo-tutorials",
+      "repo": "https://github.com/muflone/odoo-tutorials",
+      "language": "Python"
+    },
+    {
+      "name": "mumailer",
+      "repo": "https://github.com/muflone/mumailer",
+      "url": "https://www.muflone.com/mumailer/",
+      "language": "Python"
+    },
+    {
+      "name": "docker-harbormaster-cloud7",
+      "repo": "https://github.com/muflone/docker-harbormaster-cloud7",
+      "language": "Shell"
+    },
+    {
+      "name": "django-netscanner",
+      "repo": "https://github.com/muflone/django-netscanner",
+      "language": "Python"
+    },
+    {
+      "name": "docker-odoo-12",
+      "repo": "https://github.com/muflone/docker-odoo-12",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "watchpage",
+      "repo": "https://github.com/muflone/watchpage",
+      "url": "https://www.muflone.com/watchpage/",
+      "language": "Python"
+    },
+    {
+      "name": "remmina-plugin-exec",
+      "repo": "https://github.com/muflone/remmina-plugin-exec",
+      "url": "https://www.muflone.com/remmina-plugin-exec/",
+      "language": "C"
+    },
+    {
+      "name": "pykerio",
+      "repo": "https://github.com/muflone/pykerio",
+      "language": "Python"
+    },
+    {
+      "name": "django-admin-settings",
+      "repo": "https://github.com/muflone/django-admin-settings",
+      "url": "https://www.muflone.com/django-admin-settings/",
+      "language": "Python"
+    },
+    {
+      "name": "django-hotels",
+      "repo": "https://github.com/muflone/django-hotels",
+      "language": "Python"
+    },
+    {
+      "name": "pixelcolor",
+      "repo": "https://github.com/muflone/pixelcolor",
+      "url": "https://www.muflone.com/pixelcolor/",
+      "language": "Python"
+    },
+    {
+      "name": "remmina-plugin-rustdesk",
+      "repo": "https://github.com/muflone/remmina-plugin-rustdesk",
+      "url": "https://www.muflone.com/remmina-plugin-rustdesk/",
+      "language": "C"
+    },
+    {
+      "name": "gtransmemory",
+      "repo": "https://github.com/muflone/gtransmemory",
+      "url": "https://www.muflone.com/gtransmemory/",
+      "language": "Python"
+    },
+    {
+      "name": "gptrace",
+      "repo": "https://github.com/muflone/gptrace",
+      "url": "https://www.muflone.com/gptrace/",
+      "language": "Python"
+    },
+    {
+      "name": "gextractwinicons",
+      "repo": "https://github.com/muflone/gextractwinicons",
+      "url": "https://www.muflone.com/gextractwinicons/",
+      "language": "Python"
+    },
+    {
+      "name": "cpucompare",
+      "repo": "https://github.com/muflone/cpucompare",
+      "url": "https://www.muflone.com/cpucompare/",
+      "language": "Python"
+    },
+    {
+      "name": "pymagento-rest",
+      "repo": "https://github.com/muflone/pymagento-rest",
+      "language": "Python"
+    },
+    {
+      "name": "awaitable",
+      "repo": "https://github.com/muflone/awaitable",
+      "url": "https://www.muflone.com/awaitable/",
+      "language": "Python"
+    },
+    {
+      "name": "gespeaker",
+      "repo": "https://github.com/muflone/gespeaker",
+      "url": "https://www.muflone.com/gespeaker/",
+      "language": "Python"
+    },
+    {
+      "name": "django-work-hours",
+      "repo": "https://github.com/muflone/django-work-hours",
+      "language": "Python"
+    },
+    {
+      "name": "grav-muflone-blog",
+      "repo": "https://github.com/muflone/grav-muflone-blog",
+      "language": "PHP"
+    },
+    {
+      "name": "django-dnsmasq",
+      "repo": "https://github.com/muflone/django-dnsmasq",
+      "language": "Python"
+    },
+    {
+      "name": "docker-packaging-ubuntu-21.10",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-21.10",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-21.04",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-21.04",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-20.10",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-20.10",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-20.04",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-20.04",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-19.10",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-19.10",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-19.04",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-19.04",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-18.10",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-18.10",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-18.04",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-18.04",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-17.10",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-17.10",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-debian-testing",
+      "repo": "https://github.com/muflone/docker-packaging-debian-testing",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-ubuntu-17.04",
+      "repo": "https://github.com/muflone/docker-packaging-ubuntu-17.04",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-debian-11",
+      "repo": "https://github.com/muflone/docker-packaging-debian-11",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-debian-10",
+      "repo": "https://github.com/muflone/docker-packaging-debian-10",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-packaging-debian-9",
+      "repo": "https://github.com/muflone/docker-packaging-debian-9",
+      "language": "Shell"
+    },
+    {
+      "name": "django-ping-results",
+      "repo": "https://github.com/muflone/django-ping-results",
+      "language": "Python"
+    },
+    {
+      "name": "vpngate-extract",
+      "repo": "https://github.com/muflone/vpngate-extract",
+      "language": "Python"
+    },
+    {
+      "name": "docker-gitlab",
+      "repo": "https://github.com/muflone/docker-gitlab"
+    },
+    {
+      "name": "docker-portainer",
+      "repo": "https://github.com/muflone/docker-portainer"
+    },
+    {
+      "name": "sbackup",
+      "repo": "https://github.com/muflone/sbackup",
+      "language": "Python"
+    },
+    {
+      "name": "router-statistics",
+      "repo": "https://github.com/muflone/router-statistics",
+      "language": "Python"
+    },
+    {
+      "name": "NCMSI",
+      "repo": "https://github.com/muflone/NCMSI",
+      "language": "Shell"
+    },
+    {
+      "name": "ALMSI",
+      "repo": "https://github.com/muflone/ALMSI",
+      "language": "Shell"
+    },
+    {
+      "name": "postgres_dump_tables",
+      "repo": "https://github.com/muflone/postgres_dump_tables",
+      "language": "Python"
+    },
+    {
+      "name": "docker-odoo",
+      "repo": "https://github.com/muflone/docker-odoo"
+    },
+    {
+      "name": "docker-firefox-esr52",
+      "repo": "https://github.com/muflone/docker-firefox-esr52"
+    },
+    {
+      "name": "docker-postgres",
+      "repo": "https://github.com/muflone/docker-postgres"
+    },
+    {
+      "name": "docker-certbot",
+      "repo": "https://github.com/muflone/docker-certbot"
+    },
+    {
+      "name": "docker-acroread",
+      "repo": "https://github.com/muflone/docker-acroread"
+    },
+    {
+      "name": "remmina-plugin-webkit",
+      "repo": "https://github.com/muflone/remmina-plugin-webkit",
+      "url": "https://www.muflone.com/remmina-plugin-webkit/",
+      "language": "C"
+    },
+    {
+      "name": "remmina-plugin-url",
+      "repo": "https://github.com/muflone/remmina-plugin-url",
+      "url": "https://www.muflone.com/remmina-plugin-url/",
+      "language": "C"
+    },
+    {
+      "name": "remmina-plugin-ultravnc",
+      "repo": "https://github.com/muflone/remmina-plugin-ultravnc",
+      "url": "https://www.muflone.com/remmina-plugin-ultravnc/",
+      "language": "C"
+    },
+    {
+      "name": "remmina-plugin-teamviewer",
+      "repo": "https://github.com/muflone/remmina-plugin-teamviewer",
+      "url": "https://www.muflone.com/remmina-plugin-teamviewer/",
+      "language": "C"
+    },
+    {
+      "name": "remmina-plugin-rdesktop",
+      "repo": "https://github.com/muflone/remmina-plugin-rdesktop",
+      "url": "https://www.muflone.com/remmina-plugin-rdesktop/",
+      "language": "C"
+    },
+    {
+      "name": "remmina-plugin-open",
+      "repo": "https://github.com/muflone/remmina-plugin-open",
+      "url": "https://www.muflone.com/remmina-plugin-open/",
+      "language": "C"
+    },
+    {
+      "name": "remmina-plugin-folder",
+      "repo": "https://github.com/muflone/remmina-plugin-folder",
+      "url": "https://www.muflone.com/remmina-plugin-folder/",
+      "language": "C"
+    },
+    {
+      "name": "tarback",
+      "repo": "https://github.com/muflone/tarback",
+      "language": "Python"
+    },
+    {
+      "name": "words-solver-android",
+      "repo": "https://github.com/muflone/words-solver-android",
+      "language": "Java"
+    }
+  ]
+}

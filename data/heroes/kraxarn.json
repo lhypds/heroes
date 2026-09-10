@@ -6,6 +6,524 @@
   ],
   "website": "https://kraxarn.com/",
   "bio": "I would rather shoot myself in the foot from time to time than risk shooting my entire leg off",
+  "own_repos": 101,
   "commits": 14249,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "overlay",
+      "repo": "https://github.com/kraxarn/overlay",
+      "language": "Shell"
+    },
+    {
+      "name": "chirp",
+      "repo": "https://github.com/kraxarn/chirp",
+      "language": "C"
+    },
+    {
+      "name": "chirp-legacy",
+      "repo": "https://github.com/kraxarn/chirp-legacy",
+      "language": "C++"
+    },
+    {
+      "name": "kraxarn",
+      "repo": "https://github.com/kraxarn/kraxarn",
+      "url": "https://kraxarn.com/"
+    },
+    {
+      "name": "nest",
+      "repo": "https://github.com/kraxarn/nest",
+      "language": "Go"
+    },
+    {
+      "name": "spotify-qt",
+      "repo": "https://github.com/kraxarn/spotify-qt",
+      "language": "C++"
+    },
+    {
+      "name": "gltfconv",
+      "repo": "https://github.com/kraxarn/gltfconv",
+      "language": "C++"
+    },
+    {
+      "name": "website",
+      "repo": "https://github.com/kraxarn/website",
+      "url": "https://kraxarn.com",
+      "language": "Go"
+    },
+    {
+      "name": "inhibit",
+      "repo": "https://github.com/kraxarn/inhibit",
+      "language": "Go"
+    },
+    {
+      "name": "mizu",
+      "repo": "https://github.com/kraxarn/mizu",
+      "language": "C++"
+    },
+    {
+      "name": "quezer",
+      "repo": "https://github.com/kraxarn/quezer",
+      "language": "C++"
+    },
+    {
+      "name": "spotify-qt-nightly",
+      "repo": "https://github.com/kraxarn/spotify-qt-nightly",
+      "url": "https://github.com/kraxarn/spotify-qt",
+      "language": "Python"
+    },
+    {
+      "name": "caw",
+      "repo": "https://github.com/kraxarn/caw",
+      "language": "C++"
+    },
+    {
+      "name": "s16decode",
+      "repo": "https://github.com/kraxarn/s16decode",
+      "language": "C"
+    },
+    {
+      "name": "aoc2025",
+      "repo": "https://github.com/kraxarn/aoc2025",
+      "language": "C"
+    },
+    {
+      "name": "shiny",
+      "repo": "https://github.com/kraxarn/shiny",
+      "language": "C"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/kraxarn/dotfiles",
+      "language": "CSS"
+    },
+    {
+      "name": "wcfb2025autumn",
+      "repo": "https://github.com/kraxarn/wcfb2025autumn",
+      "language": "C++"
+    },
+    {
+      "name": "ubongo",
+      "repo": "https://github.com/kraxarn/ubongo",
+      "url": "https://ubongo.kraxarn.com",
+      "language": "Kotlin"
+    },
+    {
+      "name": "tenkan",
+      "repo": "https://github.com/kraxarn/tenkan",
+      "language": "C++"
+    },
+    {
+      "name": "adaptly",
+      "repo": "https://github.com/kraxarn/adaptly",
+      "language": "CMake"
+    },
+    {
+      "name": "throwback",
+      "repo": "https://github.com/kraxarn/throwback",
+      "language": "Vue"
+    },
+    {
+      "name": "music",
+      "repo": "https://github.com/kraxarn/music"
+    },
+    {
+      "name": "hitster-scanner",
+      "repo": "https://github.com/kraxarn/hitster-scanner",
+      "language": "C++"
+    },
+    {
+      "name": "aoc2024",
+      "repo": "https://github.com/kraxarn/aoc2024",
+      "url": "https://adventofcode.com/2024",
+      "language": "Python"
+    },
+    {
+      "name": "wcfb2024autumn",
+      "repo": "https://github.com/kraxarn/wcfb2024autumn",
+      "language": "C++"
+    },
+    {
+      "name": "pico-timer",
+      "repo": "https://github.com/kraxarn/pico-timer",
+      "language": "C"
+    },
+    {
+      "name": "4mb-platformer",
+      "repo": "https://github.com/kraxarn/4mb-platformer",
+      "language": "C++"
+    },
+    {
+      "name": "guess-year-cache",
+      "repo": "https://github.com/kraxarn/guess-year-cache",
+      "language": "Go"
+    },
+    {
+      "name": "spotify-qt-quick",
+      "repo": "https://github.com/kraxarn/spotify-qt-quick",
+      "language": "C++"
+    },
+    {
+      "name": "aoc2023",
+      "repo": "https://github.com/kraxarn/aoc2023",
+      "url": "https://adventofcode.com/2023",
+      "language": "Lua"
+    },
+    {
+      "name": "xonix",
+      "repo": "https://github.com/kraxarn/xonix",
+      "url": "https://xonix.kraxarn.com/",
+      "language": "C++"
+    },
+    {
+      "name": "mcg",
+      "repo": "https://github.com/kraxarn/mcg",
+      "url": "https://cards.kraxarn.com",
+      "language": "Rust"
+    },
+    {
+      "name": "aoc2022",
+      "repo": "https://github.com/kraxarn/aoc2022",
+      "url": "https://adventofcode.com/2022",
+      "language": "Rust"
+    },
+    {
+      "name": "bevy-snake",
+      "repo": "https://github.com/kraxarn/bevy-snake",
+      "language": "Rust"
+    },
+    {
+      "name": "pause-timer",
+      "repo": "https://github.com/kraxarn/pause-timer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nakama-kt",
+      "repo": "https://github.com/kraxarn/nakama-kt",
+      "language": "Kotlin"
+    },
+    {
+      "name": "spotify-qt-auth",
+      "repo": "https://github.com/kraxarn/spotify-qt-auth",
+      "language": "Kotlin"
+    },
+    {
+      "name": "spotify-rmlui",
+      "repo": "https://github.com/kraxarn/spotify-rmlui",
+      "language": "SCSS"
+    },
+    {
+      "name": "KraxbotOSS",
+      "repo": "https://github.com/kraxarn/KraxbotOSS",
+      "language": "C#"
+    },
+    {
+      "name": "tixel",
+      "repo": "https://github.com/kraxarn/tixel",
+      "language": "Kotlin"
+    },
+    {
+      "name": "db-selector",
+      "repo": "https://github.com/kraxarn/db-selector",
+      "language": "Kotlin"
+    },
+    {
+      "name": "nakama-modules",
+      "repo": "https://github.com/kraxarn/nakama-modules",
+      "language": "Go"
+    },
+    {
+      "name": "sponsor-sync",
+      "repo": "https://github.com/kraxarn/sponsor-sync",
+      "language": "Rust"
+    },
+    {
+      "name": "Mobile.Uno",
+      "repo": "https://github.com/kraxarn/Mobile.Uno",
+      "language": "C#"
+    },
+    {
+      "name": "miniquad-android-storage-example",
+      "repo": "https://github.com/kraxarn/miniquad-android-storage-example",
+      "language": "Rust"
+    },
+    {
+      "name": "school_schedule",
+      "repo": "https://github.com/kraxarn/school_schedule",
+      "language": "Dart"
+    },
+    {
+      "name": "opentd",
+      "repo": "https://github.com/kraxarn/opentd",
+      "language": "Rust"
+    },
+    {
+      "name": "user-languages",
+      "repo": "https://github.com/kraxarn/user-languages",
+      "url": "https://kraxarn.github.io/user-languages",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bank",
+      "repo": "https://github.com/kraxarn/bank",
+      "language": "Dart"
+    },
+    {
+      "name": "reminder",
+      "repo": "https://github.com/kraxarn/reminder",
+      "language": "C++"
+    },
+    {
+      "name": "LyricsApi",
+      "repo": "https://github.com/kraxarn/LyricsApi",
+      "language": "C#"
+    },
+    {
+      "name": "crowengine2",
+      "repo": "https://github.com/kraxarn/crowengine2",
+      "language": "C++"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/kraxarn/blog",
+      "url": "https://kraxarn.github.io/blog"
+    },
+    {
+      "name": "go-watch",
+      "repo": "https://github.com/kraxarn/go-watch",
+      "url": "https://github.com/kraxarn/website",
+      "language": "JavaScript"
+    },
+    {
+      "name": "librespot-cpp-example",
+      "repo": "https://github.com/kraxarn/librespot-cpp-example",
+      "language": "C++"
+    },
+    {
+      "name": "librespot-cpp",
+      "repo": "https://github.com/kraxarn/librespot-cpp",
+      "language": "Rust"
+    },
+    {
+      "name": "ytdl-client",
+      "repo": "https://github.com/kraxarn/ytdl-client",
+      "language": "Go"
+    },
+    {
+      "name": "spotify-gtk",
+      "repo": "https://github.com/kraxarn/spotify-gtk",
+      "language": "C++"
+    },
+    {
+      "name": "spotify-fltk",
+      "repo": "https://github.com/kraxarn/spotify-fltk",
+      "language": "C++"
+    },
+    {
+      "name": "gfr",
+      "repo": "https://github.com/kraxarn/gfr",
+      "language": "Rust"
+    },
+    {
+      "name": "latest-artifact",
+      "repo": "https://github.com/kraxarn/latest-artifact",
+      "url": "https://kraxarn.github.io/latest-artifact",
+      "language": "JavaScript"
+    },
+    {
+      "name": "QWatch",
+      "repo": "https://github.com/kraxarn/QWatch",
+      "language": "C++"
+    },
+    {
+      "name": "goInstaller",
+      "repo": "https://github.com/kraxarn/goInstaller",
+      "language": "Go"
+    },
+    {
+      "name": "WeTube",
+      "repo": "https://github.com/kraxarn/WeTube",
+      "language": "C#"
+    },
+    {
+      "name": "bom-check",
+      "repo": "https://github.com/kraxarn/bom-check",
+      "language": "Rust"
+    },
+    {
+      "name": "cpcx",
+      "repo": "https://github.com/kraxarn/cpcx",
+      "language": "C++"
+    },
+    {
+      "name": "wixgen",
+      "repo": "https://github.com/kraxarn/wixgen",
+      "language": "Go"
+    },
+    {
+      "name": "cpsub",
+      "repo": "https://github.com/kraxarn/cpsub",
+      "language": "Go"
+    },
+    {
+      "name": "orq",
+      "repo": "https://github.com/kraxarn/orq",
+      "url": "https://gitlab.com/orqapp/orq",
+      "language": "Go"
+    },
+    {
+      "name": "QVorbis",
+      "repo": "https://github.com/kraxarn/QVorbis",
+      "language": "C++"
+    },
+    {
+      "name": "spotify-qt-player",
+      "repo": "https://github.com/kraxarn/spotify-qt-player",
+      "url": "https://github.com/kraxarn/spotify-qt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "OpenRQ",
+      "repo": "https://github.com/kraxarn/OpenRQ",
+      "url": "https://github.com/kraxarn/orq",
+      "language": "Go"
+    },
+    {
+      "name": "steam-game-uninstaller",
+      "repo": "https://github.com/kraxarn/steam-game-uninstaller",
+      "language": "Go"
+    },
+    {
+      "name": "adbfm",
+      "repo": "https://github.com/kraxarn/adbfm",
+      "language": "Go"
+    },
+    {
+      "name": "kraxarn.github.io",
+      "repo": "https://github.com/kraxarn/kraxarn.github.io",
+      "url": "https://kraxarn.github.io"
+    },
+    {
+      "name": "OpenRQinstaller",
+      "repo": "https://github.com/kraxarn/OpenRQinstaller",
+      "url": "https://github.com/kraxarn/goInstaller",
+      "language": "Go"
+    },
+    {
+      "name": "TS3Viewer.Android",
+      "repo": "https://github.com/kraxarn/TS3Viewer.Android",
+      "language": "Kotlin"
+    },
+    {
+      "name": "StandReminder",
+      "repo": "https://github.com/kraxarn/StandReminder",
+      "language": "Kotlin"
+    },
+    {
+      "name": "CubeQuest",
+      "repo": "https://github.com/kraxarn/CubeQuest",
+      "language": "C#"
+    },
+    {
+      "name": "Snake",
+      "repo": "https://github.com/kraxarn/Snake",
+      "language": "C#"
+    },
+    {
+      "name": "CurrencyConverter",
+      "repo": "https://github.com/kraxarn/CurrencyConverter",
+      "language": "Java"
+    },
+    {
+      "name": "FlyingCats.App",
+      "repo": "https://github.com/kraxarn/FlyingCats.App",
+      "language": "C#"
+    },
+    {
+      "name": "FlyingCats.Website",
+      "repo": "https://github.com/kraxarn/FlyingCats.Website",
+      "language": "C#"
+    },
+    {
+      "name": "WeTubeChat",
+      "repo": "https://github.com/kraxarn/WeTubeChat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cup",
+      "repo": "https://github.com/kraxarn/cup",
+      "language": "C#"
+    },
+    {
+      "name": "BatteryNotifier-Cordova",
+      "repo": "https://github.com/kraxarn/BatteryNotifier-Cordova",
+      "language": "JavaScript"
+    },
+    {
+      "name": "VirtualGuzla",
+      "repo": "https://github.com/kraxarn/VirtualGuzla",
+      "language": "C++"
+    },
+    {
+      "name": "BatteryNotifier-Xamarin",
+      "repo": "https://github.com/kraxarn/BatteryNotifier-Xamarin",
+      "language": "C#"
+    },
+    {
+      "name": "vgyme",
+      "repo": "https://github.com/kraxarn/vgyme",
+      "language": "Java"
+    },
+    {
+      "name": "dashe4",
+      "repo": "https://github.com/kraxarn/dashe4",
+      "url": "https://steamcommunity.com/id/kraxbot",
+      "language": "C#"
+    },
+    {
+      "name": "CleverbotIO.Net",
+      "repo": "https://github.com/kraxarn/CleverbotIO.Net",
+      "language": "C#"
+    },
+    {
+      "name": "CELD",
+      "repo": "https://github.com/kraxarn/CELD",
+      "language": "C++"
+    },
+    {
+      "name": "Converter",
+      "repo": "https://github.com/kraxarn/Converter",
+      "language": "Java"
+    },
+    {
+      "name": "KraxBot",
+      "repo": "https://github.com/kraxarn/KraxBot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "KraxbotOSS-Terminal",
+      "repo": "https://github.com/kraxarn/KraxbotOSS-Terminal",
+      "language": "C#"
+    },
+    {
+      "name": "FFGUI",
+      "repo": "https://github.com/kraxarn/FFGUI",
+      "language": "C++"
+    },
+    {
+      "name": "SuperTaco",
+      "repo": "https://github.com/kraxarn/SuperTaco",
+      "language": "Lua"
+    },
+    {
+      "name": "Steam-Dark-Cloud",
+      "repo": "https://github.com/kraxarn/Steam-Dark-Cloud",
+      "language": "CSS"
+    },
+    {
+      "name": "Nuclear-Diplomacy",
+      "repo": "https://github.com/kraxarn/Nuclear-Diplomacy",
+      "language": "QMake"
+    }
+  ]
 }

@@ -1,0 +1,542 @@
+{
+  "handle": "tomokimiyauci",
+  "name": "Satoshi",
+  "github": [
+    "https://github.com/tomokimiyauci"
+  ],
+  "website": "https://miyauchi.dev/",
+  "bio": "Author of @mapcss @httpland @graphqland",
+  "own_repos": 104,
+  "commits": 11569,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cosmos",
+      "repo": "https://github.com/TomokiMiyauci/cosmos",
+      "language": "TypeScript"
+    },
+    {
+      "name": "me-content",
+      "repo": "https://github.com/TomokiMiyauci/me-content",
+      "language": "TypeScript"
+    },
+    {
+      "name": "graphql-builder",
+      "repo": "https://github.com/TomokiMiyauci/graphql-builder",
+      "language": "TypeScript"
+    },
+    {
+      "name": "glob",
+      "repo": "https://github.com/TomokiMiyauci/glob",
+      "url": "https://jsr.io/@miyauci/glob",
+      "language": "TypeScript"
+    },
+    {
+      "name": "me-app",
+      "repo": "https://github.com/TomokiMiyauci/me-app",
+      "url": "https://miyauchi.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "me-infra",
+      "repo": "https://github.com/TomokiMiyauci/me-infra",
+      "language": "HCL"
+    },
+    {
+      "name": "me-admin",
+      "repo": "https://github.com/TomokiMiyauci/me-admin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "material-react",
+      "repo": "https://github.com/TomokiMiyauci/material-react",
+      "url": "https://jsr.io/@miyauci/material-react",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-shadow-dom",
+      "repo": "https://github.com/TomokiMiyauci/react-shadow-dom",
+      "url": "https://jsr.io/@miyauci/react-shadow-dom",
+      "language": "TypeScript"
+    },
+    {
+      "name": "estree",
+      "repo": "https://github.com/TomokiMiyauci/estree",
+      "url": "https://jsr.io/@miyauci/estree"
+    },
+    {
+      "name": "source-map",
+      "repo": "https://github.com/TomokiMiyauci/source-map",
+      "url": "https://jsr.io/@miyauci/source-map"
+    },
+    {
+      "name": "fs",
+      "repo": "https://github.com/TomokiMiyauci/fs",
+      "url": "https://jsr.io/@miyauci/fs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rfd",
+      "repo": "https://github.com/TomokiMiyauci/rfd",
+      "url": "https://jsr.io/@miyauci/rfd",
+      "language": "TypeScript"
+    },
+    {
+      "name": "file-system-access",
+      "repo": "https://github.com/TomokiMiyauci/file-system-access",
+      "url": "https://jsr.io/@miyauci/file-system-access",
+      "language": "TypeScript"
+    },
+    {
+      "name": "portfolio",
+      "repo": "https://github.com/TomokiMiyauci/portfolio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "infra",
+      "repo": "https://github.com/TomokiMiyauci/infra",
+      "url": "https://jsr.io/@miyauci/infra",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-import-map",
+      "repo": "https://github.com/TomokiMiyauci/esbuild-import-map",
+      "url": "https://jsr.io/@miyauci/esbuild-import-map",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-deno-env",
+      "repo": "https://github.com/TomokiMiyauci/esbuild-deno-env",
+      "url": "https://jsr.io/@miyauci/esbuild-deno-env",
+      "language": "TypeScript"
+    },
+    {
+      "name": "memo",
+      "repo": "https://github.com/TomokiMiyauci/memo",
+      "url": "https://deno.land/x/memoization",
+      "language": "TypeScript"
+    },
+    {
+      "name": "composite-key",
+      "repo": "https://github.com/TomokiMiyauci/composite-key",
+      "url": "https://jsr.io/@miyauci/composite-key",
+      "language": "TypeScript"
+    },
+    {
+      "name": "upsert",
+      "repo": "https://github.com/TomokiMiyauci/upsert",
+      "url": "https://jsr.io/@miyauci/upsert",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-deno",
+      "repo": "https://github.com/TomokiMiyauci/esbuild-deno",
+      "url": "https://jsr.io/@miyauci/esbuild-deno",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-deno-specifier",
+      "repo": "https://github.com/TomokiMiyauci/esbuild-deno-specifier",
+      "url": "https://jsr.io/@miyauci/esbuild-deno-specifier",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-router",
+      "repo": "https://github.com/TomokiMiyauci/react-router",
+      "url": "https://jsr.io/@miyauci/react-router",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-esm-resolver",
+      "repo": "https://github.com/TomokiMiyauci/node-esm-resolver",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-module-resolver",
+      "repo": "https://github.com/TomokiMiyauci/deno-module-resolver",
+      "language": "TypeScript"
+    },
+    {
+      "name": "format",
+      "repo": "https://github.com/TomokiMiyauci/format",
+      "url": "https://deno.land/x/format",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dom",
+      "repo": "https://github.com/TomokiMiyauci/dom",
+      "language": "TypeScript"
+    },
+    {
+      "name": "get-event-listeners",
+      "repo": "https://github.com/TomokiMiyauci/get-event-listeners",
+      "url": "https://deno.land/x/get_event_listeners",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dom-diff",
+      "repo": "https://github.com/TomokiMiyauci/dom-diff",
+      "url": "https://deno.land/x/dom_diff"
+    },
+    {
+      "name": "vdom",
+      "repo": "https://github.com/TomokiMiyauci/vdom",
+      "url": "https://deno.land/x/vdom",
+      "language": "TypeScript"
+    },
+    {
+      "name": "markdown-editor",
+      "repo": "https://github.com/TomokiMiyauci/markdown-editor",
+      "url": "https://markdown-editor-simple.web.app/",
+      "language": "Vue"
+    },
+    {
+      "name": "result",
+      "repo": "https://github.com/TomokiMiyauci/result",
+      "url": "https://deno.land/x/result_js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "option",
+      "repo": "https://github.com/TomokiMiyauci/option",
+      "url": "https://deno.land/x/optio",
+      "language": "TypeScript"
+    },
+    {
+      "name": "isx",
+      "repo": "https://github.com/TomokiMiyauci/isx",
+      "url": "https://deno.land/x/isx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "seqtools",
+      "repo": "https://github.com/TomokiMiyauci/seqtools",
+      "url": "https://deno.land/x/seqtools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pattern-matching",
+      "repo": "https://github.com/TomokiMiyauci/pattern-matching",
+      "url": "https://deno.land/x/pattern_matching"
+    },
+    {
+      "name": "cache-mapset",
+      "repo": "https://github.com/TomokiMiyauci/cache-mapset",
+      "url": "https://deno.land/x/cache_mapset",
+      "language": "TypeScript"
+    },
+    {
+      "name": "iterange",
+      "repo": "https://github.com/TomokiMiyauci/iterange",
+      "url": "https://deno.land/x/iterange",
+      "language": "TypeScript"
+    },
+    {
+      "name": "abstruct",
+      "repo": "https://github.com/TomokiMiyauci/abstruct",
+      "url": "https://deno.land/x/abstruct",
+      "language": "TypeScript"
+    },
+    {
+      "name": "curry",
+      "repo": "https://github.com/TomokiMiyauci/curry",
+      "language": "TypeScript"
+    },
+    {
+      "name": "me",
+      "repo": "https://github.com/TomokiMiyauci/me",
+      "url": "https://miyauchi.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "roomy",
+      "repo": "https://github.com/TomokiMiyauci/roomy",
+      "url": "https://roomy-devlop.web.app/",
+      "language": "Vue"
+    },
+    {
+      "name": "assertion",
+      "repo": "https://github.com/TomokiMiyauci/assertion",
+      "url": "https://deno.land/x/assertion",
+      "language": "TypeScript"
+    },
+    {
+      "name": "prelude",
+      "repo": "https://github.com/TomokiMiyauci/prelude",
+      "url": "https://deno.land/x/prelude_js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "utterances-component",
+      "repo": "https://github.com/TomokiMiyauci/utterances-component",
+      "url": "https://utterances-component.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fonction",
+      "repo": "https://github.com/TomokiMiyauci/fonction",
+      "url": "https://tomokimiyauci.github.io/fonction",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-hookable",
+      "repo": "https://github.com/TomokiMiyauci/react-hookable",
+      "url": "https://react-hookable.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "expect.js",
+      "repo": "https://github.com/TomokiMiyauci/expect.js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "click-outside",
+      "repo": "https://github.com/TomokiMiyauci/click-outside",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-partial-hydration",
+      "repo": "https://github.com/TomokiMiyauci/react-partial-hydration",
+      "language": "TypeScript"
+    },
+    {
+      "name": "data-table",
+      "repo": "https://github.com/TomokiMiyauci/data-table",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-ssr-ssg",
+      "repo": "https://github.com/TomokiMiyauci/vite-plugin-ssr-ssg",
+      "url": "https://vite-plugin-ssr-ssg.web.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "taskell",
+      "repo": "https://github.com/TomokiMiyauci/taskell",
+      "language": "TypeScript"
+    },
+    {
+      "name": "simple-chat",
+      "repo": "https://github.com/TomokiMiyauci/simple-chat",
+      "url": "https://simplechat-6.firebaseapp.com/",
+      "language": "Vue"
+    },
+    {
+      "name": "vite-template",
+      "repo": "https://github.com/TomokiMiyauci/vite-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "equal",
+      "repo": "https://github.com/TomokiMiyauci/equal",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hydra",
+      "repo": "https://github.com/TomokiMiyauci/hydra",
+      "language": "TypeScript"
+    },
+    {
+      "name": "matryoshka",
+      "repo": "https://github.com/TomokiMiyauci/matryoshka",
+      "url": "https://nested-dolls.firebaseapp.com/",
+      "language": "Vue"
+    },
+    {
+      "name": "vemo",
+      "repo": "https://github.com/TomokiMiyauci/vemo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "registerable",
+      "repo": "https://github.com/TomokiMiyauci/registerable",
+      "url": "https://registerable.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "is-valid-package-name",
+      "repo": "https://github.com/TomokiMiyauci/is-valid-package-name",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lexer",
+      "repo": "https://github.com/TomokiMiyauci/lexer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cssmap-spec",
+      "repo": "https://github.com/TomokiMiyauci/cssmap-spec"
+    },
+    {
+      "name": "typestruct",
+      "repo": "https://github.com/TomokiMiyauci/typestruct",
+      "url": "https://doc.deno.land/https/deno.land/x/typestruct/mod.ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "JSON-schema-validator",
+      "repo": "https://github.com/TomokiMiyauci/JSON-schema-validator"
+    },
+    {
+      "name": "pattern-match",
+      "repo": "https://github.com/TomokiMiyauci/pattern-match"
+    },
+    {
+      "name": "lru-map",
+      "repo": "https://github.com/TomokiMiyauci/lru-map"
+    },
+    {
+      "name": "fresh-graphql-mdx",
+      "repo": "https://github.com/TomokiMiyauci/fresh-graphql-mdx",
+      "url": "https://damp-smoke-7306.fly.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "webkit",
+      "repo": "https://github.com/TomokiMiyauci/webkit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pure-JSON",
+      "repo": "https://github.com/TomokiMiyauci/pure-JSON"
+    },
+    {
+      "name": "schema.org-types",
+      "repo": "https://github.com/TomokiMiyauci/schema.org-types"
+    },
+    {
+      "name": "deno-react-testing",
+      "repo": "https://github.com/TomokiMiyauci/deno-react-testing",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mapcss",
+      "repo": "https://github.com/TomokiMiyauci/mapcss",
+      "url": "https://mapcss.miyauchi.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "postcss-js",
+      "repo": "https://github.com/TomokiMiyauci/postcss-js"
+    },
+    {
+      "name": "aleph-plugin-mdx",
+      "repo": "https://github.com/TomokiMiyauci/aleph-plugin-mdx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lib-vite-tailwindcss",
+      "repo": "https://github.com/TomokiMiyauci/lib-vite-tailwindcss",
+      "language": "TypeScript"
+    },
+    {
+      "name": "unitest",
+      "repo": "https://github.com/TomokiMiyauci/unitest",
+      "url": "https://unitest.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "type-case",
+      "repo": "https://github.com/TomokiMiyauci/type-case"
+    },
+    {
+      "name": "tytest",
+      "repo": "https://github.com/TomokiMiyauci/tytest",
+      "language": "TypeScript"
+    },
+    {
+      "name": "farray",
+      "repo": "https://github.com/TomokiMiyauci/farray"
+    },
+    {
+      "name": "is-valid",
+      "repo": "https://github.com/TomokiMiyauci/is-valid"
+    },
+    {
+      "name": "core-fn",
+      "repo": "https://github.com/TomokiMiyauci/core-fn"
+    },
+    {
+      "name": "utilitypes",
+      "repo": "https://github.com/TomokiMiyauci/utilitypes"
+    },
+    {
+      "name": "jest-extended-plus",
+      "repo": "https://github.com/TomokiMiyauci/jest-extended-plus",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-use-toast",
+      "repo": "https://github.com/TomokiMiyauci/react-use-toast"
+    },
+    {
+      "name": "vite-plugin-amp",
+      "repo": "https://github.com/TomokiMiyauci/vite-plugin-amp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dual-package-template",
+      "repo": "https://github.com/TomokiMiyauci/dual-package-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-vue3-template",
+      "repo": "https://github.com/TomokiMiyauci/vite-vue3-template",
+      "language": "Vue"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/TomokiMiyauci/blog",
+      "url": "https://intellisense.dev",
+      "language": "Vue"
+    },
+    {
+      "name": "side-effect",
+      "repo": "https://github.com/TomokiMiyauci/side-effect"
+    },
+    {
+      "name": "vite-preact",
+      "repo": "https://github.com/TomokiMiyauci/vite-preact",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-lib-test",
+      "repo": "https://github.com/TomokiMiyauci/deno-lib-test"
+    },
+    {
+      "name": "xross",
+      "repo": "https://github.com/TomokiMiyauci/xross",
+      "url": "https://xross-docs.web.app/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "TomokiMiyauci",
+      "repo": "https://github.com/TomokiMiyauci/TomokiMiyauci"
+    },
+    {
+      "name": "frontend-playground",
+      "repo": "https://github.com/TomokiMiyauci/frontend-playground",
+      "language": "TypeScript"
+    },
+    {
+      "name": "file-select-dialog",
+      "repo": "https://github.com/TomokiMiyauci/file-select-dialog",
+      "url": "https://file-select-dialog.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "coin-monitor",
+      "repo": "https://github.com/TomokiMiyauci/coin-monitor",
+      "url": "https://coins-watch.web.app",
+      "language": "Vue"
+    },
+    {
+      "name": "my-coin",
+      "repo": "https://github.com/TomokiMiyauci/my-coin"
+    },
+    {
+      "name": "coin-api",
+      "repo": "https://github.com/TomokiMiyauci/coin-api"
+    }
+  ]
+}

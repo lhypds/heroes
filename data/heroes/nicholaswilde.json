@@ -1,0 +1,545 @@
+{
+  "handle": "nicholaswilde",
+  "name": "nιcнolaѕ wιlde",
+  "github": [
+    "https://github.com/nicholaswilde"
+  ],
+  "website": "https://nicholaswilde.io/",
+  "bio": "Automation Engineer. Exploring the intersection of technology, sociology, and economics. Obsessed with how things work.",
+  "own_repos": 104,
+  "commits": 19526,
+  "apps": [],
+  "repos": [
+    {
+      "name": "nicholaswilde",
+      "repo": "https://github.com/nicholaswilde/nicholaswilde",
+      "language": "Python"
+    },
+    {
+      "name": "esp32-sandbox",
+      "repo": "https://github.com/nicholaswilde/esp32-sandbox",
+      "language": "Python"
+    },
+    {
+      "name": "homelab",
+      "repo": "https://github.com/nicholaswilde/homelab",
+      "language": "Shell"
+    },
+    {
+      "name": "recipes",
+      "repo": "https://github.com/nicholaswilde/recipes",
+      "url": "https://nicholaswilde.io/recipes",
+      "language": "Cooklang"
+    },
+    {
+      "name": "fantasy-football-ai",
+      "repo": "https://github.com/nicholaswilde/fantasy-football-ai",
+      "language": "Python"
+    },
+    {
+      "name": "esp32-web-flasher",
+      "repo": "https://github.com/nicholaswilde/esp32-web-flasher",
+      "language": "Python"
+    },
+    {
+      "name": "home-assistant",
+      "repo": "https://github.com/nicholaswilde/home-assistant",
+      "language": "Go Template"
+    },
+    {
+      "name": "home-cluster",
+      "repo": "https://github.com/nicholaswilde/home-cluster",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-fossil",
+      "repo": "https://github.com/nicholaswilde/docker-fossil",
+      "url": "https://hub.docker.com/r/nicholaswilde/fossil",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "trmnl-google-sheet-quote",
+      "repo": "https://github.com/nicholaswilde/trmnl-google-sheet-quote",
+      "url": "https://trmnl.com/recipes/121258/",
+      "language": "Liquid"
+    },
+    {
+      "name": "cyd-weather-station",
+      "repo": "https://github.com/nicholaswilde/cyd-weather-station",
+      "language": "C++"
+    },
+    {
+      "name": "cyd-digital-clock",
+      "repo": "https://github.com/nicholaswilde/cyd-digital-clock",
+      "language": "C++"
+    },
+    {
+      "name": "catppuccin-rgb565",
+      "repo": "https://github.com/nicholaswilde/catppuccin-rgb565",
+      "language": "Python"
+    },
+    {
+      "name": "inventory-agent",
+      "repo": "https://github.com/nicholaswilde/inventory-agent",
+      "language": "Python"
+    },
+    {
+      "name": "cyd-photo-frame",
+      "repo": "https://github.com/nicholaswilde/cyd-photo-frame",
+      "language": "C++"
+    },
+    {
+      "name": "helm-charts",
+      "repo": "https://github.com/nicholaswilde/helm-charts",
+      "url": "https://artifacthub.io/packages/search?repo=nicholaswilde",
+      "language": "Smarty"
+    },
+    {
+      "name": "cyd-flight-radar",
+      "repo": "https://github.com/nicholaswilde/cyd-flight-radar",
+      "language": "C++"
+    },
+    {
+      "name": "gardening",
+      "repo": "https://github.com/nicholaswilde/gardening",
+      "url": "https://nicholaswilde.io/gardening",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/nicholaswilde/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "cheatsheets",
+      "repo": "https://github.com/nicholaswilde/cheatsheets",
+      "url": "https://nicholaswilde.io/cheatsheets/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-template",
+      "repo": "https://github.com/nicholaswilde/docker-template",
+      "language": "Shell"
+    },
+    {
+      "name": "homelab-pull",
+      "repo": "https://github.com/nicholaswilde/homelab-pull",
+      "language": "Python"
+    },
+    {
+      "name": "sysmqttd",
+      "repo": "https://github.com/nicholaswilde/sysmqttd",
+      "language": "Rust"
+    },
+    {
+      "name": "nicholaswilde.github.io",
+      "repo": "https://github.com/nicholaswilde/nicholaswilde.github.io",
+      "url": "https://nicholaswilde.io/",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/nicholaswilde/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "cook-docs",
+      "repo": "https://github.com/nicholaswilde/cook-docs",
+      "url": "https://nicholaswilde.io/cook-docs",
+      "language": "Rust"
+    },
+    {
+      "name": "recipes-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/recipes-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "changedetection-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/changedetection-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "qbittorrent-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/qbittorrent-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "aria2-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/aria2-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "gatus-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/gatus-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "adguardhome-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/adguardhome-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "rescue-groups-mcp",
+      "repo": "https://github.com/nicholaswilde/rescue-groups-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "proxmox-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/proxmox-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "syncthing-mcp-rs",
+      "repo": "https://github.com/nicholaswilde/syncthing-mcp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "sys-fetch",
+      "repo": "https://github.com/nicholaswilde/sys-fetch",
+      "language": "Assembly"
+    },
+    {
+      "name": "side-eye",
+      "repo": "https://github.com/nicholaswilde/side-eye",
+      "language": "C++"
+    },
+    {
+      "name": "mcp-server",
+      "repo": "https://github.com/nicholaswilde/mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "docker-cheat.sh",
+      "repo": "https://github.com/nicholaswilde/docker-cheat.sh",
+      "url": "https://hub.docker.com/r/nicholaswilde/cheat.sh",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "lpass-to-pass-snapshot",
+      "repo": "https://github.com/nicholaswilde/lpass-to-pass-snapshot",
+      "language": "Shell"
+    },
+    {
+      "name": "mkdocs-material",
+      "repo": "https://github.com/nicholaswilde/mkdocs-material",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "homelab-playbooks",
+      "repo": "https://github.com/nicholaswilde/homelab-playbooks",
+      "language": "Shell"
+    },
+    {
+      "name": "frame-fi",
+      "repo": "https://github.com/nicholaswilde/frame-fi",
+      "url": "https://nicholaswilde.io/frame-fi",
+      "language": "C++"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/nicholaswilde/notes",
+      "url": "https://nicholaswilde.io/notes/",
+      "language": "Shell"
+    },
+    {
+      "name": "cook-import",
+      "repo": "https://github.com/nicholaswilde/cook-import",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles3",
+      "repo": "https://github.com/nicholaswilde/dotfiles3",
+      "language": "Shell"
+    },
+    {
+      "name": "dotfiles2",
+      "repo": "https://github.com/nicholaswilde/dotfiles2",
+      "url": "https://nicholaswilde.io/dotfiles2/",
+      "language": "Shell"
+    },
+    {
+      "name": "homelab-nixos",
+      "repo": "https://github.com/nicholaswilde/homelab-nixos"
+    },
+    {
+      "name": "boilerplater",
+      "repo": "https://github.com/nicholaswilde/boilerplater",
+      "language": "Shell"
+    },
+    {
+      "name": "homelab-terraform",
+      "repo": "https://github.com/nicholaswilde/homelab-terraform",
+      "language": "HCL"
+    },
+    {
+      "name": "homelab-semaphore",
+      "repo": "https://github.com/nicholaswilde/homelab-semaphore"
+    },
+    {
+      "name": "docker-cooklang-import",
+      "repo": "https://github.com/nicholaswilde/docker-cooklang-import",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "solar-battery-charger",
+      "repo": "https://github.com/nicholaswilde/solar-battery-charger",
+      "url": "https://nicholaswilde.io/solar-battery-charger/",
+      "language": "C++"
+    },
+    {
+      "name": "cooklang-micro",
+      "repo": "https://github.com/nicholaswilde/cooklang-micro"
+    },
+    {
+      "name": "libbash",
+      "repo": "https://github.com/nicholaswilde/libbash",
+      "url": "https://nicholaswilde.io/libbash",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-twtxt",
+      "repo": "https://github.com/nicholaswilde/docker-twtxt",
+      "url": "https://hub.docker.com/r/nicholaswilde/twtxt",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-odoo",
+      "repo": "https://github.com/nicholaswilde/docker-odoo",
+      "url": "https://hub.docker.com/repository/docker/nicholaswilde/odoo",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-kimai",
+      "repo": "https://github.com/nicholaswilde/docker-kimai",
+      "url": "https://hub.docker.com/r/nicholaswilde/kimai",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-novnc",
+      "repo": "https://github.com/nicholaswilde/docker-novnc",
+      "url": "https://hub.docker.com/r/nicholaswilde/novnc",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-todo",
+      "repo": "https://github.com/nicholaswilde/docker-todo",
+      "url": "https://hub.docker.com/r/nicholaswilde/todo",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-leantime",
+      "repo": "https://github.com/nicholaswilde/docker-leantime",
+      "url": "https://hub.docker.com/r/nicholaswilde/leantime",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-static",
+      "repo": "https://github.com/nicholaswilde/docker-static",
+      "url": "https://hub.docker.com/r/nicholaswilde/static",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-keel",
+      "repo": "https://github.com/nicholaswilde/docker-keel",
+      "url": "https://hub.docker.com/r/nicholaswilde/keel",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-chyrp-lite",
+      "repo": "https://github.com/nicholaswilde/docker-chyrp-lite",
+      "url": "https://hub.docker.com/r/nicholaswilde/chyrp-lite",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-icescrum",
+      "repo": "https://github.com/nicholaswilde/docker-icescrum",
+      "url": "https://hub.docker.com/r/nicholaswilde/icescrum",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-olivetin",
+      "repo": "https://github.com/nicholaswilde/docker-olivetin",
+      "url": "https://hub.docker.com/repository/docker/nicholaswilde/olivetin",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-shorturl",
+      "repo": "https://github.com/nicholaswilde/docker-shorturl",
+      "url": "https://hub.docker.com/repository/docker/nicholaswilde/shorturl",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-blog",
+      "repo": "https://github.com/nicholaswilde/docker-blog",
+      "url": "https://hub.docker.com/r/nicholaswilde/blog",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-installer",
+      "repo": "https://github.com/nicholaswilde/docker-installer",
+      "url": "https://hub.docker.com/r/nicholaswilde/installer",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-writefreely",
+      "repo": "https://github.com/nicholaswilde/docker-writefreely",
+      "url": "https://hub.docker.com/r/nicholaswilde/writefreely",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-etherpad",
+      "repo": "https://github.com/nicholaswilde/docker-etherpad",
+      "url": "https://hub.docker.com/r/nicholaswilde/etherpad",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-notes",
+      "repo": "https://github.com/nicholaswilde/docker-notes",
+      "url": "https://hub.docker.com/r/nicholaswilde/notes",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-ubuntu-server",
+      "repo": "https://github.com/nicholaswilde/docker-ubuntu-server",
+      "url": "https://hub.docker.com/r/nicholaswilde/ubuntu-server",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-wiki",
+      "repo": "https://github.com/nicholaswilde/docker-wiki",
+      "url": "https://hub.docker.com/r/nicholaswilde/wiki",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-cryptpad",
+      "repo": "https://github.com/nicholaswilde/docker-cryptpad",
+      "url": "https://hub.docker.com/r/nicholaswilde/cryptpad",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-golinks",
+      "repo": "https://github.com/nicholaswilde/docker-golinks",
+      "url": "https://hub.docker.com/r/nicholaswilde/golinks",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-pushbits",
+      "repo": "https://github.com/nicholaswilde/docker-pushbits",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-shiori",
+      "repo": "https://github.com/nicholaswilde/docker-shiori",
+      "url": "https://hub.docker.com/r/nicholaswilde/shiori",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-docs",
+      "repo": "https://github.com/nicholaswilde/docker-docs",
+      "url": "https://nicholaswilde.io/docker-docs/"
+    },
+    {
+      "name": "winget-manifest",
+      "repo": "https://github.com/nicholaswilde/winget-manifest",
+      "language": "PowerShell"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/nicholaswilde/scoop-bucket"
+    },
+    {
+      "name": "lastpass-clean",
+      "repo": "https://github.com/nicholaswilde/lastpass-clean",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-flux",
+      "repo": "https://github.com/nicholaswilde/ansible-role-flux",
+      "url": "https://galaxy.ansible.com/nicholaswilde/flux2",
+      "language": "Shell"
+    },
+    {
+      "name": "helm-template",
+      "repo": "https://github.com/nicholaswilde/helm-template"
+    },
+    {
+      "name": "docker-babybuddy",
+      "repo": "https://github.com/nicholaswilde/docker-babybuddy",
+      "url": "https://hub.docker.com/r/nicholaswilde/babybuddy",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-haste",
+      "repo": "https://github.com/nicholaswilde/docker-haste",
+      "url": "https://hub.docker.com/r/nicholaswilde/haste",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ansible-role-installer",
+      "repo": "https://github.com/nicholaswilde/ansible-role-installer",
+      "url": "https://galaxy.ansible.com/nicholaswilde/installer",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-helm-docs",
+      "repo": "https://github.com/nicholaswilde/ansible-role-helm-docs",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-template",
+      "repo": "https://github.com/nicholaswilde/ansible-role-template",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-collection-flux",
+      "repo": "https://github.com/nicholaswilde/ansible-collection-flux",
+      "language": "Makefile"
+    },
+    {
+      "name": "flux-cluster",
+      "repo": "https://github.com/nicholaswilde/flux-cluster"
+    },
+    {
+      "name": "kubernetes-gotify",
+      "repo": "https://github.com/nicholaswilde/kubernetes-gotify"
+    },
+    {
+      "name": "kubernetes-installer",
+      "repo": "https://github.com/nicholaswilde/kubernetes-installer",
+      "language": "Shell"
+    },
+    {
+      "name": "kubernetes-transmission",
+      "repo": "https://github.com/nicholaswilde/kubernetes-transmission",
+      "language": "Shell"
+    },
+    {
+      "name": "turing-pi-scripts",
+      "repo": "https://github.com/nicholaswilde/turing-pi-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "enable-ssh",
+      "repo": "https://github.com/nicholaswilde/enable-ssh",
+      "language": "Shell"
+    },
+    {
+      "name": "mergecsv",
+      "repo": "https://github.com/nicholaswilde/mergecsv",
+      "language": "Python"
+    },
+    {
+      "name": "KLWP-SmartThings",
+      "repo": "https://github.com/nicholaswilde/KLWP-SmartThings"
+    },
+    {
+      "name": "smartthings",
+      "repo": "https://github.com/nicholaswilde/smartthings",
+      "language": "Groovy"
+    },
+    {
+      "name": "lan-device-monitor",
+      "repo": "https://github.com/nicholaswilde/lan-device-monitor"
+    }
+  ]
+}

@@ -13,9 +13,9 @@ each link whether it answers
 `pnpm run account -- <handle>` — one GitHub account read against the rules,
 or several with commas between, counted together; `--list` says it repository
 by repository, `--json` as the API answers it  
-`npx hero scan` — `own_repos` and `repos` for every entry under
-`data/heroes/`, read off GitHub; handles restrict it to those entries,
-`--missing` to the ones without either, and `--dry` says what would change
+`npx hero scan` — `own_repos` and `repos`, read off GitHub, for the entries
+under `data/heroes/` without them; `--refresh` reads every entry again,
+handles restrict it to those entries, and `--dry` says what would change
 without writing  
 `./crawl.sh` — people who might be heroes, into `data/crawl.db`  
 
@@ -31,7 +31,7 @@ The account check, the scan and the crawl all need a GitHub token:
 The scan
 --------
 
-`npx hero scan` writes `own_repos` into every entry: how many public
+`npx hero scan` writes `own_repos` into each entry it reads: how many public
 repositories of their own the entry's accounts hold, forks out, which is the
 figure the page shows beside the name. An entry naming more than one account
 is the accounts added up, since the rules read them as one.  
@@ -51,6 +51,12 @@ the commits and the applications, and nothing else moves, so a scan of an
 entry someone typed by hand reads as the lines it changed. The list moves
 whenever anything was pushed to, so an entry is left alone only when both the
 figure and the list are what they were.  
+
+An entry that has both is a question GitHub is asked for an answer the file
+already carries, so a plain scan reads the entries without them — a new entry,
+or one written by hand — and says how many it passed over. `--refresh` reads
+every entry again, which is the way to bring a list that has gone stale up to
+date; naming entries reads those, whether or not they have anything already.  
 
 `PORT` in `.env` is the port, and the only one: development, preview and the
 PM2 process all listen on it, so what is developed on is what is deployed on.

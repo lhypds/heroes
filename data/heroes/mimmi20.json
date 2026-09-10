@@ -1,0 +1,512 @@
+{
+  "handle": "mimmi20",
+  "name": "Thomas Müller",
+  "github": [
+    "https://github.com/mimmi20"
+  ],
+  "bio": "PHP developer",
+  "own_repos": 101,
+  "commits": 28253,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mezzio-generic-authorization",
+      "repo": "https://github.com/mimmi20/mezzio-generic-authorization",
+      "language": "PHP"
+    },
+    {
+      "name": "coding-standard",
+      "repo": "https://github.com/mimmi20/coding-standard",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source",
+      "repo": "https://github.com/mimmi20/browscap-helper-source",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-normalizer",
+      "repo": "https://github.com/mimmi20/ua-normalizer",
+      "language": "PHP"
+    },
+    {
+      "name": "browser-detector",
+      "repo": "https://github.com/mimmi20/browser-detector",
+      "url": "https://github.com/mimmi20/BrowserDetector",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-generic-authorization-laminasviewrenderer",
+      "repo": "https://github.com/mimmi20/mezzio-generic-authorization-laminasviewrenderer",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-navigation-laminasviewrenderer",
+      "repo": "https://github.com/mimmi20/mezzio-navigation-laminasviewrenderer",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-generic-request",
+      "repo": "https://github.com/mimmi20/ua-generic-request",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-result",
+      "repo": "https://github.com/mimmi20/ua-result",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-parser-interface",
+      "repo": "https://github.com/mimmi20/ua-parser-interface",
+      "language": "PHP"
+    },
+    {
+      "name": "ci",
+      "repo": "https://github.com/mimmi20/ci"
+    },
+    {
+      "name": "ua-loader-interface",
+      "repo": "https://github.com/mimmi20/ua-loader-interface",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-data-interface",
+      "repo": "https://github.com/mimmi20/ua-data-interface",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-device-type",
+      "repo": "https://github.com/mimmi20/ua-device-type",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-browser-type",
+      "repo": "https://github.com/mimmi20/ua-browser-type",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-data-mapper",
+      "repo": "https://github.com/mimmi20/ua-data-mapper",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper",
+      "repo": "https://github.com/mimmi20/browscap-helper",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-generic-authorization-rbac",
+      "repo": "https://github.com/mimmi20/mezzio-generic-authorization-rbac",
+      "language": "PHP"
+    },
+    {
+      "name": "browser-detector-version",
+      "repo": "https://github.com/mimmi20/browser-detector-version",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-generic-authorization-acl",
+      "repo": "https://github.com/mimmi20/mezzio-generic-authorization-acl",
+      "language": "PHP"
+    },
+    {
+      "name": "browser-detector-versioninterface",
+      "repo": "https://github.com/mimmi20/browser-detector-versioninterface",
+      "language": "PHP"
+    },
+    {
+      "name": "mimmi20",
+      "repo": "https://github.com/mimmi20/mimmi20",
+      "url": "https://github.com/mimmi20"
+    },
+    {
+      "name": "template",
+      "repo": "https://github.com/mimmi20/template",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-navigation-laminasviewrenderer-bootstrap",
+      "repo": "https://github.com/mimmi20/mezzio-navigation-laminasviewrenderer-bootstrap",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-navigation",
+      "repo": "https://github.com/mimmi20/mezzio-navigation",
+      "language": "PHP"
+    },
+    {
+      "name": "monolog-factory",
+      "repo": "https://github.com/mimmi20/monolog-factory",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-setlocale-middleware",
+      "repo": "https://github.com/mimmi20/mezzio-setlocale-middleware",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-sample-project",
+      "repo": "https://github.com/mimmi20/mezzio-sample-project",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-router-laminasrouter-factory",
+      "repo": "https://github.com/mimmi20/mezzio-router-laminasrouter-factory",
+      "language": "PHP"
+    },
+    {
+      "name": "device-detector-factory",
+      "repo": "https://github.com/mimmi20/device-detector-factory",
+      "language": "PHP"
+    },
+    {
+      "name": "macos-build",
+      "repo": "https://github.com/mimmi20/macos-build",
+      "language": "PHP"
+    },
+    {
+      "name": "ios-build",
+      "repo": "https://github.com/mimmi20/ios-build",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-comparator",
+      "repo": "https://github.com/mimmi20/ua-comparator",
+      "language": "PHP"
+    },
+    {
+      "name": "laminasviewrenderer-vite-url",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-vite-url",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-vite-laminasviewrenderer",
+      "repo": "https://github.com/mimmi20/mezzio-vite-laminasviewrenderer",
+      "language": "PHP"
+    },
+    {
+      "name": "laminasviewrenderer-bootstrap-form",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-bootstrap-form",
+      "language": "PHP"
+    },
+    {
+      "name": "monolog-streamformatter",
+      "repo": "https://github.com/mimmi20/monolog-streamformatter",
+      "language": "PHP"
+    },
+    {
+      "name": "vt",
+      "repo": "https://github.com/mimmi20/vt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "laminasviewrenderer-js-log",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-js-log",
+      "language": "PHP"
+    },
+    {
+      "name": "laminasviewrenderer-helper-partialrenderer",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-helper-partialrenderer",
+      "language": "PHP"
+    },
+    {
+      "name": "laminasviewrenderer-helper-htmlelement",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-helper-htmlelement",
+      "language": "PHP"
+    },
+    {
+      "name": "laminas-form-element-paragraph",
+      "repo": "https://github.com/mimmi20/laminas-form-element-paragraph",
+      "language": "PHP"
+    },
+    {
+      "name": "laminas-form-element-links",
+      "repo": "https://github.com/mimmi20/laminas-form-element-links",
+      "language": "PHP"
+    },
+    {
+      "name": "client-builder",
+      "repo": "https://github.com/mimmi20/client-builder",
+      "language": "PHP"
+    },
+    {
+      "name": "laminasviewrenderer-revision",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-revision",
+      "language": "PHP"
+    },
+    {
+      "name": "navigation-helper-findactive",
+      "repo": "https://github.com/mimmi20/navigation-helper-findactive",
+      "language": "PHP"
+    },
+    {
+      "name": "navigation-helper-findfromproperty",
+      "repo": "https://github.com/mimmi20/navigation-helper-findfromproperty",
+      "language": "PHP"
+    },
+    {
+      "name": "navigation-helper-findroot",
+      "repo": "https://github.com/mimmi20/navigation-helper-findroot",
+      "language": "PHP"
+    },
+    {
+      "name": "navigation-helper-containerparser",
+      "repo": "https://github.com/mimmi20/navigation-helper-containerparser",
+      "language": "PHP"
+    },
+    {
+      "name": "navigation-helper-acceptpage",
+      "repo": "https://github.com/mimmi20/navigation-helper-acceptpage",
+      "language": "PHP"
+    },
+    {
+      "name": "navigation-helper-converttopages",
+      "repo": "https://github.com/mimmi20/navigation-helper-converttopages",
+      "language": "PHP"
+    },
+    {
+      "name": "navigation-helper-htmlify",
+      "repo": "https://github.com/mimmi20/navigation-helper-htmlify",
+      "language": "PHP"
+    },
+    {
+      "name": "atb",
+      "repo": "https://github.com/mimmi20/atb",
+      "language": "PHP"
+    },
+    {
+      "name": "fe-tools",
+      "repo": "https://github.com/mimmi20/fe-tools"
+    },
+    {
+      "name": "contact",
+      "repo": "https://github.com/mimmi20/contact",
+      "language": "PHP"
+    },
+    {
+      "name": "laminasviewrenderer-bootstrap-navigation",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-bootstrap-navigation",
+      "language": "PHP"
+    },
+    {
+      "name": "laminas-router-hostname",
+      "repo": "https://github.com/mimmi20/laminas-router-hostname",
+      "language": "PHP"
+    },
+    {
+      "name": "composer-plugin-symlink",
+      "repo": "https://github.com/mimmi20/composer-plugin-symlink",
+      "language": "PHP"
+    },
+    {
+      "name": "laminas-module-errorhandling",
+      "repo": "https://github.com/mimmi20/laminas-module-errorhandling",
+      "language": "PHP"
+    },
+    {
+      "name": "laminasviewrenderer-flash-message",
+      "repo": "https://github.com/mimmi20/laminasviewrenderer-flash-message",
+      "language": "PHP"
+    },
+    {
+      "name": "laminas-form-element-group",
+      "repo": "https://github.com/mimmi20/laminas-form-element-group",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-bladerenderer",
+      "repo": "https://github.com/mimmi20/mezzio-bladerenderer",
+      "language": "PHP"
+    },
+    {
+      "name": "blade-renderer",
+      "repo": "https://github.com/mimmi20/blade-renderer",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-form-laminasviewrenderer-bootstrap",
+      "repo": "https://github.com/mimmi20/mezzio-form-laminasviewrenderer-bootstrap",
+      "language": "PHP"
+    },
+    {
+      "name": "test-phpunit-phpstan",
+      "repo": "https://github.com/mimmi20/test-phpunit-phpstan",
+      "language": "PHP"
+    },
+    {
+      "name": "monolog-laminas-factory",
+      "repo": "https://github.com/mimmi20/monolog-laminas-factory",
+      "language": "PHP"
+    },
+    {
+      "name": "json-class",
+      "repo": "https://github.com/mimmi20/json-class",
+      "language": "PHP"
+    },
+    {
+      "name": "GeoClassPHP",
+      "repo": "https://github.com/mimmi20/GeoClassPHP",
+      "language": "PHP"
+    },
+    {
+      "name": "json-normalizer",
+      "repo": "https://github.com/mimmi20/json-normalizer",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-navigation-helpers",
+      "repo": "https://github.com/mimmi20/mezzio-navigation-helpers",
+      "language": "PHP"
+    },
+    {
+      "name": "browser-detector-loader-interface",
+      "repo": "https://github.com/mimmi20/browser-detector-loader-interface",
+      "language": "PHP"
+    },
+    {
+      "name": "mezzio-laminasviewrenderer-helpers",
+      "repo": "https://github.com/mimmi20/mezzio-laminasviewrenderer-helpers",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-display-size",
+      "repo": "https://github.com/mimmi20/ua-display-size",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap.de",
+      "repo": "https://github.com/mimmi20/browscap.de",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browscap-js-cache",
+      "repo": "https://github.com/mimmi20/browscap-js-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browscap-js",
+      "repo": "https://github.com/mimmi20/browscap-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browscap-json-generator",
+      "repo": "https://github.com/mimmi20/browscap-json-generator",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-json-cache-files",
+      "repo": "https://github.com/mimmi20/browscap-json-cache-files",
+      "language": "JavaScript"
+    },
+    {
+      "name": "browscap-json-cache",
+      "repo": "https://github.com/mimmi20/browscap-json-cache",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-unsorted",
+      "repo": "https://github.com/mimmi20/browscap-unsorted",
+      "language": "PHP"
+    },
+    {
+      "name": "browser-detector-factory-interface",
+      "repo": "https://github.com/mimmi20/browser-detector-factory-interface",
+      "language": "PHP"
+    },
+    {
+      "name": "browser-detector-tests",
+      "repo": "https://github.com/mimmi20/browser-detector-tests",
+      "language": "PHP"
+    },
+    {
+      "name": "ua-result-company",
+      "repo": "https://github.com/mimmi20/ua-result-company",
+      "language": "PHP"
+    },
+    {
+      "name": "FileLoader",
+      "repo": "https://github.com/mimmi20/FileLoader",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-browscap",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-browscap",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-whichbrowser",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-whichbrowser",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-woothee",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-woothee",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-uapcore",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-uapcore",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-textfile",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-textfile",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-pdo",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-pdo",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-piwik",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-piwik",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-logfile",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-logfile",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-collection",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-collection",
+      "language": "PHP"
+    },
+    {
+      "name": "browscap-helper-source-detector",
+      "repo": "https://github.com/mimmi20/browscap-helper-source-detector",
+      "language": "PHP"
+    },
+    {
+      "name": "Wurfl",
+      "repo": "https://github.com/mimmi20/Wurfl",
+      "language": "PHP"
+    },
+    {
+      "name": "wurfl-constants",
+      "repo": "https://github.com/mimmi20/wurfl-constants",
+      "language": "PHP"
+    },
+    {
+      "name": "WurflCache",
+      "repo": "https://github.com/mimmi20/WurflCache",
+      "language": "PHP"
+    },
+    {
+      "name": "modernizr-server",
+      "repo": "https://github.com/mimmi20/modernizr-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "detector-nodejs",
+      "repo": "https://github.com/mimmi20/detector-nodejs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Detector",
+      "repo": "https://github.com/mimmi20/Detector",
+      "language": "PHP"
+    }
+  ]
+}

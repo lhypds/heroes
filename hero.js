@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 // The list's own command. One thing so far:
 //
-//   npx hero scan                  every entry, read off GitHub
-//   npx hero scan dtolnay feross   only these
-//   npx hero scan --missing        only the entries without the figure or the list
+//   npx hero scan                  the entries without the figure or the list
+//   npx hero scan --refresh        every entry, read off GitHub again
+//   npx hero scan dtolnay feross   only these, whether or not they have them
 //   npx hero scan --dry            say what would change, write nothing
 //
 // scan writes own_repos into every entry under data/heroes/: the public
@@ -301,19 +301,25 @@ const HEADING = `  ${"entry".padEnd(28)} ${"own".padStart(6)} ${"listed".padStar
 
 const scan = async (args) => {
   const dry = args.includes("--dry");
-  const missing = args.includes("--missing");
   const only = new Set(
     args
       .filter((arg) => !arg.startsWith("--"))
       .map((arg) => basename(arg, ".json").toLowerCase()),
   );
+  // An entry that has both is a question GitHub is asked for an answer the
+  // file already carries, so a plain scan is the entries without them — a new
+  // entry, or one written by hand — and is a handful of requests rather than
+  // the whole list. The list moves whenever anything is pushed to, though, so
+  // --refresh reads every entry again. Naming entries is asking for those,
+  // and asks for them whether or not they have anything already.
+  const refresh = args.includes("--refresh") || only.size > 0;
 
-  const { heroes, problems, skipped } = read(only, missing);
+  const { heroes, problems, skipped } = read(only, !refresh);
   if (heroes.length === 0) {
     for (const text of problems) console.log(`error ${text}`);
     console.log(
       skipped > 0
-        ? `nothing to read: ${number(skipped)} already have the figure and the list`
+        ? `nothing to read: ${number(skipped)} already have the figure and the list — --refresh reads them again`
         : "nothing to read",
     );
     process.exit(problems.length > 0 ? 1 : 0);
@@ -382,7 +388,9 @@ const scan = async (args) => {
 
 const USAGE = `usage: npx hero <command>
 
-  scan [handle…] [--missing] [--dry]   own_repos and repos for every entry, from GitHub`;
+  scan [handle…] [--refresh] [--dry]   own_repos and repos, from GitHub, for the
+                                       entries without them; --refresh for every
+                                       entry, handles for those entries alone`;
 
 const main = async () => {
   const [command, ...args] = process.argv.slice(2);
