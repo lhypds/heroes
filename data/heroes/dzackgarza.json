@@ -6,6 +6,506 @@
   ],
   "website": "https://dzackgarza.com/",
   "bio": "Postdoctoral researcher in mathematics.",
+  "own_repos": 111,
   "commits": 24042,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "lean-reference-corpus",
+      "repo": "https://github.com/dzackgarza/lean-reference-corpus",
+      "language": "HTML"
+    },
+    {
+      "name": "lean-categories",
+      "repo": "https://github.com/dzackgarza/lean-categories",
+      "language": "Lean"
+    },
+    {
+      "name": "dzackgarza",
+      "repo": "https://github.com/dzackgarza/dzackgarza",
+      "language": "Just"
+    },
+    {
+      "name": "pandoc-config",
+      "repo": "https://github.com/dzackgarza/pandoc-config",
+      "language": "TeX"
+    },
+    {
+      "name": "research",
+      "repo": "https://github.com/dzackgarza/research",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "sage-categories",
+      "repo": "https://github.com/dzackgarza/sage-categories",
+      "language": "Python"
+    },
+    {
+      "name": "agent-memory",
+      "repo": "https://github.com/dzackgarza/agent-memory",
+      "language": "Python"
+    },
+    {
+      "name": "new-qual-site",
+      "repo": "https://github.com/dzackgarza/new-qual-site",
+      "language": "Python"
+    },
+    {
+      "name": "ai",
+      "repo": "https://github.com/dzackgarza/ai",
+      "language": "Python"
+    },
+    {
+      "name": "sage-stubs",
+      "repo": "https://github.com/dzackgarza/sage-stubs",
+      "language": "Python"
+    },
+    {
+      "name": "ai-review-ci",
+      "repo": "https://github.com/dzackgarza/ai-review-ci",
+      "language": "Python"
+    },
+    {
+      "name": "automated-reviews",
+      "repo": "https://github.com/dzackgarza/automated-reviews",
+      "language": "Python"
+    },
+    {
+      "name": "sagemath-mypy-plugin",
+      "repo": "https://github.com/dzackgarza/sagemath-mypy-plugin",
+      "language": "Python"
+    },
+    {
+      "name": "zotero-local-write-api",
+      "repo": "https://github.com/dzackgarza/zotero-local-write-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hypothesis-review",
+      "repo": "https://github.com/dzackgarza/hypothesis-review",
+      "language": "Python"
+    },
+    {
+      "name": "sage-lsp-server",
+      "repo": "https://github.com/dzackgarza/sage-lsp-server",
+      "language": "Python"
+    },
+    {
+      "name": "improved-webtools",
+      "repo": "https://github.com/dzackgarza/improved-webtools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zotero-gui",
+      "repo": "https://github.com/dzackgarza/zotero-gui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "review-calibration",
+      "repo": "https://github.com/dzackgarza/review-calibration",
+      "language": "Python"
+    },
+    {
+      "name": "pandoc-ssg",
+      "repo": "https://github.com/dzackgarza/pandoc-ssg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mathread",
+      "repo": "https://github.com/dzackgarza/mathread",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-dashboard",
+      "repo": "https://github.com/dzackgarza/github-dashboard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "itree",
+      "repo": "https://github.com/dzackgarza/itree",
+      "language": "Python"
+    },
+    {
+      "name": "lattice_interface",
+      "repo": "https://github.com/dzackgarza/lattice_interface",
+      "language": "Python"
+    },
+    {
+      "name": "Analysis-Qual-Compendium",
+      "repo": "https://github.com/dzackgarza/Analysis-Qual-Compendium",
+      "language": "TeX"
+    },
+    {
+      "name": "math-flashcards",
+      "repo": "https://github.com/dzackgarza/math-flashcards",
+      "language": "Python"
+    },
+    {
+      "name": "make-me-a-qual",
+      "repo": "https://github.com/dzackgarza/make-me-a-qual",
+      "language": "TeX"
+    },
+    {
+      "name": "qual-review-and-solutions",
+      "repo": "https://github.com/dzackgarza/qual-review-and-solutions",
+      "language": "HTML"
+    },
+    {
+      "name": "qual-wiki",
+      "repo": "https://github.com/dzackgarza/qual-wiki",
+      "language": "HTML"
+    },
+    {
+      "name": "lean-cas-dsl",
+      "repo": "https://github.com/dzackgarza/lean-cas-dsl",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-jupyter-kernel",
+      "repo": "https://github.com/dzackgarza/lean-jupyter-kernel",
+      "language": "Python"
+    },
+    {
+      "name": "usage-limits",
+      "repo": "https://github.com/dzackgarza/usage-limits",
+      "language": "Python"
+    },
+    {
+      "name": "ag-research-assistant",
+      "repo": "https://github.com/dzackgarza/ag-research-assistant",
+      "language": "Python"
+    },
+    {
+      "name": "sage-julia-bridge",
+      "repo": "https://github.com/dzackgarza/sage-julia-bridge",
+      "language": "Python"
+    },
+    {
+      "name": "lattice-research",
+      "repo": "https://github.com/dzackgarza/lattice-research",
+      "language": "Python"
+    },
+    {
+      "name": "dzackgarza-site-v2026",
+      "repo": "https://github.com/dzackgarza/dzackgarza-site-v2026",
+      "language": "HTML"
+    },
+    {
+      "name": "pandoc-preview",
+      "repo": "https://github.com/dzackgarza/pandoc-preview",
+      "language": "TypeScript"
+    },
+    {
+      "name": "llm-templating-engine",
+      "repo": "https://github.com/dzackgarza/llm-templating-engine",
+      "language": "Python"
+    },
+    {
+      "name": "research-computational",
+      "repo": "https://github.com/dzackgarza/research-computational",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "pandoc-preview-greenfield",
+      "repo": "https://github.com/dzackgarza/pandoc-preview-greenfield",
+      "language": "TeX"
+    },
+    {
+      "name": "pandoc-preview-editor",
+      "repo": "https://github.com/dzackgarza/pandoc-preview-editor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "garza-academic-hub",
+      "repo": "https://github.com/dzackgarza/garza-academic-hub",
+      "language": "HTML"
+    },
+    {
+      "name": "opencode-manager",
+      "repo": "https://github.com/dzackgarza/opencode-manager",
+      "language": "Python"
+    },
+    {
+      "name": "ai-prompts",
+      "repo": "https://github.com/dzackgarza/ai-prompts",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-plugins",
+      "repo": "https://github.com/dzackgarza/opencode-plugins",
+      "language": "Python"
+    },
+    {
+      "name": "pdf-extraction",
+      "repo": "https://github.com/dzackgarza/pdf-extraction",
+      "language": "Python"
+    },
+    {
+      "name": "improved-todowrite",
+      "repo": "https://github.com/dzackgarza/improved-todowrite",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-plugin-improved-task",
+      "repo": "https://github.com/dzackgarza/opencode-plugin-improved-task",
+      "language": "TypeScript"
+    },
+    {
+      "name": "opencode-plugin-reminder-injection",
+      "repo": "https://github.com/dzackgarza/opencode-plugin-reminder-injection",
+      "language": "TypeScript"
+    },
+    {
+      "name": "todowrite-manager",
+      "repo": "https://github.com/dzackgarza/todowrite-manager",
+      "language": "Python"
+    },
+    {
+      "name": "reminder-manager",
+      "repo": "https://github.com/dzackgarza/reminder-manager",
+      "language": "Python"
+    },
+    {
+      "name": "webtools-manager",
+      "repo": "https://github.com/dzackgarza/webtools-manager",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-plugin-prompt-transformer",
+      "repo": "https://github.com/dzackgarza/opencode-plugin-prompt-transformer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "llm-runner",
+      "repo": "https://github.com/dzackgarza/llm-runner",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-zotero-plugin",
+      "repo": "https://github.com/dzackgarza/opencode-zotero-plugin",
+      "language": "Python"
+    },
+    {
+      "name": "zotero-manager",
+      "repo": "https://github.com/dzackgarza/zotero-manager",
+      "language": "Python"
+    },
+    {
+      "name": "prompt-transformer-manager",
+      "repo": "https://github.com/dzackgarza/prompt-transformer-manager",
+      "language": "Python"
+    },
+    {
+      "name": "doc-annotation-frontend",
+      "repo": "https://github.com/dzackgarza/doc-annotation-frontend",
+      "language": "TypeScript"
+    },
+    {
+      "name": "otlp-collector",
+      "repo": "https://github.com/dzackgarza/otlp-collector",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-time-travel-plugin",
+      "repo": "https://github.com/dzackgarza/opencode-time-travel-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "task-sched",
+      "repo": "https://github.com/dzackgarza/task-sched",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-plugin-mcp-shim",
+      "repo": "https://github.com/dzackgarza/opencode-plugin-mcp-shim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pandoc-projects",
+      "repo": "https://github.com/dzackgarza/pandoc-projects",
+      "language": "Python"
+    },
+    {
+      "name": "Xournal-Lecture-Fork",
+      "repo": "https://github.com/dzackgarza/Xournal-Lecture-Fork",
+      "language": "C"
+    },
+    {
+      "name": "Complex-Analysis",
+      "repo": "https://github.com/dzackgarza/Complex-Analysis",
+      "language": "HTML"
+    },
+    {
+      "name": "Category-O-Spring-2020",
+      "repo": "https://github.com/dzackgarza/Category-O-Spring-2020",
+      "language": "TeX"
+    },
+    {
+      "name": "Arizona-Winter-School-2019",
+      "repo": "https://github.com/dzackgarza/Arizona-Winter-School-2019"
+    },
+    {
+      "name": "UGA_Algebra_Fall_2019",
+      "repo": "https://github.com/dzackgarza/UGA_Algebra_Fall_2019",
+      "language": "TeX"
+    },
+    {
+      "name": "UGA_Lie_Algebras_Fall_2019",
+      "repo": "https://github.com/dzackgarza/UGA_Lie_Algebras_Fall_2019",
+      "language": "TeX"
+    },
+    {
+      "name": "UGA_Analysis_Fall_2019",
+      "repo": "https://github.com/dzackgarza/UGA_Analysis_Fall_2019",
+      "language": "TeX"
+    },
+    {
+      "name": "Morse-Theory-Spring-2020",
+      "repo": "https://github.com/dzackgarza/Morse-Theory-Spring-2020",
+      "language": "TeX"
+    },
+    {
+      "name": "Fall-2019-Algebra-Assignments",
+      "repo": "https://github.com/dzackgarza/Fall-2019-Algebra-Assignments",
+      "language": "TeX"
+    },
+    {
+      "name": "UMD-Geometry-Festival-2019",
+      "repo": "https://github.com/dzackgarza/UMD-Geometry-Festival-2019",
+      "language": "TeX"
+    },
+    {
+      "name": "UCSD-Algebraic-Geometry-Conference-2019",
+      "repo": "https://github.com/dzackgarza/UCSD-Algebraic-Geometry-Conference-2019",
+      "language": "HTML"
+    },
+    {
+      "name": "Redbud-Topology-Conference-2019",
+      "repo": "https://github.com/dzackgarza/Redbud-Topology-Conference-2019"
+    },
+    {
+      "name": "GSCATG-2019",
+      "repo": "https://github.com/dzackgarza/GSCATG-2019"
+    },
+    {
+      "name": "UGA-Topology-Conference-2019",
+      "repo": "https://github.com/dzackgarza/UGA-Topology-Conference-2019",
+      "language": "HTML"
+    },
+    {
+      "name": "Introduction-to-Latex",
+      "repo": "https://github.com/dzackgarza/Introduction-to-Latex",
+      "language": "TeX"
+    },
+    {
+      "name": "Lab-Reports",
+      "repo": "https://github.com/dzackgarza/Lab-Reports",
+      "language": "TeX"
+    },
+    {
+      "name": "mume-standalone",
+      "repo": "https://github.com/dzackgarza/mume-standalone",
+      "language": "JavaScript"
+    },
+    {
+      "name": "online-mume-parser",
+      "repo": "https://github.com/dzackgarza/online-mume-parser",
+      "language": "HTML"
+    },
+    {
+      "name": "iifym-helper",
+      "repo": "https://github.com/dzackgarza/iifym-helper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "CS194",
+      "repo": "https://github.com/dzackgarza/CS194",
+      "language": "Haskell"
+    },
+    {
+      "name": "Assembly",
+      "repo": "https://github.com/dzackgarza/Assembly",
+      "language": "Assembly"
+    },
+    {
+      "name": "CS61A",
+      "repo": "https://github.com/dzackgarza/CS61A",
+      "language": "Python"
+    },
+    {
+      "name": "COMSC_165",
+      "repo": "https://github.com/dzackgarza/COMSC_165",
+      "language": "C++"
+    },
+    {
+      "name": "magic-box",
+      "repo": "https://github.com/dzackgarza/magic-box",
+      "language": "Java"
+    },
+    {
+      "name": "BoundedQueue",
+      "repo": "https://github.com/dzackgarza/BoundedQueue",
+      "language": "Java"
+    },
+    {
+      "name": "Math113",
+      "repo": "https://github.com/dzackgarza/Math113",
+      "language": "TeX"
+    },
+    {
+      "name": "statistics",
+      "repo": "https://github.com/dzackgarza/statistics",
+      "language": "TeX"
+    },
+    {
+      "name": "Project-Euler",
+      "repo": "https://github.com/dzackgarza/Project-Euler",
+      "language": "Python"
+    },
+    {
+      "name": "kevin-bacon",
+      "repo": "https://github.com/dzackgarza/kevin-bacon",
+      "language": "Java"
+    },
+    {
+      "name": "Hash_Table",
+      "repo": "https://github.com/dzackgarza/Hash_Table",
+      "language": "C++"
+    },
+    {
+      "name": "Quicksort",
+      "repo": "https://github.com/dzackgarza/Quicksort",
+      "language": "C++"
+    },
+    {
+      "name": "eo_ai",
+      "repo": "https://github.com/dzackgarza/eo_ai",
+      "language": "Java"
+    },
+    {
+      "name": "Trees",
+      "repo": "https://github.com/dzackgarza/Trees",
+      "language": "C++"
+    },
+    {
+      "name": "STR_class",
+      "repo": "https://github.com/dzackgarza/STR_class",
+      "language": "C++"
+    },
+    {
+      "name": "Doubly-Linked-List",
+      "repo": "https://github.com/dzackgarza/Doubly-Linked-List",
+      "language": "C++"
+    },
+    {
+      "name": "alt_string",
+      "repo": "https://github.com/dzackgarza/alt_string",
+      "language": "C++"
+    },
+    {
+      "name": "delta",
+      "repo": "https://github.com/dzackgarza/delta",
+      "language": "Java"
+    }
+  ]
 }

@@ -5,6 +5,503 @@
     "https://github.com/panyam"
   ],
   "bio": "Technologist, Maniacal Builder and Fiddler!",
+  "own_repos": 130,
   "commits": 12676,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "langplayground",
+      "repo": "https://github.com/panyam/langplayground",
+      "language": "JavaScript"
+    },
+    {
+      "name": "goapplib",
+      "repo": "https://github.com/panyam/goapplib",
+      "language": "Go"
+    },
+    {
+      "name": "oneauth",
+      "repo": "https://github.com/panyam/oneauth",
+      "language": "Go"
+    },
+    {
+      "name": "sdl",
+      "repo": "https://github.com/panyam/sdl",
+      "language": "Go"
+    },
+    {
+      "name": "mcpkit",
+      "repo": "https://github.com/panyam/mcpkit",
+      "language": "Go"
+    },
+    {
+      "name": "chakra",
+      "repo": "https://github.com/panyam/chakra",
+      "language": "Go"
+    },
+    {
+      "name": "megh",
+      "repo": "https://github.com/panyam/megh",
+      "language": "Go"
+    },
+    {
+      "name": "agni",
+      "repo": "https://github.com/panyam/agni",
+      "language": "Go"
+    },
+    {
+      "name": "galore",
+      "repo": "https://github.com/panyam/galore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agni-samples",
+      "repo": "https://github.com/panyam/agni-samples",
+      "language": "Makefile"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/panyam/blog",
+      "language": "MDX"
+    },
+    {
+      "name": "weemaps",
+      "repo": "https://github.com/panyam/weemaps",
+      "language": "Python"
+    },
+    {
+      "name": "goutils",
+      "repo": "https://github.com/panyam/goutils",
+      "language": "Go"
+    },
+    {
+      "name": "slicer",
+      "repo": "https://github.com/panyam/slicer",
+      "language": "Go"
+    },
+    {
+      "name": "slyds",
+      "repo": "https://github.com/panyam/slyds",
+      "language": "Go"
+    },
+    {
+      "name": "gap-tracker",
+      "repo": "https://github.com/panyam/gap-tracker",
+      "language": "Go"
+    },
+    {
+      "name": "brain",
+      "repo": "https://github.com/panyam/brain",
+      "language": "Go"
+    },
+    {
+      "name": "snippetsvc",
+      "repo": "https://github.com/panyam/snippetsvc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pslite",
+      "repo": "https://github.com/panyam/pslite",
+      "language": "Go"
+    },
+    {
+      "name": "excaliframe",
+      "repo": "https://github.com/panyam/excaliframe",
+      "language": "TypeScript"
+    },
+    {
+      "name": "massrelay",
+      "repo": "https://github.com/panyam/massrelay",
+      "language": "Go"
+    },
+    {
+      "name": "tdproxy",
+      "repo": "https://github.com/panyam/tdproxy",
+      "language": "Go"
+    },
+    {
+      "name": "apptemplate",
+      "repo": "https://github.com/panyam/apptemplate",
+      "language": "HTML"
+    },
+    {
+      "name": "vibrant",
+      "repo": "https://github.com/panyam/vibrant",
+      "language": "JavaScript"
+    },
+    {
+      "name": "servicekit",
+      "repo": "https://github.com/panyam/servicekit",
+      "language": "Go"
+    },
+    {
+      "name": "agentcalc",
+      "repo": "https://github.com/panyam/agentcalc",
+      "language": "Go"
+    },
+    {
+      "name": "devloop",
+      "repo": "https://github.com/panyam/devloop",
+      "language": "Go"
+    },
+    {
+      "name": "turnengine",
+      "repo": "https://github.com/panyam/turnengine",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsutils-ui",
+      "repo": "https://github.com/panyam/tsutils-ui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blogcentral",
+      "repo": "https://github.com/panyam/blogcentral",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsutils-gae",
+      "repo": "https://github.com/panyam/tsutils-gae",
+      "language": "TypeScript"
+    },
+    {
+      "name": "onehub",
+      "repo": "https://github.com/panyam/onehub",
+      "language": "Go"
+    },
+    {
+      "name": "proto2cli",
+      "repo": "https://github.com/panyam/proto2cli",
+      "language": "Go"
+    },
+    {
+      "name": "notations",
+      "repo": "https://github.com/panyam/notations",
+      "language": "TypeScript"
+    },
+    {
+      "name": "relay",
+      "repo": "https://github.com/panyam/relay",
+      "language": "Go"
+    },
+    {
+      "name": "pcachapter",
+      "repo": "https://github.com/panyam/pcachapter",
+      "language": "Python"
+    },
+    {
+      "name": "protoc-gen-dal",
+      "repo": "https://github.com/panyam/protoc-gen-dal",
+      "language": "Go"
+    },
+    {
+      "name": "lucidcapture",
+      "repo": "https://github.com/panyam/lucidcapture",
+      "language": "HTML"
+    },
+    {
+      "name": "demokit",
+      "repo": "https://github.com/panyam/demokit",
+      "language": "Go"
+    },
+    {
+      "name": "protoc-gen-go-wasmjs",
+      "repo": "https://github.com/panyam/protoc-gen-go-wasmjs",
+      "language": "Go"
+    },
+    {
+      "name": "dbsync",
+      "repo": "https://github.com/panyam/dbsync",
+      "language": "Go"
+    },
+    {
+      "name": "grpcdemos",
+      "repo": "https://github.com/panyam/grpcdemos",
+      "language": "Python"
+    },
+    {
+      "name": "grpcrouter",
+      "repo": "https://github.com/panyam/grpcrouter",
+      "language": "Go"
+    },
+    {
+      "name": "gocurrent",
+      "repo": "https://github.com/panyam/gocurrent",
+      "language": "Go"
+    },
+    {
+      "name": "s3gen",
+      "repo": "https://github.com/panyam/s3gen",
+      "language": "Go"
+    },
+    {
+      "name": "panyam",
+      "repo": "https://github.com/panyam/panyam"
+    },
+    {
+      "name": "templar",
+      "repo": "https://github.com/panyam/templar",
+      "language": "Go"
+    },
+    {
+      "name": "toolcop",
+      "repo": "https://github.com/panyam/toolcop",
+      "language": "Go"
+    },
+    {
+      "name": "protokit",
+      "repo": "https://github.com/panyam/protokit",
+      "language": "Go"
+    },
+    {
+      "name": "tlex",
+      "repo": "https://github.com/panyam/tlex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsutils",
+      "repo": "https://github.com/panyam/tsutils",
+      "language": "TypeScript"
+    },
+    {
+      "name": "inference_book",
+      "repo": "https://github.com/panyam/inference_book",
+      "language": "TeX"
+    },
+    {
+      "name": "myvim",
+      "repo": "https://github.com/panyam/myvim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "tsappkit",
+      "repo": "https://github.com/panyam/tsappkit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "weewar",
+      "repo": "https://github.com/panyam/weewar"
+    },
+    {
+      "name": "conference-slides",
+      "repo": "https://github.com/panyam/conference-slides",
+      "language": "JavaScript"
+    },
+    {
+      "name": "srellm",
+      "repo": "https://github.com/panyam/srellm",
+      "language": "Python"
+    },
+    {
+      "name": "leetcode",
+      "repo": "https://github.com/panyam/leetcode",
+      "language": "Go"
+    },
+    {
+      "name": "leetcoach",
+      "repo": "https://github.com/panyam/leetcoach",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eplgo",
+      "repo": "https://github.com/panyam/eplgo",
+      "language": "Go"
+    },
+    {
+      "name": "notation_demos",
+      "repo": "https://github.com/panyam/notation_demos"
+    },
+    {
+      "name": "cass",
+      "repo": "https://github.com/panyam/cass",
+      "language": "Makefile"
+    },
+    {
+      "name": "gappt",
+      "repo": "https://github.com/panyam/gappt",
+      "language": "Go"
+    },
+    {
+      "name": "lfawsagent",
+      "repo": "https://github.com/panyam/lfawsagent",
+      "language": "Python"
+    },
+    {
+      "name": "golangdev",
+      "repo": "https://github.com/panyam/golangdev",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rocker",
+      "repo": "https://github.com/panyam/rocker",
+      "language": "C++"
+    },
+    {
+      "name": "plists",
+      "repo": "https://github.com/panyam/plists",
+      "language": "Python"
+    },
+    {
+      "name": "priorityq-ts",
+      "repo": "https://github.com/panyam/priorityq-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nextjstemplate",
+      "repo": "https://github.com/panyam/nextjstemplate",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nextjscommon",
+      "repo": "https://github.com/panyam/nextjscommon",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blogcomments",
+      "repo": "https://github.com/panyam/blogcomments"
+    },
+    {
+      "name": "designsim",
+      "repo": "https://github.com/panyam/designsim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ganttsheet",
+      "repo": "https://github.com/panyam/ganttsheet",
+      "language": "HTML"
+    },
+    {
+      "name": "lcapps",
+      "repo": "https://github.com/panyam/lcapps"
+    },
+    {
+      "name": "topod",
+      "repo": "https://github.com/panyam/topod",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dagmath",
+      "repo": "https://github.com/panyam/dagmath",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pytdproxy",
+      "repo": "https://github.com/panyam/pytdproxy",
+      "language": "Python"
+    },
+    {
+      "name": "pypslite",
+      "repo": "https://github.com/panyam/pypslite",
+      "language": "Python"
+    },
+    {
+      "name": "KafkaLite",
+      "repo": "https://github.com/panyam/KafkaLite",
+      "language": "C"
+    },
+    {
+      "name": "sangeetham",
+      "repo": "https://github.com/panyam/sangeetham"
+    },
+    {
+      "name": "lingua",
+      "repo": "https://github.com/panyam/lingua",
+      "language": "Python"
+    },
+    {
+      "name": "jsonschema2tables",
+      "repo": "https://github.com/panyam/jsonschema2tables",
+      "language": "Python"
+    },
+    {
+      "name": "lcdemos",
+      "repo": "https://github.com/panyam/lcdemos",
+      "language": "Go"
+    },
+    {
+      "name": "taggedunion",
+      "repo": "https://github.com/panyam/taggedunion",
+      "language": "Python"
+    },
+    {
+      "name": "ModelZero",
+      "repo": "https://github.com/panyam/ModelZero",
+      "language": "Python"
+    },
+    {
+      "name": "epl",
+      "repo": "https://github.com/panyam/epl",
+      "language": "Python"
+    },
+    {
+      "name": "sistine",
+      "repo": "https://github.com/panyam/sistine",
+      "language": "JavaScript"
+    },
+    {
+      "name": "astgen",
+      "repo": "https://github.com/panyam/astgen",
+      "language": "Python"
+    },
+    {
+      "name": "liftoff",
+      "repo": "https://github.com/panyam/liftoff",
+      "language": "Python"
+    },
+    {
+      "name": "onering",
+      "repo": "https://github.com/panyam/onering",
+      "language": "Python"
+    },
+    {
+      "name": "typecube",
+      "repo": "https://github.com/panyam/typecube",
+      "language": "Python"
+    },
+    {
+      "name": "servicelib",
+      "repo": "https://github.com/panyam/servicelib",
+      "language": "Python"
+    },
+    {
+      "name": "bootstrapper",
+      "repo": "https://github.com/panyam/bootstrapper",
+      "language": "Python"
+    },
+    {
+      "name": "coursera",
+      "repo": "https://github.com/panyam/coursera",
+      "language": "MATLAB"
+    },
+    {
+      "name": "priorityq",
+      "repo": "https://github.com/panyam/priorityq",
+      "language": "Python"
+    },
+    {
+      "name": "decklib",
+      "repo": "https://github.com/panyam/decklib",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elevators",
+      "repo": "https://github.com/panyam/elevators",
+      "language": "Java"
+    },
+    {
+      "name": "libgraph",
+      "repo": "https://github.com/panyam/libgraph",
+      "language": "Python"
+    },
+    {
+      "name": "oldjava",
+      "repo": "https://github.com/panyam/oldjava",
+      "language": "Java"
+    },
+    {
+      "name": "FiveSeconds",
+      "repo": "https://github.com/panyam/FiveSeconds",
+      "language": "Objective-C"
+    }
+  ]
 }

@@ -4,6 +4,508 @@
   "github": [
     "https://github.com/redjax"
   ],
+  "own_repos": 146,
   "commits": 11391,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "redjax",
+      "repo": "https://github.com/redjax/redjax"
+    },
+    {
+      "name": "linux-looks",
+      "repo": "https://github.com/redjax/linux-looks",
+      "language": "Python"
+    },
+    {
+      "name": "docker_templates",
+      "repo": "https://github.com/redjax/docker_templates",
+      "language": "Shell"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/redjax/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "astro-daisy-phosphor-starter",
+      "repo": "https://github.com/redjax/astro-daisy-phosphor-starter",
+      "language": "Shell"
+    },
+    {
+      "name": "Ansible",
+      "repo": "https://github.com/redjax/Ansible",
+      "url": "https://ansible-homelab.readthedocs.io/en/latest/",
+      "language": "Jinja"
+    },
+    {
+      "name": "PowershellModules",
+      "repo": "https://github.com/redjax/PowershellModules",
+      "language": "PowerShell"
+    },
+    {
+      "name": "Terraform",
+      "repo": "https://github.com/redjax/Terraform",
+      "language": "HCL"
+    },
+    {
+      "name": "PowershellProfile",
+      "repo": "https://github.com/redjax/PowershellProfile",
+      "language": "PowerShell"
+    },
+    {
+      "name": "PipelineTemplates",
+      "repo": "https://github.com/redjax/PipelineTemplates",
+      "language": "Shell"
+    },
+    {
+      "name": "git_dir",
+      "repo": "https://github.com/redjax/git_dir",
+      "language": "Shell"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/redjax/blog",
+      "language": "Shell"
+    },
+    {
+      "name": "redkb",
+      "repo": "https://github.com/redjax/redkb",
+      "url": "https://redjax.github.io/redkb/",
+      "language": "Shell"
+    },
+    {
+      "name": "Dockerfiles",
+      "repo": "https://github.com/redjax/Dockerfiles",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "system_scripts",
+      "repo": "https://github.com/redjax/system_scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "neovim",
+      "repo": "https://github.com/redjax/neovim",
+      "language": "Lua"
+    },
+    {
+      "name": "PipelineTemplates-Test",
+      "repo": "https://github.com/redjax/PipelineTemplates-Test",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Mothership",
+      "repo": "https://github.com/redjax/Mothership",
+      "language": "Python"
+    },
+    {
+      "name": "Toolbelt",
+      "repo": "https://github.com/redjax/Toolbelt",
+      "language": "Python"
+    },
+    {
+      "name": "syst",
+      "repo": "https://github.com/redjax/syst",
+      "language": "Go"
+    },
+    {
+      "name": "cheatsheets",
+      "repo": "https://github.com/redjax/cheatsheets",
+      "language": "Go"
+    },
+    {
+      "name": "go-porkbun",
+      "repo": "https://github.com/redjax/go-porkbun",
+      "language": "Go"
+    },
+    {
+      "name": "crawlbookmarks",
+      "repo": "https://github.com/redjax/crawlbookmarks",
+      "language": "Python"
+    },
+    {
+      "name": "rss-feeds",
+      "repo": "https://github.com/redjax/rss-feeds",
+      "language": "Python"
+    },
+    {
+      "name": "fastapi-ref",
+      "repo": "https://github.com/redjax/fastapi-ref",
+      "language": "Python"
+    },
+    {
+      "name": "git-mirror",
+      "repo": "https://github.com/redjax/git-mirror",
+      "language": "Shell"
+    },
+    {
+      "name": "theweather",
+      "repo": "https://github.com/redjax/theweather",
+      "language": "Python"
+    },
+    {
+      "name": "wezterm",
+      "repo": "https://github.com/redjax/wezterm",
+      "language": "Lua"
+    },
+    {
+      "name": "demo_webscrape_notebook",
+      "repo": "https://github.com/redjax/demo_webscrape_notebook",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Notetkr",
+      "repo": "https://github.com/redjax/Notetkr",
+      "language": "Go"
+    },
+    {
+      "name": "serverbeacon",
+      "repo": "https://github.com/redjax/serverbeacon",
+      "language": "Go"
+    },
+    {
+      "name": "git_bug_demo",
+      "repo": "https://github.com/redjax/git_bug_demo",
+      "language": "Shell"
+    },
+    {
+      "name": "auto-sftp",
+      "repo": "https://github.com/redjax/auto-sftp",
+      "language": "Python"
+    },
+    {
+      "name": "go-koanf-demo",
+      "repo": "https://github.com/redjax/go-koanf-demo",
+      "language": "Go"
+    },
+    {
+      "name": "helix",
+      "repo": "https://github.com/redjax/helix",
+      "language": "PowerShell"
+    },
+    {
+      "name": "go-mygithub",
+      "repo": "https://github.com/redjax/go-mygithub",
+      "language": "Go"
+    },
+    {
+      "name": "archive-gmail",
+      "repo": "https://github.com/redjax/archive-gmail",
+      "language": "Go"
+    },
+    {
+      "name": "templates",
+      "repo": "https://github.com/redjax/templates",
+      "language": "PowerShell"
+    },
+    {
+      "name": "python_pkgs",
+      "repo": "https://github.com/redjax/python_pkgs",
+      "language": "Python"
+    },
+    {
+      "name": "red-utils",
+      "repo": "https://github.com/redjax/red-utils",
+      "url": "https://red-utils.readthedocs.io/en/stable/",
+      "language": "Python"
+    },
+    {
+      "name": "transmissionpy",
+      "repo": "https://github.com/redjax/transmissionpy",
+      "language": "Python"
+    },
+    {
+      "name": "nvim",
+      "repo": "https://github.com/redjax/nvim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "farmrpg-marketdata",
+      "repo": "https://github.com/redjax/farmrpg-marketdata",
+      "language": "Python"
+    },
+    {
+      "name": "TFTestRepo",
+      "repo": "https://github.com/redjax/TFTestRepo"
+    },
+    {
+      "name": "flyskypark",
+      "repo": "https://github.com/redjax/flyskypark",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-hello",
+      "repo": "https://github.com/redjax/go-hello",
+      "language": "PowerShell"
+    },
+    {
+      "name": "weatherdata",
+      "repo": "https://github.com/redjax/weatherdata",
+      "language": "Python"
+    },
+    {
+      "name": "PSAzureHelpers",
+      "repo": "https://github.com/redjax/PSAzureHelpers",
+      "language": "PowerShell"
+    },
+    {
+      "name": "go-scanpath",
+      "repo": "https://github.com/redjax/go-scanpath",
+      "language": "Go"
+    },
+    {
+      "name": "go-sparseclone",
+      "repo": "https://github.com/redjax/go-sparseclone",
+      "language": "Go"
+    },
+    {
+      "name": "go-b2cleaner",
+      "repo": "https://github.com/redjax/go-b2cleaner",
+      "language": "Go"
+    },
+    {
+      "name": "go-nvimrepo",
+      "repo": "https://github.com/redjax/go-nvimrepo",
+      "language": "Go"
+    },
+    {
+      "name": "hyperterminal",
+      "repo": "https://github.com/redjax/hyperterminal",
+      "language": "PowerShell"
+    },
+    {
+      "name": "emacs",
+      "repo": "https://github.com/redjax/emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "alacritty",
+      "repo": "https://github.com/redjax/alacritty",
+      "language": "PowerShell"
+    },
+    {
+      "name": "go-release-package",
+      "repo": "https://github.com/redjax/go-release-package",
+      "language": "Go"
+    },
+    {
+      "name": "mygithub",
+      "repo": "https://github.com/redjax/mygithub",
+      "language": "Python"
+    },
+    {
+      "name": "auto-xkcd",
+      "repo": "https://github.com/redjax/auto-xkcd",
+      "language": "Python"
+    },
+    {
+      "name": "awesome-tools",
+      "repo": "https://github.com/redjax/awesome-tools"
+    },
+    {
+      "name": "cookiecutter",
+      "repo": "https://github.com/redjax/cookiecutter",
+      "language": "Python"
+    },
+    {
+      "name": "red-duck",
+      "repo": "https://github.com/redjax/red-duck",
+      "language": "Python"
+    },
+    {
+      "name": "transmission_scripts",
+      "repo": "https://github.com/redjax/transmission_scripts",
+      "language": "Python"
+    },
+    {
+      "name": "semaphore-plays",
+      "repo": "https://github.com/redjax/semaphore-plays"
+    },
+    {
+      "name": "gickup-backup",
+      "repo": "https://github.com/redjax/gickup-backup",
+      "language": "PowerShell"
+    },
+    {
+      "name": "my-gh",
+      "repo": "https://github.com/redjax/my-gh",
+      "language": "Go"
+    },
+    {
+      "name": "pingo",
+      "repo": "https://github.com/redjax/pingo",
+      "language": "Go"
+    },
+    {
+      "name": "gitchck",
+      "repo": "https://github.com/redjax/gitchck",
+      "language": "Go"
+    },
+    {
+      "name": "MSLearn-AzureBicep",
+      "repo": "https://github.com/redjax/MSLearn-AzureBicep",
+      "language": "Bicep"
+    },
+    {
+      "name": "code-snippet-docs",
+      "repo": "https://github.com/redjax/code-snippet-docs"
+    },
+    {
+      "name": "uautils",
+      "repo": "https://github.com/redjax/uautils",
+      "language": "Python"
+    },
+    {
+      "name": "cflarepy",
+      "repo": "https://github.com/redjax/cflarepy",
+      "language": "Python"
+    },
+    {
+      "name": "git-sync-repos",
+      "repo": "https://github.com/redjax/git-sync-repos",
+      "language": "Shell"
+    },
+    {
+      "name": "pingpy",
+      "repo": "https://github.com/redjax/pingpy",
+      "language": "Python"
+    },
+    {
+      "name": "SpacetradersProject",
+      "repo": "https://github.com/redjax/SpacetradersProject",
+      "language": "Python"
+    },
+    {
+      "name": "py-platform-info",
+      "repo": "https://github.com/redjax/py-platform-info",
+      "language": "Python"
+    },
+    {
+      "name": "starship",
+      "repo": "https://github.com/redjax/starship",
+      "language": "PowerShell"
+    },
+    {
+      "name": "auto-weather",
+      "repo": "https://github.com/redjax/auto-weather",
+      "language": "Python"
+    },
+    {
+      "name": "adventofcode",
+      "repo": "https://github.com/redjax/adventofcode",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "django-tutorials",
+      "repo": "https://github.com/redjax/django-tutorials",
+      "language": "Python"
+    },
+    {
+      "name": "hugo-quickstart",
+      "repo": "https://github.com/redjax/hugo-quickstart",
+      "language": "Shell"
+    },
+    {
+      "name": "weathersched",
+      "repo": "https://github.com/redjax/weathersched",
+      "language": "Python"
+    },
+    {
+      "name": "cookiecutter-python-uv",
+      "repo": "https://github.com/redjax/cookiecutter-python-uv",
+      "language": "Python"
+    },
+    {
+      "name": "weather-monorepo",
+      "repo": "https://github.com/redjax/weather-monorepo",
+      "language": "Python"
+    },
+    {
+      "name": "mkdocs-base",
+      "repo": "https://github.com/redjax/mkdocs-base",
+      "language": "Python"
+    },
+    {
+      "name": "bookmark-backup",
+      "repo": "https://github.com/redjax/bookmark-backup",
+      "language": "Python"
+    },
+    {
+      "name": "sitecheck.py",
+      "repo": "https://github.com/redjax/sitecheck.py",
+      "language": "Python"
+    },
+    {
+      "name": "vscode-devcontainers",
+      "repo": "https://github.com/redjax/vscode-devcontainers",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cookiecutter-python-pdm",
+      "repo": "https://github.com/redjax/cookiecutter-python-pdm",
+      "language": "Python"
+    },
+    {
+      "name": "django-girls-tutorial",
+      "repo": "https://github.com/redjax/django-girls-tutorial",
+      "language": "Python"
+    },
+    {
+      "name": "python-cookiecutter",
+      "repo": "https://github.com/redjax/python-cookiecutter",
+      "language": "Python"
+    },
+    {
+      "name": "SpacetradersPolylith",
+      "repo": "https://github.com/redjax/SpacetradersPolylith",
+      "language": "Python"
+    },
+    {
+      "name": "PowershellModuleTemplate",
+      "repo": "https://github.com/redjax/PowershellModuleTemplate",
+      "language": "PowerShell"
+    },
+    {
+      "name": "git-toolbox",
+      "repo": "https://github.com/redjax/git-toolbox",
+      "language": "Python"
+    },
+    {
+      "name": "holiday-notify",
+      "repo": "https://github.com/redjax/holiday-notify",
+      "language": "Python"
+    },
+    {
+      "name": "red-logging",
+      "repo": "https://github.com/redjax/red-logging",
+      "url": "https://red-logging.readthedocs.io/en/latest/",
+      "language": "Python"
+    },
+    {
+      "name": "red-nox",
+      "repo": "https://github.com/redjax/red-nox",
+      "language": "Python"
+    },
+    {
+      "name": "owm_bot",
+      "repo": "https://github.com/redjax/owm_bot",
+      "language": "Python"
+    },
+    {
+      "name": "autogit",
+      "repo": "https://github.com/redjax/autogit",
+      "language": "Python"
+    },
+    {
+      "name": "red-log",
+      "repo": "https://github.com/redjax/red-log",
+      "language": "Python"
+    },
+    {
+      "name": "redj-ping",
+      "repo": "https://github.com/redjax/redj-ping",
+      "language": "Python"
+    }
+  ]
 }

@@ -5,6 +5,515 @@
     "https://github.com/noraworld"
   ],
   "website": "https://noraworld.com/",
+  "own_repos": 127,
   "commits": 17695,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "diary-templates-assistant",
+      "repo": "https://github.com/noraworld/diary-templates-assistant",
+      "url": "https://github.com/noraworld/diary-templates/issues",
+      "language": "JavaScript"
+    },
+    {
+      "name": "diary",
+      "repo": "https://github.com/noraworld/diary",
+      "url": "https://noraworld.github.io/diary/",
+      "language": "HTML"
+    },
+    {
+      "name": "dnsmasq-conf",
+      "repo": "https://github.com/noraworld/dnsmasq-conf",
+      "language": "Shell"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/noraworld/blog",
+      "url": "https://noraworld.github.io/blog/",
+      "language": "HTML"
+    },
+    {
+      "name": "cron-conf",
+      "repo": "https://github.com/noraworld/cron-conf",
+      "language": "Shell"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/noraworld/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "box-venusaur",
+      "repo": "https://github.com/noraworld/box-venusaur"
+    },
+    {
+      "name": "github-to-note",
+      "repo": "https://github.com/noraworld/github-to-note",
+      "language": "Python"
+    },
+    {
+      "name": "systemd-units",
+      "repo": "https://github.com/noraworld/systemd-units"
+    },
+    {
+      "name": "utils",
+      "repo": "https://github.com/noraworld/utils",
+      "url": "https://noraworld.github.io/utils/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ufw-conf",
+      "repo": "https://github.com/noraworld/ufw-conf",
+      "language": "Shell"
+    },
+    {
+      "name": "blog-content",
+      "repo": "https://github.com/noraworld/blog-content"
+    },
+    {
+      "name": "assets-uploader",
+      "repo": "https://github.com/noraworld/assets-uploader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "issue-recorder",
+      "repo": "https://github.com/noraworld/issue-recorder",
+      "url": "https://github.com/marketplace/actions/issue-recorder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "semantic-satiation-generator",
+      "repo": "https://github.com/noraworld/semantic-satiation-generator",
+      "url": "https://noraworld.github.io/semantic-satiation-generator/",
+      "language": "HTML"
+    },
+    {
+      "name": "jekyll-theme-diary",
+      "repo": "https://github.com/noraworld/jekyll-theme-diary",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-actions-sandbox",
+      "repo": "https://github.com/noraworld/github-actions-sandbox",
+      "url": "https://noraworld.github.io/github-actions-sandbox/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "box-pallet",
+      "repo": "https://github.com/noraworld/box-pallet"
+    },
+    {
+      "name": "images-uploader",
+      "repo": "https://github.com/noraworld/images-uploader"
+    },
+    {
+      "name": "box-ivysaur",
+      "repo": "https://github.com/noraworld/box-ivysaur"
+    },
+    {
+      "name": "quick-share",
+      "repo": "https://github.com/noraworld/quick-share",
+      "language": "JavaScript"
+    },
+    {
+      "name": "devlog",
+      "repo": "https://github.com/noraworld/devlog",
+      "url": "https://noraworld.github.io/devlog/",
+      "language": "SCSS"
+    },
+    {
+      "name": "noraworld.com",
+      "repo": "https://github.com/noraworld/noraworld.com",
+      "language": "HTML"
+    },
+    {
+      "name": "box-ash",
+      "repo": "https://github.com/noraworld/box-ash",
+      "url": "https://github.com/noraworld/to-do/issues/1169"
+    },
+    {
+      "name": "chatgpt-feedback",
+      "repo": "https://github.com/noraworld/chatgpt-feedback",
+      "language": "Python"
+    },
+    {
+      "name": "vox",
+      "repo": "https://github.com/noraworld/vox",
+      "url": "https://github.com/noraworld/vox/discussions"
+    },
+    {
+      "name": "jekyll-build-pages",
+      "repo": "https://github.com/noraworld/jekyll-build-pages",
+      "url": "https://github.com/marketplace/actions/jekyll-build-pages",
+      "language": "Ruby"
+    },
+    {
+      "name": "otaku",
+      "repo": "https://github.com/noraworld/otaku",
+      "url": "https://noraworld.github.io/otaku/"
+    },
+    {
+      "name": "github-playground",
+      "repo": "https://github.com/noraworld/github-playground",
+      "language": "Ruby"
+    },
+    {
+      "name": "pulsewire-conf",
+      "repo": "https://github.com/noraworld/pulsewire-conf",
+      "language": "Shell"
+    },
+    {
+      "name": "social-media-double",
+      "repo": "https://github.com/noraworld/social-media-double",
+      "language": "JavaScript"
+    },
+    {
+      "name": "social-media-recorder",
+      "repo": "https://github.com/noraworld/social-media-recorder",
+      "url": "https://github.com/noraworld/social-media-recorder/issues"
+    },
+    {
+      "name": "box-bulbasaur",
+      "repo": "https://github.com/noraworld/box-bulbasaur"
+    },
+    {
+      "name": "comments-transferor",
+      "repo": "https://github.com/noraworld/comments-transferor",
+      "url": "https://github.com/marketplace/actions/comments-transferor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "diary-system",
+      "repo": "https://github.com/noraworld/diary-system",
+      "url": "https://noraworld.github.io/diary/",
+      "language": "Ruby"
+    },
+    {
+      "name": "developers-blog-media-ja",
+      "repo": "https://github.com/noraworld/developers-blog-media-ja",
+      "url": "https://github.com/noraworld/developers-blog-content-ja"
+    },
+    {
+      "name": "netplan-conf",
+      "repo": "https://github.com/noraworld/netplan-conf"
+    },
+    {
+      "name": "cognitive-shuffle",
+      "repo": "https://github.com/noraworld/cognitive-shuffle",
+      "language": "Shell"
+    },
+    {
+      "name": "apt-sources-list",
+      "repo": "https://github.com/noraworld/apt-sources-list"
+    },
+    {
+      "name": "sysctl-conf",
+      "repo": "https://github.com/noraworld/sysctl-conf"
+    },
+    {
+      "name": "bluetoothctl-autoconnector",
+      "repo": "https://github.com/noraworld/bluetoothctl-autoconnector",
+      "language": "Shell"
+    },
+    {
+      "name": "raspberry-juke",
+      "repo": "https://github.com/noraworld/raspberry-juke",
+      "language": "Shell"
+    },
+    {
+      "name": "videocommander",
+      "repo": "https://github.com/noraworld/videocommander",
+      "url": "https://chrome.google.com/webstore/detail/video-commander/eadjicgcnpgfmklebobjkhlippgepdii",
+      "language": "JavaScript"
+    },
+    {
+      "name": "noraworld",
+      "repo": "https://github.com/noraworld/noraworld"
+    },
+    {
+      "name": "ted-enhancer",
+      "repo": "https://github.com/noraworld/ted-enhancer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bluetooth-conf",
+      "repo": "https://github.com/noraworld/bluetooth-conf"
+    },
+    {
+      "name": "aquestalk-installer",
+      "repo": "https://github.com/noraworld/aquestalk-installer",
+      "language": "Shell"
+    },
+    {
+      "name": "processing-study",
+      "repo": "https://github.com/noraworld/processing-study",
+      "language": "Processing"
+    },
+    {
+      "name": "adprogex1",
+      "repo": "https://github.com/noraworld/adprogex1",
+      "language": "Roff"
+    },
+    {
+      "name": "conoha-error-pages",
+      "repo": "https://github.com/noraworld/conoha-error-pages",
+      "language": "HTML"
+    },
+    {
+      "name": "noraworld.net",
+      "repo": "https://github.com/noraworld/noraworld.net",
+      "url": "https://noraworld.net",
+      "language": "PHP"
+    },
+    {
+      "name": "sublrc",
+      "repo": "https://github.com/noraworld/sublrc"
+    },
+    {
+      "name": "cyberch",
+      "repo": "https://github.com/noraworld/cyberch",
+      "url": "https://github.com/noraworld/graduation-thesis",
+      "language": "Perl"
+    },
+    {
+      "name": "fork-test-bitbucket",
+      "repo": "https://github.com/noraworld/fork-test-bitbucket",
+      "url": "https://noraworld@bitbucket.org/noraworld/fork-test.git"
+    },
+    {
+      "name": "cybernet",
+      "repo": "https://github.com/noraworld/cybernet",
+      "url": "https://github.com/noraworld/graduation-thesis",
+      "language": "Ruby"
+    },
+    {
+      "name": "research-analysis",
+      "repo": "https://github.com/noraworld/research-analysis",
+      "url": "https://github.com/noraworld/graduation-thesis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graduation-thesis",
+      "repo": "https://github.com/noraworld/graduation-thesis",
+      "url": "https://github.com/noraworld/graduation-thesis/blob/master/graduation_thesis.pdf",
+      "language": "TeX"
+    },
+    {
+      "name": "scala_text",
+      "repo": "https://github.com/noraworld/scala_text",
+      "language": "XSLT"
+    },
+    {
+      "name": "simpleWebView",
+      "repo": "https://github.com/noraworld/simpleWebView",
+      "language": "Swift"
+    },
+    {
+      "name": "MyCalc",
+      "repo": "https://github.com/noraworld/MyCalc",
+      "language": "Swift"
+    },
+    {
+      "name": "FoodTracker",
+      "repo": "https://github.com/noraworld/FoodTracker",
+      "language": "Swift"
+    },
+    {
+      "name": "mastodon-federator",
+      "repo": "https://github.com/noraworld/mastodon-federator",
+      "language": "Ruby"
+    },
+    {
+      "name": "elixir-playground",
+      "repo": "https://github.com/noraworld/elixir-playground",
+      "language": "Elixir"
+    },
+    {
+      "name": "youtube_shortcuts",
+      "repo": "https://github.com/noraworld/youtube_shortcuts",
+      "language": "HTML"
+    },
+    {
+      "name": "rccjsstudy",
+      "repo": "https://github.com/noraworld/rccjsstudy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "anti-implicit-submission",
+      "repo": "https://github.com/noraworld/anti-implicit-submission",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gitbook-test",
+      "repo": "https://github.com/noraworld/gitbook-test",
+      "url": "https://noraworld.github.io/gitbook-test/"
+    },
+    {
+      "name": "are-you-open-in-new-tab",
+      "repo": "https://github.com/noraworld/are-you-open-in-new-tab",
+      "language": "JavaScript"
+    },
+    {
+      "name": "xcode-playground",
+      "repo": "https://github.com/noraworld/xcode-playground",
+      "language": "Swift"
+    },
+    {
+      "name": "web-playground",
+      "repo": "https://github.com/noraworld/web-playground",
+      "language": "HTML"
+    },
+    {
+      "name": "sqlite3-playground",
+      "repo": "https://github.com/noraworld/sqlite3-playground"
+    },
+    {
+      "name": "ruby-playground",
+      "repo": "https://github.com/noraworld/ruby-playground",
+      "language": "Ruby"
+    },
+    {
+      "name": "python-playground",
+      "repo": "https://github.com/noraworld/python-playground",
+      "language": "Python"
+    },
+    {
+      "name": "javascript-playground",
+      "repo": "https://github.com/noraworld/javascript-playground",
+      "language": "HTML"
+    },
+    {
+      "name": "javaprogex",
+      "repo": "https://github.com/noraworld/javaprogex",
+      "language": "Java"
+    },
+    {
+      "name": "c-playground-2",
+      "repo": "https://github.com/noraworld/c-playground-2",
+      "language": "C"
+    },
+    {
+      "name": "isprogex2",
+      "repo": "https://github.com/noraworld/isprogex2",
+      "language": "C"
+    },
+    {
+      "name": "isprogex1",
+      "repo": "https://github.com/noraworld/isprogex1",
+      "language": "C"
+    },
+    {
+      "name": "iptables-conf",
+      "repo": "https://github.com/noraworld/iptables-conf",
+      "url": "https://github.com/noraworld/ufw-conf",
+      "language": "Shell"
+    },
+    {
+      "name": "pi-misc-conf",
+      "repo": "https://github.com/noraworld/pi-misc-conf"
+    },
+    {
+      "name": "github-actions-sample",
+      "repo": "https://github.com/noraworld/github-actions-sample",
+      "language": "Shell"
+    },
+    {
+      "name": "developers-blog-tools",
+      "repo": "https://github.com/noraworld/developers-blog-tools",
+      "language": "Ruby"
+    },
+    {
+      "name": "fan-pippi",
+      "repo": "https://github.com/noraworld/fan-pippi",
+      "language": "Shell"
+    },
+    {
+      "name": "ssh-conf",
+      "repo": "https://github.com/noraworld/ssh-conf"
+    },
+    {
+      "name": "cuckoo",
+      "repo": "https://github.com/noraworld/cuckoo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "smart-ipa-converter",
+      "repo": "https://github.com/noraworld/smart-ipa-converter",
+      "url": "https://noraworld.github.io/smart-ipa-converter/?demo=1",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-flow-observer",
+      "repo": "https://github.com/noraworld/git-flow-observer",
+      "url": "https://github.com/marketplace/actions/git-flow-observer",
+      "language": "Shell"
+    },
+    {
+      "name": "release-menu",
+      "repo": "https://github.com/noraworld/release-menu",
+      "url": "https://github.com/marketplace/actions/release-menu",
+      "language": "Shell"
+    },
+    {
+      "name": "atomrc",
+      "repo": "https://github.com/noraworld/atomrc",
+      "language": "Less"
+    },
+    {
+      "name": "aepyornis",
+      "repo": "https://github.com/noraworld/aepyornis",
+      "language": "Ruby"
+    },
+    {
+      "name": "steep-sample",
+      "repo": "https://github.com/noraworld/steep-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-to-qiita",
+      "repo": "https://github.com/noraworld/github-to-qiita",
+      "url": "https://github.com/marketplace/actions/github-to-qiita",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-actions-ruby-sample",
+      "repo": "https://github.com/noraworld/github-actions-ruby-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "scraps",
+      "repo": "https://github.com/noraworld/scraps"
+    },
+    {
+      "name": "conoha-swap",
+      "repo": "https://github.com/noraworld/conoha-swap"
+    },
+    {
+      "name": "conoha-httpd",
+      "repo": "https://github.com/noraworld/conoha-httpd"
+    },
+    {
+      "name": "github-to-qiita-server",
+      "repo": "https://github.com/noraworld/github-to-qiita-server",
+      "url": "https://github.com/noraworld/github-to-qiita",
+      "language": "Ruby"
+    },
+    {
+      "name": "whisper",
+      "repo": "https://github.com/noraworld/whisper",
+      "url": "https://noraworld.blog",
+      "language": "CSS"
+    },
+    {
+      "name": "ojt",
+      "repo": "https://github.com/noraworld/ojt",
+      "language": "Shell"
+    },
+    {
+      "name": "competitive-programming",
+      "repo": "https://github.com/noraworld/competitive-programming",
+      "url": "https://atcoder.jp/users/noraworld",
+      "language": "Ruby"
+    }
+  ]
 }

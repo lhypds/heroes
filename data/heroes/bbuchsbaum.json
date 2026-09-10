@@ -4,6 +4,547 @@
   "github": [
     "https://github.com/bbuchsbaum"
   ],
+  "own_repos": 127,
   "commits": 10384,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "fmridataset",
+      "repo": "https://github.com/bbuchsbaum/fmridataset",
+      "url": "https://bbuchsbaum.github.io/fmridataset/",
+      "language": "R"
+    },
+    {
+      "name": "neurosurf",
+      "repo": "https://github.com/bbuchsbaum/neurosurf",
+      "url": "https://bbuchsbaum.github.io/neurosurf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "multivarious",
+      "repo": "https://github.com/bbuchsbaum/multivarious",
+      "url": "https://bbuchsbaum.github.io/multivarious/",
+      "language": "R"
+    },
+    {
+      "name": "eco-registry",
+      "repo": "https://github.com/bbuchsbaum/eco-registry",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rMVPA",
+      "repo": "https://github.com/bbuchsbaum/rMVPA",
+      "language": "R"
+    },
+    {
+      "name": "neuroatlas",
+      "repo": "https://github.com/bbuchsbaum/neuroatlas",
+      "url": "https://bbuchsbaum.github.io/neuroatlas/",
+      "language": "R"
+    },
+    {
+      "name": "deflist",
+      "repo": "https://github.com/bbuchsbaum/deflist",
+      "url": "https://bbuchsbaum.github.io/deflist/",
+      "language": "R"
+    },
+    {
+      "name": "neuromosaic",
+      "repo": "https://github.com/bbuchsbaum/neuromosaic",
+      "language": "R"
+    },
+    {
+      "name": "surfviewjs",
+      "repo": "https://github.com/bbuchsbaum/surfviewjs",
+      "url": "https://bbuchsbaum.github.io/surfviewjs/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "graphsp",
+      "repo": "https://github.com/bbuchsbaum/graphsp",
+      "language": "R"
+    },
+    {
+      "name": "mixeff",
+      "repo": "https://github.com/bbuchsbaum/mixeff",
+      "language": "Rust"
+    },
+    {
+      "name": "fmriAR",
+      "repo": "https://github.com/bbuchsbaum/fmriAR",
+      "url": "https://bbuchsbaum.github.io/fmriAR/",
+      "language": "R"
+    },
+    {
+      "name": "neuroim2",
+      "repo": "https://github.com/bbuchsbaum/neuroim2",
+      "url": "https://bbuchsbaum.github.io/neuroim2/",
+      "language": "R"
+    },
+    {
+      "name": "bidser",
+      "repo": "https://github.com/bbuchsbaum/bidser",
+      "url": "https://bbuchsbaum.github.io/bidser/",
+      "language": "R"
+    },
+    {
+      "name": "fmrigds",
+      "repo": "https://github.com/bbuchsbaum/fmrigds",
+      "url": "https://bbuchsbaum.github.io/fmrigds/",
+      "language": "R"
+    },
+    {
+      "name": "templateflow",
+      "repo": "https://github.com/bbuchsbaum/templateflow",
+      "url": "https://bbuchsbaum.github.io/templateflow/",
+      "language": "R"
+    },
+    {
+      "name": "fmrireg",
+      "repo": "https://github.com/bbuchsbaum/fmrireg",
+      "language": "R"
+    },
+    {
+      "name": "adjoin",
+      "repo": "https://github.com/bbuchsbaum/adjoin",
+      "url": "https://bbuchsbaum.github.io/adjoin/",
+      "language": "R"
+    },
+    {
+      "name": "crossform",
+      "repo": "https://github.com/bbuchsbaum/crossform",
+      "url": "https://bbuchsbaum.github.io/crossform/",
+      "language": "R"
+    },
+    {
+      "name": "brainflow2",
+      "repo": "https://github.com/bbuchsbaum/brainflow2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "genpca",
+      "repo": "https://github.com/bbuchsbaum/genpca",
+      "url": "https://bbuchsbaum.github.io/genpca/",
+      "language": "R"
+    },
+    {
+      "name": "natural-features",
+      "repo": "https://github.com/bbuchsbaum/natural-features",
+      "language": "Python"
+    },
+    {
+      "name": "fmridesign",
+      "repo": "https://github.com/bbuchsbaum/fmridesign",
+      "url": "https://bbuchsbaum.github.io/fmridesign/",
+      "language": "R"
+    },
+    {
+      "name": "mixeff-rs",
+      "repo": "https://github.com/bbuchsbaum/mixeff-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "eigencore",
+      "repo": "https://github.com/bbuchsbaum/eigencore",
+      "language": "R"
+    },
+    {
+      "name": "imfeatures",
+      "repo": "https://github.com/bbuchsbaum/imfeatures",
+      "url": "https://bbuchsbaum.github.io/imfeatures/",
+      "language": "R"
+    },
+    {
+      "name": "parade",
+      "repo": "https://github.com/bbuchsbaum/parade",
+      "url": "https://bbuchsbaum.github.io/parade/",
+      "language": "R"
+    },
+    {
+      "name": "mote",
+      "repo": "https://github.com/bbuchsbaum/mote",
+      "language": "Rust"
+    },
+    {
+      "name": "rfugw",
+      "repo": "https://github.com/bbuchsbaum/rfugw",
+      "language": "R"
+    },
+    {
+      "name": "dkge",
+      "repo": "https://github.com/bbuchsbaum/dkge",
+      "url": "https://bbuchsbaum.github.io/dkge/",
+      "language": "R"
+    },
+    {
+      "name": "referent",
+      "repo": "https://github.com/bbuchsbaum/referent",
+      "url": "https://bbuchsbaum.github.io/referent/",
+      "language": "R"
+    },
+    {
+      "name": "manifoldalign",
+      "repo": "https://github.com/bbuchsbaum/manifoldalign",
+      "url": "https://bbuchsbaum.github.io/manifoldalign/",
+      "language": "R"
+    },
+    {
+      "name": "neurocluster",
+      "repo": "https://github.com/bbuchsbaum/neurocluster",
+      "url": "https://bbuchsbaum.github.io/neurocluster/",
+      "language": "R"
+    },
+    {
+      "name": "fmrihrf",
+      "repo": "https://github.com/bbuchsbaum/fmrihrf",
+      "url": "https://bbuchsbaum.github.io/fmrihrf/",
+      "language": "R"
+    },
+    {
+      "name": "remoteslurm",
+      "repo": "https://github.com/bbuchsbaum/remoteslurm",
+      "language": "Python"
+    },
+    {
+      "name": "fmrimod",
+      "repo": "https://github.com/bbuchsbaum/fmrimod",
+      "language": "Python"
+    },
+    {
+      "name": "neuroarchive",
+      "repo": "https://github.com/bbuchsbaum/neuroarchive",
+      "language": "R"
+    },
+    {
+      "name": "fmrilatent",
+      "repo": "https://github.com/bbuchsbaum/fmrilatent",
+      "url": "https://bbuchsbaum.github.io/fmrilatent/",
+      "language": "R"
+    },
+    {
+      "name": "neuralign",
+      "repo": "https://github.com/bbuchsbaum/neuralign",
+      "language": "R"
+    },
+    {
+      "name": "neuroimjs",
+      "repo": "https://github.com/bbuchsbaum/neuroimjs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gprocrustes",
+      "repo": "https://github.com/bbuchsbaum/gprocrustes",
+      "language": "R"
+    },
+    {
+      "name": "eyesim",
+      "repo": "https://github.com/bbuchsbaum/eyesim",
+      "url": "https://bbuchsbaum.github.io/eyesim/",
+      "language": "R"
+    },
+    {
+      "name": "rriscripts",
+      "repo": "https://github.com/bbuchsbaum/rriscripts",
+      "language": "Python"
+    },
+    {
+      "name": "multidesign",
+      "repo": "https://github.com/bbuchsbaum/multidesign",
+      "language": "R"
+    },
+    {
+      "name": "wordfeatures",
+      "repo": "https://github.com/bbuchsbaum/wordfeatures",
+      "language": "R"
+    },
+    {
+      "name": "muscal",
+      "repo": "https://github.com/bbuchsbaum/muscal",
+      "url": "https://bbuchsbaum.github.io/muscal/",
+      "language": "R"
+    },
+    {
+      "name": "starlightdown",
+      "repo": "https://github.com/bbuchsbaum/starlightdown",
+      "language": "R"
+    },
+    {
+      "name": "neuroim-python",
+      "repo": "https://github.com/bbuchsbaum/neuroim-python",
+      "url": "https://bbuchsbaum.github.io/neuroim-python/",
+      "language": "Python"
+    },
+    {
+      "name": "fmrilss",
+      "repo": "https://github.com/bbuchsbaum/fmrilss",
+      "url": "https://bbuchsbaum.github.io/fmrilss/",
+      "language": "R"
+    },
+    {
+      "name": "fmristore",
+      "repo": "https://github.com/bbuchsbaum/fmristore",
+      "url": "https://bbuchsbaum.github.io/fmristore/",
+      "language": "R"
+    },
+    {
+      "name": "shard",
+      "repo": "https://github.com/bbuchsbaum/shard",
+      "url": "https://bbuchsbaum.github.io/shard/",
+      "language": "R"
+    },
+    {
+      "name": "delarr",
+      "repo": "https://github.com/bbuchsbaum/delarr",
+      "language": "R"
+    },
+    {
+      "name": "rpeek",
+      "repo": "https://github.com/bbuchsbaum/rpeek",
+      "language": "Rust"
+    },
+    {
+      "name": "fmrireg.gnef",
+      "repo": "https://github.com/bbuchsbaum/fmrireg.gnef",
+      "language": "R"
+    },
+    {
+      "name": "discursive",
+      "repo": "https://github.com/bbuchsbaum/discursive",
+      "language": "R"
+    },
+    {
+      "name": "unwikiwiki",
+      "repo": "https://github.com/bbuchsbaum/unwikiwiki"
+    },
+    {
+      "name": "bosc",
+      "repo": "https://github.com/bbuchsbaum/bosc",
+      "url": "https://bbuchsbaum.github.io/bosc/",
+      "language": "R"
+    },
+    {
+      "name": "amatrix",
+      "repo": "https://github.com/bbuchsbaum/amatrix",
+      "language": "R"
+    },
+    {
+      "name": "gale",
+      "repo": "https://github.com/bbuchsbaum/gale",
+      "language": "Scala"
+    },
+    {
+      "name": "bbuchsbaum.r-universe.dev",
+      "repo": "https://github.com/bbuchsbaum/bbuchsbaum.r-universe.dev"
+    },
+    {
+      "name": "albersdown",
+      "repo": "https://github.com/bbuchsbaum/albersdown",
+      "url": "https://bbuchsbaum.github.io/albersdown/",
+      "language": "CSS"
+    },
+    {
+      "name": "openneuroR",
+      "repo": "https://github.com/bbuchsbaum/openneuroR",
+      "url": "https://bbuchsbaum.github.io/openneuroR/",
+      "language": "R"
+    },
+    {
+      "name": "dipca",
+      "repo": "https://github.com/bbuchsbaum/dipca",
+      "language": "R"
+    },
+    {
+      "name": "slackcanvasr",
+      "repo": "https://github.com/bbuchsbaum/slackcanvasr",
+      "language": "R"
+    },
+    {
+      "name": "niflowr",
+      "repo": "https://github.com/bbuchsbaum/niflowr",
+      "url": "https://bbuchsbaum.github.io/niflowr/",
+      "language": "R"
+    },
+    {
+      "name": "neurotransform",
+      "repo": "https://github.com/bbuchsbaum/neurotransform",
+      "language": "R"
+    },
+    {
+      "name": "orthoviewer",
+      "repo": "https://github.com/bbuchsbaum/orthoviewer",
+      "language": "R"
+    },
+    {
+      "name": "xnatR",
+      "repo": "https://github.com/bbuchsbaum/xnatR",
+      "language": "R"
+    },
+    {
+      "name": "peyesim",
+      "repo": "https://github.com/bbuchsbaum/peyesim",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "fmrigpca",
+      "repo": "https://github.com/bbuchsbaum/fmrigpca",
+      "url": "https://bbuchsbaum.github.io/fmrigpca/",
+      "language": "R"
+    },
+    {
+      "name": "plsrri",
+      "repo": "https://github.com/bbuchsbaum/plsrri",
+      "url": "https://bbuchsbaum.github.io/plsrri/",
+      "language": "R"
+    },
+    {
+      "name": "neurothresh",
+      "repo": "https://github.com/bbuchsbaum/neurothresh",
+      "url": "https://bbuchsbaum.github.io/neurothresh/",
+      "language": "R"
+    },
+    {
+      "name": "multifer",
+      "repo": "https://github.com/bbuchsbaum/multifer",
+      "language": "R"
+    },
+    {
+      "name": "dcmtobids",
+      "repo": "https://github.com/bbuchsbaum/dcmtobids",
+      "language": "R"
+    },
+    {
+      "name": "fmridsl",
+      "repo": "https://github.com/bbuchsbaum/fmridsl",
+      "language": "R"
+    },
+    {
+      "name": "futurehelper",
+      "repo": "https://github.com/bbuchsbaum/futurehelper",
+      "language": "R"
+    },
+    {
+      "name": "memscore",
+      "repo": "https://github.com/bbuchsbaum/memscore",
+      "language": "Python"
+    },
+    {
+      "name": "eco-oracle",
+      "repo": "https://github.com/bbuchsbaum/eco-oracle",
+      "language": "JavaScript"
+    },
+    {
+      "name": "neurotabs",
+      "repo": "https://github.com/bbuchsbaum/neurotabs",
+      "language": "R"
+    },
+    {
+      "name": "neuroca",
+      "repo": "https://github.com/bbuchsbaum/neuroca",
+      "language": "R"
+    },
+    {
+      "name": "subpca",
+      "repo": "https://github.com/bbuchsbaum/subpca",
+      "url": "https://bbuchsbaum.github.io/subpca/",
+      "language": "R"
+    },
+    {
+      "name": "colorplane",
+      "repo": "https://github.com/bbuchsbaum/colorplane",
+      "language": "R"
+    },
+    {
+      "name": "ciftier",
+      "repo": "https://github.com/bbuchsbaum/ciftier",
+      "language": "R"
+    },
+    {
+      "name": "fmriparametry",
+      "repo": "https://github.com/bbuchsbaum/fmriparametry",
+      "language": "R"
+    },
+    {
+      "name": "hrfals",
+      "repo": "https://github.com/bbuchsbaum/hrfals",
+      "language": "R"
+    },
+    {
+      "name": "xnat-rs",
+      "repo": "https://github.com/bbuchsbaum/xnat-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "fmrireport",
+      "repo": "https://github.com/bbuchsbaum/fmrireport",
+      "url": "https://bbuchsbaum.github.io/fmrireport/",
+      "language": "R"
+    },
+    {
+      "name": "fmriarrow",
+      "repo": "https://github.com/bbuchsbaum/fmriarrow",
+      "language": "R"
+    },
+    {
+      "name": "phynd",
+      "repo": "https://github.com/bbuchsbaum/phynd",
+      "language": "R"
+    },
+    {
+      "name": "fmriprepper",
+      "repo": "https://github.com/bbuchsbaum/fmriprepper",
+      "language": "R"
+    },
+    {
+      "name": "actflower",
+      "repo": "https://github.com/bbuchsbaum/actflower",
+      "language": "R"
+    },
+    {
+      "name": "bidsappr",
+      "repo": "https://github.com/bbuchsbaum/bidsappr",
+      "language": "R"
+    },
+    {
+      "name": "neuroexplore",
+      "repo": "https://github.com/bbuchsbaum/neuroexplore",
+      "language": "R"
+    },
+    {
+      "name": "hatsa",
+      "repo": "https://github.com/bbuchsbaum/hatsa",
+      "url": "https://bbuchsbaum.github.io/hatsa/",
+      "language": "R"
+    },
+    {
+      "name": "hrfdecoder",
+      "repo": "https://github.com/bbuchsbaum/hrfdecoder",
+      "language": "HTML"
+    },
+    {
+      "name": "fmriproj",
+      "repo": "https://github.com/bbuchsbaum/fmriproj",
+      "language": "R"
+    },
+    {
+      "name": "multiPPI",
+      "repo": "https://github.com/bbuchsbaum/multiPPI",
+      "language": "R"
+    },
+    {
+      "name": "afnireg",
+      "repo": "https://github.com/bbuchsbaum/afnireg",
+      "language": "R"
+    },
+    {
+      "name": "fmrismooth",
+      "repo": "https://github.com/bbuchsbaum/fmrismooth",
+      "url": "https://bbuchsbaum.github.io/fmrismooth/",
+      "language": "R"
+    },
+    {
+      "name": "rcheatsheet",
+      "repo": "https://github.com/bbuchsbaum/rcheatsheet",
+      "language": "Python"
+    }
+  ]
 }

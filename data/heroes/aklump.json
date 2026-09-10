@@ -5,6 +5,513 @@
     "https://github.com/aklump"
   ],
   "bio": "I enjoy developing unusual and custom web apps. My primary languages are PHP, Javascript and BASH and I have a strong focus on Drupal and Symfony.",
+  "own_repos": 133,
   "commits": 12564,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "drupal-phpunit-integration",
+      "repo": "https://github.com/aklump/drupal-phpunit-integration",
+      "language": "PHP"
+    },
+    {
+      "name": "check-pages",
+      "repo": "https://github.com/aklump/check-pages",
+      "language": "PHP"
+    },
+    {
+      "name": "repo-peeker",
+      "repo": "https://github.com/aklump/repo-peeker",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_render_patterns",
+      "repo": "https://github.com/aklump/drupal_render_patterns",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_loft_core",
+      "repo": "https://github.com/aklump/drupal_loft_core",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_field_tag",
+      "repo": "https://github.com/aklump/drupal_field_tag",
+      "language": "PHP"
+    },
+    {
+      "name": "easy-perms",
+      "repo": "https://github.com/aklump/easy-perms",
+      "language": "PHP"
+    },
+    {
+      "name": "live_dev_porter",
+      "repo": "https://github.com/aklump/live_dev_porter",
+      "language": "Shell"
+    },
+    {
+      "name": "web_package",
+      "repo": "https://github.com/aklump/web_package",
+      "language": "PHP"
+    },
+    {
+      "name": "phpswap",
+      "repo": "https://github.com/aklump/phpswap",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_reroute_sms",
+      "repo": "https://github.com/aklump/drupal_reroute_sms",
+      "language": "PHP"
+    },
+    {
+      "name": "fixture-framework",
+      "repo": "https://github.com/aklump/fixture-framework",
+      "language": "PHP"
+    },
+    {
+      "name": "bem",
+      "repo": "https://github.com/aklump/bem",
+      "language": "PHP"
+    },
+    {
+      "name": "website_backup",
+      "repo": "https://github.com/aklump/website_backup",
+      "language": "PHP"
+    },
+    {
+      "name": "loft-lib",
+      "repo": "https://github.com/aklump/loft-lib",
+      "url": "https://aklump.github.io/loft-lib/",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_feature_switches",
+      "repo": "https://github.com/aklump/drupal_feature_switches",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_dom_testing_selectors",
+      "repo": "https://github.com/aklump/drupal_dom_testing_selectors",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_dev_sandbox",
+      "repo": "https://github.com/aklump/drupal_dev_sandbox",
+      "language": "PHP"
+    },
+    {
+      "name": "phone-number",
+      "repo": "https://github.com/aklump/phone-number",
+      "language": "PHP"
+    },
+    {
+      "name": "dompdf-fonts",
+      "repo": "https://github.com/aklump/dompdf-fonts",
+      "language": "PHP"
+    },
+    {
+      "name": "directio",
+      "repo": "https://github.com/aklump/directio",
+      "language": "PHP"
+    },
+    {
+      "name": "htaccess-manager",
+      "repo": "https://github.com/aklump/htaccess-manager",
+      "language": "PHP"
+    },
+    {
+      "name": "verify_age",
+      "repo": "https://github.com/aklump/verify_age",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_fapi_states_ready",
+      "repo": "https://github.com/aklump/drupal_fapi_states_ready",
+      "language": "CSS"
+    },
+    {
+      "name": "composer-repository-project",
+      "repo": "https://github.com/aklump/composer-repository-project",
+      "language": "Shell"
+    },
+    {
+      "name": "composer-repository-framework",
+      "repo": "https://github.com/aklump/composer-repository-framework",
+      "language": "PHP"
+    },
+    {
+      "name": "breakpointX",
+      "repo": "https://github.com/aklump/breakpointX",
+      "url": "https://aklump.github.io/breakpointX/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drupal_environment_indicator_loft",
+      "repo": "https://github.com/aklump/drupal_environment_indicator_loft",
+      "language": "JavaScript"
+    },
+    {
+      "name": "taskcamp_api",
+      "repo": "https://github.com/aklump/taskcamp_api",
+      "language": "HTML"
+    },
+    {
+      "name": "chaud",
+      "repo": "https://github.com/aklump/chaud",
+      "language": "PHP"
+    },
+    {
+      "name": "json-schema-merge",
+      "repo": "https://github.com/aklump/json-schema-merge",
+      "language": "PHP"
+    },
+    {
+      "name": "json-schema-loading",
+      "repo": "https://github.com/aklump/json-schema-loading",
+      "language": "PHP"
+    },
+    {
+      "name": "json-schema-validation",
+      "repo": "https://github.com/aklump/json-schema-validation",
+      "language": "PHP"
+    },
+    {
+      "name": "local_timezone",
+      "repo": "https://github.com/aklump/local_timezone",
+      "language": "PHP"
+    },
+    {
+      "name": "gitignore",
+      "repo": "https://github.com/aklump/gitignore",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_alter_partials",
+      "repo": "https://github.com/aklump/drupal_alter_partials",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_web_package",
+      "repo": "https://github.com/aklump/drupal_web_package",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_above_the_fold",
+      "repo": "https://github.com/aklump/drupal_above_the_fold",
+      "language": "PHP"
+    },
+    {
+      "name": "dom-testing-selectors",
+      "repo": "https://github.com/aklump/dom-testing-selectors",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_ez_multipart_mail",
+      "repo": "https://github.com/aklump/drupal_ez_multipart_mail",
+      "language": "PHP"
+    },
+    {
+      "name": "loft-core-cypress-selector",
+      "repo": "https://github.com/aklump/loft-core-cypress-selector",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_loft_dev",
+      "repo": "https://github.com/aklump/drupal_loft_dev",
+      "language": "PHP"
+    },
+    {
+      "name": "loft_docs",
+      "repo": "https://github.com/aklump/loft_docs",
+      "language": "PHP"
+    },
+    {
+      "name": "website-perms",
+      "repo": "https://github.com/aklump/website-perms",
+      "language": "Shell"
+    },
+    {
+      "name": "loft_images",
+      "repo": "https://github.com/aklump/loft_images",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drupal_twiggy",
+      "repo": "https://github.com/aklump/drupal_twiggy",
+      "language": "PHP"
+    },
+    {
+      "name": "glob",
+      "repo": "https://github.com/aklump/glob",
+      "language": "PHP"
+    },
+    {
+      "name": "loft_data_grids",
+      "repo": "https://github.com/aklump/loft_data_grids",
+      "language": "PHP"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/aklump/resume",
+      "language": "SCSS"
+    },
+    {
+      "name": "cloudy",
+      "repo": "https://github.com/aklump/cloudy",
+      "language": "PHP"
+    },
+    {
+      "name": "cloudy-tools",
+      "repo": "https://github.com/aklump/cloudy-tools",
+      "url": "https://aklump.github.io/cloudy/README.html",
+      "language": "Shell"
+    },
+    {
+      "name": "tm_ignore",
+      "repo": "https://github.com/aklump/tm_ignore",
+      "language": "Shell"
+    },
+    {
+      "name": "build-url",
+      "repo": "https://github.com/aklump/build-url",
+      "language": "PHP"
+    },
+    {
+      "name": "website-htaccess",
+      "repo": "https://github.com/aklump/website-htaccess",
+      "language": "Shell"
+    },
+    {
+      "name": "drupal_better_pw_reset",
+      "repo": "https://github.com/aklump/drupal_better_pw_reset",
+      "language": "PHP"
+    },
+    {
+      "name": "documentation",
+      "repo": "https://github.com/aklump/documentation",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_batch_framework",
+      "repo": "https://github.com/aklump/drupal_batch_framework",
+      "language": "PHP"
+    },
+    {
+      "name": "version_compare",
+      "repo": "https://github.com/aklump/version_compare",
+      "language": "Shell"
+    },
+    {
+      "name": "default-value",
+      "repo": "https://github.com/aklump/default-value",
+      "language": "PHP"
+    },
+    {
+      "name": "token-engine",
+      "repo": "https://github.com/aklump/token-engine",
+      "language": "PHP"
+    },
+    {
+      "name": "annotated-response",
+      "repo": "https://github.com/aklump/annotated-response",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_entity_field_form_require",
+      "repo": "https://github.com/aklump/drupal_entity_field_form_require",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_hide_pub_revs",
+      "repo": "https://github.com/aklump/drupal_hide_pub_revs"
+    },
+    {
+      "name": "drupal_runts_filter",
+      "repo": "https://github.com/aklump/drupal_runts_filter",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_loft_deploy",
+      "repo": "https://github.com/aklump/drupal_loft_deploy",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_dotenv",
+      "repo": "https://github.com/aklump/drupal_dotenv",
+      "language": "PHP"
+    },
+    {
+      "name": "data",
+      "repo": "https://github.com/aklump/data",
+      "language": "PHP"
+    },
+    {
+      "name": "css_list",
+      "repo": "https://github.com/aklump/css_list",
+      "language": "PHP"
+    },
+    {
+      "name": "link_checker",
+      "repo": "https://github.com/aklump/link_checker",
+      "language": "Shell"
+    },
+    {
+      "name": "collection_json",
+      "repo": "https://github.com/aklump/collection_json",
+      "language": "PHP"
+    },
+    {
+      "name": "website-install",
+      "repo": "https://github.com/aklump/website-install",
+      "url": "https://aklump.github.io/website-install",
+      "language": "Shell"
+    },
+    {
+      "name": "flashcards",
+      "repo": "https://github.com/aklump/flashcards"
+    },
+    {
+      "name": "loft_deploy",
+      "repo": "https://github.com/aklump/loft_deploy",
+      "language": "Shell"
+    },
+    {
+      "name": "drupal_loft_wysiwyg",
+      "repo": "https://github.com/aklump/drupal_loft_wysiwyg"
+    },
+    {
+      "name": "jquery.slim_time",
+      "repo": "https://github.com/aklump/jquery.slim_time",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drupal_usage_cron",
+      "repo": "https://github.com/aklump/drupal_usage_cron",
+      "language": "PHP"
+    },
+    {
+      "name": "visual_sitemap",
+      "repo": "https://github.com/aklump/visual_sitemap",
+      "url": "https://aklump.github.io/visual_sitemap/",
+      "language": "PHP"
+    },
+    {
+      "name": "loft_calendar",
+      "repo": "https://github.com/aklump/loft_calendar",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_service_uptime",
+      "repo": "https://github.com/aklump/drupal_service_uptime",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_file_replace_modal",
+      "repo": "https://github.com/aklump/drupal_file_replace_modal",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_contact_conditional_recipients",
+      "repo": "https://github.com/aklump/drupal_contact_conditional_recipients",
+      "language": "PHP"
+    },
+    {
+      "name": "mailhog-mailer",
+      "repo": "https://github.com/aklump/mailhog-mailer",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal-test",
+      "repo": "https://github.com/aklump/drupal-test",
+      "url": "https://aklump.github.io/drupal-test",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_image_field_add_svg",
+      "repo": "https://github.com/aklump/drupal_image_field_add_svg",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_loft_gtm",
+      "repo": "https://github.com/aklump/drupal_loft_gtm",
+      "language": "PHP"
+    },
+    {
+      "name": "website_benchmark",
+      "repo": "https://github.com/aklump/website_benchmark",
+      "language": "Shell"
+    },
+    {
+      "name": "post_commit",
+      "repo": "https://github.com/aklump/post_commit",
+      "language": "PHP"
+    },
+    {
+      "name": "phpunit-extras",
+      "repo": "https://github.com/aklump/phpunit-extras",
+      "url": "https://aklump.github.io/phpunit-extras/",
+      "language": "PHP"
+    },
+    {
+      "name": "slim-response-cache",
+      "repo": "https://github.com/aklump/slim-response-cache",
+      "language": "PHP"
+    },
+    {
+      "name": "jquery.scroll_to",
+      "repo": "https://github.com/aklump/jquery.scroll_to",
+      "language": "PHP"
+    },
+    {
+      "name": "jquery.loft_labels",
+      "repo": "https://github.com/aklump/jquery.loft_labels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "aspect-ratio",
+      "repo": "https://github.com/aklump/aspect-ratio",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_loft_lib",
+      "repo": "https://github.com/aklump/drupal_loft_lib",
+      "language": "PHP"
+    },
+    {
+      "name": "lobster",
+      "repo": "https://github.com/aklump/lobster",
+      "language": "Shell"
+    },
+    {
+      "name": "drupal_inline_form_errors",
+      "repo": "https://github.com/aklump/drupal_inline_form_errors",
+      "language": "PHP"
+    },
+    {
+      "name": "drupal_loft_social",
+      "repo": "https://github.com/aklump/drupal_loft_social",
+      "language": "PHP"
+    },
+    {
+      "name": "git_ready",
+      "repo": "https://github.com/aklump/git_ready",
+      "language": "Shell"
+    },
+    {
+      "name": "jquery.wait_for",
+      "repo": "https://github.com/aklump/jquery.wait_for",
+      "language": "PHP"
+    },
+    {
+      "name": "loft_toggler",
+      "repo": "https://github.com/aklump/loft_toggler",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jquery.bbq_array",
+      "repo": "https://github.com/aklump/jquery.bbq_array",
+      "language": "PHP"
+    }
+  ]
 }
