@@ -2,9 +2,14 @@
 // file; nothing here has to be told about it.
 const files = import.meta.glob("../../data/heroes/*.json", { eager: true, import: "default" });
 
-// The fullest list first; the same count, alphabetically. An entry the scan
-// has not reached carries no repositories yet, and sorts as none.
-const carried = (lead) => (Array.isArray(lead.repos) ? lead.repos.length : 0);
+// The most repositories first; the same count, alphabetically. It is
+// own_repos that says how many, which is what the scan counted rather than
+// what it listed: repos holds a hundred at most — hero.js lists no more than
+// that — so nearly every entry carries exactly a hundred of them, and reading
+// the order off the list put all but one of them level and left the wall in
+// alphabetical order alone. An entry the scan has not reached carries no
+// count yet, and sorts as none.
+const carried = (lead) => (typeof lead.own_repos === "number" ? lead.own_repos : 0);
 const LEADS = Object.values(files).sort(
   (a, b) => carried(b) - carried(a) || a.name.localeCompare(b.name),
 );

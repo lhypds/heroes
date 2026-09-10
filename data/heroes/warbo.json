@@ -1,0 +1,511 @@
+{
+  "handle": "warbo",
+  "name": "warbo",
+  "github": [
+    "https://github.com/warbo"
+  ],
+  "own_repos": 103,
+  "commits": 18625,
+  "apps": [],
+  "repos": [
+    {
+      "name": "warbo-packages",
+      "repo": "https://github.com/Warbo/warbo-packages",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-config",
+      "repo": "https://github.com/Warbo/nix-config",
+      "language": "Nix"
+    },
+    {
+      "name": "pi-extensions",
+      "repo": "https://github.com/Warbo/pi-extensions",
+      "language": "TypeScript"
+    },
+    {
+      "name": "warbo-emacs-d",
+      "repo": "https://github.com/Warbo/warbo-emacs-d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "nix-helpers",
+      "repo": "https://github.com/Warbo/nix-helpers",
+      "language": "Nix"
+    },
+    {
+      "name": "warbo-utilities",
+      "repo": "https://github.com/Warbo/warbo-utilities",
+      "language": "Shell"
+    },
+    {
+      "name": "git-on-ipfs",
+      "repo": "https://github.com/Warbo/git-on-ipfs",
+      "language": "Shell"
+    },
+    {
+      "name": "chriswarbo-net",
+      "repo": "https://github.com/Warbo/chriswarbo-net",
+      "language": "JavaScript"
+    },
+    {
+      "name": "warbo-dotfiles",
+      "repo": "https://github.com/Warbo/warbo-dotfiles",
+      "language": "JavaScript"
+    },
+    {
+      "name": "music-scripts",
+      "repo": "https://github.com/Warbo/music-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "json-to-msgpack",
+      "repo": "https://github.com/Warbo/json-to-msgpack",
+      "language": "Haskell"
+    },
+    {
+      "name": "php-prelude",
+      "repo": "https://github.com/Warbo/php-prelude",
+      "language": "PHP"
+    },
+    {
+      "name": "panhandle",
+      "repo": "https://github.com/Warbo/panhandle",
+      "language": "Haskell"
+    },
+    {
+      "name": "panpipe",
+      "repo": "https://github.com/Warbo/panpipe",
+      "language": "Haskell"
+    },
+    {
+      "name": "gnucleon",
+      "repo": "https://github.com/Warbo/gnucleon",
+      "language": "Python"
+    },
+    {
+      "name": "asv-nix",
+      "repo": "https://github.com/Warbo/asv-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "warbo.github.io",
+      "repo": "https://github.com/Warbo/warbo.github.io",
+      "language": "CSS"
+    },
+    {
+      "name": "y-monad",
+      "repo": "https://github.com/Warbo/y-monad",
+      "language": "Haskell"
+    },
+    {
+      "name": "writing",
+      "repo": "https://github.com/Warbo/writing",
+      "language": "TeX"
+    },
+    {
+      "name": "lazy-lambda-calculus",
+      "repo": "https://github.com/Warbo/lazy-lambda-calculus",
+      "language": "Haskell"
+    },
+    {
+      "name": "bucketing-algorithms",
+      "repo": "https://github.com/Warbo/bucketing-algorithms",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-te",
+      "repo": "https://github.com/Warbo/haskell-te",
+      "language": "Nix"
+    },
+    {
+      "name": "laminar-config",
+      "repo": "https://github.com/Warbo/laminar-config",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-eval",
+      "repo": "https://github.com/Warbo/nix-eval",
+      "language": "Haskell"
+    },
+    {
+      "name": "benchmark-runner",
+      "repo": "https://github.com/Warbo/benchmark-runner",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-lint",
+      "repo": "https://github.com/Warbo/nix-lint",
+      "language": "Haskell"
+    },
+    {
+      "name": "general-tests",
+      "repo": "https://github.com/Warbo/general-tests",
+      "language": "Nix"
+    },
+    {
+      "name": "reduce-equations",
+      "repo": "https://github.com/Warbo/reduce-equations",
+      "language": "Haskell"
+    },
+    {
+      "name": "ml4pg",
+      "repo": "https://github.com/Warbo/ml4pg",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "runtime-arbitrary-tests",
+      "repo": "https://github.com/Warbo/runtime-arbitrary-tests",
+      "language": "Haskell"
+    },
+    {
+      "name": "ast-plugin",
+      "repo": "https://github.com/Warbo/ast-plugin",
+      "language": "Nix"
+    },
+    {
+      "name": "type-parser",
+      "repo": "https://github.com/Warbo/type-parser",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs2ast",
+      "repo": "https://github.com/Warbo/hs2ast",
+      "language": "Haskell"
+    },
+    {
+      "name": "git2html",
+      "repo": "https://github.com/Warbo/git2html",
+      "language": "Shell"
+    },
+    {
+      "name": "tree-features",
+      "repo": "https://github.com/Warbo/tree-features",
+      "language": "Haskell"
+    },
+    {
+      "name": "arbitrary-haskell",
+      "repo": "https://github.com/Warbo/arbitrary-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "ml4hsfe",
+      "repo": "https://github.com/Warbo/ml4hsfe",
+      "language": "Haskell"
+    },
+    {
+      "name": "mlspec-helper",
+      "repo": "https://github.com/Warbo/mlspec-helper",
+      "language": "Haskell"
+    },
+    {
+      "name": "theory-exploration-benchmarks",
+      "repo": "https://github.com/Warbo/theory-exploration-benchmarks",
+      "language": "Racket"
+    },
+    {
+      "name": "html-inliner",
+      "repo": "https://github.com/Warbo/html-inliner",
+      "language": "Python"
+    },
+    {
+      "name": "ghc-base-asts",
+      "repo": "https://github.com/Warbo/ghc-base-asts",
+      "language": "Nix"
+    },
+    {
+      "name": "desktop-scripts",
+      "repo": "https://github.com/Warbo/desktop-scripts",
+      "language": "Nix"
+    },
+    {
+      "name": "isaplanner-tip",
+      "repo": "https://github.com/Warbo/isaplanner-tip",
+      "language": "Nix"
+    },
+    {
+      "name": "mlspec",
+      "repo": "https://github.com/Warbo/mlspec",
+      "language": "Roff"
+    },
+    {
+      "name": "ghc-dup",
+      "repo": "https://github.com/Warbo/ghc-dup",
+      "language": "TeX"
+    },
+    {
+      "name": "turtleviewer",
+      "repo": "https://github.com/Warbo/turtleviewer",
+      "language": "Python"
+    },
+    {
+      "name": "runtime-arbitrary",
+      "repo": "https://github.com/Warbo/runtime-arbitrary",
+      "language": "Haskell"
+    },
+    {
+      "name": "run-weka",
+      "repo": "https://github.com/Warbo/run-weka",
+      "language": "Shell"
+    },
+    {
+      "name": "python-visualiser",
+      "repo": "https://github.com/Warbo/python-visualiser",
+      "language": "Python"
+    },
+    {
+      "name": "sample-bench",
+      "repo": "https://github.com/Warbo/sample-bench",
+      "language": "Nix"
+    },
+    {
+      "name": "hs2ast-tests",
+      "repo": "https://github.com/Warbo/hs2ast-tests",
+      "language": "Haskell"
+    },
+    {
+      "name": "aai-2016-17",
+      "repo": "https://github.com/Warbo/aai-2016-17",
+      "language": "C"
+    },
+    {
+      "name": "md2pdf",
+      "repo": "https://github.com/Warbo/md2pdf",
+      "language": "Shell"
+    },
+    {
+      "name": "explore-theories",
+      "repo": "https://github.com/Warbo/explore-theories",
+      "language": "Groff"
+    },
+    {
+      "name": "mlspec-bench",
+      "repo": "https://github.com/Warbo/mlspec-bench",
+      "language": "Groff"
+    },
+    {
+      "name": "purely-functional-self-modifying-code",
+      "repo": "https://github.com/Warbo/purely-functional-self-modifying-code",
+      "language": "Haskell"
+    },
+    {
+      "name": "ml4hs",
+      "repo": "https://github.com/Warbo/ml4hs",
+      "language": "Shell"
+    },
+    {
+      "name": "recurrent-clustering",
+      "repo": "https://github.com/Warbo/recurrent-clustering",
+      "language": "Shell"
+    },
+    {
+      "name": "annotatedb",
+      "repo": "https://github.com/Warbo/annotatedb",
+      "language": "Shell"
+    },
+    {
+      "name": "cabal2db",
+      "repo": "https://github.com/Warbo/cabal2db",
+      "language": "Nix"
+    },
+    {
+      "name": "python-random-walks",
+      "repo": "https://github.com/Warbo/python-random-walks",
+      "language": "Python"
+    },
+    {
+      "name": "python-graphics-tests",
+      "repo": "https://github.com/Warbo/python-graphics-tests",
+      "language": "Python"
+    },
+    {
+      "name": "python-examples",
+      "repo": "https://github.com/Warbo/python-examples",
+      "language": "Python"
+    },
+    {
+      "name": "python-app-prefs",
+      "repo": "https://github.com/Warbo/python-app-prefs",
+      "language": "Python"
+    },
+    {
+      "name": "java-package-installer",
+      "repo": "https://github.com/Warbo/java-package-installer",
+      "language": "Java"
+    },
+    {
+      "name": "java-maxint",
+      "repo": "https://github.com/Warbo/java-maxint",
+      "language": "Java"
+    },
+    {
+      "name": "java-gnucleon",
+      "repo": "https://github.com/Warbo/java-gnucleon",
+      "language": "Java"
+    },
+    {
+      "name": "gravity-spiral",
+      "repo": "https://github.com/Warbo/gravity-spiral",
+      "language": "Python"
+    },
+    {
+      "name": "python-decompiler",
+      "repo": "https://github.com/Warbo/python-decompiler",
+      "language": "Python"
+    },
+    {
+      "name": "search-optimisation-streams",
+      "repo": "https://github.com/Warbo/search-optimisation-streams",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pubsubclient",
+      "repo": "https://github.com/Warbo/pubsubclient",
+      "language": "Python"
+    },
+    {
+      "name": "Python-Pipes-Simulation",
+      "repo": "https://github.com/Warbo/Python-Pipes-Simulation",
+      "language": "Python"
+    },
+    {
+      "name": "Python-Clutter-Experiments",
+      "repo": "https://github.com/Warbo/Python-Clutter-Experiments",
+      "language": "Python"
+    },
+    {
+      "name": "clutter-file-browser",
+      "repo": "https://github.com/Warbo/clutter-file-browser",
+      "language": "Python"
+    },
+    {
+      "name": "php-plumb",
+      "repo": "https://github.com/Warbo/php-plumb",
+      "language": "PHP"
+    },
+    {
+      "name": "bitbitjump-maude",
+      "repo": "https://github.com/Warbo/bitbitjump-maude"
+    },
+    {
+      "name": "quickspec-measure",
+      "repo": "https://github.com/Warbo/quickspec-measure",
+      "language": "Haskell"
+    },
+    {
+      "name": "k-means",
+      "repo": "https://github.com/Warbo/k-means",
+      "language": "Haskell"
+    },
+    {
+      "name": "genetic-turing-machines",
+      "repo": "https://github.com/Warbo/genetic-turing-machines",
+      "language": "C"
+    },
+    {
+      "name": "gpu-simulations",
+      "repo": "https://github.com/Warbo/gpu-simulations",
+      "language": "C"
+    },
+    {
+      "name": "iron",
+      "repo": "https://github.com/Warbo/iron",
+      "language": "Coq"
+    },
+    {
+      "name": "apt-repo-tools",
+      "repo": "https://github.com/Warbo/apt-repo-tools",
+      "language": "Python"
+    },
+    {
+      "name": "ocportal-salmon",
+      "repo": "https://github.com/Warbo/ocportal-salmon",
+      "language": "PHP"
+    },
+    {
+      "name": "java-spider",
+      "repo": "https://github.com/Warbo/java-spider",
+      "language": "Java"
+    },
+    {
+      "name": "javascript-base64",
+      "repo": "https://github.com/Warbo/javascript-base64",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dependent-types-talk",
+      "repo": "https://github.com/Warbo/dependent-types-talk",
+      "language": "Idris"
+    },
+    {
+      "name": "mc-aixi-ctw",
+      "repo": "https://github.com/Warbo/mc-aixi-ctw",
+      "language": "C++"
+    },
+    {
+      "name": "php-easycheck",
+      "repo": "https://github.com/Warbo/php-easycheck",
+      "language": "PHP"
+    },
+    {
+      "name": "python-plumb",
+      "repo": "https://github.com/Warbo/python-plumb",
+      "language": "Python"
+    },
+    {
+      "name": "particle-storage-ring-simulation",
+      "repo": "https://github.com/Warbo/particle-storage-ring-simulation",
+      "language": "Python"
+    },
+    {
+      "name": "iddish",
+      "repo": "https://github.com/Warbo/iddish",
+      "language": "Python"
+    },
+    {
+      "name": "Gnucleon-Clutter",
+      "repo": "https://github.com/Warbo/Gnucleon-Clutter",
+      "language": "Python"
+    },
+    {
+      "name": "chrome-duplicate-tab-detector",
+      "repo": "https://github.com/Warbo/chrome-duplicate-tab-detector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wtk",
+      "repo": "https://github.com/Warbo/wtk",
+      "language": "Python"
+    },
+    {
+      "name": "bugseverywhere",
+      "repo": "https://github.com/Warbo/bugseverywhere",
+      "language": "Python"
+    },
+    {
+      "name": "arduino-json-client",
+      "repo": "https://github.com/Warbo/arduino-json-client",
+      "language": "Processing"
+    },
+    {
+      "name": "ml4hs-helper",
+      "repo": "https://github.com/Warbo/ml4hs-helper",
+      "language": "Haskell"
+    },
+    {
+      "name": "php-core",
+      "repo": "https://github.com/Warbo/php-core",
+      "language": "PHP"
+    },
+    {
+      "name": "powerplay",
+      "repo": "https://github.com/Warbo/powerplay",
+      "language": "Coq"
+    },
+    {
+      "name": "js-plumb",
+      "repo": "https://github.com/Warbo/js-plumb",
+      "language": "JavaScript"
+    }
+  ]
+}

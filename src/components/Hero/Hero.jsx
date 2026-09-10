@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import Hundred from "../Hundred";
 import { HUNDRED } from "../../constants";
-import { pick, host, accounts, account } from "@utils/leads";
+import { pick, host, accounts, account } from "@utils/heroes";
 import styles from "./hero.module.css";
 
 // One person on the list: who they are and how far along the hundred they

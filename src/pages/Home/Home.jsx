@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { LanguageSwitcher, ThemeSwitcher, Wall, Json, Check, Boundary } from "@components";
-import { LEADS } from "@utils/leads";
+import { LEADS } from "@utils/heroes";
 import { REPO, GUIDE, HOME } from "../../constants";
 import { EXAMPLE, PROMPT } from "../../prompt";
 import buttons from "../../button.module.css";
