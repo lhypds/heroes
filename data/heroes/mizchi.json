@@ -1,0 +1,514 @@
+{
+  "handle": "mizchi",
+  "name": "Kotaro Chikuba",
+  "github": [
+    "https://github.com/mizchi"
+  ],
+  "website": "https://mizchi.dev/",
+  "own_repos": 496,
+  "commits": 16952,
+  "apps": [],
+  "repos": [
+    {
+      "name": "vibe-lang",
+      "repo": "https://github.com/mizchi/vibe-lang",
+      "language": "Shell"
+    },
+    {
+      "name": "crater",
+      "repo": "https://github.com/mizchi/crater",
+      "language": "MoonBit"
+    },
+    {
+      "name": "luna.mbt",
+      "repo": "https://github.com/mizchi/luna.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "ts.mbt",
+      "repo": "https://github.com/mizchi/ts.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "modeling-playground",
+      "repo": "https://github.com/mizchi/modeling-playground",
+      "url": "https://mizchi.github.io/modeling-playground/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kagura",
+      "repo": "https://github.com/mizchi/kagura",
+      "language": "MoonBit"
+    },
+    {
+      "name": "prdt",
+      "repo": "https://github.com/mizchi/prdt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "sample-webapp-2026",
+      "repo": "https://github.com/mizchi/sample-webapp-2026",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vlmkit",
+      "repo": "https://github.com/mizchi/vlmkit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "v8.mbt",
+      "repo": "https://github.com/mizchi/v8.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "chaosbringer",
+      "repo": "https://github.com/mizchi/chaosbringer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "uneffect",
+      "repo": "https://github.com/mizchi/uneffect",
+      "url": "https://www.npmjs.com/package/@mizchi/uneffect",
+      "language": "TypeScript"
+    },
+    {
+      "name": "converge_audit",
+      "repo": "https://github.com/mizchi/converge_audit",
+      "language": "MoonBit"
+    },
+    {
+      "name": "three-mbt",
+      "repo": "https://github.com/mizchi/three-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "jsimd",
+      "repo": "https://github.com/mizchi/jsimd",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mizchi",
+      "repo": "https://github.com/mizchi/mizchi"
+    },
+    {
+      "name": "pkl-mbt",
+      "repo": "https://github.com/mizchi/pkl-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "pixel-lab",
+      "repo": "https://github.com/mizchi/pixel-lab",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sprawlens",
+      "repo": "https://github.com/mizchi/sprawlens",
+      "language": "Lean"
+    },
+    {
+      "name": "pkfire",
+      "repo": "https://github.com/mizchi/pkfire",
+      "language": "MoonBit"
+    },
+    {
+      "name": "markdown.mbt",
+      "repo": "https://github.com/mizchi/markdown.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "x",
+      "repo": "https://github.com/mizchi/x",
+      "language": "MoonBit"
+    },
+    {
+      "name": "formal-methods-playground",
+      "repo": "https://github.com/mizchi/formal-methods-playground",
+      "language": "Dafny"
+    },
+    {
+      "name": "nn",
+      "repo": "https://github.com/mizchi/nn",
+      "language": "MoonBit"
+    },
+    {
+      "name": "cst.mbt",
+      "repo": "https://github.com/mizchi/cst.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "similarity.mbt",
+      "repo": "https://github.com/mizchi/similarity.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "process_pool.mbt",
+      "repo": "https://github.com/mizchi/process_pool.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "sqlc_gen_moonbit",
+      "repo": "https://github.com/mizchi/sqlc_gen_moonbit",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-gardening",
+      "repo": "https://github.com/mizchi/moonbit-gardening",
+      "language": "JavaScript"
+    },
+    {
+      "name": "canvas-mbt",
+      "repo": "https://github.com/mizchi/canvas-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "js.mbt",
+      "repo": "https://github.com/mizchi/js.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "admiral",
+      "repo": "https://github.com/mizchi/admiral",
+      "language": "MoonBit"
+    },
+    {
+      "name": "llm",
+      "repo": "https://github.com/mizchi/llm",
+      "language": "MoonBit"
+    },
+    {
+      "name": "glfw-mbt",
+      "repo": "https://github.com/mizchi/glfw-mbt",
+      "language": "C"
+    },
+    {
+      "name": "font",
+      "repo": "https://github.com/mizchi/font",
+      "language": "MoonBit"
+    },
+    {
+      "name": "svg",
+      "repo": "https://github.com/mizchi/svg",
+      "language": "MoonBit"
+    },
+    {
+      "name": "cloudflare.mbt",
+      "repo": "https://github.com/mizchi/cloudflare.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moon-component",
+      "repo": "https://github.com/mizchi/moon-component",
+      "language": "WebAssembly"
+    },
+    {
+      "name": "wit.mbt",
+      "repo": "https://github.com/mizchi/wit.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "brotli",
+      "repo": "https://github.com/mizchi/brotli",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit_jsonschema",
+      "repo": "https://github.com/mizchi/moonbit_jsonschema",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonix",
+      "repo": "https://github.com/mizchi/moonix",
+      "language": "MoonBit"
+    },
+    {
+      "name": "wite",
+      "repo": "https://github.com/mizchi/wite",
+      "language": "MoonBit"
+    },
+    {
+      "name": "lsp.mbt",
+      "repo": "https://github.com/mizchi/lsp.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "syntree.mbt",
+      "repo": "https://github.com/mizchi/syntree.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "numbt",
+      "repo": "https://github.com/mizchi/numbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "blas",
+      "repo": "https://github.com/mizchi/blas",
+      "language": "MoonBit"
+    },
+    {
+      "name": "semver.mbt",
+      "repo": "https://github.com/mizchi/semver.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "layout",
+      "repo": "https://github.com/mizchi/layout",
+      "language": "MoonBit"
+    },
+    {
+      "name": "vfs",
+      "repo": "https://github.com/mizchi/vfs",
+      "language": "MoonBit"
+    },
+    {
+      "name": "image-mbt",
+      "repo": "https://github.com/mizchi/image-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "zlib.mbt",
+      "repo": "https://github.com/mizchi/zlib.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "dspec",
+      "repo": "https://github.com/mizchi/dspec",
+      "language": "JavaScript"
+    },
+    {
+      "name": "meandb",
+      "repo": "https://github.com/mizchi/meandb",
+      "language": "Rust"
+    },
+    {
+      "name": "quint-connect-moonbit",
+      "repo": "https://github.com/mizchi/quint-connect-moonbit",
+      "language": "MoonBit"
+    },
+    {
+      "name": "converge",
+      "repo": "https://github.com/mizchi/converge",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moomaid",
+      "repo": "https://github.com/mizchi/moomaid",
+      "language": "MoonBit"
+    },
+    {
+      "name": "rkyv-mbt",
+      "repo": "https://github.com/mizchi/rkyv-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "effectts-vs-moonbit",
+      "repo": "https://github.com/mizchi/effectts-vs-moonbit",
+      "language": "AMPL"
+    },
+    {
+      "name": "vite-plugin-moonbit",
+      "repo": "https://github.com/mizchi/vite-plugin-moonbit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "folddown",
+      "repo": "https://github.com/mizchi/folddown",
+      "language": "MoonBit"
+    },
+    {
+      "name": "mayo",
+      "repo": "https://github.com/mizchi/mayo",
+      "language": "MoonBit"
+    },
+    {
+      "name": "webnn-mbt",
+      "repo": "https://github.com/mizchi/webnn-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "simd",
+      "repo": "https://github.com/mizchi/simd",
+      "language": "MoonBit"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/mizchi/skills",
+      "language": "TypeScript"
+    },
+    {
+      "name": "npm_typed.mbt",
+      "repo": "https://github.com/mizchi/npm_typed.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "hermes-reports",
+      "repo": "https://github.com/mizchi/hermes-reports",
+      "language": "HTML"
+    },
+    {
+      "name": "helix-wasm",
+      "repo": "https://github.com/mizchi/helix-wasm",
+      "language": "Rust"
+    },
+    {
+      "name": "pixelmatch",
+      "repo": "https://github.com/mizchi/pixelmatch",
+      "language": "MoonBit"
+    },
+    {
+      "name": "mars.mbt",
+      "repo": "https://github.com/mizchi/mars.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "css",
+      "repo": "https://github.com/mizchi/css",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moon-pprof",
+      "repo": "https://github.com/mizchi/moon-pprof",
+      "language": "Rust"
+    },
+    {
+      "name": "project-template",
+      "repo": "https://github.com/mizchi/project-template",
+      "language": "Shell"
+    },
+    {
+      "name": "playwright-playground",
+      "repo": "https://github.com/mizchi/playwright-playground",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pkspec",
+      "repo": "https://github.com/mizchi/pkspec",
+      "language": "Pkl"
+    },
+    {
+      "name": "chezmoi-dotfiles",
+      "repo": "https://github.com/mizchi/chezmoi-dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "lightbringer",
+      "repo": "https://github.com/mizchi/lightbringer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tui.mbt",
+      "repo": "https://github.com/mizchi/tui.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "differentiable_ecs",
+      "repo": "https://github.com/mizchi/differentiable_ecs",
+      "language": "MoonBit"
+    },
+    {
+      "name": "experimental_crypto",
+      "repo": "https://github.com/mizchi/experimental_crypto",
+      "language": "MoonBit"
+    },
+    {
+      "name": "ripple",
+      "repo": "https://github.com/mizchi/ripple",
+      "language": "MoonBit"
+    },
+    {
+      "name": "ts-fuzzing",
+      "repo": "https://github.com/mizchi/ts-fuzzing",
+      "language": "TypeScript"
+    },
+    {
+      "name": "actrun",
+      "repo": "https://github.com/mizchi/actrun",
+      "language": "MoonBit"
+    },
+    {
+      "name": "gfx-mbt",
+      "repo": "https://github.com/mizchi/gfx-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "cloudflare-starterkit-mbt",
+      "repo": "https://github.com/mizchi/cloudflare-starterkit-mbt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "k1c",
+      "repo": "https://github.com/mizchi/k1c",
+      "language": "TypeScript"
+    },
+    {
+      "name": "webdriver.mbt",
+      "repo": "https://github.com/mizchi/webdriver.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "moonbit-template",
+      "repo": "https://github.com/mizchi/moonbit-template",
+      "language": "MoonBit"
+    },
+    {
+      "name": "flaker",
+      "repo": "https://github.com/mizchi/flaker",
+      "language": "MoonBit"
+    },
+    {
+      "name": "sol.mbt",
+      "repo": "https://github.com/mizchi/sol.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "ast_printer.mbt",
+      "repo": "https://github.com/mizchi/ast_printer.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "sandbox.mbt",
+      "repo": "https://github.com/mizchi/sandbox.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "jq",
+      "repo": "https://github.com/mizchi/jq",
+      "language": "MoonBit"
+    },
+    {
+      "name": "nom.mbt",
+      "repo": "https://github.com/mizchi/nom.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "dicord.mbt",
+      "repo": "https://github.com/mizchi/dicord.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "wacon",
+      "repo": "https://github.com/mizchi/wacon",
+      "language": "MoonBit"
+    },
+    {
+      "name": "tornado",
+      "repo": "https://github.com/mizchi/tornado",
+      "language": "MoonBit"
+    },
+    {
+      "name": "audio-mbt",
+      "repo": "https://github.com/mizchi/audio-mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "wasmtime.mbt",
+      "repo": "https://github.com/mizchi/wasmtime.mbt",
+      "language": "C"
+    },
+    {
+      "name": "parquet",
+      "repo": "https://github.com/mizchi/parquet",
+      "language": "MoonBit"
+    }
+  ]
+}

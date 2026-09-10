@@ -1,0 +1,510 @@
+{
+  "handle": "wilfred",
+  "name": "Wilfred Hughes",
+  "github": [
+    "https://github.com/wilfred"
+  ],
+  "website": "https://www.wilfred.me.uk/",
+  "bio": "PL enthusiast, Emacs addict, and an advocate for human factors.",
+  "own_repos": 148,
+  "commits": 23225,
+  "apps": [],
+  "repos": [
+    {
+      "name": ".emacs.d",
+      "repo": "https://github.com/Wilfred/.emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "difftastic",
+      "repo": "https://github.com/Wilfred/difftastic",
+      "url": "https://difftastic.wilfred.me.uk/",
+      "language": "Rust"
+    },
+    {
+      "name": "llm-garage",
+      "repo": "https://github.com/Wilfred/llm-garage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "garden",
+      "repo": "https://github.com/Wilfred/garden",
+      "language": "Rust"
+    },
+    {
+      "name": "troy",
+      "repo": "https://github.com/Wilfred/troy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wclock",
+      "repo": "https://github.com/Wilfred/wclock",
+      "language": "Kotlin"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/Wilfred/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "deadgrep",
+      "repo": "https://github.com/Wilfred/deadgrep",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "tree-sitter-elisp",
+      "repo": "https://github.com/Wilfred/tree-sitter-elisp",
+      "url": "https://www.npmjs.com/package/tree-sitter-elisp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-fuzzy",
+      "repo": "https://github.com/Wilfred/git-fuzzy",
+      "language": "Rust"
+    },
+    {
+      "name": "gh-grab",
+      "repo": "https://github.com/Wilfred/gh-grab",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-mgr",
+      "repo": "https://github.com/Wilfred/docker-mgr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "newtext",
+      "repo": "https://github.com/Wilfred/newtext",
+      "language": "Rust"
+    },
+    {
+      "name": "ReVo-utilities",
+      "repo": "https://github.com/Wilfred/ReVo-utilities",
+      "language": "XSLT"
+    },
+    {
+      "name": "jsonf",
+      "repo": "https://github.com/Wilfred/jsonf",
+      "language": "Rust"
+    },
+    {
+      "name": "DevData",
+      "repo": "https://github.com/Wilfred/DevData",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-logs-web",
+      "repo": "https://github.com/Wilfred/docker-logs-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wikig",
+      "repo": "https://github.com/Wilfred/wikig",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wordnews",
+      "repo": "https://github.com/Wilfred/wordnews",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mergit",
+      "repo": "https://github.com/Wilfred/mergit"
+    },
+    {
+      "name": "line-numbers",
+      "repo": "https://github.com/Wilfred/line-numbers",
+      "language": "Rust"
+    },
+    {
+      "name": "reactive-repo",
+      "repo": "https://github.com/Wilfred/reactive-repo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gh-offline",
+      "repo": "https://github.com/Wilfred/gh-offline",
+      "language": "Rust"
+    },
+    {
+      "name": "fuzzy-history",
+      "repo": "https://github.com/Wilfred/fuzzy-history",
+      "language": "Rust"
+    },
+    {
+      "name": "notifyme",
+      "repo": "https://github.com/Wilfred/notifyme",
+      "language": "Rust"
+    },
+    {
+      "name": "spotify-playlist-gen",
+      "repo": "https://github.com/Wilfred/spotify-playlist-gen",
+      "language": "HTML"
+    },
+    {
+      "name": "lsp-fiddle",
+      "repo": "https://github.com/Wilfred/lsp-fiddle",
+      "language": "Rust"
+    },
+    {
+      "name": "nice-number",
+      "repo": "https://github.com/Wilfred/nice-number",
+      "language": "Rust"
+    },
+    {
+      "name": "visit-file-mode",
+      "repo": "https://github.com/Wilfred/visit-file-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "suggest.el",
+      "repo": "https://github.com/Wilfred/suggest.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "github_issues_offline",
+      "repo": "https://github.com/Wilfred/github_issues_offline",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "elisp-def",
+      "repo": "https://github.com/Wilfred/elisp-def",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "interesting-code",
+      "repo": "https://github.com/Wilfred/interesting-code"
+    },
+    {
+      "name": "propcheck",
+      "repo": "https://github.com/Wilfred/propcheck",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "helpful",
+      "repo": "https://github.com/Wilfred/helpful",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "wilfred.github.com",
+      "repo": "https://github.com/Wilfred/wilfred.github.com",
+      "language": "HTML"
+    },
+    {
+      "name": "refine",
+      "repo": "https://github.com/Wilfred/refine",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pip-requirements.el",
+      "repo": "https://github.com/Wilfred/pip-requirements.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bfc",
+      "repo": "https://github.com/Wilfred/bfc",
+      "url": "https://bfc.wilfred.me.uk",
+      "language": "Rust"
+    },
+    {
+      "name": "difftastic-diff",
+      "repo": "https://github.com/Wilfred/difftastic-diff",
+      "language": "Rust"
+    },
+    {
+      "name": "pyimport",
+      "repo": "https://github.com/Wilfred/pyimport",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flycheck-pyflakes",
+      "repo": "https://github.com/Wilfred/flycheck-pyflakes",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "actions_test",
+      "repo": "https://github.com/Wilfred/actions_test",
+      "language": "C"
+    },
+    {
+      "name": "gh-page-test",
+      "repo": "https://github.com/Wilfred/gh-page-test"
+    },
+    {
+      "name": "elisp-refs",
+      "repo": "https://github.com/Wilfred/elisp-refs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "linkdoc",
+      "repo": "https://github.com/Wilfred/linkdoc",
+      "language": "Rust"
+    },
+    {
+      "name": "difftastic_test2",
+      "repo": "https://github.com/Wilfred/difftastic_test2",
+      "language": "Rust"
+    },
+    {
+      "name": "FuzzyBranch",
+      "repo": "https://github.com/Wilfred/FuzzyBranch",
+      "language": "Haskell"
+    },
+    {
+      "name": "mustache.el",
+      "repo": "https://github.com/Wilfred/mustache.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ht.el",
+      "repo": "https://github.com/Wilfred/ht.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-refactor",
+      "repo": "https://github.com/Wilfred/emacs-refactor",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "flycheck-pkg-config",
+      "repo": "https://github.com/Wilfred/flycheck-pkg-config",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dumb-code-quick",
+      "repo": "https://github.com/Wilfred/dumb-code-quick",
+      "language": "TypeScript"
+    },
+    {
+      "name": "metawiki",
+      "repo": "https://github.com/Wilfred/metawiki",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-info",
+      "repo": "https://github.com/Wilfred/python-info",
+      "language": "Makefile"
+    },
+    {
+      "name": "cask-mode",
+      "repo": "https://github.com/Wilfred/cask-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "loop.el",
+      "repo": "https://github.com/Wilfred/loop.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bison-mode",
+      "repo": "https://github.com/Wilfred/bison-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "scratch",
+      "repo": "https://github.com/Wilfred/scratch"
+    },
+    {
+      "name": "ez-query-replace",
+      "repo": "https://github.com/Wilfred/ez-query-replace",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "simpla-vortaro",
+      "repo": "https://github.com/Wilfred/simpla-vortaro",
+      "language": "Python"
+    },
+    {
+      "name": "commonmark-twemoji",
+      "repo": "https://github.com/Wilfred/commonmark-twemoji",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Picky",
+      "repo": "https://github.com/Wilfred/Picky",
+      "language": "JavaScript"
+    },
+    {
+      "name": "proper-compiler-hat",
+      "repo": "https://github.com/Wilfred/proper-compiler-hat",
+      "language": "Python"
+    },
+    {
+      "name": "trifle",
+      "repo": "https://github.com/Wilfred/trifle",
+      "language": "Python"
+    },
+    {
+      "name": "flycheck-title",
+      "repo": "https://github.com/Wilfred/flycheck-title",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "logstash-conf.el",
+      "repo": "https://github.com/Wilfred/logstash-conf.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "babyc",
+      "repo": "https://github.com/Wilfred/babyc",
+      "language": "C"
+    },
+    {
+      "name": "ag.el",
+      "repo": "https://github.com/Wilfred/ag.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "syntax-cafe",
+      "repo": "https://github.com/Wilfred/syntax-cafe",
+      "language": "TypeScript"
+    },
+    {
+      "name": "commonmark-extract-text",
+      "repo": "https://github.com/Wilfred/commonmark-extract-text",
+      "language": "JavaScript"
+    },
+    {
+      "name": "commonmark-wikiwords",
+      "repo": "https://github.com/Wilfred/commonmark-wikiwords",
+      "language": "JavaScript"
+    },
+    {
+      "name": "company-try-hard",
+      "repo": "https://github.com/Wilfred/company-try-hard",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "tco.el",
+      "repo": "https://github.com/Wilfred/tco.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mal_pharo",
+      "repo": "https://github.com/Wilfred/mal_pharo",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "commonmark-linkify",
+      "repo": "https://github.com/Wilfred/commonmark-linkify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "elisp-index",
+      "repo": "https://github.com/Wilfred/elisp-index",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "elisp-complete",
+      "repo": "https://github.com/Wilfred/elisp-complete",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "versor",
+      "repo": "https://github.com/Wilfred/versor",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "insatiable",
+      "repo": "https://github.com/Wilfred/insatiable",
+      "language": "OCaml"
+    },
+    {
+      "name": "elisp-fu",
+      "repo": "https://github.com/Wilfred/elisp-fu",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "django-test-mixins",
+      "repo": "https://github.com/Wilfred/django-test-mixins",
+      "language": "Python"
+    },
+    {
+      "name": "Brainfrack",
+      "repo": "https://github.com/Wilfred/Brainfrack",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "lojban-notes",
+      "repo": "https://github.com/Wilfred/lojban-notes"
+    },
+    {
+      "name": "ublog",
+      "repo": "https://github.com/Wilfred/ublog",
+      "language": "Rust"
+    },
+    {
+      "name": "solo-wiki",
+      "repo": "https://github.com/Wilfred/solo-wiki",
+      "language": "Clojure"
+    },
+    {
+      "name": "demo_repo",
+      "repo": "https://github.com/Wilfred/demo_repo"
+    },
+    {
+      "name": "advent-of-code",
+      "repo": "https://github.com/Wilfred/advent-of-code",
+      "language": "Racket"
+    },
+    {
+      "name": "peval",
+      "repo": "https://github.com/Wilfred/peval",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "srch",
+      "repo": "https://github.com/Wilfred/srch",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bkc",
+      "repo": "https://github.com/Wilfred/bkc",
+      "language": "Rust"
+    },
+    {
+      "name": "company-smart-elisp",
+      "repo": "https://github.com/Wilfred/company-smart-elisp",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "slimpy",
+      "repo": "https://github.com/Wilfred/slimpy",
+      "language": "Python"
+    },
+    {
+      "name": "userinfo",
+      "repo": "https://github.com/Wilfred/userinfo",
+      "language": "Rust"
+    },
+    {
+      "name": "rust_struct_test",
+      "repo": "https://github.com/Wilfred/rust_struct_test",
+      "language": "Rust"
+    },
+    {
+      "name": "the_end_times",
+      "repo": "https://github.com/Wilfred/the_end_times",
+      "language": "Ruby"
+    },
+    {
+      "name": "emacsbench",
+      "repo": "https://github.com/Wilfred/emacsbench",
+      "language": "C"
+    },
+    {
+      "name": "rustls.el",
+      "repo": "https://github.com/Wilfred/rustls.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "portable_r7rs",
+      "repo": "https://github.com/Wilfred/portable_r7rs",
+      "language": "Scheme"
+    },
+    {
+      "name": "guile-build-image",
+      "repo": "https://github.com/Wilfred/guile-build-image"
+    }
+  ]
+}

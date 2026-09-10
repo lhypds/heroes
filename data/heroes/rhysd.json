@@ -1,0 +1,548 @@
+{
+  "handle": "rhysd",
+  "name": "Linda_pp",
+  "github": [
+    "https://github.com/rhysd"
+  ],
+  "website": "https://rhysd.github.io/",
+  "bio": "A dog enjoying software development (with bugs)",
+  "own_repos": 231,
+  "commits": 18343,
+  "apps": [],
+  "repos": [
+    {
+      "name": "action-setup-vim",
+      "repo": "https://github.com/rhysd/action-setup-vim",
+      "url": "https://github.com/marketplace/actions/setup-vim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "misc",
+      "repo": "https://github.com/rhysd/misc",
+      "language": "Rust"
+    },
+    {
+      "name": "dogfiles",
+      "repo": "https://github.com/rhysd/dogfiles",
+      "url": "https://rhysd.github.io",
+      "language": "Vim Script"
+    },
+    {
+      "name": "Shiba",
+      "repo": "https://github.com/rhysd/Shiba",
+      "language": "Rust"
+    },
+    {
+      "name": "actionlint",
+      "repo": "https://github.com/rhysd/actionlint",
+      "url": "https://rhysd.github.io/actionlint/",
+      "language": "Go"
+    },
+    {
+      "name": "hgrep",
+      "repo": "https://github.com/rhysd/hgrep",
+      "language": "Rust"
+    },
+    {
+      "name": "kiro-editor",
+      "repo": "https://github.com/rhysd/kiro-editor",
+      "language": "Rust"
+    },
+    {
+      "name": "vim.wasm",
+      "repo": "https://github.com/rhysd/vim.wasm",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-llvm",
+      "repo": "https://github.com/rhysd/vim-llvm",
+      "language": "Vim Script"
+    },
+    {
+      "name": "remark-emoji",
+      "repo": "https://github.com/rhysd/remark-emoji",
+      "language": "TypeScript"
+    },
+    {
+      "name": "changelog-from-release",
+      "repo": "https://github.com/rhysd/changelog-from-release",
+      "url": "https://github.com/rhysd/changelog-from-release/blob/master/CHANGELOG.md",
+      "language": "Go"
+    },
+    {
+      "name": "keybinds-rs",
+      "repo": "https://github.com/rhysd/keybinds-rs",
+      "url": "https://docs.rs/keybinds",
+      "language": "Rust"
+    },
+    {
+      "name": "git-messenger.vim",
+      "repo": "https://github.com/rhysd/git-messenger.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-color-spring-night",
+      "repo": "https://github.com/rhysd/vim-color-spring-night",
+      "url": "https://rhysd.github.io/vim-color-spring-night",
+      "language": "Rust"
+    },
+    {
+      "name": "react-component-bytesize-icons",
+      "repo": "https://github.com/rhysd/react-component-bytesize-icons",
+      "language": "TypeScript"
+    },
+    {
+      "name": "path-slash",
+      "repo": "https://github.com/rhysd/path-slash",
+      "url": "https://crates.io/crates/path-slash",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/rhysd/dotfiles",
+      "language": "Go"
+    },
+    {
+      "name": "tui-textarea",
+      "repo": "https://github.com/rhysd/tui-textarea",
+      "url": "https://crates.io/crates/tui-textarea",
+      "language": "Rust"
+    },
+    {
+      "name": "ss",
+      "repo": "https://github.com/rhysd/ss",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-startuptime",
+      "repo": "https://github.com/rhysd/vim-startuptime",
+      "language": "Go"
+    },
+    {
+      "name": "committia.vim",
+      "repo": "https://github.com/rhysd/committia.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "unite-dirvish.vim",
+      "repo": "https://github.com/rhysd/unite-dirvish.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "cargo-husky",
+      "repo": "https://github.com/rhysd/cargo-husky",
+      "url": "https://crates.io/crates/cargo-husky",
+      "language": "Rust"
+    },
+    {
+      "name": "wain",
+      "repo": "https://github.com/rhysd/wain",
+      "language": "Rust"
+    },
+    {
+      "name": "dirname-filename-esm",
+      "repo": "https://github.com/rhysd/dirname-filename-esm",
+      "url": "https://www.npmjs.com/package/dirname-filename-esm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "set-git-hooks-dir",
+      "repo": "https://github.com/rhysd/set-git-hooks-dir",
+      "language": "Rust"
+    },
+    {
+      "name": "conflict-marker.vim",
+      "repo": "https://github.com/rhysd/conflict-marker.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "fast-json-clone",
+      "repo": "https://github.com/rhysd/fast-json-clone",
+      "url": "https://www.npmjs.com/package/fast-json-clone",
+      "language": "TypeScript"
+    },
+    {
+      "name": "break-tweet-autolink",
+      "repo": "https://github.com/rhysd/break-tweet-autolink",
+      "url": "https://rhysd.github.io/break-tweet-autolink/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "electron-about-window",
+      "repo": "https://github.com/rhysd/electron-about-window",
+      "url": "https://www.npmjs.com/package/about-window",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rhysd",
+      "repo": "https://github.com/rhysd/rhysd",
+      "url": "https://github.com/rhysd",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-wasm",
+      "repo": "https://github.com/rhysd/vim-wasm",
+      "language": "Vim Script"
+    },
+    {
+      "name": "tweet-app",
+      "repo": "https://github.com/rhysd/tweet-app",
+      "url": "https://www.npmjs.com/package/tweet-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fixjson",
+      "repo": "https://github.com/rhysd/fixjson",
+      "url": "https://www.npmjs.com/package/fixjson",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-github-selfupdate",
+      "repo": "https://github.com/rhysd/go-github-selfupdate",
+      "url": "https://godoc.org/github.com/rhysd/go-github-selfupdate/selfupdate",
+      "language": "Go"
+    },
+    {
+      "name": "winver",
+      "repo": "https://github.com/rhysd/winver",
+      "language": "Rust"
+    },
+    {
+      "name": "validate-github-token",
+      "repo": "https://github.com/rhysd/validate-github-token",
+      "url": "https://www.npmjs.com/package/validate-github-token",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-vim-wasm",
+      "repo": "https://github.com/rhysd/react-vim-wasm",
+      "url": "https://rhysd.github.io/react-vim-wasm/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-gfm-syntax",
+      "repo": "https://github.com/rhysd/vim-gfm-syntax",
+      "language": "Vim Script"
+    },
+    {
+      "name": "git-brws",
+      "repo": "https://github.com/rhysd/git-brws",
+      "url": "https://rhysd.github.io/git-brws/",
+      "language": "Rust"
+    },
+    {
+      "name": "react-mathjax-component",
+      "repo": "https://github.com/rhysd/react-mathjax-component",
+      "url": "https://rhysd.github.io/react-mathjax-component",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Crisp",
+      "repo": "https://github.com/rhysd/Crisp",
+      "language": "Crystal"
+    },
+    {
+      "name": "monolith-of-web",
+      "repo": "https://github.com/rhysd/monolith-of-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-github-emoji",
+      "repo": "https://github.com/rhysd/node-github-emoji",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gotest",
+      "repo": "https://github.com/rhysd/gotest",
+      "language": "Ruby"
+    },
+    {
+      "name": "marked-sanitizer-github",
+      "repo": "https://github.com/rhysd/marked-sanitizer-github",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rhysd.github.io",
+      "repo": "https://github.com/rhysd/rhysd.github.io",
+      "url": "https://rhysd.github.io",
+      "language": "CSS"
+    },
+    {
+      "name": "tinyjson",
+      "repo": "https://github.com/rhysd/tinyjson",
+      "url": "https://crates.io/crates/tinyjson",
+      "language": "Rust"
+    },
+    {
+      "name": "electron-in-page-search",
+      "repo": "https://github.com/rhysd/electron-in-page-search",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-grammarous",
+      "repo": "https://github.com/rhysd/vim-grammarous",
+      "language": "Vim Script"
+    },
+    {
+      "name": "clever-f.vim",
+      "repo": "https://github.com/rhysd/clever-f.vim",
+      "url": "https://rhysd.github.io/clever-f.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "migemo-search.vim",
+      "repo": "https://github.com/rhysd/migemo-search.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "notes-cli",
+      "repo": "https://github.com/rhysd/notes-cli",
+      "language": "Go"
+    },
+    {
+      "name": "toy-riscv-backend",
+      "repo": "https://github.com/rhysd/toy-riscv-backend",
+      "language": "C++"
+    },
+    {
+      "name": "vim-healthcheck",
+      "repo": "https://github.com/rhysd/vim-healthcheck",
+      "language": "Vim Script"
+    },
+    {
+      "name": "react-component-octicons",
+      "repo": "https://github.com/rhysd/react-component-octicons",
+      "url": "https://rhysd.github.io/react-component-octicons",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-clone-all",
+      "repo": "https://github.com/rhysd/github-clone-all",
+      "language": "Go"
+    },
+    {
+      "name": "fixred",
+      "repo": "https://github.com/rhysd/fixred",
+      "language": "Rust"
+    },
+    {
+      "name": "ghci-color",
+      "repo": "https://github.com/rhysd/ghci-color",
+      "language": "PowerShell"
+    },
+    {
+      "name": "rgb2ansi256",
+      "repo": "https://github.com/rhysd/rgb2ansi256",
+      "language": "Rust"
+    },
+    {
+      "name": "grcov-windows-bug",
+      "repo": "https://github.com/rhysd/grcov-windows-bug",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-clang-format",
+      "repo": "https://github.com/rhysd/vim-clang-format",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-lsp-ale",
+      "repo": "https://github.com/rhysd/vim-lsp-ale",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-syntax-christmas-tree",
+      "repo": "https://github.com/rhysd/vim-syntax-christmas-tree",
+      "url": "https://rhysd.hatenablog.com/entry/2018/12/23/235933",
+      "language": "Vim Script"
+    },
+    {
+      "name": "bit_combi_iter",
+      "repo": "https://github.com/rhysd/bit_combi_iter",
+      "language": "Rust"
+    },
+    {
+      "name": "riscv32-cpu-chisel",
+      "repo": "https://github.com/rhysd/riscv32-cpu-chisel",
+      "language": "Scala"
+    },
+    {
+      "name": "reading-pfds",
+      "repo": "https://github.com/rhysd/reading-pfds",
+      "language": "Rust"
+    },
+    {
+      "name": "inu-snippets",
+      "repo": "https://github.com/rhysd/inu-snippets",
+      "language": "Vim Snippet"
+    },
+    {
+      "name": "github-complete.vim",
+      "repo": "https://github.com/rhysd/github-complete.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "node-ubuntu-version",
+      "repo": "https://github.com/rhysd/node-ubuntu-version",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghpr-blame.vim",
+      "repo": "https://github.com/rhysd/ghpr-blame.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-fixjson",
+      "repo": "https://github.com/rhysd/vim-fixjson",
+      "url": "https://github.com/rhysd/fixjson",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-operator-surround",
+      "repo": "https://github.com/rhysd/vim-operator-surround",
+      "language": "Vim Script"
+    },
+    {
+      "name": "reply.vim",
+      "repo": "https://github.com/rhysd/reply.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "abspath",
+      "repo": "https://github.com/rhysd/abspath",
+      "language": "Go"
+    },
+    {
+      "name": "neovim-component",
+      "repo": "https://github.com/rhysd/neovim-component",
+      "url": "https://github.com/rhysd/NyaoVim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Chromenu",
+      "repo": "https://github.com/rhysd/Chromenu",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gocaml",
+      "repo": "https://github.com/rhysd/gocaml",
+      "language": "Go"
+    },
+    {
+      "name": "dot-github",
+      "repo": "https://github.com/rhysd/dot-github",
+      "language": "Go"
+    },
+    {
+      "name": "wandbox-vim",
+      "repo": "https://github.com/rhysd/wandbox-vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "rust-doc.vim",
+      "repo": "https://github.com/rhysd/rust-doc.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-anyblock",
+      "repo": "https://github.com/rhysd/vim-textobj-anyblock",
+      "language": "Vim Script"
+    },
+    {
+      "name": "go-fakeio",
+      "repo": "https://github.com/rhysd/go-fakeio",
+      "url": "https://godoc.org/github.com/rhysd/go-fakeio",
+      "language": "Go"
+    },
+    {
+      "name": "Dachs",
+      "repo": "https://github.com/rhysd/Dachs",
+      "language": "C++"
+    },
+    {
+      "name": "world-map-gen",
+      "repo": "https://github.com/rhysd/world-map-gen",
+      "url": "https://rhysd.github.io/world-map-gen/",
+      "language": "Rust"
+    },
+    {
+      "name": "vimwasm-try-plugin",
+      "repo": "https://github.com/rhysd/vimwasm-try-plugin",
+      "url": "https://rhysd.github.io/vim.wasm",
+      "language": "Go"
+    },
+    {
+      "name": "npm-filetypes.vim",
+      "repo": "https://github.com/rhysd/npm-filetypes.vim",
+      "url": "https://www.npmjs.com/",
+      "language": "Vim Script"
+    },
+    {
+      "name": "wdio-appium-service",
+      "repo": "https://github.com/rhysd/wdio-appium-service",
+      "language": "JavaScript"
+    },
+    {
+      "name": "trygo",
+      "repo": "https://github.com/rhysd/trygo",
+      "language": "Go"
+    },
+    {
+      "name": "devdocs.vim",
+      "repo": "https://github.com/rhysd/devdocs.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textobj-ruby",
+      "repo": "https://github.com/rhysd/vim-textobj-ruby",
+      "language": "Vim Script"
+    },
+    {
+      "name": "eslint-config-fixable-all",
+      "repo": "https://github.com/rhysd/eslint-config-fixable-all",
+      "language": "JavaScript"
+    },
+    {
+      "name": "translate-markdown",
+      "repo": "https://github.com/rhysd/translate-markdown",
+      "language": "JavaScript"
+    },
+    {
+      "name": "diff-enum",
+      "repo": "https://github.com/rhysd/diff-enum",
+      "language": "Rust"
+    },
+    {
+      "name": "bytesize-icon-elements",
+      "repo": "https://github.com/rhysd/bytesize-icon-elements",
+      "language": "Ruby"
+    },
+    {
+      "name": "detect_git_service",
+      "repo": "https://github.com/rhysd/detect_git_service",
+      "language": "Rust"
+    },
+    {
+      "name": "termcolor2rgb",
+      "repo": "https://github.com/rhysd/termcolor2rgb",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-syntax-codeowners",
+      "repo": "https://github.com/rhysd/vim-syntax-codeowners",
+      "url": "https://help.github.com/articles/about-code-owners/",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-github-support",
+      "repo": "https://github.com/rhysd/vim-github-support",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-notes-cli",
+      "repo": "https://github.com/rhysd/vim-notes-cli",
+      "url": "https://github.com/rhysd/notes-cli",
+      "language": "Vim Script"
+    }
+  ]
+}

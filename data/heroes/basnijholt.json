@@ -5,6 +5,524 @@
     "https://github.com/basnijholt"
   ],
   "bio": "🔬 Building quantum computers at IonQ by day, crafting various open-source tools at night.",
+  "own_repos": 111,
   "commits": 14433,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "tuitorial",
+      "repo": "https://github.com/basnijholt/tuitorial",
+      "url": "https://tuitorial.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "basnijholt",
+      "repo": "https://github.com/basnijholt/basnijholt",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "lesdeuxchevaux",
+      "repo": "https://github.com/basnijholt/lesdeuxchevaux",
+      "url": "https://basnijholt.github.io/lesdeuxchevaux",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/basnijholt/homebrew-tap",
+      "language": "Python"
+    },
+    {
+      "name": "ai-lab",
+      "repo": "https://github.com/basnijholt/ai-lab",
+      "language": "Just"
+    },
+    {
+      "name": "agent-cli",
+      "repo": "https://github.com/basnijholt/agent-cli",
+      "url": "https://agent-cli.nijho.lt/",
+      "language": "Python"
+    },
+    {
+      "name": "adaptive-lighting",
+      "repo": "https://github.com/basnijholt/adaptive-lighting",
+      "url": "https://adaptive-lighting.nijho.lt",
+      "language": "Python"
+    },
+    {
+      "name": "markdown-code-runner",
+      "repo": "https://github.com/basnijholt/markdown-code-runner",
+      "url": "https://markdown-code-runner.nijho.lt/",
+      "language": "Python"
+    },
+    {
+      "name": "rsync-time-machine.py",
+      "repo": "https://github.com/basnijholt/rsync-time-machine.py",
+      "language": "Python"
+    },
+    {
+      "name": "home-assistant-streamdeck-yaml",
+      "repo": "https://github.com/basnijholt/home-assistant-streamdeck-yaml",
+      "language": "Python"
+    },
+    {
+      "name": "slurm-usage",
+      "repo": "https://github.com/basnijholt/slurm-usage",
+      "url": "https://slurm-usage.nijho.lt",
+      "language": "Python"
+    },
+    {
+      "name": "yaml2bib",
+      "repo": "https://github.com/basnijholt/yaml2bib",
+      "url": "https://yaml2bib.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "codestructure",
+      "repo": "https://github.com/basnijholt/codestructure",
+      "language": "Python"
+    },
+    {
+      "name": "adaptive-scheduler",
+      "repo": "https://github.com/basnijholt/adaptive-scheduler",
+      "language": "Python"
+    },
+    {
+      "name": "aiokef",
+      "repo": "https://github.com/basnijholt/aiokef",
+      "language": "Python"
+    },
+    {
+      "name": "fileup",
+      "repo": "https://github.com/basnijholt/fileup",
+      "url": "https://fileup.nijho.lt",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/basnijholt/dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "pfapack",
+      "repo": "https://github.com/basnijholt/pfapack",
+      "url": "https://arxiv.org/abs/1102.3440",
+      "language": "Fortran"
+    },
+    {
+      "name": "nijho.lt",
+      "repo": "https://github.com/basnijholt/nijho.lt",
+      "url": "https://www.nijho.lt/",
+      "language": "HTML"
+    },
+    {
+      "name": "home-assistant-streamdeck-yaml-addon",
+      "repo": "https://github.com/basnijholt/home-assistant-streamdeck-yaml-addon",
+      "language": "Shell"
+    },
+    {
+      "name": "dotbins",
+      "repo": "https://github.com/basnijholt/dotbins",
+      "url": "https://dotbins.nijho.lt",
+      "language": "Python"
+    },
+    {
+      "name": "calver-auto-release",
+      "repo": "https://github.com/basnijholt/calver-auto-release",
+      "language": "Python"
+    },
+    {
+      "name": "compose-farm",
+      "repo": "https://github.com/basnijholt/compose-farm",
+      "url": "https://compose-farm.nijho.lt",
+      "language": "Python"
+    },
+    {
+      "name": "tiller-streamlit",
+      "repo": "https://github.com/basnijholt/tiller-streamlit",
+      "language": "Python"
+    },
+    {
+      "name": "wenfire",
+      "repo": "https://github.com/basnijholt/wenfire",
+      "url": "https://wenfire.nijho.lt",
+      "language": "Jinja"
+    },
+    {
+      "name": "numthreads",
+      "repo": "https://github.com/basnijholt/numthreads",
+      "language": "Python"
+    },
+    {
+      "name": "trueloc",
+      "repo": "https://github.com/basnijholt/trueloc",
+      "url": "https://trueloc.nijho.lt",
+      "language": "Python"
+    },
+    {
+      "name": "wyoming-mlx-whisper",
+      "repo": "https://github.com/basnijholt/wyoming-mlx-whisper",
+      "language": "Python"
+    },
+    {
+      "name": "gh-download",
+      "repo": "https://github.com/basnijholt/gh-download",
+      "language": "Python"
+    },
+    {
+      "name": "clip-files",
+      "repo": "https://github.com/basnijholt/clip-files",
+      "language": "Python"
+    },
+    {
+      "name": "campground-watcher",
+      "repo": "https://github.com/basnijholt/campground-watcher",
+      "language": "Python"
+    },
+    {
+      "name": ".dotbins",
+      "repo": "https://github.com/basnijholt/.dotbins",
+      "language": "Python"
+    },
+    {
+      "name": "privata",
+      "repo": "https://github.com/basnijholt/privata",
+      "language": "Python"
+    },
+    {
+      "name": "lovelace-ios-themes",
+      "repo": "https://github.com/basnijholt/lovelace-ios-themes",
+      "language": "Jinja"
+    },
+    {
+      "name": "zfs-unlock",
+      "repo": "https://github.com/basnijholt/zfs-unlock",
+      "url": "https://zfs-unlock.nijho.lt/",
+      "language": "Python"
+    },
+    {
+      "name": "matty",
+      "repo": "https://github.com/basnijholt/matty",
+      "language": "Python"
+    },
+    {
+      "name": "mindroom",
+      "repo": "https://github.com/basnijholt/mindroom",
+      "language": "Python"
+    },
+    {
+      "name": "pixi-to-conda-lock",
+      "repo": "https://github.com/basnijholt/pixi-to-conda-lock",
+      "language": "Python"
+    },
+    {
+      "name": "pi-anthropic-vertex",
+      "repo": "https://github.com/basnijholt/pi-anthropic-vertex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "remove-trailing-comma",
+      "repo": "https://github.com/basnijholt/remove-trailing-comma",
+      "language": "Python"
+    },
+    {
+      "name": "shell-guard-plugin",
+      "repo": "https://github.com/basnijholt/shell-guard-plugin",
+      "language": "Python"
+    },
+    {
+      "name": "home-assistant-config",
+      "repo": "https://github.com/basnijholt/home-assistant-config",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pi-multi-agent-review-loop",
+      "repo": "https://github.com/basnijholt/pi-multi-agent-review-loop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-subagents",
+      "repo": "https://github.com/basnijholt/pi-subagents",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tot-clock",
+      "repo": "https://github.com/basnijholt/tot-clock",
+      "language": "Svelte"
+    },
+    {
+      "name": "opennb",
+      "repo": "https://github.com/basnijholt/opennb",
+      "language": "Python"
+    },
+    {
+      "name": "markdown-code-runner-rs",
+      "repo": "https://github.com/basnijholt/markdown-code-runner-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "clip-files-ui",
+      "repo": "https://github.com/basnijholt/clip-files-ui",
+      "language": "HTML"
+    },
+    {
+      "name": "charybdis-nano-guide",
+      "repo": "https://github.com/basnijholt/charybdis-nano-guide",
+      "language": "HTML"
+    },
+    {
+      "name": "truenas-unlock",
+      "repo": "https://github.com/basnijholt/truenas-unlock",
+      "language": "Python"
+    },
+    {
+      "name": "aijournal",
+      "repo": "https://github.com/basnijholt/aijournal",
+      "language": "Python"
+    },
+    {
+      "name": "glove80",
+      "repo": "https://github.com/basnijholt/glove80",
+      "language": "Python"
+    },
+    {
+      "name": "glove80-tailorkey-hrm-transfer",
+      "repo": "https://github.com/basnijholt/glove80-tailorkey-hrm-transfer",
+      "language": "Python"
+    },
+    {
+      "name": "interview",
+      "repo": "https://github.com/basnijholt/interview"
+    },
+    {
+      "name": "github-backup-sync",
+      "repo": "https://github.com/basnijholt/github-backup-sync",
+      "language": "Python"
+    },
+    {
+      "name": "assistant-ui-anywidget",
+      "repo": "https://github.com/basnijholt/assistant-ui-anywidget",
+      "language": "Python"
+    },
+    {
+      "name": "backups",
+      "repo": "https://github.com/basnijholt/backups",
+      "language": "Shell"
+    },
+    {
+      "name": "dotenvx",
+      "repo": "https://github.com/basnijholt/dotenvx"
+    },
+    {
+      "name": "quantum-touch80-glove80-keymap",
+      "repo": "https://github.com/basnijholt/quantum-touch80-glove80-keymap",
+      "language": "Python"
+    },
+    {
+      "name": "versioningit_fail",
+      "repo": "https://github.com/basnijholt/versioningit_fail",
+      "language": "Python"
+    },
+    {
+      "name": "thesis-cover",
+      "repo": "https://github.com/basnijholt/thesis-cover",
+      "url": "https://quantumtinkerer.tudelft.nl/blog/thesis-cover/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "net-worth-tracker",
+      "repo": "https://github.com/basnijholt/net-worth-tracker",
+      "language": "Python"
+    },
+    {
+      "name": "calendar-of-life",
+      "repo": "https://github.com/basnijholt/calendar-of-life",
+      "language": "Python"
+    },
+    {
+      "name": "supercurrent-majorana-nanowire",
+      "repo": "https://github.com/basnijholt/supercurrent-majorana-nanowire",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "lovelace-ios-dark-mode-theme",
+      "repo": "https://github.com/basnijholt/lovelace-ios-dark-mode-theme"
+    },
+    {
+      "name": "addon-otmonitor",
+      "repo": "https://github.com/basnijholt/addon-otmonitor",
+      "language": "HTML"
+    },
+    {
+      "name": "spin-orbit-nanowires",
+      "repo": "https://github.com/basnijholt/spin-orbit-nanowires",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.187702",
+      "language": "Python"
+    },
+    {
+      "name": "miflora",
+      "repo": "https://github.com/basnijholt/miflora",
+      "language": "Python"
+    },
+    {
+      "name": "media_player.kef",
+      "repo": "https://github.com/basnijholt/media_player.kef",
+      "language": "Python"
+    },
+    {
+      "name": "kopen-of-huren",
+      "repo": "https://github.com/basnijholt/kopen-of-huren",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "nanowire-bandstructures",
+      "repo": "https://github.com/basnijholt/nanowire-bandstructures",
+      "language": "Python"
+    },
+    {
+      "name": "ipynb_git_filters",
+      "repo": "https://github.com/basnijholt/ipynb_git_filters",
+      "language": "Python"
+    },
+    {
+      "name": "zigzag-majoranas",
+      "repo": "https://github.com/basnijholt/zigzag-majoranas",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "home-assistant-macbook-touch-bar",
+      "repo": "https://github.com/basnijholt/home-assistant-macbook-touch-bar",
+      "language": "Python"
+    },
+    {
+      "name": "hpc05",
+      "repo": "https://github.com/basnijholt/hpc05",
+      "language": "Python"
+    },
+    {
+      "name": "thesis",
+      "repo": "https://github.com/basnijholt/thesis",
+      "language": "TeX"
+    },
+    {
+      "name": "qcodes-repr",
+      "repo": "https://github.com/basnijholt/qcodes-repr",
+      "language": "Python"
+    },
+    {
+      "name": "azure-agent-jupyter-minimal-notebook",
+      "repo": "https://github.com/basnijholt/azure-agent-jupyter-minimal-notebook",
+      "language": "Shell"
+    },
+    {
+      "name": "azure-singularity-agent",
+      "repo": "https://github.com/basnijholt/azure-singularity-agent",
+      "language": "Shell"
+    },
+    {
+      "name": "py-nsapi",
+      "repo": "https://github.com/basnijholt/py-nsapi",
+      "language": "Python"
+    },
+    {
+      "name": "lovelace-ios-light-mode-theme",
+      "repo": "https://github.com/basnijholt/lovelace-ios-light-mode-theme"
+    },
+    {
+      "name": "Casimir-programming-2019",
+      "repo": "https://github.com/basnijholt/Casimir-programming-2019",
+      "language": "Python"
+    },
+    {
+      "name": "majorana-nanowire-conductance",
+      "repo": "https://github.com/basnijholt/majorana-nanowire-conductance",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "instacron",
+      "repo": "https://github.com/basnijholt/instacron",
+      "language": "Python"
+    },
+    {
+      "name": "revtex-markdown-paper",
+      "repo": "https://github.com/basnijholt/revtex-markdown-paper",
+      "language": "TeX"
+    },
+    {
+      "name": "day-one-story-sender",
+      "repo": "https://github.com/basnijholt/day-one-story-sender",
+      "language": "Python"
+    },
+    {
+      "name": "cyclecloud-slurm-scaling",
+      "repo": "https://github.com/basnijholt/cyclecloud-slurm-scaling"
+    },
+    {
+      "name": "adaptive-tools",
+      "repo": "https://github.com/basnijholt/adaptive-tools",
+      "language": "Python"
+    },
+    {
+      "name": "cluster-logger",
+      "repo": "https://github.com/basnijholt/cluster-logger",
+      "url": "https://hpc05.quantumtinkerer.tudelft.nl",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Casimir-programming",
+      "repo": "https://github.com/basnijholt/Casimir-programming",
+      "language": "Python"
+    },
+    {
+      "name": "adaptive-talk",
+      "repo": "https://github.com/basnijholt/adaptive-talk",
+      "url": "https://github.com/python-adaptive/adaptive",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "nanowire-qpc-spectrum",
+      "repo": "https://github.com/basnijholt/nanowire-qpc-spectrum",
+      "language": "Python"
+    },
+    {
+      "name": "pyfeast",
+      "repo": "https://github.com/basnijholt/pyfeast",
+      "language": "Python"
+    },
+    {
+      "name": "money_scribbles",
+      "repo": "https://github.com/basnijholt/money_scribbles",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "orbitalfield",
+      "repo": "https://github.com/basnijholt/orbitalfield",
+      "language": "Python"
+    },
+    {
+      "name": "mumpy",
+      "repo": "https://github.com/basnijholt/mumpy",
+      "language": "Python"
+    },
+    {
+      "name": "shortjunction",
+      "repo": "https://github.com/basnijholt/shortjunction",
+      "url": "https://arxiv.org/abs/1609.00637",
+      "language": "TeX"
+    },
+    {
+      "name": "arxiv-feed-mailer",
+      "repo": "https://github.com/basnijholt/arxiv-feed-mailer",
+      "language": "Python"
+    },
+    {
+      "name": "conda-recipes",
+      "repo": "https://github.com/basnijholt/conda-recipes",
+      "language": "Shell"
+    },
+    {
+      "name": "discretizer",
+      "repo": "https://github.com/basnijholt/discretizer",
+      "language": "Python"
+    }
+  ]
 }

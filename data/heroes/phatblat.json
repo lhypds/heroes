@@ -1,0 +1,515 @@
+{
+  "handle": "phatblat",
+  "name": "Ben Chatelain",
+  "github": [
+    "https://github.com/phatblat"
+  ],
+  "website": "https://phatbl.at/",
+  "bio": "Agent orchestrator",
+  "own_repos": 257,
+  "commits": 14886,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/phatblat/dotfiles",
+      "url": "https://phatbl.at",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ground-control",
+      "repo": "https://github.com/phatblat/ground-control",
+      "language": "Rust"
+    },
+    {
+      "name": "conventional-docs",
+      "repo": "https://github.com/phatblat/conventional-docs",
+      "language": "Rust"
+    },
+    {
+      "name": "cmt",
+      "repo": "https://github.com/phatblat/cmt",
+      "language": "Rust"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/phatblat/skills",
+      "language": "JavaScript"
+    },
+    {
+      "name": "portable-skill-authoring",
+      "repo": "https://github.com/phatblat/portable-skill-authoring",
+      "url": "https://github.com/phatblat/skills",
+      "language": "Just"
+    },
+    {
+      "name": "semver-skill",
+      "repo": "https://github.com/phatblat/semver-skill",
+      "url": "https://github.com/phatblat/skills",
+      "language": "Python"
+    },
+    {
+      "name": "changelog-skill",
+      "repo": "https://github.com/phatblat/changelog-skill",
+      "url": "https://github.com/phatblat/skills",
+      "language": "Just"
+    },
+    {
+      "name": "agentic-review",
+      "repo": "https://github.com/phatblat/agentic-review",
+      "language": "Go"
+    },
+    {
+      "name": "phatblat",
+      "repo": "https://github.com/phatblat/phatblat"
+    },
+    {
+      "name": "kotlin-multipeer",
+      "repo": "https://github.com/phatblat/kotlin-multipeer",
+      "language": "Kotlin"
+    },
+    {
+      "name": "cmt-eval",
+      "repo": "https://github.com/phatblat/cmt-eval",
+      "language": "TypeScript"
+    },
+    {
+      "name": "evalkit",
+      "repo": "https://github.com/phatblat/evalkit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-config-schema",
+      "repo": "https://github.com/phatblat/claude-config-schema",
+      "language": "Python"
+    },
+    {
+      "name": "sandcastle-agent-lab",
+      "repo": "https://github.com/phatblat/sandcastle-agent-lab",
+      "language": "JavaScript"
+    },
+    {
+      "name": "claude-cloud-local-agent-orchestration",
+      "repo": "https://github.com/phatblat/claude-cloud-local-agent-orchestration",
+      "language": "Shell"
+    },
+    {
+      "name": "Bundles",
+      "repo": "https://github.com/phatblat/Bundles",
+      "language": "Ruby"
+    },
+    {
+      "name": "local-mlx",
+      "repo": "https://github.com/phatblat/local-mlx",
+      "language": "Just"
+    },
+    {
+      "name": "jolt",
+      "repo": "https://github.com/phatblat/jolt",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-code-review",
+      "repo": "https://github.com/phatblat/claude-code-review",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-search-tool-eval",
+      "repo": "https://github.com/phatblat/agent-search-tool-eval"
+    },
+    {
+      "name": "mise-brew",
+      "repo": "https://github.com/phatblat/mise-brew",
+      "language": "Lua"
+    },
+    {
+      "name": "UnitTestingWithQuick",
+      "repo": "https://github.com/phatblat/UnitTestingWithQuick",
+      "language": "Swift"
+    },
+    {
+      "name": "Debuggy",
+      "repo": "https://github.com/phatblat/Debuggy",
+      "url": "https://github.com/vinced45/DebugDemo",
+      "language": "Swift"
+    },
+    {
+      "name": "Outlets",
+      "repo": "https://github.com/phatblat/Outlets",
+      "language": "Swift"
+    },
+    {
+      "name": "dotfiles-windows",
+      "repo": "https://github.com/phatblat/dotfiles-windows",
+      "language": "PowerShell"
+    },
+    {
+      "name": "just-experiments",
+      "repo": "https://github.com/phatblat/just-experiments",
+      "url": "https://just.systems",
+      "language": "Kotlin"
+    },
+    {
+      "name": "LeakyApp",
+      "repo": "https://github.com/phatblat/LeakyApp",
+      "language": "Kotlin"
+    },
+    {
+      "name": "python_crash_course",
+      "repo": "https://github.com/phatblat/python_crash_course",
+      "language": "Python"
+    },
+    {
+      "name": "bazel-experiments",
+      "repo": "https://github.com/phatblat/bazel-experiments",
+      "language": "Starlark"
+    },
+    {
+      "name": "ApplePlatformVersions",
+      "repo": "https://github.com/phatblat/ApplePlatformVersions",
+      "url": "https://developer.apple.com/news/"
+    },
+    {
+      "name": "apple_releases",
+      "repo": "https://github.com/phatblat/apple_releases",
+      "language": "Rust"
+    },
+    {
+      "name": "grafana-buildkite",
+      "repo": "https://github.com/phatblat/grafana-buildkite",
+      "language": "Just"
+    },
+    {
+      "name": "GooglePlatformVersions",
+      "repo": "https://github.com/phatblat/GooglePlatformVersions"
+    },
+    {
+      "name": "homebrew-pinned",
+      "repo": "https://github.com/phatblat/homebrew-pinned",
+      "language": "Ruby"
+    },
+    {
+      "name": "rs-buck2",
+      "repo": "https://github.com/phatblat/rs-buck2",
+      "language": "Starlark"
+    },
+    {
+      "name": "sh-buck2",
+      "repo": "https://github.com/phatblat/sh-buck2",
+      "language": "Starlark"
+    },
+    {
+      "name": "rs-bazel",
+      "repo": "https://github.com/phatblat/rs-bazel",
+      "language": "Starlark"
+    },
+    {
+      "name": "reflog",
+      "repo": "https://github.com/phatblat/reflog",
+      "url": "https://phatbl.at",
+      "language": "SCSS"
+    },
+    {
+      "name": "using-rust-in-kmp",
+      "repo": "https://github.com/phatblat/using-rust-in-kmp",
+      "language": "Kotlin"
+    },
+    {
+      "name": "libcurl-cinterop",
+      "repo": "https://github.com/phatblat/libcurl-cinterop",
+      "language": "Kotlin"
+    },
+    {
+      "name": "android_studio_releases",
+      "repo": "https://github.com/phatblat/android_studio_releases",
+      "language": "Rust"
+    },
+    {
+      "name": "KMPWizard-swiftui",
+      "repo": "https://github.com/phatblat/KMPWizard-swiftui",
+      "language": "Kotlin"
+    },
+    {
+      "name": "KMPWizard-swiftklib",
+      "repo": "https://github.com/phatblat/KMPWizard-swiftklib",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ShellExec",
+      "repo": "https://github.com/phatblat/ShellExec",
+      "language": "Kotlin"
+    },
+    {
+      "name": "reflog-static",
+      "repo": "https://github.com/phatblat/reflog-static",
+      "url": "https://phatbl.at",
+      "language": "HTML"
+    },
+    {
+      "name": "gha-javascript-action",
+      "repo": "https://github.com/phatblat/gha-javascript-action"
+    },
+    {
+      "name": "gha-docker-container-action",
+      "repo": "https://github.com/phatblat/gha-docker-container-action",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gha-composite-action",
+      "repo": "https://github.com/phatblat/gha-composite-action"
+    },
+    {
+      "name": "kmm-dogify",
+      "repo": "https://github.com/phatblat/kmm-dogify",
+      "language": "Kotlin"
+    },
+    {
+      "name": "phatblat.pass",
+      "repo": "https://github.com/phatblat/phatblat.pass",
+      "url": "https://phatbl.at",
+      "language": "Objective-C"
+    },
+    {
+      "name": "actions",
+      "repo": "https://github.com/phatblat/actions"
+    },
+    {
+      "name": "road-to-react-book",
+      "repo": "https://github.com/phatblat/road-to-react-book",
+      "language": "JavaScript"
+    },
+    {
+      "name": "DittoReactNativeExampleIOS",
+      "repo": "https://github.com/phatblat/DittoReactNativeExampleIOS",
+      "language": "TypeScript"
+    },
+    {
+      "name": "RunningGUILinuxInAVirtualMachineOnAMac",
+      "repo": "https://github.com/phatblat/RunningGUILinuxInAVirtualMachineOnAMac",
+      "url": "https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac",
+      "language": "Swift"
+    },
+    {
+      "name": "MicrosoftPlatformVersions",
+      "repo": "https://github.com/phatblat/MicrosoftPlatformVersions"
+    },
+    {
+      "name": "AndroidStudioSettings",
+      "repo": "https://github.com/phatblat/AndroidStudioSettings"
+    },
+    {
+      "name": "ktor-microservice",
+      "repo": "https://github.com/phatblat/ktor-microservice",
+      "language": "Kotlin"
+    },
+    {
+      "name": "DittoTestApps",
+      "repo": "https://github.com/phatblat/DittoTestApps",
+      "language": "Objective-C"
+    },
+    {
+      "name": "ansible4devops",
+      "repo": "https://github.com/phatblat/ansible4devops",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "peril-config",
+      "repo": "https://github.com/phatblat/peril-config",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nfjs-blockchain-for-devs",
+      "repo": "https://github.com/phatblat/nfjs-blockchain-for-devs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test-action-add-labels",
+      "repo": "https://github.com/phatblat/test-action-add-labels"
+    },
+    {
+      "name": "badger",
+      "repo": "https://github.com/phatblat/badger",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Tube",
+      "repo": "https://github.com/phatblat/Tube",
+      "language": "Groovy"
+    },
+    {
+      "name": "rust-learning-path",
+      "repo": "https://github.com/phatblat/rust-learning-path",
+      "language": "Rust"
+    },
+    {
+      "name": "the-key-v2",
+      "repo": "https://github.com/phatblat/the-key-v2"
+    },
+    {
+      "name": "DittoStorageEngine",
+      "repo": "https://github.com/phatblat/DittoStorageEngine",
+      "language": "Makefile"
+    },
+    {
+      "name": "SwiftCLI",
+      "repo": "https://github.com/phatblat/SwiftCLI",
+      "language": "Makefile"
+    },
+    {
+      "name": "360idev_gitws",
+      "repo": "https://github.com/phatblat/360idev_gitws"
+    },
+    {
+      "name": "next-app",
+      "repo": "https://github.com/phatblat/next-app",
+      "language": "CSS"
+    },
+    {
+      "name": "XcodeProjectHashes",
+      "repo": "https://github.com/phatblat/XcodeProjectHashes",
+      "language": "Swift"
+    },
+    {
+      "name": "XamarinLibraryMultiple",
+      "repo": "https://github.com/phatblat/XamarinLibraryMultiple",
+      "language": "C#"
+    },
+    {
+      "name": "XamarinLibrary",
+      "repo": "https://github.com/phatblat/XamarinLibrary",
+      "language": "C#"
+    },
+    {
+      "name": "XamarinPlugin",
+      "repo": "https://github.com/phatblat/XamarinPlugin",
+      "language": "C#"
+    },
+    {
+      "name": "AssemblyLocator",
+      "repo": "https://github.com/phatblat/AssemblyLocator",
+      "language": "C#"
+    },
+    {
+      "name": "GoogleMapsSwiftPackage",
+      "repo": "https://github.com/phatblat/GoogleMapsSwiftPackage",
+      "language": "Ruby"
+    },
+    {
+      "name": "tokio_tutorial",
+      "repo": "https://github.com/phatblat/tokio_tutorial",
+      "language": "Rust"
+    },
+    {
+      "name": "CSharpRustInterop",
+      "repo": "https://github.com/phatblat/CSharpRustInterop",
+      "language": "C#"
+    },
+    {
+      "name": "CsDittoTest",
+      "repo": "https://github.com/phatblat/CsDittoTest",
+      "language": "C#"
+    },
+    {
+      "name": "MyFSharpApp",
+      "repo": "https://github.com/phatblat/MyFSharpApp",
+      "language": "F#"
+    },
+    {
+      "name": "MultiJvmLibrary",
+      "repo": "https://github.com/phatblat/MultiJvmLibrary",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kmm-app",
+      "repo": "https://github.com/phatblat/kmm-app",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kmm-library",
+      "repo": "https://github.com/phatblat/kmm-library",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kotlin-spring-web",
+      "repo": "https://github.com/phatblat/kotlin-spring-web",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kotlin-multiplatform-jni",
+      "repo": "https://github.com/phatblat/kotlin-multiplatform-jni",
+      "language": "Kotlin"
+    },
+    {
+      "name": "WebView",
+      "repo": "https://github.com/phatblat/WebView",
+      "language": "Swift"
+    },
+    {
+      "name": "PinKit",
+      "repo": "https://github.com/phatblat/PinKit",
+      "language": "Swift"
+    },
+    {
+      "name": "RealmTaskTracker",
+      "repo": "https://github.com/phatblat/RealmTaskTracker",
+      "url": "https://docs.mongodb.com/realm/tutorial/ios-swift/",
+      "language": "Swift"
+    },
+    {
+      "name": "Ditto.swift",
+      "repo": "https://github.com/phatblat/Ditto.swift",
+      "url": "https://github.com/getditto/DittoSwift",
+      "language": "Swift"
+    },
+    {
+      "name": "DittoObjC",
+      "repo": "https://github.com/phatblat/DittoObjC",
+      "url": "https://github.com/getditto/DittoObjC",
+      "language": "Swift"
+    },
+    {
+      "name": "programming_rust",
+      "repo": "https://github.com/phatblat/programming_rust",
+      "language": "Rust"
+    },
+    {
+      "name": "Ditto.test",
+      "repo": "https://github.com/phatblat/Ditto.test",
+      "language": "Swift"
+    },
+    {
+      "name": "SwiftBinaryPackage",
+      "repo": "https://github.com/phatblat/SwiftBinaryPackage",
+      "language": "C"
+    },
+    {
+      "name": "jekyll-test",
+      "repo": "https://github.com/phatblat/jekyll-test",
+      "language": "Ruby"
+    },
+    {
+      "name": "go-greetings",
+      "repo": "https://github.com/phatblat/go-greetings",
+      "language": "Go"
+    },
+    {
+      "name": "go-hello",
+      "repo": "https://github.com/phatblat/go-hello",
+      "language": "Go"
+    },
+    {
+      "name": "SiliconMiner",
+      "repo": "https://github.com/phatblat/SiliconMiner"
+    },
+    {
+      "name": "homebrew-services",
+      "repo": "https://github.com/phatblat/homebrew-services",
+      "language": "Ruby"
+    },
+    {
+      "name": "alpaca",
+      "repo": "https://github.com/phatblat/alpaca",
+      "language": "Python"
+    }
+  ]
+}

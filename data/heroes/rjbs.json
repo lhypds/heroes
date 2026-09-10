@@ -1,0 +1,513 @@
+{
+  "handle": "rjbs",
+  "name": "Ricardo Signes",
+  "github": [
+    "https://github.com/rjbs"
+  ],
+  "website": "https://rjbs.cloud/",
+  "bio": "I write a lot of Perl code, but all languages are my allies.",
+  "own_repos": 362,
+  "commits": 10552,
+  "apps": [],
+  "repos": [
+    {
+      "name": "Git-BranchManager",
+      "repo": "https://github.com/rjbs/Git-BranchManager",
+      "language": "Perl"
+    },
+    {
+      "name": "Loose-Threads",
+      "repo": "https://github.com/rjbs/Loose-Threads",
+      "language": "Go"
+    },
+    {
+      "name": "rjbs.github.io",
+      "repo": "https://github.com/rjbs/rjbs.github.io",
+      "url": "https://rjbs.cloud/",
+      "language": "HTML"
+    },
+    {
+      "name": "Config-MVP",
+      "repo": "https://github.com/rjbs/Config-MVP",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-ci",
+      "repo": "https://github.com/rjbs/perl-ci",
+      "language": "Perl"
+    },
+    {
+      "name": "dzil-actions",
+      "repo": "https://github.com/rjbs/dzil-actions"
+    },
+    {
+      "name": "Dist-Zilla",
+      "repo": "https://github.com/rjbs/Dist-Zilla",
+      "language": "Perl"
+    },
+    {
+      "name": "Sub-Exporter",
+      "repo": "https://github.com/rjbs/Sub-Exporter",
+      "language": "Perl"
+    },
+    {
+      "name": "Data-OptList",
+      "repo": "https://github.com/rjbs/Data-OptList",
+      "language": "Perl"
+    },
+    {
+      "name": "rjbs-dots",
+      "repo": "https://github.com/rjbs/rjbs-dots",
+      "language": "Perl"
+    },
+    {
+      "name": "winchester",
+      "repo": "https://github.com/rjbs/winchester",
+      "language": "JavaScript"
+    },
+    {
+      "name": "NerfJournal",
+      "repo": "https://github.com/rjbs/NerfJournal",
+      "language": "Swift"
+    },
+    {
+      "name": "vcard4-bis",
+      "repo": "https://github.com/rjbs/vcard4-bis",
+      "language": "Python"
+    },
+    {
+      "name": "Sieve-Generator",
+      "repo": "https://github.com/rjbs/Sieve-Generator",
+      "language": "Perl"
+    },
+    {
+      "name": "imap-extensions-suggestions",
+      "repo": "https://github.com/rjbs/imap-extensions-suggestions",
+      "language": "Makefile"
+    },
+    {
+      "name": "vless",
+      "repo": "https://github.com/rjbs/vless",
+      "language": "Rust"
+    },
+    {
+      "name": "rjbs-merge-test",
+      "repo": "https://github.com/rjbs/rjbs-merge-test"
+    },
+    {
+      "name": "one-page-games",
+      "repo": "https://github.com/rjbs/one-page-games",
+      "language": "Python"
+    },
+    {
+      "name": "rjbs-keyboard",
+      "repo": "https://github.com/rjbs/rjbs-keyboard",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-tdf",
+      "repo": "https://github.com/rjbs/go-tdf",
+      "language": "Go"
+    },
+    {
+      "name": "Log-Fmt-XS",
+      "repo": "https://github.com/rjbs/Log-Fmt-XS",
+      "language": "XS"
+    },
+    {
+      "name": "Log-Dispatchouli",
+      "repo": "https://github.com/rjbs/Log-Dispatchouli",
+      "language": "Perl"
+    },
+    {
+      "name": "Test-Unit",
+      "repo": "https://github.com/rjbs/Test-Unit",
+      "language": "Perl"
+    },
+    {
+      "name": "App-Cmd",
+      "repo": "https://github.com/rjbs/App-Cmd",
+      "language": "Perl"
+    },
+    {
+      "name": "Test-Routine",
+      "repo": "https://github.com/rjbs/Test-Routine",
+      "language": "Perl"
+    },
+    {
+      "name": "Text-SlackEmoji",
+      "repo": "https://github.com/rjbs/Text-SlackEmoji",
+      "language": "Perl"
+    },
+    {
+      "name": "misc",
+      "repo": "https://github.com/rjbs/misc",
+      "language": "Perl"
+    },
+    {
+      "name": "dzil.org",
+      "repo": "https://github.com/rjbs/dzil.org",
+      "language": "Perl"
+    },
+    {
+      "name": "CPAN-Uploader",
+      "repo": "https://github.com/rjbs/CPAN-Uploader",
+      "language": "Perl"
+    },
+    {
+      "name": "Sub-Exporter-Lexical",
+      "repo": "https://github.com/rjbs/Sub-Exporter-Lexical",
+      "language": "Perl"
+    },
+    {
+      "name": "code-review",
+      "repo": "https://github.com/rjbs/code-review",
+      "language": "Perl"
+    },
+    {
+      "name": "Dist-Zilla-PluginBundle-RJBS",
+      "repo": "https://github.com/rjbs/Dist-Zilla-PluginBundle-RJBS",
+      "language": "Perl"
+    },
+    {
+      "name": "Number-Format",
+      "repo": "https://github.com/rjbs/Number-Format",
+      "language": "Perl"
+    },
+    {
+      "name": "MIME-Lite",
+      "repo": "https://github.com/rjbs/MIME-Lite",
+      "language": "Perl"
+    },
+    {
+      "name": "Test-Deep",
+      "repo": "https://github.com/rjbs/Test-Deep",
+      "language": "Perl"
+    },
+    {
+      "name": "Getopt-Long-Descriptive",
+      "repo": "https://github.com/rjbs/Getopt-Long-Descriptive",
+      "language": "Perl"
+    },
+    {
+      "name": "claudelog",
+      "repo": "https://github.com/rjbs/claudelog",
+      "language": "Python"
+    },
+    {
+      "name": "rjbs-vim-dots",
+      "repo": "https://github.com/rjbs/rjbs-vim-dots",
+      "language": "Vim Script"
+    },
+    {
+      "name": "RJBS-Advent",
+      "repo": "https://github.com/rjbs/RJBS-Advent",
+      "language": "Rich Text Format"
+    },
+    {
+      "name": "WWW-AdventCalendar",
+      "repo": "https://github.com/rjbs/WWW-AdventCalendar",
+      "language": "Perl"
+    },
+    {
+      "name": "Test-Fatal",
+      "repo": "https://github.com/rjbs/Test-Fatal",
+      "language": "Perl"
+    },
+    {
+      "name": "Slack-BlockKit",
+      "repo": "https://github.com/rjbs/Slack-BlockKit",
+      "language": "Perl"
+    },
+    {
+      "name": "Data-Printer-StructDumb",
+      "repo": "https://github.com/rjbs/Data-Printer-StructDumb",
+      "language": "Perl"
+    },
+    {
+      "name": "Log-Dispatch-UnixSyslog",
+      "repo": "https://github.com/rjbs/Log-Dispatch-UnixSyslog",
+      "language": "Perl"
+    },
+    {
+      "name": "Net-Flickr-Backup",
+      "repo": "https://github.com/rjbs/Net-Flickr-Backup",
+      "language": "Perl"
+    },
+    {
+      "name": "Data-Printer-Filter-JMAP",
+      "repo": "https://github.com/rjbs/Data-Printer-Filter-JMAP",
+      "language": "Perl"
+    },
+    {
+      "name": "Encode-IMAPUTF7",
+      "repo": "https://github.com/rjbs/Encode-IMAPUTF7",
+      "language": "Perl"
+    },
+    {
+      "name": "Dist-Zilla-Stash-OnePasswordLogin",
+      "repo": "https://github.com/rjbs/Dist-Zilla-Stash-OnePasswordLogin",
+      "language": "Perl"
+    },
+    {
+      "name": "Number-Tolerant",
+      "repo": "https://github.com/rjbs/Number-Tolerant",
+      "language": "Perl"
+    },
+    {
+      "name": "Wink",
+      "repo": "https://github.com/rjbs/Wink",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME-ContentType",
+      "repo": "https://github.com/rjbs/Email-MIME-ContentType",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-Simple",
+      "repo": "https://github.com/rjbs/Email-Simple",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-Date-Format",
+      "repo": "https://github.com/rjbs/Email-Date-Format",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-Stuffer",
+      "repo": "https://github.com/rjbs/Email-Stuffer",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME",
+      "repo": "https://github.com/rjbs/Email-MIME",
+      "language": "Perl"
+    },
+    {
+      "name": "Password-OnePassword-OPCLI",
+      "repo": "https://github.com/rjbs/Password-OnePassword-OPCLI",
+      "language": "Perl"
+    },
+    {
+      "name": "MRO-Magic",
+      "repo": "https://github.com/rjbs/MRO-Magic",
+      "language": "Perl"
+    },
+    {
+      "name": "Data-Section",
+      "repo": "https://github.com/rjbs/Data-Section",
+      "language": "Perl"
+    },
+    {
+      "name": "spotrack",
+      "repo": "https://github.com/rjbs/spotrack",
+      "language": "Perl"
+    },
+    {
+      "name": "Dist-Zilla-Plugin-Git-Describe",
+      "repo": "https://github.com/rjbs/Dist-Zilla-Plugin-Git-Describe",
+      "language": "Perl"
+    },
+    {
+      "name": "CPAN-Mini",
+      "repo": "https://github.com/rjbs/CPAN-Mini",
+      "language": "Perl"
+    },
+    {
+      "name": "Config-INI",
+      "repo": "https://github.com/rjbs/Config-INI",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME-Kit",
+      "repo": "https://github.com/rjbs/Email-MIME-Kit",
+      "language": "Perl"
+    },
+    {
+      "name": "Module-Faker",
+      "repo": "https://github.com/rjbs/Module-Faker",
+      "language": "Perl"
+    },
+    {
+      "name": "Perl-PrereqScanner",
+      "repo": "https://github.com/rjbs/Perl-PrereqScanner",
+      "language": "Perl"
+    },
+    {
+      "name": "Pod-Weaver",
+      "repo": "https://github.com/rjbs/Pod-Weaver",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-Sender",
+      "repo": "https://github.com/rjbs/Email-Sender",
+      "language": "Perl"
+    },
+    {
+      "name": "unpause",
+      "repo": "https://github.com/rjbs/unpause",
+      "language": "Perl"
+    },
+    {
+      "name": "Pod-Elemental-Transformer-SynHi",
+      "repo": "https://github.com/rjbs/Pod-Elemental-Transformer-SynHi",
+      "language": "Perl"
+    },
+    {
+      "name": "Test-BinaryData",
+      "repo": "https://github.com/rjbs/Test-BinaryData",
+      "language": "Perl"
+    },
+    {
+      "name": "Color-Palette",
+      "repo": "https://github.com/rjbs/Color-Palette",
+      "language": "Perl"
+    },
+    {
+      "name": "IPC-Run3",
+      "repo": "https://github.com/rjbs/IPC-Run3",
+      "language": "Perl"
+    },
+    {
+      "name": "advent-of-code",
+      "repo": "https://github.com/rjbs/advent-of-code",
+      "language": "Perl"
+    },
+    {
+      "name": "App-Cronjob",
+      "repo": "https://github.com/rjbs/App-Cronjob",
+      "language": "Perl"
+    },
+    {
+      "name": "URI-cpan",
+      "repo": "https://github.com/rjbs/URI-cpan",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-ARF",
+      "repo": "https://github.com/rjbs/Email-ARF",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-Abstract",
+      "repo": "https://github.com/rjbs/Email-Abstract",
+      "language": "Perl"
+    },
+    {
+      "name": "Nib",
+      "repo": "https://github.com/rjbs/Nib",
+      "language": "Perl"
+    },
+    {
+      "name": "String-Switches",
+      "repo": "https://github.com/rjbs/String-Switches",
+      "language": "Perl"
+    },
+    {
+      "name": "CPAN-Analyzer",
+      "repo": "https://github.com/rjbs/CPAN-Analyzer",
+      "language": "Perl"
+    },
+    {
+      "name": "sunglazer",
+      "repo": "https://github.com/rjbs/sunglazer",
+      "language": "Perl"
+    },
+    {
+      "name": "DateTimeX-TZPicker",
+      "repo": "https://github.com/rjbs/DateTimeX-TZPicker",
+      "language": "Perl"
+    },
+    {
+      "name": "Huell",
+      "repo": "https://github.com/rjbs/Huell",
+      "language": "Perl"
+    },
+    {
+      "name": "Rx",
+      "repo": "https://github.com/rjbs/Rx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Yakker",
+      "repo": "https://github.com/rjbs/Yakker",
+      "language": "Perl"
+    },
+    {
+      "name": "Dist-Zilla-Plugin-PodWeaver",
+      "repo": "https://github.com/rjbs/Dist-Zilla-Plugin-PodWeaver",
+      "language": "Perl"
+    },
+    {
+      "name": "Dist-Zilla-Plugin-CheckPrereqsIndexed",
+      "repo": "https://github.com/rjbs/Dist-Zilla-Plugin-CheckPrereqsIndexed",
+      "language": "Perl"
+    },
+    {
+      "name": "E-Mail-Acme",
+      "repo": "https://github.com/rjbs/E-Mail-Acme",
+      "language": "Perl"
+    },
+    {
+      "name": "whixh",
+      "repo": "https://github.com/rjbs/whixh",
+      "language": "Python"
+    },
+    {
+      "name": "Net-Finger-Server",
+      "repo": "https://github.com/rjbs/Net-Finger-Server",
+      "language": "Perl"
+    },
+    {
+      "name": "Net-DNS-GuessTZ",
+      "repo": "https://github.com/rjbs/Net-DNS-GuessTZ",
+      "language": "Perl"
+    },
+    {
+      "name": "MooseX-Types-Perl",
+      "repo": "https://github.com/rjbs/MooseX-Types-Perl",
+      "language": "Raku"
+    },
+    {
+      "name": "MooseX-SetOnce",
+      "repo": "https://github.com/rjbs/MooseX-SetOnce",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME-Kit-Renderer-Text-Template",
+      "repo": "https://github.com/rjbs/Email-MIME-Kit-Renderer-Text-Template",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME-Kit-KitReader-SWAK",
+      "repo": "https://github.com/rjbs/Email-MIME-Kit-KitReader-SWAK",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME-Kit-Assembler-TextifyHTML",
+      "repo": "https://github.com/rjbs/Email-MIME-Kit-Assembler-TextifyHTML",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME-Kit-Assembler-Markdown",
+      "repo": "https://github.com/rjbs/Email-MIME-Kit-Assembler-Markdown",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MIME-Encodings",
+      "repo": "https://github.com/rjbs/Email-MIME-Encodings",
+      "language": "Perl"
+    },
+    {
+      "name": "Email-MessageID",
+      "repo": "https://github.com/rjbs/Email-MessageID",
+      "language": "Perl"
+    },
+    {
+      "name": "DBIx-Locker",
+      "repo": "https://github.com/rjbs/DBIx-Locker",
+      "language": "Perl"
+    }
+  ]
+}

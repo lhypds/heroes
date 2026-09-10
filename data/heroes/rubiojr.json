@@ -6,6 +6,505 @@
   ],
   "website": "https://blog.rugo-lang.dev/",
   "bio": "Old School Graffiti Artist",
+  "own_repos": 215,
   "commits": 25650,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "hashup",
+      "repo": "https://github.com/rubiojr/hashup",
+      "language": "Go"
+    },
+    {
+      "name": "kv",
+      "repo": "https://github.com/rubiojr/kv",
+      "language": "Go"
+    },
+    {
+      "name": "awesome-restic",
+      "repo": "https://github.com/rubiojr/awesome-restic",
+      "language": "Go"
+    },
+    {
+      "name": "whereami",
+      "repo": "https://github.com/rubiojr/whereami",
+      "language": "QML"
+    },
+    {
+      "name": "whereami-flatpak",
+      "repo": "https://github.com/rubiojr/whereami-flatpak",
+      "language": "Shell"
+    },
+    {
+      "name": "go-pirateaudio",
+      "repo": "https://github.com/rubiojr/go-pirateaudio",
+      "language": "Go"
+    },
+    {
+      "name": "go-usbmon",
+      "repo": "https://github.com/rubiojr/go-usbmon",
+      "language": "Go"
+    },
+    {
+      "name": "yolo",
+      "repo": "https://github.com/rubiojr/yolo",
+      "url": "https://yolo.rbel.co",
+      "language": "Shell"
+    },
+    {
+      "name": "rugo",
+      "repo": "https://github.com/rubiojr/rugo",
+      "url": "https://rugo-lang.dev",
+      "language": "Go"
+    },
+    {
+      "name": "meliafts",
+      "repo": "https://github.com/rubiojr/meliafts",
+      "language": "Go"
+    },
+    {
+      "name": "rubiojr",
+      "repo": "https://github.com/rubiojr/rubiojr"
+    },
+    {
+      "name": "nvmemon",
+      "repo": "https://github.com/rubiojr/nvmemon",
+      "language": "Go"
+    },
+    {
+      "name": "pfcheck",
+      "repo": "https://github.com/rubiojr/pfcheck",
+      "language": "Go"
+    },
+    {
+      "name": "whatsapp-fakeit",
+      "repo": "https://github.com/rubiojr/whatsapp-fakeit",
+      "language": "Go"
+    },
+    {
+      "name": "rugo-zed",
+      "repo": "https://github.com/rubiojr/rugo-zed",
+      "url": "https://rugo-lang.dev",
+      "language": "C"
+    },
+    {
+      "name": "lunartlk",
+      "repo": "https://github.com/rubiojr/lunartlk",
+      "language": "Go"
+    },
+    {
+      "name": "cute",
+      "repo": "https://github.com/rubiojr/cute",
+      "language": "Go"
+    },
+    {
+      "name": "rugo-blog",
+      "repo": "https://github.com/rubiojr/rugo-blog",
+      "url": "https://blog.rugo-lang.dev",
+      "language": "HTML"
+    },
+    {
+      "name": "gummy",
+      "repo": "https://github.com/rubiojr/gummy"
+    },
+    {
+      "name": "rugh",
+      "repo": "https://github.com/rubiojr/rugh"
+    },
+    {
+      "name": "sup",
+      "repo": "https://github.com/rubiojr/sup",
+      "url": "https://sup-registry.rbel.co",
+      "language": "Go"
+    },
+    {
+      "name": "bcn",
+      "repo": "https://github.com/rubiojr/bcn",
+      "language": "Go"
+    },
+    {
+      "name": "cheatsheet",
+      "repo": "https://github.com/rubiojr/cheatsheet"
+    },
+    {
+      "name": "pearls",
+      "repo": "https://github.com/rubiojr/pearls"
+    },
+    {
+      "name": "any-vcard",
+      "repo": "https://github.com/rubiojr/any-vcard",
+      "language": "Go"
+    },
+    {
+      "name": "fein",
+      "repo": "https://github.com/rubiojr/fein",
+      "language": "Go"
+    },
+    {
+      "name": "scripts",
+      "repo": "https://github.com/rubiojr/scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "go-udisks",
+      "repo": "https://github.com/rubiojr/go-udisks",
+      "language": "Go"
+    },
+    {
+      "name": "zed-risor",
+      "repo": "https://github.com/rubiojr/zed-risor",
+      "language": "Tree-sitter Query"
+    },
+    {
+      "name": "plik-themes",
+      "repo": "https://github.com/rubiojr/plik-themes",
+      "language": "HTML"
+    },
+    {
+      "name": "ergs",
+      "repo": "https://github.com/rubiojr/ergs",
+      "url": "https://data-ergs.github.io/web",
+      "language": "Go"
+    },
+    {
+      "name": "go-datadis",
+      "repo": "https://github.com/rubiojr/go-datadis",
+      "language": "Go"
+    },
+    {
+      "name": "ergs-mcp",
+      "repo": "https://github.com/rubiojr/ergs-mcp",
+      "language": "Go"
+    },
+    {
+      "name": "rtve-go",
+      "repo": "https://github.com/rubiojr/rtve-go",
+      "language": "HTML"
+    },
+    {
+      "name": "verba-go",
+      "repo": "https://github.com/rubiojr/verba-go",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gas",
+      "repo": "https://github.com/rubiojr/gas",
+      "language": "Go"
+    },
+    {
+      "name": "hass2geo",
+      "repo": "https://github.com/rubiojr/hass2geo",
+      "language": "Go"
+    },
+    {
+      "name": "gasdb",
+      "repo": "https://github.com/rubiojr/gasdb",
+      "url": "https://fuel.rbel.co",
+      "language": "Go"
+    },
+    {
+      "name": "ghtools",
+      "repo": "https://github.com/rubiojr/ghtools",
+      "language": "Go"
+    },
+    {
+      "name": "rsx",
+      "repo": "https://github.com/rubiojr/rsx",
+      "url": "https://rubiojr.github.io/rsx",
+      "language": "Go"
+    },
+    {
+      "name": "hlx",
+      "repo": "https://github.com/rubiojr/hlx",
+      "language": "Go"
+    },
+    {
+      "name": "sup-registry",
+      "repo": "https://github.com/rubiojr/sup-registry",
+      "language": "HTML"
+    },
+    {
+      "name": "aemet-go",
+      "repo": "https://github.com/rubiojr/aemet-go",
+      "language": "Go"
+    },
+    {
+      "name": "tlz",
+      "repo": "https://github.com/rubiojr/tlz",
+      "language": "Shell"
+    },
+    {
+      "name": "risor-docgen",
+      "repo": "https://github.com/rubiojr/risor-docgen",
+      "language": "Shell"
+    },
+    {
+      "name": "awesome-risor",
+      "repo": "https://github.com/rubiojr/awesome-risor"
+    },
+    {
+      "name": "risor-docbot",
+      "repo": "https://github.com/rubiojr/risor-docbot",
+      "language": "Go"
+    },
+    {
+      "name": "risor-libs",
+      "repo": "https://github.com/rubiojr/risor-libs",
+      "language": "Shell"
+    },
+    {
+      "name": "rca",
+      "repo": "https://github.com/rubiojr/rca",
+      "language": "MDX"
+    },
+    {
+      "name": "echarts-risor",
+      "repo": "https://github.com/rubiojr/echarts-risor",
+      "language": "Go"
+    },
+    {
+      "name": "risor-modules",
+      "repo": "https://github.com/rubiojr/risor-modules",
+      "language": "Go"
+    },
+    {
+      "name": "gpx-risor",
+      "repo": "https://github.com/rubiojr/gpx-risor",
+      "language": "Go"
+    },
+    {
+      "name": "rma",
+      "repo": "https://github.com/rubiojr/rma",
+      "language": "Go"
+    },
+    {
+      "name": "slkops",
+      "repo": "https://github.com/rubiojr/slkops",
+      "language": "Go"
+    },
+    {
+      "name": "gapp",
+      "repo": "https://github.com/rubiojr/gapp",
+      "language": "Go"
+    },
+    {
+      "name": "hashup-app",
+      "repo": "https://github.com/rubiojr/hashup-app",
+      "language": "Go"
+    },
+    {
+      "name": "dsg",
+      "repo": "https://github.com/rubiojr/dsg",
+      "language": "Go"
+    },
+    {
+      "name": "zed-prompts",
+      "repo": "https://github.com/rubiojr/zed-prompts",
+      "language": "C"
+    },
+    {
+      "name": "glance-embed",
+      "repo": "https://github.com/rubiojr/glance-embed",
+      "language": "Go"
+    },
+    {
+      "name": "omnivore-exporter",
+      "repo": "https://github.com/rubiojr/omnivore-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "gh-stars-exporter",
+      "repo": "https://github.com/rubiojr/gh-stars-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "hello",
+      "repo": "https://github.com/rubiojr/hello",
+      "language": "Shell"
+    },
+    {
+      "name": "rubiojr.github.com",
+      "repo": "https://github.com/rubiojr/rubiojr.github.com",
+      "language": "HTML"
+    },
+    {
+      "name": "omnivore-go",
+      "repo": "https://github.com/rubiojr/omnivore-go",
+      "language": "Go"
+    },
+    {
+      "name": "history-exporter",
+      "repo": "https://github.com/rubiojr/history-exporter"
+    },
+    {
+      "name": "overland-receiver",
+      "repo": "https://github.com/rubiojr/overland-receiver",
+      "language": "Go"
+    },
+    {
+      "name": "gofm-docker",
+      "repo": "https://github.com/rubiojr/gofm-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "coconut_chronicles",
+      "repo": "https://github.com/rubiojr/coconut_chronicles",
+      "language": "Dart"
+    },
+    {
+      "name": "redlib-redirect",
+      "repo": "https://github.com/rubiojr/redlib-redirect",
+      "language": "JavaScript"
+    },
+    {
+      "name": "adaio",
+      "repo": "https://github.com/rubiojr/adaio",
+      "language": "Crystal"
+    },
+    {
+      "name": "power-profiles-automation",
+      "repo": "https://github.com/rubiojr/power-profiles-automation",
+      "language": "Shell"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/rubiojr/dotfiles",
+      "language": "CSS"
+    },
+    {
+      "name": "esx",
+      "repo": "https://github.com/rubiojr/esx",
+      "url": "https://github.com/maintux/esx",
+      "language": "Ruby"
+    },
+    {
+      "name": "tavern",
+      "repo": "https://github.com/rubiojr/tavern",
+      "language": "Go"
+    },
+    {
+      "name": "neon-status",
+      "repo": "https://github.com/rubiojr/neon-status",
+      "language": "Go"
+    },
+    {
+      "name": "fsplit",
+      "repo": "https://github.com/rubiojr/fsplit",
+      "language": "Go"
+    },
+    {
+      "name": "mullvad-api",
+      "repo": "https://github.com/rubiojr/mullvad-api",
+      "language": "Dart"
+    },
+    {
+      "name": "charmedring",
+      "repo": "https://github.com/rubiojr/charmedring",
+      "language": "Go"
+    },
+    {
+      "name": "go",
+      "repo": "https://github.com/rubiojr/go",
+      "language": "Go"
+    },
+    {
+      "name": "gtk4extra",
+      "repo": "https://github.com/rubiojr/gtk4extra",
+      "language": "Go"
+    },
+    {
+      "name": "rapi",
+      "repo": "https://github.com/rubiojr/rapi",
+      "language": "Go"
+    },
+    {
+      "name": "snr",
+      "repo": "https://github.com/rubiojr/snr",
+      "language": "Go"
+    },
+    {
+      "name": "fanotify",
+      "repo": "https://github.com/rubiojr/fanotify",
+      "language": "Go"
+    },
+    {
+      "name": "pixelart",
+      "repo": "https://github.com/rubiojr/pixelart"
+    },
+    {
+      "name": "bonos",
+      "repo": "https://github.com/rubiojr/bonos",
+      "language": "Go"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/rubiojr/notes"
+    },
+    {
+      "name": "hmacgen",
+      "repo": "https://github.com/rubiojr/hmacgen",
+      "language": "Go"
+    },
+    {
+      "name": "gin-middleware",
+      "repo": "https://github.com/rubiojr/gin-middleware",
+      "language": "Go"
+    },
+    {
+      "name": "yumrepo",
+      "repo": "https://github.com/rubiojr/yumrepo",
+      "language": "Ruby"
+    },
+    {
+      "name": "lists",
+      "repo": "https://github.com/rubiojr/lists"
+    },
+    {
+      "name": "rclone-charmfs",
+      "repo": "https://github.com/rubiojr/rclone-charmfs",
+      "language": "Go"
+    },
+    {
+      "name": "rindex",
+      "repo": "https://github.com/rubiojr/rindex",
+      "language": "Go"
+    },
+    {
+      "name": "s__t",
+      "repo": "https://github.com/rubiojr/s__t"
+    },
+    {
+      "name": "vpnflag",
+      "repo": "https://github.com/rubiojr/vpnflag",
+      "language": "Go"
+    },
+    {
+      "name": "sample-configs",
+      "repo": "https://github.com/rubiojr/sample-configs"
+    },
+    {
+      "name": "devlog",
+      "repo": "https://github.com/rubiojr/devlog",
+      "language": "Go"
+    },
+    {
+      "name": "eyez",
+      "repo": "https://github.com/rubiojr/eyez",
+      "language": "Go"
+    },
+    {
+      "name": "go-enviroplus",
+      "repo": "https://github.com/rubiojr/go-enviroplus",
+      "language": "HTML"
+    },
+    {
+      "name": "go-edistribucion",
+      "repo": "https://github.com/rubiojr/go-edistribucion",
+      "language": "Go"
+    },
+    {
+      "name": "cookbook",
+      "repo": "https://github.com/rubiojr/cookbook"
+    }
+  ]
 }

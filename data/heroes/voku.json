@@ -6,6 +6,565 @@
   ],
   "website": "https://moelleken.org/",
   "bio": "Developer & Sysadmin | egrep '[#php|#js|#html|#css|#linux]'",
+  "own_repos": 127,
   "commits": 10436,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "agent-loop",
+      "repo": "https://github.com/voku/agent-loop",
+      "language": "PHP"
+    },
+    {
+      "name": "agent-recall-compiler",
+      "repo": "https://github.com/voku/agent-recall-compiler",
+      "language": "PHP"
+    },
+    {
+      "name": "agent-learning",
+      "repo": "https://github.com/voku/agent-learning",
+      "language": "PHP"
+    },
+    {
+      "name": "phpstan-rules",
+      "repo": "https://github.com/voku/phpstan-rules",
+      "language": "PHP"
+    },
+    {
+      "name": "AmysEcho",
+      "repo": "https://github.com/voku/AmysEcho",
+      "url": "https://voku.github.io/AmysEcho/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-ui",
+      "repo": "https://github.com/voku/agent-ui",
+      "language": "PHP"
+    },
+    {
+      "name": "PromptMastery",
+      "repo": "https://github.com/voku/PromptMastery",
+      "url": "https://voku.github.io/PromptMastery/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ChroniclesCleanCode",
+      "repo": "https://github.com/voku/ChroniclesCleanCode",
+      "url": "https://voku.github.io/ChroniclesCleanCode/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CosmicAnalogy",
+      "repo": "https://github.com/voku/CosmicAnalogy",
+      "url": "https://voku.github.io/CosmicAnalogy/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TextCleaner",
+      "repo": "https://github.com/voku/TextCleaner",
+      "url": "https://voku.github.io/TextCleaner/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "root-cause-analysis",
+      "repo": "https://github.com/voku/root-cause-analysis",
+      "url": "https://voku.github.io/root-cause-analysis/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PHPStanGuide",
+      "repo": "https://github.com/voku/PHPStanGuide",
+      "url": "https://voku.github.io/PHPStanGuide/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "itp-context_post",
+      "repo": "https://github.com/voku/itp-context_post",
+      "url": "https://voku.github.io/itp-context_post/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "learnings",
+      "repo": "https://github.com/voku/learnings",
+      "url": "https://voku.github.io/learnings/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-map",
+      "repo": "https://github.com/voku/agent-map",
+      "language": "PHP"
+    },
+    {
+      "name": "agent_loop_demo",
+      "repo": "https://github.com/voku/agent_loop_demo",
+      "url": "https://voku.github.io/agent_loop_demo/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Prompt_Intro",
+      "repo": "https://github.com/voku/Prompt_Intro",
+      "url": "https://voku.github.io/Prompt_Intro/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TheAntiCodingAgentGuide",
+      "repo": "https://github.com/voku/TheAntiCodingAgentGuide",
+      "url": "https://voku.github.io/TheAntiCodingAgentGuide/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "BlindSpotMetaPromptApp",
+      "repo": "https://github.com/voku/BlindSpotMetaPromptApp",
+      "url": "https://voku.github.io/BlindSpotMetaPromptApp/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "DevLabyrinth",
+      "repo": "https://github.com/voku/DevLabyrinth",
+      "url": "https://voku.github.io/DevLabyrinth/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PHPStanConfigurator",
+      "repo": "https://github.com/voku/PHPStanConfigurator",
+      "url": "https://voku.github.io/PHPStanConfigurator/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "promptrc",
+      "repo": "https://github.com/voku/promptrc",
+      "url": "https://voku.github.io/promptrc/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lars_moelleken",
+      "repo": "https://github.com/voku/lars_moelleken",
+      "url": "https://voku.github.io/lars_moelleken/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PHPDoctor",
+      "repo": "https://github.com/voku/PHPDoctor",
+      "language": "PHP"
+    },
+    {
+      "name": "AgentCommunicationGuide",
+      "repo": "https://github.com/voku/AgentCommunicationGuide",
+      "url": "https://voku.github.io/AgentCommunicationGuide/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Lars_Moelleken_CV",
+      "repo": "https://github.com/voku/Lars_Moelleken_CV",
+      "url": "https://voku.github.io/Lars_Moelleken_CV/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PHPArrayBox",
+      "repo": "https://github.com/voku/PHPArrayBox",
+      "url": "https://voku.github.io/PHPArrayBox/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anti-xss",
+      "repo": "https://github.com/voku/anti-xss",
+      "url": "https://voku.github.io/anti-xss_docs/",
+      "language": "PHP"
+    },
+    {
+      "name": "LegacyPHP",
+      "repo": "https://github.com/voku/LegacyPHP",
+      "url": "https://voku.github.io/LegacyPHP/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "your_agent_config",
+      "repo": "https://github.com/voku/your_agent_config",
+      "url": "https://voku.github.io/your_agent_config/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "httpful_docs",
+      "repo": "https://github.com/voku/httpful_docs",
+      "url": "https://github.com/voku/httpful",
+      "language": "TypeScript"
+    },
+    {
+      "name": "LLMCodingTrainMap",
+      "repo": "https://github.com/voku/LLMCodingTrainMap",
+      "url": "https://voku.github.io/LLMCodingTrainMap/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "LarsGermane",
+      "repo": "https://github.com/voku/LarsGermane",
+      "url": "https://voku.github.io/LarsGermane/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "LinkedInBadge",
+      "repo": "https://github.com/voku/LinkedInBadge",
+      "url": "https://voku.github.io/LinkedInBadge/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phpstan-agent-format",
+      "repo": "https://github.com/voku/phpstan-agent-format",
+      "language": "PHP"
+    },
+    {
+      "name": "weather",
+      "repo": "https://github.com/voku/weather",
+      "language": "PHP"
+    },
+    {
+      "name": "error-handler-lib",
+      "repo": "https://github.com/voku/error-handler-lib",
+      "language": "PHP"
+    },
+    {
+      "name": "agent-loop-runner",
+      "repo": "https://github.com/voku/agent-loop-runner",
+      "language": "PHP"
+    },
+    {
+      "name": "Php-Readme-Helper",
+      "repo": "https://github.com/voku/Php-Readme-Helper",
+      "language": "PHP"
+    },
+    {
+      "name": "itp-context",
+      "repo": "https://github.com/voku/itp-context",
+      "language": "PHP"
+    },
+    {
+      "name": "HtmlMin",
+      "repo": "https://github.com/voku/HtmlMin",
+      "language": "PHP"
+    },
+    {
+      "name": "agent-graph",
+      "repo": "https://github.com/voku/agent-graph",
+      "language": "PHP"
+    },
+    {
+      "name": "simple-active-record",
+      "repo": "https://github.com/voku/simple-active-record",
+      "language": "PHP"
+    },
+    {
+      "name": "weather-demo",
+      "repo": "https://github.com/voku/weather-demo",
+      "language": "PHP"
+    },
+    {
+      "name": "agent-kanban",
+      "repo": "https://github.com/voku/agent-kanban",
+      "language": "PHP"
+    },
+    {
+      "name": "PromptDoc",
+      "repo": "https://github.com/voku/PromptDoc",
+      "url": "https://voku.github.io/PromptDoc/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "llm_coding_2025",
+      "repo": "https://github.com/voku/llm_coding_2025",
+      "url": "https://voku.github.io/llm_coding_2025/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PHP_Analyzer_Playground",
+      "repo": "https://github.com/voku/PHP_Analyzer_Playground",
+      "url": "https://voku.github.io/PHP_Analyzer_Playground/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SOLID_Paw",
+      "repo": "https://github.com/voku/SOLID_Paw",
+      "url": "https://voku.github.io/SOLID_Paw/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-session",
+      "repo": "https://github.com/voku/agent-session",
+      "language": "PHP"
+    },
+    {
+      "name": "BlindSpotMetaSkillApp",
+      "repo": "https://github.com/voku/BlindSpotMetaSkillApp",
+      "url": "https://voku.github.io/BlindSpotMetaSkillApp/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "HtmlFormValidator",
+      "repo": "https://github.com/voku/HtmlFormValidator",
+      "language": "PHP"
+    },
+    {
+      "name": "phonetic-algorithms",
+      "repo": "https://github.com/voku/phonetic-algorithms",
+      "language": "PHP"
+    },
+    {
+      "name": "stoppropaganda",
+      "repo": "https://github.com/voku/stoppropaganda",
+      "language": "PHP"
+    },
+    {
+      "name": "stop-words",
+      "repo": "https://github.com/voku/stop-words",
+      "language": "PHP"
+    },
+    {
+      "name": "Simple-PHP-Code-Parser",
+      "repo": "https://github.com/voku/Simple-PHP-Code-Parser",
+      "language": "PHP"
+    },
+    {
+      "name": "portable-ascii",
+      "repo": "https://github.com/voku/portable-ascii",
+      "language": "PHP"
+    },
+    {
+      "name": "anti-xss-twig",
+      "repo": "https://github.com/voku/anti-xss-twig",
+      "language": "PHP"
+    },
+    {
+      "name": "Arrayy",
+      "repo": "https://github.com/voku/Arrayy",
+      "url": "https://voku.gitbooks.io/arrayy/",
+      "language": "PHP"
+    },
+    {
+      "name": "voku",
+      "repo": "https://github.com/voku/voku"
+    },
+    {
+      "name": "value_objects",
+      "repo": "https://github.com/voku/value_objects",
+      "language": "PHP"
+    },
+    {
+      "name": "TheSystemInspector",
+      "repo": "https://github.com/voku/TheSystemInspector",
+      "url": "https://voku.github.io/TheSystemInspector/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PHPCastingGame",
+      "repo": "https://github.com/voku/PHPCastingGame",
+      "url": "https://voku.github.io/PHPCastingGame/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vokuknow",
+      "repo": "https://github.com/voku/vokuknow",
+      "language": "Go"
+    },
+    {
+      "name": "portable-ascii_docs",
+      "repo": "https://github.com/voku/portable-ascii_docs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vokuprompt",
+      "repo": "https://github.com/voku/vokuprompt",
+      "language": "Go"
+    },
+    {
+      "name": "housekeeping",
+      "repo": "https://github.com/voku/housekeeping",
+      "language": "PHP"
+    },
+    {
+      "name": "portable-utf8",
+      "repo": "https://github.com/voku/portable-utf8",
+      "url": "https://voku.github.io/portable-utf8_docs/",
+      "language": "PHP"
+    },
+    {
+      "name": "portable-utf8_docs",
+      "repo": "https://github.com/voku/portable-utf8_docs",
+      "url": "https://github.com/voku/portable-utf8",
+      "language": "TypeScript"
+    },
+    {
+      "name": "diridea",
+      "repo": "https://github.com/voku/diridea",
+      "language": "PHP"
+    },
+    {
+      "name": "simple-cache",
+      "repo": "https://github.com/voku/simple-cache",
+      "language": "PHP"
+    },
+    {
+      "name": "simple_html_dom_docs",
+      "repo": "https://github.com/voku/simple_html_dom_docs",
+      "url": "https://github.com/voku/simple_html_dom",
+      "language": "PHP"
+    },
+    {
+      "name": "ContactBridge",
+      "repo": "https://github.com/voku/ContactBridge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anti-xss--demo",
+      "repo": "https://github.com/voku/anti-xss--demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "twig-wrapper-example",
+      "repo": "https://github.com/voku/twig-wrapper-example",
+      "language": "CSS"
+    },
+    {
+      "name": "DO-EPIC-SHIT-Demo",
+      "repo": "https://github.com/voku/DO-EPIC-SHIT-Demo",
+      "language": "CSS"
+    },
+    {
+      "name": "planet-ubuntuusers-json",
+      "repo": "https://github.com/voku/planet-ubuntuusers-json",
+      "language": "PHP"
+    },
+    {
+      "name": "LLMComic",
+      "repo": "https://github.com/voku/LLMComic",
+      "url": "https://voku.github.io/LLMComic/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anti-xss_docs",
+      "repo": "https://github.com/voku/anti-xss_docs",
+      "url": "https://github.com/voku/anti-xss",
+      "language": "TypeScript"
+    },
+    {
+      "name": "portable-utf8-benchmark",
+      "repo": "https://github.com/voku/portable-utf8-benchmark",
+      "language": "PHP"
+    },
+    {
+      "name": "slop-scan_docs",
+      "repo": "https://github.com/voku/slop-scan_docs",
+      "url": "https://github.com/voku/slop-scan",
+      "language": "TypeScript"
+    },
+    {
+      "name": "email-check",
+      "repo": "https://github.com/voku/email-check",
+      "language": "PHP"
+    },
+    {
+      "name": "php-doc-fixer",
+      "repo": "https://github.com/voku/php-doc-fixer",
+      "language": "PHP"
+    },
+    {
+      "name": "LLM",
+      "repo": "https://github.com/voku/LLM",
+      "url": "https://voku.github.io/LLM/",
+      "language": "SCSS"
+    },
+    {
+      "name": "llm_coding_constraints",
+      "repo": "https://github.com/voku/llm_coding_constraints",
+      "url": "https://voku.github.io/llm_coding_constraints/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CleanRoom",
+      "repo": "https://github.com/voku/CleanRoom",
+      "url": "https://voku.github.io/CleanRoom/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Lars_Moelleken_Themes",
+      "repo": "https://github.com/voku/Lars_Moelleken_Themes",
+      "url": "https://voku.github.io/Lars_Moelleken_Themes/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "WerscherbergHaus21",
+      "repo": "https://github.com/voku/WerscherbergHaus21",
+      "language": "TypeScript"
+    },
+    {
+      "name": "LaborShoppingList",
+      "repo": "https://github.com/voku/LaborShoppingList",
+      "url": "https://voku.github.io/LaborShoppingList/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CodebaseKitchen",
+      "repo": "https://github.com/voku/CodebaseKitchen",
+      "url": "https://voku.github.io/CodebaseKitchen/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "MentaleDeveloperMap",
+      "repo": "https://github.com/voku/MentaleDeveloperMap",
+      "url": "https://voku.github.io/MentaleDeveloperMap/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TheStateOfSoftware2026",
+      "repo": "https://github.com/voku/TheStateOfSoftware2026",
+      "url": "https://voku.github.io/TheStateOfSoftware2026/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "PHP_Stack_Timeout_Simulator",
+      "repo": "https://github.com/voku/PHP_Stack_Timeout_Simulator",
+      "url": "https://voku.github.io/PHP_Stack_Timeout_Simulator/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CodeFengShui",
+      "repo": "https://github.com/voku/CodeFengShui",
+      "url": "https://voku.github.io/CodeFengShui/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "STRANGER_IT_THINGS",
+      "repo": "https://github.com/voku/STRANGER_IT_THINGS",
+      "url": "https://voku.github.io/STRANGER_IT_THINGS/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Hogwarts_Game",
+      "repo": "https://github.com/voku/Hogwarts_Game",
+      "url": "https://voku.github.io/Hogwarts_Game/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "LinkedOut",
+      "repo": "https://github.com/voku/LinkedOut",
+      "url": "https://voku.github.io/LinkedOut/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Minecraft_Game",
+      "repo": "https://github.com/voku/Minecraft_Game",
+      "url": "https://voku.github.io/Minecraft_Game/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "WhyPHPStan",
+      "repo": "https://github.com/voku/WhyPHPStan",
+      "url": "https://voku.github.io/WhyPHPStan/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CodeHygiene",
+      "repo": "https://github.com/voku/CodeHygiene",
+      "url": "https://voku.github.io/CodeHygiene/",
+      "language": "TypeScript"
+    }
+  ]
 }

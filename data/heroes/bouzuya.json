@@ -1,0 +1,551 @@
+{
+  "handle": "bouzuya",
+  "name": "bouzuya",
+  "github": [
+    "https://github.com/bouzuya"
+  ],
+  "website": "https://bouzuya.net/",
+  "bio": "なさけはひとのためならず",
+  "own_repos": 576,
+  "commits": 21119,
+  "apps": [],
+  "repos": [
+    {
+      "name": "blog.bouzuya.net",
+      "repo": "https://github.com/bouzuya/blog.bouzuya.net",
+      "url": "https://blog.bouzuya.net/",
+      "language": "Shell"
+    },
+    {
+      "name": "iro",
+      "repo": "https://github.com/bouzuya/iro",
+      "language": "Rust"
+    },
+    {
+      "name": "tofu",
+      "repo": "https://github.com/bouzuya/tofu",
+      "language": "Rust"
+    },
+    {
+      "name": "googleapis-tonic",
+      "repo": "https://github.com/bouzuya/googleapis-tonic",
+      "language": "Rust"
+    },
+    {
+      "name": "shiori-web",
+      "repo": "https://github.com/bouzuya/shiori-web",
+      "language": "Rust"
+    },
+    {
+      "name": "tsukota-web",
+      "repo": "https://github.com/bouzuya/tsukota-web",
+      "language": "Rust"
+    },
+    {
+      "name": "firestore-structured-query",
+      "repo": "https://github.com/bouzuya/firestore-structured-query",
+      "url": "https://crates.io/crates/firestore-structured-query",
+      "language": "Rust"
+    },
+    {
+      "name": "firestore-path",
+      "repo": "https://github.com/bouzuya/firestore-path",
+      "url": "https://crates.io/crates/firestore-path",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-firestore-value",
+      "repo": "https://github.com/bouzuya/serde-firestore-value",
+      "url": "https://crates.io/crates/serde-firestore-value",
+      "language": "Rust"
+    },
+    {
+      "name": "bouzuya-firestore-client",
+      "repo": "https://github.com/bouzuya/bouzuya-firestore-client",
+      "language": "Rust"
+    },
+    {
+      "name": "purescript-react-basic-password-generator",
+      "repo": "https://github.com/bouzuya/purescript-react-basic-password-generator",
+      "language": "Dhall"
+    },
+    {
+      "name": "bs-code",
+      "repo": "https://github.com/bouzuya/bs-code",
+      "url": "https://marketplace.visualstudio.com/items?itemName=bouzuya.bs-code",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zenn",
+      "repo": "https://github.com/bouzuya/zenn",
+      "url": "https://zenn.dev/bouzuya",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bbn2",
+      "repo": "https://github.com/bouzuya/bbn2",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-hatena-blog-api",
+      "repo": "https://github.com/bouzuya/rust-hatena-blog-api",
+      "language": "Rust"
+    },
+    {
+      "name": "enum-str-conv",
+      "repo": "https://github.com/bouzuya/enum-str-conv",
+      "url": "https://crates.io/crates/enum-str-conv",
+      "language": "Rust"
+    },
+    {
+      "name": "cloud-storage-signature",
+      "repo": "https://github.com/bouzuya/cloud-storage-signature",
+      "url": "https://crates.io/crates/cloud-storage-signature",
+      "language": "Rust"
+    },
+    {
+      "name": "fubako",
+      "repo": "https://github.com/bouzuya/fubako",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-examples",
+      "repo": "https://github.com/bouzuya/rust-examples",
+      "language": "Rust"
+    },
+    {
+      "name": "bouzuya-icon-generator",
+      "repo": "https://github.com/bouzuya/bouzuya-icon-generator",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-sandbox",
+      "repo": "https://github.com/bouzuya/rust-sandbox",
+      "language": "Rust"
+    },
+    {
+      "name": "bouzuya",
+      "repo": "https://github.com/bouzuya/bouzuya",
+      "url": "https://bouzuya.net/"
+    },
+    {
+      "name": "bbbs",
+      "repo": "https://github.com/bouzuya/bbbs",
+      "language": "Rust"
+    },
+    {
+      "name": "tiny-ts-deno",
+      "repo": "https://github.com/bouzuya/tiny-ts-deno",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bbna2",
+      "repo": "https://github.com/bouzuya/bbna2",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ohori-compiler",
+      "repo": "https://github.com/bouzuya/ohori-compiler",
+      "language": "Rust"
+    },
+    {
+      "name": "tiny-ts",
+      "repo": "https://github.com/bouzuya/tiny-ts",
+      "language": "Rust"
+    },
+    {
+      "name": "b2",
+      "repo": "https://github.com/bouzuya/b2",
+      "language": "Rust"
+    },
+    {
+      "name": "nom-ics",
+      "repo": "https://github.com/bouzuya/nom-ics",
+      "language": "Rust"
+    },
+    {
+      "name": "nom-uri",
+      "repo": "https://github.com/bouzuya/nom-uri",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-ddd-traits-lab",
+      "repo": "https://github.com/bouzuya/rust-ddd-traits-lab",
+      "language": "Rust"
+    },
+    {
+      "name": "base64",
+      "repo": "https://github.com/bouzuya/base64",
+      "language": "Rust"
+    },
+    {
+      "name": "tempura",
+      "repo": "https://github.com/bouzuya/tempura",
+      "language": "Rust"
+    },
+    {
+      "name": "fcm-example",
+      "repo": "https://github.com/bouzuya/fcm-example",
+      "language": "Rust"
+    },
+    {
+      "name": "bouzuya.net",
+      "repo": "https://github.com/bouzuya/bouzuya.net",
+      "url": "https://bouzuya.net/",
+      "language": "HTML"
+    },
+    {
+      "name": "date-line-charts",
+      "repo": "https://github.com/bouzuya/date-line-charts",
+      "language": "Rust"
+    },
+    {
+      "name": "genuuid",
+      "repo": "https://github.com/bouzuya/genuuid",
+      "language": "Rust"
+    },
+    {
+      "name": "google-docs-api-types",
+      "repo": "https://github.com/bouzuya/google-docs-api-types",
+      "url": "https://crates.io/crates/google-docs-api-types",
+      "language": "Rust"
+    },
+    {
+      "name": "bbna",
+      "repo": "https://github.com/bouzuya/bbna",
+      "url": "https://play.google.com/store/apps/details?id=net.bouzuya.blog",
+      "language": "Rust"
+    },
+    {
+      "name": "genpi",
+      "repo": "https://github.com/bouzuya/genpi",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-atcoder",
+      "repo": "https://github.com/bouzuya/rust-atcoder",
+      "language": "Rust"
+    },
+    {
+      "name": "shiori-android",
+      "repo": "https://github.com/bouzuya/shiori-android",
+      "url": "https://play.google.com/store/apps/details?id=net.bouzuya.shiori",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kireta",
+      "repo": "https://github.com/bouzuya/kireta",
+      "language": "Rust"
+    },
+    {
+      "name": "cookie-storage",
+      "repo": "https://github.com/bouzuya/cookie-storage",
+      "url": "https://www.npmjs.com/package/cookie-storage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsukota",
+      "repo": "https://github.com/bouzuya/tsukota",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sitemap-xml-writer",
+      "repo": "https://github.com/bouzuya/sitemap-xml-writer",
+      "url": "https://crates.io/crates/sitemap-xml-writer",
+      "language": "Rust"
+    },
+    {
+      "name": "nostr-likes",
+      "repo": "https://github.com/bouzuya/nostr-likes",
+      "language": "Rust"
+    },
+    {
+      "name": "nostr-user-discovery",
+      "repo": "https://github.com/bouzuya/nostr-user-discovery",
+      "language": "Rust"
+    },
+    {
+      "name": "mr-jums",
+      "repo": "https://github.com/bouzuya/mr-jums",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nostr-keyconv",
+      "repo": "https://github.com/bouzuya/nostr-keyconv",
+      "language": "Rust"
+    },
+    {
+      "name": "kraken",
+      "repo": "https://github.com/bouzuya/kraken",
+      "url": "https://github.com/bouzuya/blog.bouzuya.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-wsse",
+      "repo": "https://github.com/bouzuya/node-wsse",
+      "url": "https://www.npmjs.com/package/wsse",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-action-find-jira-issue",
+      "repo": "https://github.com/bouzuya/github-action-find-jira-issue",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beater-reporter",
+      "repo": "https://github.com/bouzuya/beater-reporter",
+      "url": "https://www.npmjs.com/package/beater-reporter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beater-tap-reporter",
+      "repo": "https://github.com/bouzuya/beater-tap-reporter",
+      "url": "https://www.npmjs.com/package/beater-tap-reporter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beater",
+      "repo": "https://github.com/bouzuya/beater",
+      "url": "https://www.npmjs.com/package/beater",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-hatena-blog-api",
+      "repo": "https://github.com/bouzuya/node-hatena-blog-api",
+      "url": "https://www.npmjs.com/package/hatena-blog-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-hatena-bookmark-api",
+      "repo": "https://github.com/bouzuya/node-hatena-bookmark-api",
+      "url": "https://www.npmjs.com/package/hatena-bookmark-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "table-b",
+      "repo": "https://github.com/bouzuya/table-b",
+      "url": "https://www.npmjs.com/package/table-b",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beater-helpers",
+      "repo": "https://github.com/bouzuya/beater-helpers",
+      "url": "https://www.npmjs.com/package/beater-helpers",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-tsv",
+      "repo": "https://github.com/bouzuya/node-tsv",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nextjs-blog",
+      "repo": "https://github.com/bouzuya/nextjs-blog",
+      "url": "https://nextjs-blog-navy-omega.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-hatena-fotolife-api",
+      "repo": "https://github.com/bouzuya/node-hatena-fotolife-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beater-matcher",
+      "repo": "https://github.com/bouzuya/beater-matcher",
+      "url": "https://www.npmjs.com/package/beater-matcher",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beater-double",
+      "repo": "https://github.com/bouzuya/beater-double",
+      "url": "https://www.npmjs.com/package/beater-double",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beater-snapshot",
+      "repo": "https://github.com/bouzuya/beater-snapshot",
+      "url": "https://www.npmjs.com/package/beater-snapshot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fake-history-fns",
+      "repo": "https://github.com/bouzuya/fake-history-fns",
+      "url": "https://www.npmjs.com/package/fake-history-fns",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fake-history",
+      "repo": "https://github.com/bouzuya/fake-history",
+      "url": "https://www.npmjs.com/package/fake-history",
+      "language": "TypeScript"
+    },
+    {
+      "name": "alertwil",
+      "repo": "https://github.com/bouzuya/alertwil",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bbn-tt",
+      "repo": "https://github.com/bouzuya/bbn-tt",
+      "url": "https://github.com/bouzuya/bbn-t",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-irkit",
+      "repo": "https://github.com/bouzuya/node-irkit",
+      "url": "https://www.npmjs.com/package/@bouzuya/irkit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bath",
+      "repo": "https://github.com/bouzuya/bath",
+      "url": "https://www.npmjs.com/package/bath",
+      "language": "TypeScript"
+    },
+    {
+      "name": "expand-markdown-anchors",
+      "repo": "https://github.com/bouzuya/expand-markdown-anchors",
+      "url": "https://www.npmjs.com/package/@bouzuya/expand-markdown-anchors",
+      "language": "TypeScript"
+    },
+    {
+      "name": "oikurs",
+      "repo": "https://github.com/bouzuya/oikurs",
+      "language": "Rust"
+    },
+    {
+      "name": "purescript-bouzuya-http-request-normalized-path",
+      "repo": "https://github.com/bouzuya/purescript-bouzuya-http-request-normalized-path",
+      "language": "Dhall"
+    },
+    {
+      "name": "purescript-http-server-ip",
+      "repo": "https://github.com/bouzuya/purescript-http-server-ip",
+      "language": "Dhall"
+    },
+    {
+      "name": "rust-hatena-blog",
+      "repo": "https://github.com/bouzuya/rust-hatena-blog",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-memo",
+      "repo": "https://github.com/bouzuya/rust-memo",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-limited-date-time",
+      "repo": "https://github.com/bouzuya/rust-limited-date-time",
+      "language": "Rust"
+    },
+    {
+      "name": "bbn-redux",
+      "repo": "https://github.com/bouzuya/bbn-redux",
+      "url": "https://bouzuya.net/sandbox/bbn-redux/index.html",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-sandbox",
+      "repo": "https://github.com/bouzuya/deno-sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-actions-sandbox",
+      "repo": "https://github.com/bouzuya/github-actions-sandbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust-social-bookmarking",
+      "repo": "https://github.com/bouzuya/rust-social-bookmarking",
+      "language": "Rust"
+    },
+    {
+      "name": "purescript-examples",
+      "repo": "https://github.com/bouzuya/purescript-examples",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-httpure-slackapp",
+      "repo": "https://github.com/bouzuya/purescript-httpure-slackapp",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-react-basic-calendar-heat-map",
+      "repo": "https://github.com/bouzuya/purescript-react-basic-calendar-heat-map",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-httpure-users",
+      "repo": "https://github.com/bouzuya/purescript-httpure-users",
+      "language": "PureScript"
+    },
+    {
+      "name": "tamaru",
+      "repo": "https://github.com/bouzuya/tamaru",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-react-basic-timer",
+      "repo": "https://github.com/bouzuya/purescript-react-basic-timer",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-react-basic-repository-list",
+      "repo": "https://github.com/bouzuya/purescript-react-basic-repository-list",
+      "language": "PureScript"
+    },
+    {
+      "name": "tsv-wasm",
+      "repo": "https://github.com/bouzuya/tsv-wasm",
+      "url": "https://www.npmjs.com/package/@bouzuya/tsv-wasm",
+      "language": "Rust"
+    },
+    {
+      "name": "jekyll-markdown-parser",
+      "repo": "https://github.com/bouzuya/jekyll-markdown-parser",
+      "url": "https://www.npmjs.com/package/jekyll-markdown-parser",
+      "language": "TypeScript"
+    },
+    {
+      "name": "purescript-http-server-counter",
+      "repo": "https://github.com/bouzuya/purescript-http-server-counter",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-http-server-stopwatch",
+      "repo": "https://github.com/bouzuya/purescript-http-server-stopwatch",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-http-server-bbs",
+      "repo": "https://github.com/bouzuya/purescript-http-server-bbs",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-bouzuya-st",
+      "repo": "https://github.com/bouzuya/purescript-bouzuya-st",
+      "url": "https://github.com/bouzuya/purescript-bouzuya-packages",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-httpure-slack-ghpr",
+      "repo": "https://github.com/bouzuya/purescript-httpure-slack-ghpr",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-httpure-messages",
+      "repo": "https://github.com/bouzuya/purescript-httpure-messages",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-httpure-bookmarks",
+      "repo": "https://github.com/bouzuya/purescript-httpure-bookmarks",
+      "language": "PureScript"
+    },
+    {
+      "name": "purescript-bouzuya-http-server",
+      "repo": "https://github.com/bouzuya/purescript-bouzuya-http-server",
+      "language": "PureScript"
+    }
+  ]
+}

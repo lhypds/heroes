@@ -1,0 +1,502 @@
+{
+  "handle": "ondrejsika",
+  "name": "Ondrej Sika",
+  "github": [
+    "https://github.com/ondrejsika"
+  ],
+  "website": "https://ondrejsika.com/",
+  "bio": "Software, DevOps & SRE Engineer, Architect, Consultant and Lecturer 🇬🇧🇩🇪🇨🇿",
+  "own_repos": 446,
+  "commits": 10168,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ondrejsika.com",
+      "repo": "https://github.com/ondrejsika/ondrejsika.com",
+      "language": "TeX"
+    },
+    {
+      "name": "www",
+      "repo": "https://github.com/ondrejsika/www",
+      "url": "https://sika.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ondrej.is",
+      "repo": "https://github.com/ondrejsika/ondrej.is",
+      "url": "https://ondrej-is.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kubernetes-training",
+      "repo": "https://github.com/ondrejsika/kubernetes-training",
+      "url": "https://skoleni-kubernetes.cz",
+      "language": "Go"
+    },
+    {
+      "name": "kubeconfig-sikademo",
+      "repo": "https://github.com/ondrejsika/kubeconfig-sikademo",
+      "language": "Makefile"
+    },
+    {
+      "name": "gitlab-ci-training",
+      "repo": "https://github.com/ondrejsika/gitlab-ci-training",
+      "url": "https://gitlab-ci.cz",
+      "language": "HCL"
+    },
+    {
+      "name": "wow1",
+      "repo": "https://github.com/ondrejsika/wow1",
+      "language": "Go"
+    },
+    {
+      "name": "golang-examples",
+      "repo": "https://github.com/ondrejsika/golang-examples",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-demo-k8s",
+      "repo": "https://github.com/ondrejsika/terraform-demo-k8s",
+      "language": "HCL"
+    },
+    {
+      "name": "argocd-apps-public",
+      "repo": "https://github.com/ondrejsika/argocd-apps-public",
+      "language": "Makefile"
+    },
+    {
+      "name": "kafka-training",
+      "repo": "https://github.com/ondrejsika/kafka-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "ins.oxs.cz",
+      "repo": "https://github.com/ondrejsika/ins.oxs.cz",
+      "url": "https://ins.oxs.cz",
+      "language": "Shell"
+    },
+    {
+      "name": "caddy-lab-proxy",
+      "repo": "https://github.com/ondrejsika/caddy-lab-proxy",
+      "language": "Makefile"
+    },
+    {
+      "name": "counter",
+      "repo": "https://github.com/ondrejsika/counter",
+      "language": "Go"
+    },
+    {
+      "name": "training-cli-data",
+      "repo": "https://github.com/ondrejsika/training-cli-data"
+    },
+    {
+      "name": "redis-in-go",
+      "repo": "https://github.com/ondrejsika/redis-in-go",
+      "language": "Go"
+    },
+    {
+      "name": "git-training",
+      "repo": "https://github.com/ondrejsika/git-training",
+      "url": "https://skoleni-git.cz",
+      "language": "Makefile"
+    },
+    {
+      "name": "bash-training",
+      "repo": "https://github.com/ondrejsika/bash-training"
+    },
+    {
+      "name": "meta-training",
+      "repo": "https://github.com/ondrejsika/meta-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "counter-frontend-go",
+      "repo": "https://github.com/ondrejsika/counter-frontend-go",
+      "language": "Go"
+    },
+    {
+      "name": "counter-frontend-new",
+      "repo": "https://github.com/ondrejsika/counter-frontend-new",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fluxcd-training",
+      "repo": "https://github.com/ondrejsika/fluxcd-training"
+    },
+    {
+      "name": "kcd2026-kargo-workshop",
+      "repo": "https://github.com/ondrejsika/kcd2026-kargo-workshop",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "kcd2026-kargo-example",
+      "repo": "https://github.com/ondrejsika/kcd2026-kargo-example"
+    },
+    {
+      "name": "kcd2026-secrets-in-kubernetes",
+      "repo": "https://github.com/ondrejsika/kcd2026-secrets-in-kubernetes",
+      "language": "HCL"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/ondrejsika/slides"
+    },
+    {
+      "name": "copy-emoji",
+      "repo": "https://github.com/ondrejsika/copy-emoji",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mssql-backup-example",
+      "repo": "https://github.com/ondrejsika/mssql-backup-example",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-training",
+      "repo": "https://github.com/ondrejsika/docker-training",
+      "url": "https://skoleni-docker.cz",
+      "language": "Makefile"
+    },
+    {
+      "name": "terraform-examples",
+      "repo": "https://github.com/ondrejsika/terraform-examples",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-proxmox-on-digitalocean",
+      "repo": "https://github.com/ondrejsika/terraform-proxmox-on-digitalocean",
+      "language": "HCL"
+    },
+    {
+      "name": "proxmox-training",
+      "repo": "https://github.com/ondrejsika/proxmox-training"
+    },
+    {
+      "name": "training-cli",
+      "repo": "https://github.com/ondrejsika/training-cli",
+      "language": "Go"
+    },
+    {
+      "name": "vault-training",
+      "repo": "https://github.com/ondrejsika/vault-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "golang-training",
+      "repo": "https://github.com/ondrejsika/golang-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "large",
+      "repo": "https://github.com/ondrejsika/large",
+      "language": "Go"
+    },
+    {
+      "name": "keycloak-theme-images",
+      "repo": "https://github.com/ondrejsika/keycloak-theme-images",
+      "url": "https://keycloak-theme-images.vercel.app"
+    },
+    {
+      "name": "loki-training",
+      "repo": "https://github.com/ondrejsika/loki-training"
+    },
+    {
+      "name": "devopslive",
+      "repo": "https://github.com/ondrejsika/devopslive",
+      "language": "HCL"
+    },
+    {
+      "name": "helm-repo-sikademo",
+      "repo": "https://github.com/ondrejsika/helm-repo-sikademo",
+      "url": "https://helm.sikademo.com",
+      "language": "HTML"
+    },
+    {
+      "name": "prometheus-training",
+      "repo": "https://github.com/ondrejsika/prometheus-training",
+      "language": "Shell"
+    },
+    {
+      "name": "openshift-training",
+      "repo": "https://github.com/ondrejsika/openshift-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "hello-company",
+      "repo": "https://github.com/ondrejsika/hello-company",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ansible-training",
+      "repo": "https://github.com/ondrejsika/ansible-training",
+      "language": "HCL"
+    },
+    {
+      "name": "ondrejsika-docker-traefik",
+      "repo": "https://github.com/ondrejsika/ondrejsika-docker-traefik",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-compose-examples",
+      "repo": "https://github.com/ondrejsika/docker-compose-examples",
+      "language": "Makefile"
+    },
+    {
+      "name": "counter-frontend",
+      "repo": "https://github.com/ondrejsika/counter-frontend",
+      "url": "https://counter-frontend-henna.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ondrejsika",
+      "repo": "https://github.com/ondrejsika/ondrejsika"
+    },
+    {
+      "name": "kustomize-training",
+      "repo": "https://github.com/ondrejsika/kustomize-training"
+    },
+    {
+      "name": "one-photo-pages",
+      "repo": "https://github.com/ondrejsika/one-photo-pages",
+      "language": "HTML"
+    },
+    {
+      "name": "traefik-le",
+      "repo": "https://github.com/ondrejsika/traefik-le"
+    },
+    {
+      "name": "keycloak-training",
+      "repo": "https://github.com/ondrejsika/keycloak-training",
+      "url": "https://keycloak-training.vercel.app"
+    },
+    {
+      "name": "pages.sikalabs.com",
+      "repo": "https://github.com/ondrejsika/pages.sikalabs.com",
+      "url": "https://pages.sikalabs.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-training",
+      "repo": "https://github.com/ondrejsika/terraform-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/ondrejsika/scoop-bucket"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/ondrejsika/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "docker-training-fg",
+      "repo": "https://github.com/ondrejsika/docker-training-fg"
+    },
+    {
+      "name": "docker-training-example-platform",
+      "repo": "https://github.com/ondrejsika/docker-training-example-platform",
+      "language": "Makefile"
+    },
+    {
+      "name": "terraform-demo-gitlab",
+      "repo": "https://github.com/ondrejsika/terraform-demo-gitlab",
+      "language": "HCL"
+    },
+    {
+      "name": "master",
+      "repo": "https://github.com/ondrejsika/master"
+    },
+    {
+      "name": "training-dhl-2025-09-30",
+      "repo": "https://github.com/ondrejsika/training-dhl-2025-09-30"
+    },
+    {
+      "name": "kubernetes-certification-training",
+      "repo": "https://github.com/ondrejsika/kubernetes-certification-training"
+    },
+    {
+      "name": "argocd-training",
+      "repo": "https://github.com/ondrejsika/argocd-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "warpcamp25-vault-kubernetes",
+      "repo": "https://github.com/ondrejsika/warpcamp25-vault-kubernetes",
+      "language": "HCL"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/ondrejsika/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "cloudflare-training",
+      "repo": "https://github.com/ondrejsika/cloudflare-training",
+      "language": "HCL"
+    },
+    {
+      "name": "aws-terragrunt-example",
+      "repo": "https://github.com/ondrejsika/aws-terragrunt-example",
+      "language": "HCL"
+    },
+    {
+      "name": "containers-intro-2025-06-16",
+      "repo": "https://github.com/ondrejsika/containers-intro-2025-06-16"
+    },
+    {
+      "name": "kcd-2025-sso-workshop",
+      "repo": "https://github.com/ondrejsika/kcd-2025-sso-workshop",
+      "language": "HCL"
+    },
+    {
+      "name": "mpo-example-app",
+      "repo": "https://github.com/ondrejsika/mpo-example-app",
+      "language": "Makefile"
+    },
+    {
+      "name": "pilot-ondrej-is",
+      "repo": "https://github.com/ondrejsika/pilot-ondrej-is",
+      "url": "https://pilot-ondrej-is.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "elk-training",
+      "repo": "https://github.com/ondrejsika/elk-training",
+      "language": "Makefile"
+    },
+    {
+      "name": "dogsay-bot-python",
+      "repo": "https://github.com/ondrejsika/dogsay-bot-python",
+      "language": "Python"
+    },
+    {
+      "name": "show-me-chat-id-bot-python",
+      "repo": "https://github.com/ondrejsika/show-me-chat-id-bot-python",
+      "language": "Python"
+    },
+    {
+      "name": "go-print-gopher",
+      "repo": "https://github.com/ondrejsika/go-print-gopher",
+      "language": "Go"
+    },
+    {
+      "name": "hellogophercamp",
+      "repo": "https://github.com/ondrejsika/hellogophercamp",
+      "language": "Go"
+    },
+    {
+      "name": "go-gopher",
+      "repo": "https://github.com/ondrejsika/go-gopher",
+      "language": "Go"
+    },
+    {
+      "name": "hellogophercamptest",
+      "repo": "https://github.com/ondrejsika/hellogophercamptest",
+      "language": "Go"
+    },
+    {
+      "name": "hellogophercamptest2",
+      "repo": "https://github.com/ondrejsika/hellogophercamptest2",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-demo-elk",
+      "repo": "https://github.com/ondrejsika/terraform-demo-elk",
+      "language": "HCL"
+    },
+    {
+      "name": "cloud-native-bratislava-manifests",
+      "repo": "https://github.com/ondrejsika/cloud-native-bratislava-manifests"
+    },
+    {
+      "name": "cloud-native-bratislava-argocd",
+      "repo": "https://github.com/ondrejsika/cloud-native-bratislava-argocd",
+      "language": "Makefile"
+    },
+    {
+      "name": "wget-eurekalabs.ai",
+      "repo": "https://github.com/ondrejsika/wget-eurekalabs.ai",
+      "language": "HTML"
+    },
+    {
+      "name": "cloud-native-bratislava-argocd-test",
+      "repo": "https://github.com/ondrejsika/cloud-native-bratislava-argocd-test",
+      "language": "Makefile"
+    },
+    {
+      "name": "nextjs-auth-minimal-example",
+      "repo": "https://github.com/ondrejsika/nextjs-auth-minimal-example",
+      "url": "https://nextjs-auth-minimal-example.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-iceland",
+      "repo": "https://github.com/ondrejsika/go-iceland",
+      "language": "Go"
+    },
+    {
+      "name": "sikademo-logos",
+      "repo": "https://github.com/ondrejsika/sikademo-logos"
+    },
+    {
+      "name": "photos-to-print",
+      "repo": "https://github.com/ondrejsika/photos-to-print"
+    },
+    {
+      "name": "building-a-modern-home-page",
+      "repo": "https://github.com/ondrejsika/building-a-modern-home-page",
+      "url": "https://building-a-modern-home.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "building-a-modern-home-photos",
+      "repo": "https://github.com/ondrejsika/building-a-modern-home-photos"
+    },
+    {
+      "name": "pf.ondrejsika.com",
+      "repo": "https://github.com/ondrejsika/pf.ondrejsika.com",
+      "url": "https://pf-ondrejsika-com.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "hello-world-example-helm",
+      "repo": "https://github.com/ondrejsika/hello-world-example-helm"
+    },
+    {
+      "name": "rancher-training",
+      "repo": "https://github.com/ondrejsika/rancher-training",
+      "language": "HCL"
+    },
+    {
+      "name": "ondrejsika-lab-ssh-key",
+      "repo": "https://github.com/ondrejsika/ondrejsika-lab-ssh-key"
+    },
+    {
+      "name": "o2-kafka-in-aks-example",
+      "repo": "https://github.com/ondrejsika/o2-kafka-in-aks-example",
+      "language": "HCL"
+    },
+    {
+      "name": "argo-workflows-training",
+      "repo": "https://github.com/ondrejsika/argo-workflows-training"
+    },
+    {
+      "name": "argo-rollouts-training",
+      "repo": "https://github.com/ondrejsika/argo-rollouts-training"
+    },
+    {
+      "name": "hello-o2-metrics-example",
+      "repo": "https://github.com/ondrejsika/hello-o2-metrics-example"
+    },
+    {
+      "name": "sikalabs-monitoring-example",
+      "repo": "https://github.com/ondrejsika/sikalabs-monitoring-example",
+      "language": "Makefile"
+    },
+    {
+      "name": "linuxdays24-vpn",
+      "repo": "https://github.com/ondrejsika/linuxdays24-vpn"
+    }
+  ]
+}

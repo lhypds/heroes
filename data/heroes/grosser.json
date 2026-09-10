@@ -1,0 +1,516 @@
+{
+  "handle": "grosser",
+  "name": "Michael Grosser",
+  "github": [
+    "https://github.com/grosser"
+  ],
+  "website": "https://grosser.it/",
+  "bio": "Group Tech Lead at Zendesk and Ruby/Rails/Kubernetes/Golang engineer with too many open-source projects.",
+  "own_repos": 213,
+  "commits": 10237,
+  "apps": [],
+  "repos": [
+    {
+      "name": "parallel",
+      "repo": "https://github.com/grosser/parallel",
+      "language": "Ruby"
+    },
+    {
+      "name": "kapt",
+      "repo": "https://github.com/grosser/kapt",
+      "language": "Go"
+    },
+    {
+      "name": "shoulda-change_matchers",
+      "repo": "https://github.com/grosser/shoulda-change_matchers",
+      "language": "Ruby"
+    },
+    {
+      "name": "logrecycler",
+      "repo": "https://github.com/grosser/logrecycler",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/grosser/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "kennel",
+      "repo": "https://github.com/grosser/kennel",
+      "language": "Ruby"
+    },
+    {
+      "name": "sentry-user_informer",
+      "repo": "https://github.com/grosser/sentry-user_informer",
+      "language": "Ruby"
+    },
+    {
+      "name": "go-testcov",
+      "repo": "https://github.com/grosser/go-testcov",
+      "language": "Go"
+    },
+    {
+      "name": "kubectl-patch-all",
+      "repo": "https://github.com/grosser/kubectl-patch-all",
+      "language": "Ruby"
+    },
+    {
+      "name": "pru",
+      "repo": "https://github.com/grosser/pru",
+      "language": "Ruby"
+    },
+    {
+      "name": "parallel_tests",
+      "repo": "https://github.com/grosser/parallel_tests",
+      "language": "Ruby"
+    },
+    {
+      "name": "gettext_i18n_rails",
+      "repo": "https://github.com/grosser/gettext_i18n_rails",
+      "language": "Ruby"
+    },
+    {
+      "name": "single_cov",
+      "repo": "https://github.com/grosser/single_cov",
+      "language": "Ruby"
+    },
+    {
+      "name": "forking_test_runner",
+      "repo": "https://github.com/grosser/forking_test_runner",
+      "language": "Ruby"
+    },
+    {
+      "name": "maxitest",
+      "repo": "https://github.com/grosser/maxitest",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-grep",
+      "repo": "https://github.com/grosser/github-grep",
+      "language": "Ruby"
+    },
+    {
+      "name": "consul_syncer",
+      "repo": "https://github.com/grosser/consul_syncer",
+      "language": "Ruby"
+    },
+    {
+      "name": "kubectl-get-all",
+      "repo": "https://github.com/grosser/kubectl-get-all",
+      "language": "Ruby"
+    },
+    {
+      "name": "i18n_data",
+      "repo": "https://github.com/grosser/i18n_data",
+      "language": "Ruby"
+    },
+    {
+      "name": "active_record-comments",
+      "repo": "https://github.com/grosser/active_record-comments",
+      "language": "Ruby"
+    },
+    {
+      "name": "validates_uniqueness_via_association",
+      "repo": "https://github.com/grosser/validates_uniqueness_via_association",
+      "language": "Ruby"
+    },
+    {
+      "name": "ar_after_transaction",
+      "repo": "https://github.com/grosser/ar_after_transaction",
+      "language": "Ruby"
+    },
+    {
+      "name": "fast_gettext",
+      "repo": "https://github.com/grosser/fast_gettext",
+      "language": "Ruby"
+    },
+    {
+      "name": "soft_deletion",
+      "repo": "https://github.com/grosser/soft_deletion",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruco",
+      "repo": "https://github.com/grosser/ruco",
+      "language": "Ruby"
+    },
+    {
+      "name": "orgdeps",
+      "repo": "https://github.com/grosser/orgdeps",
+      "url": "https://orgdeps.herokuapp.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "simple_auto_complete",
+      "repo": "https://github.com/grosser/simple_auto_complete",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parallel_rails_example",
+      "repo": "https://github.com/grosser/parallel_rails_example",
+      "language": "Ruby"
+    },
+    {
+      "name": "ar_multi_threaded_transactional_tests",
+      "repo": "https://github.com/grosser/ar_multi_threaded_transactional_tests",
+      "language": "Ruby"
+    },
+    {
+      "name": "mtg-6-by-4",
+      "repo": "https://github.com/grosser/mtg-6-by-4",
+      "language": "Ruby"
+    },
+    {
+      "name": "cowrite",
+      "repo": "https://github.com/grosser/cowrite",
+      "language": "Ruby"
+    },
+    {
+      "name": "rubofix",
+      "repo": "https://github.com/grosser/rubofix",
+      "language": "Ruby"
+    },
+    {
+      "name": "project_template",
+      "repo": "https://github.com/grosser/project_template",
+      "language": "Ruby"
+    },
+    {
+      "name": "cia",
+      "repo": "https://github.com/grosser/cia",
+      "language": "Ruby"
+    },
+    {
+      "name": "git-whence",
+      "repo": "https://github.com/grosser/git-whence",
+      "language": "Ruby"
+    },
+    {
+      "name": "kubernetes_leader_election",
+      "repo": "https://github.com/grosser/kubernetes_leader_election",
+      "language": "Ruby"
+    },
+    {
+      "name": "preoomkiller",
+      "repo": "https://github.com/grosser/preoomkiller",
+      "language": "Ruby"
+    },
+    {
+      "name": "testrbl",
+      "repo": "https://github.com/grosser/testrbl",
+      "language": "Ruby"
+    },
+    {
+      "name": "amend",
+      "repo": "https://github.com/grosser/amend",
+      "language": "Ruby"
+    },
+    {
+      "name": "scoped_cache_keys",
+      "repo": "https://github.com/grosser/scoped_cache_keys",
+      "language": "Ruby"
+    },
+    {
+      "name": "rubinjam",
+      "repo": "https://github.com/grosser/rubinjam",
+      "language": "Ruby"
+    },
+    {
+      "name": "stub_server",
+      "repo": "https://github.com/grosser/stub_server",
+      "language": "Ruby"
+    },
+    {
+      "name": "test_after_commit",
+      "repo": "https://github.com/grosser/test_after_commit",
+      "language": "Ruby"
+    },
+    {
+      "name": "kucodiff",
+      "repo": "https://github.com/grosser/kucodiff",
+      "language": "Ruby"
+    },
+    {
+      "name": "airbrake-user_informer",
+      "repo": "https://github.com/grosser/airbrake-user_informer",
+      "language": "Ruby"
+    },
+    {
+      "name": "unicorn_wrangler",
+      "repo": "https://github.com/grosser/unicorn_wrangler",
+      "language": "Ruby"
+    },
+    {
+      "name": "safe_regexp",
+      "repo": "https://github.com/grosser/safe_regexp",
+      "language": "Ruby"
+    },
+    {
+      "name": "cv",
+      "repo": "https://github.com/grosser/cv",
+      "language": "HTML"
+    },
+    {
+      "name": "serial_scheduler",
+      "repo": "https://github.com/grosser/serial_scheduler",
+      "language": "Ruby"
+    },
+    {
+      "name": "parallel_split_test",
+      "repo": "https://github.com/grosser/parallel_split_test",
+      "language": "Ruby"
+    },
+    {
+      "name": "rspec-instafail",
+      "repo": "https://github.com/grosser/rspec-instafail",
+      "language": "Ruby"
+    },
+    {
+      "name": "get_pomo",
+      "repo": "https://github.com/grosser/get_pomo",
+      "language": "Ruby"
+    },
+    {
+      "name": "matching_bundle",
+      "repo": "https://github.com/grosser/matching_bundle",
+      "language": "Ruby"
+    },
+    {
+      "name": "risk-summary",
+      "repo": "https://github.com/grosser/risk-summary",
+      "language": "Ruby"
+    },
+    {
+      "name": "wwtd",
+      "repo": "https://github.com/grosser/wwtd",
+      "language": "Ruby"
+    },
+    {
+      "name": "fluent-plugin-kubelet_metadata",
+      "repo": "https://github.com/grosser/fluent-plugin-kubelet_metadata",
+      "language": "Ruby"
+    },
+    {
+      "name": "s3_meta_sync",
+      "repo": "https://github.com/grosser/s3_meta_sync",
+      "language": "Ruby"
+    },
+    {
+      "name": "kennel-talk",
+      "repo": "https://github.com/grosser/kennel-talk",
+      "language": "HTML"
+    },
+    {
+      "name": "kube-leader",
+      "repo": "https://github.com/grosser/kube-leader",
+      "language": "Go"
+    },
+    {
+      "name": "bitfields",
+      "repo": "https://github.com/grosser/bitfields",
+      "language": "Ruby"
+    },
+    {
+      "name": "vendorer",
+      "repo": "https://github.com/grosser/vendorer",
+      "language": "Ruby"
+    },
+    {
+      "name": "organization_audit",
+      "repo": "https://github.com/grosser/organization_audit",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-cli-daemon",
+      "repo": "https://github.com/grosser/ruby-cli-daemon",
+      "language": "Ruby"
+    },
+    {
+      "name": "gettext_i18n_rails_example",
+      "repo": "https://github.com/grosser/gettext_i18n_rails_example",
+      "language": "Ruby"
+    },
+    {
+      "name": "gettext_test_log",
+      "repo": "https://github.com/grosser/gettext_test_log",
+      "language": "Ruby"
+    },
+    {
+      "name": "translated_attributes",
+      "repo": "https://github.com/grosser/translated_attributes",
+      "language": "Ruby"
+    },
+    {
+      "name": "sort_alphabetical",
+      "repo": "https://github.com/grosser/sort_alphabetical",
+      "language": "Ruby"
+    },
+    {
+      "name": "heartbleed",
+      "repo": "https://github.com/grosser/heartbleed",
+      "language": "Ruby"
+    },
+    {
+      "name": "pairing_shuffler",
+      "repo": "https://github.com/grosser/pairing_shuffler",
+      "language": "Ruby"
+    },
+    {
+      "name": "solr_collection",
+      "repo": "https://github.com/grosser/solr_collection",
+      "language": "Ruby"
+    },
+    {
+      "name": "xhr_redirect",
+      "repo": "https://github.com/grosser/xhr_redirect",
+      "language": "Ruby"
+    },
+    {
+      "name": "travis_dedup",
+      "repo": "https://github.com/grosser/travis_dedup",
+      "language": "Ruby"
+    },
+    {
+      "name": "expiring_memory_store",
+      "repo": "https://github.com/grosser/expiring_memory_store",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-coverage-talk",
+      "repo": "https://github.com/grosser/ruby-coverage-talk",
+      "url": "https://grosser.github.io/ruby-coverage-talk",
+      "language": "HTML"
+    },
+    {
+      "name": "mini_memory_store",
+      "repo": "https://github.com/grosser/mini_memory_store",
+      "language": "Ruby"
+    },
+    {
+      "name": "gem-dependent",
+      "repo": "https://github.com/grosser/gem-dependent",
+      "language": "Ruby"
+    },
+    {
+      "name": "repo_dependency_graph",
+      "repo": "https://github.com/grosser/repo_dependency_graph",
+      "language": "Ruby"
+    },
+    {
+      "name": "rpx_now",
+      "repo": "https://github.com/grosser/rpx_now",
+      "language": "Ruby"
+    },
+    {
+      "name": "git-autobisect",
+      "repo": "https://github.com/grosser/git-autobisect",
+      "language": "Ruby"
+    },
+    {
+      "name": "dispel",
+      "repo": "https://github.com/grosser/dispel",
+      "language": "Ruby"
+    },
+    {
+      "name": "cc-amend",
+      "repo": "https://github.com/grosser/cc-amend",
+      "language": "Ruby"
+    },
+    {
+      "name": "wwtd-test",
+      "repo": "https://github.com/grosser/wwtd-test",
+      "language": "Ruby"
+    },
+    {
+      "name": "record_activities",
+      "repo": "https://github.com/grosser/record_activities",
+      "language": "Ruby"
+    },
+    {
+      "name": "cachy",
+      "repo": "https://github.com/grosser/cachy",
+      "language": "Ruby"
+    },
+    {
+      "name": "bundle_package_check",
+      "repo": "https://github.com/grosser/bundle_package_check",
+      "language": "Ruby"
+    },
+    {
+      "name": "back_at_ya",
+      "repo": "https://github.com/grosser/back_at_ya",
+      "language": "JavaScript"
+    },
+    {
+      "name": "consulenv",
+      "repo": "https://github.com/grosser/consulenv",
+      "language": "Ruby"
+    },
+    {
+      "name": "bundle-relative",
+      "repo": "https://github.com/grosser/bundle-relative",
+      "language": "Ruby"
+    },
+    {
+      "name": "puma-restart",
+      "repo": "https://github.com/grosser/puma-restart",
+      "language": "Ruby"
+    },
+    {
+      "name": "after_commit_exception_notification",
+      "repo": "https://github.com/grosser/after_commit_exception_notification",
+      "language": "Ruby"
+    },
+    {
+      "name": "codeclimate_batch",
+      "repo": "https://github.com/grosser/codeclimate_batch",
+      "language": "Ruby"
+    },
+    {
+      "name": "single_test",
+      "repo": "https://github.com/grosser/single_test",
+      "language": "Ruby"
+    },
+    {
+      "name": "i18n-backend-http",
+      "repo": "https://github.com/grosser/i18n-backend-http",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-grab",
+      "repo": "https://github.com/grosser/github-grab",
+      "language": "Ruby"
+    },
+    {
+      "name": "multi_timeout",
+      "repo": "https://github.com/grosser/multi_timeout",
+      "language": "Ruby"
+    },
+    {
+      "name": "bundler-organization_audit",
+      "repo": "https://github.com/grosser/bundler-organization_audit",
+      "language": "Ruby"
+    },
+    {
+      "name": "protect-data",
+      "repo": "https://github.com/grosser/protect-data",
+      "language": "JavaScript"
+    },
+    {
+      "name": "labelcheck",
+      "repo": "https://github.com/grosser/labelcheck",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jqunit",
+      "repo": "https://github.com/grosser/jqunit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simplecov-single_file_reporter",
+      "repo": "https://github.com/grosser/simplecov-single_file_reporter",
+      "language": "Ruby"
+    }
+  ]
+}

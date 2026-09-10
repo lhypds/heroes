@@ -1,0 +1,508 @@
+{
+  "handle": "gfdgd-xi",
+  "name": "gfdgd xi",
+  "github": [
+    "https://github.com/gfdgd-xi"
+  ],
+  "own_repos": 148,
+  "commits": 12211,
+  "apps": [],
+  "repos": [
+    {
+      "name": "waydroid-runner",
+      "repo": "https://github.com/gfdgd-xi/waydroid-runner",
+      "url": "https://gitee.com/gfdgd-xi/waydroid-runner",
+      "language": "Python"
+    },
+    {
+      "name": "wine-mirrors-websize",
+      "repo": "https://github.com/gfdgd-xi/wine-mirrors-websize",
+      "url": "https://wine-mirrors-websize.vercel.app",
+      "language": "Python"
+    },
+    {
+      "name": "deep-wine-runner-wine-builder",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-wine-builder",
+      "language": "Python"
+    },
+    {
+      "name": "deep-wine-runner",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner",
+      "url": "https://gfdgd-xi.github.io",
+      "language": "Python"
+    },
+    {
+      "name": "uos-ai-gxde",
+      "repo": "https://github.com/gfdgd-xi/uos-ai-gxde"
+    },
+    {
+      "name": "gfdgd-xi",
+      "repo": "https://github.com/gfdgd-xi/gfdgd-xi"
+    },
+    {
+      "name": "gxde-vm",
+      "repo": "https://github.com/gfdgd-xi/gxde-vm",
+      "language": "C++"
+    },
+    {
+      "name": "gxde-os-mirror",
+      "repo": "https://github.com/gfdgd-xi/gxde-os-mirror",
+      "language": "HTML"
+    },
+    {
+      "name": "gxde-os-mirror-loader",
+      "repo": "https://github.com/gfdgd-xi/gxde-os-mirror-loader",
+      "language": "HTML"
+    },
+    {
+      "name": "gfdgd-xi.github.io",
+      "repo": "https://github.com/gfdgd-xi/gfdgd-xi.github.io",
+      "url": "https://gfdgd-xi-github-io.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "wine-runner-update-information",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-update-information",
+      "language": "HTML"
+    },
+    {
+      "name": "gxde-weather",
+      "repo": "https://github.com/gfdgd-xi/gxde-weather",
+      "language": "C++"
+    },
+    {
+      "name": "wps-office-365-turn-package-name",
+      "repo": "https://github.com/gfdgd-xi/wps-office-365-turn-package-name",
+      "language": "Shell"
+    },
+    {
+      "name": "kmre-deepin23-depends",
+      "repo": "https://github.com/gfdgd-xi/kmre-deepin23-depends"
+    },
+    {
+      "name": "siyemuxu-linux",
+      "repo": "https://github.com/gfdgd-xi/siyemuxu-linux"
+    },
+    {
+      "name": "siyemuxu-online",
+      "repo": "https://github.com/gfdgd-xi/siyemuxu-online",
+      "language": "JavaScript"
+    },
+    {
+      "name": "baai-bge-large-zh-v1.5",
+      "repo": "https://github.com/gfdgd-xi/baai-bge-large-zh-v1.5",
+      "language": "Makefile"
+    },
+    {
+      "name": "gxde-linux-kernel",
+      "repo": "https://github.com/gfdgd-xi/gxde-linux-kernel",
+      "language": "HTML"
+    },
+    {
+      "name": "gxde-for-ubuntu-bak",
+      "repo": "https://github.com/gfdgd-xi/gxde-for-ubuntu-bak",
+      "language": "Shell"
+    },
+    {
+      "name": "windows7-wallpapers",
+      "repo": "https://github.com/gfdgd-xi/windows7-wallpapers",
+      "language": "Makefile"
+    },
+    {
+      "name": "kylin-kmre-window",
+      "repo": "https://github.com/gfdgd-xi/kylin-kmre-window"
+    },
+    {
+      "name": "packages.gxde.org",
+      "repo": "https://github.com/gfdgd-xi/packages.gxde.org",
+      "language": "Python"
+    },
+    {
+      "name": "builder-packages.gxde.org",
+      "repo": "https://github.com/gfdgd-xi/builder-packages.gxde.org",
+      "language": "Python"
+    },
+    {
+      "name": "uengine-runner",
+      "repo": "https://github.com/gfdgd-xi/uengine-runner",
+      "url": "https://gfdgd-xi.github.io",
+      "language": "Python"
+    },
+    {
+      "name": "dde-for-debian12",
+      "repo": "https://github.com/gfdgd-xi/dde-for-debian12",
+      "url": "https://dde-for-debian12.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "dde23-for-debian12-daily-amd64",
+      "repo": "https://github.com/gfdgd-xi/dde23-for-debian12-daily-amd64",
+      "language": "HTML"
+    },
+    {
+      "name": "wine-runner-downloads-of-runner",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-downloads-of-runner"
+    },
+    {
+      "name": "deep-wine-runner-qemu-system",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-qemu-system",
+      "language": "C"
+    },
+    {
+      "name": "deepin-rootfs",
+      "repo": "https://github.com/gfdgd-xi/deepin-rootfs"
+    },
+    {
+      "name": "waydroid-deb",
+      "repo": "https://github.com/gfdgd-xi/waydroid-deb",
+      "language": "HTML"
+    },
+    {
+      "name": "deep-wine-runner-termux",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-termux",
+      "language": "Shell"
+    },
+    {
+      "name": "apt-mirror-base",
+      "repo": "https://github.com/gfdgd-xi/apt-mirror-base",
+      "language": "HTML"
+    },
+    {
+      "name": "deep-wine-runner-for-android",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-for-android",
+      "language": "Java"
+    },
+    {
+      "name": "android-debian",
+      "repo": "https://github.com/gfdgd-xi/android-debian",
+      "language": "C"
+    },
+    {
+      "name": "debian-testing-dde23",
+      "repo": "https://github.com/gfdgd-xi/debian-testing-dde23",
+      "language": "HTML"
+    },
+    {
+      "name": "debiandde",
+      "repo": "https://github.com/gfdgd-xi/debiandde",
+      "url": "https://gitee.com/gfdgd-xi/debiandde",
+      "language": "Makefile"
+    },
+    {
+      "name": "kvm-system-test",
+      "repo": "https://github.com/gfdgd-xi/kvm-system-test"
+    },
+    {
+      "name": "android-debian-pkg",
+      "repo": "https://github.com/gfdgd-xi/android-debian-pkg",
+      "language": "Shell"
+    },
+    {
+      "name": "qemu-runner",
+      "repo": "https://github.com/gfdgd-xi/qemu-runner",
+      "language": "C++"
+    },
+    {
+      "name": "dde23-for-debian-sid-daily-amd64",
+      "repo": "https://github.com/gfdgd-xi/dde23-for-debian-sid-daily-amd64",
+      "language": "HTML"
+    },
+    {
+      "name": "deep-wine-runner-uos-3a4000-qemu",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-uos-3a4000-qemu"
+    },
+    {
+      "name": "gxde-for-ubuntu",
+      "repo": "https://github.com/gfdgd-xi/gxde-for-ubuntu",
+      "language": "HTML"
+    },
+    {
+      "name": "waydroid-deb-build",
+      "repo": "https://github.com/gfdgd-xi/waydroid-deb-build",
+      "language": "Shell"
+    },
+    {
+      "name": "deep-wine-runner-deepin23-loong64-depends",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-deepin23-loong64-depends"
+    },
+    {
+      "name": "spark-store-dependencies-kylin",
+      "repo": "https://github.com/gfdgd-xi/spark-store-dependencies-kylin",
+      "language": "Shell"
+    },
+    {
+      "name": "debian-dde-wallpapers",
+      "repo": "https://github.com/gfdgd-xi/debian-dde-wallpapers",
+      "language": "Shell"
+    },
+    {
+      "name": "wine-deb",
+      "repo": "https://github.com/gfdgd-xi/wine-deb",
+      "url": "https://wine-deb.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "dde20-for-debian11-deepin23nightly",
+      "repo": "https://github.com/gfdgd-xi/dde20-for-debian11-deepin23nightly",
+      "language": "HTML"
+    },
+    {
+      "name": "deep-wine-runner-cpp",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "windows-virtual-machine-installer-for-wine-runner",
+      "repo": "https://github.com/gfdgd-xi/windows-virtual-machine-installer-for-wine-runner",
+      "language": "C++"
+    },
+    {
+      "name": "deepin-community-live-cd",
+      "repo": "https://github.com/gfdgd-xi/deepin-community-live-cd",
+      "language": "Shell"
+    },
+    {
+      "name": "dde20-for-debian12",
+      "repo": "https://github.com/gfdgd-xi/dde20-for-debian12",
+      "language": "HTML"
+    },
+    {
+      "name": "dtkwidget",
+      "repo": "https://github.com/gfdgd-xi/dtkwidget",
+      "language": "C++"
+    },
+    {
+      "name": "dde-dock",
+      "repo": "https://github.com/gfdgd-xi/dde-dock",
+      "language": "C++"
+    },
+    {
+      "name": "wine-runner-websize",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-websize",
+      "url": "https://wine-runner-websize.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "wine-patch",
+      "repo": "https://github.com/gfdgd-xi/wine-patch"
+    },
+    {
+      "name": "deep-wine-runner-auto-configuration-script",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-auto-configuration-script",
+      "language": "Shell"
+    },
+    {
+      "name": "dclc-kernel",
+      "repo": "https://github.com/gfdgd-xi/dclc-kernel",
+      "url": "https://dclc-kernel.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "bbs",
+      "repo": "https://github.com/gfdgd-xi/bbs",
+      "language": "HTML"
+    },
+    {
+      "name": "debian-dde-desktop-environment",
+      "repo": "https://github.com/gfdgd-xi/debian-dde-desktop-environment"
+    },
+    {
+      "name": "dde20-for-debian11",
+      "repo": "https://github.com/gfdgd-xi/dde20-for-debian11",
+      "language": "HTML"
+    },
+    {
+      "name": "dde23-for-debian12-daily",
+      "repo": "https://github.com/gfdgd-xi/dde23-for-debian12-daily",
+      "language": "HTML"
+    },
+    {
+      "name": "dde-for-debian12-builder",
+      "repo": "https://github.com/gfdgd-xi/dde-for-debian12-builder",
+      "language": "Shell"
+    },
+    {
+      "name": "box86-box64-apt",
+      "repo": "https://github.com/gfdgd-xi/box86-box64-apt",
+      "language": "HTML"
+    },
+    {
+      "name": "debian-dde-desktop-theme",
+      "repo": "https://github.com/gfdgd-xi/debian-dde-desktop-theme",
+      "language": "CMake"
+    },
+    {
+      "name": "dde-file-manager",
+      "repo": "https://github.com/gfdgd-xi/dde-file-manager",
+      "language": "C++"
+    },
+    {
+      "name": "dde-control-center",
+      "repo": "https://github.com/gfdgd-xi/dde-control-center",
+      "language": "C++"
+    },
+    {
+      "name": "deepin-community-live-cd-online-installer",
+      "repo": "https://github.com/gfdgd-xi/deepin-community-live-cd-online-installer",
+      "language": "C++"
+    },
+    {
+      "name": "waydroid-android-image-gapps",
+      "repo": "https://github.com/gfdgd-xi/waydroid-android-image-gapps",
+      "language": "Shell"
+    },
+    {
+      "name": "waydroid",
+      "repo": "https://github.com/gfdgd-xi/waydroid",
+      "language": "Python"
+    },
+    {
+      "name": "uengine-runner-auto-configuration-script",
+      "repo": "https://github.com/gfdgd-xi/uengine-runner-auto-configuration-script",
+      "url": "https://uengine-runner-auto-configuration-script.vercel.app",
+      "language": "Shell"
+    },
+    {
+      "name": "python3-gbinder",
+      "repo": "https://github.com/gfdgd-xi/python3-gbinder"
+    },
+    {
+      "name": "libgbinder",
+      "repo": "https://github.com/gfdgd-xi/libgbinder"
+    },
+    {
+      "name": "libglibutil",
+      "repo": "https://github.com/gfdgd-xi/libglibutil"
+    },
+    {
+      "name": "program-video-help-webisite",
+      "repo": "https://github.com/gfdgd-xi/program-video-help-webisite",
+      "language": "HTML"
+    },
+    {
+      "name": "windows-dll-library",
+      "repo": "https://github.com/gfdgd-xi/windows-dll-library",
+      "language": "HTML"
+    },
+    {
+      "name": "wine-download-2",
+      "repo": "https://github.com/gfdgd-xi/wine-download-2",
+      "url": "https://wine-download-2.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "deep-wine-runner-un-internet",
+      "repo": "https://github.com/gfdgd-xi/deep-wine-runner-un-internet"
+    },
+    {
+      "name": "wine-runner-websize-foxpro",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-websize-foxpro",
+      "language": "HTML"
+    },
+    {
+      "name": "i386-deepin",
+      "repo": "https://github.com/gfdgd-xi/i386-deepin",
+      "language": "HTML"
+    },
+    {
+      "name": "waydroid-runner-auto-configuration-script",
+      "repo": "https://github.com/gfdgd-xi/waydroid-runner-auto-configuration-script",
+      "language": "Shell"
+    },
+    {
+      "name": "dtk-download-website",
+      "repo": "https://github.com/gfdgd-xi/dtk-download-website",
+      "language": "HTML"
+    },
+    {
+      "name": "dtk-debian11-apt",
+      "repo": "https://github.com/gfdgd-xi/dtk-debian11-apt",
+      "language": "HTML"
+    },
+    {
+      "name": "dtk-debian10-apt",
+      "repo": "https://github.com/gfdgd-xi/dtk-debian10-apt",
+      "language": "HTML"
+    },
+    {
+      "name": "dtk-ubuntu20.04-apt",
+      "repo": "https://github.com/gfdgd-xi/dtk-ubuntu20.04-apt",
+      "language": "HTML"
+    },
+    {
+      "name": "deepin15-ubuntuenv",
+      "repo": "https://github.com/gfdgd-xi/deepin15-ubuntuenv",
+      "language": "Python"
+    },
+    {
+      "name": "diy-icon",
+      "repo": "https://github.com/gfdgd-xi/diy-icon",
+      "language": "Python"
+    },
+    {
+      "name": "spark-wine8",
+      "repo": "https://github.com/gfdgd-xi/spark-wine8",
+      "language": "C"
+    },
+    {
+      "name": "vekcode",
+      "repo": "https://github.com/gfdgd-xi/vekcode",
+      "language": "Shell"
+    },
+    {
+      "name": "vekserver",
+      "repo": "https://github.com/gfdgd-xi/vekserver",
+      "language": "Shell"
+    },
+    {
+      "name": "wine-stable-8.0.1-x86_64",
+      "repo": "https://github.com/gfdgd-xi/wine-stable-8.0.1-x86_64",
+      "language": "Roff"
+    },
+    {
+      "name": "spark-webapp-runtime-runner",
+      "repo": "https://github.com/gfdgd-xi/spark-webapp-runtime-runner",
+      "language": "Shell"
+    },
+    {
+      "name": "wine-runner-websize-other",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-websize-other",
+      "language": "Python"
+    },
+    {
+      "name": "wine-runner-websize-net",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-websize-net",
+      "language": "HTML"
+    },
+    {
+      "name": "wine-bottle-library",
+      "repo": "https://github.com/gfdgd-xi/wine-bottle-library",
+      "url": "https://wine-bottle-library.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "uengine-for-ubuntu-migration-shell",
+      "repo": "https://github.com/gfdgd-xi/uengine-for-ubuntu-migration-shell",
+      "language": "Shell"
+    },
+    {
+      "name": "gfdgd-xi-apt-mirrors",
+      "repo": "https://github.com/gfdgd-xi/gfdgd-xi-apt-mirrors"
+    },
+    {
+      "name": "dtk-sources-for-uos-apt",
+      "repo": "https://github.com/gfdgd-xi/dtk-sources-for-uos-apt",
+      "language": "C++"
+    },
+    {
+      "name": "wine-runner-websize-vb",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-websize-vb",
+      "language": "Python"
+    },
+    {
+      "name": "wine-runner-websize-vcpp",
+      "repo": "https://github.com/gfdgd-xi/wine-runner-websize-vcpp",
+      "language": "HTML"
+    }
+  ]
+}

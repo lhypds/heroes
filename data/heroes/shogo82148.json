@@ -1,0 +1,530 @@
+{
+  "handle": "shogo82148",
+  "name": "ICHINOSE Shogo",
+  "github": [
+    "https://github.com/shogo82148"
+  ],
+  "website": "https://shogo82148.github.io/",
+  "bio": "goroutine concurrency expert",
+  "own_repos": 278,
+  "commits": 36329,
+  "apps": [],
+  "repos": [
+    {
+      "name": "actions-setup-perl",
+      "repo": "https://github.com/shogo82148/actions-setup-perl",
+      "url": "https://github.com/marketplace/actions/setup-perl-environment",
+      "language": "Perl"
+    },
+    {
+      "name": "strawberry-perl-releases",
+      "repo": "https://github.com/shogo82148/strawberry-perl-releases",
+      "language": "Shell"
+    },
+    {
+      "name": "qrcode-generator",
+      "repo": "https://github.com/shogo82148/qrcode-generator",
+      "language": "Go"
+    },
+    {
+      "name": "goa-v1",
+      "repo": "https://github.com/shogo82148/goa-v1",
+      "language": "Go"
+    },
+    {
+      "name": "uniseg",
+      "repo": "https://github.com/shogo82148/uniseg",
+      "language": "Go"
+    },
+    {
+      "name": "go-clockwork-base32",
+      "repo": "https://github.com/shogo82148/go-clockwork-base32",
+      "language": "Go"
+    },
+    {
+      "name": "actions-cfn-lint",
+      "repo": "https://github.com/shogo82148/actions-cfn-lint",
+      "language": "Shell"
+    },
+    {
+      "name": "std",
+      "repo": "https://github.com/shogo82148/std",
+      "url": "https://pkg.go.dev/github.com/shogo82148/std",
+      "language": "Go"
+    },
+    {
+      "name": "actions-github-app-token",
+      "repo": "https://github.com/shogo82148/actions-github-app-token",
+      "language": "Go"
+    },
+    {
+      "name": "rfc-translated-ja",
+      "repo": "https://github.com/shogo82148/rfc-translated-ja",
+      "url": "https://shogo82148.github.io/rfc-translated-ja/",
+      "language": "Python"
+    },
+    {
+      "name": "docker-lambda",
+      "repo": "https://github.com/shogo82148/docker-lambda",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cfn-mackerel-macro",
+      "repo": "https://github.com/shogo82148/cfn-mackerel-macro",
+      "language": "Go"
+    },
+    {
+      "name": "actions-rpmlint",
+      "repo": "https://github.com/shogo82148/actions-rpmlint",
+      "language": "Python"
+    },
+    {
+      "name": "ridgenative",
+      "repo": "https://github.com/shogo82148/ridgenative",
+      "language": "Go"
+    },
+    {
+      "name": "p5-aws-lambda",
+      "repo": "https://github.com/shogo82148/p5-aws-lambda",
+      "url": "https://metacpan.org/pod/AWS::Lambda",
+      "language": "Perl"
+    },
+    {
+      "name": "private-rpm-repo",
+      "repo": "https://github.com/shogo82148/private-rpm-repo",
+      "language": "Go"
+    },
+    {
+      "name": "mitamae-rpm",
+      "repo": "https://github.com/shogo82148/mitamae-rpm",
+      "language": "Shell"
+    },
+    {
+      "name": "shogo82148.github.com",
+      "repo": "https://github.com/shogo82148/shogo82148.github.com",
+      "language": "HTML"
+    },
+    {
+      "name": "p5-aws-lambda-docker",
+      "repo": "https://github.com/shogo82148/p5-aws-lambda-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "go-nginx-oauth2-adapter",
+      "repo": "https://github.com/shogo82148/go-nginx-oauth2-adapter",
+      "language": "Go"
+    },
+    {
+      "name": "go-prove",
+      "repo": "https://github.com/shogo82148/go-prove",
+      "language": "Go"
+    },
+    {
+      "name": "holidays-jp",
+      "repo": "https://github.com/shogo82148/holidays-jp",
+      "url": "https://holidays-jp.shogo82148.com/",
+      "language": "Go"
+    },
+    {
+      "name": "server-starter",
+      "repo": "https://github.com/shogo82148/server-starter",
+      "language": "Go"
+    },
+    {
+      "name": "s3cli-mini",
+      "repo": "https://github.com/shogo82148/s3cli-mini",
+      "language": "Go"
+    },
+    {
+      "name": "go-webntp",
+      "repo": "https://github.com/shogo82148/go-webntp",
+      "url": "https://webntp.shogo82148.com/",
+      "language": "Go"
+    },
+    {
+      "name": "go-tail",
+      "repo": "https://github.com/shogo82148/go-tail",
+      "language": "Go"
+    },
+    {
+      "name": "actions-create-release",
+      "repo": "https://github.com/shogo82148/actions-create-release",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typescript-action",
+      "repo": "https://github.com/shogo82148/typescript-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aws-xray-yasdk-go",
+      "repo": "https://github.com/shogo82148/aws-xray-yasdk-go",
+      "language": "Go"
+    },
+    {
+      "name": "actions-upload-release-asset",
+      "repo": "https://github.com/shogo82148/actions-upload-release-asset",
+      "language": "TypeScript"
+    },
+    {
+      "name": "actions-setup-mysql",
+      "repo": "https://github.com/shogo82148/actions-setup-mysql",
+      "language": "TypeScript"
+    },
+    {
+      "name": "actions-setup-redis",
+      "repo": "https://github.com/shogo82148/actions-setup-redis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "actions-go-fuzz",
+      "repo": "https://github.com/shogo82148/actions-go-fuzz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mackerel-cloudwatch-forwarder",
+      "repo": "https://github.com/shogo82148/mackerel-cloudwatch-forwarder",
+      "url": "https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:445285296882:applications~mackerel-cloudwatch-forwarder",
+      "language": "Go"
+    },
+    {
+      "name": "cloudwatch-logs-agent-lite",
+      "repo": "https://github.com/shogo82148/cloudwatch-logs-agent-lite",
+      "language": "Go"
+    },
+    {
+      "name": "go-sfv",
+      "repo": "https://github.com/shogo82148/go-sfv",
+      "language": "Go"
+    },
+    {
+      "name": "webntp.shogo82148.com",
+      "repo": "https://github.com/shogo82148/webntp.shogo82148.com",
+      "url": "https://webntp.shogo82148.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "acme-cert-updater",
+      "repo": "https://github.com/shogo82148/acme-cert-updater",
+      "language": "Python"
+    },
+    {
+      "name": "go-imageflux",
+      "repo": "https://github.com/shogo82148/go-imageflux",
+      "language": "Go"
+    },
+    {
+      "name": "go-mysql-pool",
+      "repo": "https://github.com/shogo82148/go-mysql-pool",
+      "url": "https://pkg.go.dev/github.com/shogo82148/go-mysql-pool",
+      "language": "Go"
+    },
+    {
+      "name": "myddlmaker",
+      "repo": "https://github.com/shogo82148/myddlmaker",
+      "language": "Go"
+    },
+    {
+      "name": "base64dq",
+      "repo": "https://github.com/shogo82148/base64dq",
+      "language": "Go"
+    },
+    {
+      "name": "schemalex-deploy",
+      "repo": "https://github.com/shogo82148/schemalex-deploy",
+      "language": "Go"
+    },
+    {
+      "name": "go-sql-proxy",
+      "repo": "https://github.com/shogo82148/go-sql-proxy",
+      "language": "Go"
+    },
+    {
+      "name": "sqldef-rpm",
+      "repo": "https://github.com/shogo82148/sqldef-rpm",
+      "language": "Perl"
+    },
+    {
+      "name": "rs-server-starter",
+      "repo": "https://github.com/shogo82148/rs-server-starter",
+      "language": "Rust"
+    },
+    {
+      "name": "p5-Redis-Script",
+      "repo": "https://github.com/shogo82148/p5-Redis-Script",
+      "language": "Perl"
+    },
+    {
+      "name": "actions-goveralls",
+      "repo": "https://github.com/shogo82148/actions-goveralls",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Redis-Fast",
+      "repo": "https://github.com/shogo82148/Redis-Fast",
+      "url": "https://metacpan.org/release/Redis-Fast",
+      "language": "Perl"
+    },
+    {
+      "name": "go-tap",
+      "repo": "https://github.com/shogo82148/go-tap",
+      "language": "Go"
+    },
+    {
+      "name": "jisx4061",
+      "repo": "https://github.com/shogo82148/jisx4061",
+      "language": "Go"
+    },
+    {
+      "name": "build-redis",
+      "repo": "https://github.com/shogo82148/build-redis",
+      "language": "Shell"
+    },
+    {
+      "name": "go-cbor",
+      "repo": "https://github.com/shogo82148/go-cbor",
+      "language": "Go"
+    },
+    {
+      "name": "androidbinary",
+      "repo": "https://github.com/shogo82148/androidbinary",
+      "language": "Go"
+    },
+    {
+      "name": "go-phper-json",
+      "repo": "https://github.com/shogo82148/go-phper-json",
+      "language": "Go"
+    },
+    {
+      "name": "go-akismet",
+      "repo": "https://github.com/shogo82148/go-akismet",
+      "language": "Go"
+    },
+    {
+      "name": "base45",
+      "repo": "https://github.com/shogo82148/base45",
+      "language": "Go"
+    },
+    {
+      "name": "go-bioctal",
+      "repo": "https://github.com/shogo82148/go-bioctal",
+      "language": "Go"
+    },
+    {
+      "name": "qrcode",
+      "repo": "https://github.com/shogo82148/qrcode",
+      "language": "Go"
+    },
+    {
+      "name": "pointer",
+      "repo": "https://github.com/shogo82148/pointer",
+      "language": "Go"
+    },
+    {
+      "name": "sets3lock",
+      "repo": "https://github.com/shogo82148/sets3lock",
+      "language": "Go"
+    },
+    {
+      "name": "rdsmysql",
+      "repo": "https://github.com/shogo82148/rdsmysql",
+      "language": "Go"
+    },
+    {
+      "name": "goat",
+      "repo": "https://github.com/shogo82148/goat",
+      "language": "Go"
+    },
+    {
+      "name": "go-http-logger",
+      "repo": "https://github.com/shogo82148/go-http-logger",
+      "url": "https://godoc.org/github.com/shogo82148/go-http-logger",
+      "language": "Go"
+    },
+    {
+      "name": "mecab",
+      "repo": "https://github.com/shogo82148/mecab",
+      "url": "https://shogo82148.github.io/mecab/",
+      "language": "C++"
+    },
+    {
+      "name": "go-mecab",
+      "repo": "https://github.com/shogo82148/go-mecab",
+      "language": "Go"
+    },
+    {
+      "name": "go-imaging",
+      "repo": "https://github.com/shogo82148/go-imaging",
+      "language": "Go"
+    },
+    {
+      "name": "go-header-csv",
+      "repo": "https://github.com/shogo82148/go-header-csv",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/shogo82148/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-lambda-init",
+      "repo": "https://github.com/shogo82148/docker-lambda-init",
+      "language": "Go"
+    },
+    {
+      "name": "github-feed-formatter",
+      "repo": "https://github.com/shogo82148/github-feed-formatter",
+      "language": "Perl"
+    },
+    {
+      "name": "websocket",
+      "repo": "https://github.com/shogo82148/websocket",
+      "language": "Go"
+    },
+    {
+      "name": "uuidserver",
+      "repo": "https://github.com/shogo82148/uuidserver",
+      "url": "https://uuid.shogo82148.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "ints",
+      "repo": "https://github.com/shogo82148/ints",
+      "language": "Go"
+    },
+    {
+      "name": "forwarded-header",
+      "repo": "https://github.com/shogo82148/forwarded-header",
+      "language": "Go"
+    },
+    {
+      "name": "go-ulid",
+      "repo": "https://github.com/shogo82148/go-ulid",
+      "language": "Go"
+    },
+    {
+      "name": "build-perl",
+      "repo": "https://github.com/shogo82148/build-perl",
+      "language": "Perl"
+    },
+    {
+      "name": "build-mysql",
+      "repo": "https://github.com/shogo82148/build-mysql",
+      "language": "Shell"
+    },
+    {
+      "name": "mecab-docker",
+      "repo": "https://github.com/shogo82148/mecab-docker",
+      "url": "https://hub.docker.com/r/shogo82148/mecab",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "go-exiftool",
+      "repo": "https://github.com/shogo82148/go-exiftool",
+      "language": "Go"
+    },
+    {
+      "name": "randsrc",
+      "repo": "https://github.com/shogo82148/randsrc",
+      "language": "Go"
+    },
+    {
+      "name": "floats",
+      "repo": "https://github.com/shogo82148/floats",
+      "language": "Go"
+    },
+    {
+      "name": "limit-concurrency",
+      "repo": "https://github.com/shogo82148/limit-concurrency",
+      "url": "https://www.npmjs.com/package/@shogo82148/limit-concurrency",
+      "language": "TypeScript"
+    },
+    {
+      "name": "actions-commit-and-create-pr",
+      "repo": "https://github.com/shogo82148/actions-commit-and-create-pr",
+      "language": "Shell"
+    },
+    {
+      "name": "a1notation",
+      "repo": "https://github.com/shogo82148/a1notation",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hi",
+      "repo": "https://github.com/shogo82148/hi",
+      "language": "Go"
+    },
+    {
+      "name": "goast-viewer",
+      "repo": "https://github.com/shogo82148/goast-viewer",
+      "url": "https://shogo82148.github.io/goast-viewer/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ape-slack",
+      "repo": "https://github.com/shogo82148/ape-slack",
+      "language": "Go"
+    },
+    {
+      "name": "go-uuid-v7",
+      "repo": "https://github.com/shogo82148/go-uuid-v7",
+      "language": "Go"
+    },
+    {
+      "name": "glob-test",
+      "repo": "https://github.com/shogo82148/glob-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-customizable-json",
+      "repo": "https://github.com/shogo82148/go-customizable-json",
+      "language": "Go"
+    },
+    {
+      "name": "minimum-elf",
+      "repo": "https://github.com/shogo82148/minimum-elf",
+      "language": "Perl"
+    },
+    {
+      "name": "go-shuffle",
+      "repo": "https://github.com/shogo82148/go-shuffle",
+      "language": "Go"
+    },
+    {
+      "name": "docker-image-update-checker",
+      "repo": "https://github.com/shogo82148/docker-image-update-checker",
+      "language": "Go"
+    },
+    {
+      "name": "github-action-test",
+      "repo": "https://github.com/shogo82148/github-action-test",
+      "language": "Perl"
+    },
+    {
+      "name": "letscount",
+      "repo": "https://github.com/shogo82148/letscount",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nginx-rpm",
+      "repo": "https://github.com/shogo82148/nginx-rpm",
+      "language": "Makefile"
+    },
+    {
+      "name": "fluent-bit-rpm",
+      "repo": "https://github.com/shogo82148/fluent-bit-rpm",
+      "language": "Shell"
+    },
+    {
+      "name": "redis-rpm",
+      "repo": "https://github.com/shogo82148/redis-rpm",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-retry",
+      "repo": "https://github.com/shogo82148/go-retry",
+      "language": "Go"
+    }
+  ]
+}

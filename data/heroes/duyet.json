@@ -1,0 +1,540 @@
+{
+  "handle": "duyet",
+  "name": "duyet",
+  "github": [
+    "https://github.com/duyet"
+  ],
+  "website": "https://duyet.net/",
+  "bio": "Data Engineering",
+  "own_repos": 341,
+  "commits": 10536,
+  "apps": [],
+  "repos": [
+    {
+      "name": "monorepo",
+      "repo": "https://github.com/duyet/monorepo",
+      "url": "https://duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kb",
+      "repo": "https://github.com/duyet/kb",
+      "language": "HTML"
+    },
+    {
+      "name": "aidr",
+      "repo": "https://github.com/duyet/aidr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "koa-isbot",
+      "repo": "https://github.com/duyet/koa-isbot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ccr",
+      "repo": "https://github.com/duyet/ccr",
+      "url": "https://ccr.duyet.workers.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "summa",
+      "repo": "https://github.com/duyet/summa",
+      "url": "https://burn.duyet.net",
+      "language": "Rust"
+    },
+    {
+      "name": "saveto",
+      "repo": "https://github.com/duyet/saveto",
+      "language": "JavaScript"
+    },
+    {
+      "name": "firebase-shorten-url",
+      "repo": "https://github.com/duyet/firebase-shorten-url",
+      "url": "https://s.duyet.net",
+      "language": "JavaScript"
+    },
+    {
+      "name": "charts",
+      "repo": "https://github.com/duyet/charts",
+      "url": "https://duyet.github.io/charts/",
+      "language": "Go Template"
+    },
+    {
+      "name": "nlp-board-labeling",
+      "repo": "https://github.com/duyet/nlp-board-labeling",
+      "language": "JavaScript"
+    },
+    {
+      "name": "feedback",
+      "repo": "https://github.com/duyet/feedback",
+      "url": "https://feedback.okie.one",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slack-matrix-bridge",
+      "repo": "https://github.com/duyet/slack-matrix-bridge",
+      "url": "https://slack-matrix-bridge.duyet.workers.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "calc.js",
+      "repo": "https://github.com/duyet/calc.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stamp",
+      "repo": "https://github.com/duyet/stamp",
+      "url": "https://stamp.duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pricetrack",
+      "repo": "https://github.com/duyet/pricetrack",
+      "url": "https://tracker.duyet.net",
+      "language": "JavaScript"
+    },
+    {
+      "name": "llm-daily",
+      "repo": "https://github.com/duyet/llm-daily",
+      "url": "https://duyet.github.io/llm-daily/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "neo4j-visualization",
+      "repo": "https://github.com/duyet/neo4j-visualization",
+      "url": "https://duyet.github.io/neo4j-visualization/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oma",
+      "repo": "https://github.com/duyet/oma",
+      "url": "https://oma.duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "clickhouse-udf-rs",
+      "repo": "https://github.com/duyet/clickhouse-udf-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "homelab",
+      "repo": "https://github.com/duyet/homelab",
+      "language": "Shell"
+    },
+    {
+      "name": "tiny-status",
+      "repo": "https://github.com/duyet/tiny-status",
+      "language": "Swift"
+    },
+    {
+      "name": "demo-tracing-rs",
+      "repo": "https://github.com/duyet/demo-tracing-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "coding-agent-insights",
+      "repo": "https://github.com/duyet/coding-agent-insights",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-trait-object-examples",
+      "repo": "https://github.com/duyet/serde-trait-object-examples",
+      "language": "Rust"
+    },
+    {
+      "name": "gaxy",
+      "repo": "https://github.com/duyet/gaxy",
+      "language": "Go"
+    },
+    {
+      "name": "shopee-track-demo",
+      "repo": "https://github.com/duyet/shopee-track-demo",
+      "url": "https://flatgithub.com/duyet/shopee-track-demo?filename=data%2Fmaster.csv&sha=c1864770b4361d9863aef4688ca7d3f67e40c8aa",
+      "language": "Python"
+    },
+    {
+      "name": "ballista",
+      "repo": "https://github.com/duyet/ballista",
+      "language": "Rust"
+    },
+    {
+      "name": "clauduck",
+      "repo": "https://github.com/duyet/clauduck",
+      "language": "TypeScript"
+    },
+    {
+      "name": "glossary-rs",
+      "repo": "https://github.com/duyet/glossary-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "agentstate",
+      "repo": "https://github.com/duyet/agentstate",
+      "url": "https://agentstate.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pageview",
+      "repo": "https://github.com/duyet/pageview",
+      "url": "https://pageview.duyet.net/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "herdr-desk",
+      "repo": "https://github.com/duyet/herdr-desk",
+      "language": "TypeScript"
+    },
+    {
+      "name": "coding-challenges",
+      "repo": "https://github.com/duyet/coding-challenges",
+      "language": "Rust"
+    },
+    {
+      "name": "shtp-maps",
+      "repo": "https://github.com/duyet/shtp-maps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-normalizer",
+      "repo": "https://github.com/duyet/node-normalizer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "anyr-cli-gallery",
+      "repo": "https://github.com/duyet/anyr-cli-gallery",
+      "language": "HTML"
+    },
+    {
+      "name": "logs",
+      "repo": "https://github.com/duyet/logs",
+      "url": "https://logs.duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "llm-over-dns",
+      "repo": "https://github.com/duyet/llm-over-dns",
+      "url": "https://duyet.github.io/llm-over-dns/",
+      "language": "Rust"
+    },
+    {
+      "name": "applause-btn",
+      "repo": "https://github.com/duyet/applause-btn",
+      "language": "Go"
+    },
+    {
+      "name": "jvn-challenge",
+      "repo": "https://github.com/duyet/jvn-challenge",
+      "language": "Python"
+    },
+    {
+      "name": "codex-claude-plugins",
+      "repo": "https://github.com/duyet/codex-claude-plugins",
+      "language": "Python"
+    },
+    {
+      "name": "spark-docker",
+      "repo": "https://github.com/duyet/spark-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "api.duyet.net",
+      "repo": "https://github.com/duyet/api.duyet.net",
+      "language": "Python"
+    },
+    {
+      "name": "node-ngram",
+      "repo": "https://github.com/duyet/node-ngram",
+      "language": "JavaScript"
+    },
+    {
+      "name": "deno-runner-rs",
+      "repo": "https://github.com/duyet/deno-runner-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "duyet",
+      "repo": "https://github.com/duyet/duyet",
+      "url": "https://github.com/duyet"
+    },
+    {
+      "name": "duyet-mcp-server",
+      "repo": "https://github.com/duyet/duyet-mcp-server",
+      "url": "https://mcp.duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "minhagent",
+      "repo": "https://github.com/duyet/minhagent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anyrouter-agentic-inbox",
+      "repo": "https://github.com/duyet/anyrouter-agentic-inbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fonts",
+      "repo": "https://github.com/duyet/fonts",
+      "language": "Python"
+    },
+    {
+      "name": "anyworker",
+      "repo": "https://github.com/duyet/anyworker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "git-insights-rs",
+      "repo": "https://github.com/duyet/git-insights-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "athena-rs",
+      "repo": "https://github.com/duyet/athena-rs",
+      "url": "https://duyet.github.io/athena-rs/athena/",
+      "language": "Rust"
+    },
+    {
+      "name": "eved",
+      "repo": "https://github.com/duyet/eved",
+      "url": "https://eved-gilt.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-delete",
+      "repo": "https://github.com/duyet/node-delete",
+      "language": "JavaScript"
+    },
+    {
+      "name": "koa-firebase-functions",
+      "repo": "https://github.com/duyet/koa-firebase-functions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "grant-rs",
+      "repo": "https://github.com/duyet/grant-rs",
+      "url": "https://duyet.github.io/grant-rs/grant/index.html",
+      "language": "Rust"
+    },
+    {
+      "name": "bruteforce-database",
+      "repo": "https://github.com/duyet/bruteforce-database",
+      "language": "Python"
+    },
+    {
+      "name": "ngan.vn",
+      "repo": "https://github.com/duyet/ngan.vn",
+      "language": "CSS"
+    },
+    {
+      "name": "odoo-8-docker",
+      "repo": "https://github.com/duyet/odoo-8-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "notibar.js",
+      "repo": "https://github.com/duyet/notibar.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "duyet.net",
+      "repo": "https://github.com/duyet/duyet.net",
+      "url": "https://duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "launch-video",
+      "repo": "https://github.com/duyet/launch-video",
+      "language": "TypeScript"
+    },
+    {
+      "name": "build-agent",
+      "repo": "https://github.com/duyet/build-agent"
+    },
+    {
+      "name": "claude-agent-runner",
+      "repo": "https://github.com/duyet/claude-agent-runner",
+      "language": "Python"
+    },
+    {
+      "name": "claude-sandbox-agent",
+      "repo": "https://github.com/duyet/claude-sandbox-agent"
+    },
+    {
+      "name": "docker-images",
+      "repo": "https://github.com/duyet/docker-images",
+      "language": "Shell"
+    },
+    {
+      "name": "spark-history-server-docker",
+      "repo": "https://github.com/duyet/spark-history-server-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "github-contributions-api",
+      "repo": "https://github.com/duyet/github-contributions-api",
+      "url": "https://ghca.duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "surf-automation",
+      "repo": "https://github.com/duyet/surf-automation",
+      "language": "JavaScript"
+    },
+    {
+      "name": "statsd-mock-rs",
+      "repo": "https://github.com/duyet/statsd-mock-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "cov-rs",
+      "repo": "https://github.com/duyet/cov-rs",
+      "language": "Shell"
+    },
+    {
+      "name": "llm-release-action",
+      "repo": "https://github.com/duyet/llm-release-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": ".claude",
+      "repo": "https://github.com/duyet/.claude",
+      "language": "Shell"
+    },
+    {
+      "name": "tmux-pane-agent-status",
+      "repo": "https://github.com/duyet/tmux-pane-agent-status",
+      "language": "Shell"
+    },
+    {
+      "name": "MinhAgent.app",
+      "repo": "https://github.com/duyet/MinhAgent.app",
+      "language": "Makefile"
+    },
+    {
+      "name": "onewf",
+      "repo": "https://github.com/duyet/onewf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "demo.duyet.net",
+      "repo": "https://github.com/duyet/demo.duyet.net",
+      "url": "https://demo.duyet.net",
+      "language": "HTML"
+    },
+    {
+      "name": "okie.one",
+      "repo": "https://github.com/duyet/okie.one",
+      "url": "https://okie.one",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-actions",
+      "repo": "https://github.com/duyet/github-actions",
+      "language": "Shell"
+    },
+    {
+      "name": "duyetbot-agent",
+      "repo": "https://github.com/duyet/duyetbot-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "personal-tracker",
+      "repo": "https://github.com/duyet/personal-tracker",
+      "language": "Swift"
+    },
+    {
+      "name": "node-tfidf",
+      "repo": "https://github.com/duyet/node-tfidf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "copy.js",
+      "repo": "https://github.com/duyet/copy.js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "opencv-car-detection",
+      "repo": "https://github.com/duyet/opencv-car-detection",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "google-search-crawler",
+      "repo": "https://github.com/duyet/google-search-crawler",
+      "language": "Python"
+    },
+    {
+      "name": "mtproxy-rs",
+      "repo": "https://github.com/duyet/mtproxy-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "aspect-extraction",
+      "repo": "https://github.com/duyet/aspect-extraction",
+      "language": "Python"
+    },
+    {
+      "name": "economic-index",
+      "repo": "https://github.com/duyet/economic-index",
+      "url": "https://economic-index.pages.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/duyet/skills",
+      "language": "Python"
+    },
+    {
+      "name": "gemma-4-finetune-vietnamese-legal-documents",
+      "repo": "https://github.com/duyet/gemma-4-finetune-vietnamese-legal-documents",
+      "language": "Python"
+    },
+    {
+      "name": "vietnamese-legal-documents-dataset",
+      "repo": "https://github.com/duyet/vietnamese-legal-documents-dataset",
+      "url": "https://doi.org/10.57967/hf/8343",
+      "language": "Python"
+    },
+    {
+      "name": "openclaw-dashboard",
+      "repo": "https://github.com/duyet/openclaw-dashboard",
+      "url": "https://claw.duyet.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-secrets-sync",
+      "repo": "https://github.com/duyet/github-secrets-sync",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-canvas",
+      "repo": "https://github.com/duyet/ai-canvas",
+      "url": "https://duyet.github.io/ai-canvas/",
+      "language": "HTML"
+    },
+    {
+      "name": "finance-hub",
+      "repo": "https://github.com/duyet/finance-hub",
+      "language": "TypeScript"
+    },
+    {
+      "name": "code-review-agent",
+      "repo": "https://github.com/duyet/code-review-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "obsidian-public",
+      "repo": "https://github.com/duyet/obsidian-public"
+    },
+    {
+      "name": "llm-nightly",
+      "repo": "https://github.com/duyet/llm-nightly",
+      "language": "TypeScript"
+    },
+    {
+      "name": "google-finance-news-crawler",
+      "repo": "https://github.com/duyet/google-finance-news-crawler",
+      "language": "JavaScript"
+    }
+  ]
+}

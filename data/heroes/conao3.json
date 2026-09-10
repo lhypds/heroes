@@ -1,0 +1,517 @@
+{
+  "handle": "conao3",
+  "name": "Naoya Yamashita",
+  "github": [
+    "https://github.com/conao3"
+  ],
+  "website": "https://www.emacswiki.org/emacs/Conao3",
+  "bio": "Emacs, Clojure",
+  "own_repos": 314,
+  "commits": 10160,
+  "apps": [],
+  "repos": [
+    {
+      "name": "lean-todo-app",
+      "repo": "https://github.com/conao3/lean-todo-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nixos-configuration",
+      "repo": "https://github.com/conao3/nixos-configuration",
+      "language": "Nix"
+    },
+    {
+      "name": "rust-chrome-devtools",
+      "repo": "https://github.com/conao3/rust-chrome-devtools",
+      "language": "Rust"
+    },
+    {
+      "name": "nix-sel4",
+      "repo": "https://github.com/conao3/nix-sel4",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-sel4-example",
+      "repo": "https://github.com/conao3/nix-sel4-example",
+      "language": "Nix"
+    },
+    {
+      "name": "rust-document-packet",
+      "repo": "https://github.com/conao3/rust-document-packet",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-outbound-manifest",
+      "repo": "https://github.com/conao3/rust-outbound-manifest",
+      "language": "Rust"
+    },
+    {
+      "name": "atcoder",
+      "repo": "https://github.com/conao3/atcoder",
+      "language": "Python"
+    },
+    {
+      "name": "rust-relaykit",
+      "repo": "https://github.com/conao3/rust-relaykit",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-inspect-jsonl",
+      "repo": "https://github.com/conao3/rust-inspect-jsonl",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-sa",
+      "repo": "https://github.com/conao3/rust-sa",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rust-devo",
+      "repo": "https://github.com/conao3/rust-devo",
+      "language": "Rust"
+    },
+    {
+      "name": "sanchoris",
+      "repo": "https://github.com/conao3/sanchoris",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rust-x-search",
+      "repo": "https://github.com/conao3/rust-x-search",
+      "language": "Rust"
+    },
+    {
+      "name": "deck-src",
+      "repo": "https://github.com/conao3/deck-src",
+      "language": "Nix"
+    },
+    {
+      "name": "rust-gitq",
+      "repo": "https://github.com/conao3/rust-gitq",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nix-msb",
+      "repo": "https://github.com/conao3/nix-msb",
+      "url": "https://microsandbox.dev/",
+      "language": "Nix"
+    },
+    {
+      "name": "rust-agent-cockpit",
+      "repo": "https://github.com/conao3/rust-agent-cockpit",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-comp",
+      "repo": "https://github.com/conao3/rust-comp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "book-puyopuyo-programming",
+      "repo": "https://github.com/conao3/book-puyopuyo-programming",
+      "language": "JavaScript"
+    },
+    {
+      "name": "github-jtc",
+      "repo": "https://github.com/conao3/github-jtc",
+      "url": "https://conao3.github.io/github-jtc/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blog-stasis-src",
+      "repo": "https://github.com/conao3/blog-stasis-src",
+      "language": "CSS"
+    },
+    {
+      "name": "bun-bunsai",
+      "repo": "https://github.com/conao3/bun-bunsai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "worktrunk.el",
+      "repo": "https://github.com/conao3/worktrunk.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bun-ghovas",
+      "repo": "https://github.com/conao3/bun-ghovas",
+      "language": "TypeScript"
+    },
+    {
+      "name": "casync.el",
+      "repo": "https://github.com/conao3/casync.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lean-js",
+      "repo": "https://github.com/conao3/lean-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust-llm-quota",
+      "repo": "https://github.com/conao3/rust-llm-quota",
+      "language": "Rust"
+    },
+    {
+      "name": "keg.el",
+      "repo": "https://github.com/conao3/keg.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "richmd-mode.el",
+      "repo": "https://github.com/conao3/richmd-mode.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "aws-infra-k8s",
+      "repo": "https://github.com/conao3/aws-infra-k8s",
+      "language": "Clojure"
+    },
+    {
+      "name": "aws-cli-proxy-api",
+      "repo": "https://github.com/conao3/aws-cli-proxy-api",
+      "language": "Python"
+    },
+    {
+      "name": "python-debbugs-graphene",
+      "repo": "https://github.com/conao3/python-debbugs-graphene",
+      "language": "Python"
+    },
+    {
+      "name": "clojure-mahjong-point-calc",
+      "repo": "https://github.com/conao3/clojure-mahjong-point-calc",
+      "language": "Clojure"
+    },
+    {
+      "name": "typescript-aws-dashboard",
+      "repo": "https://github.com/conao3/typescript-aws-dashboard",
+      "language": "Rust"
+    },
+    {
+      "name": "python-sfn",
+      "repo": "https://github.com/conao3/python-sfn",
+      "language": "Python"
+    },
+    {
+      "name": "python-graphql-core-rs",
+      "repo": "https://github.com/conao3/python-graphql-core-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "iceberg-theme.el",
+      "repo": "https://github.com/conao3/iceberg-theme.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ddskk-posframe.el",
+      "repo": "https://github.com/conao3/ddskk-posframe.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "rust-cagent",
+      "repo": "https://github.com/conao3/rust-cagent",
+      "language": "Rust"
+    },
+    {
+      "name": "transient-dwim.el",
+      "repo": "https://github.com/conao3/transient-dwim.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "reforge.el",
+      "repo": "https://github.com/conao3/reforge.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "liskk.el",
+      "repo": "https://github.com/conao3/liskk.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "leaf-convert.el",
+      "repo": "https://github.com/conao3/leaf-convert.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "indent-lint.el",
+      "repo": "https://github.com/conao3/indent-lint.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "sanboard",
+      "repo": "https://github.com/conao3/sanboard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sample-clojure-make-puyopuyo",
+      "repo": "https://github.com/conao3/sample-clojure-make-puyopuyo",
+      "language": "Clojure"
+    },
+    {
+      "name": "oauth2-request.el",
+      "repo": "https://github.com/conao3/oauth2-request.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "leaf-browser.el",
+      "repo": "https://github.com/conao3/leaf-browser.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "smie-base.el",
+      "repo": "https://github.com/conao3/smie-base.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "promise-magit-section.el",
+      "repo": "https://github.com/conao3/promise-magit-section.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "playground",
+      "repo": "https://github.com/conao3/playground",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pile.el",
+      "repo": "https://github.com/conao3/pile.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lsp-server.el",
+      "repo": "https://github.com/conao3/lsp-server.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lsp-inspector.el",
+      "repo": "https://github.com/conao3/lsp-inspector.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "leaf-tree.el",
+      "repo": "https://github.com/conao3/leaf-tree.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "leaf-keywords.el",
+      "repo": "https://github.com/conao3/leaf-keywords.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "leaf-defaults.el",
+      "repo": "https://github.com/conao3/leaf-defaults.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "google-api.el",
+      "repo": "https://github.com/conao3/google-api.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "gcal.el",
+      "repo": "https://github.com/conao3/gcal.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cort.el",
+      "repo": "https://github.com/conao3/cort.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "clojure-ccboard",
+      "repo": "https://github.com/conao3/clojure-ccboard",
+      "language": "Clojure"
+    },
+    {
+      "name": "seml-mode.el",
+      "repo": "https://github.com/conao3/seml-mode.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "sample-clojure-make-kanban",
+      "repo": "https://github.com/conao3/sample-clojure-make-kanban",
+      "language": "Clojure"
+    },
+    {
+      "name": "python-gettextpo",
+      "repo": "https://github.com/conao3/python-gettextpo",
+      "language": "Rust"
+    },
+    {
+      "name": "org-generate.el",
+      "repo": "https://github.com/conao3/org-generate.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "python-rel-import-lambda",
+      "repo": "https://github.com/conao3/python-rel-import-lambda",
+      "language": "Python"
+    },
+    {
+      "name": "nix-flakes-public",
+      "repo": "https://github.com/conao3/nix-flakes-public",
+      "language": "Nix"
+    },
+    {
+      "name": "tuiw.el",
+      "repo": "https://github.com/conao3/tuiw.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "setup-keg",
+      "repo": "https://github.com/conao3/setup-keg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "scratch-comment.el",
+      "repo": "https://github.com/conao3/scratch-comment.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "satysfi-mode.el",
+      "repo": "https://github.com/conao3/satysfi-mode.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "rust-tuiw",
+      "repo": "https://github.com/conao3/rust-tuiw",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-gitcat",
+      "repo": "https://github.com/conao3/rust-gitcat",
+      "language": "Rust"
+    },
+    {
+      "name": "reviewgen.el",
+      "repo": "https://github.com/conao3/reviewgen.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "react-spectrum-fu",
+      "repo": "https://github.com/conao3/react-spectrum-fu",
+      "language": "TypeScript"
+    },
+    {
+      "name": "python-yacedar",
+      "repo": "https://github.com/conao3/python-yacedar",
+      "language": "Rust"
+    },
+    {
+      "name": "print-debug.el",
+      "repo": "https://github.com/conao3/print-debug.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ppp.el",
+      "repo": "https://github.com/conao3/ppp.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "peek.el",
+      "repo": "https://github.com/conao3/peek.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ox-zenn.el",
+      "repo": "https://github.com/conao3/ox-zenn.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ox-deck.el",
+      "repo": "https://github.com/conao3/ox-deck.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "oj.el",
+      "repo": "https://github.com/conao3/oj.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "merged.dev",
+      "repo": "https://github.com/conao3/merged.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "markuplint.el",
+      "repo": "https://github.com/conao3/markuplint.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "leaf.el",
+      "repo": "https://github.com/conao3/leaf.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "leaf-manager.el",
+      "repo": "https://github.com/conao3/leaf-manager.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lazy.el",
+      "repo": "https://github.com/conao3/lazy.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "hi-lock-global.el",
+      "repo": "https://github.com/conao3/hi-lock-global.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "fzf-posframe.el",
+      "repo": "https://github.com/conao3/fzf-posframe.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacl.el",
+      "repo": "https://github.com/conao3/emacl.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "elisp-conao3-json-ts-mode",
+      "repo": "https://github.com/conao3/elisp-conao3-json-ts-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "eglot-lsp-settings.el",
+      "repo": "https://github.com/conao3/eglot-lsp-settings.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dired-posframe.el",
+      "repo": "https://github.com/conao3/dired-posframe.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dired-lsi.el",
+      "repo": "https://github.com/conao3/dired-lsi.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dired-git.el",
+      "repo": "https://github.com/conao3/dired-git.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "denops.el",
+      "repo": "https://github.com/conao3/denops.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cl-paip",
+      "repo": "https://github.com/conao3/cl-paip",
+      "language": "Nix"
+    },
+    {
+      "name": "celpa",
+      "repo": "https://github.com/conao3/celpa",
+      "url": "https://celpa.conao3.com/",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bv.el",
+      "repo": "https://github.com/conao3/bv.el",
+      "language": "Emacs Lisp"
+    }
+  ]
+}

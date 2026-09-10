@@ -1,0 +1,524 @@
+{
+  "handle": "eddelbuettel",
+  "name": "Dirk Eddelbuettel",
+  "github": [
+    "https://github.com/eddelbuettel"
+  ],
+  "website": "https://dirk.eddelbuettel.com/",
+  "own_repos": 239,
+  "commits": 12038,
+  "apps": [],
+  "repos": [
+    {
+      "name": "r2u-builder",
+      "repo": "https://github.com/eddelbuettel/r2u-builder",
+      "language": "C"
+    },
+    {
+      "name": "myman",
+      "repo": "https://github.com/eddelbuettel/myman",
+      "language": "R"
+    },
+    {
+      "name": "chronometre-py",
+      "repo": "https://github.com/eddelbuettel/chronometre-py",
+      "language": "Python"
+    },
+    {
+      "name": "rdieharder",
+      "repo": "https://github.com/eddelbuettel/rdieharder",
+      "language": "C"
+    },
+    {
+      "name": "myman-py",
+      "repo": "https://github.com/eddelbuettel/myman-py",
+      "language": "Python"
+    },
+    {
+      "name": "r2u-config",
+      "repo": "https://github.com/eddelbuettel/r2u-config"
+    },
+    {
+      "name": "rcppxts",
+      "repo": "https://github.com/eddelbuettel/rcppxts",
+      "language": "C++"
+    },
+    {
+      "name": "lim-chart",
+      "repo": "https://github.com/eddelbuettel/lim-chart",
+      "language": "R"
+    },
+    {
+      "name": "rcppfarmhash",
+      "repo": "https://github.com/eddelbuettel/rcppfarmhash",
+      "language": "C++"
+    },
+    {
+      "name": "rfoaas",
+      "repo": "https://github.com/eddelbuettel/rfoaas",
+      "language": "R"
+    },
+    {
+      "name": "r2u",
+      "repo": "https://github.com/eddelbuettel/r2u",
+      "url": "https://eddelbuettel.github.io/r2u",
+      "language": "R"
+    },
+    {
+      "name": "rcppexamples",
+      "repo": "https://github.com/eddelbuettel/rcppexamples",
+      "language": "C++"
+    },
+    {
+      "name": "rcppclassicexamples",
+      "repo": "https://github.com/eddelbuettel/rcppclassicexamples",
+      "language": "C++"
+    },
+    {
+      "name": "images",
+      "repo": "https://github.com/eddelbuettel/images",
+      "url": "https://eddelbuettel.github.io/images"
+    },
+    {
+      "name": "gaussfacts",
+      "repo": "https://github.com/eddelbuettel/gaussfacts",
+      "language": "R"
+    },
+    {
+      "name": "r2u-logs",
+      "repo": "https://github.com/eddelbuettel/r2u-logs"
+    },
+    {
+      "name": "random",
+      "repo": "https://github.com/eddelbuettel/random",
+      "language": "TeX"
+    },
+    {
+      "name": "r-ci",
+      "repo": "https://github.com/eddelbuettel/r-ci",
+      "url": "https://eddelbuettel.github.io/r-ci"
+    },
+    {
+      "name": "prrd",
+      "repo": "https://github.com/eddelbuettel/prrd",
+      "language": "R"
+    },
+    {
+      "name": "linl",
+      "repo": "https://github.com/eddelbuettel/linl",
+      "language": "TeX"
+    },
+    {
+      "name": "ctv-finance",
+      "repo": "https://github.com/eddelbuettel/ctv-finance",
+      "language": "R"
+    },
+    {
+      "name": "gettz",
+      "repo": "https://github.com/eddelbuettel/gettz",
+      "language": "C++"
+    },
+    {
+      "name": "tellme",
+      "repo": "https://github.com/eddelbuettel/tellme",
+      "language": "C++"
+    },
+    {
+      "name": "rprotobuf",
+      "repo": "https://github.com/eddelbuettel/rprotobuf",
+      "language": "C++"
+    },
+    {
+      "name": "pdf-archive",
+      "repo": "https://github.com/eddelbuettel/pdf-archive",
+      "url": "https://eddelbuettel.github.io/pdf-archive/"
+    },
+    {
+      "name": "digest",
+      "repo": "https://github.com/eddelbuettel/digest",
+      "url": "https://eddelbuettel.github.io/digest",
+      "language": "C++"
+    },
+    {
+      "name": "rcppmsgpack",
+      "repo": "https://github.com/eddelbuettel/rcppmsgpack",
+      "language": "C++"
+    },
+    {
+      "name": "naarma",
+      "repo": "https://github.com/eddelbuettel/naarma",
+      "language": "C"
+    },
+    {
+      "name": "pkgkitten",
+      "repo": "https://github.com/eddelbuettel/pkgkitten",
+      "url": "https://eddelbuettel.github.io/pkgkitten",
+      "language": "R"
+    },
+    {
+      "name": "littler",
+      "repo": "https://github.com/eddelbuettel/littler",
+      "url": "https://eddelbuettel.github.io/littler",
+      "language": "R"
+    },
+    {
+      "name": "inline",
+      "repo": "https://github.com/eddelbuettel/inline",
+      "language": "R"
+    },
+    {
+      "name": "gcbd",
+      "repo": "https://github.com/eddelbuettel/gcbd",
+      "language": "R"
+    },
+    {
+      "name": "dtts",
+      "repo": "https://github.com/eddelbuettel/dtts",
+      "language": "R"
+    },
+    {
+      "name": "drat",
+      "repo": "https://github.com/eddelbuettel/drat",
+      "url": "https://eddelbuettel.github.io/drat",
+      "language": "HTML"
+    },
+    {
+      "name": "crc32c-example",
+      "repo": "https://github.com/eddelbuettel/crc32c-example",
+      "language": "C++"
+    },
+    {
+      "name": "dang",
+      "repo": "https://github.com/eddelbuettel/dang",
+      "language": "R"
+    },
+    {
+      "name": "ciw",
+      "repo": "https://github.com/eddelbuettel/ciw",
+      "language": "R"
+    },
+    {
+      "name": "chronometre-r",
+      "repo": "https://github.com/eddelbuettel/chronometre-r",
+      "language": "R"
+    },
+    {
+      "name": "eddelbuettel.r-universe.dev",
+      "repo": "https://github.com/eddelbuettel/eddelbuettel.r-universe.dev",
+      "language": "R"
+    },
+    {
+      "name": "github-actions",
+      "repo": "https://github.com/eddelbuettel/github-actions",
+      "language": "Shell"
+    },
+    {
+      "name": "binb",
+      "repo": "https://github.com/eddelbuettel/binb",
+      "language": "TeX"
+    },
+    {
+      "name": "duckdb-mlpack",
+      "repo": "https://github.com/eddelbuettel/duckdb-mlpack",
+      "url": "https://duckdb.org/community_extensions/extensions/mlpack",
+      "language": "C++"
+    },
+    {
+      "name": "crc32c",
+      "repo": "https://github.com/eddelbuettel/crc32c",
+      "language": "C++"
+    },
+    {
+      "name": "nanotime",
+      "repo": "https://github.com/eddelbuettel/nanotime",
+      "url": "https://eddelbuettel.github.io/nanotime",
+      "language": "R"
+    },
+    {
+      "name": "rcppdate",
+      "repo": "https://github.com/eddelbuettel/rcppdate",
+      "language": "C++"
+    },
+    {
+      "name": "anytime",
+      "repo": "https://github.com/eddelbuettel/anytime",
+      "url": "https://eddelbuettel.github.io/anytime",
+      "language": "R"
+    },
+    {
+      "name": "asioheaders",
+      "repo": "https://github.com/eddelbuettel/asioheaders",
+      "language": "C++"
+    },
+    {
+      "name": "ulid",
+      "repo": "https://github.com/eddelbuettel/ulid",
+      "url": "https://eddelbuettel.github.io/ulid/",
+      "language": "C++"
+    },
+    {
+      "name": "rquantlib",
+      "repo": "https://github.com/eddelbuettel/rquantlib",
+      "language": "C++"
+    },
+    {
+      "name": "mlpack-r",
+      "repo": "https://github.com/eddelbuettel/mlpack-r",
+      "language": "C++"
+    },
+    {
+      "name": "bh",
+      "repo": "https://github.com/eddelbuettel/bh",
+      "language": "C++"
+    },
+    {
+      "name": "acane",
+      "repo": "https://github.com/eddelbuettel/acane",
+      "language": "C"
+    },
+    {
+      "name": "rcppmlpack-examples",
+      "repo": "https://github.com/eddelbuettel/rcppmlpack-examples",
+      "language": "C++"
+    },
+    {
+      "name": "rcppnloptexample",
+      "repo": "https://github.com/eddelbuettel/rcppnloptexample",
+      "language": "C++"
+    },
+    {
+      "name": "RcppArmadilloNLoptExample",
+      "repo": "https://github.com/eddelbuettel/RcppArmadilloNLoptExample",
+      "language": "C++"
+    },
+    {
+      "name": "filter-journal-spam",
+      "repo": "https://github.com/eddelbuettel/filter-journal-spam",
+      "language": "Makefile"
+    },
+    {
+      "name": "tlexample",
+      "repo": "https://github.com/eddelbuettel/tlexample",
+      "language": "C++"
+    },
+    {
+      "name": "tl",
+      "repo": "https://github.com/eddelbuettel/tl",
+      "language": "R"
+    },
+    {
+      "name": "rspdlite",
+      "repo": "https://github.com/eddelbuettel/rspdlite",
+      "language": "C++"
+    },
+    {
+      "name": "rbenchmark",
+      "repo": "https://github.com/eddelbuettel/rbenchmark",
+      "language": "R"
+    },
+    {
+      "name": "lim-tidy",
+      "repo": "https://github.com/eddelbuettel/lim-tidy",
+      "language": "R"
+    },
+    {
+      "name": "lim-tiny",
+      "repo": "https://github.com/eddelbuettel/lim-tiny",
+      "language": "R"
+    },
+    {
+      "name": "r2u-arm64-builder",
+      "repo": "https://github.com/eddelbuettel/r2u-arm64-builder",
+      "language": "Shell"
+    },
+    {
+      "name": "R-4.6.0-binary-transition",
+      "repo": "https://github.com/eddelbuettel/R-4.6.0-binary-transition",
+      "language": "R"
+    },
+    {
+      "name": "crp",
+      "repo": "https://github.com/eddelbuettel/crp",
+      "language": "HTML"
+    },
+    {
+      "name": "rcppnarrow",
+      "repo": "https://github.com/eddelbuettel/rcppnarrow",
+      "language": "C++"
+    },
+    {
+      "name": "rcppde",
+      "repo": "https://github.com/eddelbuettel/rcppde",
+      "language": "BibTeX Style"
+    },
+    {
+      "name": "rcppspdlog",
+      "repo": "https://github.com/eddelbuettel/rcppspdlog",
+      "url": "https://eddelbuettel.github.io/rcppspdlog/",
+      "language": "C++"
+    },
+    {
+      "name": "rcppsimdjson",
+      "repo": "https://github.com/eddelbuettel/rcppsimdjson",
+      "language": "C++"
+    },
+    {
+      "name": "ctv-hpc",
+      "repo": "https://github.com/eddelbuettel/ctv-hpc",
+      "url": "https://cran.r-project.org/web/views/HighPerformanceComputing.html",
+      "language": "R"
+    },
+    {
+      "name": "rcppredis",
+      "repo": "https://github.com/eddelbuettel/rcppredis",
+      "language": "C"
+    },
+    {
+      "name": "rcppquantuccia",
+      "repo": "https://github.com/eddelbuettel/rcppquantuccia",
+      "language": "C++"
+    },
+    {
+      "name": "zigg",
+      "repo": "https://github.com/eddelbuettel/zigg",
+      "language": "C++"
+    },
+    {
+      "name": "almm",
+      "repo": "https://github.com/eddelbuettel/almm",
+      "language": "C"
+    },
+    {
+      "name": "tidycpp",
+      "repo": "https://github.com/eddelbuettel/tidycpp",
+      "language": "C++"
+    },
+    {
+      "name": "rcppclassic",
+      "repo": "https://github.com/eddelbuettel/rcppclassic",
+      "language": "C++"
+    },
+    {
+      "name": "rcppcnpy",
+      "repo": "https://github.com/eddelbuettel/rcppcnpy",
+      "language": "C++"
+    },
+    {
+      "name": "xptr",
+      "repo": "https://github.com/eddelbuettel/xptr",
+      "url": "https://eddelbuettel.github.io/xptr/",
+      "language": "R"
+    },
+    {
+      "name": "rcppbdt",
+      "repo": "https://github.com/eddelbuettel/rcppbdt",
+      "language": "C++"
+    },
+    {
+      "name": "rcppgsl",
+      "repo": "https://github.com/eddelbuettel/rcppgsl",
+      "language": "TeX"
+    },
+    {
+      "name": "ttdo",
+      "repo": "https://github.com/eddelbuettel/ttdo",
+      "language": "R"
+    },
+    {
+      "name": "gsir-te",
+      "repo": "https://github.com/eddelbuettel/gsir-te",
+      "language": "R"
+    },
+    {
+      "name": "rcppstreams",
+      "repo": "https://github.com/eddelbuettel/rcppstreams",
+      "language": "C++"
+    },
+    {
+      "name": "tinyqueue",
+      "repo": "https://github.com/eddelbuettel/tinyqueue",
+      "language": "R"
+    },
+    {
+      "name": "data-examples",
+      "repo": "https://github.com/eddelbuettel/data-examples",
+      "language": "Shell"
+    },
+    {
+      "name": "tinythemes",
+      "repo": "https://github.com/eddelbuettel/tinythemes",
+      "language": "R"
+    },
+    {
+      "name": "tint",
+      "repo": "https://github.com/eddelbuettel/tint",
+      "language": "R"
+    },
+    {
+      "name": "td",
+      "repo": "https://github.com/eddelbuettel/td",
+      "language": "R"
+    },
+    {
+      "name": "spdl",
+      "repo": "https://github.com/eddelbuettel/spdl",
+      "language": "R"
+    },
+    {
+      "name": "sanitizers",
+      "repo": "https://github.com/eddelbuettel/sanitizers",
+      "language": "C++"
+    },
+    {
+      "name": "sampletestpackage",
+      "repo": "https://github.com/eddelbuettel/sampletestpackage",
+      "language": "R"
+    },
+    {
+      "name": "rvowpalwabbit",
+      "repo": "https://github.com/eddelbuettel/rvowpalwabbit",
+      "language": "C++"
+    },
+    {
+      "name": "rpushbullet",
+      "repo": "https://github.com/eddelbuettel/rpushbullet",
+      "url": "https://eddelbuettel.github.io/rpushbullet",
+      "language": "R"
+    },
+    {
+      "name": "rmsfact",
+      "repo": "https://github.com/eddelbuettel/rmsfact",
+      "language": "R"
+    },
+    {
+      "name": "rinside",
+      "repo": "https://github.com/eddelbuettel/rinside",
+      "language": "C++"
+    },
+    {
+      "name": "rcppziggurat",
+      "repo": "https://github.com/eddelbuettel/rcppziggurat",
+      "language": "C++"
+    },
+    {
+      "name": "rcppuuid",
+      "repo": "https://github.com/eddelbuettel/rcppuuid",
+      "language": "C++"
+    },
+    {
+      "name": "rcpptomlplusplus",
+      "repo": "https://github.com/eddelbuettel/rcpptomlplusplus",
+      "language": "C++"
+    },
+    {
+      "name": "rcpptoml",
+      "repo": "https://github.com/eddelbuettel/rcpptoml",
+      "language": "C++"
+    },
+    {
+      "name": "rcppmagicenum",
+      "repo": "https://github.com/eddelbuettel/rcppmagicenum",
+      "language": "C++"
+    }
+  ]
+}

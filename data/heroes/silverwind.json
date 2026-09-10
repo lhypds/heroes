@@ -4,6 +4,502 @@
   "github": [
     "https://github.com/silverwind"
   ],
+  "own_repos": 120,
   "commits": 18958,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/silverwind/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "oui-data",
+      "repo": "https://github.com/silverwind/oui-data",
+      "language": "TypeScript"
+    },
+    {
+      "name": "symlink-test",
+      "repo": "https://github.com/silverwind/symlink-test"
+    },
+    {
+      "name": "timerel",
+      "repo": "https://github.com/silverwind/timerel",
+      "language": "TypeScript"
+    },
+    {
+      "name": "updates",
+      "repo": "https://github.com/silverwind/updates",
+      "language": "TypeScript"
+    },
+    {
+      "name": "versions",
+      "repo": "https://github.com/silverwind/versions",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tmtheme",
+      "repo": "https://github.com/silverwind/tmtheme",
+      "language": "CSS"
+    },
+    {
+      "name": "url-from-req",
+      "repo": "https://github.com/silverwind/url-from-req",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tcpie",
+      "repo": "https://github.com/silverwind/tcpie",
+      "language": "TypeScript"
+    },
+    {
+      "name": "parse-listen-string",
+      "repo": "https://github.com/silverwind/parse-listen-string",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fetch-bench",
+      "repo": "https://github.com/silverwind/fetch-bench",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vitest-config-silverwind",
+      "repo": "https://github.com/silverwind/vitest-config-silverwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fetch-css",
+      "repo": "https://github.com/silverwind/fetch-css",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rrdir",
+      "repo": "https://github.com/silverwind/rrdir",
+      "language": "TypeScript"
+    },
+    {
+      "name": "uppie",
+      "repo": "https://github.com/silverwind/uppie",
+      "language": "TypeScript"
+    },
+    {
+      "name": "updates-config-silverwind",
+      "repo": "https://github.com/silverwind/updates-config-silverwind",
+      "language": "Makefile"
+    },
+    {
+      "name": "envies",
+      "repo": "https://github.com/silverwind/envies",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spectral-cli-bundle",
+      "repo": "https://github.com/silverwind/spectral-cli-bundle",
+      "language": "Shell"
+    },
+    {
+      "name": "newman-cli-bundle",
+      "repo": "https://github.com/silverwind/newman-cli-bundle",
+      "language": "Makefile"
+    },
+    {
+      "name": "eslint-cli-bundle",
+      "repo": "https://github.com/silverwind/eslint-cli-bundle",
+      "language": "Makefile"
+    },
+    {
+      "name": "cfdns",
+      "repo": "https://github.com/silverwind/cfdns",
+      "language": "TypeScript"
+    },
+    {
+      "name": "idTip",
+      "repo": "https://github.com/silverwind/idTip",
+      "language": "Lua"
+    },
+    {
+      "name": "root-hints",
+      "repo": "https://github.com/silverwind/root-hints",
+      "language": "TypeScript"
+    },
+    {
+      "name": "daemonize-process",
+      "repo": "https://github.com/silverwind/daemonize-process",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typescript-config-silverwind",
+      "repo": "https://github.com/silverwind/typescript-config-silverwind",
+      "language": "Makefile"
+    },
+    {
+      "name": "clippie",
+      "repo": "https://github.com/silverwind/clippie",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dnsz",
+      "repo": "https://github.com/silverwind/dnsz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bruno-cli-bundle",
+      "repo": "https://github.com/silverwind/bruno-cli-bundle",
+      "language": "TypeScript"
+    },
+    {
+      "name": "is-cidr",
+      "repo": "https://github.com/silverwind/is-cidr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-yaml-plugin",
+      "repo": "https://github.com/silverwind/vite-yaml-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stylelint-config-silverwind",
+      "repo": "https://github.com/silverwind/stylelint-config-silverwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-string-plugin",
+      "repo": "https://github.com/silverwind/vite-string-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dnsbl",
+      "repo": "https://github.com/silverwind/dnsbl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-config-silverwind",
+      "repo": "https://github.com/silverwind/vite-config-silverwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ip-ptr",
+      "repo": "https://github.com/silverwind/ip-ptr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "port-numbers",
+      "repo": "https://github.com/silverwind/port-numbers",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ruff-config-silverwind",
+      "repo": "https://github.com/silverwind/ruff-config-silverwind",
+      "language": "Makefile"
+    },
+    {
+      "name": "tsdown-config-silverwind",
+      "repo": "https://github.com/silverwind/tsdown-config-silverwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rolldown-license-plugin",
+      "repo": "https://github.com/silverwind/rolldown-license-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ip-bigint",
+      "repo": "https://github.com/silverwind/ip-bigint",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deepie-merge",
+      "repo": "https://github.com/silverwind/deepie-merge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "prettier-config-silverwind",
+      "repo": "https://github.com/silverwind/prettier-config-silverwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-config-silverwind",
+      "repo": "https://github.com/silverwind/eslint-config-silverwind",
+      "language": "TypeScript"
+    },
+    {
+      "name": "glowie",
+      "repo": "https://github.com/silverwind/glowie",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cidr-tools",
+      "repo": "https://github.com/silverwind/cidr-tools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "remap-css",
+      "repo": "https://github.com/silverwind/remap-css",
+      "language": "TypeScript"
+    },
+    {
+      "name": "precompress",
+      "repo": "https://github.com/silverwind/precompress",
+      "language": "TypeScript"
+    },
+    {
+      "name": "oui",
+      "repo": "https://github.com/silverwind/oui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cidr-regex",
+      "repo": "https://github.com/silverwind/cidr-regex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fetch-enhanced",
+      "repo": "https://github.com/silverwind/fetch-enhanced",
+      "language": "TypeScript"
+    },
+    {
+      "name": "caa",
+      "repo": "https://github.com/silverwind/caa",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsdown-multi",
+      "repo": "https://github.com/silverwind/tsdown-multi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dayjs-dts-repro",
+      "repo": "https://github.com/silverwind/dayjs-dts-repro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rolldown-min-size",
+      "repo": "https://github.com/silverwind/rolldown-min-size",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rolldown-watch-incremental",
+      "repo": "https://github.com/silverwind/rolldown-watch-incremental",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dnd-window",
+      "repo": "https://github.com/silverwind/dnd-window",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsdown-windows",
+      "repo": "https://github.com/silverwind/tsdown-windows",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esm.js",
+      "repo": "https://github.com/silverwind/esm.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "default-gateway",
+      "repo": "https://github.com/silverwind/default-gateway",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tsdown-hashbang",
+      "repo": "https://github.com/silverwind/tsdown-hashbang",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsdown-sourcemap",
+      "repo": "https://github.com/silverwind/tsdown-sourcemap",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-dts-plugin",
+      "repo": "https://github.com/silverwind/vite-dts-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "resolver-bug",
+      "repo": "https://github.com/silverwind/resolver-bug",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vitest-resolve-bug",
+      "repo": "https://github.com/silverwind/vitest-resolve-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-config-silverwind-typescript",
+      "repo": "https://github.com/silverwind/eslint-config-silverwind-typescript",
+      "language": "Makefile"
+    },
+    {
+      "name": "eslint-config-silverwind-react",
+      "repo": "https://github.com/silverwind/eslint-config-silverwind-react",
+      "language": "Makefile"
+    },
+    {
+      "name": "vue-plugin-not-callable",
+      "repo": "https://github.com/silverwind/vue-plugin-not-callable",
+      "language": "TypeScript"
+    },
+    {
+      "name": "storybook-node-strip",
+      "repo": "https://github.com/silverwind/storybook-node-strip",
+      "language": "MDX"
+    },
+    {
+      "name": "vite-import-meta",
+      "repo": "https://github.com/silverwind/vite-import-meta",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dts-4-react-issue",
+      "repo": "https://github.com/silverwind/dts-4-react-issue",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jsonmodule",
+      "repo": "https://github.com/silverwind/jsonmodule",
+      "language": "JavaScript"
+    },
+    {
+      "name": "playwright-screen",
+      "repo": "https://github.com/silverwind/playwright-screen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-flat-test",
+      "repo": "https://github.com/silverwind/eslint-flat-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "-",
+      "repo": "https://github.com/silverwind/-"
+    },
+    {
+      "name": "symlink-github",
+      "repo": "https://github.com/silverwind/symlink-github"
+    },
+    {
+      "name": "tailwind-import",
+      "repo": "https://github.com/silverwind/tailwind-import",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vite-empty-sourcemap",
+      "repo": "https://github.com/silverwind/vite-empty-sourcemap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vitest-css",
+      "repo": "https://github.com/silverwind/vitest-css",
+      "language": "JavaScript"
+    },
+    {
+      "name": "silverwind",
+      "repo": "https://github.com/silverwind/silverwind"
+    },
+    {
+      "name": "cidr-range",
+      "repo": "https://github.com/silverwind/cidr-range",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nano-npm",
+      "repo": "https://github.com/silverwind/nano-npm"
+    },
+    {
+      "name": "media-url",
+      "repo": "https://github.com/silverwind/media-url",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vitest-diff",
+      "repo": "https://github.com/silverwind/vitest-diff",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ansible-synchronize-port",
+      "repo": "https://github.com/silverwind/ansible-synchronize-port",
+      "language": "Shell"
+    },
+    {
+      "name": "import-got",
+      "repo": "https://github.com/silverwind/import-got",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vite-sharedworker",
+      "repo": "https://github.com/silverwind/vite-sharedworker",
+      "language": "HTML"
+    },
+    {
+      "name": "xxxx",
+      "repo": "https://github.com/silverwind/xxxx"
+    },
+    {
+      "name": "vitest-react-automatic-runtime",
+      "repo": "https://github.com/silverwind/vitest-react-automatic-runtime",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-style-order",
+      "repo": "https://github.com/silverwind/vite-style-order",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-hashbang-bug",
+      "repo": "https://github.com/silverwind/eslint-hashbang-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "as-networks",
+      "repo": "https://github.com/silverwind/as-networks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "setupfiles",
+      "repo": "https://github.com/silverwind/setupfiles",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ocsp.sh",
+      "repo": "https://github.com/silverwind/ocsp.sh",
+      "language": "Shell"
+    },
+    {
+      "name": "droppy",
+      "repo": "https://github.com/silverwind/droppy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "golang-node-python",
+      "repo": "https://github.com/silverwind/golang-node-python",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "emoji-markdown-tests",
+      "repo": "https://github.com/silverwind/emoji-markdown-tests"
+    },
+    {
+      "name": "is-cli",
+      "repo": "https://github.com/silverwind/is-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sparkz",
+      "repo": "https://github.com/silverwind/sparkz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "expect-telnet",
+      "repo": "https://github.com/silverwind/expect-telnet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "overlay-scrollbars",
+      "repo": "https://github.com/silverwind/overlay-scrollbars",
+      "language": "CSS"
+    }
+  ]
 }

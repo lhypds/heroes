@@ -1,0 +1,508 @@
+{
+  "handle": "rgl",
+  "name": "Rui Lopes",
+  "github": [
+    "https://github.com/rgl"
+  ],
+  "own_repos": 420,
+  "commits": 14633,
+  "apps": [],
+  "repos": [
+    {
+      "name": "my-ubuntu-ansible-playbooks",
+      "repo": "https://github.com/rgl/my-ubuntu-ansible-playbooks",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-libvirt-ansible-windows-example",
+      "repo": "https://github.com/rgl/terraform-libvirt-ansible-windows-example",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-libvirt-windows-example",
+      "repo": "https://github.com/rgl/terraform-libvirt-windows-example",
+      "language": "HCL"
+    },
+    {
+      "name": "aws-windows-vm",
+      "repo": "https://github.com/rgl/aws-windows-vm",
+      "language": "HCL"
+    },
+    {
+      "name": "aws-ubuntu-vm",
+      "repo": "https://github.com/rgl/aws-ubuntu-vm",
+      "language": "Shell"
+    },
+    {
+      "name": "windows-vos-vagrant",
+      "repo": "https://github.com/rgl/windows-vos-vagrant",
+      "language": "PowerShell"
+    },
+    {
+      "name": "my-windows-ansible-playbooks",
+      "repo": "https://github.com/rgl/my-windows-ansible-playbooks",
+      "language": "PowerShell"
+    },
+    {
+      "name": "use-go-msix",
+      "repo": "https://github.com/rgl/use-go-msix",
+      "language": "Go"
+    },
+    {
+      "name": "nexus-vagrant",
+      "repo": "https://github.com/rgl/nexus-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-ce-windows-binaries-vagrant",
+      "repo": "https://github.com/rgl/docker-ce-windows-binaries-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "hello-world-electron",
+      "repo": "https://github.com/rgl/hello-world-electron",
+      "language": "JavaScript"
+    },
+    {
+      "name": "windows-vagrant",
+      "repo": "https://github.com/rgl/windows-vagrant",
+      "language": "PowerShell"
+    },
+    {
+      "name": "proxmox-clone-vm-example",
+      "repo": "https://github.com/rgl/proxmox-clone-vm-example",
+      "language": "Go"
+    },
+    {
+      "name": "rpi4-uefi-ipxe",
+      "repo": "https://github.com/rgl/rpi4-uefi-ipxe",
+      "language": "Shell"
+    },
+    {
+      "name": "ubuntu-vagrant",
+      "repo": "https://github.com/rgl/ubuntu-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-libvirt-debian-example",
+      "repo": "https://github.com/rgl/terraform-libvirt-debian-example",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-libvirt-ubuntu-example",
+      "repo": "https://github.com/rgl/terraform-libvirt-ubuntu-example",
+      "language": "HCL"
+    },
+    {
+      "name": "incus-playground",
+      "repo": "https://github.com/rgl/incus-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-libvirt-ansible-windows-domain-controller-example",
+      "repo": "https://github.com/rgl/terraform-libvirt-ansible-windows-domain-controller-example",
+      "language": "PowerShell"
+    },
+    {
+      "name": "packer-qemu-ansible-windows-example",
+      "repo": "https://github.com/rgl/packer-qemu-ansible-windows-example",
+      "language": "Shell"
+    },
+    {
+      "name": "jenkins-vagrant",
+      "repo": "https://github.com/rgl/jenkins-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-hyperv-windows-vm",
+      "repo": "https://github.com/rgl/ansible-hyperv-windows-vm",
+      "language": "Shell"
+    },
+    {
+      "name": "debian-vagrant",
+      "repo": "https://github.com/rgl/debian-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "windows-evaluation-isos-scraper",
+      "repo": "https://github.com/rgl/windows-evaluation-isos-scraper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hadris-iso-cli-wasm",
+      "repo": "https://github.com/rgl/hadris-iso-cli-wasm",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rust-esp32-hello-world",
+      "repo": "https://github.com/rgl/rust-esp32-hello-world",
+      "language": "Shell"
+    },
+    {
+      "name": "rust-esp32c6-hello-world",
+      "repo": "https://github.com/rgl/rust-esp32c6-hello-world",
+      "language": "Shell"
+    },
+    {
+      "name": "bootimus-playground",
+      "repo": "https://github.com/rgl/bootimus-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "fedora-vagrant",
+      "repo": "https://github.com/rgl/fedora-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "fedora-workstation-vagrant",
+      "repo": "https://github.com/rgl/fedora-workstation-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-proxmox-almalinux-example",
+      "repo": "https://github.com/rgl/terraform-proxmox-almalinux-example",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-proxmox-fedora-workstation-example",
+      "repo": "https://github.com/rgl/terraform-proxmox-fedora-workstation-example",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-proxmox-fedora-example",
+      "repo": "https://github.com/rgl/terraform-proxmox-fedora-example",
+      "language": "Shell"
+    },
+    {
+      "name": "almalinux-vagrant",
+      "repo": "https://github.com/rgl/almalinux-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-gcp-ansible-debian-example",
+      "repo": "https://github.com/rgl/terraform-gcp-ansible-debian-example"
+    },
+    {
+      "name": "ansible-hyperv-ubuntu-vm",
+      "repo": "https://github.com/rgl/ansible-hyperv-ubuntu-vm",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-vsphere-debian-example",
+      "repo": "https://github.com/rgl/terraform-vsphere-debian-example",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-proxmox-debian-example",
+      "repo": "https://github.com/rgl/terraform-proxmox-debian-example",
+      "language": "Shell"
+    },
+    {
+      "name": "sql-server-docker-playground",
+      "repo": "https://github.com/rgl/sql-server-docker-playground",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "use-go-msi",
+      "repo": "https://github.com/rgl/use-go-msi"
+    },
+    {
+      "name": "use-rqlite-go",
+      "repo": "https://github.com/rgl/use-rqlite-go",
+      "language": "Shell"
+    },
+    {
+      "name": "dell-drivers-scraper",
+      "repo": "https://github.com/rgl/dell-drivers-scraper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-proxmox-ubuntu-example",
+      "repo": "https://github.com/rgl/terraform-proxmox-ubuntu-example",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-proxmox-windows-example",
+      "repo": "https://github.com/rgl/terraform-proxmox-windows-example",
+      "language": "HCL"
+    },
+    {
+      "name": "mediamtx-rtsp-server",
+      "repo": "https://github.com/rgl/mediamtx-rtsp-server",
+      "language": "PowerShell"
+    },
+    {
+      "name": "example-go-windows-app",
+      "repo": "https://github.com/rgl/example-go-windows-app",
+      "language": "Makefile"
+    },
+    {
+      "name": "windows-pe-vagrant",
+      "repo": "https://github.com/rgl/windows-pe-vagrant",
+      "language": "PowerShell"
+    },
+    {
+      "name": "gitlab-ci-vagrant",
+      "repo": "https://github.com/rgl/gitlab-ci-vagrant",
+      "language": "PowerShell"
+    },
+    {
+      "name": "gitlab-vagrant",
+      "repo": "https://github.com/rgl/gitlab-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "s3fs-fuse-windows",
+      "repo": "https://github.com/rgl/s3fs-fuse-windows",
+      "language": "PowerShell"
+    },
+    {
+      "name": "windows-pe-init",
+      "repo": "https://github.com/rgl/windows-pe-init",
+      "language": "Makefile"
+    },
+    {
+      "name": "show-version-info-file-flags",
+      "repo": "https://github.com/rgl/show-version-info-file-flags",
+      "language": "C"
+    },
+    {
+      "name": "lms-binaries",
+      "repo": "https://github.com/rgl/lms-binaries"
+    },
+    {
+      "name": "ansible-aws-ec2-import-debian-ami",
+      "repo": "https://github.com/rgl/ansible-aws-ec2-import-debian-ami",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-aws-ansibe-windows-example",
+      "repo": "https://github.com/rgl/terraform-aws-ansibe-windows-example",
+      "language": "Shell"
+    },
+    {
+      "name": "packer-plugin-windows-update",
+      "repo": "https://github.com/rgl/packer-plugin-windows-update",
+      "language": "PowerShell"
+    },
+    {
+      "name": "terraform-provider-vbmc",
+      "repo": "https://github.com/rgl/terraform-provider-vbmc",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-provider-sushy-vbmc",
+      "repo": "https://github.com/rgl/terraform-provider-sushy-vbmc",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-vsphere-windows-example",
+      "repo": "https://github.com/rgl/terraform-vsphere-windows-example",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-vsphere-ubuntu-example",
+      "repo": "https://github.com/rgl/terraform-vsphere-ubuntu-example",
+      "language": "HCL"
+    },
+    {
+      "name": "ansible-vsphere-ubuntu-vm",
+      "repo": "https://github.com/rgl/ansible-vsphere-ubuntu-vm",
+      "language": "Shell"
+    },
+    {
+      "name": "debian-live-builder-vagrant",
+      "repo": "https://github.com/rgl/debian-live-builder-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "alpine-vagrant",
+      "repo": "https://github.com/rgl/alpine-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "reolink-e1-zoom-playground",
+      "repo": "https://github.com/rgl/reolink-e1-zoom-playground",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-proxmox-incus-os",
+      "repo": "https://github.com/rgl/terraform-proxmox-incus-os",
+      "language": "Shell"
+    },
+    {
+      "name": "artifactory-playground",
+      "repo": "https://github.com/rgl/artifactory-playground",
+      "language": "Python"
+    },
+    {
+      "name": "spire-vagrant",
+      "repo": "https://github.com/rgl/spire-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "vagrant-windows-sysprep",
+      "repo": "https://github.com/rgl/vagrant-windows-sysprep",
+      "language": "Ruby"
+    },
+    {
+      "name": "packer-qemu-windows-restart-pins-cpu-usage-reproducer",
+      "repo": "https://github.com/rgl/packer-qemu-windows-restart-pins-cpu-usage-reproducer",
+      "language": "HCL"
+    },
+    {
+      "name": "fedora-bluefin-vagrant",
+      "repo": "https://github.com/rgl/fedora-bluefin-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "fedora-bootc-playground",
+      "repo": "https://github.com/rgl/fedora-bootc-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "ResourceExtractor",
+      "repo": "https://github.com/rgl/ResourceExtractor",
+      "language": "C#"
+    },
+    {
+      "name": "packer-qemu-ansible-debian-example",
+      "repo": "https://github.com/rgl/packer-qemu-ansible-debian-example",
+      "language": "Shell"
+    },
+    {
+      "name": "deno-stdin-reader-abortsignal",
+      "repo": "https://github.com/rgl/deno-stdin-reader-abortsignal",
+      "language": "TypeScript"
+    },
+    {
+      "name": "terraform-proxmox-talos",
+      "repo": "https://github.com/rgl/terraform-proxmox-talos",
+      "language": "HCL"
+    },
+    {
+      "name": "windows-kiosk-test-app",
+      "repo": "https://github.com/rgl/windows-kiosk-test-app",
+      "language": "C#"
+    },
+    {
+      "name": "terraform-libvirt-talos",
+      "repo": "https://github.com/rgl/terraform-libvirt-talos",
+      "language": "HCL"
+    },
+    {
+      "name": "windows-powershell-command-line-arguments",
+      "repo": "https://github.com/rgl/windows-powershell-command-line-arguments",
+      "language": "PowerShell"
+    },
+    {
+      "name": "fyne-uefi-playground",
+      "repo": "https://github.com/rgl/fyne-uefi-playground",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "proxmox-ve",
+      "repo": "https://github.com/rgl/proxmox-ve",
+      "language": "Shell"
+    },
+    {
+      "name": "windows-kiosk",
+      "repo": "https://github.com/rgl/windows-kiosk",
+      "language": "PowerShell"
+    },
+    {
+      "name": "use-ssh-over-hyper-v-socket",
+      "repo": "https://github.com/rgl/use-ssh-over-hyper-v-socket",
+      "language": "Go"
+    },
+    {
+      "name": "openssh-server-windows-vagrant",
+      "repo": "https://github.com/rgl/openssh-server-windows-vagrant",
+      "language": "PowerShell"
+    },
+    {
+      "name": "wireguard-vagrant",
+      "repo": "https://github.com/rgl/wireguard-vagrant",
+      "language": "PowerShell"
+    },
+    {
+      "name": "git-lfs-test-server-playground",
+      "repo": "https://github.com/rgl/git-lfs-test-server-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-azure-garm",
+      "repo": "https://github.com/rgl/terraform-azure-garm",
+      "language": "Shell"
+    },
+    {
+      "name": "playwright-standalone",
+      "repo": "https://github.com/rgl/playwright-standalone",
+      "language": "Shell"
+    },
+    {
+      "name": "jenkins-validate-jwt",
+      "repo": "https://github.com/rgl/jenkins-validate-jwt",
+      "language": "Go"
+    },
+    {
+      "name": "github-octo-sts-playground",
+      "repo": "https://github.com/rgl/github-octo-sts-playground"
+    },
+    {
+      "name": "MailBounceDetector",
+      "repo": "https://github.com/rgl/MailBounceDetector",
+      "language": "C#"
+    },
+    {
+      "name": "terraform-azure-aks-example",
+      "repo": "https://github.com/rgl/terraform-azure-aks-example",
+      "language": "HCL"
+    },
+    {
+      "name": "gitlab-ci-validate-jwt",
+      "repo": "https://github.com/rgl/gitlab-ci-validate-jwt",
+      "language": "Go"
+    },
+    {
+      "name": "nixos-vagrant",
+      "repo": "https://github.com/rgl/nixos-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "my-openwrt-ansible-playbooks",
+      "repo": "https://github.com/rgl/my-openwrt-ansible-playbooks",
+      "language": "Shell"
+    },
+    {
+      "name": "openwrt-vagrant",
+      "repo": "https://github.com/rgl/openwrt-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "rsync-vagrant",
+      "repo": "https://github.com/rgl/rsync-vagrant",
+      "language": "PowerShell"
+    },
+    {
+      "name": "windows-sysprep-playground",
+      "repo": "https://github.com/rgl/windows-sysprep-playground",
+      "language": "PowerShell"
+    },
+    {
+      "name": "kubernetes-hello",
+      "repo": "https://github.com/rgl/kubernetes-hello",
+      "language": "Go"
+    },
+    {
+      "name": "bitwarden-master-password-pdf",
+      "repo": "https://github.com/rgl/bitwarden-master-password-pdf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "caderneta-predial",
+      "repo": "https://github.com/rgl/caderneta-predial",
+      "language": "TypeScript"
+    }
+  ]
+}

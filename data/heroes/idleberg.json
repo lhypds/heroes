@@ -1,0 +1,566 @@
+{
+  "handle": "idleberg",
+  "name": "Jan T. Sott",
+  "github": [
+    "https://github.com/idleberg"
+  ],
+  "bio": "Software Engineer at @derstandardAT. Co-founder of @nutriot and @visbot.",
+  "own_repos": 399,
+  "commits": 17747,
+  "apps": [],
+  "repos": [
+    {
+      "name": "vscode-nsis",
+      "repo": "https://github.com/idleberg/vscode-nsis",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.nsis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "installua",
+      "repo": "https://github.com/idleberg/installua",
+      "language": "Rust"
+    },
+    {
+      "name": "setup-installua",
+      "repo": "https://github.com/idleberg/setup-installua",
+      "url": "https://github.com/marketplace/actions/setup-installua"
+    },
+    {
+      "name": "homebrew-asahi",
+      "repo": "https://github.com/idleberg/homebrew-asahi",
+      "language": "Ruby"
+    },
+    {
+      "name": "sveltekit-adapter-html-like",
+      "repo": "https://github.com/idleberg/sveltekit-adapter-html-like",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nsis-lsp",
+      "repo": "https://github.com/idleberg/nsis-lsp",
+      "url": "https://crates.io/crates/nsis-lsp",
+      "language": "Rust"
+    },
+    {
+      "name": "sublime-lsp-nsis",
+      "repo": "https://github.com/idleberg/sublime-lsp-nsis",
+      "language": "Python"
+    },
+    {
+      "name": "ardent",
+      "repo": "https://github.com/idleberg/ardent",
+      "url": "https://idleberg.github.io/ardent/",
+      "language": "Rust"
+    },
+    {
+      "name": "pklenv",
+      "repo": "https://github.com/idleberg/pklenv",
+      "language": "Go"
+    },
+    {
+      "name": "nsis-org",
+      "repo": "https://github.com/idleberg/nsis-org",
+      "url": "https://www.npmjs.com/org/nsis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "yeoman-generator",
+      "repo": "https://github.com/idleberg/yeoman-generator",
+      "url": "https://www.npmjs.com/package/@idleberg/yeoman-generator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "yeoman-adapter-clack",
+      "repo": "https://github.com/idleberg/yeoman-adapter-clack",
+      "url": "https://www.npmjs.org/package/yeoman-adapter-clack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "playdate-arcade-fonts-viewer",
+      "repo": "https://github.com/idleberg/playdate-arcade-fonts-viewer",
+      "url": "https://playdate.store/app/1009/arcade-fonts-viewer",
+      "language": "Lua"
+    },
+    {
+      "name": "ponte-nova",
+      "repo": "https://github.com/idleberg/ponte-nova",
+      "url": "https://www.npmjs.org/package/ponte-nova",
+      "language": "TypeScript"
+    },
+    {
+      "name": "setup-playdate-sdk",
+      "repo": "https://github.com/idleberg/setup-playdate-sdk",
+      "url": "https://github.com/marketplace/actions/setup-playdate-sdk"
+    },
+    {
+      "name": "create-playdate-release",
+      "repo": "https://github.com/idleberg/create-playdate-release",
+      "url": "https://github.com/marketplace/actions/create-playdate-release"
+    },
+    {
+      "name": "setup-ardent",
+      "repo": "https://github.com/idleberg/setup-ardent",
+      "url": "https://github.com/marketplace/actions/setup-ardent"
+    },
+    {
+      "name": "ardent-check",
+      "repo": "https://github.com/idleberg/ardent-check",
+      "url": "https://github.com/marketplace/actions/ardent-check"
+    },
+    {
+      "name": "node-makensis",
+      "repo": "https://github.com/idleberg/node-makensis",
+      "url": "https://www.npmjs.org/package/makensis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "clark",
+      "repo": "https://github.com/idleberg/clark",
+      "language": "Rust"
+    },
+    {
+      "name": "quicklook-nfo",
+      "repo": "https://github.com/idleberg/quicklook-nfo",
+      "language": "Swift"
+    },
+    {
+      "name": "nova-nsis",
+      "repo": "https://github.com/idleberg/nova-nsis",
+      "url": "https://extensions.panic.com/extensions/com.idleberg/com.idleberg.nsis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "atom-language-nsis",
+      "repo": "https://github.com/idleberg/atom-language-nsis",
+      "url": "https://web.pulsar-edit.dev/packages/language-nsis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nova-extension-template",
+      "repo": "https://github.com/idleberg/nova-extension-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mise-ardent",
+      "repo": "https://github.com/idleberg/mise-ardent",
+      "language": "Lua"
+    },
+    {
+      "name": "dent-desktop",
+      "repo": "https://github.com/idleberg/dent-desktop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wgv",
+      "repo": "https://github.com/idleberg/wgv",
+      "url": "https://crates.io/crates/wgv",
+      "language": "Rust"
+    },
+    {
+      "name": "castro",
+      "repo": "https://github.com/idleberg/castro",
+      "url": "https://idleberg.github.io/castro/",
+      "language": "Astro"
+    },
+    {
+      "name": "cosmiconfig-loader-hcl",
+      "repo": "https://github.com/idleberg/cosmiconfig-loader-hcl",
+      "url": "https://www.npmjs.org/package/cosmiconfig-loader-hcl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cosmiconfig-loader-pkl",
+      "repo": "https://github.com/idleberg/cosmiconfig-loader-pkl",
+      "url": "https://www.npmjs.org/package/cosmiconfig-loader-pkl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sublime-makensis",
+      "repo": "https://github.com/idleberg/sublime-makensis",
+      "language": "PowerShell"
+    },
+    {
+      "name": "SublimeLinter-contrib-makensis",
+      "repo": "https://github.com/idleberg/SublimeLinter-contrib-makensis",
+      "language": "Python"
+    },
+    {
+      "name": "vscode-nsl-assembler",
+      "repo": "https://github.com/idleberg/vscode-nsl-assembler",
+      "language": "TypeScript"
+    },
+    {
+      "name": "atom-language-nsl",
+      "repo": "https://github.com/idleberg/atom-language-nsl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "atom-console",
+      "repo": "https://github.com/idleberg/atom-console",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fidel",
+      "repo": "https://github.com/idleberg/fidel",
+      "language": "TypeScript"
+    },
+    {
+      "name": "io",
+      "repo": "https://github.com/idleberg/io",
+      "language": "Swift"
+    },
+    {
+      "name": "cosmic-esbuild",
+      "repo": "https://github.com/idleberg/cosmic-esbuild",
+      "url": "https://www.npmjs.org/package/cosmic-esbuild",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nucleo-matcher-napi",
+      "repo": "https://github.com/idleberg/nucleo-matcher-napi",
+      "url": "https://www.npmjs.org/package/nucleo-matcher-napi",
+      "language": "Rust"
+    },
+    {
+      "name": "codemirror-nsis",
+      "repo": "https://github.com/idleberg/codemirror-nsis",
+      "url": "https://idleberg.github.io/codemirror-nsis/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ace-nsis-mode",
+      "repo": "https://github.com/idleberg/ace-nsis-mode",
+      "url": "https://idleberg.github.io/ace-nsis-mode/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "prismjs-nsis",
+      "repo": "https://github.com/idleberg/prismjs-nsis",
+      "url": "https://idleberg.github.io/prismjs-nsis/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zed-nsis-extension",
+      "repo": "https://github.com/idleberg/zed-nsis-extension",
+      "language": "Tree-sitter Query"
+    },
+    {
+      "name": "configs",
+      "repo": "https://github.com/idleberg/configs",
+      "language": "Nix"
+    },
+    {
+      "name": "go-hashman",
+      "repo": "https://github.com/idleberg/go-hashman",
+      "language": "Go"
+    },
+    {
+      "name": "krampus",
+      "repo": "https://github.com/idleberg/krampus",
+      "url": "https://pkg.go.dev/github.com/idleberg/krampus",
+      "language": "Go"
+    },
+    {
+      "name": "tree-sitter-nsis",
+      "repo": "https://github.com/idleberg/tree-sitter-nsis",
+      "language": "C"
+    },
+    {
+      "name": "scoop-playdate-sdk",
+      "repo": "https://github.com/idleberg/scoop-playdate-sdk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "loadenv-cli",
+      "repo": "https://github.com/idleberg/loadenv-cli",
+      "url": "https://www.npmjs.com/package/loadenv-cli",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nucleo-matcher-wasm",
+      "repo": "https://github.com/idleberg/nucleo-matcher-wasm",
+      "url": "https://www.npmjs.org/package/nucleo-matcher-wasm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "svengen",
+      "repo": "https://github.com/idleberg/svengen",
+      "url": "https://www.npmjs.com/package/svengen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-mui-language-strings",
+      "repo": "https://github.com/idleberg/node-mui-language-strings",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gedit-nsis",
+      "repo": "https://github.com/idleberg/gedit-nsis"
+    },
+    {
+      "name": "turbofan-server",
+      "repo": "https://github.com/idleberg/turbofan-server",
+      "language": "HTML"
+    },
+    {
+      "name": "rainbow-nsis",
+      "repo": "https://github.com/idleberg/rainbow-nsis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atom-browse",
+      "repo": "https://github.com/idleberg/atom-browse",
+      "url": "https://web.pulsar-edit.dev/packages/browse",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ardent.nvim",
+      "repo": "https://github.com/idleberg/ardent.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "node-hashman",
+      "repo": "https://github.com/idleberg/node-hashman",
+      "url": "https://www.npmjs.com/package/@idleberg/hashman",
+      "language": "TypeScript"
+    },
+    {
+      "name": "generator-nlf",
+      "repo": "https://github.com/idleberg/generator-nlf",
+      "url": "https://www.npmjs.org/package/generator-nlf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "generator-nsis",
+      "repo": "https://github.com/idleberg/generator-nsis",
+      "url": "https://www.npmjs.com/package/generator-nsis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nsis-strlib",
+      "repo": "https://github.com/idleberg/nsis-strlib",
+      "language": "NSIS"
+    },
+    {
+      "name": "generator-sublimelinter",
+      "repo": "https://github.com/idleberg/generator-sublimelinter",
+      "url": "https://www.npmjs.com/package/generator-sublimelinter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-nsisbi",
+      "repo": "https://github.com/idleberg/homebrew-nsisbi",
+      "language": "Ruby"
+    },
+    {
+      "name": "bun-storage",
+      "repo": "https://github.com/idleberg/bun-storage",
+      "url": "https://www.npmjs.org/package/bun-storage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-applescript",
+      "repo": "https://github.com/idleberg/vscode-applescript",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.applescript",
+      "language": "TypeScript"
+    },
+    {
+      "name": "degitly",
+      "repo": "https://github.com/idleberg/degitly",
+      "url": "https://www.npmjs.org/package/degitly",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-sfv-cli",
+      "repo": "https://github.com/idleberg/node-sfv-cli",
+      "url": "https://www.npmjs.org/package/sfv-cli",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cleansi",
+      "repo": "https://github.com/idleberg/cleansi",
+      "language": "Swift"
+    },
+    {
+      "name": "vite-plugin-nomatter",
+      "repo": "https://github.com/idleberg/vite-plugin-nomatter",
+      "url": "https://www.npmjs.org/package/vite-plugin-nomatter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-hopscotch",
+      "repo": "https://github.com/idleberg/vscode-hopscotch",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-scummc",
+      "repo": "https://github.com/idleberg/vscode-scummc",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.scummc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-subway-dark",
+      "repo": "https://github.com/idleberg/vscode-subway-dark",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-badgen",
+      "repo": "https://github.com/idleberg/vscode-badgen",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-subway",
+      "repo": "https://github.com/idleberg/vscode-subway",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.subway",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-svg-icons",
+      "repo": "https://github.com/idleberg/vscode-svg-icons",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.svg-icons",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-textile",
+      "repo": "https://github.com/idleberg/vscode-textile",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.textile",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-sfv",
+      "repo": "https://github.com/idleberg/vscode-sfv",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-extension-api",
+      "repo": "https://github.com/idleberg/vscode-extension-api",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.extension-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-openvpn",
+      "repo": "https://github.com/idleberg/vscode-openvpn",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-electron-builder",
+      "repo": "https://github.com/idleberg/vscode-electron-builder",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-haskell-nsis",
+      "repo": "https://github.com/idleberg/vscode-haskell-nsis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-nsis-plugins",
+      "repo": "https://github.com/idleberg/vscode-nsis-plugins",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.nsis-plugins",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-wordpress-salts",
+      "repo": "https://github.com/idleberg/vscode-wordpress-salts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-emoji-code",
+      "repo": "https://github.com/idleberg/vscode-emoji-code",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.emoji-code",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-pynsist",
+      "repo": "https://github.com/idleberg/vscode-pynsist",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.pynsist",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-jxa",
+      "repo": "https://github.com/idleberg/vscode-jxa",
+      "url": "https://marketplace.visualstudio.com/items?itemName=idleberg.jxa",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-cosby",
+      "repo": "https://github.com/idleberg/node-cosby",
+      "url": "https://www.npmjs.com/package/@idleberg/cosby",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-exec-near",
+      "repo": "https://github.com/idleberg/node-exec-near",
+      "url": "https://www.npmjs.org/package/exec-near",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mediathek-youtubedl-bookmarklet",
+      "repo": "https://github.com/idleberg/mediathek-youtubedl-bookmarklet",
+      "url": "https://idleberg.github.io/mediathek-youtubedl-bookmarklet/",
+      "language": "Astro"
+    },
+    {
+      "name": "sublime-applescript",
+      "repo": "https://github.com/idleberg/sublime-applescript",
+      "language": "Python"
+    },
+    {
+      "name": "vite-plugin-multiserver",
+      "repo": "https://github.com/idleberg/vite-plugin-multiserver",
+      "url": "https://www.npmjs.org/package/vite-plugin-multiserver",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-bookmarklet",
+      "repo": "https://github.com/idleberg/vite-plugin-bookmarklet",
+      "url": "https://www.npmjs.org/package/vite-plugin-bookmarklet",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-valibot-env",
+      "repo": "https://github.com/idleberg/vite-plugin-valibot-env",
+      "url": "https://www.npmjs.com/package/vite-plugin-valibot-env",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-devcert",
+      "repo": "https://github.com/idleberg/vite-plugin-devcert",
+      "url": "https://www.npmjs.org/package/@idleberg/vite-plugin-devcert",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nsis-assert",
+      "repo": "https://github.com/idleberg/nsis-assert",
+      "language": "NSIS"
+    },
+    {
+      "name": "nsis-pathlib",
+      "repo": "https://github.com/idleberg/nsis-pathlib",
+      "language": "NSIS"
+    },
+    {
+      "name": "node-vscode-get-config",
+      "repo": "https://github.com/idleberg/node-vscode-get-config",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-plugin-coffeescript",
+      "repo": "https://github.com/idleberg/bun-plugin-coffeescript",
+      "url": "https://www.npmjs.com/package/bun-plugin-coffeescript",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-livescript",
+      "repo": "https://github.com/idleberg/vite-plugin-livescript",
+      "url": "https://www.npmjs.com/package/vite-plugin-livescript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "decrunch",
+      "repo": "https://github.com/idleberg/decrunch",
+      "language": "TypeScript"
+    }
+  ]
+}

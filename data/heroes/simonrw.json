@@ -1,0 +1,514 @@
+{
+  "handle": "simonrw",
+  "name": "Simon Walker",
+  "github": [
+    "https://github.com/simonrw"
+  ],
+  "website": "https://blog.simonrw.com/",
+  "own_repos": 254,
+  "commits": 20225,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/simonrw/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "pi-extensions",
+      "repo": "https://github.com/simonrw/pi-extensions",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dap-gui",
+      "repo": "https://github.com/simonrw/dap-gui",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-session-monitor",
+      "repo": "https://github.com/simonrw/claude-session-monitor",
+      "language": "Rust"
+    },
+    {
+      "name": "cftail",
+      "repo": "https://github.com/simonrw/cftail",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-fitsio",
+      "repo": "https://github.com/simonrw/rust-fitsio",
+      "language": "C"
+    },
+    {
+      "name": "pi-iroh-plugin",
+      "repo": "https://github.com/simonrw/pi-iroh-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/simonrw/skills",
+      "language": "Python"
+    },
+    {
+      "name": "hugo-blog",
+      "repo": "https://github.com/simonrw/hugo-blog",
+      "language": "HTML"
+    },
+    {
+      "name": "listprojects",
+      "repo": "https://github.com/simonrw/listprojects",
+      "language": "Rust"
+    },
+    {
+      "name": "cfn-search",
+      "repo": "https://github.com/simonrw/cfn-search",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ask-agent",
+      "repo": "https://github.com/simonrw/ask-agent",
+      "language": "Lua"
+    },
+    {
+      "name": "shell-agent",
+      "repo": "https://github.com/simonrw/shell-agent",
+      "language": "Go"
+    },
+    {
+      "name": "mdrender",
+      "repo": "https://github.com/simonrw/mdrender",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/simonrw/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "testsearch",
+      "repo": "https://github.com/simonrw/testsearch",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-debug",
+      "repo": "https://github.com/simonrw/docker-debug",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "lbtree",
+      "repo": "https://github.com/simonrw/lbtree",
+      "language": "Rust"
+    },
+    {
+      "name": "quickfix-review",
+      "repo": "https://github.com/simonrw/quickfix-review",
+      "language": "Go"
+    },
+    {
+      "name": "lima-ai-sandbox",
+      "repo": "https://github.com/simonrw/lima-ai-sandbox",
+      "language": "Go"
+    },
+    {
+      "name": "pytest-resource-mon",
+      "repo": "https://github.com/simonrw/pytest-resource-mon",
+      "language": "Python"
+    },
+    {
+      "name": "cert-info",
+      "repo": "https://github.com/simonrw/cert-info",
+      "language": "Go"
+    },
+    {
+      "name": "depdiff",
+      "repo": "https://github.com/simonrw/depdiff",
+      "language": "HTML"
+    },
+    {
+      "name": "homebrew-curl-c-ares",
+      "repo": "https://github.com/simonrw/homebrew-curl-c-ares",
+      "language": "Ruby"
+    },
+    {
+      "name": "cfn-lsp",
+      "repo": "https://github.com/simonrw/cfn-lsp",
+      "language": "Rust"
+    },
+    {
+      "name": "rememberit",
+      "repo": "https://github.com/simonrw/rememberit",
+      "url": "https://remember-it.co.uk",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shellpipe",
+      "repo": "https://github.com/simonrw/shellpipe",
+      "language": "Rust"
+    },
+    {
+      "name": "localstack-extension-tailscale",
+      "repo": "https://github.com/simonrw/localstack-extension-tailscale",
+      "language": "Python"
+    },
+    {
+      "name": "crdt-rust-testing",
+      "repo": "https://github.com/simonrw/crdt-rust-testing",
+      "language": "Rust"
+    },
+    {
+      "name": "crdt-rust-tesitng",
+      "repo": "https://github.com/simonrw/crdt-rust-tesitng"
+    },
+    {
+      "name": "nix-config",
+      "repo": "https://github.com/simonrw/nix-config",
+      "language": "Nix"
+    },
+    {
+      "name": "cflivestatus",
+      "repo": "https://github.com/simonrw/cflivestatus",
+      "language": "Go"
+    },
+    {
+      "name": "gh-ci-watch",
+      "repo": "https://github.com/simonrw/gh-ci-watch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "notestools",
+      "repo": "https://github.com/simonrw/notestools",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-test",
+      "repo": "https://github.com/simonrw/flux-test",
+      "language": "Nix"
+    },
+    {
+      "name": "logtimes",
+      "repo": "https://github.com/simonrw/logtimes",
+      "language": "Python"
+    },
+    {
+      "name": "rytest",
+      "repo": "https://github.com/simonrw/rytest",
+      "language": "Rust"
+    },
+    {
+      "name": "rynamodb",
+      "repo": "https://github.com/simonrw/rynamodb",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-cftail",
+      "repo": "https://github.com/simonrw/homebrew-cftail",
+      "language": "Ruby"
+    },
+    {
+      "name": "cdk-tunneling-constructs",
+      "repo": "https://github.com/simonrw/cdk-tunneling-constructs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "opentelemetry-extension",
+      "repo": "https://github.com/simonrw/opentelemetry-extension",
+      "language": "Python"
+    },
+    {
+      "name": "github-inbox",
+      "repo": "https://github.com/simonrw/github-inbox",
+      "language": "Rust"
+    },
+    {
+      "name": "simpleproxy",
+      "repo": "https://github.com/simonrw/simpleproxy",
+      "language": "Go"
+    },
+    {
+      "name": "adventofcode",
+      "repo": "https://github.com/simonrw/adventofcode",
+      "language": "Rust"
+    },
+    {
+      "name": "mousetracker",
+      "repo": "https://github.com/simonrw/mousetracker",
+      "language": "Go"
+    },
+    {
+      "name": "maturintesting",
+      "repo": "https://github.com/simonrw/maturintesting",
+      "language": "Nix"
+    },
+    {
+      "name": "iced-tutorial",
+      "repo": "https://github.com/simonrw/iced-tutorial",
+      "language": "Rust"
+    },
+    {
+      "name": "gh-rebase-pr",
+      "repo": "https://github.com/simonrw/gh-rebase-pr",
+      "language": "Shell"
+    },
+    {
+      "name": "flake-templates",
+      "repo": "https://github.com/simonrw/flake-templates",
+      "language": "Nix"
+    },
+    {
+      "name": "awsaudio-extension",
+      "repo": "https://github.com/simonrw/awsaudio-extension",
+      "language": "Python"
+    },
+    {
+      "name": "theo-birthday",
+      "repo": "https://github.com/simonrw/theo-birthday",
+      "language": "HTML"
+    },
+    {
+      "name": "github-repo-configurator",
+      "repo": "https://github.com/simonrw/github-repo-configurator",
+      "language": "Python"
+    },
+    {
+      "name": "ane-waiting-times",
+      "repo": "https://github.com/simonrw/ane-waiting-times",
+      "language": "Nix"
+    },
+    {
+      "name": "circleciwatcher",
+      "repo": "https://github.com/simonrw/circleciwatcher",
+      "language": "Go"
+    },
+    {
+      "name": "dyndns",
+      "repo": "https://github.com/simonrw/dyndns",
+      "language": "Rust"
+    },
+    {
+      "name": "localstack-extension-trackrequests",
+      "repo": "https://github.com/simonrw/localstack-extension-trackrequests",
+      "language": "Python"
+    },
+    {
+      "name": "track-cloudtrail-events",
+      "repo": "https://github.com/simonrw/track-cloudtrail-events",
+      "language": "Python"
+    },
+    {
+      "name": "cfn-docgen",
+      "repo": "https://github.com/simonrw/cfn-docgen",
+      "language": "Python"
+    },
+    {
+      "name": "cfn-propgen",
+      "repo": "https://github.com/simonrw/cfn-propgen",
+      "language": "Python"
+    },
+    {
+      "name": "aws-event-listener",
+      "repo": "https://github.com/simonrw/aws-event-listener",
+      "language": "Rust"
+    },
+    {
+      "name": "media-serving-app-ls-hackathon2023",
+      "repo": "https://github.com/simonrw/media-serving-app-ls-hackathon2023",
+      "language": "TypeScript"
+    },
+    {
+      "name": "coveragetesting",
+      "repo": "https://github.com/simonrw/coveragetesting",
+      "language": "Nix"
+    },
+    {
+      "name": "mitm-with-dns",
+      "repo": "https://github.com/simonrw/mitm-with-dns",
+      "language": "Go"
+    },
+    {
+      "name": "udp-testing",
+      "repo": "https://github.com/simonrw/udp-testing",
+      "language": "Go"
+    },
+    {
+      "name": "youtube-video-deck",
+      "repo": "https://github.com/simonrw/youtube-video-deck",
+      "language": "Python"
+    },
+    {
+      "name": "github-fuse",
+      "repo": "https://github.com/simonrw/github-fuse",
+      "language": "Rust"
+    },
+    {
+      "name": "notion-app",
+      "repo": "https://github.com/simonrw/notion-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust-terminal",
+      "repo": "https://github.com/simonrw/rust-terminal",
+      "language": "Rust"
+    },
+    {
+      "name": "nix-darwin-dash-docset",
+      "repo": "https://github.com/simonrw/nix-darwin-dash-docset",
+      "language": "HTML"
+    },
+    {
+      "name": "run-command-on-git-revisions",
+      "repo": "https://github.com/simonrw/run-command-on-git-revisions",
+      "language": "Rust"
+    },
+    {
+      "name": "ephemeral-python",
+      "repo": "https://github.com/simonrw/ephemeral-python",
+      "language": "Python"
+    },
+    {
+      "name": "iam-show",
+      "repo": "https://github.com/simonrw/iam-show",
+      "language": "Go"
+    },
+    {
+      "name": "binfarm",
+      "repo": "https://github.com/simonrw/binfarm",
+      "language": "Rust"
+    },
+    {
+      "name": "hookman",
+      "repo": "https://github.com/simonrw/hookman",
+      "language": "Rust"
+    },
+    {
+      "name": "qttablettesting",
+      "repo": "https://github.com/simonrw/qttablettesting",
+      "language": "C++"
+    },
+    {
+      "name": "install-default-precommit",
+      "repo": "https://github.com/simonrw/install-default-precommit",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-lorien",
+      "repo": "https://github.com/simonrw/homebrew-lorien",
+      "language": "Ruby"
+    },
+    {
+      "name": "s3-open",
+      "repo": "https://github.com/simonrw/s3-open",
+      "language": "Rust"
+    },
+    {
+      "name": "lambda-local-runner",
+      "repo": "https://github.com/simonrw/lambda-local-runner",
+      "language": "Go"
+    },
+    {
+      "name": "example-go-server",
+      "repo": "https://github.com/simonrw/example-go-server",
+      "language": "Go"
+    },
+    {
+      "name": "rust-lambda-extension-example",
+      "repo": "https://github.com/simonrw/rust-lambda-extension-example",
+      "language": "Rust"
+    },
+    {
+      "name": "github-oidc-testing",
+      "repo": "https://github.com/simonrw/github-oidc-testing",
+      "language": "Makefile"
+    },
+    {
+      "name": "git-pm",
+      "repo": "https://github.com/simonrw/git-pm",
+      "language": "Rust"
+    },
+    {
+      "name": "github-activity",
+      "repo": "https://github.com/simonrw/github-activity",
+      "language": "Python"
+    },
+    {
+      "name": "search-in-scope.vim",
+      "repo": "https://github.com/simonrw/search-in-scope.vim",
+      "language": "Lua"
+    },
+    {
+      "name": "ros",
+      "repo": "https://github.com/simonrw/ros",
+      "language": "Rust"
+    },
+    {
+      "name": "whatson",
+      "repo": "https://github.com/simonrw/whatson",
+      "url": "https://whatson.simonrw.com",
+      "language": "HTML"
+    },
+    {
+      "name": "nntrainer",
+      "repo": "https://github.com/simonrw/nntrainer",
+      "language": "Python"
+    },
+    {
+      "name": "netlify-identity-testing",
+      "repo": "https://github.com/simonrw/netlify-identity-testing",
+      "language": "HTML"
+    },
+    {
+      "name": "tensorflow-serving-modelbuild-testing",
+      "repo": "https://github.com/simonrw/tensorflow-serving-modelbuild-testing",
+      "language": "Python"
+    },
+    {
+      "name": "trello-weight-loss-tracking",
+      "repo": "https://github.com/simonrw/trello-weight-loss-tracking",
+      "language": "Python"
+    },
+    {
+      "name": "openra-analysis",
+      "repo": "https://github.com/simonrw/openra-analysis",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "netlify-elm-parcel",
+      "repo": "https://github.com/simonrw/netlify-elm-parcel",
+      "language": "Elm"
+    },
+    {
+      "name": "mealplanner",
+      "repo": "https://github.com/simonrw/mealplanner",
+      "language": "Python"
+    },
+    {
+      "name": "youtube-queuer",
+      "repo": "https://github.com/simonrw/youtube-queuer",
+      "language": "Python"
+    },
+    {
+      "name": "k2catalogue",
+      "repo": "https://github.com/simonrw/k2catalogue",
+      "language": "Python"
+    },
+    {
+      "name": "mealplanner-frontend",
+      "repo": "https://github.com/simonrw/mealplanner-frontend",
+      "language": "JavaScript"
+    },
+    {
+      "name": "transact",
+      "repo": "https://github.com/simonrw/transact",
+      "language": "Go"
+    },
+    {
+      "name": "cfdeploy",
+      "repo": "https://github.com/simonrw/cfdeploy",
+      "language": "Go"
+    },
+    {
+      "name": "git-pushlogs",
+      "repo": "https://github.com/simonrw/git-pushlogs",
+      "language": "Go"
+    }
+  ]
+}
