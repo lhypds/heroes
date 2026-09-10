@@ -1,0 +1,509 @@
+{
+  "handle": "mirmik",
+  "name": "mirmik",
+  "github": [
+    "https://github.com/mirmik"
+  ],
+  "own_repos": 153,
+  "commits": 16451,
+  "apps": [],
+  "repos": [
+    {
+      "name": "termin",
+      "repo": "https://github.com/mirmik/termin",
+      "url": "https://mirmik.github.io/termin/",
+      "language": "C++"
+    },
+    {
+      "name": "zencad",
+      "repo": "https://github.com/mirmik/zencad",
+      "url": "https://mirmik.github.io/zencad/",
+      "language": "Python"
+    },
+    {
+      "name": "migi",
+      "repo": "https://github.com/mirmik/migi",
+      "language": "C"
+    },
+    {
+      "name": "diffusion-editor",
+      "repo": "https://github.com/mirmik/diffusion-editor",
+      "language": "Python"
+    },
+    {
+      "name": "voice-input",
+      "repo": "https://github.com/mirmik/voice-input",
+      "language": "Python"
+    },
+    {
+      "name": "ariadne",
+      "repo": "https://github.com/mirmik/ariadne",
+      "language": "Go"
+    },
+    {
+      "name": "vcortex",
+      "repo": "https://github.com/mirmik/vcortex",
+      "language": "Python"
+    },
+    {
+      "name": "llm-coreader",
+      "repo": "https://github.com/mirmik/llm-coreader",
+      "language": "Python"
+    },
+    {
+      "name": "llm-tools",
+      "repo": "https://github.com/mirmik/llm-tools",
+      "language": "Python"
+    },
+    {
+      "name": "inference-link",
+      "repo": "https://github.com/mirmik/inference-link",
+      "language": "Python"
+    },
+    {
+      "name": "evalcache",
+      "repo": "https://github.com/mirmik/evalcache",
+      "language": "Python"
+    },
+    {
+      "name": "ircc",
+      "repo": "https://github.com/mirmik/ircc",
+      "language": "C++"
+    },
+    {
+      "name": "simple-contty",
+      "repo": "https://github.com/mirmik/simple-contty",
+      "language": "Go"
+    },
+    {
+      "name": "igris",
+      "repo": "https://github.com/mirmik/igris",
+      "language": "C++"
+    },
+    {
+      "name": "norn",
+      "repo": "https://github.com/mirmik/norn",
+      "language": "Python"
+    },
+    {
+      "name": "termin-graphics",
+      "repo": "https://github.com/mirmik/termin-graphics",
+      "language": "C++"
+    },
+    {
+      "name": "termin-core",
+      "repo": "https://github.com/mirmik/termin-core",
+      "language": "Python"
+    },
+    {
+      "name": "termin-spider-control",
+      "repo": "https://github.com/mirmik/termin-spider-control",
+      "language": "Python"
+    },
+    {
+      "name": "atom-control-panel",
+      "repo": "https://github.com/mirmik/atom-control-panel",
+      "language": "HTML"
+    },
+    {
+      "name": "crow",
+      "repo": "https://github.com/mirmik/crow",
+      "language": "C++"
+    },
+    {
+      "name": "nos",
+      "repo": "https://github.com/mirmik/nos",
+      "language": "C++"
+    },
+    {
+      "name": "zippo",
+      "repo": "https://github.com/mirmik/zippo",
+      "language": "Python"
+    },
+    {
+      "name": "licant",
+      "repo": "https://github.com/mirmik/licant",
+      "language": "Python"
+    },
+    {
+      "name": "zillot",
+      "repo": "https://github.com/mirmik/zillot",
+      "language": "C"
+    },
+    {
+      "name": "termin-phase-garden",
+      "repo": "https://github.com/mirmik/termin-phase-garden",
+      "language": "Python"
+    },
+    {
+      "name": "termin-shooter",
+      "repo": "https://github.com/mirmik/termin-shooter",
+      "language": "Python"
+    },
+    {
+      "name": "termin-ghost-frequency",
+      "repo": "https://github.com/mirmik/termin-ghost-frequency",
+      "language": "Python"
+    },
+    {
+      "name": "genos",
+      "repo": "https://github.com/mirmik/genos",
+      "language": "C++"
+    },
+    {
+      "name": "ralgo",
+      "repo": "https://github.com/mirmik/ralgo",
+      "language": "C++"
+    },
+    {
+      "name": "sopr-scheme-gener",
+      "repo": "https://github.com/mirmik/sopr-scheme-gener",
+      "language": "Python"
+    },
+    {
+      "name": "termin-chess",
+      "repo": "https://github.com/mirmik/termin-chess",
+      "language": "Python"
+    },
+    {
+      "name": "rfdaemon",
+      "repo": "https://github.com/mirmik/rfdaemon",
+      "language": "C++"
+    },
+    {
+      "name": "rabbit",
+      "repo": "https://github.com/mirmik/rabbit",
+      "language": "C++"
+    },
+    {
+      "name": "guard",
+      "repo": "https://github.com/mirmik/guard",
+      "language": "C++"
+    },
+    {
+      "name": "termin-archieve",
+      "repo": "https://github.com/mirmik/termin-archieve",
+      "language": "Python"
+    },
+    {
+      "name": "termin-env",
+      "repo": "https://github.com/mirmik/termin-env",
+      "language": "Python"
+    },
+    {
+      "name": "termin-components",
+      "repo": "https://github.com/mirmik/termin-components",
+      "language": "C++"
+    },
+    {
+      "name": "termin-nanobind-sdk",
+      "repo": "https://github.com/mirmik/termin-nanobind-sdk",
+      "language": "CMake"
+    },
+    {
+      "name": "termin-base",
+      "repo": "https://github.com/mirmik/termin-base",
+      "language": "C++"
+    },
+    {
+      "name": "termin-modules",
+      "repo": "https://github.com/mirmik/termin-modules",
+      "language": "C++"
+    },
+    {
+      "name": "termin-nodegraph",
+      "repo": "https://github.com/mirmik/termin-nodegraph",
+      "language": "Python"
+    },
+    {
+      "name": "termin-mesh",
+      "repo": "https://github.com/mirmik/termin-mesh",
+      "language": "C++"
+    },
+    {
+      "name": "termin-gui",
+      "repo": "https://github.com/mirmik/termin-gui",
+      "language": "Python"
+    },
+    {
+      "name": "termin-collision",
+      "repo": "https://github.com/mirmik/termin-collision",
+      "language": "C++"
+    },
+    {
+      "name": "termin-scene",
+      "repo": "https://github.com/mirmik/termin-scene",
+      "language": "C"
+    },
+    {
+      "name": "termin-inspect",
+      "repo": "https://github.com/mirmik/termin-inspect",
+      "language": "C++"
+    },
+    {
+      "name": "netricks-sd-gimp",
+      "repo": "https://github.com/mirmik/netricks-sd-gimp",
+      "language": "Python"
+    },
+    {
+      "name": "neuro-arcanoid",
+      "repo": "https://github.com/mirmik/neuro-arcanoid",
+      "language": "Python"
+    },
+    {
+      "name": "webkin",
+      "repo": "https://github.com/mirmik/webkin",
+      "language": "C++"
+    },
+    {
+      "name": "scat",
+      "repo": "https://github.com/mirmik/scat",
+      "language": "C++"
+    },
+    {
+      "name": "chunk",
+      "repo": "https://github.com/mirmik/chunk",
+      "language": "C++"
+    },
+    {
+      "name": "bonesinger",
+      "repo": "https://github.com/mirmik/bonesinger",
+      "language": "Python"
+    },
+    {
+      "name": "glink_old",
+      "repo": "https://github.com/mirmik/glink_old"
+    },
+    {
+      "name": "broadcast-door",
+      "repo": "https://github.com/mirmik/broadcast-door",
+      "language": "Python"
+    },
+    {
+      "name": "onboardtest",
+      "repo": "https://github.com/mirmik/onboardtest",
+      "language": "C++"
+    },
+    {
+      "name": "simpleterm",
+      "repo": "https://github.com/mirmik/simpleterm",
+      "language": "C++"
+    },
+    {
+      "name": "share",
+      "repo": "https://github.com/mirmik/share"
+    },
+    {
+      "name": "somnus",
+      "repo": "https://github.com/mirmik/somnus",
+      "language": "JavaScript"
+    },
+    {
+      "name": "math",
+      "repo": "https://github.com/mirmik/math",
+      "language": "Python"
+    },
+    {
+      "name": "sandbox",
+      "repo": "https://github.com/mirmik/sandbox",
+      "language": "C"
+    },
+    {
+      "name": "reporter",
+      "repo": "https://github.com/mirmik/reporter",
+      "language": "Python"
+    },
+    {
+      "name": "rxsignal",
+      "repo": "https://github.com/mirmik/rxsignal",
+      "language": "Python"
+    },
+    {
+      "name": "pages",
+      "repo": "https://github.com/mirmik/pages",
+      "language": "HTML"
+    },
+    {
+      "name": "video-stream",
+      "repo": "https://github.com/mirmik/video-stream",
+      "language": "C++"
+    },
+    {
+      "name": "maho",
+      "repo": "https://github.com/mirmik/maho",
+      "language": "C++"
+    },
+    {
+      "name": "webrtc-streamer",
+      "repo": "https://github.com/mirmik/webrtc-streamer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dynamic-expers",
+      "repo": "https://github.com/mirmik/dynamic-expers",
+      "language": "C++"
+    },
+    {
+      "name": "modvisio",
+      "repo": "https://github.com/mirmik/modvisio",
+      "language": "C++"
+    },
+    {
+      "name": "navi",
+      "repo": "https://github.com/mirmik/navi",
+      "language": "Python"
+    },
+    {
+      "name": "station-caller",
+      "repo": "https://github.com/mirmik/station-caller",
+      "language": "Python"
+    },
+    {
+      "name": "zenframe",
+      "repo": "https://github.com/mirmik/zenframe",
+      "language": "Python"
+    },
+    {
+      "name": "morpheus",
+      "repo": "https://github.com/mirmik/morpheus",
+      "language": "C++"
+    },
+    {
+      "name": "quest",
+      "repo": "https://github.com/mirmik/quest",
+      "language": "C++"
+    },
+    {
+      "name": "gazebo-experiments",
+      "repo": "https://github.com/mirmik/gazebo-experiments",
+      "language": "C++"
+    },
+    {
+      "name": "clipboard-client",
+      "repo": "https://github.com/mirmik/clipboard-client",
+      "language": "Rust"
+    },
+    {
+      "name": "clipboard-server",
+      "repo": "https://github.com/mirmik/clipboard-server",
+      "language": "Rust"
+    },
+    {
+      "name": "WhiteRoseTimer",
+      "repo": "https://github.com/mirmik/WhiteRoseTimer",
+      "language": "Kotlin"
+    },
+    {
+      "name": "zenframe2",
+      "repo": "https://github.com/mirmik/zenframe2",
+      "language": "Python"
+    },
+    {
+      "name": "mtools",
+      "repo": "https://github.com/mirmik/mtools",
+      "language": "Shell"
+    },
+    {
+      "name": "zengraph",
+      "repo": "https://github.com/mirmik/zengraph",
+      "language": "Python"
+    },
+    {
+      "name": "netricks-20.04-env",
+      "repo": "https://github.com/mirmik/netricks-20.04-env",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "exoboat-bootloader-testapp",
+      "repo": "https://github.com/mirmik/exoboat-bootloader-testapp",
+      "language": "C"
+    },
+    {
+      "name": "zippo-quest",
+      "repo": "https://github.com/mirmik/zippo-quest",
+      "language": "C++"
+    },
+    {
+      "name": "muskrat-and-company",
+      "repo": "https://github.com/mirmik/muskrat-and-company",
+      "language": "CSS"
+    },
+    {
+      "name": "rabbitreactphysics3d",
+      "repo": "https://github.com/mirmik/rabbitreactphysics3d",
+      "language": "C++"
+    },
+    {
+      "name": "sleepy",
+      "repo": "https://github.com/mirmik/sleepy",
+      "language": "Shell"
+    },
+    {
+      "name": "astropathy",
+      "repo": "https://github.com/mirmik/astropathy",
+      "language": "C++"
+    },
+    {
+      "name": "observer",
+      "repo": "https://github.com/mirmik/observer",
+      "language": "C++"
+    },
+    {
+      "name": "nshell",
+      "repo": "https://github.com/mirmik/nshell"
+    },
+    {
+      "name": "PlaceboRibbon",
+      "repo": "https://github.com/mirmik/PlaceboRibbon",
+      "language": "Java"
+    },
+    {
+      "name": "zippo-camera",
+      "repo": "https://github.com/mirmik/zippo-camera",
+      "language": "Python"
+    },
+    {
+      "name": "atom-node",
+      "repo": "https://github.com/mirmik/atom-node",
+      "language": "C++"
+    },
+    {
+      "name": "servo",
+      "repo": "https://github.com/mirmik/servo"
+    },
+    {
+      "name": "atomcore",
+      "repo": "https://github.com/mirmik/atomcore",
+      "language": "Python"
+    },
+    {
+      "name": "control-models",
+      "repo": "https://github.com/mirmik/control-models",
+      "language": "Python"
+    },
+    {
+      "name": "sort-fuse",
+      "repo": "https://github.com/mirmik/sort-fuse",
+      "language": "C++"
+    },
+    {
+      "name": "testrep",
+      "repo": "https://github.com/mirmik/testrep"
+    },
+    {
+      "name": "lora-test",
+      "repo": "https://github.com/mirmik/lora-test",
+      "language": "Makefile"
+    },
+    {
+      "name": "servoce",
+      "repo": "https://github.com/mirmik/servoce",
+      "language": "C++"
+    },
+    {
+      "name": "models",
+      "repo": "https://github.com/mirmik/models",
+      "language": "Python"
+    }
+  ]
+}

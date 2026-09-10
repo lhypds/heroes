@@ -4,6 +4,489 @@
   "github": [
     "https://github.com/alexcb"
   ],
+  "own_repos": 105,
   "commits": 342950,
-  "apps": []
+  "apps": [],
+  "repos": [
+    {
+      "name": "synth",
+      "repo": "https://github.com/alexcb/synth",
+      "language": "C"
+    },
+    {
+      "name": "runc-ps",
+      "repo": "https://github.com/alexcb/runc-ps",
+      "language": "Python"
+    },
+    {
+      "name": "acbrun",
+      "repo": "https://github.com/alexcb/acbrun",
+      "language": "Go"
+    },
+    {
+      "name": "acbtest",
+      "repo": "https://github.com/alexcb/acbtest",
+      "language": "Shell"
+    },
+    {
+      "name": "random-music-selector",
+      "repo": "https://github.com/alexcb/random-music-selector",
+      "language": "Python"
+    },
+    {
+      "name": "water",
+      "repo": "https://github.com/alexcb/water",
+      "language": "Python"
+    },
+    {
+      "name": "rjson",
+      "repo": "https://github.com/alexcb/rjson",
+      "language": "R"
+    },
+    {
+      "name": "flowers",
+      "repo": "https://github.com/alexcb/flowers"
+    },
+    {
+      "name": "chuck",
+      "repo": "https://github.com/alexcb/chuck",
+      "language": "Python"
+    },
+    {
+      "name": "reverse-shell",
+      "repo": "https://github.com/alexcb/reverse-shell",
+      "language": "Go"
+    },
+    {
+      "name": "cameras",
+      "repo": "https://github.com/alexcb/cameras",
+      "language": "Python"
+    },
+    {
+      "name": "githublink",
+      "repo": "https://github.com/alexcb/githublink",
+      "language": "Go"
+    },
+    {
+      "name": "music-checker",
+      "repo": "https://github.com/alexcb/music-checker",
+      "language": "C"
+    },
+    {
+      "name": "git-branch-cleanup",
+      "repo": "https://github.com/alexcb/git-branch-cleanup",
+      "language": "Go"
+    },
+    {
+      "name": "binarystream",
+      "repo": "https://github.com/alexcb/binarystream",
+      "language": "Go"
+    },
+    {
+      "name": "acbutils",
+      "repo": "https://github.com/alexcb/acbutils",
+      "language": "Python"
+    },
+    {
+      "name": "ssh-auth-verbose-forwarder",
+      "repo": "https://github.com/alexcb/ssh-auth-verbose-forwarder",
+      "language": "Go"
+    },
+    {
+      "name": "actions-secretshare",
+      "repo": "https://github.com/alexcb/actions-secretshare",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cgroup-lister",
+      "repo": "https://github.com/alexcb/cgroup-lister",
+      "language": "Shell"
+    },
+    {
+      "name": "colorgrep",
+      "repo": "https://github.com/alexcb/colorgrep",
+      "language": "Go"
+    },
+    {
+      "name": "git-hooks",
+      "repo": "https://github.com/alexcb/git-hooks",
+      "language": "Shell"
+    },
+    {
+      "name": "teatimer",
+      "repo": "https://github.com/alexcb/teatimer",
+      "language": "Go"
+    },
+    {
+      "name": "shmaybe",
+      "repo": "https://github.com/alexcb/shmaybe",
+      "language": "Shell"
+    },
+    {
+      "name": "fruit-tracker",
+      "repo": "https://github.com/alexcb/fruit-tracker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-lfs-test",
+      "repo": "https://github.com/alexcb/git-lfs-test"
+    },
+    {
+      "name": "secretshare",
+      "repo": "https://github.com/alexcb/secretshare",
+      "language": "Go"
+    },
+    {
+      "name": "github-issues-to-project",
+      "repo": "https://github.com/alexcb/github-issues-to-project",
+      "language": "Go"
+    },
+    {
+      "name": "one-liners",
+      "repo": "https://github.com/alexcb/one-liners"
+    },
+    {
+      "name": "homebrew-earthly",
+      "repo": "https://github.com/alexcb/homebrew-earthly",
+      "language": "Ruby"
+    },
+    {
+      "name": "earthly-all-the-ubuntus",
+      "repo": "https://github.com/alexcb/earthly-all-the-ubuntus",
+      "language": "Earthly"
+    },
+    {
+      "name": "test-earthly-actions-setup",
+      "repo": "https://github.com/alexcb/test-earthly-actions-setup"
+    },
+    {
+      "name": "httpd-url-counter",
+      "repo": "https://github.com/alexcb/httpd-url-counter",
+      "language": "Go"
+    },
+    {
+      "name": "go-rect",
+      "repo": "https://github.com/alexcb/go-rect",
+      "language": "Go"
+    },
+    {
+      "name": "earthly-test",
+      "repo": "https://github.com/alexcb/earthly-test"
+    },
+    {
+      "name": "docker-netcat",
+      "repo": "https://github.com/alexcb/docker-netcat"
+    },
+    {
+      "name": "music-player",
+      "repo": "https://github.com/alexcb/music-player",
+      "language": "C"
+    },
+    {
+      "name": "earthly-push-tests",
+      "repo": "https://github.com/alexcb/earthly-push-tests",
+      "language": "Shell"
+    },
+    {
+      "name": "custom-sshd-and-earthly",
+      "repo": "https://github.com/alexcb/custom-sshd-and-earthly",
+      "language": "Shell"
+    },
+    {
+      "name": "systemd-hacking-with-earthly",
+      "repo": "https://github.com/alexcb/systemd-hacking-with-earthly",
+      "language": "C"
+    },
+    {
+      "name": "testing-earthly-with-qemu",
+      "repo": "https://github.com/alexcb/testing-earthly-with-qemu",
+      "language": "Shell"
+    },
+    {
+      "name": "cheatsheets",
+      "repo": "https://github.com/alexcb/cheatsheets"
+    },
+    {
+      "name": "acbup",
+      "repo": "https://github.com/alexcb/acbup",
+      "language": "Go"
+    },
+    {
+      "name": "raspberry-pi-pico-in-earthly",
+      "repo": "https://github.com/alexcb/raspberry-pi-pico-in-earthly",
+      "language": "Earthly"
+    },
+    {
+      "name": "self-signed-docker-registry-with-earthly",
+      "repo": "https://github.com/alexcb/self-signed-docker-registry-with-earthly",
+      "language": "Shell"
+    },
+    {
+      "name": "multigrep",
+      "repo": "https://github.com/alexcb/multigrep",
+      "language": "Go"
+    },
+    {
+      "name": "gomodconflict",
+      "repo": "https://github.com/alexcb/gomodconflict",
+      "language": "Go"
+    },
+    {
+      "name": "boltdump",
+      "repo": "https://github.com/alexcb/boltdump",
+      "language": "Go"
+    },
+    {
+      "name": "bc-vax-decoder",
+      "repo": "https://github.com/alexcb/bc-vax-decoder",
+      "language": "Python"
+    },
+    {
+      "name": "fibonacci",
+      "repo": "https://github.com/alexcb/fibonacci"
+    },
+    {
+      "name": "python-analytics",
+      "repo": "https://github.com/alexcb/python-analytics",
+      "language": "Python"
+    },
+    {
+      "name": "mkdir",
+      "repo": "https://github.com/alexcb/mkdir"
+    },
+    {
+      "name": "pymerge",
+      "repo": "https://github.com/alexcb/pymerge",
+      "language": "C"
+    },
+    {
+      "name": "tabular",
+      "repo": "https://github.com/alexcb/tabular",
+      "language": "Go"
+    },
+    {
+      "name": "LLAMA",
+      "repo": "https://github.com/alexcb/LLAMA",
+      "language": "Python"
+    },
+    {
+      "name": "actions-test",
+      "repo": "https://github.com/alexcb/actions-test"
+    },
+    {
+      "name": "actions",
+      "repo": "https://github.com/alexcb/actions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "locally",
+      "repo": "https://github.com/alexcb/locally"
+    },
+    {
+      "name": "shellcheck2",
+      "repo": "https://github.com/alexcb/shellcheck2"
+    },
+    {
+      "name": "The-Earth-Files",
+      "repo": "https://github.com/alexcb/The-Earth-Files"
+    },
+    {
+      "name": "netlifytest",
+      "repo": "https://github.com/alexcb/netlifytest"
+    },
+    {
+      "name": "testearth1",
+      "repo": "https://github.com/alexcb/testearth1"
+    },
+    {
+      "name": "bare",
+      "repo": "https://github.com/alexcb/bare"
+    },
+    {
+      "name": "go-encrypt-test",
+      "repo": "https://github.com/alexcb/go-encrypt-test"
+    },
+    {
+      "name": "playc",
+      "repo": "https://github.com/alexcb/playc"
+    },
+    {
+      "name": "earthly-test-ssh",
+      "repo": "https://github.com/alexcb/earthly-test-ssh",
+      "language": "Go"
+    },
+    {
+      "name": "earthtest2",
+      "repo": "https://github.com/alexcb/earthtest2"
+    },
+    {
+      "name": "antlrcalc",
+      "repo": "https://github.com/alexcb/antlrcalc",
+      "language": "Go"
+    },
+    {
+      "name": "earthly-mac-mon",
+      "repo": "https://github.com/alexcb/earthly-mac-mon",
+      "language": "Go"
+    },
+    {
+      "name": "rsm",
+      "repo": "https://github.com/alexcb/rsm",
+      "language": "Go"
+    },
+    {
+      "name": "buildkittoy",
+      "repo": "https://github.com/alexcb/buildkittoy",
+      "language": "Go"
+    },
+    {
+      "name": "earthtest",
+      "repo": "https://github.com/alexcb/earthtest",
+      "language": "C++"
+    },
+    {
+      "name": "sdr-scanner",
+      "repo": "https://github.com/alexcb/sdr-scanner",
+      "language": "C"
+    },
+    {
+      "name": "morsecodetrainer",
+      "repo": "https://github.com/alexcb/morsecodetrainer",
+      "language": "C"
+    },
+    {
+      "name": "alexdns",
+      "repo": "https://github.com/alexcb/alexdns",
+      "language": "Python"
+    },
+    {
+      "name": "tinysyslogd",
+      "repo": "https://github.com/alexcb/tinysyslogd",
+      "language": "Python"
+    },
+    {
+      "name": "kafka-rebalance-partitions",
+      "repo": "https://github.com/alexcb/kafka-rebalance-partitions",
+      "language": "Python"
+    },
+    {
+      "name": "bystander",
+      "repo": "https://github.com/alexcb/bystander",
+      "language": "Go"
+    },
+    {
+      "name": "python-pipe",
+      "repo": "https://github.com/alexcb/python-pipe",
+      "language": "Python"
+    },
+    {
+      "name": "opt-parser",
+      "repo": "https://github.com/alexcb/opt-parser",
+      "language": "C"
+    },
+    {
+      "name": "python-header-return-server",
+      "repo": "https://github.com/alexcb/python-header-return-server",
+      "language": "Python"
+    },
+    {
+      "name": "pico-hello-world",
+      "repo": "https://github.com/alexcb/pico-hello-world",
+      "language": "C"
+    },
+    {
+      "name": "beer-list",
+      "repo": "https://github.com/alexcb/beer-list",
+      "language": "HTML"
+    },
+    {
+      "name": "dsp",
+      "repo": "https://github.com/alexcb/dsp",
+      "language": "C"
+    },
+    {
+      "name": "dumb",
+      "repo": "https://github.com/alexcb/dumb"
+    },
+    {
+      "name": "quickjira",
+      "repo": "https://github.com/alexcb/quickjira",
+      "language": "Python"
+    },
+    {
+      "name": "dockerlogs",
+      "repo": "https://github.com/alexcb/dockerlogs",
+      "language": "Go"
+    },
+    {
+      "name": "pymenu",
+      "repo": "https://github.com/alexcb/pymenu",
+      "language": "Python"
+    },
+    {
+      "name": "logr",
+      "repo": "https://github.com/alexcb/logr",
+      "language": "Go"
+    },
+    {
+      "name": "beginner-c-examples",
+      "repo": "https://github.com/alexcb/beginner-c-examples",
+      "language": "C"
+    },
+    {
+      "name": "updating-google-sheets-with-python",
+      "repo": "https://github.com/alexcb/updating-google-sheets-with-python",
+      "language": "Python"
+    },
+    {
+      "name": "clog",
+      "repo": "https://github.com/alexcb/clog",
+      "language": "C"
+    },
+    {
+      "name": "docker-xlogo",
+      "repo": "https://github.com/alexcb/docker-xlogo",
+      "language": "Shell"
+    },
+    {
+      "name": "python_utils",
+      "repo": "https://github.com/alexcb/python_utils",
+      "language": "Python"
+    },
+    {
+      "name": "circularbuffer",
+      "repo": "https://github.com/alexcb/circularbuffer",
+      "language": "C"
+    },
+    {
+      "name": "misc-c",
+      "repo": "https://github.com/alexcb/misc-c",
+      "language": "C"
+    },
+    {
+      "name": "misc-go",
+      "repo": "https://github.com/alexcb/misc-go",
+      "language": "Go"
+    },
+    {
+      "name": "music-control",
+      "repo": "https://github.com/alexcb/music-control",
+      "language": "C"
+    },
+    {
+      "name": "Chuckdaw",
+      "repo": "https://github.com/alexcb/Chuckdaw",
+      "language": "C"
+    },
+    {
+      "name": "websocket-python-monitor",
+      "repo": "https://github.com/alexcb/websocket-python-monitor",
+      "language": "HTML"
+    },
+    {
+      "name": "interview_code_samples",
+      "repo": "https://github.com/alexcb/interview_code_samples",
+      "language": "Python"
+    }
+  ]
 }
