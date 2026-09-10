@@ -1,0 +1,512 @@
+{
+  "handle": "detain",
+  "name": "Joe Huss",
+  "github": [
+    "https://github.com/detain"
+  ],
+  "website": "https://my.interserver.net/",
+  "bio": "og sys admin + coder..been doing them since the 90s when i worked on cpanel,. these days im writing automation systms for datacenters and world domination.",
+  "own_repos": 107,
+  "commits": 22045,
+  "apps": [],
+  "repos": [
+    {
+      "name": "phlix-server",
+      "repo": "https://github.com/detain/phlix-server",
+      "url": "https://phlex.media",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-tizen-client",
+      "repo": "https://github.com/detain/phlix-tizen-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phlix-hub",
+      "repo": "https://github.com/detain/phlix-hub",
+      "url": "https://phlex.media",
+      "language": "PHP"
+    },
+    {
+      "name": "sugarcraft",
+      "repo": "https://github.com/detain/sugarcraft",
+      "url": "https://detain.github.io/sugarcraft/",
+      "language": "PHP"
+    },
+    {
+      "name": "detain",
+      "repo": "https://github.com/detain/detain",
+      "url": "https://github.com/detain"
+    },
+    {
+      "name": "scoop-emulators",
+      "repo": "https://github.com/detain/scoop-emulators",
+      "language": "PowerShell"
+    },
+    {
+      "name": "phlix-plugins",
+      "repo": "https://github.com/detain/phlix-plugins",
+      "language": "Python"
+    },
+    {
+      "name": "phlix-shared",
+      "repo": "https://github.com/detain/phlix-shared",
+      "url": "https://phlex.media",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-mobile-client",
+      "repo": "https://github.com/detain/phlix-mobile-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phlix-roku-client",
+      "repo": "https://github.com/detain/phlix-roku-client",
+      "language": "Brightscript"
+    },
+    {
+      "name": "phlix-ui",
+      "repo": "https://github.com/detain/phlix-ui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phlix-console-client",
+      "repo": "https://github.com/detain/phlix-console-client",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-contracts",
+      "repo": "https://github.com/detain/phlix-contracts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "datacentered",
+      "repo": "https://github.com/detain/datacentered",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-website",
+      "repo": "https://github.com/detain/phlix-website",
+      "url": "https://detain.github.io/phlix-website/",
+      "language": "HTML"
+    },
+    {
+      "name": "phlix-windows-client",
+      "repo": "https://github.com/detain/phlix-windows-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "opencode-auto-resume-agents",
+      "repo": "https://github.com/detain/opencode-auto-resume-agents",
+      "language": "JavaScript"
+    },
+    {
+      "name": "phlix-tokens",
+      "repo": "https://github.com/detain/phlix-tokens",
+      "language": "JavaScript"
+    },
+    {
+      "name": "phlix-syncplay",
+      "repo": "https://github.com/detain/phlix-syncplay",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phlix-docs",
+      "repo": "https://github.com/detain/phlix-docs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phlix-plugin-volcanic-ember-theme",
+      "repo": "https://github.com/detain/phlix-plugin-volcanic-ember-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-void-bloom-theme",
+      "repo": "https://github.com/detain/phlix-plugin-void-bloom-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-trakt",
+      "repo": "https://github.com/detain/phlix-plugin-trakt",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-spectral-dusk-theme",
+      "repo": "https://github.com/detain/phlix-plugin-spectral-dusk-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-phantom-violet-theme",
+      "repo": "https://github.com/detain/phlix-plugin-phantom-violet-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-phantom-mint-theme",
+      "repo": "https://github.com/detain/phlix-plugin-phantom-mint-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-omdb",
+      "repo": "https://github.com/detain/phlix-plugin-omdb",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-obsidian-flame-theme",
+      "repo": "https://github.com/detain/phlix-plugin-obsidian-flame-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-mystic-jade-theme",
+      "repo": "https://github.com/detain/phlix-plugin-mystic-jade-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-myanimelist",
+      "repo": "https://github.com/detain/phlix-plugin-myanimelist",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-musicbrainz",
+      "repo": "https://github.com/detain/phlix-plugin-musicbrainz",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-lastfm",
+      "repo": "https://github.com/detain/phlix-plugin-lastfm",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-jade-theme",
+      "repo": "https://github.com/detain/phlix-plugin-jade-theme",
+      "url": "https://github.com/detain/phlix-plugin-jade-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-example",
+      "repo": "https://github.com/detain/phlix-plugin-example",
+      "url": "https://phlex.media",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-emerald-abyss-theme",
+      "repo": "https://github.com/detain/phlix-plugin-emerald-abyss-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-arctic-jade-theme",
+      "repo": "https://github.com/detain/phlix-plugin-arctic-jade-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-anilist",
+      "repo": "https://github.com/detain/phlix-plugin-anilist",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-anidb",
+      "repo": "https://github.com/detain/phlix-plugin-anidb",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-sample-theme",
+      "repo": "https://github.com/detain/phlix-plugin-sample-theme",
+      "language": "PHP"
+    },
+    {
+      "name": "piano-master",
+      "repo": "https://github.com/detain/piano-master",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ip_vlan_manager",
+      "repo": "https://github.com/detain/ip_vlan_manager",
+      "language": "PHP"
+    },
+    {
+      "name": "db_abstraction",
+      "repo": "https://github.com/detain/db_abstraction",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-phantom-mint",
+      "repo": "https://github.com/detain/phlix-plugin-phantom-mint",
+      "url": "https://phlix.net",
+      "language": "PHP"
+    },
+    {
+      "name": "phlix-plugin-opensubtitles",
+      "repo": "https://github.com/detain/phlix-plugin-opensubtitles",
+      "language": "PHP"
+    },
+    {
+      "name": "3d-datacenter-live-walkthrough",
+      "repo": "https://github.com/detain/3d-datacenter-live-walkthrough",
+      "language": "JavaScript"
+    },
+    {
+      "name": "php-duplication-samples",
+      "repo": "https://github.com/detain/php-duplication-samples",
+      "language": "PHP"
+    },
+    {
+      "name": "php-dup-finder",
+      "repo": "https://github.com/detain/php-dup-finder",
+      "url": "https://github.com/detain/php-dup-finder",
+      "language": "PHP"
+    },
+    {
+      "name": "mixamo-animation-threejs",
+      "repo": "https://github.com/detain/mixamo-animation-threejs",
+      "url": "https://codesandbox.io/p/github/detain/mixamo-animation-threejs"
+    },
+    {
+      "name": "detain.github.io",
+      "repo": "https://github.com/detain/detain.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "my-mcp-server-go-client",
+      "repo": "https://github.com/detain/my-mcp-server-go-client",
+      "language": "Go"
+    },
+    {
+      "name": "my-mcp-server-go-admin",
+      "repo": "https://github.com/detain/my-mcp-server-go-admin",
+      "language": "Go"
+    },
+    {
+      "name": "zip-zapper",
+      "repo": "https://github.com/detain/zip-zapper",
+      "language": "PHP"
+    },
+    {
+      "name": "openclaw-sess",
+      "repo": "https://github.com/detain/openclaw-sess",
+      "language": "TypeScript"
+    },
+    {
+      "name": "my-mcp-server-php-admin",
+      "repo": "https://github.com/detain/my-mcp-server-php-admin",
+      "language": "PHP"
+    },
+    {
+      "name": "my-mcp-server-php-client",
+      "repo": "https://github.com/detain/my-mcp-server-php-client",
+      "language": "PHP"
+    },
+    {
+      "name": "myadmin-client-vue",
+      "repo": "https://github.com/detain/myadmin-client-vue",
+      "url": "https://my.interserver.net/",
+      "language": "Vue"
+    },
+    {
+      "name": "ConSolo",
+      "repo": "https://github.com/detain/ConSolo",
+      "language": "PHP"
+    },
+    {
+      "name": "watchable",
+      "repo": "https://github.com/detain/watchable",
+      "language": "PHP"
+    },
+    {
+      "name": "oauth2-server-mydb-storage",
+      "repo": "https://github.com/detain/oauth2-server-mydb-storage",
+      "language": "PHP"
+    },
+    {
+      "name": "sshpool",
+      "repo": "https://github.com/detain/sshpool",
+      "language": "PHP"
+    },
+    {
+      "name": "sshwitch",
+      "repo": "https://github.com/detain/sshwitch",
+      "language": "PHP"
+    },
+    {
+      "name": "cisco_parser",
+      "repo": "https://github.com/detain/cisco_parser",
+      "language": "PHP"
+    },
+    {
+      "name": "cloudlinux-licensing",
+      "repo": "https://github.com/detain/cloudlinux-licensing",
+      "language": "PHP"
+    },
+    {
+      "name": "cpanel-licensing",
+      "repo": "https://github.com/detain/cpanel-licensing",
+      "language": "PHP"
+    },
+    {
+      "name": "fantastico-licensing",
+      "repo": "https://github.com/detain/fantastico-licensing",
+      "language": "PHP"
+    },
+    {
+      "name": "litespeed-licensing",
+      "repo": "https://github.com/detain/litespeed-licensing",
+      "language": "PHP"
+    },
+    {
+      "name": "parallels-licensing",
+      "repo": "https://github.com/detain/parallels-licensing",
+      "language": "PHP"
+    },
+    {
+      "name": "notcurses-php",
+      "repo": "https://github.com/detain/notcurses-php"
+    },
+    {
+      "name": "session-samurai",
+      "repo": "https://github.com/detain/session-samurai",
+      "language": "PHP"
+    },
+    {
+      "name": "dbrel-data-js",
+      "repo": "https://github.com/detain/dbrel-data-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dbrel-data-php",
+      "repo": "https://github.com/detain/dbrel-data-php",
+      "language": "PHP"
+    },
+    {
+      "name": "dbrel-viz",
+      "repo": "https://github.com/detain/dbrel-viz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kayako-php-api-library",
+      "repo": "https://github.com/detain/kayako-php-api-library",
+      "language": "PHP"
+    },
+    {
+      "name": "nusoap",
+      "repo": "https://github.com/detain/nusoap",
+      "language": "PHP"
+    },
+    {
+      "name": "server-racks",
+      "repo": "https://github.com/detain/server-racks",
+      "language": "HTML"
+    },
+    {
+      "name": "webman-template",
+      "repo": "https://github.com/detain/webman-template",
+      "language": "PHP"
+    },
+    {
+      "name": "svg-logos",
+      "repo": "https://github.com/detain/svg-logos",
+      "language": "PHP"
+    },
+    {
+      "name": "tripping-the-light-fantastic-with-meilisearch",
+      "repo": "https://github.com/detain/tripping-the-light-fantastic-with-meilisearch"
+    },
+    {
+      "name": "ollama-benchmarking-php",
+      "repo": "https://github.com/detain/ollama-benchmarking-php"
+    },
+    {
+      "name": "xinput-sdl-joystick-capture-playback",
+      "repo": "https://github.com/detain/xinput-sdl-joystick-capture-playback",
+      "language": "PHP"
+    },
+    {
+      "name": "emulatest",
+      "repo": "https://github.com/detain/emulatest",
+      "language": "PowerShell"
+    },
+    {
+      "name": "emulatest-windows-form",
+      "repo": "https://github.com/detain/emulatest-windows-form",
+      "language": "C#"
+    },
+    {
+      "name": "emurelation",
+      "repo": "https://github.com/detain/emurelation"
+    },
+    {
+      "name": "emulation-data",
+      "repo": "https://github.com/detain/emulation-data"
+    },
+    {
+      "name": "emurelator",
+      "repo": "https://github.com/detain/emurelator",
+      "language": "PHP"
+    },
+    {
+      "name": "fceux",
+      "repo": "https://github.com/detain/fceux",
+      "language": "C++"
+    },
+    {
+      "name": "scoop-emulators-cache",
+      "repo": "https://github.com/detain/scoop-emulators-cache"
+    },
+    {
+      "name": "workerman-monitoring",
+      "repo": "https://github.com/detain/workerman-monitoring",
+      "language": "PHP"
+    },
+    {
+      "name": "storsage",
+      "repo": "https://github.com/detain/storsage"
+    },
+    {
+      "name": "roku-dev",
+      "repo": "https://github.com/detain/roku-dev"
+    },
+    {
+      "name": "wowapi",
+      "repo": "https://github.com/detain/wowapi",
+      "language": "PHP"
+    },
+    {
+      "name": "the-other-me",
+      "repo": "https://github.com/detain/the-other-me"
+    },
+    {
+      "name": "jokes",
+      "repo": "https://github.com/detain/jokes"
+    },
+    {
+      "name": "magic-spells",
+      "repo": "https://github.com/detain/magic-spells",
+      "language": "HTML"
+    },
+    {
+      "name": "hostingenuity.com",
+      "repo": "https://github.com/detain/hostingenuity.com",
+      "language": "PHP"
+    },
+    {
+      "name": "neverending-eye-candy-gallery",
+      "repo": "https://github.com/detain/neverending-eye-candy-gallery",
+      "language": "PHP"
+    },
+    {
+      "name": "screen-slaver",
+      "repo": "https://github.com/detain/screen-slaver"
+    },
+    {
+      "name": "observium-netbox-import",
+      "repo": "https://github.com/detain/observium-netbox-import",
+      "language": "Shell"
+    },
+    {
+      "name": "AutoBox",
+      "repo": "https://github.com/detain/AutoBox",
+      "language": "PowerShell"
+    },
+    {
+      "name": "myadmin-devel-notes",
+      "repo": "https://github.com/detain/myadmin-devel-notes"
+    }
+  ]
+}

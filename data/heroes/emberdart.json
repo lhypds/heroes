@@ -1,0 +1,510 @@
+{
+  "handle": "emberdart",
+  "name": "Ember Dart",
+  "github": [
+    "https://github.com/emberdart"
+  ],
+  "bio": "\"The Mad Hacker\", develops in Haskell with Servant and Reflex personally, and TS/JS for React Native, React and Node.js for work.",
+  "own_repos": 105,
+  "commits": 10454,
+  "apps": [],
+  "repos": [
+    {
+      "name": "websites",
+      "repo": "https://github.com/emberdart/websites",
+      "language": "Haskell"
+    },
+    {
+      "name": "reviews",
+      "repo": "https://github.com/emberdart/reviews",
+      "language": "HTML"
+    },
+    {
+      "name": "personal",
+      "repo": "https://github.com/emberdart/personal",
+      "language": "HTML"
+    },
+    {
+      "name": "hamradio",
+      "repo": "https://github.com/emberdart/hamradio",
+      "language": "HTML"
+    },
+    {
+      "name": "deadsite",
+      "repo": "https://github.com/emberdart/deadsite",
+      "language": "HTML"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/emberdart/blog",
+      "language": "HTML"
+    },
+    {
+      "name": "bloghamradio",
+      "repo": "https://github.com/emberdart/bloghamradio",
+      "url": "https://blog.m0ori.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "blogdead",
+      "repo": "https://github.com/emberdart/blogdead",
+      "language": "HTML"
+    },
+    {
+      "name": "projects",
+      "repo": "https://github.com/emberdart/projects",
+      "language": "Haskell"
+    },
+    {
+      "name": "system",
+      "repo": "https://github.com/emberdart/system",
+      "language": "Nix"
+    },
+    {
+      "name": "funky-birthdays",
+      "repo": "https://github.com/emberdart/funky-birthdays",
+      "language": "Haskell"
+    },
+    {
+      "name": "4letters",
+      "repo": "https://github.com/emberdart/4letters",
+      "language": "Haskell"
+    },
+    {
+      "name": "family",
+      "repo": "https://github.com/emberdart/family",
+      "language": "Nix"
+    },
+    {
+      "name": "chatter",
+      "repo": "https://github.com/emberdart/chatter",
+      "language": "Haskell"
+    },
+    {
+      "name": "kasmveh",
+      "repo": "https://github.com/emberdart/kasmveh",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs-granular-io",
+      "repo": "https://github.com/emberdart/hs-granular-io",
+      "language": "Nix"
+    },
+    {
+      "name": "archery",
+      "repo": "https://github.com/emberdart/archery",
+      "language": "Haskell"
+    },
+    {
+      "name": "criminally-undersubbed",
+      "repo": "https://github.com/emberdart/criminally-undersubbed",
+      "language": "Haskell"
+    },
+    {
+      "name": "code",
+      "repo": "https://github.com/emberdart/code",
+      "language": "Shell"
+    },
+    {
+      "name": "hs-digits",
+      "repo": "https://github.com/emberdart/hs-digits",
+      "language": "Haskell"
+    },
+    {
+      "name": "humblr",
+      "repo": "https://github.com/emberdart/humblr",
+      "language": "Haskell"
+    },
+    {
+      "name": "danos",
+      "repo": "https://github.com/emberdart/danos",
+      "language": "Assembly"
+    },
+    {
+      "name": "foodsurvey",
+      "repo": "https://github.com/emberdart/foodsurvey",
+      "language": "JavaScript"
+    },
+    {
+      "name": "VMs",
+      "repo": "https://github.com/emberdart/VMs",
+      "language": "Shell"
+    },
+    {
+      "name": "patchdeck",
+      "repo": "https://github.com/emberdart/patchdeck",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zepper",
+      "repo": "https://github.com/emberdart/zepper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "VypZZ",
+      "repo": "https://github.com/emberdart/VypZZ",
+      "language": "HTML"
+    },
+    {
+      "name": "secant",
+      "repo": "https://github.com/emberdart/secant",
+      "language": "JavaScript"
+    },
+    {
+      "name": "retroradio",
+      "repo": "https://github.com/emberdart/retroradio",
+      "language": "HTML"
+    },
+    {
+      "name": "pcomm",
+      "repo": "https://github.com/emberdart/pcomm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oeis",
+      "repo": "https://github.com/emberdart/oeis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "omegcli",
+      "repo": "https://github.com/emberdart/omegcli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kallistarvin",
+      "repo": "https://github.com/emberdart/kallistarvin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "haber",
+      "repo": "https://github.com/emberdart/haber",
+      "language": "TypeScript"
+    },
+    {
+      "name": "heartish",
+      "repo": "https://github.com/emberdart/heartish",
+      "language": "JavaScript"
+    },
+    {
+      "name": "arsebeatfish",
+      "repo": "https://github.com/emberdart/arsebeatfish",
+      "language": "TypeScript"
+    },
+    {
+      "name": "autosnope",
+      "repo": "https://github.com/emberdart/autosnope",
+      "language": "JavaScript"
+    },
+    {
+      "name": "avia",
+      "repo": "https://github.com/emberdart/avia",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dartcomm",
+      "repo": "https://github.com/emberdart/dartcomm",
+      "language": "Stylus"
+    },
+    {
+      "name": "drpl",
+      "repo": "https://github.com/emberdart/drpl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fsm",
+      "repo": "https://github.com/emberdart/fsm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "freespeech",
+      "repo": "https://github.com/emberdart/freespeech",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gravity",
+      "repo": "https://github.com/emberdart/gravity",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "serverless-prs-github",
+      "repo": "https://github.com/emberdart/serverless-prs-github",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vidsort",
+      "repo": "https://github.com/emberdart/vidsort",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vinski2",
+      "repo": "https://github.com/emberdart/vinski2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "webtex",
+      "repo": "https://github.com/emberdart/webtex"
+    },
+    {
+      "name": "jolharg-theme",
+      "repo": "https://github.com/emberdart/jolharg-theme",
+      "language": "Pug"
+    },
+    {
+      "name": "autopache",
+      "repo": "https://github.com/emberdart/autopache",
+      "language": "Shell"
+    },
+    {
+      "name": "haskell-tools",
+      "repo": "https://github.com/emberdart/haskell-tools",
+      "language": "Nix"
+    },
+    {
+      "name": "danwdart",
+      "repo": "https://github.com/emberdart/danwdart"
+    },
+    {
+      "name": "gwallgofrwydd",
+      "repo": "https://github.com/emberdart/gwallgofrwydd",
+      "language": "Makefile"
+    },
+    {
+      "name": "todoapp",
+      "repo": "https://github.com/emberdart/todoapp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scrapepins",
+      "repo": "https://github.com/emberdart/scrapepins",
+      "language": "Shell"
+    },
+    {
+      "name": "scrapeda",
+      "repo": "https://github.com/emberdart/scrapeda",
+      "language": "Shell"
+    },
+    {
+      "name": "glitcher",
+      "repo": "https://github.com/emberdart/glitcher",
+      "language": "Shell"
+    },
+    {
+      "name": "dockers",
+      "repo": "https://github.com/emberdart/dockers",
+      "language": "Shell"
+    },
+    {
+      "name": "sysmon",
+      "repo": "https://github.com/emberdart/sysmon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vehicle-hire",
+      "repo": "https://github.com/emberdart/vehicle-hire",
+      "language": "Vue"
+    },
+    {
+      "name": "projectchaplin",
+      "repo": "https://github.com/emberdart/projectchaplin",
+      "language": "PHP"
+    },
+    {
+      "name": "betabud",
+      "repo": "https://github.com/emberdart/betabud",
+      "language": "PHP"
+    },
+    {
+      "name": "Bibud",
+      "repo": "https://github.com/emberdart/Bibud",
+      "language": "PHP"
+    },
+    {
+      "name": "ShareAV",
+      "repo": "https://github.com/emberdart/ShareAV",
+      "language": "PHP"
+    },
+    {
+      "name": "zetabud",
+      "repo": "https://github.com/emberdart/zetabud",
+      "language": "PHP"
+    },
+    {
+      "name": "distruck",
+      "repo": "https://github.com/emberdart/distruck",
+      "language": "Shell"
+    },
+    {
+      "name": "sesite",
+      "repo": "https://github.com/emberdart/sesite",
+      "language": "PHP"
+    },
+    {
+      "name": "Zend-Mongo-Db",
+      "repo": "https://github.com/emberdart/Zend-Mongo-Db",
+      "language": "PHP"
+    },
+    {
+      "name": "widgeter",
+      "repo": "https://github.com/emberdart/widgeter",
+      "language": "PHP"
+    },
+    {
+      "name": "xenon",
+      "repo": "https://github.com/emberdart/xenon",
+      "language": "HTML"
+    },
+    {
+      "name": "amqp",
+      "repo": "https://github.com/emberdart/amqp",
+      "language": "PHP"
+    },
+    {
+      "name": "evilphp",
+      "repo": "https://github.com/emberdart/evilphp",
+      "language": "Nix"
+    },
+    {
+      "name": "form",
+      "repo": "https://github.com/emberdart/form",
+      "language": "Nix"
+    },
+    {
+      "name": "multiorm",
+      "repo": "https://github.com/emberdart/multiorm",
+      "language": "PHP"
+    },
+    {
+      "name": "php-async",
+      "repo": "https://github.com/emberdart/php-async",
+      "language": "Nix"
+    },
+    {
+      "name": "php-socket",
+      "repo": "https://github.com/emberdart/php-socket",
+      "language": "PHP"
+    },
+    {
+      "name": "frugaled",
+      "repo": "https://github.com/emberdart/frugaled",
+      "language": "Nix"
+    },
+    {
+      "name": "winspy",
+      "repo": "https://github.com/emberdart/winspy"
+    },
+    {
+      "name": "sevb",
+      "repo": "https://github.com/emberdart/sevb",
+      "language": "Visual Basic 6.0"
+    },
+    {
+      "name": "rflvb",
+      "repo": "https://github.com/emberdart/rflvb",
+      "language": "Visual Basic 6.0"
+    },
+    {
+      "name": "selaunch",
+      "repo": "https://github.com/emberdart/selaunch",
+      "language": "Tcl"
+    },
+    {
+      "name": "update-checker",
+      "repo": "https://github.com/emberdart/update-checker",
+      "language": "Shell"
+    },
+    {
+      "name": "install_everything",
+      "repo": "https://github.com/emberdart/install_everything",
+      "language": "Shell"
+    },
+    {
+      "name": "scalr-phonegap",
+      "repo": "https://github.com/emberdart/scalr-phonegap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "polypropene",
+      "repo": "https://github.com/emberdart/polypropene",
+      "language": "HTML"
+    },
+    {
+      "name": "movesic",
+      "repo": "https://github.com/emberdart/movesic",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jsarm",
+      "repo": "https://github.com/emberdart/jsarm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "js86",
+      "repo": "https://github.com/emberdart/js86",
+      "language": "HTML"
+    },
+    {
+      "name": "jammin",
+      "repo": "https://github.com/emberdart/jammin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fps",
+      "repo": "https://github.com/emberdart/fps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "equationsounds",
+      "repo": "https://github.com/emberdart/equationsounds",
+      "language": "HTML"
+    },
+    {
+      "name": "bev",
+      "repo": "https://github.com/emberdart/bev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "anglo",
+      "repo": "https://github.com/emberdart/anglo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nostalgia",
+      "repo": "https://github.com/emberdart/nostalgia"
+    },
+    {
+      "name": "sanitos",
+      "repo": "https://github.com/emberdart/sanitos",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "pooh",
+      "repo": "https://github.com/emberdart/pooh",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cricket",
+      "repo": "https://github.com/emberdart/cricket",
+      "language": "C++"
+    },
+    {
+      "name": "software-application-standard",
+      "repo": "https://github.com/emberdart/software-application-standard",
+      "url": "https://github.com/dandart/software-application-standard/wiki/Software-Application-Standard",
+      "language": "C"
+    },
+    {
+      "name": "vinski",
+      "repo": "https://github.com/emberdart/vinski",
+      "language": "BlitzBasic"
+    },
+    {
+      "name": "house",
+      "repo": "https://github.com/emberdart/house",
+      "language": "Haskell"
+    },
+    {
+      "name": "quake-nodogs",
+      "repo": "https://github.com/emberdart/quake-nodogs"
+    }
+  ]
+}
