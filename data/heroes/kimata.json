@@ -1,0 +1,496 @@
+{
+  "handle": "kimata",
+  "name": "KIMATA Tetsuya",
+  "github": [
+    "https://github.com/kimata"
+  ],
+  "own_repos": 123,
+  "commits": 12487,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mercari-bot",
+      "repo": "https://github.com/kimata/mercari-bot",
+      "language": "Python"
+    },
+    {
+      "name": "rasp-shutter",
+      "repo": "https://github.com/kimata/rasp-shutter",
+      "language": "Python"
+    },
+    {
+      "name": "server-list",
+      "repo": "https://github.com/kimata/server-list",
+      "language": "Python"
+    },
+    {
+      "name": "unit-cooler",
+      "repo": "https://github.com/kimata/unit-cooler",
+      "url": "https://rabbit-note.com/2023/06/24/raspberry-pi-kubernetes-air-conditionar-cooling-system/",
+      "language": "Python"
+    },
+    {
+      "name": "rsudp",
+      "repo": "https://github.com/kimata/rsudp",
+      "language": "Python"
+    },
+    {
+      "name": "price-watch",
+      "repo": "https://github.com/kimata/price-watch",
+      "language": "Python"
+    },
+    {
+      "name": "price-platform",
+      "repo": "https://github.com/kimata/price-platform",
+      "language": "Python"
+    },
+    {
+      "name": "my-py-lib",
+      "repo": "https://github.com/kimata/my-py-lib",
+      "language": "Python"
+    },
+    {
+      "name": "py-project",
+      "repo": "https://github.com/kimata/py-project",
+      "language": "Python"
+    },
+    {
+      "name": "kindle_power_panel",
+      "repo": "https://github.com/kimata/kindle_power_panel",
+      "language": "Python"
+    },
+    {
+      "name": "kindle_weather_panel",
+      "repo": "https://github.com/kimata/kindle_weather_panel",
+      "language": "Python"
+    },
+    {
+      "name": "kindle_sensor_panel",
+      "repo": "https://github.com/kimata/kindle_sensor_panel",
+      "language": "Python"
+    },
+    {
+      "name": "shopping-history",
+      "repo": "https://github.com/kimata/shopping-history",
+      "language": "Python"
+    },
+    {
+      "name": "modes-sensing",
+      "repo": "https://github.com/kimata/modes-sensing",
+      "language": "Python"
+    },
+    {
+      "name": "eink-weather-panel",
+      "repo": "https://github.com/kimata/eink-weather-panel",
+      "language": "Python"
+    },
+    {
+      "name": "merhist-python",
+      "repo": "https://github.com/kimata/merhist-python",
+      "language": "Python"
+    },
+    {
+      "name": "wattmeter-sharp",
+      "repo": "https://github.com/kimata/wattmeter-sharp",
+      "language": "Python"
+    },
+    {
+      "name": "amazhist-python",
+      "repo": "https://github.com/kimata/amazhist-python",
+      "language": "Python"
+    },
+    {
+      "name": "dupdel",
+      "repo": "https://github.com/kimata/dupdel",
+      "language": "Python"
+    },
+    {
+      "name": "server-init",
+      "repo": "https://github.com/kimata/server-init",
+      "language": "Jinja"
+    },
+    {
+      "name": "sensing-py",
+      "repo": "https://github.com/kimata/sensing-py",
+      "language": "Python"
+    },
+    {
+      "name": "rasp-water",
+      "repo": "https://github.com/kimata/rasp-water",
+      "url": "https://rabbit-note.com/2018/12/31/raspberry-pi-watering-system-hard/",
+      "language": "Python"
+    },
+    {
+      "name": "rasp-aqua",
+      "repo": "https://github.com/kimata/rasp-aqua",
+      "language": "Python"
+    },
+    {
+      "name": "watch_plex",
+      "repo": "https://github.com/kimata/watch_plex",
+      "language": "Shell"
+    },
+    {
+      "name": "rainfall-notify",
+      "repo": "https://github.com/kimata/rainfall-notify",
+      "language": "Python"
+    },
+    {
+      "name": "yamaha_usb_ctrl",
+      "repo": "https://github.com/kimata/yamaha_usb_ctrl",
+      "language": "Python"
+    },
+    {
+      "name": "wattmeter_ups",
+      "repo": "https://github.com/kimata/wattmeter_ups",
+      "language": "Python"
+    },
+    {
+      "name": "ui_store_checker",
+      "repo": "https://github.com/kimata/ui_store_checker",
+      "language": "Python"
+    },
+    {
+      "name": "dumpvdl2",
+      "repo": "https://github.com/kimata/dumpvdl2",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "dump1090-fa",
+      "repo": "https://github.com/kimata/dump1090-fa",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "fluentd",
+      "repo": "https://github.com/kimata/fluentd",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "jjy-clock",
+      "repo": "https://github.com/kimata/jjy-clock",
+      "language": "Python"
+    },
+    {
+      "name": "rasp-init",
+      "repo": "https://github.com/kimata/rasp-init",
+      "language": "Jinja"
+    },
+    {
+      "name": "m5paper-aqua",
+      "repo": "https://github.com/kimata/m5paper-aqua",
+      "language": "Python"
+    },
+    {
+      "name": "mohist-python",
+      "repo": "https://github.com/kimata/mohist-python",
+      "language": "Python"
+    },
+    {
+      "name": "nohara-calendar",
+      "repo": "https://github.com/kimata/nohara-calendar",
+      "language": "Python"
+    },
+    {
+      "name": "web-timelapse",
+      "repo": "https://github.com/kimata/web-timelapse",
+      "language": "Python"
+    },
+    {
+      "name": "prometheus-smartmon-cciss",
+      "repo": "https://github.com/kimata/prometheus-smartmon-cciss",
+      "language": "Shell"
+    },
+    {
+      "name": "esp32_raindrop",
+      "repo": "https://github.com/kimata/esp32_raindrop",
+      "language": "C"
+    },
+    {
+      "name": "RPi_CM4_Breakout",
+      "repo": "https://github.com/kimata/RPi_CM4_Breakout"
+    },
+    {
+      "name": "line_rain_notify",
+      "repo": "https://github.com/kimata/line_rain_notify",
+      "language": "Python"
+    },
+    {
+      "name": "utilities",
+      "repo": "https://github.com/kimata/utilities",
+      "language": "Shell"
+    },
+    {
+      "name": "kimata",
+      "repo": "https://github.com/kimata/kimata"
+    },
+    {
+      "name": "ESP32-breakout",
+      "repo": "https://github.com/kimata/ESP32-breakout"
+    },
+    {
+      "name": "esp32_spp_server",
+      "repo": "https://github.com/kimata/esp32_spp_server",
+      "language": "C"
+    },
+    {
+      "name": "LTC2874_Breakout",
+      "repo": "https://github.com/kimata/LTC2874_Breakout"
+    },
+    {
+      "name": "esp32_ulp_sht3x",
+      "repo": "https://github.com/kimata/esp32_ulp_sht3x",
+      "language": "C"
+    },
+    {
+      "name": "raspberry_config",
+      "repo": "https://github.com/kimata/raspberry_config",
+      "language": "Shell"
+    },
+    {
+      "name": "usbrh",
+      "repo": "https://github.com/kimata/usbrh",
+      "language": "C"
+    },
+    {
+      "name": "yahist-python",
+      "repo": "https://github.com/kimata/yahist-python",
+      "language": "Python"
+    },
+    {
+      "name": "rakhist-python",
+      "repo": "https://github.com/kimata/rakhist-python",
+      "language": "Python"
+    },
+    {
+      "name": "pxq3pe5_watch",
+      "repo": "https://github.com/kimata/pxq3pe5_watch"
+    },
+    {
+      "name": "yodhist-python",
+      "repo": "https://github.com/kimata/yodhist-python",
+      "language": "Python"
+    },
+    {
+      "name": "python-binary-auto-release",
+      "repo": "https://github.com/kimata/python-binary-auto-release",
+      "language": "Python"
+    },
+    {
+      "name": "action_test",
+      "repo": "https://github.com/kimata/action_test",
+      "language": "Python"
+    },
+    {
+      "name": "mercari_follow",
+      "repo": "https://github.com/kimata/mercari_follow",
+      "language": "Python"
+    },
+    {
+      "name": "wifi_capture",
+      "repo": "https://github.com/kimata/wifi_capture",
+      "language": "Shell"
+    },
+    {
+      "name": "RPi_CM4_Sensor",
+      "repo": "https://github.com/kimata/RPi_CM4_Sensor"
+    },
+    {
+      "name": "prometheus_smartmon_exporter",
+      "repo": "https://github.com/kimata/prometheus_smartmon_exporter",
+      "language": "Python"
+    },
+    {
+      "name": "ESP32-breakout2",
+      "repo": "https://github.com/kimata/ESP32-breakout2"
+    },
+    {
+      "name": "rasp-python",
+      "repo": "https://github.com/kimata/rasp-python",
+      "language": "Python"
+    },
+    {
+      "name": "esp32_pm25_sensor",
+      "repo": "https://github.com/kimata/esp32_pm25_sensor",
+      "language": "C"
+    },
+    {
+      "name": "yamaha_zabbix",
+      "repo": "https://github.com/kimata/yamaha_zabbix",
+      "language": "Python"
+    },
+    {
+      "name": "server_config",
+      "repo": "https://github.com/kimata/server_config",
+      "language": "Jinja"
+    },
+    {
+      "name": "wattmeter_wemo",
+      "repo": "https://github.com/kimata/wattmeter_wemo",
+      "language": "Python"
+    },
+    {
+      "name": "raspberrypi",
+      "repo": "https://github.com/kimata/raspberrypi",
+      "language": "C"
+    },
+    {
+      "name": "esp32_sps30",
+      "repo": "https://github.com/kimata/esp32_sps30",
+      "language": "C"
+    },
+    {
+      "name": "chef-cookbooks",
+      "repo": "https://github.com/kimata/chef-cookbooks",
+      "language": "HTML"
+    },
+    {
+      "name": "esp32_wifi_scan",
+      "repo": "https://github.com/kimata/esp32_wifi_scan",
+      "language": "C"
+    },
+    {
+      "name": "yamaha_lua",
+      "repo": "https://github.com/kimata/yamaha_lua",
+      "language": "Lua"
+    },
+    {
+      "name": "auto_server_fan",
+      "repo": "https://github.com/kimata/auto_server_fan",
+      "language": "Ruby"
+    },
+    {
+      "name": "pytest-test",
+      "repo": "https://github.com/kimata/pytest-test",
+      "language": "Python"
+    },
+    {
+      "name": "gitlab-local",
+      "repo": "https://github.com/kimata/gitlab-local",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/kimata/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "esp32_wifi_io",
+      "repo": "https://github.com/kimata/esp32_wifi_io",
+      "language": "C"
+    },
+    {
+      "name": "esp32_arduino_spi_slave",
+      "repo": "https://github.com/kimata/esp32_arduino_spi_slave",
+      "language": "C++"
+    },
+    {
+      "name": "esp32_wifi_adc",
+      "repo": "https://github.com/kimata/esp32_wifi_adc",
+      "language": "Vue"
+    },
+    {
+      "name": "ups_power",
+      "repo": "https://github.com/kimata/ups_power",
+      "language": "Python"
+    },
+    {
+      "name": "sensor_env",
+      "repo": "https://github.com/kimata/sensor_env",
+      "language": "Python"
+    },
+    {
+      "name": "mercari_watch",
+      "repo": "https://github.com/kimata/mercari_watch"
+    },
+    {
+      "name": "e-ink_rain-cloud_panel",
+      "repo": "https://github.com/kimata/e-ink_rain-cloud_panel",
+      "language": "Python"
+    },
+    {
+      "name": "matplotlib_signage_example",
+      "repo": "https://github.com/kimata/matplotlib_signage_example"
+    },
+    {
+      "name": "prometheus_zfs_exporter",
+      "repo": "https://github.com/kimata/prometheus_zfs_exporter"
+    },
+    {
+      "name": "nut_server",
+      "repo": "https://github.com/kimata/nut_server"
+    },
+    {
+      "name": "node_exporter",
+      "repo": "https://github.com/kimata/node_exporter"
+    },
+    {
+      "name": "amazhist",
+      "repo": "https://github.com/kimata/amazhist",
+      "language": "Ruby"
+    },
+    {
+      "name": "mod_uploader",
+      "repo": "https://github.com/kimata/mod_uploader",
+      "language": "C++"
+    },
+    {
+      "name": "norm_fs_encode",
+      "repo": "https://github.com/kimata/norm_fs_encode"
+    },
+    {
+      "name": "amazon_watch",
+      "repo": "https://github.com/kimata/amazon_watch"
+    },
+    {
+      "name": "merctrl_chrome",
+      "repo": "https://github.com/kimata/merctrl_chrome",
+      "language": "JavaScript"
+    },
+    {
+      "name": "amazhist_chrome",
+      "repo": "https://github.com/kimata/amazhist_chrome",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kindle_weather_detail",
+      "repo": "https://github.com/kimata/kindle_weather_detail"
+    },
+    {
+      "name": "esp32_edlc_sensor",
+      "repo": "https://github.com/kimata/esp32_edlc_sensor",
+      "language": "C"
+    },
+    {
+      "name": "prometheus_smart_exporter",
+      "repo": "https://github.com/kimata/prometheus_smart_exporter",
+      "language": "Python"
+    },
+    {
+      "name": "RPi_IO-Link_Hat",
+      "repo": "https://github.com/kimata/RPi_IO-Link_Hat"
+    },
+    {
+      "name": "iol_water_flow",
+      "repo": "https://github.com/kimata/iol_water_flow",
+      "language": "Python"
+    },
+    {
+      "name": "iol_level_gauge",
+      "repo": "https://github.com/kimata/iol_level_gauge"
+    },
+    {
+      "name": "esp32_ulp_rain_gauge",
+      "repo": "https://github.com/kimata/esp32_ulp_rain_gauge",
+      "language": "C"
+    },
+    {
+      "name": "homes_scraping",
+      "repo": "https://github.com/kimata/homes_scraping"
+    },
+    {
+      "name": "speed_test",
+      "repo": "https://github.com/kimata/speed_test",
+      "language": "Python"
+    }
+  ]
+}
