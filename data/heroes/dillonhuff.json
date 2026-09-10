@@ -1,0 +1,510 @@
+{
+  "handle": "dillonhuff",
+  "name": "dillonhuff",
+  "github": [
+    "https://github.com/dillonhuff"
+  ],
+  "own_repos": 204,
+  "commits": 14739,
+  "apps": [],
+  "repos": [
+    {
+      "name": "clockwork",
+      "repo": "https://github.com/dillonhuff/clockwork",
+      "language": "C++"
+    },
+    {
+      "name": "ahaHLS",
+      "repo": "https://github.com/dillonhuff/ahaHLS",
+      "language": "C++"
+    },
+    {
+      "name": "gpr",
+      "repo": "https://github.com/dillonhuff/gpr",
+      "language": "G-code"
+    },
+    {
+      "name": "VimSetup",
+      "repo": "https://github.com/dillonhuff/VimSetup",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dpgen",
+      "repo": "https://github.com/dillonhuff/dpgen",
+      "language": "Python"
+    },
+    {
+      "name": "bsim",
+      "repo": "https://github.com/dillonhuff/bsim",
+      "language": "C++"
+    },
+    {
+      "name": "pwmatrix",
+      "repo": "https://github.com/dillonhuff/pwmatrix",
+      "language": "Python"
+    },
+    {
+      "name": "units_library_talk",
+      "repo": "https://github.com/dillonhuff/units_library_talk",
+      "language": "Python"
+    },
+    {
+      "name": "numpy-power",
+      "repo": "https://github.com/dillonhuff/numpy-power",
+      "language": "Python"
+    },
+    {
+      "name": "img_test",
+      "repo": "https://github.com/dillonhuff/img_test",
+      "language": "Python"
+    },
+    {
+      "name": "LP-cpp",
+      "repo": "https://github.com/dillonhuff/LP-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "ilp-encoder-experiment",
+      "repo": "https://github.com/dillonhuff/ilp-encoder-experiment",
+      "language": "Python"
+    },
+    {
+      "name": "cs343d.github.io",
+      "repo": "https://github.com/dillonhuff/cs343d.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "envelope",
+      "repo": "https://github.com/dillonhuff/envelope",
+      "language": "HTML"
+    },
+    {
+      "name": "fpga-test",
+      "repo": "https://github.com/dillonhuff/fpga-test",
+      "language": "PureBasic"
+    },
+    {
+      "name": "minihls",
+      "repo": "https://github.com/dillonhuff/minihls",
+      "language": "C++"
+    },
+    {
+      "name": "Halide-HLS",
+      "repo": "https://github.com/dillonhuff/Halide-HLS",
+      "language": "C++"
+    },
+    {
+      "name": "magma_hls",
+      "repo": "https://github.com/dillonhuff/magma_hls",
+      "language": "Python"
+    },
+    {
+      "name": "counter-experiment",
+      "repo": "https://github.com/dillonhuff/counter-experiment",
+      "language": "C++"
+    },
+    {
+      "name": "TinyCPU",
+      "repo": "https://github.com/dillonhuff/TinyCPU",
+      "language": "Verilog"
+    },
+    {
+      "name": "CAC",
+      "repo": "https://github.com/dillonhuff/CAC",
+      "language": "C++"
+    },
+    {
+      "name": "vivado_designs",
+      "repo": "https://github.com/dillonhuff/vivado_designs",
+      "language": "Verilog"
+    },
+    {
+      "name": "axi_rtl_demo",
+      "repo": "https://github.com/dillonhuff/axi_rtl_demo",
+      "language": "Verilog"
+    },
+    {
+      "name": "sc-analyzer",
+      "repo": "https://github.com/dillonhuff/sc-analyzer",
+      "language": "C++"
+    },
+    {
+      "name": "functional-coverage",
+      "repo": "https://github.com/dillonhuff/functional-coverage",
+      "language": "C++"
+    },
+    {
+      "name": "vivado_synth",
+      "repo": "https://github.com/dillonhuff/vivado_synth",
+      "language": "Verilog"
+    },
+    {
+      "name": "xst_example",
+      "repo": "https://github.com/dillonhuff/xst_example",
+      "language": "Verilog"
+    },
+    {
+      "name": "Catapult_Example",
+      "repo": "https://github.com/dillonhuff/Catapult_Example",
+      "language": "Verilog"
+    },
+    {
+      "name": "PySystolicArray",
+      "repo": "https://github.com/dillonhuff/PySystolicArray",
+      "language": "Python"
+    },
+    {
+      "name": "SoftwareLinebuffer",
+      "repo": "https://github.com/dillonhuff/SoftwareLinebuffer",
+      "language": "C++"
+    },
+    {
+      "name": "blinky",
+      "repo": "https://github.com/dillonhuff/blinky",
+      "language": "Makefile"
+    },
+    {
+      "name": "axi-experiments",
+      "repo": "https://github.com/dillonhuff/axi-experiments",
+      "language": "Verilog"
+    },
+    {
+      "name": "icestick-uart",
+      "repo": "https://github.com/dillonhuff/icestick-uart",
+      "language": "Verilog"
+    },
+    {
+      "name": "SFGen",
+      "repo": "https://github.com/dillonhuff/SFGen",
+      "language": "Python"
+    },
+    {
+      "name": "CircuitFigures",
+      "repo": "https://github.com/dillonhuff/CircuitFigures"
+    },
+    {
+      "name": "SpecCircuit",
+      "repo": "https://github.com/dillonhuff/SpecCircuit",
+      "language": "Verilog"
+    },
+    {
+      "name": "SymbolicMatMul",
+      "repo": "https://github.com/dillonhuff/SymbolicMatMul",
+      "language": "C++"
+    },
+    {
+      "name": "scg",
+      "repo": "https://github.com/dillonhuff/scg",
+      "language": "C++"
+    },
+    {
+      "name": "FuncGen",
+      "repo": "https://github.com/dillonhuff/FuncGen",
+      "language": "C++"
+    },
+    {
+      "name": "dbhc",
+      "repo": "https://github.com/dillonhuff/dbhc",
+      "language": "C++"
+    },
+    {
+      "name": "SanBruno",
+      "repo": "https://github.com/dillonhuff/SanBruno",
+      "language": "C++"
+    },
+    {
+      "name": "VerilogToCoreIR",
+      "repo": "https://github.com/dillonhuff/VerilogToCoreIR",
+      "language": "Verilog"
+    },
+    {
+      "name": "ProcGen",
+      "repo": "https://github.com/dillonhuff/ProcGen",
+      "language": "C++"
+    },
+    {
+      "name": "ZSchedule",
+      "repo": "https://github.com/dillonhuff/ZSchedule",
+      "language": "C++"
+    },
+    {
+      "name": "TinyFPGA",
+      "repo": "https://github.com/dillonhuff/TinyFPGA",
+      "language": "C++"
+    },
+    {
+      "name": "CGRA_coreir",
+      "repo": "https://github.com/dillonhuff/CGRA_coreir",
+      "language": "SystemVerilog"
+    },
+    {
+      "name": "ncsim_cgra_test",
+      "repo": "https://github.com/dillonhuff/ncsim_cgra_test",
+      "language": "Verilog"
+    },
+    {
+      "name": "mpnr",
+      "repo": "https://github.com/dillonhuff/mpnr",
+      "language": "Verilog"
+    },
+    {
+      "name": "SystolicMatrixMultiply",
+      "repo": "https://github.com/dillonhuff/SystolicMatrixMultiply",
+      "language": "Verilog"
+    },
+    {
+      "name": "MagmaFPGA",
+      "repo": "https://github.com/dillonhuff/MagmaFPGA",
+      "language": "Python"
+    },
+    {
+      "name": "CGRA_verilog_mirror",
+      "repo": "https://github.com/dillonhuff/CGRA_verilog_mirror",
+      "language": "Verilog"
+    },
+    {
+      "name": "CGRA_partial_eval",
+      "repo": "https://github.com/dillonhuff/CGRA_partial_eval",
+      "language": "Verilog"
+    },
+    {
+      "name": "EventSim",
+      "repo": "https://github.com/dillonhuff/EventSim",
+      "language": "C++"
+    },
+    {
+      "name": "LinCAD",
+      "repo": "https://github.com/dillonhuff/LinCAD",
+      "language": "C++"
+    },
+    {
+      "name": "CoreRiscV",
+      "repo": "https://github.com/dillonhuff/CoreRiscV",
+      "language": "Verilog"
+    },
+    {
+      "name": "CGRAGenerator",
+      "repo": "https://github.com/dillonhuff/CGRAGenerator",
+      "language": "Python"
+    },
+    {
+      "name": "arena_allocator",
+      "repo": "https://github.com/dillonhuff/arena_allocator",
+      "language": "C++"
+    },
+    {
+      "name": "CoreIRBenchmarks",
+      "repo": "https://github.com/dillonhuff/CoreIRBenchmarks",
+      "language": "Verilog"
+    },
+    {
+      "name": "mma_cmp",
+      "repo": "https://github.com/dillonhuff/mma_cmp",
+      "language": "Python"
+    },
+    {
+      "name": "verilator_coresim_benchmarks",
+      "repo": "https://github.com/dillonhuff/verilator_coresim_benchmarks",
+      "language": "C++"
+    },
+    {
+      "name": "asmgen",
+      "repo": "https://github.com/dillonhuff/asmgen",
+      "language": "C++"
+    },
+    {
+      "name": "vparser",
+      "repo": "https://github.com/dillonhuff/vparser",
+      "language": "Verilog"
+    },
+    {
+      "name": "sim_conv_3_1",
+      "repo": "https://github.com/dillonhuff/sim_conv_3_1",
+      "language": "Verilog"
+    },
+    {
+      "name": "harris_sim",
+      "repo": "https://github.com/dillonhuff/harris_sim",
+      "language": "Verilog"
+    },
+    {
+      "name": "coreJIT",
+      "repo": "https://github.com/dillonhuff/coreJIT",
+      "language": "C++"
+    },
+    {
+      "name": "gca",
+      "repo": "https://github.com/dillonhuff/gca",
+      "language": "C++"
+    },
+    {
+      "name": "Proper",
+      "repo": "https://github.com/dillonhuff/Proper",
+      "language": "Haskell"
+    },
+    {
+      "name": "afk",
+      "repo": "https://github.com/dillonhuff/afk",
+      "language": "C++"
+    },
+    {
+      "name": "mac_dlopen_example",
+      "repo": "https://github.com/dillonhuff/mac_dlopen_example",
+      "language": "C++"
+    },
+    {
+      "name": "LoadStoreMachine",
+      "repo": "https://github.com/dillonhuff/LoadStoreMachine",
+      "language": "C++"
+    },
+    {
+      "name": "ResetMachine",
+      "repo": "https://github.com/dillonhuff/ResetMachine",
+      "language": "C++"
+    },
+    {
+      "name": "sim_core",
+      "repo": "https://github.com/dillonhuff/sim_core",
+      "language": "C++"
+    },
+    {
+      "name": "real_algebra",
+      "repo": "https://github.com/dillonhuff/real_algebra",
+      "language": "C++"
+    },
+    {
+      "name": "3Dprintsounds",
+      "repo": "https://github.com/dillonhuff/3Dprintsounds",
+      "language": "Python"
+    },
+    {
+      "name": "algnum",
+      "repo": "https://github.com/dillonhuff/algnum",
+      "language": "C++"
+    },
+    {
+      "name": "special_cad",
+      "repo": "https://github.com/dillonhuff/special_cad",
+      "language": "C"
+    },
+    {
+      "name": "dyadic_rational_error_after_value_between",
+      "repo": "https://github.com/dillonhuff/dyadic_rational_error_after_value_between",
+      "language": "C"
+    },
+    {
+      "name": "algebraic_number_add_libpoly",
+      "repo": "https://github.com/dillonhuff/algebraic_number_add_libpoly",
+      "language": "C"
+    },
+    {
+      "name": "collins_projection",
+      "repo": "https://github.com/dillonhuff/collins_projection",
+      "language": "Mathematica"
+    },
+    {
+      "name": "qepcad",
+      "repo": "https://github.com/dillonhuff/qepcad"
+    },
+    {
+      "name": "qecode",
+      "repo": "https://github.com/dillonhuff/qecode",
+      "language": "C++"
+    },
+    {
+      "name": "LinearRealQE",
+      "repo": "https://github.com/dillonhuff/LinearRealQE",
+      "language": "Haskell"
+    },
+    {
+      "name": "UsageStudyCpp",
+      "repo": "https://github.com/dillonhuff/UsageStudyCpp",
+      "language": "Shell"
+    },
+    {
+      "name": "fem_2d",
+      "repo": "https://github.com/dillonhuff/fem_2d",
+      "language": "C++"
+    },
+    {
+      "name": "scrape_github",
+      "repo": "https://github.com/dillonhuff/scrape_github",
+      "language": "PHP"
+    },
+    {
+      "name": "easy_polly",
+      "repo": "https://github.com/dillonhuff/easy_polly",
+      "language": "C++"
+    },
+    {
+      "name": "safe_paste",
+      "repo": "https://github.com/dillonhuff/safe_paste",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mfem_test",
+      "repo": "https://github.com/dillonhuff/mfem_test",
+      "language": "Grammatical Framework"
+    },
+    {
+      "name": "tetgen_example",
+      "repo": "https://github.com/dillonhuff/tetgen_example",
+      "language": "C++"
+    },
+    {
+      "name": "LinearQE",
+      "repo": "https://github.com/dillonhuff/LinearQE",
+      "language": "C++"
+    },
+    {
+      "name": "stam_fluid",
+      "repo": "https://github.com/dillonhuff/stam_fluid",
+      "language": "C++"
+    },
+    {
+      "name": "RealAlgebra",
+      "repo": "https://github.com/dillonhuff/RealAlgebra",
+      "language": "Haskell"
+    },
+    {
+      "name": "linkage_solver",
+      "repo": "https://github.com/dillonhuff/linkage_solver",
+      "language": "C++"
+    },
+    {
+      "name": "simple_fluid",
+      "repo": "https://github.com/dillonhuff/simple_fluid",
+      "language": "C++"
+    },
+    {
+      "name": "sparse_octree",
+      "repo": "https://github.com/dillonhuff/sparse_octree",
+      "language": "C++"
+    },
+    {
+      "name": "lldb_plugin",
+      "repo": "https://github.com/dillonhuff/lldb_plugin",
+      "language": "Python"
+    },
+    {
+      "name": "func_test",
+      "repo": "https://github.com/dillonhuff/func_test",
+      "language": "C++"
+    },
+    {
+      "name": "vtkpolydata_basics",
+      "repo": "https://github.com/dillonhuff/vtkpolydata_basics",
+      "language": "C++"
+    },
+    {
+      "name": "gca_gui",
+      "repo": "https://github.com/dillonhuff/gca_gui",
+      "language": "C++"
+    },
+    {
+      "name": "mini-cmake-qt-vtk-cgal",
+      "repo": "https://github.com/dillonhuff/mini-cmake-qt-vtk-cgal",
+      "language": "C++"
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "handle": "codingitwrong",
+  "name": "Josh Justice",
+  "github": [
+    "https://github.com/codingitwrong"
+  ],
+  "website": "https://gitlab.com/codingitwrong",
+  "bio": "Developer, author, speaker, and trainer focused on testing, test-driven development, refactoring, and evolutionary design.",
+  "own_repos": 201,
+  "commits": 10978,
+  "apps": [],
+  "repos": [
+    {
+      "name": "riverbed-api",
+      "repo": "https://github.com/CodingItWrong/riverbed-api",
+      "url": "https://about.riverbed.app",
+      "language": "Ruby"
+    },
+    {
+      "name": "webhooks",
+      "repo": "https://github.com/CodingItWrong/webhooks",
+      "language": "Ruby"
+    },
+    {
+      "name": "personal-web-share",
+      "repo": "https://github.com/CodingItWrong/personal-web-share",
+      "url": "https://pws.joshjustice.com",
+      "language": "SCSS"
+    },
+    {
+      "name": "jsonapi-client",
+      "repo": "https://github.com/CodingItWrong/jsonapi-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "outsidein.dev",
+      "repo": "https://github.com/CodingItWrong/outsidein.dev",
+      "url": "https://outsidein.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-native-style-queries",
+      "repo": "https://github.com/CodingItWrong/react-native-style-queries",
+      "language": "JavaScript"
+    },
+    {
+      "name": "surely-api",
+      "repo": "https://github.com/CodingItWrong/surely-api",
+      "url": "https://surelytodo.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "outside_in_dev_api",
+      "repo": "https://github.com/CodingItWrong/outside_in_dev_api",
+      "url": "https://outside-in-dev-api.herokuapp.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "monster-truck-game-page",
+      "repo": "https://github.com/CodingItWrong/monster-truck-game-page",
+      "language": "HTML"
+    },
+    {
+      "name": "ipad-traffic-light-repro",
+      "repo": "https://github.com/CodingItWrong/ipad-traffic-light-repro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "codingitwrong.com",
+      "repo": "https://github.com/CodingItWrong/codingitwrong.com",
+      "url": "https://codingitwrong.com",
+      "language": "HTML"
+    },
+    {
+      "name": "riverbed-web",
+      "repo": "https://github.com/CodingItWrong/riverbed-web",
+      "url": "https://about.riverbed.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "riverbed-ios",
+      "repo": "https://github.com/CodingItWrong/riverbed-ios",
+      "url": "https://about.riverbed.app",
+      "language": "Swift"
+    },
+    {
+      "name": "reactnativetesting.io",
+      "repo": "https://github.com/CodingItWrong/reactnativetesting.io",
+      "url": "https://reactnativetesting.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shorten_rb",
+      "repo": "https://github.com/CodingItWrong/shorten_rb",
+      "url": "https://gitlab.com/codingitwrong/shorten_rb",
+      "language": "Ruby"
+    },
+    {
+      "name": "assurance",
+      "repo": "https://github.com/CodingItWrong/assurance",
+      "language": "JavaScript"
+    },
+    {
+      "name": "about-riverbed",
+      "repo": "https://github.com/CodingItWrong/about-riverbed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slapdash",
+      "repo": "https://github.com/CodingItWrong/slapdash",
+      "url": "https://slapdash.codingitwrong.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "user-modifiable-software",
+      "repo": "https://github.com/CodingItWrong/user-modifiable-software",
+      "language": "HTML"
+    },
+    {
+      "name": "me",
+      "repo": "https://github.com/CodingItWrong/me",
+      "language": "HTML"
+    },
+    {
+      "name": "firehose-api",
+      "repo": "https://github.com/CodingItWrong/firehose-api",
+      "language": "Ruby"
+    },
+    {
+      "name": "firehose-web",
+      "repo": "https://github.com/CodingItWrong/firehose-web",
+      "language": "JavaScript"
+    },
+    {
+      "name": "webpack-react",
+      "repo": "https://github.com/CodingItWrong/webpack-react",
+      "language": "JavaScript"
+    },
+    {
+      "name": "maestro-tap-on-id-text-repro",
+      "repo": "https://github.com/CodingItWrong/maestro-tap-on-id-text-repro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sandbox_api",
+      "repo": "https://github.com/CodingItWrong/sandbox_api",
+      "url": "https://sandbox.howtojsonapi.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "howtojsonapi.com",
+      "repo": "https://github.com/CodingItWrong/howtojsonapi.com",
+      "language": "HTML"
+    },
+    {
+      "name": "jessup",
+      "repo": "https://github.com/CodingItWrong/jessup",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graphql-typescript-stack",
+      "repo": "https://github.com/CodingItWrong/graphql-typescript-stack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rails_7_book",
+      "repo": "https://github.com/CodingItWrong/rails_7_book",
+      "url": "https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/",
+      "language": "Ruby"
+    },
+    {
+      "name": "flutter_xckd_app",
+      "repo": "https://github.com/CodingItWrong/flutter_xckd_app",
+      "language": "Dart"
+    },
+    {
+      "name": "ios-essentials-quiz",
+      "repo": "https://github.com/CodingItWrong/ios-essentials-quiz",
+      "language": "Swift"
+    },
+    {
+      "name": "ios-essentials-world-trotter",
+      "repo": "https://github.com/CodingItWrong/ios-essentials-world-trotter",
+      "language": "Swift"
+    },
+    {
+      "name": "ios-essentials-loot-logger",
+      "repo": "https://github.com/CodingItWrong/ios-essentials-loot-logger",
+      "language": "Swift"
+    },
+    {
+      "name": "flutter_calculator",
+      "repo": "https://github.com/CodingItWrong/flutter_calculator",
+      "language": "C++"
+    },
+    {
+      "name": "jekyll-theme-codingitwrong",
+      "repo": "https://github.com/CodingItWrong/jekyll-theme-codingitwrong",
+      "language": "CSS"
+    },
+    {
+      "name": "rails-eb",
+      "repo": "https://github.com/CodingItWrong/rails-eb",
+      "language": "Ruby"
+    },
+    {
+      "name": "drizzle-orm-sandbox",
+      "repo": "https://github.com/CodingItWrong/drizzle-orm-sandbox",
+      "url": "https://orm.drizzle.team/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-typescript",
+      "repo": "https://github.com/CodingItWrong/node-typescript",
+      "language": "TypeScript"
+    },
+    {
+      "name": "amplifyapp",
+      "repo": "https://github.com/CodingItWrong/amplifyapp",
+      "url": "https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dynamic-import-error-boundaries",
+      "repo": "https://github.com/CodingItWrong/dynamic-import-error-boundaries",
+      "language": "JavaScript"
+    },
+    {
+      "name": "joshjustice.com",
+      "repo": "https://github.com/CodingItWrong/joshjustice.com",
+      "language": "SCSS"
+    },
+    {
+      "name": "riverbed-tributary",
+      "repo": "https://github.com/CodingItWrong/riverbed-tributary",
+      "language": "Swift"
+    },
+    {
+      "name": "rtl-exercises",
+      "repo": "https://github.com/CodingItWrong/rtl-exercises",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rn-testing-exercises",
+      "repo": "https://github.com/CodingItWrong/rn-testing-exercises",
+      "language": "JavaScript"
+    },
+    {
+      "name": "no-comment-uikit-swift-file-template",
+      "repo": "https://github.com/CodingItWrong/no-comment-uikit-swift-file-template",
+      "language": "Swift"
+    },
+    {
+      "name": "RNCLIMaestroSandbox",
+      "repo": "https://github.com/CodingItWrong/RNCLIMaestroSandbox",
+      "url": "https://github.com/CodingItWrong/RNCLIMaestroSandbox/actions",
+      "language": "Java"
+    },
+    {
+      "name": "rn-testing-lecture-sandbox",
+      "repo": "https://github.com/CodingItWrong/rn-testing-lecture-sandbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "paper-sandbox",
+      "repo": "https://github.com/CodingItWrong/paper-sandbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "apiup",
+      "repo": "https://github.com/CodingItWrong/apiup",
+      "language": "Ruby"
+    },
+    {
+      "name": "jsdoc-sublime-snippets",
+      "repo": "https://github.com/CodingItWrong/jsdoc-sublime-snippets"
+    },
+    {
+      "name": "shia_labeouf",
+      "repo": "https://github.com/CodingItWrong/shia_labeouf",
+      "url": "https://rubygems.org/gems/shia_labeouf",
+      "language": "Ruby"
+    },
+    {
+      "name": "expo-testing-sandbox",
+      "repo": "https://github.com/CodingItWrong/expo-testing-sandbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "RNCLITestingSandbox2",
+      "repo": "https://github.com/CodingItWrong/RNCLITestingSandbox2",
+      "language": "Java"
+    },
+    {
+      "name": "react-testing-exercises",
+      "repo": "https://github.com/CodingItWrong/react-testing-exercises",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typelink-shutdown-page",
+      "repo": "https://github.com/CodingItWrong/typelink-shutdown-page",
+      "language": "HTML"
+    },
+    {
+      "name": "opinion-ate-react",
+      "repo": "https://github.com/CodingItWrong/opinion-ate-react",
+      "url": "https://outsidein.dev/book",
+      "language": "JavaScript"
+    },
+    {
+      "name": "RNTestingCLI",
+      "repo": "https://github.com/CodingItWrong/RNTestingCLI",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rn-testing-expo",
+      "repo": "https://github.com/CodingItWrong/rn-testing-expo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jest-isequal-undefined-array-element",
+      "repo": "https://github.com/CodingItWrong/jest-isequal-undefined-array-element",
+      "url": "https://github.com/facebook/jest/issues/13885",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rn-speech-to-text-bug",
+      "repo": "https://github.com/CodingItWrong/rn-speech-to-text-bug",
+      "language": "Java"
+    },
+    {
+      "name": "rn_testing_api",
+      "repo": "https://github.com/CodingItWrong/rn_testing_api",
+      "language": "Ruby"
+    },
+    {
+      "name": "railsup",
+      "repo": "https://github.com/CodingItWrong/railsup",
+      "language": "Ruby"
+    },
+    {
+      "name": "lifelog",
+      "repo": "https://github.com/CodingItWrong/lifelog",
+      "language": "Ruby"
+    },
+    {
+      "name": "firehose-expo",
+      "repo": "https://github.com/CodingItWrong/firehose-expo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rnweb-workshop-app",
+      "repo": "https://github.com/CodingItWrong/rnweb-workshop-app",
+      "url": "https://codingitwrong.com/workshops/rnweb/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typelink-web",
+      "repo": "https://github.com/CodingItWrong/typelink-web",
+      "language": "Groovy"
+    },
+    {
+      "name": "typelink-ios",
+      "repo": "https://github.com/CodingItWrong/typelink-ios",
+      "language": "Objective-C"
+    },
+    {
+      "name": "intro-to-rntl-exercises",
+      "repo": "https://github.com/CodingItWrong/intro-to-rntl-exercises",
+      "url": "https://reactnativetesting.io/reactadvanced22/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-sublime-snippets",
+      "repo": "https://github.com/CodingItWrong/react-sublime-snippets"
+    },
+    {
+      "name": "eslint-sublime-snippets",
+      "repo": "https://github.com/CodingItWrong/eslint-sublime-snippets"
+    },
+    {
+      "name": "markua-sublime-snippets",
+      "repo": "https://github.com/CodingItWrong/markua-sublime-snippets"
+    },
+    {
+      "name": "ribbons-api",
+      "repo": "https://github.com/CodingItWrong/ribbons-api",
+      "language": "Ruby"
+    },
+    {
+      "name": "mui-link-font-size",
+      "repo": "https://github.com/CodingItWrong/mui-link-font-size",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jest-sublime-snippets",
+      "repo": "https://github.com/CodingItWrong/jest-sublime-snippets"
+    },
+    {
+      "name": "nativeup",
+      "repo": "https://github.com/CodingItWrong/nativeup",
+      "language": "Shell"
+    },
+    {
+      "name": "getting-better-expo",
+      "repo": "https://github.com/CodingItWrong/getting-better-expo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rn-testing-recipes",
+      "repo": "https://github.com/CodingItWrong/rn-testing-recipes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-nav-sandbox",
+      "repo": "https://github.com/CodingItWrong/react-nav-sandbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spring-boot-video-games",
+      "repo": "https://github.com/CodingItWrong/spring-boot-video-games",
+      "url": "https://codingitwrong.com/2019/05/13/spring-framework-an-opinionated-intro.html",
+      "language": "Java"
+    },
+    {
+      "name": "ideas-api",
+      "repo": "https://github.com/CodingItWrong/ideas-api",
+      "language": "Ruby"
+    },
+    {
+      "name": "enlighter-jsx",
+      "repo": "https://github.com/CodingItWrong/enlighter-jsx"
+    },
+    {
+      "name": "emily-jokes",
+      "repo": "https://github.com/CodingItWrong/emily-jokes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ideas-ember",
+      "repo": "https://github.com/CodingItWrong/ideas-ember",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jessup-cra",
+      "repo": "https://github.com/CodingItWrong/jessup-cra",
+      "language": "JavaScript"
+    },
+    {
+      "name": "JessupDetoxCITest",
+      "repo": "https://github.com/CodingItWrong/JessupDetoxCITest",
+      "language": "Java"
+    },
+    {
+      "name": "surely-ember",
+      "repo": "https://github.com/CodingItWrong/surely-ember",
+      "url": "https://surelytodo.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ribbons-ember",
+      "repo": "https://github.com/CodingItWrong/ribbons-ember",
+      "language": "JavaScript"
+    },
+    {
+      "name": "firehose-ember",
+      "repo": "https://github.com/CodingItWrong/firehose-ember",
+      "language": "JavaScript"
+    },
+    {
+      "name": "DetoxCIApp",
+      "repo": "https://github.com/CodingItWrong/DetoxCIApp",
+      "url": "https://dev.to/edvinasbartkus/running-react-native-detox-tests-for-ios-and-android-on-github-actions-2ekn",
+      "language": "Java"
+    },
+    {
+      "name": "reactup",
+      "repo": "https://github.com/CodingItWrong/reactup",
+      "language": "Shell"
+    },
+    {
+      "name": "rn-cli-jest-28-errors",
+      "repo": "https://github.com/CodingItWrong/rn-cli-jest-28-errors",
+      "language": "Java"
+    },
+    {
+      "name": "docup",
+      "repo": "https://github.com/CodingItWrong/docup",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reactnativetesting-cli-sandbox",
+      "repo": "https://github.com/CodingItWrong/reactnativetesting-cli-sandbox",
+      "url": "https://reactnativetesting.io",
+      "language": "Java"
+    },
+    {
+      "name": "reactnativetesting-expo-sandbox",
+      "repo": "https://github.com/CodingItWrong/reactnativetesting-expo-sandbox",
+      "url": "https://reactnativetesting.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "99bottles_js",
+      "repo": "https://github.com/CodingItWrong/99bottles_js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "emily-tictactoe",
+      "repo": "https://github.com/CodingItWrong/emily-tictactoe",
+      "language": "Vue"
+    },
+    {
+      "name": "mindset",
+      "repo": "https://github.com/CodingItWrong/mindset",
+      "language": "Ruby"
+    },
+    {
+      "name": "okra-api",
+      "repo": "https://github.com/CodingItWrong/okra-api",
+      "language": "Ruby"
+    },
+    {
+      "name": "knausj_talon_userconfig",
+      "repo": "https://github.com/CodingItWrong/knausj_talon_userconfig",
+      "language": "Shell"
+    },
+    {
+      "name": "ember-paper-layout",
+      "repo": "https://github.com/CodingItWrong/ember-paper-layout",
+      "language": "JavaScript"
+    }
+  ]
+}

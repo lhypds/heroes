@@ -1,0 +1,521 @@
+{
+  "handle": "ncaq",
+  "name": "ncaq",
+  "github": [
+    "https://github.com/ncaq"
+  ],
+  "website": "https://www.ncaq.net/about/",
+  "bio": "エヌユル is my Japanese name. Haskell TypeScript Emacs Web NLP",
+  "own_repos": 102,
+  "commits": 21431,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/ncaq/dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "blue-prompt",
+      "repo": "https://github.com/ncaq/blue-prompt",
+      "language": "F#"
+    },
+    {
+      "name": "google-search-title-qualified",
+      "repo": "https://github.com/ncaq/google-search-title-qualified",
+      "language": "TypeScript"
+    },
+    {
+      "name": "www.ncaq.net",
+      "repo": "https://github.com/ncaq/www.ncaq.net",
+      "url": "https://www.ncaq.net/",
+      "language": "CSS"
+    },
+    {
+      "name": "nix-templates",
+      "repo": "https://github.com/ncaq/nix-templates",
+      "language": "Nix"
+    },
+    {
+      "name": ".emacs.d",
+      "repo": "https://github.com/ncaq/.emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "surfingkeys-config",
+      "repo": "https://github.com/ncaq/surfingkeys-config",
+      "language": "JavaScript"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/ncaq/renovate-config",
+      "language": "Nix"
+    },
+    {
+      "name": "git-hooks",
+      "repo": "https://github.com/ncaq/git-hooks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "himari",
+      "repo": "https://github.com/ncaq/himari",
+      "url": "https://hackage.haskell.org/package/himari",
+      "language": "Dhall"
+    },
+    {
+      "name": "konoka",
+      "repo": "https://github.com/ncaq/konoka",
+      "language": "TypeScript"
+    },
+    {
+      "name": "goodbye-rfc-2822-date-time",
+      "repo": "https://github.com/ncaq/goodbye-rfc-2822-date-time",
+      "language": "TypeScript"
+    },
+    {
+      "name": "infra.ncaq.net",
+      "repo": "https://github.com/ncaq/infra.ncaq.net",
+      "language": "HCL"
+    },
+    {
+      "name": "kyosei-action",
+      "repo": "https://github.com/ncaq/kyosei-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cdn.ncaq.net",
+      "repo": "https://github.com/ncaq/cdn.ncaq.net",
+      "language": "Nix"
+    },
+    {
+      "name": "pppset",
+      "repo": "https://github.com/ncaq/pppset",
+      "language": "TeX"
+    },
+    {
+      "name": "ncaq.net",
+      "repo": "https://github.com/ncaq/ncaq.net",
+      "language": "Nix"
+    },
+    {
+      "name": ".xmonad",
+      "repo": "https://github.com/ncaq/.xmonad",
+      "language": "Haskell"
+    },
+    {
+      "name": "uBlacklistRule",
+      "repo": "https://github.com/ncaq/uBlacklistRule",
+      "language": "Haskell"
+    },
+    {
+      "name": "firge-nix",
+      "repo": "https://github.com/ncaq/firge-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-composite-action",
+      "repo": "https://github.com/ncaq/nix-composite-action",
+      "language": "Nix"
+    },
+    {
+      "name": "auto-sudoedit",
+      "repo": "https://github.com/ncaq/auto-sudoedit",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": ".zsh.d",
+      "repo": "https://github.com/ncaq/.zsh.d",
+      "language": "Shell"
+    },
+    {
+      "name": "typespec-ts-another-mode",
+      "repo": "https://github.com/ncaq/typespec-ts-another-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "yesod-recaptcha2",
+      "repo": "https://github.com/ncaq/yesod-recaptcha2",
+      "language": "Haskell"
+    },
+    {
+      "name": "yesod-form-bootstrap4",
+      "repo": "https://github.com/ncaq/yesod-form-bootstrap4",
+      "language": "Haskell"
+    },
+    {
+      "name": "stable-diffusion-nix",
+      "repo": "https://github.com/ncaq/stable-diffusion-nix",
+      "language": "Nix"
+    },
+    {
+      "name": ".xkeysnail",
+      "repo": "https://github.com/ncaq/.xkeysnail",
+      "language": "Python"
+    },
+    {
+      "name": "point-undo",
+      "repo": "https://github.com/ncaq/point-undo",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "replace-bodge-font",
+      "repo": "https://github.com/ncaq/replace-bodge-font",
+      "url": "https://userstyles.world/style/8341/replace-bodge-font",
+      "language": "SCSS"
+    },
+    {
+      "name": "wikipedia_solarized_dark_for_programmer",
+      "repo": "https://github.com/ncaq/wikipedia_solarized_dark_for_programmer",
+      "url": "https://userstyles.world/style/8335/wikipedia-solarized-dark-for-programmer",
+      "language": "SCSS"
+    },
+    {
+      "name": "syosetu.com_stylesheet",
+      "repo": "https://github.com/ncaq/syosetu.com_stylesheet",
+      "url": "https://userstyles.world/style/8337/syosetu-com-solarized-dark",
+      "language": "SCSS"
+    },
+    {
+      "name": "keyhac-config",
+      "repo": "https://github.com/ncaq/keyhac-config",
+      "language": "Python"
+    },
+    {
+      "name": "homura-stopwatch",
+      "repo": "https://github.com/ncaq/homura-stopwatch",
+      "language": "Haskell"
+    },
+    {
+      "name": "winconf",
+      "repo": "https://github.com/ncaq/winconf",
+      "language": "PowerShell"
+    },
+    {
+      "name": "kaisui",
+      "repo": "https://github.com/ncaq/kaisui",
+      "language": "Nix"
+    },
+    {
+      "name": "ncaq-overlay",
+      "repo": "https://github.com/ncaq/ncaq-overlay",
+      "language": "Shell"
+    },
+    {
+      "name": "etc-portage",
+      "repo": "https://github.com/ncaq/etc-portage",
+      "language": "Shell"
+    },
+    {
+      "name": "take-extra-field",
+      "repo": "https://github.com/ncaq/take-extra-field",
+      "language": "Haskell"
+    },
+    {
+      "name": "gentoo-kernel-config",
+      "repo": "https://github.com/ncaq/gentoo-kernel-config"
+    },
+    {
+      "name": "dic-nico-intersection-pixiv",
+      "repo": "https://github.com/ncaq/dic-nico-intersection-pixiv",
+      "url": "https://raw.githubusercontent.com/ncaq/dic-nico-intersection-pixiv/master/public/dic-nico-intersection-pixiv-google.txt",
+      "language": "Haskell"
+    },
+    {
+      "name": "anti-idle",
+      "repo": "https://github.com/ncaq/anti-idle",
+      "language": "PowerShell"
+    },
+    {
+      "name": "anti-user-select-killer",
+      "repo": "https://github.com/ncaq/anti-user-select-killer",
+      "url": "https://userstyles.world/style/8340/anti-user-select-killer",
+      "language": "CSS"
+    },
+    {
+      "name": "ncaq-emacs-utils",
+      "repo": "https://github.com/ncaq/ncaq-emacs-utils",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mikutter",
+      "repo": "https://github.com/ncaq/mikutter",
+      "language": "Ruby"
+    },
+    {
+      "name": "google_expand",
+      "repo": "https://github.com/ncaq/google_expand",
+      "url": "https://userstyles.world/style/8339/google-expand",
+      "language": "CSS"
+    },
+    {
+      "name": "recentf-remove-sudo-tramp-prefix",
+      "repo": "https://github.com/ncaq/recentf-remove-sudo-tramp-prefix",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ISHOCON1-webapp-ruby",
+      "repo": "https://github.com/ncaq/ISHOCON1-webapp-ruby",
+      "language": "Ruby"
+    },
+    {
+      "name": "un-block-and-mute-all",
+      "repo": "https://github.com/ncaq/un-block-and-mute-all",
+      "language": "Haskell"
+    },
+    {
+      "name": "mikutter_post_it_with_slack",
+      "repo": "https://github.com/ncaq/mikutter_post_it_with_slack",
+      "language": "Ruby"
+    },
+    {
+      "name": "mikutter_header_client",
+      "repo": "https://github.com/ncaq/mikutter_header_client",
+      "language": "Ruby"
+    },
+    {
+      "name": ".wild-bind",
+      "repo": "https://github.com/ncaq/.wild-bind",
+      "language": "Haskell"
+    },
+    {
+      "name": "sub-maude",
+      "repo": "https://github.com/ncaq/sub-maude",
+      "language": "Haskell"
+    },
+    {
+      "name": "unown-expl",
+      "repo": "https://github.com/ncaq/unown-expl",
+      "language": "Haskell"
+    },
+    {
+      "name": "sclude",
+      "repo": "https://github.com/ncaq/sclude",
+      "language": "TypeScript"
+    },
+    {
+      "name": "erueru-tree",
+      "repo": "https://github.com/ncaq/erueru-tree",
+      "language": "TypeScript"
+    },
+    {
+      "name": "string-transform",
+      "repo": "https://github.com/ncaq/string-transform",
+      "url": "https://www.stackage.org/package/string-transform",
+      "language": "Haskell"
+    },
+    {
+      "name": "uniq-deep",
+      "repo": "https://github.com/ncaq/uniq-deep",
+      "language": "Haskell"
+    },
+    {
+      "name": "atcoder-code",
+      "repo": "https://github.com/ncaq/atcoder-code",
+      "language": "D"
+    },
+    {
+      "name": "nlod",
+      "repo": "https://github.com/ncaq/nlod",
+      "url": "https://cdn.ncaq.net/nlod.txt",
+      "language": "Haskell"
+    },
+    {
+      "name": "symbolword-mode",
+      "repo": "https://github.com/ncaq/symbolword-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "syakerake-build",
+      "repo": "https://github.com/ncaq/syakerake-build",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "corenlp-server",
+      "repo": "https://github.com/ncaq/corenlp-server",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "aoj-code",
+      "repo": "https://github.com/ncaq/aoj-code",
+      "language": "Ruby"
+    },
+    {
+      "name": "ttrss-dvorak_right_key",
+      "repo": "https://github.com/ncaq/ttrss-dvorak_right_key",
+      "language": "PHP"
+    },
+    {
+      "name": "haskell-echo-info",
+      "repo": "https://github.com/ncaq/haskell-echo-info",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dogd",
+      "repo": "https://github.com/ncaq/dogd",
+      "language": "D"
+    },
+    {
+      "name": "oool",
+      "repo": "https://github.com/ncaq/oool",
+      "language": "C++"
+    },
+    {
+      "name": "mikutter_post_sync_clipboard",
+      "repo": "https://github.com/ncaq/mikutter_post_sync_clipboard",
+      "language": "Ruby"
+    },
+    {
+      "name": "haskell-import-graph",
+      "repo": "https://github.com/ncaq/haskell-import-graph",
+      "language": "Haskell"
+    },
+    {
+      "name": "try-pandoc-with-file",
+      "repo": "https://github.com/ncaq/try-pandoc-with-file",
+      "url": "https://try-pandoc-with-file.ncaq.net/",
+      "language": "Haskell"
+    },
+    {
+      "name": "flycheck-ensime",
+      "repo": "https://github.com/ncaq/flycheck-ensime",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "rustgle",
+      "repo": "https://github.com/ncaq/rustgle",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-crate-acme-everything",
+      "repo": "https://github.com/ncaq/rust-crate-acme-everything",
+      "language": "HTML"
+    },
+    {
+      "name": ".percol.d",
+      "repo": "https://github.com/ncaq/.percol.d",
+      "language": "Python"
+    },
+    {
+      "name": "gloss-bump",
+      "repo": "https://github.com/ncaq/gloss-bump",
+      "language": "Haskell"
+    },
+    {
+      "name": "tokio-chat-server",
+      "repo": "https://github.com/ncaq/tokio-chat-server",
+      "language": "Rust"
+    },
+    {
+      "name": "debug-trace-var",
+      "repo": "https://github.com/ncaq/debug-trace-var",
+      "language": "Haskell"
+    },
+    {
+      "name": "cielspada",
+      "repo": "https://github.com/ncaq/cielspada",
+      "language": "HTML"
+    },
+    {
+      "name": "hamlet-mode",
+      "repo": "https://github.com/ncaq/hamlet-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pixplus",
+      "repo": "https://github.com/ncaq/pixplus",
+      "language": "JavaScript"
+    },
+    {
+      "name": "usoting",
+      "repo": "https://github.com/ncaq/usoting",
+      "language": "JavaScript"
+    },
+    {
+      "name": "radixconv",
+      "repo": "https://github.com/ncaq/radixconv",
+      "language": "Java"
+    },
+    {
+      "name": "NoveIf",
+      "repo": "https://github.com/ncaq/NoveIf"
+    },
+    {
+      "name": "poker",
+      "repo": "https://github.com/ncaq/poker",
+      "language": "C++"
+    },
+    {
+      "name": "chat.sd",
+      "repo": "https://github.com/ncaq/chat.sd",
+      "language": "Java"
+    },
+    {
+      "name": "prohell",
+      "repo": "https://github.com/ncaq/prohell",
+      "language": "Ruby"
+    },
+    {
+      "name": "lgbtpzn",
+      "repo": "https://github.com/ncaq/lgbtpzn"
+    },
+    {
+      "name": "mikutter_open_in_browser",
+      "repo": "https://github.com/ncaq/mikutter_open_in_browser",
+      "language": "Ruby"
+    },
+    {
+      "name": "new-year-card-address-new",
+      "repo": "https://github.com/ncaq/new-year-card-address-new",
+      "language": "Haskell"
+    },
+    {
+      "name": "qanctt",
+      "repo": "https://github.com/ncaq/qanctt",
+      "language": "Haskell"
+    },
+    {
+      "name": "upgrade",
+      "repo": "https://github.com/ncaq/upgrade",
+      "language": "Shell"
+    },
+    {
+      "name": "eslint-plugin-julius",
+      "repo": "https://github.com/ncaq/eslint-plugin-julius",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ticketol",
+      "repo": "https://github.com/ncaq/ticketol",
+      "language": "Ruby"
+    },
+    {
+      "name": "pandoc-minted",
+      "repo": "https://github.com/ncaq/pandoc-minted",
+      "language": "Haskell"
+    },
+    {
+      "name": "android_patches",
+      "repo": "https://github.com/ncaq/android_patches"
+    },
+    {
+      "name": "to-safe-name",
+      "repo": "https://github.com/ncaq/to-safe-name",
+      "language": "Haskell"
+    },
+    {
+      "name": "pandoc-include",
+      "repo": "https://github.com/ncaq/pandoc-include",
+      "language": "Haskell"
+    },
+    {
+      "name": "pandoc-autocomplete-caption",
+      "repo": "https://github.com/ncaq/pandoc-autocomplete-caption",
+      "language": "Haskell"
+    },
+    {
+      "name": "run-or-raise",
+      "repo": "https://github.com/ncaq/run-or-raise",
+      "language": "CMake"
+    }
+  ]
+}

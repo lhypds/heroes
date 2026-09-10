@@ -1,0 +1,507 @@
+{
+  "handle": "tumf",
+  "name": "tumf",
+  "github": [
+    "https://github.com/tumf"
+  ],
+  "website": "https://dev.to/tumf",
+  "own_repos": 154,
+  "commits": 10951,
+  "apps": [],
+  "repos": [
+    {
+      "name": "conflux",
+      "repo": "https://github.com/tumf/conflux",
+      "url": "https://dev.to/tumf/conflux-release-a-spec-driven-orchestrator-for-parallel-ai-development-2gbc",
+      "language": "Rust"
+    },
+    {
+      "name": "mcp-text-editor",
+      "repo": "https://github.com/tumf/mcp-text-editor",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-shell-server",
+      "repo": "https://github.com/tumf/mcp-shell-server",
+      "language": "Python"
+    },
+    {
+      "name": "agent-exec",
+      "repo": "https://github.com/tumf/agent-exec",
+      "language": "Rust"
+    },
+    {
+      "name": "conflux-herdr",
+      "repo": "https://github.com/tumf/conflux-herdr",
+      "language": "Shell"
+    },
+    {
+      "name": "kani",
+      "repo": "https://github.com/tumf/kani",
+      "language": "Python"
+    },
+    {
+      "name": "slack-rs",
+      "repo": "https://github.com/tumf/slack-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "review-gauntlet",
+      "repo": "https://github.com/tumf/review-gauntlet",
+      "language": "Python"
+    },
+    {
+      "name": "airplane-boarding-simulation",
+      "repo": "https://github.com/tumf/airplane-boarding-simulation",
+      "language": "Python"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/tumf/skills",
+      "language": "Python"
+    },
+    {
+      "name": "tumf",
+      "repo": "https://github.com/tumf/tumf"
+    },
+    {
+      "name": "xcom-rs",
+      "repo": "https://github.com/tumf/xcom-rs",
+      "url": "https://blog.tumf.dev/posts/diary/2026/2/6/agentic-cli-design-principles/",
+      "language": "Rust"
+    },
+    {
+      "name": "fastmcp-gsuite",
+      "repo": "https://github.com/tumf/fastmcp-gsuite",
+      "language": "Python"
+    },
+    {
+      "name": "hermes-agent",
+      "repo": "https://github.com/tumf/hermes-agent",
+      "url": "https://hermes-agent.nousresearch.com",
+      "language": "Python"
+    },
+    {
+      "name": "agent-skills-rs",
+      "repo": "https://github.com/tumf/agent-skills-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-profile-examples",
+      "repo": "https://github.com/tumf/agent-profile-examples",
+      "language": "Shell"
+    },
+    {
+      "name": "cflx-skills",
+      "repo": "https://github.com/tumf/cflx-skills",
+      "language": "Python"
+    },
+    {
+      "name": "self-learning-web-adapter",
+      "repo": "https://github.com/tumf/self-learning-web-adapter",
+      "language": "Python"
+    },
+    {
+      "name": "bernoulli-interactive",
+      "repo": "https://github.com/tumf/bernoulli-interactive",
+      "language": "JavaScript"
+    },
+    {
+      "name": "greats-soul-archive",
+      "repo": "https://github.com/tumf/greats-soul-archive",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/tumf/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "tmux-try",
+      "repo": "https://github.com/tumf/tmux-try",
+      "language": "Shell"
+    },
+    {
+      "name": "movie-generator",
+      "repo": "https://github.com/tumf/movie-generator",
+      "language": "Python"
+    },
+    {
+      "name": "opencode-openai-device-auth",
+      "repo": "https://github.com/tumf/opencode-openai-device-auth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clawdbot-config",
+      "repo": "https://github.com/tumf/clawdbot-config"
+    },
+    {
+      "name": "2026-01-23-Qwen3-TTS",
+      "repo": "https://github.com/tumf/2026-01-23-Qwen3-TTS",
+      "language": "Python"
+    },
+    {
+      "name": "wt",
+      "repo": "https://github.com/tumf/wt",
+      "language": "Shell"
+    },
+    {
+      "name": "jj-desc",
+      "repo": "https://github.com/tumf/jj-desc",
+      "language": "Rust"
+    },
+    {
+      "name": "grafana-loki-mcp",
+      "repo": "https://github.com/tumf/grafana-loki-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "local-logs",
+      "repo": "https://github.com/tumf/local-logs",
+      "language": "HTML"
+    },
+    {
+      "name": "SuperOpenCode",
+      "repo": "https://github.com/tumf/SuperOpenCode"
+    },
+    {
+      "name": "ubuntu-cli-toolbox",
+      "repo": "https://github.com/tumf/ubuntu-cli-toolbox",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "oneoff-docker-runner",
+      "repo": "https://github.com/tumf/oneoff-docker-runner",
+      "language": "Python"
+    },
+    {
+      "name": "fibonacci",
+      "repo": "https://github.com/tumf/fibonacci",
+      "language": "Rust"
+    },
+    {
+      "name": "wkm_token_project",
+      "repo": "https://github.com/tumf/wkm_token_project",
+      "language": "JavaScript"
+    },
+    {
+      "name": "i18n-app-translator",
+      "repo": "https://github.com/tumf/i18n-app-translator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web3-mcp",
+      "repo": "https://github.com/tumf/web3-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "todoist-CLI",
+      "repo": "https://github.com/tumf/todoist-CLI",
+      "language": "Python"
+    },
+    {
+      "name": "interactive-hello-world",
+      "repo": "https://github.com/tumf/interactive-hello-world",
+      "language": "HTML"
+    },
+    {
+      "name": "pol-eth-bridge-test-1",
+      "repo": "https://github.com/tumf/pol-eth-bridge-test-1",
+      "language": "Python"
+    },
+    {
+      "name": "solana-copy-trader",
+      "repo": "https://github.com/tumf/solana-copy-trader",
+      "url": "https://solana-copy-trader.tumf.jp/",
+      "language": "Python"
+    },
+    {
+      "name": "gcal-block-scheduler",
+      "repo": "https://github.com/tumf/gcal-block-scheduler",
+      "language": "Python"
+    },
+    {
+      "name": "gcal-make-provisional-booking",
+      "repo": "https://github.com/tumf/gcal-make-provisional-booking",
+      "language": "Python"
+    },
+    {
+      "name": "tmp-image",
+      "repo": "https://github.com/tumf/tmp-image"
+    },
+    {
+      "name": "freee-download_all_files",
+      "repo": "https://github.com/tumf/freee-download_all_files",
+      "language": "Python"
+    },
+    {
+      "name": "apple-3d-model",
+      "repo": "https://github.com/tumf/apple-3d-model",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pgbouncer",
+      "repo": "https://github.com/tumf/pgbouncer",
+      "language": "Shell"
+    },
+    {
+      "name": "n8n-openapi-node-plugin-generator",
+      "repo": "https://github.com/tumf/n8n-openapi-node-plugin-generator",
+      "language": "Python"
+    },
+    {
+      "name": "mycode-scraper",
+      "repo": "https://github.com/tumf/mycode-scraper",
+      "language": "Python"
+    },
+    {
+      "name": "n8n-nodes-docusign",
+      "repo": "https://github.com/tumf/n8n-nodes-docusign",
+      "language": "TypeScript"
+    },
+    {
+      "name": "merge_pdfs",
+      "repo": "https://github.com/tumf/merge_pdfs",
+      "language": "Python"
+    },
+    {
+      "name": "sort-obsidian-mds",
+      "repo": "https://github.com/tumf/sort-obsidian-mds",
+      "language": "Python"
+    },
+    {
+      "name": "todo-planner",
+      "repo": "https://github.com/tumf/todo-planner",
+      "language": "Python"
+    },
+    {
+      "name": "readthedocs-tutorial-template",
+      "repo": "https://github.com/tumf/readthedocs-tutorial-template",
+      "language": "Python"
+    },
+    {
+      "name": "nft-metadata-proxy",
+      "repo": "https://github.com/tumf/nft-metadata-proxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rocksdb-nodejs-sample",
+      "repo": "https://github.com/tumf/rocksdb-nodejs-sample",
+      "language": "JavaScript"
+    },
+    {
+      "name": "solidity-gas-saving-study",
+      "repo": "https://github.com/tumf/solidity-gas-saving-study",
+      "language": "JavaScript"
+    },
+    {
+      "name": "maintenance",
+      "repo": "https://github.com/tumf/maintenance",
+      "language": "HTML"
+    },
+    {
+      "name": "eth-genkey",
+      "repo": "https://github.com/tumf/eth-genkey",
+      "language": "JavaScript"
+    },
+    {
+      "name": "solana-invoker",
+      "repo": "https://github.com/tumf/solana-invoker"
+    },
+    {
+      "name": "hackmd-cli-api",
+      "repo": "https://github.com/tumf/hackmd-cli-api",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-bitcoin",
+      "repo": "https://github.com/tumf/docker-bitcoin",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shell-jsonrpc",
+      "repo": "https://github.com/tumf/shell-jsonrpc",
+      "language": "Ruby"
+    },
+    {
+      "name": "imagemagick-jsonrpc",
+      "repo": "https://github.com/tumf/imagemagick-jsonrpc",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "sinatra-cloudrun",
+      "repo": "https://github.com/tumf/sinatra-cloudrun",
+      "language": "Ruby"
+    },
+    {
+      "name": "gargor",
+      "repo": "https://github.com/tumf/gargor",
+      "url": "https://github.com/tumf/gargor",
+      "language": "Ruby"
+    },
+    {
+      "name": "cci-java-w-ruby",
+      "repo": "https://github.com/tumf/cci-java-w-ruby",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "traefik-webrouter",
+      "repo": "https://github.com/tumf/traefik-webrouter",
+      "language": "Shell"
+    },
+    {
+      "name": "rocksdb-ruby-docker",
+      "repo": "https://github.com/tumf/rocksdb-ruby-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "zenn-contents",
+      "repo": "https://github.com/tumf/zenn-contents"
+    },
+    {
+      "name": "init-ubuntu",
+      "repo": "https://github.com/tumf/init-ubuntu"
+    },
+    {
+      "name": "ansible-role-systemd-service",
+      "repo": "https://github.com/tumf/ansible-role-systemd-service",
+      "url": "https://github.com/tumf/ansible-role-systemd-service",
+      "language": "Shell"
+    },
+    {
+      "name": "profile",
+      "repo": "https://github.com/tumf/profile"
+    },
+    {
+      "name": "react-hello",
+      "repo": "https://github.com/tumf/react-hello",
+      "url": "https://codesandbox.io/s/github/tumf/react-hello",
+      "language": "HTML"
+    },
+    {
+      "name": "study-git-crypt",
+      "repo": "https://github.com/tumf/study-git-crypt",
+      "url": "https://gitpitch.com/tumf/study-git-crypt"
+    },
+    {
+      "name": "docker-kong",
+      "repo": "https://github.com/tumf/docker-kong",
+      "language": "Shell"
+    },
+    {
+      "name": "dot.emacs.d",
+      "repo": "https://github.com/tumf/dot.emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "keystorage",
+      "repo": "https://github.com/tumf/keystorage",
+      "language": "Ruby"
+    },
+    {
+      "name": "nildns",
+      "repo": "https://github.com/tumf/nildns",
+      "language": "Go"
+    },
+    {
+      "name": "docker-nodejs",
+      "repo": "https://github.com/tumf/docker-nodejs"
+    },
+    {
+      "name": "phantomjs-study",
+      "repo": "https://github.com/tumf/phantomjs-study"
+    },
+    {
+      "name": "geth-docker",
+      "repo": "https://github.com/tumf/geth-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "vagrant-ansible_local-centos7-sample",
+      "repo": "https://github.com/tumf/vagrant-ansible_local-centos7-sample"
+    },
+    {
+      "name": "ansible-role-docker-compose",
+      "repo": "https://github.com/tumf/ansible-role-docker-compose",
+      "url": "https://github.com/tumf/ansible-role-docker-compose",
+      "language": "Shell"
+    },
+    {
+      "name": "openstack-nova-ha-tools",
+      "repo": "https://github.com/tumf/openstack-nova-ha-tools",
+      "url": "https://github.com/tumf/openstack-nova-ha-tools",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-unit-test",
+      "repo": "https://github.com/tumf/ansible-unit-test",
+      "url": "https://github.com/tumf/ansible-unit-test",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-glusterfs",
+      "repo": "https://github.com/tumf/ansible-role-glusterfs",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-openstack-cinder-volume",
+      "repo": "https://github.com/tumf/ansible-role-openstack-cinder-volume",
+      "language": "Shell"
+    },
+    {
+      "name": "exodus",
+      "repo": "https://github.com/tumf/exodus"
+    },
+    {
+      "name": "ansible-role-docker-machine",
+      "repo": "https://github.com/tumf/ansible-role-docker-machine",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-systemd-docker_service",
+      "repo": "https://github.com/tumf/ansible-role-systemd-docker_service",
+      "url": "https://github.com/tumf/ansible-role-systemd-docker_service",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-test",
+      "repo": "https://github.com/tumf/ansible-role-test"
+    },
+    {
+      "name": "xenserver-kickstarter",
+      "repo": "https://github.com/tumf/xenserver-kickstarter",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-unit-test-sample",
+      "repo": "https://github.com/tumf/ansible-unit-test-sample",
+      "language": "Shell"
+    },
+    {
+      "name": "slowsel",
+      "repo": "https://github.com/tumf/slowsel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "geth",
+      "repo": "https://github.com/tumf/geth"
+    },
+    {
+      "name": "xen-3.3.1",
+      "repo": "https://github.com/tumf/xen-3.3.1",
+      "language": "C"
+    },
+    {
+      "name": "docker-php",
+      "repo": "https://github.com/tumf/docker-php"
+    },
+    {
+      "name": "jenkins-rvm",
+      "repo": "https://github.com/tumf/jenkins-rvm"
+    },
+    {
+      "name": "docker-network",
+      "repo": "https://github.com/tumf/docker-network"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "handle": "kmalakoff",
+  "name": "Kevin Malakoff",
+  "github": [
+    "https://github.com/kmalakoff"
+  ],
+  "bio": "Over 30 years experience delivering engaging software products in web, mobile, and video games.",
+  "own_repos": 181,
+  "commits": 14957,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mock-require-lazy",
+      "repo": "https://github.com/kmalakoff/mock-require-lazy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "7z-iterator",
+      "repo": "https://github.com/kmalakoff/7z-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fast-extract",
+      "repo": "https://github.com/kmalakoff/fast-extract",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sensemaking",
+      "repo": "https://github.com/kmalakoff/sensemaking",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zip-iterator",
+      "repo": "https://github.com/kmalakoff/zip-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tar-iterator",
+      "repo": "https://github.com/kmalakoff/tar-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "install-module-linked",
+      "repo": "https://github.com/kmalakoff/install-module-linked",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-install-release",
+      "repo": "https://github.com/kmalakoff/node-install-release",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-dev-stack",
+      "repo": "https://github.com/kmalakoff/ts-dev-stack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-swc-loaders",
+      "repo": "https://github.com/kmalakoff/ts-swc-loaders",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-swc-transform",
+      "repo": "https://github.com/kmalakoff/ts-swc-transform",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-web-test-runner",
+      "repo": "https://github.com/kmalakoff/tsds-web-test-runner",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dis-dat",
+      "repo": "https://github.com/kmalakoff/dis-dat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "install-module-linked-compat",
+      "repo": "https://github.com/kmalakoff/install-module-linked-compat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "xz-compat",
+      "repo": "https://github.com/kmalakoff/xz-compat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "extract-base-iterator",
+      "repo": "https://github.com/kmalakoff/extract-base-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stack-base-iterator",
+      "repo": "https://github.com/kmalakoff/stack-base-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "maximize-iterator",
+      "repo": "https://github.com/kmalakoff/maximize-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "parser-multipart",
+      "repo": "https://github.com/kmalakoff/parser-multipart",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pdf-to-md",
+      "repo": "https://github.com/kmalakoff/pdf-to-md",
+      "url": "https://kmalakoff.github.io/pdf-to-md/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-mocha",
+      "repo": "https://github.com/kmalakoff/tsds-mocha",
+      "language": "TypeScript"
+    },
+    {
+      "name": "async-compat",
+      "repo": "https://github.com/kmalakoff/async-compat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jsbi-compat",
+      "repo": "https://github.com/kmalakoff/jsbi-compat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-filename-to-dist-paths",
+      "repo": "https://github.com/kmalakoff/node-filename-to-dist-paths",
+      "language": "TypeScript"
+    },
+    {
+      "name": "get-remote",
+      "repo": "https://github.com/kmalakoff/get-remote",
+      "language": "TypeScript"
+    },
+    {
+      "name": "version-string-to-version",
+      "repo": "https://github.com/kmalakoff/version-string-to-version",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-resolve-versions",
+      "repo": "https://github.com/kmalakoff/node-resolve-versions",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-semvers",
+      "repo": "https://github.com/kmalakoff/node-semvers",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-version-install",
+      "repo": "https://github.com/kmalakoff/node-version-install",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spawn-term",
+      "repo": "https://github.com/kmalakoff/spawn-term",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fetch-json-cache",
+      "repo": "https://github.com/kmalakoff/fetch-json-cache",
+      "language": "TypeScript"
+    },
+    {
+      "name": "each-package",
+      "repo": "https://github.com/kmalakoff/each-package",
+      "language": "TypeScript"
+    },
+    {
+      "name": "big-int-stats",
+      "repo": "https://github.com/kmalakoff/big-int-stats",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dirent-from-stats",
+      "repo": "https://github.com/kmalakoff/dirent-from-stats",
+      "language": "TypeScript"
+    },
+    {
+      "name": "npm-check-prepublish",
+      "repo": "https://github.com/kmalakoff/npm-check-prepublish",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fs-generate",
+      "repo": "https://github.com/kmalakoff/fs-generate",
+      "language": "TypeScript"
+    },
+    {
+      "name": "read-tsconfig-sync",
+      "repo": "https://github.com/kmalakoff/read-tsconfig-sync",
+      "language": "TypeScript"
+    },
+    {
+      "name": "spawn-streaming",
+      "repo": "https://github.com/kmalakoff/spawn-streaming",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fs-remove-compat",
+      "repo": "https://github.com/kmalakoff/fs-remove-compat",
+      "language": "HTML"
+    },
+    {
+      "name": "topological-sort-group",
+      "repo": "https://github.com/kmalakoff/topological-sort-group",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fs-iterator",
+      "repo": "https://github.com/kmalakoff/fs-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-version-use",
+      "repo": "https://github.com/kmalakoff/node-version-use",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esm-import-directory",
+      "repo": "https://github.com/kmalakoff/esm-import-directory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esm-require-directory",
+      "repo": "https://github.com/kmalakoff/esm-require-directory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "walk-filtered",
+      "repo": "https://github.com/kmalakoff/walk-filtered",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fs-copy-compat",
+      "repo": "https://github.com/kmalakoff/fs-copy-compat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "join-deep",
+      "repo": "https://github.com/kmalakoff/join-deep",
+      "language": "TypeScript"
+    },
+    {
+      "name": "module-compat",
+      "repo": "https://github.com/kmalakoff/module-compat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "queue-cb",
+      "repo": "https://github.com/kmalakoff/queue-cb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-plugin-dev-server",
+      "repo": "https://github.com/kmalakoff/esbuild-plugin-dev-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "keyv-duckdb",
+      "repo": "https://github.com/kmalakoff/keyv-duckdb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "response-iterator",
+      "repo": "https://github.com/kmalakoff/response-iterator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-native-contains",
+      "repo": "https://github.com/kmalakoff/react-native-contains",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-dom-event",
+      "repo": "https://github.com/kmalakoff/react-dom-event",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-dom-outside",
+      "repo": "https://github.com/kmalakoff/react-dom-outside",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-ref-boundary",
+      "repo": "https://github.com/kmalakoff/react-ref-boundary",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-lib-test",
+      "repo": "https://github.com/kmalakoff/tsds-lib-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-publish",
+      "repo": "https://github.com/kmalakoff/tsds-publish",
+      "language": "TypeScript"
+    },
+    {
+      "name": "backbone-modelref",
+      "repo": "https://github.com/kmalakoff/backbone-modelref",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fetch-http-message",
+      "repo": "https://github.com/kmalakoff/fetch-http-message",
+      "language": "TypeScript"
+    },
+    {
+      "name": "path-string-prepend",
+      "repo": "https://github.com/kmalakoff/path-string-prepend",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reduce-deep",
+      "repo": "https://github.com/kmalakoff/reduce-deep",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sequelize-parse-url",
+      "repo": "https://github.com/kmalakoff/sequelize-parse-url",
+      "language": "TypeScript"
+    },
+    {
+      "name": "test-match",
+      "repo": "https://github.com/kmalakoff/test-match",
+      "language": "TypeScript"
+    },
+    {
+      "name": "topological-scheduler",
+      "repo": "https://github.com/kmalakoff/topological-scheduler",
+      "language": "TypeScript"
+    },
+    {
+      "name": "portable-env",
+      "repo": "https://github.com/kmalakoff/portable-env",
+      "language": "TypeScript"
+    },
+    {
+      "name": "on-one",
+      "repo": "https://github.com/kmalakoff/on-one",
+      "language": "CSS"
+    },
+    {
+      "name": "isflattenable",
+      "repo": "https://github.com/kmalakoff/isflattenable",
+      "language": "TypeScript"
+    },
+    {
+      "name": "every-async",
+      "repo": "https://github.com/kmalakoff/every-async",
+      "language": "TypeScript"
+    },
+    {
+      "name": "call-once-fn",
+      "repo": "https://github.com/kmalakoff/call-once-fn",
+      "language": "TypeScript"
+    },
+    {
+      "name": "call-once-next-tick",
+      "repo": "https://github.com/kmalakoff/call-once-next-tick",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-swc-rollup-plugin",
+      "repo": "https://github.com/kmalakoff/ts-swc-rollup-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-validate",
+      "repo": "https://github.com/kmalakoff/tsds-validate",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-unlink",
+      "repo": "https://github.com/kmalakoff/tsds-unlink",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-version",
+      "repo": "https://github.com/kmalakoff/tsds-version",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-typedoc",
+      "repo": "https://github.com/kmalakoff/tsds-typedoc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-link",
+      "repo": "https://github.com/kmalakoff/tsds-link",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-karma",
+      "repo": "https://github.com/kmalakoff/tsds-karma",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-lib",
+      "repo": "https://github.com/kmalakoff/tsds-lib",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-c8",
+      "repo": "https://github.com/kmalakoff/tsds-c8",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-install",
+      "repo": "https://github.com/kmalakoff/tsds-install",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-build",
+      "repo": "https://github.com/kmalakoff/tsds-build",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-native-event",
+      "repo": "https://github.com/kmalakoff/react-native-event",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-native-outside",
+      "repo": "https://github.com/kmalakoff/react-native-outside",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds-config",
+      "repo": "https://github.com/kmalakoff/tsds-config"
+    },
+    {
+      "name": "tsds-biome",
+      "repo": "https://github.com/kmalakoff/tsds-biome",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsds",
+      "repo": "https://github.com/kmalakoff/tsds",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ts-constants",
+      "repo": "https://github.com/kmalakoff/ts-constants",
+      "language": "TypeScript"
+    },
+    {
+      "name": "resolve-once-map",
+      "repo": "https://github.com/kmalakoff/resolve-once-map",
+      "language": "TypeScript"
+    },
+    {
+      "name": "resolve-once-map-cb",
+      "repo": "https://github.com/kmalakoff/resolve-once-map-cb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "resolve-once",
+      "repo": "https://github.com/kmalakoff/resolve-once",
+      "language": "TypeScript"
+    },
+    {
+      "name": "resolve-once-cb",
+      "repo": "https://github.com/kmalakoff/resolve-once-cb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "npm-needs-publish",
+      "repo": "https://github.com/kmalakoff/npm-needs-publish",
+      "language": "TypeScript"
+    },
+    {
+      "name": "terminal-model",
+      "repo": "https://github.com/kmalakoff/terminal-model",
+      "language": "TypeScript"
+    },
+    {
+      "name": "resolve-bin-sync",
+      "repo": "https://github.com/kmalakoff/resolve-bin-sync",
+      "language": "CSS"
+    },
+    {
+      "name": "module-which",
+      "repo": "https://github.com/kmalakoff/module-which",
+      "language": "TypeScript"
+    },
+    {
+      "name": "module-link-unlink",
+      "repo": "https://github.com/kmalakoff/module-link-unlink",
+      "language": "TypeScript"
+    },
+    {
+      "name": "module-root-sync",
+      "repo": "https://github.com/kmalakoff/module-root-sync",
+      "language": "TypeScript"
+    },
+    {
+      "name": "link-unlink",
+      "repo": "https://github.com/kmalakoff/link-unlink",
+      "language": "TypeScript"
+    },
+    {
+      "name": "install-optional",
+      "repo": "https://github.com/kmalakoff/install-optional",
+      "language": "TypeScript"
+    }
+  ]
+}

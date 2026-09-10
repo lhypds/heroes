@@ -1,0 +1,479 @@
+{
+  "handle": "rydnr",
+  "name": "rydnr",
+  "github": [
+    "https://github.com/rydnr"
+  ],
+  "own_repos": 127,
+  "commits": 67721,
+  "apps": [],
+  "repos": [
+    {
+      "name": "nixos-config",
+      "repo": "https://github.com/rydnr/nixos-config",
+      "language": "Nix"
+    },
+    {
+      "name": "esenciaycambio-website",
+      "repo": "https://github.com/rydnr/esenciaycambio-website",
+      "language": "CSS"
+    },
+    {
+      "name": "nix-flakes",
+      "repo": "https://github.com/rydnr/nix-flakes",
+      "language": "Nix"
+    },
+    {
+      "name": "dry-wit",
+      "repo": "https://github.com/rydnr/dry-wit",
+      "language": "Shell"
+    },
+    {
+      "name": "bytehot",
+      "repo": "https://github.com/rydnr/bytehot",
+      "language": "Java"
+    },
+    {
+      "name": "dockerfile-maven-plugin",
+      "repo": "https://github.com/rydnr/dockerfile-maven-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "java-commons",
+      "repo": "https://github.com/rydnr/java-commons",
+      "language": "Java"
+    },
+    {
+      "name": "acmsl-pom",
+      "repo": "https://github.com/rydnr/acmsl-pom"
+    },
+    {
+      "name": "java-commons-infrastructure",
+      "repo": "https://github.com/rydnr/java-commons-infrastructure"
+    },
+    {
+      "name": "metaphysical-scene-weaver",
+      "repo": "https://github.com/rydnr/metaphysical-scene-weaver",
+      "language": "Python"
+    },
+    {
+      "name": "typescript-eda",
+      "repo": "https://github.com/rydnr/typescript-eda",
+      "language": "TypeScript"
+    },
+    {
+      "name": "semantest",
+      "repo": "https://github.com/rydnr/semantest"
+    },
+    {
+      "name": "chatgpt-buddy",
+      "repo": "https://github.com/rydnr/chatgpt-buddy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "set-square-phusion-images",
+      "repo": "https://github.com/rydnr/set-square-phusion-images",
+      "language": "Shell"
+    },
+    {
+      "name": "java-hotswap",
+      "repo": "https://github.com/rydnr/java-hotswap",
+      "language": "Java"
+    },
+    {
+      "name": "storytelling",
+      "repo": "https://github.com/rydnr/storytelling",
+      "language": "Python"
+    },
+    {
+      "name": "alarm-clock-firefox-extension",
+      "repo": "https://github.com/rydnr/alarm-clock-firefox-extension"
+    },
+    {
+      "name": "iceberg2nix",
+      "repo": "https://github.com/rydnr/iceberg2nix"
+    },
+    {
+      "name": "pharo-eda-core",
+      "repo": "https://github.com/rydnr/pharo-eda-core",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "object-diff",
+      "repo": "https://github.com/rydnr/object-diff",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "babymock2",
+      "repo": "https://github.com/rydnr/babymock2",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "emacs",
+      "repo": "https://github.com/rydnr/emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ld_preload",
+      "repo": "https://github.com/rydnr/ld_preload",
+      "language": "Nix"
+    },
+    {
+      "name": "queryj",
+      "repo": "https://github.com/rydnr/queryj",
+      "language": "Java"
+    },
+    {
+      "name": "voice-cloning",
+      "repo": "https://github.com/rydnr/voice-cloning",
+      "language": "Nix"
+    },
+    {
+      "name": "queryj-def",
+      "repo": "https://github.com/rydnr/queryj-def"
+    },
+    {
+      "name": "nix-dry-wit-scripts",
+      "repo": "https://github.com/rydnr/nix-dry-wit-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "nix-flake-python-antlr4-parser",
+      "repo": "https://github.com/rydnr/nix-flake-python-antlr4-parser",
+      "language": "Python"
+    },
+    {
+      "name": "basics-pytorch",
+      "repo": "https://github.com/rydnr/basics-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "nix-flake-to-graphviz",
+      "repo": "https://github.com/rydnr/nix-flake-to-graphviz",
+      "language": "Python"
+    },
+    {
+      "name": "basics-ollama",
+      "repo": "https://github.com/rydnr/basics-ollama",
+      "language": "Nix"
+    },
+    {
+      "name": "python-nix-flake-generator",
+      "repo": "https://github.com/rydnr/python-nix-flake-generator",
+      "language": "Python"
+    },
+    {
+      "name": "python-nix-flake-generator-client",
+      "repo": "https://github.com/rydnr/python-nix-flake-generator-client",
+      "language": "Python"
+    },
+    {
+      "name": "python-nix-flake-recipes",
+      "repo": "https://github.com/rydnr/python-nix-flake-recipes",
+      "language": "Python"
+    },
+    {
+      "name": "queryj-sql",
+      "repo": "https://github.com/rydnr/queryj-sql",
+      "language": "Java"
+    },
+    {
+      "name": "queryj-jdbc-sample",
+      "repo": "https://github.com/rydnr/queryj-jdbc-sample"
+    },
+    {
+      "name": "checkthread-recovered",
+      "repo": "https://github.com/rydnr/checkthread-recovered",
+      "language": "Java"
+    },
+    {
+      "name": "k8s-nix",
+      "repo": "https://github.com/rydnr/k8s-nix"
+    },
+    {
+      "name": "codelesscode-web-app",
+      "repo": "https://github.com/rydnr/codelesscode-web-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nixos-kubernetes",
+      "repo": "https://github.com/rydnr/nixos-kubernetes",
+      "language": "Nix"
+    },
+    {
+      "name": "nixos-cert-functions",
+      "repo": "https://github.com/rydnr/nixos-cert-functions",
+      "language": "Nix"
+    },
+    {
+      "name": "nixos-kubernetes-removeme",
+      "repo": "https://github.com/rydnr/nixos-kubernetes-removeme"
+    },
+    {
+      "name": "basics-langchain",
+      "repo": "https://github.com/rydnr/basics-langchain"
+    },
+    {
+      "name": "ansi-color-paint",
+      "repo": "https://github.com/rydnr/ansi-color-paint",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nixos-configs",
+      "repo": "https://github.com/rydnr/nixos-configs",
+      "language": "Nix"
+    },
+    {
+      "name": "rydnr",
+      "repo": "https://github.com/rydnr/rydnr"
+    },
+    {
+      "name": "update-sha256-in-nix-flake",
+      "repo": "https://github.com/rydnr/update-sha256-in-nix-flake",
+      "language": "Nix"
+    },
+    {
+      "name": "ai-rbui-2023-slides",
+      "repo": "https://github.com/rydnr/ai-rbui-2023-slides",
+      "language": "HTML"
+    },
+    {
+      "name": ".walkmod-code-conventions.rt",
+      "repo": "https://github.com/rydnr/.walkmod-code-conventions.rt",
+      "language": "Java"
+    },
+    {
+      "name": "llm-toolbox",
+      "repo": "https://github.com/rydnr/llm-toolbox"
+    },
+    {
+      "name": "pythoneda-rydnr",
+      "repo": "https://github.com/rydnr/pythoneda-rydnr",
+      "language": "Python"
+    },
+    {
+      "name": "one-click-hugo-cms",
+      "repo": "https://github.com/rydnr/one-click-hugo-cms",
+      "language": "CSS"
+    },
+    {
+      "name": "kata-antlr4-netty-RT",
+      "repo": "https://github.com/rydnr/kata-antlr4-netty-RT",
+      "language": "Java"
+    },
+    {
+      "name": "hydra-sample",
+      "repo": "https://github.com/rydnr/hydra-sample",
+      "language": "Nix"
+    },
+    {
+      "name": "tdd-react-exercises",
+      "repo": "https://github.com/rydnr/tdd-react-exercises",
+      "language": "JavaScript"
+    },
+    {
+      "name": "manning-getting_started_with_jupyter_notebook",
+      "repo": "https://github.com/rydnr/manning-getting_started_with_jupyter_notebook"
+    },
+    {
+      "name": "asyncapi-generator-java-pojo-template",
+      "repo": "https://github.com/rydnr/asyncapi-generator-java-pojo-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pharo-eda-peers",
+      "repo": "https://github.com/rydnr/pharo-eda-peers",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "gradle-pharo",
+      "repo": "https://github.com/rydnr/gradle-pharo",
+      "language": "Shell"
+    },
+    {
+      "name": "pharo-eda-docker-images",
+      "repo": "https://github.com/rydnr/pharo-eda-docker-images",
+      "language": "Shell"
+    },
+    {
+      "name": "micronaut-aws-lambda-2022-march",
+      "repo": "https://github.com/rydnr/micronaut-aws-lambda-2022-march",
+      "language": "Java"
+    },
+    {
+      "name": "demo",
+      "repo": "https://github.com/rydnr/demo"
+    },
+    {
+      "name": "liveproject-wasls",
+      "repo": "https://github.com/rydnr/liveproject-wasls",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kata-antlr4-netty",
+      "repo": "https://github.com/rydnr/kata-antlr4-netty",
+      "language": "Java"
+    },
+    {
+      "name": "dry-wit-smalltalk",
+      "repo": "https://github.com/rydnr/dry-wit-smalltalk",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "rydnr-overlay",
+      "repo": "https://github.com/rydnr/rydnr-overlay",
+      "language": "Nix"
+    },
+    {
+      "name": "pharo-training",
+      "repo": "https://github.com/rydnr/pharo-training"
+    },
+    {
+      "name": "AdventOfCode2020",
+      "repo": "https://github.com/rydnr/AdventOfCode2020"
+    },
+    {
+      "name": "pharo-workbench",
+      "repo": "https://github.com/rydnr/pharo-workbench",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "pharo-workbench-baseline",
+      "repo": "https://github.com/rydnr/pharo-workbench-baseline",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "markdown-to-revealjs",
+      "repo": "https://github.com/rydnr/markdown-to-revealjs"
+    },
+    {
+      "name": "generativity",
+      "repo": "https://github.com/rydnr/generativity",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "user-config",
+      "repo": "https://github.com/rydnr/user-config",
+      "language": "Haskell"
+    },
+    {
+      "name": "learning-geb",
+      "repo": "https://github.com/rydnr/learning-geb"
+    },
+    {
+      "name": "set-square-alpine-images",
+      "repo": "https://github.com/rydnr/set-square-alpine-images",
+      "language": "Shell"
+    },
+    {
+      "name": "codelesscode-web",
+      "repo": "https://github.com/rydnr/codelesscode-web"
+    },
+    {
+      "name": "codelesscode-docker",
+      "repo": "https://github.com/rydnr/codelesscode-docker"
+    },
+    {
+      "name": "codelesscode-core",
+      "repo": "https://github.com/rydnr/codelesscode-core"
+    },
+    {
+      "name": "codelesscode",
+      "repo": "https://github.com/rydnr/codelesscode"
+    },
+    {
+      "name": "dockerhub-test",
+      "repo": "https://github.com/rydnr/dockerhub-test"
+    },
+    {
+      "name": "acmsl-site",
+      "repo": "https://github.com/rydnr/acmsl-site"
+    },
+    {
+      "name": "rydnr.github.io",
+      "repo": "https://github.com/rydnr/rydnr.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "links",
+      "repo": "https://github.com/rydnr/links"
+    },
+    {
+      "name": "book-reviews",
+      "repo": "https://github.com/rydnr/book-reviews"
+    },
+    {
+      "name": "iofocus",
+      "repo": "https://github.com/rydnr/iofocus"
+    },
+    {
+      "name": "learn-puppet",
+      "repo": "https://github.com/rydnr/learn-puppet"
+    },
+    {
+      "name": ".l-code",
+      "repo": "https://github.com/rydnr/.l-code"
+    },
+    {
+      "name": ".j-code",
+      "repo": "https://github.com/rydnr/.j-code"
+    },
+    {
+      "name": "pagecare-landing",
+      "repo": "https://github.com/rydnr/pagecare-landing",
+      "language": "Smalltalk"
+    },
+    {
+      "name": "firefoxtabs2getboo",
+      "repo": "https://github.com/rydnr/firefoxtabs2getboo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-katas",
+      "repo": "https://github.com/rydnr/python-katas",
+      "language": "Python"
+    },
+    {
+      "name": "kodi-oreilly-plugin",
+      "repo": "https://github.com/rydnr/kodi-oreilly-plugin"
+    },
+    {
+      "name": "cmf",
+      "repo": "https://github.com/rydnr/cmf",
+      "language": "Shell"
+    },
+    {
+      "name": ".dockerfile-maven-plugin.rt",
+      "repo": "https://github.com/rydnr/.dockerfile-maven-plugin.rt",
+      "language": "Java"
+    },
+    {
+      "name": "codemotion-2014",
+      "repo": "https://github.com/rydnr/codemotion-2014",
+      "language": "TeX"
+    },
+    {
+      "name": ".cmf.RT",
+      "repo": "https://github.com/rydnr/.cmf.RT",
+      "language": "C"
+    },
+    {
+      "name": ".subuser-cura.rt",
+      "repo": "https://github.com/rydnr/.subuser-cura.rt"
+    },
+    {
+      "name": "subuser-cura",
+      "repo": "https://github.com/rydnr/subuser-cura"
+    },
+    {
+      "name": ".lc.rt",
+      "repo": "https://github.com/rydnr/.lc.rt",
+      "language": "Python"
+    },
+    {
+      "name": "lc",
+      "repo": "https://github.com/rydnr/lc",
+      "language": "Python"
+    }
+  ]
+}

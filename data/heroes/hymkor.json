@@ -1,0 +1,544 @@
+{
+  "handle": "hymkor",
+  "name": "HAYAMA Kaoru",
+  "github": [
+    "https://github.com/hymkor"
+  ],
+  "bio": "A programmer #golang #C++#Lua #Oracle #VB.Net #PowerShell",
+  "own_repos": 195,
+  "commits": 10586,
+  "apps": [],
+  "repos": [
+    {
+      "name": "melw",
+      "repo": "https://github.com/hymkor/melw",
+      "language": "CSS"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/hymkor/scoop-bucket",
+      "language": "PowerShell"
+    },
+    {
+      "name": "csvi",
+      "repo": "https://github.com/hymkor/csvi",
+      "url": "https://hymkor.github.io/csvi/",
+      "language": "Go"
+    },
+    {
+      "name": "struct2flag",
+      "repo": "https://github.com/hymkor/struct2flag",
+      "url": "https://pkg.go.dev/github.com/hymkor/struct2flag",
+      "language": "Go"
+    },
+    {
+      "name": "expect",
+      "repo": "https://github.com/hymkor/expect",
+      "language": "Go"
+    },
+    {
+      "name": "hymkor",
+      "repo": "https://github.com/hymkor/hymkor"
+    },
+    {
+      "name": "study-go-arg0",
+      "repo": "https://github.com/hymkor/study-go-arg0",
+      "language": "Go"
+    },
+    {
+      "name": "jegan",
+      "repo": "https://github.com/hymkor/jegan",
+      "url": "https://hymkor.github.io/jegan/",
+      "language": "Go"
+    },
+    {
+      "name": "nemo",
+      "repo": "https://github.com/hymkor/nemo",
+      "url": "https://pkg.go.dev/github.com/hymkor/nemo",
+      "language": "Go"
+    },
+    {
+      "name": "study-join-go",
+      "repo": "https://github.com/hymkor/study-join-go",
+      "language": "Go"
+    },
+    {
+      "name": "go-until-eof",
+      "repo": "https://github.com/hymkor/go-until-eof",
+      "language": "Go"
+    },
+    {
+      "name": "go-dupfiles",
+      "repo": "https://github.com/hymkor/go-dupfiles",
+      "language": "Go"
+    },
+    {
+      "name": "cure",
+      "repo": "https://github.com/hymkor/cure",
+      "language": "Go"
+    },
+    {
+      "name": "sqlbless",
+      "repo": "https://github.com/hymkor/sqlbless",
+      "url": "https://hymkor.github.io/sqlbless/",
+      "language": "Go"
+    },
+    {
+      "name": "ucmdsh",
+      "repo": "https://github.com/hymkor/ucmdsh",
+      "language": "Go"
+    },
+    {
+      "name": "go-multiline-ny",
+      "repo": "https://github.com/hymkor/go-multiline-ny",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-multiline-ny",
+      "language": "Go"
+    },
+    {
+      "name": "syncstamp",
+      "repo": "https://github.com/hymkor/syncstamp",
+      "language": "Go"
+    },
+    {
+      "name": "rmdirsonly",
+      "repo": "https://github.com/hymkor/rmdirsonly",
+      "url": "https://hymkor.github.io/rmdirsonly/",
+      "language": "Makefile"
+    },
+    {
+      "name": "www-mpe.cheme.kyoto-u.ac.jp_hayama",
+      "repo": "https://github.com/hymkor/www-mpe.cheme.kyoto-u.ac.jp_hayama",
+      "url": "https://hymkor.github.io/www-mpe.cheme.kyoto-u.ac.jp_hayama/",
+      "language": "HTML"
+    },
+    {
+      "name": "downpour",
+      "repo": "https://github.com/hymkor/downpour",
+      "language": "Go"
+    },
+    {
+      "name": "jrep",
+      "repo": "https://github.com/hymkor/jrep",
+      "language": "Go"
+    },
+    {
+      "name": "bine",
+      "repo": "https://github.com/hymkor/bine",
+      "url": "https://hymkor.github.io/bine/",
+      "language": "Go"
+    },
+    {
+      "name": "test-go-tty",
+      "repo": "https://github.com/hymkor/test-go-tty",
+      "language": "Go"
+    },
+    {
+      "name": "comprejson",
+      "repo": "https://github.com/hymkor/comprejson",
+      "language": "Go"
+    },
+    {
+      "name": "gm",
+      "repo": "https://github.com/hymkor/gm",
+      "language": "Go"
+    },
+    {
+      "name": "go-generics-list",
+      "repo": "https://github.com/hymkor/go-generics-list",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-generics-list",
+      "language": "Go"
+    },
+    {
+      "name": "unemoji",
+      "repo": "https://github.com/hymkor/unemoji",
+      "language": "Go"
+    },
+    {
+      "name": "go-enex",
+      "repo": "https://github.com/hymkor/go-enex",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-enex",
+      "language": "Go"
+    },
+    {
+      "name": "gmnlisp",
+      "repo": "https://github.com/hymkor/gmnlisp",
+      "url": "https://pkg.go.dev/github.com/hymkor/gmnlisp",
+      "language": "Go"
+    },
+    {
+      "name": "askexec",
+      "repo": "https://github.com/hymkor/askexec",
+      "language": "Go"
+    },
+    {
+      "name": "slowtype",
+      "repo": "https://github.com/hymkor/slowtype",
+      "language": "Go"
+    },
+    {
+      "name": "go-safewrite",
+      "repo": "https://github.com/hymkor/go-safewrite",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-safewrite",
+      "language": "Go"
+    },
+    {
+      "name": "type-rnote",
+      "repo": "https://github.com/hymkor/type-rnote",
+      "language": "Go"
+    },
+    {
+      "name": "latest-notes",
+      "repo": "https://github.com/hymkor/latest-notes",
+      "language": "Go"
+    },
+    {
+      "name": "minipage",
+      "repo": "https://github.com/hymkor/minipage",
+      "url": "https://hymkor.github.io/minipage/",
+      "language": "CSS"
+    },
+    {
+      "name": "gqcs",
+      "repo": "https://github.com/hymkor/gqcs",
+      "url": "https://hymkor.github.io/gqcs/",
+      "language": "Go"
+    },
+    {
+      "name": "example-into-readme",
+      "repo": "https://github.com/hymkor/example-into-readme",
+      "language": "Go"
+    },
+    {
+      "name": "make-scoop-manifest",
+      "repo": "https://github.com/hymkor/make-scoop-manifest",
+      "language": "Go"
+    },
+    {
+      "name": "go-lazy",
+      "repo": "https://github.com/hymkor/go-lazy",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-lazy",
+      "language": "Go"
+    },
+    {
+      "name": "zar",
+      "repo": "https://github.com/hymkor/zar",
+      "language": "Go"
+    },
+    {
+      "name": "uncozip",
+      "repo": "https://github.com/hymkor/uncozip",
+      "url": "https://pkg.go.dev/github.com/hymkor/uncozip",
+      "language": "Go"
+    },
+    {
+      "name": "study-dakuon",
+      "repo": "https://github.com/hymkor/study-dakuon",
+      "language": "Go"
+    },
+    {
+      "name": "printwidth",
+      "repo": "https://github.com/hymkor/printwidth",
+      "language": "Go"
+    },
+    {
+      "name": "oluacle",
+      "repo": "https://github.com/hymkor/oluacle",
+      "language": "C"
+    },
+    {
+      "name": "findrun",
+      "repo": "https://github.com/hymkor/findrun",
+      "language": "Rust"
+    },
+    {
+      "name": "mmmDyyyy",
+      "repo": "https://github.com/hymkor/mmmDyyyy",
+      "language": "Go"
+    },
+    {
+      "name": "struct2env",
+      "repo": "https://github.com/hymkor/struct2env",
+      "language": "Go"
+    },
+    {
+      "name": "go-cursorposition",
+      "repo": "https://github.com/hymkor/go-cursorposition",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-cursorposition",
+      "language": "Go"
+    },
+    {
+      "name": "sxlog-go",
+      "repo": "https://github.com/hymkor/sxlog-go",
+      "url": "https://pkg.go.dev/github.com/hymkor/sxlog-go",
+      "language": "Go"
+    },
+    {
+      "name": "file2feed",
+      "repo": "https://github.com/hymkor/file2feed",
+      "language": "Go"
+    },
+    {
+      "name": "xnhttpd",
+      "repo": "https://github.com/hymkor/xnhttpd",
+      "language": "Go"
+    },
+    {
+      "name": "goldmark-mb-headingids",
+      "repo": "https://github.com/hymkor/goldmark-mb-headingids",
+      "language": "Go"
+    },
+    {
+      "name": "go-shellcommand",
+      "repo": "https://github.com/hymkor/go-shellcommand",
+      "language": "Go"
+    },
+    {
+      "name": "study-sqlite-datetime",
+      "repo": "https://github.com/hymkor/study-sqlite-datetime",
+      "language": "Go"
+    },
+    {
+      "name": "htnblog-go",
+      "repo": "https://github.com/hymkor/htnblog-go",
+      "url": "https://hymkor.github.io/htnblog-go/",
+      "language": "Go"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/hymkor/blog",
+      "url": "https://zetamatta.hatenablog.com/",
+      "language": "Awk"
+    },
+    {
+      "name": "Update-Exe-All.ps1",
+      "repo": "https://github.com/hymkor/Update-Exe-All.ps1",
+      "language": "PowerShell"
+    },
+    {
+      "name": "sxencode-go",
+      "repo": "https://github.com/hymkor/sxencode-go",
+      "url": "https://pkg.go.dev/github.com/hymkor/sxencode-go",
+      "language": "Go"
+    },
+    {
+      "name": "lispect",
+      "repo": "https://github.com/hymkor/lispect",
+      "url": "https://pkg.go.dev/github.com/hymkor/lispect",
+      "language": "Go"
+    },
+    {
+      "name": "smake",
+      "repo": "https://github.com/hymkor/smake",
+      "language": "Go"
+    },
+    {
+      "name": "scramble",
+      "repo": "https://github.com/hymkor/scramble",
+      "url": "https://hymkor.github.io/scramble/",
+      "language": "HTML"
+    },
+    {
+      "name": "go-startup-source",
+      "repo": "https://github.com/hymkor/go-startup-source",
+      "language": "NewLisp"
+    },
+    {
+      "name": "trash-go",
+      "repo": "https://github.com/hymkor/trash-go",
+      "url": "https://pkg.go.dev/github.com/hymkor/trash-go",
+      "language": "Go"
+    },
+    {
+      "name": "go-utf8len",
+      "repo": "https://github.com/hymkor/go-utf8len",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-utf8len",
+      "language": "Go"
+    },
+    {
+      "name": "exregexp-go",
+      "repo": "https://github.com/hymkor/exregexp-go",
+      "url": "https://pkg.go.dev/github.com/hymkor/exregexp-go",
+      "language": "Go"
+    },
+    {
+      "name": "trash-rs",
+      "repo": "https://github.com/hymkor/trash-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "bake.ps1",
+      "repo": "https://github.com/hymkor/bake.ps1",
+      "language": "PowerShell"
+    },
+    {
+      "name": "homepage2.nifty.com_hayamatta",
+      "repo": "https://github.com/hymkor/homepage2.nifty.com_hayamatta",
+      "url": "https://hymkor.github.io/homepage2.nifty.com_hayamatta/",
+      "language": "HTML"
+    },
+    {
+      "name": "hp.vector.co.jp_VA009797",
+      "repo": "https://github.com/hymkor/hp.vector.co.jp_VA009797",
+      "url": "https://hymkor.github.io/hp.vector.co.jp_VA009797/",
+      "language": "HTML"
+    },
+    {
+      "name": "www.nyaos.org",
+      "repo": "https://github.com/hymkor/www.nyaos.org",
+      "language": "Perl"
+    },
+    {
+      "name": "nyaos.org",
+      "repo": "https://github.com/hymkor/nyaos.org",
+      "language": "HTML"
+    },
+    {
+      "name": "findlatest",
+      "repo": "https://github.com/hymkor/findlatest",
+      "language": "Go"
+    },
+    {
+      "name": "markdowned_wifky",
+      "repo": "https://github.com/hymkor/markdowned_wifky",
+      "language": "Perl"
+    },
+    {
+      "name": "wifky",
+      "repo": "https://github.com/hymkor/wifky",
+      "language": "Perl"
+    },
+    {
+      "name": "go-whatfile",
+      "repo": "https://github.com/hymkor/go-whatfile",
+      "language": "Go"
+    },
+    {
+      "name": "pipe2excel",
+      "repo": "https://github.com/hymkor/pipe2excel",
+      "language": "Go"
+    },
+    {
+      "name": "argf-go",
+      "repo": "https://github.com/hymkor/argf-go",
+      "language": "Go"
+    },
+    {
+      "name": "findlatest-rs",
+      "repo": "https://github.com/hymkor/findlatest-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "rmdirsonly-rs",
+      "repo": "https://github.com/hymkor/rmdirsonly-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "study-islisp",
+      "repo": "https://github.com/hymkor/study-islisp"
+    },
+    {
+      "name": "my-minecraft-tools",
+      "repo": "https://github.com/hymkor/my-minecraft-tools",
+      "language": "PowerShell"
+    },
+    {
+      "name": "makefile2batch",
+      "repo": "https://github.com/hymkor/makefile2batch",
+      "language": "Go"
+    },
+    {
+      "name": "script",
+      "repo": "https://github.com/hymkor/script",
+      "language": "Go"
+    },
+    {
+      "name": "rssxml2json",
+      "repo": "https://github.com/hymkor/rssxml2json",
+      "language": "Go"
+    },
+    {
+      "name": "study-go-simple-rangefunc",
+      "repo": "https://github.com/hymkor/study-go-simple-rangefunc",
+      "language": "Go"
+    },
+    {
+      "name": "single2double",
+      "repo": "https://github.com/hymkor/single2double",
+      "language": "Makefile"
+    },
+    {
+      "name": "skkjisyomt",
+      "repo": "https://github.com/hymkor/skkjisyomt",
+      "language": "Go"
+    },
+    {
+      "name": "go-enableterminalinput-test",
+      "repo": "https://github.com/hymkor/go-enableterminalinput-test",
+      "language": "Go"
+    },
+    {
+      "name": "go-windows1x-virtualterminal",
+      "repo": "https://github.com/hymkor/go-windows1x-virtualterminal",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-windows1x-virtualterminal",
+      "language": "Go"
+    },
+    {
+      "name": "go-safe4path",
+      "repo": "https://github.com/hymkor/go-safe4path",
+      "language": "Go"
+    },
+    {
+      "name": "sponge",
+      "repo": "https://github.com/hymkor/sponge",
+      "language": "Go"
+    },
+    {
+      "name": "Download-Count.ps1",
+      "repo": "https://github.com/hymkor/Download-Count.ps1",
+      "language": "PowerShell"
+    },
+    {
+      "name": "Set-Emacs-Mode.ps1",
+      "repo": "https://github.com/hymkor/Set-Emacs-Mode.ps1",
+      "language": "PowerShell"
+    },
+    {
+      "name": "go-ignorecase-sorted",
+      "repo": "https://github.com/hymkor/go-ignorecase-sorted",
+      "language": "Go"
+    },
+    {
+      "name": "go-minimal-optional",
+      "repo": "https://github.com/hymkor/go-minimal-optional",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-minimal-optional",
+      "language": "Go"
+    },
+    {
+      "name": "go-tiny-optional",
+      "repo": "https://github.com/hymkor/go-tiny-optional",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-tiny-optional",
+      "language": "Go"
+    },
+    {
+      "name": "env-rs",
+      "repo": "https://github.com/hymkor/env-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "verifyarc",
+      "repo": "https://github.com/hymkor/verifyarc",
+      "language": "Go"
+    },
+    {
+      "name": "go-sortedkeys",
+      "repo": "https://github.com/hymkor/go-sortedkeys",
+      "url": "https://pkg.go.dev/github.com/hymkor/go-sortedkeys",
+      "language": "Go"
+    },
+    {
+      "name": "vo",
+      "repo": "https://github.com/hymkor/vo",
+      "language": "Go"
+    }
+  ]
+}

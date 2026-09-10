@@ -1,0 +1,523 @@
+{
+  "handle": "proycon",
+  "name": "Maarten van Gompel",
+  "github": [
+    "https://github.com/proycon"
+  ],
+  "website": "https://proycon.anaproy.nl/",
+  "bio": "Research software engineer - NLP - 🐧 Linux & open-source enthusiast - 🐍 Python/ 🌊C/C++ / 🦀 Rust / 🐚 Shell - 🔐 InfoSec - https://git.sr.ht/~proycon",
+  "own_repos": 102,
+  "commits": 25377,
+  "apps": [],
+  "repos": [
+    {
+      "name": "lexmatch",
+      "repo": "https://github.com/proycon/lexmatch",
+      "url": "https://git.sr.ht/~proycon/lexmatch",
+      "language": "Rust"
+    },
+    {
+      "name": "proycon",
+      "repo": "https://github.com/proycon/proycon"
+    },
+    {
+      "name": "hanzigrid",
+      "repo": "https://github.com/proycon/hanzigrid",
+      "url": "https://codeberg.org/proycon/hanzigrid",
+      "language": "HTML"
+    },
+    {
+      "name": "clam",
+      "repo": "https://github.com/proycon/clam",
+      "url": "https://proycon.github.io/clam",
+      "language": "Python"
+    },
+    {
+      "name": "python-frog",
+      "repo": "https://github.com/proycon/python-frog",
+      "language": "Cython"
+    },
+    {
+      "name": "python-ucto",
+      "repo": "https://github.com/proycon/python-ucto",
+      "language": "Cython"
+    },
+    {
+      "name": "unilangforum",
+      "repo": "https://github.com/proycon/unilangforum",
+      "language": "PHP"
+    },
+    {
+      "name": "codemetapy",
+      "repo": "https://github.com/proycon/codemetapy",
+      "url": "https://codemeta.github.io/",
+      "language": "Python"
+    },
+    {
+      "name": "codemeta2mp",
+      "repo": "https://github.com/proycon/codemeta2mp",
+      "language": "Python"
+    },
+    {
+      "name": "codemeta-harvester",
+      "repo": "https://github.com/proycon/codemeta-harvester",
+      "language": "Shell"
+    },
+    {
+      "name": "codemeta2html",
+      "repo": "https://github.com/proycon/codemeta2html",
+      "language": "HTML"
+    },
+    {
+      "name": "textframe",
+      "repo": "https://github.com/proycon/textframe",
+      "language": "Rust"
+    },
+    {
+      "name": "analiticcl",
+      "repo": "https://github.com/proycon/analiticcl",
+      "language": "Rust"
+    },
+    {
+      "name": "colibri-core",
+      "repo": "https://github.com/proycon/colibri-core",
+      "url": "https://proycon.github.io/colibri-core",
+      "language": "C++"
+    },
+    {
+      "name": "folia",
+      "repo": "https://github.com/proycon/folia",
+      "language": "Python"
+    },
+    {
+      "name": "sumservice",
+      "repo": "https://github.com/proycon/sumservice",
+      "language": "Python"
+    },
+    {
+      "name": "speech2textalignservice",
+      "repo": "https://github.com/proycon/speech2textalignservice",
+      "language": "Python"
+    },
+    {
+      "name": "speech2textalign",
+      "repo": "https://github.com/proycon/speech2textalign",
+      "language": "Python"
+    },
+    {
+      "name": "codemeta-server",
+      "repo": "https://github.com/proycon/codemeta-server",
+      "language": "Python"
+    },
+    {
+      "name": "foliatools",
+      "repo": "https://github.com/proycon/foliatools",
+      "language": "Python"
+    },
+    {
+      "name": "python-timbl",
+      "repo": "https://github.com/proycon/python-timbl",
+      "language": "Python"
+    },
+    {
+      "name": "valkuil-gecco",
+      "repo": "https://github.com/proycon/valkuil-gecco",
+      "language": "Python"
+    },
+    {
+      "name": "parseme-support",
+      "repo": "https://github.com/proycon/parseme-support",
+      "language": "Python"
+    },
+    {
+      "name": "hyphertool",
+      "repo": "https://github.com/proycon/hyphertool",
+      "url": "https://codeberg.org/proycon/hyphertool",
+      "language": "Rust"
+    },
+    {
+      "name": "flat",
+      "repo": "https://github.com/proycon/flat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "foliadocserve",
+      "repo": "https://github.com/proycon/foliadocserve",
+      "language": "Python"
+    },
+    {
+      "name": "colibri-utils",
+      "repo": "https://github.com/proycon/colibri-utils",
+      "language": "TeX"
+    },
+    {
+      "name": "foliapy",
+      "repo": "https://github.com/proycon/foliapy",
+      "url": "https://proycon.github.io/folia",
+      "language": "Python"
+    },
+    {
+      "name": "alpino_clam_webservice",
+      "repo": "https://github.com/proycon/alpino_clam_webservice",
+      "language": "Python"
+    },
+    {
+      "name": "sesdiff",
+      "repo": "https://github.com/proycon/sesdiff",
+      "url": "https://git.sr.ht/~proycon/sesdiff",
+      "language": "Rust"
+    },
+    {
+      "name": "lingua-cli",
+      "repo": "https://github.com/proycon/lingua-cli",
+      "url": "https://git.sr.ht/~proycon/lingua-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "charfreq",
+      "repo": "https://github.com/proycon/charfreq",
+      "url": "https://git.sr.ht/~proycon/charfreq",
+      "language": "Rust"
+    },
+    {
+      "name": "vocage",
+      "repo": "https://github.com/proycon/vocage",
+      "url": "https://git.sr.ht/~proycon/vocage",
+      "language": "Rust"
+    },
+    {
+      "name": "ucto_webservice",
+      "repo": "https://github.com/proycon/ucto_webservice",
+      "language": "Python"
+    },
+    {
+      "name": "spacy2folia",
+      "repo": "https://github.com/proycon/spacy2folia",
+      "language": "Python"
+    },
+    {
+      "name": "frog_webservice",
+      "repo": "https://github.com/proycon/frog_webservice",
+      "url": "https://languagemachines.github.io/frog",
+      "language": "Python"
+    },
+    {
+      "name": "labirinto",
+      "repo": "https://github.com/proycon/labirinto",
+      "language": "Vue"
+    },
+    {
+      "name": "piereling",
+      "repo": "https://github.com/proycon/piereling",
+      "language": "Python"
+    },
+    {
+      "name": "pynlpl",
+      "repo": "https://github.com/proycon/pynlpl",
+      "url": "https://pypi.python.org/pypi/PyNLPl",
+      "language": "Python"
+    },
+    {
+      "name": "LaMachine",
+      "repo": "https://github.com/proycon/LaMachine",
+      "url": "https://proycon.github.io/LaMachine",
+      "language": "Shell"
+    },
+    {
+      "name": "kaldi-installer",
+      "repo": "https://github.com/proycon/kaldi-installer",
+      "language": "Shell"
+    },
+    {
+      "name": "deepfrog",
+      "repo": "https://github.com/proycon/deepfrog",
+      "language": "Rust"
+    },
+    {
+      "name": "homeautomation-media",
+      "repo": "https://github.com/proycon/homeautomation-media"
+    },
+    {
+      "name": "nederlab-pipeline",
+      "repo": "https://github.com/proycon/nederlab-pipeline",
+      "language": "Groovy"
+    },
+    {
+      "name": "folia-rust",
+      "repo": "https://github.com/proycon/folia-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "gecco",
+      "repo": "https://github.com/proycon/gecco",
+      "language": "Python"
+    },
+    {
+      "name": "dwm",
+      "repo": "https://github.com/proycon/dwm",
+      "language": "C"
+    },
+    {
+      "name": "flat_configuration_radboud",
+      "repo": "https://github.com/proycon/flat_configuration_radboud"
+    },
+    {
+      "name": "spreek2schrijf",
+      "repo": "https://github.com/proycon/spreek2schrijf",
+      "language": "Python"
+    },
+    {
+      "name": "slstatus",
+      "repo": "https://github.com/proycon/slstatus",
+      "language": "C"
+    },
+    {
+      "name": "ssam",
+      "repo": "https://github.com/proycon/ssam",
+      "language": "Rust"
+    },
+    {
+      "name": "clamservices",
+      "repo": "https://github.com/proycon/clamservices",
+      "language": "Python"
+    },
+    {
+      "name": "sxmo-docs",
+      "repo": "https://github.com/proycon/sxmo-docs",
+      "language": "Shell"
+    },
+    {
+      "name": "lisgd",
+      "repo": "https://github.com/proycon/lisgd",
+      "language": "C"
+    },
+    {
+      "name": "sxmo-dwm",
+      "repo": "https://github.com/proycon/sxmo-dwm",
+      "language": "C"
+    },
+    {
+      "name": "clam2switchboard",
+      "repo": "https://github.com/proycon/clam2switchboard",
+      "language": "Python"
+    },
+    {
+      "name": "sxmo-svkbd",
+      "repo": "https://github.com/proycon/sxmo-svkbd",
+      "language": "C"
+    },
+    {
+      "name": "lamastats",
+      "repo": "https://github.com/proycon/lamastats",
+      "language": "Python"
+    },
+    {
+      "name": "clamopener",
+      "repo": "https://github.com/proycon/clamopener",
+      "language": "Python"
+    },
+    {
+      "name": "phd-thesis",
+      "repo": "https://github.com/proycon/phd-thesis",
+      "language": "TeX"
+    },
+    {
+      "name": "counttriples",
+      "repo": "https://github.com/proycon/counttriples",
+      "language": "Rust"
+    },
+    {
+      "name": "vocajeux",
+      "repo": "https://github.com/proycon/vocajeux",
+      "language": "Rust"
+    },
+    {
+      "name": "valkuil-frontend",
+      "repo": "https://github.com/proycon/valkuil-frontend",
+      "language": "HTML"
+    },
+    {
+      "name": "aNtiLoPe",
+      "repo": "https://github.com/proycon/aNtiLoPe",
+      "language": "Groovy"
+    },
+    {
+      "name": "colloquery",
+      "repo": "https://github.com/proycon/colloquery",
+      "language": "Python"
+    },
+    {
+      "name": "lst-chat",
+      "repo": "https://github.com/proycon/lst-chat",
+      "url": "https://cls.ru.nl/chat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "procmapgen",
+      "repo": "https://github.com/proycon/procmapgen",
+      "language": "Rust"
+    },
+    {
+      "name": "wikiente",
+      "repo": "https://github.com/proycon/wikiente",
+      "language": "Python"
+    },
+    {
+      "name": "babelente",
+      "repo": "https://github.com/proycon/babelente",
+      "language": "Python"
+    },
+    {
+      "name": "textshift",
+      "repo": "https://github.com/proycon/textshift",
+      "language": "Rust"
+    },
+    {
+      "name": "nlpsandbox",
+      "repo": "https://github.com/proycon/nlpsandbox",
+      "language": "Python"
+    },
+    {
+      "name": "oersetter-webservice",
+      "repo": "https://github.com/proycon/oersetter-webservice",
+      "language": "Python"
+    },
+    {
+      "name": "proycon.github.io",
+      "repo": "https://github.com/proycon/proycon.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "creeps-ai",
+      "repo": "https://github.com/proycon/creeps-ai",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ner112",
+      "repo": "https://github.com/proycon/ner112",
+      "language": "Python"
+    },
+    {
+      "name": "vocavue",
+      "repo": "https://github.com/proycon/vocavue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oersetter-models",
+      "repo": "https://github.com/proycon/oersetter-models"
+    },
+    {
+      "name": "colibrita",
+      "repo": "https://github.com/proycon/colibrita",
+      "language": "Python"
+    },
+    {
+      "name": "LRSwitchboard",
+      "repo": "https://github.com/proycon/LRSwitchboard",
+      "language": "JavaScript"
+    },
+    {
+      "name": "valkuil",
+      "repo": "https://github.com/proycon/valkuil",
+      "language": "Lex"
+    },
+    {
+      "name": "anavec",
+      "repo": "https://github.com/proycon/anavec",
+      "language": "Python"
+    },
+    {
+      "name": "beeldbankvertaler",
+      "repo": "https://github.com/proycon/beeldbankvertaler",
+      "language": "Python"
+    },
+    {
+      "name": "colibri-mt",
+      "repo": "https://github.com/proycon/colibri-mt",
+      "language": "C++"
+    },
+    {
+      "name": "LaMachine-docker-test",
+      "repo": "https://github.com/proycon/LaMachine-docker-test"
+    },
+    {
+      "name": "fowlt-gecco",
+      "repo": "https://github.com/proycon/fowlt-gecco"
+    },
+    {
+      "name": "aur-packages",
+      "repo": "https://github.com/proycon/aur-packages",
+      "language": "Shell"
+    },
+    {
+      "name": "HasCL",
+      "repo": "https://github.com/proycon/HasCL",
+      "language": "Haskell"
+    },
+    {
+      "name": "semeval2014task5",
+      "repo": "https://github.com/proycon/semeval2014task5",
+      "language": "HTML"
+    },
+    {
+      "name": "colibri-apps",
+      "repo": "https://github.com/proycon/colibri-apps",
+      "language": "OpenEdge ABL"
+    },
+    {
+      "name": "pbmbmt",
+      "repo": "https://github.com/proycon/pbmbmt",
+      "language": "Python"
+    },
+    {
+      "name": "contemplativecoding",
+      "repo": "https://github.com/proycon/contemplativecoding",
+      "language": "CSS"
+    },
+    {
+      "name": "colibri",
+      "repo": "https://github.com/proycon/colibri",
+      "language": "C++"
+    },
+    {
+      "name": "colibri-net",
+      "repo": "https://github.com/proycon/colibri-net",
+      "language": "Python"
+    },
+    {
+      "name": "battlenode",
+      "repo": "https://github.com/proycon/battlenode",
+      "language": "Python"
+    },
+    {
+      "name": "campyon",
+      "repo": "https://github.com/proycon/campyon",
+      "language": "Python"
+    },
+    {
+      "name": "wsd2",
+      "repo": "https://github.com/proycon/wsd2",
+      "language": "Python"
+    },
+    {
+      "name": "cwrap",
+      "repo": "https://github.com/proycon/cwrap",
+      "language": "C"
+    },
+    {
+      "name": "foliaindexer",
+      "repo": "https://github.com/proycon/foliaindexer",
+      "language": "C++"
+    },
+    {
+      "name": "wrexp",
+      "repo": "https://github.com/proycon/wrexp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chira",
+      "repo": "https://github.com/proycon/chira",
+      "language": "Python"
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "handle": "jeffreysarnoff",
+  "name": "Jeffrey Sarnoff",
+  "github": [
+    "https://github.com/jeffreysarnoff"
+  ],
+  "website": "https://github.com/JeffreySarnoff",
+  "own_repos": 125,
+  "commits": 16374,
+  "apps": [],
+  "repos": [
+    {
+      "name": "TensorLogic.jl",
+      "repo": "https://github.com/JeffreySarnoff/TensorLogic.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "AIFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/AIFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "PolynomialErrorOptimization.jl",
+      "repo": "https://github.com/JeffreySarnoff/PolynomialErrorOptimization.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Float3109s.jl",
+      "repo": "https://github.com/JeffreySarnoff/Float3109s.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "SmallFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/SmallFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FloatBytes.jl",
+      "repo": "https://github.com/JeffreySarnoff/FloatBytes.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FastRationals.jl",
+      "repo": "https://github.com/JeffreySarnoff/FastRationals.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Double32s.jl",
+      "repo": "https://github.com/JeffreySarnoff/Double32s.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ByteFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/ByteFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "P3109.jl",
+      "repo": "https://github.com/JeffreySarnoff/P3109.jl"
+    },
+    {
+      "name": "MacroTraits.jl",
+      "repo": "https://github.com/JeffreySarnoff/MacroTraits.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ErrorfreeArithmetic.jl",
+      "repo": "https://github.com/JeffreySarnoff/ErrorfreeArithmetic.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "XRationals.jl",
+      "repo": "https://github.com/JeffreySarnoff/XRationals.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ErrorOptimizedPolynomials.jl",
+      "repo": "https://github.com/JeffreySarnoff/ErrorOptimizedPolynomials.jl"
+    },
+    {
+      "name": "Dyadics.jl",
+      "repo": "https://github.com/JeffreySarnoff/Dyadics.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "BitManipulations.jl",
+      "repo": "https://github.com/JeffreySarnoff/BitManipulations.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FloatingPoint3109s.jl",
+      "repo": "https://github.com/JeffreySarnoff/FloatingPoint3109s.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "YAMLconfigs.jl",
+      "repo": "https://github.com/JeffreySarnoff/YAMLconfigs.jl",
+      "language": "TeX"
+    },
+    {
+      "name": "FloatsForAI.jl",
+      "repo": "https://github.com/JeffreySarnoff/FloatsForAI.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "AI_Floats.jl",
+      "repo": "https://github.com/JeffreySarnoff/AI_Floats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "AlignedAllocs.jl",
+      "repo": "https://github.com/JeffreySarnoff/AlignedAllocs.jl",
+      "url": "https://github.com/JeffreySarnoff/AlignedAllocs.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "EytzingerSequences.jl",
+      "repo": "https://github.com/JeffreySarnoff/EytzingerSequences.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ArbNumerics.jl",
+      "repo": "https://github.com/JeffreySarnoff/ArbNumerics.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "SaferIntegers.jl",
+      "repo": "https://github.com/JeffreySarnoff/SaferIntegers.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "TimesDates.jl",
+      "repo": "https://github.com/JeffreySarnoff/TimesDates.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "P3109_csvs.jl",
+      "repo": "https://github.com/JeffreySarnoff/P3109_csvs.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "AIFloatTables.jl",
+      "repo": "https://github.com/JeffreySarnoff/AIFloatTables.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FMAcases.jl",
+      "repo": "https://github.com/JeffreySarnoff/FMAcases.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "MarkableFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/MarkableFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RemarkableFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/RemarkableFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "AngleBetweenVectors.jl",
+      "repo": "https://github.com/JeffreySarnoff/AngleBetweenVectors.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "NFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/NFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "CoNGRA2025_JuliaWorkshop.jl",
+      "repo": "https://github.com/JeffreySarnoff/CoNGRA2025_JuliaWorkshop.jl"
+    },
+    {
+      "name": "Float32x.jl",
+      "repo": "https://github.com/JeffreySarnoff/Float32x.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Readables.jl",
+      "repo": "https://github.com/JeffreySarnoff/Readables.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "NamedTupleTools.jl",
+      "repo": "https://github.com/JeffreySarnoff/NamedTupleTools.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "MLFloatFamilies.jl",
+      "repo": "https://github.com/JeffreySarnoff/MLFloatFamilies.jl"
+    },
+    {
+      "name": "FieldsOfBits.jl",
+      "repo": "https://github.com/JeffreySarnoff/FieldsOfBits.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "PlutoEditorThemes.jl",
+      "repo": "https://github.com/JeffreySarnoff/PlutoEditorThemes.jl",
+      "language": "CSS"
+    },
+    {
+      "name": "FirstAndLastPlaceValues.jl",
+      "repo": "https://github.com/JeffreySarnoff/FirstAndLastPlaceValues.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RollingFunctions.jl",
+      "repo": "https://github.com/JeffreySarnoff/RollingFunctions.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "DoubleFloat.jl",
+      "repo": "https://github.com/JeffreySarnoff/DoubleFloat.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "CompoundPeriods.jl",
+      "repo": "https://github.com/JeffreySarnoff/CompoundPeriods.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RevisitingSollya",
+      "repo": "https://github.com/JeffreySarnoff/RevisitingSollya"
+    },
+    {
+      "name": "SortingNetworks.jl",
+      "repo": "https://github.com/JeffreySarnoff/SortingNetworks.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "UsingSollya",
+      "repo": "https://github.com/JeffreySarnoff/UsingSollya",
+      "language": "Python"
+    },
+    {
+      "name": "FixingDivs.jl",
+      "repo": "https://github.com/JeffreySarnoff/FixingDivs.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "EncodeMicroFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/EncodeMicroFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "NewJuliaRepo.jl",
+      "repo": "https://github.com/JeffreySarnoff/NewJuliaRepo.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "BitsFields.jl",
+      "repo": "https://github.com/JeffreySarnoff/BitsFields.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ApplyingFMA.jl",
+      "repo": "https://github.com/JeffreySarnoff/ApplyingFMA.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "AboutTypes",
+      "repo": "https://github.com/JeffreySarnoff/AboutTypes",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "References",
+      "repo": "https://github.com/JeffreySarnoff/References"
+    },
+    {
+      "name": "AdjacentFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/AdjacentFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "WindowedFunctions.jl",
+      "repo": "https://github.com/JeffreySarnoff/WindowedFunctions.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RollingDuckDB.jl",
+      "repo": "https://github.com/JeffreySarnoff/RollingDuckDB.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RollingWindows.jl",
+      "repo": "https://github.com/JeffreySarnoff/RollingWindows.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RollingWindowedFunctions.jl",
+      "repo": "https://github.com/JeffreySarnoff/RollingWindowedFunctions.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Badges",
+      "repo": "https://github.com/JeffreySarnoff/Badges"
+    },
+    {
+      "name": "MovingRings.jl",
+      "repo": "https://github.com/JeffreySarnoff/MovingRings.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "InfinityInts.jl",
+      "repo": "https://github.com/JeffreySarnoff/InfinityInts.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "IncrementalAccumulators.jl",
+      "repo": "https://github.com/JeffreySarnoff/IncrementalAccumulators.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RollOverData_Jan2023.jl",
+      "repo": "https://github.com/JeffreySarnoff/RollOverData_Jan2023.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Accumulators.jl",
+      "repo": "https://github.com/JeffreySarnoff/Accumulators.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "SymbolicTrampoline.jl",
+      "repo": "https://github.com/JeffreySarnoff/SymbolicTrampoline.jl"
+    },
+    {
+      "name": "JuMPbilevel.jl",
+      "repo": "https://github.com/JeffreySarnoff/JuMPbilevel.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Aggregators.jl",
+      "repo": "https://github.com/JeffreySarnoff/Aggregators.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Double64s.jl",
+      "repo": "https://github.com/JeffreySarnoff/Double64s.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FastRounding.jl",
+      "repo": "https://github.com/JeffreySarnoff/FastRounding.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "SIMDandThreads.jl",
+      "repo": "https://github.com/JeffreySarnoff/SIMDandThreads.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "JuliaCon2022meetup",
+      "repo": "https://github.com/JeffreySarnoff/JuliaCon2022meetup"
+    },
+    {
+      "name": "UsingJuliaWell",
+      "repo": "https://github.com/JeffreySarnoff/UsingJuliaWell"
+    },
+    {
+      "name": "GraphicsMath.jl",
+      "repo": "https://github.com/JeffreySarnoff/GraphicsMath.jl",
+      "url": "https://JuliaGameDev.github.io/GraphicsMath.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Presentations",
+      "repo": "https://github.com/JeffreySarnoff/Presentations"
+    },
+    {
+      "name": "Double64s.test.jl",
+      "repo": "https://github.com/JeffreySarnoff/Double64s.test.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "DateNanoTimes.jl",
+      "repo": "https://github.com/JeffreySarnoff/DateNanoTimes.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "DatesWithNanoseconds.jl",
+      "repo": "https://github.com/JeffreySarnoff/DatesWithNanoseconds.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "TimeDates.jl",
+      "repo": "https://github.com/JeffreySarnoff/TimeDates.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "DatesPlus.jl",
+      "repo": "https://github.com/JeffreySarnoff/DatesPlus.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "JuliaCon2021",
+      "repo": "https://github.com/JeffreySarnoff/JuliaCon2021",
+      "language": "TeX"
+    },
+    {
+      "name": "CatmullRom.jl",
+      "repo": "https://github.com/JeffreySarnoff/CatmullRom.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "TypedDelegation.jl",
+      "repo": "https://github.com/JeffreySarnoff/TypedDelegation.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ComparisonsWithJulia",
+      "repo": "https://github.com/JeffreySarnoff/ComparisonsWithJulia"
+    },
+    {
+      "name": "TwoFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/TwoFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "Robust32s.jl",
+      "repo": "https://github.com/JeffreySarnoff/Robust32s.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FasterMinMax.jl",
+      "repo": "https://github.com/JeffreySarnoff/FasterMinMax.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "QNaNs.jl",
+      "repo": "https://github.com/JeffreySarnoff/QNaNs.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RelativeBenchmarks.jl",
+      "repo": "https://github.com/JeffreySarnoff/RelativeBenchmarks.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FiniteFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/FiniteFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "RomuRandoms.jl",
+      "repo": "https://github.com/JeffreySarnoff/RomuRandoms.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "IEEEFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/IEEEFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "CardinalDicts.jl",
+      "repo": "https://github.com/JeffreySarnoff/CardinalDicts.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "SingleFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/SingleFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "XFloats.jl",
+      "repo": "https://github.com/JeffreySarnoff/XFloats.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "GUI.jl",
+      "repo": "https://github.com/JeffreySarnoff/GUI.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "JSTools.jl",
+      "repo": "https://github.com/JeffreySarnoff/JSTools.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "IEEE754-2019",
+      "repo": "https://github.com/JeffreySarnoff/IEEE754-2019",
+      "language": "Julia"
+    },
+    {
+      "name": "WelcomeToJulia.jl",
+      "repo": "https://github.com/JeffreySarnoff/WelcomeToJulia.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ThieleFourPointInterpolation.jl",
+      "repo": "https://github.com/JeffreySarnoff/ThieleFourPointInterpolation.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "FastRationals2017.jl",
+      "repo": "https://github.com/JeffreySarnoff/FastRationals2017.jl",
+      "language": "Julia"
+    }
+  ]
+}

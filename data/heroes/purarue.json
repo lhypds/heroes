@@ -1,0 +1,564 @@
+{
+  "handle": "purarue",
+  "name": "purarue",
+  "github": [
+    "https://github.com/purarue"
+  ],
+  "website": "https://purarue.xyz/",
+  "own_repos": 157,
+  "commits": 16347,
+  "apps": [],
+  "repos": [
+    {
+      "name": "sigal-gallery-scripts",
+      "repo": "https://github.com/purarue/sigal-gallery-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/purarue/dotfiles",
+      "url": "https://purarue.xyz/d/?dark",
+      "language": "Shell"
+    },
+    {
+      "name": "mal-id-cache",
+      "repo": "https://github.com/purarue/mal-id-cache",
+      "language": "Python"
+    },
+    {
+      "name": "browserexport",
+      "repo": "https://github.com/purarue/browserexport",
+      "url": "https://pypi.org/project/browserexport/",
+      "language": "Python"
+    },
+    {
+      "name": "vps",
+      "repo": "https://github.com/purarue/vps",
+      "language": "Shell"
+    },
+    {
+      "name": "exobrain",
+      "repo": "https://github.com/purarue/exobrain",
+      "url": "https://purarue.xyz/x/",
+      "language": "Astro"
+    },
+    {
+      "name": "my_feed",
+      "repo": "https://github.com/purarue/my_feed",
+      "url": "https://purarue.xyz/feed",
+      "language": "Python"
+    },
+    {
+      "name": "projects",
+      "repo": "https://github.com/purarue/projects",
+      "url": "https://purarue.xyz/projects",
+      "language": "TypeScript"
+    },
+    {
+      "name": "discord-countdown-bot",
+      "repo": "https://github.com/purarue/discord-countdown-bot",
+      "language": "Python"
+    },
+    {
+      "name": "mal-notify-bot",
+      "repo": "https://github.com/purarue/mal-notify-bot",
+      "language": "Python"
+    },
+    {
+      "name": "filmswap",
+      "repo": "https://github.com/purarue/filmswap",
+      "language": "Python"
+    },
+    {
+      "name": "dbsentinel",
+      "repo": "https://github.com/purarue/dbsentinel",
+      "url": "https://purarue.xyz/dbsentinel",
+      "language": "Python"
+    },
+    {
+      "name": "mnu_gsheets",
+      "repo": "https://github.com/purarue/mnu_gsheets",
+      "url": "https://docs.google.com/spreadsheets/d/1N4D3C0bSXVcVh0ggt_mpKMy_OrAdkKGkMjwkMekjpOM/edit?usp=sharing",
+      "language": "Python"
+    },
+    {
+      "name": "glue",
+      "repo": "https://github.com/purarue/glue",
+      "url": "https://purarue.xyz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ipgeocache",
+      "repo": "https://github.com/purarue/ipgeocache",
+      "url": "https://pypi.org/project/ipgeocache/",
+      "language": "Python"
+    },
+    {
+      "name": "offline_listens",
+      "repo": "https://github.com/purarue/offline_listens",
+      "url": "https://pypi.org/project/offline_listens/",
+      "language": "Python"
+    },
+    {
+      "name": "url_cache",
+      "repo": "https://github.com/purarue/url_cache",
+      "url": "https://pypi.org/project/url-cache/",
+      "language": "Python"
+    },
+    {
+      "name": "reminder-sink",
+      "repo": "https://github.com/purarue/reminder-sink",
+      "url": "https://pypi.org/project/reminder-sink/",
+      "language": "Python"
+    },
+    {
+      "name": "time-in",
+      "repo": "https://github.com/purarue/time-in",
+      "url": "https://pypi.org/project/time-in/",
+      "language": "Python"
+    },
+    {
+      "name": "active_window",
+      "repo": "https://github.com/purarue/active_window",
+      "language": "Python"
+    },
+    {
+      "name": "rifleman",
+      "repo": "https://github.com/purarue/rifleman",
+      "url": "https://pypi.org/project/rifleman/",
+      "language": "Python"
+    },
+    {
+      "name": "scramble-history",
+      "repo": "https://github.com/purarue/scramble-history",
+      "url": "https://pypi.org/project/scramble-history",
+      "language": "Python"
+    },
+    {
+      "name": "pushshift_comment_export",
+      "repo": "https://github.com/purarue/pushshift_comment_export",
+      "url": "https://pypi.org/project/pushshift-comment-export/",
+      "language": "Python"
+    },
+    {
+      "name": "chess_export",
+      "repo": "https://github.com/purarue/chess_export",
+      "url": "https://pypi.org/project/chess-export/",
+      "language": "Python"
+    },
+    {
+      "name": "greasyfork_archive",
+      "repo": "https://github.com/purarue/greasyfork_archive",
+      "url": "https://pypi.org/project/greasyfork-archive",
+      "language": "Python"
+    },
+    {
+      "name": "pura-utils",
+      "repo": "https://github.com/purarue/pura-utils",
+      "url": "https://purarue.xyz/c/?dark",
+      "language": "Shell"
+    },
+    {
+      "name": "lolexport",
+      "repo": "https://github.com/purarue/lolexport",
+      "url": "https://pypi.org/project/lolexport/",
+      "language": "Python"
+    },
+    {
+      "name": "ttally",
+      "repo": "https://github.com/purarue/ttally",
+      "url": "https://pypi.org/project/ttally/",
+      "language": "Python"
+    },
+    {
+      "name": "sqlite_backup",
+      "repo": "https://github.com/purarue/sqlite_backup",
+      "url": "https://pypi.org/project/sqlite-backup/",
+      "language": "Python"
+    },
+    {
+      "name": "mpv-history-daemon",
+      "repo": "https://github.com/purarue/mpv-history-daemon",
+      "url": "https://pypi.org/project/mpv-history-daemon/",
+      "language": "Python"
+    },
+    {
+      "name": "cube-scramble-cli",
+      "repo": "https://github.com/purarue/cube-scramble-cli",
+      "url": "https://pypi.org/project/cube-scramble-cli/",
+      "language": "Python"
+    },
+    {
+      "name": "reorder_editable",
+      "repo": "https://github.com/purarue/reorder_editable",
+      "url": "https://pypi.org/project/reorder-editable/",
+      "language": "Python"
+    },
+    {
+      "name": "HPI",
+      "repo": "https://github.com/purarue/HPI",
+      "url": "https://beepb00p.xyz/hpi.html",
+      "language": "Python"
+    },
+    {
+      "name": "traktexport",
+      "repo": "https://github.com/purarue/traktexport",
+      "url": "https://pypi.org/project/traktexport/",
+      "language": "Python"
+    },
+    {
+      "name": "grouvee_export",
+      "repo": "https://github.com/purarue/grouvee_export",
+      "language": "Python"
+    },
+    {
+      "name": "trakt-watch",
+      "repo": "https://github.com/purarue/trakt-watch",
+      "url": "https://pypi.org/project/trakt-watch/",
+      "language": "Python"
+    },
+    {
+      "name": "calcurse-load",
+      "repo": "https://github.com/purarue/calcurse-load",
+      "url": "https://pypi.org/project/calcurse-load",
+      "language": "Python"
+    },
+    {
+      "name": "sakugabooru-episode-mad",
+      "repo": "https://github.com/purarue/sakugabooru-episode-mad",
+      "language": "Python"
+    },
+    {
+      "name": "abook_parser",
+      "repo": "https://github.com/purarue/abook_parser",
+      "url": "https://pypi.org/project/abook-parser/",
+      "language": "Python"
+    },
+    {
+      "name": "mlength",
+      "repo": "https://github.com/purarue/mlength",
+      "url": "https://pypi.org/project/mlength/",
+      "language": "Python"
+    },
+    {
+      "name": "full_todotxt",
+      "repo": "https://github.com/purarue/full_todotxt",
+      "url": "https://pypi.org/project/full_todotxt",
+      "language": "Python"
+    },
+    {
+      "name": "listenbrainz_export",
+      "repo": "https://github.com/purarue/listenbrainz_export",
+      "url": "https://pypi.org/project/listenbrainz-export/",
+      "language": "Python"
+    },
+    {
+      "name": "git_doc_history",
+      "repo": "https://github.com/purarue/git_doc_history",
+      "url": "https://pypi.org/project/git-doc-history/",
+      "language": "Python"
+    },
+    {
+      "name": "malexport",
+      "repo": "https://github.com/purarue/malexport",
+      "url": "https://pypi.org/project/malexport/",
+      "language": "Python"
+    },
+    {
+      "name": "shortcuts",
+      "repo": "https://github.com/purarue/shortcuts",
+      "language": "Python"
+    },
+    {
+      "name": "dateq",
+      "repo": "https://github.com/purarue/dateq",
+      "language": "Python"
+    },
+    {
+      "name": "discord_data",
+      "repo": "https://github.com/purarue/discord_data",
+      "url": "https://pypi.org/project/discord-data/",
+      "language": "Python"
+    },
+    {
+      "name": "plaintext_playlist_py",
+      "repo": "https://github.com/purarue/plaintext_playlist_py",
+      "url": "https://pypi.org/project/plaintext_playlist_py/",
+      "language": "Python"
+    },
+    {
+      "name": "clone-repos",
+      "repo": "https://github.com/purarue/clone-repos",
+      "url": "https://pypi.org/project/cl-repos",
+      "language": "Python"
+    },
+    {
+      "name": "pipx_isolate",
+      "repo": "https://github.com/purarue/pipx_isolate",
+      "url": "https://pypi.org/project/pipx-isolate/",
+      "language": "Python"
+    },
+    {
+      "name": "on_machine",
+      "repo": "https://github.com/purarue/on_machine",
+      "language": "Go"
+    },
+    {
+      "name": "gitsigns-yadm.nvim",
+      "repo": "https://github.com/purarue/gitsigns-yadm.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "calc_ans",
+      "repo": "https://github.com/purarue/calc_ans",
+      "language": "OCaml"
+    },
+    {
+      "name": "google_takeout_parser",
+      "repo": "https://github.com/purarue/google_takeout_parser",
+      "url": "https://pypi.org/project/google-takeout-parser/",
+      "language": "Python"
+    },
+    {
+      "name": "server_clipboard",
+      "repo": "https://github.com/purarue/server_clipboard",
+      "language": "Go"
+    },
+    {
+      "name": "back-arrow-script",
+      "repo": "https://github.com/purarue/back-arrow-script",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wca_userinfo",
+      "repo": "https://github.com/purarue/wca_userinfo",
+      "language": "Rust"
+    },
+    {
+      "name": "darker_errors",
+      "repo": "https://github.com/purarue/darker_errors",
+      "language": "Go"
+    },
+    {
+      "name": "no-db-shorturl",
+      "repo": "https://github.com/purarue/no-db-shorturl",
+      "language": "Go"
+    },
+    {
+      "name": "mapscii-at",
+      "repo": "https://github.com/purarue/mapscii-at",
+      "language": "JavaScript"
+    },
+    {
+      "name": "animeshorts",
+      "repo": "https://github.com/purarue/animeshorts",
+      "url": "https://purarue.xyz/animeshorts/",
+      "language": "Python"
+    },
+    {
+      "name": "albums",
+      "repo": "https://github.com/purarue/albums",
+      "url": "https://purarue.xyz/feed?order_by=score&sort=desc&ftype=album",
+      "language": "Python"
+    },
+    {
+      "name": "m3u-shuf",
+      "repo": "https://github.com/purarue/m3u-shuf",
+      "language": "Rust"
+    },
+    {
+      "name": "glue_geocities",
+      "repo": "https://github.com/purarue/glue_geocities",
+      "url": "https://purarue.xyz/geocities/",
+      "language": "Elm"
+    },
+    {
+      "name": "HPI-personal",
+      "repo": "https://github.com/purarue/HPI-personal",
+      "language": "Python"
+    },
+    {
+      "name": "plaintext-playlist",
+      "repo": "https://github.com/purarue/plaintext-playlist",
+      "language": "Shell"
+    },
+    {
+      "name": "largechar",
+      "repo": "https://github.com/purarue/largechar",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bleanser",
+      "repo": "https://github.com/purarue/bleanser",
+      "url": "https://beepb00p.xyz/exobrain/projects/bleanser.html",
+      "language": "Python"
+    },
+    {
+      "name": "genpasswd",
+      "repo": "https://github.com/purarue/genpasswd",
+      "language": "C++"
+    },
+    {
+      "name": "ttt",
+      "repo": "https://github.com/purarue/ttt",
+      "language": "Go"
+    },
+    {
+      "name": "exists",
+      "repo": "https://github.com/purarue/exists",
+      "language": "C"
+    },
+    {
+      "name": "autotui",
+      "repo": "https://github.com/purarue/autotui",
+      "url": "https://pypi.org/project/autotui/",
+      "language": "Python"
+    },
+    {
+      "name": "qute-script-manager",
+      "repo": "https://github.com/purarue/qute-script-manager",
+      "language": "Python"
+    },
+    {
+      "name": "cookiecutter-template",
+      "repo": "https://github.com/purarue/cookiecutter-template",
+      "language": "Python"
+    },
+    {
+      "name": "tree-sitter-rifleconf",
+      "repo": "https://github.com/purarue/tree-sitter-rifleconf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MALUserVsAverage",
+      "repo": "https://github.com/purarue/MALUserVsAverage",
+      "language": "Python"
+    },
+    {
+      "name": "old_forums",
+      "repo": "https://github.com/purarue/old_forums",
+      "language": "Python"
+    },
+    {
+      "name": "overrustle_parser",
+      "repo": "https://github.com/purarue/overrustle_parser",
+      "language": "Python"
+    },
+    {
+      "name": "promnesia",
+      "repo": "https://github.com/purarue/promnesia",
+      "language": "Python"
+    },
+    {
+      "name": "list_gh_contributions",
+      "repo": "https://github.com/purarue/list_gh_contributions",
+      "language": "Python"
+    },
+    {
+      "name": "bootstrap",
+      "repo": "https://github.com/purarue/bootstrap",
+      "language": "Shell"
+    },
+    {
+      "name": "auto-mkview.nvim",
+      "repo": "https://github.com/purarue/auto-mkview.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "purarue",
+      "repo": "https://github.com/purarue/purarue"
+    },
+    {
+      "name": "yadm-git.vim",
+      "repo": "https://github.com/purarue/yadm-git.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "abookrc.vim",
+      "repo": "https://github.com/purarue/abookrc.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "HPI-template",
+      "repo": "https://github.com/purarue/HPI-template",
+      "language": "Python"
+    },
+    {
+      "name": "Swapstats",
+      "repo": "https://github.com/purarue/Swapstats",
+      "url": "https://swapstats.vercel.app",
+      "language": "Python"
+    },
+    {
+      "name": "XLSXCellFormatting",
+      "repo": "https://github.com/purarue/XLSXCellFormatting",
+      "language": "C#"
+    },
+    {
+      "name": "mpv-sockets",
+      "repo": "https://github.com/purarue/mpv-sockets",
+      "language": "Shell"
+    },
+    {
+      "name": "markdown_stew",
+      "repo": "https://github.com/purarue/markdown_stew",
+      "language": "Go"
+    },
+    {
+      "name": "xkcd-favorites",
+      "repo": "https://github.com/purarue/xkcd-favorites",
+      "url": "https://purarue.xyz/xkcd/",
+      "language": "Python"
+    },
+    {
+      "name": "dvd",
+      "repo": "https://github.com/purarue/dvd",
+      "url": "https://purarue.xyz/dvd/",
+      "language": "Elm"
+    },
+    {
+      "name": "poly-project-euler",
+      "repo": "https://github.com/purarue/poly-project-euler",
+      "url": "https://projecteuler.net/",
+      "language": "Makefile"
+    },
+    {
+      "name": "aoc",
+      "repo": "https://github.com/purarue/aoc",
+      "language": "Dart"
+    },
+    {
+      "name": "jikan_ex",
+      "repo": "https://github.com/purarue/jikan_ex",
+      "url": "https://hexdocs.pm/jikan_ex/",
+      "language": "Elixir"
+    },
+    {
+      "name": "evry",
+      "repo": "https://github.com/purarue/evry",
+      "url": "https://crates.io/crates/evry",
+      "language": "Rust"
+    },
+    {
+      "name": "wait-for-internet",
+      "repo": "https://github.com/purarue/wait-for-internet",
+      "url": "https://crates.io/crates/wait-for-internet",
+      "language": "Rust"
+    },
+    {
+      "name": "hyprland-active-window",
+      "repo": "https://github.com/purarue/hyprland-active-window",
+      "language": "Python"
+    },
+    {
+      "name": "bgproc",
+      "repo": "https://github.com/purarue/bgproc",
+      "language": "Shell"
+    },
+    {
+      "name": "pmark",
+      "repo": "https://github.com/purarue/pmark",
+      "language": "Perl"
+    }
+  ]
+}

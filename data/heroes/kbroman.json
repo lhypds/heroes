@@ -1,0 +1,581 @@
+{
+  "handle": "kbroman",
+  "name": "Karl Broman",
+  "github": [
+    "https://github.com/kbroman"
+  ],
+  "website": "https://kbroman.org/",
+  "bio": "Professor in Dept of Biostatistics & Medical Informatics at UW–Madison. Applied statistician working on statistical genomics.",
+  "own_repos": 262,
+  "commits": 17296,
+  "apps": [],
+  "repos": [
+    {
+      "name": "kbroman.github.io",
+      "repo": "https://github.com/kbroman/kbroman.github.io",
+      "url": "https://kbroman.org",
+      "language": "HTML"
+    },
+    {
+      "name": "BMI881",
+      "repo": "https://github.com/kbroman/BMI881",
+      "url": "https://kbroman.org/BMI881",
+      "language": "Ruby"
+    },
+    {
+      "name": "ProgrammingNotes",
+      "repo": "https://github.com/kbroman/ProgrammingNotes",
+      "language": "R"
+    },
+    {
+      "name": "Teaching_CTC2019",
+      "repo": "https://github.com/kbroman/Teaching_CTC2019",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "knitr_knutshell",
+      "repo": "https://github.com/kbroman/knitr_knutshell",
+      "url": "https://kbroman.org/knitr_knutshell",
+      "language": "HTML"
+    },
+    {
+      "name": "steps2rr",
+      "repo": "https://github.com/kbroman/steps2rr",
+      "url": "https://kbroman.org/steps2rr",
+      "language": "Ruby"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/kbroman/blog",
+      "language": "HTML"
+    },
+    {
+      "name": "BMI883",
+      "repo": "https://github.com/kbroman/BMI883",
+      "url": "https://kbroman.org/BMI883",
+      "language": "TeX"
+    },
+    {
+      "name": "broman",
+      "repo": "https://github.com/kbroman/broman",
+      "url": "https://kbroman.org/broman/",
+      "language": "R"
+    },
+    {
+      "name": "mbmixture",
+      "repo": "https://github.com/kbroman/mbmixture",
+      "url": "https://kbroman.org/mbmixture/",
+      "language": "R"
+    },
+    {
+      "name": "xoi",
+      "repo": "https://github.com/kbroman/xoi",
+      "url": "https://kbroman.org/xoi/",
+      "language": "C"
+    },
+    {
+      "name": "lineup",
+      "repo": "https://github.com/kbroman/lineup",
+      "url": "https://kbroman.org/lineup/",
+      "language": "R"
+    },
+    {
+      "name": "lineup2",
+      "repo": "https://github.com/kbroman/lineup2",
+      "url": "https://kbroman.org/lineup2/",
+      "language": "R"
+    },
+    {
+      "name": "detectPVC",
+      "repo": "https://github.com/kbroman/detectPVC",
+      "url": "https://kbroman.org/detectPVC/",
+      "language": "R"
+    },
+    {
+      "name": "xoiGBS",
+      "repo": "https://github.com/kbroman/xoiGBS",
+      "language": "R"
+    },
+    {
+      "name": "simcross",
+      "repo": "https://github.com/kbroman/simcross",
+      "url": "https://kbroman.org/simcross",
+      "language": "R"
+    },
+    {
+      "name": "craft",
+      "repo": "https://github.com/kbroman/craft",
+      "url": "https://kbroman.org/miner_book",
+      "language": "R"
+    },
+    {
+      "name": "qtl",
+      "repo": "https://github.com/kbroman/qtl",
+      "url": "https://rqtl.org",
+      "language": "R"
+    },
+    {
+      "name": "miner",
+      "repo": "https://github.com/kbroman/miner",
+      "url": "https://kbroman.org/miner_book",
+      "language": "R"
+    },
+    {
+      "name": "qtlcharts",
+      "repo": "https://github.com/kbroman/qtlcharts",
+      "url": "https://kbroman.org/qtlcharts",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "jupyter_qtlcharts",
+      "repo": "https://github.com/kbroman/jupyter_qtlcharts",
+      "language": "HTML"
+    },
+    {
+      "name": "d3panels",
+      "repo": "https://github.com/kbroman/d3panels",
+      "url": "https://kbroman.org/d3panels",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "qtlsim",
+      "repo": "https://github.com/kbroman/qtlsim",
+      "language": "C"
+    },
+    {
+      "name": "ricalc",
+      "repo": "https://github.com/kbroman/ricalc",
+      "url": "https://kbroman.org",
+      "language": "R"
+    },
+    {
+      "name": "npem",
+      "repo": "https://github.com/kbroman/npem",
+      "language": "C"
+    },
+    {
+      "name": "geesibsor",
+      "repo": "https://github.com/kbroman/geesibsor",
+      "language": "C"
+    },
+    {
+      "name": "fingers",
+      "repo": "https://github.com/kbroman/fingers",
+      "language": "R"
+    },
+    {
+      "name": "qtlbook",
+      "repo": "https://github.com/kbroman/qtlbook",
+      "url": "https://rqtl.org/book",
+      "language": "R"
+    },
+    {
+      "name": "negenes",
+      "repo": "https://github.com/kbroman/negenes",
+      "language": "C"
+    },
+    {
+      "name": "labstat",
+      "repo": "https://github.com/kbroman/labstat",
+      "language": "R"
+    },
+    {
+      "name": "crayonsjs",
+      "repo": "https://github.com/kbroman/crayonsjs",
+      "language": "CSS"
+    },
+    {
+      "name": "kbroman.r-universe.dev",
+      "repo": "https://github.com/kbroman/kbroman.r-universe.dev"
+    },
+    {
+      "name": "packageLogos",
+      "repo": "https://github.com/kbroman/packageLogos",
+      "language": "R"
+    },
+    {
+      "name": "lmmlite",
+      "repo": "https://github.com/kbroman/lmmlite",
+      "language": "R"
+    },
+    {
+      "name": "circplot",
+      "repo": "https://github.com/kbroman/circplot",
+      "language": "R"
+    },
+    {
+      "name": "Talk_OpenAccess",
+      "repo": "https://github.com/kbroman/Talk_OpenAccess",
+      "language": "TeX"
+    },
+    {
+      "name": "Talk_DOWorkshop2021",
+      "repo": "https://github.com/kbroman/Talk_DOWorkshop2021",
+      "url": "https://kbroman.org/Talk_DOWorkshop2021/",
+      "language": "R"
+    },
+    {
+      "name": "Talk_DataMgmt",
+      "repo": "https://github.com/kbroman/Talk_DataMgmt",
+      "language": "TeX"
+    },
+    {
+      "name": "Talk_SROP2023",
+      "repo": "https://github.com/kbroman/Talk_SROP2023",
+      "language": "TeX"
+    },
+    {
+      "name": "Talk_Graphs",
+      "repo": "https://github.com/kbroman/Talk_Graphs",
+      "language": "R"
+    },
+    {
+      "name": "topten_worstgraphs",
+      "repo": "https://github.com/kbroman/topten_worstgraphs",
+      "url": "https://kbroman.org/topten_worstgraphs/",
+      "language": "HTML"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/kbroman/slides",
+      "url": "https://kbroman.org/talks",
+      "language": "R"
+    },
+    {
+      "name": "shiny_qtlcharts",
+      "repo": "https://github.com/kbroman/shiny_qtlcharts",
+      "language": "R"
+    },
+    {
+      "name": "regress",
+      "repo": "https://github.com/kbroman/regress",
+      "language": "R"
+    },
+    {
+      "name": "CCgeno",
+      "repo": "https://github.com/kbroman/CCgeno",
+      "language": "R"
+    },
+    {
+      "name": "miner_book",
+      "repo": "https://github.com/kbroman/miner_book",
+      "url": "https://kbroman.org/miner_book/",
+      "language": "TeX"
+    },
+    {
+      "name": "teaching_old",
+      "repo": "https://github.com/kbroman/teaching_old",
+      "url": "https://kbroman.org/teaching_old/",
+      "language": "HTML"
+    },
+    {
+      "name": "teaching_misc",
+      "repo": "https://github.com/kbroman/teaching_misc",
+      "url": "https://kbroman.org/teaching_misc/",
+      "language": "R"
+    },
+    {
+      "name": "perlintro",
+      "repo": "https://github.com/kbroman/perlintro",
+      "url": "https://kbroman.org/perlintro/",
+      "language": "HTML"
+    },
+    {
+      "name": "Cintro",
+      "repo": "https://github.com/kbroman/Cintro",
+      "url": "https://kbroman.org/Cintro/",
+      "language": "HTML"
+    },
+    {
+      "name": "Rintro",
+      "repo": "https://github.com/kbroman/Rintro",
+      "url": "https://kbroman.org/Rintro/",
+      "language": "HTML"
+    },
+    {
+      "name": "Talk_CTC2013",
+      "repo": "https://github.com/kbroman/Talk_CTC2013",
+      "url": "https://kbroman.org/Talk_CTC2013/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_StOlaf2019",
+      "repo": "https://github.com/kbroman/Talk_StOlaf2019",
+      "url": "https://kbroman.org/Talk_StOlaf2019/",
+      "language": "HTML"
+    },
+    {
+      "name": "Talk_JSM2019",
+      "repo": "https://github.com/kbroman/Talk_JSM2019",
+      "url": "https://kbroman.org/Talk_JSM2019/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_BDS2017-07",
+      "repo": "https://github.com/kbroman/Talk_BDS2017-07",
+      "url": "https://kbroman.org/Talk_BDS2017-07/",
+      "language": "HTML"
+    },
+    {
+      "name": "Talk_SGN2017",
+      "repo": "https://github.com/kbroman/Talk_SGN2017",
+      "url": "https://kbroman.org/Talk_SGN2017/",
+      "language": "R"
+    },
+    {
+      "name": "Talk_APStats",
+      "repo": "https://github.com/kbroman/Talk_APStats",
+      "url": "https://kbroman.org/Talk_APStats/",
+      "language": "HTML"
+    },
+    {
+      "name": "Talk_NZ2016",
+      "repo": "https://github.com/kbroman/Talk_NZ2016",
+      "url": "https://kbroman.org/Talk_NZ2016/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_Genentech2016",
+      "repo": "https://github.com/kbroman/Talk_Genentech2016",
+      "url": "https://kbroman.org/Talk_Genentech2016/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_ChiASA2015",
+      "repo": "https://github.com/kbroman/Talk_ChiASA2015",
+      "url": "https://kbroman.org/Talk_ChiASA2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_BMI2015",
+      "repo": "https://github.com/kbroman/Talk_BMI2015",
+      "url": "https://kbroman.org/Talk_BMI2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_Texas2015",
+      "repo": "https://github.com/kbroman/Talk_Texas2015",
+      "url": "https://kbroman.org/Talk_Texas2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_BioC2015",
+      "repo": "https://github.com/kbroman/Talk_BioC2015",
+      "url": "https://kbroman.org/Talk_BioC2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_JSM2015",
+      "repo": "https://github.com/kbroman/Talk_JSM2015",
+      "url": "https://kbroman.org/Talk_JSM2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_Showcase2015",
+      "repo": "https://github.com/kbroman/Talk_Showcase2015",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_WEHI2015",
+      "repo": "https://github.com/kbroman/Talk_WEHI2015",
+      "url": "https://kbroman.org/Talk_WEHI2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_HTP2015",
+      "repo": "https://github.com/kbroman/Talk_HTP2015",
+      "url": "https://kbroman.org/Talk_HTP2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_AAAS2015",
+      "repo": "https://github.com/kbroman/Talk_AAAS2015",
+      "url": "https://kbroman.org/Talk_AAAS2015/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_iGraphs4Teaching",
+      "repo": "https://github.com/kbroman/Talk_iGraphs4Teaching",
+      "url": "https://kbroman.org/Talk_iGraphs4Teaching/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_BioVis",
+      "repo": "https://github.com/kbroman/Talk_BioVis",
+      "url": "https://kbroman.org/Talk_BioVis/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_FunQTL",
+      "repo": "https://github.com/kbroman/Talk_FunQTL",
+      "url": "https://kbroman.org/Talk_FunQTL/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Talk_GoughMice",
+      "repo": "https://github.com/kbroman/Talk_GoughMice",
+      "url": "https://kbroman.org/Talk_GoughMice/",
+      "language": "HTML"
+    },
+    {
+      "name": "Talk_IowaState2013",
+      "repo": "https://github.com/kbroman/Talk_IowaState2013",
+      "url": "https://kbroman.org/Talk_IowaState2013/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "d3examples",
+      "repo": "https://github.com/kbroman/d3examples",
+      "url": "https://kbroman.org/d3examples/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_InteractiveGraphs4",
+      "repo": "https://github.com/kbroman/Talk_InteractiveGraphs4",
+      "url": "https://kbroman.org/Talk_InteractiveGraphs4/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_InteractiveGraphs3",
+      "repo": "https://github.com/kbroman/Talk_InteractiveGraphs3",
+      "url": "https://kbroman.org/Talk_InteractiveGraphs3/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_InteractiveGraphs1",
+      "repo": "https://github.com/kbroman/Talk_InteractiveGraphs1",
+      "url": "https://kbroman.org/Talk_InteractiveGraphs1",
+      "language": "HTML"
+    },
+    {
+      "name": "Talk_InteractiveGraphs2",
+      "repo": "https://github.com/kbroman/Talk_InteractiveGraphs2",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Talk_CGD2013",
+      "repo": "https://github.com/kbroman/Talk_CGD2013",
+      "url": "https://kbroman.org/Talk_CGD2013/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "Poster_ENAR2014",
+      "repo": "https://github.com/kbroman/Poster_ENAR2014",
+      "url": "https://kbroman.org/Poster_ENAR2014/",
+      "language": "TeX"
+    },
+    {
+      "name": "FruitSnacks",
+      "repo": "https://github.com/kbroman/FruitSnacks",
+      "language": "R"
+    },
+    {
+      "name": "MinecraftScripts",
+      "repo": "https://github.com/kbroman/MinecraftScripts",
+      "language": "Shell"
+    },
+    {
+      "name": "mygmailR",
+      "repo": "https://github.com/kbroman/mygmailR",
+      "language": "R"
+    },
+    {
+      "name": "Talk_JAXomics",
+      "repo": "https://github.com/kbroman/Talk_JAXomics",
+      "url": "https://kbroman.org/Talk_JAXomics/",
+      "language": "TeX"
+    },
+    {
+      "name": "Talk_ReproRes",
+      "repo": "https://github.com/kbroman/Talk_ReproRes",
+      "url": "https://kbroman.org/Talk_ReproRes/",
+      "language": "TeX"
+    },
+    {
+      "name": "dataorg",
+      "repo": "https://github.com/kbroman/dataorg",
+      "language": "Ruby"
+    },
+    {
+      "name": "Tools4RR",
+      "repo": "https://github.com/kbroman/Tools4RR",
+      "url": "https://kbroman.org/Tools4RR",
+      "language": "HTML"
+    },
+    {
+      "name": "pkg_primer",
+      "repo": "https://github.com/kbroman/pkg_primer",
+      "url": "https://kbroman.org/pkg_primer",
+      "language": "R"
+    },
+    {
+      "name": "simple_site",
+      "repo": "https://github.com/kbroman/simple_site",
+      "url": "https://kbroman.org/simple_site",
+      "language": "Ruby"
+    },
+    {
+      "name": "github_tutorial",
+      "repo": "https://github.com/kbroman/github_tutorial",
+      "url": "https://kbroman.org/github_tutorial",
+      "language": "Ruby"
+    },
+    {
+      "name": "BMI881_fall2025",
+      "repo": "https://github.com/kbroman/BMI881_fall2025",
+      "language": "Ruby"
+    },
+    {
+      "name": "BMI883_fall2025",
+      "repo": "https://github.com/kbroman/BMI883_fall2025",
+      "language": "TeX"
+    },
+    {
+      "name": "AdvData",
+      "repo": "https://github.com/kbroman/AdvData",
+      "url": "https://kbroman.org/AdvData",
+      "language": "TeX"
+    },
+    {
+      "name": "Talk_JAXsymp",
+      "repo": "https://github.com/kbroman/Talk_JAXsymp",
+      "url": "https://kbroman.org/Talk_JAXsymp/",
+      "language": "TeX"
+    },
+    {
+      "name": "Talk_DataCleaning",
+      "repo": "https://github.com/kbroman/Talk_DataCleaning",
+      "url": "https://kbroman.org/Talk_DataCleaning",
+      "language": "TeX"
+    },
+    {
+      "name": "hipsteR",
+      "repo": "https://github.com/kbroman/hipsteR",
+      "language": "Ruby"
+    },
+    {
+      "name": "BMI883_fall2024",
+      "repo": "https://github.com/kbroman/BMI883_fall2024",
+      "url": "https://kbroman.org/BMI883_fall2024/",
+      "language": "TeX"
+    },
+    {
+      "name": "BMI883_fall2023",
+      "repo": "https://github.com/kbroman/BMI883_fall2023",
+      "url": "https://kbroman.org/BMI883_fall2023/",
+      "language": "TeX"
+    },
+    {
+      "name": "BMI883_fall2022",
+      "repo": "https://github.com/kbroman/BMI883_fall2022",
+      "url": "https://kbroman.org/BMI883_fall2022",
+      "language": "TeX"
+    },
+    {
+      "name": "BMI883_fall2021",
+      "repo": "https://github.com/kbroman/BMI883_fall2021",
+      "url": "https://kbroman.org/BMI883_fall2021",
+      "language": "TeX"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "handle": "brillout",
+  "name": "Rom",
+  "github": [
+    "https://github.com/brillout"
+  ],
+  "website": "https://vike.dev/",
+  "bio": "Creator of @vikejs (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.",
+  "own_repos": 323,
+  "commits": 12387,
+  "apps": [],
+  "repos": [
+    {
+      "name": "skills",
+      "repo": "https://github.com/brillout/skills"
+    },
+    {
+      "name": "use-npm-skills",
+      "repo": "https://github.com/brillout/use-npm-skills",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docpress",
+      "repo": "https://github.com/brillout/docpress",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-server-entry",
+      "repo": "https://github.com/brillout/vite-plugin-server-entry",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-memory",
+      "repo": "https://github.com/brillout/ai-memory"
+    },
+    {
+      "name": "instagram-clone-4",
+      "repo": "https://github.com/brillout/instagram-clone-4"
+    },
+    {
+      "name": "instagram-clone-2",
+      "repo": "https://github.com/brillout/instagram-clone-2"
+    },
+    {
+      "name": "instagram-clone-3",
+      "repo": "https://github.com/brillout/instagram-clone-3",
+      "language": "TypeScript"
+    },
+    {
+      "name": "release-me",
+      "repo": "https://github.com/brillout/release-me",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-talk",
+      "repo": "https://github.com/brillout/vike-talk",
+      "url": "https://talk.vike.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "instagram-clone",
+      "repo": "https://github.com/brillout/instagram-clone",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-streaming",
+      "repo": "https://github.com/brillout/react-streaming",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-ssr",
+      "repo": "https://github.com/brillout/vite-plugin-ssr",
+      "url": "https://vite-plugin-ssr.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-land",
+      "repo": "https://github.com/brillout/vike-land",
+      "url": "https://land.vike.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "test-types",
+      "repo": "https://github.com/brillout/test-types",
+      "language": "TypeScript"
+    },
+    {
+      "name": "test-e2e",
+      "repo": "https://github.com/brillout/test-e2e",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rules",
+      "repo": "https://github.com/brillout/rules",
+      "url": "https://brillout.github.io/rules",
+      "language": "HTML"
+    },
+    {
+      "name": "spellcheck",
+      "repo": "https://github.com/brillout/spellcheck",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shell",
+      "repo": "https://github.com/brillout/shell",
+      "language": "TypeScript"
+    },
+    {
+      "name": "replace",
+      "repo": "https://github.com/brillout/replace",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bump",
+      "repo": "https://github.com/brillout/bump",
+      "language": "TypeScript"
+    },
+    {
+      "name": "analyze-reproduction",
+      "repo": "https://github.com/brillout/analyze-reproduction",
+      "language": "TypeScript"
+    },
+    {
+      "name": "handli",
+      "repo": "https://github.com/brillout/handli",
+      "url": "https://brillout.github.io/handli",
+      "language": "TypeScript"
+    },
+    {
+      "name": "require-shim",
+      "repo": "https://github.com/brillout/require-shim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "json-serializer",
+      "repo": "https://github.com/brillout/json-serializer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-logo",
+      "repo": "https://github.com/brillout/vike-logo"
+    },
+    {
+      "name": "import",
+      "repo": "https://github.com/brillout/import",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-storybook-example",
+      "repo": "https://github.com/brillout/vike-storybook-example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reprod_big-dist-server",
+      "repo": "https://github.com/brillout/reprod_big-dist-server",
+      "language": "Vue"
+    },
+    {
+      "name": "awesome-react-components",
+      "repo": "https://github.com/brillout/awesome-react-components"
+    },
+    {
+      "name": "repro-vite-legal-comments",
+      "repo": "https://github.com/brillout/repro-vite-legal-comments",
+      "language": "JavaScript"
+    },
+    {
+      "name": "2025-ct-webdev",
+      "repo": "https://github.com/brillout/2025-ct-webdev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "repro_vite-bug_pre-bundling",
+      "repo": "https://github.com/brillout/repro_vite-bug_pre-bundling",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bati-polish",
+      "repo": "https://github.com/brillout/bati-polish",
+      "language": "Vue"
+    },
+    {
+      "name": "reprod_ssr.optimizeDeps.include",
+      "repo": "https://github.com/brillout/reprod_ssr.optimizeDeps.include",
+      "language": "TypeScript"
+    },
+    {
+      "name": "2025-react-berlin",
+      "repo": "https://github.com/brillout/2025-react-berlin",
+      "language": "MDX"
+    },
+    {
+      "name": "ssr-workshop",
+      "repo": "https://github.com/brillout/ssr-workshop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ssr-workshop-solution",
+      "repo": "https://github.com/brillout/ssr-workshop-solution",
+      "language": "JavaScript"
+    },
+    {
+      "name": "promise-forwarding",
+      "repo": "https://github.com/brillout/promise-forwarding",
+      "language": "JavaScript"
+    },
+    {
+      "name": "build-worker",
+      "repo": "https://github.com/brillout/build-worker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reprod_hono-vite-hmr-bug",
+      "repo": "https://github.com/brillout/reprod_hono-vite-hmr-bug",
+      "language": "TypeScript"
+    },
+    {
+      "name": "is-dev",
+      "repo": "https://github.com/brillout/is-dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "repro_cloudflare-env-missing",
+      "repo": "https://github.com/brillout/repro_cloudflare-env-missing",
+      "language": "JavaScript"
+    },
+    {
+      "name": "repro_vite-css-duplication",
+      "repo": "https://github.com/brillout/repro_vite-css-duplication",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vite-frameworks",
+      "repo": "https://github.com/brillout/vite-frameworks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "repro_vite-plugin-cloudflare_no-such-module",
+      "repo": "https://github.com/brillout/repro_vite-plugin-cloudflare_no-such-module",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vite-7-regression-exports",
+      "repo": "https://github.com/brillout/vite-7-regression-exports",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-to-vike",
+      "repo": "https://github.com/brillout/vite-to-vike",
+      "language": "JavaScript"
+    },
+    {
+      "name": "playground_node_import.meta.env",
+      "repo": "https://github.com/brillout/playground_node_import.meta.env",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reprod-vike-markdown-asset-trailing-slash",
+      "repo": "https://github.com/brillout/reprod-vike-markdown-asset-trailing-slash",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-with-van-jsx",
+      "repo": "https://github.com/brillout/vike-with-van-jsx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-with-van",
+      "repo": "https://github.com/brillout/vike-with-van",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rolldown-define-testbed",
+      "repo": "https://github.com/brillout/rolldown-define-testbed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rollup-placeholder-bug",
+      "repo": "https://github.com/brillout/rollup-placeholder-bug",
+      "language": "TypeScript"
+    },
+    {
+      "name": "repro-vite-19355",
+      "repo": "https://github.com/brillout/repro-vite-19355",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-symlink-dir-crawling-bug",
+      "repo": "https://github.com/brillout/vike-symlink-dir-crawling-bug",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-with-vercel",
+      "repo": "https://github.com/brillout/vike-with-vercel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-marketing-copy",
+      "repo": "https://github.com/brillout/vike-marketing-copy"
+    },
+    {
+      "name": "playground_eject-vike-react-chakra",
+      "repo": "https://github.com/brillout/playground_eject-vike-react-chakra",
+      "language": "TypeScript"
+    },
+    {
+      "name": "playground_eject-vike-react",
+      "repo": "https://github.com/brillout/playground_eject-vike-react",
+      "language": "TypeScript"
+    },
+    {
+      "name": "playground-exports-node",
+      "repo": "https://github.com/brillout/playground-exports-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "esbuild-bug-macos-resolve",
+      "repo": "https://github.com/brillout/esbuild-bug-macos-resolve",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-resolve",
+      "repo": "https://github.com/brillout/node-resolve",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-debug-esbuild-cannot-resolve-1729",
+      "repo": "https://github.com/brillout/vike-debug-esbuild-cannot-resolve-1729",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-mdx",
+      "repo": "https://github.com/brillout/vite-plugin-mdx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reprod-universal-middleware-hanging",
+      "repo": "https://github.com/brillout/reprod-universal-middleware-hanging",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-vue-app_custom-integration",
+      "repo": "https://github.com/brillout/vike-vue-app_custom-integration",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-react-app_custom-integration",
+      "repo": "https://github.com/brillout/vike-react-app_custom-integration",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-solid-app",
+      "repo": "https://github.com/brillout/vike-solid-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-vue-app",
+      "repo": "https://github.com/brillout/vike-vue-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-react-app",
+      "repo": "https://github.com/brillout/vike-react-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-reprod-1875",
+      "repo": "https://github.com/brillout/vike-reprod-1875",
+      "url": "https://github.com/vikejs/vike/pull/1879#issuecomment-2353228055",
+      "language": "TypeScript"
+    },
+    {
+      "name": "repro-vike-1868",
+      "repo": "https://github.com/brillout/repro-vike-1868",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-preact",
+      "repo": "https://github.com/brillout/vike-preact",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-reprod-duplicated-css-1815",
+      "repo": "https://github.com/brillout/vike-reprod-duplicated-css-1815",
+      "language": "TypeScript"
+    },
+    {
+      "name": "part-regex",
+      "repo": "https://github.com/brillout/part-regex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-apollo-react",
+      "repo": "https://github.com/brillout/vike-apollo-react",
+      "language": "JavaScript"
+    },
+    {
+      "name": "solid-bug-wrapper-children-skip",
+      "repo": "https://github.com/brillout/solid-bug-wrapper-children-skip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-apollo-vue",
+      "repo": "https://github.com/brillout/vike-apollo-vue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-stream-bug-2024-06",
+      "repo": "https://github.com/brillout/vike-stream-bug-2024-06",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-react-simple",
+      "repo": "https://github.com/brillout/vike-react-simple",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eject",
+      "repo": "https://github.com/brillout/eject",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-reprod-xxxx-path-alias-config-vue",
+      "repo": "https://github.com/brillout/esbuild-reprod-xxxx-path-alias-config-vue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-reprod-1584-path-alias-config-vue",
+      "repo": "https://github.com/brillout/vike-reprod-1584-path-alias-config-vue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-with-mui",
+      "repo": "https://github.com/brillout/vike-with-mui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bash-interactive-with-javascript",
+      "repo": "https://github.com/brillout/bash-interactive-with-javascript",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reprod_jsxDev-not-a-function",
+      "repo": "https://github.com/brillout/reprod_jsxDev-not-a-function",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esm-cjs-issue_react-image-gallery",
+      "repo": "https://github.com/brillout/esm-cjs-issue_react-image-gallery",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-playground",
+      "repo": "https://github.com/brillout/esbuild-playground",
+      "language": "JavaScript"
+    },
+    {
+      "name": "star-wars",
+      "repo": "https://github.com/brillout/star-wars",
+      "language": "HTML"
+    },
+    {
+      "name": "vike-with-solid-ssr",
+      "repo": "https://github.com/brillout/vike-with-solid-ssr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-with-solid-spa",
+      "repo": "https://github.com/brillout/vike-with-solid-spa",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-i18n-throw-render",
+      "repo": "https://github.com/brillout/vike-i18n-throw-render",
+      "language": "JavaScript"
+    },
+    {
+      "name": "star-wars-data",
+      "repo": "https://github.com/brillout/star-wars-data",
+      "language": "HTML"
+    },
+    {
+      "name": "pnpm-vue-demo",
+      "repo": "https://github.com/brillout/pnpm-vue-demo"
+    },
+    {
+      "name": "vite-sourcemap-bug",
+      "repo": "https://github.com/brillout/vite-sourcemap-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "repro_node-syntax-error",
+      "repo": "https://github.com/brillout/repro_node-syntax-error",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-app-cfp",
+      "repo": "https://github.com/brillout/vike-app-cfp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vike-with-redux",
+      "repo": "https://github.com/brillout/vike-with-redux",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vike-with-redux_minimal-example",
+      "repo": "https://github.com/brillout/vike-with-redux_minimal-example",
+      "language": "JavaScript"
+    }
+  ]
+}

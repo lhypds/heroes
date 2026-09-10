@@ -1,0 +1,512 @@
+{
+  "handle": "atusy",
+  "name": "atusy",
+  "github": [
+    "https://github.com/atusy"
+  ],
+  "website": "https://blog.atusy.net/",
+  "own_repos": 110,
+  "commits": 19056,
+  "apps": [],
+  "repos": [
+    {
+      "name": "kakehashi",
+      "repo": "https://github.com/atusy/kakehashi",
+      "language": "Rust"
+    },
+    {
+      "name": "ftExtra",
+      "repo": "https://github.com/atusy/ftExtra",
+      "url": "https://ftextra.atusy.net/",
+      "language": "R"
+    },
+    {
+      "name": "tsudoi-language-server",
+      "repo": "https://github.com/atusy/tsudoi-language-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/atusy/dotfiles",
+      "language": "Lua"
+    },
+    {
+      "name": "kakehashi-lspconfig",
+      "repo": "https://github.com/atusy/kakehashi-lspconfig",
+      "language": "Lua"
+    },
+    {
+      "name": "budouxify.nvim",
+      "repo": "https://github.com/atusy/budouxify.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/atusy/blog",
+      "url": "https://blog.atusy.net",
+      "language": "HTML"
+    },
+    {
+      "name": "ddc-source-lsp-cmdline",
+      "repo": "https://github.com/atusy/ddc-source-lsp-cmdline"
+    },
+    {
+      "name": "kakehashi.nvim",
+      "repo": "https://github.com/atusy/kakehashi.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "treemonkey.nvim",
+      "repo": "https://github.com/atusy/treemonkey.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "jab.nvim",
+      "repo": "https://github.com/atusy/jab.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "agentic-scrum",
+      "repo": "https://github.com/atusy/agentic-scrum",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-review",
+      "repo": "https://github.com/atusy/pi-review",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kakehashi.vsix",
+      "repo": "https://github.com/atusy/kakehashi.vsix",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/atusy/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "findy-dotfiles-seminar-2026-04-02",
+      "repo": "https://github.com/atusy/findy-dotfiles-seminar-2026-04-02",
+      "language": "HTML"
+    },
+    {
+      "name": "lifegamer",
+      "repo": "https://github.com/atusy/lifegamer",
+      "language": "R"
+    },
+    {
+      "name": "japanr-2025-osakar",
+      "repo": "https://github.com/atusy/japanr-2025-osakar"
+    },
+    {
+      "name": "by-binds-yourself",
+      "repo": "https://github.com/atusy/by-binds-yourself",
+      "language": "Shell"
+    },
+    {
+      "name": "tree-sitter-uri",
+      "repo": "https://github.com/atusy/tree-sitter-uri",
+      "language": "C"
+    },
+    {
+      "name": "vimconf-2025-small",
+      "repo": "https://github.com/atusy/vimconf-2025-small",
+      "url": "https://atusy.github.io/vimconf-2025-small/",
+      "language": "HTML"
+    },
+    {
+      "name": "ddc-filter_string-match",
+      "repo": "https://github.com/atusy/ddc-filter_string-match",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aibou.nvim",
+      "repo": "https://github.com/atusy/aibou.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "ddc-source-parametric",
+      "repo": "https://github.com/atusy/ddc-source-parametric",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fastapi-error-handling-demo",
+      "repo": "https://github.com/atusy/fastapi-error-handling-demo",
+      "language": "Python"
+    },
+    {
+      "name": "budoux.lua",
+      "repo": "https://github.com/atusy/budoux.lua",
+      "language": "Lua"
+    },
+    {
+      "name": "japanr-2024-osakar",
+      "repo": "https://github.com/atusy/japanr-2024-osakar"
+    },
+    {
+      "name": "japanr-2024-logging",
+      "repo": "https://github.com/atusy/japanr-2024-logging",
+      "language": "HTML"
+    },
+    {
+      "name": "helpr",
+      "repo": "https://github.com/atusy/helpr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gh-fzf",
+      "repo": "https://github.com/atusy/gh-fzf",
+      "language": "Shell"
+    },
+    {
+      "name": "felp",
+      "repo": "https://github.com/atusy/felp",
+      "url": "https://felp.atusy.net",
+      "language": "R"
+    },
+    {
+      "name": "tsnode-marker.nvim",
+      "repo": "https://github.com/atusy/tsnode-marker.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "pandoc-coderunner",
+      "repo": "https://github.com/atusy/pandoc-coderunner",
+      "language": "Lua"
+    },
+    {
+      "name": "qfscope.nvim",
+      "repo": "https://github.com/atusy/qfscope.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "minidown",
+      "repo": "https://github.com/atusy/minidown",
+      "url": "https://minidown.atusy.net",
+      "language": "CSS"
+    },
+    {
+      "name": "fuzzyhelp-shinyapp",
+      "repo": "https://github.com/atusy/fuzzyhelp-shinyapp",
+      "language": "R"
+    },
+    {
+      "name": "tokyor112-qmd-as-analysis-note",
+      "repo": "https://github.com/atusy/tokyor112-qmd-as-analysis-note",
+      "url": "https://atusy.github.io/tokyor112-qmd-as-analysis-note/",
+      "language": "HTML"
+    },
+    {
+      "name": "r-development-with-neovim-tokyor111",
+      "repo": "https://github.com/atusy/r-development-with-neovim-tokyor111",
+      "language": "R"
+    },
+    {
+      "name": "mickeymotion.nvim",
+      "repo": "https://github.com/atusy/mickeymotion.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "ddc-filter-converter_dictionary",
+      "repo": "https://github.com/atusy/ddc-filter-converter_dictionary",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zsh-nvrepl",
+      "repo": "https://github.com/atusy/zsh-nvrepl",
+      "language": "Shell"
+    },
+    {
+      "name": "lua-filters",
+      "repo": "https://github.com/atusy/lua-filters",
+      "language": "Lua"
+    },
+    {
+      "name": "ddc-filter-converter_nth_word",
+      "repo": "https://github.com/atusy/ddc-filter-converter_nth_word",
+      "language": "TypeScript"
+    },
+    {
+      "name": "leap-search.nvim",
+      "repo": "https://github.com/atusy/leap-search.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "leap-wide.nvim",
+      "repo": "https://github.com/atusy/leap-wide.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "flextableDemo",
+      "repo": "https://github.com/atusy/flextableDemo"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/atusy/.github"
+    },
+    {
+      "name": "telescomp.nvim",
+      "repo": "https://github.com/atusy/telescomp.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "toy-actions",
+      "repo": "https://github.com/atusy/toy-actions"
+    },
+    {
+      "name": "gihyodown",
+      "repo": "https://github.com/atusy/gihyodown",
+      "language": "Lua"
+    },
+    {
+      "name": "tokyor100-help",
+      "repo": "https://github.com/atusy/tokyor100-help"
+    },
+    {
+      "name": "ghf.ts",
+      "repo": "https://github.com/atusy/ghf.ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "githooks-examples",
+      "repo": "https://github.com/atusy/githooks-examples",
+      "language": "Shell"
+    },
+    {
+      "name": "nvim-treesitter-toc",
+      "repo": "https://github.com/atusy/nvim-treesitter-toc",
+      "language": "Lua"
+    },
+    {
+      "name": "pandoc-rmd-reader",
+      "repo": "https://github.com/atusy/pandoc-rmd-reader",
+      "language": "Lua"
+    },
+    {
+      "name": "pandoc-writer-extender",
+      "repo": "https://github.com/atusy/pandoc-writer-extender",
+      "language": "Lua"
+    },
+    {
+      "name": "atusyverse",
+      "repo": "https://github.com/atusy/atusyverse",
+      "language": "R"
+    },
+    {
+      "name": "atusydown",
+      "repo": "https://github.com/atusy/atusydown",
+      "language": "R"
+    },
+    {
+      "name": "pingAnalysis",
+      "repo": "https://github.com/atusy/pingAnalysis",
+      "url": "https://atusy.github.io/pingAnalysis/",
+      "language": "R"
+    },
+    {
+      "name": "tidytuesday-netflix",
+      "repo": "https://github.com/atusy/tidytuesday-netflix",
+      "language": "R"
+    },
+    {
+      "name": "chunkhooks",
+      "repo": "https://github.com/atusy/chunkhooks",
+      "language": "R"
+    },
+    {
+      "name": "pins-cache-example",
+      "repo": "https://github.com/atusy/pins-cache-example"
+    },
+    {
+      "name": "tokyor95-minidown",
+      "repo": "https://github.com/atusy/tokyor95-minidown",
+      "language": "HTML"
+    },
+    {
+      "name": "git-worksync",
+      "repo": "https://github.com/atusy/git-worksync",
+      "language": "Shell"
+    },
+    {
+      "name": "rocker-atusy",
+      "repo": "https://github.com/atusy/rocker-atusy",
+      "language": "Shell"
+    },
+    {
+      "name": "gh-fuzzyclone",
+      "repo": "https://github.com/atusy/gh-fuzzyclone",
+      "language": "Shell"
+    },
+    {
+      "name": "swiper",
+      "repo": "https://github.com/atusy/swiper",
+      "language": "HTML"
+    },
+    {
+      "name": "qntmap",
+      "repo": "https://github.com/atusy/qntmap",
+      "url": "https://qntmap.atusy.net/",
+      "language": "R"
+    },
+    {
+      "name": "tidyhorseshoe",
+      "repo": "https://github.com/atusy/tidyhorseshoe",
+      "language": "R"
+    },
+    {
+      "name": "my-new-repo-for-gh-testing",
+      "repo": "https://github.com/atusy/my-new-repo-for-gh-testing"
+    },
+    {
+      "name": "tokyor88-importas",
+      "repo": "https://github.com/atusy/tokyor88-importas",
+      "url": "https://atusy.github.io/tokyor88-importas/#/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "importas",
+      "repo": "https://github.com/atusy/importas",
+      "url": "https://importas.atusy.net",
+      "language": "R"
+    },
+    {
+      "name": "tokyor85-original-rmd-format",
+      "repo": "https://github.com/atusy/tokyor85-original-rmd-format",
+      "url": "https://atusy.github.io/tokyor85-original-rmd-format/#/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tokyor86-lifegame",
+      "repo": "https://github.com/atusy/tokyor86-lifegame",
+      "url": "https://atusy.github.io/tokyor86-lifegame/index.html#/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tokyor84",
+      "repo": "https://github.com/atusy/tokyor84",
+      "url": "https://atusy.github.io/tokyor84/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "20181201-japanr2018-formals-for-blackmagicians",
+      "repo": "https://github.com/atusy/20181201-japanr2018-formals-for-blackmagicians",
+      "language": "JavaScript"
+    },
+    {
+      "name": "20181020-tokyor073-multi-ggplot2",
+      "repo": "https://github.com/atusy/20181020-tokyor073-multi-ggplot2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "20190525-tokyor76-felp",
+      "repo": "https://github.com/atusy/20190525-tokyor76-felp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "templater",
+      "repo": "https://github.com/atusy/templater",
+      "language": "R"
+    },
+    {
+      "name": "docker-rocker",
+      "repo": "https://github.com/atusy/docker-rocker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "r-package-template",
+      "repo": "https://github.com/atusy/r-package-template"
+    },
+    {
+      "name": "docker",
+      "repo": "https://github.com/atusy/docker"
+    },
+    {
+      "name": "tokyor85down",
+      "repo": "https://github.com/atusy/tokyor85down",
+      "url": "https://atusy.github.io/tokyor85-original-rmd-format/#/",
+      "language": "R"
+    },
+    {
+      "name": "transdoc",
+      "repo": "https://github.com/atusy/transdoc",
+      "language": "R"
+    },
+    {
+      "name": "idea",
+      "repo": "https://github.com/atusy/idea"
+    },
+    {
+      "name": "qiita",
+      "repo": "https://github.com/atusy/qiita",
+      "language": "HTML"
+    },
+    {
+      "name": "grabVignetteTitle",
+      "repo": "https://github.com/atusy/grabVignetteTitle",
+      "language": "R"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/atusy/test"
+    },
+    {
+      "name": "docker-syncthing",
+      "repo": "https://github.com/atusy/docker-syncthing"
+    },
+    {
+      "name": "cssgrid",
+      "repo": "https://github.com/atusy/cssgrid",
+      "url": "https://cssgrid.atusy.net",
+      "language": "R"
+    },
+    {
+      "name": "withmemoise",
+      "repo": "https://github.com/atusy/withmemoise",
+      "language": "R"
+    },
+    {
+      "name": "ggAtusy",
+      "repo": "https://github.com/atusy/ggAtusy",
+      "language": "R"
+    },
+    {
+      "name": "LLfreq",
+      "repo": "https://github.com/atusy/LLfreq",
+      "language": "R"
+    },
+    {
+      "name": "presentation",
+      "repo": "https://github.com/atusy/presentation",
+      "language": "HTML"
+    },
+    {
+      "name": "MCMCfreq",
+      "repo": "https://github.com/atusy/MCMCfreq",
+      "language": "R"
+    },
+    {
+      "name": "rmd-line-num",
+      "repo": "https://github.com/atusy/rmd-line-num",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-nginx-proxy",
+      "repo": "https://github.com/atusy/docker-nginx-proxy"
+    },
+    {
+      "name": "docker-jupyter",
+      "repo": "https://github.com/atusy/docker-jupyter",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "libskk-rules",
+      "repo": "https://github.com/atusy/libskk-rules"
+    },
+    {
+      "name": "gitpodr",
+      "repo": "https://github.com/atusy/gitpodr",
+      "language": "Dockerfile"
+    }
+  ]
+}

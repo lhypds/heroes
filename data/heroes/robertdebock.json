@@ -1,0 +1,561 @@
+{
+  "handle": "robertdebock",
+  "name": "Robert de Bock",
+  "github": [
+    "https://github.com/robertdebock"
+  ],
+  "website": "https://robertdebock.nl/",
+  "bio": "I know my way around (Linux) infrastructure, have a passion for automation, Docker, Ansible, Molecule and ci/cd.",
+  "own_repos": 429,
+  "commits": 23861,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ansible-role-zabbix_web",
+      "repo": "https://github.com/robertdebock/ansible-role-zabbix_web",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-zabbix_server",
+      "repo": "https://github.com/robertdebock/ansible-role-zabbix_server",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-zabbix_repository",
+      "repo": "https://github.com/robertdebock/ansible-role-zabbix_repository",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-zabbix_proxy",
+      "repo": "https://github.com/robertdebock/ansible-role-zabbix_proxy",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-zabbix_agent",
+      "repo": "https://github.com/robertdebock/ansible-role-zabbix_agent",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-xrdp",
+      "repo": "https://github.com/robertdebock/ansible-role-xrdp",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-vsftpd",
+      "repo": "https://github.com/robertdebock/ansible-role-vsftpd",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-virtualbox",
+      "repo": "https://github.com/robertdebock/ansible-role-virtualbox",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-vault_snapshot",
+      "repo": "https://github.com/robertdebock/ansible-role-vault_snapshot",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-vault_initialize",
+      "repo": "https://github.com/robertdebock/ansible-role-vault_initialize",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-vault_configuration",
+      "repo": "https://github.com/robertdebock/ansible-role-vault_configuration",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-vault_auditdevice",
+      "repo": "https://github.com/robertdebock/ansible-role-vault_auditdevice",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-vault_agent",
+      "repo": "https://github.com/robertdebock/ansible-role-vault_agent",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-vault",
+      "repo": "https://github.com/robertdebock/ansible-role-vault",
+      "url": "https://robertdebock.nl/",
+      "language": "HCL"
+    },
+    {
+      "name": "ansible-role-vagrant",
+      "repo": "https://github.com/robertdebock/ansible-role-vagrant",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-users",
+      "repo": "https://github.com/robertdebock/ansible-role-users",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-upgrade",
+      "repo": "https://github.com/robertdebock/ansible-role-upgrade",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-update_pip_packages",
+      "repo": "https://github.com/robertdebock/ansible-role-update_pip_packages",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-update",
+      "repo": "https://github.com/robertdebock/ansible-role-update",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-unowned_files",
+      "repo": "https://github.com/robertdebock/ansible-role-unowned_files",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-umask",
+      "repo": "https://github.com/robertdebock/ansible-role-umask",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-ulimit",
+      "repo": "https://github.com/robertdebock/ansible-role-ulimit",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-types",
+      "repo": "https://github.com/robertdebock/ansible-role-types",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-tune2fs",
+      "repo": "https://github.com/robertdebock/ansible-role-tune2fs",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-tomcat",
+      "repo": "https://github.com/robertdebock/ansible-role-tomcat",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-tigervnc",
+      "repo": "https://github.com/robertdebock/ansible-role-tigervnc",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-tftpd",
+      "repo": "https://github.com/robertdebock/ansible-role-tftpd",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-tfe",
+      "repo": "https://github.com/robertdebock/ansible-role-tfe",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-terraform_agent",
+      "repo": "https://github.com/robertdebock/ansible-role-terraform_agent",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-terraform",
+      "repo": "https://github.com/robertdebock/ansible-role-terraform",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-tailscale",
+      "repo": "https://github.com/robertdebock/ansible-role-tailscale",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-systemd",
+      "repo": "https://github.com/robertdebock/ansible-role-systemd",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-sysstat",
+      "repo": "https://github.com/robertdebock/ansible-role-sysstat",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-sysctl",
+      "repo": "https://github.com/robertdebock/ansible-role-sysctl",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-swap",
+      "repo": "https://github.com/robertdebock/ansible-role-swap",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-subversion",
+      "repo": "https://github.com/robertdebock/ansible-role-subversion",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-storage",
+      "repo": "https://github.com/robertdebock/ansible-role-storage",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-squid",
+      "repo": "https://github.com/robertdebock/ansible-role-squid",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-spamassassin",
+      "repo": "https://github.com/robertdebock/ansible-role-spamassassin",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-sosreport",
+      "repo": "https://github.com/robertdebock/ansible-role-sosreport",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-software",
+      "repo": "https://github.com/robertdebock/ansible-role-software",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-snmpd",
+      "repo": "https://github.com/robertdebock/ansible-role-snmpd",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-service",
+      "repo": "https://github.com/robertdebock/ansible-role-service",
+      "url": "https://robertdebock.nl/",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-selinux",
+      "repo": "https://github.com/robertdebock/ansible-role-selinux",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-scripts",
+      "repo": "https://github.com/robertdebock/ansible-role-scripts",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-scl",
+      "repo": "https://github.com/robertdebock/ansible-role-scl",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-rundeck",
+      "repo": "https://github.com/robertdebock/ansible-role-rundeck",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-rsyslog",
+      "repo": "https://github.com/robertdebock/ansible-role-rsyslog",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-roundcubemail",
+      "repo": "https://github.com/robertdebock/ansible-role-roundcubemail",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-revealmd",
+      "repo": "https://github.com/robertdebock/ansible-role-revealmd",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-restore",
+      "repo": "https://github.com/robertdebock/ansible-role-restore",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-remi",
+      "repo": "https://github.com/robertdebock/ansible-role-remi",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-redis",
+      "repo": "https://github.com/robertdebock/ansible-role-redis",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-reboot",
+      "repo": "https://github.com/robertdebock/ansible-role-reboot",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-python_pip",
+      "repo": "https://github.com/robertdebock/ansible-role-python_pip",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-prosody",
+      "repo": "https://github.com/robertdebock/ansible-role-prosody",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-powertop",
+      "repo": "https://github.com/robertdebock/ansible-role-powertop",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-postgres",
+      "repo": "https://github.com/robertdebock/ansible-role-postgres",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-postfix",
+      "repo": "https://github.com/robertdebock/ansible-role-postfix",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-podman",
+      "repo": "https://github.com/robertdebock/ansible-role-podman",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-phpmyadmin",
+      "repo": "https://github.com/robertdebock/ansible-role-phpmyadmin",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-php_fpm",
+      "repo": "https://github.com/robertdebock/ansible-role-php_fpm",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-php",
+      "repo": "https://github.com/robertdebock/ansible-role-php",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-owncloud",
+      "repo": "https://github.com/robertdebock/ansible-role-owncloud",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-oracle_instant_client",
+      "repo": "https://github.com/robertdebock/ansible-role-oracle_instant_client",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-openvpn",
+      "repo": "https://github.com/robertdebock/ansible-role-openvpn",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-openssl",
+      "repo": "https://github.com/robertdebock/ansible-role-openssl",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-openssh",
+      "repo": "https://github.com/robertdebock/ansible-role-openssh",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-openbao_server",
+      "repo": "https://github.com/robertdebock/ansible-role-openbao_server",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-openbao_agent",
+      "repo": "https://github.com/robertdebock/ansible-role-openbao_agent",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-obsproject",
+      "repo": "https://github.com/robertdebock/ansible-role-obsproject",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-ntp",
+      "repo": "https://github.com/robertdebock/ansible-role-ntp",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-npm",
+      "repo": "https://github.com/robertdebock/ansible-role-npm",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-nomad",
+      "repo": "https://github.com/robertdebock/ansible-role-nomad",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-nginx",
+      "repo": "https://github.com/robertdebock/ansible-role-nginx",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-nfsserver",
+      "repo": "https://github.com/robertdebock/ansible-role-nfsserver",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-nextcloud",
+      "repo": "https://github.com/robertdebock/ansible-role-nextcloud",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-mysql",
+      "repo": "https://github.com/robertdebock/ansible-role-mysql",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-mount_options",
+      "repo": "https://github.com/robertdebock/ansible-role-mount_options",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-mount",
+      "repo": "https://github.com/robertdebock/ansible-role-mount",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-mongodb",
+      "repo": "https://github.com/robertdebock/ansible-role-mongodb",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-molecule",
+      "repo": "https://github.com/robertdebock/ansible-role-molecule",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-modprobe",
+      "repo": "https://github.com/robertdebock/ansible-role-modprobe",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-mitogen",
+      "repo": "https://github.com/robertdebock/ansible-role-mitogen",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-microsoft_repository_keys",
+      "repo": "https://github.com/robertdebock/ansible-role-microsoft_repository_keys",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-memcached",
+      "repo": "https://github.com/robertdebock/ansible-role-memcached",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-mediawiki",
+      "repo": "https://github.com/robertdebock/ansible-role-mediawiki",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-mate",
+      "repo": "https://github.com/robertdebock/ansible-role-mate",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-maintenance",
+      "repo": "https://github.com/robertdebock/ansible-role-maintenance",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-lvm",
+      "repo": "https://github.com/robertdebock/ansible-role-lvm",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-luks",
+      "repo": "https://github.com/robertdebock/ansible-role-luks",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-logwatch",
+      "repo": "https://github.com/robertdebock/ansible-role-logwatch",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-logrotate",
+      "repo": "https://github.com/robertdebock/ansible-role-logrotate",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-locale",
+      "repo": "https://github.com/robertdebock/ansible-role-locale",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-kernel",
+      "repo": "https://github.com/robertdebock/ansible-role-kernel",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-keepalived",
+      "repo": "https://github.com/robertdebock/ansible-role-keepalived",
+      "url": "https://robertdebock.nl/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-jitsi",
+      "repo": "https://github.com/robertdebock/ansible-role-jitsi",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-jenkins",
+      "repo": "https://github.com/robertdebock/ansible-role-jenkins",
+      "url": "https://robertdebock.nl/",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-java",
+      "repo": "https://github.com/robertdebock/ansible-role-java",
+      "url": "https://robertdebock.nl/"
+    },
+    {
+      "name": "ansible-role-investigate",
+      "repo": "https://github.com/robertdebock/ansible-role-investigate",
+      "url": "https://robertdebock.nl/"
+    }
+  ]
+}

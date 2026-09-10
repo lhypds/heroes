@@ -1,0 +1,516 @@
+{
+  "handle": "justsml",
+  "name": "Dan Levy",
+  "github": [
+    "https://github.com/justsml"
+  ],
+  "website": "https://danlevy.net/",
+  "bio": "Principal Eng. ❤️ OSS & farm-to-table JS/TS/Golang. Fmr: MagicSchoolAi. NodeJS, Postgis, ReactRouter, angular, lodash, docker, minio, bluebird.",
+  "own_repos": 109,
+  "commits": 15971,
+  "apps": [],
+  "repos": [
+    {
+      "name": "emoji-brain",
+      "repo": "https://github.com/justsml/emoji-brain",
+      "url": "https://emoji-brain.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dans-blog",
+      "repo": "https://github.com/justsml/dans-blog",
+      "url": "https://danlevy.net",
+      "language": "MDX"
+    },
+    {
+      "name": "scaling-ai-agents",
+      "repo": "https://github.com/justsml/scaling-ai-agents",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ExploitHunter.app",
+      "repo": "https://github.com/justsml/ExploitHunter.app",
+      "url": "https://justsml.github.io/ExploitHunter.app/",
+      "language": "HTML"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/justsml/skills",
+      "language": "JavaScript"
+    },
+    {
+      "name": "easy-proxy",
+      "repo": "https://github.com/justsml/easy-proxy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pre-print-check",
+      "repo": "https://github.com/justsml/pre-print-check",
+      "url": "https://justsml.github.io/pre-print-check/",
+      "language": "Go"
+    },
+    {
+      "name": "llm-battle",
+      "repo": "https://github.com/justsml/llm-battle",
+      "language": "TypeScript"
+    },
+    {
+      "name": "versioneer",
+      "repo": "https://github.com/justsml/versioneer",
+      "language": "Go"
+    },
+    {
+      "name": "ai-team-skills",
+      "repo": "https://github.com/justsml/ai-team-skills"
+    },
+    {
+      "name": "streaming-with-mastra-bug-repro",
+      "repo": "https://github.com/justsml/streaming-with-mastra-bug-repro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "llm-module-pattern",
+      "repo": "https://github.com/justsml/llm-module-pattern",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-chat",
+      "repo": "https://github.com/justsml/ai-chat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ash-chat",
+      "repo": "https://github.com/justsml/ash-chat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "adobe-firefly-ai-sdk-provider",
+      "repo": "https://github.com/justsml/adobe-firefly-ai-sdk-provider",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fact-service",
+      "repo": "https://github.com/justsml/fact-service",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rusty-mermaid",
+      "repo": "https://github.com/justsml/rusty-mermaid",
+      "language": "Rust"
+    },
+    {
+      "name": "dans-blog-v3",
+      "repo": "https://github.com/justsml/dans-blog-v3",
+      "language": "TypeScript"
+    },
+    {
+      "name": "knex-spatial",
+      "repo": "https://github.com/justsml/knex-spatial",
+      "language": "TypeScript"
+    },
+    {
+      "name": "knex-full-text-search",
+      "repo": "https://github.com/justsml/knex-full-text-search",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lambda-response-helpers",
+      "repo": "https://github.com/justsml/lambda-response-helpers",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-streaming-image-proxy",
+      "repo": "https://github.com/justsml/node-streaming-image-proxy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rxjs",
+      "repo": "https://github.com/justsml/rxjs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "safer-fetch",
+      "repo": "https://github.com/justsml/safer-fetch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "modern-app-template",
+      "repo": "https://github.com/justsml/modern-app-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "escape-from-callback-mountain",
+      "repo": "https://github.com/justsml/escape-from-callback-mountain",
+      "language": "JavaScript"
+    },
+    {
+      "name": "adorbs-as-a-service",
+      "repo": "https://github.com/justsml/adorbs-as-a-service",
+      "url": "https://adorbs-as-a-service.herokuapp.com/api/v1/800w/600h/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unfuxml",
+      "repo": "https://github.com/justsml/unfuxml",
+      "language": "TypeScript"
+    },
+    {
+      "name": "safer-axios",
+      "repo": "https://github.com/justsml/safer-axios",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sqlite-factory",
+      "repo": "https://github.com/justsml/sqlite-factory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "snek-js",
+      "repo": "https://github.com/justsml/snek-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "schema-analyzer",
+      "repo": "https://github.com/justsml/schema-analyzer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "schema-generator",
+      "repo": "https://github.com/justsml/schema-generator",
+      "url": "https://schema-generator.danlevy.net/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lecturebot",
+      "repo": "https://github.com/justsml/lecturebot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "SCRW",
+      "repo": "https://github.com/justsml/SCRW",
+      "language": "HTML"
+    },
+    {
+      "name": "express-exercise-1",
+      "repo": "https://github.com/justsml/express-exercise-1",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nested-data-exercises",
+      "repo": "https://github.com/justsml/nested-data-exercises",
+      "url": "https://codesandbox.io/s/github/justsml/nested-data-exercises?previewwindow=tests",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slackquer",
+      "repo": "https://github.com/justsml/slackquer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oauth-code-along",
+      "repo": "https://github.com/justsml/oauth-code-along",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dan-as-a-service",
+      "repo": "https://github.com/justsml/dan-as-a-service",
+      "url": "https://begin.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "airtable-helpers",
+      "repo": "https://github.com/justsml/airtable-helpers",
+      "url": "https://begin.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "justsml",
+      "repo": "https://github.com/justsml/justsml"
+    },
+    {
+      "name": "guides",
+      "repo": "https://github.com/justsml/guides",
+      "language": "JavaScript"
+    },
+    {
+      "name": "auto-config",
+      "repo": "https://github.com/justsml/auto-config",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dev-rank",
+      "repo": "https://github.com/justsml/dev-rank"
+    },
+    {
+      "name": "system-setup-tools",
+      "repo": "https://github.com/justsml/system-setup-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "katacoda-scenarios",
+      "repo": "https://github.com/justsml/katacoda-scenarios",
+      "language": "Shell"
+    },
+    {
+      "name": "ssl-proxy",
+      "repo": "https://github.com/justsml/ssl-proxy",
+      "url": "https://hub.docker.com/r/justsml/ssl-proxy/",
+      "language": "Shell"
+    },
+    {
+      "name": "svelte-masked-input",
+      "repo": "https://github.com/justsml/svelte-masked-input",
+      "url": "https://codesandbox.io/s/github/justsml/svelte-masked-input"
+    },
+    {
+      "name": "bash-snippets",
+      "repo": "https://github.com/justsml/bash-snippets"
+    },
+    {
+      "name": "multiple-choice-quiz-component",
+      "repo": "https://github.com/justsml/multiple-choice-quiz-component",
+      "url": "https://stackblitz.com/edit/react-multiple-choice-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "auth-starter",
+      "repo": "https://github.com/justsml/auth-starter",
+      "url": "https://codesandbox.io/s/github/justsml/auth-starter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-diff-performance",
+      "repo": "https://github.com/justsml/json-diff-performance",
+      "language": "JavaScript"
+    },
+    {
+      "name": "exercises-template",
+      "repo": "https://github.com/justsml/exercises-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "BE-Party-Planner",
+      "repo": "https://github.com/justsml/BE-Party-Planner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-router-kittens-exercise",
+      "repo": "https://github.com/justsml/react-router-kittens-exercise",
+      "url": "https://codesandbox.io/s/github/justsml/react-router-kittens-exercise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "-react-components-newsfeed",
+      "repo": "https://github.com/justsml/-react-components-newsfeed",
+      "url": "https://codesandbox.io/s/github/justsml/+react-components-newsfeed"
+    },
+    {
+      "name": "react-components-newsfeed",
+      "repo": "https://github.com/justsml/react-components-newsfeed",
+      "url": "https://codesandbox.io/s/github/justsml/+react-components-newsfeed"
+    },
+    {
+      "name": "promise-advanced-exercises",
+      "repo": "https://github.com/justsml/promise-advanced-exercises"
+    },
+    {
+      "name": "promise-basics-exercises",
+      "repo": "https://github.com/justsml/promise-basics-exercises"
+    },
+    {
+      "name": "components-challenge",
+      "repo": "https://github.com/justsml/components-challenge",
+      "url": "https://codesandbox.io/s/github/justsml/components-challenge",
+      "language": "HTML"
+    },
+    {
+      "name": "git-lecture",
+      "repo": "https://github.com/justsml/git-lecture"
+    },
+    {
+      "name": "jbseppanen.github.io",
+      "repo": "https://github.com/justsml/jbseppanen.github.io",
+      "language": "CSS"
+    },
+    {
+      "name": "angular-store-service",
+      "repo": "https://github.com/justsml/angular-store-service",
+      "url": "https://stackblitz.com/edit/angular-rxjs-store-grh7ki",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-sass-component-examples",
+      "repo": "https://github.com/justsml/react-sass-component-examples",
+      "url": "https://codesandbox.io/s/github/justsml/react-sass-component-examples",
+      "language": "JavaScript"
+    },
+    {
+      "name": "game-state-manager",
+      "repo": "https://github.com/justsml/game-state-manager"
+    },
+    {
+      "name": "css-swatchify",
+      "repo": "https://github.com/justsml/css-swatchify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "archive.justsml.github.io",
+      "repo": "https://github.com/justsml/archive.justsml.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "heroku-auto-deploy",
+      "repo": "https://github.com/justsml/heroku-auto-deploy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gschool-rest-api",
+      "repo": "https://github.com/justsml/gschool-rest-api",
+      "url": "https://gschool-rest-api.herokuapp.com/"
+    },
+    {
+      "name": "array-flashcards",
+      "repo": "https://github.com/justsml/array-flashcards"
+    },
+    {
+      "name": "simple-github-hosting",
+      "repo": "https://github.com/justsml/simple-github-hosting",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compression-report",
+      "repo": "https://github.com/justsml/compression-report",
+      "language": "Shell"
+    },
+    {
+      "name": "running-in-place",
+      "repo": "https://github.com/justsml/running-in-place"
+    },
+    {
+      "name": "git-money",
+      "repo": "https://github.com/justsml/git-money"
+    },
+    {
+      "name": "g-react-jan22",
+      "repo": "https://github.com/justsml/g-react-jan22",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wordpress-ajax-example-plugin",
+      "repo": "https://github.com/justsml/wordpress-ajax-example-plugin",
+      "language": "PHP"
+    },
+    {
+      "name": "g59-q4-tdd-oop",
+      "repo": "https://github.com/justsml/g59-q4-tdd-oop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hash-it",
+      "repo": "https://github.com/justsml/hash-it",
+      "language": "JavaScript"
+    },
+    {
+      "name": "restful-chat",
+      "repo": "https://github.com/justsml/restful-chat"
+    },
+    {
+      "name": "g59-fun-with-arrays",
+      "repo": "https://github.com/justsml/g59-fun-with-arrays",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-express-project",
+      "repo": "https://github.com/justsml/simple-express-project",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rest-mongodb-template",
+      "repo": "https://github.com/justsml/rest-mongodb-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-auth",
+      "repo": "https://github.com/justsml/simple-auth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-phantom-node",
+      "repo": "https://github.com/justsml/docker-phantom-node",
+      "language": "Shell"
+    },
+    {
+      "name": "monogram",
+      "repo": "https://github.com/justsml/monogram",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bikeshed",
+      "repo": "https://github.com/justsml/bikeshed"
+    },
+    {
+      "name": "js-64bit-integer-examples",
+      "repo": "https://github.com/justsml/js-64bit-integer-examples",
+      "language": "JavaScript"
+    },
+    {
+      "name": "angular-material-es6-example",
+      "repo": "https://github.com/justsml/angular-material-es6-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/justsml/blog",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-build-server",
+      "repo": "https://github.com/justsml/docker-build-server",
+      "url": "https://hub.docker.com/r/justsml/docker-build-server/",
+      "language": "Ruby"
+    },
+    {
+      "name": "factory-rancher",
+      "repo": "https://github.com/justsml/factory-rancher",
+      "language": "Ruby"
+    },
+    {
+      "name": "horizontal-scroller",
+      "repo": "https://github.com/justsml/horizontal-scroller",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-reactor",
+      "repo": "https://github.com/justsml/json-reactor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "junk-parser",
+      "repo": "https://github.com/justsml/junk-parser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slim-fetchy",
+      "repo": "https://github.com/justsml/slim-fetchy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "post-bin",
+      "repo": "https://github.com/justsml/post-bin"
+    },
+    {
+      "name": "instascrape",
+      "repo": "https://github.com/justsml/instascrape",
+      "language": "JavaScript"
+    },
+    {
+      "name": "power-table",
+      "repo": "https://github.com/justsml/power-table",
+      "language": "JavaScript"
+    },
+    {
+      "name": "config-editor",
+      "repo": "https://github.com/justsml/config-editor"
+    }
+  ]
+}

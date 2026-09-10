@@ -1,0 +1,494 @@
+{
+  "handle": "lorenzobettini",
+  "name": "Lorenzo Bettini",
+  "github": [
+    "https://github.com/lorenzobettini"
+  ],
+  "own_repos": 169,
+  "commits": 11925,
+  "apps": [],
+  "repos": [
+    {
+      "name": "sonarqube-example",
+      "repo": "https://github.com/LorenzoBettini/sonarqube-example",
+      "language": "Java"
+    },
+    {
+      "name": "jnrtest",
+      "repo": "https://github.com/LorenzoBettini/jnrtest",
+      "language": "Java"
+    },
+    {
+      "name": "ui-docker-mongo-example",
+      "repo": "https://github.com/LorenzoBettini/ui-docker-mongo-example",
+      "language": "Java"
+    },
+    {
+      "name": "app-ui-docker-mongo-example",
+      "repo": "https://github.com/LorenzoBettini/app-ui-docker-mongo-example",
+      "language": "Java"
+    },
+    {
+      "name": "xtext-build-utils",
+      "repo": "https://github.com/LorenzoBettini/xtext-build-utils",
+      "language": "Java"
+    },
+    {
+      "name": "it-docker-mongo-example",
+      "repo": "https://github.com/LorenzoBettini/it-docker-mongo-example",
+      "language": "Java"
+    },
+    {
+      "name": "emf-model-generator",
+      "repo": "https://github.com/LorenzoBettini/emf-model-generator",
+      "language": "Java"
+    },
+    {
+      "name": "emf-model-generator-update-site-sources",
+      "repo": "https://github.com/LorenzoBettini/emf-model-generator-update-site-sources"
+    },
+    {
+      "name": "edelta",
+      "repo": "https://github.com/LorenzoBettini/edelta",
+      "language": "Java"
+    },
+    {
+      "name": "edelta-example-migration-personlist",
+      "repo": "https://github.com/LorenzoBettini/edelta-example-migration-personlist",
+      "language": "Java"
+    },
+    {
+      "name": "xklaim",
+      "repo": "https://github.com/LorenzoBettini/xklaim",
+      "language": "Java"
+    },
+    {
+      "name": "docker-java-example",
+      "repo": "https://github.com/LorenzoBettini/docker-java-example",
+      "language": "Java"
+    },
+    {
+      "name": "ansible-arch-playbooks",
+      "repo": "https://github.com/LorenzoBettini/ansible-arch-playbooks",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-ubuntu-ppa-examples",
+      "repo": "https://github.com/LorenzoBettini/ansible-ubuntu-ppa-examples"
+    },
+    {
+      "name": "my_gnome_role",
+      "repo": "https://github.com/LorenzoBettini/my_gnome_role"
+    },
+    {
+      "name": "my_nerd_fonts_role",
+      "repo": "https://github.com/LorenzoBettini/my_nerd_fonts_role"
+    },
+    {
+      "name": "ansible-chezmoi-example",
+      "repo": "https://github.com/LorenzoBettini/ansible-chezmoi-example",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "my_kde_role",
+      "repo": "https://github.com/LorenzoBettini/my_kde_role",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-fedora-playbook",
+      "repo": "https://github.com/LorenzoBettini/ansible-fedora-playbook",
+      "language": "Shell"
+    },
+    {
+      "name": "emf-model-generator-update-site",
+      "repo": "https://github.com/LorenzoBettini/emf-model-generator-update-site",
+      "language": "HTML"
+    },
+    {
+      "name": "bart",
+      "repo": "https://github.com/LorenzoBettini/bart",
+      "language": "Java"
+    },
+    {
+      "name": "github-ci-example",
+      "repo": "https://github.com/LorenzoBettini/github-ci-example",
+      "language": "Java"
+    },
+    {
+      "name": "ansible-ubuntu-playbook",
+      "repo": "https://github.com/LorenzoBettini/ansible-ubuntu-playbook",
+      "language": "Shell"
+    },
+    {
+      "name": "xklaim-releases",
+      "repo": "https://github.com/LorenzoBettini/xklaim-releases"
+    },
+    {
+      "name": "xklaim-runtime-monitoring",
+      "repo": "https://github.com/LorenzoBettini/xklaim-runtime-monitoring",
+      "language": "Java"
+    },
+    {
+      "name": "edelta-releases",
+      "repo": "https://github.com/LorenzoBettini/edelta-releases"
+    },
+    {
+      "name": "mockito-example",
+      "repo": "https://github.com/LorenzoBettini/mockito-example",
+      "language": "Java"
+    },
+    {
+      "name": "tdd-factorial-example",
+      "repo": "https://github.com/LorenzoBettini/tdd-factorial-example",
+      "language": "Java"
+    },
+    {
+      "name": "tdd-factorial-alternative-example",
+      "repo": "https://github.com/LorenzoBettini/tdd-factorial-alternative-example",
+      "language": "Java"
+    },
+    {
+      "name": "demo-attsw",
+      "repo": "https://github.com/LorenzoBettini/demo-attsw",
+      "language": "Java"
+    },
+    {
+      "name": "docker-compose-java-example",
+      "repo": "https://github.com/LorenzoBettini/docker-compose-java-example",
+      "language": "Java"
+    },
+    {
+      "name": "maven-bank-example",
+      "repo": "https://github.com/LorenzoBettini/maven-bank-example",
+      "language": "Java"
+    },
+    {
+      "name": "maven-bank-multimodule-example",
+      "repo": "https://github.com/LorenzoBettini/maven-bank-multimodule-example",
+      "language": "Java"
+    },
+    {
+      "name": "lazyvim-tex",
+      "repo": "https://github.com/LorenzoBettini/lazyvim-tex",
+      "language": "Lua"
+    },
+    {
+      "name": "hello-jersey",
+      "repo": "https://github.com/LorenzoBettini/hello-jersey",
+      "language": "Java"
+    },
+    {
+      "name": "jnrtest-performance",
+      "repo": "https://github.com/LorenzoBettini/jnrtest-performance"
+    },
+    {
+      "name": "edelta-example-migration-library",
+      "repo": "https://github.com/LorenzoBettini/edelta-example-migration-library",
+      "language": "Java"
+    },
+    {
+      "name": "tycho-site-references-example",
+      "repo": "https://github.com/LorenzoBettini/tycho-site-references-example",
+      "language": "Java"
+    },
+    {
+      "name": "lazyvim-java",
+      "repo": "https://github.com/LorenzoBettini/lazyvim-java",
+      "language": "Lua"
+    },
+    {
+      "name": "maven-relocation-example",
+      "repo": "https://github.com/LorenzoBettini/maven-relocation-example",
+      "language": "Java"
+    },
+    {
+      "name": "colpo",
+      "repo": "https://github.com/LorenzoBettini/colpo",
+      "language": "Java"
+    },
+    {
+      "name": "demo-spring-testing",
+      "repo": "https://github.com/LorenzoBettini/demo-spring-testing",
+      "language": "Java"
+    },
+    {
+      "name": "neovim-gitpod-example",
+      "repo": "https://github.com/LorenzoBettini/neovim-gitpod-example",
+      "language": "Lua"
+    },
+    {
+      "name": "ansible-molecule-oh-my-zsh-example",
+      "repo": "https://github.com/LorenzoBettini/ansible-molecule-oh-my-zsh-example",
+      "language": "Shell"
+    },
+    {
+      "name": "mutation-testing-bank-example",
+      "repo": "https://github.com/LorenzoBettini/mutation-testing-bank-example",
+      "language": "Java"
+    },
+    {
+      "name": "tdd-string-example",
+      "repo": "https://github.com/LorenzoBettini/tdd-string-example",
+      "language": "Java"
+    },
+    {
+      "name": "mutation-testing-initial-example",
+      "repo": "https://github.com/LorenzoBettini/mutation-testing-initial-example",
+      "language": "Java"
+    },
+    {
+      "name": "codecoverage-example",
+      "repo": "https://github.com/LorenzoBettini/codecoverage-example",
+      "language": "Java"
+    },
+    {
+      "name": "factorial-codecoverage-example",
+      "repo": "https://github.com/LorenzoBettini/factorial-codecoverage-example",
+      "language": "Java"
+    },
+    {
+      "name": "simple-sonarqube-example",
+      "repo": "https://github.com/LorenzoBettini/simple-sonarqube-example",
+      "language": "Java"
+    },
+    {
+      "name": "assertj-log4j-bank-example",
+      "repo": "https://github.com/LorenzoBettini/assertj-log4j-bank-example",
+      "language": "Java"
+    },
+    {
+      "name": "bart-syntax-semantics",
+      "repo": "https://github.com/LorenzoBettini/bart-syntax-semantics"
+    },
+    {
+      "name": "my-archlinux-install-script",
+      "repo": "https://github.com/LorenzoBettini/my-archlinux-install-script",
+      "language": "Shell"
+    },
+    {
+      "name": "maven-multimodule-example",
+      "repo": "https://github.com/LorenzoBettini/maven-multimodule-example",
+      "language": "Java"
+    },
+    {
+      "name": "maven-embedder-example",
+      "repo": "https://github.com/LorenzoBettini/maven-embedder-example",
+      "language": "Java"
+    },
+    {
+      "name": "github-actions-publish-test-results-example",
+      "repo": "https://github.com/LorenzoBettini/github-actions-publish-test-results-example",
+      "language": "Java"
+    },
+    {
+      "name": "jvm-generic-type-validator-example",
+      "repo": "https://github.com/LorenzoBettini/jvm-generic-type-validator-example",
+      "language": "Xtend"
+    },
+    {
+      "name": "maven-bom-profiles-example",
+      "repo": "https://github.com/LorenzoBettini/maven-bom-profiles-example",
+      "language": "Java"
+    },
+    {
+      "name": "maven-wrapper-parse-home-example",
+      "repo": "https://github.com/LorenzoBettini/maven-wrapper-parse-home-example",
+      "language": "Java"
+    },
+    {
+      "name": "ansible-chezmoi-dotfiles-example",
+      "repo": "https://github.com/LorenzoBettini/ansible-chezmoi-dotfiles-example",
+      "language": "Lua"
+    },
+    {
+      "name": "ansible-molecule-gitpod-example",
+      "repo": "https://github.com/LorenzoBettini/ansible-molecule-gitpod-example"
+    },
+    {
+      "name": "maven-verifier-example",
+      "repo": "https://github.com/LorenzoBettini/maven-verifier-example",
+      "language": "Java"
+    },
+    {
+      "name": "p2composite-maven-plugin",
+      "repo": "https://github.com/LorenzoBettini/p2composite-maven-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "java-maven-gitpod-example",
+      "repo": "https://github.com/LorenzoBettini/java-maven-gitpod-example",
+      "language": "Java"
+    },
+    {
+      "name": "hello-servlet",
+      "repo": "https://github.com/LorenzoBettini/hello-servlet",
+      "language": "Java"
+    },
+    {
+      "name": "app-guice-ui-docker-mongo-example",
+      "repo": "https://github.com/LorenzoBettini/app-guice-ui-docker-mongo-example",
+      "language": "Java"
+    },
+    {
+      "name": "emf-parsley-demo-rcp-rap",
+      "repo": "https://github.com/LorenzoBettini/emf-parsley-demo-rcp-rap",
+      "language": "Java"
+    },
+    {
+      "name": "maven-versions-example",
+      "repo": "https://github.com/LorenzoBettini/maven-versions-example",
+      "language": "Java"
+    },
+    {
+      "name": "Advanced-Tech",
+      "repo": "https://github.com/LorenzoBettini/Advanced-Tech",
+      "language": "Java"
+    },
+    {
+      "name": "ansible-role-zsh",
+      "repo": "https://github.com/LorenzoBettini/ansible-role-zsh",
+      "language": "Shell"
+    },
+    {
+      "name": "p2composite-github-pages-example",
+      "repo": "https://github.com/LorenzoBettini/p2composite-github-pages-example",
+      "language": "Java"
+    },
+    {
+      "name": "xklaim-ros-warehouse-scenarios",
+      "repo": "https://github.com/LorenzoBettini/xklaim-ros-warehouse-scenarios",
+      "language": "HTML"
+    },
+    {
+      "name": "github-actions-push-pr-example",
+      "repo": "https://github.com/LorenzoBettini/github-actions-push-pr-example",
+      "language": "Java"
+    },
+    {
+      "name": "java-examples",
+      "repo": "https://github.com/LorenzoBettini/java-examples",
+      "language": "Java"
+    },
+    {
+      "name": "tycho-archive-example",
+      "repo": "https://github.com/LorenzoBettini/tycho-archive-example",
+      "language": "Java"
+    },
+    {
+      "name": "mutation-testing-factorial-example",
+      "repo": "https://github.com/LorenzoBettini/mutation-testing-factorial-example",
+      "language": "Java"
+    },
+    {
+      "name": "junit-bank-example",
+      "repo": "https://github.com/LorenzoBettini/junit-bank-example",
+      "language": "Java"
+    },
+    {
+      "name": "maven-gitpod-example",
+      "repo": "https://github.com/LorenzoBettini/maven-gitpod-example",
+      "language": "Java"
+    },
+    {
+      "name": "xklaim-ros-multi-robot-warehouse-example",
+      "repo": "https://github.com/LorenzoBettini/xklaim-ros-multi-robot-warehouse-example",
+      "language": "Java"
+    },
+    {
+      "name": "github-actions-cache-example",
+      "repo": "https://github.com/LorenzoBettini/github-actions-cache-example",
+      "language": "Java"
+    },
+    {
+      "name": "issue-2000-example",
+      "repo": "https://github.com/LorenzoBettini/issue-2000-example",
+      "language": "Java"
+    },
+    {
+      "name": "github-actions-cache-job-example",
+      "repo": "https://github.com/LorenzoBettini/github-actions-cache-job-example",
+      "language": "Java"
+    },
+    {
+      "name": "demo-spring-first",
+      "repo": "https://github.com/LorenzoBettini/demo-spring-first",
+      "language": "Java"
+    },
+    {
+      "name": "github-actions-cache-job-ansible-example",
+      "repo": "https://github.com/LorenzoBettini/github-actions-cache-job-ansible-example"
+    },
+    {
+      "name": "maven-site-github-example",
+      "repo": "https://github.com/LorenzoBettini/maven-site-github-example",
+      "language": "Java"
+    },
+    {
+      "name": "xtext-maven-plugin-example",
+      "repo": "https://github.com/LorenzoBettini/xtext-maven-plugin-example",
+      "language": "Java"
+    },
+    {
+      "name": "tycho-mirror-example",
+      "repo": "https://github.com/LorenzoBettini/tycho-mirror-example"
+    },
+    {
+      "name": "javamm",
+      "repo": "https://github.com/LorenzoBettini/javamm",
+      "language": "Xtend"
+    },
+    {
+      "name": "javamm-releases",
+      "repo": "https://github.com/LorenzoBettini/javamm-releases"
+    },
+    {
+      "name": "jbase",
+      "repo": "https://github.com/LorenzoBettini/jbase",
+      "language": "Xtend"
+    },
+    {
+      "name": "jbase-releases",
+      "repo": "https://github.com/LorenzoBettini/jbase-releases"
+    },
+    {
+      "name": "tycho-surefire-example",
+      "repo": "https://github.com/LorenzoBettini/tycho-surefire-example",
+      "language": "Java"
+    },
+    {
+      "name": "xklaim-ros-collective-example",
+      "repo": "https://github.com/LorenzoBettini/xklaim-ros-collective-example",
+      "language": "Java"
+    },
+    {
+      "name": "edelta-snapshots",
+      "repo": "https://github.com/LorenzoBettini/edelta-snapshots"
+    },
+    {
+      "name": "javamm-snapshots",
+      "repo": "https://github.com/LorenzoBettini/javamm-snapshots"
+    },
+    {
+      "name": "edelta-safe-metamodel-evolution-examples",
+      "repo": "https://github.com/LorenzoBettini/edelta-safe-metamodel-evolution-examples",
+      "language": "Java"
+    },
+    {
+      "name": "xtext-domain-model-guice-5",
+      "repo": "https://github.com/LorenzoBettini/xtext-domain-model-guice-5",
+      "language": "Xtend"
+    },
+    {
+      "name": "xtext-xdoc-releases",
+      "repo": "https://github.com/LorenzoBettini/xtext-xdoc-releases"
+    },
+    {
+      "name": "p2composite-github-pages-example-updates",
+      "repo": "https://github.com/LorenzoBettini/p2composite-github-pages-example-updates"
+    },
+    {
+      "name": "tdd-buildautomation-ci-book-examples",
+      "repo": "https://github.com/LorenzoBettini/tdd-buildautomation-ci-book-examples"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "handle": "usausa",
+  "name": "山奥通信",
+  "github": [
+    "https://github.com/usausa"
+  ],
+  "own_repos": 180,
+  "commits": 16110,
+  "apps": [],
+  "repos": [
+    {
+      "name": "template-blazor-server",
+      "repo": "https://github.com/usausa/template-blazor-server",
+      "language": "C#"
+    },
+    {
+      "name": "template-maui-server",
+      "repo": "https://github.com/usausa/template-maui-server",
+      "language": "C#"
+    },
+    {
+      "name": "usausa",
+      "repo": "https://github.com/usausa/usausa",
+      "language": "C#"
+    },
+    {
+      "name": "experimental-auth",
+      "repo": "https://github.com/usausa/experimental-auth",
+      "language": "C#"
+    },
+    {
+      "name": "template-maui-keyboard",
+      "repo": "https://github.com/usausa/template-maui-keyboard",
+      "language": "C#"
+    },
+    {
+      "name": "template-maui-blazor",
+      "repo": "https://github.com/usausa/template-maui-blazor",
+      "language": "C#"
+    },
+    {
+      "name": "template-maui",
+      "repo": "https://github.com/usausa/template-maui",
+      "language": "C#"
+    },
+    {
+      "name": "template-blazor-wasm",
+      "repo": "https://github.com/usausa/template-blazor-wasm",
+      "language": "C#"
+    },
+    {
+      "name": "Work-Project-Maui",
+      "repo": "https://github.com/usausa/Work-Project-Maui",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Data-Accessor",
+      "repo": "https://github.com/usausa/Smart-Net-Data-Accessor",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Navigation",
+      "repo": "https://github.com/usausa/Smart-Net-Navigation",
+      "language": "C#"
+    },
+    {
+      "name": "template-grpc-server",
+      "repo": "https://github.com/usausa/template-grpc-server",
+      "language": "C#"
+    },
+    {
+      "name": "template-web-mvc",
+      "repo": "https://github.com/usausa/template-web-mvc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-web-api",
+      "repo": "https://github.com/usausa/template-web-api",
+      "language": "C#"
+    },
+    {
+      "name": "claude",
+      "repo": "https://github.com/usausa/claude",
+      "language": "PowerShell"
+    },
+    {
+      "name": "Smart-Net-Mapper",
+      "repo": "https://github.com/usausa/Smart-Net-Mapper",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-CommandLine",
+      "repo": "https://github.com/usausa/Smart-Net-CommandLine",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Mvvm",
+      "repo": "https://github.com/usausa/Smart-Net-Mvvm",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-AspNetCore",
+      "repo": "https://github.com/usausa/Smart-Net-AspNetCore",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Converter",
+      "repo": "https://github.com/usausa/Smart-Net-Converter",
+      "language": "C#"
+    },
+    {
+      "name": "template-aws-s3-wasm",
+      "repo": "https://github.com/usausa/template-aws-s3-wasm",
+      "language": "C#"
+    },
+    {
+      "name": "prometheus-exporter-alternative",
+      "repo": "https://github.com/usausa/prometheus-exporter-alternative",
+      "language": "C#"
+    },
+    {
+      "name": "raccoon-rdp-proxy",
+      "repo": "https://github.com/usausa/raccoon-rdp-proxy",
+      "language": "C#"
+    },
+    {
+      "name": "linux-dotnet",
+      "repo": "https://github.com/usausa/linux-dotnet",
+      "language": "C#"
+    },
+    {
+      "name": "pc-agent",
+      "repo": "https://github.com/usausa/pc-agent",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Resolver",
+      "repo": "https://github.com/usausa/Smart-Net-Resolver",
+      "language": "C#"
+    },
+    {
+      "name": "bunnytail-xaml-property",
+      "repo": "https://github.com/usausa/bunnytail-xaml-property",
+      "language": "C#"
+    },
+    {
+      "name": "bunnytail-service-registration",
+      "repo": "https://github.com/usausa/bunnytail-service-registration",
+      "language": "C#"
+    },
+    {
+      "name": "bunnytail-member-accessor",
+      "repo": "https://github.com/usausa/bunnytail-member-accessor",
+      "language": "C#"
+    },
+    {
+      "name": "bunnytail-common-code",
+      "repo": "https://github.com/usausa/bunnytail-common-code",
+      "language": "C#"
+    },
+    {
+      "name": "bunnytail-embedded-build-property",
+      "repo": "https://github.com/usausa/bunnytail-embedded-build-property",
+      "language": "C#"
+    },
+    {
+      "name": "MauiComponents",
+      "repo": "https://github.com/usausa/MauiComponents",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Windows",
+      "repo": "https://github.com/usausa/Smart-Net-Windows",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Maui",
+      "repo": "https://github.com/usausa/Smart-Net-Maui",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Avalonia",
+      "repo": "https://github.com/usausa/Smart-Net-Avalonia",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-ByteMapper",
+      "repo": "https://github.com/usausa/Smart-Net-ByteMapper",
+      "language": "C#"
+    },
+    {
+      "name": "bunnytail-dependency-injection",
+      "repo": "https://github.com/usausa/bunnytail-dependency-injection",
+      "language": "C#"
+    },
+    {
+      "name": "mini-data-profiler",
+      "repo": "https://github.com/usausa/mini-data-profiler",
+      "language": "C#"
+    },
+    {
+      "name": "Rester",
+      "repo": "https://github.com/usausa/Rester",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-performance",
+      "repo": "https://github.com/usausa/dotnet-performance",
+      "language": "C#"
+    },
+    {
+      "name": "amazon-lambda-extension",
+      "repo": "https://github.com/usausa/amazon-lambda-extension",
+      "language": "C#"
+    },
+    {
+      "name": "azure-functions-extension",
+      "repo": "https://github.com/usausa/azure-functions-extension",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Mock-Data",
+      "repo": "https://github.com/usausa/Smart-Net-Mock-Data",
+      "language": "C#"
+    },
+    {
+      "name": "mofucat-sqlite-configuration",
+      "repo": "https://github.com/usausa/mofucat-sqlite-configuration",
+      "language": "C#"
+    },
+    {
+      "name": "mofucat-serial-io",
+      "repo": "https://github.com/usausa/mofucat-serial-io",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Text-Japanese",
+      "repo": "https://github.com/usausa/Smart-Net-Text-Japanese",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Results",
+      "repo": "https://github.com/usausa/Smart-Net-Results",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Reactive",
+      "repo": "https://github.com/usausa/Smart-Net-Reactive",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Data",
+      "repo": "https://github.com/usausa/Smart-Net-Data",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Data-Mapper",
+      "repo": "https://github.com/usausa/Smart-Net-Data-Mapper",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net",
+      "repo": "https://github.com/usausa/Smart-Net",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Analyzers-JapaneseComment",
+      "repo": "https://github.com/usausa/Smart-Net-Analyzers-JapaneseComment",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Blazor",
+      "repo": "https://github.com/usausa/Smart-Net-Blazor",
+      "language": "C#"
+    },
+    {
+      "name": "oyster-report",
+      "repo": "https://github.com/usausa/oyster-report",
+      "language": "C#"
+    },
+    {
+      "name": "mofucat-job-scheduler",
+      "repo": "https://github.com/usausa/mofucat-job-scheduler",
+      "language": "C#"
+    },
+    {
+      "name": "mofucat-data-bridge",
+      "repo": "https://github.com/usausa/mofucat-data-bridge",
+      "language": "C#"
+    },
+    {
+      "name": "source-generate-helper",
+      "repo": "https://github.com/usausa/source-generate-helper",
+      "language": "C#"
+    },
+    {
+      "name": "work-avalonia",
+      "repo": "https://github.com/usausa/work-avalonia",
+      "language": "C#"
+    },
+    {
+      "name": "template-azure-functions",
+      "repo": "https://github.com/usausa/template-azure-functions",
+      "language": "C#"
+    },
+    {
+      "name": "device-manager",
+      "repo": "https://github.com/usausa/device-manager",
+      "language": "C#"
+    },
+    {
+      "name": "experimental-storage",
+      "repo": "https://github.com/usausa/experimental-storage",
+      "language": "C#"
+    },
+    {
+      "name": "experimental-telemetry",
+      "repo": "https://github.com/usausa/experimental-telemetry",
+      "language": "C#"
+    },
+    {
+      "name": "template-library-with-generator",
+      "repo": "https://github.com/usausa/template-library-with-generator",
+      "language": "C#"
+    },
+    {
+      "name": "example-avalonia-linux",
+      "repo": "https://github.com/usausa/example-avalonia-linux",
+      "language": "C#"
+    },
+    {
+      "name": "example-avalonia-embedded",
+      "repo": "https://github.com/usausa/example-avalonia-embedded",
+      "language": "C#"
+    },
+    {
+      "name": "template-avalonia-embedded",
+      "repo": "https://github.com/usausa/template-avalonia-embedded",
+      "language": "C#"
+    },
+    {
+      "name": "template-avalonia-desktop",
+      "repo": "https://github.com/usausa/template-avalonia-desktop",
+      "language": "C#"
+    },
+    {
+      "name": "template-wpf",
+      "repo": "https://github.com/usausa/template-wpf",
+      "language": "C#"
+    },
+    {
+      "name": "template-command-server",
+      "repo": "https://github.com/usausa/template-command-server",
+      "language": "C#"
+    },
+    {
+      "name": "template-command-tool",
+      "repo": "https://github.com/usausa/template-command-tool",
+      "language": "C#"
+    },
+    {
+      "name": "cloc-view",
+      "repo": "https://github.com/usausa/cloc-view",
+      "language": "C#"
+    },
+    {
+      "name": "storage-explore",
+      "repo": "https://github.com/usausa/storage-explore",
+      "language": "C#"
+    },
+    {
+      "name": "raccoon-dns-relay",
+      "repo": "https://github.com/usausa/raccoon-dns-relay",
+      "language": "C#"
+    },
+    {
+      "name": "template-aws-lambda",
+      "repo": "https://github.com/usausa/template-aws-lambda",
+      "language": "C#"
+    },
+    {
+      "name": "divoom-tool",
+      "repo": "https://github.com/usausa/divoom-tool",
+      "language": "C#"
+    },
+    {
+      "name": "avalonia-disk-info",
+      "repo": "https://github.com/usausa/avalonia-disk-info",
+      "language": "C#"
+    },
+    {
+      "name": "resource-monitor",
+      "repo": "https://github.com/usausa/resource-monitor",
+      "language": "C#"
+    },
+    {
+      "name": "turing-smart-screen",
+      "repo": "https://github.com/usausa/turing-smart-screen",
+      "language": "C#"
+    },
+    {
+      "name": "mofucat-tcp-service",
+      "repo": "https://github.com/usausa/mofucat-tcp-service",
+      "language": "C#"
+    },
+    {
+      "name": "template-architecture",
+      "repo": "https://github.com/usausa/template-architecture"
+    },
+    {
+      "name": "mac-stat-display",
+      "repo": "https://github.com/usausa/mac-stat-display",
+      "language": "C#"
+    },
+    {
+      "name": "mac-dotnet",
+      "repo": "https://github.com/usausa/mac-dotnet",
+      "language": "C#"
+    },
+    {
+      "name": "devicelib-sensor-omron",
+      "repo": "https://github.com/usausa/devicelib-sensor-omron",
+      "language": "C#"
+    },
+    {
+      "name": "experimental-chat",
+      "repo": "https://github.com/usausa/experimental-chat",
+      "language": "C#"
+    },
+    {
+      "name": "Smart-Net-Data-Compatibility",
+      "repo": "https://github.com/usausa/Smart-Net-Data-Compatibility",
+      "language": "C#"
+    },
+    {
+      "name": "npgsql-bulk-helper",
+      "repo": "https://github.com/usausa/npgsql-bulk-helper",
+      "language": "C#"
+    },
+    {
+      "name": "mofucat-micro-host",
+      "repo": "https://github.com/usausa/mofucat-micro-host",
+      "language": "C#"
+    },
+    {
+      "name": "AspNetCoreComponents",
+      "repo": "https://github.com/usausa/AspNetCoreComponents",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-aws-ecs-basic",
+      "repo": "https://github.com/usausa/template-aws-ecs-basic"
+    },
+    {
+      "name": "template-aws-api-tenant",
+      "repo": "https://github.com/usausa/template-aws-api-tenant",
+      "language": "C#"
+    },
+    {
+      "name": "example-aspnet-trace",
+      "repo": "https://github.com/usausa/example-aspnet-trace",
+      "language": "C#"
+    },
+    {
+      "name": "poor-mans-deck",
+      "repo": "https://github.com/usausa/poor-mans-deck",
+      "language": "C#"
+    },
+    {
+      "name": "sensehat-server",
+      "repo": "https://github.com/usausa/sensehat-server",
+      "language": "C#"
+    },
+    {
+      "name": "mcp2221-managed-wrapper",
+      "repo": "https://github.com/usausa/mcp2221-managed-wrapper",
+      "language": "C#"
+    },
+    {
+      "name": "devicelib-vudials",
+      "repo": "https://github.com/usausa/devicelib-vudials",
+      "language": "C#"
+    },
+    {
+      "name": "devicelib-wfwattch2",
+      "repo": "https://github.com/usausa/devicelib-wfwattch2",
+      "language": "C#"
+    },
+    {
+      "name": "hardwareinfo-disk",
+      "repo": "https://github.com/usausa/hardwareinfo-disk",
+      "language": "C#"
+    },
+    {
+      "name": "hardwareinfo-gpu-nvidia",
+      "repo": "https://github.com/usausa/hardwareinfo-gpu-nvidia",
+      "language": "C#"
+    },
+    {
+      "name": "patlite-tool",
+      "repo": "https://github.com/usausa/patlite-tool",
+      "language": "C#"
+    },
+    {
+      "name": "raspberrypi-dotnet",
+      "repo": "https://github.com/usausa/raspberrypi-dotnet",
+      "language": "C#"
+    }
+  ]
+}

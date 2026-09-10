@@ -1,0 +1,509 @@
+{
+  "handle": "majestrate",
+  "name": "jeff",
+  "github": [
+    "https://github.com/majestrate"
+  ],
+  "bio": "[placeholder]",
+  "own_repos": 103,
+  "commits": 12686,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mod_darknet",
+      "repo": "https://github.com/majestrate/mod_darknet",
+      "language": "Lua"
+    },
+    {
+      "name": "XD",
+      "repo": "https://github.com/majestrate/XD",
+      "url": "https://xd-torrent.github.io/",
+      "language": "Go"
+    },
+    {
+      "name": "llarp",
+      "repo": "https://github.com/majestrate/llarp",
+      "language": "C++"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/majestrate/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "i2pmap",
+      "repo": "https://github.com/majestrate/i2pmap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wterm",
+      "repo": "https://github.com/majestrate/wterm",
+      "language": "C"
+    },
+    {
+      "name": "irc-xdcc-serve",
+      "repo": "https://github.com/majestrate/irc-xdcc-serve",
+      "language": "Python"
+    },
+    {
+      "name": "aged",
+      "repo": "https://github.com/majestrate/aged",
+      "language": "Go"
+    },
+    {
+      "name": "yggdrasil-cxx",
+      "repo": "https://github.com/majestrate/yggdrasil-cxx",
+      "language": "C++"
+    },
+    {
+      "name": "jellyfin-magicka",
+      "repo": "https://github.com/majestrate/jellyfin-magicka",
+      "language": "Elixir"
+    },
+    {
+      "name": "bdsmail",
+      "repo": "https://github.com/majestrate/bdsmail",
+      "language": "Go"
+    },
+    {
+      "name": "llarp-rs",
+      "repo": "https://github.com/majestrate/llarp-rs"
+    },
+    {
+      "name": "majestrate",
+      "repo": "https://github.com/majestrate/majestrate"
+    },
+    {
+      "name": "fedproxy",
+      "repo": "https://github.com/majestrate/fedproxy",
+      "language": "Go"
+    },
+    {
+      "name": "codespace",
+      "repo": "https://github.com/majestrate/codespace",
+      "language": "Shell"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/majestrate/resume",
+      "language": "Jinja"
+    },
+    {
+      "name": "music-tunes",
+      "repo": "https://github.com/majestrate/music-tunes",
+      "language": "Python"
+    },
+    {
+      "name": "lokinet-cgo",
+      "repo": "https://github.com/majestrate/lokinet-cgo",
+      "language": "Go"
+    },
+    {
+      "name": "pogger",
+      "repo": "https://github.com/majestrate/pogger"
+    },
+    {
+      "name": "i2p.rocks.blog",
+      "repo": "https://github.com/majestrate/i2p.rocks.blog",
+      "language": "HTML"
+    },
+    {
+      "name": "lokinet-opentracker",
+      "repo": "https://github.com/majestrate/lokinet-opentracker",
+      "language": "Python"
+    },
+    {
+      "name": "bitchan",
+      "repo": "https://github.com/majestrate/bitchan",
+      "language": "Go"
+    },
+    {
+      "name": "ligma",
+      "repo": "https://github.com/majestrate/ligma",
+      "language": "Go"
+    },
+    {
+      "name": "oxen-whois",
+      "repo": "https://github.com/majestrate/oxen-whois",
+      "language": "C++"
+    },
+    {
+      "name": "debian-lokinet",
+      "repo": "https://github.com/majestrate/debian-lokinet",
+      "language": "Shell"
+    },
+    {
+      "name": "libsession",
+      "repo": "https://github.com/majestrate/libsession",
+      "language": "CMake"
+    },
+    {
+      "name": "lokinet-app-indicator",
+      "repo": "https://github.com/majestrate/lokinet-app-indicator",
+      "language": "Go"
+    },
+    {
+      "name": "liblokinet-ffi",
+      "repo": "https://github.com/majestrate/liblokinet-ffi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ubw",
+      "repo": "https://github.com/majestrate/ubw",
+      "language": "Go"
+    },
+    {
+      "name": "lokinet-exit-provider",
+      "repo": "https://github.com/majestrate/lokinet-exit-provider",
+      "language": "Python"
+    },
+    {
+      "name": "detect-lokinet",
+      "repo": "https://github.com/majestrate/detect-lokinet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "libonionrequests",
+      "repo": "https://github.com/majestrate/libonionrequests",
+      "language": "C++"
+    },
+    {
+      "name": "torrent.ano",
+      "repo": "https://github.com/majestrate/torrent.ano",
+      "language": "Go"
+    },
+    {
+      "name": "lokinet-win32",
+      "repo": "https://github.com/majestrate/lokinet-win32",
+      "language": "CMake"
+    },
+    {
+      "name": "lokinet-mobile",
+      "repo": "https://github.com/majestrate/lokinet-mobile",
+      "language": "Dart"
+    },
+    {
+      "name": "lokinet-aware-demos",
+      "repo": "https://github.com/majestrate/lokinet-aware-demos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lokinet-webrtc",
+      "repo": "https://github.com/majestrate/lokinet-webrtc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lokinet-routermon",
+      "repo": "https://github.com/majestrate/lokinet-routermon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "libomnom",
+      "repo": "https://github.com/majestrate/libomnom",
+      "language": "C++"
+    },
+    {
+      "name": "cmake-boilerplate",
+      "repo": "https://github.com/majestrate/cmake-boilerplate",
+      "language": "CMake"
+    },
+    {
+      "name": "pylokimq",
+      "repo": "https://github.com/majestrate/pylokimq",
+      "language": "C++"
+    },
+    {
+      "name": "direct",
+      "repo": "https://github.com/majestrate/direct",
+      "language": "Python"
+    },
+    {
+      "name": "swarmserv",
+      "repo": "https://github.com/majestrate/swarmserv",
+      "language": "Go"
+    },
+    {
+      "name": "audiodookie",
+      "repo": "https://github.com/majestrate/audiodookie",
+      "language": "C++"
+    },
+    {
+      "name": "m",
+      "repo": "https://github.com/majestrate/m",
+      "language": "C++"
+    },
+    {
+      "name": "emacs",
+      "repo": "https://github.com/majestrate/emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bitchute-x",
+      "repo": "https://github.com/majestrate/bitchute-x",
+      "language": "JavaScript"
+    },
+    {
+      "name": "llarpd-builder",
+      "repo": "https://github.com/majestrate/llarpd-builder",
+      "language": "Makefile"
+    },
+    {
+      "name": "cryptonight",
+      "repo": "https://github.com/majestrate/cryptonight",
+      "language": "C"
+    },
+    {
+      "name": "trans2p",
+      "repo": "https://github.com/majestrate/trans2p",
+      "language": "C"
+    },
+    {
+      "name": "apub",
+      "repo": "https://github.com/majestrate/apub",
+      "language": "Go"
+    },
+    {
+      "name": "clicker-rick",
+      "repo": "https://github.com/majestrate/clicker-rick",
+      "language": "Go"
+    },
+    {
+      "name": "fediverse",
+      "repo": "https://github.com/majestrate/fediverse",
+      "language": "Makefile"
+    },
+    {
+      "name": "waveguide",
+      "repo": "https://github.com/majestrate/waveguide",
+      "language": "Go"
+    },
+    {
+      "name": "inproxy",
+      "repo": "https://github.com/majestrate/inproxy",
+      "language": "Go"
+    },
+    {
+      "name": "i2p-lite",
+      "repo": "https://github.com/majestrate/i2p-lite",
+      "language": "C"
+    },
+    {
+      "name": "libi2cp-",
+      "repo": "https://github.com/majestrate/libi2cp-",
+      "language": "C++"
+    },
+    {
+      "name": "SRNd",
+      "repo": "https://github.com/majestrate/SRNd",
+      "language": "Python"
+    },
+    {
+      "name": "ircproxy",
+      "repo": "https://github.com/majestrate/ircproxy",
+      "language": "Go"
+    },
+    {
+      "name": "i2p.socket",
+      "repo": "https://github.com/majestrate/i2p.socket",
+      "language": "Python"
+    },
+    {
+      "name": "i2lua",
+      "repo": "https://github.com/majestrate/i2lua",
+      "language": "C++"
+    },
+    {
+      "name": "youtube-proxy",
+      "repo": "https://github.com/majestrate/youtube-proxy",
+      "language": "Python"
+    },
+    {
+      "name": "i2pboted",
+      "repo": "https://github.com/majestrate/i2pboted",
+      "language": "Go"
+    },
+    {
+      "name": "psuedobenis",
+      "repo": "https://github.com/majestrate/psuedobenis",
+      "language": "HTML"
+    },
+    {
+      "name": "bote-proxy",
+      "repo": "https://github.com/majestrate/bote-proxy",
+      "language": "Python"
+    },
+    {
+      "name": "i2p.rocks",
+      "repo": "https://github.com/majestrate/i2p.rocks",
+      "url": "https://i2p.rocks/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "urc.py",
+      "repo": "https://github.com/majestrate/urc.py",
+      "language": "Python"
+    },
+    {
+      "name": "tuntun",
+      "repo": "https://github.com/majestrate/tuntun",
+      "language": "Go"
+    },
+    {
+      "name": "iwp-demo",
+      "repo": "https://github.com/majestrate/iwp-demo",
+      "language": "Python"
+    },
+    {
+      "name": "i2p-tools",
+      "repo": "https://github.com/majestrate/i2p-tools",
+      "language": "C"
+    },
+    {
+      "name": "srndv2",
+      "repo": "https://github.com/majestrate/srndv2",
+      "language": "Go"
+    },
+    {
+      "name": "i2cp-sim",
+      "repo": "https://github.com/majestrate/i2cp-sim",
+      "language": "C++"
+    },
+    {
+      "name": "tls2socks",
+      "repo": "https://github.com/majestrate/tls2socks",
+      "language": "Go"
+    },
+    {
+      "name": "syndie_python",
+      "repo": "https://github.com/majestrate/syndie_python",
+      "language": "Python"
+    },
+    {
+      "name": "base91",
+      "repo": "https://github.com/majestrate/base91",
+      "language": "Go"
+    },
+    {
+      "name": "phantom",
+      "repo": "https://github.com/majestrate/phantom",
+      "language": "C"
+    },
+    {
+      "name": "pytracker",
+      "repo": "https://github.com/majestrate/pytracker",
+      "language": "Python"
+    },
+    {
+      "name": "metanet",
+      "repo": "https://github.com/majestrate/metanet",
+      "language": "C++"
+    },
+    {
+      "name": "python-i2cp",
+      "repo": "https://github.com/majestrate/python-i2cp",
+      "language": "Python"
+    },
+    {
+      "name": "nacl",
+      "repo": "https://github.com/majestrate/nacl",
+      "language": "Go"
+    },
+    {
+      "name": "oniichan",
+      "repo": "https://github.com/majestrate/oniichan",
+      "language": "Python"
+    },
+    {
+      "name": "hextor",
+      "repo": "https://github.com/majestrate/hextor",
+      "language": "C"
+    },
+    {
+      "name": "arcd",
+      "repo": "https://github.com/majestrate/arcd",
+      "language": "Go"
+    },
+    {
+      "name": "garlic",
+      "repo": "https://github.com/majestrate/garlic",
+      "language": "Go"
+    },
+    {
+      "name": "quic",
+      "repo": "https://github.com/majestrate/quic"
+    },
+    {
+      "name": "PsiTorrent",
+      "repo": "https://github.com/majestrate/PsiTorrent"
+    },
+    {
+      "name": "SeeMidi",
+      "repo": "https://github.com/majestrate/SeeMidi",
+      "language": "C++"
+    },
+    {
+      "name": "i2p-collector",
+      "repo": "https://github.com/majestrate/i2p-collector",
+      "language": "Python"
+    },
+    {
+      "name": "mempo-tools",
+      "repo": "https://github.com/majestrate/mempo-tools",
+      "language": "Python"
+    },
+    {
+      "name": "srnd-docker",
+      "repo": "https://github.com/majestrate/srnd-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "i2pcpp",
+      "repo": "https://github.com/majestrate/i2pcpp",
+      "language": "C++"
+    },
+    {
+      "name": "supergud-tripcode",
+      "repo": "https://github.com/majestrate/supergud-tripcode",
+      "language": "C"
+    },
+    {
+      "name": "sv",
+      "repo": "https://github.com/majestrate/sv",
+      "language": "Python"
+    },
+    {
+      "name": "urcd",
+      "repo": "https://github.com/majestrate/urcd",
+      "language": "C"
+    },
+    {
+      "name": "i2p-minimal",
+      "repo": "https://github.com/majestrate/i2p-minimal",
+      "language": "Java"
+    },
+    {
+      "name": "i2phex",
+      "repo": "https://github.com/majestrate/i2phex",
+      "language": "Java"
+    },
+    {
+      "name": "torrent-repo-i2p",
+      "repo": "https://github.com/majestrate/torrent-repo-i2p"
+    },
+    {
+      "name": "urlshort",
+      "repo": "https://github.com/majestrate/urlshort",
+      "language": "Python"
+    },
+    {
+      "name": "ngIRCd",
+      "repo": "https://github.com/majestrate/ngIRCd",
+      "language": "C"
+    },
+    {
+      "name": "jy2p",
+      "repo": "https://github.com/majestrate/jy2p",
+      "language": "Python"
+    }
+  ]
+}

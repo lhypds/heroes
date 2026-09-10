@@ -1,0 +1,510 @@
+{
+  "handle": "rcmdnk",
+  "name": "rcmdnk",
+  "github": [
+    "https://github.com/rcmdnk"
+  ],
+  "website": "https://rcmdnk.com/",
+  "own_repos": 158,
+  "commits": 15030,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ec2",
+      "repo": "https://github.com/rcmdnk/ec2",
+      "language": "Shell"
+    },
+    {
+      "name": "ec2-environment",
+      "repo": "https://github.com/rcmdnk/ec2-environment",
+      "language": "Shell"
+    },
+    {
+      "name": "my-awesome-starred",
+      "repo": "https://github.com/rcmdnk/my-awesome-starred"
+    },
+    {
+      "name": "upptime",
+      "repo": "https://github.com/rcmdnk/upptime",
+      "url": "https://rcmdnk.github.io/upptime",
+      "language": "Markdown"
+    },
+    {
+      "name": "rcmdnk.github.io",
+      "repo": "https://github.com/rcmdnk/rcmdnk.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "settings",
+      "repo": "https://github.com/rcmdnk/settings",
+      "language": "Shell"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/rcmdnk/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "en",
+      "repo": "https://github.com/rcmdnk/en",
+      "language": "HTML"
+    },
+    {
+      "name": "raspi_setup",
+      "repo": "https://github.com/rcmdnk/raspi_setup",
+      "language": "Python"
+    },
+    {
+      "name": "dynamic-typer",
+      "repo": "https://github.com/rcmdnk/dynamic-typer",
+      "language": "Python"
+    },
+    {
+      "name": "parallel-job",
+      "repo": "https://github.com/rcmdnk/parallel-job",
+      "language": "Python"
+    },
+    {
+      "name": "s3-reader",
+      "repo": "https://github.com/rcmdnk/s3-reader",
+      "url": "https://pypi.org/project/s3-reader/",
+      "language": "Python"
+    },
+    {
+      "name": "hydra-utils",
+      "repo": "https://github.com/rcmdnk/hydra-utils",
+      "language": "Python"
+    },
+    {
+      "name": "chatgpt-prompt-wrapper",
+      "repo": "https://github.com/rcmdnk/chatgpt-prompt-wrapper",
+      "url": "https://pypi.org/project/chatgpt-prompt-wrapper/",
+      "language": "Python"
+    },
+    {
+      "name": "boto3-session",
+      "repo": "https://github.com/rcmdnk/boto3-session",
+      "url": "https://pypi.org/project/boto3-session",
+      "language": "Python"
+    },
+    {
+      "name": "pyproject-pre-commit",
+      "repo": "https://github.com/rcmdnk/pyproject-pre-commit",
+      "url": "https://pypi.org/project/pyproject-pre-commit/",
+      "language": "Python"
+    },
+    {
+      "name": "inherit-docstring",
+      "repo": "https://github.com/rcmdnk/inherit-docstring",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-file",
+      "repo": "https://github.com/rcmdnk/homebrew-file",
+      "language": "Python"
+    },
+    {
+      "name": "conf-finder",
+      "repo": "https://github.com/rcmdnk/conf-finder",
+      "url": "https://pypi.org/project/config-finder/",
+      "language": "Python"
+    },
+    {
+      "name": "gmail_filter_manager",
+      "repo": "https://github.com/rcmdnk/gmail_filter_manager",
+      "url": "https://pypi.org/project/gmail-filter-manager/",
+      "language": "Python"
+    },
+    {
+      "name": "python-template",
+      "repo": "https://github.com/rcmdnk/python-template",
+      "language": "Shell"
+    },
+    {
+      "name": "octogray",
+      "repo": "https://github.com/rcmdnk/octogray",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Brewfile",
+      "repo": "https://github.com/rcmdnk/Brewfile",
+      "language": "Ruby"
+    },
+    {
+      "name": "windows",
+      "repo": "https://github.com/rcmdnk/windows",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "vim_ahk",
+      "repo": "https://github.com/rcmdnk/vim_ahk",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "scripts",
+      "repo": "https://github.com/rcmdnk/scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "cocoro",
+      "repo": "https://github.com/rcmdnk/cocoro",
+      "url": "https://pypi.org/project/cocoro/",
+      "language": "Python"
+    },
+    {
+      "name": "tsd2gspread",
+      "repo": "https://github.com/rcmdnk/tsd2gspread",
+      "url": "https://pypi.org/project/tsd2gspread/",
+      "language": "Python"
+    },
+    {
+      "name": "python-action",
+      "repo": "https://github.com/rcmdnk/python-action"
+    },
+    {
+      "name": "MenuBarGmail",
+      "repo": "https://github.com/rcmdnk/MenuBarGmail",
+      "language": "Python"
+    },
+    {
+      "name": "sentaku",
+      "repo": "https://github.com/rcmdnk/sentaku",
+      "language": "Shell"
+    },
+    {
+      "name": "python-action-test",
+      "repo": "https://github.com/rcmdnk/python-action-test",
+      "language": "Python"
+    },
+    {
+      "name": "shell-logger",
+      "repo": "https://github.com/rcmdnk/shell-logger",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-rcmdnkcask",
+      "repo": "https://github.com/rcmdnk/homebrew-rcmdnkcask",
+      "language": "Ruby"
+    },
+    {
+      "name": "VEM",
+      "repo": "https://github.com/rcmdnk/VEM",
+      "language": "Python"
+    },
+    {
+      "name": "github-action-poetry-docker-test",
+      "repo": "https://github.com/rcmdnk/github-action-poetry-docker-test",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "homebrew-rcmdnkpac",
+      "repo": "https://github.com/rcmdnk/homebrew-rcmdnkpac",
+      "language": "Ruby"
+    },
+    {
+      "name": "rcmdnk",
+      "repo": "https://github.com/rcmdnk/rcmdnk"
+    },
+    {
+      "name": "git-gpt-commit",
+      "repo": "https://github.com/rcmdnk/git-gpt-commit",
+      "language": "Shell"
+    },
+    {
+      "name": "my-test-repo",
+      "repo": "https://github.com/rcmdnk/my-test-repo"
+    },
+    {
+      "name": "octopress-action",
+      "repo": "https://github.com/rcmdnk/octopress-action",
+      "language": "Shell"
+    },
+    {
+      "name": "raspberry_pi_pico_test",
+      "repo": "https://github.com/rcmdnk/raspberry_pi_pico_test",
+      "language": "Python"
+    },
+    {
+      "name": "sheets_time_series_api",
+      "repo": "https://github.com/rcmdnk/sheets_time_series_api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "octopress-thumbnail",
+      "repo": "https://github.com/rcmdnk/octopress-thumbnail",
+      "language": "Ruby"
+    },
+    {
+      "name": "AppleScript",
+      "repo": "https://github.com/rcmdnk/AppleScript",
+      "language": "AppleScript"
+    },
+    {
+      "name": "octopress-gemoji",
+      "repo": "https://github.com/rcmdnk/octopress-gemoji",
+      "language": "Ruby"
+    },
+    {
+      "name": "Withings-gas",
+      "repo": "https://github.com/rcmdnk/Withings-gas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Oura-gas",
+      "repo": "https://github.com/rcmdnk/Oura-gas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rcmdnk-color.vim",
+      "repo": "https://github.com/rcmdnk/rcmdnk-color.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "monthly-archive",
+      "repo": "https://github.com/rcmdnk/monthly-archive",
+      "language": "Ruby"
+    },
+    {
+      "name": "phys_learning",
+      "repo": "https://github.com/rcmdnk/phys_learning",
+      "language": "Python"
+    },
+    {
+      "name": "gcpm-puppet",
+      "repo": "https://github.com/rcmdnk/gcpm-puppet",
+      "url": "https://github.com/mickaneda/gcp_condor_pool_manager",
+      "language": "Shell"
+    },
+    {
+      "name": "arithmetic-operations",
+      "repo": "https://github.com/rcmdnk/arithmetic-operations",
+      "language": "Python"
+    },
+    {
+      "name": "puppet-user_account",
+      "repo": "https://github.com/rcmdnk/puppet-user_account",
+      "language": "Puppet"
+    },
+    {
+      "name": "ParallelOperation",
+      "repo": "https://github.com/rcmdnk/ParallelOperation",
+      "language": "Shell"
+    },
+    {
+      "name": "puppet-google_cloud_sdk",
+      "repo": "https://github.com/rcmdnk/puppet-google_cloud_sdk",
+      "language": "Puppet"
+    },
+    {
+      "name": "octopress-post-card",
+      "repo": "https://github.com/rcmdnk/octopress-post-card",
+      "language": "Ruby"
+    },
+    {
+      "name": "apt-cyg",
+      "repo": "https://github.com/rcmdnk/apt-cyg",
+      "language": "Shell"
+    },
+    {
+      "name": "puppet-packages",
+      "repo": "https://github.com/rcmdnk/puppet-packages",
+      "language": "Puppet"
+    },
+    {
+      "name": "my-app-django",
+      "repo": "https://github.com/rcmdnk/my-app-django"
+    },
+    {
+      "name": "keyboardkey",
+      "repo": "https://github.com/rcmdnk/keyboardkey",
+      "language": "Ruby"
+    },
+    {
+      "name": "sd_cl",
+      "repo": "https://github.com/rcmdnk/sd_cl",
+      "language": "Shell"
+    },
+    {
+      "name": "systemctl-hello-world",
+      "repo": "https://github.com/rcmdnk/systemctl-hello-world",
+      "language": "Shell"
+    },
+    {
+      "name": "gas-test2",
+      "repo": "https://github.com/rcmdnk/gas-test2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stow_reset",
+      "repo": "https://github.com/rcmdnk/stow_reset",
+      "language": "Shell"
+    },
+    {
+      "name": "puppet-files",
+      "repo": "https://github.com/rcmdnk/puppet-files",
+      "language": "Puppet"
+    },
+    {
+      "name": "travis-test",
+      "repo": "https://github.com/rcmdnk/travis-test"
+    },
+    {
+      "name": "hugo-gray",
+      "repo": "https://github.com/rcmdnk/hugo-gray"
+    },
+    {
+      "name": "gcp-tools",
+      "repo": "https://github.com/rcmdnk/gcp-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "gtask",
+      "repo": "https://github.com/rcmdnk/gtask",
+      "language": "Python"
+    },
+    {
+      "name": "BrewfileTest_python2",
+      "repo": "https://github.com/rcmdnk/BrewfileTest_python2",
+      "language": "Ruby"
+    },
+    {
+      "name": "software_settings",
+      "repo": "https://github.com/rcmdnk/software_settings",
+      "language": "Shell"
+    },
+    {
+      "name": "pythontest",
+      "repo": "https://github.com/rcmdnk/pythontest"
+    },
+    {
+      "name": "edit-help.vim",
+      "repo": "https://github.com/rcmdnk/edit-help.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "BrewfileTest_python3",
+      "repo": "https://github.com/rcmdnk/BrewfileTest_python3",
+      "language": "Ruby"
+    },
+    {
+      "name": "octogray_test",
+      "repo": "https://github.com/rcmdnk/octogray_test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Withings-gas-example",
+      "repo": "https://github.com/rcmdnk/Withings-gas-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "trash",
+      "repo": "https://github.com/rcmdnk/trash",
+      "language": "Shell"
+    },
+    {
+      "name": "evernote_mail",
+      "repo": "https://github.com/rcmdnk/evernote_mail",
+      "language": "Shell"
+    },
+    {
+      "name": "octopress-share-numbers",
+      "repo": "https://github.com/rcmdnk/octopress-share-numbers",
+      "language": "HTML"
+    },
+    {
+      "name": "Brewfile.linux",
+      "repo": "https://github.com/rcmdnk/Brewfile.linux",
+      "language": "Ruby"
+    },
+    {
+      "name": "gce-manager",
+      "repo": "https://github.com/rcmdnk/gce-manager",
+      "language": "Python"
+    },
+    {
+      "name": "pypi-files",
+      "repo": "https://github.com/rcmdnk/pypi-files",
+      "language": "Python"
+    },
+    {
+      "name": "octopress-random-posts",
+      "repo": "https://github.com/rcmdnk/octopress-random-posts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "footnote-inline",
+      "repo": "https://github.com/rcmdnk/footnote-inline",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-cache-test",
+      "repo": "https://github.com/rcmdnk/action-cache-test"
+    },
+    {
+      "name": "octopress-upptime",
+      "repo": "https://github.com/rcmdnk/octopress-upptime",
+      "language": "HTML"
+    },
+    {
+      "name": "actions-test",
+      "repo": "https://github.com/rcmdnk/actions-test"
+    },
+    {
+      "name": "homebrew-testtap",
+      "repo": "https://github.com/rcmdnk/homebrew-testtap"
+    },
+    {
+      "name": "slack-bot-web-summary-gpt-gas",
+      "repo": "https://github.com/rcmdnk/slack-bot-web-summary-gpt-gas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "composite-continue-on-error-test",
+      "repo": "https://github.com/rcmdnk/composite-continue-on-error-test"
+    },
+    {
+      "name": "gcpm",
+      "repo": "https://github.com/rcmdnk/gcpm",
+      "language": "Python"
+    },
+    {
+      "name": "fail-action",
+      "repo": "https://github.com/rcmdnk/fail-action"
+    },
+    {
+      "name": "gtaskslist",
+      "repo": "https://github.com/rcmdnk/gtaskslist",
+      "language": "Shell"
+    },
+    {
+      "name": "frontiersquid-puppet",
+      "repo": "https://github.com/rcmdnk/frontiersquid-puppet",
+      "language": "Shell"
+    },
+    {
+      "name": "Slack-gas",
+      "repo": "https://github.com/rcmdnk/Slack-gas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gmail-manager-gas",
+      "repo": "https://github.com/rcmdnk/gmail-manager-gas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "NatureRemo-gas",
+      "repo": "https://github.com/rcmdnk/NatureRemo-gas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jekyll-var-to-js",
+      "repo": "https://github.com/rcmdnk/jekyll-var-to-js",
+      "language": "Ruby"
+    },
+    {
+      "name": "octopress-postscript",
+      "repo": "https://github.com/rcmdnk/octopress-postscript",
+      "language": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "handle": "goliatone",
+  "name": "goliatone",
+  "github": [
+    "https://github.com/goliatone"
+  ],
+  "website": "https://goliat.one/",
+  "own_repos": 219,
+  "commits": 20883,
+  "apps": [],
+  "repos": [
+    {
+      "name": "core.io-data-manager",
+      "repo": "https://github.com/goliatone/core.io-data-manager",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-services",
+      "repo": "https://github.com/goliatone/go-services",
+      "language": "Go"
+    },
+    {
+      "name": "switchboard-hub",
+      "repo": "https://github.com/goliatone/switchboard-hub",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/goliatone/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "go-admin",
+      "repo": "https://github.com/goliatone/go-admin",
+      "language": "Go"
+    },
+    {
+      "name": "go-formgen",
+      "repo": "https://github.com/goliatone/go-formgen",
+      "language": "Go"
+    },
+    {
+      "name": "go-cache",
+      "repo": "https://github.com/goliatone/go-cache",
+      "language": "Go"
+    },
+    {
+      "name": "go-users",
+      "repo": "https://github.com/goliatone/go-users",
+      "language": "Go"
+    },
+    {
+      "name": "go-persistence-bun",
+      "repo": "https://github.com/goliatone/go-persistence-bun",
+      "language": "Go"
+    },
+    {
+      "name": "go-notifications",
+      "repo": "https://github.com/goliatone/go-notifications",
+      "language": "Go"
+    },
+    {
+      "name": "go-cms",
+      "repo": "https://github.com/goliatone/go-cms",
+      "language": "Go"
+    },
+    {
+      "name": "go-repository-cache",
+      "repo": "https://github.com/goliatone/go-repository-cache",
+      "language": "Go"
+    },
+    {
+      "name": "go-command",
+      "repo": "https://github.com/goliatone/go-command",
+      "language": "Go"
+    },
+    {
+      "name": "go-auth",
+      "repo": "https://github.com/goliatone/go-auth",
+      "language": "Go"
+    },
+    {
+      "name": "go-dashboard",
+      "repo": "https://github.com/goliatone/go-dashboard",
+      "language": "Go"
+    },
+    {
+      "name": "go-theme",
+      "repo": "https://github.com/goliatone/go-theme",
+      "language": "Go"
+    },
+    {
+      "name": "go-logger",
+      "repo": "https://github.com/goliatone/go-logger",
+      "language": "Go"
+    },
+    {
+      "name": "go-router",
+      "repo": "https://github.com/goliatone/go-router",
+      "language": "Go"
+    },
+    {
+      "name": "go-messaging",
+      "repo": "https://github.com/goliatone/go-messaging",
+      "language": "Go"
+    },
+    {
+      "name": "cascade",
+      "repo": "https://github.com/goliatone/cascade",
+      "language": "Go"
+    },
+    {
+      "name": "go-urlkit",
+      "repo": "https://github.com/goliatone/go-urlkit",
+      "language": "Go"
+    },
+    {
+      "name": "go-export",
+      "repo": "https://github.com/goliatone/go-export",
+      "language": "Go"
+    },
+    {
+      "name": "go-search",
+      "repo": "https://github.com/goliatone/go-search",
+      "language": "Go"
+    },
+    {
+      "name": "go-config",
+      "repo": "https://github.com/goliatone/go-config",
+      "language": "Go"
+    },
+    {
+      "name": "go-errors",
+      "repo": "https://github.com/goliatone/go-errors",
+      "language": "Go"
+    },
+    {
+      "name": "go-masker",
+      "repo": "https://github.com/goliatone/go-masker",
+      "language": "Go"
+    },
+    {
+      "name": "go-crud",
+      "repo": "https://github.com/goliatone/go-crud",
+      "language": "Go"
+    },
+    {
+      "name": "go-options",
+      "repo": "https://github.com/goliatone/go-options",
+      "language": "Go"
+    },
+    {
+      "name": "go-repository-bun",
+      "repo": "https://github.com/goliatone/go-repository-bun",
+      "language": "Go"
+    },
+    {
+      "name": "webcap",
+      "repo": "https://github.com/goliatone/webcap",
+      "language": "Go"
+    },
+    {
+      "name": "lgr",
+      "repo": "https://github.com/goliatone/lgr",
+      "language": "Go"
+    },
+    {
+      "name": "go-envset",
+      "repo": "https://github.com/goliatone/go-envset",
+      "language": "Go"
+    },
+    {
+      "name": "hashid",
+      "repo": "https://github.com/goliatone/hashid",
+      "language": "Go"
+    },
+    {
+      "name": "go-featuregate",
+      "repo": "https://github.com/goliatone/go-featuregate",
+      "language": "Go"
+    },
+    {
+      "name": "go-i18n",
+      "repo": "https://github.com/goliatone/go-i18n",
+      "language": "Go"
+    },
+    {
+      "name": "go-uploader",
+      "repo": "https://github.com/goliatone/go-uploader",
+      "language": "Go"
+    },
+    {
+      "name": "go-job",
+      "repo": "https://github.com/goliatone/go-job",
+      "language": "Go"
+    },
+    {
+      "name": "go-generators",
+      "repo": "https://github.com/goliatone/go-generators",
+      "language": "Go"
+    },
+    {
+      "name": "electron-app-switchboard",
+      "repo": "https://github.com/goliatone/electron-app-switchboard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-slug",
+      "repo": "https://github.com/goliatone/go-slug",
+      "language": "Go"
+    },
+    {
+      "name": "go-composite-fs",
+      "repo": "https://github.com/goliatone/go-composite-fs",
+      "language": "Go"
+    },
+    {
+      "name": "go-template",
+      "repo": "https://github.com/goliatone/go-template",
+      "language": "Go"
+    },
+    {
+      "name": "go-print",
+      "repo": "https://github.com/goliatone/go-print",
+      "language": "Go"
+    },
+    {
+      "name": "template-react-project",
+      "repo": "https://github.com/goliatone/template-react-project",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gextend",
+      "repo": "https://github.com/goliatone/gextend",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gmenu",
+      "repo": "https://github.com/goliatone/gmenu",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-cli-view-generator",
+      "repo": "https://github.com/goliatone/core.io-cli-view-generator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-node-project",
+      "repo": "https://github.com/goliatone/template-node-project",
+      "language": "JavaScript"
+    },
+    {
+      "name": "template-svelte-project",
+      "repo": "https://github.com/goliatone/template-svelte-project",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-pubsub-mqtt",
+      "repo": "https://github.com/goliatone/core.io-pubsub-mqtt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "poke-repl",
+      "repo": "https://github.com/goliatone/poke-repl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gsolver",
+      "repo": "https://github.com/goliatone/gsolver",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wee-things-workshop",
+      "repo": "https://github.com/goliatone/wee-things-workshop",
+      "language": "HTML"
+    },
+    {
+      "name": "core.io-cli",
+      "repo": "https://github.com/goliatone/core.io-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-cli-local-env",
+      "repo": "https://github.com/goliatone/core.io-cli-local-env",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-project-generator",
+      "repo": "https://github.com/goliatone/simple-project-generator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "doc-builder",
+      "repo": "https://github.com/goliatone/doc-builder",
+      "language": "HTML"
+    },
+    {
+      "name": "simple-config-loader",
+      "repo": "https://github.com/goliatone/simple-config-loader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gkeypath",
+      "repo": "https://github.com/goliatone/gkeypath",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-cache-redis",
+      "repo": "https://github.com/goliatone/core.io-cache-redis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-file-store",
+      "repo": "https://github.com/goliatone/core.io-file-store",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-process-manager",
+      "repo": "https://github.com/goliatone/simple-process-manager",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-command-reloader",
+      "repo": "https://github.com/goliatone/core.io-command-reloader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-server-fastify",
+      "repo": "https://github.com/goliatone/core.io-server-fastify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "waterline-to-json-schema",
+      "repo": "https://github.com/goliatone/waterline-to-json-schema",
+      "language": "JavaScript"
+    },
+    {
+      "name": "base-cli-commands",
+      "repo": "https://github.com/goliatone/base-cli-commands",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-command-promised",
+      "repo": "https://github.com/goliatone/core.io-command-promised",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-filesync",
+      "repo": "https://github.com/goliatone/core.io-filesync",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tnl",
+      "repo": "https://github.com/goliatone/tnl",
+      "language": "Go"
+    },
+    {
+      "name": "application-core",
+      "repo": "https://github.com/goliatone/application-core",
+      "language": "JavaScript"
+    },
+    {
+      "name": "in",
+      "repo": "https://github.com/goliatone/in",
+      "language": "JavaScript"
+    },
+    {
+      "name": "noop-console",
+      "repo": "https://github.com/goliatone/noop-console",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-rpi-agent",
+      "repo": "https://github.com/goliatone/go-rpi-agent",
+      "language": "Go"
+    },
+    {
+      "name": "go-ibeacon",
+      "repo": "https://github.com/goliatone/go-ibeacon",
+      "language": "Go"
+    },
+    {
+      "name": "core.io-persistence",
+      "repo": "https://github.com/goliatone/core.io-persistence",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dot-graph-builder",
+      "repo": "https://github.com/goliatone/dot-graph-builder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-task-manager",
+      "repo": "https://github.com/goliatone/simple-task-manager",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-server-polka",
+      "repo": "https://github.com/goliatone/core.io-server-polka",
+      "language": "JavaScript"
+    },
+    {
+      "name": "goliatone",
+      "repo": "https://github.com/goliatone/goliatone",
+      "url": "https://github.com/goliatone"
+    },
+    {
+      "name": "core.io-starter-template",
+      "repo": "https://github.com/goliatone/core.io-starter-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-module-template",
+      "repo": "https://github.com/goliatone/core.io-module-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "overwatch",
+      "repo": "https://github.com/goliatone/overwatch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gflattener",
+      "repo": "https://github.com/goliatone/gflattener",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-sensor-sink",
+      "repo": "https://github.com/goliatone/go-sensor-sink",
+      "language": "Go"
+    },
+    {
+      "name": "vernemq-deployment",
+      "repo": "https://github.com/goliatone/vernemq-deployment",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "core.io-registry-mdns",
+      "repo": "https://github.com/goliatone/core.io-registry-mdns",
+      "language": "Shell"
+    },
+    {
+      "name": "core.io-registry-service",
+      "repo": "https://github.com/goliatone/core.io-registry-service",
+      "language": "JavaScript"
+    },
+    {
+      "name": "okko",
+      "repo": "https://github.com/goliatone/okko",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-command-status",
+      "repo": "https://github.com/goliatone/core.io-command-status",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-express-auth",
+      "repo": "https://github.com/goliatone/core.io-express-auth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "core.io-express-server",
+      "repo": "https://github.com/goliatone/core.io-express-server",
+      "language": "HTML"
+    },
+    {
+      "name": "gminions",
+      "repo": "https://github.com/goliatone/gminions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mongodb-change-streams-listeners",
+      "repo": "https://github.com/goliatone/mongodb-change-streams-listeners",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-session-manager",
+      "repo": "https://github.com/goliatone/simple-session-manager",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-vmq-webhooks",
+      "repo": "https://github.com/goliatone/go-vmq-webhooks",
+      "language": "Go"
+    },
+    {
+      "name": "rabbithook-builder",
+      "repo": "https://github.com/goliatone/rabbithook-builder",
+      "language": "Shell"
+    },
+    {
+      "name": "hello-rabbit",
+      "repo": "https://github.com/goliatone/hello-rabbit",
+      "language": "Shell"
+    },
+    {
+      "name": "busybody",
+      "repo": "https://github.com/goliatone/busybody",
+      "language": "JavaScript"
+    },
+    {
+      "name": "RFPortals",
+      "repo": "https://github.com/goliatone/RFPortals",
+      "language": "Swift"
+    },
+    {
+      "name": "portal-handler-mock",
+      "repo": "https://github.com/goliatone/portal-handler-mock",
+      "language": "Go"
+    }
+  ]
+}

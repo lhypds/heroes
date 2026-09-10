@@ -1,0 +1,512 @@
+{
+  "handle": "jwodder",
+  "name": "John T. Wodder II",
+  "github": [
+    "https://github.com/jwodder"
+  ],
+  "own_repos": 163,
+  "commits": 15096,
+  "apps": [],
+  "repos": [
+    {
+      "name": "demagnetize-rs",
+      "repo": "https://github.com/jwodder/demagnetize-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-json-fmt",
+      "repo": "https://github.com/jwodder/serde-json-fmt",
+      "language": "Rust"
+    },
+    {
+      "name": "ghrepo-rust",
+      "repo": "https://github.com/jwodder/ghrepo-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "advlab",
+      "repo": "https://github.com/jwodder/advlab",
+      "language": "Rust"
+    },
+    {
+      "name": "ircbits",
+      "repo": "https://github.com/jwodder/ircbits",
+      "language": "Rust"
+    },
+    {
+      "name": "labelmaker",
+      "repo": "https://github.com/jwodder/labelmaker",
+      "language": "Rust"
+    },
+    {
+      "name": "ratsnake",
+      "repo": "https://github.com/jwodder/ratsnake",
+      "language": "Rust"
+    },
+    {
+      "name": "confab",
+      "repo": "https://github.com/jwodder/confab",
+      "language": "Rust"
+    },
+    {
+      "name": "forall",
+      "repo": "https://github.com/jwodder/forall",
+      "language": "Rust"
+    },
+    {
+      "name": "elapsed",
+      "repo": "https://github.com/jwodder/elapsed",
+      "language": "Rust"
+    },
+    {
+      "name": "rsrepo",
+      "repo": "https://github.com/jwodder/rsrepo",
+      "language": "Rust"
+    },
+    {
+      "name": "advent-of-code-rust",
+      "repo": "https://github.com/jwodder/advent-of-code-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "julian-rs",
+      "repo": "https://github.com/jwodder/julian-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "parse-style",
+      "repo": "https://github.com/jwodder/parse-style",
+      "language": "Rust"
+    },
+    {
+      "name": "rswodlib",
+      "repo": "https://github.com/jwodder/rswodlib",
+      "language": "Rust"
+    },
+    {
+      "name": "life",
+      "repo": "https://github.com/jwodder/life",
+      "language": "Rust"
+    },
+    {
+      "name": "patharg",
+      "repo": "https://github.com/jwodder/patharg",
+      "language": "Rust"
+    },
+    {
+      "name": "cfgfifo",
+      "repo": "https://github.com/jwodder/cfgfifo",
+      "language": "Rust"
+    },
+    {
+      "name": "minigh",
+      "repo": "https://github.com/jwodder/minigh",
+      "language": "Rust"
+    },
+    {
+      "name": "query-issues",
+      "repo": "https://github.com/jwodder/query-issues",
+      "language": "Rust"
+    },
+    {
+      "name": "linesep",
+      "repo": "https://github.com/jwodder/linesep",
+      "language": "Python"
+    },
+    {
+      "name": "in-place-rs",
+      "repo": "https://github.com/jwodder/in-place-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "keefuzz",
+      "repo": "https://github.com/jwodder/keefuzz",
+      "language": "Rust"
+    },
+    {
+      "name": "serde-jsonlines",
+      "repo": "https://github.com/jwodder/serde-jsonlines",
+      "language": "Rust"
+    },
+    {
+      "name": "thoth-system",
+      "repo": "https://github.com/jwodder/thoth-system",
+      "language": "Python"
+    },
+    {
+      "name": "daemail",
+      "repo": "https://github.com/jwodder/daemail",
+      "language": "Python"
+    },
+    {
+      "name": "demagnetize",
+      "repo": "https://github.com/jwodder/demagnetize",
+      "language": "Python"
+    },
+    {
+      "name": "javaproperties-cli",
+      "repo": "https://github.com/jwodder/javaproperties-cli",
+      "language": "Python"
+    },
+    {
+      "name": "curselect",
+      "repo": "https://github.com/jwodder/curselect",
+      "language": "Python"
+    },
+    {
+      "name": "thoth-utils",
+      "repo": "https://github.com/jwodder/thoth-utils",
+      "language": "Python"
+    },
+    {
+      "name": "pyversion-info-data",
+      "repo": "https://github.com/jwodder/pyversion-info-data",
+      "language": "Python"
+    },
+    {
+      "name": "pyrepo",
+      "repo": "https://github.com/jwodder/pyrepo",
+      "language": "Python"
+    },
+    {
+      "name": "kbits-theme-demo",
+      "repo": "https://github.com/jwodder/kbits-theme-demo",
+      "url": "https://jwodder.github.io/kbits-theme-demo/",
+      "language": "Python"
+    },
+    {
+      "name": "repolist",
+      "repo": "https://github.com/jwodder/repolist",
+      "language": "Python"
+    },
+    {
+      "name": "gitmatch",
+      "repo": "https://github.com/jwodder/gitmatch",
+      "language": "Python"
+    },
+    {
+      "name": "interleave",
+      "repo": "https://github.com/jwodder/interleave",
+      "language": "Python"
+    },
+    {
+      "name": "outgoing",
+      "repo": "https://github.com/jwodder/outgoing",
+      "language": "Python"
+    },
+    {
+      "name": "eletter",
+      "repo": "https://github.com/jwodder/eletter",
+      "language": "Python"
+    },
+    {
+      "name": "permutation",
+      "repo": "https://github.com/jwodder/permutation",
+      "language": "Python"
+    },
+    {
+      "name": "pyversion-info",
+      "repo": "https://github.com/jwodder/pyversion-info",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-fail-slow",
+      "repo": "https://github.com/jwodder/pytest-fail-slow",
+      "language": "Python"
+    },
+    {
+      "name": "dht-query",
+      "repo": "https://github.com/jwodder/dht-query",
+      "language": "Python"
+    },
+    {
+      "name": "iterpath",
+      "repo": "https://github.com/jwodder/iterpath",
+      "language": "Python"
+    },
+    {
+      "name": "txtble",
+      "repo": "https://github.com/jwodder/txtble",
+      "language": "Python"
+    },
+    {
+      "name": "logsdb",
+      "repo": "https://github.com/jwodder/logsdb",
+      "language": "Python"
+    },
+    {
+      "name": "anys",
+      "repo": "https://github.com/jwodder/anys",
+      "language": "Python"
+    },
+    {
+      "name": "versioningit",
+      "repo": "https://github.com/jwodder/versioningit",
+      "language": "Python"
+    },
+    {
+      "name": "ghreq",
+      "repo": "https://github.com/jwodder/ghreq",
+      "language": "Python"
+    },
+    {
+      "name": "lineinfile",
+      "repo": "https://github.com/jwodder/lineinfile",
+      "language": "Python"
+    },
+    {
+      "name": "outgoing-mailgun",
+      "repo": "https://github.com/jwodder/outgoing-mailgun",
+      "language": "Python"
+    },
+    {
+      "name": "pywodlib",
+      "repo": "https://github.com/jwodder/pywodlib",
+      "language": "Python"
+    },
+    {
+      "name": "pypi-stats",
+      "repo": "https://github.com/jwodder/pypi-stats",
+      "language": "Python"
+    },
+    {
+      "name": "chesthulhu",
+      "repo": "https://github.com/jwodder/chesthulhu",
+      "language": "Python"
+    },
+    {
+      "name": "ps1.py",
+      "repo": "https://github.com/jwodder/ps1.py",
+      "language": "Python"
+    },
+    {
+      "name": "versioningit-test-case-factory",
+      "repo": "https://github.com/jwodder/versioningit-test-case-factory",
+      "language": "Python"
+    },
+    {
+      "name": "ghtoken",
+      "repo": "https://github.com/jwodder/ghtoken",
+      "language": "Python"
+    },
+    {
+      "name": "inplace",
+      "repo": "https://github.com/jwodder/inplace",
+      "language": "Python"
+    },
+    {
+      "name": "habits",
+      "repo": "https://github.com/jwodder/habits",
+      "language": "Python"
+    },
+    {
+      "name": "kbits",
+      "repo": "https://github.com/jwodder/kbits",
+      "url": "https://jwodder.github.io/kbits/",
+      "language": "Python"
+    },
+    {
+      "name": "forklone",
+      "repo": "https://github.com/jwodder/forklone",
+      "language": "Python"
+    },
+    {
+      "name": "mailbits",
+      "repo": "https://github.com/jwodder/mailbits",
+      "language": "Python"
+    },
+    {
+      "name": "pdfcalendar",
+      "repo": "https://github.com/jwodder/pdfcalendar",
+      "language": "Python"
+    },
+    {
+      "name": "ghrepo",
+      "repo": "https://github.com/jwodder/ghrepo",
+      "language": "Python"
+    },
+    {
+      "name": "dotplate",
+      "repo": "https://github.com/jwodder/dotplate",
+      "language": "Python"
+    },
+    {
+      "name": "morecontext",
+      "repo": "https://github.com/jwodder/morecontext",
+      "language": "Python"
+    },
+    {
+      "name": "pypi-simple",
+      "repo": "https://github.com/jwodder/pypi-simple",
+      "language": "Python"
+    },
+    {
+      "name": "apachelogs",
+      "repo": "https://github.com/jwodder/apachelogs",
+      "language": "Python"
+    },
+    {
+      "name": "click-loglevel",
+      "repo": "https://github.com/jwodder/click-loglevel",
+      "language": "Python"
+    },
+    {
+      "name": "javaproperties",
+      "repo": "https://github.com/jwodder/javaproperties",
+      "language": "Python"
+    },
+    {
+      "name": "reponews",
+      "repo": "https://github.com/jwodder/reponews",
+      "language": "Python"
+    },
+    {
+      "name": "check-wheel-contents",
+      "repo": "https://github.com/jwodder/check-wheel-contents",
+      "language": "Python"
+    },
+    {
+      "name": "mkissues",
+      "repo": "https://github.com/jwodder/mkissues",
+      "language": "Python"
+    },
+    {
+      "name": "showmark",
+      "repo": "https://github.com/jwodder/showmark",
+      "language": "CSS"
+    },
+    {
+      "name": "strtoint",
+      "repo": "https://github.com/jwodder/strtoint",
+      "language": "Rust"
+    },
+    {
+      "name": "sudoku",
+      "repo": "https://github.com/jwodder/sudoku",
+      "language": "Rust"
+    },
+    {
+      "name": "ratselect",
+      "repo": "https://github.com/jwodder/ratselect",
+      "language": "Rust"
+    },
+    {
+      "name": "nhmoon",
+      "repo": "https://github.com/jwodder/nhmoon",
+      "language": "Rust"
+    },
+    {
+      "name": "hangman",
+      "repo": "https://github.com/jwodder/hangman",
+      "language": "Rust"
+    },
+    {
+      "name": "cursive-select",
+      "repo": "https://github.com/jwodder/cursive-select",
+      "language": "Rust"
+    },
+    {
+      "name": "system",
+      "repo": "https://github.com/jwodder/system",
+      "language": "Python"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/jwodder/renovate-config",
+      "language": "Python"
+    },
+    {
+      "name": "home",
+      "repo": "https://github.com/jwodder/home",
+      "language": "Python"
+    },
+    {
+      "name": "rsrepo-test-factory",
+      "repo": "https://github.com/jwodder/rsrepo-test-factory",
+      "language": "Rust"
+    },
+    {
+      "name": "ghscripts",
+      "repo": "https://github.com/jwodder/ghscripts",
+      "language": "Python"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/jwodder/test"
+    },
+    {
+      "name": "ghreq-rust",
+      "repo": "https://github.com/jwodder/ghreq-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "newlines",
+      "repo": "https://github.com/jwodder/newlines",
+      "language": "Rust"
+    },
+    {
+      "name": "dependalabels",
+      "repo": "https://github.com/jwodder/dependalabels",
+      "language": "Python"
+    },
+    {
+      "name": "jwodder",
+      "repo": "https://github.com/jwodder/jwodder"
+    },
+    {
+      "name": "trscrape",
+      "repo": "https://github.com/jwodder/trscrape",
+      "language": "Rust"
+    },
+    {
+      "name": "schedule",
+      "repo": "https://github.com/jwodder/schedule",
+      "language": "Python"
+    },
+    {
+      "name": "qypi",
+      "repo": "https://github.com/jwodder/qypi",
+      "language": "Python"
+    },
+    {
+      "name": "derange",
+      "repo": "https://github.com/jwodder/derange",
+      "language": "Python"
+    },
+    {
+      "name": "argset",
+      "repo": "https://github.com/jwodder/argset",
+      "language": "Python"
+    },
+    {
+      "name": "rustyline-async-test",
+      "repo": "https://github.com/jwodder/rustyline-async-test",
+      "language": "Rust"
+    },
+    {
+      "name": "zarr-checksum-gallery",
+      "repo": "https://github.com/jwodder/zarr-checksum-gallery",
+      "language": "Rust"
+    },
+    {
+      "name": "batchdav",
+      "repo": "https://github.com/jwodder/batchdav",
+      "language": "Rust"
+    },
+    {
+      "name": "axum-hammer",
+      "repo": "https://github.com/jwodder/axum-hammer",
+      "language": "Rust"
+    },
+    {
+      "name": "manifest-size",
+      "repo": "https://github.com/jwodder/manifest-size",
+      "language": "Rust"
+    },
+    {
+      "name": "gamdam-rust",
+      "repo": "https://github.com/jwodder/gamdam-rust",
+      "language": "Rust"
+    }
+  ]
+}

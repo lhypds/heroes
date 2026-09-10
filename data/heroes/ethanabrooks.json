@@ -1,0 +1,507 @@
+{
+  "handle": "ethanabrooks",
+  "name": "Ethan Brooks",
+  "github": [
+    "https://github.com/ethanabrooks"
+  ],
+  "own_repos": 122,
+  "commits": 14236,
+  "apps": [],
+  "repos": [
+    {
+      "name": "nix",
+      "repo": "https://github.com/ethanabrooks/nix",
+      "language": "Shell"
+    },
+    {
+      "name": "linear-tools",
+      "repo": "https://github.com/ethanabrooks/linear-tools",
+      "language": "Python"
+    },
+    {
+      "name": "cx",
+      "repo": "https://github.com/ethanabrooks/cx",
+      "language": "Shell"
+    },
+    {
+      "name": "screenshot-uploader",
+      "repo": "https://github.com/ethanabrooks/screenshot-uploader",
+      "language": "Python"
+    },
+    {
+      "name": "vaeda",
+      "repo": "https://github.com/ethanabrooks/vaeda",
+      "language": "Python"
+    },
+    {
+      "name": "reminders-app",
+      "repo": "https://github.com/ethanabrooks/reminders-app",
+      "language": "Python"
+    },
+    {
+      "name": "delphi",
+      "repo": "https://github.com/ethanabrooks/delphi",
+      "language": "TypeScript"
+    },
+    {
+      "name": "temporal-breakpoint-example",
+      "repo": "https://github.com/ethanabrooks/temporal-breakpoint-example",
+      "language": "Python"
+    },
+    {
+      "name": ".claude",
+      "repo": "https://github.com/ethanabrooks/.claude"
+    },
+    {
+      "name": "pants-test",
+      "repo": "https://github.com/ethanabrooks/pants-test",
+      "language": "Starlark"
+    },
+    {
+      "name": "ansible",
+      "repo": "https://github.com/ethanabrooks/ansible"
+    },
+    {
+      "name": "nix-docker",
+      "repo": "https://github.com/ethanabrooks/nix-docker",
+      "language": "Nix"
+    },
+    {
+      "name": "blockwise_parallel",
+      "repo": "https://github.com/ethanabrooks/blockwise_parallel",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "dissertation",
+      "repo": "https://github.com/ethanabrooks/dissertation",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "ethanabrooks.github.io",
+      "repo": "https://github.com/ethanabrooks/ethanabrooks.github.io",
+      "language": "CSS"
+    },
+    {
+      "name": "in-context-rl",
+      "repo": "https://github.com/ethanabrooks/in-context-rl",
+      "language": "Python"
+    },
+    {
+      "name": "adpp",
+      "repo": "https://github.com/ethanabrooks/adpp",
+      "language": "Python"
+    },
+    {
+      "name": "icpi",
+      "repo": "https://github.com/ethanabrooks/icpi",
+      "language": "Python"
+    },
+    {
+      "name": "haskell-nix",
+      "repo": "https://github.com/ethanabrooks/haskell-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "minimal-python-nix",
+      "repo": "https://github.com/ethanabrooks/minimal-python-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "environments",
+      "repo": "https://github.com/ethanabrooks/environments",
+      "language": "Python"
+    },
+    {
+      "name": "thesis-final-chapter",
+      "repo": "https://github.com/ethanabrooks/thesis-final-chapter",
+      "language": "Python"
+    },
+    {
+      "name": "515project1",
+      "repo": "https://github.com/ethanabrooks/515project1",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "dad-scales",
+      "repo": "https://github.com/ethanabrooks/dad-scales",
+      "language": "TypeScript"
+    },
+    {
+      "name": "coronavirus",
+      "repo": "https://github.com/ethanabrooks/coronavirus",
+      "url": "https://ethanabrooks.github.io/coronavirus",
+      "language": "Roff"
+    },
+    {
+      "name": "my-app",
+      "repo": "https://github.com/ethanabrooks/my-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "inplace-latex-editor",
+      "repo": "https://github.com/ethanabrooks/inplace-latex-editor",
+      "language": "HTML"
+    },
+    {
+      "name": "gridworld-env",
+      "repo": "https://github.com/ethanabrooks/gridworld-env",
+      "language": "Python"
+    },
+    {
+      "name": "sequence2sequence",
+      "repo": "https://github.com/ethanabrooks/sequence2sequence",
+      "language": "Python"
+    },
+    {
+      "name": "seq2seq",
+      "repo": "https://github.com/ethanabrooks/seq2seq",
+      "language": "Python"
+    },
+    {
+      "name": "dollar-lambda",
+      "repo": "https://github.com/ethanabrooks/dollar-lambda",
+      "language": "Python"
+    },
+    {
+      "name": "rlu-atari",
+      "repo": "https://github.com/ethanabrooks/rlu-atari",
+      "language": "Python"
+    },
+    {
+      "name": "decision-transformer",
+      "repo": "https://github.com/ethanabrooks/decision-transformer",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/ethanabrooks/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "habitat-sim-issue",
+      "repo": "https://github.com/ethanabrooks/habitat-sim-issue",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "pytypeclass",
+      "repo": "https://github.com/ethanabrooks/pytypeclass",
+      "language": "Python"
+    },
+    {
+      "name": "r2d2",
+      "repo": "https://github.com/ethanabrooks/r2d2",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-ppo",
+      "repo": "https://github.com/ethanabrooks/docker-ppo",
+      "language": "Python"
+    },
+    {
+      "name": "third-octave",
+      "repo": "https://github.com/ethanabrooks/third-octave",
+      "language": "Python"
+    },
+    {
+      "name": "sequence-queue",
+      "repo": "https://github.com/ethanabrooks/sequence-queue",
+      "language": "Shell"
+    },
+    {
+      "name": "poetry-issue",
+      "repo": "https://github.com/ethanabrooks/poetry-issue",
+      "language": "Shell"
+    },
+    {
+      "name": "acme-impala",
+      "repo": "https://github.com/ethanabrooks/acme-impala",
+      "language": "Python"
+    },
+    {
+      "name": "CoFCA-S",
+      "repo": "https://github.com/ethanabrooks/CoFCA-S",
+      "language": "Python"
+    },
+    {
+      "name": "sum-rnn",
+      "repo": "https://github.com/ethanabrooks/sum-rnn",
+      "language": "Python"
+    },
+    {
+      "name": "typescript-run-visualizer",
+      "repo": "https://github.com/ethanabrooks/typescript-run-visualizer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rescript-template",
+      "repo": "https://github.com/ethanabrooks/rescript-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "run-server",
+      "repo": "https://github.com/ethanabrooks/run-server",
+      "language": "Go"
+    },
+    {
+      "name": "swarm",
+      "repo": "https://github.com/ethanabrooks/swarm",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "react-flow-diagram",
+      "repo": "https://github.com/ethanabrooks/react-flow-diagram",
+      "language": "TypeScript"
+    },
+    {
+      "name": "runs-manager",
+      "repo": "https://github.com/ethanabrooks/runs-manager",
+      "language": "Scala"
+    },
+    {
+      "name": "neurips-files",
+      "repo": "https://github.com/ethanabrooks/neurips-files",
+      "language": "Python"
+    },
+    {
+      "name": "caity-birthday",
+      "repo": "https://github.com/ethanabrooks/caity-birthday",
+      "language": "TypeScript"
+    },
+    {
+      "name": "scale-necklace",
+      "repo": "https://github.com/ethanabrooks/scale-necklace",
+      "language": "TypeScript"
+    },
+    {
+      "name": "creative-violinist",
+      "repo": "https://github.com/ethanabrooks/creative-violinist",
+      "language": "HTML"
+    },
+    {
+      "name": "hello-wasm",
+      "repo": "https://github.com/ethanabrooks/hello-wasm",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-assignment",
+      "repo": "https://github.com/ethanabrooks/rust-assignment",
+      "language": "Rust"
+    },
+    {
+      "name": "l2m-api",
+      "repo": "https://github.com/ethanabrooks/l2m-api",
+      "language": "Python"
+    },
+    {
+      "name": "docker-tensorboard",
+      "repo": "https://github.com/ethanabrooks/docker-tensorboard",
+      "language": "Shell"
+    },
+    {
+      "name": "gantt",
+      "repo": "https://github.com/ethanabrooks/gantt",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "word-language-model",
+      "repo": "https://github.com/ethanabrooks/word-language-model",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "teacher-RL",
+      "repo": "https://github.com/ethanabrooks/teacher-RL",
+      "language": "Python"
+    },
+    {
+      "name": "docker-jupyter",
+      "repo": "https://github.com/ethanabrooks/docker-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "plotting-scripts",
+      "repo": "https://github.com/ethanabrooks/plotting-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "rl-utils",
+      "repo": "https://github.com/ethanabrooks/rl-utils",
+      "language": "Python"
+    },
+    {
+      "name": "rust-autograder-test-assignment",
+      "repo": "https://github.com/ethanabrooks/rust-autograder-test-assignment",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-diesel-tutorial",
+      "repo": "https://github.com/ethanabrooks/rust-diesel-tutorial",
+      "language": "Rust"
+    },
+    {
+      "name": "hsr-env",
+      "repo": "https://github.com/ethanabrooks/hsr-env",
+      "language": "Python"
+    },
+    {
+      "name": "Learning-to-Execute-Tasks-with-Control-Flow",
+      "repo": "https://github.com/ethanabrooks/Learning-to-Execute-Tasks-with-Control-Flow",
+      "language": "TeX"
+    },
+    {
+      "name": "lab-notebook",
+      "repo": "https://github.com/ethanabrooks/lab-notebook",
+      "language": "Python"
+    },
+    {
+      "name": "deep-hierarchy",
+      "repo": "https://github.com/ethanabrooks/deep-hierarchy",
+      "language": "Python"
+    },
+    {
+      "name": "supervised-learning",
+      "repo": "https://github.com/ethanabrooks/supervised-learning",
+      "language": "Python"
+    },
+    {
+      "name": "logic-agent",
+      "repo": "https://github.com/ethanabrooks/logic-agent"
+    },
+    {
+      "name": "off-policy-curiosity",
+      "repo": "https://github.com/ethanabrooks/off-policy-curiosity",
+      "language": "Python"
+    },
+    {
+      "name": "supervised-trpo",
+      "repo": "https://github.com/ethanabrooks/supervised-trpo",
+      "language": "TeX"
+    },
+    {
+      "name": "mujoco",
+      "repo": "https://github.com/ethanabrooks/mujoco",
+      "language": "Python"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/ethanabrooks/resume",
+      "language": "TeX"
+    },
+    {
+      "name": "hsr",
+      "repo": "https://github.com/ethanabrooks/hsr",
+      "language": "Python"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/ethanabrooks/skills",
+      "language": "Python"
+    },
+    {
+      "name": "reward-exploration",
+      "repo": "https://github.com/ethanabrooks/reward-exploration",
+      "language": "Python"
+    },
+    {
+      "name": "teaching-dad",
+      "repo": "https://github.com/ethanabrooks/teaching-dad",
+      "language": "Python"
+    },
+    {
+      "name": "mujoco-forum",
+      "repo": "https://github.com/ethanabrooks/mujoco-forum",
+      "language": "C++"
+    },
+    {
+      "name": "tabular",
+      "repo": "https://github.com/ethanabrooks/tabular",
+      "language": "Python"
+    },
+    {
+      "name": "taskless-rl",
+      "repo": "https://github.com/ethanabrooks/taskless-rl",
+      "language": "TeX"
+    },
+    {
+      "name": "landscaping",
+      "repo": "https://github.com/ethanabrooks/landscaping",
+      "language": "Python"
+    },
+    {
+      "name": "mujoco-bugs",
+      "repo": "https://github.com/ethanabrooks/mujoco-bugs",
+      "language": "Python"
+    },
+    {
+      "name": "pathtracer",
+      "repo": "https://github.com/ethanabrooks/pathtracer",
+      "language": "Haskell"
+    },
+    {
+      "name": "hql",
+      "repo": "https://github.com/ethanabrooks/hql",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "sample-locations",
+      "repo": "https://github.com/ethanabrooks/sample-locations"
+    },
+    {
+      "name": "eval-representative",
+      "repo": "https://github.com/ethanabrooks/eval-representative",
+      "language": "Python"
+    },
+    {
+      "name": "sampleLocations",
+      "repo": "https://github.com/ethanabrooks/sampleLocations",
+      "language": "Go"
+    },
+    {
+      "name": "ardrone-project",
+      "repo": "https://github.com/ethanabrooks/ardrone-project",
+      "language": "Shell"
+    },
+    {
+      "name": "gtri-presentation",
+      "repo": "https://github.com/ethanabrooks/gtri-presentation"
+    },
+    {
+      "name": "tf-repl",
+      "repo": "https://github.com/ethanabrooks/tf-repl",
+      "language": "Python"
+    },
+    {
+      "name": "rl",
+      "repo": "https://github.com/ethanabrooks/rl",
+      "language": "Python"
+    },
+    {
+      "name": "computational-graph",
+      "repo": "https://github.com/ethanabrooks/computational-graph",
+      "language": "Rust"
+    },
+    {
+      "name": "travis-test",
+      "repo": "https://github.com/ethanabrooks/travis-test",
+      "language": "Rust"
+    },
+    {
+      "name": "robot-arm",
+      "repo": "https://github.com/ethanabrooks/robot-arm",
+      "language": "Python"
+    },
+    {
+      "name": "cis700",
+      "repo": "https://github.com/ethanabrooks/cis700",
+      "language": "Python"
+    },
+    {
+      "name": "phd",
+      "repo": "https://github.com/ethanabrooks/phd"
+    },
+    {
+      "name": "headlines",
+      "repo": "https://github.com/ethanabrooks/headlines",
+      "language": "Python"
+    }
+  ]
+}
