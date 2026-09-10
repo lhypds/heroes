@@ -1,0 +1,506 @@
+{
+  "handle": "rvben",
+  "name": "Ruben J. Jongejan",
+  "github": [
+    "https://github.com/rvben"
+  ],
+  "website": "https://am8.nl/",
+  "bio": "I build tools for humans and agents.",
+  "own_repos": 102,
+  "commits": 12619,
+  "apps": [],
+  "repos": [
+    {
+      "name": "rumdl-vscode",
+      "repo": "https://github.com/rvben/rumdl-vscode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-rumdl",
+      "repo": "https://github.com/rvben/homebrew-rumdl",
+      "language": "Shell"
+    },
+    {
+      "name": "obsidian-rumdl",
+      "repo": "https://github.com/rvben/obsidian-rumdl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rumdl-chrome-extension",
+      "repo": "https://github.com/rvben/rumdl-chrome-extension",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rumdl-pre-commit",
+      "repo": "https://github.com/rvben/rumdl-pre-commit",
+      "language": "Python"
+    },
+    {
+      "name": "rumdl",
+      "repo": "https://github.com/rvben/rumdl",
+      "language": "Rust"
+    },
+    {
+      "name": "aws-cdk-cli-py",
+      "repo": "https://github.com/rvben/aws-cdk-cli-py",
+      "language": "Python"
+    },
+    {
+      "name": "shinyhub",
+      "repo": "https://github.com/rvben/shinyhub",
+      "language": "Go"
+    },
+    {
+      "name": "onenote-cli",
+      "repo": "https://github.com/rvben/onenote-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-browser-cli-py",
+      "repo": "https://github.com/rvben/agent-browser-cli-py",
+      "language": "Python"
+    },
+    {
+      "name": "rumk",
+      "repo": "https://github.com/rvben/rumk",
+      "language": "Rust"
+    },
+    {
+      "name": "upd",
+      "repo": "https://github.com/rvben/upd",
+      "language": "Rust"
+    },
+    {
+      "name": "upd-pre-commit",
+      "repo": "https://github.com/rvben/upd-pre-commit",
+      "language": "Python"
+    },
+    {
+      "name": "rumdl-intellij",
+      "repo": "https://github.com/rvben/rumdl-intellij",
+      "language": "Kotlin"
+    },
+    {
+      "name": "outlook-cli",
+      "repo": "https://github.com/rvben/outlook-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "yamldap",
+      "repo": "https://github.com/rvben/yamldap",
+      "language": "Rust"
+    },
+    {
+      "name": "zed-rumdl",
+      "repo": "https://github.com/rvben/zed-rumdl",
+      "language": "Rust"
+    },
+    {
+      "name": "werkt",
+      "repo": "https://github.com/rvben/werkt",
+      "language": "Go"
+    },
+    {
+      "name": "vedetta",
+      "repo": "https://github.com/rvben/vedetta",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/rvben/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "vership",
+      "repo": "https://github.com/rvben/vership",
+      "language": "Rust"
+    },
+    {
+      "name": "husker",
+      "repo": "https://github.com/rvben/husker",
+      "language": "Rust"
+    },
+    {
+      "name": "teams-cli",
+      "repo": "https://github.com/rvben/teams-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "homeassistant-cli",
+      "repo": "https://github.com/rvben/homeassistant-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "yuki-cli",
+      "repo": "https://github.com/rvben/yuki-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "zoom-cli",
+      "repo": "https://github.com/rvben/zoom-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "sharepoint-cli",
+      "repo": "https://github.com/rvben/sharepoint-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "confluence-cli",
+      "repo": "https://github.com/rvben/confluence-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "jira-cli",
+      "repo": "https://github.com/rvben/jira-cli",
+      "url": "https://github.com/rvben/jira-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "servicenow-cli",
+      "repo": "https://github.com/rvben/servicenow-cli",
+      "url": "https://crates.io/crates/servicenow-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "tarry",
+      "repo": "https://github.com/rvben/tarry",
+      "language": "Rust"
+    },
+    {
+      "name": "proxctl",
+      "repo": "https://github.com/rvben/proxctl",
+      "language": "Rust"
+    },
+    {
+      "name": "dotdiff",
+      "repo": "https://github.com/rvben/dotdiff",
+      "language": "Rust"
+    },
+    {
+      "name": "ext4-cli",
+      "repo": "https://github.com/rvben/ext4-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "shelly-cli",
+      "repo": "https://github.com/rvben/shelly-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "unifi-cli",
+      "repo": "https://github.com/rvben/unifi-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "qnap-cli",
+      "repo": "https://github.com/rvben/qnap-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "dotpick",
+      "repo": "https://github.com/rvben/dotpick",
+      "language": "Rust"
+    },
+    {
+      "name": "tidemark",
+      "repo": "https://github.com/rvben/tidemark",
+      "language": "Rust"
+    },
+    {
+      "name": "clihatch",
+      "repo": "https://github.com/rvben/clihatch",
+      "language": "Rust"
+    },
+    {
+      "name": "n8nc",
+      "repo": "https://github.com/rvben/n8nc",
+      "language": "Rust"
+    },
+    {
+      "name": "badgevet",
+      "repo": "https://github.com/rvben/badgevet",
+      "language": "Rust"
+    },
+    {
+      "name": "clispec-cli",
+      "repo": "https://github.com/rvben/clispec-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "verg",
+      "repo": "https://github.com/rvben/verg",
+      "language": "Rust"
+    },
+    {
+      "name": "ansible-agent-callback",
+      "repo": "https://github.com/rvben/ansible-agent-callback",
+      "language": "Python"
+    },
+    {
+      "name": "ipcam",
+      "repo": "https://github.com/rvben/ipcam",
+      "language": "Rust"
+    },
+    {
+      "name": "recur",
+      "repo": "https://github.com/rvben/recur",
+      "language": "Rust"
+    },
+    {
+      "name": "kenteken",
+      "repo": "https://github.com/rvben/kenteken",
+      "url": "https://github.com/rvben/kenteken",
+      "language": "Rust"
+    },
+    {
+      "name": "pakket",
+      "repo": "https://github.com/rvben/pakket",
+      "language": "Rust"
+    },
+    {
+      "name": "tasmota-cli",
+      "repo": "https://github.com/rvben/tasmota-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "whatport",
+      "repo": "https://github.com/rvben/whatport",
+      "language": "Rust"
+    },
+    {
+      "name": "openarchieven-cli",
+      "repo": "https://github.com/rvben/openarchieven-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "shelly-exporter",
+      "repo": "https://github.com/rvben/shelly-exporter",
+      "language": "Rust"
+    },
+    {
+      "name": "homewizard-p1-exporter",
+      "repo": "https://github.com/rvben/homewizard-p1-exporter",
+      "language": "Rust"
+    },
+    {
+      "name": "homewizard-water-exporter",
+      "repo": "https://github.com/rvben/homewizard-water-exporter",
+      "language": "Rust"
+    },
+    {
+      "name": "downstat",
+      "repo": "https://github.com/rvben/downstat",
+      "language": "Rust"
+    },
+    {
+      "name": "apollo-air1-exporter",
+      "repo": "https://github.com/rvben/apollo-air1-exporter",
+      "language": "Rust"
+    },
+    {
+      "name": "clispec",
+      "repo": "https://github.com/rvben/clispec",
+      "language": "Python"
+    },
+    {
+      "name": "unifi-network-exporter",
+      "repo": "https://github.com/rvben/unifi-network-exporter",
+      "language": "Rust"
+    },
+    {
+      "name": "tscribe",
+      "repo": "https://github.com/rvben/tscribe",
+      "language": "Rust"
+    },
+    {
+      "name": "switchkit",
+      "repo": "https://github.com/rvben/switchkit",
+      "language": "Rust"
+    },
+    {
+      "name": "plugboard",
+      "repo": "https://github.com/rvben/plugboard",
+      "language": "Rust"
+    },
+    {
+      "name": "esprite",
+      "repo": "https://github.com/rvben/esprite",
+      "language": "C++"
+    },
+    {
+      "name": "cacheferret",
+      "repo": "https://github.com/rvben/cacheferret",
+      "language": "Rust"
+    },
+    {
+      "name": "openbao-cli-py",
+      "repo": "https://github.com/rvben/openbao-cli-py",
+      "language": "Python"
+    },
+    {
+      "name": "shiny-plotly",
+      "repo": "https://github.com/rvben/shiny-plotly",
+      "url": "https://rvben.github.io/shiny-plotly/",
+      "language": "Python"
+    },
+    {
+      "name": "shinylive-check",
+      "repo": "https://github.com/rvben/shinylive-check",
+      "language": "Python"
+    },
+    {
+      "name": "clispec-skills",
+      "repo": "https://github.com/rvben/clispec-skills",
+      "language": "Rust"
+    },
+    {
+      "name": "vedetta-hass-integration",
+      "repo": "https://github.com/rvben/vedetta-hass-integration",
+      "language": "Python"
+    },
+    {
+      "name": "solaredge-exporter",
+      "repo": "https://github.com/rvben/solaredge-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "rvben",
+      "repo": "https://github.com/rvben/rvben"
+    },
+    {
+      "name": "proxmox-exporter",
+      "repo": "https://github.com/rvben/proxmox-exporter",
+      "language": "Rust"
+    },
+    {
+      "name": "tasmota-exporter",
+      "repo": "https://github.com/rvben/tasmota-exporter",
+      "language": "Rust"
+    },
+    {
+      "name": "ru",
+      "repo": "https://github.com/rvben/ru",
+      "language": "Go"
+    },
+    {
+      "name": "pyver",
+      "repo": "https://github.com/rvben/pyver",
+      "language": "Go"
+    },
+    {
+      "name": "rpi-openvpn",
+      "repo": "https://github.com/rvben/rpi-openvpn",
+      "language": "Shell"
+    },
+    {
+      "name": "solar_exporter",
+      "repo": "https://github.com/rvben/solar_exporter",
+      "language": "Go"
+    },
+    {
+      "name": "selenium-getting-started",
+      "repo": "https://github.com/rvben/selenium-getting-started",
+      "language": "Java"
+    },
+    {
+      "name": "junit-getting-started",
+      "repo": "https://github.com/rvben/junit-getting-started",
+      "language": "Java"
+    },
+    {
+      "name": "power_exporter",
+      "repo": "https://github.com/rvben/power_exporter"
+    },
+    {
+      "name": "p1_exporter",
+      "repo": "https://github.com/rvben/p1_exporter",
+      "language": "Go"
+    },
+    {
+      "name": "ansible-jitsi-meet",
+      "repo": "https://github.com/rvben/ansible-jitsi-meet"
+    },
+    {
+      "name": "mijia_exporter",
+      "repo": "https://github.com/rvben/mijia_exporter",
+      "language": "Go"
+    },
+    {
+      "name": "go-sudoku-solver",
+      "repo": "https://github.com/rvben/go-sudoku-solver",
+      "language": "Go"
+    },
+    {
+      "name": "rpi-keepalived",
+      "repo": "https://github.com/rvben/rpi-keepalived",
+      "language": "Shell"
+    },
+    {
+      "name": "go-fakesudo",
+      "repo": "https://github.com/rvben/go-fakesudo",
+      "language": "Go"
+    },
+    {
+      "name": "docker-registry",
+      "repo": "https://github.com/rvben/docker-registry",
+      "language": "Makefile"
+    },
+    {
+      "name": "killproxy",
+      "repo": "https://github.com/rvben/killproxy",
+      "language": "Shell"
+    },
+    {
+      "name": "my-k3s",
+      "repo": "https://github.com/rvben/my-k3s"
+    },
+    {
+      "name": "rpi-wireguard",
+      "repo": "https://github.com/rvben/rpi-wireguard"
+    },
+    {
+      "name": "rpi-cloudflared",
+      "repo": "https://github.com/rvben/rpi-cloudflared",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rpi-jenkins",
+      "repo": "https://github.com/rvben/rpi-jenkins",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-lint-alpine",
+      "repo": "https://github.com/rvben/ansible-lint-alpine"
+    },
+    {
+      "name": "rpi-ttyd",
+      "repo": "https://github.com/rvben/rpi-ttyd"
+    },
+    {
+      "name": "demo-nginx-loadbalancer",
+      "repo": "https://github.com/rvben/demo-nginx-loadbalancer"
+    },
+    {
+      "name": "docker-atom",
+      "repo": "https://github.com/rvben/docker-atom"
+    },
+    {
+      "name": "ansible-role-powershell",
+      "repo": "https://github.com/rvben/ansible-role-powershell"
+    },
+    {
+      "name": "simple-deploy-test",
+      "repo": "https://github.com/rvben/simple-deploy-test",
+      "language": "HTML"
+    },
+    {
+      "name": "ansible-role-leanote",
+      "repo": "https://github.com/rvben/ansible-role-leanote"
+    },
+    {
+      "name": "gitlab-ci-playground",
+      "repo": "https://github.com/rvben/gitlab-ci-playground"
+    }
+  ]
+}

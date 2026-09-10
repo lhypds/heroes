@@ -1,0 +1,517 @@
+{
+  "handle": "linux-china",
+  "name": "Libing Chen",
+  "github": [
+    "https://github.com/linux-china"
+  ],
+  "website": "https://linux-china.davao.page/",
+  "bio": "FullStack software engineer driven by AI now, with 25+ years Java experience",
+  "own_repos": 382,
+  "commits": 14481,
+  "apps": [],
+  "repos": [
+    {
+      "name": "platform-bom-contrib",
+      "repo": "https://github.com/linux-china/platform-bom-contrib",
+      "language": "Java"
+    },
+    {
+      "name": "ducklake-demo",
+      "repo": "https://github.com/linux-china/ducklake-demo",
+      "language": "Just"
+    },
+    {
+      "name": "kotlin-platform-bom",
+      "repo": "https://github.com/linux-china/kotlin-platform-bom",
+      "language": "Just"
+    },
+    {
+      "name": "dotenvx-java",
+      "repo": "https://github.com/linux-china/dotenvx-java",
+      "language": "Java"
+    },
+    {
+      "name": "dotenvx-rs",
+      "repo": "https://github.com/linux-china/dotenvx-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "task-keeper",
+      "repo": "https://github.com/linux-china/task-keeper",
+      "language": "Rust"
+    },
+    {
+      "name": "graal-web-image-demo",
+      "repo": "https://github.com/linux-china/graal-web-image-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "dotenvx-jetbrains-plugin",
+      "repo": "https://github.com/linux-china/dotenvx-jetbrains-plugin",
+      "url": "https://plugins.jetbrains.com/plugin/28148-dotenvx",
+      "language": "Kotlin"
+    },
+    {
+      "name": "godotenvx",
+      "repo": "https://github.com/linux-china/godotenvx",
+      "language": "Go"
+    },
+    {
+      "name": "dotenvx-py",
+      "repo": "https://github.com/linux-china/dotenvx-py",
+      "language": "Python"
+    },
+    {
+      "name": "python_call_rust",
+      "repo": "https://github.com/linux-china/python_call_rust",
+      "language": "Rust"
+    },
+    {
+      "name": "wukong",
+      "repo": "https://github.com/linux-china/wukong",
+      "language": "Rust"
+    },
+    {
+      "name": "jwt-demo",
+      "repo": "https://github.com/linux-china/jwt-demo",
+      "language": "Java"
+    },
+    {
+      "name": "jetbrains-just-plugin",
+      "repo": "https://github.com/linux-china/jetbrains-just-plugin",
+      "url": "https://plugins.jetbrains.com/plugin/18658-just",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jooq-demo",
+      "repo": "https://github.com/linux-china/jooq-demo",
+      "language": "Java"
+    },
+    {
+      "name": "r2dbc-demo",
+      "repo": "https://github.com/linux-china/r2dbc-demo",
+      "language": "Java"
+    },
+    {
+      "name": "spring-cloud-function-demo",
+      "repo": "https://github.com/linux-china/spring-cloud-function-demo",
+      "language": "Java"
+    },
+    {
+      "name": "duckman",
+      "repo": "https://github.com/linux-china/duckman",
+      "language": "Rust"
+    },
+    {
+      "name": "jetbrains-amber-plugin",
+      "repo": "https://github.com/linux-china/jetbrains-amber-plugin",
+      "url": "https://plugins.jetbrains.com/plugin/32151-amber-language",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jaz-boot-demo",
+      "repo": "https://github.com/linux-china/jaz-boot-demo",
+      "language": "Java"
+    },
+    {
+      "name": "reactive-spymemcached",
+      "repo": "https://github.com/linux-china/reactive-spymemcached",
+      "language": "Java"
+    },
+    {
+      "name": "axum-demo",
+      "repo": "https://github.com/linux-china/axum-demo",
+      "language": "Rust"
+    },
+    {
+      "name": "command-tips",
+      "repo": "https://github.com/linux-china/command-tips",
+      "language": "Shell"
+    },
+    {
+      "name": "pkl-demo",
+      "repo": "https://github.com/linux-china/pkl-demo",
+      "language": "Java"
+    },
+    {
+      "name": "Workspaces",
+      "repo": "https://github.com/linux-china/Workspaces",
+      "url": "https://plugins.jetbrains.com/plugin/21829-workspaces",
+      "language": "Java"
+    },
+    {
+      "name": "reactive-demo",
+      "repo": "https://github.com/linux-china/reactive-demo",
+      "language": "Java"
+    },
+    {
+      "name": "spring-http-interface-demo",
+      "repo": "https://github.com/linux-china/spring-http-interface-demo",
+      "language": "Java"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/linux-china/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "vaadin25-demo",
+      "repo": "https://github.com/linux-china/vaadin25-demo",
+      "language": "Java"
+    },
+    {
+      "name": "nats-spring-boot-starter",
+      "repo": "https://github.com/linux-china/nats-spring-boot-starter",
+      "language": "Java"
+    },
+    {
+      "name": "fastapi-sqlite-demo",
+      "repo": "https://github.com/linux-china/fastapi-sqlite-demo",
+      "language": "Python"
+    },
+    {
+      "name": "spring-grpc-demo",
+      "repo": "https://github.com/linux-china/spring-grpc-demo",
+      "language": "Java"
+    },
+    {
+      "name": "microservices-annotator-ext-plugin",
+      "repo": "https://github.com/linux-china/microservices-annotator-ext-plugin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kotlin-app-demo",
+      "repo": "https://github.com/linux-china/kotlin-app-demo",
+      "language": "Batchfile"
+    },
+    {
+      "name": "minisign-java",
+      "repo": "https://github.com/linux-china/minisign-java",
+      "language": "Java"
+    },
+    {
+      "name": "minisign-java-cli",
+      "repo": "https://github.com/linux-china/minisign-java-cli",
+      "language": "Java"
+    },
+    {
+      "name": "thymeleaf-demo",
+      "repo": "https://github.com/linux-china/thymeleaf-demo",
+      "language": "Java"
+    },
+    {
+      "name": "dotenvx-spring-boot",
+      "repo": "https://github.com/linux-china/dotenvx-spring-boot",
+      "language": "Java"
+    },
+    {
+      "name": "duckdb-openmetrics",
+      "repo": "https://github.com/linux-china/duckdb-openmetrics",
+      "language": "Rust"
+    },
+    {
+      "name": "pgwire-demo",
+      "repo": "https://github.com/linux-china/pgwire-demo",
+      "language": "Rust"
+    },
+    {
+      "name": "java-serialization-frameworks",
+      "repo": "https://github.com/linux-china/java-serialization-frameworks",
+      "language": "Java"
+    },
+    {
+      "name": "protobuf-demo",
+      "repo": "https://github.com/linux-china/protobuf-demo",
+      "language": "Java"
+    },
+    {
+      "name": "prism4j",
+      "repo": "https://github.com/linux-china/prism4j",
+      "language": "Java"
+    },
+    {
+      "name": "kotlin-wasm-node-demo",
+      "repo": "https://github.com/linux-china/kotlin-wasm-node-demo",
+      "language": "Just"
+    },
+    {
+      "name": "sbom-demo",
+      "repo": "https://github.com/linux-china/sbom-demo",
+      "language": "Java"
+    },
+    {
+      "name": "mailpit-spring-boot-demo",
+      "repo": "https://github.com/linux-china/mailpit-spring-boot-demo",
+      "language": "Java"
+    },
+    {
+      "name": "coding-agent-demo",
+      "repo": "https://github.com/linux-china/coding-agent-demo"
+    },
+    {
+      "name": "javaparser-demo",
+      "repo": "https://github.com/linux-china/javaparser-demo",
+      "language": "Java"
+    },
+    {
+      "name": "http2-java-demo",
+      "repo": "https://github.com/linux-china/http2-java-demo",
+      "language": "Java"
+    },
+    {
+      "name": "alibaba-broker-example-parent",
+      "repo": "https://github.com/linux-china/alibaba-broker-example-parent",
+      "url": "https://github.com/alibaba/alibaba-rsocket-broker",
+      "language": "Java"
+    },
+    {
+      "name": "xtermjs-spring-boot-starter",
+      "repo": "https://github.com/linux-china/xtermjs-spring-boot-starter",
+      "language": "Java"
+    },
+    {
+      "name": "groovy-boot-demo",
+      "repo": "https://github.com/linux-china/groovy-boot-demo",
+      "language": "Groovy"
+    },
+    {
+      "name": "gossip-spring-boot-starter",
+      "repo": "https://github.com/linux-china/gossip-spring-boot-starter",
+      "language": "Java"
+    },
+    {
+      "name": "wasmer-jvm-runtime-demo",
+      "repo": "https://github.com/linux-china/wasmer-jvm-runtime-demo",
+      "language": "Java"
+    },
+    {
+      "name": "zipkin-sender-rsocket",
+      "repo": "https://github.com/linux-china/zipkin-sender-rsocket",
+      "language": "Java"
+    },
+    {
+      "name": "java-annotation-processing-demo",
+      "repo": "https://github.com/linux-china/java-annotation-processing-demo",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-java-template",
+      "repo": "https://github.com/linux-china/spring-boot-java-template",
+      "language": "Java"
+    },
+    {
+      "name": "rocker-template-demo",
+      "repo": "https://github.com/linux-china/rocker-template-demo",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-kotlin-template",
+      "repo": "https://github.com/linux-china/spring-boot-kotlin-template",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jscheme",
+      "repo": "https://github.com/linux-china/jscheme",
+      "language": "Java"
+    },
+    {
+      "name": "jsr385-uscs",
+      "repo": "https://github.com/linux-china/jsr385-uscs",
+      "language": "Java"
+    },
+    {
+      "name": "Java13-in-Action",
+      "repo": "https://github.com/linux-china/Java13-in-Action",
+      "language": "Java"
+    },
+    {
+      "name": "redisai-java-example",
+      "repo": "https://github.com/linux-china/redisai-java-example",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-rsocket-route-dsl",
+      "repo": "https://github.com/linux-china/spring-boot-rsocket-route-dsl",
+      "language": "Java"
+    },
+    {
+      "name": "mybatis-demo",
+      "repo": "https://github.com/linux-china/mybatis-demo",
+      "language": "Java"
+    },
+    {
+      "name": "testcontainers-spring-boot-demo",
+      "repo": "https://github.com/linux-china/testcontainers-spring-boot-demo",
+      "language": "Java"
+    },
+    {
+      "name": "jakarta-data-demo",
+      "repo": "https://github.com/linux-china/jakarta-data-demo",
+      "language": "Java"
+    },
+    {
+      "name": "dbunit-pg-ext",
+      "repo": "https://github.com/linux-china/dbunit-pg-ext",
+      "language": "Java"
+    },
+    {
+      "name": "microservices-annotator",
+      "repo": "https://github.com/linux-china/microservices-annotator",
+      "language": "Java"
+    },
+    {
+      "name": "b7alk-li7wak",
+      "repo": "https://github.com/linux-china/b7alk-li7wak"
+    },
+    {
+      "name": "rotate_ur_github_token",
+      "repo": "https://github.com/linux-china/rotate_ur_github_token"
+    },
+    {
+      "name": "linux-china",
+      "repo": "https://github.com/linux-china/linux-china"
+    },
+    {
+      "name": "qoder-strict-py-demo",
+      "repo": "https://github.com/linux-china/qoder-strict-py-demo",
+      "url": "https://qoder.com/",
+      "language": "Python"
+    },
+    {
+      "name": "prql-jetbrains-plugin",
+      "repo": "https://github.com/linux-china/prql-jetbrains-plugin",
+      "url": "https://plugins.jetbrains.com/plugin/20793-prql",
+      "language": "Kotlin"
+    },
+    {
+      "name": "flask-sqlite-demo",
+      "repo": "https://github.com/linux-china/flask-sqlite-demo",
+      "language": "Python"
+    },
+    {
+      "name": "spring-boot-jdbc-mysql-demo",
+      "repo": "https://github.com/linux-china/spring-boot-jdbc-mysql-demo",
+      "language": "Java"
+    },
+    {
+      "name": "setup-dotenvx",
+      "repo": "https://github.com/linux-china/setup-dotenvx"
+    },
+    {
+      "name": "spring-dotenvx",
+      "repo": "https://github.com/linux-china/spring-dotenvx",
+      "language": "Java"
+    },
+    {
+      "name": "dotenvx-boot-demo",
+      "repo": "https://github.com/linux-china/dotenvx-boot-demo",
+      "language": "Java"
+    },
+    {
+      "name": "rust-jni-demo",
+      "repo": "https://github.com/linux-china/rust-jni-demo",
+      "language": "Java"
+    },
+    {
+      "name": "graal-native-image-demo",
+      "repo": "https://github.com/linux-china/graal-native-image-demo",
+      "language": "Java"
+    },
+    {
+      "name": "kotlin-wasm-browser-demo",
+      "repo": "https://github.com/linux-china/kotlin-wasm-browser-demo",
+      "language": "Just"
+    },
+    {
+      "name": "tgm",
+      "repo": "https://github.com/linux-china/tgm",
+      "language": "Rust"
+    },
+    {
+      "name": "dotenvx-hono-demo",
+      "repo": "https://github.com/linux-china/dotenvx-hono-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-actions-demo",
+      "repo": "https://github.com/linux-china/github-actions-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sq",
+      "repo": "https://github.com/linux-china/sq",
+      "language": "Rust"
+    },
+    {
+      "name": "thin-launcher-demo",
+      "repo": "https://github.com/linux-china/thin-launcher-demo",
+      "language": "Java"
+    },
+    {
+      "name": "osquery-spring-boot-starter",
+      "repo": "https://github.com/linux-china/osquery-spring-boot-starter",
+      "language": "Java"
+    },
+    {
+      "name": "rest-graphql-rsocket-demo",
+      "repo": "https://github.com/linux-china/rest-graphql-rsocket-demo",
+      "language": "Java"
+    },
+    {
+      "name": "mcp-rs-template",
+      "repo": "https://github.com/linux-china/mcp-rs-template",
+      "language": "Rust"
+    },
+    {
+      "name": "java-24-in-action",
+      "repo": "https://github.com/linux-china/java-24-in-action",
+      "language": "Just"
+    },
+    {
+      "name": "spring-boot-virtual-thread-demo",
+      "repo": "https://github.com/linux-china/spring-boot-virtual-thread-demo",
+      "language": "Java"
+    },
+    {
+      "name": "reactive-grpc-demo",
+      "repo": "https://github.com/linux-china/reactive-grpc-demo",
+      "language": "Java"
+    },
+    {
+      "name": "chatgpt-spring-boot-starter",
+      "repo": "https://github.com/linux-china/chatgpt-spring-boot-starter",
+      "language": "Java"
+    },
+    {
+      "name": "newtype-rs-demo",
+      "repo": "https://github.com/linux-china/newtype-rs-demo",
+      "language": "Rust"
+    },
+    {
+      "name": "wit-jetbrains-plugin",
+      "repo": "https://github.com/linux-china/wit-jetbrains-plugin",
+      "url": "https://plugins.jetbrains.com/plugin/21098-wit",
+      "language": "Kotlin"
+    },
+    {
+      "name": "grpc-reactive-server",
+      "repo": "https://github.com/linux-china/grpc-reactive-server",
+      "language": "Java"
+    },
+    {
+      "name": "shiv-demo",
+      "repo": "https://github.com/linux-china/shiv-demo",
+      "language": "Python"
+    },
+    {
+      "name": "java-ffm-rust-demo",
+      "repo": "https://github.com/linux-china/java-ffm-rust-demo",
+      "language": "Java"
+    },
+    {
+      "name": "json-schema-dsl",
+      "repo": "https://github.com/linux-china/json-schema-dsl",
+      "language": "Rust"
+    }
+  ]
+}

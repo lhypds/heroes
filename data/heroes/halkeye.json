@@ -1,0 +1,513 @@
+{
+  "handle": "halkeye",
+  "name": "Gavin Mogan",
+  "github": [
+    "https://github.com/halkeye"
+  ],
+  "website": "https://www.gavinmogan.com/",
+  "bio": "Software simian. I like to make random stuff. Most of my stuff probably works. I'm very likely not a robot.",
+  "own_repos": 214,
+  "commits": 14055,
+  "apps": [],
+  "repos": [
+    {
+      "name": "home-k8s",
+      "repo": "https://github.com/halkeye/home-k8s",
+      "language": "Makefile"
+    },
+    {
+      "name": "presentations.gavinmogan.com",
+      "repo": "https://github.com/halkeye/presentations.gavinmogan.com",
+      "language": "HTML"
+    },
+    {
+      "name": "deb-repo",
+      "repo": "https://github.com/halkeye/deb-repo",
+      "language": "Go"
+    },
+    {
+      "name": "apps.gavinmogan.com",
+      "repo": "https://github.com/halkeye/apps.gavinmogan.com",
+      "language": "Liquid"
+    },
+    {
+      "name": "infinicatr",
+      "repo": "https://github.com/halkeye/infinicatr",
+      "url": "https://infinicatr.apps.gavinmogan.com/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "halkeye-ansible",
+      "repo": "https://github.com/halkeye/halkeye-ansible",
+      "language": "Lua"
+    },
+    {
+      "name": "www.gavinmogan.com",
+      "repo": "https://github.com/halkeye/www.gavinmogan.com",
+      "language": "Go"
+    },
+    {
+      "name": "docker-synapse",
+      "repo": "https://github.com/halkeye/docker-synapse",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-mautrix-gmessages",
+      "repo": "https://github.com/halkeye/docker-mautrix-gmessages",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-mautrix-signal",
+      "repo": "https://github.com/halkeye/docker-mautrix-signal",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-mautrix-whatsapp",
+      "repo": "https://github.com/halkeye/docker-mautrix-whatsapp",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "twitch_go_online",
+      "repo": "https://github.com/halkeye/twitch_go_online",
+      "language": "Go"
+    },
+    {
+      "name": "docker-argocd",
+      "repo": "https://github.com/halkeye/docker-argocd",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "blog.gavinmogan.com",
+      "repo": "https://github.com/halkeye/blog.gavinmogan.com",
+      "language": "CSS"
+    },
+    {
+      "name": "halkeye",
+      "repo": "https://github.com/halkeye/halkeye"
+    },
+    {
+      "name": "nortverse-downloader",
+      "repo": "https://github.com/halkeye/nortverse-downloader",
+      "language": "Go"
+    },
+    {
+      "name": "docker-tranquil-pds",
+      "repo": "https://github.com/halkeye/docker-tranquil-pds"
+    },
+    {
+      "name": "docker-beets",
+      "repo": "https://github.com/halkeye/docker-beets",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-synatainer",
+      "repo": "https://github.com/halkeye/docker-synatainer",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "stashapp-prometheus-exporter",
+      "repo": "https://github.com/halkeye/stashapp-prometheus-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "docker-yourls",
+      "repo": "https://github.com/halkeye/docker-yourls",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "test-nice-grpc",
+      "repo": "https://github.com/halkeye/test-nice-grpc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "demo-jest-github-actions",
+      "repo": "https://github.com/halkeye/demo-jest-github-actions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "meallog",
+      "repo": "https://github.com/halkeye/meallog",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gatsby-theme-nodeschool",
+      "repo": "https://github.com/halkeye/gatsby-theme-nodeschool",
+      "url": "https://halkeye.github.io/gatsby-theme-nodeschool/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typos-json-to-checkstyle",
+      "repo": "https://github.com/halkeye/typos-json-to-checkstyle",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-pixelfed",
+      "repo": "https://github.com/halkeye/docker-pixelfed"
+    },
+    {
+      "name": "docker-postiz",
+      "repo": "https://github.com/halkeye/docker-postiz"
+    },
+    {
+      "name": "docker-gathio",
+      "repo": "https://github.com/halkeye/docker-gathio"
+    },
+    {
+      "name": "extension-digitalocean-menu-sorter",
+      "repo": "https://github.com/halkeye/extension-digitalocean-menu-sorter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "plex-selfserve",
+      "repo": "https://github.com/halkeye/plex-selfserve",
+      "language": "Go"
+    },
+    {
+      "name": "devcontainer-features",
+      "repo": "https://github.com/halkeye/devcontainer-features",
+      "language": "Shell"
+    },
+    {
+      "name": "fluffychat",
+      "repo": "https://github.com/halkeye/fluffychat",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-n8n",
+      "repo": "https://github.com/halkeye/docker-n8n",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dok8s",
+      "repo": "https://github.com/halkeye/dok8s",
+      "language": "Mustache"
+    },
+    {
+      "name": "yourls-auditlogdb",
+      "repo": "https://github.com/halkeye/yourls-auditlogdb",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-mautrix-telegram",
+      "repo": "https://github.com/halkeye/docker-mautrix-telegram",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "google-sheets-go",
+      "repo": "https://github.com/halkeye/google-sheets-go",
+      "language": "Go"
+    },
+    {
+      "name": "docker-jellyfin",
+      "repo": "https://github.com/halkeye/docker-jellyfin",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-node-read",
+      "repo": "https://github.com/halkeye/docker-node-read",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-backup-scripts",
+      "repo": "https://github.com/halkeye/docker-backup-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-postgres-16",
+      "repo": "https://github.com/halkeye/docker-postgres-16",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "eslint-formatter-multiple",
+      "repo": "https://github.com/halkeye/eslint-formatter-multiple",
+      "language": "JavaScript"
+    },
+    {
+      "name": "helm-charts",
+      "repo": "https://github.com/halkeye/helm-charts",
+      "language": "Mustache"
+    },
+    {
+      "name": "react-book-reader",
+      "repo": "https://github.com/halkeye/react-book-reader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nix-config",
+      "repo": "https://github.com/halkeye/nix-config",
+      "language": "Nix"
+    },
+    {
+      "name": "digitalocean-graphql-api",
+      "repo": "https://github.com/halkeye/digitalocean-graphql-api",
+      "language": "Go"
+    },
+    {
+      "name": "docker-doh-proxy",
+      "repo": "https://github.com/halkeye/docker-doh-proxy",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gatsby-plugins",
+      "repo": "https://github.com/halkeye/gatsby-plugins",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hubot-plugins",
+      "repo": "https://github.com/halkeye/hubot-plugins",
+      "language": "HTML"
+    },
+    {
+      "name": "vim",
+      "repo": "https://github.com/halkeye/vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "do-graphql-frontend-apollo",
+      "repo": "https://github.com/halkeye/do-graphql-frontend-apollo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "digitalocean-api-graphql-frontend",
+      "repo": "https://github.com/halkeye/digitalocean-api-graphql-frontend",
+      "language": "TypeScript"
+    },
+    {
+      "name": "home-ansible",
+      "repo": "https://github.com/halkeye/home-ansible",
+      "language": "Makefile"
+    },
+    {
+      "name": "kapowarr",
+      "repo": "https://github.com/halkeye/kapowarr",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cbr2cbz",
+      "repo": "https://github.com/halkeye/cbr2cbz",
+      "language": "Go"
+    },
+    {
+      "name": "AlienAttackGodot",
+      "repo": "https://github.com/halkeye/AlienAttackGodot",
+      "language": "GDScript"
+    },
+    {
+      "name": "yaoirpg",
+      "repo": "https://github.com/halkeye/yaoirpg",
+      "language": "PHP"
+    },
+    {
+      "name": "halkeye.github.com",
+      "repo": "https://github.com/halkeye/halkeye.github.com",
+      "language": "HTML"
+    },
+    {
+      "name": "helm-charts-test-gha",
+      "repo": "https://github.com/halkeye/helm-charts-test-gha",
+      "language": "Mustache"
+    },
+    {
+      "name": "eats.g4v.dev",
+      "repo": "https://github.com/halkeye/eats.g4v.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "helm-repo-html",
+      "repo": "https://github.com/halkeye/helm-repo-html",
+      "url": "https://halkeye.github.io/helm-charts/",
+      "language": "Go"
+    },
+    {
+      "name": "discord-roley",
+      "repo": "https://github.com/halkeye/discord-roley",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dead-by-pacman",
+      "repo": "https://github.com/halkeye/dead-by-pacman",
+      "language": "GDScript"
+    },
+    {
+      "name": "proxy-s3-google-oauth",
+      "repo": "https://github.com/halkeye/proxy-s3-google-oauth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jenkins-plugin-site",
+      "repo": "https://github.com/halkeye/jenkins-plugin-site",
+      "language": "JavaScript"
+    },
+    {
+      "name": "helm-chart-starter",
+      "repo": "https://github.com/halkeye/helm-chart-starter",
+      "language": "Mustache"
+    },
+    {
+      "name": "jenkins-shared-library",
+      "repo": "https://github.com/halkeye/jenkins-shared-library",
+      "language": "Groovy"
+    },
+    {
+      "name": "test-semantic-release-helm3",
+      "repo": "https://github.com/halkeye/test-semantic-release-helm3",
+      "language": "Smarty"
+    },
+    {
+      "name": "helm-semantic-release-config",
+      "repo": "https://github.com/halkeye/helm-semantic-release-config",
+      "language": "JavaScript"
+    },
+    {
+      "name": "netlify-golang-deploy",
+      "repo": "https://github.com/halkeye/netlify-golang-deploy",
+      "language": "Go"
+    },
+    {
+      "name": "fake-jenkins-io-issue-templates",
+      "repo": "https://github.com/halkeye/fake-jenkins-io-issue-templates"
+    },
+    {
+      "name": "httpcodes",
+      "repo": "https://github.com/halkeye/httpcodes",
+      "language": "Go"
+    },
+    {
+      "name": "critshow-bingo",
+      "repo": "https://github.com/halkeye/critshow-bingo",
+      "url": "https://critshow-bingo.g4v.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "codacy-maven-plugin",
+      "repo": "https://github.com/halkeye/codacy-maven-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "old-www-gavinmogan-com",
+      "repo": "https://github.com/halkeye/old-www-gavinmogan-com",
+      "url": "https://www.gavinmogan.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flask_atlassian_connect",
+      "repo": "https://github.com/halkeye/flask_atlassian_connect",
+      "url": "https://halkeye.github.io/flask_atlassian_connect/",
+      "language": "Python"
+    },
+    {
+      "name": "graphql-apollo-test",
+      "repo": "https://github.com/halkeye/graphql-apollo-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "arc-quotes.halkeye.net",
+      "repo": "https://github.com/halkeye/arc-quotes.halkeye.net",
+      "language": "CSS"
+    },
+    {
+      "name": "irlevents-quotes-halkeye-net",
+      "repo": "https://github.com/halkeye/irlevents-quotes-halkeye-net",
+      "language": "CSS"
+    },
+    {
+      "name": "ingrid_intimidator",
+      "repo": "https://github.com/halkeye/ingrid_intimidator",
+      "language": "CSS"
+    },
+    {
+      "name": "discord-image-presenter",
+      "repo": "https://github.com/halkeye/discord-image-presenter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "charts-3",
+      "repo": "https://github.com/halkeye/charts-3",
+      "language": "Smarty"
+    },
+    {
+      "name": "language-versions",
+      "repo": "https://github.com/halkeye/language-versions",
+      "url": "https://language-versions.g4v.dev/",
+      "language": "Ruby"
+    },
+    {
+      "name": "jenkins-io-react",
+      "repo": "https://github.com/halkeye/jenkins-io-react",
+      "language": "TypeScript"
+    },
+    {
+      "name": "digitalocean-java-client-gen",
+      "repo": "https://github.com/halkeye/digitalocean-java-client-gen",
+      "language": "Java"
+    },
+    {
+      "name": "vendors.jenkins.io",
+      "repo": "https://github.com/halkeye/vendors.jenkins.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jenkinsio-components",
+      "repo": "https://github.com/halkeye/jenkinsio-components",
+      "language": "TypeScript"
+    },
+    {
+      "name": "twitterrss",
+      "repo": "https://github.com/halkeye/twitterrss",
+      "language": "Go"
+    },
+    {
+      "name": "jenkinsistheway-converter",
+      "repo": "https://github.com/halkeye/jenkinsistheway-converter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "android-sms",
+      "repo": "https://github.com/halkeye/android-sms",
+      "language": "Shell"
+    },
+    {
+      "name": "typos-json-to-github-annotations",
+      "repo": "https://github.com/halkeye/typos-json-to-github-annotations",
+      "language": "Rust"
+    },
+    {
+      "name": "jenkins-is-the-way",
+      "repo": "https://github.com/halkeye/jenkins-is-the-way",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jenkins-jobs",
+      "repo": "https://github.com/halkeye/jenkins-jobs",
+      "language": "Groovy"
+    },
+    {
+      "name": "example-express-websocket",
+      "repo": "https://github.com/halkeye/example-express-websocket",
+      "language": "JavaScript"
+    },
+    {
+      "name": "example-express-stream",
+      "repo": "https://github.com/halkeye/example-express-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typos-test-repo",
+      "repo": "https://github.com/halkeye/typos-test-repo"
+    },
+    {
+      "name": "helmfile",
+      "repo": "https://github.com/halkeye/helmfile",
+      "language": "Mustache"
+    },
+    {
+      "name": "test-jenkins-pullrequest",
+      "repo": "https://github.com/halkeye/test-jenkins-pullrequest"
+    },
+    {
+      "name": "gatsby-jenkins-io",
+      "repo": "https://github.com/halkeye/gatsby-jenkins-io",
+      "language": "JavaScript"
+    }
+  ]
+}

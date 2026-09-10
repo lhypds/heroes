@@ -1,0 +1,494 @@
+{
+  "handle": "kawaz",
+  "name": "Yoshiaki Kawazu",
+  "github": [
+    "https://github.com/kawaz"
+  ],
+  "own_repos": 189,
+  "commits": 10644,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ccmsg",
+      "repo": "https://github.com/kawaz/ccmsg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ccmsg-protocol",
+      "repo": "https://github.com/kawaz/ccmsg-protocol",
+      "language": "TypeScript"
+    },
+    {
+      "name": "llm-gateway",
+      "repo": "https://github.com/kawaz/llm-gateway",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/kawaz/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "ccmsg-webui",
+      "repo": "https://github.com/kawaz/ccmsg-webui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-rules-personal",
+      "repo": "https://github.com/kawaz/claude-rules-personal",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-ccmsg",
+      "repo": "https://github.com/kawaz/claude-ccmsg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-statusline",
+      "repo": "https://github.com/kawaz/claude-statusline",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hyoui",
+      "repo": "https://github.com/kawaz/hyoui",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-plugin-reference",
+      "repo": "https://github.com/kawaz/claude-plugin-reference",
+      "language": "Just"
+    },
+    {
+      "name": "kuu.mbt",
+      "repo": "https://github.com/kawaz/kuu.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "kuu",
+      "repo": "https://github.com/kawaz/kuu",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cache-warden",
+      "repo": "https://github.com/kawaz/cache-warden",
+      "language": "Rust"
+    },
+    {
+      "name": "kuu-cli",
+      "repo": "https://github.com/kawaz/kuu-cli",
+      "language": "MoonBit"
+    },
+    {
+      "name": "claude-local-issue",
+      "repo": "https://github.com/kawaz/claude-local-issue",
+      "language": "Shell"
+    },
+    {
+      "name": "bump-semver",
+      "repo": "https://github.com/kawaz/bump-semver",
+      "language": "Go"
+    },
+    {
+      "name": "claude-gh-monitor",
+      "repo": "https://github.com/kawaz/claude-gh-monitor",
+      "url": "https://github.com/kawaz/claude-pr-monitor",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-gh-issue-guard",
+      "repo": "https://github.com/kawaz/claude-gh-issue-guard",
+      "language": "Shell"
+    },
+    {
+      "name": "ssh-agent-router",
+      "repo": "https://github.com/kawaz/ssh-agent-router",
+      "language": "Rust"
+    },
+    {
+      "name": "LaserGuide",
+      "repo": "https://github.com/kawaz/LaserGuide",
+      "language": "Swift"
+    },
+    {
+      "name": "homebrew-laserguide",
+      "repo": "https://github.com/kawaz/homebrew-laserguide",
+      "language": "Ruby"
+    },
+    {
+      "name": "stable-which",
+      "repo": "https://github.com/kawaz/stable-which",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-cmux-msg",
+      "repo": "https://github.com/kawaz/claude-cmux-msg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-session-analysis",
+      "repo": "https://github.com/kawaz/claude-session-analysis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "grapheme.mbt",
+      "repo": "https://github.com/kawaz/grapheme.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "die",
+      "repo": "https://github.com/kawaz/die",
+      "language": "Shell"
+    },
+    {
+      "name": "timespec.mbt",
+      "repo": "https://github.com/kawaz/timespec.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "oreore.net",
+      "repo": "https://github.com/kawaz/oreore.net",
+      "url": "https://oreore.net",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zunlib",
+      "repo": "https://github.com/kawaz/zunlib",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-plugin-force-bun",
+      "repo": "https://github.com/kawaz/claude-plugin-force-bun",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-nandakke",
+      "repo": "https://github.com/kawaz/claude-nandakke",
+      "language": "Just"
+    },
+    {
+      "name": "jj-worktree",
+      "repo": "https://github.com/kawaz/jj-worktree",
+      "language": "Rust"
+    },
+    {
+      "name": "idea-storage",
+      "repo": "https://github.com/kawaz/idea-storage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "authsock-filter",
+      "repo": "https://github.com/kawaz/authsock-filter",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-plugin-force-uv",
+      "repo": "https://github.com/kawaz/claude-plugin-force-uv",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-rules-source-guard",
+      "repo": "https://github.com/kawaz/claude-rules-source-guard",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-bash-safety",
+      "repo": "https://github.com/kawaz/claude-bash-safety",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-plugin-unlimited-task",
+      "repo": "https://github.com/kawaz/claude-plugin-unlimited-task",
+      "language": "Just"
+    },
+    {
+      "name": "claude-push-guard",
+      "repo": "https://github.com/kawaz/claude-push-guard",
+      "url": "https://github.com/kawaz/claude-push-guard",
+      "language": "Just"
+    },
+    {
+      "name": "taks",
+      "repo": "https://github.com/kawaz/taks",
+      "language": "Just"
+    },
+    {
+      "name": "eslint-plugin-prefer-bind",
+      "repo": "https://github.com/kawaz/eslint-plugin-prefer-bind",
+      "language": "JavaScript"
+    },
+    {
+      "name": "claude-plugins",
+      "repo": "https://github.com/kawaz/claude-plugins",
+      "language": "Shell"
+    },
+    {
+      "name": "pkf-tasks",
+      "repo": "https://github.com/kawaz/pkf-tasks",
+      "language": "Pkl"
+    },
+    {
+      "name": "claude-plugin-hooks-debugger",
+      "repo": "https://github.com/kawaz/claude-plugin-hooks-debugger"
+    },
+    {
+      "name": "template-claude-plugin",
+      "repo": "https://github.com/kawaz/template-claude-plugin",
+      "language": "Just"
+    },
+    {
+      "name": "claude-plugin-jj",
+      "repo": "https://github.com/kawaz/claude-plugin-jj",
+      "language": "Just"
+    },
+    {
+      "name": "authsock-warden",
+      "repo": "https://github.com/kawaz/authsock-warden",
+      "language": "Rust"
+    },
+    {
+      "name": "port-peeker",
+      "repo": "https://github.com/kawaz/port-peeker",
+      "language": "Go"
+    },
+    {
+      "name": "template-moonbit",
+      "repo": "https://github.com/kawaz/template-moonbit",
+      "language": "Just"
+    },
+    {
+      "name": "template-rust",
+      "repo": "https://github.com/kawaz/template-rust",
+      "language": "Just"
+    },
+    {
+      "name": "template-ts",
+      "repo": "https://github.com/kawaz/template-ts",
+      "language": "Just"
+    },
+    {
+      "name": "mdp",
+      "repo": "https://github.com/kawaz/mdp",
+      "language": "MoonBit"
+    },
+    {
+      "name": "mermaid-aa",
+      "repo": "https://github.com/kawaz/mermaid-aa"
+    },
+    {
+      "name": "unicodegrapheme-deprecated.mbt",
+      "repo": "https://github.com/kawaz/unicodegrapheme-deprecated.mbt",
+      "language": "MoonBit"
+    },
+    {
+      "name": "sandbox-autocomplete",
+      "repo": "https://github.com/kawaz/sandbox-autocomplete",
+      "language": "TypeScript"
+    },
+    {
+      "name": "template-repo",
+      "repo": "https://github.com/kawaz/template-repo",
+      "language": "Just"
+    },
+    {
+      "name": "zsh-cd-repos",
+      "repo": "https://github.com/kawaz/zsh-cd-repos",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bump.mbt",
+      "repo": "https://github.com/kawaz/bump.mbt"
+    },
+    {
+      "name": "zwtext",
+      "repo": "https://github.com/kawaz/zwtext",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sandbox-moonbit",
+      "repo": "https://github.com/kawaz/sandbox-moonbit",
+      "language": "Just"
+    },
+    {
+      "name": "shimux",
+      "repo": "https://github.com/kawaz/shimux",
+      "language": "Go"
+    },
+    {
+      "name": "voice-agent",
+      "repo": "https://github.com/kawaz/voice-agent",
+      "language": "Python"
+    },
+    {
+      "name": "zsh-history-duckdb",
+      "repo": "https://github.com/kawaz/zsh-history-duckdb",
+      "language": "Shell"
+    },
+    {
+      "name": "timesearch-chrome-extension",
+      "repo": "https://github.com/kawaz/timesearch-chrome-extension"
+    },
+    {
+      "name": "config-ghostty",
+      "repo": "https://github.com/kawaz/config-ghostty",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-typo-complete",
+      "repo": "https://github.com/kawaz/zsh-typo-complete",
+      "language": "Shell"
+    },
+    {
+      "name": "kazahana-rb",
+      "repo": "https://github.com/kawaz/kazahana-rb"
+    },
+    {
+      "name": "kazahana-py",
+      "repo": "https://github.com/kawaz/kazahana-py"
+    },
+    {
+      "name": "kazahana-server",
+      "repo": "https://github.com/kawaz/kazahana-server"
+    },
+    {
+      "name": "kazahana-zig",
+      "repo": "https://github.com/kawaz/kazahana-zig"
+    },
+    {
+      "name": "kazahana-mbt",
+      "repo": "https://github.com/kawaz/kazahana-mbt"
+    },
+    {
+      "name": "kazahana-java",
+      "repo": "https://github.com/kawaz/kazahana-java"
+    },
+    {
+      "name": "kazahana-swift",
+      "repo": "https://github.com/kawaz/kazahana-swift"
+    },
+    {
+      "name": "kazahana-go",
+      "repo": "https://github.com/kawaz/kazahana-go"
+    },
+    {
+      "name": "kazahana-rs",
+      "repo": "https://github.com/kawaz/kazahana-rs"
+    },
+    {
+      "name": "kazahana-ts",
+      "repo": "https://github.com/kawaz/kazahana-ts"
+    },
+    {
+      "name": "kazahana",
+      "repo": "https://github.com/kawaz/kazahana"
+    },
+    {
+      "name": "security-agent-focus",
+      "repo": "https://github.com/kawaz/security-agent-focus",
+      "language": "Shell"
+    },
+    {
+      "name": "20260102-orion-project",
+      "repo": "https://github.com/kawaz/20260102-orion-project"
+    },
+    {
+      "name": "article-js-object-literal-computed-inline-function-slow",
+      "repo": "https://github.com/kawaz/article-js-object-literal-computed-inline-function-slow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sandbox-quic-go",
+      "repo": "https://github.com/kawaz/sandbox-quic-go",
+      "language": "Go"
+    },
+    {
+      "name": "sandbox-node-jsonwebtoken",
+      "repo": "https://github.com/kawaz/sandbox-node-jsonwebtoken",
+      "language": "JavaScript"
+    },
+    {
+      "name": "colorize",
+      "repo": "https://github.com/kawaz/colorize",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-zunproxy",
+      "repo": "https://github.com/kawaz/go-zunproxy",
+      "language": "Go"
+    },
+    {
+      "name": "fyne-sandbox",
+      "repo": "https://github.com/kawaz/fyne-sandbox",
+      "language": "Go"
+    },
+    {
+      "name": "stream-bridge",
+      "repo": "https://github.com/kawaz/stream-bridge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fixed-chunk-stream",
+      "repo": "https://github.com/kawaz/fixed-chunk-stream",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zstd-stream",
+      "repo": "https://github.com/kawaz/zstd-stream"
+    },
+    {
+      "name": "findmy",
+      "repo": "https://github.com/kawaz/findmy",
+      "language": "Python"
+    },
+    {
+      "name": "boku-no-saikyo-tab",
+      "repo": "https://github.com/kawaz/boku-no-saikyo-tab"
+    },
+    {
+      "name": "char-regex",
+      "repo": "https://github.com/kawaz/char-regex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "create-worker",
+      "repo": "https://github.com/kawaz/create-worker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "provide-defer",
+      "repo": "https://github.com/kawaz/provide-defer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "worker-timer",
+      "repo": "https://github.com/kawaz/worker-timer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sandbox-node-v22.6.0-supports-ts",
+      "repo": "https://github.com/kawaz/sandbox-node-v22.6.0-supports-ts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles-legacy",
+      "repo": "https://github.com/kawaz/dotfiles-legacy",
+      "language": "Shell"
+    },
+    {
+      "name": "sandbox-getUserMedia-camera-select",
+      "repo": "https://github.com/kawaz/sandbox-getUserMedia-camera-select",
+      "language": "HTML"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/kawaz/blog"
+    },
+    {
+      "name": "sandbox-ssh-commit-sign",
+      "repo": "https://github.com/kawaz/sandbox-ssh-commit-sign"
+    },
+    {
+      "name": "sandbox-vite-crx",
+      "repo": "https://github.com/kawaz/sandbox-vite-crx"
+    }
+  ]
+}

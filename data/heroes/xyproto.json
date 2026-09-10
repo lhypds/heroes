@@ -1,0 +1,517 @@
+{
+  "handle": "xyproto",
+  "name": "Alexander F. Rødseth",
+  "github": [
+    "https://github.com/xyproto"
+  ],
+  "website": "https://arodseth.com/",
+  "bio": "Software Developer, Arch Linux package maintainer, Go/Python/C++/C developer and open source enthusiast. I enjoy playing the game of Go as well.",
+  "own_repos": 337,
+  "commits": 21360,
+  "apps": [],
+  "repos": [
+    {
+      "name": "orbiton",
+      "repo": "https://github.com/xyproto/orbiton",
+      "url": "https://roboticoverlords.org/orbiton",
+      "language": "Go"
+    },
+    {
+      "name": "algernon",
+      "repo": "https://github.com/xyproto/algernon",
+      "url": "https://algernon.roboticoverlords.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zsnes",
+      "repo": "https://github.com/xyproto/zsnes",
+      "language": "C"
+    },
+    {
+      "name": "permissions",
+      "repo": "https://github.com/xyproto/permissions",
+      "language": "Go"
+    },
+    {
+      "name": "permissions2",
+      "repo": "https://github.com/xyproto/permissions2",
+      "language": "Go"
+    },
+    {
+      "name": "botsay",
+      "repo": "https://github.com/xyproto/botsay",
+      "language": "Go"
+    },
+    {
+      "name": "vt",
+      "repo": "https://github.com/xyproto/vt",
+      "language": "Go"
+    },
+    {
+      "name": "wallutils",
+      "repo": "https://github.com/xyproto/wallutils",
+      "language": "Go"
+    },
+    {
+      "name": "megafile",
+      "repo": "https://github.com/xyproto/megafile",
+      "language": "Go"
+    },
+    {
+      "name": "favicon-editor",
+      "repo": "https://github.com/xyproto/favicon-editor",
+      "language": "Go"
+    },
+    {
+      "name": "pixelprotocol",
+      "repo": "https://github.com/xyproto/pixelprotocol"
+    },
+    {
+      "name": "jit",
+      "repo": "https://github.com/xyproto/jit",
+      "language": "Go"
+    },
+    {
+      "name": "ufw-extras",
+      "repo": "https://github.com/xyproto/ufw-extras"
+    },
+    {
+      "name": "mode",
+      "repo": "https://github.com/xyproto/mode",
+      "language": "Go"
+    },
+    {
+      "name": "slay",
+      "repo": "https://github.com/xyproto/slay",
+      "language": "Go"
+    },
+    {
+      "name": "themes",
+      "repo": "https://github.com/xyproto/themes",
+      "language": "Go"
+    },
+    {
+      "name": "interfaces",
+      "repo": "https://github.com/xyproto/interfaces",
+      "language": "Go"
+    },
+    {
+      "name": "xpm",
+      "repo": "https://github.com/xyproto/xpm",
+      "language": "Go"
+    },
+    {
+      "name": "png2svg",
+      "repo": "https://github.com/xyproto/png2svg",
+      "language": "Go"
+    },
+    {
+      "name": "burnfont",
+      "repo": "https://github.com/xyproto/burnfont",
+      "language": "Go"
+    },
+    {
+      "name": "permissionbolt",
+      "repo": "https://github.com/xyproto/permissionbolt",
+      "language": "Go"
+    },
+    {
+      "name": "permissionsql",
+      "repo": "https://github.com/xyproto/permissionsql",
+      "language": "Go"
+    },
+    {
+      "name": "permissionsqlite_noc",
+      "repo": "https://github.com/xyproto/permissionsqlite_noc",
+      "language": "Go"
+    },
+    {
+      "name": "palgen",
+      "repo": "https://github.com/xyproto/palgen",
+      "language": "Go"
+    },
+    {
+      "name": "lookslikegoasm",
+      "repo": "https://github.com/xyproto/lookslikegoasm",
+      "language": "Go"
+    },
+    {
+      "name": "gnetlark",
+      "repo": "https://github.com/xyproto/gnetlark",
+      "language": "Go"
+    },
+    {
+      "name": "syntax",
+      "repo": "https://github.com/xyproto/syntax",
+      "language": "Go"
+    },
+    {
+      "name": "mathy",
+      "repo": "https://github.com/xyproto/mathy",
+      "language": "Go"
+    },
+    {
+      "name": "tinyxxd",
+      "repo": "https://github.com/xyproto/tinyxxd",
+      "language": "C"
+    },
+    {
+      "name": "cupholder",
+      "repo": "https://github.com/xyproto/cupholder",
+      "language": "Go"
+    },
+    {
+      "name": "cdrom",
+      "repo": "https://github.com/xyproto/cdrom",
+      "language": "Go"
+    },
+    {
+      "name": "gendesk",
+      "repo": "https://github.com/xyproto/gendesk",
+      "url": "https://gendesk.roboticoverlords.org",
+      "language": "Go"
+    },
+    {
+      "name": "fortunecraft",
+      "repo": "https://github.com/xyproto/fortunecraft",
+      "language": "Go"
+    },
+    {
+      "name": "monkeyjump",
+      "repo": "https://github.com/xyproto/monkeyjump",
+      "language": "Python"
+    },
+    {
+      "name": "lsfonts",
+      "repo": "https://github.com/xyproto/lsfonts",
+      "language": "Go"
+    },
+    {
+      "name": "describeimage",
+      "repo": "https://github.com/xyproto/describeimage",
+      "language": "Go"
+    },
+    {
+      "name": "wordwrap",
+      "repo": "https://github.com/xyproto/wordwrap",
+      "language": "Go"
+    },
+    {
+      "name": "metatar",
+      "repo": "https://github.com/xyproto/metatar",
+      "language": "Go"
+    },
+    {
+      "name": "burnpal",
+      "repo": "https://github.com/xyproto/burnpal",
+      "language": "Go"
+    },
+    {
+      "name": "imagepreview",
+      "repo": "https://github.com/xyproto/imagepreview",
+      "language": "Go"
+    },
+    {
+      "name": "shrinky-intro",
+      "repo": "https://github.com/xyproto/shrinky-intro",
+      "language": "C++"
+    },
+    {
+      "name": "ollamaclient",
+      "repo": "https://github.com/xyproto/ollamaclient",
+      "language": "Go"
+    },
+    {
+      "name": "usermodel",
+      "repo": "https://github.com/xyproto/usermodel",
+      "language": "Go"
+    },
+    {
+      "name": "describeaudio",
+      "repo": "https://github.com/xyproto/describeaudio"
+    },
+    {
+      "name": "catbook",
+      "repo": "https://github.com/xyproto/catbook",
+      "language": "JavaScript"
+    },
+    {
+      "name": "splash",
+      "repo": "https://github.com/xyproto/splash",
+      "url": "https://xyproto.github.io/splash/docs/",
+      "language": "Go"
+    },
+    {
+      "name": "simplesqlite_noc",
+      "repo": "https://github.com/xyproto/simplesqlite_noc",
+      "language": "Go"
+    },
+    {
+      "name": "pstore",
+      "repo": "https://github.com/xyproto/pstore",
+      "language": "Go"
+    },
+    {
+      "name": "simplehstore",
+      "repo": "https://github.com/xyproto/simplehstore",
+      "language": "Go"
+    },
+    {
+      "name": "simplemaria",
+      "repo": "https://github.com/xyproto/simplemaria",
+      "language": "Go"
+    },
+    {
+      "name": "simplebolt",
+      "repo": "https://github.com/xyproto/simplebolt",
+      "language": "Go"
+    },
+    {
+      "name": "pinterface",
+      "repo": "https://github.com/xyproto/pinterface",
+      "language": "Go"
+    },
+    {
+      "name": "simpleredis",
+      "repo": "https://github.com/xyproto/simpleredis",
+      "language": "Go"
+    },
+    {
+      "name": "arrowkeyoracle",
+      "repo": "https://github.com/xyproto/arrowkeyoracle",
+      "language": "Go"
+    },
+    {
+      "name": "vt100",
+      "repo": "https://github.com/xyproto/vt100",
+      "language": "Go"
+    },
+    {
+      "name": "distrodetector",
+      "repo": "https://github.com/xyproto/distrodetector",
+      "language": "Go"
+    },
+    {
+      "name": "sdl3-examples",
+      "repo": "https://github.com/xyproto/sdl3-examples",
+      "language": "C#"
+    },
+    {
+      "name": "runmacs",
+      "repo": "https://github.com/xyproto/runmacs",
+      "language": "Go"
+    },
+    {
+      "name": "gcstr",
+      "repo": "https://github.com/xyproto/gcstr",
+      "language": "C"
+    },
+    {
+      "name": "kittyquarium",
+      "repo": "https://github.com/xyproto/kittyquarium",
+      "language": "Go"
+    },
+    {
+      "name": "setconf",
+      "repo": "https://github.com/xyproto/setconf",
+      "url": "https://setconf.roboticoverlords.org",
+      "language": "Python"
+    },
+    {
+      "name": "yaloco",
+      "repo": "https://github.com/xyproto/yaloco",
+      "language": "Go"
+    },
+    {
+      "name": "datablock",
+      "repo": "https://github.com/xyproto/datablock",
+      "language": "Go"
+    },
+    {
+      "name": "cxx",
+      "repo": "https://github.com/xyproto/cxx",
+      "language": "Python"
+    },
+    {
+      "name": "usleep",
+      "repo": "https://github.com/xyproto/usleep"
+    },
+    {
+      "name": "files",
+      "repo": "https://github.com/xyproto/files",
+      "language": "Go"
+    },
+    {
+      "name": "fstabfmt",
+      "repo": "https://github.com/xyproto/fstabfmt",
+      "url": "https://fstabfmt.roboticoverlords.org",
+      "language": "Go"
+    },
+    {
+      "name": "workingdir",
+      "repo": "https://github.com/xyproto/workingdir",
+      "language": "Go"
+    },
+    {
+      "name": "env",
+      "repo": "https://github.com/xyproto/env",
+      "language": "Go"
+    },
+    {
+      "name": "binary",
+      "repo": "https://github.com/xyproto/binary",
+      "language": "Go"
+    },
+    {
+      "name": "in",
+      "repo": "https://github.com/xyproto/in",
+      "language": "Rust"
+    },
+    {
+      "name": "repl",
+      "repo": "https://github.com/xyproto/repl",
+      "language": "Go"
+    },
+    {
+      "name": "purefunction",
+      "repo": "https://github.com/xyproto/purefunction",
+      "language": "Go"
+    },
+    {
+      "name": "teaftp",
+      "repo": "https://github.com/xyproto/teaftp",
+      "language": "Go"
+    },
+    {
+      "name": "onthefly",
+      "repo": "https://github.com/xyproto/onthefly",
+      "language": "Go"
+    },
+    {
+      "name": "elfinfo",
+      "repo": "https://github.com/xyproto/elfinfo",
+      "url": "https://elfinfo.roboticoverlords.org/",
+      "language": "HTML"
+    },
+    {
+      "name": "battlestar",
+      "repo": "https://github.com/xyproto/battlestar",
+      "language": "Go"
+    },
+    {
+      "name": "hello_cobol",
+      "repo": "https://github.com/xyproto/hello_cobol",
+      "language": "COBOL"
+    },
+    {
+      "name": "emojiterm",
+      "repo": "https://github.com/xyproto/emojiterm",
+      "language": "Go"
+    },
+    {
+      "name": "ask",
+      "repo": "https://github.com/xyproto/ask",
+      "language": "Go"
+    },
+    {
+      "name": "hi",
+      "repo": "https://github.com/xyproto/hi",
+      "language": "Go"
+    },
+    {
+      "name": "sdl2-examples",
+      "repo": "https://github.com/xyproto/sdl2-examples",
+      "language": "Makefile"
+    },
+    {
+      "name": "aget",
+      "repo": "https://github.com/xyproto/aget",
+      "language": "Go"
+    },
+    {
+      "name": "http2check",
+      "repo": "https://github.com/xyproto/http2check",
+      "language": "Go"
+    },
+    {
+      "name": "cookie",
+      "repo": "https://github.com/xyproto/cookie",
+      "language": "Go"
+    },
+    {
+      "name": "xyproto",
+      "repo": "https://github.com/xyproto/xyproto"
+    },
+    {
+      "name": "s",
+      "repo": "https://github.com/xyproto/s",
+      "language": "Go"
+    },
+    {
+      "name": "huldra",
+      "repo": "https://github.com/xyproto/huldra",
+      "language": "Go"
+    },
+    {
+      "name": "timed",
+      "repo": "https://github.com/xyproto/timed",
+      "language": "Go"
+    },
+    {
+      "name": "errexit",
+      "repo": "https://github.com/xyproto/errexit",
+      "language": "Roff"
+    },
+    {
+      "name": "plates",
+      "repo": "https://github.com/xyproto/plates",
+      "language": "Go"
+    },
+    {
+      "name": "upsie",
+      "repo": "https://github.com/xyproto/upsie",
+      "language": "Zig"
+    },
+    {
+      "name": "kitchencalendar",
+      "repo": "https://github.com/xyproto/kitchencalendar",
+      "url": "https://kitchencalendar-47806138660.europe-west1.run.app",
+      "language": "Go"
+    },
+    {
+      "name": "wurl",
+      "repo": "https://github.com/xyproto/wurl",
+      "language": "C"
+    },
+    {
+      "name": "kal",
+      "repo": "https://github.com/xyproto/kal",
+      "language": "Go"
+    },
+    {
+      "name": "tinysvg",
+      "repo": "https://github.com/xyproto/tinysvg",
+      "language": "Go"
+    },
+    {
+      "name": "textoutput",
+      "repo": "https://github.com/xyproto/textoutput",
+      "language": "Go"
+    },
+    {
+      "name": "synth",
+      "repo": "https://github.com/xyproto/synth",
+      "language": "Go"
+    },
+    {
+      "name": "kotlinsig",
+      "repo": "https://github.com/xyproto/kotlinsig",
+      "language": "Go"
+    },
+    {
+      "name": "javasig",
+      "repo": "https://github.com/xyproto/javasig",
+      "language": "Go"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "handle": "menketechnologies",
+  "name": "MTOpenSource",
+  "github": [
+    "https://github.com/menketechnologies"
+  ],
+  "bio": "World Class Engineered Software, Rust/C++/Zsh/Web",
+  "own_repos": 238,
+  "commits": 51406,
+  "apps": [],
+  "repos": [
+    {
+      "name": "Exercism",
+      "repo": "https://github.com/MenkeTechnologies/Exercism",
+      "language": "C++"
+    },
+    {
+      "name": "zmax",
+      "repo": "https://github.com/MenkeTechnologies/zmax",
+      "url": "https://menketechnologies.github.io/zmax/",
+      "language": "Rust"
+    },
+    {
+      "name": "groovyrs",
+      "repo": "https://github.com/MenkeTechnologies/groovyrs",
+      "language": "Rust"
+    },
+    {
+      "name": "node-js",
+      "repo": "https://github.com/MenkeTechnologies/node-js",
+      "language": "Rust"
+    },
+    {
+      "name": "vimlrs",
+      "repo": "https://github.com/MenkeTechnologies/vimlrs",
+      "language": "Rust"
+    },
+    {
+      "name": "MenkeTechnologiesMeta",
+      "repo": "https://github.com/MenkeTechnologies/MenkeTechnologiesMeta",
+      "language": "Shell"
+    },
+    {
+      "name": "scalars",
+      "repo": "https://github.com/MenkeTechnologies/scalars",
+      "url": "https://menketechnologies.github.io/scalars/",
+      "language": "Rust"
+    },
+    {
+      "name": "pythonrs",
+      "repo": "https://github.com/MenkeTechnologies/pythonrs",
+      "language": "Python"
+    },
+    {
+      "name": "zvcs",
+      "repo": "https://github.com/MenkeTechnologies/zvcs",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs",
+      "repo": "https://github.com/MenkeTechnologies/zshrs",
+      "language": "Rust"
+    },
+    {
+      "name": "ztmux",
+      "repo": "https://github.com/MenkeTechnologies/ztmux",
+      "language": "Rust"
+    },
+    {
+      "name": "texrs",
+      "repo": "https://github.com/MenkeTechnologies/texrs",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-menketech",
+      "repo": "https://github.com/MenkeTechnologies/homebrew-menketech",
+      "language": "Ruby"
+    },
+    {
+      "name": "fusevm",
+      "repo": "https://github.com/MenkeTechnologies/fusevm",
+      "language": "Rust"
+    },
+    {
+      "name": "elisprs",
+      "repo": "https://github.com/MenkeTechnologies/elisprs",
+      "language": "Rust"
+    },
+    {
+      "name": "javars",
+      "repo": "https://github.com/MenkeTechnologies/javars",
+      "language": "Rust"
+    },
+    {
+      "name": "phplang",
+      "repo": "https://github.com/MenkeTechnologies/phplang",
+      "language": "Rust"
+    },
+    {
+      "name": "rubylang",
+      "repo": "https://github.com/MenkeTechnologies/rubylang",
+      "language": "Rust"
+    },
+    {
+      "name": "kotlinrs",
+      "repo": "https://github.com/MenkeTechnologies/kotlinrs",
+      "language": "Rust"
+    },
+    {
+      "name": "zwire",
+      "repo": "https://github.com/MenkeTechnologies/zwire",
+      "url": "https://menketechnologies.github.io/zwire/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "powerliners",
+      "repo": "https://github.com/MenkeTechnologies/powerliners",
+      "language": "Rust"
+    },
+    {
+      "name": "iftoprs",
+      "repo": "https://github.com/MenkeTechnologies/iftoprs",
+      "language": "Rust"
+    },
+    {
+      "name": "storageshower",
+      "repo": "https://github.com/MenkeTechnologies/storageshower",
+      "language": "Rust"
+    },
+    {
+      "name": "arb",
+      "repo": "https://github.com/MenkeTechnologies/arb",
+      "language": "Rust"
+    },
+    {
+      "name": "zpwr",
+      "repo": "https://github.com/MenkeTechnologies/zpwr",
+      "language": "Shell"
+    },
+    {
+      "name": "lsofrs",
+      "repo": "https://github.com/MenkeTechnologies/lsofrs",
+      "language": "Rust"
+    },
+    {
+      "name": "zwire-host",
+      "repo": "https://github.com/MenkeTechnologies/zwire-host",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-zsh-z",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-zsh-z",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-revolver",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-revolver",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-reveal",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-reveal",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-kubectl-completion",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-kubectl-completion",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-git-repos",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-git-repos",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-git-fuzzy",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-git-fuzzy",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-forgit",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-forgit",
+      "language": "Rust"
+    },
+    {
+      "name": "zshrs-fasd",
+      "repo": "https://github.com/MenkeTechnologies/zshrs-fasd",
+      "language": "Rust"
+    },
+    {
+      "name": "zsh-more-completions",
+      "repo": "https://github.com/MenkeTechnologies/zsh-more-completions",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-cargo-completion",
+      "repo": "https://github.com/MenkeTechnologies/zsh-cargo-completion",
+      "language": "Shell"
+    },
+    {
+      "name": "zpwrchrome",
+      "repo": "https://github.com/MenkeTechnologies/zpwrchrome",
+      "language": "JavaScript"
+    },
+    {
+      "name": "strykelang",
+      "repo": "https://github.com/MenkeTechnologies/strykelang",
+      "language": "Rust"
+    },
+    {
+      "name": "temprs",
+      "repo": "https://github.com/MenkeTechnologies/temprs",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-scrape",
+      "repo": "https://github.com/MenkeTechnologies/stryke-scrape",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-docker",
+      "repo": "https://github.com/MenkeTechnologies/stryke-docker",
+      "language": "Rust"
+    },
+    {
+      "name": "zcolorizer",
+      "repo": "https://github.com/MenkeTechnologies/zcolorizer",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-zmq",
+      "repo": "https://github.com/MenkeTechnologies/stryke-zmq",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-selenium",
+      "repo": "https://github.com/MenkeTechnologies/stryke-selenium",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-search",
+      "repo": "https://github.com/MenkeTechnologies/stryke-search",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-polars",
+      "repo": "https://github.com/MenkeTechnologies/stryke-polars",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-office",
+      "repo": "https://github.com/MenkeTechnologies/stryke-office",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-gui",
+      "repo": "https://github.com/MenkeTechnologies/stryke-gui",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-grpc",
+      "repo": "https://github.com/MenkeTechnologies/stryke-grpc",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-clickhouse",
+      "repo": "https://github.com/MenkeTechnologies/stryke-clickhouse",
+      "language": "Shell"
+    },
+    {
+      "name": "stryke-arrow",
+      "repo": "https://github.com/MenkeTechnologies/stryke-arrow",
+      "language": "Rust"
+    },
+    {
+      "name": "htoprs",
+      "repo": "https://github.com/MenkeTechnologies/htoprs",
+      "language": "Rust"
+    },
+    {
+      "name": "grcrs",
+      "repo": "https://github.com/MenkeTechnologies/grcrs",
+      "language": "Rust"
+    },
+    {
+      "name": "zsh-zinit-final",
+      "repo": "https://github.com/MenkeTechnologies/zsh-zinit-final",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-very-colorful-manuals",
+      "repo": "https://github.com/MenkeTechnologies/zsh-very-colorful-manuals",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-pip-description-completion",
+      "repo": "https://github.com/MenkeTechnologies/zsh-pip-description-completion",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-openshift-aliases",
+      "repo": "https://github.com/MenkeTechnologies/zsh-openshift-aliases",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-nginx",
+      "repo": "https://github.com/MenkeTechnologies/zsh-nginx",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-learn",
+      "repo": "https://github.com/MenkeTechnologies/zsh-learn",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-git-repo-cache",
+      "repo": "https://github.com/MenkeTechnologies/zsh-git-repo-cache",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-git-acp",
+      "repo": "https://github.com/MenkeTechnologies/zsh-git-acp",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-gem-completion",
+      "repo": "https://github.com/MenkeTechnologies/zsh-gem-completion",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-expand",
+      "repo": "https://github.com/MenkeTechnologies/zsh-expand",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-dotnet-completion",
+      "repo": "https://github.com/MenkeTechnologies/zsh-dotnet-completion",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-cpan-completion",
+      "repo": "https://github.com/MenkeTechnologies/zsh-cpan-completion",
+      "language": "Shell"
+    },
+    {
+      "name": "zmax-gui",
+      "repo": "https://github.com/MenkeTechnologies/zmax-gui",
+      "language": "Rust"
+    },
+    {
+      "name": "vscode-zsh",
+      "repo": "https://github.com/MenkeTechnologies/vscode-zsh",
+      "language": "Shell"
+    },
+    {
+      "name": "vscode-stryke",
+      "repo": "https://github.com/MenkeTechnologies/vscode-stryke",
+      "language": "Shell"
+    },
+    {
+      "name": "vscode-arb",
+      "repo": "https://github.com/MenkeTechnologies/vscode-arb",
+      "url": "https://menketechnologies.github.io/vscode-arb/",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-zsh",
+      "repo": "https://github.com/MenkeTechnologies/vim-zsh",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-stryke",
+      "repo": "https://github.com/MenkeTechnologies/vim-stryke",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-arb",
+      "repo": "https://github.com/MenkeTechnologies/vim-arb",
+      "url": "https://menketechnologies.github.io/vim-arb/",
+      "language": "Shell"
+    },
+    {
+      "name": "tclrs",
+      "repo": "https://github.com/MenkeTechnologies/tclrs",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-utils",
+      "repo": "https://github.com/MenkeTechnologies/stryke-utils",
+      "language": "Shell"
+    },
+    {
+      "name": "stryke-terminal",
+      "repo": "https://github.com/MenkeTechnologies/stryke-terminal",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-demo",
+      "repo": "https://github.com/MenkeTechnologies/stryke-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "stryke-app",
+      "repo": "https://github.com/MenkeTechnologies/stryke-app",
+      "language": "Rust"
+    },
+    {
+      "name": "rlang",
+      "repo": "https://github.com/MenkeTechnologies/rlang",
+      "language": "Rust"
+    },
+    {
+      "name": "go-rs",
+      "repo": "https://github.com/MenkeTechnologies/go-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "emacs-zsh",
+      "repo": "https://github.com/MenkeTechnologies/emacs-zsh",
+      "language": "Shell"
+    },
+    {
+      "name": "emacs-viml",
+      "repo": "https://github.com/MenkeTechnologies/emacs-viml",
+      "url": "https://menketechnologies.github.io/emacs-viml/",
+      "language": "Shell"
+    },
+    {
+      "name": "emacs-stryke",
+      "repo": "https://github.com/MenkeTechnologies/emacs-stryke",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-awk",
+      "repo": "https://github.com/MenkeTechnologies/emacs-awk",
+      "language": "Shell"
+    },
+    {
+      "name": "emacs-arb",
+      "repo": "https://github.com/MenkeTechnologies/emacs-arb",
+      "url": "https://menketechnologies.github.io/emacs-arb/",
+      "language": "Shell"
+    },
+    {
+      "name": "awkrs",
+      "repo": "https://github.com/MenkeTechnologies/awkrs",
+      "language": "Rust"
+    },
+    {
+      "name": "api-rest-generator",
+      "repo": "https://github.com/MenkeTechnologies/api-rest-generator",
+      "language": "Kotlin"
+    },
+    {
+      "name": "VimColorSchemes",
+      "repo": "https://github.com/MenkeTechnologies/VimColorSchemes",
+      "language": "Vim Script"
+    },
+    {
+      "name": "MenkeTechnologies.github.io",
+      "repo": "https://github.com/MenkeTechnologies/MenkeTechnologies.github.io",
+      "language": "Shell"
+    },
+    {
+      "name": "stryke-spark",
+      "repo": "https://github.com/MenkeTechnologies/stryke-spark",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-neo4j",
+      "repo": "https://github.com/MenkeTechnologies/stryke-neo4j",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-postgres",
+      "repo": "https://github.com/MenkeTechnologies/stryke-postgres",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-redis",
+      "repo": "https://github.com/MenkeTechnologies/stryke-redis",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-scylla",
+      "repo": "https://github.com/MenkeTechnologies/stryke-scylla",
+      "language": "Shell"
+    },
+    {
+      "name": "stryke-kafka",
+      "repo": "https://github.com/MenkeTechnologies/stryke-kafka",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-email",
+      "repo": "https://github.com/MenkeTechnologies/stryke-email",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-gcp",
+      "repo": "https://github.com/MenkeTechnologies/stryke-gcp",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-k8s",
+      "repo": "https://github.com/MenkeTechnologies/stryke-k8s",
+      "language": "Shell"
+    },
+    {
+      "name": "stryke-mongo",
+      "repo": "https://github.com/MenkeTechnologies/stryke-mongo",
+      "language": "Rust"
+    },
+    {
+      "name": "stryke-mssql",
+      "repo": "https://github.com/MenkeTechnologies/stryke-mssql",
+      "language": "Rust"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "handle": "grokify",
+  "name": "John Wang",
+  "github": [
+    "https://github.com/grokify"
+  ],
+  "website": "https://plexusone.dev/",
+  "bio": "Product Management at Saviynt. Creator of PlexusOne.dev. Focusing on Go, TypeScript, agents.",
+  "own_repos": 291,
+  "commits": 17328,
+  "apps": [],
+  "repos": [
+    {
+      "name": "planet-ai",
+      "repo": "https://github.com/grokify/planet-ai",
+      "url": "https://grokify.github.io/planet-ai/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-ringcentral-client",
+      "repo": "https://github.com/grokify/go-ringcentral-client",
+      "language": "Go"
+    },
+    {
+      "name": "goauth",
+      "repo": "https://github.com/grokify/goauth",
+      "url": "https://grokify.github.io/goauth/",
+      "language": "Go"
+    },
+    {
+      "name": "rchooks",
+      "repo": "https://github.com/grokify/rchooks",
+      "url": "https://developers.ringcentral.com",
+      "language": "Go"
+    },
+    {
+      "name": "go-aha",
+      "repo": "https://github.com/grokify/go-aha",
+      "url": "https://grokify.github.io/go-aha/",
+      "language": "Go"
+    },
+    {
+      "name": "releaselog",
+      "repo": "https://github.com/grokify/releaselog",
+      "url": "https://grokify.github.io/releaselog/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gogoogle",
+      "repo": "https://github.com/grokify/gogoogle",
+      "url": "https://grokify.github.io/gogoogle/",
+      "language": "Go"
+    },
+    {
+      "name": "gogithub",
+      "repo": "https://github.com/grokify/gogithub",
+      "url": "https://grokify.github.io/gogithub/",
+      "language": "Go"
+    },
+    {
+      "name": "go-scim-client",
+      "repo": "https://github.com/grokify/go-scim-client",
+      "language": "Go"
+    },
+    {
+      "name": "prism",
+      "repo": "https://github.com/grokify/prism",
+      "url": "https://grokify.github.io/prism/",
+      "language": "Go"
+    },
+    {
+      "name": "prism-capability",
+      "repo": "https://github.com/grokify/prism-capability",
+      "url": "https://grokify.github.io/prism-capability/",
+      "language": "Go"
+    },
+    {
+      "name": "prism-maturity",
+      "repo": "https://github.com/grokify/prism-maturity",
+      "url": "https://grokify.github.io/prism-maturity/",
+      "language": "Go"
+    },
+    {
+      "name": "releasekit",
+      "repo": "https://github.com/grokify/releasekit",
+      "language": "Go"
+    },
+    {
+      "name": "aha-go",
+      "repo": "https://github.com/grokify/aha-go",
+      "url": "https://grokify.github.io/aha-go/",
+      "language": "Go"
+    },
+    {
+      "name": "aha-studio",
+      "repo": "https://github.com/grokify/aha-studio",
+      "url": "https://grokify.github.io/aha-studio/",
+      "language": "Go"
+    },
+    {
+      "name": "deppolicy",
+      "repo": "https://github.com/grokify/deppolicy",
+      "url": "https://grokify.github.io/deppolicy/",
+      "language": "Go"
+    },
+    {
+      "name": "omniroadmap",
+      "repo": "https://github.com/grokify/omniroadmap",
+      "url": "https://grokify.github.io/omniroadmap/",
+      "language": "Go"
+    },
+    {
+      "name": "videoascode",
+      "repo": "https://github.com/grokify/videoascode",
+      "url": "https://grokify.github.io/videoascode/",
+      "language": "Go"
+    },
+    {
+      "name": "diskwise",
+      "repo": "https://github.com/grokify/diskwise",
+      "language": "Go"
+    },
+    {
+      "name": "gogit",
+      "repo": "https://github.com/grokify/gogit",
+      "url": "https://grokify.github.io/gogit/",
+      "language": "Go"
+    },
+    {
+      "name": "structured-goals",
+      "repo": "https://github.com/grokify/structured-goals",
+      "url": "https://grokify.github.io/structured-goals/",
+      "language": "Go"
+    },
+    {
+      "name": "gqlforge",
+      "repo": "https://github.com/grokify/gqlforge",
+      "url": "https://grokify.github.io/gqlforge/",
+      "language": "Go"
+    },
+    {
+      "name": "stratosforce",
+      "repo": "https://github.com/grokify/stratosforce",
+      "language": "Go"
+    },
+    {
+      "name": "dataset-telco-customer-churn",
+      "repo": "https://github.com/grokify/dataset-telco-customer-churn",
+      "language": "Go"
+    },
+    {
+      "name": "godolt",
+      "repo": "https://github.com/grokify/godolt",
+      "url": "https://grokify.github.io/godolt/",
+      "language": "Go"
+    },
+    {
+      "name": "spectrum",
+      "repo": "https://github.com/grokify/spectrum",
+      "url": "https://grokify.github.io/spectrum/",
+      "language": "Go"
+    },
+    {
+      "name": "chathooks",
+      "repo": "https://github.com/grokify/chathooks",
+      "url": "https://grokify.github.io/chathooks/",
+      "language": "Go"
+    },
+    {
+      "name": "gocharts",
+      "repo": "https://github.com/grokify/gocharts",
+      "language": "Go"
+    },
+    {
+      "name": "mogo",
+      "repo": "https://github.com/grokify/mogo",
+      "language": "Go"
+    },
+    {
+      "name": "ocsf-lake",
+      "repo": "https://github.com/grokify/ocsf-lake",
+      "language": "Go"
+    },
+    {
+      "name": "priority-frameworks",
+      "repo": "https://github.com/grokify/priority-frameworks",
+      "language": "Go"
+    },
+    {
+      "name": "prism-roadmap",
+      "repo": "https://github.com/grokify/prism-roadmap",
+      "url": "https://grokify.github.io/prism-roadmap/",
+      "language": "Go"
+    },
+    {
+      "name": "go-simplekpi",
+      "repo": "https://github.com/grokify/go-simplekpi",
+      "language": "Go"
+    },
+    {
+      "name": "go-glip",
+      "repo": "https://github.com/grokify/go-glip",
+      "language": "Go"
+    },
+    {
+      "name": "go-v2mom",
+      "repo": "https://github.com/grokify/go-v2mom",
+      "language": "Go"
+    },
+    {
+      "name": "structureddocs",
+      "repo": "https://github.com/grokify/structureddocs",
+      "language": "Go"
+    },
+    {
+      "name": "awsgo",
+      "repo": "https://github.com/grokify/awsgo",
+      "language": "Go"
+    },
+    {
+      "name": "go-awslambda",
+      "repo": "https://github.com/grokify/go-awslambda",
+      "language": "Go"
+    },
+    {
+      "name": "postman-go",
+      "repo": "https://github.com/grokify/postman-go",
+      "url": "https://grokify.github.io/postman-go/",
+      "language": "Go"
+    },
+    {
+      "name": "slidekit",
+      "repo": "https://github.com/grokify/slidekit",
+      "language": "Go"
+    },
+    {
+      "name": "structured-locale",
+      "repo": "https://github.com/grokify/structured-locale",
+      "language": "Go"
+    },
+    {
+      "name": "productboard-go",
+      "repo": "https://github.com/grokify/productboard-go",
+      "language": "Go"
+    },
+    {
+      "name": "omniproxy",
+      "repo": "https://github.com/grokify/omniproxy",
+      "language": "Go"
+    },
+    {
+      "name": "ringcentral-permahooks",
+      "repo": "https://github.com/grokify/ringcentral-permahooks",
+      "language": "Go"
+    },
+    {
+      "name": "go-wordpressxml",
+      "repo": "https://github.com/grokify/go-wordpressxml",
+      "language": "Go"
+    },
+    {
+      "name": "commgraph",
+      "repo": "https://github.com/grokify/commgraph",
+      "url": "https://grokify.github.io/commgraph/",
+      "language": "Go"
+    },
+    {
+      "name": "gogrype",
+      "repo": "https://github.com/grokify/gogrype",
+      "language": "Go"
+    },
+    {
+      "name": "gameofthrones",
+      "repo": "https://github.com/grokify/gameofthrones",
+      "language": "Go"
+    },
+    {
+      "name": "gotrivy",
+      "repo": "https://github.com/grokify/gotrivy",
+      "language": "Go"
+    },
+    {
+      "name": "govex",
+      "repo": "https://github.com/grokify/govex",
+      "url": "https://grokify.github.io/govex/",
+      "language": "Go"
+    },
+    {
+      "name": "goimage",
+      "repo": "https://github.com/grokify/goimage",
+      "language": "Go"
+    },
+    {
+      "name": "go-salesforce",
+      "repo": "https://github.com/grokify/go-salesforce",
+      "language": "Go"
+    },
+    {
+      "name": "gounidoc",
+      "repo": "https://github.com/grokify/gounidoc",
+      "url": "https://grokify.github.io/gounidoc/",
+      "language": "Go"
+    },
+    {
+      "name": "goelastic",
+      "repo": "https://github.com/grokify/goelastic",
+      "language": "Go"
+    },
+    {
+      "name": "commonchat",
+      "repo": "https://github.com/grokify/commonchat",
+      "language": "Go"
+    },
+    {
+      "name": "brandkit",
+      "repo": "https://github.com/grokify/brandkit",
+      "url": "https://grokify.github.io/brandkit/",
+      "language": "Go"
+    },
+    {
+      "name": "signal",
+      "repo": "https://github.com/grokify/signal",
+      "language": "Go"
+    },
+    {
+      "name": "mtlsproxy",
+      "repo": "https://github.com/grokify/mtlsproxy",
+      "language": "Go"
+    },
+    {
+      "name": "guardsql",
+      "repo": "https://github.com/grokify/guardsql",
+      "url": "https://grokify.github.io/guardsql/",
+      "language": "Go"
+    },
+    {
+      "name": "go-atlassian",
+      "repo": "https://github.com/grokify/go-atlassian",
+      "url": "https://grokify.github.io/go-atlassian/",
+      "language": "Go"
+    },
+    {
+      "name": "structured-tasks",
+      "repo": "https://github.com/grokify/structured-tasks",
+      "language": "Go"
+    },
+    {
+      "name": "go-pkce",
+      "repo": "https://github.com/grokify/go-pkce",
+      "language": "Go"
+    },
+    {
+      "name": "schemakit",
+      "repo": "https://github.com/grokify/schemakit",
+      "url": "https://grokify.github.io/schemakit/",
+      "language": "Go"
+    },
+    {
+      "name": "structured-changelog",
+      "repo": "https://github.com/grokify/structured-changelog",
+      "url": "https://grokify.github.io/structured-changelog",
+      "language": "Go"
+    },
+    {
+      "name": "grokify-agent-config",
+      "repo": "https://github.com/grokify/grokify-agent-config",
+      "language": "Go"
+    },
+    {
+      "name": "omniroadmap-core",
+      "repo": "https://github.com/grokify/omniroadmap-core",
+      "url": "https://grokify.github.io/omniroadmap-core/",
+      "language": "Go"
+    },
+    {
+      "name": "d2vision",
+      "repo": "https://github.com/grokify/d2vision",
+      "url": "https://grokify.github.io/d2vision/",
+      "language": "Go"
+    },
+    {
+      "name": "entscape",
+      "repo": "https://github.com/grokify/entscape",
+      "url": "https://grokify.github.io/entscape/",
+      "language": "Go"
+    },
+    {
+      "name": "prism-core",
+      "repo": "https://github.com/grokify/prism-core",
+      "language": "Go"
+    },
+    {
+      "name": "threat-model-spec",
+      "repo": "https://github.com/grokify/threat-model-spec",
+      "url": "https://grokify.github.io/threat-model-spec/",
+      "language": "Go"
+    },
+    {
+      "name": "socialpulse",
+      "repo": "https://github.com/grokify/socialpulse",
+      "url": "https://grokify.github.io/socialpulse/",
+      "language": "Go"
+    },
+    {
+      "name": "fontscan",
+      "repo": "https://github.com/grokify/fontscan",
+      "language": "Go"
+    },
+    {
+      "name": "gopandoc",
+      "repo": "https://github.com/grokify/gopandoc",
+      "language": "Go"
+    },
+    {
+      "name": "go-visa",
+      "repo": "https://github.com/grokify/go-visa",
+      "language": "Go"
+    },
+    {
+      "name": "awesomely",
+      "repo": "https://github.com/grokify/awesomely",
+      "language": "Go"
+    },
+    {
+      "name": "traffic2openapi",
+      "repo": "https://github.com/grokify/traffic2openapi",
+      "url": "https://grokify.github.io/traffic2openapi/",
+      "language": "Go"
+    },
+    {
+      "name": "echartify",
+      "repo": "https://github.com/grokify/echartify",
+      "url": "https://grokify.github.io/echartify/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ffutil",
+      "repo": "https://github.com/grokify/ffutil",
+      "language": "Go"
+    },
+    {
+      "name": "a2a-go",
+      "repo": "https://github.com/grokify/a2a-go",
+      "language": "Go"
+    },
+    {
+      "name": "chathub",
+      "repo": "https://github.com/grokify/chathub",
+      "language": "Go"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/grokify/.github",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beegoutil",
+      "repo": "https://github.com/grokify/beegoutil",
+      "language": "Go Template"
+    },
+    {
+      "name": "polymarket-go",
+      "repo": "https://github.com/grokify/polymarket-go",
+      "url": "https://grokify.github.io/polymarket-go/",
+      "language": "Go"
+    },
+    {
+      "name": "go-adaptivecards",
+      "repo": "https://github.com/grokify/go-adaptivecards",
+      "url": "https://adaptivecards.io",
+      "language": "Go"
+    },
+    {
+      "name": "presentation-spec",
+      "repo": "https://github.com/grokify/presentation-spec",
+      "url": "https://grokify.github.io/presentation-spec/",
+      "language": "Go"
+    },
+    {
+      "name": "pidl",
+      "repo": "https://github.com/grokify/pidl",
+      "url": "https://grokify.github.io/pidl/",
+      "language": "Go"
+    },
+    {
+      "name": "oscompat",
+      "repo": "https://github.com/grokify/oscompat",
+      "language": "Go"
+    },
+    {
+      "name": "gophonenumbers",
+      "repo": "https://github.com/grokify/gophonenumbers",
+      "language": "Go"
+    },
+    {
+      "name": "grokify",
+      "repo": "https://github.com/grokify/grokify"
+    },
+    {
+      "name": "sogo",
+      "repo": "https://github.com/grokify/sogo",
+      "language": "Go"
+    },
+    {
+      "name": "standards-catalog-framework",
+      "repo": "https://github.com/grokify/standards-catalog-framework",
+      "url": "https://grokify.github.io/standards-catalog-framework/",
+      "language": "HTML"
+    },
+    {
+      "name": "job-spec",
+      "repo": "https://github.com/grokify/job-spec",
+      "language": "Go"
+    },
+    {
+      "name": "bak_job-spec",
+      "repo": "https://github.com/grokify/bak_job-spec",
+      "language": "Go"
+    },
+    {
+      "name": "goheroku",
+      "repo": "https://github.com/grokify/goheroku",
+      "language": "Go"
+    },
+    {
+      "name": "everbridge-sdk-go",
+      "repo": "https://github.com/grokify/everbridge-sdk-go",
+      "language": "Go"
+    },
+    {
+      "name": "zod2go",
+      "repo": "https://github.com/grokify/zod2go",
+      "language": "Go"
+    },
+    {
+      "name": "gorod",
+      "repo": "https://github.com/grokify/gorod",
+      "language": "Go"
+    },
+    {
+      "name": "slogo",
+      "repo": "https://github.com/grokify/slogo",
+      "url": "https://grokify.github.io/slogo/",
+      "language": "Go"
+    },
+    {
+      "name": "web-tools",
+      "repo": "https://github.com/grokify/web-tools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "market-strategy-engine",
+      "repo": "https://github.com/grokify/market-strategy-engine",
+      "url": "https://grokify.github.io/market-strategy-engine/",
+      "language": "Go"
+    }
+  ]
+}

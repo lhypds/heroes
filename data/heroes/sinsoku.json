@@ -1,0 +1,495 @@
+{
+  "handle": "sinsoku",
+  "name": "Takumi Shotoku",
+  "github": [
+    "https://github.com/sinsoku"
+  ],
+  "own_repos": 103,
+  "commits": 13508,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ruby-lsp-typeprof",
+      "repo": "https://github.com/sinsoku/ruby-lsp-typeprof",
+      "language": "Ruby"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/sinsoku/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "claude-plugins",
+      "repo": "https://github.com/sinsoku/claude-plugins"
+    },
+    {
+      "name": "rbs-trace",
+      "repo": "https://github.com/sinsoku/rbs-trace",
+      "language": "Ruby"
+    },
+    {
+      "name": "yard-sig",
+      "repo": "https://github.com/sinsoku/yard-sig",
+      "language": "Ruby"
+    },
+    {
+      "name": "sandbox",
+      "repo": "https://github.com/sinsoku/sandbox",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "sinsoku_hello",
+      "repo": "https://github.com/sinsoku/sinsoku_hello",
+      "language": "Ruby"
+    },
+    {
+      "name": "amazon-ecs-run-task-definition",
+      "repo": "https://github.com/sinsoku/amazon-ecs-run-task-definition",
+      "language": "JavaScript"
+    },
+    {
+      "name": "study",
+      "repo": "https://github.com/sinsoku/study",
+      "language": "Ruby"
+    },
+    {
+      "name": "wasabi",
+      "repo": "https://github.com/sinsoku/wasabi",
+      "language": "Ruby"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/sinsoku/.github"
+    },
+    {
+      "name": "steep-app-example",
+      "repo": "https://github.com/sinsoku/steep-app-example",
+      "language": "Ruby"
+    },
+    {
+      "name": "gems_comparator",
+      "repo": "https://github.com/sinsoku/gems_comparator",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails_credentials_custom_key",
+      "repo": "https://github.com/sinsoku/rails_credentials_custom_key",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails-env-credentials",
+      "repo": "https://github.com/sinsoku/rails-env-credentials",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/sinsoku/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails_app_gh",
+      "repo": "https://github.com/sinsoku/rails_app_gh",
+      "language": "Ruby"
+    },
+    {
+      "name": "miteras-cli",
+      "repo": "https://github.com/sinsoku/miteras-cli",
+      "language": "HTML"
+    },
+    {
+      "name": "aws-codedeploy-linear-canary-deployments-blog",
+      "repo": "https://github.com/sinsoku/aws-codedeploy-linear-canary-deployments-blog",
+      "language": "HTML"
+    },
+    {
+      "name": "rails_assetsless_container",
+      "repo": "https://github.com/sinsoku/rails_assetsless_container",
+      "language": "Ruby"
+    },
+    {
+      "name": "ecs_oneshot",
+      "repo": "https://github.com/sinsoku/ecs_oneshot",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails_app_on_docker",
+      "repo": "https://github.com/sinsoku/rails_app_on_docker",
+      "language": "Ruby"
+    },
+    {
+      "name": "terraform-provider-esa",
+      "repo": "https://github.com/sinsoku/terraform-provider-esa",
+      "language": "Go"
+    },
+    {
+      "name": "bundler-diff",
+      "repo": "https://github.com/sinsoku/bundler-diff",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails_issue_readonly_error",
+      "repo": "https://github.com/sinsoku/rails_issue_readonly_error",
+      "language": "Ruby"
+    },
+    {
+      "name": "rusty_rails",
+      "repo": "https://github.com/sinsoku/rusty_rails",
+      "language": "Ruby"
+    },
+    {
+      "name": "dominator",
+      "repo": "https://github.com/sinsoku/dominator",
+      "language": "Ruby"
+    },
+    {
+      "name": "rust_web",
+      "repo": "https://github.com/sinsoku/rust_web",
+      "language": "Rust"
+    },
+    {
+      "name": "rust_fib",
+      "repo": "https://github.com/sinsoku/rust_fib",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails-add-foreign-key",
+      "repo": "https://github.com/sinsoku/rails-add-foreign-key",
+      "url": "https://github.com/rails/rails/issues/37062",
+      "language": "Ruby"
+    },
+    {
+      "name": "c_ext_gem",
+      "repo": "https://github.com/sinsoku/c_ext_gem",
+      "language": "Ruby"
+    },
+    {
+      "name": "rb_pipe_operator",
+      "repo": "https://github.com/sinsoku/rb_pipe_operator",
+      "language": "Ruby"
+    },
+    {
+      "name": "active_record_in_cache",
+      "repo": "https://github.com/sinsoku/active_record_in_cache",
+      "language": "Ruby"
+    },
+    {
+      "name": "mfa",
+      "repo": "https://github.com/sinsoku/mfa",
+      "language": "Shell"
+    },
+    {
+      "name": "pickel",
+      "repo": "https://github.com/sinsoku/pickel",
+      "language": "Ruby"
+    },
+    {
+      "name": "active_record_lazy_find_by",
+      "repo": "https://github.com/sinsoku/active_record_lazy_find_by",
+      "language": "Ruby"
+    },
+    {
+      "name": "api-oauth-test",
+      "repo": "https://github.com/sinsoku/api-oauth-test"
+    },
+    {
+      "name": "rails_hint",
+      "repo": "https://github.com/sinsoku/rails_hint",
+      "language": "Ruby"
+    },
+    {
+      "name": "circleci_latest_artifact",
+      "repo": "https://github.com/sinsoku/circleci_latest_artifact",
+      "language": "Ruby"
+    },
+    {
+      "name": "pretty_validation",
+      "repo": "https://github.com/sinsoku/pretty_validation",
+      "language": "Ruby"
+    },
+    {
+      "name": "tachikoma_ai",
+      "repo": "https://github.com/sinsoku/tachikoma_ai",
+      "language": "Ruby"
+    },
+    {
+      "name": "ghost_pictures",
+      "repo": "https://github.com/sinsoku/ghost_pictures",
+      "language": "Ruby"
+    },
+    {
+      "name": "empty",
+      "repo": "https://github.com/sinsoku/empty"
+    },
+    {
+      "name": "mysql_rails_app",
+      "repo": "https://github.com/sinsoku/mysql_rails_app",
+      "language": "Ruby"
+    },
+    {
+      "name": "sample_rails_app",
+      "repo": "https://github.com/sinsoku/sample_rails_app",
+      "language": "Ruby"
+    },
+    {
+      "name": "merge_commit_repo",
+      "repo": "https://github.com/sinsoku/merge_commit_repo"
+    },
+    {
+      "name": "practiceGit",
+      "repo": "https://github.com/sinsoku/practiceGit"
+    },
+    {
+      "name": "PlayingCard",
+      "repo": "https://github.com/sinsoku/PlayingCard",
+      "language": "Swift"
+    },
+    {
+      "name": "SwiftFizzBuzz",
+      "repo": "https://github.com/sinsoku/SwiftFizzBuzz",
+      "language": "Swift"
+    },
+    {
+      "name": "clairvoyance",
+      "repo": "https://github.com/sinsoku/clairvoyance",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oauth_adapter",
+      "repo": "https://github.com/sinsoku/oauth_adapter",
+      "language": "Ruby"
+    },
+    {
+      "name": "clairvoyance-html",
+      "repo": "https://github.com/sinsoku/clairvoyance-html",
+      "language": "JavaScript"
+    },
+    {
+      "name": "FizzBuzz",
+      "repo": "https://github.com/sinsoku/FizzBuzz",
+      "language": "Swift"
+    },
+    {
+      "name": "HelloSwiftWorld",
+      "repo": "https://github.com/sinsoku/HelloSwiftWorld",
+      "language": "Ruby"
+    },
+    {
+      "name": "OAuthSample",
+      "repo": "https://github.com/sinsoku/OAuthSample",
+      "language": "Swift"
+    },
+    {
+      "name": "calculator",
+      "repo": "https://github.com/sinsoku/calculator",
+      "language": "Swift"
+    },
+    {
+      "name": "banana",
+      "repo": "https://github.com/sinsoku/banana",
+      "language": "Ruby"
+    },
+    {
+      "name": "tachikoma_ai_sample",
+      "repo": "https://github.com/sinsoku/tachikoma_ai_sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "docker_app",
+      "repo": "https://github.com/sinsoku/docker_app",
+      "language": "Ruby"
+    },
+    {
+      "name": "sake-hack",
+      "repo": "https://github.com/sinsoku/sake-hack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mail_app",
+      "repo": "https://github.com/sinsoku/mail_app",
+      "language": "Ruby"
+    },
+    {
+      "name": "action_prefixer",
+      "repo": "https://github.com/sinsoku/action_prefixer",
+      "language": "Ruby"
+    },
+    {
+      "name": "mini_style",
+      "repo": "https://github.com/sinsoku/mini_style",
+      "language": "Ruby"
+    },
+    {
+      "name": "take_off_app",
+      "repo": "https://github.com/sinsoku/take_off_app",
+      "language": "Ruby"
+    },
+    {
+      "name": "take_off",
+      "repo": "https://github.com/sinsoku/take_off",
+      "language": "Ruby"
+    },
+    {
+      "name": "utf8mb4_br",
+      "repo": "https://github.com/sinsoku/utf8mb4_br"
+    },
+    {
+      "name": "rails_with_utf8mb4",
+      "repo": "https://github.com/sinsoku/rails_with_utf8mb4",
+      "language": "Ruby"
+    },
+    {
+      "name": "hubot-mock-adapter-helper",
+      "repo": "https://github.com/sinsoku/hubot-mock-adapter-helper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sinon-with-time",
+      "repo": "https://github.com/sinsoku/sinon-with-time",
+      "language": "JavaScript"
+    },
+    {
+      "name": "app_for_teatro",
+      "repo": "https://github.com/sinsoku/app_for_teatro",
+      "language": "Ruby"
+    },
+    {
+      "name": "new_rails_app",
+      "repo": "https://github.com/sinsoku/new_rails_app",
+      "language": "Ruby"
+    },
+    {
+      "name": "unofficial-forkwell-api",
+      "repo": "https://github.com/sinsoku/unofficial-forkwell-api",
+      "language": "Ruby"
+    },
+    {
+      "name": "ponytail",
+      "repo": "https://github.com/sinsoku/ponytail",
+      "language": "Ruby"
+    },
+    {
+      "name": "numa08_stalker",
+      "repo": "https://github.com/sinsoku/numa08_stalker",
+      "language": "Ruby"
+    },
+    {
+      "name": "slide_chat",
+      "repo": "https://github.com/sinsoku/slide_chat",
+      "language": "Ruby"
+    },
+    {
+      "name": "neptune",
+      "repo": "https://github.com/sinsoku/neptune",
+      "language": "Ruby"
+    },
+    {
+      "name": "jewel_seed",
+      "repo": "https://github.com/sinsoku/jewel_seed",
+      "language": "Ruby"
+    },
+    {
+      "name": "fastforward_badge",
+      "repo": "https://github.com/sinsoku/fastforward_badge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gitsvn_projects",
+      "repo": "https://github.com/sinsoku/gitsvn_projects"
+    },
+    {
+      "name": "gitsvn_commits",
+      "repo": "https://github.com/sinsoku/gitsvn_commits"
+    },
+    {
+      "name": "gitsvn_backup",
+      "repo": "https://github.com/sinsoku/gitsvn_backup",
+      "language": "Ruby"
+    },
+    {
+      "name": "paiza_sample",
+      "repo": "https://github.com/sinsoku/paiza_sample"
+    },
+    {
+      "name": "git-training",
+      "repo": "https://github.com/sinsoku/git-training"
+    },
+    {
+      "name": "travis_env_sample",
+      "repo": "https://github.com/sinsoku/travis_env_sample"
+    },
+    {
+      "name": "ltsvcs",
+      "repo": "https://github.com/sinsoku/ltsvcs",
+      "language": "Shell"
+    },
+    {
+      "name": "multi_merge_test",
+      "repo": "https://github.com/sinsoku/multi_merge_test"
+    },
+    {
+      "name": "rtm-chart",
+      "repo": "https://github.com/sinsoku/rtm-chart",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gwtsample",
+      "repo": "https://github.com/sinsoku/gwtsample",
+      "language": "Java"
+    },
+    {
+      "name": "ant_book",
+      "repo": "https://github.com/sinsoku/ant_book",
+      "language": "Ruby"
+    },
+    {
+      "name": "sphinx_sample",
+      "repo": "https://github.com/sinsoku/sphinx_sample",
+      "language": "Python"
+    },
+    {
+      "name": "git_proj",
+      "repo": "https://github.com/sinsoku/git_proj"
+    },
+    {
+      "name": "pyredmine",
+      "repo": "https://github.com/sinsoku/pyredmine"
+    },
+    {
+      "name": "rails-ui-br",
+      "repo": "https://github.com/sinsoku/rails-ui-br"
+    },
+    {
+      "name": "git-jp-test",
+      "repo": "https://github.com/sinsoku/git-jp-test"
+    },
+    {
+      "name": "git-pair",
+      "repo": "https://github.com/sinsoku/git-pair"
+    },
+    {
+      "name": "cacoon",
+      "repo": "https://github.com/sinsoku/cacoon",
+      "language": "C++"
+    },
+    {
+      "name": "omiai-bot",
+      "repo": "https://github.com/sinsoku/omiai-bot",
+      "language": "Python"
+    },
+    {
+      "name": "mm-crss",
+      "repo": "https://github.com/sinsoku/mm-crss",
+      "language": "Python"
+    },
+    {
+      "name": "sample",
+      "repo": "https://github.com/sinsoku/sample",
+      "language": "Python"
+    },
+    {
+      "name": "workfloweditorplus",
+      "repo": "https://github.com/sinsoku/workfloweditorplus",
+      "language": "JavaScript"
+    }
+  ]
+}

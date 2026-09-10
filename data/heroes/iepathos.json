@@ -1,0 +1,506 @@
+{
+  "handle": "iepathos",
+  "name": "Glen Baker",
+  "github": [
+    "https://github.com/iepathos"
+  ],
+  "website": "https://entropicdrift.com/",
+  "bio": "Staff Software Engineer | Security Researcher",
+  "own_repos": 107,
+  "commits": 12606,
+  "apps": [],
+  "repos": [
+    {
+      "name": "stillwater",
+      "repo": "https://github.com/iepathos/stillwater",
+      "url": "https://iepathos.github.io/stillwater",
+      "language": "Rust"
+    },
+    {
+      "name": "debtmap",
+      "repo": "https://github.com/iepathos/debtmap",
+      "url": "https://iepathos.github.io/debtmap/",
+      "language": "Rust"
+    },
+    {
+      "name": "stilltypes",
+      "repo": "https://github.com/iepathos/stilltypes",
+      "language": "Rust"
+    },
+    {
+      "name": "tls-hygiene",
+      "repo": "https://github.com/iepathos/tls-hygiene",
+      "language": "Rust"
+    },
+    {
+      "name": "premortem",
+      "repo": "https://github.com/iepathos/premortem",
+      "language": "Rust"
+    },
+    {
+      "name": "postmortem",
+      "repo": "https://github.com/iepathos/postmortem",
+      "language": "Rust"
+    },
+    {
+      "name": "prodigy",
+      "repo": "https://github.com/iepathos/prodigy",
+      "url": "https://iepathos.github.io/prodigy/",
+      "language": "Rust"
+    },
+    {
+      "name": "mindset",
+      "repo": "https://github.com/iepathos/mindset",
+      "language": "Rust"
+    },
+    {
+      "name": "iepathos",
+      "repo": "https://github.com/iepathos/iepathos"
+    },
+    {
+      "name": "mermaid-sonar",
+      "repo": "https://github.com/iepathos/mermaid-sonar",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rustle-deploy",
+      "repo": "https://github.com/iepathos/rustle-deploy",
+      "language": "Rust"
+    },
+    {
+      "name": "claudeforge",
+      "repo": "https://github.com/iepathos/claudeforge",
+      "language": "Rust"
+    },
+    {
+      "name": "rustle-plan",
+      "repo": "https://github.com/iepathos/rustle-plan",
+      "language": "Rust"
+    },
+    {
+      "name": "rustle-parse",
+      "repo": "https://github.com/iepathos/rustle-parse",
+      "language": "Rust"
+    },
+    {
+      "name": "debtmap-action",
+      "repo": "https://github.com/iepathos/debtmap-action",
+      "language": "Shell"
+    },
+    {
+      "name": "rustle-facts",
+      "repo": "https://github.com/iepathos/rustle-facts",
+      "language": "Rust"
+    },
+    {
+      "name": "eidolon-simple-test",
+      "repo": "https://github.com/iepathos/eidolon-simple-test"
+    },
+    {
+      "name": "rust-claude-code",
+      "repo": "https://github.com/iepathos/rust-claude-code",
+      "language": "Just"
+    },
+    {
+      "name": "python-claude-code",
+      "repo": "https://github.com/iepathos/python-claude-code",
+      "language": "Just"
+    },
+    {
+      "name": "go-claude-code",
+      "repo": "https://github.com/iepathos/go-claude-code",
+      "language": "Just"
+    },
+    {
+      "name": "jina_read",
+      "repo": "https://github.com/iepathos/jina_read",
+      "language": "Python"
+    },
+    {
+      "name": "resumaker",
+      "repo": "https://github.com/iepathos/resumaker",
+      "language": "HTML"
+    },
+    {
+      "name": "empty",
+      "repo": "https://github.com/iepathos/empty"
+    },
+    {
+      "name": "hello-numerai",
+      "repo": "https://github.com/iepathos/hello-numerai",
+      "language": "Python"
+    },
+    {
+      "name": "oracli",
+      "repo": "https://github.com/iepathos/oracli",
+      "language": "Python"
+    },
+    {
+      "name": "go-grit",
+      "repo": "https://github.com/iepathos/go-grit",
+      "language": "Go"
+    },
+    {
+      "name": "aistr",
+      "repo": "https://github.com/iepathos/aistr",
+      "language": "Rust"
+    },
+    {
+      "name": "joko",
+      "repo": "https://github.com/iepathos/joko",
+      "language": "Python"
+    },
+    {
+      "name": "kalidock",
+      "repo": "https://github.com/iepathos/kalidock",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "partyparrotgames.com",
+      "repo": "https://github.com/iepathos/partyparrotgames.com",
+      "language": "HTML"
+    },
+    {
+      "name": "spectator",
+      "repo": "https://github.com/iepathos/spectator",
+      "language": "HTML"
+    },
+    {
+      "name": "marlowe_firefox",
+      "repo": "https://github.com/iepathos/marlowe_firefox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ScriptableObjectArchitecture",
+      "repo": "https://github.com/iepathos/ScriptableObjectArchitecture",
+      "language": "C#"
+    },
+    {
+      "name": "sublist3r",
+      "repo": "https://github.com/iepathos/sublist3r",
+      "language": "Python"
+    },
+    {
+      "name": "nom",
+      "repo": "https://github.com/iepathos/nom",
+      "language": "Shell"
+    },
+    {
+      "name": "reqs",
+      "repo": "https://github.com/iepathos/reqs",
+      "language": "Go"
+    },
+    {
+      "name": "ricefarm",
+      "repo": "https://github.com/iepathos/ricefarm",
+      "language": "Python"
+    },
+    {
+      "name": "reup",
+      "repo": "https://github.com/iepathos/reup",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-reqs",
+      "repo": "https://github.com/iepathos/homebrew-reqs",
+      "language": "Ruby"
+    },
+    {
+      "name": "babyface",
+      "repo": "https://github.com/iepathos/babyface",
+      "language": "Go"
+    },
+    {
+      "name": "lved",
+      "repo": "https://github.com/iepathos/lved",
+      "language": "Shell"
+    },
+    {
+      "name": "ignore",
+      "repo": "https://github.com/iepathos/ignore",
+      "language": "Rust"
+    },
+    {
+      "name": "bravebin",
+      "repo": "https://github.com/iepathos/bravebin",
+      "language": "Go"
+    },
+    {
+      "name": "brutall",
+      "repo": "https://github.com/iepathos/brutall",
+      "language": "Go"
+    },
+    {
+      "name": "enumall",
+      "repo": "https://github.com/iepathos/enumall",
+      "language": "Shell"
+    },
+    {
+      "name": "altdns",
+      "repo": "https://github.com/iepathos/altdns",
+      "language": "Shell"
+    },
+    {
+      "name": "gobuster",
+      "repo": "https://github.com/iepathos/gobuster",
+      "language": "Shell"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/iepathos/test"
+    },
+    {
+      "name": "ehabit",
+      "repo": "https://github.com/iepathos/ehabit",
+      "language": "HTML"
+    },
+    {
+      "name": "gitignore",
+      "repo": "https://github.com/iepathos/gitignore",
+      "language": "Go"
+    },
+    {
+      "name": "marlowe_devops",
+      "repo": "https://github.com/iepathos/marlowe_devops"
+    },
+    {
+      "name": "marlowe_chrome",
+      "repo": "https://github.com/iepathos/marlowe_chrome",
+      "language": "Shell"
+    },
+    {
+      "name": "redobject",
+      "repo": "https://github.com/iepathos/redobject",
+      "language": "Python"
+    },
+    {
+      "name": "marlowe_blog",
+      "repo": "https://github.com/iepathos/marlowe_blog"
+    },
+    {
+      "name": "marlowe_dataset",
+      "repo": "https://github.com/iepathos/marlowe_dataset",
+      "language": "Python"
+    },
+    {
+      "name": "marlowe_objectivity",
+      "repo": "https://github.com/iepathos/marlowe_objectivity",
+      "language": "Python"
+    },
+    {
+      "name": "marlowe_usent",
+      "repo": "https://github.com/iepathos/marlowe_usent",
+      "language": "Python"
+    },
+    {
+      "name": "beehive_rego",
+      "repo": "https://github.com/iepathos/beehive_rego",
+      "language": "Go"
+    },
+    {
+      "name": "beehive_users",
+      "repo": "https://github.com/iepathos/beehive_users",
+      "language": "Go"
+    },
+    {
+      "name": "beehive_chat",
+      "repo": "https://github.com/iepathos/beehive_chat",
+      "language": "Go"
+    },
+    {
+      "name": "beehive",
+      "repo": "https://github.com/iepathos/beehive",
+      "language": "Go"
+    },
+    {
+      "name": "beehive_qanda",
+      "repo": "https://github.com/iepathos/beehive_qanda",
+      "language": "Go"
+    },
+    {
+      "name": "horus",
+      "repo": "https://github.com/iepathos/horus"
+    },
+    {
+      "name": "seacow",
+      "repo": "https://github.com/iepathos/seacow",
+      "language": "Python"
+    },
+    {
+      "name": "seameme",
+      "repo": "https://github.com/iepathos/seameme"
+    },
+    {
+      "name": "archon",
+      "repo": "https://github.com/iepathos/archon",
+      "language": "Go"
+    },
+    {
+      "name": "woshu",
+      "repo": "https://github.com/iepathos/woshu",
+      "language": "Python"
+    },
+    {
+      "name": "iepathos.github.io",
+      "repo": "https://github.com/iepathos/iepathos.github.io",
+      "language": "CSS"
+    },
+    {
+      "name": "mnist",
+      "repo": "https://github.com/iepathos/mnist",
+      "language": "Python"
+    },
+    {
+      "name": "lol_tornado_betting",
+      "repo": "https://github.com/iepathos/lol_tornado_betting",
+      "language": "Python"
+    },
+    {
+      "name": "rustai",
+      "repo": "https://github.com/iepathos/rustai",
+      "language": "Rust"
+    },
+    {
+      "name": "morri",
+      "repo": "https://github.com/iepathos/morri",
+      "language": "Shell"
+    },
+    {
+      "name": "stacks",
+      "repo": "https://github.com/iepathos/stacks",
+      "language": "Go"
+    },
+    {
+      "name": "python_osx_speech_example",
+      "repo": "https://github.com/iepathos/python_osx_speech_example",
+      "language": "Python"
+    },
+    {
+      "name": "schmee",
+      "repo": "https://github.com/iepathos/schmee",
+      "language": "JavaScript"
+    },
+    {
+      "name": "logit",
+      "repo": "https://github.com/iepathos/logit",
+      "language": "Python"
+    },
+    {
+      "name": "brewmaster",
+      "repo": "https://github.com/iepathos/brewmaster",
+      "language": "Python"
+    },
+    {
+      "name": "evelope",
+      "repo": "https://github.com/iepathos/evelope",
+      "language": "CSS"
+    },
+    {
+      "name": "blackswan",
+      "repo": "https://github.com/iepathos/blackswan",
+      "language": "JavaScript"
+    },
+    {
+      "name": "seahorse",
+      "repo": "https://github.com/iepathos/seahorse",
+      "language": "Python"
+    },
+    {
+      "name": "mocha_dick",
+      "repo": "https://github.com/iepathos/mocha_dick",
+      "language": "Python"
+    },
+    {
+      "name": "arkon",
+      "repo": "https://github.com/iepathos/arkon"
+    },
+    {
+      "name": "driveme",
+      "repo": "https://github.com/iepathos/driveme",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust_testing_tutorial",
+      "repo": "https://github.com/iepathos/rust_testing_tutorial",
+      "language": "Rust"
+    },
+    {
+      "name": "guessing_game",
+      "repo": "https://github.com/iepathos/guessing_game",
+      "language": "Rust"
+    },
+    {
+      "name": "willyouhack.me",
+      "repo": "https://github.com/iepathos/willyouhack.me",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codingsamples",
+      "repo": "https://github.com/iepathos/codingsamples",
+      "language": "Python"
+    },
+    {
+      "name": "bootstrap3-django-registration-templates",
+      "repo": "https://github.com/iepathos/bootstrap3-django-registration-templates"
+    },
+    {
+      "name": "badmama",
+      "repo": "https://github.com/iepathos/badmama",
+      "language": "Python"
+    },
+    {
+      "name": "parkme_application",
+      "repo": "https://github.com/iepathos/parkme_application"
+    },
+    {
+      "name": "dreamworld",
+      "repo": "https://github.com/iepathos/dreamworld",
+      "language": "CSS"
+    },
+    {
+      "name": "flask-microblog",
+      "repo": "https://github.com/iepathos/flask-microblog",
+      "language": "JavaScript"
+    },
+    {
+      "name": "arbiter",
+      "repo": "https://github.com/iepathos/arbiter",
+      "language": "Python"
+    },
+    {
+      "name": "beachmint",
+      "repo": "https://github.com/iepathos/beachmint",
+      "language": "Python"
+    },
+    {
+      "name": "django-memcached-openshift",
+      "repo": "https://github.com/iepathos/django-memcached-openshift",
+      "language": "Python"
+    },
+    {
+      "name": "django-mysql-example",
+      "repo": "https://github.com/iepathos/django-mysql-example",
+      "language": "Python"
+    },
+    {
+      "name": "handstand-django151-iepathos",
+      "repo": "https://github.com/iepathos/handstand-django151-iepathos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "twitter-scripts",
+      "repo": "https://github.com/iepathos/twitter-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "mezzanine-openshift-1",
+      "repo": "https://github.com/iepathos/mezzanine-openshift-1",
+      "language": "Python"
+    },
+    {
+      "name": "wyomafilms",
+      "repo": "https://github.com/iepathos/wyomafilms",
+      "language": "JavaScript"
+    }
+  ]
+}

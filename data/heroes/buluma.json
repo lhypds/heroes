@@ -1,0 +1,493 @@
+{
+  "handle": "buluma",
+  "name": "buluma",
+  "github": [
+    "https://github.com/buluma"
+  ],
+  "website": "https://www.buluma.me.ke/",
+  "bio": "DevOps Engineer",
+  "own_repos": 515,
+  "commits": 15422,
+  "apps": [],
+  "repos": [
+    {
+      "name": "online",
+      "repo": "https://github.com/buluma/online",
+      "url": "https://buluma.github.io/online/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ansible_galaxy_collection",
+      "repo": "https://github.com/buluma/ansible_galaxy_collection",
+      "language": "TypeScript"
+    },
+    {
+      "name": "buluma",
+      "repo": "https://github.com/buluma/buluma",
+      "url": "https://buluma.github.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Code-Agent-Monitor",
+      "repo": "https://github.com/buluma/Code-Agent-Monitor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "uptime",
+      "repo": "https://github.com/buluma/uptime",
+      "url": "https://buluma.github.io/uptime",
+      "language": "Markdown"
+    },
+    {
+      "name": "helmcode",
+      "repo": "https://github.com/buluma/helmcode",
+      "url": "https://npmjs.com/package/helmcode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "worldmonitor",
+      "repo": "https://github.com/buluma/worldmonitor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-models",
+      "repo": "https://github.com/buluma/pi-models",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reddie",
+      "repo": "https://github.com/buluma/reddie",
+      "language": "JavaScript"
+    },
+    {
+      "name": "markscribe",
+      "repo": "https://github.com/buluma/markscribe",
+      "language": "Go"
+    },
+    {
+      "name": "pi-free",
+      "repo": "https://github.com/buluma/pi-free",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gh-action-auto-merge-dependabot-updates",
+      "repo": "https://github.com/buluma/gh-action-auto-merge-dependabot-updates",
+      "language": "TypeScript"
+    },
+    {
+      "name": "update-github-forks",
+      "repo": "https://github.com/buluma/update-github-forks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ansible-role-ara_api",
+      "repo": "https://github.com/buluma/ansible-role-ara_api",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-terraform",
+      "repo": "https://github.com/buluma/ansible-role-terraform"
+    },
+    {
+      "name": "ansible-role-unowned_files",
+      "repo": "https://github.com/buluma/ansible-role-unowned_files"
+    },
+    {
+      "name": "ansible-role-update_package_cache",
+      "repo": "https://github.com/buluma/ansible-role-update_package_cache"
+    },
+    {
+      "name": "ansible-role-users",
+      "repo": "https://github.com/buluma/ansible-role-users",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-zabbix_server",
+      "repo": "https://github.com/buluma/ansible-role-zabbix_server",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-auditd",
+      "repo": "https://github.com/buluma/ansible-role-auditd",
+      "url": "https://galaxy.ansible.com/buluma/auditd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-certbot",
+      "repo": "https://github.com/buluma/ansible-role-certbot"
+    },
+    {
+      "name": "ansible-role-centos_base",
+      "repo": "https://github.com/buluma/ansible-role-centos_base",
+      "url": "https://galaxy.ansible.com/buluma/centos_base",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-apt_autostart",
+      "repo": "https://github.com/buluma/ansible-role-apt_autostart",
+      "url": "https://galaxy.ansible.com/buluma/apt_autostart"
+    },
+    {
+      "name": "ansible-role-kubernetes",
+      "repo": "https://github.com/buluma/ansible-role-kubernetes",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-bind",
+      "repo": "https://github.com/buluma/ansible-role-bind",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-hashicorp",
+      "repo": "https://github.com/buluma/ansible-role-hashicorp"
+    },
+    {
+      "name": "ansible-role-earlyoom",
+      "repo": "https://github.com/buluma/ansible-role-earlyoom"
+    },
+    {
+      "name": "ansible-role-haproxy",
+      "repo": "https://github.com/buluma/ansible-role-haproxy",
+      "url": "https://buluma.github.io/ansible-role-haproxy/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-moodle",
+      "repo": "https://github.com/buluma/ansible-role-moodle",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-maven",
+      "repo": "https://github.com/buluma/ansible-role-maven",
+      "url": "https://galaxy.ansible.com/buluma/maven",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-redis",
+      "repo": "https://github.com/buluma/ansible-role-redis",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-solr",
+      "repo": "https://github.com/buluma/ansible-role-solr",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-telegraf",
+      "repo": "https://github.com/buluma/ansible-role-telegraf",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-kubectl",
+      "repo": "https://github.com/buluma/ansible-role-kubectl"
+    },
+    {
+      "name": "ansible-role-aliases",
+      "repo": "https://github.com/buluma/ansible-role-aliases",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-logstash",
+      "repo": "https://github.com/buluma/ansible-role-logstash",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-nginx",
+      "repo": "https://github.com/buluma/ansible-role-nginx",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-zabbix_agent",
+      "repo": "https://github.com/buluma/ansible-role-zabbix_agent",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-gitea",
+      "repo": "https://github.com/buluma/ansible-role-gitea"
+    },
+    {
+      "name": "ansible-role-ruby_gems",
+      "repo": "https://github.com/buluma/ansible-role-ruby_gems",
+      "url": "https://galaxy.ansible.com/buluma/ruby_gems",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-logrotate",
+      "repo": "https://github.com/buluma/ansible-role-logrotate",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-scl",
+      "repo": "https://github.com/buluma/ansible-role-scl"
+    },
+    {
+      "name": "ansible-role-dsvpn",
+      "repo": "https://github.com/buluma/ansible-role-dsvpn",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-keepalived",
+      "repo": "https://github.com/buluma/ansible-role-keepalived",
+      "url": "https://galaxy.ansible.com/buluma/keepalived",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-netiq-sentinel-syslog-event-source",
+      "repo": "https://github.com/buluma/ansible-role-netiq-sentinel-syslog-event-source",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-httpd",
+      "repo": "https://github.com/buluma/ansible-role-httpd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-nomad",
+      "repo": "https://github.com/buluma/ansible-role-nomad",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-powertools",
+      "repo": "https://github.com/buluma/ansible-role-powertools"
+    },
+    {
+      "name": "ansible-role-clamav",
+      "repo": "https://github.com/buluma/ansible-role-clamav",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-redmine-1",
+      "repo": "https://github.com/buluma/ansible-role-redmine-1",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-role-drush",
+      "repo": "https://github.com/buluma/ansible-role-drush",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-core_dependencies",
+      "repo": "https://github.com/buluma/ansible-role-core_dependencies"
+    },
+    {
+      "name": "ansible-role-postgresql_replication",
+      "repo": "https://github.com/buluma/ansible-role-postgresql_replication",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-glusterfs",
+      "repo": "https://github.com/buluma/ansible-role-glusterfs"
+    },
+    {
+      "name": "ansible-role-upgrade",
+      "repo": "https://github.com/buluma/ansible-role-upgrade"
+    },
+    {
+      "name": "ansible-role-adminer",
+      "repo": "https://github.com/buluma/ansible-role-adminer",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-nodejs",
+      "repo": "https://github.com/buluma/ansible-role-nodejs",
+      "url": "https://galaxy.ansible.com/buluma/nodejs",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-ca",
+      "repo": "https://github.com/buluma/ansible-role-ca",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-sonarqube",
+      "repo": "https://github.com/buluma/ansible-role-sonarqube",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-autofs",
+      "repo": "https://github.com/buluma/ansible-role-autofs",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-htpasswd",
+      "repo": "https://github.com/buluma/ansible-role-htpasswd"
+    },
+    {
+      "name": "ansible-role-bitbucket",
+      "repo": "https://github.com/buluma/ansible-role-bitbucket",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-qemu",
+      "repo": "https://github.com/buluma/ansible-role-qemu"
+    },
+    {
+      "name": "ansible-role-apt_repository",
+      "repo": "https://github.com/buluma/ansible-role-apt_repository",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/buluma/apt_repository/documentation"
+    },
+    {
+      "name": "ansible-role-bareos_repository",
+      "repo": "https://github.com/buluma/ansible-role-bareos_repository"
+    },
+    {
+      "name": "ansible-role-metricbeat",
+      "repo": "https://github.com/buluma/ansible-role-metricbeat",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-umask",
+      "repo": "https://github.com/buluma/ansible-role-umask"
+    },
+    {
+      "name": "ansible-role-container_docs",
+      "repo": "https://github.com/buluma/ansible-role-container_docs"
+    },
+    {
+      "name": "ansible-role-ulimit",
+      "repo": "https://github.com/buluma/ansible-role-ulimit"
+    },
+    {
+      "name": "ansible-role-bareos_dir",
+      "repo": "https://github.com/buluma/ansible-role-bareos_dir",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-irslackd",
+      "repo": "https://github.com/buluma/ansible-role-irslackd"
+    },
+    {
+      "name": "ansible-role-kernel",
+      "repo": "https://github.com/buluma/ansible-role-kernel"
+    },
+    {
+      "name": "ansible-role-apache",
+      "repo": "https://github.com/buluma/ansible-role-apache",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-remi",
+      "repo": "https://github.com/buluma/ansible-role-remi"
+    },
+    {
+      "name": "ansible-role-tftpd",
+      "repo": "https://github.com/buluma/ansible-role-tftpd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-vector",
+      "repo": "https://github.com/buluma/ansible-role-vector",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-digitalocean-agent",
+      "repo": "https://github.com/buluma/ansible-role-digitalocean-agent",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-sensu",
+      "repo": "https://github.com/buluma/ansible-role-sensu",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-rabbitvcs",
+      "repo": "https://github.com/buluma/ansible-role-rabbitvcs",
+      "url": "https://galaxy.ansible.com/buluma/rabbitvcs"
+    },
+    {
+      "name": "ansible-role-podman",
+      "repo": "https://github.com/buluma/ansible-role-podman",
+      "url": "https://galaxy.ansible.com/buluma/podman"
+    },
+    {
+      "name": "ansible-role-postgres",
+      "repo": "https://github.com/buluma/ansible-role-postgres",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-transmission",
+      "repo": "https://github.com/buluma/ansible-role-transmission"
+    },
+    {
+      "name": "ansible-role-selinux",
+      "repo": "https://github.com/buluma/ansible-role-selinux"
+    },
+    {
+      "name": "ansible-role-ara",
+      "repo": "https://github.com/buluma/ansible-role-ara",
+      "url": "https://galaxy.ansible.com/buluma/ara",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-firefox",
+      "repo": "https://github.com/buluma/ansible-role-firefox",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-lynis",
+      "repo": "https://github.com/buluma/ansible-role-lynis"
+    },
+    {
+      "name": "ansible-role-vault_configuration",
+      "repo": "https://github.com/buluma/ansible-role-vault_configuration",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-os_updates",
+      "repo": "https://github.com/buluma/ansible-role-os_updates"
+    },
+    {
+      "name": "ansible-role-bootstrap",
+      "repo": "https://github.com/buluma/ansible-role-bootstrap",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/buluma/bootstrap/"
+    },
+    {
+      "name": "ansible-role-nvim",
+      "repo": "https://github.com/buluma/ansible-role-nvim"
+    },
+    {
+      "name": "ansible-role-ca_certificates",
+      "repo": "https://github.com/buluma/ansible-role-ca_certificates"
+    },
+    {
+      "name": "ansible-role-restore",
+      "repo": "https://github.com/buluma/ansible-role-restore"
+    },
+    {
+      "name": "ansible-role-debug",
+      "repo": "https://github.com/buluma/ansible-role-debug"
+    },
+    {
+      "name": "ansible-role-azure_cli",
+      "repo": "https://github.com/buluma/ansible-role-azure_cli",
+      "url": "https://galaxy.ansible.com/buluma/azure_cli"
+    },
+    {
+      "name": "ansible-role-packer",
+      "repo": "https://github.com/buluma/ansible-role-packer"
+    },
+    {
+      "name": "ansible-role-dnsmasq",
+      "repo": "https://github.com/buluma/ansible-role-dnsmasq",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-reboot",
+      "repo": "https://github.com/buluma/ansible-role-reboot"
+    },
+    {
+      "name": "ansible-role-swap",
+      "repo": "https://github.com/buluma/ansible-role-swap",
+      "url": "https://galaxy.ansible.com/buluma/swap"
+    },
+    {
+      "name": "ansible-role-firewall",
+      "repo": "https://github.com/buluma/ansible-role-firewall",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-rpmfusion",
+      "repo": "https://github.com/buluma/ansible-role-rpmfusion"
+    }
+  ]
+}

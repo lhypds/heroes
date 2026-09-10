@@ -1,0 +1,527 @@
+{
+  "handle": "edadma",
+  "name": "Ed",
+  "github": [
+    "https://github.com/edadma"
+  ],
+  "own_repos": 278,
+  "commits": 10050,
+  "apps": [],
+  "repos": [
+    {
+      "name": "texish",
+      "repo": "https://github.com/edadma/texish",
+      "url": "https://texish.edadma.dev/",
+      "language": "TeX"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/edadma/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "juicer",
+      "repo": "https://github.com/edadma/juicer",
+      "language": "Scala"
+    },
+    {
+      "name": "squiggly",
+      "repo": "https://github.com/edadma/squiggly",
+      "url": "https://edadma.github.io/squiggly/",
+      "language": "Scala"
+    },
+    {
+      "name": "markdown",
+      "repo": "https://github.com/edadma/markdown",
+      "url": "https://edadma.github.io/dingus/",
+      "language": "Scala"
+    },
+    {
+      "name": "microserve",
+      "repo": "https://github.com/edadma/microserve",
+      "language": "Scala"
+    },
+    {
+      "name": "highlighter",
+      "repo": "https://github.com/edadma/highlighter",
+      "language": "Scala"
+    },
+    {
+      "name": "emoji",
+      "repo": "https://github.com/edadma/emoji",
+      "language": "Scala"
+    },
+    {
+      "name": "dllist",
+      "repo": "https://github.com/edadma/dllist",
+      "language": "Scala"
+    },
+    {
+      "name": "oniguruma",
+      "repo": "https://github.com/edadma/oniguruma",
+      "language": "Scala"
+    },
+    {
+      "name": "toml",
+      "repo": "https://github.com/edadma/toml",
+      "language": "Scala"
+    },
+    {
+      "name": "path",
+      "repo": "https://github.com/edadma/path",
+      "language": "Scala"
+    },
+    {
+      "name": "char_reader",
+      "repo": "https://github.com/edadma/char_reader",
+      "language": "Scala"
+    },
+    {
+      "name": "logger",
+      "repo": "https://github.com/edadma/logger",
+      "language": "Scala"
+    },
+    {
+      "name": "indentation",
+      "repo": "https://github.com/edadma/indentation",
+      "language": "Scala"
+    },
+    {
+      "name": "riposte",
+      "repo": "https://github.com/edadma/riposte",
+      "language": "Scala"
+    },
+    {
+      "name": "hocon",
+      "repo": "https://github.com/edadma/hocon",
+      "url": "https://hocon.edadma.dev/",
+      "language": "Scala"
+    },
+    {
+      "name": "cross_platform",
+      "repo": "https://github.com/edadma/cross_platform",
+      "language": "Scala"
+    },
+    {
+      "name": "sysl-old-site",
+      "repo": "https://github.com/edadma/sysl-old-site",
+      "url": "https://sysl.sh/"
+    },
+    {
+      "name": "petradb",
+      "repo": "https://github.com/edadma/petradb",
+      "url": "https://petradb.dev/",
+      "language": "Scala"
+    },
+    {
+      "name": "scriptura",
+      "repo": "https://github.com/edadma/scriptura",
+      "language": "Scala"
+    },
+    {
+      "name": "suit",
+      "repo": "https://github.com/edadma/suit",
+      "url": "https://suit.edadma.dev/",
+      "language": "C"
+    },
+    {
+      "name": "kutter",
+      "repo": "https://github.com/edadma/kutter",
+      "language": "Scala"
+    },
+    {
+      "name": "trisc",
+      "repo": "https://github.com/edadma/trisc",
+      "language": "Scala"
+    },
+    {
+      "name": "mlt",
+      "repo": "https://github.com/edadma/mlt",
+      "language": "Scala"
+    },
+    {
+      "name": "cross_template",
+      "repo": "https://github.com/edadma/cross_template",
+      "language": "Scala"
+    },
+    {
+      "name": "sdl3",
+      "repo": "https://github.com/edadma/sdl3",
+      "language": "Scala"
+    },
+    {
+      "name": "kutter-old",
+      "repo": "https://github.com/edadma/kutter-old",
+      "language": "Scala"
+    },
+    {
+      "name": "libcairo",
+      "repo": "https://github.com/edadma/libcairo",
+      "language": "C"
+    },
+    {
+      "name": "qr",
+      "repo": "https://github.com/edadma/qr",
+      "language": "Scala"
+    },
+    {
+      "name": "apion",
+      "repo": "https://github.com/edadma/apion",
+      "url": "https://edadma.github.io/apion/",
+      "language": "Scala"
+    },
+    {
+      "name": "freetype",
+      "repo": "https://github.com/edadma/freetype",
+      "language": "Scala"
+    },
+    {
+      "name": "librsvg",
+      "repo": "https://github.com/edadma/librsvg",
+      "language": "Scala"
+    },
+    {
+      "name": "asteroids",
+      "repo": "https://github.com/edadma/asteroids",
+      "language": "Scala"
+    },
+    {
+      "name": "sim3d",
+      "repo": "https://github.com/edadma/sim3d",
+      "language": "Scala"
+    },
+    {
+      "name": "turbojpeg",
+      "repo": "https://github.com/edadma/turbojpeg",
+      "language": "Scala"
+    },
+    {
+      "name": "sdl2_ttf",
+      "repo": "https://github.com/edadma/sdl2_ttf",
+      "language": "Scala"
+    },
+    {
+      "name": "sdl2",
+      "repo": "https://github.com/edadma/sdl2",
+      "language": "Scala"
+    },
+    {
+      "name": "yamul",
+      "repo": "https://github.com/edadma/yamul",
+      "language": "HTML"
+    },
+    {
+      "name": "nex",
+      "repo": "https://github.com/edadma/nex",
+      "language": "Scala"
+    },
+    {
+      "name": "wasm",
+      "repo": "https://github.com/edadma/wasm",
+      "url": "https://edadma.github.io/wasm/",
+      "language": "Scala"
+    },
+    {
+      "name": "pursuingtruth.faith",
+      "repo": "https://github.com/edadma/pursuingtruth.faith",
+      "url": "https://pursuingtruth.faith/",
+      "language": "CSS"
+    },
+    {
+      "name": "parsyl",
+      "repo": "https://github.com/edadma/parsyl"
+    },
+    {
+      "name": "suit-old",
+      "repo": "https://github.com/edadma/suit-old",
+      "language": "Scala"
+    },
+    {
+      "name": "kitpm.dev",
+      "repo": "https://github.com/edadma/kitpm.dev",
+      "language": "Scala"
+    },
+    {
+      "name": "m68k",
+      "repo": "https://github.com/edadma/m68k",
+      "language": "Scala"
+    },
+    {
+      "name": "slix",
+      "repo": "https://github.com/edadma/slix",
+      "language": "C"
+    },
+    {
+      "name": "suit-old-old",
+      "repo": "https://github.com/edadma/suit-old-old",
+      "language": "Scala"
+    },
+    {
+      "name": "dingus",
+      "repo": "https://github.com/edadma/dingus",
+      "language": "Scala"
+    },
+    {
+      "name": "gramma",
+      "repo": "https://github.com/edadma/gramma",
+      "language": "Scala"
+    },
+    {
+      "name": "caldera",
+      "repo": "https://github.com/edadma/caldera",
+      "language": "TypeScript"
+    },
+    {
+      "name": "roamer",
+      "repo": "https://github.com/edadma/roamer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "forge",
+      "repo": "https://github.com/edadma/forge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "asterui",
+      "repo": "https://github.com/edadma/asterui",
+      "url": "https://asterui.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "webapp_template",
+      "repo": "https://github.com/edadma/webapp_template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hono-session",
+      "repo": "https://github.com/edadma/hono-session",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bookstore",
+      "repo": "https://github.com/edadma/bookstore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sn_template",
+      "repo": "https://github.com/edadma/sn_template",
+      "language": "Scala"
+    },
+    {
+      "name": "importer",
+      "repo": "https://github.com/edadma/importer",
+      "language": "Scala"
+    },
+    {
+      "name": "yaml",
+      "repo": "https://github.com/edadma/yaml",
+      "language": "HTML"
+    },
+    {
+      "name": "table",
+      "repo": "https://github.com/edadma/table",
+      "language": "Scala"
+    },
+    {
+      "name": "bptree",
+      "repo": "https://github.com/edadma/bptree",
+      "language": "Scala"
+    },
+    {
+      "name": "stow",
+      "repo": "https://github.com/edadma/stow",
+      "language": "Scala"
+    },
+    {
+      "name": "readline",
+      "repo": "https://github.com/edadma/readline",
+      "language": "Scala"
+    },
+    {
+      "name": "recursive_descent_parser",
+      "repo": "https://github.com/edadma/recursive_descent_parser",
+      "language": "Scala"
+    },
+    {
+      "name": "codeturtle",
+      "repo": "https://github.com/edadma/codeturtle",
+      "language": "MDX"
+    },
+    {
+      "name": "logo-playground",
+      "repo": "https://github.com/edadma/logo-playground",
+      "language": "TypeScript"
+    },
+    {
+      "name": "logo",
+      "repo": "https://github.com/edadma/logo",
+      "language": "Scala"
+    },
+    {
+      "name": "dal",
+      "repo": "https://github.com/edadma/dal",
+      "language": "Scala"
+    },
+    {
+      "name": "numbers",
+      "repo": "https://github.com/edadma/numbers",
+      "language": "Scala"
+    },
+    {
+      "name": "freetype_face",
+      "repo": "https://github.com/edadma/freetype_face",
+      "language": "Scala"
+    },
+    {
+      "name": "nex-old",
+      "repo": "https://github.com/edadma/nex-old",
+      "language": "Scala"
+    },
+    {
+      "name": "texish-defunct",
+      "repo": "https://github.com/edadma/texish-defunct",
+      "language": "Scala"
+    },
+    {
+      "name": "genplan",
+      "repo": "https://github.com/edadma/genplan",
+      "language": "Scala"
+    },
+    {
+      "name": "blip",
+      "repo": "https://github.com/edadma/blip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "letterbox",
+      "repo": "https://github.com/edadma/letterbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "uni",
+      "repo": "https://github.com/edadma/uni",
+      "language": "Rust"
+    },
+    {
+      "name": "editline",
+      "repo": "https://github.com/edadma/editline",
+      "url": "https://crates.io/crates/editline",
+      "language": "Rust"
+    },
+    {
+      "name": "uni-old",
+      "repo": "https://github.com/edadma/uni-old",
+      "language": "Rust"
+    },
+    {
+      "name": "fluxus-template",
+      "repo": "https://github.com/edadma/fluxus-template",
+      "language": "Scala"
+    },
+    {
+      "name": "rust-101",
+      "repo": "https://github.com/edadma/rust-101"
+    },
+    {
+      "name": "autotype",
+      "repo": "https://github.com/edadma/autotype",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dynamic_complex.h",
+      "repo": "https://github.com/edadma/dynamic_complex.h",
+      "url": "https://edadma.github.io/dynamic_complex.h/",
+      "language": "C"
+    },
+    {
+      "name": "dynamic_fraction.h",
+      "repo": "https://github.com/edadma/dynamic_fraction.h",
+      "url": "https://edadma.github.io/dynamic_fraction.h/",
+      "language": "C++"
+    },
+    {
+      "name": "dynamic_int.h",
+      "repo": "https://github.com/edadma/dynamic_int.h",
+      "language": "C"
+    },
+    {
+      "name": "sl_scala",
+      "repo": "https://github.com/edadma/sl_scala",
+      "language": "Scala"
+    },
+    {
+      "name": "SICP_Slate_Edition",
+      "repo": "https://github.com/edadma/SICP_Slate_Edition",
+      "language": "TeX"
+    },
+    {
+      "name": "slate-c",
+      "repo": "https://github.com/edadma/slate-c",
+      "language": "C"
+    },
+    {
+      "name": "dynamic_regex.h",
+      "repo": "https://github.com/edadma/dynamic_regex.h",
+      "language": "C"
+    },
+    {
+      "name": "dynamic_buffer.h",
+      "repo": "https://github.com/edadma/dynamic_buffer.h",
+      "url": "https://edadma.github.io/dynamic_buffer.h/",
+      "language": "C"
+    },
+    {
+      "name": "dynamic_object.h",
+      "repo": "https://github.com/edadma/dynamic_object.h",
+      "language": "C"
+    },
+    {
+      "name": "dynamic_string.h",
+      "repo": "https://github.com/edadma/dynamic_string.h",
+      "url": "https://edadma.github.io/dynamic_string.h/",
+      "language": "C"
+    },
+    {
+      "name": "dynamic_array.h",
+      "repo": "https://github.com/edadma/dynamic_array.h",
+      "url": "https://edadma.github.io/dynamic_array.h/",
+      "language": "C"
+    },
+    {
+      "name": "fluxus",
+      "repo": "https://github.com/edadma/fluxus",
+      "url": "https://edadma.github.io/fluxus/",
+      "language": "Scala"
+    },
+    {
+      "name": "random_uuid",
+      "repo": "https://github.com/edadma/random_uuid",
+      "language": "Scala"
+    },
+    {
+      "name": "ckit.dev",
+      "repo": "https://github.com/edadma/ckit.dev",
+      "language": "CSS"
+    },
+    {
+      "name": "apion-template",
+      "repo": "https://github.com/edadma/apion-template",
+      "language": "Scala"
+    },
+    {
+      "name": "kit_cli",
+      "repo": "https://github.com/edadma/kit_cli",
+      "language": "Scala"
+    },
+    {
+      "name": "libcurl",
+      "repo": "https://github.com/edadma/libcurl",
+      "language": "Scala"
+    },
+    {
+      "name": "fetch",
+      "repo": "https://github.com/edadma/fetch",
+      "language": "Scala"
+    }
+  ]
+}

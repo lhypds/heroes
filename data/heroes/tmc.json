@@ -1,0 +1,512 @@
+{
+  "handle": "tmc",
+  "name": "Travis Cline",
+  "github": [
+    "https://github.com/tmc"
+  ],
+  "bio": "🚀",
+  "own_repos": 291,
+  "commits": 12206,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cove",
+      "repo": "https://github.com/tmc/cove",
+      "language": "Go"
+    },
+    {
+      "name": "tmc",
+      "repo": "https://github.com/tmc/tmc",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-iroh",
+      "repo": "https://github.com/tmc/go-iroh",
+      "url": "https://go-iroh.tmc.dev",
+      "language": "Go"
+    },
+    {
+      "name": "apple",
+      "repo": "https://github.com/tmc/apple",
+      "language": "Go"
+    },
+    {
+      "name": "shared-guidance-proposal",
+      "repo": "https://github.com/tmc/shared-guidance-proposal"
+    },
+    {
+      "name": "gputrace",
+      "repo": "https://github.com/tmc/gputrace",
+      "language": "Go"
+    },
+    {
+      "name": "vrf",
+      "repo": "https://github.com/tmc/vrf",
+      "language": "Go"
+    },
+    {
+      "name": "mlx-c-gen",
+      "repo": "https://github.com/tmc/mlx-c-gen",
+      "language": "Go"
+    },
+    {
+      "name": "9pfs",
+      "repo": "https://github.com/tmc/9pfs",
+      "language": "Go"
+    },
+    {
+      "name": "fuzztape",
+      "repo": "https://github.com/tmc/fuzztape",
+      "language": "Go"
+    },
+    {
+      "name": "xk6-iroh",
+      "repo": "https://github.com/tmc/xk6-iroh",
+      "language": "Go"
+    },
+    {
+      "name": "go-iroh-experiments",
+      "repo": "https://github.com/tmc/go-iroh-experiments",
+      "language": "Go"
+    },
+    {
+      "name": "go-iroh-tools",
+      "repo": "https://github.com/tmc/go-iroh-tools",
+      "language": "Go"
+    },
+    {
+      "name": "go-iroh-examples",
+      "repo": "https://github.com/tmc/go-iroh-examples",
+      "language": "Go"
+    },
+    {
+      "name": "k6bench",
+      "repo": "https://github.com/tmc/k6bench",
+      "language": "Go"
+    },
+    {
+      "name": "nlm",
+      "repo": "https://github.com/tmc/nlm",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/tmc/homebrew-tap",
+      "url": "https://github.com/tmc/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "axmcp",
+      "repo": "https://github.com/tmc/axmcp",
+      "language": "Go"
+    },
+    {
+      "name": "misc",
+      "repo": "https://github.com/tmc/misc",
+      "language": "HTML"
+    },
+    {
+      "name": "mlx-go-sia",
+      "repo": "https://github.com/tmc/mlx-go-sia",
+      "language": "Go"
+    },
+    {
+      "name": "mlx-go-ane",
+      "repo": "https://github.com/tmc/mlx-go-ane",
+      "language": "Go"
+    },
+    {
+      "name": "mlx-go-vibethinker",
+      "repo": "https://github.com/tmc/mlx-go-vibethinker",
+      "language": "Go"
+    },
+    {
+      "name": "mlx-go-iroh",
+      "repo": "https://github.com/tmc/mlx-go-iroh",
+      "language": "Go"
+    },
+    {
+      "name": "pe",
+      "repo": "https://github.com/tmc/pe",
+      "language": "Go"
+    },
+    {
+      "name": "mcp",
+      "repo": "https://github.com/tmc/mcp",
+      "language": "Go"
+    },
+    {
+      "name": "keyring",
+      "repo": "https://github.com/tmc/keyring",
+      "language": "Go"
+    },
+    {
+      "name": "claude-artifact-publish-test",
+      "repo": "https://github.com/tmc/claude-artifact-publish-test",
+      "language": "HTML"
+    },
+    {
+      "name": "snes",
+      "repo": "https://github.com/tmc/snes",
+      "language": "Go"
+    },
+    {
+      "name": "covelet",
+      "repo": "https://github.com/tmc/covelet",
+      "language": "Go"
+    },
+    {
+      "name": "cc",
+      "repo": "https://github.com/tmc/cc",
+      "language": "Go"
+    },
+    {
+      "name": "vz-container",
+      "repo": "https://github.com/tmc/vz-container",
+      "language": "Go"
+    },
+    {
+      "name": "specmd",
+      "repo": "https://github.com/tmc/specmd",
+      "language": "Go"
+    },
+    {
+      "name": "x12",
+      "repo": "https://github.com/tmc/x12",
+      "language": "Go"
+    },
+    {
+      "name": "macgo",
+      "repo": "https://github.com/tmc/macgo",
+      "language": "Go"
+    },
+    {
+      "name": "a2ui",
+      "repo": "https://github.com/tmc/a2ui",
+      "language": "Go"
+    },
+    {
+      "name": "swiftui",
+      "repo": "https://github.com/tmc/swiftui",
+      "language": "Go"
+    },
+    {
+      "name": "gojaccl",
+      "repo": "https://github.com/tmc/gojaccl",
+      "language": "Go"
+    },
+    {
+      "name": "sparkle-go",
+      "repo": "https://github.com/tmc/sparkle-go",
+      "language": "Go"
+    },
+    {
+      "name": "sc",
+      "repo": "https://github.com/tmc/sc",
+      "language": "Go"
+    },
+    {
+      "name": "awdl-webrtc-apple-demo",
+      "repo": "https://github.com/tmc/awdl-webrtc-apple-demo",
+      "language": "Go"
+    },
+    {
+      "name": "apple-pion",
+      "repo": "https://github.com/tmc/apple-pion",
+      "language": "Go"
+    },
+    {
+      "name": "cdp",
+      "repo": "https://github.com/tmc/cdp",
+      "language": "Go"
+    },
+    {
+      "name": "paper-sanity-checker",
+      "repo": "https://github.com/tmc/paper-sanity-checker"
+    },
+    {
+      "name": "arxiv",
+      "repo": "https://github.com/tmc/arxiv",
+      "language": "Go"
+    },
+    {
+      "name": "vz-macos",
+      "repo": "https://github.com/tmc/vz-macos",
+      "language": "Go"
+    },
+    {
+      "name": "infinite-gambit",
+      "repo": "https://github.com/tmc/infinite-gambit",
+      "url": "https://holdem-delta.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "md2html",
+      "repo": "https://github.com/tmc/md2html",
+      "language": "Go"
+    },
+    {
+      "name": "aneperf",
+      "repo": "https://github.com/tmc/aneperf",
+      "language": "Go"
+    },
+    {
+      "name": "mlx-transformer-vm",
+      "repo": "https://github.com/tmc/mlx-transformer-vm",
+      "language": "Python"
+    },
+    {
+      "name": "it2",
+      "repo": "https://github.com/tmc/it2",
+      "url": "https://it2.tmc.dev",
+      "language": "Go"
+    },
+    {
+      "name": "autoresearch-mlx-go-ane",
+      "repo": "https://github.com/tmc/autoresearch-mlx-go-ane",
+      "language": "Go"
+    },
+    {
+      "name": "autoresearch-go-ane",
+      "repo": "https://github.com/tmc/autoresearch-go-ane",
+      "language": "Go"
+    },
+    {
+      "name": "autoresearch-skills",
+      "repo": "https://github.com/tmc/autoresearch-skills"
+    },
+    {
+      "name": "ane-training-experiments",
+      "repo": "https://github.com/tmc/ane-training-experiments",
+      "language": "Objective-C"
+    },
+    {
+      "name": "dlp",
+      "repo": "https://github.com/tmc/dlp",
+      "language": "Go"
+    },
+    {
+      "name": "langchaingo",
+      "repo": "https://github.com/tmc/langchaingo",
+      "url": "https://tmc.github.io/langchaingo/",
+      "language": "Go"
+    },
+    {
+      "name": "mkprog",
+      "repo": "https://github.com/tmc/mkprog",
+      "language": "Go"
+    },
+    {
+      "name": "tokencount",
+      "repo": "https://github.com/tmc/tokencount",
+      "language": "Go"
+    },
+    {
+      "name": "appledocs",
+      "repo": "https://github.com/tmc/appledocs",
+      "language": "Go"
+    },
+    {
+      "name": "cgpt",
+      "repo": "https://github.com/tmc/cgpt",
+      "language": "Go"
+    },
+    {
+      "name": "tmpl",
+      "repo": "https://github.com/tmc/tmpl",
+      "language": "Go"
+    },
+    {
+      "name": "aistudio",
+      "repo": "https://github.com/tmc/aistudio",
+      "language": "Go"
+    },
+    {
+      "name": "watcher",
+      "repo": "https://github.com/tmc/watcher",
+      "language": "Go"
+    },
+    {
+      "name": "covutil",
+      "repo": "https://github.com/tmc/covutil",
+      "language": "Go"
+    },
+    {
+      "name": "maha-rep-analysis",
+      "repo": "https://github.com/tmc/maha-rep-analysis"
+    },
+    {
+      "name": "scripttestutil",
+      "repo": "https://github.com/tmc/scripttestutil",
+      "language": "Go"
+    },
+    {
+      "name": "goloz",
+      "repo": "https://github.com/tmc/goloz",
+      "language": "Go"
+    },
+    {
+      "name": "vmstore.sparsebundle",
+      "repo": "https://github.com/tmc/vmstore.sparsebundle"
+    },
+    {
+      "name": "ctx",
+      "repo": "https://github.com/tmc/ctx",
+      "language": "Go"
+    },
+    {
+      "name": "vimscripts",
+      "repo": "https://github.com/tmc/vimscripts",
+      "language": "Shell"
+    },
+    {
+      "name": "opentelemetry-instrumentation-mlx",
+      "repo": "https://github.com/tmc/opentelemetry-instrumentation-mlx",
+      "language": "Python"
+    },
+    {
+      "name": "bubbweb",
+      "repo": "https://github.com/tmc/bubbweb",
+      "language": "Go"
+    },
+    {
+      "name": "serve",
+      "repo": "https://github.com/tmc/serve",
+      "language": "Go"
+    },
+    {
+      "name": "mirrors",
+      "repo": "https://github.com/tmc/mirrors",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/tmc/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "clones",
+      "repo": "https://github.com/tmc/clones",
+      "language": "Go"
+    },
+    {
+      "name": "jsfmt",
+      "repo": "https://github.com/tmc/jsfmt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "d4mctl",
+      "repo": "https://github.com/tmc/d4mctl",
+      "language": "Go"
+    },
+    {
+      "name": "righthand",
+      "repo": "https://github.com/tmc/righthand",
+      "language": "Go"
+    },
+    {
+      "name": "osq",
+      "repo": "https://github.com/tmc/osq"
+    },
+    {
+      "name": "gevent-zeromq",
+      "repo": "https://github.com/tmc/gevent-zeromq",
+      "language": "Python"
+    },
+    {
+      "name": "nvcf-go",
+      "repo": "https://github.com/tmc/nvcf-go",
+      "language": "Go"
+    },
+    {
+      "name": "gsm8kutil",
+      "repo": "https://github.com/tmc/gsm8kutil",
+      "language": "Makefile"
+    },
+    {
+      "name": "spinner",
+      "repo": "https://github.com/tmc/spinner",
+      "language": "Go"
+    },
+    {
+      "name": "nvcf",
+      "repo": "https://github.com/tmc/nvcf",
+      "language": "Go"
+    },
+    {
+      "name": "datasets",
+      "repo": "https://github.com/tmc/datasets"
+    },
+    {
+      "name": "kg",
+      "repo": "https://github.com/tmc/kg",
+      "language": "Go"
+    },
+    {
+      "name": "cudalive",
+      "repo": "https://github.com/tmc/cudalive",
+      "url": "https://cudalive.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dot",
+      "repo": "https://github.com/tmc/dot",
+      "language": "Go"
+    },
+    {
+      "name": "nbsim",
+      "repo": "https://github.com/tmc/nbsim",
+      "language": "Go"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/tmc/talks",
+      "language": "Go"
+    },
+    {
+      "name": "presentx",
+      "repo": "https://github.com/tmc/presentx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "langsmithgo",
+      "repo": "https://github.com/tmc/langsmithgo",
+      "language": "Go"
+    },
+    {
+      "name": "smol-dev-go",
+      "repo": "https://github.com/tmc/smol-dev-go",
+      "language": "Go"
+    },
+    {
+      "name": "hackathon-starter",
+      "repo": "https://github.com/tmc/hackathon-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jwtio",
+      "repo": "https://github.com/tmc/jwtio",
+      "language": "Go"
+    },
+    {
+      "name": "worldsim",
+      "repo": "https://github.com/tmc/worldsim",
+      "language": "Go"
+    },
+    {
+      "name": "kg-o",
+      "repo": "https://github.com/tmc/kg-o",
+      "language": "TypeScript"
+    },
+    {
+      "name": "protoc-gen-apidocs",
+      "repo": "https://github.com/tmc/protoc-gen-apidocs",
+      "language": "Go"
+    },
+    {
+      "name": "langgraphgo",
+      "repo": "https://github.com/tmc/langgraphgo",
+      "language": "Go"
+    }
+  ]
+}

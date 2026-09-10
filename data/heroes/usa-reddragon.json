@@ -1,0 +1,511 @@
+{
+  "handle": "usa-reddragon",
+  "name": "Jacob McSwain",
+  "github": [
+    "https://github.com/usa-reddragon"
+  ],
+  "website": "https://jacob.mcswain.dev/",
+  "bio": "Any opinions expressed are my own.",
+  "own_repos": 108,
+  "commits": 11573,
+  "apps": [],
+  "repos": [
+    {
+      "name": "allsky-timelapse-viewer",
+      "repo": "https://github.com/USA-RedDragon/allsky-timelapse-viewer",
+      "language": "Vue"
+    },
+    {
+      "name": "rtz-new-frontend",
+      "repo": "https://github.com/USA-RedDragon/rtz-new-frontend",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mesh-manager",
+      "repo": "https://github.com/USA-RedDragon/mesh-manager",
+      "language": "Go"
+    },
+    {
+      "name": "frankmaes.com",
+      "repo": "https://github.com/USA-RedDragon/frankmaes.com",
+      "language": "Vue"
+    },
+    {
+      "name": "ghcr-tag-sizes",
+      "repo": "https://github.com/USA-RedDragon/ghcr-tag-sizes",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mesonet-timelapse-viewer",
+      "repo": "https://github.com/USA-RedDragon/mesonet-timelapse-viewer",
+      "language": "Vue"
+    },
+    {
+      "name": "dockers",
+      "repo": "https://github.com/USA-RedDragon/dockers",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "home-cluster-flux",
+      "repo": "https://github.com/USA-RedDragon/home-cluster-flux"
+    },
+    {
+      "name": "terraform",
+      "repo": "https://github.com/USA-RedDragon/terraform",
+      "language": "HCL"
+    },
+    {
+      "name": "helm-charts",
+      "repo": "https://github.com/USA-RedDragon/helm-charts",
+      "url": "https://charts.mcswain.dev/",
+      "language": "Shell"
+    },
+    {
+      "name": "ses-email-service",
+      "repo": "https://github.com/USA-RedDragon/ses-email-service",
+      "language": "Python"
+    },
+    {
+      "name": "astro.garden",
+      "repo": "https://github.com/USA-RedDragon/astro.garden",
+      "url": "https://astro.garden",
+      "language": "HTML"
+    },
+    {
+      "name": "astro.garden-images",
+      "repo": "https://github.com/USA-RedDragon/astro.garden-images",
+      "language": "Shell"
+    },
+    {
+      "name": "telegram-notification",
+      "repo": "https://github.com/USA-RedDragon/telegram-notification",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nexrad-aws-notifier",
+      "repo": "https://github.com/USA-RedDragon/nexrad-aws-notifier",
+      "language": "Go"
+    },
+    {
+      "name": "mattermost-android",
+      "repo": "https://github.com/USA-RedDragon/mattermost-android",
+      "url": "https://usa-reddragon.github.io/mattermost-android/repo",
+      "language": "Shell"
+    },
+    {
+      "name": "configulator",
+      "repo": "https://github.com/USA-RedDragon/configulator",
+      "language": "Go"
+    },
+    {
+      "name": "meshtastic-serial-udp",
+      "repo": "https://github.com/USA-RedDragon/meshtastic-serial-udp",
+      "language": "Rust"
+    },
+    {
+      "name": "relink",
+      "repo": "https://github.com/USA-RedDragon/relink",
+      "language": "Go"
+    },
+    {
+      "name": "rustyboi",
+      "repo": "https://github.com/USA-RedDragon/rustyboi",
+      "language": "Rust"
+    },
+    {
+      "name": "obsidibot",
+      "repo": "https://github.com/USA-RedDragon/obsidibot",
+      "language": "Go"
+    },
+    {
+      "name": "kubelogin-android-releases",
+      "repo": "https://github.com/USA-RedDragon/kubelogin-android-releases",
+      "language": "Shell"
+    },
+    {
+      "name": "blikvm",
+      "repo": "https://github.com/USA-RedDragon/blikvm",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "palworld-server",
+      "repo": "https://github.com/USA-RedDragon/palworld-server"
+    },
+    {
+      "name": "pixinsight-worker",
+      "repo": "https://github.com/USA-RedDragon/pixinsight-worker",
+      "language": "Go"
+    },
+    {
+      "name": "DMRHub",
+      "repo": "https://github.com/USA-RedDragon/DMRHub",
+      "language": "Go"
+    },
+    {
+      "name": "metrics-actioner",
+      "repo": "https://github.com/USA-RedDragon/metrics-actioner",
+      "language": "Go"
+    },
+    {
+      "name": "configulator-rs",
+      "repo": "https://github.com/USA-RedDragon/configulator-rs",
+      "url": "https://crates.io/crates/configulator-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "talos-configs",
+      "repo": "https://github.com/USA-RedDragon/talos-configs",
+      "language": "Shell"
+    },
+    {
+      "name": "dart-nexrad-level-ii",
+      "repo": "https://github.com/USA-RedDragon/dart-nexrad-level-ii",
+      "language": "Dart"
+    },
+    {
+      "name": "nws-slack-bot",
+      "repo": "https://github.com/USA-RedDragon/nws-slack-bot",
+      "language": "Python"
+    },
+    {
+      "name": "docker-minecraft",
+      "repo": "https://github.com/USA-RedDragon/docker-minecraft",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "mc-mcswain-dev",
+      "repo": "https://github.com/USA-RedDragon/mc-mcswain-dev",
+      "language": "Vue"
+    },
+    {
+      "name": "SnekSafe",
+      "repo": "https://github.com/USA-RedDragon/SnekSafe"
+    },
+    {
+      "name": "weather-dashboard",
+      "repo": "https://github.com/USA-RedDragon/weather-dashboard",
+      "language": "Vue"
+    },
+    {
+      "name": "terraform-workflow",
+      "repo": "https://github.com/USA-RedDragon/terraform-workflow"
+    },
+    {
+      "name": "kitty-chromecast",
+      "repo": "https://github.com/USA-RedDragon/kitty-chromecast",
+      "language": "Python"
+    },
+    {
+      "name": "esphome-component-meshtastic",
+      "repo": "https://github.com/USA-RedDragon/esphome-component-meshtastic",
+      "language": "C"
+    },
+    {
+      "name": "mqtt-wx-rs",
+      "repo": "https://github.com/USA-RedDragon/mqtt-wx-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "mercury-remote-observatory",
+      "repo": "https://github.com/USA-RedDragon/mercury-remote-observatory",
+      "url": "https://mercury.astro.garden/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-wx",
+      "repo": "https://github.com/USA-RedDragon/mqtt-wx",
+      "language": "Python"
+    },
+    {
+      "name": "http-logger",
+      "repo": "https://github.com/USA-RedDragon/http-logger",
+      "language": "Go"
+    },
+    {
+      "name": "wheresmyscope",
+      "repo": "https://github.com/USA-RedDragon/wheresmyscope",
+      "language": "Go"
+    },
+    {
+      "name": "go-weather",
+      "repo": "https://github.com/USA-RedDragon/go-weather",
+      "language": "Go"
+    },
+    {
+      "name": "dmrgo",
+      "repo": "https://github.com/USA-RedDragon/dmrgo",
+      "language": "Go"
+    },
+    {
+      "name": "md380tools-firmware-mirror",
+      "repo": "https://github.com/USA-RedDragon/md380tools-firmware-mirror",
+      "language": "TypeScript"
+    },
+    {
+      "name": "operato-windrose-panel",
+      "repo": "https://github.com/USA-RedDragon/operato-windrose-panel",
+      "language": "TypeScript"
+    },
+    {
+      "name": "usa-reddragon.github.io",
+      "repo": "https://github.com/USA-RedDragon/usa-reddragon.github.io",
+      "url": "https://mcswain.dev",
+      "language": "CSS"
+    },
+    {
+      "name": "terraform-null-nocode",
+      "repo": "https://github.com/USA-RedDragon/terraform-null-nocode",
+      "language": "HCL"
+    },
+    {
+      "name": "ipsc2mmdvm",
+      "repo": "https://github.com/USA-RedDragon/ipsc2mmdvm",
+      "language": "Go"
+    },
+    {
+      "name": "rlgym-sac",
+      "repo": "https://github.com/USA-RedDragon/rlgym-sac",
+      "language": "Python"
+    },
+    {
+      "name": "astro-processing",
+      "repo": "https://github.com/USA-RedDragon/astro-processing",
+      "language": "Vue"
+    },
+    {
+      "name": "dinner-elo",
+      "repo": "https://github.com/USA-RedDragon/dinner-elo",
+      "language": "Go"
+    },
+    {
+      "name": "kosync",
+      "repo": "https://github.com/USA-RedDragon/kosync",
+      "language": "Go"
+    },
+    {
+      "name": "rgb-fast",
+      "repo": "https://github.com/USA-RedDragon/rgb-fast",
+      "language": "Rust"
+    },
+    {
+      "name": "frontend-template",
+      "repo": "https://github.com/USA-RedDragon/frontend-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "github-backup",
+      "repo": "https://github.com/USA-RedDragon/github-backup"
+    },
+    {
+      "name": "nina-s3-uploader",
+      "repo": "https://github.com/USA-RedDragon/nina-s3-uploader",
+      "language": "Go"
+    },
+    {
+      "name": "rtz-server",
+      "repo": "https://github.com/USA-RedDragon/rtz-server",
+      "language": "Go"
+    },
+    {
+      "name": "rtz-frontend",
+      "repo": "https://github.com/USA-RedDragon/rtz-frontend",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Pi-Star-Binaries-CI",
+      "repo": "https://github.com/USA-RedDragon/Pi-Star-Binaries-CI",
+      "language": "Starlark"
+    },
+    {
+      "name": "trunk-recorder-prometheus",
+      "repo": "https://github.com/USA-RedDragon/trunk-recorder-prometheus",
+      "language": "C++"
+    },
+    {
+      "name": "gitea-mirror",
+      "repo": "https://github.com/USA-RedDragon/gitea-mirror",
+      "language": "Go"
+    },
+    {
+      "name": "pwm-usb-serial-client",
+      "repo": "https://github.com/USA-RedDragon/pwm-usb-serial-client",
+      "language": "Python"
+    },
+    {
+      "name": "rlrl",
+      "repo": "https://github.com/USA-RedDragon/rlrl",
+      "language": "Python"
+    },
+    {
+      "name": "rustyboi-advance",
+      "repo": "https://github.com/USA-RedDragon/rustyboi-advance",
+      "language": "Rust"
+    },
+    {
+      "name": "rustypsx",
+      "repo": "https://github.com/USA-RedDragon/rustypsx",
+      "language": "Rust"
+    },
+    {
+      "name": "renovate-configs",
+      "repo": "https://github.com/USA-RedDragon/renovate-configs"
+    },
+    {
+      "name": "trunk-recorder-soapysdrplay3",
+      "repo": "https://github.com/USA-RedDragon/trunk-recorder-soapysdrplay3",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "reusable-actions",
+      "repo": "https://github.com/USA-RedDragon/reusable-actions",
+      "language": "Shell"
+    },
+    {
+      "name": "arch-packages",
+      "repo": "https://github.com/USA-RedDragon/arch-packages",
+      "language": "Shell"
+    },
+    {
+      "name": "nina2mqtt-plugin",
+      "repo": "https://github.com/USA-RedDragon/nina2mqtt-plugin",
+      "language": "C#"
+    },
+    {
+      "name": "tailscale-acls",
+      "repo": "https://github.com/USA-RedDragon/tailscale-acls"
+    },
+    {
+      "name": "android_kernel_ayn_qcs8550-devicetrees",
+      "repo": "https://github.com/USA-RedDragon/android_kernel_ayn_qcs8550-devicetrees",
+      "language": "Makefile"
+    },
+    {
+      "name": "proprietary_vendor_ayn_odin2thor",
+      "repo": "https://github.com/USA-RedDragon/proprietary_vendor_ayn_odin2thor",
+      "language": "Makefile"
+    },
+    {
+      "name": "proprietary_vendor_ayn_qcs8550-common",
+      "repo": "https://github.com/USA-RedDragon/proprietary_vendor_ayn_qcs8550-common",
+      "language": "Makefile"
+    },
+    {
+      "name": "sudoku",
+      "repo": "https://github.com/USA-RedDragon/sudoku",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-vlmcsd",
+      "repo": "https://github.com/USA-RedDragon/docker-vlmcsd",
+      "language": "C"
+    },
+    {
+      "name": "USA-RedDragon",
+      "repo": "https://github.com/USA-RedDragon/USA-RedDragon"
+    },
+    {
+      "name": "olsrd",
+      "repo": "https://github.com/USA-RedDragon/olsrd",
+      "language": "C"
+    },
+    {
+      "name": "zot-docker-proxy",
+      "repo": "https://github.com/USA-RedDragon/zot-docker-proxy",
+      "url": "https://github.com/project-zot/zot/issues/2928#issuecomment-2641225960",
+      "language": "Go"
+    },
+    {
+      "name": "hisense_ac_esphome",
+      "repo": "https://github.com/USA-RedDragon/hisense_ac_esphome",
+      "language": "C++"
+    },
+    {
+      "name": "pi-zero-fram",
+      "repo": "https://github.com/USA-RedDragon/pi-zero-fram",
+      "language": "Rust"
+    },
+    {
+      "name": "mesh-walker",
+      "repo": "https://github.com/USA-RedDragon/mesh-walker",
+      "language": "Go"
+    },
+    {
+      "name": "babeld",
+      "repo": "https://github.com/USA-RedDragon/babeld",
+      "language": "C"
+    },
+    {
+      "name": "jagex-launcher-linux-flatpak",
+      "repo": "https://github.com/USA-RedDragon/jagex-launcher-linux-flatpak",
+      "language": "YAML"
+    },
+    {
+      "name": "redwall",
+      "repo": "https://github.com/USA-RedDragon/redwall",
+      "language": "Go"
+    },
+    {
+      "name": "palworld-server-docker",
+      "repo": "https://github.com/USA-RedDragon/palworld-server-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "go-gb",
+      "repo": "https://github.com/USA-RedDragon/go-gb",
+      "language": "Go"
+    },
+    {
+      "name": "go-gba",
+      "repo": "https://github.com/USA-RedDragon/go-gba",
+      "language": "Go"
+    },
+    {
+      "name": "mandelbrot",
+      "repo": "https://github.com/USA-RedDragon/mandelbrot",
+      "language": "Go"
+    },
+    {
+      "name": "action-authentik",
+      "repo": "https://github.com/USA-RedDragon/action-authentik"
+    },
+    {
+      "name": "vtun",
+      "repo": "https://github.com/USA-RedDragon/vtun",
+      "language": "C"
+    },
+    {
+      "name": "python-algolab",
+      "repo": "https://github.com/USA-RedDragon/python-algolab",
+      "language": "Python"
+    },
+    {
+      "name": "libfsk",
+      "repo": "https://github.com/USA-RedDragon/libfsk",
+      "language": "C"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/USA-RedDragon/dotfiles"
+    },
+    {
+      "name": "aredn_packages",
+      "repo": "https://github.com/USA-RedDragon/aredn_packages",
+      "language": "Lua"
+    },
+    {
+      "name": "arch-automated-install-iso",
+      "repo": "https://github.com/USA-RedDragon/arch-automated-install-iso",
+      "language": "Shell"
+    },
+    {
+      "name": "arch-packages-keyring",
+      "repo": "https://github.com/USA-RedDragon/arch-packages-keyring",
+      "language": "Shell"
+    },
+    {
+      "name": "weewx-seasons-dark",
+      "repo": "https://github.com/USA-RedDragon/weewx-seasons-dark",
+      "language": "HTML"
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "handle": "entelecheia",
+  "name": "Young Joon Lee",
+  "github": [
+    "https://github.com/entelecheia"
+  ],
+  "website": "https://youngjoon-lee.com/",
+  "bio": "Professor at Cheju Halla University",
+  "own_repos": 155,
+  "commits": 13564,
+  "apps": [],
+  "repos": [
+    {
+      "name": "metrics",
+      "repo": "https://github.com/entelecheia/metrics",
+      "url": "https://entelecheia.me/repositories/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/entelecheia/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "dotfiles-v2",
+      "repo": "https://github.com/entelecheia/dotfiles-v2",
+      "language": "Go"
+    },
+    {
+      "name": "hyperfast-uv-template",
+      "repo": "https://github.com/entelecheia/hyperfast-uv-template",
+      "url": "https://hyperfast-uv.entelecheia.ai/",
+      "language": "Jinja"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/entelecheia/.github"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/entelecheia/dotfiles",
+      "url": "https://dotfiles.entelecheia.ai/",
+      "language": "Shell"
+    },
+    {
+      "name": "entelecheia",
+      "repo": "https://github.com/entelecheia/entelecheia",
+      "url": "https://entelecheia.github.io/entelecheia/",
+      "language": "Go"
+    },
+    {
+      "name": "course-template",
+      "repo": "https://github.com/entelecheia/course-template",
+      "url": "https://entelecheia.github.io/course-template/",
+      "language": "Makefile"
+    },
+    {
+      "name": "dev-containers",
+      "repo": "https://github.com/entelecheia/dev-containers",
+      "language": "Shell"
+    },
+    {
+      "name": "rootfiles-v2",
+      "repo": "https://github.com/entelecheia/rootfiles-v2",
+      "language": "Go"
+    },
+    {
+      "name": "rootfiles",
+      "repo": "https://github.com/entelecheia/rootfiles",
+      "url": "https://rootfiles.entelecheia.ai/",
+      "language": "Shell"
+    },
+    {
+      "name": "hwp-toolkit",
+      "repo": "https://github.com/entelecheia/hwp-toolkit",
+      "language": "Python"
+    },
+    {
+      "name": "uzai-starter-pack",
+      "repo": "https://github.com/entelecheia/uzai-starter-pack",
+      "language": "Python"
+    },
+    {
+      "name": "course-template-i18n",
+      "repo": "https://github.com/entelecheia/course-template-i18n",
+      "url": "https://entelecheia.github.io/course-template-i18n/",
+      "language": "Shell"
+    },
+    {
+      "name": "ros2-container",
+      "repo": "https://github.com/entelecheia/ros2-container",
+      "language": "Shell"
+    },
+    {
+      "name": "deepnlp-2025",
+      "repo": "https://github.com/entelecheia/deepnlp-2025",
+      "url": "https://deepnlp2025.jeju.ai/",
+      "language": "CSS"
+    },
+    {
+      "name": "gdelt-climaterisk",
+      "repo": "https://github.com/entelecheia/gdelt-climaterisk",
+      "language": "Shell"
+    },
+    {
+      "name": "hyperfast-course-template",
+      "repo": "https://github.com/entelecheia/hyperfast-course-template",
+      "url": "https://hypercourse.entelecheia.ai/",
+      "language": "Jinja"
+    },
+    {
+      "name": "hyfi-absa",
+      "repo": "https://github.com/entelecheia/hyfi-absa",
+      "url": "https://hyfi-absa.entelecheia.ai/",
+      "language": "Python"
+    },
+    {
+      "name": "aibasics",
+      "repo": "https://github.com/entelecheia/aibasics",
+      "url": "https://aibasics.jeju.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "lexikanon",
+      "repo": "https://github.com/entelecheia/lexikanon",
+      "url": "https://lexikanon.entelecheia.ai/",
+      "language": "Python"
+    },
+    {
+      "name": "hyperfast-python-template",
+      "repo": "https://github.com/entelecheia/hyperfast-python-template",
+      "url": "https://hyperfast-python.entelecheia.ai/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ollama-container",
+      "repo": "https://github.com/entelecheia/ollama-container",
+      "language": "Shell"
+    },
+    {
+      "name": "hyperfast-docker-template",
+      "repo": "https://github.com/entelecheia/hyperfast-docker-template",
+      "url": "https://hyperfast-docker.entelecheia.ai/",
+      "language": "Jinja"
+    },
+    {
+      "name": "eKoNLPy",
+      "repo": "https://github.com/entelecheia/eKoNLPy",
+      "url": "https://ekonlpy.entelecheia.ai",
+      "language": "Python"
+    },
+    {
+      "name": "dockerfiles",
+      "repo": "https://github.com/entelecheia/dockerfiles",
+      "url": "https://dockerfiles.entelecheia.ai/",
+      "language": "Shell"
+    },
+    {
+      "name": "hyperfast-template",
+      "repo": "https://github.com/entelecheia/hyperfast-template",
+      "url": "https://hyperfast-template.entelecheia.ai/",
+      "language": "Jinja"
+    },
+    {
+      "name": "hyfi-fetcher",
+      "repo": "https://github.com/entelecheia/hyfi-fetcher",
+      "url": "https://hyfi-fetcher.entelecheia.ai/",
+      "language": "Python"
+    },
+    {
+      "name": "hyfi-ml",
+      "repo": "https://github.com/entelecheia/hyfi-ml",
+      "url": "https://hyfi-ml.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "esg-coverage",
+      "repo": "https://github.com/entelecheia/esg-coverage",
+      "url": "https://esg-coverage.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "super-duper-waddle",
+      "repo": "https://github.com/entelecheia/super-duper-waddle",
+      "url": "https://entelecheia.github.io/super-duper-waddle/",
+      "language": "Makefile"
+    },
+    {
+      "name": "hyfi",
+      "repo": "https://github.com/entelecheia/hyfi",
+      "url": "https://hyfi.entelecheia.ai/",
+      "language": "Python"
+    },
+    {
+      "name": "care-demo",
+      "repo": "https://github.com/entelecheia/care-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "repdex",
+      "repo": "https://github.com/entelecheia/repdex",
+      "language": "Python"
+    },
+    {
+      "name": "nlp4ss",
+      "repo": "https://github.com/entelecheia/nlp4ss",
+      "url": "https://nlp4ss.jeju.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "llama-factory-container",
+      "repo": "https://github.com/entelecheia/llama-factory-container",
+      "language": "Shell"
+    },
+    {
+      "name": "bis-fetcher",
+      "repo": "https://github.com/entelecheia/bis-fetcher",
+      "url": "https://entelecheia.github.io/bis-fetcher/",
+      "language": "Python"
+    },
+    {
+      "name": "cop-decoder",
+      "repo": "https://github.com/entelecheia/cop-decoder",
+      "language": "Python"
+    },
+    {
+      "name": "nbcpu",
+      "repo": "https://github.com/entelecheia/nbcpu",
+      "url": "https://nbcpu.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "corporate-reputation",
+      "repo": "https://github.com/entelecheia/corporate-reputation",
+      "url": "https://corporate-reputation.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "hyfi-template",
+      "repo": "https://github.com/entelecheia/hyfi-template",
+      "url": "https://hyfi-template.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "hyfi-ros",
+      "repo": "https://github.com/entelecheia/hyfi-ros",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "sierraclub",
+      "repo": "https://github.com/entelecheia/sierraclub",
+      "url": "https://sierra.entelecheia.ai/",
+      "language": "Python"
+    },
+    {
+      "name": "uv-template",
+      "repo": "https://github.com/entelecheia/uv-template",
+      "language": "Python"
+    },
+    {
+      "name": "intronlp-2024",
+      "repo": "https://github.com/entelecheia/intronlp-2024",
+      "url": "https://nlp2024.jeju.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "ragflow-container",
+      "repo": "https://github.com/entelecheia/ragflow-container",
+      "url": "https://github.com/infiniflow/ragflow",
+      "language": "Makefile"
+    },
+    {
+      "name": "LibreChat-container",
+      "repo": "https://github.com/entelecheia/LibreChat-container"
+    },
+    {
+      "name": "vllm-container",
+      "repo": "https://github.com/entelecheia/vllm-container",
+      "language": "Shell"
+    },
+    {
+      "name": "argilla-container",
+      "repo": "https://github.com/entelecheia/argilla-container"
+    },
+    {
+      "name": "label-studio-container",
+      "repo": "https://github.com/entelecheia/label-studio-container",
+      "url": "https://labelstudio.entelecheia.app",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "invokeai-container",
+      "repo": "https://github.com/entelecheia/invokeai-container",
+      "language": "Shell"
+    },
+    {
+      "name": "deepnlp-2024",
+      "repo": "https://github.com/entelecheia/deepnlp-2024",
+      "url": "https://deepnlp2024.jeju.ai/",
+      "language": "Shell"
+    },
+    {
+      "name": "rompot-schedio",
+      "repo": "https://github.com/entelecheia/rompot-schedio",
+      "url": "https://rompot-schedio.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "fabric-workspace",
+      "repo": "https://github.com/entelecheia/fabric-workspace"
+    },
+    {
+      "name": "openllm-container",
+      "repo": "https://github.com/entelecheia/openllm-container",
+      "language": "Shell"
+    },
+    {
+      "name": "TensorRT-LLM-container",
+      "repo": "https://github.com/entelecheia/TensorRT-LLM-container",
+      "language": "Shell"
+    },
+    {
+      "name": "hyfi-ai",
+      "repo": "https://github.com/entelecheia/hyfi-ai"
+    },
+    {
+      "name": "hyfi-lpg",
+      "repo": "https://github.com/entelecheia/hyfi-lpg",
+      "url": "https://hyfi-lpg.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "os-containers",
+      "repo": "https://github.com/entelecheia/os-containers"
+    },
+    {
+      "name": "DTIGE",
+      "repo": "https://github.com/entelecheia/DTIGE",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "thematos",
+      "repo": "https://github.com/entelecheia/thematos",
+      "url": "https://thematos.entelecheia.ai/",
+      "language": "Python"
+    },
+    {
+      "name": "ekaros",
+      "repo": "https://github.com/entelecheia/ekaros",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "hyfi-chain",
+      "repo": "https://github.com/entelecheia/hyfi-chain",
+      "url": "https://hyfi-chain.entelecheia.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "transformer-explainer-container",
+      "repo": "https://github.com/entelecheia/transformer-explainer-container"
+    },
+    {
+      "name": "lingua-container",
+      "repo": "https://github.com/entelecheia/lingua-container"
+    },
+    {
+      "name": "gpu-monitoring-container",
+      "repo": "https://github.com/entelecheia/gpu-monitoring-container",
+      "language": "Shell"
+    },
+    {
+      "name": "megatron-lm-container",
+      "repo": "https://github.com/entelecheia/megatron-lm-container"
+    },
+    {
+      "name": "unity-ai-lab",
+      "repo": "https://github.com/entelecheia/unity-ai-lab"
+    },
+    {
+      "name": "multimodal-ai-lab",
+      "repo": "https://github.com/entelecheia/multimodal-ai-lab"
+    },
+    {
+      "name": "stupid-math",
+      "repo": "https://github.com/entelecheia/stupid-math",
+      "language": "Python"
+    },
+    {
+      "name": "crawl4ai-container",
+      "repo": "https://github.com/entelecheia/crawl4ai-container"
+    },
+    {
+      "name": "nim-deploy",
+      "repo": "https://github.com/entelecheia/nim-deploy",
+      "language": "Shell"
+    },
+    {
+      "name": "nim-container",
+      "repo": "https://github.com/entelecheia/nim-container"
+    },
+    {
+      "name": "python-template",
+      "repo": "https://github.com/entelecheia/python-template"
+    },
+    {
+      "name": "docker-template",
+      "repo": "https://github.com/entelecheia/docker-template"
+    },
+    {
+      "name": "triton-inference-server-container",
+      "repo": "https://github.com/entelecheia/triton-inference-server-container"
+    },
+    {
+      "name": "lecture-synth",
+      "repo": "https://github.com/entelecheia/lecture-synth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "os-2024",
+      "repo": "https://github.com/entelecheia/os-2024",
+      "url": "https://os2024.jeju.ai/",
+      "language": "Python"
+    },
+    {
+      "name": "cobots-2024",
+      "repo": "https://github.com/entelecheia/cobots-2024",
+      "url": "https://cobots2024.jeju.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "mlops-2024",
+      "repo": "https://github.com/entelecheia/mlops-2024",
+      "url": "https://mlops2024.jeju.ai/",
+      "language": "Python"
+    },
+    {
+      "name": ".redirect",
+      "repo": "https://github.com/entelecheia/.redirect",
+      "url": "https://entelecheia.github.io/.redirect/"
+    },
+    {
+      "name": "perplexica-container",
+      "repo": "https://github.com/entelecheia/perplexica-container"
+    },
+    {
+      "name": "autotrain-container",
+      "repo": "https://github.com/entelecheia/autotrain-container"
+    },
+    {
+      "name": "entelecheia-lecture-bot",
+      "repo": "https://github.com/entelecheia/entelecheia-lecture-bot",
+      "url": "https://lecture-bot.entelecheia.ai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dsecon-2023",
+      "repo": "https://github.com/entelecheia/dsecon-2023",
+      "url": "https://dsecon-2023.halla.ai/",
+      "language": "Makefile"
+    },
+    {
+      "name": "softeng-2023",
+      "repo": "https://github.com/entelecheia/softeng-2023",
+      "url": "https://softeng-2023.halla.ai/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "deepnlp-2023",
+      "repo": "https://github.com/entelecheia/deepnlp-2023",
+      "url": "https://deepnlp-2023.halla.ai/",
+      "language": "Shell"
+    },
+    {
+      "name": "txtgen-webui-container",
+      "repo": "https://github.com/entelecheia/txtgen-webui-container",
+      "language": "Shell"
+    },
+    {
+      "name": "bionic-gpt-pods",
+      "repo": "https://github.com/entelecheia/bionic-gpt-pods",
+      "language": "Shell"
+    },
+    {
+      "name": "hyfi-parse",
+      "repo": "https://github.com/entelecheia/hyfi-parse"
+    },
+    {
+      "name": "mmh3d-mpl",
+      "repo": "https://github.com/entelecheia/mmh3d-mpl"
+    },
+    {
+      "name": "agentgpt-container",
+      "repo": "https://github.com/entelecheia/agentgpt-container",
+      "language": "Shell"
+    },
+    {
+      "name": "gpt-researcher-container",
+      "repo": "https://github.com/entelecheia/gpt-researcher-container"
+    },
+    {
+      "name": "anything-llm-container",
+      "repo": "https://github.com/entelecheia/anything-llm-container",
+      "language": "Shell"
+    },
+    {
+      "name": "open-webui-container",
+      "repo": "https://github.com/entelecheia/open-webui-container",
+      "url": "https://chat.entelecheia.app",
+      "language": "Shell"
+    },
+    {
+      "name": "chat-proxy",
+      "repo": "https://github.com/entelecheia/chat-proxy"
+    },
+    {
+      "name": "lit-container",
+      "repo": "https://github.com/entelecheia/lit-container"
+    },
+    {
+      "name": "cobot-basics",
+      "repo": "https://github.com/entelecheia/cobot-basics"
+    },
+    {
+      "name": "khoj-container",
+      "repo": "https://github.com/entelecheia/khoj-container"
+    },
+    {
+      "name": "lobe-chat-container",
+      "repo": "https://github.com/entelecheia/lobe-chat-container"
+    }
+  ]
+}

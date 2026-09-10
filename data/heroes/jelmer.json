@@ -1,0 +1,511 @@
+{
+  "handle": "jelmer",
+  "name": "Jelmer Vernooij",
+  "github": [
+    "https://github.com/jelmer"
+  ],
+  "website": "https://www.jelmer.uk/",
+  "own_repos": 109,
+  "commits": 36329,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dulwich",
+      "repo": "https://github.com/jelmer/dulwich",
+      "url": "https://www.dulwich.io/",
+      "language": "Python"
+    },
+    {
+      "name": "xandikos",
+      "repo": "https://github.com/jelmer/xandikos",
+      "url": "https://www.xandikos.org/",
+      "language": "Python"
+    },
+    {
+      "name": "prometheus-xmpp-alerts",
+      "repo": "https://github.com/jelmer/prometheus-xmpp-alerts",
+      "language": "Python"
+    },
+    {
+      "name": "yaml-edit",
+      "repo": "https://github.com/jelmer/yaml-edit",
+      "language": "Rust"
+    },
+    {
+      "name": "sftp-rs",
+      "repo": "https://github.com/jelmer/sftp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "homeassistant-thameswater",
+      "repo": "https://github.com/jelmer/homeassistant-thameswater",
+      "language": "Python"
+    },
+    {
+      "name": "mailsift-extractors",
+      "repo": "https://github.com/jelmer/mailsift-extractors",
+      "language": "Python"
+    },
+    {
+      "name": "subvertpy",
+      "repo": "https://github.com/jelmer/subvertpy",
+      "url": "https://jelmer.uk/code/subvertpy",
+      "language": "Python"
+    },
+    {
+      "name": "launchpadlib-rs",
+      "repo": "https://github.com/jelmer/launchpadlib-rs",
+      "url": "https://docs.rs/launchpadlib",
+      "language": "Rust"
+    },
+    {
+      "name": "mailsift",
+      "repo": "https://github.com/jelmer/mailsift",
+      "language": "Rust"
+    },
+    {
+      "name": "debian-parsers",
+      "repo": "https://github.com/jelmer/debian-parsers",
+      "language": "Rust"
+    },
+    {
+      "name": "thameswaterapi",
+      "repo": "https://github.com/jelmer/thameswaterapi",
+      "language": "Python"
+    },
+    {
+      "name": "inquest",
+      "repo": "https://github.com/jelmer/inquest",
+      "language": "Rust"
+    },
+    {
+      "name": "upstream-ontologist-py",
+      "repo": "https://github.com/jelmer/upstream-ontologist-py",
+      "language": "Rust"
+    },
+    {
+      "name": "ognibuild",
+      "repo": "https://github.com/jelmer/ognibuild",
+      "language": "Rust"
+    },
+    {
+      "name": "debian-lsp",
+      "repo": "https://github.com/jelmer/debian-lsp",
+      "language": "Rust"
+    },
+    {
+      "name": "upstream-ontologist",
+      "repo": "https://github.com/jelmer/upstream-ontologist",
+      "language": "Rust"
+    },
+    {
+      "name": "wadl",
+      "repo": "https://github.com/jelmer/wadl",
+      "language": "Rust"
+    },
+    {
+      "name": "valhalla-client-rs",
+      "repo": "https://github.com/jelmer/valhalla-client-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "homeassistant-intervalsicu",
+      "repo": "https://github.com/jelmer/homeassistant-intervalsicu",
+      "language": "Python"
+    },
+    {
+      "name": "ultrascip",
+      "repo": "https://github.com/jelmer/ultrascip",
+      "language": "Rust"
+    },
+    {
+      "name": "debian-codegraph-client",
+      "repo": "https://github.com/jelmer/debian-codegraph-client",
+      "language": "Rust"
+    },
+    {
+      "name": "yaml-edit-py",
+      "repo": "https://github.com/jelmer/yaml-edit-py",
+      "language": "Rust"
+    },
+    {
+      "name": "scip-po",
+      "repo": "https://github.com/jelmer/scip-po",
+      "language": "Rust"
+    },
+    {
+      "name": "subversion-rs",
+      "repo": "https://github.com/jelmer/subversion-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "buildlog-consultant",
+      "repo": "https://github.com/jelmer/buildlog-consultant",
+      "url": "https://jelmer.uk/code/buildlog-consultant",
+      "language": "Rust"
+    },
+    {
+      "name": "setuptools-protobuf",
+      "repo": "https://github.com/jelmer/setuptools-protobuf",
+      "language": "Python"
+    },
+    {
+      "name": "debian-workbench",
+      "repo": "https://github.com/jelmer/debian-workbench",
+      "language": "Rust"
+    },
+    {
+      "name": "makefile-lsp",
+      "repo": "https://github.com/jelmer/makefile-lsp",
+      "language": "Rust"
+    },
+    {
+      "name": "ctrlproxy",
+      "repo": "https://github.com/jelmer/ctrlproxy",
+      "language": "C"
+    },
+    {
+      "name": "tdb-rs",
+      "repo": "https://github.com/jelmer/tdb-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "isso-rs",
+      "repo": "https://github.com/jelmer/isso-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "r-description-rs",
+      "repo": "https://github.com/jelmer/r-description-rs",
+      "url": "https://docs.rs/r-description",
+      "language": "Rust"
+    },
+    {
+      "name": "makefile-lossless",
+      "repo": "https://github.com/jelmer/makefile-lossless",
+      "language": "Rust"
+    },
+    {
+      "name": "iptable-rs",
+      "repo": "https://github.com/jelmer/iptable-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-subunit",
+      "repo": "https://github.com/jelmer/cargo-subunit",
+      "language": "Rust"
+    },
+    {
+      "name": "pyo3-filelike",
+      "repo": "https://github.com/jelmer/pyo3-filelike",
+      "language": "Rust"
+    },
+    {
+      "name": "scip-perl",
+      "repo": "https://github.com/jelmer/scip-perl",
+      "language": "Rust"
+    },
+    {
+      "name": "subunit-perl",
+      "repo": "https://github.com/jelmer/subunit-perl",
+      "language": "Perl"
+    },
+    {
+      "name": "debian-codemods",
+      "repo": "https://github.com/jelmer/debian-codemods",
+      "language": "Rust"
+    },
+    {
+      "name": "silver-platter",
+      "repo": "https://github.com/jelmer/silver-platter",
+      "url": "https://jelmer.uk/code/silver-platter",
+      "language": "Rust"
+    },
+    {
+      "name": "python-fastimport",
+      "repo": "https://github.com/jelmer/python-fastimport",
+      "language": "Python"
+    },
+    {
+      "name": "scip-vala",
+      "repo": "https://github.com/jelmer/scip-vala",
+      "language": "Rust"
+    },
+    {
+      "name": "vala-rs",
+      "repo": "https://github.com/jelmer/vala-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "scip-python-rs",
+      "repo": "https://github.com/jelmer/scip-python-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "dissolve",
+      "repo": "https://github.com/jelmer/dissolve",
+      "language": "Rust"
+    },
+    {
+      "name": "junit-subunit",
+      "repo": "https://github.com/jelmer/junit-subunit",
+      "language": "Java"
+    },
+    {
+      "name": "scip-tools",
+      "repo": "https://github.com/jelmer/scip-tools",
+      "language": "Rust"
+    },
+    {
+      "name": "homeassistant-o2uk",
+      "repo": "https://github.com/jelmer/homeassistant-o2uk",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-karrio",
+      "repo": "https://github.com/jelmer/homeassistant-karrio",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "disperse",
+      "repo": "https://github.com/jelmer/disperse",
+      "language": "Rust"
+    },
+    {
+      "name": "dirty-tracker-rs",
+      "repo": "https://github.com/jelmer/dirty-tracker-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "scip-shell",
+      "repo": "https://github.com/jelmer/scip-shell",
+      "language": "Rust"
+    },
+    {
+      "name": "debversion-rs",
+      "repo": "https://github.com/jelmer/debversion-rs"
+    },
+    {
+      "name": "diff-lsp",
+      "repo": "https://github.com/jelmer/diff-lsp",
+      "language": "Rust"
+    },
+    {
+      "name": "homeassistant-erbium",
+      "repo": "https://github.com/jelmer/homeassistant-erbium",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dulwich-tests",
+      "repo": "https://github.com/jelmer/dulwich-tests",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-switch2",
+      "repo": "https://github.com/jelmer/homeassistant-switch2",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-simyo",
+      "repo": "https://github.com/jelmer/homeassistant-simyo",
+      "language": "Python"
+    },
+    {
+      "name": "python-switch2",
+      "repo": "https://github.com/jelmer/python-switch2",
+      "language": "Python"
+    },
+    {
+      "name": "systemd-unit-edit",
+      "repo": "https://github.com/jelmer/systemd-unit-edit",
+      "language": "Rust"
+    },
+    {
+      "name": "desktop-edit-rs",
+      "repo": "https://github.com/jelmer/desktop-edit-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "debian-changelog-rs",
+      "repo": "https://github.com/jelmer/debian-changelog-rs"
+    },
+    {
+      "name": "lintian-overrides-rs",
+      "repo": "https://github.com/jelmer/lintian-overrides-rs"
+    },
+    {
+      "name": "debian-watch-rs",
+      "repo": "https://github.com/jelmer/debian-watch-rs"
+    },
+    {
+      "name": "jelmer",
+      "repo": "https://github.com/jelmer/jelmer"
+    },
+    {
+      "name": "ognibuild-py",
+      "repo": "https://github.com/jelmer/ognibuild-py"
+    },
+    {
+      "name": "debbugs-rs",
+      "repo": "https://github.com/jelmer/debbugs-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "debmutate",
+      "repo": "https://github.com/jelmer/debmutate",
+      "language": "Python"
+    },
+    {
+      "name": "ridewithgps-rs",
+      "repo": "https://github.com/jelmer/ridewithgps-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "launchpad",
+      "repo": "https://github.com/jelmer/launchpad",
+      "language": "Python"
+    },
+    {
+      "name": "pristine-tar-rs",
+      "repo": "https://github.com/jelmer/pristine-tar-rs"
+    },
+    {
+      "name": "meliae",
+      "repo": "https://github.com/jelmer/meliae",
+      "language": "Python"
+    },
+    {
+      "name": "lptools",
+      "repo": "https://github.com/jelmer/lptools",
+      "language": "Python"
+    },
+    {
+      "name": "python-debian",
+      "repo": "https://github.com/jelmer/python-debian",
+      "url": "https://salsa.debian.org/python-debian-team/python-debian",
+      "language": "Python"
+    },
+    {
+      "name": "icalendar-edit",
+      "repo": "https://github.com/jelmer/icalendar-edit"
+    },
+    {
+      "name": "ptabtools",
+      "repo": "https://github.com/jelmer/ptabtools",
+      "language": "C"
+    },
+    {
+      "name": "litegpodder",
+      "repo": "https://github.com/jelmer/litegpodder",
+      "language": "Python"
+    },
+    {
+      "name": "debcargo",
+      "repo": "https://github.com/jelmer/debcargo",
+      "language": "Rust"
+    },
+    {
+      "name": "prometheus-splitwise-exporter",
+      "repo": "https://github.com/jelmer/prometheus-splitwise-exporter",
+      "language": "Python"
+    },
+    {
+      "name": "redirect-webfinger",
+      "repo": "https://github.com/jelmer/redirect-webfinger",
+      "language": "Python"
+    },
+    {
+      "name": "pdbsql",
+      "repo": "https://github.com/jelmer/pdbsql",
+      "language": "C"
+    },
+    {
+      "name": "gitpodder",
+      "repo": "https://github.com/jelmer/gitpodder"
+    },
+    {
+      "name": "dulwich-homepage",
+      "repo": "https://github.com/jelmer/dulwich-homepage",
+      "language": "Makefile"
+    },
+    {
+      "name": "janitor-operator",
+      "repo": "https://github.com/jelmer/janitor-operator",
+      "language": "Go"
+    },
+    {
+      "name": "docker-krb5",
+      "repo": "https://github.com/jelmer/docker-krb5",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ftdi-cil",
+      "repo": "https://github.com/jelmer/ftdi-cil",
+      "language": "C#"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/jelmer/test"
+    },
+    {
+      "name": "dystros",
+      "repo": "https://github.com/jelmer/dystros",
+      "url": "https://jelmer.uk/code/dystros",
+      "language": "Python"
+    },
+    {
+      "name": "libjreen",
+      "repo": "https://github.com/jelmer/libjreen",
+      "language": "C++"
+    },
+    {
+      "name": "nagios-mit-krb5",
+      "repo": "https://github.com/jelmer/nagios-mit-krb5",
+      "language": "Python"
+    },
+    {
+      "name": "pam-krb5-migrate",
+      "repo": "https://github.com/jelmer/pam-krb5-migrate",
+      "language": "C"
+    },
+    {
+      "name": "nagios-heimdal",
+      "repo": "https://github.com/jelmer/nagios-heimdal",
+      "language": "Python"
+    },
+    {
+      "name": "swarm",
+      "repo": "https://github.com/jelmer/swarm"
+    },
+    {
+      "name": "build-farm",
+      "repo": "https://github.com/jelmer/build-farm",
+      "language": "Python"
+    },
+    {
+      "name": "bzr-gtk",
+      "repo": "https://github.com/jelmer/bzr-gtk",
+      "language": "Python"
+    },
+    {
+      "name": "bzr-rewrite",
+      "repo": "https://github.com/jelmer/bzr-rewrite",
+      "language": "Python"
+    },
+    {
+      "name": "tdb-hs",
+      "repo": "https://github.com/jelmer/tdb-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "sope-debian",
+      "repo": "https://github.com/jelmer/sope-debian",
+      "language": "Objective-C"
+    },
+    {
+      "name": "samba-gtk",
+      "repo": "https://github.com/jelmer/samba-gtk",
+      "language": "Python"
+    }
+  ]
+}
