@@ -1,0 +1,570 @@
+{
+  "handle": "sarmkadan",
+  "name": "Vladyslav Zaiets",
+  "github": [
+    "https://github.com/sarmkadan"
+  ],
+  "website": "https://sarmkadan.com/",
+  "bio": "Software Architect | .NET, distributed systems, real-time platforms | 50+ open-source projects",
+  "own_repos": 166,
+  "commits": 33010,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ffmpeg-dotnet-wrapper",
+      "repo": "https://github.com/Sarmkadan/ffmpeg-dotnet-wrapper",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-job-scheduler",
+      "repo": "https://github.com/Sarmkadan/dotnet-job-scheduler",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "naudio-visualizer",
+      "repo": "https://github.com/Sarmkadan/naudio-visualizer",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "aspnet-spa-template",
+      "repo": "https://github.com/Sarmkadan/aspnet-spa-template",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "redis-cache-patterns",
+      "repo": "https://github.com/Sarmkadan/redis-cache-patterns",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-plugin-engine",
+      "repo": "https://github.com/Sarmkadan/dotnet-plugin-engine",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-resilience-pipeline",
+      "repo": "https://github.com/Sarmkadan/dotnet-resilience-pipeline",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-realtime-pipeline",
+      "repo": "https://github.com/Sarmkadan/dotnet-realtime-pipeline",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "grpc-web-bridge",
+      "repo": "https://github.com/Sarmkadan/grpc-web-bridge",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "sqlite-multi-tenant",
+      "repo": "https://github.com/Sarmkadan/sqlite-multi-tenant",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "godot-mcp",
+      "repo": "https://github.com/Sarmkadan/godot-mcp",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-sqlite-crud-generator",
+      "repo": "https://github.com/Sarmkadan/dotnet-sqlite-crud-generator",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "signalr-map-realtime",
+      "repo": "https://github.com/Sarmkadan/signalr-map-realtime",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "blazor-component-library",
+      "repo": "https://github.com/Sarmkadan/blazor-component-library",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "binance-p2p-monitor",
+      "repo": "https://github.com/Sarmkadan/binance-p2p-monitor",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "skiasharp-chart-engine",
+      "repo": "https://github.com/Sarmkadan/skiasharp-chart-engine",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "caddy-vps-toolkit",
+      "repo": "https://github.com/Sarmkadan/caddy-vps-toolkit",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-tenant-isolation",
+      "repo": "https://github.com/Sarmkadan/dotnet-tenant-isolation",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "api-key-gateway",
+      "repo": "https://github.com/Sarmkadan/api-key-gateway",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "lepus-connect",
+      "repo": "https://github.com/Sarmkadan/lepus-connect",
+      "language": "HTML"
+    },
+    {
+      "name": "lepus-mcp",
+      "repo": "https://github.com/Sarmkadan/lepus-mcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotnet-distributed-lock",
+      "repo": "https://github.com/Sarmkadan/dotnet-distributed-lock",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "coolify-cli",
+      "repo": "https://github.com/Sarmkadan/coolify-cli",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "systemd-service-monitor",
+      "repo": "https://github.com/Sarmkadan/systemd-service-monitor",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-micro-orm",
+      "repo": "https://github.com/Sarmkadan/dotnet-micro-orm",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "php-checkapi",
+      "repo": "https://github.com/Sarmkadan/php-checkapi",
+      "url": "https://check.sarmkadan.com",
+      "language": "PHP"
+    },
+    {
+      "name": "go-checkapi",
+      "repo": "https://github.com/Sarmkadan/go-checkapi",
+      "url": "https://check.sarmkadan.com",
+      "language": "Go"
+    },
+    {
+      "name": "java-checkapi",
+      "repo": "https://github.com/Sarmkadan/java-checkapi",
+      "url": "https://check.sarmkadan.com",
+      "language": "Java"
+    },
+    {
+      "name": "csharp-checkapi",
+      "repo": "https://github.com/Sarmkadan/csharp-checkapi",
+      "url": "https://check.sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "node-checkapi",
+      "repo": "https://github.com/Sarmkadan/node-checkapi",
+      "url": "https://check.sarmkadan.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-checkapi",
+      "repo": "https://github.com/Sarmkadan/python-checkapi",
+      "url": "https://check.sarmkadan.com",
+      "language": "Python"
+    },
+    {
+      "name": "docker-sqlite-backup",
+      "repo": "https://github.com/Sarmkadan/docker-sqlite-backup",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "telegram-bot-framework-dotnet",
+      "repo": "https://github.com/Sarmkadan/telegram-bot-framework-dotnet",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-service-scaffold",
+      "repo": "https://github.com/Sarmkadan/dotnet-service-scaffold",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "vst-host-lite",
+      "repo": "https://github.com/Sarmkadan/vst-host-lite",
+      "language": "C#"
+    },
+    {
+      "name": "sql-query-analyzer",
+      "repo": "https://github.com/Sarmkadan/sql-query-analyzer",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "sql-migration-lint",
+      "repo": "https://github.com/Sarmkadan/sql-migration-lint",
+      "language": "C#"
+    },
+    {
+      "name": "spectral-denoise",
+      "repo": "https://github.com/Sarmkadan/spectral-denoise",
+      "language": "C#"
+    },
+    {
+      "name": "skill-guard",
+      "repo": "https://github.com/Sarmkadan/skill-guard",
+      "language": "C#"
+    },
+    {
+      "name": "skia-scope",
+      "repo": "https://github.com/Sarmkadan/skia-scope",
+      "language": "C#"
+    },
+    {
+      "name": "skia-flame-graph",
+      "repo": "https://github.com/Sarmkadan/skia-flame-graph",
+      "language": "C#"
+    },
+    {
+      "name": "roslyn-guard-analyzer",
+      "repo": "https://github.com/Sarmkadan/roslyn-guard-analyzer",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "officeforge",
+      "repo": "https://github.com/Sarmkadan/officeforge",
+      "language": "C#"
+    },
+    {
+      "name": "jira-analytics-cli",
+      "repo": "https://github.com/Sarmkadan/jira-analytics-cli",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "mcp-sqlite-explorer",
+      "repo": "https://github.com/Sarmkadan/mcp-sqlite-explorer",
+      "language": "C#"
+    },
+    {
+      "name": "healthdata-export-tools",
+      "repo": "https://github.com/Sarmkadan/healthdata-export-tools",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "gpu-particle-sandbox",
+      "repo": "https://github.com/Sarmkadan/gpu-particle-sandbox",
+      "language": "C#"
+    },
+    {
+      "name": "ffmpeg-fluent",
+      "repo": "https://github.com/Sarmkadan/ffmpeg-fluent",
+      "language": "C#"
+    },
+    {
+      "name": "gps-tracker-protocol",
+      "repo": "https://github.com/Sarmkadan/gps-tracker-protocol",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-senior-skills",
+      "repo": "https://github.com/Sarmkadan/dotnet-senior-skills",
+      "language": "Python"
+    },
+    {
+      "name": "ef-migration-diff",
+      "repo": "https://github.com/Sarmkadan/ef-migration-diff",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "efcore-slow-query-log",
+      "repo": "https://github.com/Sarmkadan/efcore-slow-query-log",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-api-gateway",
+      "repo": "https://github.com/Sarmkadan/dotnet-api-gateway",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-actor-framework",
+      "repo": "https://github.com/Sarmkadan/dotnet-actor-framework",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "coub-downloader",
+      "repo": "https://github.com/Sarmkadan/coub-downloader",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "conn-string-doctor",
+      "repo": "https://github.com/Sarmkadan/conn-string-doctor",
+      "language": "C#"
+    },
+    {
+      "name": "appsettings-diff",
+      "repo": "https://github.com/Sarmkadan/appsettings-diff",
+      "language": "C#"
+    },
+    {
+      "name": "youtube-shorts-automator",
+      "repo": "https://github.com/Sarmkadan/youtube-shorts-automator",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "naudio-effects",
+      "repo": "https://github.com/Sarmkadan/naudio-effects",
+      "language": "C#"
+    },
+    {
+      "name": "marketplace-engine",
+      "repo": "https://github.com/Sarmkadan/marketplace-engine",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "efcore-mcp",
+      "repo": "https://github.com/Sarmkadan/efcore-mcp",
+      "language": "C#"
+    },
+    {
+      "name": "efcore-nplus1-guard",
+      "repo": "https://github.com/Sarmkadan/efcore-nplus1-guard",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-secrets-scan",
+      "repo": "https://github.com/Sarmkadan/dotnet-secrets-scan",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-grpc-gateway",
+      "repo": "https://github.com/Sarmkadan/dotnet-grpc-gateway",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-outbox-pattern",
+      "repo": "https://github.com/Sarmkadan/dotnet-outbox-pattern",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-migration-safety",
+      "repo": "https://github.com/Sarmkadan/dotnet-migration-safety",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-cqrs-eventsourcing",
+      "repo": "https://github.com/Sarmkadan/dotnet-cqrs-eventsourcing",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-config-server",
+      "repo": "https://github.com/Sarmkadan/dotnet-config-server",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-json-diff",
+      "repo": "https://github.com/Sarmkadan/dotnet-json-diff",
+      "language": "C#"
+    },
+    {
+      "name": "naudio-loudness-meter",
+      "repo": "https://github.com/Sarmkadan/naudio-loudness-meter",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-feature-flags",
+      "repo": "https://github.com/Sarmkadan/dotnet-feature-flags",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-event-bus",
+      "repo": "https://github.com/Sarmkadan/dotnet-event-bus",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-workflow-engine",
+      "repo": "https://github.com/Sarmkadan/dotnet-workflow-engine",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-deploy-notify",
+      "repo": "https://github.com/Sarmkadan/dotnet-deploy-notify",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "sql-index-advisor",
+      "repo": "https://github.com/Sarmkadan/sql-index-advisor",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-auth-server",
+      "repo": "https://github.com/Sarmkadan/dotnet-auth-server",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "gpu-image-processing",
+      "repo": "https://github.com/Sarmkadan/gpu-image-processing",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-saga-orchestrator",
+      "repo": "https://github.com/Sarmkadan/dotnet-saga-orchestrator",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-source-generator-toolkit",
+      "repo": "https://github.com/Sarmkadan/dotnet-source-generator-toolkit",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "dotnet-graphql-engine",
+      "repo": "https://github.com/Sarmkadan/dotnet-graphql-engine",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "notion-task-sync",
+      "repo": "https://github.com/Sarmkadan/notion-task-sync",
+      "url": "https://sarmkadan.com",
+      "language": "C#"
+    },
+    {
+      "name": "Sarmkadan",
+      "repo": "https://github.com/Sarmkadan/Sarmkadan",
+      "url": "https://github.com/Sarmkadan"
+    },
+    {
+      "name": "checkapi-dotnet",
+      "repo": "https://github.com/Sarmkadan/checkapi-dotnet",
+      "language": "C#"
+    },
+    {
+      "name": "checkapi-node",
+      "repo": "https://github.com/Sarmkadan/checkapi-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "checkapi-python",
+      "repo": "https://github.com/Sarmkadan/checkapi-python",
+      "language": "Python"
+    },
+    {
+      "name": "PragueTestWork",
+      "repo": "https://github.com/Sarmkadan/PragueTestWork",
+      "language": "JavaScript"
+    },
+    {
+      "name": "event-bus-py",
+      "repo": "https://github.com/Sarmkadan/event-bus-py",
+      "language": "Python"
+    },
+    {
+      "name": "markdown-fast-py",
+      "repo": "https://github.com/Sarmkadan/markdown-fast-py",
+      "language": "Python"
+    },
+    {
+      "name": "rate-limiter-py",
+      "repo": "https://github.com/Sarmkadan/rate-limiter-py",
+      "language": "Python"
+    },
+    {
+      "name": "cron-parser-py",
+      "repo": "https://github.com/Sarmkadan/cron-parser-py",
+      "language": "Python"
+    },
+    {
+      "name": "config-loader-py",
+      "repo": "https://github.com/Sarmkadan/config-loader-py",
+      "language": "Python"
+    },
+    {
+      "name": "csv-turbo",
+      "repo": "https://github.com/Sarmkadan/csv-turbo",
+      "language": "Python"
+    },
+    {
+      "name": "telegram-bot-lite-py",
+      "repo": "https://github.com/Sarmkadan/telegram-bot-lite-py",
+      "language": "Python"
+    },
+    {
+      "name": "sqlite-helper-py",
+      "repo": "https://github.com/Sarmkadan/sqlite-helper-py",
+      "language": "Python"
+    },
+    {
+      "name": "smart-retry-py",
+      "repo": "https://github.com/Sarmkadan/smart-retry-py",
+      "language": "Python"
+    },
+    {
+      "name": "prompt-builder-py",
+      "repo": "https://github.com/Sarmkadan/prompt-builder-py",
+      "language": "Python"
+    },
+    {
+      "name": "gpt-client-lite",
+      "repo": "https://github.com/Sarmkadan/gpt-client-lite",
+      "language": "Python"
+    },
+    {
+      "name": "claude-api-lite",
+      "repo": "https://github.com/Sarmkadan/claude-api-lite",
+      "language": "Python"
+    },
+    {
+      "name": "json-schema-gen",
+      "repo": "https://github.com/Sarmkadan/json-schema-gen",
+      "language": "JavaScript"
+    },
+    {
+      "name": "event-emitter-pro",
+      "repo": "https://github.com/Sarmkadan/event-emitter-pro",
+      "language": "JavaScript"
+    }
+  ]
+}

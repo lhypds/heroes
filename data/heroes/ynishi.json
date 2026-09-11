@@ -1,0 +1,516 @@
+{
+  "handle": "ynishi",
+  "name": "Yutaka Nishimura",
+  "github": [
+    "https://github.com/ynishi"
+  ],
+  "own_repos": 211,
+  "commits": 11008,
+  "apps": [],
+  "repos": [
+    {
+      "name": "htl",
+      "repo": "https://github.com/ynishi/htl",
+      "language": "Rust"
+    },
+    {
+      "name": "eventsdb",
+      "repo": "https://github.com/ynishi/eventsdb",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-block",
+      "repo": "https://github.com/ynishi/agent-block",
+      "language": "Rust"
+    },
+    {
+      "name": "asterism",
+      "repo": "https://github.com/ynishi/asterism",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-batteries",
+      "repo": "https://github.com/ynishi/mlua-batteries",
+      "language": "Rust"
+    },
+    {
+      "name": "rusqlite-isle",
+      "repo": "https://github.com/ynishi/rusqlite-isle",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-shared-target",
+      "repo": "https://github.com/ynishi/cargo-shared-target",
+      "language": "Rust"
+    },
+    {
+      "name": "lm-provision",
+      "repo": "https://github.com/ynishi/lm-provision",
+      "language": "Rust"
+    },
+    {
+      "name": "algocline",
+      "repo": "https://github.com/ynishi/algocline",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-pkg",
+      "repo": "https://github.com/ynishi/mlua-pkg",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/ynishi/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "mlua-swarm",
+      "repo": "https://github.com/ynishi/mlua-swarm",
+      "url": "https://github.com/ynishi/mlua-swarm",
+      "language": "Rust"
+    },
+    {
+      "name": "vdsl-mcp",
+      "repo": "https://github.com/ynishi/vdsl-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-isle",
+      "repo": "https://github.com/ynishi/mlua-isle",
+      "language": "Rust"
+    },
+    {
+      "name": "schema-bridge-lshape",
+      "repo": "https://github.com/ynishi/schema-bridge-lshape",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-lshape",
+      "repo": "https://github.com/ynishi/mlua-lshape",
+      "language": "Lua"
+    },
+    {
+      "name": "lshape",
+      "repo": "https://github.com/ynishi/lshape",
+      "language": "Lua"
+    },
+    {
+      "name": "mini-app-mcp",
+      "repo": "https://github.com/ynishi/mini-app-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "llm-extract",
+      "repo": "https://github.com/ynishi/llm-extract",
+      "language": "Rust"
+    },
+    {
+      "name": "dsl-kit",
+      "repo": "https://github.com/ynishi/dsl-kit",
+      "url": "https://github.com/ynishi/dsl-kit",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-mathlib",
+      "repo": "https://github.com/ynishi/mlua-mathlib",
+      "language": "Rust"
+    },
+    {
+      "name": "local-develop-server",
+      "repo": "https://github.com/ynishi/local-develop-server",
+      "language": "Rust"
+    },
+    {
+      "name": "journal-mcp",
+      "repo": "https://github.com/ynishi/journal-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "outline-mcp",
+      "repo": "https://github.com/ynishi/outline-mcp",
+      "url": "https://github.com/ynishi/outline-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "ryo-rs",
+      "repo": "https://github.com/ynishi/ryo-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "arch-lint",
+      "repo": "https://github.com/ynishi/arch-lint",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-aidoc",
+      "repo": "https://github.com/ynishi/cargo-aidoc",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-outline-mcp",
+      "repo": "https://github.com/ynishi/homebrew-outline-mcp",
+      "language": "Ruby"
+    },
+    {
+      "name": "p2p-mcp",
+      "repo": "https://github.com/ynishi/p2p-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "codedash",
+      "repo": "https://github.com/ynishi/codedash",
+      "language": "Rust"
+    },
+    {
+      "name": "llm-toolkit",
+      "repo": "https://github.com/ynishi/llm-toolkit",
+      "language": "Rust"
+    },
+    {
+      "name": "kaiba",
+      "repo": "https://github.com/ynishi/kaiba",
+      "language": "Rust"
+    },
+    {
+      "name": "ext-crud-rs",
+      "repo": "https://github.com/ynishi/ext-crud-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "casting",
+      "repo": "https://github.com/ynishi/casting",
+      "language": "Rust"
+    },
+    {
+      "name": "evalframe",
+      "repo": "https://github.com/ynishi/evalframe",
+      "language": "Lua"
+    },
+    {
+      "name": "dot-agent",
+      "repo": "https://github.com/ynishi/dot-agent",
+      "language": "Rust"
+    },
+    {
+      "name": "task-mcp",
+      "repo": "https://github.com/ynishi/task-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "kairei-v2",
+      "repo": "https://github.com/ynishi/kairei-v2",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-lspec",
+      "repo": "https://github.com/ynishi/mlua-lspec",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-probe",
+      "repo": "https://github.com/ynishi/mlua-probe",
+      "language": "Rust"
+    },
+    {
+      "name": "runpod-cli",
+      "repo": "https://github.com/ynishi/runpod-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "orcs",
+      "repo": "https://github.com/ynishi/orcs",
+      "language": "Rust"
+    },
+    {
+      "name": "kanri-cli",
+      "repo": "https://github.com/ynishi/kanri-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "wtsync",
+      "repo": "https://github.com/ynishi/wtsync",
+      "language": "Nim"
+    },
+    {
+      "name": "pngmetagrep",
+      "repo": "https://github.com/ynishi/pngmetagrep",
+      "language": "Rust"
+    },
+    {
+      "name": "persona-wire",
+      "repo": "https://github.com/ynishi/persona-wire",
+      "language": "Rust"
+    },
+    {
+      "name": "fuzzy-parser",
+      "repo": "https://github.com/ynishi/fuzzy-parser",
+      "language": "Rust"
+    },
+    {
+      "name": "flow-ir-lua",
+      "repo": "https://github.com/ynishi/flow-ir-lua",
+      "language": "Lua"
+    },
+    {
+      "name": "algocline-bundled-packages",
+      "repo": "https://github.com/ynishi/algocline-bundled-packages",
+      "language": "Lua"
+    },
+    {
+      "name": "mlua-flow-ir",
+      "repo": "https://github.com/ynishi/mlua-flow-ir",
+      "language": "Rust"
+    },
+    {
+      "name": "version-migrate",
+      "repo": "https://github.com/ynishi/version-migrate",
+      "language": "Rust"
+    },
+    {
+      "name": "semantic-scholar-rs",
+      "repo": "https://github.com/ynishi/semantic-scholar-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "egui-cha",
+      "repo": "https://github.com/ynishi/egui-cha",
+      "language": "Rust"
+    },
+    {
+      "name": "agentsec",
+      "repo": "https://github.com/ynishi/agentsec",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-mesh",
+      "repo": "https://github.com/ynishi/agent-mesh",
+      "language": "Rust"
+    },
+    {
+      "name": "rest-e2e-mcp",
+      "repo": "https://github.com/ynishi/rest-e2e-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "ai-store",
+      "repo": "https://github.com/ynishi/ai-store",
+      "language": "Rust"
+    },
+    {
+      "name": "algocline-swarm-frame",
+      "repo": "https://github.com/ynishi/algocline-swarm-frame",
+      "language": "Lua"
+    },
+    {
+      "name": "persona-pack",
+      "repo": "https://github.com/ynishi/persona-pack",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-mcp-server",
+      "repo": "https://github.com/ynishi/mlua-mcp-server",
+      "language": "Rust"
+    },
+    {
+      "name": "persona-journal",
+      "repo": "https://github.com/ynishi/persona-journal",
+      "language": "Rust"
+    },
+    {
+      "name": "vdsl",
+      "repo": "https://github.com/ynishi/vdsl",
+      "language": "Lua"
+    },
+    {
+      "name": "seed-scope",
+      "repo": "https://github.com/ynishi/seed-scope",
+      "language": "Lua"
+    },
+    {
+      "name": "render-session",
+      "repo": "https://github.com/ynishi/render-session",
+      "language": "Rust"
+    },
+    {
+      "name": "mlua-check",
+      "repo": "https://github.com/ynishi/mlua-check",
+      "language": "Rust"
+    },
+    {
+      "name": "git-workflow-mcp",
+      "repo": "https://github.com/ynishi/git-workflow-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-inspect-mcp",
+      "repo": "https://github.com/ynishi/agent-inspect-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "python-exec-mcp",
+      "repo": "https://github.com/ynishi/python-exec-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "boxed-analysis",
+      "repo": "https://github.com/ynishi/boxed-analysis",
+      "language": "Rust"
+    },
+    {
+      "name": "git-cleaner",
+      "repo": "https://github.com/ynishi/git-cleaner",
+      "language": "Rust"
+    },
+    {
+      "name": "web-topic-mcp",
+      "repo": "https://github.com/ynishi/web-topic-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "hacker-news-mcp",
+      "repo": "https://github.com/ynishi/hacker-news-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "news-api-mcp",
+      "repo": "https://github.com/ynishi/news-api-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "orcs-cli",
+      "repo": "https://github.com/ynishi/orcs-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "schema-bridge",
+      "repo": "https://github.com/ynishi/schema-bridge",
+      "language": "Rust"
+    },
+    {
+      "name": "openapi-clap",
+      "repo": "https://github.com/ynishi/openapi-clap",
+      "language": "Rust"
+    },
+    {
+      "name": "openapi-deref",
+      "repo": "https://github.com/ynishi/openapi-deref",
+      "language": "Rust"
+    },
+    {
+      "name": "issun",
+      "repo": "https://github.com/ynishi/issun",
+      "language": "Rust"
+    },
+    {
+      "name": "propel",
+      "repo": "https://github.com/ynishi/propel",
+      "language": "Rust"
+    },
+    {
+      "name": "diskclean",
+      "repo": "https://github.com/ynishi/diskclean",
+      "language": "Nim"
+    },
+    {
+      "name": "shell-sanitize",
+      "repo": "https://github.com/ynishi/shell-sanitize",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-rss-fetch",
+      "repo": "https://github.com/ynishi/homebrew-rss-fetch",
+      "language": "Ruby"
+    },
+    {
+      "name": "rss-fetch",
+      "repo": "https://github.com/ynishi/rss-fetch",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-semantic-scholar",
+      "repo": "https://github.com/ynishi/homebrew-semantic-scholar",
+      "language": "Ruby"
+    },
+    {
+      "name": "lua-solver",
+      "repo": "https://github.com/ynishi/lua-solver",
+      "language": "Lua"
+    },
+    {
+      "name": "apifuzz",
+      "repo": "https://github.com/ynishi/apifuzz",
+      "language": "Rust"
+    },
+    {
+      "name": "launch-bar",
+      "repo": "https://github.com/ynishi/launch-bar",
+      "language": "Rust"
+    },
+    {
+      "name": "swarm-engine",
+      "repo": "https://github.com/ynishi/swarm-engine",
+      "language": "Rust"
+    },
+    {
+      "name": "sen-rs",
+      "repo": "https://github.com/ynishi/sen-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "glitcher",
+      "repo": "https://github.com/ynishi/glitcher",
+      "language": "Rust"
+    },
+    {
+      "name": "niwa-cli",
+      "repo": "https://github.com/ynishi/niwa-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "homebrew-akatsuki",
+      "repo": "https://github.com/ynishi/homebrew-akatsuki",
+      "language": "Ruby"
+    },
+    {
+      "name": "akatsuki",
+      "repo": "https://github.com/ynishi/akatsuki",
+      "language": "TypeScript"
+    },
+    {
+      "name": "culture-protocol",
+      "repo": "https://github.com/ynishi/culture-protocol",
+      "language": "Python"
+    },
+    {
+      "name": "env-type",
+      "repo": "https://github.com/ynishi/env-type",
+      "language": "Rust"
+    },
+    {
+      "name": "yugo-docs",
+      "repo": "https://github.com/ynishi/yugo-docs",
+      "language": "HTML"
+    },
+    {
+      "name": "agent-profile",
+      "repo": "https://github.com/ynishi/agent-profile",
+      "url": "https://agent-profile.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hs-scroll",
+      "repo": "https://github.com/ynishi/hs-scroll",
+      "language": "Haskell"
+    },
+    {
+      "name": "image_manip",
+      "repo": "https://github.com/ynishi/image_manip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Helm2Kustomize.jl",
+      "repo": "https://github.com/ynishi/Helm2Kustomize.jl",
+      "language": "Julia"
+    }
+  ]
+}

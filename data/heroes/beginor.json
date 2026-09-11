@@ -1,0 +1,511 @@
+{
+  "handle": "beginor",
+  "name": "beginor",
+  "github": [
+    "https://github.com/beginor"
+  ],
+  "website": "https://beginor.github.io/",
+  "own_repos": 131,
+  "commits": 11543,
+  "apps": [],
+  "repos": [
+    {
+      "name": "agent-skills",
+      "repo": "https://github.com/beginor/agent-skills",
+      "language": "C#"
+    },
+    {
+      "name": "nhibernate-extensions",
+      "repo": "https://github.com/beginor/nhibernate-extensions",
+      "language": "C#"
+    },
+    {
+      "name": "net-core-app",
+      "repo": "https://github.com/beginor/net-core-app",
+      "language": "C#"
+    },
+    {
+      "name": "awesome-prompts",
+      "repo": "https://github.com/beginor/awesome-prompts"
+    },
+    {
+      "name": "net-core-app-client",
+      "repo": "https://github.com/beginor/net-core-app-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "beginor.github.io",
+      "repo": "https://github.com/beginor/beginor.github.io",
+      "url": "https://beginor.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "mini-api",
+      "repo": "https://github.com/beginor/mini-api",
+      "language": "C#"
+    },
+    {
+      "name": "rollup-react",
+      "repo": "https://github.com/beginor/rollup-react",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rollup-starter",
+      "repo": "https://github.com/beginor/rollup-starter",
+      "url": "https://rollup-starter.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ng-seed-app",
+      "repo": "https://github.com/beginor/ng-seed-app",
+      "language": "HTML"
+    },
+    {
+      "name": "mini-api-client",
+      "repo": "https://github.com/beginor/mini-api-client",
+      "language": "HTML"
+    },
+    {
+      "name": "ng-seed-cli",
+      "repo": "https://github.com/beginor/ng-seed-cli",
+      "language": "HTML"
+    },
+    {
+      "name": "agent-framework-demos",
+      "repo": "https://github.com/beginor/agent-framework-demos",
+      "language": "C#"
+    },
+    {
+      "name": "md-editor-ce",
+      "repo": "https://github.com/beginor/md-editor-ce",
+      "language": "Vue"
+    },
+    {
+      "name": "aspnetcore.authentication.token",
+      "repo": "https://github.com/beginor/aspnetcore.authentication.token",
+      "language": "C#"
+    },
+    {
+      "name": "aspnetcore.middlewares",
+      "repo": "https://github.com/beginor/aspnetcore.middlewares",
+      "language": "C#"
+    },
+    {
+      "name": "docker-postgis",
+      "repo": "https://github.com/beginor/docker-postgis",
+      "language": "Shell"
+    },
+    {
+      "name": "DesignPatterns",
+      "repo": "https://github.com/beginor/DesignPatterns",
+      "language": "C#"
+    },
+    {
+      "name": "f5-tts-openai",
+      "repo": "https://github.com/beginor/f5-tts-openai",
+      "language": "Python"
+    },
+    {
+      "name": "webgl2-tutorial",
+      "repo": "https://github.com/beginor/webgl2-tutorial",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mat-llama-cpp",
+      "repo": "https://github.com/beginor/mat-llama-cpp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slpk",
+      "repo": "https://github.com/beginor/slpk",
+      "language": "C#"
+    },
+    {
+      "name": "ng-datav",
+      "repo": "https://github.com/beginor/ng-datav",
+      "language": "HTML"
+    },
+    {
+      "name": "rollup-libs",
+      "repo": "https://github.com/beginor/rollup-libs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-demos",
+      "repo": "https://github.com/beginor/react-demos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beginor-owin-security-gdep",
+      "repo": "https://github.com/beginor/beginor-owin-security-gdep",
+      "language": "C#"
+    },
+    {
+      "name": "impress-demo",
+      "repo": "https://github.com/beginor/impress-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-tutorial",
+      "repo": "https://github.com/beginor/react-tutorial",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-gh-pages",
+      "repo": "https://github.com/beginor/docker-gh-pages",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-osgeo",
+      "repo": "https://github.com/beginor/docker-osgeo",
+      "language": "Shell"
+    },
+    {
+      "name": "jexus-ms-owin-demo",
+      "repo": "https://github.com/beginor/jexus-ms-owin-demo",
+      "language": "C#"
+    },
+    {
+      "name": "react-app",
+      "repo": "https://github.com/beginor/react-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vue-app",
+      "repo": "https://github.com/beginor/vue-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rollup-vue",
+      "repo": "https://github.com/beginor/rollup-vue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rollup-angular",
+      "repo": "https://github.com/beginor/rollup-angular",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vue-mapbox",
+      "repo": "https://github.com/beginor/vue-mapbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "psv-map",
+      "repo": "https://github.com/beginor/psv-map",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-fastapi",
+      "repo": "https://github.com/beginor/docker-fastapi",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "webgl-clouds",
+      "repo": "https://github.com/beginor/webgl-clouds",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nhibernate-npgsql",
+      "repo": "https://github.com/beginor/nhibernate-npgsql",
+      "language": "C#"
+    },
+    {
+      "name": "docker-aria2",
+      "repo": "https://github.com/beginor/docker-aria2",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "kotlin-demo",
+      "repo": "https://github.com/beginor/kotlin-demo",
+      "language": "Kotlin"
+    },
+    {
+      "name": "vector-tile-server",
+      "repo": "https://github.com/beginor/vector-tile-server",
+      "language": "HTML"
+    },
+    {
+      "name": "monaco-editor",
+      "repo": "https://github.com/beginor/monaco-editor",
+      "url": "https://beginor.github.io/monaco-editor/test.html",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ng-seed",
+      "repo": "https://github.com/beginor/ng-seed",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-geoserver",
+      "repo": "https://github.com/beginor/docker-geoserver",
+      "language": "Shell"
+    },
+    {
+      "name": "geoserver-data_dir",
+      "repo": "https://github.com/beginor/geoserver-data_dir",
+      "language": "Scheme"
+    },
+    {
+      "name": "rollup-starter-threejs",
+      "repo": "https://github.com/beginor/rollup-starter-threejs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rollup-starter-esri",
+      "repo": "https://github.com/beginor/rollup-starter-esri",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rollup-webgl",
+      "repo": "https://github.com/beginor/rollup-webgl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rollup-cesium",
+      "repo": "https://github.com/beginor/rollup-cesium",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spring-demo",
+      "repo": "https://github.com/beginor/spring-demo",
+      "language": "Java"
+    },
+    {
+      "name": "docker-jexus-x64",
+      "repo": "https://github.com/beginor/docker-jexus-x64",
+      "language": "Shell"
+    },
+    {
+      "name": "spring-identity-demo",
+      "repo": "https://github.com/beginor/spring-identity-demo",
+      "language": "C#"
+    },
+    {
+      "name": "ng-deck-gl",
+      "repo": "https://github.com/beginor/ng-deck-gl",
+      "url": "https://beginor.github.io/ng-deck-gl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ng-mapbox-demo",
+      "repo": "https://github.com/beginor/ng-mapbox-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-rasterio",
+      "repo": "https://github.com/beginor/docker-rasterio",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ng-threejs-demo",
+      "repo": "https://github.com/beginor/ng-threejs-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ng-ionic-demo",
+      "repo": "https://github.com/beginor/ng-ionic-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ng-esri-demo",
+      "repo": "https://github.com/beginor/ng-esri-demo",
+      "url": "https://beginor.github.io/ng-esri-demo/web/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mapbox-demos",
+      "repo": "https://github.com/beginor/mapbox-demos"
+    },
+    {
+      "name": "esri-service",
+      "repo": "https://github.com/beginor/esri-service",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esri-ts-demo",
+      "repo": "https://github.com/beginor/esri-ts-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "volume-renderer",
+      "repo": "https://github.com/beginor/volume-renderer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beginor",
+      "repo": "https://github.com/beginor/beginor"
+    },
+    {
+      "name": "docker-agdatastore",
+      "repo": "https://github.com/beginor/docker-agdatastore",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-agportal",
+      "repo": "https://github.com/beginor/docker-agportal",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-jexus",
+      "repo": "https://github.com/beginor/docker-jexus",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-mono",
+      "repo": "https://github.com/beginor/docker-mono",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-datax",
+      "repo": "https://github.com/beginor/docker-datax",
+      "language": "Shell"
+    },
+    {
+      "name": "ng-dx-test",
+      "repo": "https://github.com/beginor/ng-dx-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mame.net",
+      "repo": "https://github.com/beginor/mame.net",
+      "language": "C#"
+    },
+    {
+      "name": "nhibernate-mapping-samples",
+      "repo": "https://github.com/beginor/nhibernate-mapping-samples"
+    },
+    {
+      "name": "docker-gitlab-ce",
+      "repo": "https://github.com/beginor/docker-gitlab-ce",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ng-libraries",
+      "repo": "https://github.com/beginor/ng-libraries",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-tinyproxy",
+      "repo": "https://github.com/beginor/docker-tinyproxy",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-shadowsocks",
+      "repo": "https://github.com/beginor/docker-shadowsocks",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ionic-demo",
+      "repo": "https://github.com/beginor/ionic-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "owin-app-tpl",
+      "repo": "https://github.com/beginor/owin-app-tpl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ng-esri-service",
+      "repo": "https://github.com/beginor/ng-esri-service",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-xfce-vnc",
+      "repo": "https://github.com/beginor/docker-xfce-vnc",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-ubuntu-china",
+      "repo": "https://github.com/beginor/docker-ubuntu-china",
+      "language": "Shell"
+    },
+    {
+      "name": "ng-anims-demo",
+      "repo": "https://github.com/beginor/ng-anims-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hilo-sample",
+      "repo": "https://github.com/beginor/hilo-sample",
+      "language": "C#"
+    },
+    {
+      "name": "quartz-demo",
+      "repo": "https://github.com/beginor/quartz-demo",
+      "language": "C#"
+    },
+    {
+      "name": "dx-locale-zh-cn",
+      "repo": "https://github.com/beginor/dx-locale-zh-cn",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ng-openlayers-demo",
+      "repo": "https://github.com/beginor/ng-openlayers-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quartz-docker",
+      "repo": "https://github.com/beginor/quartz-docker",
+      "language": "C#"
+    },
+    {
+      "name": "beginor.owin",
+      "repo": "https://github.com/beginor/beginor.owin",
+      "language": "C#"
+    },
+    {
+      "name": "docker-openjdk-jre",
+      "repo": "https://github.com/beginor/docker-openjdk-jre",
+      "language": "Shell"
+    },
+    {
+      "name": "cesium-typings",
+      "repo": "https://github.com/beginor/cesium-typings",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-mono-runtime",
+      "repo": "https://github.com/beginor/docker-mono-runtime",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-openjdk",
+      "repo": "https://github.com/beginor/docker-openjdk",
+      "language": "Shell"
+    },
+    {
+      "name": "rabbitmq-tutorial",
+      "repo": "https://github.com/beginor/rabbitmq-tutorial",
+      "language": "C#"
+    },
+    {
+      "name": "typings-arcgis-js-api",
+      "repo": "https://github.com/beginor/typings-arcgis-js-api",
+      "language": "Shell"
+    },
+    {
+      "name": "learning-angular2",
+      "repo": "https://github.com/beginor/learning-angular2",
+      "language": "HTML"
+    },
+    {
+      "name": "typings-openlayers",
+      "repo": "https://github.com/beginor/typings-openlayers"
+    },
+    {
+      "name": "docker-node",
+      "repo": "https://github.com/beginor/docker-node",
+      "language": "Shell"
+    },
+    {
+      "name": "systemjs-plugin-dojo",
+      "repo": "https://github.com/beginor/systemjs-plugin-dojo"
+    },
+    {
+      "name": "ui-router-ng2-demo",
+      "repo": "https://github.com/beginor/ui-router-ng2-demo"
+    }
+  ]
+}

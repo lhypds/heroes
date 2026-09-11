@@ -1,0 +1,521 @@
+{
+  "handle": "nlamirault",
+  "name": "Nicolas Lamirault",
+  "github": [
+    "https://github.com/nlamirault"
+  ],
+  "website": "https://nicolas.lamirault.xyz/",
+  "own_repos": 166,
+  "commits": 10181,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/nlamirault/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-google-external-secrets-operator",
+      "repo": "https://github.com/nlamirault/terraform-google-external-secrets-operator",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-google-crossplane",
+      "repo": "https://github.com/nlamirault/terraform-google-crossplane",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-google-observability",
+      "repo": "https://github.com/nlamirault/terraform-google-observability",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-google-cert-manager",
+      "repo": "https://github.com/nlamirault/terraform-google-cert-manager",
+      "language": "HCL"
+    },
+    {
+      "name": "llm-observability-lab",
+      "repo": "https://github.com/nlamirault/llm-observability-lab",
+      "url": "https://github.com/nlamirault/llm-observability-lab",
+      "language": "Python"
+    },
+    {
+      "name": "terraform-aws-ack",
+      "repo": "https://github.com/nlamirault/terraform-aws-ack",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-google-external-dns",
+      "repo": "https://github.com/nlamirault/terraform-google-external-dns",
+      "language": "HCL"
+    },
+    {
+      "name": "kortex",
+      "repo": "https://github.com/nlamirault/kortex",
+      "url": "https://github.com/nlamirault/kortex",
+      "language": "Astro"
+    },
+    {
+      "name": "schema-hub",
+      "repo": "https://github.com/nlamirault/schema-hub",
+      "url": "https://schema-hub.portefaix.xyz",
+      "language": "Shell"
+    },
+    {
+      "name": "agentheon",
+      "repo": "https://github.com/nlamirault/agentheon",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-aws-observability",
+      "repo": "https://github.com/nlamirault/terraform-aws-observability",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-azurerm-observability",
+      "repo": "https://github.com/nlamirault/terraform-azurerm-observability",
+      "language": "HCL"
+    },
+    {
+      "name": "atoma",
+      "repo": "https://github.com/nlamirault/atoma",
+      "url": "https://github.com/nlamirault/atoma",
+      "language": "Makefile"
+    },
+    {
+      "name": "probes-policy",
+      "repo": "https://github.com/nlamirault/probes-policy",
+      "language": "Rust"
+    },
+    {
+      "name": "opentelemetry-lab",
+      "repo": "https://github.com/nlamirault/opentelemetry-lab",
+      "url": "https://github.com/nlamirault/opentelemetry-lab",
+      "language": "Swift"
+    },
+    {
+      "name": "terraform-aws-crossplane",
+      "repo": "https://github.com/nlamirault/terraform-aws-crossplane",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-eso",
+      "repo": "https://github.com/nlamirault/terraform-aws-eso",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-billing",
+      "repo": "https://github.com/nlamirault/terraform-aws-billing",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-keda",
+      "repo": "https://github.com/nlamirault/terraform-aws-keda",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-azurerm-external-secrets-operator",
+      "repo": "https://github.com/nlamirault/terraform-azurerm-external-secrets-operator",
+      "language": "HCL"
+    },
+    {
+      "name": "monitoring-mixins",
+      "repo": "https://github.com/nlamirault/monitoring-mixins",
+      "url": "https://github.com/nlamirault/monitoring-mixins",
+      "language": "Jsonnet"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/nlamirault/resume",
+      "language": "HTML"
+    },
+    {
+      "name": "terraform-google-traffic-director",
+      "repo": "https://github.com/nlamirault/terraform-google-traffic-director",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-azurerm-aks",
+      "repo": "https://github.com/nlamirault/terraform-azurerm-aks",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-azurerm-velero",
+      "repo": "https://github.com/nlamirault/terraform-azurerm-velero",
+      "language": "HCL"
+    },
+    {
+      "name": "e2c",
+      "repo": "https://github.com/nlamirault/e2c",
+      "url": "https://github.com/nlamirault/e2c",
+      "language": "Go"
+    },
+    {
+      "name": "opamui",
+      "repo": "https://github.com/nlamirault/opamui",
+      "url": "https://github.com/nlamirault/opamui",
+      "language": "OCaml"
+    },
+    {
+      "name": "ltui",
+      "repo": "https://github.com/nlamirault/ltui",
+      "url": "https://github.com/nlamirault/g1c",
+      "language": "Rust"
+    },
+    {
+      "name": "terraform-workflows",
+      "repo": "https://github.com/nlamirault/terraform-workflows",
+      "language": "Makefile"
+    },
+    {
+      "name": "bbox_exporter",
+      "repo": "https://github.com/nlamirault/bbox_exporter",
+      "language": "Go"
+    },
+    {
+      "name": "nlamirault",
+      "repo": "https://github.com/nlamirault/nlamirault"
+    },
+    {
+      "name": "divona",
+      "repo": "https://github.com/nlamirault/divona",
+      "language": "Makefile"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/nlamirault/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "g1c",
+      "repo": "https://github.com/nlamirault/g1c",
+      "url": "https://github.com/nlamirault/g1c",
+      "language": "Rust"
+    },
+    {
+      "name": "moltbot-sandbox",
+      "repo": "https://github.com/nlamirault/moltbot-sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "freebox-exporter",
+      "repo": "https://github.com/nlamirault/freebox-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "galactus",
+      "repo": "https://github.com/nlamirault/galactus",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-google-vector",
+      "repo": "https://github.com/nlamirault/terraform-google-vector",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-google-velero",
+      "repo": "https://github.com/nlamirault/terraform-google-velero",
+      "language": "HCL"
+    },
+    {
+      "name": "asdf-kpt",
+      "repo": "https://github.com/nlamirault/asdf-kpt",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-google-teleport",
+      "repo": "https://github.com/nlamirault/terraform-google-teleport",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-teleport",
+      "repo": "https://github.com/nlamirault/terraform-aws-teleport",
+      "language": "HCL"
+    },
+    {
+      "name": "shiva",
+      "repo": "https://github.com/nlamirault/shiva",
+      "language": "Go"
+    },
+    {
+      "name": "abraracourcix",
+      "repo": "https://github.com/nlamirault/abraracourcix",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-provider-gitea",
+      "repo": "https://github.com/nlamirault/terraform-provider-gitea",
+      "language": "Go"
+    },
+    {
+      "name": "helmsman",
+      "repo": "https://github.com/nlamirault/helmsman",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-exoscale-sks",
+      "repo": "https://github.com/nlamirault/terraform-exoscale-sks",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-scaleway-kapsule",
+      "repo": "https://github.com/nlamirault/terraform-scaleway-kapsule",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-scaleway-observability",
+      "repo": "https://github.com/nlamirault/terraform-scaleway-observability",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-eks-csi-driver",
+      "repo": "https://github.com/nlamirault/terraform-aws-eks-csi-driver",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-external-dns",
+      "repo": "https://github.com/nlamirault/terraform-aws-external-dns",
+      "language": "HCL"
+    },
+    {
+      "name": "asdf-popeye",
+      "repo": "https://github.com/nlamirault/asdf-popeye",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-aws-vector",
+      "repo": "https://github.com/nlamirault/terraform-aws-vector",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-azurerm-sops",
+      "repo": "https://github.com/nlamirault/terraform-azurerm-sops",
+      "language": "HCL"
+    },
+    {
+      "name": "poseidon",
+      "repo": "https://github.com/nlamirault/poseidon",
+      "language": "Go"
+    },
+    {
+      "name": "hyperion-lite",
+      "repo": "https://github.com/nlamirault/hyperion-lite",
+      "language": "Python"
+    },
+    {
+      "name": "terraform-google-sops",
+      "repo": "https://github.com/nlamirault/terraform-google-sops",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-ruleset-scaleway",
+      "repo": "https://github.com/nlamirault/terraform-ruleset-scaleway",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-aws-sops",
+      "repo": "https://github.com/nlamirault/terraform-aws-sops",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-civo-kubernetes",
+      "repo": "https://github.com/nlamirault/terraform-civo-kubernetes",
+      "language": "HCL"
+    },
+    {
+      "name": "tchoupi",
+      "repo": "https://github.com/nlamirault/tchoupi",
+      "language": "Makefile"
+    },
+    {
+      "name": "gotest.el",
+      "repo": "https://github.com/nlamirault/gotest.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "phpunit.el",
+      "repo": "https://github.com/nlamirault/phpunit.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "picsou",
+      "repo": "https://github.com/nlamirault/picsou",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-digitalocean-doks",
+      "repo": "https://github.com/nlamirault/terraform-digitalocean-doks",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-lambda-promtail",
+      "repo": "https://github.com/nlamirault/terraform-aws-lambda-promtail",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-google-keda",
+      "repo": "https://github.com/nlamirault/terraform-google-keda",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-scaleway-eso",
+      "repo": "https://github.com/nlamirault/terraform-scaleway-eso",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-oci-oke",
+      "repo": "https://github.com/nlamirault/terraform-oci-oke",
+      "language": "HCL"
+    },
+    {
+      "name": "disallow-default-namespace-policy",
+      "repo": "https://github.com/nlamirault/disallow-default-namespace-policy",
+      "language": "Rust"
+    },
+    {
+      "name": "asdf-driftctl",
+      "repo": "https://github.com/nlamirault/asdf-driftctl",
+      "language": "Shell"
+    },
+    {
+      "name": "asdf-krew",
+      "repo": "https://github.com/nlamirault/asdf-krew",
+      "language": "Shell"
+    },
+    {
+      "name": "scame",
+      "repo": "https://github.com/nlamirault/scame",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "terraform-github-project",
+      "repo": "https://github.com/nlamirault/terraform-github-project",
+      "language": "HCL"
+    },
+    {
+      "name": "jarvis",
+      "repo": "https://github.com/nlamirault/jarvis",
+      "language": "C++"
+    },
+    {
+      "name": "kubernetes-labs",
+      "repo": "https://github.com/nlamirault/kubernetes-labs",
+      "language": "HCL"
+    },
+    {
+      "name": "helm-kubeconform-action",
+      "repo": "https://github.com/nlamirault/helm-kubeconform-action",
+      "language": "Shell"
+    },
+    {
+      "name": "kylin",
+      "repo": "https://github.com/nlamirault/kylin",
+      "language": "Python"
+    },
+    {
+      "name": "asdf-inlets",
+      "repo": "https://github.com/nlamirault/asdf-inlets",
+      "language": "Shell"
+    },
+    {
+      "name": "asdf-osm",
+      "repo": "https://github.com/nlamirault/asdf-osm",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-linode-lke",
+      "repo": "https://github.com/nlamirault/terraform-linode-lke",
+      "language": "Makefile"
+    },
+    {
+      "name": "terraform-vultr-vke",
+      "repo": "https://github.com/nlamirault/terraform-vultr-vke",
+      "language": "HCL"
+    },
+    {
+      "name": "speedtest_exporter",
+      "repo": "https://github.com/nlamirault/speedtest_exporter",
+      "language": "Go"
+    },
+    {
+      "name": "miv",
+      "repo": "https://github.com/nlamirault/miv",
+      "language": "Vim Script"
+    },
+    {
+      "name": "bento",
+      "repo": "https://github.com/nlamirault/bento",
+      "language": "Shell"
+    },
+    {
+      "name": "climc",
+      "repo": "https://github.com/nlamirault/climc",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "ripgrep.el",
+      "repo": "https://github.com/nlamirault/ripgrep.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "provider-jet-scaleway",
+      "repo": "https://github.com/nlamirault/provider-jet-scaleway",
+      "language": "Go"
+    },
+    {
+      "name": "pod-resources-policy",
+      "repo": "https://github.com/nlamirault/pod-resources-policy",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-aws-velero",
+      "repo": "https://github.com/nlamirault/terraform-aws-velero",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-karpenter",
+      "repo": "https://github.com/nlamirault/terraform-aws-karpenter",
+      "language": "HCL"
+    },
+    {
+      "name": "terraform-aws-cert-manager",
+      "repo": "https://github.com/nlamirault/terraform-aws-cert-manager",
+      "language": "HCL"
+    },
+    {
+      "name": "helm-kustomization",
+      "repo": "https://github.com/nlamirault/helm-kustomization"
+    },
+    {
+      "name": "python-freeboxclient",
+      "repo": "https://github.com/nlamirault/python-freeboxclient",
+      "language": "Python"
+    },
+    {
+      "name": "cl-lastfm",
+      "repo": "https://github.com/nlamirault/cl-lastfm",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "ernestine",
+      "repo": "https://github.com/nlamirault/ernestine",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-gdata",
+      "repo": "https://github.com/nlamirault/cl-gdata",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-geonames",
+      "repo": "https://github.com/nlamirault/cl-geonames",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "nyx",
+      "repo": "https://github.com/nlamirault/nyx",
+      "language": "Common Lisp"
+    }
+  ]
+}

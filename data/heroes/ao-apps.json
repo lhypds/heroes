@@ -1,0 +1,613 @@
+{
+  "handle": "ao-apps",
+  "name": "AO Apps",
+  "github": [
+    "https://github.com/ao-apps"
+  ],
+  "website": "https://aoindustries.com/",
+  "bio": "Java/Jakarta EE application hosting. Run your apps on our high-availability infrastructure. “Let your developers develop!”™, we got the rest.",
+  "own_repos": 287,
+  "commits": 128022,
+  "apps": [],
+  "repos": [
+    {
+      "name": "aoserv-daemon",
+      "repo": "https://github.com/ao-apps/aoserv-daemon",
+      "url": "https://aoindustries.com/aoserv/daemon/",
+      "language": "Java"
+    },
+    {
+      "name": "aoweb-struts",
+      "repo": "https://github.com/ao-apps/aoweb-struts",
+      "url": "https://aoindustries.com/aoweb-struts/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-oss",
+      "repo": "https://github.com/ao-apps/ao-oss",
+      "url": "https://oss.aoapps.com/",
+      "language": "Java"
+    },
+    {
+      "name": "pgp-keys-map",
+      "repo": "https://github.com/ao-apps/pgp-keys-map",
+      "url": "https://oss.aoapps.com/pgp-keys-map/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-oss-parent",
+      "repo": "https://github.com/ao-apps/ao-oss-parent",
+      "url": "https://oss.aoapps.com/parent/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-master",
+      "repo": "https://github.com/ao-apps/aoserv-master",
+      "url": "https://aoindustries.com/aoserv/master/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments",
+      "repo": "https://github.com/ao-apps/ao-payments",
+      "url": "https://oss.aoapps.com/payments/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-bom",
+      "repo": "https://github.com/ao-apps/ao-payments-bom",
+      "url": "https://oss.aoapps.com/payments/bom/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-all",
+      "repo": "https://github.com/ao-apps/ao-payments-all",
+      "url": "https://oss.aoapps.com/payments/all/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-stripe",
+      "repo": "https://github.com/ao-apps/ao-payments-stripe",
+      "url": "https://oss.aoapps.com/payments/stripe/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-credit-cards",
+      "repo": "https://github.com/ao-apps/aoserv-credit-cards",
+      "url": "https://aoindustries.com/aoserv/credit-cards/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-api",
+      "repo": "https://github.com/ao-apps/ao-payments-api",
+      "url": "https://oss.aoapps.com/payments/api/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-authorizeNet",
+      "repo": "https://github.com/ao-apps/ao-payments-authorizeNet",
+      "url": "https://oss.aoapps.com/payments/authorizeNet/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-payflowPro",
+      "repo": "https://github.com/ao-apps/ao-payments-payflowPro",
+      "url": "https://oss.aoapps.com/payments/payflowPro/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-test",
+      "repo": "https://github.com/ao-apps/ao-payments-test",
+      "url": "https://oss.aoapps.com/payments/test/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-payments-usaepay",
+      "repo": "https://github.com/ao-apps/ao-payments-usaepay",
+      "url": "https://oss.aoapps.com/payments/usaepay/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-client",
+      "repo": "https://github.com/ao-apps/aoserv-client",
+      "url": "https://aoindustries.com/aoserv/client/",
+      "language": "Java"
+    },
+    {
+      "name": "noc",
+      "repo": "https://github.com/ao-apps/noc",
+      "url": "https://aoindustries.com/noc/",
+      "language": "Java"
+    },
+    {
+      "name": "noc-gui",
+      "repo": "https://github.com/ao-apps/noc-gui",
+      "url": "https://aoindustries.com/noc/gui/",
+      "language": "Java"
+    },
+    {
+      "name": "noc-monitor",
+      "repo": "https://github.com/ao-apps/noc-monitor",
+      "url": "https://aoindustries.com/noc/monitor/",
+      "language": "Java"
+    },
+    {
+      "name": "noc-monitor-server",
+      "repo": "https://github.com/ao-apps/noc-monitor-server",
+      "url": "https://aoindustries.com/noc/monitor/server/",
+      "language": "Java"
+    },
+    {
+      "name": "noc-monitor-impl",
+      "repo": "https://github.com/ao-apps/noc-monitor-impl",
+      "url": "https://aoindustries.com/noc/monitor/impl/",
+      "language": "Java"
+    },
+    {
+      "name": "noc-monitor-portmon",
+      "repo": "https://github.com/ao-apps/noc-monitor-portmon",
+      "url": "https://aoindustries.com/noc/monitor/portmon/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-collections",
+      "repo": "https://github.com/ao-apps/ao-collections",
+      "url": "https://oss.aoapps.com/collections/",
+      "language": "Java"
+    },
+    {
+      "name": "aorepo",
+      "repo": "https://github.com/ao-apps/aorepo",
+      "url": "https://aorepo.org/",
+      "language": "Java"
+    },
+    {
+      "name": "aorepo-parent",
+      "repo": "https://github.com/ao-apps/aorepo-parent",
+      "url": "https://aorepo.org/parent/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-jenkins-shared-library",
+      "repo": "https://github.com/ao-apps/ao-jenkins-shared-library",
+      "url": "https://github.com/ao-apps/ao-jenkins-shared-library",
+      "language": "Groovy"
+    },
+    {
+      "name": "pragmatickm",
+      "repo": "https://github.com/ao-apps/pragmatickm",
+      "url": "https://pragmatickm.com/",
+      "language": "Java"
+    },
+    {
+      "name": "pragmatickm-task",
+      "repo": "https://github.com/ao-apps/pragmatickm-task",
+      "url": "https://pragmatickm.com/task/",
+      "language": "Java"
+    },
+    {
+      "name": "pragmatickm-password",
+      "repo": "https://github.com/ao-apps/pragmatickm-password",
+      "url": "https://pragmatickm.com/password/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms",
+      "repo": "https://github.com/ao-apps/semanticcms",
+      "url": "https://semanticcms.com/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-openfile",
+      "repo": "https://github.com/ao-apps/semanticcms-openfile",
+      "url": "https://semanticcms.com/openfile/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-dia",
+      "repo": "https://github.com/ao-apps/semanticcms-dia",
+      "url": "https://semanticcms.com/dia/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-core",
+      "repo": "https://github.com/ao-apps/semanticcms-core",
+      "url": "https://semanticcms.com/core/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-web-resources",
+      "repo": "https://github.com/ao-apps/ao-web-resources",
+      "url": "https://oss.aoapps.com/web-resources/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-messaging",
+      "repo": "https://github.com/ao-apps/ao-messaging",
+      "url": "https://oss.aoapps.com/messaging/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-dao",
+      "repo": "https://github.com/ao-apps/ao-dao",
+      "url": "https://oss.aoapps.com/dao/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-appcluster",
+      "repo": "https://github.com/ao-apps/ao-appcluster",
+      "url": "https://oss.aoapps.com/appcluster/",
+      "language": "Java"
+    },
+    {
+      "name": "javatator",
+      "repo": "https://github.com/ao-apps/javatator",
+      "url": "https://aoindustries.com/javatator/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-dia-servlet",
+      "repo": "https://github.com/ao-apps/semanticcms-dia-servlet",
+      "url": "https://semanticcms.com/dia/servlet/",
+      "language": "Java"
+    },
+    {
+      "name": "pragmatickm-task-taglib",
+      "repo": "https://github.com/ao-apps/pragmatickm-task-taglib",
+      "language": "Java"
+    },
+    {
+      "name": "pragmatickm-password-servlet",
+      "repo": "https://github.com/ao-apps/pragmatickm-password-servlet",
+      "url": "https://pragmatickm.com/password/servlet/",
+      "language": "Java"
+    },
+    {
+      "name": "pragmatickm-task-model",
+      "repo": "https://github.com/ao-apps/pragmatickm-task-model",
+      "url": "https://pragmatickm.com/task/model/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-webservices",
+      "repo": "https://github.com/ao-apps/aoserv-webservices",
+      "url": "https://aoindustries.com/aoserv/webservices/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-jilter",
+      "repo": "https://github.com/ao-apps/aoserv-jilter",
+      "url": "https://aoindustries.com/aoserv/jilter/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-examples",
+      "repo": "https://github.com/ao-apps/aoserv-examples",
+      "url": "https://aoindustries.com/aoserv/examples/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-cluster",
+      "repo": "https://github.com/ao-apps/aoserv-cluster",
+      "url": "https://aoindustries.com/aoserv/cluster/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-backup",
+      "repo": "https://github.com/ao-apps/aoserv-backup",
+      "url": "https://aoindustries.com/aoserv/backup/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-selinux",
+      "repo": "https://github.com/ao-apps/ao-selinux",
+      "url": "https://aoindustries.com/ao-selinux/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-oss-website",
+      "repo": "https://github.com/ao-apps/ao-oss-website",
+      "url": "https://oss.aoapps.com/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-theme-documentation",
+      "repo": "https://github.com/ao-apps/semanticcms-theme-documentation",
+      "url": "https://semanticcms.com/theme-documentation/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "semanticcms-theme-documentation-style",
+      "repo": "https://github.com/ao-apps/semanticcms-theme-documentation-style",
+      "url": "https://semanticcms.com/theme-documentation/style/",
+      "language": "CSS"
+    },
+    {
+      "name": "semanticcms-openfile-servlet",
+      "repo": "https://github.com/ao-apps/semanticcms-openfile-servlet",
+      "url": "https://semanticcms.com/openfile/servlet/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-core-sitemap",
+      "repo": "https://github.com/ao-apps/semanticcms-core-sitemap",
+      "url": "https://semanticcms.com/core/sitemap/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-web-framework",
+      "repo": "https://github.com/ao-apps/ao-web-framework",
+      "url": "https://oss.aoapps.com/web-framework/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-servlet-subrequest",
+      "repo": "https://github.com/ao-apps/ao-servlet-subrequest",
+      "url": "https://oss.aoapps.com/servlet-subrequest/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-encoding-taglib",
+      "repo": "https://github.com/ao-apps/ao-encoding-taglib",
+      "url": "https://oss.aoapps.com/encoding/taglib/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-servlet-filter",
+      "repo": "https://github.com/ao-apps/ao-servlet-filter",
+      "url": "https://oss.aoapps.com/servlet-filter/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-tag-reference",
+      "repo": "https://github.com/ao-apps/semanticcms-tag-reference",
+      "url": "https://semanticcms.com/tag-reference/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-web-resources-taglib",
+      "repo": "https://github.com/ao-apps/ao-web-resources-taglib",
+      "url": "https://oss.aoapps.com/web-resources/taglib/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-web-resources-renderer",
+      "repo": "https://github.com/ao-apps/ao-web-resources-renderer",
+      "url": "https://oss.aoapps.com/web-resources/renderer/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-servlet-last-modified",
+      "repo": "https://github.com/ao-apps/ao-servlet-last-modified",
+      "url": "https://oss.aoapps.com/servlet-last-modified/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-servlet-util",
+      "repo": "https://github.com/ao-apps/ao-servlet-util",
+      "url": "https://oss.aoapps.com/servlet-util/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-tld-parser",
+      "repo": "https://github.com/ao-apps/ao-tld-parser",
+      "url": "https://oss.aoapps.com/tld-parser/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-persistence",
+      "repo": "https://github.com/ao-apps/ao-persistence",
+      "url": "https://oss.aoapps.com/persistence/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-messaging-tcp",
+      "repo": "https://github.com/ao-apps/ao-messaging-tcp",
+      "url": "https://oss.aoapps.com/messaging/tcp/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-messaging-http",
+      "repo": "https://github.com/ao-apps/ao-messaging-http",
+      "url": "https://oss.aoapps.com/messaging/http/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-messaging-base",
+      "repo": "https://github.com/ao-apps/ao-messaging-base",
+      "url": "https://oss.aoapps.com/messaging/base/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-io-filesystems-posix",
+      "repo": "https://github.com/ao-apps/ao-io-filesystems-posix",
+      "url": "https://oss.aoapps.com/io-filesystems/posix/",
+      "language": "Java"
+    },
+    {
+      "name": "aoserv-daemon-client",
+      "repo": "https://github.com/ao-apps/aoserv-daemon-client",
+      "url": "https://aoindustries.com/aoserv/daemon/client/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-io-posix",
+      "repo": "https://github.com/ao-apps/ao-io-posix",
+      "url": "https://oss.aoapps.com/io-posix/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-io-filesystems",
+      "repo": "https://github.com/ao-apps/ao-io-filesystems",
+      "url": "https://oss.aoapps.com/io-filesystems/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-fluent-html",
+      "repo": "https://github.com/ao-apps/ao-fluent-html",
+      "url": "https://oss.aoapps.com/fluent-html/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-dao-base",
+      "repo": "https://github.com/ao-apps/ao-dao-base",
+      "url": "https://oss.aoapps.com/dao/base/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-dao-api",
+      "repo": "https://github.com/ao-apps/ao-dao-api",
+      "url": "https://oss.aoapps.com/dao/api/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-security",
+      "repo": "https://github.com/ao-apps/ao-security",
+      "url": "https://oss.aoapps.com/security/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-core-taglib",
+      "repo": "https://github.com/ao-apps/semanticcms-core-taglib",
+      "url": "https://semanticcms.com/core/taglib/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-core-servlet",
+      "repo": "https://github.com/ao-apps/semanticcms-core-servlet",
+      "url": "https://semanticcms.com/core/servlet/",
+      "language": "Java"
+    },
+    {
+      "name": "semanticcms-core-model",
+      "repo": "https://github.com/ao-apps/semanticcms-core-model",
+      "url": "https://semanticcms.com/core/model/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-taglib",
+      "repo": "https://github.com/ao-apps/ao-taglib",
+      "url": "https://oss.aoapps.com/taglib/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-fluent-html-servlet",
+      "repo": "https://github.com/ao-apps/ao-fluent-html-servlet",
+      "url": "https://oss.aoapps.com/fluent-html/servlet/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-fluent-html-any",
+      "repo": "https://github.com/ao-apps/ao-fluent-html-any",
+      "url": "https://oss.aoapps.com/fluent-html/any/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-io-buffer",
+      "repo": "https://github.com/ao-apps/ao-io-buffer",
+      "url": "https://oss.aoapps.com/io-buffer/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-appcluster-jdbc",
+      "repo": "https://github.com/ao-apps/ao-appcluster-jdbc",
+      "url": "https://oss.aoapps.com/appcluster/jdbc/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-dbc",
+      "repo": "https://github.com/ao-apps/ao-dbc",
+      "url": "https://oss.aoapps.com/dbc/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-sql-tracker",
+      "repo": "https://github.com/ao-apps/ao-sql-tracker",
+      "url": "https://oss.aoapps.com/sql/tracker/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-sql-failfast",
+      "repo": "https://github.com/ao-apps/ao-sql-failfast",
+      "url": "https://oss.aoapps.com/sql/failfast/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-sql-wrapper",
+      "repo": "https://github.com/ao-apps/ao-sql-wrapper",
+      "url": "https://oss.aoapps.com/sql/wrapper/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-appcluster-csync2",
+      "repo": "https://github.com/ao-apps/ao-appcluster-csync2",
+      "url": "https://oss.aoapps.com/appcluster/csync2/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-appcluster-core",
+      "repo": "https://github.com/ao-apps/ao-appcluster-core",
+      "url": "https://oss.aoapps.com/appcluster/core/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-cron",
+      "repo": "https://github.com/ao-apps/ao-cron",
+      "url": "https://oss.aoapps.com/cron/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-concurrent",
+      "repo": "https://github.com/ao-apps/ao-concurrent",
+      "url": "https://oss.aoapps.com/concurrent/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-firewalld",
+      "repo": "https://github.com/ao-apps/ao-firewalld",
+      "url": "https://aoindustries.com/ao-firewalld/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-net-types",
+      "repo": "https://github.com/ao-apps/ao-net-types",
+      "url": "https://oss.aoapps.com/net-types/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-encoding",
+      "repo": "https://github.com/ao-apps/ao-encoding",
+      "url": "https://oss.aoapps.com/encoding/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-hodgepodge",
+      "repo": "https://github.com/ao-apps/ao-hodgepodge",
+      "url": "https://oss.aoapps.com/hodgepodge/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-tlds",
+      "repo": "https://github.com/ao-apps/ao-tlds",
+      "url": "https://oss.aoapps.com/tlds/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-lang",
+      "repo": "https://github.com/ao-apps/ao-lang",
+      "url": "https://oss.aoapps.com/lang/",
+      "language": "Java"
+    },
+    {
+      "name": "ao-ant-tasks",
+      "repo": "https://github.com/ao-apps/ao-ant-tasks",
+      "url": "https://oss.aoapps.com/ant-tasks/",
+      "language": "Java"
+    },
+    {
+      "name": "pragmatickm-parent",
+      "repo": "https://github.com/ao-apps/pragmatickm-parent",
+      "url": "https://pragmatickm.com/parent/",
+      "language": "Java"
+    }
+  ]
+}

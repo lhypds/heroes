@@ -1,0 +1,501 @@
+{
+  "handle": "lucineer",
+  "name": "lucineer",
+  "github": [
+    "https://github.com/lucineer"
+  ],
+  "own_repos": 615,
+  "commits": 16001,
+  "apps": [],
+  "repos": [
+    {
+      "name": "capitaine",
+      "repo": "https://github.com/Lucineer/capitaine",
+      "url": "https://capitaine.casey-digennaro.workers.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "JetsonClaw1-vessel",
+      "repo": "https://github.com/Lucineer/JetsonClaw1-vessel",
+      "language": "Python"
+    },
+    {
+      "name": "edge-llama",
+      "repo": "https://github.com/Lucineer/edge-llama",
+      "language": "C++"
+    },
+    {
+      "name": "pythagorean48",
+      "repo": "https://github.com/Lucineer/pythagorean48",
+      "language": "Python"
+    },
+    {
+      "name": "plato-jetson",
+      "repo": "https://github.com/Lucineer/plato-jetson",
+      "language": "Python"
+    },
+    {
+      "name": "warp-room",
+      "repo": "https://github.com/Lucineer/warp-room",
+      "language": "C"
+    },
+    {
+      "name": "old-school-machine-wisdom",
+      "repo": "https://github.com/Lucineer/old-school-machine-wisdom"
+    },
+    {
+      "name": "flux-trust",
+      "repo": "https://github.com/Lucineer/flux-trust",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-perception",
+      "repo": "https://github.com/Lucineer/flux-perception",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-social",
+      "repo": "https://github.com/Lucineer/flux-social",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-stigmergy",
+      "repo": "https://github.com/Lucineer/flux-stigmergy",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-telepathy",
+      "repo": "https://github.com/Lucineer/flux-telepathy",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-keeper",
+      "repo": "https://github.com/Lucineer/flux-keeper",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-confidence",
+      "repo": "https://github.com/Lucineer/flux-confidence",
+      "language": "Rust"
+    },
+    {
+      "name": "plato-tools",
+      "repo": "https://github.com/Lucineer/plato-tools",
+      "language": "Python"
+    },
+    {
+      "name": "cocapn-architecture",
+      "repo": "https://github.com/Lucineer/cocapn-architecture"
+    },
+    {
+      "name": "plato-mud",
+      "repo": "https://github.com/Lucineer/plato-mud",
+      "language": "Python"
+    },
+    {
+      "name": "fluxtrust-go",
+      "repo": "https://github.com/Lucineer/fluxtrust-go",
+      "language": "Go"
+    },
+    {
+      "name": "fluxperception-go",
+      "repo": "https://github.com/Lucineer/fluxperception-go",
+      "language": "Go"
+    },
+    {
+      "name": "fluxsocial-go",
+      "repo": "https://github.com/Lucineer/fluxsocial-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-social-c",
+      "repo": "https://github.com/Lucineer/flux-social-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-perception-c",
+      "repo": "https://github.com/Lucineer/flux-perception-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-trust-c",
+      "repo": "https://github.com/Lucineer/flux-trust-c",
+      "language": "C"
+    },
+    {
+      "name": "edge-tools",
+      "repo": "https://github.com/Lucineer/edge-tools",
+      "language": "Python"
+    },
+    {
+      "name": "cocapn-traps",
+      "repo": "https://github.com/Lucineer/cocapn-traps",
+      "language": "Python"
+    },
+    {
+      "name": "cocapn-plato",
+      "repo": "https://github.com/Lucineer/cocapn-plato",
+      "language": "Python"
+    },
+    {
+      "name": "cocapn-chat",
+      "repo": "https://github.com/Lucineer/cocapn-chat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "edge-gpu-lessons",
+      "repo": "https://github.com/Lucineer/edge-gpu-lessons"
+    },
+    {
+      "name": "cocapn-go",
+      "repo": "https://github.com/Lucineer/cocapn-go",
+      "language": "Go"
+    },
+    {
+      "name": "cocapn-py",
+      "repo": "https://github.com/Lucineer/cocapn-py",
+      "language": "Python"
+    },
+    {
+      "name": "cocapn-sdk",
+      "repo": "https://github.com/Lucineer/cocapn-sdk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jetson-bootstrap",
+      "repo": "https://github.com/Lucineer/jetson-bootstrap",
+      "language": "C"
+    },
+    {
+      "name": "flux-isa-v3",
+      "repo": "https://github.com/Lucineer/flux-isa-v3",
+      "language": "C"
+    },
+    {
+      "name": "purplepincher.org",
+      "repo": "https://github.com/Lucineer/purplepincher.org"
+    },
+    {
+      "name": "gpu-native-room-inference",
+      "repo": "https://github.com/Lucineer/gpu-native-room-inference",
+      "language": "Cuda"
+    },
+    {
+      "name": "zeroclaws",
+      "repo": "https://github.com/Lucineer/zeroclaws"
+    },
+    {
+      "name": "plato-os",
+      "repo": "https://github.com/Lucineer/plato-os",
+      "language": "Python"
+    },
+    {
+      "name": "plato-room-deployment",
+      "repo": "https://github.com/Lucineer/plato-room-deployment",
+      "language": "Python"
+    },
+    {
+      "name": "flux-agent-sim",
+      "repo": "https://github.com/Lucineer/flux-agent-sim",
+      "language": "C"
+    },
+    {
+      "name": "cuda-neurotransmitter",
+      "repo": "https://github.com/Lucineer/cuda-neurotransmitter",
+      "language": "Rust"
+    },
+    {
+      "name": "cuda-forth",
+      "repo": "https://github.com/Lucineer/cuda-forth",
+      "language": "Rust"
+    },
+    {
+      "name": "cuda-biology",
+      "repo": "https://github.com/Lucineer/cuda-biology",
+      "language": "Rust"
+    },
+    {
+      "name": "cuda-energy",
+      "repo": "https://github.com/Lucineer/cuda-energy",
+      "language": "Rust"
+    },
+    {
+      "name": "cuda-assembler",
+      "repo": "https://github.com/Lucineer/cuda-assembler",
+      "language": "Rust"
+    },
+    {
+      "name": "cuda-instruction-set",
+      "repo": "https://github.com/Lucineer/cuda-instruction-set",
+      "language": "Rust"
+    },
+    {
+      "name": "isa-v3-edge-spec",
+      "repo": "https://github.com/Lucineer/isa-v3-edge-spec"
+    },
+    {
+      "name": "starship-jetsonclaw1",
+      "repo": "https://github.com/Lucineer/starship-jetsonclaw1",
+      "language": "Python"
+    },
+    {
+      "name": "mycorrhizal-relay",
+      "repo": "https://github.com/Lucineer/mycorrhizal-relay",
+      "language": "C"
+    },
+    {
+      "name": "flux-swarm",
+      "repo": "https://github.com/Lucineer/flux-swarm"
+    },
+    {
+      "name": "flux-router",
+      "repo": "https://github.com/Lucineer/flux-router"
+    },
+    {
+      "name": "flux-necropolis",
+      "repo": "https://github.com/Lucineer/flux-necropolis",
+      "language": "Rust"
+    },
+    {
+      "name": "fleet-onboarding",
+      "repo": "https://github.com/Lucineer/fleet-onboarding"
+    },
+    {
+      "name": "craftmind-studio",
+      "repo": "https://github.com/Lucineer/craftmind-studio",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind-researcher",
+      "repo": "https://github.com/Lucineer/craftmind-researcher",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind-ranch",
+      "repo": "https://github.com/Lucineer/craftmind-ranch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind-herding",
+      "repo": "https://github.com/Lucineer/craftmind-herding",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind-discgolf",
+      "repo": "https://github.com/Lucineer/craftmind-discgolf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind-courses",
+      "repo": "https://github.com/Lucineer/craftmind-courses",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind-circuits",
+      "repo": "https://github.com/Lucineer/craftmind-circuits",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind-fishing",
+      "repo": "https://github.com/Lucineer/craftmind-fishing",
+      "language": "JavaScript"
+    },
+    {
+      "name": "craftmind",
+      "repo": "https://github.com/Lucineer/craftmind",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flux-scheduler",
+      "repo": "https://github.com/Lucineer/flux-scheduler"
+    },
+    {
+      "name": "seed-mcp-v2",
+      "repo": "https://github.com/Lucineer/seed-mcp-v2",
+      "language": "Python"
+    },
+    {
+      "name": "plato",
+      "repo": "https://github.com/Lucineer/plato",
+      "language": "Python"
+    },
+    {
+      "name": "flux-sim",
+      "repo": "https://github.com/Lucineer/flux-sim",
+      "language": "Makefile"
+    },
+    {
+      "name": "holodeck-cuda",
+      "repo": "https://github.com/Lucineer/holodeck-cuda",
+      "language": "Cuda"
+    },
+    {
+      "name": "holodeck-c",
+      "repo": "https://github.com/Lucineer/holodeck-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-runtime-c",
+      "repo": "https://github.com/Lucineer/flux-runtime-c",
+      "language": "C"
+    },
+    {
+      "name": "fluxnavigate-go",
+      "repo": "https://github.com/Lucineer/fluxnavigate-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-navigate-c",
+      "repo": "https://github.com/Lucineer/flux-navigate-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-navigate",
+      "repo": "https://github.com/Lucineer/flux-navigate",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-meta",
+      "repo": "https://github.com/Lucineer/flux-meta",
+      "language": "C"
+    },
+    {
+      "name": "fluxmemory-go",
+      "repo": "https://github.com/Lucineer/fluxmemory-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-memory-c",
+      "repo": "https://github.com/Lucineer/flux-memory-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-memory",
+      "repo": "https://github.com/Lucineer/flux-memory",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-market",
+      "repo": "https://github.com/Lucineer/flux-market"
+    },
+    {
+      "name": "fluxlanguage-go",
+      "repo": "https://github.com/Lucineer/fluxlanguage-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-language-c",
+      "repo": "https://github.com/Lucineer/flux-language-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-language",
+      "repo": "https://github.com/Lucineer/flux-language",
+      "language": "Rust"
+    },
+    {
+      "name": "fluxgrimoire-go",
+      "repo": "https://github.com/Lucineer/fluxgrimoire-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-grimoire",
+      "repo": "https://github.com/Lucineer/flux-grimoire",
+      "language": "Rust"
+    },
+    {
+      "name": "fluxevolve-go",
+      "repo": "https://github.com/Lucineer/fluxevolve-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-evolve-c",
+      "repo": "https://github.com/Lucineer/flux-evolve-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-evolve",
+      "repo": "https://github.com/Lucineer/flux-evolve",
+      "language": "Rust"
+    },
+    {
+      "name": "fluxephemeral-go",
+      "repo": "https://github.com/Lucineer/fluxephemeral-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-ephemeral-c",
+      "repo": "https://github.com/Lucineer/flux-ephemeral-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-ephemeral",
+      "repo": "https://github.com/Lucineer/flux-ephemeral",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-emergence-research",
+      "repo": "https://github.com/Lucineer/flux-emergence-research",
+      "language": "Cuda"
+    },
+    {
+      "name": "fluxdreamcycle-go",
+      "repo": "https://github.com/Lucineer/fluxdreamcycle-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-dream-cycle-c",
+      "repo": "https://github.com/Lucineer/flux-dream-cycle-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-dream-cycle",
+      "repo": "https://github.com/Lucineer/flux-dream-cycle",
+      "language": "Rust"
+    },
+    {
+      "name": "flux-conformance-runner",
+      "repo": "https://github.com/Lucineer/flux-conformance-runner",
+      "language": "C"
+    },
+    {
+      "name": "fluxcompass-go",
+      "repo": "https://github.com/Lucineer/fluxcompass-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-compass-c",
+      "repo": "https://github.com/Lucineer/flux-compass-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-compass",
+      "repo": "https://github.com/Lucineer/flux-compass",
+      "language": "Rust"
+    },
+    {
+      "name": "fluxcensus-go",
+      "repo": "https://github.com/Lucineer/fluxcensus-go",
+      "language": "Go"
+    },
+    {
+      "name": "flux-census-c",
+      "repo": "https://github.com/Lucineer/flux-census-c",
+      "language": "C"
+    },
+    {
+      "name": "flux-census",
+      "repo": "https://github.com/Lucineer/flux-census",
+      "language": "Rust"
+    },
+    {
+      "name": "deepseek-reasoner-vessel",
+      "repo": "https://github.com/Lucineer/deepseek-reasoner-vessel"
+    },
+    {
+      "name": "deepseek-chat-vessel",
+      "repo": "https://github.com/Lucineer/deepseek-chat-vessel",
+      "language": "Python"
+    }
+  ]
+}

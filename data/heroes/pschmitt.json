@@ -1,0 +1,527 @@
+{
+  "handle": "pschmitt",
+  "name": "Philipp Schmitt",
+  "github": [
+    "https://github.com/pschmitt"
+  ],
+  "website": "https://pschmitt.dev/",
+  "bio": "\"Le pouvoir du LIBRE!!\"",
+  "own_repos": 305,
+  "commits": 12653,
+  "apps": [],
+  "repos": [
+    {
+      "name": "stricknani",
+      "repo": "https://github.com/pschmitt/stricknani",
+      "language": "Python"
+    },
+    {
+      "name": "n8n-workflows",
+      "repo": "https://github.com/pschmitt/n8n-workflows"
+    },
+    {
+      "name": "nixos-config",
+      "repo": "https://github.com/pschmitt/nixos-config",
+      "language": "Nix"
+    },
+    {
+      "name": "noctalia-plugins",
+      "repo": "https://github.com/pschmitt/noctalia-plugins",
+      "language": "Luau"
+    },
+    {
+      "name": "Gadgetbridge",
+      "repo": "https://github.com/pschmitt/Gadgetbridge",
+      "language": "Java"
+    },
+    {
+      "name": "tdc",
+      "repo": "https://github.com/pschmitt/tdc",
+      "language": "Python"
+    },
+    {
+      "name": "nyetbox",
+      "repo": "https://github.com/pschmitt/nyetbox",
+      "language": "Kotlin"
+    },
+    {
+      "name": "homeassistant-github-copilot-usage",
+      "repo": "https://github.com/pschmitt/homeassistant-github-copilot-usage",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-gemini-usage",
+      "repo": "https://github.com/pschmitt/homeassistant-gemini-usage",
+      "language": "Python"
+    },
+    {
+      "name": "docker-sshd",
+      "repo": "https://github.com/pschmitt/docker-sshd",
+      "url": "https://hub.docker.com/r/pschmitt/sshd",
+      "language": "Shell"
+    },
+    {
+      "name": "obs-cli",
+      "repo": "https://github.com/pschmitt/obs-cli",
+      "url": "https://pypi.org/project/obs-cli/",
+      "language": "Python"
+    },
+    {
+      "name": "myl",
+      "repo": "https://github.com/pschmitt/myl",
+      "language": "Python"
+    },
+    {
+      "name": "home-assistant-apps",
+      "repo": "https://github.com/pschmitt/home-assistant-apps",
+      "language": "Python"
+    },
+    {
+      "name": "welog",
+      "repo": "https://github.com/pschmitt/welog",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-ais-ship-photo",
+      "repo": "https://github.com/pschmitt/homeassistant-ais-ship-photo",
+      "language": "Python"
+    },
+    {
+      "name": "augh",
+      "repo": "https://github.com/pschmitt/augh",
+      "language": "Kotlin"
+    },
+    {
+      "name": "syncwich",
+      "repo": "https://github.com/pschmitt/syncwich",
+      "language": "Kotlin"
+    },
+    {
+      "name": "homeassistant-endurain",
+      "repo": "https://github.com/pschmitt/homeassistant-endurain",
+      "language": "Python"
+    },
+    {
+      "name": "jcalapi",
+      "repo": "https://github.com/pschmitt/jcalapi",
+      "url": "https://pypi.org/project/jcalapi/",
+      "language": "Python"
+    },
+    {
+      "name": "zinit-annex-bin-python",
+      "repo": "https://github.com/pschmitt/zinit-annex-bin-python",
+      "language": "Shell"
+    },
+    {
+      "name": "android-app-ci",
+      "repo": "https://github.com/pschmitt/android-app-ci",
+      "language": "Just"
+    },
+    {
+      "name": "poor-tools",
+      "repo": "https://github.com/pschmitt/poor-tools",
+      "url": "https://poor.tools",
+      "language": "Shell"
+    },
+    {
+      "name": "shelly-ble-rpc",
+      "repo": "https://github.com/pschmitt/shelly-ble-rpc",
+      "language": "Python"
+    },
+    {
+      "name": "guacapy",
+      "repo": "https://github.com/pschmitt/guacapy",
+      "url": "https://pypi.org/project/guacapy/",
+      "language": "Python"
+    },
+    {
+      "name": "rbw-auto",
+      "repo": "https://github.com/pschmitt/rbw-auto",
+      "language": "Nix"
+    },
+    {
+      "name": "easypysmb",
+      "repo": "https://github.com/pschmitt/easypysmb",
+      "url": "https://pypi.org/project/easypysmb/",
+      "language": "Python"
+    },
+    {
+      "name": "luks-ssh-unlock",
+      "repo": "https://github.com/pschmitt/luks-ssh-unlock",
+      "url": "https://hub.docker.com/r/pschmitt/luks-ssh-unlock",
+      "language": "Shell"
+    },
+    {
+      "name": "pschmitt",
+      "repo": "https://github.com/pschmitt/pschmitt"
+    },
+    {
+      "name": "pschmitt.dev",
+      "repo": "https://github.com/pschmitt/pschmitt.dev",
+      "url": "https://pschmitt.dev",
+      "language": "HTML"
+    },
+    {
+      "name": "pysmb_utils",
+      "repo": "https://github.com/pschmitt/pysmb_utils",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-netbox-asset-tag",
+      "repo": "https://github.com/pschmitt/homeassistant-netbox-asset-tag",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-offline-devices",
+      "repo": "https://github.com/pschmitt/homeassistant-offline-devices",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-shelly-advanced",
+      "repo": "https://github.com/pschmitt/homeassistant-shelly-advanced",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-smart-bulb-relay",
+      "repo": "https://github.com/pschmitt/homeassistant-smart-bulb-relay",
+      "language": "Python"
+    },
+    {
+      "name": "declaroid",
+      "repo": "https://github.com/pschmitt/declaroid",
+      "language": "Shell"
+    },
+    {
+      "name": "font-resizer",
+      "repo": "https://github.com/pschmitt/font-resizer",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-what-should-i-wear",
+      "repo": "https://github.com/pschmitt/homeassistant-what-should-i-wear",
+      "language": "Python"
+    },
+    {
+      "name": "vodafone-station-cli",
+      "repo": "https://github.com/pschmitt/vodafone-station-cli",
+      "language": "Python"
+    },
+    {
+      "name": "pyrundeck",
+      "repo": "https://github.com/pschmitt/pyrundeck",
+      "url": "https://pypi.org/project/pyrundeck/",
+      "language": "Python"
+    },
+    {
+      "name": "tsvtool",
+      "repo": "https://github.com/pschmitt/tsvtool",
+      "language": "Python"
+    },
+    {
+      "name": "pkp",
+      "repo": "https://github.com/pschmitt/pkp",
+      "language": "Python"
+    },
+    {
+      "name": "pywax",
+      "repo": "https://github.com/pschmitt/pywax",
+      "language": "Python"
+    },
+    {
+      "name": "ldifj",
+      "repo": "https://github.com/pschmitt/ldifj",
+      "language": "Python"
+    },
+    {
+      "name": "sendmyl",
+      "repo": "https://github.com/pschmitt/sendmyl",
+      "url": "https://pypi.org/project/justsendmail/",
+      "language": "Python"
+    },
+    {
+      "name": "pynuki",
+      "repo": "https://github.com/pschmitt/pynuki",
+      "url": "https://pypi.org/project/pynuki/",
+      "language": "Python"
+    },
+    {
+      "name": "slack-react",
+      "repo": "https://github.com/pschmitt/slack-react",
+      "url": "https://pypi.org/project/slack-react/",
+      "language": "Python"
+    },
+    {
+      "name": "myl-discovery",
+      "repo": "https://github.com/pschmitt/myl-discovery",
+      "url": "https://pypi.org/project/myl-discovery/",
+      "language": "Python"
+    },
+    {
+      "name": "anika-blue",
+      "repo": "https://github.com/pschmitt/anika-blue",
+      "url": "https://anika.blue",
+      "language": "HTML"
+    },
+    {
+      "name": "yadm-init",
+      "repo": "https://github.com/pschmitt/yadm-init",
+      "language": "Shell"
+    },
+    {
+      "name": "openwrt-tools",
+      "repo": "https://github.com/pschmitt/openwrt-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "homeassistant-xmr-wallet-rpc",
+      "repo": "https://github.com/pschmitt/homeassistant-xmr-wallet-rpc",
+      "language": "Python"
+    },
+    {
+      "name": "ha-minthouz-fano-ir",
+      "repo": "https://github.com/pschmitt/ha-minthouz-fano-ir",
+      "language": "Python"
+    },
+    {
+      "name": "home-assistant-blueprints",
+      "repo": "https://github.com/pschmitt/home-assistant-blueprints"
+    },
+    {
+      "name": "homeassistant-audiobookshelf",
+      "repo": "https://github.com/pschmitt/homeassistant-audiobookshelf",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-mmonit",
+      "repo": "https://github.com/pschmitt/homeassistant-mmonit",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-monero-pool",
+      "repo": "https://github.com/pschmitt/homeassistant-monero-pool",
+      "language": "Python"
+    },
+    {
+      "name": "printlabel",
+      "repo": "https://github.com/pschmitt/printlabel",
+      "language": "Shell"
+    },
+    {
+      "name": "nbx",
+      "repo": "https://github.com/pschmitt/nbx",
+      "language": "Shell"
+    },
+    {
+      "name": "homeassistant-obs-studio",
+      "repo": "https://github.com/pschmitt/homeassistant-obs-studio",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-tesmart-kvm",
+      "repo": "https://github.com/pschmitt/homeassistant-tesmart-kvm",
+      "language": "Python"
+    },
+    {
+      "name": "termux.sh",
+      "repo": "https://github.com/pschmitt/termux.sh",
+      "language": "Shell"
+    },
+    {
+      "name": "homeassistant-fints",
+      "repo": "https://github.com/pschmitt/homeassistant-fints",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-coinbase-wallet",
+      "repo": "https://github.com/pschmitt/homeassistant-coinbase-wallet",
+      "language": "Python"
+    },
+    {
+      "name": "homeassistant-sleep-tracking",
+      "repo": "https://github.com/pschmitt/homeassistant-sleep-tracking",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-collection-fritzbox",
+      "repo": "https://github.com/pschmitt/ansible-collection-fritzbox",
+      "language": "Python"
+    },
+    {
+      "name": "docker-sshfs",
+      "repo": "https://github.com/pschmitt/docker-sshfs",
+      "language": "Shell"
+    },
+    {
+      "name": "chernobyl",
+      "repo": "https://github.com/pschmitt/chernobyl"
+    },
+    {
+      "name": "github-backup",
+      "repo": "https://github.com/pschmitt/github-backup",
+      "language": "Shell"
+    },
+    {
+      "name": "homeassistant-pikvm",
+      "repo": "https://github.com/pschmitt/homeassistant-pikvm",
+      "language": "Python"
+    },
+    {
+      "name": "plib.jq",
+      "repo": "https://github.com/pschmitt/plib.jq",
+      "language": "jq"
+    },
+    {
+      "name": "ansible-collection-netgear-wax",
+      "repo": "https://github.com/pschmitt/ansible-collection-netgear-wax",
+      "language": "Python"
+    },
+    {
+      "name": "python-opsview",
+      "repo": "https://github.com/pschmitt/python-opsview",
+      "language": "Python"
+    },
+    {
+      "name": "cmp-bruvtab",
+      "repo": "https://github.com/pschmitt/cmp-bruvtab",
+      "language": "Lua"
+    },
+    {
+      "name": "gcal-import-ics",
+      "repo": "https://github.com/pschmitt/gcal-import-ics",
+      "url": "https://hub.docker.com/r/pschmitt/gcal-import-ics",
+      "language": "Python"
+    },
+    {
+      "name": "ruamel-fmt",
+      "repo": "https://github.com/pschmitt/ruamel-fmt",
+      "language": "Python"
+    },
+    {
+      "name": "bunq-sh",
+      "repo": "https://github.com/pschmitt/bunq-sh",
+      "language": "Shell"
+    },
+    {
+      "name": "tmux-ssh-split",
+      "repo": "https://github.com/pschmitt/tmux-ssh-split",
+      "language": "Shell"
+    },
+    {
+      "name": "container-debug",
+      "repo": "https://github.com/pschmitt/container-debug",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-pyinstaller",
+      "repo": "https://github.com/pschmitt/docker-pyinstaller",
+      "url": "https://hub.docker.com/r/pschmitt/pyinstaller",
+      "language": "Shell"
+    },
+    {
+      "name": "dogpee",
+      "repo": "https://github.com/pschmitt/dogpee",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-prune",
+      "repo": "https://github.com/pschmitt/docker-prune",
+      "url": "https://hub.docker.com/repository/docker/pschmitt/docker-prune",
+      "language": "Shell"
+    },
+    {
+      "name": "fzf",
+      "repo": "https://github.com/pschmitt/fzf"
+    },
+    {
+      "name": "docker-picamera",
+      "repo": "https://github.com/pschmitt/docker-picamera",
+      "language": "Python"
+    },
+    {
+      "name": "hass-config",
+      "repo": "https://github.com/pschmitt/hass-config",
+      "language": "Python"
+    },
+    {
+      "name": "sthv",
+      "repo": "https://github.com/pschmitt/sthv",
+      "language": "Shell"
+    },
+    {
+      "name": "taspy",
+      "repo": "https://github.com/pschmitt/taspy",
+      "language": "Python"
+    },
+    {
+      "name": "sherlockbikepy",
+      "repo": "https://github.com/pschmitt/sherlockbikepy",
+      "url": "https://pypi.org/project/sherlockbikepy/",
+      "language": "Python"
+    },
+    {
+      "name": "nrgh-sync",
+      "repo": "https://github.com/pschmitt/nrgh-sync",
+      "url": "https://hub.docker.com/repository/docker/pschmitt/nrgh-sync",
+      "language": "Shell"
+    },
+    {
+      "name": "zoom-calendar-events",
+      "repo": "https://github.com/pschmitt/zoom-calendar-events",
+      "language": "Python"
+    },
+    {
+      "name": "bwpy",
+      "repo": "https://github.com/pschmitt/bwpy",
+      "language": "Python"
+    },
+    {
+      "name": "keyring-vault-backend",
+      "repo": "https://github.com/pschmitt/keyring-vault-backend",
+      "language": "Python"
+    },
+    {
+      "name": "dlink-dgs-cli",
+      "repo": "https://github.com/pschmitt/dlink-dgs-cli",
+      "language": "Shell"
+    },
+    {
+      "name": "container-bitwarden-cli",
+      "repo": "https://github.com/pschmitt/container-bitwarden-cli",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "autorestic",
+      "repo": "https://github.com/pschmitt/autorestic",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "daimler-tss-coding-task-02",
+      "repo": "https://github.com/pschmitt/daimler-tss-coding-task-02",
+      "url": "https://hub.docker.com/r/pschmitt/merge-intervals",
+      "language": "Python"
+    },
+    {
+      "name": "pyenv",
+      "repo": "https://github.com/pschmitt/pyenv"
+    },
+    {
+      "name": "terraform-stuff",
+      "repo": "https://github.com/pschmitt/terraform-stuff",
+      "language": "HCL"
+    },
+    {
+      "name": "docker-flicd",
+      "repo": "https://github.com/pschmitt/docker-flicd",
+      "url": "https://hub.docker.com/r/pschmitt/flicd/"
+    },
+    {
+      "name": "nastyrhum",
+      "repo": "https://github.com/pschmitt/nastyrhum",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-pagekite",
+      "repo": "https://github.com/pschmitt/docker-pagekite"
+    }
+  ]
+}

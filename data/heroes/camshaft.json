@@ -1,0 +1,511 @@
+{
+  "handle": "camshaft",
+  "name": "Cameron Bytheway",
+  "github": [
+    "https://github.com/camshaft"
+  ],
+  "own_repos": 310,
+  "commits": 11239,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cadenza",
+      "repo": "https://github.com/camshaft/cadenza",
+      "url": "https://camshaft.github.io/cadenza/",
+      "language": "Rust"
+    },
+    {
+      "name": "toccata",
+      "repo": "https://github.com/camshaft/toccata",
+      "language": "Rust"
+    },
+    {
+      "name": "bolero",
+      "repo": "https://github.com/camshaft/bolero",
+      "url": "https://camshaft.github.io/bolero",
+      "language": "C"
+    },
+    {
+      "name": "backbeat",
+      "repo": "https://github.com/camshaft/backbeat",
+      "language": "Rust"
+    },
+    {
+      "name": "bach",
+      "repo": "https://github.com/camshaft/bach",
+      "language": "Rust"
+    },
+    {
+      "name": "seqpool",
+      "repo": "https://github.com/camshaft/seqpool",
+      "language": "Rust"
+    },
+    {
+      "name": "printers",
+      "repo": "https://github.com/camshaft/printers",
+      "language": "Nix"
+    },
+    {
+      "name": "led-star",
+      "repo": "https://github.com/camshaft/led-star",
+      "url": "https://camshaft.github.io/led-star/",
+      "language": "Rust"
+    },
+    {
+      "name": "kew",
+      "repo": "https://github.com/camshaft/kew",
+      "url": "https://camshaft.github.io/kew",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ojo",
+      "repo": "https://github.com/camshaft/ojo",
+      "language": "Rust"
+    },
+    {
+      "name": "fridge-door",
+      "repo": "https://github.com/camshaft/fridge-door"
+    },
+    {
+      "name": "nmidi",
+      "repo": "https://github.com/camshaft/nmidi",
+      "language": "Rust"
+    },
+    {
+      "name": "scherzo",
+      "repo": "https://github.com/camshaft/scherzo",
+      "language": "Rust"
+    },
+    {
+      "name": "rsolid",
+      "repo": "https://github.com/camshaft/rsolid",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-mcp",
+      "repo": "https://github.com/camshaft/cargo-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "lz4-vectored",
+      "repo": "https://github.com/camshaft/lz4-vectored",
+      "language": "Rust"
+    },
+    {
+      "name": "studio-patchbay",
+      "repo": "https://github.com/camshaft/studio-patchbay"
+    },
+    {
+      "name": "printing",
+      "repo": "https://github.com/camshaft/printing",
+      "language": "Rust"
+    },
+    {
+      "name": "gha-perf",
+      "repo": "https://github.com/camshaft/gha-perf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "movie-collection",
+      "repo": "https://github.com/camshaft/movie-collection",
+      "url": "https://camshaft.github.io/movie-collection/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "euphony-rs",
+      "repo": "https://github.com/camshaft/euphony-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "pkcs7.erl",
+      "repo": "https://github.com/camshaft/pkcs7.erl",
+      "language": "Erlang"
+    },
+    {
+      "name": "marathon-demo",
+      "repo": "https://github.com/camshaft/marathon-demo",
+      "url": "https://camshaft.github.io/marathon-demo"
+    },
+    {
+      "name": "music",
+      "repo": "https://github.com/camshaft/music",
+      "url": "https://camshaft.github.io/music",
+      "language": "Rust"
+    },
+    {
+      "name": "euphony-samples",
+      "repo": "https://github.com/camshaft/euphony-samples"
+    },
+    {
+      "name": "simple_secrets_ex",
+      "repo": "https://github.com/camshaft/simple_secrets_ex",
+      "language": "Elixir"
+    },
+    {
+      "name": "sigmap",
+      "repo": "https://github.com/camshaft/sigmap",
+      "language": "Rust"
+    },
+    {
+      "name": "rle-stack",
+      "repo": "https://github.com/camshaft/rle-stack",
+      "language": "Rust"
+    },
+    {
+      "name": "timewarp",
+      "repo": "https://github.com/camshaft/timewarp",
+      "language": "Rust"
+    },
+    {
+      "name": "github-hooks-testing",
+      "repo": "https://github.com/camshaft/github-hooks-testing",
+      "language": "JavaScript"
+    },
+    {
+      "name": "prop-rs",
+      "repo": "https://github.com/camshaft/prop-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "rl",
+      "repo": "https://github.com/camshaft/rl",
+      "language": "Elixir"
+    },
+    {
+      "name": "codec",
+      "repo": "https://github.com/camshaft/codec",
+      "language": "Rust"
+    },
+    {
+      "name": "netrc",
+      "repo": "https://github.com/camshaft/netrc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "startup",
+      "repo": "https://github.com/camshaft/startup",
+      "language": "JavaScript"
+    },
+    {
+      "name": "testing-book",
+      "repo": "https://github.com/camshaft/testing-book",
+      "url": "https://camshaft.github.io/testing-book"
+    },
+    {
+      "name": "metric-log",
+      "repo": "https://github.com/camshaft/metric-log",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple_secrets.erl",
+      "repo": "https://github.com/camshaft/simple_secrets.erl",
+      "language": "Erlang"
+    },
+    {
+      "name": "wasp-demo",
+      "repo": "https://github.com/camshaft/wasp-demo",
+      "language": "Rust"
+    },
+    {
+      "name": "woodworking",
+      "repo": "https://github.com/camshaft/woodworking",
+      "language": "OpenSCAD"
+    },
+    {
+      "name": "shenu",
+      "repo": "https://github.com/camshaft/shenu",
+      "language": "Elixir"
+    },
+    {
+      "name": "anuket",
+      "repo": "https://github.com/camshaft/anuket",
+      "language": "Elixir"
+    },
+    {
+      "name": "euphony.js",
+      "repo": "https://github.com/camshaft/euphony.js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "most-audio-scheduler",
+      "repo": "https://github.com/camshaft/most-audio-scheduler",
+      "language": "TypeScript"
+    },
+    {
+      "name": "firehose-collector",
+      "repo": "https://github.com/camshaft/firehose-collector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "multix",
+      "repo": "https://github.com/camshaft/multix",
+      "language": "Elixir"
+    },
+    {
+      "name": "webpack-multimethod",
+      "repo": "https://github.com/camshaft/webpack-multimethod"
+    },
+    {
+      "name": "postcss-runtime",
+      "repo": "https://github.com/camshaft/postcss-runtime",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unist-util-transform",
+      "repo": "https://github.com/camshaft/unist-util-transform",
+      "language": "TypeScript"
+    },
+    {
+      "name": "traildb-elixir",
+      "repo": "https://github.com/camshaft/traildb-elixir",
+      "language": "C"
+    },
+    {
+      "name": "most-map-time",
+      "repo": "https://github.com/camshaft/most-map-time",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rapaz",
+      "repo": "https://github.com/camshaft/rapaz",
+      "language": "JavaScript"
+    },
+    {
+      "name": "html_builder",
+      "repo": "https://github.com/camshaft/html_builder",
+      "language": "Elixir"
+    },
+    {
+      "name": "mimetype_parser",
+      "repo": "https://github.com/camshaft/mimetype_parser",
+      "language": "Erlang"
+    },
+    {
+      "name": "nile",
+      "repo": "https://github.com/camshaft/nile",
+      "language": "Elixir"
+    },
+    {
+      "name": "unist-util-transform-group",
+      "repo": "https://github.com/camshaft/unist-util-transform-group",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unist-util-transform-stack",
+      "repo": "https://github.com/camshaft/unist-util-transform-stack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "plug_accept_language",
+      "repo": "https://github.com/camshaft/plug_accept_language",
+      "language": "Elixir"
+    },
+    {
+      "name": "superagent-defaults",
+      "repo": "https://github.com/camshaft/superagent-defaults",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ex_statechart",
+      "repo": "https://github.com/camshaft/ex_statechart",
+      "language": "Elixir"
+    },
+    {
+      "name": "ex_htmlparser",
+      "repo": "https://github.com/camshaft/ex_htmlparser",
+      "language": "Elixir"
+    },
+    {
+      "name": "snow_ex",
+      "repo": "https://github.com/camshaft/snow_ex",
+      "language": "Elixir"
+    },
+    {
+      "name": "ex_euphony",
+      "repo": "https://github.com/camshaft/ex_euphony",
+      "language": "Erlang"
+    },
+    {
+      "name": "Euphony.jl",
+      "repo": "https://github.com/camshaft/Euphony.jl",
+      "language": "Julia"
+    },
+    {
+      "name": "ex_supercollider",
+      "repo": "https://github.com/camshaft/ex_supercollider",
+      "language": "Elixir"
+    },
+    {
+      "name": "scarab",
+      "repo": "https://github.com/camshaft/scarab",
+      "language": "Elixir"
+    },
+    {
+      "name": "ibis",
+      "repo": "https://github.com/camshaft/ibis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ex_formula",
+      "repo": "https://github.com/camshaft/ex_formula",
+      "language": "Elixir"
+    },
+    {
+      "name": "exsd",
+      "repo": "https://github.com/camshaft/exsd",
+      "language": "Elixir"
+    },
+    {
+      "name": "plug_x_forwarded_proto",
+      "repo": "https://github.com/camshaft/plug_x_forwarded_proto",
+      "language": "Elixir"
+    },
+    {
+      "name": "minipatch_ex",
+      "repo": "https://github.com/camshaft/minipatch_ex"
+    },
+    {
+      "name": "minipatch.js",
+      "repo": "https://github.com/camshaft/minipatch.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clox",
+      "repo": "https://github.com/camshaft/clox",
+      "language": "Elixir"
+    },
+    {
+      "name": "seshat",
+      "repo": "https://github.com/camshaft/seshat",
+      "language": "Elixir"
+    },
+    {
+      "name": "ast2template",
+      "repo": "https://github.com/camshaft/ast2template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ast2template-loader",
+      "repo": "https://github.com/camshaft/ast2template-loader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "canary-ui",
+      "repo": "https://github.com/camshaft/canary-ui",
+      "language": "JavaScript"
+    },
+    {
+      "name": "canary-store",
+      "repo": "https://github.com/camshaft/canary-store",
+      "language": "JavaScript"
+    },
+    {
+      "name": "raincloud",
+      "repo": "https://github.com/camshaft/raincloud"
+    },
+    {
+      "name": "redrum.js",
+      "repo": "https://github.com/camshaft/redrum.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "poe-api-ideas",
+      "repo": "https://github.com/camshaft/poe-api-ideas",
+      "language": "Elixir"
+    },
+    {
+      "name": "syn_osc_ex",
+      "repo": "https://github.com/camshaft/syn_osc_ex",
+      "language": "Elixir"
+    },
+    {
+      "name": "osc_ex",
+      "repo": "https://github.com/camshaft/osc_ex",
+      "language": "Elixir"
+    },
+    {
+      "name": "count_buffer",
+      "repo": "https://github.com/camshaft/count_buffer",
+      "language": "Elixir"
+    },
+    {
+      "name": "sandbox-loader",
+      "repo": "https://github.com/camshaft/sandbox-loader",
+      "language": "JavaScript"
+    },
+    {
+      "name": "world-json",
+      "repo": "https://github.com/camshaft/world-json",
+      "language": "JavaScript"
+    },
+    {
+      "name": "plug_x_forwarded_for",
+      "repo": "https://github.com/camshaft/plug_x_forwarded_for",
+      "language": "Elixir"
+    },
+    {
+      "name": "snowplow-nginx-collector",
+      "repo": "https://github.com/camshaft/snowplow-nginx-collector",
+      "language": "HTML"
+    },
+    {
+      "name": "wuphf",
+      "repo": "https://github.com/camshaft/wuphf",
+      "language": "Erlang"
+    },
+    {
+      "name": "snow-lambda",
+      "repo": "https://github.com/camshaft/snow-lambda",
+      "language": "JavaScript"
+    },
+    {
+      "name": "webpack-build-server",
+      "repo": "https://github.com/camshaft/webpack-build-server"
+    },
+    {
+      "name": "lambda-redshift",
+      "repo": "https://github.com/camshaft/lambda-redshift",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bitfield.erl",
+      "repo": "https://github.com/camshaft/bitfield.erl",
+      "language": "Elixir"
+    },
+    {
+      "name": "pool_ring",
+      "repo": "https://github.com/camshaft/pool_ring",
+      "language": "Elixir"
+    },
+    {
+      "name": "ng-alias",
+      "repo": "https://github.com/camshaft/ng-alias",
+      "language": "JavaScript"
+    },
+    {
+      "name": "redisurl",
+      "repo": "https://github.com/camshaft/redisurl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rebind",
+      "repo": "https://github.com/camshaft/rebind",
+      "language": "Erlang"
+    },
+    {
+      "name": "js2ex",
+      "repo": "https://github.com/camshaft/js2ex",
+      "language": "Elixir"
+    },
+    {
+      "name": "lineo",
+      "repo": "https://github.com/camshaft/lineo",
+      "language": "Erlang"
+    },
+    {
+      "name": "world_json_ex",
+      "repo": "https://github.com/camshaft/world_json_ex",
+      "language": "Ruby"
+    }
+  ]
+}

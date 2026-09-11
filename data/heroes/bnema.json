@@ -1,0 +1,515 @@
+{
+  "handle": "bnema",
+  "name": "bnema",
+  "github": [
+    "https://github.com/bnema"
+  ],
+  "website": "https://bnema.dev/",
+  "bio": "Converting mild frustration into slop. Personal/hobby account.",
+  "own_repos": 117,
+  "commits": 11141,
+  "apps": [],
+  "repos": [
+    {
+      "name": "vev",
+      "repo": "https://github.com/bnema/vev",
+      "language": "Go"
+    },
+    {
+      "name": "dumber",
+      "repo": "https://github.com/bnema/dumber",
+      "url": "https://bnema.dev/dumber",
+      "language": "Go"
+    },
+    {
+      "name": "gordon",
+      "repo": "https://github.com/bnema/gordon",
+      "url": "https://bnema.dev/gordon",
+      "language": "Go"
+    },
+    {
+      "name": "ublock-webkit-filters",
+      "repo": "https://github.com/bnema/ublock-webkit-filters",
+      "language": "Go"
+    },
+    {
+      "name": "purego-cef2gtk",
+      "repo": "https://github.com/bnema/purego-cef2gtk",
+      "language": "Go"
+    },
+    {
+      "name": "vev-vt",
+      "repo": "https://github.com/bnema/vev-vt",
+      "language": "Go"
+    },
+    {
+      "name": "gh-actions",
+      "repo": "https://github.com/bnema/gh-actions"
+    },
+    {
+      "name": "zerowrap",
+      "repo": "https://github.com/bnema/zerowrap",
+      "language": "Go"
+    },
+    {
+      "name": "sharm",
+      "repo": "https://github.com/bnema/sharm",
+      "language": "Go"
+    },
+    {
+      "name": "cef-vaapi",
+      "repo": "https://github.com/bnema/cef-vaapi",
+      "language": "Shell"
+    },
+    {
+      "name": "teraclassicctl",
+      "repo": "https://github.com/bnema/teraclassicctl",
+      "language": "Go"
+    },
+    {
+      "name": "nefertty",
+      "repo": "https://github.com/bnema/nefertty",
+      "language": "Go"
+    },
+    {
+      "name": "neferwl",
+      "repo": "https://github.com/bnema/neferwl",
+      "language": "Go"
+    },
+    {
+      "name": "puregotk-webkit",
+      "repo": "https://github.com/bnema/puregotk-webkit",
+      "language": "Go"
+    },
+    {
+      "name": "purego-sqlite",
+      "repo": "https://github.com/bnema/purego-sqlite",
+      "language": "Go"
+    },
+    {
+      "name": "purego-pipewire",
+      "repo": "https://github.com/bnema/purego-pipewire",
+      "language": "Go"
+    },
+    {
+      "name": "codejack",
+      "repo": "https://github.com/bnema/codejack"
+    },
+    {
+      "name": "purego-libghostty",
+      "repo": "https://github.com/bnema/purego-libghostty",
+      "language": "Go"
+    },
+    {
+      "name": "pi-tasked-subagents",
+      "repo": "https://github.com/bnema/pi-tasked-subagents",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-pstack",
+      "repo": "https://github.com/bnema/pi-pstack",
+      "url": "https://github.com/earendil-works/pi-mono",
+      "language": "TypeScript"
+    },
+    {
+      "name": "purego-cef",
+      "repo": "https://github.com/bnema/purego-cef",
+      "url": "https://github.com/bnema/purego-cef",
+      "language": "Go"
+    },
+    {
+      "name": "gtkls-bitwarden-client",
+      "repo": "https://github.com/bnema/gtkls-bitwarden-client",
+      "language": "Go"
+    },
+    {
+      "name": "purego-vulkan",
+      "repo": "https://github.com/bnema/purego-vulkan",
+      "language": "Go"
+    },
+    {
+      "name": "purego-webp",
+      "repo": "https://github.com/bnema/purego-webp",
+      "language": "Go"
+    },
+    {
+      "name": "pi-posture",
+      "repo": "https://github.com/bnema/pi-posture",
+      "language": "TypeScript"
+    },
+    {
+      "name": "purego-ffmpeg",
+      "repo": "https://github.com/bnema/purego-ffmpeg",
+      "language": "Go"
+    },
+    {
+      "name": "purego",
+      "repo": "https://github.com/bnema/purego",
+      "language": "Assembly"
+    },
+    {
+      "name": "shrmt",
+      "repo": "https://github.com/bnema/shrmt",
+      "language": "Go"
+    },
+    {
+      "name": "tmux-session-sidebar",
+      "repo": "https://github.com/bnema/tmux-session-sidebar",
+      "language": "Go"
+    },
+    {
+      "name": "pi-prompt-gen",
+      "repo": "https://github.com/bnema/pi-prompt-gen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-macro",
+      "repo": "https://github.com/bnema/pi-macro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-planify",
+      "repo": "https://github.com/bnema/pi-planify",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tmux-floating-popup",
+      "repo": "https://github.com/bnema/tmux-floating-popup",
+      "language": "Shell"
+    },
+    {
+      "name": "pi-lazy-subagents",
+      "repo": "https://github.com/bnema/pi-lazy-subagents",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-public",
+      "repo": "https://github.com/bnema/pi-public",
+      "language": "JavaScript"
+    },
+    {
+      "name": "despair-theme",
+      "repo": "https://github.com/bnema/despair-theme",
+      "language": "Lua"
+    },
+    {
+      "name": "ero",
+      "repo": "https://github.com/bnema/ero",
+      "language": "Go"
+    },
+    {
+      "name": "pi-project-memory",
+      "repo": "https://github.com/bnema/pi-project-memory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nvim",
+      "repo": "https://github.com/bnema/nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "pi-thinking-cycle",
+      "repo": "https://github.com/bnema/pi-thinking-cycle",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wl-clipboard-ssh-relay",
+      "repo": "https://github.com/bnema/wl-clipboard-ssh-relay"
+    },
+    {
+      "name": "pi-codegraph",
+      "repo": "https://github.com/bnema/pi-codegraph",
+      "language": "TypeScript"
+    },
+    {
+      "name": "supermentor",
+      "repo": "https://github.com/bnema/supermentor",
+      "url": "https://github.com/bnema/supermentor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pi-tasked-phases",
+      "repo": "https://github.com/bnema/pi-tasked-phases",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-nvim-bridge",
+      "repo": "https://github.com/bnema/pi-nvim-bridge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-noctalia",
+      "repo": "https://github.com/bnema/pi-noctalia",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pi-lsp-bridge",
+      "repo": "https://github.com/bnema/pi-lsp-bridge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-goals",
+      "repo": "https://github.com/bnema/pi-goals",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-fzf",
+      "repo": "https://github.com/bnema/pi-fzf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-compact-tool",
+      "repo": "https://github.com/bnema/pi-compact-tool",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pi-coderabbit",
+      "repo": "https://github.com/bnema/pi-coderabbit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tmux-stacked-panes",
+      "repo": "https://github.com/bnema/tmux-stacked-panes",
+      "language": "Shell"
+    },
+    {
+      "name": "archup",
+      "repo": "https://github.com/bnema/archup",
+      "url": "https://archup.run/install",
+      "language": "Go"
+    },
+    {
+      "name": "hexcheck",
+      "repo": "https://github.com/bnema/hexcheck",
+      "language": "Go"
+    },
+    {
+      "name": "openai-accounts-cli",
+      "repo": "https://github.com/bnema/openai-accounts-cli",
+      "language": "Go"
+    },
+    {
+      "name": "yank-that",
+      "repo": "https://github.com/bnema/yank-that",
+      "language": "Go"
+    },
+    {
+      "name": "bitwarden-go-sdk",
+      "repo": "https://github.com/bnema/bitwarden-go-sdk",
+      "language": "Go"
+    },
+    {
+      "name": "sekeve",
+      "repo": "https://github.com/bnema/sekeve",
+      "language": "Go"
+    },
+    {
+      "name": "local-pr-review-server",
+      "repo": "https://github.com/bnema/local-pr-review-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pi-local-pr-review",
+      "repo": "https://github.com/bnema/pi-local-pr-review",
+      "language": "TypeScript"
+    },
+    {
+      "name": "turtlectl",
+      "repo": "https://github.com/bnema/turtlectl",
+      "url": "https://bnema.github.io/turtlectl/",
+      "language": "Go"
+    },
+    {
+      "name": "opencode-public",
+      "repo": "https://github.com/bnema/opencode-public",
+      "language": "TypeScript"
+    },
+    {
+      "name": "clue",
+      "repo": "https://github.com/bnema/clue"
+    },
+    {
+      "name": "wails-vite-svelte5-ts-taildwind-shadcn-template",
+      "repo": "https://github.com/bnema/wails-vite-svelte5-ts-taildwind-shadcn-template",
+      "language": "Svelte"
+    },
+    {
+      "name": "bnetctl",
+      "repo": "https://github.com/bnema/bnetctl",
+      "language": "Go"
+    },
+    {
+      "name": "iced-cef",
+      "repo": "https://github.com/bnema/iced-cef",
+      "language": "Rust"
+    },
+    {
+      "name": "better-sveltekit-convex-client",
+      "repo": "https://github.com/bnema/better-sveltekit-convex-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bnema",
+      "repo": "https://github.com/bnema/bnema"
+    },
+    {
+      "name": "bleu-theme",
+      "repo": "https://github.com/bnema/bleu-theme",
+      "language": "Lua"
+    },
+    {
+      "name": "waybar-amd-module",
+      "repo": "https://github.com/bnema/waybar-amd-module",
+      "language": "Go"
+    },
+    {
+      "name": "xtrayhide",
+      "repo": "https://github.com/bnema/xtrayhide",
+      "language": "Go"
+    },
+    {
+      "name": "waymon",
+      "repo": "https://github.com/bnema/waymon",
+      "language": "Go"
+    },
+    {
+      "name": "uinputd-go",
+      "repo": "https://github.com/bnema/uinputd-go",
+      "language": "Go"
+    },
+    {
+      "name": "claude-summon.nvim",
+      "repo": "https://github.com/bnema/claude-summon.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "claude-agent-sdk-lua",
+      "repo": "https://github.com/bnema/claude-agent-sdk-lua",
+      "url": "https://github.com/bnema/claude-agent-sdk-lua",
+      "language": "Lua"
+    },
+    {
+      "name": "ghisper",
+      "repo": "https://github.com/bnema/ghisper",
+      "language": "Go"
+    },
+    {
+      "name": "voxd",
+      "repo": "https://github.com/bnema/voxd",
+      "language": "Python"
+    },
+    {
+      "name": "gart",
+      "repo": "https://github.com/bnema/gart",
+      "language": "Go"
+    },
+    {
+      "name": "kli",
+      "repo": "https://github.com/bnema/kli"
+    },
+    {
+      "name": "archup-cli",
+      "repo": "https://github.com/bnema/archup-cli",
+      "language": "Go"
+    },
+    {
+      "name": "gh-notify",
+      "repo": "https://github.com/bnema/gh-notify",
+      "language": "Go"
+    },
+    {
+      "name": "waybar-calendar-notify",
+      "repo": "https://github.com/bnema/waybar-calendar-notify",
+      "language": "Go"
+    },
+    {
+      "name": "esc-clear.fish",
+      "repo": "https://github.com/bnema/esc-clear.fish",
+      "language": "Shell"
+    },
+    {
+      "name": "git-sync",
+      "repo": "https://github.com/bnema/git-sync",
+      "language": "Go"
+    },
+    {
+      "name": "cobra-autocomp",
+      "repo": "https://github.com/bnema/cobra-autocomp",
+      "language": "Go"
+    },
+    {
+      "name": "waybar-mode-toggle-module",
+      "repo": "https://github.com/bnema/waybar-mode-toggle-module"
+    },
+    {
+      "name": "gio-shadcn",
+      "repo": "https://github.com/bnema/gio-shadcn",
+      "language": "Go"
+    },
+    {
+      "name": "libwldevices-go",
+      "repo": "https://github.com/bnema/libwldevices-go",
+      "language": "Go"
+    },
+    {
+      "name": "wlturbo",
+      "repo": "https://github.com/bnema/wlturbo",
+      "language": "Go"
+    },
+    {
+      "name": "libei-go-bindings",
+      "repo": "https://github.com/bnema/libei-go-bindings",
+      "language": "Go"
+    },
+    {
+      "name": "gordon-proxy",
+      "repo": "https://github.com/bnema/gordon-proxy",
+      "language": "Go"
+    },
+    {
+      "name": "scl",
+      "repo": "https://github.com/bnema/scl",
+      "language": "Go"
+    },
+    {
+      "name": "flem",
+      "repo": "https://github.com/bnema/flem",
+      "language": "Go"
+    },
+    {
+      "name": "portfolio-monorepo",
+      "repo": "https://github.com/bnema/portfolio-monorepo",
+      "url": "https://bamen.dev",
+      "language": "Go"
+    },
+    {
+      "name": "go-hello-world-http",
+      "repo": "https://github.com/bnema/go-hello-world-http",
+      "language": "Makefile"
+    },
+    {
+      "name": "gypr",
+      "repo": "https://github.com/bnema/gypr",
+      "language": "Go"
+    },
+    {
+      "name": "floyd",
+      "repo": "https://github.com/bnema/floyd",
+      "language": "Go"
+    },
+    {
+      "name": "kickstart-go-svelte",
+      "repo": "https://github.com/bnema/kickstart-go-svelte"
+    },
+    {
+      "name": "skick",
+      "repo": "https://github.com/bnema/skick",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cclui",
+      "repo": "https://github.com/bnema/cclui",
+      "language": "Go"
+    }
+  ]
+}

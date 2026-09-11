@@ -1,0 +1,513 @@
+{
+  "handle": "osso",
+  "name": "Alessio",
+  "github": [
+    "https://github.com/osso"
+  ],
+  "bio": "Backend & systems engineer at Globalcomix. Building CLI tools, manga platforms, and self-hosted infrastructure.",
+  "own_repos": 125,
+  "commits": 13289,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mariadb-mysql-cdc",
+      "repo": "https://github.com/Osso/mariadb-mysql-cdc",
+      "language": "Rust"
+    },
+    {
+      "name": "wow-ui-sim",
+      "repo": "https://github.com/Osso/wow-ui-sim",
+      "language": "Rust"
+    },
+    {
+      "name": "sentry-cli",
+      "repo": "https://github.com/Osso/sentry-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "config-guard",
+      "repo": "https://github.com/Osso/config-guard",
+      "language": "Rust"
+    },
+    {
+      "name": "AutoRoll",
+      "repo": "https://github.com/Osso/AutoRoll",
+      "language": "Lua"
+    },
+    {
+      "name": "SpellMeter",
+      "repo": "https://github.com/Osso/SpellMeter",
+      "language": "Lua"
+    },
+    {
+      "name": "gmail-cli",
+      "repo": "https://github.com/Osso/gmail-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "cloudflare-cli",
+      "repo": "https://github.com/Osso/cloudflare-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "github-cli",
+      "repo": "https://github.com/Osso/github-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "secrets-broker-client",
+      "repo": "https://github.com/Osso/secrets-broker-client",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-memory",
+      "repo": "https://github.com/Osso/claude-memory",
+      "language": "Rust"
+    },
+    {
+      "name": "pyrun",
+      "repo": "https://github.com/Osso/pyrun",
+      "language": "Python"
+    },
+    {
+      "name": "agent-history",
+      "repo": "https://github.com/Osso/agent-history",
+      "language": "Rust"
+    },
+    {
+      "name": "regex-replace-mcp",
+      "repo": "https://github.com/Osso/regex-replace-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "authd",
+      "repo": "https://github.com/Osso/authd",
+      "language": "Rust"
+    },
+    {
+      "name": "browser-cli",
+      "repo": "https://github.com/Osso/browser-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "code-index",
+      "repo": "https://github.com/Osso/code-index",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-bash-hook",
+      "repo": "https://github.com/Osso/claude-bash-hook",
+      "language": "Rust"
+    },
+    {
+      "name": "noctalia-shell",
+      "repo": "https://github.com/Osso/noctalia-shell",
+      "language": "QML"
+    },
+    {
+      "name": "peercred-ipc",
+      "repo": "https://github.com/Osso/peercred-ipc",
+      "language": "Rust"
+    },
+    {
+      "name": "session-dialog",
+      "repo": "https://github.com/Osso/session-dialog",
+      "language": "Rust"
+    },
+    {
+      "name": "coolctl",
+      "repo": "https://github.com/Osso/coolctl",
+      "language": "Rust"
+    },
+    {
+      "name": "arch",
+      "repo": "https://github.com/Osso/arch",
+      "language": "Rust"
+    },
+    {
+      "name": "govee-dock-light",
+      "repo": "https://github.com/Osso/govee-dock-light",
+      "language": "Python"
+    },
+    {
+      "name": "firefox-profile-backup",
+      "repo": "https://github.com/Osso/firefox-profile-backup",
+      "language": "Rust"
+    },
+    {
+      "name": "xdg-desktop-portal-termfilechooser",
+      "repo": "https://github.com/Osso/xdg-desktop-portal-termfilechooser",
+      "language": "Rust"
+    },
+    {
+      "name": "aws-admin",
+      "repo": "https://github.com/Osso/aws-admin",
+      "language": "Rust"
+    },
+    {
+      "name": "sysd",
+      "repo": "https://github.com/Osso/sysd",
+      "language": "Rust"
+    },
+    {
+      "name": "keyring-rs",
+      "repo": "https://github.com/Osso/keyring-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "git-merge-deps",
+      "repo": "https://github.com/Osso/git-merge-deps",
+      "language": "Rust"
+    },
+    {
+      "name": "pypeg",
+      "repo": "https://github.com/Osso/pypeg",
+      "language": "Python"
+    },
+    {
+      "name": "greetd",
+      "repo": "https://github.com/Osso/greetd",
+      "language": "Rust"
+    },
+    {
+      "name": "refextract",
+      "repo": "https://github.com/Osso/refextract",
+      "language": "Rust"
+    },
+    {
+      "name": "pdf",
+      "repo": "https://github.com/Osso/pdf",
+      "language": "Rust"
+    },
+    {
+      "name": "hostrun",
+      "repo": "https://github.com/Osso/hostrun",
+      "language": "Rust"
+    },
+    {
+      "name": "enpass-vault",
+      "repo": "https://github.com/Osso/enpass-vault",
+      "language": "Rust"
+    },
+    {
+      "name": "codex-tokens",
+      "repo": "https://github.com/Osso/codex-tokens",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-tokens",
+      "repo": "https://github.com/Osso/claude-tokens",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-app",
+      "repo": "https://github.com/Osso/claude-app",
+      "language": "Rust"
+    },
+    {
+      "name": "llm-tasks-viewer",
+      "repo": "https://github.com/Osso/llm-tasks-viewer",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-architect-viewer",
+      "repo": "https://github.com/Osso/claude-architect-viewer",
+      "language": "Rust"
+    },
+    {
+      "name": "enpass",
+      "repo": "https://github.com/Osso/enpass",
+      "language": "Rust"
+    },
+    {
+      "name": "email-assistant",
+      "repo": "https://github.com/Osso/email-assistant",
+      "language": "Rust"
+    },
+    {
+      "name": "seatd",
+      "repo": "https://github.com/Osso/seatd",
+      "language": "Rust"
+    },
+    {
+      "name": "llm-sdk",
+      "repo": "https://github.com/Osso/llm-sdk",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-architect",
+      "repo": "https://github.com/Osso/claude-architect",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-orchestrator",
+      "repo": "https://github.com/Osso/agent-orchestrator",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/Osso/dotfiles",
+      "language": "Rust"
+    },
+    {
+      "name": "photo-tagger",
+      "repo": "https://github.com/Osso/photo-tagger",
+      "language": "Python"
+    },
+    {
+      "name": "att-gateway",
+      "repo": "https://github.com/Osso/att-gateway",
+      "language": "Rust"
+    },
+    {
+      "name": "zwave",
+      "repo": "https://github.com/Osso/zwave",
+      "language": "Rust"
+    },
+    {
+      "name": "tplink",
+      "repo": "https://github.com/Osso/tplink",
+      "language": "Rust"
+    },
+    {
+      "name": "sandbox-shell-mcp",
+      "repo": "https://github.com/Osso/sandbox-shell-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "safe-task-claim",
+      "repo": "https://github.com/Osso/safe-task-claim",
+      "language": "Rust"
+    },
+    {
+      "name": "readability-audit",
+      "repo": "https://github.com/Osso/readability-audit",
+      "language": "Rust"
+    },
+    {
+      "name": "php-readability",
+      "repo": "https://github.com/Osso/php-readability",
+      "language": "Python"
+    },
+    {
+      "name": "llm-tasks",
+      "repo": "https://github.com/Osso/llm-tasks",
+      "language": "Rust"
+    },
+    {
+      "name": "greeter",
+      "repo": "https://github.com/Osso/greeter",
+      "language": "Rust"
+    },
+    {
+      "name": "gairflow",
+      "repo": "https://github.com/Osso/gairflow",
+      "language": "Rust"
+    },
+    {
+      "name": "dbus-broker",
+      "repo": "https://github.com/Osso/dbus-broker",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-safe",
+      "repo": "https://github.com/Osso/claude-safe",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-remote",
+      "repo": "https://github.com/Osso/claude-remote",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-plan-hook",
+      "repo": "https://github.com/Osso/claude-plan-hook",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-fn-length-hook",
+      "repo": "https://github.com/Osso/claude-fn-length-hook",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-agent",
+      "repo": "https://github.com/Osso/claude-agent",
+      "language": "Rust"
+    },
+    {
+      "name": "bootloader",
+      "repo": "https://github.com/Osso/bootloader",
+      "language": "Rust"
+    },
+    {
+      "name": "agent-bus",
+      "repo": "https://github.com/Osso/agent-bus",
+      "language": "Rust"
+    },
+    {
+      "name": "casc-extract",
+      "repo": "https://github.com/Osso/casc-extract",
+      "language": "Rust"
+    },
+    {
+      "name": "syncthing-cli",
+      "repo": "https://github.com/Osso/syncthing-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "iced-widgets",
+      "repo": "https://github.com/Osso/iced-widgets",
+      "language": "Rust"
+    },
+    {
+      "name": "gtk-layout-inspector",
+      "repo": "https://github.com/Osso/gtk-layout-inspector",
+      "language": "Rust"
+    },
+    {
+      "name": "iced-layout-inspector",
+      "repo": "https://github.com/Osso/iced-layout-inspector",
+      "language": "Rust"
+    },
+    {
+      "name": "llm-agent",
+      "repo": "https://github.com/Osso/llm-agent",
+      "language": "Rust"
+    },
+    {
+      "name": "dioxus-debug",
+      "repo": "https://github.com/Osso/dioxus-debug",
+      "language": "Rust"
+    },
+    {
+      "name": "image-gen",
+      "repo": "https://github.com/Osso/image-gen",
+      "language": "Rust"
+    },
+    {
+      "name": "firefox-cli",
+      "repo": "https://github.com/Osso/firefox-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "groundcover-cli",
+      "repo": "https://github.com/Osso/groundcover-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "gitlab-cli",
+      "repo": "https://github.com/Osso/gitlab-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "google-admin",
+      "repo": "https://github.com/Osso/google-admin",
+      "language": "Rust"
+    },
+    {
+      "name": "reddit",
+      "repo": "https://github.com/Osso/reddit",
+      "language": "Rust"
+    },
+    {
+      "name": "unifi-cli",
+      "repo": "https://github.com/Osso/unifi-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "sakuin-cli",
+      "repo": "https://github.com/Osso/sakuin-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "outlook-cli",
+      "repo": "https://github.com/Osso/outlook-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "slack-cli",
+      "repo": "https://github.com/Osso/slack-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "flutter-cli",
+      "repo": "https://github.com/Osso/flutter-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "openrouter-cli",
+      "repo": "https://github.com/Osso/openrouter-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "magicband-ctl",
+      "repo": "https://github.com/Osso/magicband-ctl",
+      "language": "Rust"
+    },
+    {
+      "name": "checkly-cli",
+      "repo": "https://github.com/Osso/checkly-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "google-cloud",
+      "repo": "https://github.com/Osso/google-cloud",
+      "language": "Rust"
+    },
+    {
+      "name": "html-resources",
+      "repo": "https://github.com/Osso/html-resources",
+      "language": "Rust"
+    },
+    {
+      "name": "html-diff",
+      "repo": "https://github.com/Osso/html-diff",
+      "language": "Rust"
+    },
+    {
+      "name": "gtk-debug",
+      "repo": "https://github.com/Osso/gtk-debug",
+      "language": "Rust"
+    },
+    {
+      "name": "discord",
+      "repo": "https://github.com/Osso/discord",
+      "language": "Rust"
+    },
+    {
+      "name": "internetbs",
+      "repo": "https://github.com/Osso/internetbs",
+      "language": "Rust"
+    },
+    {
+      "name": "usb-mount",
+      "repo": "https://github.com/Osso/usb-mount",
+      "language": "Rust"
+    },
+    {
+      "name": "iostat",
+      "repo": "https://github.com/Osso/iostat",
+      "language": "Rust"
+    },
+    {
+      "name": "xxd",
+      "repo": "https://github.com/Osso/xxd",
+      "language": "Rust"
+    },
+    {
+      "name": "jump",
+      "repo": "https://github.com/Osso/jump",
+      "language": "Rust"
+    },
+    {
+      "name": "outlook-web",
+      "repo": "https://github.com/Osso/outlook-web",
+      "language": "Rust"
+    },
+    {
+      "name": "youtube-cli",
+      "repo": "https://github.com/Osso/youtube-cli",
+      "language": "Rust"
+    }
+  ]
+}

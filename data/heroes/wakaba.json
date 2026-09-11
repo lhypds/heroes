@@ -1,0 +1,516 @@
+{
+  "handle": "wakaba",
+  "name": "Wakaba",
+  "github": [
+    "https://github.com/wakaba"
+  ],
+  "own_repos": 139,
+  "commits": 14871,
+  "apps": [],
+  "repos": [
+    {
+      "name": "suikacvs",
+      "repo": "https://github.com/wakaba/suikacvs",
+      "language": "Perl"
+    },
+    {
+      "name": "suikaweb",
+      "repo": "https://github.com/wakaba/suikaweb",
+      "language": "Makefile"
+    },
+    {
+      "name": "nemui",
+      "repo": "https://github.com/wakaba/nemui",
+      "language": "Prolog"
+    },
+    {
+      "name": "tests-web",
+      "repo": "https://github.com/wakaba/tests-web",
+      "url": "https://suika.suikawiki.org/~wakaba/-temp/test",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-ngircd",
+      "repo": "https://github.com/wakaba/docker-ngircd",
+      "language": "Shell"
+    },
+    {
+      "name": "nemuidata",
+      "repo": "https://github.com/wakaba/nemuidata"
+    },
+    {
+      "name": "bwall",
+      "repo": "https://github.com/wakaba/bwall",
+      "language": "Perl"
+    },
+    {
+      "name": "js-hakozushi",
+      "repo": "https://github.com/wakaba/js-hakozushi",
+      "language": "HTML"
+    },
+    {
+      "name": "gruwa",
+      "repo": "https://github.com/wakaba/gruwa",
+      "language": "Perl"
+    },
+    {
+      "name": "misc-tools",
+      "repo": "https://github.com/wakaba/misc-tools",
+      "language": "Python"
+    },
+    {
+      "name": "docker-postgresql",
+      "repo": "https://github.com/wakaba/docker-postgresql",
+      "language": "Makefile"
+    },
+    {
+      "name": "mailserver",
+      "repo": "https://github.com/wakaba/mailserver",
+      "language": "Perl"
+    },
+    {
+      "name": "formatter",
+      "repo": "https://github.com/wakaba/formatter",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-web-utils",
+      "repo": "https://github.com/wakaba/perl-web-utils",
+      "url": "https://github.com/manakai/perl-web-url",
+      "language": "Perl"
+    },
+    {
+      "name": "tests-web-url",
+      "repo": "https://github.com/wakaba/tests-web-url",
+      "url": "https://github.com/wakaba/tests-web/tree/master/url/parsing",
+      "language": "HTML"
+    },
+    {
+      "name": "chrome-hatena-star-everywhere",
+      "repo": "https://github.com/wakaba/chrome-hatena-star-everywhere",
+      "language": "JavaScript"
+    },
+    {
+      "name": "perl-mailutils",
+      "repo": "https://github.com/wakaba/perl-mailutils",
+      "language": "Perl"
+    },
+    {
+      "name": "info.gruwa.net",
+      "repo": "https://github.com/wakaba/info.gruwa.net",
+      "language": "HTML"
+    },
+    {
+      "name": "packages",
+      "repo": "https://github.com/wakaba/packages",
+      "language": "HTML"
+    },
+    {
+      "name": "hatenaid-discovery",
+      "repo": "https://github.com/wakaba/hatenaid-discovery",
+      "url": "https://wakaba.github.io/packages/hatenaid-discovery/docs/spec"
+    },
+    {
+      "name": "webhacc",
+      "repo": "https://github.com/wakaba/webhacc",
+      "url": "https://suika.suikawiki.org/gate/2007/html/cc/",
+      "language": "Perl"
+    },
+    {
+      "name": "webidl2tests",
+      "repo": "https://github.com/wakaba/webidl2tests",
+      "language": "Perl"
+    },
+    {
+      "name": "mozilla-extensions",
+      "repo": "https://github.com/wakaba/mozilla-extensions",
+      "language": "HTML"
+    },
+    {
+      "name": "hsml",
+      "repo": "https://github.com/wakaba/hsml",
+      "language": "CSS"
+    },
+    {
+      "name": "rfclang",
+      "repo": "https://github.com/wakaba/rfclang",
+      "language": "XSLT"
+    },
+    {
+      "name": "samijs",
+      "repo": "https://github.com/wakaba/samijs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "iemenu",
+      "repo": "https://github.com/wakaba/iemenu",
+      "url": "https://wiki.suikawiki.org/n/iemenu",
+      "language": "HTML"
+    },
+    {
+      "name": "remotecanvas",
+      "repo": "https://github.com/wakaba/remotecanvas",
+      "language": "HTML"
+    },
+    {
+      "name": "xpointer-js",
+      "repo": "https://github.com/wakaba/xpointer-js",
+      "language": "HTML"
+    },
+    {
+      "name": "tr-2015",
+      "repo": "https://github.com/wakaba/tr-2015",
+      "language": "Perl"
+    },
+    {
+      "name": "rfc-ja-translations",
+      "repo": "https://github.com/wakaba/rfc-ja-translations",
+      "language": "HTML"
+    },
+    {
+      "name": "perl-regexp-utils",
+      "repo": "https://github.com/wakaba/perl-regexp-utils",
+      "language": "Perl"
+    },
+    {
+      "name": "migemojs",
+      "repo": "https://github.com/wakaba/migemojs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "livecssomviewer",
+      "repo": "https://github.com/wakaba/livecssomviewer",
+      "language": "HTML"
+    },
+    {
+      "name": "commitfeed",
+      "repo": "https://github.com/wakaba/commitfeed",
+      "language": "Perl"
+    },
+    {
+      "name": "suika-www-markup",
+      "repo": "https://github.com/wakaba/suika-www-markup",
+      "language": "Perl"
+    },
+    {
+      "name": "manakai",
+      "repo": "https://github.com/wakaba/manakai",
+      "language": "Perl"
+    },
+    {
+      "name": "ssmchat-server",
+      "repo": "https://github.com/wakaba/ssmchat-server",
+      "language": "Perl"
+    },
+    {
+      "name": "docker-anolis",
+      "repo": "https://github.com/wakaba/docker-anolis",
+      "language": "Makefile"
+    },
+    {
+      "name": "kanzan-2002",
+      "repo": "https://github.com/wakaba/kanzan-2002",
+      "language": "Perl"
+    },
+    {
+      "name": "schemadb",
+      "repo": "https://github.com/wakaba/schemadb",
+      "language": "Perl"
+    },
+    {
+      "name": "testresultlist",
+      "repo": "https://github.com/wakaba/testresultlist",
+      "language": "Perl"
+    },
+    {
+      "name": "feedviewer",
+      "repo": "https://github.com/wakaba/feedviewer",
+      "language": "HTML"
+    },
+    {
+      "name": "workaholicd",
+      "repo": "https://github.com/wakaba/workaholicd",
+      "language": "Perl"
+    },
+    {
+      "name": "straw",
+      "repo": "https://github.com/wakaba/straw",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-webservice-imageurls",
+      "repo": "https://github.com/wakaba/perl-webservice-imageurls",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-text-hatenalite",
+      "repo": "https://github.com/wakaba/perl-text-hatenalite",
+      "language": "Raku"
+    },
+    {
+      "name": "perl-teon",
+      "repo": "https://github.com/wakaba/perl-teon",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-promised-timer",
+      "repo": "https://github.com/wakaba/perl-promised-timer",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-promised-plackup",
+      "repo": "https://github.com/wakaba/perl-promised-plackup",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-mono",
+      "repo": "https://github.com/wakaba/perl-mono",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-anyevent-httpserver",
+      "repo": "https://github.com/wakaba/perl-anyevent-httpserver",
+      "language": "Perl"
+    },
+    {
+      "name": "moktan",
+      "repo": "https://github.com/wakaba/moktan",
+      "language": "Perl"
+    },
+    {
+      "name": "gaa",
+      "repo": "https://github.com/wakaba/gaa",
+      "language": "Perl"
+    },
+    {
+      "name": "clipboard-server",
+      "repo": "https://github.com/wakaba/clipboard-server",
+      "language": "Perl"
+    },
+    {
+      "name": "cennel-2017",
+      "repo": "https://github.com/wakaba/cennel-2017",
+      "language": "Perl"
+    },
+    {
+      "name": "cennel-2014",
+      "repo": "https://github.com/wakaba/cennel-2014",
+      "language": "Perl"
+    },
+    {
+      "name": "js-gpx-parser",
+      "repo": "https://github.com/wakaba/js-gpx-parser",
+      "url": "https://wiki.suikawiki.org/n/js-gpx-parser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "perl-test-anyevent-apache",
+      "repo": "https://github.com/wakaba/perl-test-anyevent-apache",
+      "language": "Perl"
+    },
+    {
+      "name": "gruwa-themes",
+      "repo": "https://github.com/wakaba/gruwa-themes",
+      "language": "CSS"
+    },
+    {
+      "name": "haiku-archiver",
+      "repo": "https://github.com/wakaba/haiku-archiver",
+      "language": "Perl"
+    },
+    {
+      "name": "timerd",
+      "repo": "https://github.com/wakaba/timerd",
+      "language": "Perl"
+    },
+    {
+      "name": "js-geo-encodedpolyline",
+      "repo": "https://github.com/wakaba/js-geo-encodedpolyline",
+      "url": "https://wiki.suikawiki.org/n/Encoded%20Polyline",
+      "language": "HTML"
+    },
+    {
+      "name": "perl-geo-encodedpolyline",
+      "repo": "https://github.com/wakaba/perl-geo-encodedpolyline",
+      "language": "Prolog"
+    },
+    {
+      "name": "heroku-buildpack-perl-pmbp",
+      "repo": "https://github.com/wakaba/heroku-buildpack-perl-pmbp",
+      "language": "Shell"
+    },
+    {
+      "name": "tests-perl",
+      "repo": "https://github.com/wakaba/tests-perl",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-twiggy-packed",
+      "repo": "https://github.com/wakaba/perl-twiggy-packed",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-kyuureki",
+      "repo": "https://github.com/wakaba/perl-kyuureki",
+      "language": "Perl"
+    },
+    {
+      "name": "js-kyuureki",
+      "repo": "https://github.com/wakaba/js-kyuureki",
+      "language": "Perl"
+    },
+    {
+      "name": "mixi-crawler-2008",
+      "repo": "https://github.com/wakaba/mixi-crawler-2008",
+      "language": "Perl"
+    },
+    {
+      "name": "bidom",
+      "repo": "https://github.com/wakaba/bidom",
+      "language": "JavaScript"
+    },
+    {
+      "name": "imageannotator-2005",
+      "repo": "https://github.com/wakaba/imageannotator-2005",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tama",
+      "repo": "https://github.com/wakaba/tama",
+      "language": "Ruby"
+    },
+    {
+      "name": "schedulemanager-2007",
+      "repo": "https://github.com/wakaba/schedulemanager-2007",
+      "language": "Perl"
+    },
+    {
+      "name": "progressreport-2008",
+      "repo": "https://github.com/wakaba/progressreport-2008",
+      "language": "Perl"
+    },
+    {
+      "name": "suika-accounts-2008",
+      "repo": "https://github.com/wakaba/suika-accounts-2008",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-encode-utils",
+      "repo": "https://github.com/wakaba/perl-encode-utils",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-ministores",
+      "repo": "https://github.com/wakaba/perl-ministores",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-cmdutils",
+      "repo": "https://github.com/wakaba/perl-cmdutils",
+      "language": "Perl"
+    },
+    {
+      "name": "netaddradmin-2007",
+      "repo": "https://github.com/wakaba/netaddradmin-2007",
+      "language": "Perl"
+    },
+    {
+      "name": "simgraph-core-2006",
+      "repo": "https://github.com/wakaba/simgraph-core-2006",
+      "language": "Perl"
+    },
+    {
+      "name": "namazu-filters",
+      "repo": "https://github.com/wakaba/namazu-filters",
+      "language": "Perl"
+    },
+    {
+      "name": "slidepacker-2005",
+      "repo": "https://github.com/wakaba/slidepacker-2005",
+      "language": "Perl"
+    },
+    {
+      "name": "doc-perl-locale",
+      "repo": "https://github.com/wakaba/doc-perl-locale",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-wattsi",
+      "repo": "https://github.com/wakaba/docker-wattsi"
+    },
+    {
+      "name": "perl-test-anyevent-plackup",
+      "repo": "https://github.com/wakaba/perl-test-anyevent-plackup",
+      "language": "Perl"
+    },
+    {
+      "name": "h2h",
+      "repo": "https://github.com/wakaba/h2h",
+      "language": "Perl"
+    },
+    {
+      "name": "spec-teon",
+      "repo": "https://github.com/wakaba/spec-teon",
+      "url": "https://wakaba.github.io/spec-teon/",
+      "language": "HTML"
+    },
+    {
+      "name": "tests-teon",
+      "repo": "https://github.com/wakaba/tests-teon"
+    },
+    {
+      "name": "docker-mongodb-with-rest",
+      "repo": "https://github.com/wakaba/docker-mongodb-with-rest",
+      "language": "Shell"
+    },
+    {
+      "name": "perl-test-anyevent-memcached",
+      "repo": "https://github.com/wakaba/perl-test-anyevent-memcached",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-httest",
+      "repo": "https://github.com/wakaba/perl-httest",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-test-anyevent-servers",
+      "repo": "https://github.com/wakaba/perl-test-anyevent-servers",
+      "language": "Perl"
+    },
+    {
+      "name": "cennel",
+      "repo": "https://github.com/wakaba/cennel",
+      "language": "Perl"
+    },
+    {
+      "name": "perl-webservice-hatena",
+      "repo": "https://github.com/wakaba/perl-webservice-hatena",
+      "language": "Perl"
+    },
+    {
+      "name": "data-web-lists",
+      "repo": "https://github.com/wakaba/data-web-lists"
+    },
+    {
+      "name": "perl-authen-signedrequest",
+      "repo": "https://github.com/wakaba/perl-authen-signedrequest",
+      "language": "Perl"
+    },
+    {
+      "name": "opentenjs",
+      "repo": "https://github.com/wakaba/opentenjs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "perl-test-apache-rewriterules",
+      "repo": "https://github.com/wakaba/perl-test-apache-rewriterules",
+      "language": "Perl"
+    },
+    {
+      "name": "dango",
+      "repo": "https://github.com/wakaba/dango",
+      "language": "Perl"
+    }
+  ]
+}

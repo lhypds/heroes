@@ -1,0 +1,505 @@
+{
+  "handle": "carlosamolina",
+  "name": "Carlos A Molina",
+  "github": [
+    "https://github.com/carlosamolina"
+  ],
+  "website": "https://cmoli.es/",
+  "own_repos": 106,
+  "commits": 10082,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/CarlosAMolina/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "wiki",
+      "repo": "https://github.com/CarlosAMolina/wiki",
+      "language": "HTML"
+    },
+    {
+      "name": "aws",
+      "repo": "https://github.com/CarlosAMolina/aws",
+      "language": "Python"
+    },
+    {
+      "name": "cmoli.es",
+      "repo": "https://github.com/CarlosAMolina/cmoli.es",
+      "language": "HTML"
+    },
+    {
+      "name": "carlosamolina.github.io",
+      "repo": "https://github.com/CarlosAMolina/carlosamolina.github.io",
+      "url": "https://carlosamolina.github.io/",
+      "language": "HTML"
+    },
+    {
+      "name": "cmoli.es-deploy",
+      "repo": "https://github.com/CarlosAMolina/cmoli.es-deploy",
+      "language": "Go"
+    },
+    {
+      "name": "web-server-go",
+      "repo": "https://github.com/CarlosAMolina/web-server-go",
+      "language": "Go"
+    },
+    {
+      "name": "md-to-html-go",
+      "repo": "https://github.com/CarlosAMolina/md-to-html-go",
+      "language": "Go"
+    },
+    {
+      "name": "checkIframe",
+      "repo": "https://github.com/CarlosAMolina/checkIframe",
+      "url": "https://addons.mozilla.org/es/firefox/addon/check-iframe/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "checkIframe-icons",
+      "repo": "https://github.com/CarlosAMolina/checkIframe-icons"
+    },
+    {
+      "name": "workWithUrls",
+      "repo": "https://github.com/CarlosAMolina/workWithUrls",
+      "url": "https://addons.mozilla.org/addon/workwithurls/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jokes-front",
+      "repo": "https://github.com/CarlosAMolina/jokes-front",
+      "language": "HTML"
+    },
+    {
+      "name": "dotfiles-go",
+      "repo": "https://github.com/CarlosAMolina/dotfiles-go",
+      "language": "Go"
+    },
+    {
+      "name": "c",
+      "repo": "https://github.com/CarlosAMolina/c",
+      "language": "C"
+    },
+    {
+      "name": "md-to-html-python",
+      "repo": "https://github.com/CarlosAMolina/md-to-html-python",
+      "language": "Python"
+    },
+    {
+      "name": "replace-bash",
+      "repo": "https://github.com/CarlosAMolina/replace-bash",
+      "language": "Shell"
+    },
+    {
+      "name": "go",
+      "repo": "https://github.com/CarlosAMolina/go",
+      "language": "Go"
+    },
+    {
+      "name": "caddy",
+      "repo": "https://github.com/CarlosAMolina/caddy",
+      "language": "HTML"
+    },
+    {
+      "name": "contacts-cli-go",
+      "repo": "https://github.com/CarlosAMolina/contacts-cli-go",
+      "language": "Go"
+    },
+    {
+      "name": "fork-bomb",
+      "repo": "https://github.com/CarlosAMolina/fork-bomb",
+      "language": "Makefile"
+    },
+    {
+      "name": "cmoli.es-docs",
+      "repo": "https://github.com/CarlosAMolina/cmoli.es-docs"
+    },
+    {
+      "name": "javascript",
+      "repo": "https://github.com/CarlosAMolina/javascript",
+      "language": "JavaScript"
+    },
+    {
+      "name": "frontend-masters-getting-started-with-css-v2",
+      "repo": "https://github.com/CarlosAMolina/frontend-masters-getting-started-with-css-v2",
+      "language": "HTML"
+    },
+    {
+      "name": "contacts-front",
+      "repo": "https://github.com/CarlosAMolina/contacts-front",
+      "language": "JavaScript"
+    },
+    {
+      "name": "contacts",
+      "repo": "https://github.com/CarlosAMolina/contacts",
+      "language": "Rust"
+    },
+    {
+      "name": "contacts-api-js",
+      "repo": "https://github.com/CarlosAMolina/contacts-api-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "contacts-cli-js",
+      "repo": "https://github.com/CarlosAMolina/contacts-cli-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "learning-graphql",
+      "repo": "https://github.com/CarlosAMolina/learning-graphql",
+      "language": "JavaScript"
+    },
+    {
+      "name": "introduction-to-node-js-v3-frontend-masters",
+      "repo": "https://github.com/CarlosAMolina/introduction-to-node-js-v3-frontend-masters",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pandas",
+      "repo": "https://github.com/CarlosAMolina/pandas",
+      "language": "Python"
+    },
+    {
+      "name": "aws-s3-diff",
+      "repo": "https://github.com/CarlosAMolina/aws-s3-diff",
+      "language": "Python"
+    },
+    {
+      "name": "python",
+      "repo": "https://github.com/CarlosAMolina/python",
+      "language": "Python"
+    },
+    {
+      "name": "dgraph",
+      "repo": "https://github.com/CarlosAMolina/dgraph",
+      "language": "Makefile"
+    },
+    {
+      "name": "alembic",
+      "repo": "https://github.com/CarlosAMolina/alembic",
+      "language": "Python"
+    },
+    {
+      "name": "cantrill.io-aws-sa-associate-saac03",
+      "repo": "https://github.com/CarlosAMolina/cantrill.io-aws-sa-associate-saac03"
+    },
+    {
+      "name": "bookmarks-parser",
+      "repo": "https://github.com/CarlosAMolina/bookmarks-parser",
+      "language": "Python"
+    },
+    {
+      "name": "open-urls",
+      "repo": "https://github.com/CarlosAMolina/open-urls",
+      "language": "JavaScript"
+    },
+    {
+      "name": "job-modify-issue-name",
+      "repo": "https://github.com/CarlosAMolina/job-modify-issue-name",
+      "language": "JavaScript"
+    },
+    {
+      "name": "job-check-lambda-name",
+      "repo": "https://github.com/CarlosAMolina/job-check-lambda-name",
+      "language": "JavaScript"
+    },
+    {
+      "name": "postgresql",
+      "repo": "https://github.com/CarlosAMolina/postgresql",
+      "language": "Makefile"
+    },
+    {
+      "name": "sqlalchemy",
+      "repo": "https://github.com/CarlosAMolina/sqlalchemy",
+      "language": "Python"
+    },
+    {
+      "name": "media-server",
+      "repo": "https://github.com/CarlosAMolina/media-server",
+      "language": "Makefile"
+    },
+    {
+      "name": "git",
+      "repo": "https://github.com/CarlosAMolina/git"
+    },
+    {
+      "name": "mongo-db",
+      "repo": "https://github.com/CarlosAMolina/mongo-db",
+      "language": "JavaScript"
+    },
+    {
+      "name": "csv",
+      "repo": "https://github.com/CarlosAMolina/csv",
+      "language": "Python"
+    },
+    {
+      "name": "data-migration",
+      "repo": "https://github.com/CarlosAMolina/data-migration",
+      "language": "Python"
+    },
+    {
+      "name": "microservice-apis-python",
+      "repo": "https://github.com/CarlosAMolina/microservice-apis-python",
+      "language": "Python"
+    },
+    {
+      "name": "graphql",
+      "repo": "https://github.com/CarlosAMolina/graphql",
+      "language": "Python"
+    },
+    {
+      "name": "pre-commit",
+      "repo": "https://github.com/CarlosAMolina/pre-commit",
+      "language": "Python"
+    },
+    {
+      "name": "python-api-development-fundamentals",
+      "repo": "https://github.com/CarlosAMolina/python-api-development-fundamentals",
+      "language": "Python"
+    },
+    {
+      "name": "analyze-file-columns-values",
+      "repo": "https://github.com/CarlosAMolina/analyze-file-columns-values",
+      "language": "Python"
+    },
+    {
+      "name": "pre-commit-js",
+      "repo": "https://github.com/CarlosAMolina/pre-commit-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pandoc",
+      "repo": "https://github.com/CarlosAMolina/pandoc",
+      "language": "Makefile"
+    },
+    {
+      "name": "requests_custom",
+      "repo": "https://github.com/CarlosAMolina/requests_custom",
+      "language": "Python"
+    },
+    {
+      "name": "sptest",
+      "repo": "https://github.com/CarlosAMolina/sptest",
+      "language": "Python"
+    },
+    {
+      "name": "pyenv_pipenv_docker",
+      "repo": "https://github.com/CarlosAMolina/pyenv_pipenv_docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/CarlosAMolina/test"
+    },
+    {
+      "name": "usb-linux",
+      "repo": "https://github.com/CarlosAMolina/usb-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "rust",
+      "repo": "https://github.com/CarlosAMolina/rust",
+      "language": "Rust"
+    },
+    {
+      "name": "mtg",
+      "repo": "https://github.com/CarlosAMolina/mtg",
+      "language": "Rust"
+    },
+    {
+      "name": "mermaid",
+      "repo": "https://github.com/CarlosAMolina/mermaid"
+    },
+    {
+      "name": "web-design",
+      "repo": "https://github.com/CarlosAMolina/web-design",
+      "language": "HTML"
+    },
+    {
+      "name": "nginx",
+      "repo": "https://github.com/CarlosAMolina/nginx",
+      "language": "Shell"
+    },
+    {
+      "name": "writing-an-interpreter-in-go",
+      "repo": "https://github.com/CarlosAMolina/writing-an-interpreter-in-go",
+      "language": "Go"
+    },
+    {
+      "name": "rust-web-development-with-warp-tokio-and-reqwest",
+      "repo": "https://github.com/CarlosAMolina/rust-web-development-with-warp-tokio-and-reqwest",
+      "language": "Rust"
+    },
+    {
+      "name": "bad-words",
+      "repo": "https://github.com/CarlosAMolina/bad-words",
+      "language": "Rust"
+    },
+    {
+      "name": "nginx-logs",
+      "repo": "https://github.com/CarlosAMolina/nginx-logs",
+      "language": "Python"
+    },
+    {
+      "name": "nginx-logs-generator",
+      "repo": "https://github.com/CarlosAMolina/nginx-logs-generator",
+      "language": "Rust"
+    },
+    {
+      "name": "contacts-parser",
+      "repo": "https://github.com/CarlosAMolina/contacts-parser",
+      "language": "Python"
+    },
+    {
+      "name": "regex",
+      "repo": "https://github.com/CarlosAMolina/regex"
+    },
+    {
+      "name": "github-api",
+      "repo": "https://github.com/CarlosAMolina/github-api",
+      "language": "Python"
+    },
+    {
+      "name": "pdf-crack-password",
+      "repo": "https://github.com/CarlosAMolina/pdf-crack-password",
+      "language": "Python"
+    },
+    {
+      "name": "sar",
+      "repo": "https://github.com/CarlosAMolina/sar",
+      "language": "Makefile"
+    },
+    {
+      "name": "perf",
+      "repo": "https://github.com/CarlosAMolina/perf",
+      "language": "Makefile"
+    },
+    {
+      "name": "matplotlib",
+      "repo": "https://github.com/CarlosAMolina/matplotlib",
+      "language": "Python"
+    },
+    {
+      "name": "valgrind",
+      "repo": "https://github.com/CarlosAMolina/valgrind",
+      "language": "Rust"
+    },
+    {
+      "name": "lpic",
+      "repo": "https://github.com/CarlosAMolina/lpic"
+    },
+    {
+      "name": "nginx-logs-parser-rust-vs-python-book",
+      "repo": "https://github.com/CarlosAMolina/nginx-logs-parser-rust-vs-python-book",
+      "language": "TeX"
+    },
+    {
+      "name": "design-patterns",
+      "repo": "https://github.com/CarlosAMolina/design-patterns",
+      "language": "Python"
+    },
+    {
+      "name": "workshop-rust-web-server",
+      "repo": "https://github.com/CarlosAMolina/workshop-rust-web-server",
+      "language": "TeX"
+    },
+    {
+      "name": "workshop-rust-web-server-pdf",
+      "repo": "https://github.com/CarlosAMolina/workshop-rust-web-server-pdf"
+    },
+    {
+      "name": "toc-markdown",
+      "repo": "https://github.com/CarlosAMolina/toc-markdown",
+      "language": "Python"
+    },
+    {
+      "name": "rust-book",
+      "repo": "https://github.com/CarlosAMolina/rust-book",
+      "language": "Rust"
+    },
+    {
+      "name": "buttons-html",
+      "repo": "https://github.com/CarlosAMolina/buttons-html",
+      "language": "HTML"
+    },
+    {
+      "name": "logs-analyzer",
+      "repo": "https://github.com/CarlosAMolina/logs-analyzer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "angular",
+      "repo": "https://github.com/CarlosAMolina/angular",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nginx-and-flask",
+      "repo": "https://github.com/CarlosAMolina/nginx-and-flask",
+      "language": "Python"
+    },
+    {
+      "name": "flask-tutorial",
+      "repo": "https://github.com/CarlosAMolina/flask-tutorial",
+      "language": "Python"
+    },
+    {
+      "name": "plusvalia-calculator",
+      "repo": "https://github.com/CarlosAMolina/plusvalia-calculator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "design-principles",
+      "repo": "https://github.com/CarlosAMolina/design-principles",
+      "language": "Python"
+    },
+    {
+      "name": "workWithUrls-icons",
+      "repo": "https://github.com/CarlosAMolina/workWithUrls-icons"
+    },
+    {
+      "name": "elpais-reader-shell",
+      "repo": "https://github.com/CarlosAMolina/elpais-reader-shell",
+      "language": "Shell"
+    },
+    {
+      "name": "elpais-reader",
+      "repo": "https://github.com/CarlosAMolina/elpais-reader",
+      "language": "Python"
+    },
+    {
+      "name": "logs",
+      "repo": "https://github.com/CarlosAMolina/logs",
+      "language": "Python"
+    },
+    {
+      "name": "workshop-python-pandas",
+      "repo": "https://github.com/CarlosAMolina/workshop-python-pandas",
+      "language": "TeX"
+    },
+    {
+      "name": "workshop-python-pandas-pdf",
+      "repo": "https://github.com/CarlosAMolina/workshop-python-pandas-pdf"
+    },
+    {
+      "name": "pyenv_linux",
+      "repo": "https://github.com/CarlosAMolina/pyenv_linux",
+      "language": "Shell"
+    },
+    {
+      "name": "install",
+      "repo": "https://github.com/CarlosAMolina/install",
+      "language": "Shell"
+    },
+    {
+      "name": "workshop_development",
+      "repo": "https://github.com/CarlosAMolina/workshop_development",
+      "language": "Python"
+    },
+    {
+      "name": "twitterInfo",
+      "repo": "https://github.com/CarlosAMolina/twitterInfo",
+      "language": "Python"
+    }
+  ]
+}

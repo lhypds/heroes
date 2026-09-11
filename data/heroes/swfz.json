@@ -1,0 +1,505 @@
+{
+  "handle": "swfz",
+  "name": "swfz",
+  "github": [
+    "https://github.com/swfz"
+  ],
+  "website": "https://swfz.hatenablog.com/",
+  "own_repos": 110,
+  "commits": 10698,
+  "apps": [],
+  "repos": [
+    {
+      "name": "article-search",
+      "repo": "https://github.com/swfz/article-search",
+      "language": "TypeScript"
+    },
+    {
+      "name": "til",
+      "repo": "https://github.com/swfz/til",
+      "url": "https://til.swfz.io",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gh-annotations",
+      "repo": "https://github.com/swfz/gh-annotations",
+      "language": "Go"
+    },
+    {
+      "name": "gh-deps",
+      "repo": "https://github.com/swfz/gh-deps",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/swfz/dotfiles",
+      "language": "HTML"
+    },
+    {
+      "name": "gh-ap",
+      "repo": "https://github.com/swfz/gh-ap",
+      "language": "Go"
+    },
+    {
+      "name": "chrome-extension-slide-comment-stream",
+      "repo": "https://github.com/swfz/chrome-extension-slide-comment-stream",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chrome-extension-copy-markdown-and-hatenablog-embed-link",
+      "repo": "https://github.com/swfz/chrome-extension-copy-markdown-and-hatenablog-embed-link",
+      "url": "https://chrome.google.com/webstore/detail/copy-markdown-and-hatena/cdeombmhokoiinckjacbjcpdabippeim",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chrome-extension-google-slide-usertool-comment-stream",
+      "repo": "https://github.com/swfz/chrome-extension-google-slide-usertool-comment-stream",
+      "url": "https://chrome.google.com/webstore/detail/googleslide-comment-strea/cjhbnmagndpfjadnpbceahnccfpbmaii",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slack-to-obsidian-memos-merge",
+      "repo": "https://github.com/swfz/slack-to-obsidian-memos-merge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "failed-log-to-slack-action",
+      "repo": "https://github.com/swfz/failed-log-to-slack-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hatenablog_publisher",
+      "repo": "https://github.com/swfz/hatenablog_publisher",
+      "language": "Ruby"
+    },
+    {
+      "name": "claude-bridge",
+      "repo": "https://github.com/swfz/claude-bridge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "git-hooks",
+      "repo": "https://github.com/swfz/git-hooks",
+      "language": "Shell"
+    },
+    {
+      "name": "chrome-extension-dom-links-extractor",
+      "repo": "https://github.com/swfz/chrome-extension-dom-links-extractor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "googleslide-comme-stream-develop",
+      "repo": "https://github.com/swfz/googleslide-comme-stream-develop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "markdown-sentence-sentiment",
+      "repo": "https://github.com/swfz/markdown-sentence-sentiment",
+      "language": "JavaScript"
+    },
+    {
+      "name": "toggl-to-pixela-cloud-workflows",
+      "repo": "https://github.com/swfz/toggl-to-pixela-cloud-workflows",
+      "language": "HCL"
+    },
+    {
+      "name": "what_recent",
+      "repo": "https://github.com/swfz/what_recent",
+      "language": "Python"
+    },
+    {
+      "name": "markdown-importer",
+      "repo": "https://github.com/swfz/markdown-importer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tools",
+      "repo": "https://github.com/swfz/tools",
+      "url": "https://tools.swfz.io",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-kusa-image",
+      "repo": "https://github.com/swfz/deno-kusa-image",
+      "language": "HTML"
+    },
+    {
+      "name": "deno-terminal-image",
+      "repo": "https://github.com/swfz/deno-terminal-image",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hatenablog-all-feed-generator",
+      "repo": "https://github.com/swfz/hatenablog-all-feed-generator",
+      "language": "Ruby"
+    },
+    {
+      "name": "hatenablog_publisher_sample1",
+      "repo": "https://github.com/swfz/hatenablog_publisher_sample1"
+    },
+    {
+      "name": "bookmarklets",
+      "repo": "https://github.com/swfz/bookmarklets",
+      "language": "JavaScript"
+    },
+    {
+      "name": "obsidian-opener",
+      "repo": "https://github.com/swfz/obsidian-opener",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crx-message-sample",
+      "repo": "https://github.com/swfz/crx-message-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "notion-habit-tracker",
+      "repo": "https://github.com/swfz/notion-habit-tracker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-traffic",
+      "repo": "https://github.com/swfz/github-traffic"
+    },
+    {
+      "name": "todo-sample",
+      "repo": "https://github.com/swfz/todo-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "terraform-sample",
+      "repo": "https://github.com/swfz/terraform-sample",
+      "language": "HCL"
+    },
+    {
+      "name": "slackbot",
+      "repo": "https://github.com/swfz/slackbot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scrawls",
+      "repo": "https://github.com/swfz/scrawls"
+    },
+    {
+      "name": "sandbox",
+      "repo": "https://github.com/swfz/sandbox",
+      "language": "Python"
+    },
+    {
+      "name": "s3-direct-upload-with-presigned-url",
+      "repo": "https://github.com/swfz/s3-direct-upload-with-presigned-url",
+      "language": "Ruby"
+    },
+    {
+      "name": "redash_dynamic_query",
+      "repo": "https://github.com/swfz/redash_dynamic_query",
+      "language": "Ruby"
+    },
+    {
+      "name": "marble-diagram",
+      "repo": "https://github.com/swfz/marble-diagram",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jupyter-docker",
+      "repo": "https://github.com/swfz/jupyter-docker",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "s3-direct-multipart-upload-with-presigned",
+      "repo": "https://github.com/swfz/s3-direct-multipart-upload-with-presigned",
+      "language": "HTML"
+    },
+    {
+      "name": "gas-scripts",
+      "repo": "https://github.com/swfz/gas-scripts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dockerfiles",
+      "repo": "https://github.com/swfz/dockerfiles",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-norikra",
+      "repo": "https://github.com/swfz/docker-norikra",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-mkdocs",
+      "repo": "https://github.com/swfz/docker-mkdocs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-elasticsearch",
+      "repo": "https://github.com/swfz/docker-elasticsearch",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-compose-sample",
+      "repo": "https://github.com/swfz/docker-compose-sample",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "doc-search",
+      "repo": "https://github.com/swfz/doc-search",
+      "language": "Ruby"
+    },
+    {
+      "name": "darts",
+      "repo": "https://github.com/swfz/darts",
+      "language": "CSS"
+    },
+    {
+      "name": "cloud-run-ruby-sample",
+      "repo": "https://github.com/swfz/cloud-run-ruby-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "bq-sample-ts",
+      "repo": "https://github.com/swfz/bq-sample-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ga-event-flatten",
+      "repo": "https://github.com/swfz/ga-event-flatten",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-actions-playground",
+      "repo": "https://github.com/swfz/github-actions-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "deno-kv-logviewer",
+      "repo": "https://github.com/swfz/deno-kv-logviewer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "swfz",
+      "repo": "https://github.com/swfz/swfz"
+    },
+    {
+      "name": "chrome-extension-table2csv",
+      "repo": "https://github.com/swfz/chrome-extension-table2csv",
+      "language": "JavaScript"
+    },
+    {
+      "name": "deno-deploy-sample",
+      "repo": "https://github.com/swfz/deno-deploy-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "autoreview-sample",
+      "repo": "https://github.com/swfz/autoreview-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "typescript-playground",
+      "repo": "https://github.com/swfz/typescript-playground",
+      "language": "TypeScript"
+    },
+    {
+      "name": "angular-tour-of-heroes",
+      "repo": "https://github.com/swfz/angular-tour-of-heroes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-practice",
+      "repo": "https://github.com/swfz/react-practice",
+      "language": "TypeScript"
+    },
+    {
+      "name": "heroes",
+      "repo": "https://github.com/swfz/heroes",
+      "language": "HCL"
+    },
+    {
+      "name": "revealjs-sample",
+      "repo": "https://github.com/swfz/revealjs-sample",
+      "language": "CSS"
+    },
+    {
+      "name": "angular2-es-raw-search",
+      "repo": "https://github.com/swfz/angular2-es-raw-search",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chartjs-sample",
+      "repo": "https://github.com/swfz/chartjs-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-practice-dp",
+      "repo": "https://github.com/swfz/ts-practice-dp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ri-inventory",
+      "repo": "https://github.com/swfz/ri-inventory",
+      "language": "Ruby"
+    },
+    {
+      "name": "myApp",
+      "repo": "https://github.com/swfz/myApp",
+      "language": "Scala"
+    },
+    {
+      "name": "angular-pwa-sample",
+      "repo": "https://github.com/swfz/angular-pwa-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "timeline2slack",
+      "repo": "https://github.com/swfz/timeline2slack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jm2slackstatus",
+      "repo": "https://github.com/swfz/jm2slackstatus",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails-api-sample",
+      "repo": "https://github.com/swfz/rails-api-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "ng2-sample",
+      "repo": "https://github.com/swfz/ng2-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "google-chart-sample",
+      "repo": "https://github.com/swfz/google-chart-sample",
+      "language": "HTML"
+    },
+    {
+      "name": "ngx-libraries",
+      "repo": "https://github.com/swfz/ngx-libraries",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shared-count",
+      "repo": "https://github.com/swfz/shared-count",
+      "language": "Python"
+    },
+    {
+      "name": "gatsby-cloudflare-pages",
+      "repo": "https://github.com/swfz/gatsby-cloudflare-pages",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scully-demo",
+      "repo": "https://github.com/swfz/scully-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gpt-1on1",
+      "repo": "https://github.com/swfz/gpt-1on1",
+      "language": "Python"
+    },
+    {
+      "name": "ngx-sample",
+      "repo": "https://github.com/swfz/ngx-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "next-ts-sample",
+      "repo": "https://github.com/swfz/next-ts-sample",
+      "language": "TypeScript"
+    },
+    {
+      "name": "amazon_taglist",
+      "repo": "https://github.com/swfz/amazon_taglist"
+    },
+    {
+      "name": "cloud-workflows-samples",
+      "repo": "https://github.com/swfz/cloud-workflows-samples"
+    },
+    {
+      "name": "cloudformation-cross-stack-ref",
+      "repo": "https://github.com/swfz/cloudformation-cross-stack-ref",
+      "language": "Shell"
+    },
+    {
+      "name": "create-issue",
+      "repo": "https://github.com/swfz/create-issue",
+      "language": "Go"
+    },
+    {
+      "name": "ansible-sandbox",
+      "repo": "https://github.com/swfz/ansible-sandbox"
+    },
+    {
+      "name": "ngx-table-input",
+      "repo": "https://github.com/swfz/ngx-table-input",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ansible-plenv",
+      "repo": "https://github.com/swfz/ansible-plenv",
+      "language": "Shell"
+    },
+    {
+      "name": "loadenv",
+      "repo": "https://github.com/swfz/loadenv",
+      "language": "Go"
+    },
+    {
+      "name": "ansible-role-supervisor3",
+      "repo": "https://github.com/swfz/ansible-role-supervisor3",
+      "language": "Shell"
+    },
+    {
+      "name": "twitter2slack",
+      "repo": "https://github.com/swfz/twitter2slack"
+    },
+    {
+      "name": "ansible-playbook-resque_web",
+      "repo": "https://github.com/swfz/ansible-playbook-resque_web",
+      "language": "Ruby"
+    },
+    {
+      "name": "ansible-role-rbenv",
+      "repo": "https://github.com/swfz/ansible-role-rbenv"
+    },
+    {
+      "name": "ansible-role-git",
+      "repo": "https://github.com/swfz/ansible-role-git"
+    },
+    {
+      "name": "mkdocs_sample",
+      "repo": "https://github.com/swfz/mkdocs_sample",
+      "language": "CSS"
+    },
+    {
+      "name": "playbooks",
+      "repo": "https://github.com/swfz/playbooks",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-ojava8",
+      "repo": "https://github.com/swfz/ansible-role-ojava8"
+    },
+    {
+      "name": "sw_push_notification",
+      "repo": "https://github.com/swfz/sw_push_notification",
+      "language": "JavaScript"
+    },
+    {
+      "name": "js-api",
+      "repo": "https://github.com/swfz/js-api",
+      "language": "HTML"
+    },
+    {
+      "name": "ansible-playbook-sqs2slack",
+      "repo": "https://github.com/swfz/ansible-playbook-sqs2slack",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-mongodb",
+      "repo": "https://github.com/swfz/ansible-role-mongodb"
+    }
+  ]
+}

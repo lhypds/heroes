@@ -1,0 +1,502 @@
+{
+  "handle": "meg768",
+  "name": "meg768",
+  "github": [
+    "https://github.com/meg768"
+  ],
+  "own_repos": 126,
+  "commits": 12853,
+  "apps": [],
+  "repos": [
+    {
+      "name": "panowizard",
+      "repo": "https://github.com/meg768/panowizard",
+      "language": "Swift"
+    },
+    {
+      "name": "vitel",
+      "repo": "https://github.com/meg768/vitel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ta-explorer",
+      "repo": "https://github.com/meg768/ta-explorer"
+    },
+    {
+      "name": "atp-tennis",
+      "repo": "https://github.com/meg768/atp-tennis",
+      "language": "JavaScript"
+    },
+    {
+      "name": "match-point",
+      "repo": "https://github.com/meg768/match-point",
+      "language": "Swift"
+    },
+    {
+      "name": "atp-mqtt",
+      "repo": "https://github.com/meg768/atp-mqtt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "match-point-gpt",
+      "repo": "https://github.com/meg768/match-point-gpt",
+      "language": "Swift"
+    },
+    {
+      "name": "mqtt-pushover",
+      "repo": "https://github.com/meg768/mqtt-pushover",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-homey-mqtt",
+      "repo": "https://github.com/meg768/homebridge-homey-mqtt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homey-mqtt",
+      "repo": "https://github.com/meg768/homey-mqtt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cosmic-unicorn",
+      "repo": "https://github.com/meg768/cosmic-unicorn",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-matrix-display",
+      "repo": "https://github.com/meg768/rpi-matrix-display",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rpi-matrix",
+      "repo": "https://github.com/meg768/rpi-matrix",
+      "language": "C++"
+    },
+    {
+      "name": "fado-pixels",
+      "repo": "https://github.com/meg768/fado-pixels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atp-tennis-chat",
+      "repo": "https://github.com/meg768/atp-tennis-chat",
+      "language": "HTML"
+    },
+    {
+      "name": "cosmic-unicorn-service",
+      "repo": "https://github.com/meg768/cosmic-unicorn-service",
+      "language": "Python"
+    },
+    {
+      "name": "word-clock",
+      "repo": "https://github.com/meg768/word-clock",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tennis-scanner-daily",
+      "repo": "https://github.com/meg768/tennis-scanner-daily",
+      "language": "HTML"
+    },
+    {
+      "name": "market-scanner-daily",
+      "repo": "https://github.com/meg768/market-scanner-daily",
+      "language": "HTML"
+    },
+    {
+      "name": "rpi-neopixels",
+      "repo": "https://github.com/meg768/rpi-neopixels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homey-fado",
+      "repo": "https://github.com/meg768/homey-fado",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rpi-animations",
+      "repo": "https://github.com/meg768/rpi-animations",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rpi-ws281x",
+      "repo": "https://github.com/meg768/rpi-ws281x",
+      "language": "C"
+    },
+    {
+      "name": "rpi-pixels",
+      "repo": "https://github.com/meg768/rpi-pixels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "installing-new-rpi-from-scratch",
+      "repo": "https://github.com/meg768/installing-new-rpi-from-scratch"
+    },
+    {
+      "name": "homey-matrix",
+      "repo": "https://github.com/meg768/homey-matrix",
+      "language": "JavaScript"
+    },
+    {
+      "name": "raspberry-pi-drive-setup",
+      "repo": "https://github.com/meg768/raspberry-pi-drive-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "munch",
+      "repo": "https://github.com/meg768/munch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mysql-express",
+      "repo": "https://github.com/meg768/mysql-express",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vite",
+      "repo": "https://github.com/meg768/vite"
+    },
+    {
+      "name": "emojis",
+      "repo": "https://github.com/meg768/emojis",
+      "language": "HTML"
+    },
+    {
+      "name": "pico",
+      "repo": "https://github.com/meg768/pico",
+      "language": "Python"
+    },
+    {
+      "name": "homebridge-ikea-tradfri-gateway",
+      "repo": "https://github.com/meg768/homebridge-ikea-tradfri-gateway",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pigpio-button",
+      "repo": "https://github.com/meg768/pigpio-button",
+      "language": "JavaScript"
+    },
+    {
+      "name": "avanza-mobile-client",
+      "repo": "https://github.com/meg768/avanza-mobile-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rpi-wifi-connection",
+      "repo": "https://github.com/meg768/rpi-wifi-connection",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homey-tesla-vehicle",
+      "repo": "https://github.com/meg768/homey-tesla-vehicle",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-my-tesla",
+      "repo": "https://github.com/meg768/homebridge-my-tesla",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homey-pushover-notifications",
+      "repo": "https://github.com/meg768/homey-pushover-notifications",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-async",
+      "repo": "https://github.com/meg768/mqtt-async",
+      "language": "JavaScript"
+    },
+    {
+      "name": "my-app",
+      "repo": "https://github.com/meg768/my-app",
+      "language": "SCSS"
+    },
+    {
+      "name": "avanza-cli",
+      "repo": "https://github.com/meg768/avanza-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-cache",
+      "repo": "https://github.com/meg768/mqtt-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-homey-socket-io",
+      "repo": "https://github.com/meg768/homebridge-homey-socket-io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wordle-words",
+      "repo": "https://github.com/meg768/wordle-words",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lubega",
+      "repo": "https://github.com/meg768/lubega",
+      "language": "HTML"
+    },
+    {
+      "name": "homey-socket.io",
+      "repo": "https://github.com/meg768/homey-socket.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-bootify",
+      "repo": "https://github.com/meg768/react-bootify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "my-tesla",
+      "repo": "https://github.com/meg768/my-tesla",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ikea-tradfri-stock-market-indicator",
+      "repo": "https://github.com/meg768/ikea-tradfri-stock-market-indicator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-ikea-tradfri-stock-market-indicator",
+      "repo": "https://github.com/meg768/homebridge-ikea-tradfri-stock-market-indicator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sshfsm",
+      "repo": "https://github.com/meg768/sshfsm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-ex",
+      "repo": "https://github.com/meg768/mqtt-ex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-dispatch",
+      "repo": "https://github.com/meg768/mqtt-dispatch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rss-parser-events",
+      "repo": "https://github.com/meg768/rss-parser-events",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yow",
+      "repo": "https://github.com/meg768/yow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-yahoo-quotes",
+      "repo": "https://github.com/meg768/mqtt-yahoo-quotes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotconfig",
+      "repo": "https://github.com/meg768/dotconfig",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rss-headlines",
+      "repo": "https://github.com/meg768/rss-headlines",
+      "language": "JavaScript"
+    },
+    {
+      "name": "plj-neopixels",
+      "repo": "https://github.com/meg768/plj-neopixels",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tesla-api-request",
+      "repo": "https://github.com/meg768/tesla-api-request",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-tesla-api",
+      "repo": "https://github.com/meg768/simple-tesla-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homey-app",
+      "repo": "https://github.com/meg768/homey-app"
+    },
+    {
+      "name": "tesla-mqtt-bridge",
+      "repo": "https://github.com/meg768/tesla-mqtt-bridge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mqtt-testa-bridge",
+      "repo": "https://github.com/meg768/mqtt-testa-bridge",
+      "language": "Makefile"
+    },
+    {
+      "name": "tesla-api",
+      "repo": "https://github.com/meg768/tesla-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "remote-pi",
+      "repo": "https://github.com/meg768/remote-pi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "emojipedia",
+      "repo": "https://github.com/meg768/emojipedia",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bulmatic",
+      "repo": "https://github.com/meg768/bulmatic",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-mqtt-bridge",
+      "repo": "https://github.com/meg768/homebridge-mqtt-bridge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "borsdata-api",
+      "repo": "https://github.com/meg768/borsdata-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-pushover",
+      "repo": "https://github.com/meg768/homebridge-pushover",
+      "language": "JavaScript"
+    },
+    {
+      "name": "npm-makefile",
+      "repo": "https://github.com/meg768/npm-makefile",
+      "language": "Makefile"
+    },
+    {
+      "name": "strecket-old",
+      "repo": "https://github.com/meg768/strecket-old",
+      "language": "JavaScript"
+    },
+    {
+      "name": "web-server",
+      "repo": "https://github.com/meg768/web-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-http-request",
+      "repo": "https://github.com/meg768/homebridge-http-request",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wordpress-guide",
+      "repo": "https://github.com/meg768/wordpress-guide"
+    },
+    {
+      "name": "homebridge-telldus-tellstick-duo",
+      "repo": "https://github.com/meg768/homebridge-telldus-tellstick-duo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rpi-display",
+      "repo": "https://github.com/meg768/rpi-display",
+      "language": "C++"
+    },
+    {
+      "name": "homebridge-tesla-anti-freeze",
+      "repo": "https://github.com/meg768/homebridge-tesla-anti-freeze"
+    },
+    {
+      "name": "pigpio-vma309",
+      "repo": "https://github.com/meg768/pigpio-vma309",
+      "language": "JavaScript"
+    },
+    {
+      "name": "matrix",
+      "repo": "https://github.com/meg768/matrix",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hzeller-matrix",
+      "repo": "https://github.com/meg768/hzeller-matrix",
+      "language": "C++"
+    },
+    {
+      "name": "homebridge-tilt-thermostat",
+      "repo": "https://github.com/meg768/homebridge-tilt-thermostat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "munch-client",
+      "repo": "https://github.com/meg768/munch-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hzeller-matrix-example",
+      "repo": "https://github.com/meg768/hzeller-matrix-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "google-home-matrix-tryout",
+      "repo": "https://github.com/meg768/google-home-matrix-tryout"
+    },
+    {
+      "name": "react-bootify-theme",
+      "repo": "https://github.com/meg768/react-bootify-theme",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-bootstrapify",
+      "repo": "https://github.com/meg768/react-bootstrapify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bootstrapify",
+      "repo": "https://github.com/meg768/bootstrapify"
+    },
+    {
+      "name": "format-console",
+      "repo": "https://github.com/meg768/format-console"
+    },
+    {
+      "name": "twilio-console",
+      "repo": "https://github.com/meg768/twilio-console",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pushover-console",
+      "repo": "https://github.com/meg768/pushover-console",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reactstrap-test",
+      "repo": "https://github.com/meg768/reactstrap-test"
+    },
+    {
+      "name": "homebridge-ikea-tradfri-hue-clock",
+      "repo": "https://github.com/meg768/homebridge-ikea-tradfri-hue-clock",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tellstick",
+      "repo": "https://github.com/meg768/tellstick",
+      "language": "JavaScript"
+    },
+    {
+      "name": "foo",
+      "repo": "https://github.com/meg768/foo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rgb-globe-api",
+      "repo": "https://github.com/meg768/rgb-globe-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-neopixel-globe",
+      "repo": "https://github.com/meg768/homebridge-neopixel-globe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebridge-thyren-3",
+      "repo": "https://github.com/meg768/homebridge-thyren-3",
+      "language": "JavaScript"
+    }
+  ]
+}

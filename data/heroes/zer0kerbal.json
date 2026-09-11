@@ -1,0 +1,568 @@
+{
+  "handle": "zer0kerbal",
+  "name": "zer0Kerbal",
+  "github": [
+    "https://github.com/zer0kerbal"
+  ],
+  "bio": "Adopting and rescuing KSP addons. \"I don't ask if it is possible, rather I hit it with a big enough hammer to make it work; and if that doesn't work ...",
+  "own_repos": 183,
+  "commits": 67761,
+  "apps": [],
+  "repos": [
+    {
+      "name": "zer0Kerbal",
+      "repo": "https://github.com/zer0Kerbal/zer0Kerbal",
+      "url": "https://zer0kerbal.github.io/zer0Kerbal/"
+    },
+    {
+      "name": "MEVHeavyIndustries",
+      "repo": "https://github.com/zer0Kerbal/MEVHeavyIndustries",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "FieldTrainingFacility",
+      "repo": "https://github.com/zer0Kerbal/FieldTrainingFacility",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
+      "language": "C#"
+    },
+    {
+      "name": "FieldTrainingLab",
+      "repo": "https://github.com/zer0Kerbal/FieldTrainingLab",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
+      "language": "C#"
+    },
+    {
+      "name": "B9StockPatches",
+      "repo": "https://github.com/zer0Kerbal/B9StockPatches",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SpaceYExpanded",
+      "repo": "https://github.com/zer0Kerbal/SpaceYExpanded",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211576-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SpaceYLifters",
+      "repo": "https://github.com/zer0Kerbal/SpaceYLifters",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209445-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SpaceYCorp",
+      "repo": "https://github.com/zer0Kerbal/SpaceYCorp",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "NukesTinyPods",
+      "repo": "https://github.com/zer0Kerbal/NukesTinyPods",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209399-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SHAPE",
+      "repo": "https://github.com/zer0Kerbal/SHAPE"
+    },
+    {
+      "name": "TheGoldStandard",
+      "repo": "https://github.com/zer0Kerbal/TheGoldStandard",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/203990-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "ClusterOLanterns",
+      "repo": "https://github.com/zer0Kerbal/ClusterOLanterns",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/210339-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SILPatches",
+      "repo": "https://github.com/zer0Kerbal/SILPatches",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "PiratesoftheKeribbean",
+      "repo": "https://github.com/zer0Kerbal/PiratesoftheKeribbean",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/218358-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Halloween",
+      "repo": "https://github.com/zer0Kerbal/Halloween",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "JackOLantern",
+      "repo": "https://github.com/zer0Kerbal/JackOLantern",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/189466-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "EternoRest2000",
+      "repo": "https://github.com/zer0Kerbal/EternoRest2000",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209894-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Antennas",
+      "repo": "https://github.com/zer0Kerbal/Antennas",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207329-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Proton",
+      "repo": "https://github.com/zer0Kerbal/Proton",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/216980-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "OxidizerTank",
+      "repo": "https://github.com/zer0Kerbal/OxidizerTank",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/215723-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "ScienceInstruments",
+      "repo": "https://github.com/zer0Kerbal/ScienceInstruments",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/215791-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Kliper",
+      "repo": "https://github.com/zer0Kerbal/Kliper"
+    },
+    {
+      "name": "MohoHVAC",
+      "repo": "https://github.com/zer0Kerbal/MohoHVAC"
+    },
+    {
+      "name": "RustyStarShipyards",
+      "repo": "https://github.com/zer0Kerbal/RustyStarShipyards",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "RadioisotopeThermoelectricGenerators",
+      "repo": "https://github.com/zer0Kerbal/RadioisotopeThermoelectricGenerators"
+    },
+    {
+      "name": "CommonCorePods",
+      "repo": "https://github.com/zer0Kerbal/CommonCorePods"
+    },
+    {
+      "name": "ZeroPointEnergy",
+      "repo": "https://github.com/zer0Kerbal/ZeroPointEnergy",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/218476-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "RustyPanels",
+      "repo": "https://github.com/zer0Kerbal/RustyPanels"
+    },
+    {
+      "name": "RustyTextures",
+      "repo": "https://github.com/zer0Kerbal/RustyTextures"
+    },
+    {
+      "name": "RustyStarRockets",
+      "repo": "https://github.com/zer0Kerbal/RustyStarRockets",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SpaceShuttleSystem",
+      "repo": "https://github.com/zer0Kerbal/SpaceShuttleSystem",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209526-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "ModularRocketSystems",
+      "repo": "https://github.com/zer0Kerbal/ModularRocketSystems",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211992-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "NecroBonesAgencies",
+      "repo": "https://github.com/zer0Kerbal/NecroBonesAgencies"
+    },
+    {
+      "name": "MkerbInc",
+      "repo": "https://github.com/zer0Kerbal/MkerbInc",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "MKerbIncNEW",
+      "repo": "https://github.com/zer0Kerbal/MKerbIncNEW"
+    },
+    {
+      "name": "FuelTanksPlus",
+      "repo": "https://github.com/zer0Kerbal/FuelTanksPlus",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "FTPLtd",
+      "repo": "https://github.com/zer0Kerbal/FTPLtd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209628-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "RoverAntiGravitySystem",
+      "repo": "https://github.com/zer0Kerbal/RoverAntiGravitySystem",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/",
+      "language": "C#"
+    },
+    {
+      "name": "RealScaleBoosters",
+      "repo": "https://github.com/zer0Kerbal/RealScaleBoosters"
+    },
+    {
+      "name": "BehemothAerospaceEngineering",
+      "repo": "https://github.com/zer0Kerbal/BehemothAerospaceEngineering",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208327-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SpaceShuttleEngines",
+      "repo": "https://github.com/zer0Kerbal/SpaceShuttleEngines",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209177-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "NukesTinyEngines",
+      "repo": "https://github.com/zer0Kerbal/NukesTinyEngines",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209399-*/"
+    },
+    {
+      "name": "MiniSampleReturnCapsule",
+      "repo": "https://github.com/zer0Kerbal/MiniSampleReturnCapsule",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "KerbalHacksLtd",
+      "repo": "https://github.com/zer0Kerbal/KerbalHacksLtd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "DropTanks",
+      "repo": "https://github.com/zer0Kerbal/DropTanks",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "DropTanksIII",
+      "repo": "https://github.com/zer0Kerbal/DropTanksIII",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "KlockheedMartianLtd",
+      "repo": "https://github.com/zer0Kerbal/KlockheedMartianLtd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "LithobrakeExplorationTechnologies",
+      "repo": "https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/206860-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "MIR",
+      "repo": "https://github.com/zer0Kerbal/MIR",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209731-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "BobCatInd",
+      "repo": "https://github.com/zer0Kerbal/BobCatInd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209729-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "NearFutureRovers",
+      "repo": "https://github.com/zer0Kerbal/NearFutureRovers",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SpecialPartsDivision",
+      "repo": "https://github.com/zer0Kerbal/SpecialPartsDivision",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208046-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "DaMichelLtd",
+      "repo": "https://github.com/zer0Kerbal/DaMichelLtd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Duopods",
+      "repo": "https://github.com/zer0Kerbal/Duopods",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/192094-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "LaunchPack",
+      "repo": "https://github.com/zer0Kerbal/LaunchPack",
+      "url": "https://www.curseforge.com/kerbal/ksp-mods/LaunchPack",
+      "language": "HTML"
+    },
+    {
+      "name": "LazTekDev",
+      "repo": "https://github.com/zer0Kerbal/LazTekDev",
+      "url": "https://zer0kerbal.github.io/LazTekDev/",
+      "language": "HTML"
+    },
+    {
+      "name": "ExplorationExpansion",
+      "repo": "https://github.com/zer0Kerbal/ExplorationExpansion",
+      "url": "https://www.curseforge.com/kerbal/ksp-mods/ExplorationExpansion",
+      "language": "HTML"
+    },
+    {
+      "name": "StackInlineLights",
+      "repo": "https://github.com/zer0Kerbal/StackInlineLights",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Biomatic",
+      "repo": "https://github.com/zer0Kerbal/Biomatic",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/",
+      "language": "C#"
+    },
+    {
+      "name": "AsteroidCities",
+      "repo": "https://github.com/zer0Kerbal/AsteroidCities",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "RaptorAeroEspacial",
+      "repo": "https://github.com/zer0Kerbal/RaptorAeroEspacial",
+      "url": "https://zer0kerbal.github.io/RaptorAeroEspacial/"
+    },
+    {
+      "name": "InternationalSpaceStation",
+      "repo": "https://github.com/zer0Kerbal/InternationalSpaceStation"
+    },
+    {
+      "name": "LionheadAerospace",
+      "repo": "https://github.com/zer0Kerbal/LionheadAerospace"
+    },
+    {
+      "name": "V2IndustriesLtd",
+      "repo": "https://github.com/zer0Kerbal/V2IndustriesLtd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/"
+    },
+    {
+      "name": "Puma",
+      "repo": "https://github.com/zer0Kerbal/Puma"
+    },
+    {
+      "name": "HoneyBadger",
+      "repo": "https://github.com/zer0Kerbal/HoneyBadger",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209686-*/"
+    },
+    {
+      "name": "MoarKerbals",
+      "repo": "https://github.com/zer0Kerbal/MoarKerbals",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/",
+      "language": "C#"
+    },
+    {
+      "name": "PortableScienceCrate",
+      "repo": "https://github.com/zer0Kerbal/PortableScienceCrate",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "DropTanksIS",
+      "repo": "https://github.com/zer0Kerbal/DropTanksIS"
+    },
+    {
+      "name": "ColorCodedCanisters",
+      "repo": "https://github.com/zer0Kerbal/ColorCodedCanisters"
+    },
+    {
+      "name": "ColonialTransporter",
+      "repo": "https://github.com/zer0Kerbal/ColonialTransporter",
+      "url": "https://www.curseforge.com/kerbal/ksp-mods/colonialtransporter",
+      "language": "HTML"
+    },
+    {
+      "name": "NukeRefueled",
+      "repo": "https://github.com/zer0Kerbal/NukeRefueled",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209312-*/"
+    },
+    {
+      "name": "MK2Y",
+      "repo": "https://github.com/zer0Kerbal/MK2Y",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/192095-*/"
+    },
+    {
+      "name": "MonkeyBusinessIndustries",
+      "repo": "https://github.com/zer0Kerbal/MonkeyBusinessIndustries",
+      "url": "https://zer0kerbal.github.io/MonkeyBusinessIndustries/"
+    },
+    {
+      "name": "ExpanseFactions",
+      "repo": "https://github.com/zer0Kerbal/ExpanseFactions",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/212071-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "LunaticAeronauticsLtd",
+      "repo": "https://github.com/zer0Kerbal/LunaticAeronauticsLtd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "HistoricArchive",
+      "repo": "https://github.com/zer0Kerbal/HistoricArchive",
+      "url": "https://www.curseforge.com/kerbal/ksp-mods/HistoricArchive",
+      "language": "HTML"
+    },
+    {
+      "name": "TransparentPods",
+      "repo": "https://github.com/zer0Kerbal/TransparentPods",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "KerbalsofAllTrades",
+      "repo": "https://github.com/zer0Kerbal/KerbalsofAllTrades",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/212070-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SeaDragon",
+      "repo": "https://github.com/zer0Kerbal/SeaDragon",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209579-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Dreamer",
+      "repo": "https://github.com/zer0Kerbal/Dreamer",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "LanderTek",
+      "repo": "https://github.com/zer0Kerbal/LanderTek",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "CoyoteSpaceIndustries",
+      "repo": "https://github.com/zer0Kerbal/CoyoteSpaceIndustries",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211679-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "SimpleCargoSolutions",
+      "repo": "https://github.com/zer0Kerbal/SimpleCargoSolutions",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/210255-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "GoodspeedAerospace",
+      "repo": "https://github.com/zer0Kerbal/GoodspeedAerospace",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208894-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "WhimChaser",
+      "repo": "https://github.com/zer0Kerbal/WhimChaser",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "AxialAerospaceLtd",
+      "repo": "https://github.com/zer0Kerbal/AxialAerospaceLtd",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "ArtofReentry",
+      "repo": "https://github.com/zer0Kerbal/ArtofReentry",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208628-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Komplexity",
+      "repo": "https://github.com/zer0Kerbal/Komplexity",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/202749-*/",
+      "language": "HTML"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/zer0Kerbal/.github"
+    },
+    {
+      "name": "FuelCells",
+      "repo": "https://github.com/zer0Kerbal/FuelCells",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211277-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "Kerturn",
+      "repo": "https://github.com/zer0Kerbal/Kerturn",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211315-*/"
+    },
+    {
+      "name": "RTG",
+      "repo": "https://github.com/zer0Kerbal/RTG"
+    },
+    {
+      "name": "SensorModules",
+      "repo": "https://github.com/zer0Kerbal/SensorModules",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "HotBeverageInc",
+      "repo": "https://github.com/zer0Kerbal/HotBeverageInc",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208353-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "ServiceModules",
+      "repo": "https://github.com/zer0Kerbal/ServiceModules",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "KerbalMaterialsCorp",
+      "repo": "https://github.com/zer0Kerbal/KerbalMaterialsCorp",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "OnDemandFuelCells",
+      "repo": "https://github.com/zer0Kerbal/OnDemandFuelCells",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/",
+      "language": "C#"
+    },
+    {
+      "name": "KerbalXMAS",
+      "repo": "https://github.com/zer0Kerbal/KerbalXMAS",
+      "url": "https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/",
+      "language": "HTML"
+    },
+    {
+      "name": "apitestbed",
+      "repo": "https://github.com/zer0Kerbal/apitestbed"
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "handle": "timmo001",
+  "name": "Aidan Timson",
+  "github": [
+    "https://github.com/timmo001"
+  ],
+  "website": "https://timmo.dev/",
+  "bio": "Software engineer at the @OpenHomeFoundation working on @home-assistant frontend",
+  "own_repos": 149,
+  "commits": 13076,
+  "apps": [],
+  "repos": [
+    {
+      "name": "oxlint-rules",
+      "repo": "https://github.com/timmo001/oxlint-rules",
+      "language": "TypeScript"
+    },
+    {
+      "name": "context",
+      "repo": "https://github.com/timmo001/context",
+      "url": "https://context.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "workflows",
+      "repo": "https://github.com/timmo001/workflows",
+      "url": "https://timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ha-card-tile-popup",
+      "repo": "https://github.com/timmo001/ha-card-tile-popup",
+      "language": "TypeScript"
+    },
+    {
+      "name": "system-bridge",
+      "repo": "https://github.com/timmo001/system-bridge",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Go"
+    },
+    {
+      "name": "starter-tui-menu",
+      "repo": "https://github.com/timmo001/starter-tui-menu",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ha-dashboard-maintenance",
+      "repo": "https://github.com/timmo001/ha-dashboard-maintenance",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/timmo001/dotfiles",
+      "url": "https://dotfiles.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-automate",
+      "repo": "https://github.com/timmo001/go-automate",
+      "url": "https://go-automate.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "omarchy-notes",
+      "repo": "https://github.com/timmo001/omarchy-notes",
+      "language": "QML"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/timmo001/notes",
+      "url": "https://notes.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "herdr-workflow-watch",
+      "repo": "https://github.com/timmo001/herdr-workflow-watch",
+      "url": "https://timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "effect-gh",
+      "repo": "https://github.com/timmo001/effect-gh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "home-assistant-demo-starter",
+      "repo": "https://github.com/timmo001/home-assistant-demo-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ha-card-anchor",
+      "repo": "https://github.com/timmo001/ha-card-anchor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ha-card-feature-state",
+      "repo": "https://github.com/timmo001/ha-card-feature-state",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/timmo001/skills",
+      "language": "MDX"
+    },
+    {
+      "name": "ha-card-feature-weather-forecast",
+      "repo": "https://github.com/timmo001/ha-card-feature-weather-forecast",
+      "language": "TypeScript"
+    },
+    {
+      "name": "omarchy-twitch-notifications",
+      "repo": "https://github.com/timmo001/omarchy-twitch-notifications",
+      "language": "QML"
+    },
+    {
+      "name": "twitch-notifications",
+      "repo": "https://github.com/timmo001/twitch-notifications",
+      "language": "Go"
+    },
+    {
+      "name": "home-assistant-tui",
+      "repo": "https://github.com/timmo001/home-assistant-tui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "music-assistant-tui",
+      "repo": "https://github.com/timmo001/music-assistant-tui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "herdr-mascot",
+      "repo": "https://github.com/timmo001/herdr-mascot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ha-card-calendar-agenda",
+      "repo": "https://github.com/timmo001/ha-card-calendar-agenda",
+      "language": "TypeScript"
+    },
+    {
+      "name": "universal-remote",
+      "repo": "https://github.com/timmo001/universal-remote",
+      "url": "https://universal-remote.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "developer-utilities-webapp",
+      "repo": "https://github.com/timmo001/developer-utilities-webapp",
+      "url": "https://developer-utilities.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "opencode-config",
+      "repo": "https://github.com/timmo001/opencode-config",
+      "url": "https://dotfiles.timmo.dev/opencode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "system-bridge-android-companion",
+      "repo": "https://github.com/timmo001/system-bridge-android-companion",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Kotlin"
+    },
+    {
+      "name": "timmo.dev",
+      "repo": "https://github.com/timmo001/timmo.dev",
+      "url": "https://timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "arch-repo",
+      "repo": "https://github.com/timmo001/arch-repo",
+      "language": "Shell"
+    },
+    {
+      "name": "browser-overlay",
+      "repo": "https://github.com/timmo001/browser-overlay",
+      "url": "https://browser-overlay.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "float-app",
+      "repo": "https://github.com/timmo001/float-app",
+      "url": "https://float-app.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "omarchy-clock",
+      "repo": "https://github.com/timmo001/omarchy-clock",
+      "language": "QML"
+    },
+    {
+      "name": "material-frontend-template",
+      "repo": "https://github.com/timmo001/material-frontend-template",
+      "url": "https://material-frontend-template.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stats.timmo.dev",
+      "repo": "https://github.com/timmo001/stats.timmo.dev",
+      "url": "https://stats.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "letmeknow-client-python",
+      "repo": "https://github.com/timmo001/letmeknow-client-python",
+      "url": "https://github.com/timmo001/letmeknow",
+      "language": "Python"
+    },
+    {
+      "name": "ha-card-energy-breakdown",
+      "repo": "https://github.com/timmo001/ha-card-energy-breakdown",
+      "url": "https://timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-dashboard",
+      "repo": "https://github.com/timmo001/github-dashboard",
+      "url": "https://github-dashboard.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "letmeknow-gui",
+      "repo": "https://github.com/timmo001/letmeknow-gui",
+      "url": "https://github.com/timmo001/letmeknow",
+      "language": "Svelte"
+    },
+    {
+      "name": "stats-overlay",
+      "repo": "https://github.com/timmo001/stats-overlay",
+      "url": "https://timmo.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "chromium-relaunch-as-app",
+      "repo": "https://github.com/timmo001/chromium-relaunch-as-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "goxlr-utility-api-py",
+      "repo": "https://github.com/timmo001/goxlr-utility-api-py",
+      "language": "Python"
+    },
+    {
+      "name": "python-template",
+      "repo": "https://github.com/timmo001/python-template",
+      "url": "https://timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "ovoenergy",
+      "repo": "https://github.com/timmo001/ovoenergy",
+      "url": "https://timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "aiolyric",
+      "repo": "https://github.com/timmo001/aiolyric",
+      "url": "https://timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "system-bridge-connector",
+      "repo": "https://github.com/timmo001/system-bridge-connector",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "aioazuredevops",
+      "repo": "https://github.com/timmo001/aioazuredevops",
+      "url": "https://timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "system-bridge-data",
+      "repo": "https://github.com/timmo001/system-bridge-data",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "python-gui",
+      "repo": "https://github.com/timmo001/python-gui",
+      "url": "https://timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "omarchy-system-bridge",
+      "repo": "https://github.com/timmo001/omarchy-system-bridge",
+      "language": "QML"
+    },
+    {
+      "name": "omarchy-notes-capture",
+      "repo": "https://github.com/timmo001/omarchy-notes-capture",
+      "language": "QML"
+    },
+    {
+      "name": "omarchy-momentumctl",
+      "repo": "https://github.com/timmo001/omarchy-momentumctl",
+      "language": "QML"
+    },
+    {
+      "name": "home-assistant-assist-desktop",
+      "repo": "https://github.com/timmo001/home-assistant-assist-desktop",
+      "url": "https://timmo.dev",
+      "language": "Svelte"
+    },
+    {
+      "name": "container-base",
+      "repo": "https://github.com/timmo001/container-base",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "omarchy-waybar",
+      "repo": "https://github.com/timmo001/omarchy-waybar",
+      "url": "https://timmo.dev",
+      "language": "Shell"
+    },
+    {
+      "name": "nextjs-test-t3-infinite-loading-page-caching",
+      "repo": "https://github.com/timmo001/nextjs-test-t3-infinite-loading-page-caching",
+      "url": "https://nextjs-test-t3-infinite-loading-page-caching.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotnet-now-playing",
+      "repo": "https://github.com/timmo001/dotnet-now-playing",
+      "language": "C#"
+    },
+    {
+      "name": "create-timmo-app",
+      "repo": "https://github.com/timmo001/create-timmo-app",
+      "language": "Go"
+    },
+    {
+      "name": "letmeknow-client-go",
+      "repo": "https://github.com/timmo001/letmeknow-client-go",
+      "url": "https://github.com/timmo001/letmeknow",
+      "language": "Go"
+    },
+    {
+      "name": "letmeknow-types-go",
+      "repo": "https://github.com/timmo001/letmeknow-types-go",
+      "url": "https://github.com/timmo001/letmeknow",
+      "language": "Go"
+    },
+    {
+      "name": "pokebattle-go",
+      "repo": "https://github.com/timmo001/pokebattle-go",
+      "url": "https://timmo.dev",
+      "language": "Go"
+    },
+    {
+      "name": "system-bridge-windows-sensors",
+      "repo": "https://github.com/timmo001/system-bridge-windows-sensors",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "C#"
+    },
+    {
+      "name": "omarchy-uwsm",
+      "repo": "https://github.com/timmo001/omarchy-uwsm"
+    },
+    {
+      "name": "mock-http-server-go",
+      "repo": "https://github.com/timmo001/mock-http-server-go",
+      "url": "https://timmo.dev",
+      "language": "Go"
+    },
+    {
+      "name": "letmeknow-server",
+      "repo": "https://github.com/timmo001/letmeknow-server",
+      "url": "https://github.com/timmo001/letmeknow",
+      "language": "Go"
+    },
+    {
+      "name": "timmo001",
+      "repo": "https://github.com/timmo001/timmo001"
+    },
+    {
+      "name": "home-assistant-frontend-ci-images",
+      "repo": "https://github.com/timmo001/home-assistant-frontend-ci-images",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "system-bridge-website",
+      "repo": "https://github.com/timmo001/system-bridge-website",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "MDX"
+    },
+    {
+      "name": "omarchy-hypr",
+      "repo": "https://github.com/timmo001/omarchy-hypr",
+      "url": "https://timmo.dev",
+      "language": "Lua"
+    },
+    {
+      "name": "mhoc303-clock-sync",
+      "repo": "https://github.com/timmo001/mhoc303-clock-sync",
+      "language": "Python"
+    },
+    {
+      "name": "omarchy-ghostty",
+      "repo": "https://github.com/timmo001/omarchy-ghostty",
+      "language": "CSS"
+    },
+    {
+      "name": "addon-ollama",
+      "repo": "https://github.com/timmo001/addon-ollama",
+      "language": "Jinja"
+    },
+    {
+      "name": "homeassistant-supabase-export-webapp",
+      "repo": "https://github.com/timmo001/homeassistant-supabase-export-webapp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quiz",
+      "repo": "https://github.com/timmo001/quiz",
+      "url": "https://quiz.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openai-test",
+      "repo": "https://github.com/timmo001/openai-test",
+      "url": "https://timmo.dev",
+      "language": "CSS"
+    },
+    {
+      "name": "asset-management-core",
+      "repo": "https://github.com/timmo001/asset-management-core",
+      "url": "https://asset-management-core.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homeassistant-integration-goxlr-utility",
+      "repo": "https://github.com/timmo001/homeassistant-integration-goxlr-utility",
+      "url": "https://timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "notes.timmo.dev",
+      "repo": "https://github.com/timmo001/notes.timmo.dev",
+      "url": "https://notes.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "scratchpad.timmo.dev",
+      "repo": "https://github.com/timmo001/scratchpad.timmo.dev",
+      "url": "https://scratchpad.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "portal-at-me",
+      "repo": "https://github.com/timmo001/portal-at-me",
+      "url": "https://portal-at-me.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "weather.timmo.dev",
+      "repo": "https://github.com/timmo001/weather.timmo.dev",
+      "url": "https://weather.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pouch",
+      "repo": "https://github.com/timmo001/pouch",
+      "url": "https://pouch.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homeassistant-assist-client-web",
+      "repo": "https://github.com/timmo001/homeassistant-assist-client-web",
+      "url": "https://ha-assist.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "system-bridge-models",
+      "repo": "https://github.com/timmo001/system-bridge-models",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "go-commands",
+      "repo": "https://github.com/timmo001/go-commands",
+      "url": "https://timmo.dev",
+      "language": "Go"
+    },
+    {
+      "name": "whats-up",
+      "repo": "https://github.com/timmo001/whats-up",
+      "url": "https://whatsup.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bootstrap",
+      "repo": "https://github.com/timmo001/bootstrap",
+      "url": "https://timmo.dev",
+      "language": "Go"
+    },
+    {
+      "name": "save-for-later",
+      "repo": "https://github.com/timmo001/save-for-later",
+      "url": "https://timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "example-fastify-sst-aws",
+      "repo": "https://github.com/timmo001/example-fastify-sst-aws",
+      "language": "TypeScript"
+    },
+    {
+      "name": "system-bridge-frontend",
+      "repo": "https://github.com/timmo001/system-bridge-frontend",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "system-bridge-shared",
+      "repo": "https://github.com/timmo001/system-bridge-shared",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "system-bridge-cli",
+      "repo": "https://github.com/timmo001/system-bridge-cli",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "system-bridge-backend",
+      "repo": "https://github.com/timmo001/system-bridge-backend",
+      "url": "https://system-bridge.timmo.dev",
+      "language": "Python"
+    },
+    {
+      "name": "home-panel",
+      "repo": "https://github.com/timmo001/home-panel",
+      "url": "https://timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "container-debian-base",
+      "repo": "https://github.com/timmo001/container-debian-base",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "letmeknow-integration-homeassistant",
+      "repo": "https://github.com/timmo001/letmeknow-integration-homeassistant",
+      "url": "https://github.com/timmo001/letmeknow",
+      "language": "Python"
+    },
+    {
+      "name": "healthcheck-dashboard",
+      "repo": "https://github.com/timmo001/healthcheck-dashboard",
+      "url": "https://healthcheck-dashboard-pearl.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "powershell-scripts",
+      "repo": "https://github.com/timmo001/powershell-scripts",
+      "url": "https://timmo.dev",
+      "language": "PowerShell"
+    },
+    {
+      "name": "notepad",
+      "repo": "https://github.com/timmo001/notepad",
+      "url": "https://notepad.timmo.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "letmeknow",
+      "repo": "https://github.com/timmo001/letmeknow",
+      "url": "https://timmo.dev"
+    }
+  ]
+}

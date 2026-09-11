@@ -1,0 +1,502 @@
+{
+  "handle": "inajob",
+  "name": "inajob",
+  "github": [
+    "https://github.com/inajob"
+  ],
+  "website": "https://inajob.github.io/intro/index.html",
+  "own_repos": 144,
+  "commits": 12221,
+  "apps": [],
+  "repos": [
+    {
+      "name": "inajob-review",
+      "repo": "https://github.com/inajob/inajob-review",
+      "language": "CSS"
+    },
+    {
+      "name": "iroiro-review",
+      "repo": "https://github.com/inajob/iroiro-review",
+      "language": "HTML"
+    },
+    {
+      "name": "lua-simple-im-demo",
+      "repo": "https://github.com/inajob/lua-simple-im-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zentou",
+      "repo": "https://github.com/inajob/zentou",
+      "language": "HTML"
+    },
+    {
+      "name": "cad-catalog-creator",
+      "repo": "https://github.com/inajob/cad-catalog-creator",
+      "language": "Python"
+    },
+    {
+      "name": "katakana-master",
+      "repo": "https://github.com/inajob/katakana-master",
+      "language": "HTML"
+    },
+    {
+      "name": "kankei2",
+      "repo": "https://github.com/inajob/kankei2",
+      "language": "Svelte"
+    },
+    {
+      "name": "kankei",
+      "repo": "https://github.com/inajob/kankei",
+      "language": "JavaScript"
+    },
+    {
+      "name": "svelte-inline-editor",
+      "repo": "https://github.com/inajob/svelte-inline-editor",
+      "language": "Svelte"
+    },
+    {
+      "name": "inajob-with-ai",
+      "repo": "https://github.com/inajob/inajob-with-ai"
+    },
+    {
+      "name": "mtext",
+      "repo": "https://github.com/inajob/mtext",
+      "language": "HTML"
+    },
+    {
+      "name": "choi-draw",
+      "repo": "https://github.com/inajob/choi-draw",
+      "language": "HTML"
+    },
+    {
+      "name": "inajob-river-peeker",
+      "repo": "https://github.com/inajob/inajob-river-peeker"
+    },
+    {
+      "name": "chatgpt-summarizer",
+      "repo": "https://github.com/inajob/chatgpt-summarizer",
+      "language": "Python"
+    },
+    {
+      "name": "pochi-pochi",
+      "repo": "https://github.com/inajob/pochi-pochi",
+      "language": "C++"
+    },
+    {
+      "name": "inline-context-generator",
+      "repo": "https://github.com/inajob/inline-context-generator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "korokoro-maze",
+      "repo": "https://github.com/inajob/korokoro-maze",
+      "language": "Python"
+    },
+    {
+      "name": "protopan",
+      "repo": "https://github.com/inajob/protopan",
+      "language": "TypeScript"
+    },
+    {
+      "name": "uiapduino-piano",
+      "repo": "https://github.com/inajob/uiapduino-piano",
+      "language": "C"
+    },
+    {
+      "name": "intro",
+      "repo": "https://github.com/inajob/intro",
+      "language": "HTML"
+    },
+    {
+      "name": "recap-by-ai",
+      "repo": "https://github.com/inajob/recap-by-ai",
+      "language": "JavaScript"
+    },
+    {
+      "name": "my-timeline",
+      "repo": "https://github.com/inajob/my-timeline",
+      "language": "JavaScript"
+    },
+    {
+      "name": "inajob-podcast-research",
+      "repo": "https://github.com/inajob/inajob-podcast-research",
+      "language": "Python"
+    },
+    {
+      "name": "coffee-time-factory",
+      "repo": "https://github.com/inajob/coffee-time-factory",
+      "language": "JavaScript"
+    },
+    {
+      "name": "iwasetemiro",
+      "repo": "https://github.com/inajob/iwasetemiro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yjs-meets-llm",
+      "repo": "https://github.com/inajob/yjs-meets-llm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "reversi-puzzle",
+      "repo": "https://github.com/inajob/reversi-puzzle",
+      "language": "JavaScript"
+    },
+    {
+      "name": "numdun",
+      "repo": "https://github.com/inajob/numdun",
+      "language": "JavaScript"
+    },
+    {
+      "name": "trap-dungeon",
+      "repo": "https://github.com/inajob/trap-dungeon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-inline-editor",
+      "repo": "https://github.com/inajob/simple-inline-editor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cyoa-experiment",
+      "repo": "https://github.com/inajob/cyoa-experiment",
+      "language": "HTML"
+    },
+    {
+      "name": "papaiku-blog-feed",
+      "repo": "https://github.com/inajob/papaiku-blog-feed",
+      "language": "HTML"
+    },
+    {
+      "name": "inline-feed-proxy",
+      "repo": "https://github.com/inajob/inline-feed-proxy",
+      "language": "Go"
+    },
+    {
+      "name": "plantworld",
+      "repo": "https://github.com/inajob/plantworld"
+    },
+    {
+      "name": "fbfj",
+      "repo": "https://github.com/inajob/fbfj",
+      "language": "HTML"
+    },
+    {
+      "name": "blocknote-test",
+      "repo": "https://github.com/inajob/blocknote-test"
+    },
+    {
+      "name": "yjs-server",
+      "repo": "https://github.com/inajob/yjs-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "susu-ki",
+      "repo": "https://github.com/inajob/susu-ki",
+      "language": "C"
+    },
+    {
+      "name": "tweet-archive-viewer",
+      "repo": "https://github.com/inajob/tweet-archive-viewer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "podcast-scripts",
+      "repo": "https://github.com/inajob/podcast-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "go-webapp",
+      "repo": "https://github.com/inajob/go-webapp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lua-text-editor",
+      "repo": "https://github.com/inajob/lua-text-editor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "esp32-text-editor",
+      "repo": "https://github.com/inajob/esp32-text-editor",
+      "language": "C++"
+    },
+    {
+      "name": "omin",
+      "repo": "https://github.com/inajob/omin",
+      "language": "Python"
+    },
+    {
+      "name": "ouchi-raspberry-pi",
+      "repo": "https://github.com/inajob/ouchi-raspberry-pi",
+      "language": "HTML"
+    },
+    {
+      "name": "esp32-5x5cap-board",
+      "repo": "https://github.com/inajob/esp32-5x5cap-board",
+      "language": "C++"
+    },
+    {
+      "name": "audio-commentary-maker",
+      "repo": "https://github.com/inajob/audio-commentary-maker",
+      "language": "Python"
+    },
+    {
+      "name": "mugen-tirori",
+      "repo": "https://github.com/inajob/mugen-tirori",
+      "language": "HTML"
+    },
+    {
+      "name": "inline-editor",
+      "repo": "https://github.com/inajob/inline-editor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sleep-music",
+      "repo": "https://github.com/inajob/sleep-music"
+    },
+    {
+      "name": "maibyo",
+      "repo": "https://github.com/inajob/maibyo",
+      "language": "HTML"
+    },
+    {
+      "name": "lexical-test",
+      "repo": "https://github.com/inajob/lexical-test",
+      "url": "https://codesandbox.io/s/github/inajob/lexical-test"
+    },
+    {
+      "name": "scrapbox-radio-maker",
+      "repo": "https://github.com/inajob/scrapbox-radio-maker",
+      "language": "Python"
+    },
+    {
+      "name": "houganshi",
+      "repo": "https://github.com/inajob/houganshi",
+      "language": "HTML"
+    },
+    {
+      "name": "toICN",
+      "repo": "https://github.com/inajob/toICN",
+      "language": "JavaScript"
+    },
+    {
+      "name": "today-twit",
+      "repo": "https://github.com/inajob/today-twit"
+    },
+    {
+      "name": "mce3",
+      "repo": "https://github.com/inajob/mce3",
+      "language": "JavaScript"
+    },
+    {
+      "name": "futuota",
+      "repo": "https://github.com/inajob/futuota",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mce2",
+      "repo": "https://github.com/inajob/mce2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cheapseqduo-hardware",
+      "repo": "https://github.com/inajob/cheapseqduo-hardware"
+    },
+    {
+      "name": "twitter-search-proxy",
+      "repo": "https://github.com/inajob/twitter-search-proxy",
+      "language": "HTML"
+    },
+    {
+      "name": "my-tweet-summary-view",
+      "repo": "https://github.com/inajob/my-tweet-summary-view",
+      "language": "HTML"
+    },
+    {
+      "name": "code-reading-editor",
+      "repo": "https://github.com/inajob/code-reading-editor",
+      "language": "HTML"
+    },
+    {
+      "name": "hachibar",
+      "repo": "https://github.com/inajob/hachibar"
+    },
+    {
+      "name": "graphviz-live-preview",
+      "repo": "https://github.com/inajob/graphviz-live-preview",
+      "language": "HTML"
+    },
+    {
+      "name": "drone-steps-visualizer",
+      "repo": "https://github.com/inajob/drone-steps-visualizer",
+      "language": "HTML"
+    },
+    {
+      "name": "m5paper-sos",
+      "repo": "https://github.com/inajob/m5paper-sos",
+      "language": "C++"
+    },
+    {
+      "name": "simpleweb",
+      "repo": "https://github.com/inajob/simpleweb",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "github-api-test",
+      "repo": "https://github.com/inajob/github-api-test",
+      "language": "HTML"
+    },
+    {
+      "name": "wio-terminal-simple-web-test",
+      "repo": "https://github.com/inajob/wio-terminal-simple-web-test"
+    },
+    {
+      "name": "go-to-eat-map",
+      "repo": "https://github.com/inajob/go-to-eat-map",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ali-search",
+      "repo": "https://github.com/inajob/ali-search",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rakuchord-web",
+      "repo": "https://github.com/inajob/rakuchord-web",
+      "language": "HTML"
+    },
+    {
+      "name": "rakuchord",
+      "repo": "https://github.com/inajob/rakuchord",
+      "language": "C++"
+    },
+    {
+      "name": "wio-terminal-platformio-example",
+      "repo": "https://github.com/inajob/wio-terminal-platformio-example"
+    },
+    {
+      "name": "arduboy-apprentice-wizard",
+      "repo": "https://github.com/inajob/arduboy-apprentice-wizard",
+      "language": "C++"
+    },
+    {
+      "name": "poitto",
+      "repo": "https://github.com/inajob/poitto",
+      "language": "C++"
+    },
+    {
+      "name": "imgup",
+      "repo": "https://github.com/inajob/imgup",
+      "language": "PHP"
+    },
+    {
+      "name": "mathart",
+      "repo": "https://github.com/inajob/mathart",
+      "language": "HTML"
+    },
+    {
+      "name": "o-bako-simulator",
+      "repo": "https://github.com/inajob/o-bako-simulator"
+    },
+    {
+      "name": "douyo",
+      "repo": "https://github.com/inajob/douyo",
+      "language": "Python"
+    },
+    {
+      "name": "esp32-wasm3-game-example",
+      "repo": "https://github.com/inajob/esp32-wasm3-game-example",
+      "language": "WebAssembly"
+    },
+    {
+      "name": "o-bako-esp32",
+      "repo": "https://github.com/inajob/o-bako-esp32",
+      "language": "C"
+    },
+    {
+      "name": "frontmatter",
+      "repo": "https://github.com/inajob/frontmatter",
+      "language": "Go"
+    },
+    {
+      "name": "old-games",
+      "repo": "https://github.com/inajob/old-games",
+      "language": "HTML"
+    },
+    {
+      "name": "inajob.github.io",
+      "repo": "https://github.com/inajob/inajob.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "ad",
+      "repo": "https://github.com/inajob/ad",
+      "language": "PHP"
+    },
+    {
+      "name": "hachibar-lib",
+      "repo": "https://github.com/inajob/hachibar-lib",
+      "language": "C++"
+    },
+    {
+      "name": "logue-sdk-docker",
+      "repo": "https://github.com/inajob/logue-sdk-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "simple-osc",
+      "repo": "https://github.com/inajob/simple-osc",
+      "language": "Makefile"
+    },
+    {
+      "name": "musicgen-pocket",
+      "repo": "https://github.com/inajob/musicgen-pocket",
+      "language": "C++"
+    },
+    {
+      "name": "twitter-search",
+      "repo": "https://github.com/inajob/twitter-search",
+      "language": "Go"
+    },
+    {
+      "name": "twlogin",
+      "repo": "https://github.com/inajob/twlogin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "blockdiagjs",
+      "repo": "https://github.com/inajob/blockdiagjs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "canvas-skk",
+      "repo": "https://github.com/inajob/canvas-skk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tokyo-rail-canvas",
+      "repo": "https://github.com/inajob/tokyo-rail-canvas",
+      "language": "Shell"
+    },
+    {
+      "name": "daikon",
+      "repo": "https://github.com/inajob/daikon",
+      "language": "HTML"
+    },
+    {
+      "name": "bijin-search",
+      "repo": "https://github.com/inajob/bijin-search",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gifbird",
+      "repo": "https://github.com/inajob/gifbird",
+      "language": "HTML"
+    },
+    {
+      "name": "my-vps-kubernetes",
+      "repo": "https://github.com/inajob/my-vps-kubernetes",
+      "language": "Shell"
+    }
+  ]
+}

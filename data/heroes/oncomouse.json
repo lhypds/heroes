@@ -1,0 +1,507 @@
+{
+  "handle": "oncomouse",
+  "name": "oncomouse",
+  "github": [
+    "https://github.com/oncomouse"
+  ],
+  "own_repos": 152,
+  "commits": 10431,
+  "apps": [],
+  "repos": [
+    {
+      "name": "emacs-config",
+      "repo": "https://github.com/oncomouse/emacs-config",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-org-mcp-config",
+      "repo": "https://github.com/oncomouse/emacs-org-mcp-config",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "neovim-config",
+      "repo": "https://github.com/oncomouse/neovim-config",
+      "language": "Lua"
+    },
+    {
+      "name": "govt-dots",
+      "repo": "https://github.com/oncomouse/govt-dots",
+      "language": "Shell"
+    },
+    {
+      "name": "oncomouse.github.io",
+      "repo": "https://github.com/oncomouse/oncomouse.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "navidrome-htpc",
+      "repo": "https://github.com/oncomouse/navidrome-htpc",
+      "language": "Rust"
+    },
+    {
+      "name": "ShawnaRoss.com",
+      "repo": "https://github.com/oncomouse/ShawnaRoss.com",
+      "language": "HTML"
+    },
+    {
+      "name": "AndrewPilsch.com",
+      "repo": "https://github.com/oncomouse/AndrewPilsch.com",
+      "language": "Python"
+    },
+    {
+      "name": "nvim-ref",
+      "repo": "https://github.com/oncomouse/nvim-ref",
+      "language": "Lua"
+    },
+    {
+      "name": "llm-config",
+      "repo": "https://github.com/oncomouse/llm-config",
+      "language": "Shell"
+    },
+    {
+      "name": "markdown.nvim",
+      "repo": "https://github.com/oncomouse/markdown.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "pandoc-courses",
+      "repo": "https://github.com/oncomouse/pandoc-courses",
+      "language": "Lua"
+    },
+    {
+      "name": "courses",
+      "repo": "https://github.com/oncomouse/courses",
+      "url": "https://oncomouse.github.io/courses/",
+      "language": "HTML"
+    },
+    {
+      "name": "keyboards",
+      "repo": "https://github.com/oncomouse/keyboards",
+      "language": "C"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/oncomouse/slides",
+      "language": "Haml"
+    },
+    {
+      "name": "lushwal.nvim",
+      "repo": "https://github.com/oncomouse/lushwal.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "mini-nvim-helpers",
+      "repo": "https://github.com/oncomouse/mini-nvim-helpers",
+      "language": "Lua"
+    },
+    {
+      "name": "denote-stub",
+      "repo": "https://github.com/oncomouse/denote-stub",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/oncomouse/dotfiles",
+      "language": "Lua"
+    },
+    {
+      "name": "nvim-options",
+      "repo": "https://github.com/oncomouse/nvim-options",
+      "language": "Lua"
+    },
+    {
+      "name": "custom-ramda",
+      "repo": "https://github.com/oncomouse/custom-ramda",
+      "language": "JavaScript"
+    },
+    {
+      "name": "st",
+      "repo": "https://github.com/oncomouse/st",
+      "language": "C"
+    },
+    {
+      "name": "lspize.nvim",
+      "repo": "https://github.com/oncomouse/lspize.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "buzz",
+      "repo": "https://github.com/oncomouse/buzz",
+      "language": "HTML"
+    },
+    {
+      "name": "todo.nvim",
+      "repo": "https://github.com/oncomouse/todo.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "lazygit.nvim",
+      "repo": "https://github.com/oncomouse/lazygit.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "andrewpilsch-blog",
+      "repo": "https://github.com/oncomouse/andrewpilsch-blog",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wordle-helper",
+      "repo": "https://github.com/oncomouse/wordle-helper",
+      "language": "JavaScript"
+    },
+    {
+      "name": "czs.nvim",
+      "repo": "https://github.com/oncomouse/czs.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "coc-bibtex",
+      "repo": "https://github.com/oncomouse/coc-bibtex",
+      "language": "TypeScript"
+    },
+    {
+      "name": "teachdh-test",
+      "repo": "https://github.com/oncomouse/teachdh-test",
+      "language": "HTML"
+    },
+    {
+      "name": "tracery-editor",
+      "repo": "https://github.com/oncomouse/tracery-editor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dhsi2019-iss-position",
+      "repo": "https://github.com/oncomouse/dhsi2019-iss-position",
+      "language": "JavaScript"
+    },
+    {
+      "name": "25-react-projects",
+      "repo": "https://github.com/oncomouse/25-react-projects",
+      "language": "JavaScript"
+    },
+    {
+      "name": "extract-tachyons",
+      "repo": "https://github.com/oncomouse/extract-tachyons",
+      "language": "CSS"
+    },
+    {
+      "name": "vbc",
+      "repo": "https://github.com/oncomouse/vbc"
+    },
+    {
+      "name": "ayu-mirage.vim",
+      "repo": "https://github.com/oncomouse/ayu-mirage.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "lpeg-bibtex",
+      "repo": "https://github.com/oncomouse/lpeg-bibtex",
+      "language": "Lua"
+    },
+    {
+      "name": "house-call",
+      "repo": "https://github.com/oncomouse/house-call",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drboolean",
+      "repo": "https://github.com/oncomouse/drboolean",
+      "language": "JavaScript"
+    },
+    {
+      "name": "patches",
+      "repo": "https://github.com/oncomouse/patches"
+    },
+    {
+      "name": "seadrive-daemon-git",
+      "repo": "https://github.com/oncomouse/seadrive-daemon-git",
+      "language": "Shell"
+    },
+    {
+      "name": "dwm",
+      "repo": "https://github.com/oncomouse/dwm",
+      "language": "C"
+    },
+    {
+      "name": "kefir-update",
+      "repo": "https://github.com/oncomouse/kefir-update",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ratpoison",
+      "repo": "https://github.com/oncomouse/ratpoison",
+      "language": "C"
+    },
+    {
+      "name": "coc-fish",
+      "repo": "https://github.com/oncomouse/coc-fish",
+      "language": "JavaScript"
+    },
+    {
+      "name": "workout-timer",
+      "repo": "https://github.com/oncomouse/workout-timer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dice",
+      "repo": "https://github.com/oncomouse/dice",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vale-bin",
+      "repo": "https://github.com/oncomouse/vale-bin",
+      "language": "Shell"
+    },
+    {
+      "name": "pandoc-bin",
+      "repo": "https://github.com/oncomouse/pandoc-bin",
+      "language": "Shell"
+    },
+    {
+      "name": "calculator-project",
+      "repo": "https://github.com/oncomouse/calculator-project",
+      "language": "JavaScript"
+    },
+    {
+      "name": "plenary-script.nvim",
+      "repo": "https://github.com/oncomouse/plenary-script.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "jekyll-demo",
+      "repo": "https://github.com/oncomouse/jekyll-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "ncspot",
+      "repo": "https://github.com/oncomouse/ncspot",
+      "language": "Shell"
+    },
+    {
+      "name": "random-flag",
+      "repo": "https://github.com/oncomouse/random-flag",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rivercarro",
+      "repo": "https://github.com/oncomouse/rivercarro",
+      "language": "Zig"
+    },
+    {
+      "name": "dynamic-tmux",
+      "repo": "https://github.com/oncomouse/dynamic-tmux",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-grep",
+      "repo": "https://github.com/oncomouse/vim-grep",
+      "language": "Vim Script"
+    },
+    {
+      "name": "citation-langserver",
+      "repo": "https://github.com/oncomouse/citation-langserver",
+      "language": "Python"
+    },
+    {
+      "name": "ncm2-lsp",
+      "repo": "https://github.com/oncomouse/ncm2-lsp",
+      "language": "Python"
+    },
+    {
+      "name": "flagflash",
+      "repo": "https://github.com/oncomouse/flagflash",
+      "language": "JavaScript"
+    },
+    {
+      "name": "haskell-book",
+      "repo": "https://github.com/oncomouse/haskell-book",
+      "language": "Haskell"
+    },
+    {
+      "name": "heb-order-check",
+      "repo": "https://github.com/oncomouse/heb-order-check",
+      "language": "HTML"
+    },
+    {
+      "name": "460-demo",
+      "repo": "https://github.com/oncomouse/460-demo",
+      "language": "Ruby"
+    },
+    {
+      "name": "vim-autorepl",
+      "repo": "https://github.com/oncomouse/vim-autorepl",
+      "language": "Vim Script"
+    },
+    {
+      "name": "460blog",
+      "repo": "https://github.com/oncomouse/460blog",
+      "language": "HTML"
+    },
+    {
+      "name": "ncm2-biblatex",
+      "repo": "https://github.com/oncomouse/ncm2-biblatex",
+      "language": "Python"
+    },
+    {
+      "name": "ncm2-calc",
+      "repo": "https://github.com/oncomouse/ncm2-calc",
+      "language": "Python"
+    },
+    {
+      "name": "460",
+      "repo": "https://github.com/oncomouse/460",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-repo",
+      "repo": "https://github.com/oncomouse/homebrew-repo",
+      "language": "Ruby"
+    },
+    {
+      "name": "minimal-eslint",
+      "repo": "https://github.com/oncomouse/minimal-eslint"
+    },
+    {
+      "name": "oncomouse",
+      "repo": "https://github.com/oncomouse/oncomouse"
+    },
+    {
+      "name": "kefir-jquery",
+      "repo": "https://github.com/oncomouse/kefir-jquery",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/oncomouse/test",
+      "language": "HTML"
+    },
+    {
+      "name": "jekyll-syllabus",
+      "repo": "https://github.com/oncomouse/jekyll-syllabus",
+      "language": "HTML"
+    },
+    {
+      "name": "jekyll-course-site",
+      "repo": "https://github.com/oncomouse/jekyll-course-site",
+      "language": "HTML"
+    },
+    {
+      "name": "middleman-mdl-course-template",
+      "repo": "https://github.com/oncomouse/middleman-mdl-course-template",
+      "language": "HTML"
+    },
+    {
+      "name": "rake-and-pandoc",
+      "repo": "https://github.com/oncomouse/rake-and-pandoc",
+      "language": "Ruby"
+    },
+    {
+      "name": "reading",
+      "repo": "https://github.com/oncomouse/reading",
+      "url": "https://andrew.pilsch.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "lol-jk-bot",
+      "repo": "https://github.com/oncomouse/lol-jk-bot",
+      "language": "Go"
+    },
+    {
+      "name": "wttr-safe",
+      "repo": "https://github.com/oncomouse/wttr-safe",
+      "language": "Go"
+    },
+    {
+      "name": "wego-server",
+      "repo": "https://github.com/oncomouse/wego-server",
+      "language": "Go"
+    },
+    {
+      "name": "dhsi2019",
+      "repo": "https://github.com/oncomouse/dhsi2019"
+    },
+    {
+      "name": "dotfiles-ubuntu",
+      "repo": "https://github.com/oncomouse/dotfiles-ubuntu",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dhsi2019-react",
+      "repo": "https://github.com/oncomouse/dhsi2019-react",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dhsi-pandoc2018",
+      "repo": "https://github.com/oncomouse/dhsi-pandoc2018"
+    },
+    {
+      "name": "hyperapp-emotion",
+      "repo": "https://github.com/oncomouse/hyperapp-emotion",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hyperapp-starter",
+      "repo": "https://github.com/oncomouse/hyperapp-starter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-cli-plugin-advanced-vuex-store",
+      "repo": "https://github.com/oncomouse/vue-cli-plugin-advanced-vuex-store",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-preset",
+      "repo": "https://github.com/oncomouse/vue-preset"
+    },
+    {
+      "name": "vue-cli-plugin-ramda",
+      "repo": "https://github.com/oncomouse/vue-cli-plugin-ramda",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-cli-plugin-vue-types",
+      "repo": "https://github.com/oncomouse/vue-cli-plugin-vue-types",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-cli-plugin-injectImports-bug",
+      "repo": "https://github.com/oncomouse/vue-cli-plugin-injectImports-bug",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-cli-plugin-code-splitting",
+      "repo": "https://github.com/oncomouse/vue-cli-plugin-code-splitting",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-template",
+      "repo": "https://github.com/oncomouse/vue-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-webpack-boilerplate",
+      "repo": "https://github.com/oncomouse/vue-webpack-boilerplate",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-redux-webpack-boilerplate",
+      "repo": "https://github.com/oncomouse/react-redux-webpack-boilerplate",
+      "language": "JavaScript"
+    },
+    {
+      "name": "design-brief-server",
+      "repo": "https://github.com/oncomouse/design-brief-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dhsi2018",
+      "repo": "https://github.com/oncomouse/dhsi2018",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dhsi2018-links",
+      "repo": "https://github.com/oncomouse/dhsi2018-links",
+      "language": "JavaScript"
+    }
+  ]
+}

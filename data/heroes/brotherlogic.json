@@ -1,0 +1,509 @@
+{
+  "handle": "brotherlogic",
+  "name": "Simon Tucker",
+  "github": [
+    "https://github.com/brotherlogic"
+  ],
+  "own_repos": 270,
+  "commits": 49549,
+  "apps": [],
+  "repos": [
+    {
+      "name": "gramophile",
+      "repo": "https://github.com/brotherlogic/gramophile",
+      "language": "Go"
+    },
+    {
+      "name": "ghwebhook",
+      "repo": "https://github.com/brotherlogic/ghwebhook",
+      "language": "Go"
+    },
+    {
+      "name": "rose",
+      "repo": "https://github.com/brotherlogic/rose",
+      "language": "JavaScript"
+    },
+    {
+      "name": "seraphine",
+      "repo": "https://github.com/brotherlogic/seraphine",
+      "language": "Go"
+    },
+    {
+      "name": "sale-description-generator",
+      "repo": "https://github.com/brotherlogic/sale-description-generator",
+      "language": "Go"
+    },
+    {
+      "name": "devcontainer-manager",
+      "repo": "https://github.com/brotherlogic/devcontainer-manager",
+      "language": "Go"
+    },
+    {
+      "name": "discogs",
+      "repo": "https://github.com/brotherlogic/discogs",
+      "language": "Go"
+    },
+    {
+      "name": "coffee",
+      "repo": "https://github.com/brotherlogic/coffee",
+      "language": "Shell"
+    },
+    {
+      "name": "reminders",
+      "repo": "https://github.com/brotherlogic/reminders",
+      "language": "Go"
+    },
+    {
+      "name": "gobuildmaster",
+      "repo": "https://github.com/brotherlogic/gobuildmaster",
+      "language": "Go"
+    },
+    {
+      "name": "gobuildslave",
+      "repo": "https://github.com/brotherlogic/gobuildslave",
+      "language": "Go"
+    },
+    {
+      "name": "recordalerting",
+      "repo": "https://github.com/brotherlogic/recordalerting",
+      "language": "Go"
+    },
+    {
+      "name": "recordbudget",
+      "repo": "https://github.com/brotherlogic/recordbudget",
+      "language": "Go"
+    },
+    {
+      "name": "temp",
+      "repo": "https://github.com/brotherlogic/temp",
+      "language": "Go"
+    },
+    {
+      "name": "sonosbridge",
+      "repo": "https://github.com/brotherlogic/sonosbridge",
+      "language": "Go"
+    },
+    {
+      "name": "recordmatcher",
+      "repo": "https://github.com/brotherlogic/recordmatcher",
+      "language": "Go"
+    },
+    {
+      "name": "buildserver",
+      "repo": "https://github.com/brotherlogic/buildserver",
+      "language": "Go"
+    },
+    {
+      "name": "discovery",
+      "repo": "https://github.com/brotherlogic/discovery",
+      "language": "Go"
+    },
+    {
+      "name": "recordfanout",
+      "repo": "https://github.com/brotherlogic/recordfanout",
+      "language": "Go"
+    },
+    {
+      "name": "builder",
+      "repo": "https://github.com/brotherlogic/builder",
+      "language": "Go"
+    },
+    {
+      "name": "recordvalidator",
+      "repo": "https://github.com/brotherlogic/recordvalidator",
+      "language": "Go"
+    },
+    {
+      "name": "grambridge",
+      "repo": "https://github.com/brotherlogic/grambridge",
+      "language": "Go"
+    },
+    {
+      "name": "display",
+      "repo": "https://github.com/brotherlogic/display",
+      "language": "Go"
+    },
+    {
+      "name": "recordstats",
+      "repo": "https://github.com/brotherlogic/recordstats",
+      "language": "Go"
+    },
+    {
+      "name": "filecopier",
+      "repo": "https://github.com/brotherlogic/filecopier",
+      "language": "Go"
+    },
+    {
+      "name": "executor",
+      "repo": "https://github.com/brotherlogic/executor",
+      "language": "Go"
+    },
+    {
+      "name": "keystore",
+      "repo": "https://github.com/brotherlogic/keystore",
+      "language": "Go"
+    },
+    {
+      "name": "queue",
+      "repo": "https://github.com/brotherlogic/queue",
+      "language": "Go"
+    },
+    {
+      "name": "recordsales",
+      "repo": "https://github.com/brotherlogic/recordsales",
+      "language": "Go"
+    },
+    {
+      "name": "tasklist",
+      "repo": "https://github.com/brotherlogic/tasklist",
+      "language": "Go"
+    },
+    {
+      "name": "frametracker",
+      "repo": "https://github.com/brotherlogic/frametracker",
+      "language": "Go"
+    },
+    {
+      "name": "githubreceiver",
+      "repo": "https://github.com/brotherlogic/githubreceiver",
+      "language": "Go"
+    },
+    {
+      "name": "recordcleaner",
+      "repo": "https://github.com/brotherlogic/recordcleaner",
+      "language": "Go"
+    },
+    {
+      "name": "recordsorganiser",
+      "repo": "https://github.com/brotherlogic/recordsorganiser",
+      "language": "Go"
+    },
+    {
+      "name": "beerkellar",
+      "repo": "https://github.com/brotherlogic/beerkellar",
+      "language": "Go"
+    },
+    {
+      "name": "lock",
+      "repo": "https://github.com/brotherlogic/lock",
+      "language": "Go"
+    },
+    {
+      "name": "recordprocess",
+      "repo": "https://github.com/brotherlogic/recordprocess",
+      "language": "Go"
+    },
+    {
+      "name": "proxy",
+      "repo": "https://github.com/brotherlogic/proxy",
+      "language": "Go"
+    },
+    {
+      "name": "recordwants",
+      "repo": "https://github.com/brotherlogic/recordwants",
+      "language": "Go"
+    },
+    {
+      "name": "pgstore",
+      "repo": "https://github.com/brotherlogic/pgstore",
+      "language": "Go"
+    },
+    {
+      "name": "login",
+      "repo": "https://github.com/brotherlogic/login",
+      "language": "Go"
+    },
+    {
+      "name": "recordscores",
+      "repo": "https://github.com/brotherlogic/recordscores",
+      "language": "Go"
+    },
+    {
+      "name": "recordsorg",
+      "repo": "https://github.com/brotherlogic/recordsorg",
+      "language": "Go"
+    },
+    {
+      "name": "cdprocessor",
+      "repo": "https://github.com/brotherlogic/cdprocessor",
+      "language": "Go"
+    },
+    {
+      "name": "keymapper",
+      "repo": "https://github.com/brotherlogic/keymapper",
+      "language": "Go"
+    },
+    {
+      "name": "logging",
+      "repo": "https://github.com/brotherlogic/logging",
+      "language": "Go"
+    },
+    {
+      "name": "recordgetter",
+      "repo": "https://github.com/brotherlogic/recordgetter",
+      "language": "Go"
+    },
+    {
+      "name": "githubcard",
+      "repo": "https://github.com/brotherlogic/githubcard",
+      "language": "Go"
+    },
+    {
+      "name": "aocfinder",
+      "repo": "https://github.com/brotherlogic/aocfinder",
+      "language": "Go"
+    },
+    {
+      "name": "euler",
+      "repo": "https://github.com/brotherlogic/euler",
+      "language": "Go"
+    },
+    {
+      "name": "recordadder",
+      "repo": "https://github.com/brotherlogic/recordadder",
+      "language": "Go"
+    },
+    {
+      "name": "versiontracker",
+      "repo": "https://github.com/brotherlogic/versiontracker",
+      "language": "Go"
+    },
+    {
+      "name": "recordprinter",
+      "repo": "https://github.com/brotherlogic/recordprinter",
+      "language": "Go"
+    },
+    {
+      "name": "digitalwantlist",
+      "repo": "https://github.com/brotherlogic/digitalwantlist",
+      "language": "Go"
+    },
+    {
+      "name": "secureproxy",
+      "repo": "https://github.com/brotherlogic/secureproxy",
+      "language": "Go"
+    },
+    {
+      "name": "recordcollection",
+      "repo": "https://github.com/brotherlogic/recordcollection",
+      "language": "Go"
+    },
+    {
+      "name": "scraper",
+      "repo": "https://github.com/brotherlogic/scraper",
+      "language": "Go"
+    },
+    {
+      "name": "dcrouter",
+      "repo": "https://github.com/brotherlogic/dcrouter",
+      "language": "Go"
+    },
+    {
+      "name": "bartwarn",
+      "repo": "https://github.com/brotherlogic/bartwarn",
+      "language": "Go"
+    },
+    {
+      "name": "notes",
+      "repo": "https://github.com/brotherlogic/notes",
+      "language": "Go"
+    },
+    {
+      "name": "godiscogs",
+      "repo": "https://github.com/brotherlogic/godiscogs",
+      "language": "Go"
+    },
+    {
+      "name": "recorder",
+      "repo": "https://github.com/brotherlogic/recorder",
+      "language": "Go"
+    },
+    {
+      "name": "githubridge",
+      "repo": "https://github.com/brotherlogic/githubridge",
+      "language": "Go"
+    },
+    {
+      "name": "healthchecker",
+      "repo": "https://github.com/brotherlogic/healthchecker",
+      "language": "Go"
+    },
+    {
+      "name": "pstore",
+      "repo": "https://github.com/brotherlogic/pstore",
+      "language": "Go"
+    },
+    {
+      "name": "kubebrainz",
+      "repo": "https://github.com/brotherlogic/kubebrainz",
+      "language": "Go"
+    },
+    {
+      "name": "rstore",
+      "repo": "https://github.com/brotherlogic/rstore",
+      "language": "Go"
+    },
+    {
+      "name": "printer",
+      "repo": "https://github.com/brotherlogic/printer",
+      "language": "Python"
+    },
+    {
+      "name": "recordmover",
+      "repo": "https://github.com/brotherlogic/recordmover",
+      "language": "Go"
+    },
+    {
+      "name": "eurorack",
+      "repo": "https://github.com/brotherlogic/eurorack",
+      "language": "Shell"
+    },
+    {
+      "name": "cooking",
+      "repo": "https://github.com/brotherlogic/cooking",
+      "language": "Shell"
+    },
+    {
+      "name": "brotherlogic-os",
+      "repo": "https://github.com/brotherlogic/brotherlogic-os",
+      "language": "CSS"
+    },
+    {
+      "name": "homerinthebushes",
+      "repo": "https://github.com/brotherlogic/homerinthebushes",
+      "language": "Python"
+    },
+    {
+      "name": "printqueue",
+      "repo": "https://github.com/brotherlogic/printqueue",
+      "language": "Go"
+    },
+    {
+      "name": "gemclust",
+      "repo": "https://github.com/brotherlogic/gemclust",
+      "language": "Shell"
+    },
+    {
+      "name": "backup",
+      "repo": "https://github.com/brotherlogic/backup",
+      "language": "Go"
+    },
+    {
+      "name": "scanning",
+      "repo": "https://github.com/brotherlogic/scanning",
+      "language": "Shell"
+    },
+    {
+      "name": "music",
+      "repo": "https://github.com/brotherlogic/music",
+      "language": "Shell"
+    },
+    {
+      "name": "cycling",
+      "repo": "https://github.com/brotherlogic/cycling"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/brotherlogic/dotfiles",
+      "language": "Go Template"
+    },
+    {
+      "name": "rprinter",
+      "repo": "https://github.com/brotherlogic/rprinter",
+      "language": "Go"
+    },
+    {
+      "name": "tasks",
+      "repo": "https://github.com/brotherlogic/tasks",
+      "language": "Shell"
+    },
+    {
+      "name": "provisioner",
+      "repo": "https://github.com/brotherlogic/provisioner",
+      "language": "Go"
+    },
+    {
+      "name": "notes-manager",
+      "repo": "https://github.com/brotherlogic/notes-manager"
+    },
+    {
+      "name": "solar",
+      "repo": "https://github.com/brotherlogic/solar"
+    },
+    {
+      "name": "dns-corrector",
+      "repo": "https://github.com/brotherlogic/dns-corrector",
+      "language": "Go"
+    },
+    {
+      "name": "kremind",
+      "repo": "https://github.com/brotherlogic/kremind",
+      "language": "Go"
+    },
+    {
+      "name": "printbridge",
+      "repo": "https://github.com/brotherlogic/printbridge",
+      "language": "Go"
+    },
+    {
+      "name": "datastore",
+      "repo": "https://github.com/brotherlogic/datastore",
+      "language": "Go"
+    },
+    {
+      "name": "fokus",
+      "repo": "https://github.com/brotherlogic/fokus",
+      "language": "Go"
+    },
+    {
+      "name": "macont",
+      "repo": "https://github.com/brotherlogic/macont",
+      "language": "Go"
+    },
+    {
+      "name": "githubstore",
+      "repo": "https://github.com/brotherlogic/githubstore",
+      "language": "Go"
+    },
+    {
+      "name": "overseer",
+      "repo": "https://github.com/brotherlogic/overseer",
+      "language": "Go"
+    },
+    {
+      "name": "githubtasks",
+      "repo": "https://github.com/brotherlogic/githubtasks",
+      "language": "Go"
+    },
+    {
+      "name": "auth",
+      "repo": "https://github.com/brotherlogic/auth",
+      "language": "Go"
+    },
+    {
+      "name": "habridge",
+      "repo": "https://github.com/brotherlogic/habridge",
+      "language": "Go"
+    },
+    {
+      "name": "github_overseer",
+      "repo": "https://github.com/brotherlogic/github_overseer",
+      "language": "Go"
+    },
+    {
+      "name": "mdb",
+      "repo": "https://github.com/brotherlogic/mdb",
+      "language": "Go"
+    },
+    {
+      "name": "pingspeed",
+      "repo": "https://github.com/brotherlogic/pingspeed",
+      "language": "Go"
+    },
+    {
+      "name": "pullrequester",
+      "repo": "https://github.com/brotherlogic/pullrequester",
+      "language": "Go"
+    }
+  ]
+}

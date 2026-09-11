@@ -1,0 +1,508 @@
+{
+  "handle": "yoshikunijujo",
+  "name": "Yoshikuni Jujo",
+  "github": [
+    "https://github.com/yoshikunijujo"
+  ],
+  "own_repos": 186,
+  "commits": 19565,
+  "apps": [],
+  "repos": [
+    {
+      "name": "test_haskell",
+      "repo": "https://github.com/YoshikuniJujo/test_haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "YoshikuniJujo.github.io",
+      "repo": "https://github.com/YoshikuniJujo/YoshikuniJujo.github.io"
+    },
+    {
+      "name": "sloth-walk",
+      "repo": "https://github.com/YoshikuniJujo/sloth-walk",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tutTest",
+      "repo": "https://github.com/YoshikuniJujo/tutTest",
+      "language": "Haskell"
+    },
+    {
+      "name": "yoshj-bot",
+      "repo": "https://github.com/YoshikuniJujo/yoshj-bot",
+      "language": "Haskell"
+    },
+    {
+      "name": "noskellay-stopgap",
+      "repo": "https://github.com/YoshikuniJujo/noskellay-stopgap",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan",
+      "language": "Haskell"
+    },
+    {
+      "name": "moffy-samples-gtk4",
+      "repo": "https://github.com/YoshikuniJujo/moffy-samples-gtk4",
+      "language": "Haskell"
+    },
+    {
+      "name": "memos",
+      "repo": "https://github.com/YoshikuniJujo/memos",
+      "language": "Haskell"
+    },
+    {
+      "name": "nostr-kyomu-haskell",
+      "repo": "https://github.com/YoshikuniJujo/nostr-kyomu-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "docker-haskell-hello",
+      "repo": "https://github.com/YoshikuniJujo/docker-haskell-hello",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "try-flask-hello",
+      "repo": "https://github.com/YoshikuniJujo/try-flask-hello",
+      "language": "Python"
+    },
+    {
+      "name": "moffy-samples-gtk3",
+      "repo": "https://github.com/YoshikuniJujo/moffy-samples-gtk3",
+      "language": "Haskell"
+    },
+    {
+      "name": "moffy-samples-gtk4-run",
+      "repo": "https://github.com/YoshikuniJujo/moffy-samples-gtk4-run",
+      "language": "Haskell"
+    },
+    {
+      "name": "exception-hierarchy",
+      "repo": "https://github.com/YoshikuniJujo/exception-hierarchy",
+      "language": "Haskell"
+    },
+    {
+      "name": "cairo-image",
+      "repo": "https://github.com/YoshikuniJujo/cairo-image",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-middle",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-middle",
+      "language": "Haskell"
+    },
+    {
+      "name": "png-chunk-yaftee",
+      "repo": "https://github.com/YoshikuniJujo/png-chunk-yaftee",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaftee-conduit",
+      "repo": "https://github.com/YoshikuniJujo/yaftee-conduit",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaftee-conduit-mono-traversable",
+      "repo": "https://github.com/YoshikuniJujo/yaftee-conduit-mono-traversable",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaftee-conduit-bytestring-ft",
+      "repo": "https://github.com/YoshikuniJujo/yaftee-conduit-bytestring-ft",
+      "language": "Haskell"
+    },
+    {
+      "name": "zlib-yaftee",
+      "repo": "https://github.com/YoshikuniJujo/zlib-yaftee",
+      "language": "Haskell"
+    },
+    {
+      "name": "zlib-core",
+      "repo": "https://github.com/YoshikuniJujo/zlib-core",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaftee-conduit-bytestring",
+      "repo": "https://github.com/YoshikuniJujo/yaftee-conduit-bytestring",
+      "language": "Haskell"
+    },
+    {
+      "name": "bytestring-ft",
+      "repo": "https://github.com/YoshikuniJujo/bytestring-ft",
+      "language": "Haskell"
+    },
+    {
+      "name": "bitarray-bs",
+      "repo": "https://github.com/YoshikuniJujo/bitarray-bs",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaftee-basic-monads",
+      "repo": "https://github.com/YoshikuniJujo/yaftee-basic-monads",
+      "language": "Haskell"
+    },
+    {
+      "name": "yaftee",
+      "repo": "https://github.com/YoshikuniJujo/yaftee",
+      "language": "Haskell"
+    },
+    {
+      "name": "higher-order-open-union",
+      "repo": "https://github.com/YoshikuniJujo/higher-order-open-union",
+      "language": "Haskell"
+    },
+    {
+      "name": "higher-order-freer-monad",
+      "repo": "https://github.com/YoshikuniJujo/higher-order-freer-monad",
+      "language": "Haskell"
+    },
+    {
+      "name": "freer-base-classes",
+      "repo": "https://github.com/YoshikuniJujo/freer-base-classes",
+      "language": "Haskell"
+    },
+    {
+      "name": "ftcqueue",
+      "repo": "https://github.com/YoshikuniJujo/ftcqueue",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-core",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-core",
+      "language": "Haskell"
+    },
+    {
+      "name": "hetero-parameter-list",
+      "repo": "https://github.com/YoshikuniJujo/hetero-parameter-list",
+      "language": "Haskell"
+    },
+    {
+      "name": "ranged-list",
+      "repo": "https://github.com/YoshikuniJujo/ranged-list",
+      "language": "Haskell"
+    },
+    {
+      "name": "typecheck-plugin-nat-simple",
+      "repo": "https://github.com/YoshikuniJujo/typecheck-plugin-nat-simple",
+      "language": "Haskell"
+    },
+    {
+      "name": "union-color",
+      "repo": "https://github.com/YoshikuniJujo/union-color",
+      "language": "Haskell"
+    },
+    {
+      "name": "tools-yj",
+      "repo": "https://github.com/YoshikuniJujo/tools-yj",
+      "language": "Haskell"
+    },
+    {
+      "name": "JuicyCairo",
+      "repo": "https://github.com/YoshikuniJujo/JuicyCairo",
+      "language": "Haskell"
+    },
+    {
+      "name": "typelevel-tools-yj",
+      "repo": "https://github.com/YoshikuniJujo/typelevel-tools-yj",
+      "language": "Haskell"
+    },
+    {
+      "name": "moffy",
+      "repo": "https://github.com/YoshikuniJujo/moffy",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-core-khr-surface",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-core-khr-surface",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-middle-khr-swapchain",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-middle-khr-swapchain",
+      "language": "Haskell"
+    },
+    {
+      "name": "qiita-articles",
+      "repo": "https://github.com/YoshikuniJujo/qiita-articles"
+    },
+    {
+      "name": "gpu-vulkan-middle-khr-surface",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-middle-khr-surface",
+      "language": "Haskell"
+    },
+    {
+      "name": "moffy-samples-gtk3-run",
+      "repo": "https://github.com/YoshikuniJujo/moffy-samples-gtk3-run",
+      "language": "Haskell"
+    },
+    {
+      "name": "type-set",
+      "repo": "https://github.com/YoshikuniJujo/type-set",
+      "language": "Haskell"
+    },
+    {
+      "name": "glfw-group",
+      "repo": "https://github.com/YoshikuniJujo/glfw-group",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-khr-surface",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-khr-surface",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-khr-swapchain",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-khr-swapchain",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-khr-surface-glfw",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-khr-surface-glfw",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-middle-khr-surface-glfw",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-middle-khr-surface-glfw",
+      "language": "Haskell"
+    },
+    {
+      "name": "gpu-vulkan-core-khr-swapchain",
+      "repo": "https://github.com/YoshikuniJujo/gpu-vulkan-core-khr-swapchain",
+      "language": "Haskell"
+    },
+    {
+      "name": "shaderc",
+      "repo": "https://github.com/YoshikuniJujo/shaderc",
+      "language": "Haskell"
+    },
+    {
+      "name": "swizzle-lens",
+      "repo": "https://github.com/YoshikuniJujo/swizzle-lens",
+      "language": "Haskell"
+    },
+    {
+      "name": "swizzle-modify",
+      "repo": "https://github.com/YoshikuniJujo/swizzle-modify",
+      "language": "Haskell"
+    },
+    {
+      "name": "swizzle-set",
+      "repo": "https://github.com/YoshikuniJujo/swizzle-set",
+      "language": "Haskell"
+    },
+    {
+      "name": "swizzle",
+      "repo": "https://github.com/YoshikuniJujo/swizzle",
+      "language": "Haskell"
+    },
+    {
+      "name": "simple-cairo",
+      "repo": "https://github.com/YoshikuniJujo/simple-cairo",
+      "language": "Haskell"
+    },
+    {
+      "name": "fixed-generic",
+      "repo": "https://github.com/YoshikuniJujo/fixed-generic",
+      "language": "Haskell"
+    },
+    {
+      "name": "storable-peek-poke",
+      "repo": "https://github.com/YoshikuniJujo/storable-peek-poke",
+      "language": "Haskell"
+    },
+    {
+      "name": "language-spir-v",
+      "repo": "https://github.com/YoshikuniJujo/language-spir-v",
+      "language": "Haskell"
+    },
+    {
+      "name": "simple-pango",
+      "repo": "https://github.com/YoshikuniJujo/simple-pango",
+      "language": "Haskell"
+    },
+    {
+      "name": "mtl-misc-yj",
+      "repo": "https://github.com/YoshikuniJujo/mtl-misc-yj",
+      "language": "Haskell"
+    },
+    {
+      "name": "glib-stopgap",
+      "repo": "https://github.com/YoshikuniJujo/glib-stopgap",
+      "language": "Haskell"
+    },
+    {
+      "name": "storable-generic",
+      "repo": "https://github.com/YoshikuniJujo/storable-generic",
+      "language": "Haskell"
+    },
+    {
+      "name": "text-misc-yj",
+      "repo": "https://github.com/YoshikuniJujo/text-misc-yj",
+      "language": "Haskell"
+    },
+    {
+      "name": "hetero-parameter-list-with-typelevel-tools",
+      "repo": "https://github.com/YoshikuniJujo/hetero-parameter-list-with-typelevel-tools",
+      "language": "Haskell"
+    },
+    {
+      "name": "storable-hetero-list",
+      "repo": "https://github.com/YoshikuniJujo/storable-hetero-list",
+      "language": "Haskell"
+    },
+    {
+      "name": "try-github",
+      "repo": "https://github.com/YoshikuniJujo/try-github"
+    },
+    {
+      "name": "simple-gdk3",
+      "repo": "https://github.com/YoshikuniJujo/simple-gdk3",
+      "language": "Haskell"
+    },
+    {
+      "name": "zot_haskell",
+      "repo": "https://github.com/YoshikuniJujo/zot_haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "yj_ebuilds",
+      "repo": "https://github.com/YoshikuniJujo/yj_ebuilds",
+      "language": "Shell"
+    },
+    {
+      "name": "extra-data-yj",
+      "repo": "https://github.com/YoshikuniJujo/extra-data-yj",
+      "language": "Haskell"
+    },
+    {
+      "name": "moffy-samples",
+      "repo": "https://github.com/YoshikuniJujo/moffy-samples",
+      "language": "Haskell"
+    },
+    {
+      "name": "moffy-samples-events",
+      "repo": "https://github.com/YoshikuniJujo/moffy-samples-events",
+      "language": "Haskell"
+    },
+    {
+      "name": "moffy-samples-gdk3-run",
+      "repo": "https://github.com/YoshikuniJujo/moffy-samples-gdk3-run"
+    },
+    {
+      "name": "freer-par-monad",
+      "repo": "https://github.com/YoshikuniJujo/freer-par-monad",
+      "language": "Haskell"
+    },
+    {
+      "name": "type-flip",
+      "repo": "https://github.com/YoshikuniJujo/type-flip",
+      "language": "Haskell"
+    },
+    {
+      "name": "size-alignment-list",
+      "repo": "https://github.com/YoshikuniJujo/size-alignment-list",
+      "language": "Haskell"
+    },
+    {
+      "name": "c-struct",
+      "repo": "https://github.com/YoshikuniJujo/c-struct",
+      "language": "Haskell"
+    },
+    {
+      "name": "yoshj-overlay",
+      "repo": "https://github.com/YoshikuniJujo/yoshj-overlay",
+      "language": "Shell"
+    },
+    {
+      "name": "YoshikuniJujo",
+      "repo": "https://github.com/YoshikuniJujo/YoshikuniJujo",
+      "url": "https://github.com/YoshikuniJujo"
+    },
+    {
+      "name": "c-enum",
+      "repo": "https://github.com/YoshikuniJujo/c-enum",
+      "language": "Haskell"
+    },
+    {
+      "name": "zenn-samples",
+      "repo": "https://github.com/YoshikuniJujo/zenn-samples",
+      "language": "Haskell"
+    },
+    {
+      "name": "x-keysym",
+      "repo": "https://github.com/YoshikuniJujo/x-keysym",
+      "language": "C"
+    },
+    {
+      "name": "simple-field",
+      "repo": "https://github.com/YoshikuniJujo/simple-field",
+      "language": "Haskell"
+    },
+    {
+      "name": "union-angle",
+      "repo": "https://github.com/YoshikuniJujo/union-angle",
+      "language": "Haskell"
+    },
+    {
+      "name": "sandbox",
+      "repo": "https://github.com/YoshikuniJujo/sandbox",
+      "language": "Haskell"
+    },
+    {
+      "name": "cmm",
+      "repo": "https://github.com/YoshikuniJujo/cmm",
+      "language": "Haskell"
+    },
+    {
+      "name": "test_vimscript",
+      "repo": "https://github.com/YoshikuniJujo/test_vimscript",
+      "language": "Vim Script"
+    },
+    {
+      "name": "zasni-gerna",
+      "repo": "https://github.com/YoshikuniJujo/zasni-gerna",
+      "language": "Haskell"
+    },
+    {
+      "name": "markdown2svg",
+      "repo": "https://github.com/YoshikuniJujo/markdown2svg",
+      "language": "Haskell"
+    },
+    {
+      "name": "papillon",
+      "repo": "https://github.com/YoshikuniJujo/papillon",
+      "language": "Haskell"
+    },
+    {
+      "name": "hello-plugin",
+      "repo": "https://github.com/YoshikuniJujo/hello-plugin",
+      "language": "Haskell"
+    },
+    {
+      "name": "hssourceinfo",
+      "repo": "https://github.com/YoshikuniJujo/hssourceinfo",
+      "language": "Haskell"
+    },
+    {
+      "name": "circuit-adornt-parts",
+      "repo": "https://github.com/YoshikuniJujo/circuit-adornt-parts",
+      "language": "Haskell"
+    },
+    {
+      "name": "circuit-diagram-dsl",
+      "repo": "https://github.com/YoshikuniJujo/circuit-diagram-dsl",
+      "language": "Haskell"
+    },
+    {
+      "name": "circuit-adornt-diagram",
+      "repo": "https://github.com/YoshikuniJujo/circuit-adornt-diagram",
+      "language": "Haskell"
+    },
+    {
+      "name": "circuit-adornt-build",
+      "repo": "https://github.com/YoshikuniJujo/circuit-adornt-build",
+      "language": "Haskell"
+    }
+  ]
+}

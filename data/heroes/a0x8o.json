@@ -1,0 +1,508 @@
+{
+  "handle": "a0x8o",
+  "name": "Alex",
+  "github": [
+    "https://github.com/a0x8o"
+  ],
+  "website": "https://a0x8o.github.io/",
+  "bio": "los pies en el suelo, y andar por las nubes",
+  "own_repos": 110,
+  "commits": 22784,
+  "apps": [],
+  "repos": [
+    {
+      "name": "spark",
+      "repo": "https://github.com/a0x8o/spark",
+      "language": "Scala"
+    },
+    {
+      "name": "a0x8o.github.io",
+      "repo": "https://github.com/a0x8o/a0x8o.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "databricks-metric-views",
+      "repo": "https://github.com/a0x8o/databricks-metric-views",
+      "language": "Python"
+    },
+    {
+      "name": "data-ai-tutorials",
+      "repo": "https://github.com/a0x8o/data-ai-tutorials",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "covid-19-migration-study",
+      "repo": "https://github.com/a0x8o/covid-19-migration-study",
+      "language": "Python"
+    },
+    {
+      "name": "protobuf",
+      "repo": "https://github.com/a0x8o/protobuf",
+      "language": "C++"
+    },
+    {
+      "name": "presto",
+      "repo": "https://github.com/a0x8o/presto",
+      "language": "Java"
+    },
+    {
+      "name": "parquet-mr",
+      "repo": "https://github.com/a0x8o/parquet-mr",
+      "language": "Java"
+    },
+    {
+      "name": "flink",
+      "repo": "https://github.com/a0x8o/flink",
+      "language": "Java"
+    },
+    {
+      "name": "baker",
+      "repo": "https://github.com/a0x8o/baker",
+      "language": "Scala"
+    },
+    {
+      "name": "airflow",
+      "repo": "https://github.com/a0x8o/airflow",
+      "language": "Python"
+    },
+    {
+      "name": "rokku",
+      "repo": "https://github.com/a0x8o/rokku",
+      "language": "Scala"
+    },
+    {
+      "name": "generative-ai-guide",
+      "repo": "https://github.com/a0x8o/generative-ai-guide"
+    },
+    {
+      "name": "a0x8o",
+      "repo": "https://github.com/a0x8o/a0x8o"
+    },
+    {
+      "name": "avro",
+      "repo": "https://github.com/a0x8o/avro",
+      "language": "Java"
+    },
+    {
+      "name": "iceberg",
+      "repo": "https://github.com/a0x8o/iceberg",
+      "language": "Java"
+    },
+    {
+      "name": "docker-superset",
+      "repo": "https://github.com/a0x8o/docker-superset",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "kafka",
+      "repo": "https://github.com/a0x8o/kafka",
+      "language": "Java"
+    },
+    {
+      "name": "druid",
+      "repo": "https://github.com/a0x8o/druid",
+      "url": "https://druid.apache.org",
+      "language": "Java"
+    },
+    {
+      "name": "beam",
+      "repo": "https://github.com/a0x8o/beam",
+      "language": "Python"
+    },
+    {
+      "name": "hive",
+      "repo": "https://github.com/a0x8o/hive",
+      "language": "Java"
+    },
+    {
+      "name": "kubernetes",
+      "repo": "https://github.com/a0x8o/kubernetes",
+      "language": "Go"
+    },
+    {
+      "name": "pinot",
+      "repo": "https://github.com/a0x8o/pinot",
+      "language": "Java"
+    },
+    {
+      "name": "drill",
+      "repo": "https://github.com/a0x8o/drill",
+      "language": "Java"
+    },
+    {
+      "name": "hackerrank",
+      "repo": "https://github.com/a0x8o/hackerrank",
+      "language": "Python"
+    },
+    {
+      "name": "example-ci-cd-databricks",
+      "repo": "https://github.com/a0x8o/example-ci-cd-databricks",
+      "language": "Python"
+    },
+    {
+      "name": "docker-kafka",
+      "repo": "https://github.com/a0x8o/docker-kafka",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-flink",
+      "repo": "https://github.com/a0x8o/docker-flink",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-druid",
+      "repo": "https://github.com/a0x8o/docker-druid",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-divolte",
+      "repo": "https://github.com/a0x8o/docker-divolte",
+      "language": "Shell"
+    },
+    {
+      "name": "flink-deployer",
+      "repo": "https://github.com/a0x8o/flink-deployer",
+      "language": "Go"
+    },
+    {
+      "name": "calcite",
+      "repo": "https://github.com/a0x8o/calcite",
+      "language": "Java"
+    },
+    {
+      "name": "etherway",
+      "repo": "https://github.com/a0x8o/etherway",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "sereal",
+      "repo": "https://github.com/a0x8o/sereal",
+      "language": "C"
+    },
+    {
+      "name": "hudi",
+      "repo": "https://github.com/a0x8o/hudi",
+      "language": "Java"
+    },
+    {
+      "name": "felix",
+      "repo": "https://github.com/a0x8o/felix",
+      "language": "Python"
+    },
+    {
+      "name": "arx",
+      "repo": "https://github.com/a0x8o/arx",
+      "language": "Java"
+    },
+    {
+      "name": "marmaray",
+      "repo": "https://github.com/a0x8o/marmaray",
+      "language": "Java"
+    },
+    {
+      "name": "delta-live-tables-hands-on-workshop",
+      "repo": "https://github.com/a0x8o/delta-live-tables-hands-on-workshop",
+      "language": "Python"
+    },
+    {
+      "name": "horovod",
+      "repo": "https://github.com/a0x8o/horovod",
+      "language": "Python"
+    },
+    {
+      "name": "petastorm",
+      "repo": "https://github.com/a0x8o/petastorm",
+      "language": "Python"
+    },
+    {
+      "name": "geomesa-tutorials",
+      "repo": "https://github.com/a0x8o/geomesa-tutorials",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bistro",
+      "repo": "https://github.com/a0x8o/bistro",
+      "language": "C++"
+    },
+    {
+      "name": "docker-spark",
+      "repo": "https://github.com/a0x8o/docker-spark",
+      "language": "Shell"
+    },
+    {
+      "name": "addressbook-proto",
+      "repo": "https://github.com/a0x8o/addressbook-proto",
+      "language": "Java"
+    },
+    {
+      "name": "protobufutil",
+      "repo": "https://github.com/a0x8o/protobufutil",
+      "language": "Scala"
+    },
+    {
+      "name": "timezonedb",
+      "repo": "https://github.com/a0x8o/timezonedb"
+    },
+    {
+      "name": "peloton",
+      "repo": "https://github.com/a0x8o/peloton",
+      "language": "Go"
+    },
+    {
+      "name": "workspaces",
+      "repo": "https://github.com/a0x8o/workspaces",
+      "language": "Python"
+    },
+    {
+      "name": "spark-structured-streaming-book",
+      "repo": "https://github.com/a0x8o/spark-structured-streaming-book"
+    },
+    {
+      "name": "parallel_curl",
+      "repo": "https://github.com/a0x8o/parallel_curl",
+      "language": "Python"
+    },
+    {
+      "name": "deepwalk",
+      "repo": "https://github.com/a0x8o/deepwalk",
+      "language": "Python"
+    },
+    {
+      "name": "docker-airflow",
+      "repo": "https://github.com/a0x8o/docker-airflow",
+      "language": "Shell"
+    },
+    {
+      "name": "scruid",
+      "repo": "https://github.com/a0x8o/scruid",
+      "language": "Scala"
+    },
+    {
+      "name": "data-platform-ai",
+      "repo": "https://github.com/a0x8o/data-platform-ai"
+    },
+    {
+      "name": "gitolly",
+      "repo": "https://github.com/a0x8o/gitolly",
+      "language": "Python"
+    },
+    {
+      "name": "fbtftp",
+      "repo": "https://github.com/a0x8o/fbtftp",
+      "language": "Python"
+    },
+    {
+      "name": "fboss",
+      "repo": "https://github.com/a0x8o/fboss",
+      "language": "C++"
+    },
+    {
+      "name": "message-backbone",
+      "repo": "https://github.com/a0x8o/message-backbone"
+    },
+    {
+      "name": "kafka-python",
+      "repo": "https://github.com/a0x8o/kafka-python",
+      "language": "C"
+    },
+    {
+      "name": "kafka-go",
+      "repo": "https://github.com/a0x8o/kafka-go",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-kafka",
+      "repo": "https://github.com/a0x8o/terraform-kafka",
+      "language": "HCL"
+    },
+    {
+      "name": "librdkafka",
+      "repo": "https://github.com/a0x8o/librdkafka",
+      "language": "C"
+    },
+    {
+      "name": "kafka-schema-registry",
+      "repo": "https://github.com/a0x8o/kafka-schema-registry",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-connect-storage-cloud",
+      "repo": "https://github.com/a0x8o/kafka-connect-storage-cloud",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-connect-elasticsearch",
+      "repo": "https://github.com/a0x8o/kafka-connect-elasticsearch",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-connect-storage-common",
+      "repo": "https://github.com/a0x8o/kafka-connect-storage-common",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-connect-hdfs",
+      "repo": "https://github.com/a0x8o/kafka-connect-hdfs",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-connect-jdbc",
+      "repo": "https://github.com/a0x8o/kafka-connect-jdbc",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-examples",
+      "repo": "https://github.com/a0x8o/kafka-examples",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-ansible",
+      "repo": "https://github.com/a0x8o/kafka-ansible",
+      "language": "Shell"
+    },
+    {
+      "name": "kafka-rest-node",
+      "repo": "https://github.com/a0x8o/kafka-rest-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kafka-rest-utils",
+      "repo": "https://github.com/a0x8o/kafka-rest-utils",
+      "language": "Java"
+    },
+    {
+      "name": "kafka-rest",
+      "repo": "https://github.com/a0x8o/kafka-rest",
+      "language": "Java"
+    },
+    {
+      "name": "clocks",
+      "repo": "https://github.com/a0x8o/clocks",
+      "language": "Python"
+    },
+    {
+      "name": "pyhive",
+      "repo": "https://github.com/a0x8o/pyhive",
+      "language": "Python"
+    },
+    {
+      "name": "darkforestgo",
+      "repo": "https://github.com/a0x8o/darkforestgo",
+      "language": "C"
+    },
+    {
+      "name": "torch",
+      "repo": "https://github.com/a0x8o/torch",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "caffe2",
+      "repo": "https://github.com/a0x8o/caffe2",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "fasttext",
+      "repo": "https://github.com/a0x8o/fasttext",
+      "language": "HTML"
+    },
+    {
+      "name": "caffe",
+      "repo": "https://github.com/a0x8o/caffe",
+      "language": "C++"
+    },
+    {
+      "name": "pysparnn",
+      "repo": "https://github.com/a0x8o/pysparnn",
+      "language": "Python"
+    },
+    {
+      "name": "kuryr",
+      "repo": "https://github.com/a0x8o/kuryr",
+      "language": "Python"
+    },
+    {
+      "name": "utils",
+      "repo": "https://github.com/a0x8o/utils",
+      "language": "Python"
+    },
+    {
+      "name": "manifests",
+      "repo": "https://github.com/a0x8o/manifests",
+      "language": "Shell"
+    },
+    {
+      "name": "mixer",
+      "repo": "https://github.com/a0x8o/mixer",
+      "language": "Lua"
+    },
+    {
+      "name": "commai-env",
+      "repo": "https://github.com/a0x8o/commai-env",
+      "language": "Python"
+    },
+    {
+      "name": "mxnet-notebooks",
+      "repo": "https://github.com/a0x8o/mxnet-notebooks",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "nnvm",
+      "repo": "https://github.com/a0x8o/nnvm",
+      "language": "C++"
+    },
+    {
+      "name": "keras",
+      "repo": "https://github.com/a0x8o/keras",
+      "language": "Python"
+    },
+    {
+      "name": "xgboost",
+      "repo": "https://github.com/a0x8o/xgboost",
+      "language": "C++"
+    },
+    {
+      "name": "mxnet",
+      "repo": "https://github.com/a0x8o/mxnet",
+      "language": "C++"
+    },
+    {
+      "name": "dockerize",
+      "repo": "https://github.com/a0x8o/dockerize",
+      "language": "Python"
+    },
+    {
+      "name": "universe",
+      "repo": "https://github.com/a0x8o/universe",
+      "language": "HTML"
+    },
+    {
+      "name": "docs",
+      "repo": "https://github.com/a0x8o/docs"
+    },
+    {
+      "name": "deepmask",
+      "repo": "https://github.com/a0x8o/deepmask",
+      "language": "Lua"
+    },
+    {
+      "name": "multipathnet",
+      "repo": "https://github.com/a0x8o/multipathnet",
+      "language": "Lua"
+    },
+    {
+      "name": "kubernetes-cluster-federation",
+      "repo": "https://github.com/a0x8o/kubernetes-cluster-federation",
+      "language": "Shell"
+    },
+    {
+      "name": "heat",
+      "repo": "https://github.com/a0x8o/heat",
+      "language": "Python"
+    },
+    {
+      "name": "lvcache",
+      "repo": "https://github.com/a0x8o/lvcache",
+      "language": "Python"
+    }
+  ]
+}
