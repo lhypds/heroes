@@ -1,0 +1,511 @@
+{
+  "handle": "mafintosh",
+  "name": "Mathias Buus",
+  "github": [
+    "https://github.com/mafintosh"
+  ],
+  "website": "https://mafinto.sh/",
+  "bio": "Rød grød med fløde",
+  "own_repos": 669,
+  "commits": 13325,
+  "apps": [],
+  "repos": [
+    {
+      "name": "octoops",
+      "repo": "https://github.com/mafintosh/octoops",
+      "language": "JavaScript"
+    },
+    {
+      "name": "streamx",
+      "repo": "https://github.com/mafintosh/streamx",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tar-stream",
+      "repo": "https://github.com/mafintosh/tar-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "end-of-stream",
+      "repo": "https://github.com/mafintosh/end-of-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "is-my-json-valid",
+      "repo": "https://github.com/mafintosh/is-my-json-valid",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dns-packet",
+      "repo": "https://github.com/mafintosh/dns-packet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "process-top",
+      "repo": "https://github.com/mafintosh/process-top",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-markup",
+      "repo": "https://github.com/mafintosh/json-markup",
+      "language": "JavaScript"
+    },
+    {
+      "name": "xache",
+      "repo": "https://github.com/mafintosh/xache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "secret-json",
+      "repo": "https://github.com/mafintosh/secret-json",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tar-fs",
+      "repo": "https://github.com/mafintosh/tar-fs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "csv-parser",
+      "repo": "https://github.com/mafintosh/csv-parser",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bogon",
+      "repo": "https://github.com/mafintosh/bogon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "protocol-buffers-schema",
+      "repo": "https://github.com/mafintosh/protocol-buffers-schema",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flat-tree",
+      "repo": "https://github.com/mafintosh/flat-tree",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ci-testing",
+      "repo": "https://github.com/mafintosh/ci-testing"
+    },
+    {
+      "name": "app-flow-template",
+      "repo": "https://github.com/mafintosh/app-flow-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "safety-catch",
+      "repo": "https://github.com/mafintosh/safety-catch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "inspector-repl",
+      "repo": "https://github.com/mafintosh/inspector-repl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "check-npm-cache",
+      "repo": "https://github.com/mafintosh/check-npm-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pump",
+      "repo": "https://github.com/mafintosh/pump",
+      "language": "JavaScript"
+    },
+    {
+      "name": "record-cache",
+      "repo": "https://github.com/mafintosh/record-cache",
+      "language": "JavaScript"
+    },
+    {
+      "name": "math-random-seed",
+      "repo": "https://github.com/mafintosh/math-random-seed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "passthrough-pair",
+      "repo": "https://github.com/mafintosh/passthrough-pair",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fd-lock",
+      "repo": "https://github.com/mafintosh/fd-lock",
+      "language": "JavaScript"
+    },
+    {
+      "name": "queue-tick",
+      "repo": "https://github.com/mafintosh/queue-tick",
+      "language": "JavaScript"
+    },
+    {
+      "name": "same-data",
+      "repo": "https://github.com/mafintosh/same-data",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unix-path-resolve",
+      "repo": "https://github.com/mafintosh/unix-path-resolve",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timeout-refresh",
+      "repo": "https://github.com/mafintosh/timeout-refresh",
+      "language": "JavaScript"
+    },
+    {
+      "name": "speedometer",
+      "repo": "https://github.com/mafintosh/speedometer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "z32",
+      "repo": "https://github.com/mafintosh/z32",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test-tmp",
+      "repo": "https://github.com/mafintosh/test-tmp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sodium-secretstream",
+      "repo": "https://github.com/mafintosh/sodium-secretstream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "resolve-reject-promise",
+      "repo": "https://github.com/mafintosh/resolve-reject-promise",
+      "language": "JavaScript"
+    },
+    {
+      "name": "read-write-mutexify",
+      "repo": "https://github.com/mafintosh/read-write-mutexify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "random-bytes-seed",
+      "repo": "https://github.com/mafintosh/random-bytes-seed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "event-loop-delay",
+      "repo": "https://github.com/mafintosh/event-loop-delay",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bare-http-example",
+      "repo": "https://github.com/mafintosh/bare-http-example",
+      "language": "JavaScript"
+    },
+    {
+      "name": "timeout-abort-signal",
+      "repo": "https://github.com/mafintosh/timeout-abort-signal",
+      "language": "JavaScript"
+    },
+    {
+      "name": "debugalot",
+      "repo": "https://github.com/mafintosh/debugalot",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graceful-goodbye",
+      "repo": "https://github.com/mafintosh/graceful-goodbye",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hyperdb",
+      "repo": "https://github.com/mafintosh/hyperdb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kademlia-routing-table",
+      "repo": "https://github.com/mafintosh/kademlia-routing-table",
+      "language": "JavaScript"
+    },
+    {
+      "name": "why-is-node-running",
+      "repo": "https://github.com/mafintosh/why-is-node-running",
+      "language": "JavaScript"
+    },
+    {
+      "name": "debugging-stream",
+      "repo": "https://github.com/mafintosh/debugging-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "print-flat-tree",
+      "repo": "https://github.com/mafintosh/print-flat-tree",
+      "language": "JavaScript"
+    },
+    {
+      "name": "time-ordered-set",
+      "repo": "https://github.com/mafintosh/time-ordered-set",
+      "language": "JavaScript"
+    },
+    {
+      "name": "utp-native",
+      "repo": "https://github.com/mafintosh/utp-native",
+      "language": "JavaScript"
+    },
+    {
+      "name": "generate-object-property",
+      "repo": "https://github.com/mafintosh/generate-object-property",
+      "language": "JavaScript"
+    },
+    {
+      "name": "generate-string",
+      "repo": "https://github.com/mafintosh/generate-string",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ansi-diff",
+      "repo": "https://github.com/mafintosh/ansi-diff",
+      "language": "JavaScript"
+    },
+    {
+      "name": "npm-auto",
+      "repo": "https://github.com/mafintosh/npm-auto",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codecs",
+      "repo": "https://github.com/mafintosh/codecs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ip-packet",
+      "repo": "https://github.com/mafintosh/ip-packet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "media-recorder-stream",
+      "repo": "https://github.com/mafintosh/media-recorder-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "webm-cluster-stream",
+      "repo": "https://github.com/mafintosh/webm-cluster-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parallel-transform",
+      "repo": "https://github.com/mafintosh/parallel-transform",
+      "language": "JavaScript"
+    },
+    {
+      "name": "multicast-dns",
+      "repo": "https://github.com/mafintosh/multicast-dns",
+      "language": "JavaScript"
+    },
+    {
+      "name": "generate-function",
+      "repo": "https://github.com/mafintosh/generate-function",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flush-write-stream",
+      "repo": "https://github.com/mafintosh/flush-write-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "duplexify",
+      "repo": "https://github.com/mafintosh/duplexify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "protocol-buffers",
+      "repo": "https://github.com/mafintosh/protocol-buffers",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pumpify",
+      "repo": "https://github.com/mafintosh/pumpify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stdout-stream",
+      "repo": "https://github.com/mafintosh/stdout-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "thunky",
+      "repo": "https://github.com/mafintosh/thunky",
+      "language": "JavaScript"
+    },
+    {
+      "name": "turbo-json-parse",
+      "repo": "https://github.com/mafintosh/turbo-json-parse",
+      "language": "JavaScript"
+    },
+    {
+      "name": "etcdjs",
+      "repo": "https://github.com/mafintosh/etcdjs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fast-fifo",
+      "repo": "https://github.com/mafintosh/fast-fifo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cyclist",
+      "repo": "https://github.com/mafintosh/cyclist",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ldd",
+      "repo": "https://github.com/mafintosh/ldd",
+      "language": "JavaScript"
+    },
+    {
+      "name": "templates",
+      "repo": "https://github.com/mafintosh/templates"
+    },
+    {
+      "name": "signalhub",
+      "repo": "https://github.com/mafintosh/signalhub",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ubuntu-dev-container",
+      "repo": "https://github.com/mafintosh/ubuntu-dev-container",
+      "language": "Shell"
+    },
+    {
+      "name": "approd",
+      "repo": "https://github.com/mafintosh/approd",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stream-shift",
+      "repo": "https://github.com/mafintosh/stream-shift",
+      "language": "JavaScript"
+    },
+    {
+      "name": "debounceify",
+      "repo": "https://github.com/mafintosh/debounceify",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ubuntu-prebuild-container",
+      "repo": "https://github.com/mafintosh/ubuntu-prebuild-container",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "prebuild-swarm",
+      "repo": "https://github.com/mafintosh/prebuild-swarm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "recursive-watch",
+      "repo": "https://github.com/mafintosh/recursive-watch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "simple-hypercore-protocol",
+      "repo": "https://github.com/mafintosh/simple-hypercore-protocol",
+      "language": "JavaScript"
+    },
+    {
+      "name": "newline-decoder",
+      "repo": "https://github.com/mafintosh/newline-decoder",
+      "language": "JavaScript"
+    },
+    {
+      "name": "movsci",
+      "repo": "https://github.com/mafintosh/movsci",
+      "language": "JavaScript"
+    },
+    {
+      "name": "canvas-resize-image",
+      "repo": "https://github.com/mafintosh/canvas-resize-image",
+      "language": "JavaScript"
+    },
+    {
+      "name": "exports-map",
+      "repo": "https://github.com/mafintosh/exports-map",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stream-composer",
+      "repo": "https://github.com/mafintosh/stream-composer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "is-valid-variable",
+      "repo": "https://github.com/mafintosh/is-valid-variable",
+      "language": "JavaScript"
+    },
+    {
+      "name": "abstract-chunk-store",
+      "repo": "https://github.com/mafintosh/abstract-chunk-store",
+      "language": "JavaScript"
+    },
+    {
+      "name": "peek-stream",
+      "repo": "https://github.com/mafintosh/peek-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "awesome-p2p",
+      "repo": "https://github.com/mafintosh/awesome-p2p"
+    },
+    {
+      "name": "sorted-union-stream",
+      "repo": "https://github.com/mafintosh/sorted-union-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sync-io-test",
+      "repo": "https://github.com/mafintosh/sync-io-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "uv-errors",
+      "repo": "https://github.com/mafintosh/uv-errors",
+      "language": "JavaScript"
+    },
+    {
+      "name": "k-rpc",
+      "repo": "https://github.com/mafintosh/k-rpc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "k-rpc-socket",
+      "repo": "https://github.com/mafintosh/k-rpc-socket",
+      "language": "JavaScript"
+    },
+    {
+      "name": "include-static",
+      "repo": "https://github.com/mafintosh/include-static",
+      "language": "JavaScript"
+    },
+    {
+      "name": "napi-macros",
+      "repo": "https://github.com/mafintosh/napi-macros",
+      "language": "C"
+    },
+    {
+      "name": "fixed-block-store",
+      "repo": "https://github.com/mafintosh/fixed-block-store",
+      "language": "JavaScript"
+    },
+    {
+      "name": "add-to-systemd",
+      "repo": "https://github.com/mafintosh/add-to-systemd",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tiny-binary-heap",
+      "repo": "https://github.com/mafintosh/tiny-binary-heap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "duplex-through",
+      "repo": "https://github.com/mafintosh/duplex-through",
+      "language": "JavaScript"
+    }
+  ]
+}

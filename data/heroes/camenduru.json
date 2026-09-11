@@ -1,0 +1,509 @@
+{
+  "handle": "camenduru",
+  "name": "camenduru",
+  "github": [
+    "https://github.com/camenduru"
+  ],
+  "own_repos": 1070,
+  "commits": 12715,
+  "apps": [],
+  "repos": [
+    {
+      "name": "camenduru",
+      "repo": "https://github.com/camenduru/camenduru"
+    },
+    {
+      "name": "klein.cu",
+      "repo": "https://github.com/camenduru/klein.cu",
+      "language": "Cuda"
+    },
+    {
+      "name": "TostUI-webhook-standalone",
+      "repo": "https://github.com/camenduru/TostUI-webhook-standalone",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ReconViaGen-v0.5-hf",
+      "repo": "https://github.com/camenduru/ReconViaGen-v0.5-hf",
+      "language": "Python"
+    },
+    {
+      "name": "imdb-trailers",
+      "repo": "https://github.com/camenduru/imdb-trailers",
+      "url": "https://imdb-trailers.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gstreamer-common",
+      "repo": "https://github.com/camenduru/gstreamer-common",
+      "language": "M4"
+    },
+    {
+      "name": "TostUI-old-web",
+      "repo": "https://github.com/camenduru/TostUI-old-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "klein.c",
+      "repo": "https://github.com/camenduru/klein.c",
+      "language": "C"
+    },
+    {
+      "name": "pruna-video-app",
+      "repo": "https://github.com/camenduru/pruna-video-app",
+      "url": "https://pruna.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TostUI-s3-media-viewer-standalone",
+      "repo": "https://github.com/camenduru/TostUI-s3-media-viewer-standalone",
+      "language": "HTML"
+    },
+    {
+      "name": "TostUI",
+      "repo": "https://github.com/camenduru/TostUI",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TostEngine-juce-pocket-sampler",
+      "repo": "https://github.com/camenduru/TostEngine-juce-pocket-sampler",
+      "language": "C++"
+    },
+    {
+      "name": "TostEngine-trellis2-unrealengine-plugin",
+      "repo": "https://github.com/camenduru/TostEngine-trellis2-unrealengine-plugin",
+      "language": "C++"
+    },
+    {
+      "name": "TostEngine-vulkan-gamepad-visualizer-standalone",
+      "repo": "https://github.com/camenduru/TostEngine-vulkan-gamepad-visualizer-standalone",
+      "language": "C++"
+    },
+    {
+      "name": "TostEngine-cinder-bullethell",
+      "repo": "https://github.com/camenduru/TostEngine-cinder-bullethell",
+      "language": "C++"
+    },
+    {
+      "name": "TostEngine-cinder-tetrisgame",
+      "repo": "https://github.com/camenduru/TostEngine-cinder-tetrisgame",
+      "language": "C++"
+    },
+    {
+      "name": "TostEngine-cinder-snakegame",
+      "repo": "https://github.com/camenduru/TostEngine-cinder-snakegame",
+      "language": "C++"
+    },
+    {
+      "name": "TostEngine-vulkan-live-shader-editor-standalone",
+      "repo": "https://github.com/camenduru/TostEngine-vulkan-live-shader-editor-standalone",
+      "language": "C++"
+    },
+    {
+      "name": "Qwen-Image-2512-hf",
+      "repo": "https://github.com/camenduru/Qwen-Image-2512-hf",
+      "language": "Python"
+    },
+    {
+      "name": "SongGeneration-hf",
+      "repo": "https://github.com/camenduru/SongGeneration-hf",
+      "language": "Python"
+    },
+    {
+      "name": "TostEngine-vulkan-glb-viewer-standalone",
+      "repo": "https://github.com/camenduru/TostEngine-vulkan-glb-viewer-standalone",
+      "language": "C++"
+    },
+    {
+      "name": "TostUI-qwen-image-edit-2511-docker",
+      "repo": "https://github.com/camenduru/TostUI-qwen-image-edit-2511-docker",
+      "language": "Python"
+    },
+    {
+      "name": "TostUI-trellis2-docker",
+      "repo": "https://github.com/camenduru/TostUI-trellis2-docker",
+      "language": "Python"
+    },
+    {
+      "name": "wheels",
+      "repo": "https://github.com/camenduru/wheels"
+    },
+    {
+      "name": "TRELLIS.2-hf",
+      "repo": "https://github.com/camenduru/TRELLIS.2-hf",
+      "language": "Python"
+    },
+    {
+      "name": "stable-diffusion-webui-colab",
+      "repo": "https://github.com/camenduru/stable-diffusion-webui-colab",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "TostUI-z-image-turbo-4bit-docker",
+      "repo": "https://github.com/camenduru/TostUI-z-image-turbo-4bit-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "TostUI-qwen-image-edit-2509-docker",
+      "repo": "https://github.com/camenduru/TostUI-qwen-image-edit-2509-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "TostUI-old-web2",
+      "repo": "https://github.com/camenduru/TostUI-old-web2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "TostUI-wan2-2-i2v-docker",
+      "repo": "https://github.com/camenduru/TostUI-wan2-2-i2v-docker",
+      "language": "Python"
+    },
+    {
+      "name": "TostUI-z-image-turbo-seedvr2-docker",
+      "repo": "https://github.com/camenduru/TostUI-z-image-turbo-seedvr2-docker",
+      "language": "Python"
+    },
+    {
+      "name": "Z-Image-jupyter",
+      "repo": "https://github.com/camenduru/Z-Image-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "IndexTTS-2-Demo-hf",
+      "repo": "https://github.com/camenduru/IndexTTS-2-Demo-hf",
+      "language": "Python"
+    },
+    {
+      "name": "openPangu-Embedded-1B-V1.1",
+      "repo": "https://github.com/camenduru/openPangu-Embedded-1B-V1.1",
+      "language": "Python"
+    },
+    {
+      "name": "MoGe-2-hf",
+      "repo": "https://github.com/camenduru/MoGe-2-hf",
+      "language": "Python"
+    },
+    {
+      "name": "Pixel-Perfect-Depth-hf",
+      "repo": "https://github.com/camenduru/Pixel-Perfect-Depth-hf",
+      "language": "Python"
+    },
+    {
+      "name": "cube3d-interactive-hf",
+      "repo": "https://github.com/camenduru/cube3d-interactive-hf",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Trellis-OA-hf",
+      "repo": "https://github.com/camenduru/Trellis-OA-hf",
+      "language": "Python"
+    },
+    {
+      "name": "SeqTex-hf",
+      "repo": "https://github.com/camenduru/SeqTex-hf",
+      "language": "Python"
+    },
+    {
+      "name": "lucy-edit-dev-hf",
+      "repo": "https://github.com/camenduru/lucy-edit-dev-hf",
+      "language": "Python"
+    },
+    {
+      "name": "ReconViaGen-hf",
+      "repo": "https://github.com/camenduru/ReconViaGen-hf",
+      "language": "Python"
+    },
+    {
+      "name": "non-profit-gpu-cluster",
+      "repo": "https://github.com/camenduru/non-profit-gpu-cluster",
+      "language": "Shell"
+    },
+    {
+      "name": "VibeVoice-hf",
+      "repo": "https://github.com/camenduru/VibeVoice-hf",
+      "language": "Python"
+    },
+    {
+      "name": "Qwen-Image-Edit-Outpaint-hf",
+      "repo": "https://github.com/camenduru/Qwen-Image-Edit-Outpaint-hf",
+      "language": "Python"
+    },
+    {
+      "name": "Wan2.1-jupyter",
+      "repo": "https://github.com/camenduru/Wan2.1-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "OmniPart-hf",
+      "repo": "https://github.com/camenduru/OmniPart-hf",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "NextStep-1-Large-Edit-hf",
+      "repo": "https://github.com/camenduru/NextStep-1-Large-Edit-hf",
+      "language": "Python"
+    },
+    {
+      "name": "multitalk-tost",
+      "repo": "https://github.com/camenduru/multitalk-tost",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "LIA-X-hf",
+      "repo": "https://github.com/camenduru/LIA-X-hf",
+      "language": "Python"
+    },
+    {
+      "name": "ACE-Step-hf2",
+      "repo": "https://github.com/camenduru/ACE-Step-hf2",
+      "language": "Python"
+    },
+    {
+      "name": "Hunyuan3D-2.1-hf",
+      "repo": "https://github.com/camenduru/Hunyuan3D-2.1-hf",
+      "language": "Python"
+    },
+    {
+      "name": "UniRig-hf",
+      "repo": "https://github.com/camenduru/UniRig-hf",
+      "language": "Python"
+    },
+    {
+      "name": "OmniAvatar-hf",
+      "repo": "https://github.com/camenduru/OmniAvatar-hf",
+      "language": "Python"
+    },
+    {
+      "name": "flux-krea-blaze-wan2.2-t2v-rapid-tost",
+      "repo": "https://github.com/camenduru/flux-krea-blaze-wan2.2-t2v-rapid-tost",
+      "language": "Python"
+    },
+    {
+      "name": "wan2.2-i2v-rapid-tost",
+      "repo": "https://github.com/camenduru/wan2.2-i2v-rapid-tost",
+      "language": "Python"
+    },
+    {
+      "name": "wan2.2-t2v-tost",
+      "repo": "https://github.com/camenduru/wan2.2-t2v-tost",
+      "language": "Python"
+    },
+    {
+      "name": "simple-knn",
+      "repo": "https://github.com/camenduru/simple-knn",
+      "language": "Cuda"
+    },
+    {
+      "name": "MegaTTS3-Voice-Cloning-jupyter",
+      "repo": "https://github.com/camenduru/MegaTTS3-Voice-Cloning-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "MegaTTS3-Voice-Cloning-hf",
+      "repo": "https://github.com/camenduru/MegaTTS3-Voice-Cloning-hf",
+      "language": "Python"
+    },
+    {
+      "name": "Hunyuan3D-2.1-jupyter",
+      "repo": "https://github.com/camenduru/Hunyuan3D-2.1-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "HunyuanWorld-1.0-jupyter",
+      "repo": "https://github.com/camenduru/HunyuanWorld-1.0-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "DAViD-jupyter",
+      "repo": "https://github.com/camenduru/DAViD-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "curve-creator-tost",
+      "repo": "https://github.com/camenduru/curve-creator-tost",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "mochi-1-preview-tost",
+      "repo": "https://github.com/camenduru/mochi-1-preview-tost",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "trellis-tost",
+      "repo": "https://github.com/camenduru/trellis-tost",
+      "language": "Python"
+    },
+    {
+      "name": "ominicontrol-tost",
+      "repo": "https://github.com/camenduru/ominicontrol-tost",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "SeedVR2-jupyter",
+      "repo": "https://github.com/camenduru/SeedVR2-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "thinksound-tost",
+      "repo": "https://github.com/camenduru/thinksound-tost",
+      "language": "Python"
+    },
+    {
+      "name": "ObjectClear-jupyter",
+      "repo": "https://github.com/camenduru/ObjectClear-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "ObjectClear-hf",
+      "repo": "https://github.com/camenduru/ObjectClear-hf",
+      "language": "Python"
+    },
+    {
+      "name": "PartCrafter-tost",
+      "repo": "https://github.com/camenduru/PartCrafter-tost",
+      "language": "Python"
+    },
+    {
+      "name": "ThinkSound-hf",
+      "repo": "https://github.com/camenduru/ThinkSound-hf",
+      "language": "Python"
+    },
+    {
+      "name": "wan2.1-t2v-tost",
+      "repo": "https://github.com/camenduru/wan2.1-t2v-tost",
+      "language": "Python"
+    },
+    {
+      "name": "wan2.1-i2v-phantom-tost",
+      "repo": "https://github.com/camenduru/wan2.1-i2v-phantom-tost",
+      "language": "Python"
+    },
+    {
+      "name": "wan2.1-i2v-vace-tost",
+      "repo": "https://github.com/camenduru/wan2.1-i2v-vace-tost",
+      "language": "Python"
+    },
+    {
+      "name": "Float-jupyter",
+      "repo": "https://github.com/camenduru/Float-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "PartCrafter-hf",
+      "repo": "https://github.com/camenduru/PartCrafter-hf",
+      "language": "Python"
+    },
+    {
+      "name": "PartCrafter-jupyter",
+      "repo": "https://github.com/camenduru/PartCrafter-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "PartPacker-jupyter",
+      "repo": "https://github.com/camenduru/PartPacker-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "audio-flamingo-3-chat-hf",
+      "repo": "https://github.com/camenduru/audio-flamingo-3-chat-hf",
+      "language": "Python"
+    },
+    {
+      "name": "audio-flamingo-3-hf",
+      "repo": "https://github.com/camenduru/audio-flamingo-3-hf",
+      "language": "Python"
+    },
+    {
+      "name": "PartPacker-hf",
+      "repo": "https://github.com/camenduru/PartPacker-hf",
+      "language": "Python"
+    },
+    {
+      "name": "ACE-Step-jupyter",
+      "repo": "https://github.com/camenduru/ACE-Step-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "ACE-Step-hf",
+      "repo": "https://github.com/camenduru/ACE-Step-hf",
+      "language": "Python"
+    },
+    {
+      "name": "Hunyuan3D-2",
+      "repo": "https://github.com/camenduru/Hunyuan3D-2",
+      "language": "Python"
+    },
+    {
+      "name": "dia-jupyter",
+      "repo": "https://github.com/camenduru/dia-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "UNO-FLUX-hf",
+      "repo": "https://github.com/camenduru/UNO-FLUX-hf",
+      "language": "Python"
+    },
+    {
+      "name": "HiDream-ai-fast-hf",
+      "repo": "https://github.com/camenduru/HiDream-ai-fast-hf",
+      "language": "Python"
+    },
+    {
+      "name": "MV-Adapter-Img2Texture-hf",
+      "repo": "https://github.com/camenduru/MV-Adapter-Img2Texture-hf",
+      "language": "Python"
+    },
+    {
+      "name": "MV-Adapter-Text2Texture-hf",
+      "repo": "https://github.com/camenduru/MV-Adapter-Text2Texture-hf",
+      "language": "Python"
+    },
+    {
+      "name": "starvector-1b-im2svg-hf",
+      "repo": "https://github.com/camenduru/starvector-1b-im2svg-hf",
+      "language": "Python"
+    },
+    {
+      "name": "hunyuan-video-runpod",
+      "repo": "https://github.com/camenduru/hunyuan-video-runpod",
+      "language": "Python"
+    },
+    {
+      "name": "csm-1b-jupyter",
+      "repo": "https://github.com/camenduru/csm-1b-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "csm-1b-hf",
+      "repo": "https://github.com/camenduru/csm-1b-hf",
+      "language": "Python"
+    },
+    {
+      "name": "DiffRhythm-jupyter",
+      "repo": "https://github.com/camenduru/DiffRhythm-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "diffusion-self-distillation-hf",
+      "repo": "https://github.com/camenduru/diffusion-self-distillation-hf",
+      "language": "Python"
+    },
+    {
+      "name": "hunyuan-video-docker",
+      "repo": "https://github.com/camenduru/hunyuan-video-docker"
+    },
+    {
+      "name": "DiffRhythm-hf",
+      "repo": "https://github.com/camenduru/DiffRhythm-hf",
+      "language": "Python"
+    },
+    {
+      "name": "ltx-video-docker",
+      "repo": "https://github.com/camenduru/ltx-video-docker"
+    },
+    {
+      "name": "wan-docker",
+      "repo": "https://github.com/camenduru/wan-docker"
+    }
+  ]
+}

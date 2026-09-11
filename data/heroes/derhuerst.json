@@ -1,0 +1,580 @@
+{
+  "handle": "derhuerst",
+  "name": "Jannis",
+  "github": [
+    "https://github.com/derhuerst"
+  ],
+  "website": "https://jannisr.de/",
+  "bio": "By writing open-source software, I try to make urban infrastructure more accessible & convenient.",
+  "own_repos": 483,
+  "commits": 10111,
+  "apps": [],
+  "repos": [
+    {
+      "name": "pev2-cli",
+      "repo": "https://github.com/derhuerst/pev2-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "html-vault",
+      "repo": "https://github.com/derhuerst/html-vault",
+      "url": "https://html-vault.jannisr.de/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "db-rest",
+      "repo": "https://github.com/derhuerst/db-rest",
+      "url": "https://v6.db.transport.rest/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chutney",
+      "repo": "https://github.com/derhuerst/chutney",
+      "url": "https://github.com/derhuerst/chutney",
+      "language": "JavaScript"
+    },
+    {
+      "name": "build123d-docker",
+      "repo": "https://github.com/derhuerst/build123d-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gpsd-docker",
+      "repo": "https://github.com/derhuerst/gpsd-docker",
+      "url": "https://hub.docker.com/r/derhuerst/gpsd-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ferries-gtfs-rt-feed",
+      "repo": "https://github.com/derhuerst/ferries-gtfs-rt-feed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gtfs-rt-bindings",
+      "repo": "https://github.com/derhuerst/gtfs-rt-bindings",
+      "language": "JavaScript"
+    },
+    {
+      "name": "technical-docs-cli",
+      "repo": "https://github.com/derhuerst/technical-docs-cli",
+      "url": "https://github.com/derhuerst/technical-docs-cli#derhuersttechnical-docs-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parse-vbb-station-name",
+      "repo": "https://github.com/derhuerst/parse-vbb-station-name",
+      "url": "https://github.com/derhuerst/parse-vbb-station-name#parse-vbb-station-name",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-common-places",
+      "repo": "https://github.com/derhuerst/vbb-common-places",
+      "url": "https://github.com/derhuerst/vbb-common-places",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-stations",
+      "repo": "https://github.com/derhuerst/vbb-stations",
+      "url": "https://github.com/derhuerst/vbb-stations",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-stations-autocomplete",
+      "repo": "https://github.com/derhuerst/vbb-stations-autocomplete",
+      "url": "https://github.com/derhuerst/vbb-stations-autocomplete",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gtfs-rt-differential-to-full-dataset",
+      "repo": "https://github.com/derhuerst/gtfs-rt-differential-to-full-dataset",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bvg-topological-map",
+      "repo": "https://github.com/derhuerst/bvg-topological-map",
+      "url": "https://rawgit.com/derhuerst/bvg-topological-map/gh-pages/map.svg",
+      "language": "JavaScript"
+    },
+    {
+      "name": "iris-gtfs-rt-feed",
+      "repo": "https://github.com/derhuerst/iris-gtfs-rt-feed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "geojson-to-svg-cli",
+      "repo": "https://github.com/derhuerst/geojson-to-svg-cli",
+      "url": "https://github.com/derhuerst/geojson-to-svg-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mdns-wifi-location",
+      "repo": "https://github.com/derhuerst/mdns-wifi-location",
+      "language": "JavaScript"
+    },
+    {
+      "name": "url-parser-cli",
+      "repo": "https://github.com/derhuerst/url-parser-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "boilerplate-rs",
+      "repo": "https://github.com/derhuerst/boilerplate-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "serve-buffer",
+      "repo": "https://github.com/derhuerst/serve-buffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "print-gtfs-rt-cli",
+      "repo": "https://github.com/derhuerst/print-gtfs-rt-cli",
+      "url": "https://github.com/derhuerst/print-gtfs-rt-cli#print-gtfs-rt-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-rest",
+      "repo": "https://github.com/derhuerst/vbb-rest",
+      "url": "https://v6.vbb.transport.rest/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bvg-rest",
+      "repo": "https://github.com/derhuerst/bvg-rest",
+      "url": "https://v6.bvg.transport.rest/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scroll-animation",
+      "repo": "https://github.com/derhuerst/scroll-animation",
+      "url": "https://derhuerst.github.io/scroll-animation/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "epsg-index",
+      "repo": "https://github.com/derhuerst/epsg-index",
+      "url": "https://github.com/derhuerst/epsg-index",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-lines-at",
+      "repo": "https://github.com/derhuerst/vbb-lines-at",
+      "url": "https://github.com/derhuerst/vbb-lines-at",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-shapes",
+      "repo": "https://github.com/derhuerst/vbb-shapes",
+      "url": "https://github.com/derhuerst/vbb-shapes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-trips",
+      "repo": "https://github.com/derhuerst/vbb-trips",
+      "url": "https://github.com/derhuerst/vbb-trips",
+      "language": "JavaScript"
+    },
+    {
+      "name": "email-providers",
+      "repo": "https://github.com/derhuerst/email-providers",
+      "url": "https://github.com/derhuerst/email-providers",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-lines",
+      "repo": "https://github.com/derhuerst/vbb-lines",
+      "url": "https://github.com/derhuerst/vbb-lines",
+      "language": "JavaScript"
+    },
+    {
+      "name": "youtube-metadata-cli",
+      "repo": "https://github.com/derhuerst/youtube-metadata-cli",
+      "url": "https://github.com/derhuerst/youtube-metadata-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "live-flix-website-position",
+      "repo": "https://github.com/derhuerst/live-flix-website-position",
+      "language": "JavaScript"
+    },
+    {
+      "name": "seebruecke-events-calendar-feed",
+      "repo": "https://github.com/derhuerst/seebruecke-events-calendar-feed",
+      "url": "https://seebrucke-events-calendar-feed.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "berlin-demonstrations-ics-service",
+      "repo": "https://github.com/derhuerst/berlin-demonstrations-ics-service",
+      "url": "https://berlin-demonstrations-ics-service.vercel.app/api/",
+      "language": "HTML"
+    },
+    {
+      "name": "live-vy-website-position",
+      "repo": "https://github.com/derhuerst/live-vy-website-position",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parse-human-relative-time",
+      "repo": "https://github.com/derhuerst/parse-human-relative-time",
+      "url": "https://github.com/derhuerst/parse-human-relative-time#parse-human-relative-time",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sox-static",
+      "repo": "https://github.com/derhuerst/sox-static",
+      "language": "Shell"
+    },
+    {
+      "name": "gemini",
+      "repo": "https://github.com/derhuerst/gemini",
+      "language": "JavaScript"
+    },
+    {
+      "name": "db-hafas-stations",
+      "repo": "https://github.com/derhuerst/db-hafas-stations",
+      "language": "JavaScript"
+    },
+    {
+      "name": "generate-gtfs-flex",
+      "repo": "https://github.com/derhuerst/generate-gtfs-flex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "self-decrypting-html-page",
+      "repo": "https://github.com/derhuerst/self-decrypting-html-page",
+      "url": "https://github.com/derhuerst/self-decrypting-html-page#self-decrypting-html-page",
+      "language": "JavaScript"
+    },
+    {
+      "name": "localaddress-agent",
+      "repo": "https://github.com/derhuerst/localaddress-agent",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vbb-modules",
+      "repo": "https://github.com/derhuerst/vbb-modules"
+    },
+    {
+      "name": "flightradar24-client",
+      "repo": "https://github.com/derhuerst/flightradar24-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "play-on-apple-tv",
+      "repo": "https://github.com/derhuerst/play-on-apple-tv",
+      "url": "https://github.com/derhuerst/play-on-apple-tv#play-on-apple-tv",
+      "language": "JavaScript"
+    },
+    {
+      "name": "extract-gtfs-pathways",
+      "repo": "https://github.com/derhuerst/extract-gtfs-pathways",
+      "url": "https://github.com/derhuerst/extract-gtfs-pathways#extract-gtfs-pathways",
+      "language": "JavaScript"
+    },
+    {
+      "name": "derhuerst.github.io",
+      "repo": "https://github.com/derhuerst/derhuerst.github.io",
+      "url": "https://jannisr.de",
+      "language": "HTML"
+    },
+    {
+      "name": "svg-radar-chart",
+      "repo": "https://github.com/derhuerst/svg-radar-chart",
+      "url": "https://derhuerst.github.io/svg-radar-chart/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "match-gtfs-rt-to-gtfs",
+      "repo": "https://github.com/derhuerst/match-gtfs-rt-to-gtfs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stable-public-transport-ids",
+      "repo": "https://github.com/derhuerst/stable-public-transport-ids",
+      "url": "https://github.com/derhuerst/stable-public-transport-ids#stable-public-transport-ids",
+      "language": "JavaScript"
+    },
+    {
+      "name": "odeg-wifi-portal-client",
+      "repo": "https://github.com/derhuerst/odeg-wifi-portal-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "combine-tiles",
+      "repo": "https://github.com/derhuerst/combine-tiles",
+      "url": "https://github.com/derhuerst/combine-tiles",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hafas-gtfs-rt-feed",
+      "repo": "https://github.com/derhuerst/hafas-gtfs-rt-feed",
+      "url": "https://github.com/derhuerst/hafas-gtfs-rt-feed#hafas-gtfs-rt-feed",
+      "language": "JavaScript"
+    },
+    {
+      "name": "boilerplate",
+      "repo": "https://github.com/derhuerst/boilerplate",
+      "url": "https://github.com/derhuerst/boilerplate",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sepa-payment-qr-code",
+      "repo": "https://github.com/derhuerst/sepa-payment-qr-code",
+      "url": "https://github.com/derhuerst/sepa-payment-qr-code#sepa-payment-qr-code",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nats-streaming-cli",
+      "repo": "https://github.com/derhuerst/nats-streaming-cli",
+      "url": "https://github.com/derhuerst/nats-streaming-cli#nats-streaming-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tcp-over-websockets",
+      "repo": "https://github.com/derhuerst/tcp-over-websockets",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hafas-monitor-trips",
+      "repo": "https://github.com/derhuerst/hafas-monitor-trips",
+      "url": "https://github.com/derhuerst/hafas-monitor-trips#hafas-monitor-trips",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gulp-scale-images",
+      "repo": "https://github.com/derhuerst/gulp-scale-images",
+      "url": "https://github.com/derhuerst/gulp-scale-images#gulp-scale-images",
+      "language": "JavaScript"
+    },
+    {
+      "name": "record-ice-movement",
+      "repo": "https://github.com/derhuerst/record-ice-movement",
+      "url": "https://github.com/derhuerst/record-ice-movement#record-ice-movement",
+      "language": "JavaScript"
+    },
+    {
+      "name": "berlin-gtfs-rt-server",
+      "repo": "https://github.com/derhuerst/berlin-gtfs-rt-server",
+      "url": "https://v0.berlin-gtfs-rt.transport.rest/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "live-icomera-position",
+      "repo": "https://github.com/derhuerst/live-icomera-position",
+      "url": "https://github.com/derhuerst/live-icomera-position#live-icomera-position",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hafas-discover-stations",
+      "repo": "https://github.com/derhuerst/hafas-discover-stations",
+      "language": "JavaScript"
+    },
+    {
+      "name": "movelia-client",
+      "repo": "https://github.com/derhuerst/movelia-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "query-fis-broker-wfs",
+      "repo": "https://github.com/derhuerst/query-fis-broker-wfs",
+      "url": "https://github.com/derhuerst/query-fis-broker-wfs#query-fis-broker-wfs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "transform-coordinates",
+      "repo": "https://github.com/derhuerst/transform-coordinates",
+      "url": "https://github.com/derhuerst/transform-coordinates",
+      "language": "JavaScript"
+    },
+    {
+      "name": "parse-gml-polygon",
+      "repo": "https://github.com/derhuerst/parse-gml-polygon",
+      "url": "https://github.com/derhuerst/parse-gml-polygon",
+      "language": "JavaScript"
+    },
+    {
+      "name": "record-tgv-movement",
+      "repo": "https://github.com/derhuerst/record-tgv-movement",
+      "url": "https://github.com/derhuerst/record-tgv-movement#record-tgv-movement",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pgbouncer-etcd-adapter",
+      "repo": "https://github.com/derhuerst/pgbouncer-etcd-adapter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hafas-rest-api-client",
+      "repo": "https://github.com/derhuerst/hafas-rest-api-client",
+      "url": "https://github.com/derhuerst/hafas-rest-api-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-sockopt",
+      "repo": "https://github.com/derhuerst/node-sockopt",
+      "url": "https://github.com/derhuerst/node-sockopt#sockopt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "record-cd-train-movement",
+      "repo": "https://github.com/derhuerst/record-cd-train-movement",
+      "language": "JavaScript"
+    },
+    {
+      "name": "live-cd-wifi-position",
+      "repo": "https://github.com/derhuerst/live-cd-wifi-position",
+      "url": "https://github.com/derhuerst/live-cd-wifi-position#live-cd-wifi-position",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cd-wifi-client",
+      "repo": "https://github.com/derhuerst/cd-wifi-client",
+      "url": "https://github.com/derhuerst/cd-wifi-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hafas-client-rpc",
+      "repo": "https://github.com/derhuerst/hafas-client-rpc",
+      "url": "https://github.com/derhuerst/hafas-client-rpc#hafas-client-rpc",
+      "language": "JavaScript"
+    },
+    {
+      "name": "os-x-contacts",
+      "repo": "https://github.com/derhuerst/os-x-contacts",
+      "language": "JavaScript"
+    },
+    {
+      "name": "osx-setup",
+      "repo": "https://github.com/derhuerst/osx-setup",
+      "url": "https://github.com/derhuerst/osx-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "chunked-transfer-cli",
+      "repo": "https://github.com/derhuerst/chunked-transfer-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "vbb-gtfs.jannisr.de",
+      "repo": "https://github.com/derhuerst/vbb-gtfs.jannisr.de",
+      "url": "https://vbb-gtfs.jannisr.de/",
+      "language": "Shell"
+    },
+    {
+      "name": "xbar-plugin-ice-delay",
+      "repo": "https://github.com/derhuerst/xbar-plugin-ice-delay",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eco-counter-client",
+      "repo": "https://github.com/derhuerst/eco-counter-client",
+      "url": "https://github.com/derhuerst/eco-counter-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scrape-myshiptracking",
+      "repo": "https://github.com/derhuerst/scrape-myshiptracking",
+      "language": "JavaScript"
+    },
+    {
+      "name": "osm-flatten-relation",
+      "repo": "https://github.com/derhuerst/osm-flatten-relation",
+      "url": "https://github.com/derhuerst/osm-flatten-relation",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ecolines",
+      "repo": "https://github.com/derhuerst/ecolines",
+      "url": "https://github.com/derhuerst/ecolines",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scrape-vesselfinder",
+      "repo": "https://github.com/derhuerst/scrape-vesselfinder",
+      "language": "HTML"
+    },
+    {
+      "name": "ics-service",
+      "repo": "https://github.com/derhuerst/ics-service",
+      "url": "https://github.com/derhuerst/ics-service#ics-service",
+      "language": "JavaScript"
+    },
+    {
+      "name": "thingsboard-telemetry-stream",
+      "repo": "https://github.com/derhuerst/thingsboard-telemetry-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hamburg-gtfs-rt-server",
+      "repo": "https://github.com/derhuerst/hamburg-gtfs-rt-server",
+      "url": "https://v0.hamburg-gtfs-rt.transport.rest",
+      "language": "Shell"
+    },
+    {
+      "name": "find-hafas-data-in-another-hafas",
+      "repo": "https://github.com/derhuerst/find-hafas-data-in-another-hafas",
+      "url": "https://github.com/derhuerst/find-hafas-data-in-another-hafas#find-hafas-data-in-another-hafas",
+      "language": "JavaScript"
+    },
+    {
+      "name": "avion",
+      "repo": "https://github.com/derhuerst/avion",
+      "url": "https://avion.jannisr.de/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alkis-berlin-client",
+      "repo": "https://github.com/derhuerst/alkis-berlin-client",
+      "url": "https://github.com/derhuerst/alkis-berlin-client",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bbox-stream",
+      "repo": "https://github.com/derhuerst/bbox-stream",
+      "url": "https://github.com/derhuerst/bbox-stream",
+      "language": "JavaScript"
+    },
+    {
+      "name": "generate-db-shop-urls",
+      "repo": "https://github.com/derhuerst/generate-db-shop-urls",
+      "url": "https://github.com/derhuerst/generate-db-shop-urls",
+      "language": "HTML"
+    },
+    {
+      "name": "db-stations-autocomplete",
+      "repo": "https://github.com/derhuerst/db-stations-autocomplete",
+      "url": "https://github.com/derhuerst/db-stations-autocomplete#db-stations-autocomplete",
+      "language": "JavaScript"
+    },
+    {
+      "name": "db-stations",
+      "repo": "https://github.com/derhuerst/db-stations",
+      "language": "JavaScript"
+    },
+    {
+      "name": "compute-db-station-weight",
+      "repo": "https://github.com/derhuerst/compute-db-station-weight",
+      "url": "https://github.com/derhuerst/compute-db-station-weight#compute-db-station-weight",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hafas-estimate-station-weight",
+      "repo": "https://github.com/derhuerst/hafas-estimate-station-weight",
+      "url": "https://github.com/derhuerst/hafas-estimate-station-weight#hafas-estimate-station-weight",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hafas-find-departures-duration-limit",
+      "repo": "https://github.com/derhuerst/hafas-find-departures-duration-limit",
+      "url": "https://github.com/derhuerst/hafas-find-departures-duration-limit#hafas-find-departures-duration-limit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "merged-vbb-stations",
+      "repo": "https://github.com/derhuerst/merged-vbb-stations",
+      "url": "https://github.com/derhuerst/merged-vbb-stations#merged-vbb-stations",
+      "language": "JavaScript"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "handle": "larsks",
+  "name": "Lars Kellogg-Stedman",
+  "github": [
+    "https://github.com/larsks"
+  ],
+  "website": "https://oddbit.com/",
+  "bio": "System administration and software development. I like automation. Working with Python, Containers, Kubernetes, Ansible, &c. Easily distracted by shiny objects.",
+  "own_repos": 1033,
+  "commits": 10316,
+  "apps": [],
+  "repos": [
+    {
+      "name": "blog.oddbit.com",
+      "repo": "https://github.com/larsks/blog.oddbit.com",
+      "language": "Python"
+    },
+    {
+      "name": "moc-github",
+      "repo": "https://github.com/larsks/moc-github",
+      "language": "HCL"
+    },
+    {
+      "name": "moc-user-onboarding",
+      "repo": "https://github.com/larsks/moc-user-onboarding",
+      "language": "CSS"
+    },
+    {
+      "name": "b2-tofu-example",
+      "repo": "https://github.com/larsks/b2-tofu-example",
+      "language": "HCL"
+    },
+    {
+      "name": "keycloak-container",
+      "repo": "https://github.com/larsks/keycloak-container"
+    },
+    {
+      "name": "object-storage-proxy",
+      "repo": "https://github.com/larsks/object-storage-proxy"
+    },
+    {
+      "name": "moc-eks-example",
+      "repo": "https://github.com/larsks/moc-eks-example",
+      "language": "HCL"
+    },
+    {
+      "name": "commit-visualizer",
+      "repo": "https://github.com/larsks/commit-visualizer",
+      "language": "Python"
+    },
+    {
+      "name": "lldap-k8s",
+      "repo": "https://github.com/larsks/lldap-k8s",
+      "language": "HCL"
+    },
+    {
+      "name": "caara-digital-plan",
+      "repo": "https://github.com/larsks/caara-digital-plan"
+    },
+    {
+      "name": "kubectl-saconfig",
+      "repo": "https://github.com/larsks/kubectl-saconfig",
+      "language": "Go"
+    },
+    {
+      "name": "git-tools",
+      "repo": "https://github.com/larsks/git-tools",
+      "language": "Go"
+    },
+    {
+      "name": "halberd",
+      "repo": "https://github.com/larsks/halberd",
+      "language": "Go"
+    },
+    {
+      "name": "kwui",
+      "repo": "https://github.com/larsks/kwui",
+      "language": "Go"
+    },
+    {
+      "name": "kwctl",
+      "repo": "https://github.com/larsks/kwctl",
+      "language": "Go"
+    },
+    {
+      "name": "test-issue-templates",
+      "repo": "https://github.com/larsks/test-issue-templates"
+    },
+    {
+      "name": "github-fzf-tool",
+      "repo": "https://github.com/larsks/github-fzf-tool",
+      "language": "Shell"
+    },
+    {
+      "name": "tlshd",
+      "repo": "https://github.com/larsks/tlshd"
+    },
+    {
+      "name": "dot-iptables",
+      "repo": "https://github.com/larsks/dot-iptables",
+      "language": "Python"
+    },
+    {
+      "name": "ppmjoy",
+      "repo": "https://github.com/larsks/ppmjoy",
+      "language": "C"
+    },
+    {
+      "name": "joyboard",
+      "repo": "https://github.com/larsks/joyboard",
+      "language": "C"
+    },
+    {
+      "name": "gobot",
+      "repo": "https://github.com/larsks/gobot",
+      "language": "Go"
+    },
+    {
+      "name": "python-acmclient",
+      "repo": "https://github.com/larsks/python-acmclient",
+      "language": "Python"
+    },
+    {
+      "name": "books.larsshack.org",
+      "repo": "https://github.com/larsks/books.larsshack.org",
+      "language": "CSS"
+    },
+    {
+      "name": "esisdk-release-demo",
+      "repo": "https://github.com/larsks/esisdk-release-demo",
+      "language": "Python"
+    },
+    {
+      "name": "container-image-ipmitool",
+      "repo": "https://github.com/larsks/container-image-ipmitool",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "postfix-outbound",
+      "repo": "https://github.com/larsks/postfix-outbound",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rpgpiodiag",
+      "repo": "https://github.com/larsks/rpgpiodiag",
+      "language": "Go"
+    },
+    {
+      "name": "dnsthing",
+      "repo": "https://github.com/larsks/dnsthing",
+      "language": "Go"
+    },
+    {
+      "name": "gmail-filters-redhat",
+      "repo": "https://github.com/larsks/gmail-filters-redhat",
+      "language": "JavaScript"
+    },
+    {
+      "name": "volume-knob",
+      "repo": "https://github.com/larsks/volume-knob",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles-cli",
+      "repo": "https://github.com/larsks/dotfiles-cli",
+      "language": "Shell"
+    },
+    {
+      "name": "yoga-hinge",
+      "repo": "https://github.com/larsks/yoga-hinge",
+      "language": "C"
+    },
+    {
+      "name": "writerdeck",
+      "repo": "https://github.com/larsks/writerdeck",
+      "language": "Shell"
+    },
+    {
+      "name": "papier",
+      "repo": "https://github.com/larsks/papier",
+      "language": "Go"
+    },
+    {
+      "name": "oddbit-dns",
+      "repo": "https://github.com/larsks/oddbit-dns",
+      "language": "Makefile"
+    },
+    {
+      "name": "moc-project-operator",
+      "repo": "https://github.com/larsks/moc-project-operator",
+      "language": "Go"
+    },
+    {
+      "name": "workinghours",
+      "repo": "https://github.com/larsks/workinghours",
+      "language": "Python"
+    },
+    {
+      "name": "pipewire-shenanigans",
+      "repo": "https://github.com/larsks/pipewire-shenanigans",
+      "language": "Python"
+    },
+    {
+      "name": "midictl",
+      "repo": "https://github.com/larsks/midictl",
+      "language": "C"
+    },
+    {
+      "name": "nanoctl2",
+      "repo": "https://github.com/larsks/nanoctl2",
+      "language": "Go"
+    },
+    {
+      "name": "cephtools",
+      "repo": "https://github.com/larsks/cephtools",
+      "language": "Python"
+    },
+    {
+      "name": "pmount",
+      "repo": "https://github.com/larsks/pmount",
+      "language": "Go"
+    },
+    {
+      "name": "hamrss",
+      "repo": "https://github.com/larsks/hamrss",
+      "language": "Python"
+    },
+    {
+      "name": "airdancer",
+      "repo": "https://github.com/larsks/airdancer",
+      "language": "Go"
+    },
+    {
+      "name": "direwolf-builder",
+      "repo": "https://github.com/larsks/direwolf-builder",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "kube-tinyproxy",
+      "repo": "https://github.com/larsks/kube-tinyproxy",
+      "language": "Shell"
+    },
+    {
+      "name": "bootc-fedora40-cloud",
+      "repo": "https://github.com/larsks/bootc-fedora40-cloud",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cloudkit-operator-test",
+      "repo": "https://github.com/larsks/cloudkit-operator-test",
+      "language": "Go"
+    },
+    {
+      "name": "qthrss",
+      "repo": "https://github.com/larsks/qthrss",
+      "language": "Python"
+    },
+    {
+      "name": "bootc-fedora40-virt",
+      "repo": "https://github.com/larsks/bootc-fedora40-virt",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "example-fastapi-app",
+      "repo": "https://github.com/larsks/example-fastapi-app",
+      "language": "Python"
+    },
+    {
+      "name": "qthreader",
+      "repo": "https://github.com/larsks/qthreader",
+      "language": "Python"
+    },
+    {
+      "name": "osac-network-api",
+      "repo": "https://github.com/larsks/osac-network-api",
+      "language": "Go"
+    },
+    {
+      "name": "qmk-keymap-mk47",
+      "repo": "https://github.com/larsks/qmk-keymap-mk47",
+      "language": "C"
+    },
+    {
+      "name": "compose-with-jsonnet-example",
+      "repo": "https://github.com/larsks/compose-with-jsonnet-example",
+      "language": "Python"
+    },
+    {
+      "name": "c64-asm-getname",
+      "repo": "https://github.com/larsks/c64-asm-getname",
+      "language": "Assembly"
+    },
+    {
+      "name": "novaterm-shell",
+      "repo": "https://github.com/larsks/novaterm-shell",
+      "language": "Shell"
+    },
+    {
+      "name": "printshop-converter",
+      "repo": "https://github.com/larsks/printshop-converter",
+      "language": "Python"
+    },
+    {
+      "name": "larsks.github.io",
+      "repo": "https://github.com/larsks/larsks.github.io"
+    },
+    {
+      "name": "display1306",
+      "repo": "https://github.com/larsks/display1306",
+      "language": "Go"
+    },
+    {
+      "name": "micropython-stepper-motor",
+      "repo": "https://github.com/larsks/micropython-stepper-motor",
+      "language": "Python"
+    },
+    {
+      "name": "netutils",
+      "repo": "https://github.com/larsks/netutils",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "c64asm",
+      "repo": "https://github.com/larsks/c64asm",
+      "language": "Assembly"
+    },
+    {
+      "name": "meterreader",
+      "repo": "https://github.com/larsks/meterreader",
+      "language": "Python"
+    },
+    {
+      "name": "caara-gis",
+      "repo": "https://github.com/larsks/caara-gis",
+      "language": "Makefile"
+    },
+    {
+      "name": "hamrss-moc-overlay",
+      "repo": "https://github.com/larsks/hamrss-moc-overlay"
+    },
+    {
+      "name": "runsignup-maps",
+      "repo": "https://github.com/larsks/runsignup-maps",
+      "language": "Python"
+    },
+    {
+      "name": "advent-of-code-2025",
+      "repo": "https://github.com/larsks/advent-of-code-2025",
+      "language": "Go"
+    },
+    {
+      "name": "rpi-radio-config",
+      "repo": "https://github.com/larsks/rpi-radio-config",
+      "language": "Python"
+    },
+    {
+      "name": "example-parser-interface",
+      "repo": "https://github.com/larsks/example-parser-interface",
+      "language": "Python"
+    },
+    {
+      "name": "example-pydantic-config-parsing",
+      "repo": "https://github.com/larsks/example-pydantic-config-parsing",
+      "language": "Python"
+    },
+    {
+      "name": "airdancer-slack",
+      "repo": "https://github.com/larsks/airdancer-slack",
+      "language": "Python"
+    },
+    {
+      "name": "axpty",
+      "repo": "https://github.com/larsks/axpty",
+      "language": "C"
+    },
+    {
+      "name": "airdancer-docs",
+      "repo": "https://github.com/larsks/airdancer-docs",
+      "language": "CSS"
+    },
+    {
+      "name": "www.larsshack.org",
+      "repo": "https://github.com/larsks/www.larsshack.org",
+      "language": "CSS"
+    },
+    {
+      "name": "batchtools-dev",
+      "repo": "https://github.com/larsks/batchtools-dev",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "qrzrss",
+      "repo": "https://github.com/larsks/qrzrss",
+      "language": "Python"
+    },
+    {
+      "name": "transmission-server",
+      "repo": "https://github.com/larsks/transmission-server",
+      "language": "Shell"
+    },
+    {
+      "name": "gox25",
+      "repo": "https://github.com/larsks/gox25",
+      "language": "Go"
+    },
+    {
+      "name": "catfacts-demo",
+      "repo": "https://github.com/larsks/catfacts-demo",
+      "language": "Python"
+    },
+    {
+      "name": "package-version-test",
+      "repo": "https://github.com/larsks/package-version-test",
+      "language": "Python"
+    },
+    {
+      "name": "test-aap-project",
+      "repo": "https://github.com/larsks/test-aap-project"
+    },
+    {
+      "name": "fightingwords",
+      "repo": "https://github.com/larsks/fightingwords",
+      "language": "Python"
+    },
+    {
+      "name": "todotools",
+      "repo": "https://github.com/larsks/todotools",
+      "language": "Shell"
+    },
+    {
+      "name": "hardproxy",
+      "repo": "https://github.com/larsks/hardproxy",
+      "language": "Go"
+    },
+    {
+      "name": "symtool",
+      "repo": "https://github.com/larsks/symtool",
+      "language": "Assembly"
+    },
+    {
+      "name": "kube-tools",
+      "repo": "https://github.com/larsks/kube-tools",
+      "language": "Shell"
+    },
+    {
+      "name": "rotary-encoder-example",
+      "repo": "https://github.com/larsks/rotary-encoder-example",
+      "language": "C++"
+    },
+    {
+      "name": "airdancer-deploy",
+      "repo": "https://github.com/larsks/airdancer-deploy",
+      "language": "Shell"
+    },
+    {
+      "name": "slideshow",
+      "repo": "https://github.com/larsks/slideshow",
+      "language": "Python"
+    },
+    {
+      "name": "kathara-moc-storage",
+      "repo": "https://github.com/larsks/kathara-moc-storage",
+      "language": "Makefile"
+    },
+    {
+      "name": "airdancer-titles",
+      "repo": "https://github.com/larsks/airdancer-titles",
+      "language": "Shell"
+    },
+    {
+      "name": "airdancer-phrases",
+      "repo": "https://github.com/larsks/airdancer-phrases",
+      "language": "Shell"
+    },
+    {
+      "name": "invoicing-example",
+      "repo": "https://github.com/larsks/invoicing-example",
+      "language": "Python"
+    },
+    {
+      "name": "go-cli-validation-example",
+      "repo": "https://github.com/larsks/go-cli-validation-example",
+      "language": "Go"
+    },
+    {
+      "name": "github-config-pulumi",
+      "repo": "https://github.com/larsks/github-config-pulumi",
+      "language": "Go"
+    },
+    {
+      "name": "pulumi-python-test-f4dcb7d",
+      "repo": "https://github.com/larsks/pulumi-python-test-f4dcb7d"
+    },
+    {
+      "name": "tinygo-example-waveshare-rp2040-zero",
+      "repo": "https://github.com/larsks/tinygo-example-waveshare-rp2040-zero",
+      "language": "Go"
+    },
+    {
+      "name": "rb2vgc",
+      "repo": "https://github.com/larsks/rb2vgc",
+      "language": "Python"
+    }
+  ]
+}

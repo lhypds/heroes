@@ -1,0 +1,541 @@
+{
+  "handle": "egoist",
+  "name": "EGOIST",
+  "github": [
+    "https://github.com/egoist"
+  ],
+  "website": "https://chatwise.app/",
+  "bio": "CEO of ChatWise.app",
+  "own_repos": 751,
+  "commits": 12381,
+  "apps": [],
+  "repos": [
+    {
+      "name": "waku",
+      "repo": "https://github.com/egoist/waku",
+      "url": "https://waku.sh",
+      "language": "Rust"
+    },
+    {
+      "name": "tsup",
+      "repo": "https://github.com/egoist/tsup",
+      "url": "https://tsup.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kero",
+      "repo": "https://github.com/egoist/kero",
+      "url": "https://kero.sh",
+      "language": "Swift"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/egoist/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "omarchy-cpu-usage",
+      "repo": "https://github.com/egoist/omarchy-cpu-usage",
+      "language": "QML"
+    },
+    {
+      "name": "omarchy-memory-usage",
+      "repo": "https://github.com/egoist/omarchy-memory-usage",
+      "language": "QML"
+    },
+    {
+      "name": "omarchy-network-throughput",
+      "repo": "https://github.com/egoist/omarchy-network-throughput",
+      "language": "QML"
+    },
+    {
+      "name": "screenflare-feedback",
+      "repo": "https://github.com/egoist/screenflare-feedback",
+      "url": "https://screenflare.app"
+    },
+    {
+      "name": "website",
+      "repo": "https://github.com/egoist/website",
+      "url": "https://egoist.dev",
+      "language": "MDX"
+    },
+    {
+      "name": "postcat",
+      "repo": "https://github.com/egoist/postcat",
+      "language": "Rust"
+    },
+    {
+      "name": "DOOM-fire-rust",
+      "repo": "https://github.com/egoist/DOOM-fire-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "gpt-image",
+      "repo": "https://github.com/egoist/gpt-image",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tipc",
+      "repo": "https://github.com/egoist/tipc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chatwise-releases",
+      "repo": "https://github.com/egoist/chatwise-releases",
+      "url": "https://chatwise.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "world-cup-2026",
+      "repo": "https://github.com/egoist/world-cup-2026",
+      "url": "https://wc2026.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anime-sedai",
+      "repo": "https://github.com/egoist/anime-sedai",
+      "url": "https://anime-sedai.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rollup-plugin-esbuild",
+      "repo": "https://github.com/egoist/rollup-plugin-esbuild",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chatwise-models",
+      "repo": "https://github.com/egoist/chatwise-models",
+      "url": "https://chatwise.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cursor-openai-api",
+      "repo": "https://github.com/egoist/cursor-openai-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "electron-fetch",
+      "repo": "https://github.com/egoist/electron-fetch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "electron-exec",
+      "repo": "https://github.com/egoist/electron-exec",
+      "language": "TypeScript"
+    },
+    {
+      "name": "system-sound",
+      "repo": "https://github.com/egoist/system-sound",
+      "language": "Rust"
+    },
+    {
+      "name": "takopi",
+      "repo": "https://github.com/egoist/takopi",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-code-mcp",
+      "repo": "https://github.com/egoist/claude-code-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "update-bin",
+      "repo": "https://github.com/egoist/update-bin",
+      "language": "Rust"
+    },
+    {
+      "name": "sqlite-mcp",
+      "repo": "https://github.com/egoist/sqlite-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hack",
+      "repo": "https://github.com/egoist/hack",
+      "url": "https://hackcss.egoist.dev",
+      "language": "CSS"
+    },
+    {
+      "name": "ai-proxy",
+      "repo": "https://github.com/egoist/ai-proxy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ccapi",
+      "repo": "https://github.com/egoist/ccapi",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tauri-updater",
+      "repo": "https://github.com/egoist/tauri-updater",
+      "language": "TypeScript"
+    },
+    {
+      "name": "walk-ignore",
+      "repo": "https://github.com/egoist/walk-ignore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "raindrop-mcp",
+      "repo": "https://github.com/egoist/raindrop-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shell-command-mcp",
+      "repo": "https://github.com/egoist/shell-command-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fetch-mcp",
+      "repo": "https://github.com/egoist/fetch-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "exa-mcp",
+      "repo": "https://github.com/egoist/exa-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ffmpeg-mcp",
+      "repo": "https://github.com/egoist/ffmpeg-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nwjs",
+      "repo": "https://github.com/egoist/nwjs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "egoist",
+      "repo": "https://github.com/egoist/egoist",
+      "language": "TypeScript"
+    },
+    {
+      "name": "local-web-search",
+      "repo": "https://github.com/egoist/local-web-search",
+      "url": "https://chatwise.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chatkit-desktop",
+      "repo": "https://github.com/egoist/chatkit-desktop",
+      "url": "https://chatkit.app"
+    },
+    {
+      "name": "shell-ask",
+      "repo": "https://github.com/egoist/shell-ask",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chatkit-docs",
+      "repo": "https://github.com/egoist/chatkit-docs",
+      "url": "https://docs.chatkit.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "querybase",
+      "repo": "https://github.com/egoist/querybase",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dum",
+      "repo": "https://github.com/egoist/dum",
+      "language": "Rust"
+    },
+    {
+      "name": "sitefetch",
+      "repo": "https://github.com/egoist/sitefetch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typed-search",
+      "repo": "https://github.com/egoist/typed-search",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-compile-time",
+      "repo": "https://github.com/egoist/vite-plugin-compile-time",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bundle-require",
+      "repo": "https://github.com/egoist/bundle-require",
+      "language": "TypeScript"
+    },
+    {
+      "name": "play-esbuild",
+      "repo": "https://github.com/egoist/play-esbuild",
+      "url": "https://esbuild.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "whispo",
+      "repo": "https://github.com/egoist/whispo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "whispo-releases",
+      "repo": "https://github.com/egoist/whispo-releases"
+    },
+    {
+      "name": "remix-starter",
+      "repo": "https://github.com/egoist/remix-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "detect-package-manager",
+      "repo": "https://github.com/egoist/detect-package-manager",
+      "language": "TypeScript"
+    },
+    {
+      "name": "codepan",
+      "repo": "https://github.com/egoist/codepan",
+      "url": "https://codepan.egoist.sh",
+      "language": "JavaScript"
+    },
+    {
+      "name": "load-tsconfig",
+      "repo": "https://github.com/egoist/load-tsconfig",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esbuild-register",
+      "repo": "https://github.com/egoist/esbuild-register",
+      "language": "TypeScript"
+    },
+    {
+      "name": "doko",
+      "repo": "https://github.com/egoist/doko",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tauri-starter",
+      "repo": "https://github.com/egoist/tauri-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kenja-docs",
+      "repo": "https://github.com/egoist/kenja-docs",
+      "url": "https://docs.kenja.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "test-remix-vercel",
+      "repo": "https://github.com/egoist/test-remix-vercel",
+      "url": "https://test-remix-vercel-two.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gh-pinned-repos",
+      "repo": "https://github.com/egoist/gh-pinned-repos",
+      "url": "https://gh-pinned-repos.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "awesome-esbuild",
+      "repo": "https://github.com/egoist/awesome-esbuild"
+    },
+    {
+      "name": "homebrew-chatkit",
+      "repo": "https://github.com/egoist/homebrew-chatkit",
+      "language": "Ruby"
+    },
+    {
+      "name": "licensebase-docs",
+      "repo": "https://github.com/egoist/licensebase-docs",
+      "language": "MDX"
+    },
+    {
+      "name": "prisma-repl",
+      "repo": "https://github.com/egoist/prisma-repl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cloudflare-d1-demo",
+      "repo": "https://github.com/egoist/cloudflare-d1-demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chatkit-releases",
+      "repo": "https://github.com/egoist/chatkit-releases",
+      "url": "https://chatkit.app"
+    },
+    {
+      "name": "rocksdb",
+      "repo": "https://github.com/egoist/rocksdb",
+      "language": "JavaScript"
+    },
+    {
+      "name": "style-inject",
+      "repo": "https://github.com/egoist/style-inject",
+      "language": "JavaScript"
+    },
+    {
+      "name": "toolcat-releases",
+      "repo": "https://github.com/egoist/toolcat-releases",
+      "url": "https://toolcat.app"
+    },
+    {
+      "name": "rollup-plugin-postcss",
+      "repo": "https://github.com/egoist/rollup-plugin-postcss",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-content-loader",
+      "repo": "https://github.com/egoist/vue-content-loader",
+      "url": "https://create-content-loader.now.sh/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typed-worker",
+      "repo": "https://github.com/egoist/typed-worker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "snackbar",
+      "repo": "https://github.com/egoist/snackbar",
+      "url": "https://snackbar.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openai-proxy",
+      "repo": "https://github.com/egoist/openai-proxy",
+      "url": "https://chatkit.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "next-fullstack-starter",
+      "repo": "https://github.com/egoist/next-fullstack-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docup",
+      "repo": "https://github.com/egoist/docup",
+      "url": "https://docup.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rollup-plugin-hashbang",
+      "repo": "https://github.com/egoist/rollup-plugin-hashbang",
+      "language": "TypeScript"
+    },
+    {
+      "name": "franxx",
+      "repo": "https://github.com/egoist/franxx",
+      "url": "https://franxx.egoist.sh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "keycode",
+      "repo": "https://github.com/egoist/keycode",
+      "url": "https://keycode.egoist.sh",
+      "language": "Vue"
+    },
+    {
+      "name": "docute",
+      "repo": "https://github.com/egoist/docute",
+      "url": "https://docute.egoist.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-emotion",
+      "repo": "https://github.com/egoist/vue-emotion",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-prism-component",
+      "repo": "https://github.com/egoist/vue-prism-component",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bili",
+      "repo": "https://github.com/egoist/bili",
+      "url": "https://bili.egoist.sh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "presite",
+      "repo": "https://github.com/egoist/presite",
+      "language": "TypeScript"
+    },
+    {
+      "name": "parse-package-name",
+      "repo": "https://github.com/egoist/parse-package-name",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nswatch",
+      "repo": "https://github.com/egoist/nswatch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hanabi",
+      "repo": "https://github.com/egoist/hanabi",
+      "url": "https://hanabi.egoist.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dist-size",
+      "repo": "https://github.com/egoist/dist-size",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beamcast-docs",
+      "repo": "https://github.com/egoist/beamcast-docs",
+      "url": "https://docs.beamcast.app",
+      "language": "CSS"
+    },
+    {
+      "name": "vite-vercel",
+      "repo": "https://github.com/egoist/vite-vercel",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-lib-starter",
+      "repo": "https://github.com/egoist/ts-lib-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vue-feather-icons",
+      "repo": "https://github.com/egoist/vue-feather-icons",
+      "url": "https://vue-feather-icons.egoist.dev/",
+      "language": "Vue"
+    },
+    {
+      "name": "developer3x3",
+      "repo": "https://github.com/egoist/developer3x3",
+      "url": "https://3x3.egoist.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-mix",
+      "repo": "https://github.com/egoist/vite-plugin-mix",
+      "url": "https://github.com/egoist/vite-plugin-mix",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bgm-fetch",
+      "repo": "https://github.com/egoist/bgm-fetch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "v-tippy",
+      "repo": "https://github.com/egoist/v-tippy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yarn-install",
+      "repo": "https://github.com/egoist/yarn-install",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docute-evanyou",
+      "repo": "https://github.com/egoist/docute-evanyou",
+      "language": "JavaScript"
+    },
+    {
+      "name": "your-name",
+      "repo": "https://github.com/egoist/your-name",
+      "language": "JavaScript"
+    }
+  ]
+}

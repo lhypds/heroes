@@ -1,0 +1,518 @@
+{
+  "handle": "app-generator",
+  "name": "App Generator",
+  "github": [
+    "https://github.com/app-generator"
+  ],
+  "website": "https://app-generator.dev/",
+  "bio": "App Generator and Boilerplate Code.",
+  "own_repos": 7340,
+  "commits": 289294,
+  "apps": [],
+  "repos": [
+    {
+      "name": "gnosly",
+      "repo": "https://github.com/app-generator/gnosly",
+      "url": "https://gnosly.com"
+    },
+    {
+      "name": "app-generator",
+      "repo": "https://github.com/app-generator/app-generator",
+      "url": "https://app-generator.dev/"
+    },
+    {
+      "name": "django-material-kit",
+      "repo": "https://github.com/app-generator/django-material-kit",
+      "url": "https://app-generator.dev/"
+    },
+    {
+      "name": "flask-material-kit",
+      "repo": "https://github.com/app-generator/flask-material-kit",
+      "url": "https://app-generator.dev"
+    },
+    {
+      "name": "django-templates",
+      "repo": "https://github.com/app-generator/django-templates",
+      "url": "https://app-generator.dev/",
+      "language": "HTML"
+    },
+    {
+      "name": "django-coreui",
+      "repo": "https://github.com/app-generator/django-coreui",
+      "url": "https://app-generator.dev/"
+    },
+    {
+      "name": "flask-coreui",
+      "repo": "https://github.com/app-generator/flask-coreui",
+      "url": "https://app-generator.dev/"
+    },
+    {
+      "name": "django-dashboards",
+      "repo": "https://github.com/app-generator/django-dashboards",
+      "url": "https://app-generator.dev/"
+    },
+    {
+      "name": "admin-dashboards",
+      "repo": "https://github.com/app-generator/admin-dashboards",
+      "url": "https://app-generator.dev/"
+    },
+    {
+      "name": "flask-dashboards",
+      "repo": "https://github.com/app-generator/flask-dashboards",
+      "url": "https://app-generator.dev/"
+    },
+    {
+      "name": "django-admin-atlantis",
+      "repo": "https://github.com/app-generator/django-admin-atlantis",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-admin-material-dashboard",
+      "repo": "https://github.com/app-generator/django-admin-material-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-admin-volt",
+      "repo": "https://github.com/app-generator/django-admin-volt",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-admin-black",
+      "repo": "https://github.com/app-generator/django-admin-black",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "design-ecommerce",
+      "repo": "https://github.com/app-generator/design-ecommerce",
+      "url": "https://app-generator.dev/product/rocket-ecommerce/django/"
+    },
+    {
+      "name": "ecommerce-fastapi-stripe",
+      "repo": "https://github.com/app-generator/ecommerce-fastapi-stripe",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "rocket-site",
+      "repo": "https://github.com/app-generator/rocket-site"
+    },
+    {
+      "name": "rocket-ecommerce",
+      "repo": "https://github.com/app-generator/rocket-ecommerce",
+      "url": "https://app-generator.dev/product/rocket-ecommerce/django/"
+    },
+    {
+      "name": "flask-adminlte-pro",
+      "repo": "https://github.com/app-generator/flask-adminlte-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-adminlte",
+      "repo": "https://github.com/app-generator/flask-adminlte",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "rocket-flask-pro",
+      "repo": "https://github.com/app-generator/rocket-flask-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "rocket-flask",
+      "repo": "https://github.com/app-generator/rocket-flask",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-admin-soft-dashboard",
+      "repo": "https://github.com/app-generator/django-admin-soft-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "fastapi-soft-ui-dashboard",
+      "repo": "https://github.com/app-generator/fastapi-soft-ui-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-soft-ui-dashboard",
+      "repo": "https://github.com/app-generator/flask-soft-ui-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-atlantis-dark-pro",
+      "repo": "https://github.com/app-generator/django-atlantis-dark-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-atlantis-dark",
+      "repo": "https://github.com/app-generator/django-atlantis-dark",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-atlantis-dark",
+      "repo": "https://github.com/app-generator/flask-atlantis-dark",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-atlantis-dark-pro",
+      "repo": "https://github.com/app-generator/flask-atlantis-dark-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-black-dashboard-pro",
+      "repo": "https://github.com/app-generator/django-black-dashboard-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-black-dashboard-pro",
+      "repo": "https://github.com/app-generator/flask-black-dashboard-pro",
+      "url": "https://appseed.us/product/black-dashboard-pro/flask/"
+    },
+    {
+      "name": "jinja-black-dashboard",
+      "repo": "https://github.com/app-generator/jinja-black-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-black-dashboard",
+      "repo": "https://github.com/app-generator/flask-black-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-black-dashboard",
+      "repo": "https://github.com/app-generator/django-black-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-soft-ui-dashboard-pro",
+      "repo": "https://github.com/app-generator/django-soft-ui-dashboard-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-soft-ui-dashboard",
+      "repo": "https://github.com/app-generator/django-soft-ui-dashboard",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-datta-able-pro",
+      "repo": "https://github.com/app-generator/flask-datta-able-pro",
+      "url": "https://app-generator.dev/product/datta-able/flask/"
+    },
+    {
+      "name": "flask-datta-able",
+      "repo": "https://github.com/app-generator/flask-datta-able",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-soft-ui-design-pro",
+      "repo": "https://github.com/app-generator/django-soft-ui-design-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-soft-ui-design",
+      "repo": "https://github.com/app-generator/django-soft-ui-design",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-soft-ui-design-pro",
+      "repo": "https://github.com/app-generator/flask-soft-ui-design-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-soft-ui-design",
+      "repo": "https://github.com/app-generator/flask-soft-ui-design",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-pixel-pro",
+      "repo": "https://github.com/app-generator/flask-pixel-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "flask-pixel",
+      "repo": "https://github.com/app-generator/flask-pixel",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-pixel",
+      "repo": "https://github.com/app-generator/django-pixel",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "django-pixel-pro",
+      "repo": "https://github.com/app-generator/django-pixel-pro",
+      "url": "https://app-generator.dev/product/"
+    },
+    {
+      "name": "tutorial-flask",
+      "repo": "https://github.com/app-generator/tutorial-flask",
+      "url": "https://app-generator.dev"
+    },
+    {
+      "name": "dynamic-django",
+      "repo": "https://github.com/app-generator/dynamic-django",
+      "url": "https://app-generator.dev/product/dynamic-patterns/django/"
+    },
+    {
+      "name": "django-berry-dashboard",
+      "repo": "https://github.com/app-generator/django-berry-dashboard",
+      "url": "https://app-generator.dev/product/berry-dashboard-pro/django/"
+    },
+    {
+      "name": "django-berry-dashboard-pro",
+      "repo": "https://github.com/app-generator/django-berry-dashboard-pro",
+      "url": "https://app-generator.dev/product/berry-dashboard-pro/django/"
+    },
+    {
+      "name": "django-datta-able-pro",
+      "repo": "https://github.com/app-generator/django-datta-able-pro",
+      "url": "https://app-generator.dev/product/datta-able/django/",
+      "language": "HTML"
+    },
+    {
+      "name": "django-datta-able",
+      "repo": "https://github.com/app-generator/django-datta-able",
+      "url": "https://app-generator.dev/product/datta-able/django/"
+    },
+    {
+      "name": "django-adminlte-pro",
+      "repo": "https://github.com/app-generator/django-adminlte-pro",
+      "url": "https://app-generator.dev/product/adminlte/django/"
+    },
+    {
+      "name": "django-adminlte",
+      "repo": "https://github.com/app-generator/django-adminlte",
+      "url": "https://app-generator.dev/product/adminlte/django/"
+    },
+    {
+      "name": "rocket-django-pro",
+      "repo": "https://github.com/app-generator/rocket-django-pro",
+      "url": "https://app-generator.dev/product/rocket/django/"
+    },
+    {
+      "name": "rocket-django",
+      "repo": "https://github.com/app-generator/rocket-django",
+      "url": "https://app-generator.dev/product/rocket/django/"
+    },
+    {
+      "name": "adminator",
+      "repo": "https://github.com/app-generator/adminator",
+      "url": "https://app-generator.dev/",
+      "language": "HTML"
+    },
+    {
+      "name": "free-site-builder",
+      "repo": "https://github.com/app-generator/free-site-builder",
+      "url": "https://www.simpllo.com"
+    },
+    {
+      "name": "gnosly.com",
+      "repo": "https://github.com/app-generator/gnosly.com",
+      "url": "https://gnosly.substack.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "app-generator.ai",
+      "repo": "https://github.com/app-generator/app-generator.ai",
+      "url": "https://www.app-generator.ai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "django-tabler-1779972202",
+      "repo": "https://github.com/app-generator/django-tabler-1779972202",
+      "language": "Python"
+    },
+    {
+      "name": "django-tabler-1779972147",
+      "repo": "https://github.com/app-generator/django-tabler-1779972147",
+      "language": "Python"
+    },
+    {
+      "name": "django-soft-1779950849",
+      "repo": "https://github.com/app-generator/django-soft-1779950849",
+      "language": "Python"
+    },
+    {
+      "name": "django-soft-1779911135",
+      "repo": "https://github.com/app-generator/django-soft-1779911135",
+      "language": "Python"
+    },
+    {
+      "name": "flask-datta-1779905437",
+      "repo": "https://github.com/app-generator/flask-datta-1779905437",
+      "language": "CSS"
+    },
+    {
+      "name": "flask-soft-1779905330",
+      "repo": "https://github.com/app-generator/flask-soft-1779905330",
+      "language": "CSS"
+    },
+    {
+      "name": "django-soft-1779853688",
+      "repo": "https://github.com/app-generator/django-soft-1779853688",
+      "language": "Python"
+    },
+    {
+      "name": "flask-datta-1779805581",
+      "repo": "https://github.com/app-generator/flask-datta-1779805581",
+      "language": "CSS"
+    },
+    {
+      "name": "django-adminlte-1779736243",
+      "repo": "https://github.com/app-generator/django-adminlte-1779736243",
+      "language": "Python"
+    },
+    {
+      "name": "django-soft-1779731827",
+      "repo": "https://github.com/app-generator/django-soft-1779731827",
+      "language": "Python"
+    },
+    {
+      "name": "flask-soft-1779723756",
+      "repo": "https://github.com/app-generator/flask-soft-1779723756",
+      "language": "CSS"
+    },
+    {
+      "name": "django-soft-1779709452",
+      "repo": "https://github.com/app-generator/django-soft-1779709452",
+      "language": "Python"
+    },
+    {
+      "name": "django-soft-1779665457",
+      "repo": "https://github.com/app-generator/django-soft-1779665457",
+      "language": "Python"
+    },
+    {
+      "name": "django-material-1779664659",
+      "repo": "https://github.com/app-generator/django-material-1779664659",
+      "language": "Python"
+    },
+    {
+      "name": "django-argon-1779663692",
+      "repo": "https://github.com/app-generator/django-argon-1779663692",
+      "language": "Python"
+    },
+    {
+      "name": "django-corporate-1779663216",
+      "repo": "https://github.com/app-generator/django-corporate-1779663216",
+      "language": "Python"
+    },
+    {
+      "name": "django-black-1779662304",
+      "repo": "https://github.com/app-generator/django-black-1779662304",
+      "language": "Python"
+    },
+    {
+      "name": "django-berry-1779660702",
+      "repo": "https://github.com/app-generator/django-berry-1779660702",
+      "language": "Python"
+    },
+    {
+      "name": "django-datta-1779658635",
+      "repo": "https://github.com/app-generator/django-datta-1779658635",
+      "language": "Python"
+    },
+    {
+      "name": "django-datta-1779653746",
+      "repo": "https://github.com/app-generator/django-datta-1779653746",
+      "language": "Python"
+    },
+    {
+      "name": "django-gradient-1779653361",
+      "repo": "https://github.com/app-generator/django-gradient-1779653361",
+      "language": "Python"
+    },
+    {
+      "name": "django-volt-1779651728",
+      "repo": "https://github.com/app-generator/django-volt-1779651728",
+      "language": "Python"
+    },
+    {
+      "name": "django-volt-1779651070",
+      "repo": "https://github.com/app-generator/django-volt-1779651070",
+      "language": "Python"
+    },
+    {
+      "name": "django-adminlte-1779650833",
+      "repo": "https://github.com/app-generator/django-adminlte-1779650833",
+      "language": "Python"
+    },
+    {
+      "name": "django-tabler-1779650585",
+      "repo": "https://github.com/app-generator/django-tabler-1779650585",
+      "language": "Python"
+    },
+    {
+      "name": "django-soft-kit-1779649472",
+      "repo": "https://github.com/app-generator/django-soft-kit-1779649472",
+      "language": "Python"
+    },
+    {
+      "name": "django-material-kit-1779637486",
+      "repo": "https://github.com/app-generator/django-material-kit-1779637486",
+      "language": "Python"
+    },
+    {
+      "name": "django-pixel-1779634456",
+      "repo": "https://github.com/app-generator/django-pixel-1779634456",
+      "language": "Python"
+    },
+    {
+      "name": "django-soft-1779553993",
+      "repo": "https://github.com/app-generator/django-soft-1779553993",
+      "language": "Python"
+    },
+    {
+      "name": "flask-datta-1779552398",
+      "repo": "https://github.com/app-generator/flask-datta-1779552398",
+      "language": "CSS"
+    },
+    {
+      "name": "flask-datta-1779550372",
+      "repo": "https://github.com/app-generator/flask-datta-1779550372",
+      "language": "CSS"
+    },
+    {
+      "name": "django-soft-1779527099",
+      "repo": "https://github.com/app-generator/django-soft-1779527099",
+      "language": "Python"
+    },
+    {
+      "name": "django-material-1779526938",
+      "repo": "https://github.com/app-generator/django-material-1779526938",
+      "language": "Python"
+    },
+    {
+      "name": "django-gradient-1779444814",
+      "repo": "https://github.com/app-generator/django-gradient-1779444814",
+      "language": "Python"
+    },
+    {
+      "name": "flask-datta-1779390027",
+      "repo": "https://github.com/app-generator/flask-datta-1779390027",
+      "language": "CSS"
+    },
+    {
+      "name": "django-soft-1779312600",
+      "repo": "https://github.com/app-generator/django-soft-1779312600",
+      "language": "Python"
+    },
+    {
+      "name": "flask-soft-1779234782",
+      "repo": "https://github.com/app-generator/flask-soft-1779234782",
+      "language": "CSS"
+    },
+    {
+      "name": "flask-datta-1779222156",
+      "repo": "https://github.com/app-generator/flask-datta-1779222156",
+      "language": "CSS"
+    },
+    {
+      "name": "django-soft-1779182785",
+      "repo": "https://github.com/app-generator/django-soft-1779182785",
+      "language": "Python"
+    },
+    {
+      "name": "django-material-1779123314",
+      "repo": "https://github.com/app-generator/django-material-1779123314",
+      "language": "Python"
+    }
+  ]
+}

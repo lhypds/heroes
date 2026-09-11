@@ -12,7 +12,8 @@
 //   node data/cleaning.js --step3    the heroes: over ten thousand commits in
 //                                    the hundred repositories they last pushed
 //   node data/cleaning.js --step4    the hundred cut them short: count every
-//                                    repository of whoever could still pass
+//                                    repository of whoever could still pass,
+//                                    up to a thousand of them
 //   node data/cleaning.js --dry      count, and say who would go; remove nobody
 //   node data/cleaning.js alice bob  only these people, whatever their state
 //   node data/cleaning.js --report   how many are left, how many went and why
@@ -106,6 +107,13 @@ const PER_REPO = 10;
 // repositories they pushed to most recently.
 const HERO = 10000;
 const HERO_REPOS = 100;
+// And how far step 4 will go for anyone. Past a thousand repositories of
+// their own nobody is writing them: the accounts up there hold forty
+// thousand repositories and four hundred commits between them, machines
+// making repositories, and reading every one costs hours and finds
+// nobody. Measured, the busiest hundred of everyone above the line came
+// to fifteen hundred commits at the most, where the bar is ten thousand.
+const HERO_REPOS_MAX = 1000;
 // Repositories to a request, and what to fall back to when GitHub times
 // out, down to one at a time; an account GitHub cannot count even so is
 // kept, and marked. Fifty to start with, and smaller for the person
@@ -212,10 +220,10 @@ const sql = {
   // hundred busiest, which measurement says is three times the truth — so
   // that nobody who could pass is left unasked.
   truncated: db.prepare(`SELECT login FROM people
-    WHERE full IS NOT 1 AND checked = ? AND own > ? AND authored <= ? AND authored * own / 100.0 > ?
+    WHERE full IS NOT 1 AND checked = ? AND own > ? AND own <= ? AND authored <= ? AND authored * own / 100.0 > ?
     ORDER BY authored DESC`),
   truncatedRepos: db.prepare(`SELECT sum(own - ?) AS n FROM people
-    WHERE full IS NOT 1 AND checked = ? AND own > ? AND authored <= ? AND authored * own / 100.0 > ?`),
+    WHERE full IS NOT 1 AND checked = ? AND own > ? AND own <= ? AND authored <= ? AND authored * own / 100.0 > ?`),
   heroes: db.prepare("SELECT * FROM people WHERE authored > ? ORDER BY authored DESC, login"),
   heroCount: db.prepare("SELECT count(*) AS n FROM people WHERE authored > ?"),
   remove: db.prepare("DELETE FROM people WHERE login = ?"),
@@ -752,9 +760,9 @@ const step4 = async () => {
   mkdirSync(HEROES, { recursive: true });
   const queue = handles.length > 0
     ? handles.filter((login) => sql.person.get(login))
-    : sql.truncated.all(HERO_REPOS, HERO_REPOS, HERO, HERO).map((row) => row.login);
+    : sql.truncated.all(HERO_REPOS, HERO_REPOS, HERO_REPOS_MAX, HERO, HERO).map((row) => row.login);
   if (handles.length === 0) {
-    const repos = sql.truncatedRepos.get(HERO_REPOS, HERO_REPOS, HERO_REPOS, HERO, HERO);
+    const repos = sql.truncatedRepos.get(HERO_REPOS, HERO_REPOS, HERO_REPOS, HERO_REPOS_MAX, HERO, HERO);
     console.log(`step 4: ${queue.length} people the hundred cut short and who could still pass, ` +
       `${(repos.n ?? 0).toLocaleString("en")} repositories left to count`);
   }

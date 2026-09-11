@@ -1,0 +1,511 @@
+{
+  "handle": "jstrachan",
+  "name": "James Strachan",
+  "github": [
+    "https://github.com/jstrachan"
+  ],
+  "website": "https://medium.com/@jstrachan/",
+  "bio": "I work on new technologies at Apple I previously created Apache Groovy & Apache Camel and worked on Jenkins X",
+  "own_repos": 1112,
+  "commits": 12027,
+  "apps": [],
+  "repos": [
+    {
+      "name": "rolloutdemo1",
+      "repo": "https://github.com/jstrachan/rolloutdemo1",
+      "language": "HTML"
+    },
+    {
+      "name": "tsdemo",
+      "repo": "https://github.com/jstrachan/tsdemo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-example",
+      "repo": "https://github.com/jstrachan/node-example",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey554",
+      "repo": "https://github.com/jstrachan/nodey554",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey553",
+      "repo": "https://github.com/jstrachan/nodey553",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey560",
+      "repo": "https://github.com/jstrachan/nodey560",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx-gke-flux-prod",
+      "repo": "https://github.com/jstrachan/jx-gke-flux-prod",
+      "language": "Makefile"
+    },
+    {
+      "name": "mynodedb2",
+      "repo": "https://github.com/jstrachan/mynodedb2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "apollo",
+      "repo": "https://github.com/jstrachan/apollo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jx-demo-minikube2",
+      "repo": "https://github.com/jstrachan/jx-demo-minikube2",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx-demo-kube-minio",
+      "repo": "https://github.com/jstrachan/jx-demo-kube-minio",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx-kube-prod-sample",
+      "repo": "https://github.com/jstrachan/jx-kube-prod-sample",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey546",
+      "repo": "https://github.com/jstrachan/nodey546",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-chaos",
+      "repo": "https://github.com/jstrachan/go-chaos",
+      "language": "Go"
+    },
+    {
+      "name": "jx-demo-gke2-prod",
+      "repo": "https://github.com/jstrachan/jx-demo-gke2-prod",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx-demo-gke2-tf",
+      "repo": "https://github.com/jstrachan/jx-demo-gke2-tf",
+      "language": "HCL"
+    },
+    {
+      "name": "jx-demo-minikube",
+      "repo": "https://github.com/jstrachan/jx-demo-minikube",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-kind-gitea",
+      "repo": "https://github.com/jstrachan/jx3-demo-kind-gitea",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey534",
+      "repo": "https://github.com/jstrachan/nodey534",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey536",
+      "repo": "https://github.com/jstrachan/nodey536",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey400",
+      "repo": "https://github.com/jstrachan/nodey400",
+      "language": "Shell"
+    },
+    {
+      "name": "jx3-demo-gke18",
+      "repo": "https://github.com/jstrachan/jx3-demo-gke18",
+      "language": "Makefile"
+    },
+    {
+      "name": "my-boot-jenkinsfile",
+      "repo": "https://github.com/jstrachan/my-boot-jenkinsfile",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-maven-jenkinsfile",
+      "repo": "https://github.com/jstrachan/spring-boot-maven-jenkinsfile",
+      "language": "Java"
+    },
+    {
+      "name": "jx-demo-terraform-dev",
+      "repo": "https://github.com/jstrachan/jx-demo-terraform-dev",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey533",
+      "repo": "https://github.com/jstrachan/nodey533",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey542",
+      "repo": "https://github.com/jstrachan/nodey542",
+      "language": "Makefile"
+    },
+    {
+      "name": "knative-quickstart",
+      "repo": "https://github.com/jstrachan/knative-quickstart",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "jx3-openshift-local",
+      "repo": "https://github.com/jstrachan/jx3-openshift-local",
+      "language": "Shell"
+    },
+    {
+      "name": "guicey",
+      "repo": "https://github.com/jstrachan/guicey",
+      "language": "Java"
+    },
+    {
+      "name": "jx-demo-tekton-tf",
+      "repo": "https://github.com/jstrachan/jx-demo-tekton-tf",
+      "language": "HCL"
+    },
+    {
+      "name": "jx3-demo-catalog-dev",
+      "repo": "https://github.com/jstrachan/jx3-demo-catalog-dev",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey532",
+      "repo": "https://github.com/jstrachan/nodey532",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-cluster",
+      "repo": "https://github.com/jstrachan/jx3-cluster",
+      "language": "Shell"
+    },
+    {
+      "name": "demo301",
+      "repo": "https://github.com/jstrachan/demo301",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey530",
+      "repo": "https://github.com/jstrachan/nodey530",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey502",
+      "repo": "https://github.com/jstrachan/nodey502",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey510",
+      "repo": "https://github.com/jstrachan/nodey510",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey531",
+      "repo": "https://github.com/jstrachan/nodey531",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-gke-gsm-1",
+      "repo": "https://github.com/jstrachan/jx3-gke-gsm-1",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey520",
+      "repo": "https://github.com/jstrachan/nodey520"
+    },
+    {
+      "name": "jx3",
+      "repo": "https://github.com/jstrachan/jx3",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-catalog-tf",
+      "repo": "https://github.com/jstrachan/jx3-demo-catalog-tf",
+      "language": "HCL"
+    },
+    {
+      "name": "hipster3",
+      "repo": "https://github.com/jstrachan/hipster3",
+      "language": "Java"
+    },
+    {
+      "name": "jx3-demo-kubernetes3",
+      "repo": "https://github.com/jstrachan/jx3-demo-kubernetes3",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-kubernetes2",
+      "repo": "https://github.com/jstrachan/jx3-demo-kubernetes2",
+      "language": "Shell"
+    },
+    {
+      "name": "jx3-demo-gke-vault",
+      "repo": "https://github.com/jstrachan/jx3-demo-gke-vault",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey508",
+      "repo": "https://github.com/jstrachan/nodey508",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey507",
+      "repo": "https://github.com/jstrachan/nodey507",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey506",
+      "repo": "https://github.com/jstrachan/nodey506",
+      "language": "Makefile"
+    },
+    {
+      "name": "kubeconawesome",
+      "repo": "https://github.com/jstrachan/kubeconawesome",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey505",
+      "repo": "https://github.com/jstrachan/nodey505",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey504",
+      "repo": "https://github.com/jstrachan/nodey504",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey503",
+      "repo": "https://github.com/jstrachan/nodey503",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-kubernetes",
+      "repo": "https://github.com/jstrachan/jx3-demo-kubernetes",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey501",
+      "repo": "https://github.com/jstrachan/nodey501",
+      "language": "Makefile"
+    },
+    {
+      "name": "godemo62",
+      "repo": "https://github.com/jstrachan/godemo62",
+      "language": "HTML"
+    },
+    {
+      "name": "nodey491",
+      "repo": "https://github.com/jstrachan/nodey491",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey492",
+      "repo": "https://github.com/jstrachan/nodey492",
+      "language": "Makefile"
+    },
+    {
+      "name": "bdd-gh-1599374594",
+      "repo": "https://github.com/jstrachan/bdd-gh-1599374594",
+      "language": "Smarty"
+    },
+    {
+      "name": "lighthouse-local-config-demo",
+      "repo": "https://github.com/jstrachan/lighthouse-local-config-demo"
+    },
+    {
+      "name": "gradledemo",
+      "repo": "https://github.com/jstrachan/gradledemo",
+      "language": "Java"
+    },
+    {
+      "name": "awesomenodey",
+      "repo": "https://github.com/jstrachan/awesomenodey",
+      "language": "Makefile"
+    },
+    {
+      "name": "awesomenode",
+      "repo": "https://github.com/jstrachan/awesomenode",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey490",
+      "repo": "https://github.com/jstrachan/nodey490",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey485",
+      "repo": "https://github.com/jstrachan/nodey485",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-minikube",
+      "repo": "https://github.com/jstrachan/jx3-demo-minikube",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey489",
+      "repo": "https://github.com/jstrachan/nodey489",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey488",
+      "repo": "https://github.com/jstrachan/nodey488",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey487",
+      "repo": "https://github.com/jstrachan/nodey487",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey486",
+      "repo": "https://github.com/jstrachan/nodey486",
+      "language": "Makefile"
+    },
+    {
+      "name": "godemo61",
+      "repo": "https://github.com/jstrachan/godemo61",
+      "language": "Smarty"
+    },
+    {
+      "name": "jx3-demo-docker",
+      "repo": "https://github.com/jstrachan/jx3-demo-docker",
+      "language": "Shell"
+    },
+    {
+      "name": "jx3-demo-vault2",
+      "repo": "https://github.com/jstrachan/jx3-demo-vault2",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-vault3",
+      "repo": "https://github.com/jstrachan/jx3-demo-vault3",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey483",
+      "repo": "https://github.com/jstrachan/nodey483",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-terraform2",
+      "repo": "https://github.com/jstrachan/jx3-demo-terraform2",
+      "language": "Makefile"
+    },
+    {
+      "name": "jx3-demo-terraform-dev",
+      "repo": "https://github.com/jstrachan/jx3-demo-terraform-dev",
+      "language": "Makefile"
+    },
+    {
+      "name": "godemo50",
+      "repo": "https://github.com/jstrachan/godemo50",
+      "language": "Smarty"
+    },
+    {
+      "name": "jx3-demo1-dev",
+      "repo": "https://github.com/jstrachan/jx3-demo1-dev",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey482",
+      "repo": "https://github.com/jstrachan/nodey482",
+      "language": "Smarty"
+    },
+    {
+      "name": "jx-gitops-old",
+      "repo": "https://github.com/jstrachan/jx-gitops-old",
+      "language": "Go"
+    },
+    {
+      "name": "nodey484",
+      "repo": "https://github.com/jstrachan/nodey484",
+      "language": "Makefile"
+    },
+    {
+      "name": "env-git-operator-demo1",
+      "repo": "https://github.com/jstrachan/env-git-operator-demo1",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey471",
+      "repo": "https://github.com/jstrachan/nodey471",
+      "language": "Makefile"
+    },
+    {
+      "name": "environment-fake-dev",
+      "repo": "https://github.com/jstrachan/environment-fake-dev"
+    },
+    {
+      "name": "env-configsync-bootv3-scratch2",
+      "repo": "https://github.com/jstrachan/env-configsync-bootv3-scratch2",
+      "language": "Shell"
+    },
+    {
+      "name": "nodey481",
+      "repo": "https://github.com/jstrachan/nodey481",
+      "language": "Makefile"
+    },
+    {
+      "name": "env-test-promote-makefile",
+      "repo": "https://github.com/jstrachan/env-test-promote-makefile",
+      "language": "Makefile"
+    },
+    {
+      "name": "godemo48",
+      "repo": "https://github.com/jstrachan/godemo48",
+      "language": "Smarty"
+    },
+    {
+      "name": "godemo45",
+      "repo": "https://github.com/jstrachan/godemo45",
+      "language": "Smarty"
+    },
+    {
+      "name": "godemo44",
+      "repo": "https://github.com/jstrachan/godemo44",
+      "language": "Smarty"
+    },
+    {
+      "name": "nodey470",
+      "repo": "https://github.com/jstrachan/nodey470",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey460",
+      "repo": "https://github.com/jstrachan/nodey460",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey468",
+      "repo": "https://github.com/jstrachan/nodey468",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey466",
+      "repo": "https://github.com/jstrachan/nodey466",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey452",
+      "repo": "https://github.com/jstrachan/nodey452",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey465",
+      "repo": "https://github.com/jstrachan/nodey465",
+      "language": "Makefile"
+    },
+    {
+      "name": "fake-github-action-build-pack",
+      "repo": "https://github.com/jstrachan/fake-github-action-build-pack",
+      "language": "Makefile"
+    },
+    {
+      "name": "nodey462",
+      "repo": "https://github.com/jstrachan/nodey462",
+      "language": "Makefile"
+    }
+  ]
+}
