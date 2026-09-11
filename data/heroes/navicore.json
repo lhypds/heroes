@@ -1,0 +1,523 @@
+{
+  "handle": "navicore",
+  "name": "Ed Sweeney",
+  "github": [
+    "https://github.com/navicore"
+  ],
+  "website": "https://git.navicore.tech/",
+  "bio": "I've moved all my active development to https://git.navicore.tech",
+  "own_repos": 330,
+  "commits": 15619,
+  "apps": [],
+  "repos": [
+    {
+      "name": "patch-seq",
+      "repo": "https://github.com/navicore/patch-seq",
+      "url": "https://git.navicore.tech/navicore/patch-seq",
+      "language": "Rust"
+    },
+    {
+      "name": "seqlings",
+      "repo": "https://github.com/navicore/seqlings",
+      "url": "https://git.navicore.tech/navicore/seqlings",
+      "language": "Rust"
+    },
+    {
+      "name": "loglings",
+      "repo": "https://github.com/navicore/loglings",
+      "language": "Prolog"
+    },
+    {
+      "name": "patch-prolog",
+      "repo": "https://github.com/navicore/patch-prolog",
+      "url": "https://git.navicore.tech/navicore/patch-prolog",
+      "language": "Rust"
+    },
+    {
+      "name": "patch-rexx",
+      "repo": "https://github.com/navicore/patch-rexx",
+      "url": "https://git.navicore.tech/navicore/patch-rexx",
+      "language": "Rust"
+    },
+    {
+      "name": "seq-lisp",
+      "repo": "https://github.com/navicore/seq-lisp",
+      "url": "https://git.navicore.tech/navicore/seq-lisp",
+      "language": "Just"
+    },
+    {
+      "name": "seq-lisp.nvim",
+      "repo": "https://github.com/navicore/seq-lisp.nvim",
+      "url": "https://git.navicore.tech/navicore/seq-lisp.nvim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "patch-rexx.nvim",
+      "repo": "https://github.com/navicore/patch-rexx.nvim",
+      "url": "https://git.navicore.tech/navicore/patch-rexx.nvim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "rexxlings",
+      "repo": "https://github.com/navicore/rexxlings",
+      "url": "https://git.navicore.tech/navicore/rexxlings",
+      "language": "REXX"
+    },
+    {
+      "name": "patch-seq.nvim",
+      "repo": "https://github.com/navicore/patch-seq.nvim",
+      "url": "https://git.navicore.tech/navicore/patch-seq.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "patch-prolog.nvim",
+      "repo": "https://github.com/navicore/patch-prolog.nvim",
+      "url": "https://git.navicore.tech/navicore/patch-prolog.nvim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "kubectl-oidc-device",
+      "repo": "https://github.com/navicore/kubectl-oidc-device",
+      "url": "https://git.navicore.tech/navicore/kubectl-oidc-device",
+      "language": "Go"
+    },
+    {
+      "name": "zsh-git-prompt-rs",
+      "repo": "https://github.com/navicore/zsh-git-prompt-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "zim-studio",
+      "repo": "https://github.com/navicore/zim-studio",
+      "language": "Rust"
+    },
+    {
+      "name": "zim-hide",
+      "repo": "https://github.com/navicore/zim-hide",
+      "language": "Rust"
+    },
+    {
+      "name": "wscat-rs",
+      "repo": "https://github.com/navicore/wscat-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "teams-notification-resource",
+      "repo": "https://github.com/navicore/teams-notification-resource",
+      "language": "Shell"
+    },
+    {
+      "name": "triples",
+      "repo": "https://github.com/navicore/triples",
+      "language": "Rust"
+    },
+    {
+      "name": "stsource",
+      "repo": "https://github.com/navicore/stsource",
+      "language": "Scala"
+    },
+    {
+      "name": "spark",
+      "repo": "https://github.com/navicore/spark",
+      "language": "Shell"
+    },
+    {
+      "name": "signalkgen",
+      "repo": "https://github.com/navicore/signalkgen",
+      "language": "Python"
+    },
+    {
+      "name": "seq-prolog",
+      "repo": "https://github.com/navicore/seq-prolog",
+      "language": "Shell"
+    },
+    {
+      "name": "rocker-plumber",
+      "repo": "https://github.com/navicore/rocker-plumber",
+      "language": "R"
+    },
+    {
+      "name": "nvim-reminders",
+      "repo": "https://github.com/navicore/nvim-reminders",
+      "language": "Lua"
+    },
+    {
+      "name": "navixpath",
+      "repo": "https://github.com/navicore/navixpath",
+      "language": "Java"
+    },
+    {
+      "name": "naviscripts",
+      "repo": "https://github.com/navicore/naviscripts",
+      "language": "Lua"
+    },
+    {
+      "name": "navipod",
+      "repo": "https://github.com/navicore/navipod",
+      "language": "Rust"
+    },
+    {
+      "name": "navinote",
+      "repo": "https://github.com/navicore/navinote",
+      "language": "Svelte"
+    },
+    {
+      "name": "navilake",
+      "repo": "https://github.com/navicore/navilake",
+      "language": "Scala"
+    },
+    {
+      "name": "navibox",
+      "repo": "https://github.com/navicore/navibox",
+      "language": "Shell"
+    },
+    {
+      "name": "mqtt-bridge",
+      "repo": "https://github.com/navicore/mqtt-bridge",
+      "language": "Scala"
+    },
+    {
+      "name": "lots-of-names-api",
+      "repo": "https://github.com/navicore/lots-of-names-api",
+      "language": "Scala"
+    },
+    {
+      "name": "lots-of-names",
+      "repo": "https://github.com/navicore/lots-of-names",
+      "language": "Scala"
+    },
+    {
+      "name": "lisplings",
+      "repo": "https://github.com/navicore/lisplings",
+      "language": "Rust"
+    },
+    {
+      "name": "k8s-audio-lab",
+      "repo": "https://github.com/navicore/k8s-audio-lab",
+      "language": "Go"
+    },
+    {
+      "name": "java-server-example",
+      "repo": "https://github.com/navicore/java-server-example",
+      "language": "Java"
+    },
+    {
+      "name": "idionautic-server",
+      "repo": "https://github.com/navicore/idionautic-server",
+      "language": "Go"
+    },
+    {
+      "name": "gamecode-web",
+      "repo": "https://github.com/navicore/gamecode-web",
+      "language": "Rust"
+    },
+    {
+      "name": "gamecode-mcp2",
+      "repo": "https://github.com/navicore/gamecode-mcp2",
+      "language": "Rust"
+    },
+    {
+      "name": "gamecode-cli",
+      "repo": "https://github.com/navicore/gamecode-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "flag-rs",
+      "repo": "https://github.com/navicore/flag-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "echo-secret-py",
+      "repo": "https://github.com/navicore/echo-secret-py",
+      "language": "Python"
+    },
+    {
+      "name": "dotspace",
+      "repo": "https://github.com/navicore/dotspace",
+      "language": "Rust"
+    },
+    {
+      "name": "dotparser",
+      "repo": "https://github.com/navicore/dotparser",
+      "language": "Rust"
+    },
+    {
+      "name": "doors-isometric",
+      "repo": "https://github.com/navicore/doors-isometric",
+      "language": "Rust"
+    },
+    {
+      "name": "doors-2d",
+      "repo": "https://github.com/navicore/doors-2d",
+      "language": "Rust"
+    },
+    {
+      "name": "debug-pod",
+      "repo": "https://github.com/navicore/debug-pod",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "audio-latency-tracker",
+      "repo": "https://github.com/navicore/audio-latency-tracker",
+      "language": "Rust"
+    },
+    {
+      "name": "anz",
+      "repo": "https://github.com/navicore/anz",
+      "language": "Rust"
+    },
+    {
+      "name": "akka-dht22",
+      "repo": "https://github.com/navicore/akka-dht22",
+      "language": "Scala"
+    },
+    {
+      "name": "aiindex",
+      "repo": "https://github.com/navicore/aiindex",
+      "language": "Rust"
+    },
+    {
+      "name": "aglio-theme-bluecase",
+      "repo": "https://github.com/navicore/aglio-theme-bluecase",
+      "language": "JavaScript"
+    },
+    {
+      "name": "acs-engine-docker-cli",
+      "repo": "https://github.com/navicore/acs-engine-docker-cli",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "NaviPath",
+      "repo": "https://github.com/navicore/NaviPath",
+      "language": "Scala"
+    },
+    {
+      "name": "zsh-kind",
+      "repo": "https://github.com/navicore/zsh-kind",
+      "language": "Shell"
+    },
+    {
+      "name": "zookeeper",
+      "repo": "https://github.com/navicore/zookeeper",
+      "language": "Shell"
+    },
+    {
+      "name": "zimler",
+      "repo": "https://github.com/navicore/zimler",
+      "language": "Rust"
+    },
+    {
+      "name": "zim-sync",
+      "repo": "https://github.com/navicore/zim-sync",
+      "language": "Swift"
+    },
+    {
+      "name": "zim-studio-nvim",
+      "repo": "https://github.com/navicore/zim-studio-nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "zim-sequencer",
+      "repo": "https://github.com/navicore/zim-sequencer",
+      "language": "Rust"
+    },
+    {
+      "name": "zim-photo",
+      "repo": "https://github.com/navicore/zim-photo",
+      "language": "Rust"
+    },
+    {
+      "name": "zim-dsp",
+      "repo": "https://github.com/navicore/zim-dsp",
+      "language": "Rust"
+    },
+    {
+      "name": "zet.nvim",
+      "repo": "https://github.com/navicore/zet.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "zet-rss.nvim",
+      "repo": "https://github.com/navicore/zet-rss.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "yarn-docker",
+      "repo": "https://github.com/navicore/yarn-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "www.marymargaretsweeney.com",
+      "repo": "https://github.com/navicore/www.marymargaretsweeney.com",
+      "language": "HTML"
+    },
+    {
+      "name": "wasos",
+      "repo": "https://github.com/navicore/wasos",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "vvw",
+      "repo": "https://github.com/navicore/vvw",
+      "language": "Rust"
+    },
+    {
+      "name": "vvdaw-docker",
+      "repo": "https://github.com/navicore/vvdaw-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "vvdaw",
+      "repo": "https://github.com/navicore/vvdaw",
+      "language": "Rust"
+    },
+    {
+      "name": "vissort.vim",
+      "repo": "https://github.com/navicore/vissort.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vis.vim",
+      "repo": "https://github.com/navicore/vis.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "virt",
+      "repo": "https://github.com/navicore/virt",
+      "language": "Swift"
+    },
+    {
+      "name": "twintalk",
+      "repo": "https://github.com/navicore/twintalk",
+      "language": "Rust"
+    },
+    {
+      "name": "twinning",
+      "repo": "https://github.com/navicore/twinning",
+      "language": "Scala"
+    },
+    {
+      "name": "triples-lab-node",
+      "repo": "https://github.com/navicore/triples-lab-node"
+    },
+    {
+      "name": "triples-lab",
+      "repo": "https://github.com/navicore/triples-lab",
+      "language": "Scala"
+    },
+    {
+      "name": "triples-cli",
+      "repo": "https://github.com/navicore/triples-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "trace-eurorack-module",
+      "repo": "https://github.com/navicore/trace-eurorack-module",
+      "language": "Python"
+    },
+    {
+      "name": "tiktoken-scratch",
+      "repo": "https://github.com/navicore/tiktoken-scratch",
+      "language": "Python"
+    },
+    {
+      "name": "tellem-dsl",
+      "repo": "https://github.com/navicore/tellem-dsl",
+      "language": "Scala"
+    },
+    {
+      "name": "supersix-jwt",
+      "repo": "https://github.com/navicore/supersix-jwt",
+      "language": "Scala"
+    },
+    {
+      "name": "supersix-http",
+      "repo": "https://github.com/navicore/supersix-http",
+      "language": "Scala"
+    },
+    {
+      "name": "supersix-akka",
+      "repo": "https://github.com/navicore/supersix-akka",
+      "language": "Scala"
+    },
+    {
+      "name": "spec-service",
+      "repo": "https://github.com/navicore/spec-service",
+      "language": "Rust"
+    },
+    {
+      "name": "spark-structured-streaming-on-azure.g8",
+      "repo": "https://github.com/navicore/spark-structured-streaming-on-azure.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "spark-singlejar-demo-for-dcos",
+      "repo": "https://github.com/navicore/spark-singlejar-demo-for-dcos",
+      "language": "Scala"
+    },
+    {
+      "name": "spark-on-kubernetes",
+      "repo": "https://github.com/navicore/spark-on-kubernetes",
+      "language": "Shell"
+    },
+    {
+      "name": "spark-demos",
+      "repo": "https://github.com/navicore/spark-demos",
+      "language": "Scala"
+    },
+    {
+      "name": "spaceship_game",
+      "repo": "https://github.com/navicore/spaceship_game",
+      "language": "Rust"
+    },
+    {
+      "name": "sjs-hello",
+      "repo": "https://github.com/navicore/sjs-hello",
+      "language": "Scala"
+    },
+    {
+      "name": "sicplings-seq",
+      "repo": "https://github.com/navicore/sicplings-seq",
+      "language": "Rust"
+    },
+    {
+      "name": "shapeless-examples",
+      "repo": "https://github.com/navicore/shapeless-examples",
+      "language": "Scala"
+    },
+    {
+      "name": "sequence-rmd",
+      "repo": "https://github.com/navicore/sequence-rmd",
+      "language": "R"
+    },
+    {
+      "name": "seq-actors",
+      "repo": "https://github.com/navicore/seq-actors",
+      "language": "Rust"
+    },
+    {
+      "name": "seq-actor",
+      "repo": "https://github.com/navicore/seq-actor",
+      "language": "Rust"
+    },
+    {
+      "name": "scratch-cats",
+      "repo": "https://github.com/navicore/scratch-cats",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-ssc-example",
+      "repo": "https://github.com/navicore/sbt-ssc-example"
+    },
+    {
+      "name": "sbjava-mtls-demo",
+      "repo": "https://github.com/navicore/sbjava-mtls-demo",
+      "language": "Shell"
+    },
+    {
+      "name": "sangria-starwars-demo",
+      "repo": "https://github.com/navicore/sangria-starwars-demo",
+      "language": "Scala"
+    }
+  ]
+}

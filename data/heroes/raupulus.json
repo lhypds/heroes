@@ -1,0 +1,547 @@
+{
+  "handle": "raupulus",
+  "name": "Raúl Caro Pastorino",
+  "github": [
+    "https://github.com/raupulus"
+  ],
+  "website": "https://raupulus.dev/",
+  "bio": "Web Developer (Backend). Php, Laravel, mariadb, postgresql, js, vue, python and bash. IoT Lover. Maker. Curious by nature. Debian GNU/Linux.",
+  "own_repos": 132,
+  "commits": 12062,
+  "apps": [],
+  "repos": [
+    {
+      "name": "api-fryntiz",
+      "repo": "https://github.com/raupulus/api-fryntiz",
+      "url": "https://api.fryntiz.dev",
+      "language": "PHP"
+    },
+    {
+      "name": "rpi-pico-weather-station-light-radiation",
+      "repo": "https://github.com/raupulus/rpi-pico-weather-station-light-radiation",
+      "language": "Python"
+    },
+    {
+      "name": "dump1090-to-db",
+      "repo": "https://github.com/raupulus/dump1090-to-db",
+      "url": "https://api.fryntiz.dev/airflight",
+      "language": "PHP"
+    },
+    {
+      "name": "rpi-pico-project-picodisplay2-keycounter-websocket",
+      "repo": "https://github.com/raupulus/rpi-pico-project-picodisplay2-keycounter-websocket",
+      "language": "Python"
+    },
+    {
+      "name": "meshassistant",
+      "repo": "https://github.com/raupulus/meshassistant",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-pico-sensor-lightning-cjmcu-3935",
+      "repo": "https://github.com/raupulus/rpi-pico-sensor-lightning-cjmcu-3935",
+      "language": "Python"
+    },
+    {
+      "name": "python-keycounter",
+      "repo": "https://github.com/raupulus/python-keycounter",
+      "url": "https://api.fryntiz.dev",
+      "language": "Python"
+    },
+    {
+      "name": "esp32-weatherstation-bresser-read-868mhz-cc1101",
+      "repo": "https://github.com/raupulus/esp32-weatherstation-bresser-read-868mhz-cc1101",
+      "language": "C++"
+    },
+    {
+      "name": "rpi-pico-monitor-renogy-rover-li-solar-controller",
+      "repo": "https://github.com/raupulus/rpi-pico-monitor-renogy-rover-li-solar-controller",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-pico-weatherstation-bresser-read-868mhz-cc1101",
+      "repo": "https://github.com/raupulus/rpi-pico-weatherstation-bresser-read-868mhz-cc1101",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-pico-gadget-weatherstation",
+      "repo": "https://github.com/raupulus/rpi-pico-gadget-weatherstation",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-pico-template-project-micropython",
+      "repo": "https://github.com/raupulus/rpi-pico-template-project-micropython",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "www.raupulus.dev",
+      "repo": "https://github.com/raupulus/www.raupulus.dev",
+      "url": "https://raupulus.dev",
+      "language": "Vue"
+    },
+    {
+      "name": "www.odin.fryntiz.dev",
+      "repo": "https://github.com/raupulus/www.odin.fryntiz.dev",
+      "url": "https://odin.fryntiz.dev",
+      "language": "HTML"
+    },
+    {
+      "name": "www.nextproject.raupulus.dev",
+      "repo": "https://github.com/raupulus/www.nextproject.raupulus.dev",
+      "url": "https://nextproject.raupulus.dev"
+    },
+    {
+      "name": "www.eltiempo.desdechipiona.es",
+      "repo": "https://github.com/raupulus/www.eltiempo.desdechipiona.es",
+      "language": "Blade"
+    },
+    {
+      "name": "vue-component-image-cropper",
+      "repo": "https://github.com/raupulus/vue-component-image-cropper",
+      "language": "Vue"
+    },
+    {
+      "name": "tools-server-scripts",
+      "repo": "https://github.com/raupulus/tools-server-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "snippets",
+      "repo": "https://github.com/raupulus/snippets"
+    },
+    {
+      "name": "skeleton-laravel-project",
+      "repo": "https://github.com/raupulus/skeleton-laravel-project",
+      "url": "https://raupulus.dev",
+      "language": "PHP"
+    },
+    {
+      "name": "ShellScript",
+      "repo": "https://github.com/raupulus/ShellScript",
+      "language": "Shell"
+    },
+    {
+      "name": "rpi-pico-energy-monitor",
+      "repo": "https://github.com/raupulus/rpi-pico-energy-monitor",
+      "language": "Python"
+    },
+    {
+      "name": "resources-course-raspberry-pi-pico-w-micropython",
+      "repo": "https://github.com/raupulus/resources-course-raspberry-pi-pico-w-micropython"
+    },
+    {
+      "name": "raspberry-solar-controller-client-to-api",
+      "repo": "https://github.com/raupulus/raspberry-solar-controller-client-to-api",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-sensor-veml6075",
+      "repo": "https://github.com/raupulus/raspberry-sensor-veml6075",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-sensor-veml6070",
+      "repo": "https://github.com/raupulus/raspberry-sensor-veml6070",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-sensor-cjmcu-as3935",
+      "repo": "https://github.com/raupulus/raspberry-sensor-cjmcu-as3935",
+      "url": "https://api.fryntiz.dev",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-sensor-bme680",
+      "repo": "https://github.com/raupulus/raspberry-sensor-bme680",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-project-weather-station",
+      "repo": "https://github.com/raupulus/raspberry-project-weather-station",
+      "url": "https://api.fryntiz.dev",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-display-SSD1306-Oled",
+      "repo": "https://github.com/raupulus/raspberry-display-SSD1306-Oled",
+      "url": "https://fryntiz.es",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-display-MAX7219",
+      "repo": "https://github.com/raupulus/raspberry-display-MAX7219",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-display-HD44780-LCD16x2",
+      "repo": "https://github.com/raupulus/raspberry-display-HD44780-LCD16x2",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "python-serial-lcd-uart-jc22-v05",
+      "repo": "https://github.com/raupulus/python-serial-lcd-uart-jc22-v05",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "nodejs-vuejs-streaming-overlays",
+      "repo": "https://github.com/raupulus/nodejs-vuejs-streaming-overlays",
+      "language": "Vue"
+    },
+    {
+      "name": "laravel-ai-image-gallery",
+      "repo": "https://github.com/raupulus/laravel-ai-image-gallery",
+      "language": "PHP"
+    },
+    {
+      "name": "app-airflight-realtime-chipiona",
+      "repo": "https://github.com/raupulus/app-airflight-realtime-chipiona",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bash-guide-style",
+      "repo": "https://github.com/raupulus/bash-guide-style",
+      "language": "Shell"
+    },
+    {
+      "name": "debian-developer-conf",
+      "repo": "https://github.com/raupulus/debian-developer-conf",
+      "language": "Shell"
+    },
+    {
+      "name": "ai-api-baliza-sos",
+      "repo": "https://github.com/raupulus/ai-api-baliza-sos",
+      "language": "Python"
+    },
+    {
+      "name": "www.jaja.raupulus.dev",
+      "repo": "https://github.com/raupulus/www.jaja.raupulus.dev",
+      "url": "https://jaja.raupulus.dev",
+      "language": "PHP"
+    },
+    {
+      "name": "www.curriculum.raupulus.dev",
+      "repo": "https://github.com/raupulus/www.curriculum.raupulus.dev",
+      "url": "https://curriculum.raupulus.dev",
+      "language": "CSS"
+    },
+    {
+      "name": "smartplant-web",
+      "repo": "https://github.com/raupulus/smartplant-web",
+      "language": "Blade"
+    },
+    {
+      "name": "rpi-pico-smartplant-gadget",
+      "repo": "https://github.com/raupulus/rpi-pico-smartplant-gadget",
+      "language": "Python"
+    },
+    {
+      "name": "javascript-ejercicios-resueltos",
+      "repo": "https://github.com/raupulus/javascript-ejercicios-resueltos",
+      "language": "HTML"
+    },
+    {
+      "name": "python_social_post_publisher",
+      "repo": "https://github.com/raupulus/python_social_post_publisher",
+      "language": "Python"
+    },
+    {
+      "name": "laguialinux.com",
+      "repo": "https://github.com/raupulus/laguialinux.com",
+      "url": "https://laguialinux.com",
+      "language": "Vue"
+    },
+    {
+      "name": "jajaproject_discord_bot",
+      "repo": "https://github.com/raupulus/jajaproject_discord_bot",
+      "url": "https://jaja.raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "python_script_image_optimizer",
+      "repo": "https://github.com/raupulus/python_script_image_optimizer",
+      "language": "Python"
+    },
+    {
+      "name": "raupulus",
+      "repo": "https://github.com/raupulus/raupulus"
+    },
+    {
+      "name": "laguialinux.es",
+      "repo": "https://github.com/raupulus/laguialinux.es",
+      "url": "https://laguialinux.es",
+      "language": "Vue"
+    },
+    {
+      "name": "rpi-pico-simple-websockets-server",
+      "repo": "https://github.com/raupulus/rpi-pico-simple-websockets-server",
+      "url": "https://raupulus.dev/projects",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-pico-watchdog-cryptocoin-prices",
+      "repo": "https://github.com/raupulus/rpi-pico-watchdog-cryptocoin-prices",
+      "language": "Python"
+    },
+    {
+      "name": "rpi-pico-project-ink-paper-gadget",
+      "repo": "https://github.com/raupulus/rpi-pico-project-ink-paper-gadget",
+      "language": "Python"
+    },
+    {
+      "name": "www.social.raupulus.dev",
+      "repo": "https://github.com/raupulus/www.social.raupulus.dev",
+      "url": "https://social.raupulus.dev"
+    },
+    {
+      "name": "rpi-pico-plant-irrigation-system",
+      "repo": "https://github.com/raupulus/rpi-pico-plant-irrigation-system",
+      "language": "Python"
+    },
+    {
+      "name": "python-ai-image-from-api-generator",
+      "repo": "https://github.com/raupulus/python-ai-image-from-api-generator",
+      "language": "Python"
+    },
+    {
+      "name": "python-video-publisher",
+      "repo": "https://github.com/raupulus/python-video-publisher",
+      "language": "Python"
+    },
+    {
+      "name": "app-ionic-weather-station",
+      "repo": "https://github.com/raupulus/app-ionic-weather-station",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ffmpeg-slideshow-from-image-directory",
+      "repo": "https://github.com/raupulus/ffmpeg-slideshow-from-image-directory",
+      "language": "Shell"
+    },
+    {
+      "name": "ionic-vue-iot-fan-switch-button",
+      "repo": "https://github.com/raupulus/ionic-vue-iot-fan-switch-button",
+      "language": "Vue"
+    },
+    {
+      "name": "esp8266-wifi-spam",
+      "repo": "https://github.com/raupulus/esp8266-wifi-spam",
+      "language": "C++"
+    },
+    {
+      "name": "rpi-pico-stepper-28byj-48",
+      "repo": "https://github.com/raupulus/rpi-pico-stepper-28byj-48",
+      "language": "Python"
+    },
+    {
+      "name": "www.fryntiz.es",
+      "repo": "https://github.com/raupulus/www.fryntiz.es",
+      "url": "https://fryntiz.es",
+      "language": "Vue"
+    },
+    {
+      "name": "nuxt3-cms_storeblok-practice",
+      "repo": "https://github.com/raupulus/nuxt3-cms_storeblok-practice",
+      "language": "Vue"
+    },
+    {
+      "name": "esp8266-blockchain-tracing-with-display",
+      "repo": "https://github.com/raupulus/esp8266-blockchain-tracing-with-display",
+      "language": "C++"
+    },
+    {
+      "name": "attiny85-alarm-pir-and-sound",
+      "repo": "https://github.com/raupulus/attiny85-alarm-pir-and-sound",
+      "url": "https://gitlab.com/raupulus/attiny85-alarm-pir-and-sound",
+      "language": "C++"
+    },
+    {
+      "name": "vue-component-weather-chipiona",
+      "repo": "https://github.com/raupulus/vue-component-weather-chipiona",
+      "url": "https://api.fryntiz.dev/weatherstation",
+      "language": "Vue"
+    },
+    {
+      "name": "skeleton-html-tailwindcss",
+      "repo": "https://github.com/raupulus/skeleton-html-tailwindcss",
+      "language": "CSS"
+    },
+    {
+      "name": "arduino-nano-project-clock",
+      "repo": "https://github.com/raupulus/arduino-nano-project-clock",
+      "language": "C++"
+    },
+    {
+      "name": "esp32-smart-bonsai",
+      "repo": "https://github.com/raupulus/esp32-smart-bonsai",
+      "language": "C++"
+    },
+    {
+      "name": "wordpress-api-posts",
+      "repo": "https://github.com/raupulus/wordpress-api-posts",
+      "language": "PHP"
+    },
+    {
+      "name": "raspberry-sensor-cjmcu811",
+      "repo": "https://github.com/raupulus/raspberry-sensor-cjmcu811",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-sensor-anemometer",
+      "repo": "https://github.com/raupulus/raspberry-sensor-anemometer",
+      "language": "Python"
+    },
+    {
+      "name": "raspberry-sensor-bh1750",
+      "repo": "https://github.com/raupulus/raspberry-sensor-bh1750",
+      "language": "Python"
+    },
+    {
+      "name": "nodejs-bot-visit-websites",
+      "repo": "https://github.com/raupulus/nodejs-bot-visit-websites",
+      "language": "JavaScript"
+    },
+    {
+      "name": "javascript-game-snake",
+      "repo": "https://github.com/raupulus/javascript-game-snake",
+      "url": "https://raupulus.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "javascript-library",
+      "repo": "https://github.com/raupulus/javascript-library",
+      "url": "https://raupulus.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-bot-twitter",
+      "repo": "https://github.com/raupulus/python-bot-twitter",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "tool-info-shell-commands",
+      "repo": "https://github.com/raupulus/tool-info-shell-commands",
+      "language": "Shell"
+    },
+    {
+      "name": "git-practice-Git_Inmersion",
+      "repo": "https://github.com/raupulus/git-practice-Git_Inmersion",
+      "language": "Ruby"
+    },
+    {
+      "name": "yii2-php-framework-practice_5",
+      "repo": "https://github.com/raupulus/yii2-php-framework-practice_5",
+      "language": "PHP"
+    },
+    {
+      "name": "yii2-php-framework-practice-despliegue-heroku",
+      "repo": "https://github.com/raupulus/yii2-php-framework-practice-despliegue-heroku",
+      "language": "PHP"
+    },
+    {
+      "name": "php-project-practice-gestion_hostal",
+      "repo": "https://github.com/raupulus/php-project-practice-gestion_hostal",
+      "language": "PHP"
+    },
+    {
+      "name": "www.social.fryntiz.dev",
+      "repo": "https://github.com/raupulus/www.social.fryntiz.dev",
+      "url": "https://social.fryntiz.dev",
+      "language": "HTML"
+    },
+    {
+      "name": "www.curriculum.fryntiz.es",
+      "repo": "https://github.com/raupulus/www.curriculum.fryntiz.es",
+      "url": "https://curriculum.fryntiz.es",
+      "language": "PHP"
+    },
+    {
+      "name": "ionic-template-news",
+      "repo": "https://github.com/raupulus/ionic-template-news",
+      "language": "TypeScript"
+    },
+    {
+      "name": "practicando-nodejs-express-mongodb-vuejs",
+      "repo": "https://github.com/raupulus/practicando-nodejs-express-mongodb-vuejs",
+      "url": "https://raupulus.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vue-component-practices",
+      "repo": "https://github.com/raupulus/vue-component-practices",
+      "url": "https://raupulus.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "python-study",
+      "repo": "https://github.com/raupulus/python-study",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "project-generator",
+      "repo": "https://github.com/raupulus/project-generator",
+      "url": "https://fryntiz.es",
+      "language": "Shell"
+    },
+    {
+      "name": "esp32-thermal-ttl-printer-api-client",
+      "repo": "https://github.com/raupulus/esp32-thermal-ttl-printer-api-client",
+      "language": "C++"
+    },
+    {
+      "name": "typescript-ejercicios-resueltos",
+      "repo": "https://github.com/raupulus/typescript-ejercicios-resueltos",
+      "url": "https://raupulus.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "propuesta-final-daw",
+      "repo": "https://github.com/raupulus/propuesta-final-daw",
+      "language": "PHP"
+    },
+    {
+      "name": "torrentlibre",
+      "repo": "https://github.com/raupulus/torrentlibre",
+      "url": "https://raupulus.github.io/torrentlibre/",
+      "language": "PHP"
+    },
+    {
+      "name": "arduino-uno-ds1307-rtc-i2c",
+      "repo": "https://github.com/raupulus/arduino-uno-ds1307-rtc-i2c",
+      "url": "https://fryntiz.es",
+      "language": "C++"
+    },
+    {
+      "name": "skeleton-vue2-component",
+      "repo": "https://github.com/raupulus/skeleton-vue2-component",
+      "language": "JavaScript"
+    },
+    {
+      "name": "esp32-project-clock",
+      "repo": "https://github.com/raupulus/esp32-project-clock",
+      "language": "C++"
+    },
+    {
+      "name": "fryntiz",
+      "repo": "https://github.com/raupulus/fryntiz",
+      "url": "https://fryntiz.es"
+    },
+    {
+      "name": "python-keylogger",
+      "repo": "https://github.com/raupulus/python-keylogger",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    },
+    {
+      "name": "python-html-to-laravel-blade",
+      "repo": "https://github.com/raupulus/python-html-to-laravel-blade",
+      "url": "https://raupulus.dev",
+      "language": "Python"
+    }
+  ]
+}

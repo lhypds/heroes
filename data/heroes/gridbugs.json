@@ -1,0 +1,505 @@
+{
+  "handle": "gridbugs",
+  "name": "Stephen Sherratt",
+  "github": [
+    "https://github.com/gridbugs"
+  ],
+  "website": "https://gridbugs.org/",
+  "own_repos": 246,
+  "commits": 13176,
+  "apps": [],
+  "repos": [
+    {
+      "name": "subtitle-player",
+      "repo": "https://github.com/gridbugs/subtitle-player",
+      "language": "TypeScript"
+    },
+    {
+      "name": "modular2",
+      "repo": "https://github.com/gridbugs/modular2",
+      "language": "C"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/gridbugs/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "purpleearthhypothesis.com",
+      "repo": "https://github.com/gridbugs/purpleearthhypothesis.com",
+      "language": "HTML"
+    },
+    {
+      "name": "gridbugs.org",
+      "repo": "https://github.com/gridbugs/gridbugs.org",
+      "language": "HTML"
+    },
+    {
+      "name": "arduino-delay",
+      "repo": "https://github.com/gridbugs/arduino-delay",
+      "language": "C"
+    },
+    {
+      "name": "wordwheel",
+      "repo": "https://github.com/gridbugs/wordwheel",
+      "language": "HTML"
+    },
+    {
+      "name": "teensy-minimal-bare-metal",
+      "repo": "https://github.com/gridbugs/teensy-minimal-bare-metal",
+      "language": "C"
+    },
+    {
+      "name": "arduino-dual-dac-mini-sequencer",
+      "repo": "https://github.com/gridbugs/arduino-dual-dac-mini-sequencer",
+      "language": "C"
+    },
+    {
+      "name": "caw",
+      "repo": "https://github.com/gridbugs/caw",
+      "language": "Rust"
+    },
+    {
+      "name": "road-closed",
+      "repo": "https://github.com/gridbugs/road-closed",
+      "language": "Rust"
+    },
+    {
+      "name": "chargrid",
+      "repo": "https://github.com/gridbugs/chargrid",
+      "language": "Rust"
+    },
+    {
+      "name": "grid-2d",
+      "repo": "https://github.com/gridbugs/grid-2d",
+      "language": "Rust"
+    },
+    {
+      "name": "arduino-template",
+      "repo": "https://github.com/gridbugs/arduino-template",
+      "language": "C"
+    },
+    {
+      "name": "caw-notebooks",
+      "repo": "https://github.com/gridbugs/caw-notebooks",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "mirage-dune-experiment",
+      "repo": "https://github.com/gridbugs/mirage-dune-experiment",
+      "language": "OCaml"
+    },
+    {
+      "name": "electric-organ",
+      "repo": "https://github.com/gridbugs/electric-organ",
+      "language": "Rust"
+    },
+    {
+      "name": "visible-area-detection",
+      "repo": "https://github.com/gridbugs/visible-area-detection",
+      "language": "Rust"
+    },
+    {
+      "name": "rgb-int",
+      "repo": "https://github.com/gridbugs/rgb-int",
+      "language": "Rust"
+    },
+    {
+      "name": "perlin2",
+      "repo": "https://github.com/gridbugs/perlin2",
+      "language": "Rust"
+    },
+    {
+      "name": "grid-search",
+      "repo": "https://github.com/gridbugs/grid-search",
+      "language": "Rust"
+    },
+    {
+      "name": "coord-2d",
+      "repo": "https://github.com/gridbugs/coord-2d",
+      "language": "Rust"
+    },
+    {
+      "name": "spatial-table",
+      "repo": "https://github.com/gridbugs/spatial-table",
+      "language": "Rust"
+    },
+    {
+      "name": "shadowcast",
+      "repo": "https://github.com/gridbugs/shadowcast",
+      "language": "Rust"
+    },
+    {
+      "name": "direction",
+      "repo": "https://github.com/gridbugs/direction",
+      "language": "Rust"
+    },
+    {
+      "name": "line-2d",
+      "repo": "https://github.com/gridbugs/line-2d",
+      "language": "Rust"
+    },
+    {
+      "name": "lisp-experiment",
+      "repo": "https://github.com/gridbugs/lisp-experiment",
+      "language": "TypeScript"
+    },
+    {
+      "name": "repro-ocaml-gh14151",
+      "repo": "https://github.com/gridbugs/repro-ocaml-gh14151",
+      "language": "OCaml"
+    },
+    {
+      "name": "climate",
+      "repo": "https://github.com/gridbugs/climate",
+      "language": "OCaml"
+    },
+    {
+      "name": "synth-experiment-rust",
+      "repo": "https://github.com/gridbugs/synth-experiment-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "depend-on-climate",
+      "repo": "https://github.com/gridbugs/depend-on-climate",
+      "language": "OCaml"
+    },
+    {
+      "name": "dot-merlin-experiment",
+      "repo": "https://github.com/gridbugs/dot-merlin-experiment",
+      "language": "Makefile"
+    },
+    {
+      "name": "hello-oxcaml",
+      "repo": "https://github.com/gridbugs/hello-oxcaml",
+      "language": "Dune"
+    },
+    {
+      "name": "ocaml-packaging-experiments",
+      "repo": "https://github.com/gridbugs/ocaml-packaging-experiments",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ocaml-deps-experiment",
+      "repo": "https://github.com/gridbugs/ocaml-deps-experiment",
+      "language": "Shell"
+    },
+    {
+      "name": "icfp2025-ocaml-workshop-talk",
+      "repo": "https://github.com/gridbugs/icfp2025-ocaml-workshop-talk",
+      "language": "HTML"
+    },
+    {
+      "name": "hello-tree-sitter",
+      "repo": "https://github.com/gridbugs/hello-tree-sitter"
+    },
+    {
+      "name": "dune-windows-repros",
+      "repo": "https://github.com/gridbugs/dune-windows-repros",
+      "language": "Dune"
+    },
+    {
+      "name": "dune-pkg-splash2025",
+      "repo": "https://github.com/gridbugs/dune-pkg-splash2025",
+      "language": "TeX"
+    },
+    {
+      "name": "dune-split-opam-repo",
+      "repo": "https://github.com/gridbugs/dune-split-opam-repo"
+    },
+    {
+      "name": "dune-12248-repro",
+      "repo": "https://github.com/gridbugs/dune-12248-repro",
+      "language": "Dune"
+    },
+    {
+      "name": "dune-completion-scripts",
+      "repo": "https://github.com/gridbugs/dune-completion-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "chargrid-roguelike-tutorial-2020",
+      "repo": "https://github.com/gridbugs/chargrid-roguelike-tutorial-2020",
+      "language": "Rust"
+    },
+    {
+      "name": "llama",
+      "repo": "https://github.com/gridbugs/llama",
+      "language": "OCaml"
+    },
+    {
+      "name": "spice",
+      "repo": "https://github.com/gridbugs/spice"
+    },
+    {
+      "name": "bevy-caw-experiment",
+      "repo": "https://github.com/gridbugs/bevy-caw-experiment",
+      "language": "Rust"
+    },
+    {
+      "name": "briefcase-synth",
+      "repo": "https://github.com/gridbugs/briefcase-synth",
+      "language": "C"
+    },
+    {
+      "name": "scope-creep",
+      "repo": "https://github.com/gridbugs/scope-creep",
+      "language": "Rust"
+    },
+    {
+      "name": "scope-creep-with-drums",
+      "repo": "https://github.com/gridbugs/scope-creep-with-drums",
+      "language": "Rust"
+    },
+    {
+      "name": "hello-ao",
+      "repo": "https://github.com/gridbugs/hello-ao",
+      "language": "OCaml"
+    },
+    {
+      "name": "archipelago-notes",
+      "repo": "https://github.com/gridbugs/archipelago-notes"
+    },
+    {
+      "name": "hello-claudius",
+      "repo": "https://github.com/gridbugs/hello-claudius",
+      "language": "OCaml"
+    },
+    {
+      "name": "oscillographics-cube",
+      "repo": "https://github.com/gridbugs/oscillographics-cube",
+      "language": "Rust"
+    },
+    {
+      "name": "mspaint95",
+      "repo": "https://github.com/gridbugs/mspaint95",
+      "language": "TypeScript"
+    },
+    {
+      "name": "marquee-de-lafayette",
+      "repo": "https://github.com/gridbugs/marquee-de-lafayette",
+      "language": "HTML"
+    },
+    {
+      "name": "rgb24",
+      "repo": "https://github.com/gridbugs/rgb24",
+      "language": "Rust"
+    },
+    {
+      "name": "zmk-config",
+      "repo": "https://github.com/gridbugs/zmk-config"
+    },
+    {
+      "name": "advent-of-code-2024",
+      "repo": "https://github.com/gridbugs/advent-of-code-2024",
+      "language": "Rust"
+    },
+    {
+      "name": "dockerfiles",
+      "repo": "https://github.com/gridbugs/dockerfiles",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "small-wolf",
+      "repo": "https://github.com/gridbugs/small-wolf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ocaml-chat",
+      "repo": "https://github.com/gridbugs/ocaml-chat",
+      "language": "Dune"
+    },
+    {
+      "name": "hello-dream",
+      "repo": "https://github.com/gridbugs/hello-dream",
+      "language": "OCaml"
+    },
+    {
+      "name": "rip",
+      "repo": "https://github.com/gridbugs/rip",
+      "language": "Rust"
+    },
+    {
+      "name": "rainforest",
+      "repo": "https://github.com/gridbugs/rainforest",
+      "language": "Rust"
+    },
+    {
+      "name": "orbital-decay",
+      "repo": "https://github.com/gridbugs/orbital-decay",
+      "language": "Rust"
+    },
+    {
+      "name": "slime99",
+      "repo": "https://github.com/gridbugs/slime99",
+      "language": "Rust"
+    },
+    {
+      "name": "ocaml-binary-dev-tools",
+      "repo": "https://github.com/gridbugs/ocaml-binary-dev-tools",
+      "language": "Nix"
+    },
+    {
+      "name": "dune-checked-in-lockdir-experiment",
+      "repo": "https://github.com/gridbugs/dune-checked-in-lockdir-experiment",
+      "language": "OCaml"
+    },
+    {
+      "name": "depend-on-bonsai",
+      "repo": "https://github.com/gridbugs/depend-on-bonsai",
+      "language": "Shell"
+    },
+    {
+      "name": "gridbugs.org-zola",
+      "repo": "https://github.com/gridbugs/gridbugs.org-zola",
+      "language": "HTML"
+    },
+    {
+      "name": "old-webgl-shader-demos",
+      "repo": "https://github.com/gridbugs/old-webgl-shader-demos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust-meetup-2024-05-28-caw-demo",
+      "repo": "https://github.com/gridbugs/rust-meetup-2024-05-28-caw-demo"
+    },
+    {
+      "name": "wfc",
+      "repo": "https://github.com/gridbugs/wfc",
+      "url": "https://gridbugs.org/wave-function-collapse/",
+      "language": "Rust"
+    },
+    {
+      "name": "dune-pkg-dockerfiles",
+      "repo": "https://github.com/gridbugs/dune-pkg-dockerfiles",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "general-audio",
+      "repo": "https://github.com/gridbugs/general-audio",
+      "language": "Rust"
+    },
+    {
+      "name": "oneshot-webserver-app",
+      "repo": "https://github.com/gridbugs/oneshot-webserver-app",
+      "language": "Makefile"
+    },
+    {
+      "name": "oneshot-webserver",
+      "repo": "https://github.com/gridbugs/oneshot-webserver",
+      "language": "Makefile"
+    },
+    {
+      "name": "best",
+      "repo": "https://github.com/gridbugs/best",
+      "language": "Rust"
+    },
+    {
+      "name": "7drl-template-2024",
+      "repo": "https://github.com/gridbugs/7drl-template-2024",
+      "language": "Rust"
+    },
+    {
+      "name": "dune-pkg-dashboard",
+      "repo": "https://github.com/gridbugs/dune-pkg-dashboard",
+      "language": "Shell"
+    },
+    {
+      "name": "dune-mkdir-crash-repro",
+      "repo": "https://github.com/gridbugs/dune-mkdir-crash-repro",
+      "language": "OCaml"
+    },
+    {
+      "name": "dune-pkg-csexp-dep",
+      "repo": "https://github.com/gridbugs/dune-pkg-csexp-dep",
+      "language": "OCaml"
+    },
+    {
+      "name": "text-paint",
+      "repo": "https://github.com/gridbugs/text-paint",
+      "language": "Rust"
+    },
+    {
+      "name": "hello-teensy",
+      "repo": "https://github.com/gridbugs/hello-teensy",
+      "language": "C++"
+    },
+    {
+      "name": "minimal-oneshot-webserver",
+      "repo": "https://github.com/gridbugs/minimal-oneshot-webserver",
+      "language": "OCaml"
+    },
+    {
+      "name": "generative-music-experiment",
+      "repo": "https://github.com/gridbugs/generative-music-experiment",
+      "language": "Rust"
+    },
+    {
+      "name": "ocaml-monorepo-benchmark-old",
+      "repo": "https://github.com/gridbugs/ocaml-monorepo-benchmark-old",
+      "language": "OCaml"
+    },
+    {
+      "name": "arduino-sequencer",
+      "repo": "https://github.com/gridbugs/arduino-sequencer",
+      "language": "C"
+    },
+    {
+      "name": "synth-jupyter",
+      "repo": "https://github.com/gridbugs/synth-jupyter",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "hackmd-posts",
+      "repo": "https://github.com/gridbugs/hackmd-posts"
+    },
+    {
+      "name": "arduino-midi-controller1",
+      "repo": "https://github.com/gridbugs/arduino-midi-controller1",
+      "language": "C++"
+    },
+    {
+      "name": "llama-opam-overlay",
+      "repo": "https://github.com/gridbugs/llama-opam-overlay"
+    },
+    {
+      "name": "ocaml-ecosystem-surprises",
+      "repo": "https://github.com/gridbugs/ocaml-ecosystem-surprises"
+    },
+    {
+      "name": "arduino-oscillator",
+      "repo": "https://github.com/gridbugs/arduino-oscillator",
+      "language": "C"
+    },
+    {
+      "name": "arduino-nano-led-chaser",
+      "repo": "https://github.com/gridbugs/arduino-nano-led-chaser",
+      "language": "C"
+    },
+    {
+      "name": "arduino-bit-banged-audio",
+      "repo": "https://github.com/gridbugs/arduino-bit-banged-audio",
+      "language": "C"
+    },
+    {
+      "name": "gridbugs",
+      "repo": "https://github.com/gridbugs/gridbugs",
+      "language": "Rust"
+    },
+    {
+      "name": "meap",
+      "repo": "https://github.com/gridbugs/meap",
+      "language": "Rust"
+    },
+    {
+      "name": "boat-journey",
+      "repo": "https://github.com/gridbugs/boat-journey",
+      "language": "Rust"
+    },
+    {
+      "name": "dune-monorepo-bench",
+      "repo": "https://github.com/gridbugs/dune-monorepo-bench",
+      "language": "Dockerfile"
+    }
+  ]
+}

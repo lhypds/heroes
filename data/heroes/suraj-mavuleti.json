@@ -1,0 +1,514 @@
+{
+  "handle": "suraj-mavuleti",
+  "name": "Suraj Mavuleti",
+  "github": [
+    "https://github.com/suraj-mavuleti"
+  ],
+  "website": "https://zero.skillissue.gg/",
+  "bio": "Creator & Software Developer | Founder of Zero | Building apps that solve real problems. 🌐 Check out my portfolio: zero.skillissue.gg",
+  "own_repos": 145,
+  "commits": 13613,
+  "apps": [],
+  "repos": [
+    {
+      "name": "zero-pdf-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-pdf-windows",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-pdf-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-pdf-mac",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-pdf-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-pdf-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-pdf-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-pdf-arch-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-browser-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-browser-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-browser-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-browser-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-browser-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-browser-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-browser-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-browser-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-paint-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-paint-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-paint-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-paint-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-code-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-code-arch-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-code-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-code-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-code-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-code-mac",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-code-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-code-windows",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-mail-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mail-arch-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-mail-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mail-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-mail-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mail-mac",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-mail-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mail-windows",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-note-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-note-arch-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-note-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-note-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-note-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-note-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-note-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-note-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-ppt-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-ppt-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-ppt-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-ppt-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-ppt-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-ppt-mac",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-ppt-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-ppt-windows",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-xlsx-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-xlsx-arch-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-xlsx-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-xlsx-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-xlsx-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-xlsx-mac",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-xlsx-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-xlsx-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-docx-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-docx-arch-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-docx-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-docx-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-docx-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-docx-mac",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-docx-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-docx-windows",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-calc-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-calc-arch-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-calc-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-calc-linux",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-calc-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-calc-mac",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-calc-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-calc-windows",
+      "language": "Rust"
+    },
+    {
+      "name": "zero-mesh-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mesh-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-mesh-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mesh-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-physics-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-physics-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-physics-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-physics-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-wasm-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-wasm-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-wasm-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-wasm-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-mesh-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mesh-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-wasm-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-wasm-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-physics-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-physics-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-tsdb-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-tsdb-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-wasm-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-wasm-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-tsdb-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-tsdb-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-tsdb-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-tsdb-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-tsdb-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-tsdb-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-lang-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-lang-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-lang-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-lang-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-lang-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-lang-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-lang-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-lang-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-vector-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-vector-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-vector-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-vector-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-vector-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-vector-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-vector-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-vector-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-paint-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-paint-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-paint-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-paint-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-mesh-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-mesh-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-plasma-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-plasma-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-plasma-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-plasma-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-plasma-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-plasma-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-plasma-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-plasma-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-spike-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-spike-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-spike-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-spike-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-spike-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-spike-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-codec-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-codec-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-codec-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-codec-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-codec-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-codec-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-spike-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-spike-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-codec-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-codec-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-kinematics-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-kinematics-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-kinematics-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-kinematics-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-decompile-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-decompile-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-decompile-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-decompile-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-decompile-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-decompile-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-kinematics-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-kinematics-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-kinematics-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-kinematics-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-decompile-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-decompile-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-fhe-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-fhe-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-fhe-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-fhe-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-fhe-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-fhe-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-fhe-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-fhe-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-genome-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-genome-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-genome-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-genome-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-genome-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-genome-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-genome-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-genome-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-exchange-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-exchange-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-exchange-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-exchange-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-exchange-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-exchange-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-exchange-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-exchange-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-orbit-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-orbit-arch-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-orbit-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-orbit-linux",
+      "language": "Python"
+    },
+    {
+      "name": "zero-orbit-mac",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-orbit-mac",
+      "language": "Python"
+    },
+    {
+      "name": "zero-orbit-windows",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-orbit-windows",
+      "language": "Python"
+    },
+    {
+      "name": "zero-quantum-arch-linux",
+      "repo": "https://github.com/Suraj-Mavuleti/zero-quantum-arch-linux",
+      "language": "Python"
+    }
+  ]
+}

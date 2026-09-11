@@ -1,0 +1,523 @@
+{
+  "handle": "suzuki-shunsuke",
+  "name": "Shunsuke Suzuki",
+  "github": [
+    "https://github.com/suzuki-shunsuke"
+  ],
+  "website": "https://suzuki-shunsuke.github.io/profile/",
+  "bio": "Platform Engineer / OSS Developer / Go",
+  "own_repos": 474,
+  "commits": 17880,
+  "apps": [],
+  "repos": [
+    {
+      "name": "slides",
+      "repo": "https://github.com/suzuki-shunsuke/slides",
+      "language": "CSS"
+    },
+    {
+      "name": "go-pr-diff",
+      "repo": "https://github.com/suzuki-shunsuke/go-pr-diff",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/go-pr-diff",
+      "language": "Go"
+    },
+    {
+      "name": "ghtkn-go-sdk",
+      "repo": "https://github.com/suzuki-shunsuke/ghtkn-go-sdk",
+      "url": "https://github.com/suzuki-shunsuke/ghtkn",
+      "language": "Go"
+    },
+    {
+      "name": "notify-bot-pr-event-action",
+      "repo": "https://github.com/suzuki-shunsuke/notify-bot-pr-event-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "update-pr-branch-action",
+      "repo": "https://github.com/suzuki-shunsuke/update-pr-branch-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "commit-action",
+      "repo": "https://github.com/suzuki-shunsuke/commit-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pinact-action",
+      "repo": "https://github.com/suzuki-shunsuke/pinact-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-app-jwt-aws-kms-ts",
+      "repo": "https://github.com/suzuki-shunsuke/github-app-jwt-aws-kms-ts",
+      "url": "https://jsr.io/@suzuki-shunsuke/github-app-jwt-aws-kms",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-skills",
+      "repo": "https://github.com/suzuki-shunsuke/agent-skills",
+      "language": "Shell"
+    },
+    {
+      "name": "yamledit",
+      "repo": "https://github.com/suzuki-shunsuke/yamledit",
+      "language": "Go"
+    },
+    {
+      "name": "ghaperf",
+      "repo": "https://github.com/suzuki-shunsuke/ghaperf",
+      "language": "Go"
+    },
+    {
+      "name": "pinact",
+      "repo": "https://github.com/suzuki-shunsuke/pinact",
+      "language": "Go"
+    },
+    {
+      "name": "docfresh",
+      "repo": "https://github.com/suzuki-shunsuke/docfresh",
+      "language": "Go"
+    },
+    {
+      "name": "ghir",
+      "repo": "https://github.com/suzuki-shunsuke/ghir",
+      "language": "Go"
+    },
+    {
+      "name": "create-github-app-token-aws-kms",
+      "repo": "https://github.com/suzuki-shunsuke/create-github-app-token-aws-kms",
+      "url": "https://github.com/marketplace/actions/github-app-token-with-aws-kms",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghtkn",
+      "repo": "https://github.com/suzuki-shunsuke/ghtkn",
+      "language": "Go"
+    },
+    {
+      "name": "actions-aws-oidc-ts",
+      "repo": "https://github.com/suzuki-shunsuke/actions-aws-oidc-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-parse-gh-generate-release-note",
+      "repo": "https://github.com/suzuki-shunsuke/go-parse-gh-generate-release-note",
+      "language": "Go"
+    },
+    {
+      "name": "github-app-token.ts",
+      "repo": "https://github.com/suzuki-shunsuke/github-app-token.ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-yamledit",
+      "repo": "https://github.com/suzuki-shunsuke/go-yamledit",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/go-yamledit/yamledit",
+      "language": "Go"
+    },
+    {
+      "name": "tfaction",
+      "repo": "https://github.com/suzuki-shunsuke/tfaction",
+      "url": "https://suzuki-shunsuke.github.io/tfaction/docs/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mkghtag",
+      "repo": "https://github.com/suzuki-shunsuke/mkghtag",
+      "language": "Go"
+    },
+    {
+      "name": "github-comment",
+      "repo": "https://github.com/suzuki-shunsuke/github-comment",
+      "url": "https://suzuki-shunsuke.github.io/github-comment/",
+      "language": "Go"
+    },
+    {
+      "name": "ci-info-action",
+      "repo": "https://github.com/suzuki-shunsuke/ci-info-action"
+    },
+    {
+      "name": "tfcmt",
+      "repo": "https://github.com/suzuki-shunsuke/tfcmt",
+      "url": "https://suzuki-shunsuke.github.io/tfcmt/",
+      "language": "Go"
+    },
+    {
+      "name": "release-js-action",
+      "repo": "https://github.com/suzuki-shunsuke/release-js-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghcp",
+      "repo": "https://github.com/suzuki-shunsuke/ghcp",
+      "language": "Go"
+    },
+    {
+      "name": "gh-pages-action",
+      "repo": "https://github.com/suzuki-shunsuke/gh-pages-action",
+      "url": "https://github.com/marketplace/actions/github-pages-release-action"
+    },
+    {
+      "name": "ghatm",
+      "repo": "https://github.com/suzuki-shunsuke/ghatm",
+      "language": "Go"
+    },
+    {
+      "name": "tfprovidercheck",
+      "repo": "https://github.com/suzuki-shunsuke/tfprovidercheck",
+      "language": "Go"
+    },
+    {
+      "name": "go-autofix-action",
+      "repo": "https://github.com/suzuki-shunsuke/go-autofix-action",
+      "language": "Go"
+    },
+    {
+      "name": "github-action-renovate-config-validator",
+      "repo": "https://github.com/suzuki-shunsuke/github-action-renovate-config-validator",
+      "url": "https://github.com/marketplace/actions/validate-renovate-configuration-with-renovate-config-validator"
+    },
+    {
+      "name": "actionlint-action-main",
+      "repo": "https://github.com/suzuki-shunsuke/actionlint-action-main"
+    },
+    {
+      "name": "cmdx",
+      "repo": "https://github.com/suzuki-shunsuke/cmdx",
+      "language": "Go"
+    },
+    {
+      "name": "go-test-full-workflow",
+      "repo": "https://github.com/suzuki-shunsuke/go-test-full-workflow"
+    },
+    {
+      "name": "disable-checkout-persist-credentials",
+      "repo": "https://github.com/suzuki-shunsuke/disable-checkout-persist-credentials",
+      "language": "Go"
+    },
+    {
+      "name": "renovate-autoclose-action",
+      "repo": "https://github.com/suzuki-shunsuke/renovate-autoclose-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slog-util",
+      "repo": "https://github.com/suzuki-shunsuke/slog-util",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/slog-util",
+      "language": "Go"
+    },
+    {
+      "name": "ci-info",
+      "repo": "https://github.com/suzuki-shunsuke/ci-info",
+      "language": "Go"
+    },
+    {
+      "name": "nllint",
+      "repo": "https://github.com/suzuki-shunsuke/nllint",
+      "language": "Go"
+    },
+    {
+      "name": "go-dataeq",
+      "repo": "https://github.com/suzuki-shunsuke/go-dataeq",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/go-dataeq/dataeq",
+      "language": "Go"
+    },
+    {
+      "name": "go-error-with-exit-code",
+      "repo": "https://github.com/suzuki-shunsuke/go-error-with-exit-code",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/go-error-with-exit-code/ecerror",
+      "language": "Go"
+    },
+    {
+      "name": "oss-contribution-guide",
+      "repo": "https://github.com/suzuki-shunsuke/oss-contribution-guide"
+    },
+    {
+      "name": "ghproj",
+      "repo": "https://github.com/suzuki-shunsuke/ghproj",
+      "language": "Go"
+    },
+    {
+      "name": "go-osenv",
+      "repo": "https://github.com/suzuki-shunsuke/go-osenv",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/go-osenv",
+      "language": "Go"
+    },
+    {
+      "name": "go-ci-env",
+      "repo": "https://github.com/suzuki-shunsuke/go-ci-env",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/go-ci-env/cienv",
+      "language": "Go"
+    },
+    {
+      "name": "asciinema-trim",
+      "repo": "https://github.com/suzuki-shunsuke/asciinema-trim",
+      "language": "Go"
+    },
+    {
+      "name": "go-stdutil",
+      "repo": "https://github.com/suzuki-shunsuke/go-stdutil",
+      "language": "Go"
+    },
+    {
+      "name": "sort-issue-template",
+      "repo": "https://github.com/suzuki-shunsuke/sort-issue-template",
+      "language": "Go"
+    },
+    {
+      "name": "rgo",
+      "repo": "https://github.com/suzuki-shunsuke/rgo",
+      "language": "Go"
+    },
+    {
+      "name": "go-exec",
+      "repo": "https://github.com/suzuki-shunsuke/go-exec",
+      "language": "Go"
+    },
+    {
+      "name": "monitor-gh-follower-action",
+      "repo": "https://github.com/suzuki-shunsuke/monitor-gh-follower-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "urfave-cli-v3-util",
+      "repo": "https://github.com/suzuki-shunsuke/urfave-cli-v3-util",
+      "language": "Go"
+    },
+    {
+      "name": "github-action-actionlint",
+      "repo": "https://github.com/suzuki-shunsuke/github-action-actionlint"
+    },
+    {
+      "name": "ghalint",
+      "repo": "https://github.com/suzuki-shunsuke/ghalint",
+      "language": "Go"
+    },
+    {
+      "name": "flute",
+      "repo": "https://github.com/suzuki-shunsuke/flute",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/flute/flute",
+      "language": "Go"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/suzuki-shunsuke/renovate-config",
+      "language": "Jsonnet"
+    },
+    {
+      "name": "update-pr-branch-ts",
+      "repo": "https://github.com/suzuki-shunsuke/update-pr-branch-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-test-workflow",
+      "repo": "https://github.com/suzuki-shunsuke/go-test-workflow",
+      "language": "Go"
+    },
+    {
+      "name": "ghwhapp",
+      "repo": "https://github.com/suzuki-shunsuke/ghwhapp",
+      "language": "Go"
+    },
+    {
+      "name": "go-findconfig",
+      "repo": "https://github.com/suzuki-shunsuke/go-findconfig",
+      "language": "Go"
+    },
+    {
+      "name": "go-convmap",
+      "repo": "https://github.com/suzuki-shunsuke/go-convmap",
+      "url": "https://pkg.go.dev/github.com/suzuki-shunsuke/go-convmap/convmap",
+      "language": "Go"
+    },
+    {
+      "name": "ghomfc",
+      "repo": "https://github.com/suzuki-shunsuke/ghomfc",
+      "language": "Go"
+    },
+    {
+      "name": "github-comment-metadata",
+      "repo": "https://github.com/suzuki-shunsuke/github-comment-metadata",
+      "language": "Go"
+    },
+    {
+      "name": "verify-go-asset-action",
+      "repo": "https://github.com/suzuki-shunsuke/verify-go-asset-action"
+    },
+    {
+      "name": "tfmv",
+      "repo": "https://github.com/suzuki-shunsuke/tfmv",
+      "language": "Go"
+    },
+    {
+      "name": "commit-ts",
+      "repo": "https://github.com/suzuki-shunsuke/commit-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-action-shellcheck",
+      "repo": "https://github.com/suzuki-shunsuke/github-action-shellcheck",
+      "language": "Shell"
+    },
+    {
+      "name": "go-release-workflow",
+      "repo": "https://github.com/suzuki-shunsuke/go-release-workflow"
+    },
+    {
+      "name": "validate-pr-review-app",
+      "repo": "https://github.com/suzuki-shunsuke/validate-pr-review-app",
+      "language": "Go"
+    },
+    {
+      "name": "guide-github-action-renovate",
+      "repo": "https://github.com/suzuki-shunsuke/guide-github-action-renovate",
+      "url": "https://suzuki-shunsuke.github.io/guide-github-action-renovate/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "terraform-aws-tfaction",
+      "repo": "https://github.com/suzuki-shunsuke/terraform-aws-tfaction",
+      "url": "https://github.com/suzuki-shunsuke/tfaction",
+      "language": "HCL"
+    },
+    {
+      "name": "lock-action",
+      "repo": "https://github.com/suzuki-shunsuke/lock-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "get-pr-action",
+      "repo": "https://github.com/suzuki-shunsuke/get-pr-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aws-secrets-manager-get-action",
+      "repo": "https://github.com/suzuki-shunsuke/aws-secrets-manager-get-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pr-unified-diff-action",
+      "repo": "https://github.com/suzuki-shunsuke/pr-unified-diff-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tfrstate",
+      "repo": "https://github.com/suzuki-shunsuke/tfrstate",
+      "language": "Go"
+    },
+    {
+      "name": "go-github-device-flow",
+      "repo": "https://github.com/suzuki-shunsuke/go-github-device-flow",
+      "language": "Go"
+    },
+    {
+      "name": "gen-go-jsonschema",
+      "repo": "https://github.com/suzuki-shunsuke/gen-go-jsonschema",
+      "language": "Go"
+    },
+    {
+      "name": "profile",
+      "repo": "https://github.com/suzuki-shunsuke/profile",
+      "url": "https://suzuki-shunsuke.github.io/profile/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tfaction-example",
+      "repo": "https://github.com/suzuki-shunsuke/tfaction-example",
+      "url": "https://github.com/suzuki-shunsuke/tfaction",
+      "language": "HCL"
+    },
+    {
+      "name": "cobra-util",
+      "repo": "https://github.com/suzuki-shunsuke/cobra-util",
+      "language": "Go"
+    },
+    {
+      "name": "set-up-repo",
+      "repo": "https://github.com/suzuki-shunsuke/set-up-repo",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-tfcmt",
+      "repo": "https://github.com/suzuki-shunsuke/homebrew-tfcmt",
+      "url": "https://github.com/suzuki-shunsuke/tfcmt",
+      "language": "Ruby"
+    },
+    {
+      "name": "ossf-scorecard-workflow",
+      "repo": "https://github.com/suzuki-shunsuke/ossf-scorecard-workflow"
+    },
+    {
+      "name": "go-retryablehttp-logrus",
+      "repo": "https://github.com/suzuki-shunsuke/go-retryablehttp-logrus",
+      "language": "Go"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/suzuki-shunsuke/scoop-bucket"
+    },
+    {
+      "name": "homebrew-ghtkn",
+      "repo": "https://github.com/suzuki-shunsuke/homebrew-ghtkn",
+      "url": "https://github.com/suzuki-shunsuke/ghtkn",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-action-terraform-init",
+      "repo": "https://github.com/suzuki-shunsuke/github-action-terraform-init"
+    },
+    {
+      "name": "actionlint-action",
+      "repo": "https://github.com/suzuki-shunsuke/actionlint-action"
+    },
+    {
+      "name": "nllint-action",
+      "repo": "https://github.com/suzuki-shunsuke/nllint-action"
+    },
+    {
+      "name": "github-action-golangci-lint",
+      "repo": "https://github.com/suzuki-shunsuke/github-action-golangci-lint",
+      "language": "Go"
+    },
+    {
+      "name": "slog-error",
+      "repo": "https://github.com/suzuki-shunsuke/slog-error",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-docfresh",
+      "repo": "https://github.com/suzuki-shunsuke/homebrew-docfresh",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-ghaperf",
+      "repo": "https://github.com/suzuki-shunsuke/homebrew-ghaperf",
+      "url": "https://github.com/suzuki-shunsuke/ghaperf",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-ghir",
+      "repo": "https://github.com/suzuki-shunsuke/homebrew-ghir",
+      "url": "https://github.com/suzuki-shunsuke/ghir",
+      "language": "Ruby"
+    },
+    {
+      "name": "homebrew-pinact",
+      "repo": "https://github.com/suzuki-shunsuke/homebrew-pinact",
+      "language": "Ruby"
+    },
+    {
+      "name": "go-revoke-github-access-token",
+      "repo": "https://github.com/suzuki-shunsuke/go-revoke-github-access-token",
+      "language": "Go"
+    },
+    {
+      "name": "verify-tag-action",
+      "repo": "https://github.com/suzuki-shunsuke/verify-tag-action"
+    },
+    {
+      "name": "release-doc-action",
+      "repo": "https://github.com/suzuki-shunsuke/release-doc-action"
+    }
+  ]
+}

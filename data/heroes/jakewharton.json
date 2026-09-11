@@ -1,0 +1,518 @@
+{
+  "handle": "jakewharton",
+  "name": "Jake Wharton",
+  "github": [
+    "https://github.com/jakewharton"
+  ],
+  "website": "https://jakewharton.com/",
+  "own_repos": 142,
+  "commits": 11472,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dependency-watch",
+      "repo": "https://github.com/JakeWharton/dependency-watch",
+      "language": "Kotlin"
+    },
+    {
+      "name": "jakewharton.com",
+      "repo": "https://github.com/JakeWharton/jakewharton.com",
+      "url": "https://jakewharton.com",
+      "language": "HTML"
+    },
+    {
+      "name": "prerelease-testing",
+      "repo": "https://github.com/JakeWharton/prerelease-testing"
+    },
+    {
+      "name": "mosaic",
+      "repo": "https://github.com/JakeWharton/mosaic",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kmp-missing-targets",
+      "repo": "https://github.com/JakeWharton/kmp-missing-targets",
+      "url": "https://jakewharton.github.io/kmp-missing-targets/docs/0.x/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "finalization-hook",
+      "repo": "https://github.com/JakeWharton/finalization-hook",
+      "language": "Kotlin"
+    },
+    {
+      "name": "hardcover-data-sync",
+      "repo": "https://github.com/JakeWharton/hardcover-data-sync",
+      "language": "Kotlin"
+    },
+    {
+      "name": "timber",
+      "repo": "https://github.com/JakeWharton/timber",
+      "url": "https://jakewharton.github.io/timber/docs/5.x/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ProcessPhoenix",
+      "repo": "https://github.com/JakeWharton/ProcessPhoenix",
+      "language": "Java"
+    },
+    {
+      "name": "diffuse",
+      "repo": "https://github.com/JakeWharton/diffuse",
+      "language": "Kotlin"
+    },
+    {
+      "name": "cite",
+      "repo": "https://github.com/JakeWharton/cite",
+      "language": "Kotlin"
+    },
+    {
+      "name": "radarr-folder-fixer",
+      "repo": "https://github.com/JakeWharton/radarr-folder-fixer",
+      "language": "Kotlin"
+    },
+    {
+      "name": "gitout",
+      "repo": "https://github.com/JakeWharton/gitout",
+      "language": "Kotlin"
+    },
+    {
+      "name": "composeui-lightswitch",
+      "repo": "https://github.com/JakeWharton/composeui-lightswitch",
+      "url": "https://youtu.be/D0P5Lb-2uCY",
+      "language": "C"
+    },
+    {
+      "name": "plex-auto-trash",
+      "repo": "https://github.com/JakeWharton/plex-auto-trash",
+      "language": "Kotlin"
+    },
+    {
+      "name": "plex-orphaned-files",
+      "repo": "https://github.com/JakeWharton/plex-orphaned-files",
+      "language": "Kotlin"
+    },
+    {
+      "name": "confundus",
+      "repo": "https://github.com/JakeWharton/confundus",
+      "language": "Kotlin"
+    },
+    {
+      "name": "cardiologist",
+      "repo": "https://github.com/JakeWharton/cardiologist",
+      "url": "https://jakewharton.github.io/cardiologist/docs/0.x/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "PosterBox",
+      "repo": "https://github.com/JakeWharton/PosterBox",
+      "language": "Kotlin"
+    },
+    {
+      "name": "singular-solution",
+      "repo": "https://github.com/JakeWharton/singular-solution",
+      "language": "Kotlin"
+    },
+    {
+      "name": "dependency-tree-diff",
+      "repo": "https://github.com/JakeWharton/dependency-tree-diff",
+      "language": "Kotlin"
+    },
+    {
+      "name": "qbt-seed-type",
+      "repo": "https://github.com/JakeWharton/qbt-seed-type",
+      "language": "Python"
+    },
+    {
+      "name": "picnic",
+      "repo": "https://github.com/JakeWharton/picnic",
+      "language": "Kotlin"
+    },
+    {
+      "name": "qbt-tracker-hound",
+      "repo": "https://github.com/JakeWharton/qbt-tracker-hound",
+      "language": "Python"
+    },
+    {
+      "name": "crossword",
+      "repo": "https://github.com/JakeWharton/crossword",
+      "language": "Kotlin"
+    },
+    {
+      "name": "qbt-orphaned-downloads",
+      "repo": "https://github.com/JakeWharton/qbt-orphaned-downloads",
+      "language": "Python"
+    },
+    {
+      "name": "flip-tables",
+      "repo": "https://github.com/JakeWharton/flip-tables",
+      "language": "Java"
+    },
+    {
+      "name": "shimo",
+      "repo": "https://github.com/JakeWharton/shimo",
+      "language": "Java"
+    },
+    {
+      "name": "dumbo",
+      "repo": "https://github.com/JakeWharton/dumbo",
+      "language": "Kotlin"
+    },
+    {
+      "name": "video-swatch",
+      "repo": "https://github.com/JakeWharton/video-swatch",
+      "language": "Kotlin"
+    },
+    {
+      "name": "test-distribution-gradle-plugin",
+      "repo": "https://github.com/JakeWharton/test-distribution-gradle-plugin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/JakeWharton/renovate-config"
+    },
+    {
+      "name": "RxReplayingShare",
+      "repo": "https://github.com/JakeWharton/RxReplayingShare",
+      "language": "Java"
+    },
+    {
+      "name": "RxWindowIfChanged",
+      "repo": "https://github.com/JakeWharton/RxWindowIfChanged",
+      "language": "Java"
+    },
+    {
+      "name": "RxRelay",
+      "repo": "https://github.com/JakeWharton/RxRelay",
+      "language": "Java"
+    },
+    {
+      "name": "dalvik-dx",
+      "repo": "https://github.com/JakeWharton/dalvik-dx",
+      "url": "https://jakewharton.github.io/dalvik-dx/docs/latest/",
+      "language": "Java"
+    },
+    {
+      "name": "dir-stepper",
+      "repo": "https://github.com/JakeWharton/dir-stepper",
+      "language": "Kotlin"
+    },
+    {
+      "name": "uniqtoo",
+      "repo": "https://github.com/JakeWharton/uniqtoo",
+      "language": "Rust"
+    },
+    {
+      "name": "multiproject-refactors",
+      "repo": "https://github.com/JakeWharton/multiproject-refactors"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/JakeWharton/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-repo",
+      "repo": "https://github.com/JakeWharton/homebrew-repo",
+      "language": "Ruby"
+    },
+    {
+      "name": "ThreeTenABP",
+      "repo": "https://github.com/JakeWharton/ThreeTenABP",
+      "language": "Java"
+    },
+    {
+      "name": "byteunits",
+      "repo": "https://github.com/JakeWharton/byteunits",
+      "language": "Kotlin"
+    },
+    {
+      "name": "SaveArchived4Pocket",
+      "repo": "https://github.com/JakeWharton/SaveArchived4Pocket",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kmp-other-languages-sample",
+      "repo": "https://github.com/JakeWharton/kmp-other-languages-sample",
+      "language": "C++"
+    },
+    {
+      "name": "assertk-migrator",
+      "repo": "https://github.com/JakeWharton/assertk-migrator",
+      "language": "Kotlin"
+    },
+    {
+      "name": "platform-collections",
+      "repo": "https://github.com/JakeWharton/platform-collections",
+      "url": "https://jakewharton.github.io/platform-collections/docs/latest/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "okhttp-idling-resource",
+      "repo": "https://github.com/JakeWharton/okhttp-idling-resource",
+      "language": "Java"
+    },
+    {
+      "name": "asciinema-vsync",
+      "repo": "https://github.com/JakeWharton/asciinema-vsync",
+      "language": "Kotlin"
+    },
+    {
+      "name": "scatter-map-fuzzer",
+      "repo": "https://github.com/JakeWharton/scatter-map-fuzzer",
+      "language": "Kotlin"
+    },
+    {
+      "name": "trakt-ratings-remover",
+      "repo": "https://github.com/JakeWharton/trakt-ratings-remover",
+      "language": "Kotlin"
+    },
+    {
+      "name": "pidcat",
+      "repo": "https://github.com/JakeWharton/pidcat",
+      "language": "Python"
+    },
+    {
+      "name": "docker-gphotos-sync",
+      "repo": "https://github.com/JakeWharton/docker-gphotos-sync",
+      "url": "https://hub.docker.com/r/jakewharton/gphotos-sync",
+      "language": "Shell"
+    },
+    {
+      "name": "retrofit2-kotlinx-serialization-converter",
+      "repo": "https://github.com/JakeWharton/retrofit2-kotlinx-serialization-converter",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ui-spy",
+      "repo": "https://github.com/JakeWharton/ui-spy",
+      "language": "Kotlin"
+    },
+    {
+      "name": "twirl-maven-plugin",
+      "repo": "https://github.com/JakeWharton/twirl-maven-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "butterknife",
+      "repo": "https://github.com/JakeWharton/butterknife",
+      "language": "Java"
+    },
+    {
+      "name": "paraphrase",
+      "repo": "https://github.com/JakeWharton/paraphrase",
+      "language": "Java"
+    },
+    {
+      "name": "u2020",
+      "repo": "https://github.com/JakeWharton/u2020",
+      "url": "https://www.youtube.com/watch?v=0XHx9jtxIxU",
+      "language": "Java"
+    },
+    {
+      "name": "dodo",
+      "repo": "https://github.com/JakeWharton/dodo",
+      "language": "Kotlin"
+    },
+    {
+      "name": "docker-mbsync",
+      "repo": "https://github.com/JakeWharton/docker-mbsync",
+      "url": "https://hub.docker.com/r/jakewharton/mbsync/",
+      "language": "Shell"
+    },
+    {
+      "name": "adb-event-mirror",
+      "repo": "https://github.com/JakeWharton/adb-event-mirror",
+      "language": "Kotlin"
+    },
+    {
+      "name": "SdkSearch",
+      "repo": "https://github.com/JakeWharton/SdkSearch",
+      "language": "Kotlin"
+    },
+    {
+      "name": "hugo",
+      "repo": "https://github.com/JakeWharton/hugo",
+      "language": "Java"
+    },
+    {
+      "name": "NormallyClosed",
+      "repo": "https://github.com/JakeWharton/NormallyClosed",
+      "language": "Rust"
+    },
+    {
+      "name": "RxBinding",
+      "repo": "https://github.com/JakeWharton/RxBinding",
+      "language": "Kotlin"
+    },
+    {
+      "name": "retrofit2-reactor-adapter",
+      "repo": "https://github.com/JakeWharton/retrofit2-reactor-adapter",
+      "language": "Java"
+    },
+    {
+      "name": "mkvdts2ac3",
+      "repo": "https://github.com/JakeWharton/mkvdts2ac3",
+      "language": "Shell"
+    },
+    {
+      "name": "dagger-reflect",
+      "repo": "https://github.com/JakeWharton/dagger-reflect",
+      "language": "Java"
+    },
+    {
+      "name": "qbt-tracker-renamer",
+      "repo": "https://github.com/JakeWharton/qbt-tracker-renamer",
+      "language": "Python"
+    },
+    {
+      "name": "picasso2-okhttp3-downloader",
+      "repo": "https://github.com/JakeWharton/picasso2-okhttp3-downloader",
+      "language": "Java"
+    },
+    {
+      "name": "dockerfile-shebang",
+      "repo": "https://github.com/JakeWharton/dockerfile-shebang",
+      "language": "Shell"
+    },
+    {
+      "name": "Telecine",
+      "repo": "https://github.com/JakeWharton/Telecine",
+      "language": "Java"
+    },
+    {
+      "name": "jax-rs-kotlinx-serialization",
+      "repo": "https://github.com/JakeWharton/jax-rs-kotlinx-serialization",
+      "language": "Kotlin"
+    },
+    {
+      "name": "nopen",
+      "repo": "https://github.com/JakeWharton/nopen",
+      "language": "Java"
+    },
+    {
+      "name": "agp-java-support",
+      "repo": "https://github.com/JakeWharton/agp-java-support",
+      "language": "Java"
+    },
+    {
+      "name": "wormhole",
+      "repo": "https://github.com/JakeWharton/wormhole",
+      "language": "Kotlin"
+    },
+    {
+      "name": "DiskLruCache",
+      "repo": "https://github.com/JakeWharton/DiskLruCache",
+      "language": "Java"
+    },
+    {
+      "name": "scalpel",
+      "repo": "https://github.com/JakeWharton/scalpel",
+      "language": "Java"
+    },
+    {
+      "name": "kotterknife",
+      "repo": "https://github.com/JakeWharton/kotterknife",
+      "language": "Kotlin"
+    },
+    {
+      "name": "decorp",
+      "repo": "https://github.com/JakeWharton/decorp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "google-maven-exploder",
+      "repo": "https://github.com/JakeWharton/google-maven-exploder",
+      "language": "Kotlin"
+    },
+    {
+      "name": "retrofit2-kotlin-coroutines-adapter",
+      "repo": "https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter",
+      "language": "Kotlin"
+    },
+    {
+      "name": "OverloadReturn",
+      "repo": "https://github.com/JakeWharton/OverloadReturn",
+      "language": "Kotlin"
+    },
+    {
+      "name": "libcore-dex",
+      "repo": "https://github.com/JakeWharton/libcore-dex",
+      "language": "Shell"
+    },
+    {
+      "name": "gradle-like-bazel",
+      "repo": "https://github.com/JakeWharton/gradle-like-bazel",
+      "language": "Java"
+    },
+    {
+      "name": "AutoValueAnnotations",
+      "repo": "https://github.com/JakeWharton/AutoValueAnnotations",
+      "language": "Shell"
+    },
+    {
+      "name": "Reagent",
+      "repo": "https://github.com/JakeWharton/Reagent",
+      "language": "Kotlin"
+    },
+    {
+      "name": "ViewPagerIndicator",
+      "repo": "https://github.com/JakeWharton/ViewPagerIndicator",
+      "language": "Java"
+    },
+    {
+      "name": "DrawerBehavior",
+      "repo": "https://github.com/JakeWharton/DrawerBehavior",
+      "language": "Java"
+    },
+    {
+      "name": "jax-rs-moshi",
+      "repo": "https://github.com/JakeWharton/jax-rs-moshi",
+      "language": "Java"
+    },
+    {
+      "name": "sdk-artifact-sync",
+      "repo": "https://github.com/JakeWharton/sdk-artifact-sync",
+      "language": "Python"
+    },
+    {
+      "name": "retrofit2-rxjava2-adapter",
+      "repo": "https://github.com/JakeWharton/retrofit2-rxjava2-adapter"
+    },
+    {
+      "name": "tools-apksig",
+      "repo": "https://github.com/JakeWharton/tools-apksig"
+    },
+    {
+      "name": "PxJava",
+      "repo": "https://github.com/JakeWharton/PxJava",
+      "language": "Kotlin"
+    },
+    {
+      "name": "sdk-manager-plugin",
+      "repo": "https://github.com/JakeWharton/sdk-manager-plugin",
+      "language": "Groovy"
+    },
+    {
+      "name": "jquery-maven-artifact",
+      "repo": "https://github.com/JakeWharton/jquery-maven-artifact",
+      "language": "HTML"
+    },
+    {
+      "name": "jardiff",
+      "repo": "https://github.com/JakeWharton/jardiff",
+      "language": "Python"
+    },
+    {
+      "name": "madge",
+      "repo": "https://github.com/JakeWharton/madge",
+      "language": "Java"
+    },
+    {
+      "name": "NineOldAndroids",
+      "repo": "https://github.com/JakeWharton/NineOldAndroids",
+      "language": "Java"
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "handle": "geerlingguy",
+  "name": "Jeff Geerling",
+  "github": [
+    "https://github.com/geerlingguy"
+  ],
+  "website": "https://www.jeffgeerling.com/",
+  "bio": "Father, author, developer, maker. Sometimes called \"an inflammatory enigma\". #stl #drupal #ansible #k8s #raspberrypi #crohns",
+  "own_repos": 279,
+  "commits": 17047,
+  "apps": [],
+  "repos": [
+    {
+      "name": "temperature-monitor",
+      "repo": "https://github.com/geerlingguy/temperature-monitor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vcfmw21-map",
+      "repo": "https://github.com/geerlingguy/vcfmw21-map",
+      "url": "https://geerlingguy.github.io/vcfmw21-map/",
+      "language": "HTML"
+    },
+    {
+      "name": "BigClock-Classic",
+      "repo": "https://github.com/geerlingguy/BigClock-Classic",
+      "language": "C"
+    },
+    {
+      "name": "jeffgeerling-com",
+      "repo": "https://github.com/geerlingguy/jeffgeerling-com",
+      "url": "https://www.jeffgeerling.com",
+      "language": "HTML"
+    },
+    {
+      "name": "time-pi",
+      "repo": "https://github.com/geerlingguy/time-pi",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-security",
+      "repo": "https://github.com/geerlingguy/ansible-role-security",
+      "url": "https://galaxy.ansible.com/geerlingguy/security/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-puppet",
+      "repo": "https://github.com/geerlingguy/ansible-role-puppet",
+      "url": "https://galaxy.ansible.com/geerlingguy/puppet/"
+    },
+    {
+      "name": "ansible-role-postgresql",
+      "repo": "https://github.com/geerlingguy/ansible-role-postgresql",
+      "url": "https://galaxy.ansible.com/geerlingguy/postgresql/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-php-xdebug",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-xdebug",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-xdebug/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-php",
+      "repo": "https://github.com/geerlingguy/ansible-role-php",
+      "url": "https://galaxy.ansible.com/geerlingguy/php/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-nodejs",
+      "repo": "https://github.com/geerlingguy/ansible-role-nodejs",
+      "url": "https://galaxy.ansible.com/geerlingguy/nodejs/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-kubernetes",
+      "repo": "https://github.com/geerlingguy/ansible-role-kubernetes",
+      "url": "https://galaxy.ansible.com/geerlingguy/kubernetes/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-jenkins",
+      "repo": "https://github.com/geerlingguy/ansible-role-jenkins",
+      "url": "https://galaxy.ansible.com/geerlingguy/jenkins/",
+      "language": "Groovy"
+    },
+    {
+      "name": "ansible-role-go",
+      "repo": "https://github.com/geerlingguy/ansible-role-go",
+      "url": "https://galaxy.ansible.com/geerlingguy/go"
+    },
+    {
+      "name": "ansible-role-fathom",
+      "repo": "https://github.com/geerlingguy/ansible-role-fathom",
+      "url": "https://galaxy.ansible.com/geerlingguy/fathom",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-composer",
+      "repo": "https://github.com/geerlingguy/ansible-role-composer",
+      "url": "https://galaxy.ansible.com/geerlingguy/composer/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-apache",
+      "repo": "https://github.com/geerlingguy/ansible-role-apache",
+      "url": "https://galaxy.ansible.com/geerlingguy/apache/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-ntp",
+      "repo": "https://github.com/geerlingguy/ansible-role-ntp",
+      "url": "https://galaxy.ansible.com/geerlingguy/ntp/",
+      "language": "Jinja"
+    },
+    {
+      "name": "youtube",
+      "repo": "https://github.com/geerlingguy/youtube",
+      "url": "https://www.youtube.com/c/JeffGeerling",
+      "language": "Python"
+    },
+    {
+      "name": "densitron-lcd",
+      "repo": "https://github.com/geerlingguy/densitron-lcd",
+      "language": "Python"
+    },
+    {
+      "name": "mini-rack",
+      "repo": "https://github.com/geerlingguy/mini-rack"
+    },
+    {
+      "name": "internet-pi",
+      "repo": "https://github.com/geerlingguy/internet-pi",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-solr",
+      "repo": "https://github.com/geerlingguy/ansible-role-solr",
+      "url": "https://galaxy.ansible.com/geerlingguy/solr/"
+    },
+    {
+      "name": "ansible-role-docker",
+      "repo": "https://github.com/geerlingguy/ansible-role-docker",
+      "url": "https://galaxy.ansible.com/geerlingguy/docker/"
+    },
+    {
+      "name": "ansible-role-nginx",
+      "repo": "https://github.com/geerlingguy/ansible-role-nginx",
+      "url": "https://galaxy.ansible.com/geerlingguy/nginx/",
+      "language": "Jinja"
+    },
+    {
+      "name": "mac-dev-playbook",
+      "repo": "https://github.com/geerlingguy/mac-dev-playbook",
+      "language": "Shell"
+    },
+    {
+      "name": "beowulf-ai-cluster",
+      "repo": "https://github.com/geerlingguy/beowulf-ai-cluster",
+      "language": "Jinja"
+    },
+    {
+      "name": "top500-benchmark",
+      "repo": "https://github.com/geerlingguy/top500-benchmark",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-kibana",
+      "repo": "https://github.com/geerlingguy/ansible-role-kibana",
+      "url": "https://galaxy.ansible.com/geerlingguy/kibana/",
+      "language": "Jinja"
+    },
+    {
+      "name": "sbc-reviews",
+      "repo": "https://github.com/geerlingguy/sbc-reviews",
+      "url": "https://sbc-reviews.jeffgeerling.com/",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-mysql",
+      "repo": "https://github.com/geerlingguy/ansible-role-mysql",
+      "url": "https://galaxy.ansible.com/geerlingguy/mysql/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-swap",
+      "repo": "https://github.com/geerlingguy/ansible-role-swap",
+      "url": "https://galaxy.ansible.com/geerlingguy/swap/"
+    },
+    {
+      "name": "ansible-role-certbot",
+      "repo": "https://github.com/geerlingguy/ansible-role-certbot",
+      "url": "https://galaxy.ansible.com/geerlingguy/certbot/",
+      "language": "Shell"
+    },
+    {
+      "name": "pps-watch-gpsmon",
+      "repo": "https://github.com/geerlingguy/pps-watch-gpsmon",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-role-php-versions",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-versions",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-versions/"
+    },
+    {
+      "name": "tufty-gps-time",
+      "repo": "https://github.com/geerlingguy/tufty-gps-time",
+      "language": "HTML"
+    },
+    {
+      "name": "ansible-role-elasticsearch",
+      "repo": "https://github.com/geerlingguy/ansible-role-elasticsearch",
+      "url": "https://galaxy.ansible.com/geerlingguy/elasticsearch/",
+      "language": "Jinja"
+    },
+    {
+      "name": "docker-fedora44-ansible",
+      "repo": "https://github.com/geerlingguy/docker-fedora44-ansible",
+      "url": "https://hub.docker.com/r/geerlingguy/docker-fedora44-ansible",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ansible-role-munin",
+      "repo": "https://github.com/geerlingguy/ansible-role-munin",
+      "url": "https://galaxy.ansible.com/geerlingguy/munin/",
+      "language": "Jinja"
+    },
+    {
+      "name": "raspberry-pi-pcie-devices",
+      "repo": "https://github.com/geerlingguy/raspberry-pi-pcie-devices",
+      "language": "HTML"
+    },
+    {
+      "name": "final-cut-it-out",
+      "repo": "https://github.com/geerlingguy/final-cut-it-out",
+      "language": "JavaScript"
+    },
+    {
+      "name": "arm-nas",
+      "repo": "https://github.com/geerlingguy/arm-nas",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-repo-epel",
+      "repo": "https://github.com/geerlingguy/ansible-role-repo-epel",
+      "url": "https://galaxy.ansible.com/geerlingguy/repo-epel/"
+    },
+    {
+      "name": "pi-kiosk",
+      "repo": "https://github.com/geerlingguy/pi-kiosk",
+      "language": "Shell"
+    },
+    {
+      "name": "airgradient-prometheus",
+      "repo": "https://github.com/geerlingguy/airgradient-prometheus",
+      "language": "C++"
+    },
+    {
+      "name": "retro-computers",
+      "repo": "https://github.com/geerlingguy/retro-computers"
+    },
+    {
+      "name": "pi-isp",
+      "repo": "https://github.com/geerlingguy/pi-isp",
+      "language": "Jinja"
+    },
+    {
+      "name": "pi-router",
+      "repo": "https://github.com/geerlingguy/pi-router",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ansible-role-java",
+      "repo": "https://github.com/geerlingguy/ansible-role-java",
+      "url": "https://galaxy.ansible.com/geerlingguy/java/",
+      "language": "Jinja"
+    },
+    {
+      "name": "docker-ubuntu2604-ansible",
+      "repo": "https://github.com/geerlingguy/docker-ubuntu2604-ansible",
+      "url": "https://hub.docker.com/r/geerlingguy/docker-ubuntu2604-ansible",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "pi-cluster",
+      "repo": "https://github.com/geerlingguy/pi-cluster",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-github-users",
+      "repo": "https://github.com/geerlingguy/ansible-role-github-users",
+      "url": "https://galaxy.ansible.com/geerlingguy/github-users/"
+    },
+    {
+      "name": "pi-nvr",
+      "repo": "https://github.com/geerlingguy/pi-nvr",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ansible-role-postfix",
+      "repo": "https://github.com/geerlingguy/ansible-role-postfix",
+      "url": "https://galaxy.ansible.com/geerlingguy/postfix/"
+    },
+    {
+      "name": "ansible-role-raspberry-pi",
+      "repo": "https://github.com/geerlingguy/ansible-role-raspberry-pi",
+      "url": "https://galaxy.ansible.com/geerlingguy/raspberry-pi/"
+    },
+    {
+      "name": "ansible-role-pip",
+      "repo": "https://github.com/geerlingguy/ansible-role-pip",
+      "url": "https://galaxy.ansible.com/geerlingguy/pip/"
+    },
+    {
+      "name": "ansible-collection-mac",
+      "repo": "https://github.com/geerlingguy/ansible-collection-mac",
+      "url": "https://galaxy.ansible.com/geerlingguy/mac",
+      "language": "Shell"
+    },
+    {
+      "name": "drupal-pi",
+      "repo": "https://github.com/geerlingguy/drupal-pi",
+      "url": "https://www.pidramble.com",
+      "language": "Jinja"
+    },
+    {
+      "name": "docker-fedora43-ansible",
+      "repo": "https://github.com/geerlingguy/docker-fedora43-ansible",
+      "url": "https://hub.docker.com/r/geerlingguy/docker-fedora43-ansible",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ansible-role-filebeat",
+      "repo": "https://github.com/geerlingguy/ansible-role-filebeat",
+      "url": "https://galaxy.ansible.com/geerlingguy/filebeat/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-rabbitmq",
+      "repo": "https://github.com/geerlingguy/ansible-role-rabbitmq",
+      "url": "https://galaxy.ansible.com/geerlingguy/rabbitmq/",
+      "language": "Jinja"
+    },
+    {
+      "name": "shelly-plug-prometheus",
+      "repo": "https://github.com/geerlingguy/shelly-plug-prometheus",
+      "language": "PHP"
+    },
+    {
+      "name": "ansible-role-samba",
+      "repo": "https://github.com/geerlingguy/ansible-role-samba",
+      "url": "https://galaxy.ansible.com/geerlingguy/samba/"
+    },
+    {
+      "name": "packer-boxes",
+      "repo": "https://github.com/geerlingguy/packer-boxes",
+      "url": "https://app.vagrantup.com/geerlingguy",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-packer_rhel",
+      "repo": "https://github.com/geerlingguy/ansible-role-packer_rhel",
+      "url": "https://galaxy.ansible.com/geerlingguy/packer_rhel/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-haproxy",
+      "repo": "https://github.com/geerlingguy/ansible-role-haproxy",
+      "url": "https://galaxy.ansible.com/geerlingguy/haproxy/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-exim",
+      "repo": "https://github.com/geerlingguy/ansible-role-exim",
+      "url": "https://galaxy.ansible.com/geerlingguy/exim/"
+    },
+    {
+      "name": "ansible-role-munin-node",
+      "repo": "https://github.com/geerlingguy/ansible-role-munin-node",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/geerlingguy/munin-node/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-mailhog",
+      "repo": "https://github.com/geerlingguy/ansible-role-mailhog",
+      "url": "https://galaxy.ansible.com/geerlingguy/mailhog/",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-logstash",
+      "repo": "https://github.com/geerlingguy/ansible-role-logstash",
+      "url": "https://galaxy.ansible.com/geerlingguy/logstash/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-k8s_manifests",
+      "repo": "https://github.com/geerlingguy/ansible-role-k8s_manifests",
+      "url": "https://galaxy.ansible.com/geerlingguy/k8s_manifests"
+    },
+    {
+      "name": "ansible-role-memcached",
+      "repo": "https://github.com/geerlingguy/ansible-role-memcached",
+      "url": "https://galaxy.ansible.com/geerlingguy/memcached/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-git",
+      "repo": "https://github.com/geerlingguy/ansible-role-git",
+      "url": "https://galaxy.ansible.com/geerlingguy/git/"
+    },
+    {
+      "name": "ansible-role-hdparm",
+      "repo": "https://github.com/geerlingguy/ansible-role-hdparm",
+      "url": "https://galaxy.ansible.com/geerlingguy/hdparm/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-php-pear",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-pear",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-pear/"
+    },
+    {
+      "name": "ansible-role-php-pgsql",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-pgsql",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-pgsql/"
+    },
+    {
+      "name": "ansible-role-nfs",
+      "repo": "https://github.com/geerlingguy/ansible-role-nfs",
+      "url": "https://galaxy.ansible.com/geerlingguy/nfs/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-containerd",
+      "repo": "https://github.com/geerlingguy/ansible-role-containerd",
+      "url": "https://galaxy.ansible.com/geerlingguy/containerd"
+    },
+    {
+      "name": "ansible-role-ruby",
+      "repo": "https://github.com/geerlingguy/ansible-role-ruby",
+      "url": "https://galaxy.ansible.com/geerlingguy/ruby/",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-drush",
+      "repo": "https://github.com/geerlingguy/ansible-role-drush",
+      "url": "https://galaxy.ansible.com/geerlingguy/drush/"
+    },
+    {
+      "name": "ansible-role-redis",
+      "repo": "https://github.com/geerlingguy/ansible-role-redis",
+      "url": "https://galaxy.ansible.com/geerlingguy/redis/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-varnish",
+      "repo": "https://github.com/geerlingguy/ansible-role-varnish",
+      "url": "https://galaxy.ansible.com/geerlingguy/varnish/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-svn2git",
+      "repo": "https://github.com/geerlingguy/ansible-role-svn2git",
+      "url": "https://galaxy.ansible.com/geerlingguy/svn2git/"
+    },
+    {
+      "name": "ansible-role-svn",
+      "repo": "https://github.com/geerlingguy/ansible-role-svn",
+      "url": "https://galaxy.ansible.com/geerlingguy/svn/",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-supervisor",
+      "repo": "https://github.com/geerlingguy/ansible-role-supervisor",
+      "url": "https://galaxy.ansible.com/geerlingguy/supervisor/",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-ssh-chroot-jail",
+      "repo": "https://github.com/geerlingguy/ansible-role-ssh-chroot-jail",
+      "url": "https://galaxy.ansible.com/geerlingguy/ssh-chroot-jail/",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-role-sanoid",
+      "repo": "https://github.com/geerlingguy/ansible-role-sanoid",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/geerlingguy/sanoid/"
+    },
+    {
+      "name": "ansible-role-repo-remi",
+      "repo": "https://github.com/geerlingguy/ansible-role-repo-remi",
+      "url": "https://galaxy.ansible.com/geerlingguy/repo-remi/"
+    },
+    {
+      "name": "ansible-role-php-xhprof",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-xhprof",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-xhprof/",
+      "language": "PHP"
+    },
+    {
+      "name": "ansible-role-php-redis",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-redis",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-redis/",
+      "language": "PHP"
+    },
+    {
+      "name": "ansible-role-php-pecl",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-pecl",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-pecl/",
+      "language": "PHP"
+    },
+    {
+      "name": "ansible-role-php-memcached",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-memcached",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-memcached/",
+      "language": "PHP"
+    },
+    {
+      "name": "ansible-role-php-mysql",
+      "repo": "https://github.com/geerlingguy/ansible-role-php-mysql",
+      "url": "https://galaxy.ansible.com/geerlingguy/php-mysql/"
+    },
+    {
+      "name": "ansible-role-passenger",
+      "repo": "https://github.com/geerlingguy/ansible-role-passenger",
+      "url": "https://galaxy.ansible.com/geerlingguy/passenger/",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-packer",
+      "repo": "https://github.com/geerlingguy/ansible-role-packer",
+      "url": "https://galaxy.ansible.com/geerlingguy/packer/"
+    },
+    {
+      "name": "ansible-role-packer-debian",
+      "repo": "https://github.com/geerlingguy/ansible-role-packer-debian",
+      "url": "https://galaxy.ansible.com/geerlingguy/packer-debian/"
+    },
+    {
+      "name": "ansible-role-nut_client",
+      "repo": "https://github.com/geerlingguy/ansible-role-nut_client",
+      "url": "https://galaxy.ansible.com/ui/standalone/roles/geerlingguy/nut_client/"
+    },
+    {
+      "name": "ansible-role-node_exporter",
+      "repo": "https://github.com/geerlingguy/ansible-role-node_exporter",
+      "url": "https://galaxy.ansible.com/geerlingguy/node_exporter",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-role-htpasswd",
+      "repo": "https://github.com/geerlingguy/ansible-role-htpasswd",
+      "url": "https://galaxy.ansible.com/geerlingguy/htpasswd"
+    },
+    {
+      "name": "ansible-role-helm",
+      "repo": "https://github.com/geerlingguy/ansible-role-helm",
+      "url": "https://galaxy.ansible.com/geerlingguy/helm"
+    }
+  ]
+}

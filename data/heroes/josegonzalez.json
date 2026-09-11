@@ -1,0 +1,513 @@
+{
+  "handle": "josegonzalez",
+  "name": "Jose Diaz-Gonzalez",
+  "github": [
+    "https://github.com/josegonzalez"
+  ],
+  "own_repos": 194,
+  "commits": 10961,
+  "apps": [],
+  "repos": [
+    {
+      "name": "static-admin",
+      "repo": "https://github.com/josegonzalez/static-admin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "minui-keyboard",
+      "repo": "https://github.com/josegonzalez/minui-keyboard",
+      "language": "C"
+    },
+    {
+      "name": "minui-list",
+      "repo": "https://github.com/josegonzalez/minui-list",
+      "language": "C"
+    },
+    {
+      "name": "minui-presenter",
+      "repo": "https://github.com/josegonzalez/minui-presenter",
+      "language": "C"
+    },
+    {
+      "name": "minui-pico-8-pak",
+      "repo": "https://github.com/josegonzalez/minui-pico-8-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-n64-pak",
+      "repo": "https://github.com/josegonzalez/minui-n64-pak",
+      "language": "C"
+    },
+    {
+      "name": "minui-nintendo-ds-pak",
+      "repo": "https://github.com/josegonzalez/minui-nintendo-ds-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "service-skeleton",
+      "repo": "https://github.com/josegonzalez/service-skeleton",
+      "language": "Go"
+    },
+    {
+      "name": "kubectl-eso",
+      "repo": "https://github.com/josegonzalez/kubectl-eso",
+      "language": "Go"
+    },
+    {
+      "name": "sm",
+      "repo": "https://github.com/josegonzalez/sm",
+      "language": "Go"
+    },
+    {
+      "name": "cli-skeleton",
+      "repo": "https://github.com/josegonzalez/cli-skeleton",
+      "language": "Go"
+    },
+    {
+      "name": "memory-leak-reloader",
+      "repo": "https://github.com/josegonzalez/memory-leak-reloader",
+      "language": "Go"
+    },
+    {
+      "name": "hotswap-operator",
+      "repo": "https://github.com/josegonzalez/hotswap-operator",
+      "language": "Go"
+    },
+    {
+      "name": "pakman",
+      "repo": "https://github.com/josegonzalez/pakman",
+      "language": "Makefile"
+    },
+    {
+      "name": "atuin-web",
+      "repo": "https://github.com/josegonzalez/atuin-web",
+      "language": "Rust"
+    },
+    {
+      "name": "gmail-categorizer",
+      "repo": "https://github.com/josegonzalez/gmail-categorizer",
+      "language": "Go"
+    },
+    {
+      "name": "nomad-event-logger",
+      "repo": "https://github.com/josegonzalez/nomad-event-logger",
+      "language": "Go"
+    },
+    {
+      "name": "josegonzalez.github.io",
+      "repo": "https://github.com/josegonzalez/josegonzalez.github.io",
+      "url": "https://josediazgonzalez.com",
+      "language": "HTML"
+    },
+    {
+      "name": "josediazgonzalez.com",
+      "repo": "https://github.com/josegonzalez/josediazgonzalez.com",
+      "language": "HTML"
+    },
+    {
+      "name": "python-gitlab-backup",
+      "repo": "https://github.com/josegonzalez/python-gitlab-backup",
+      "language": "Python"
+    },
+    {
+      "name": "python-github-backup",
+      "repo": "https://github.com/josegonzalez/python-github-backup",
+      "language": "Python"
+    },
+    {
+      "name": "git-issue-branch",
+      "repo": "https://github.com/josegonzalez/git-issue-branch",
+      "language": "Go"
+    },
+    {
+      "name": "minui-toolchain-images",
+      "repo": "https://github.com/josegonzalez/minui-toolchain-images",
+      "url": "https://hub.docker.com/r/savant/minui-toolchain/"
+    },
+    {
+      "name": "git-main",
+      "repo": "https://github.com/josegonzalez/git-main",
+      "language": "Go"
+    },
+    {
+      "name": "pico8-data-extractor",
+      "repo": "https://github.com/josegonzalez/pico8-data-extractor",
+      "language": "Go"
+    },
+    {
+      "name": "sshd-config",
+      "repo": "https://github.com/josegonzalez/sshd-config",
+      "language": "Go"
+    },
+    {
+      "name": "go-avahi-register",
+      "repo": "https://github.com/josegonzalez/go-avahi-register",
+      "language": "Go"
+    },
+    {
+      "name": "compiled-termsp",
+      "repo": "https://github.com/josegonzalez/compiled-termsp",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "minui-btntest",
+      "repo": "https://github.com/josegonzalez/minui-btntest",
+      "language": "C"
+    },
+    {
+      "name": "compiled-evtest",
+      "repo": "https://github.com/josegonzalez/compiled-evtest",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ssh-keychain",
+      "repo": "https://github.com/josegonzalez/ssh-keychain",
+      "language": "Swift"
+    },
+    {
+      "name": "compiled-dropbear",
+      "repo": "https://github.com/josegonzalez/compiled-dropbear",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "minui-map-txt-creator",
+      "repo": "https://github.com/josegonzalez/minui-map-txt-creator",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-repo",
+      "repo": "https://github.com/josegonzalez/homebrew-repo",
+      "language": "Shell"
+    },
+    {
+      "name": "shellbyexample.com",
+      "repo": "https://github.com/josegonzalez/shellbyexample.com",
+      "url": "https://shellbyexample.com/",
+      "language": "Go"
+    },
+    {
+      "name": "minui-screenshot-monitor-pak",
+      "repo": "https://github.com/josegonzalez/minui-screenshot-monitor-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-remote-terminal-pak",
+      "repo": "https://github.com/josegonzalez/minui-remote-terminal-pak",
+      "language": "JavaScript"
+    },
+    {
+      "name": "minui-sftpgo-server-pak",
+      "repo": "https://github.com/josegonzalez/minui-sftpgo-server-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-artwork-scraper-pak",
+      "repo": "https://github.com/josegonzalez/minui-artwork-scraper-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-syncthing-pak",
+      "repo": "https://github.com/josegonzalez/minui-syncthing-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "libretro-image-matching-server",
+      "repo": "https://github.com/josegonzalez/libretro-image-matching-server",
+      "language": "Python"
+    },
+    {
+      "name": "minui-ftpserver-pak",
+      "repo": "https://github.com/josegonzalez/minui-ftpserver-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-report-pak",
+      "repo": "https://github.com/josegonzalez/minui-report-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-dufs-server-pak",
+      "repo": "https://github.com/josegonzalez/minui-dufs-server-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-wifi-pak",
+      "repo": "https://github.com/josegonzalez/minui-wifi-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-compiled-binaries",
+      "repo": "https://github.com/josegonzalez/minui-compiled-binaries",
+      "language": "JavaScript"
+    },
+    {
+      "name": "minui-filebrowser-pak",
+      "repo": "https://github.com/josegonzalez/minui-filebrowser-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-terminal-pak",
+      "repo": "https://github.com/josegonzalez/minui-terminal-pak",
+      "language": "Makefile"
+    },
+    {
+      "name": "minui-random-game-pak",
+      "repo": "https://github.com/josegonzalez/minui-random-game-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-dreamcast-pak",
+      "repo": "https://github.com/josegonzalez/minui-dreamcast-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-developer-pak",
+      "repo": "https://github.com/josegonzalez/minui-developer-pak",
+      "language": "Makefile"
+    },
+    {
+      "name": "trimui-brick-media-player-pak",
+      "repo": "https://github.com/josegonzalez/trimui-brick-media-player-pak",
+      "language": "Makefile"
+    },
+    {
+      "name": "trimui-brick-fn-editor-pak",
+      "repo": "https://github.com/josegonzalez/trimui-brick-fn-editor-pak",
+      "language": "Makefile"
+    },
+    {
+      "name": "trimui-brick-moonlight-pak",
+      "repo": "https://github.com/josegonzalez/trimui-brick-moonlight-pak",
+      "language": "Makefile"
+    },
+    {
+      "name": "minui-layout-engine",
+      "repo": "https://github.com/josegonzalez/minui-layout-engine",
+      "language": "C"
+    },
+    {
+      "name": "minui-simple-mode-pak",
+      "repo": "https://github.com/josegonzalez/minui-simple-mode-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "trimui-brick-usb-mass-storage-pak",
+      "repo": "https://github.com/josegonzalez/trimui-brick-usb-mass-storage-pak",
+      "language": "Makefile"
+    },
+    {
+      "name": "minui-gallery-pak",
+      "repo": "https://github.com/josegonzalez/minui-gallery-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-dropbear-server-pak",
+      "repo": "https://github.com/josegonzalez/minui-dropbear-server-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "aws-eks-calculator",
+      "repo": "https://github.com/josegonzalez/aws-eks-calculator",
+      "language": "Go"
+    },
+    {
+      "name": "minui-map-txt-generator-pak",
+      "repo": "https://github.com/josegonzalez/minui-map-txt-generator-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "helm-set-status",
+      "repo": "https://github.com/josegonzalez/helm-set-status",
+      "language": "Go"
+    },
+    {
+      "name": "helm-ttl",
+      "repo": "https://github.com/josegonzalez/helm-ttl",
+      "language": "Go"
+    },
+    {
+      "name": "minui-m3u-manager-pak",
+      "repo": "https://github.com/josegonzalez/minui-m3u-manager-pak",
+      "language": "Shell"
+    },
+    {
+      "name": "minui-mame2003plus-pak",
+      "repo": "https://github.com/josegonzalez/minui-mame2003plus-pak",
+      "language": "Makefile"
+    },
+    {
+      "name": "cakephp-queuesadilla",
+      "repo": "https://github.com/josegonzalez/cakephp-queuesadilla",
+      "url": "https://cakephp-queuesadilla.readthedocs.org/en/latest/",
+      "language": "PHP"
+    },
+    {
+      "name": "streamlined",
+      "repo": "https://github.com/josegonzalez/streamlined",
+      "language": "C"
+    },
+    {
+      "name": "dopsa",
+      "repo": "https://github.com/josegonzalez/dopsa",
+      "language": "CSS"
+    },
+    {
+      "name": "awesome-consul",
+      "repo": "https://github.com/josegonzalez/awesome-consul"
+    },
+    {
+      "name": "cakephp-htmx-demo",
+      "repo": "https://github.com/josegonzalez/cakephp-htmx-demo",
+      "language": "PHP"
+    },
+    {
+      "name": "claude-worktree",
+      "repo": "https://github.com/josegonzalez/claude-worktree",
+      "language": "Go"
+    },
+    {
+      "name": "retro-metadata",
+      "repo": "https://github.com/josegonzalez/retro-metadata",
+      "language": "Python"
+    },
+    {
+      "name": "bml",
+      "repo": "https://github.com/josegonzalez/bml",
+      "language": "Go"
+    },
+    {
+      "name": "helm-import",
+      "repo": "https://github.com/josegonzalez/helm-import",
+      "language": "PowerShell"
+    },
+    {
+      "name": "php-dotenv",
+      "repo": "https://github.com/josegonzalez/php-dotenv",
+      "language": "PHP"
+    },
+    {
+      "name": "emit-key",
+      "repo": "https://github.com/josegonzalez/emit-key",
+      "language": "C"
+    },
+    {
+      "name": "minui-sample-sdl2-app-pak",
+      "repo": "https://github.com/josegonzalez/minui-sample-sdl2-app-pak",
+      "language": "C"
+    },
+    {
+      "name": "vscode-unison-sync",
+      "repo": "https://github.com/josegonzalez/vscode-unison-sync",
+      "language": "TypeScript"
+    },
+    {
+      "name": "provider-alicloud",
+      "repo": "https://github.com/josegonzalez/provider-alicloud",
+      "language": "Go"
+    },
+    {
+      "name": "cowsay",
+      "repo": "https://github.com/josegonzalez/cowsay",
+      "language": "Python"
+    },
+    {
+      "name": "cakephp-version",
+      "repo": "https://github.com/josegonzalez/cakephp-version",
+      "language": "PHP"
+    },
+    {
+      "name": "miyoo-speedtest",
+      "repo": "https://github.com/josegonzalez/miyoo-speedtest",
+      "language": "Shell"
+    },
+    {
+      "name": "recorded-ssh",
+      "repo": "https://github.com/josegonzalez/recorded-ssh",
+      "language": "Python"
+    },
+    {
+      "name": "python-dns-api",
+      "repo": "https://github.com/josegonzalez/python-dns-api",
+      "language": "Python"
+    },
+    {
+      "name": "php-queuesadilla",
+      "repo": "https://github.com/josegonzalez/php-queuesadilla",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-travis-php",
+      "repo": "https://github.com/josegonzalez/docker-travis-php",
+      "language": "Python"
+    },
+    {
+      "name": "hashi-report",
+      "repo": "https://github.com/josegonzalez/hashi-report",
+      "language": "Go"
+    },
+    {
+      "name": "site-areyousmokingcrack.com",
+      "repo": "https://github.com/josegonzalez/site-areyousmokingcrack.com"
+    },
+    {
+      "name": "real-aws-status",
+      "repo": "https://github.com/josegonzalez/real-aws-status",
+      "url": "https://chrome.google.com/webstore/detail/real-aws-status/kaegondhonfdclembpcgaaammmlfaekj",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-run-nomad",
+      "repo": "https://github.com/josegonzalez/docker-run-nomad",
+      "language": "Python"
+    },
+    {
+      "name": "awesome-hashicorp",
+      "repo": "https://github.com/josegonzalez/awesome-hashicorp"
+    },
+    {
+      "name": "go-bats-retry",
+      "repo": "https://github.com/josegonzalez/go-bats-retry",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/josegonzalez/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "app",
+      "repo": "https://github.com/josegonzalez/app",
+      "language": "PHP"
+    },
+    {
+      "name": "dokku-avahi-register",
+      "repo": "https://github.com/josegonzalez/dokku-avahi-register",
+      "language": "Shell"
+    },
+    {
+      "name": "go-xunit-reader",
+      "repo": "https://github.com/josegonzalez/go-xunit-reader",
+      "language": "Makefile"
+    },
+    {
+      "name": "python-slack-tunes",
+      "repo": "https://github.com/josegonzalez/python-slack-tunes",
+      "language": "Python"
+    },
+    {
+      "name": "dashdub",
+      "repo": "https://github.com/josegonzalez/dashdub",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "cakephp-users",
+      "repo": "https://github.com/josegonzalez/cakephp-users",
+      "language": "PHP"
+    },
+    {
+      "name": "cakephp-fractal-entities",
+      "repo": "https://github.com/josegonzalez/cakephp-fractal-entities",
+      "language": "PHP"
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "handle": "osteele",
+  "name": "Oliver Steele",
+  "github": [
+    "https://github.com/osteele"
+  ],
+  "website": "https://osteele.com/",
+  "bio": "Previously @ Nest, Apple, AOL, NYU Shanghai, startups. Older projects: Apple Dylan, Quickdraw GX, Laszlo Presentation Server, PyWordNet",
+  "own_repos": 187,
+  "commits": 11645,
+  "apps": [],
+  "repos": [
+    {
+      "name": "research-notebook",
+      "repo": "https://github.com/osteele/research-notebook",
+      "url": "https://research-notebook.osteele.com",
+      "language": "Python"
+    },
+    {
+      "name": "notes.osteele.com",
+      "repo": "https://github.com/osteele/notes.osteele.com",
+      "url": "https://notes.osteele.com",
+      "language": "Astro"
+    },
+    {
+      "name": "with-gpu",
+      "repo": "https://github.com/osteele/with-gpu",
+      "language": "Rust"
+    },
+    {
+      "name": "osteele-site-nav",
+      "repo": "https://github.com/osteele/osteele-site-nav",
+      "language": "JavaScript"
+    },
+    {
+      "name": "subburn",
+      "repo": "https://github.com/osteele/subburn",
+      "language": "Python"
+    },
+    {
+      "name": "weft",
+      "repo": "https://github.com/osteele/weft",
+      "language": "Go"
+    },
+    {
+      "name": "gojekyll",
+      "repo": "https://github.com/osteele/gojekyll",
+      "language": "Go"
+    },
+    {
+      "name": "weft-status",
+      "repo": "https://github.com/osteele/weft-status",
+      "language": "Swift"
+    },
+    {
+      "name": "add2anki",
+      "repo": "https://github.com/osteele/add2anki",
+      "url": "https://osteele.github.io/add2anki/",
+      "language": "Python"
+    },
+    {
+      "name": "liangdu",
+      "repo": "https://github.com/osteele/liangdu",
+      "language": "Python"
+    },
+    {
+      "name": "rename-academic-pdf",
+      "repo": "https://github.com/osteele/rename-academic-pdf",
+      "language": "Python"
+    },
+    {
+      "name": "scrollshot2pdf",
+      "repo": "https://github.com/osteele/scrollshot2pdf",
+      "language": "Python"
+    },
+    {
+      "name": "changelog-parser",
+      "repo": "https://github.com/osteele/changelog-parser",
+      "language": "CSS"
+    },
+    {
+      "name": "tuesday",
+      "repo": "https://github.com/osteele/tuesday",
+      "url": "https://godoc.org/github.com/osteele/tuesday",
+      "language": "Go"
+    },
+    {
+      "name": "with-limits",
+      "repo": "https://github.com/osteele/with-limits",
+      "language": "Rust"
+    },
+    {
+      "name": "cleanslate",
+      "repo": "https://github.com/osteele/cleanslate",
+      "language": "Rust"
+    },
+    {
+      "name": "cmd-runner",
+      "repo": "https://github.com/osteele/cmd-runner",
+      "language": "Go"
+    },
+    {
+      "name": "git-scripts",
+      "repo": "https://github.com/osteele/git-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "gitsync",
+      "repo": "https://github.com/osteele/gitsync",
+      "language": "Go"
+    },
+    {
+      "name": "jj-scripts",
+      "repo": "https://github.com/osteele/jj-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "project-version",
+      "repo": "https://github.com/osteele/project-version",
+      "language": "Rust"
+    },
+    {
+      "name": "scripts",
+      "repo": "https://github.com/osteele/scripts",
+      "language": "Python"
+    },
+    {
+      "name": "subdomain-router",
+      "repo": "https://github.com/osteele/subdomain-router",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tailscale-diagram",
+      "repo": "https://github.com/osteele/tailscale-diagram",
+      "language": "Python"
+    },
+    {
+      "name": "agent-tool-policy",
+      "repo": "https://github.com/osteele/agent-tool-policy",
+      "language": "Python"
+    },
+    {
+      "name": "agent-command-guards",
+      "repo": "https://github.com/osteele/agent-command-guards",
+      "language": "Python"
+    },
+    {
+      "name": "agent-mail",
+      "repo": "https://github.com/osteele/agent-mail",
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent-lore",
+      "repo": "https://github.com/osteele/agent-lore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-chat-viewer",
+      "repo": "https://github.com/osteele/claude-chat-viewer",
+      "url": "https://tools.osteele.com/claude-chat-viewer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "timezone-mcp",
+      "repo": "https://github.com/osteele/timezone-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "typeset-viewer",
+      "repo": "https://github.com/osteele/typeset-viewer",
+      "url": "https://typeset.osteele.com",
+      "language": "HTML"
+    },
+    {
+      "name": "osteele.com",
+      "repo": "https://github.com/osteele/osteele.com",
+      "url": "https://osteele.com",
+      "language": "Astro"
+    },
+    {
+      "name": "mutagui",
+      "repo": "https://github.com/osteele/mutagui",
+      "language": "Go"
+    },
+    {
+      "name": "liquid",
+      "repo": "https://github.com/osteele/liquid",
+      "url": "https://godoc.org/github.com/osteele/liquid",
+      "language": "Go"
+    },
+    {
+      "name": "vscode-p5server",
+      "repo": "https://github.com/osteele/vscode-p5server",
+      "url": "https://marketplace.visualstudio.com/items?itemName=osteele.p5-server",
+      "language": "CSS"
+    },
+    {
+      "name": "p5-server",
+      "repo": "https://github.com/osteele/p5-server",
+      "url": "https://osteele.github.io/p5-server/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cdn-proxy-cache",
+      "repo": "https://github.com/osteele/cdn-proxy-cache",
+      "language": "TypeScript"
+    },
+    {
+      "name": "p5-template",
+      "repo": "https://github.com/osteele/p5-template",
+      "language": "HTML"
+    },
+    {
+      "name": "p5-particle-workshop",
+      "repo": "https://github.com/osteele/p5-particle-workshop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "github-turtle-sync",
+      "repo": "https://github.com/osteele/github-turtle-sync",
+      "language": "Python"
+    },
+    {
+      "name": "quoteink",
+      "repo": "https://github.com/osteele/quoteink",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kana-game",
+      "repo": "https://github.com/osteele/kana-game",
+      "url": "https://kana-game.underconstruction.fun",
+      "language": "TypeScript"
+    },
+    {
+      "name": "speech-provider",
+      "repo": "https://github.com/osteele/speech-provider",
+      "url": "https://osteele.github.io/speech-provider/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "audio2anki",
+      "repo": "https://github.com/osteele/audio2anki",
+      "url": "https://osteele.github.io/audio2anki/",
+      "language": "Python"
+    },
+    {
+      "name": "contextual-langdetect",
+      "repo": "https://github.com/osteele/contextual-langdetect",
+      "url": "https://osteele.github.io/contextual-langdetect/",
+      "language": "Python"
+    },
+    {
+      "name": "macos-swiftpm-app-template",
+      "repo": "https://github.com/osteele/macos-swiftpm-app-template",
+      "url": "https://notes.osteele.com/macos-apps-with-swiftpm/",
+      "language": "Swift"
+    },
+    {
+      "name": "mental-spaces",
+      "repo": "https://github.com/osteele/mental-spaces",
+      "language": "Python"
+    },
+    {
+      "name": "fingerboard",
+      "repo": "https://github.com/osteele/fingerboard",
+      "url": "https://osteele.github.io/fingerboard/",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "tonic.ts",
+      "repo": "https://github.com/osteele/tonic.ts",
+      "url": "https://osteele.github.io/tonic.ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "creative-coding.osteele.com",
+      "repo": "https://github.com/osteele/creative-coding.osteele.com",
+      "url": "https://creative-coding.osteele.com",
+      "language": "MDX"
+    },
+    {
+      "name": "crossword-slackbot",
+      "repo": "https://github.com/osteele/crossword-slackbot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Processing_SerialRecord",
+      "repo": "https://github.com/osteele/Processing_SerialRecord",
+      "url": "https://osteele.github.io/Processing_SerialRecord/",
+      "language": "Java"
+    },
+    {
+      "name": "stitch-sync",
+      "repo": "https://github.com/osteele/stitch-sync",
+      "url": "https://osteele.github.io/stitch-sync/",
+      "language": "Rust"
+    },
+    {
+      "name": "sneetches",
+      "repo": "https://github.com/osteele/sneetches",
+      "url": "https://chrome.google.com/webstore/detail/sneetches/kcgocobceakfflhmbolpokembcmeljka",
+      "language": "TypeScript"
+    },
+    {
+      "name": "osteele",
+      "repo": "https://github.com/osteele/osteele",
+      "url": "https://github.com/osteele"
+    },
+    {
+      "name": "bisect-obsidian-extensions",
+      "repo": "https://github.com/osteele/bisect-obsidian-extensions",
+      "language": "Python"
+    },
+    {
+      "name": "obsidian-image-renamer",
+      "repo": "https://github.com/osteele/obsidian-image-renamer",
+      "url": "https://github.com/osteele/obsidian-image-renamer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "photos-album-to-pdf",
+      "repo": "https://github.com/osteele/photos-album-to-pdf",
+      "language": "Python"
+    },
+    {
+      "name": "multiclone",
+      "repo": "https://github.com/osteele/multiclone",
+      "language": "Go"
+    },
+    {
+      "name": "rename-image-files",
+      "repo": "https://github.com/osteele/rename-image-files",
+      "language": "Python"
+    },
+    {
+      "name": "kana-practice-helper",
+      "repo": "https://github.com/osteele/kana-practice-helper",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-tailwind-shadcn-template",
+      "repo": "https://github.com/osteele/bun-tailwind-shadcn-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "labelingo",
+      "repo": "https://github.com/osteele/labelingo",
+      "language": "Python"
+    },
+    {
+      "name": "claude-artifact-unpacker",
+      "repo": "https://github.com/osteele/claude-artifact-unpacker",
+      "language": "Python"
+    },
+    {
+      "name": "pyembroidery-convert",
+      "repo": "https://github.com/osteele/pyembroidery-convert",
+      "language": "Python"
+    },
+    {
+      "name": "dart-tonic",
+      "repo": "https://github.com/osteele/dart-tonic",
+      "language": "Dart"
+    },
+    {
+      "name": "PoseShare",
+      "repo": "https://github.com/osteele/PoseShare",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fix-filename-dates",
+      "repo": "https://github.com/osteele/fix-filename-dates",
+      "language": "Python"
+    },
+    {
+      "name": "hanzi-explorer",
+      "repo": "https://github.com/osteele/hanzi-explorer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hanzi-api-server",
+      "repo": "https://github.com/osteele/hanzi-api-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "prompt-matrix.js",
+      "repo": "https://github.com/osteele/prompt-matrix.js",
+      "language": "TypeScript"
+    },
+    {
+      "name": "prompt-matrix.py",
+      "repo": "https://github.com/osteele/prompt-matrix.py",
+      "url": "https://osteele.github.io/prompt-matrix/",
+      "language": "Python"
+    },
+    {
+      "name": "normalize-daily-journal-dates",
+      "repo": "https://github.com/osteele/normalize-daily-journal-dates",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Arduino_SerialRecord",
+      "repo": "https://github.com/osteele/Arduino_SerialRecord",
+      "url": "https://osteele.github.io/Arduino_SerialRecord/",
+      "language": "C++"
+    },
+    {
+      "name": "SerialPlotter",
+      "repo": "https://github.com/osteele/SerialPlotter",
+      "language": "Processing"
+    },
+    {
+      "name": "SparseRingBuffer.java",
+      "repo": "https://github.com/osteele/SparseRingBuffer.java",
+      "language": "Java"
+    },
+    {
+      "name": "p5.libs",
+      "repo": "https://github.com/osteele/p5.libs",
+      "url": "https://osteele.github.io/p5.libs/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bootle",
+      "repo": "https://github.com/osteele/bootle",
+      "language": "Python"
+    },
+    {
+      "name": "gh-forkstats",
+      "repo": "https://github.com/osteele/gh-forkstats",
+      "language": "JavaScript"
+    },
+    {
+      "name": "IMU-Clicker",
+      "repo": "https://github.com/osteele/IMU-Clicker",
+      "language": "C++"
+    },
+    {
+      "name": "choreography_simulator",
+      "repo": "https://github.com/osteele/choreography_simulator",
+      "url": "https://osteele.github.io/choreography_simulator/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "imu-tools",
+      "repo": "https://github.com/osteele/imu-tools",
+      "language": "Python"
+    },
+    {
+      "name": "imu-client-examples",
+      "repo": "https://github.com/osteele/imu-client-examples",
+      "url": "https://osteele.github.io/imu-client-examples/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/osteele/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "terminal-codes-to-html",
+      "repo": "https://github.com/osteele/terminal-codes-to-html",
+      "language": "TypeScript"
+    },
+    {
+      "name": "flinx",
+      "repo": "https://github.com/osteele/flinx",
+      "language": "Python"
+    },
+    {
+      "name": "ipython-secrets",
+      "repo": "https://github.com/osteele/ipython-secrets",
+      "language": "Python"
+    },
+    {
+      "name": "callgraph",
+      "repo": "https://github.com/osteele/callgraph",
+      "language": "Python"
+    },
+    {
+      "name": "gsheet-keyring",
+      "repo": "https://github.com/osteele/gsheet-keyring",
+      "language": "Python"
+    },
+    {
+      "name": "nbcollate",
+      "repo": "https://github.com/osteele/nbcollate",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "code.osteele.com",
+      "repo": "https://github.com/osteele/code.osteele.com",
+      "url": "https://code.osteele.com",
+      "language": "Elm"
+    },
+    {
+      "name": "posenet-circus",
+      "repo": "https://github.com/osteele/posenet-circus",
+      "language": "JavaScript"
+    },
+    {
+      "name": "matrix-photo-gallery",
+      "repo": "https://github.com/osteele/matrix-photo-gallery",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tidal-memories",
+      "repo": "https://github.com/osteele/tidal-memories",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-extensions-report",
+      "repo": "https://github.com/osteele/vscode-extensions-report",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quickdraw-api-server",
+      "repo": "https://github.com/osteele/quickdraw-api-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "optitrack-ws-server",
+      "repo": "https://github.com/osteele/optitrack-ws-server",
+      "language": "Python"
+    },
+    {
+      "name": "matrix-archive",
+      "repo": "https://github.com/osteele/matrix-archive",
+      "language": "Python"
+    },
+    {
+      "name": "slack-channel-manager",
+      "repo": "https://github.com/osteele/slack-channel-manager",
+      "language": "Python"
+    },
+    {
+      "name": "classroom-tools",
+      "repo": "https://github.com/osteele/classroom-tools",
+      "url": "https://olin-computing.github.io/classroom-tools/",
+      "language": "Python"
+    }
+  ]
+}

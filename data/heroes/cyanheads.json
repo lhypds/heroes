@@ -1,0 +1,608 @@
+{
+  "handle": "cyanheads",
+  "name": "Casey Hand",
+  "github": [
+    "https://github.com/cyanheads"
+  ],
+  "website": "https://caseyjhand.com/",
+  "bio": "Building mcp-ts-core",
+  "own_repos": 136,
+  "commits": 10236,
+  "apps": [],
+  "repos": [
+    {
+      "name": "pubmed-mcp-server",
+      "repo": "https://github.com/cyanheads/pubmed-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/pubmed-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openstreetmap-mcp-server",
+      "repo": "https://github.com/cyanheads/openstreetmap-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openstreetmap-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-config",
+      "repo": "https://github.com/cyanheads/claude-config",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aviation-weather-mcp-server",
+      "repo": "https://github.com/cyanheads/aviation-weather-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/aviation-weather-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "open-meteo-mcp-server",
+      "repo": "https://github.com/cyanheads/open-meteo-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/open-meteo-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stackexchange-mcp-server",
+      "repo": "https://github.com/cyanheads/stackexchange-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/stackexchange-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "met-museum-mcp-server",
+      "repo": "https://github.com/cyanheads/met-museum-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/met-museum-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "secedgar-mcp-server",
+      "repo": "https://github.com/cyanheads/secedgar-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/secedgar-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eur-lex-mcp-server",
+      "repo": "https://github.com/cyanheads/eur-lex-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/eur-lex-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "obsidian-mcp-server",
+      "repo": "https://github.com/cyanheads/obsidian-mcp-server",
+      "url": "https://www.npmjs.com/package/obsidian-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-ts-core",
+      "repo": "https://github.com/cyanheads/mcp-ts-core",
+      "url": "https://www.npmjs.com/package/@cyanheads/mcp-ts-core",
+      "language": "TypeScript"
+    },
+    {
+      "name": "clipboard-mcp-server",
+      "repo": "https://github.com/cyanheads/clipboard-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/clipboard-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "protein-mcp-server",
+      "repo": "https://github.com/cyanheads/protein-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/protein-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openalex-mcp-server",
+      "repo": "https://github.com/cyanheads/openalex-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openalex-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-reporter",
+      "repo": "https://github.com/cyanheads/mcp-reporter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cyanheads",
+      "repo": "https://github.com/cyanheads/cyanheads"
+    },
+    {
+      "name": "nws-weather-mcp-server",
+      "repo": "https://github.com/cyanheads/nws-weather-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/nws-weather-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "workflows-mcp-server",
+      "repo": "https://github.com/cyanheads/workflows-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/workflows-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hn-mcp-server",
+      "repo": "https://github.com/cyanheads/hn-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/hn-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ntfy-mcp-server",
+      "repo": "https://github.com/cyanheads/ntfy-mcp-server",
+      "url": "https://www.npmjs.com/package/ntfy-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gdelt-mcp-server",
+      "repo": "https://github.com/cyanheads/gdelt-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/gdelt-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "clinicaltrialsgov-mcp-server",
+      "repo": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server",
+      "url": "https://www.npmjs.com/package/clinicaltrialsgov-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "imf-mcp-server",
+      "repo": "https://github.com/cyanheads/imf-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/imf-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eurostat-mcp-server",
+      "repo": "https://github.com/cyanheads/eurostat-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/eurostat-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "congressgov-mcp-server",
+      "repo": "https://github.com/cyanheads/congressgov-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/congressgov-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bls-labor-mcp-server",
+      "repo": "https://github.com/cyanheads/bls-labor-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/bls-labor-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anime-mcp-server",
+      "repo": "https://github.com/cyanheads/anime-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/anime-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "finnhub-mcp-server",
+      "repo": "https://github.com/cyanheads/finnhub-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/finnhub-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sports-mcp-server",
+      "repo": "https://github.com/cyanheads/sports-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/sports-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openfec-mcp-server",
+      "repo": "https://github.com/cyanheads/openfec-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openfec-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gnomad-genetics-mcp-server",
+      "repo": "https://github.com/cyanheads/gnomad-genetics-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/gnomad-genetics-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "uniprot-mcp-server",
+      "repo": "https://github.com/cyanheads/uniprot-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/uniprot-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "attack-surface-mcp-server",
+      "repo": "https://github.com/cyanheads/attack-surface-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/attack-surface-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nonprofit-explorer-mcp-server",
+      "repo": "https://github.com/cyanheads/nonprofit-explorer-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/nonprofit-explorer-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "who-gho-mcp-server",
+      "repo": "https://github.com/cyanheads/who-gho-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/who-gho-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chembl-mcp-server",
+      "repo": "https://github.com/cyanheads/chembl-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/chembl-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sanctions-screening-mcp-server",
+      "repo": "https://github.com/cyanheads/sanctions-screening-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/sanctions-screening-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "earthquake-mcp-server",
+      "repo": "https://github.com/cyanheads/earthquake-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/earthquake-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "astronomy-mcp-server",
+      "repo": "https://github.com/cyanheads/astronomy-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/astronomy-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fcc-broadband-mcp-server",
+      "repo": "https://github.com/cyanheads/fcc-broadband-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/fcc-broadband-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "treasury-fiscaldata-mcp-server",
+      "repo": "https://github.com/cyanheads/treasury-fiscaldata-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/treasury-fiscaldata-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "usda-mcp-server",
+      "repo": "https://github.com/cyanheads/usda-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/usda-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gbif-biodiversity-mcp-server",
+      "repo": "https://github.com/cyanheads/gbif-biodiversity-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/gbif-biodiversity-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openfda-mcp-server",
+      "repo": "https://github.com/cyanheads/openfda-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openfda-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "medical-codes-mcp-server",
+      "repo": "https://github.com/cyanheads/medical-codes-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/medical-codes-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "oecd-mcp-server",
+      "repo": "https://github.com/cyanheads/oecd-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/oecd-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "seerr-mcp-server",
+      "repo": "https://github.com/cyanheads/seerr-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/seerr-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wikipedia-mcp-server",
+      "repo": "https://github.com/cyanheads/wikipedia-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/wikipedia-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crossref-mcp-server",
+      "repo": "https://github.com/cyanheads/crossref-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/crossref-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "biorxiv-mcp-server",
+      "repo": "https://github.com/cyanheads/biorxiv-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/biorxiv-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reliefweb-mcp-server",
+      "repo": "https://github.com/cyanheads/reliefweb-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/reliefweb-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openchargemap-mcp-server",
+      "repo": "https://github.com/cyanheads/openchargemap-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openchargemap-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wsdot-mcp-server",
+      "repo": "https://github.com/cyanheads/wsdot-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/wsdot-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eia-energy-mcp-server",
+      "repo": "https://github.com/cyanheads/eia-energy-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/eia-energy-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "worldbank-mcp-server",
+      "repo": "https://github.com/cyanheads/worldbank-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/worldbank-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "paleobiology-mcp-server",
+      "repo": "https://github.com/cyanheads/paleobiology-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/paleobiology-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openaq-mcp-server",
+      "repo": "https://github.com/cyanheads/openaq-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openaq-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "devops-status-mcp-server",
+      "repo": "https://github.com/cyanheads/devops-status-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/devops-status-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nist-nvd-mcp-server",
+      "repo": "https://github.com/cyanheads/nist-nvd-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/nist-nvd-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openstates-mcp-server",
+      "repo": "https://github.com/cyanheads/openstates-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openstates-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "exchange-rates-mcp-server",
+      "repo": "https://github.com/cyanheads/exchange-rates-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/exchange-rates-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "faostat-mcp-server",
+      "repo": "https://github.com/cyanheads/faostat-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/faostat-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "orcid-mcp-server",
+      "repo": "https://github.com/cyanheads/orcid-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/orcid-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "courtlistener-mcp-server",
+      "repo": "https://github.com/cyanheads/courtlistener-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/courtlistener-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cpsc-recalls-mcp-server",
+      "repo": "https://github.com/cyanheads/cpsc-recalls-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/cpsc-recalls-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "noaa-spaceweather-mcp-server",
+      "repo": "https://github.com/cyanheads/noaa-spaceweather-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/noaa-spaceweather-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "npi-providers-mcp-server",
+      "repo": "https://github.com/cyanheads/npi-providers-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/npi-providers-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "faa-aircraft-registry-mcp-server",
+      "repo": "https://github.com/cyanheads/faa-aircraft-registry-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/faa-aircraft-registry-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ris-austria-mcp-server",
+      "repo": "https://github.com/cyanheads/ris-austria-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/ris-austria-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ourairports-mcp-server",
+      "repo": "https://github.com/cyanheads/ourairports-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/ourairports-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "noaa-climate-mcp-server",
+      "repo": "https://github.com/cyanheads/noaa-climate-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/noaa-cdo-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "osv-advisory-mcp-server",
+      "repo": "https://github.com/cyanheads/osv-advisory-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/osv-advisory-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reference-data-mcp-server",
+      "repo": "https://github.com/cyanheads/reference-data-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/reference-data-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openfoodfacts-mcp-server",
+      "repo": "https://github.com/cyanheads/openfoodfacts-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openfoodfacts-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "usaspending-mcp-server",
+      "repo": "https://github.com/cyanheads/usaspending-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/usaspending-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bluesky-mcp-server",
+      "repo": "https://github.com/cyanheads/bluesky-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/bluesky-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "noaa-marine-mcp-server",
+      "repo": "https://github.com/cyanheads/noaa-marine-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/noaa-marine-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openlibrary-mcp-server",
+      "repo": "https://github.com/cyanheads/openlibrary-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/openlibrary-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "census-mcp-server",
+      "repo": "https://github.com/cyanheads/census-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/census-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "smithsonian-mcp-server",
+      "repo": "https://github.com/cyanheads/smithsonian-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/smithsonian-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "git-mcp-server",
+      "repo": "https://github.com/cyanheads/git-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/git-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pokeapi-mcp-server",
+      "repo": "https://github.com/cyanheads/pokeapi-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/pokeapi-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "onebusaway-mcp-server",
+      "repo": "https://github.com/cyanheads/onebusaway-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/onebusaway-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fema-mcp-server",
+      "repo": "https://github.com/cyanheads/fema-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/fema-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "national-parks-mcp-server",
+      "repo": "https://github.com/cyanheads/national-parks-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/national-parks-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gutenberg-mcp-server",
+      "repo": "https://github.com/cyanheads/gutenberg-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/gutenberg-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shift-mcp-server",
+      "repo": "https://github.com/cyanheads/shift-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "usgs-water-mcp-server",
+      "repo": "https://github.com/cyanheads/usgs-water-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/usgs-water-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pixoo-mcp-server",
+      "repo": "https://github.com/cyanheads/pixoo-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/pixoo-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "libofcongress-mcp-server",
+      "repo": "https://github.com/cyanheads/libofcongress-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/libofcongress-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wikidata-mcp-server",
+      "repo": "https://github.com/cyanheads/wikidata-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/wikidata-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "socrata-mcp-server",
+      "repo": "https://github.com/cyanheads/socrata-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/socrata-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "brapi-mcp-server",
+      "repo": "https://github.com/cyanheads/brapi-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/brapi-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ensembl-mcp-server",
+      "repo": "https://github.com/cyanheads/ensembl-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/ensembl-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "macos-mcp-server",
+      "repo": "https://github.com/cyanheads/macos-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/macos-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "epa-mcp-server",
+      "repo": "https://github.com/cyanheads/epa-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/epa-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mailchimp-mcp-server",
+      "repo": "https://github.com/cyanheads/mailchimp-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/mailchimp-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "evals-mcp-server",
+      "repo": "https://github.com/cyanheads/evals-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "toolkit-mcp-server",
+      "repo": "https://github.com/cyanheads/toolkit-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/toolkit-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cdc-health-mcp-server",
+      "repo": "https://github.com/cyanheads/cdc-health-mcp-server",
+      "url": "https://www.npmjs.com/package/@cyanheads/cdc-health-mcp-server",
+      "language": "TypeScript"
+    }
+  ]
+}

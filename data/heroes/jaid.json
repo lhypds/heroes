@@ -1,0 +1,517 @@
+{
+  "handle": "jaid",
+  "name": "jaid",
+  "github": [
+    "https://github.com/jaid"
+  ],
+  "own_repos": 236,
+  "commits": 20999,
+  "apps": [],
+  "repos": [
+    {
+      "name": "slop-gallery",
+      "repo": "https://github.com/Jaid/slop-gallery",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nix",
+      "repo": "https://github.com/Jaid/nix",
+      "language": "Nix"
+    },
+    {
+      "name": "remote-target",
+      "repo": "https://github.com/Jaid/remote-target",
+      "language": "TypeScript"
+    },
+    {
+      "name": "capture-page",
+      "repo": "https://github.com/Jaid/capture-page",
+      "language": "TypeScript"
+    },
+    {
+      "name": "inspect-image",
+      "repo": "https://github.com/Jaid/inspect-image",
+      "language": "TypeScript"
+    },
+    {
+      "name": "okhsl",
+      "repo": "https://github.com/Jaid/okhsl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "get-free",
+      "repo": "https://github.com/Jaid/get-free",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tok.show",
+      "repo": "https://github.com/Jaid/tok.show",
+      "language": "TypeScript"
+    },
+    {
+      "name": "display.chat",
+      "repo": "https://github.com/Jaid/display.chat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "read-permalink",
+      "repo": "https://github.com/Jaid/read-permalink",
+      "language": "TypeScript"
+    },
+    {
+      "name": "make-argv",
+      "repo": "https://github.com/Jaid/make-argv",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tinyhand",
+      "repo": "https://github.com/Jaid/tinyhand",
+      "language": "TypeScript"
+    },
+    {
+      "name": "style-dts",
+      "repo": "https://github.com/Jaid/style-dts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "savetensors",
+      "repo": "https://github.com/Jaid/savetensors",
+      "language": "TypeScript"
+    },
+    {
+      "name": "token-vocabs",
+      "repo": "https://github.com/Jaid/token-vocabs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shape-to-svg",
+      "repo": "https://github.com/Jaid/shape-to-svg",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-keybindings-reimagined",
+      "repo": "https://github.com/Jaid/vscode-keybindings-reimagined",
+      "language": "TypeScript"
+    },
+    {
+      "name": "epoch-seconds",
+      "repo": "https://github.com/Jaid/epoch-seconds",
+      "url": "https://github.com/jaid/epoch-seconds",
+      "language": "TypeScript"
+    },
+    {
+      "name": "templates",
+      "repo": "https://github.com/Jaid/templates",
+      "language": "Shell"
+    },
+    {
+      "name": "count-in-png",
+      "repo": "https://github.com/Jaid/count-in-png",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stringify-clank",
+      "repo": "https://github.com/Jaid/stringify-clank",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-automatic1111-metadata-markup-language-syntax",
+      "repo": "https://github.com/Jaid/vscode-automatic1111-metadata-markup-language-syntax",
+      "language": "JavaScript"
+    },
+    {
+      "name": "forward-slash-path",
+      "repo": "https://github.com/Jaid/forward-slash-path",
+      "language": "TypeScript"
+    },
+    {
+      "name": "read-file-string",
+      "repo": "https://github.com/Jaid/read-file-string",
+      "url": "https://github.com/Jaid/read-file-string",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-eval-samples",
+      "repo": "https://github.com/Jaid/bun-eval-samples",
+      "language": "TypeScript"
+    },
+    {
+      "name": "more-types",
+      "repo": "https://github.com/Jaid/more-types",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zahl",
+      "repo": "https://github.com/Jaid/zahl",
+      "url": "https://github.com/Jaid/zahl",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tldw",
+      "repo": "https://github.com/Jaid/tldw",
+      "url": "https://github.com/jaid/tldw",
+      "language": "TypeScript"
+    },
+    {
+      "name": "markdown-map",
+      "repo": "https://github.com/Jaid/markdown-map",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fencen",
+      "repo": "https://github.com/Jaid/fencen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "from-base64",
+      "repo": "https://github.com/Jaid/from-base64",
+      "language": "TypeScript"
+    },
+    {
+      "name": "make-base64",
+      "repo": "https://github.com/Jaid/make-base64",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-title",
+      "repo": "https://github.com/Jaid/vite-plugin-title",
+      "language": "TypeScript"
+    },
+    {
+      "name": "make-ssh-keys",
+      "repo": "https://github.com/Jaid/make-ssh-keys",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typescript-classic",
+      "repo": "https://github.com/Jaid/typescript-classic",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsconfig-jaid",
+      "repo": "https://github.com/Jaid/tsconfig-jaid",
+      "url": "https://github.com/Jaid/tsconfig-jaid",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-media-mixins",
+      "repo": "https://github.com/Jaid/vite-plugin-media-mixins",
+      "language": "TypeScript"
+    },
+    {
+      "name": "casing.run",
+      "repo": "https://github.com/Jaid/casing.run",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mount-root",
+      "repo": "https://github.com/Jaid/mount-root",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-sdk-provider-supergrok",
+      "repo": "https://github.com/Jaid/ai-sdk-provider-supergrok",
+      "language": "TypeScript"
+    },
+    {
+      "name": "import-subject",
+      "repo": "https://github.com/Jaid/import-subject",
+      "language": "TypeScript"
+    },
+    {
+      "name": "make-stylelint",
+      "repo": "https://github.com/Jaid/make-stylelint",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stacktag",
+      "repo": "https://github.com/Jaid/stacktag",
+      "language": "TypeScript"
+    },
+    {
+      "name": "guess-runtime",
+      "repo": "https://github.com/Jaid/guess-runtime",
+      "language": "TypeScript"
+    },
+    {
+      "name": "resolve-number",
+      "repo": "https://github.com/Jaid/resolve-number",
+      "language": "TypeScript"
+    },
+    {
+      "name": "compose-id",
+      "repo": "https://github.com/Jaid/compose-id",
+      "language": "TypeScript"
+    },
+    {
+      "name": "flatten-string",
+      "repo": "https://github.com/Jaid/flatten-string",
+      "language": "TypeScript"
+    },
+    {
+      "name": "merge-any",
+      "repo": "https://github.com/Jaid/merge-any",
+      "language": "TypeScript"
+    },
+    {
+      "name": "trim-around",
+      "repo": "https://github.com/Jaid/trim-around",
+      "language": "TypeScript"
+    },
+    {
+      "name": "optis",
+      "repo": "https://github.com/Jaid/optis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-config-jaid",
+      "repo": "https://github.com/Jaid/eslint-config-jaid",
+      "language": "TypeScript"
+    },
+    {
+      "name": "common-user-agent",
+      "repo": "https://github.com/Jaid/common-user-agent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "workflows",
+      "repo": "https://github.com/Jaid/workflows"
+    },
+    {
+      "name": "docker-runner",
+      "repo": "https://github.com/Jaid/docker-runner",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-builder",
+      "repo": "https://github.com/Jaid/docker-builder",
+      "language": "Shell"
+    },
+    {
+      "name": "repos-cli",
+      "repo": "https://github.com/Jaid/repos-cli",
+      "language": "TypeScript"
+    },
+    {
+      "name": "buffer-to-data-url",
+      "repo": "https://github.com/Jaid/buffer-to-data-url",
+      "url": "https://github.com/Jaid/buffer-to-data-url",
+      "language": "JavaScript"
+    },
+    {
+      "name": "read-file-json",
+      "repo": "https://github.com/Jaid/read-file-json",
+      "url": "https://github.com/Jaid/read-file-json",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flatten-multiline",
+      "repo": "https://github.com/Jaid/flatten-multiline",
+      "url": "https://github.com/Jaid/flatten-multiline",
+      "language": "JavaScript"
+    },
+    {
+      "name": "insert-string-after",
+      "repo": "https://github.com/Jaid/insert-string-after",
+      "url": "https://github.com/Jaid/insert-string-after",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crop-string",
+      "repo": "https://github.com/Jaid/crop-string",
+      "url": "https://github.com/Jaid/crop-string",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jaid-core-twitch-auth",
+      "repo": "https://github.com/Jaid/jaid-core-twitch-auth",
+      "url": "https://github.com/Jaid/jaid-core-twitch-auth",
+      "language": "JavaScript"
+    },
+    {
+      "name": "steam-game-update-watcher",
+      "repo": "https://github.com/Jaid/steam-game-update-watcher",
+      "url": "https://github.com/Jaid/steam-game-update-watcher",
+      "language": "JavaScript"
+    },
+    {
+      "name": "polling-emitter",
+      "repo": "https://github.com/Jaid/polling-emitter",
+      "url": "https://github.com/Jaid/polling-emitter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sitemap-xml-webpack-plugin",
+      "repo": "https://github.com/Jaid/sitemap-xml-webpack-plugin",
+      "url": "https://github.com/Jaid/sitemap-xml-webpack-plugin",
+      "language": "JavaScript"
+    },
+    {
+      "name": "oh-my-posh-config",
+      "repo": "https://github.com/Jaid/oh-my-posh-config"
+    },
+    {
+      "name": "docker-qb",
+      "repo": "https://github.com/Jaid/docker-qb",
+      "language": "Shell"
+    },
+    {
+      "name": "vscode-export-for-ai-chat",
+      "repo": "https://github.com/Jaid/vscode-export-for-ai-chat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-export-command-list",
+      "repo": "https://github.com/Jaid/vscode-export-command-list",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rollup-config-factory",
+      "repo": "https://github.com/Jaid/rollup-config-factory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zeug",
+      "repo": "https://github.com/Jaid/zeug",
+      "language": "TypeScript"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/Jaid/test",
+      "url": "https://github.com/Jaid/test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "make-knowledge-base",
+      "repo": "https://github.com/Jaid/make-knowledge-base",
+      "language": "TypeScript"
+    },
+    {
+      "name": "anythingllm-skill-ls",
+      "repo": "https://github.com/Jaid/anythingllm-skill-ls",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-automatic1111-metadata-markup-syntax",
+      "repo": "https://github.com/Jaid/vscode-automatic1111-metadata-markup-syntax",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-quick-import",
+      "repo": "https://github.com/Jaid/vscode-quick-import",
+      "language": "TypeScript"
+    },
+    {
+      "name": "automatic1111-extension-prompt-cleaning-hook",
+      "repo": "https://github.com/Jaid/automatic1111-extension-prompt-cleaning-hook",
+      "language": "Python"
+    },
+    {
+      "name": "example-dataset",
+      "repo": "https://github.com/Jaid/example-dataset",
+      "language": "PowerShell"
+    },
+    {
+      "name": "automatic1111-extension-advanced-file-name",
+      "repo": "https://github.com/Jaid/automatic1111-extension-advanced-file-name"
+    },
+    {
+      "name": "automatic1111-extension-lora-weight-variation",
+      "repo": "https://github.com/Jaid/automatic1111-extension-lora-weight-variation"
+    },
+    {
+      "name": "automatic1111-extension-custom-text-overlay",
+      "repo": "https://github.com/Jaid/automatic1111-extension-custom-text-overlay",
+      "language": "Python"
+    },
+    {
+      "name": "automatic1111-extension-developer-insights",
+      "repo": "https://github.com/Jaid/automatic1111-extension-developer-insights",
+      "language": "Python"
+    },
+    {
+      "name": "ai-playground",
+      "repo": "https://github.com/Jaid/ai-playground",
+      "language": "Python"
+    },
+    {
+      "name": "ln-folder-version",
+      "repo": "https://github.com/Jaid/ln-folder-version",
+      "language": "TypeScript"
+    },
+    {
+      "name": "klc",
+      "repo": "https://github.com/Jaid/klc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "webpack-config-factory",
+      "repo": "https://github.com/Jaid/webpack-config-factory",
+      "language": "TypeScript"
+    },
+    {
+      "name": "setup-server",
+      "repo": "https://github.com/Jaid/setup-server",
+      "language": "Shell"
+    },
+    {
+      "name": "reg",
+      "repo": "https://github.com/Jaid/reg"
+    },
+    {
+      "name": "node-gyp-test",
+      "repo": "https://github.com/Jaid/node-gyp-test",
+      "language": "PowerShell"
+    },
+    {
+      "name": "sinan-dataset",
+      "repo": "https://github.com/Jaid/sinan-dataset"
+    },
+    {
+      "name": "krita-plugin-quick-export",
+      "repo": "https://github.com/Jaid/krita-plugin-quick-export"
+    },
+    {
+      "name": "invoke-node-text-util",
+      "repo": "https://github.com/Jaid/invoke-node-text-util",
+      "language": "Python"
+    },
+    {
+      "name": "notebooks",
+      "repo": "https://github.com/Jaid/notebooks",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "docker-test",
+      "repo": "https://github.com/Jaid/docker-test",
+      "language": "Shell"
+    },
+    {
+      "name": "edit-repo",
+      "repo": "https://github.com/Jaid/edit-repo"
+    },
+    {
+      "name": "awesome-invoke-ai",
+      "repo": "https://github.com/Jaid/awesome-invoke-ai"
+    },
+    {
+      "name": "go-notebooks",
+      "repo": "https://github.com/Jaid/go-notebooks"
+    },
+    {
+      "name": "play-sound",
+      "repo": "https://github.com/Jaid/play-sound",
+      "language": "Go"
+    },
+    {
+      "name": "docker-ssh-tunnel",
+      "repo": "https://github.com/Jaid/docker-ssh-tunnel",
+      "language": "Shell"
+    },
+    {
+      "name": "invoke-create-matrix",
+      "repo": "https://github.com/Jaid/invoke-create-matrix",
+      "language": "TypeScript"
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "handle": "gadenbuie",
+  "name": "Garrick Aden-Buie",
+  "github": [
+    "https://github.com/gadenbuie"
+  ],
+  "website": "https://garrickadenbuie.com/",
+  "bio": "Software engineer for Shiny at @posit-pbc",
+  "own_repos": 130,
+  "commits": 13691,
+  "apps": [],
+  "repos": [
+    {
+      "name": "gadenbuie",
+      "repo": "https://github.com/gadenbuie/gadenbuie"
+    },
+    {
+      "name": "posit-conf-chat",
+      "repo": "https://github.com/gadenbuie/posit-conf-chat",
+      "language": "R"
+    },
+    {
+      "name": "status",
+      "repo": "https://github.com/gadenbuie/status",
+      "url": "https://pkg.garrickadenbuie.com/status",
+      "language": "HTML"
+    },
+    {
+      "name": "epoxy",
+      "repo": "https://github.com/gadenbuie/epoxy",
+      "url": "https://pkg.garrickadenbuie.com/epoxy/",
+      "language": "R"
+    },
+    {
+      "name": "utpr",
+      "repo": "https://github.com/gadenbuie/utpr",
+      "language": "Go"
+    },
+    {
+      "name": "local-speed-check",
+      "repo": "https://github.com/gadenbuie/local-speed-check",
+      "language": "TypeScript"
+    },
+    {
+      "name": "grkstyle",
+      "repo": "https://github.com/gadenbuie/grkstyle",
+      "language": "R"
+    },
+    {
+      "name": "regexplain",
+      "repo": "https://github.com/gadenbuie/regexplain",
+      "url": "https://www.garrickadenbuie.com/project/regexplain/",
+      "language": "R"
+    },
+    {
+      "name": "ermoji",
+      "repo": "https://github.com/gadenbuie/ermoji",
+      "url": "https://www.garrickadenbuie.com/project/ermoji/",
+      "language": "R"
+    },
+    {
+      "name": "xaringanExtra",
+      "repo": "https://github.com/gadenbuie/xaringanExtra",
+      "url": "https://pkg.garrickadenbuie.com/xaringanExtra",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shrtcts",
+      "repo": "https://github.com/gadenbuie/shrtcts",
+      "url": "https://pkg.garrickadenbuie.com/shrtcts/",
+      "language": "R"
+    },
+    {
+      "name": "crantrack",
+      "repo": "https://github.com/gadenbuie/crantrack",
+      "url": "https://flatgithub.com/gadenbuie/crantrack",
+      "language": "R"
+    },
+    {
+      "name": "ggweekly",
+      "repo": "https://github.com/gadenbuie/ggweekly",
+      "language": "R"
+    },
+    {
+      "name": "metathis",
+      "repo": "https://github.com/gadenbuie/metathis",
+      "url": "https://pkg.garrickadenbuie.com/metathis",
+      "language": "R"
+    },
+    {
+      "name": "ds-lab-agent-skills",
+      "repo": "https://github.com/gadenbuie/ds-lab-agent-skills",
+      "language": "HTML"
+    },
+    {
+      "name": "mynorfolk-dash",
+      "repo": "https://github.com/gadenbuie/mynorfolk-dash",
+      "url": "https://grrrck.quarto.pub/mynorfolk-dash",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quarto-partials",
+      "repo": "https://github.com/gadenbuie/quarto-partials",
+      "language": "Lua"
+    },
+    {
+      "name": "garrickadenbuie-com",
+      "repo": "https://github.com/gadenbuie/garrickadenbuie-com",
+      "url": "https://www.garrickadenbuie.com",
+      "language": "HTML"
+    },
+    {
+      "name": "yap-with-claude",
+      "repo": "https://github.com/gadenbuie/yap-with-claude",
+      "language": "Shell"
+    },
+    {
+      "name": "quarto-now",
+      "repo": "https://github.com/gadenbuie/quarto-now",
+      "language": "Lua"
+    },
+    {
+      "name": "quarto-base64",
+      "repo": "https://github.com/gadenbuie/quarto-base64",
+      "url": "https://pkg.garrickadenbuie.com/quarto-base64/",
+      "language": "Lua"
+    },
+    {
+      "name": "countdown",
+      "repo": "https://github.com/gadenbuie/countdown",
+      "url": "https://pkg.garrickadenbuie.com/countdown",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rsthemes",
+      "repo": "https://github.com/gadenbuie/rsthemes",
+      "url": "https://www.garrickadenbuie.com/project/rsthemes/",
+      "language": "SCSS"
+    },
+    {
+      "name": "reprex-quarto-htmltools-deps",
+      "repo": "https://github.com/gadenbuie/reprex-quarto-htmltools-deps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "brand-yml-posit-conf-2025",
+      "repo": "https://github.com/gadenbuie/brand-yml-posit-conf-2025",
+      "language": "HTML"
+    },
+    {
+      "name": "starwarsdb",
+      "repo": "https://github.com/gadenbuie/starwarsdb",
+      "url": "https://pkg.garrickadenbuie.com/starwarsdb",
+      "language": "R"
+    },
+    {
+      "name": "quarto-tachyons",
+      "repo": "https://github.com/gadenbuie/quarto-tachyons",
+      "language": "CSS"
+    },
+    {
+      "name": "xaringanthemer",
+      "repo": "https://github.com/gadenbuie/xaringanthemer",
+      "url": "https://pkg.garrickadenbuie.com/xaringanthemer/",
+      "language": "R"
+    },
+    {
+      "name": "genAI-2025-llms-meet-shiny",
+      "repo": "https://github.com/gadenbuie/genAI-2025-llms-meet-shiny",
+      "language": "R"
+    },
+    {
+      "name": "quarto-panel-accordion",
+      "repo": "https://github.com/gadenbuie/quarto-panel-accordion",
+      "language": "Lua"
+    },
+    {
+      "name": "positron-plus-1-e",
+      "repo": "https://github.com/gadenbuie/positron-plus-1-e"
+    },
+    {
+      "name": "quarto-auto-dark",
+      "repo": "https://github.com/gadenbuie/quarto-auto-dark",
+      "language": "CSS"
+    },
+    {
+      "name": "tidyjs-r",
+      "repo": "https://github.com/gadenbuie/tidyjs-r",
+      "url": "https://pkg.garrickadenbuie.com/tidyjs-r",
+      "language": "R"
+    },
+    {
+      "name": "r-exchange-shiny-ai",
+      "repo": "https://github.com/gadenbuie/r-exchange-shiny-ai",
+      "language": "R"
+    },
+    {
+      "name": "elm-vscode-theme",
+      "repo": "https://github.com/gadenbuie/elm-vscode-theme"
+    },
+    {
+      "name": "brand-yml-r-for-the-rest-of-us",
+      "repo": "https://github.com/gadenbuie/brand-yml-r-for-the-rest-of-us",
+      "language": "R"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/gadenbuie/slides",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gadenbuie.r-universe.dev",
+      "repo": "https://github.com/gadenbuie/gadenbuie.r-universe.dev",
+      "url": "https://gadenbuie.r-universe.dev/"
+    },
+    {
+      "name": "shiny-data-sci-adventure",
+      "repo": "https://github.com/gadenbuie/shiny-data-sci-adventure",
+      "language": "Python"
+    },
+    {
+      "name": "daily-treasury",
+      "repo": "https://github.com/gadenbuie/daily-treasury",
+      "language": "R"
+    },
+    {
+      "name": "podcasts",
+      "repo": "https://github.com/gadenbuie/podcasts",
+      "language": "R"
+    },
+    {
+      "name": "quarto-bluesky-comments",
+      "repo": "https://github.com/gadenbuie/quarto-bluesky-comments",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rsprefs",
+      "repo": "https://github.com/gadenbuie/rsprefs",
+      "language": "R"
+    },
+    {
+      "name": "quarto-utopia-slides",
+      "repo": "https://github.com/gadenbuie/quarto-utopia-slides",
+      "language": "CSS"
+    },
+    {
+      "name": "rmedicine-2024-bslib",
+      "repo": "https://github.com/gadenbuie/rmedicine-2024-bslib",
+      "language": "HTML"
+    },
+    {
+      "name": "quarto-dark-light",
+      "repo": "https://github.com/gadenbuie/quarto-dark-light",
+      "language": "CSS"
+    },
+    {
+      "name": "grkgdown",
+      "repo": "https://github.com/gadenbuie/grkgdown",
+      "language": "JavaScript"
+    },
+    {
+      "name": "js4shiny",
+      "repo": "https://github.com/gadenbuie/js4shiny",
+      "language": "R"
+    },
+    {
+      "name": "tweet-conf-dash",
+      "repo": "https://github.com/gadenbuie/tweet-conf-dash",
+      "url": "https://apps.garrickadenbuie.com/rstudioconf-2019/",
+      "language": "CSS"
+    },
+    {
+      "name": "quarto-reprex-listing-chomp",
+      "repo": "https://github.com/gadenbuie/quarto-reprex-listing-chomp",
+      "language": "EJS"
+    },
+    {
+      "name": "revealjs-text-resizer",
+      "repo": "https://github.com/gadenbuie/revealjs-text-resizer",
+      "language": "HTML"
+    },
+    {
+      "name": "pkgdownArticleFormat",
+      "repo": "https://github.com/gadenbuie/pkgdownArticleFormat",
+      "language": "R"
+    },
+    {
+      "name": "cleanrmd",
+      "repo": "https://github.com/gadenbuie/cleanrmd",
+      "url": "https://pkg.garrickadenbuie.com/cleanrmd",
+      "language": "CSS"
+    },
+    {
+      "name": "lorem",
+      "repo": "https://github.com/gadenbuie/lorem",
+      "language": "R"
+    },
+    {
+      "name": "quarto-reprex",
+      "repo": "https://github.com/gadenbuie/quarto-reprex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tweetrmd",
+      "repo": "https://github.com/gadenbuie/tweetrmd",
+      "language": "R"
+    },
+    {
+      "name": "js4shiny-frappeCharts",
+      "repo": "https://github.com/gadenbuie/js4shiny-frappeCharts",
+      "language": "HTML"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/gadenbuie/resume",
+      "language": "HTML"
+    },
+    {
+      "name": "renv-git-submodules",
+      "repo": "https://github.com/gadenbuie/renv-git-submodules",
+      "language": "R"
+    },
+    {
+      "name": "getcitations",
+      "repo": "https://github.com/gadenbuie/getcitations",
+      "language": "R"
+    },
+    {
+      "name": "pkgDocsWorkflowTest",
+      "repo": "https://github.com/gadenbuie/pkgDocsWorkflowTest",
+      "language": "R"
+    },
+    {
+      "name": "ggpomological",
+      "repo": "https://github.com/gadenbuie/ggpomological",
+      "language": "R"
+    },
+    {
+      "name": "tidyexplain",
+      "repo": "https://github.com/gadenbuie/tidyexplain",
+      "url": "https://garrickadenbuie.com/project/tidyexplain",
+      "language": "R"
+    },
+    {
+      "name": "tweets-of-the-year",
+      "repo": "https://github.com/gadenbuie/tweets-of-the-year",
+      "url": "https://gadenbuie.shinyapps.io/tweets-of-2019/",
+      "language": "R"
+    },
+    {
+      "name": "gadenbuie.github.io",
+      "repo": "https://github.com/gadenbuie/gadenbuie.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-shinycannon",
+      "repo": "https://github.com/gadenbuie/docker-shinycannon",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "boostrap-v3-theme-minty",
+      "repo": "https://github.com/gadenbuie/boostrap-v3-theme-minty",
+      "language": "HTML"
+    },
+    {
+      "name": "rstudioconf-notes",
+      "repo": "https://github.com/gadenbuie/rstudioconf-notes",
+      "language": "HTML"
+    },
+    {
+      "name": "aws-p2-setup",
+      "repo": "https://github.com/gadenbuie/aws-p2-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "nonlinear-opt-notes",
+      "repo": "https://github.com/gadenbuie/nonlinear-opt-notes"
+    },
+    {
+      "name": "branchMover",
+      "repo": "https://github.com/gadenbuie/branchMover",
+      "language": "R"
+    },
+    {
+      "name": "tidy-tuesday",
+      "repo": "https://github.com/gadenbuie/tidy-tuesday"
+    },
+    {
+      "name": "usf-boot-camp-R",
+      "repo": "https://github.com/gadenbuie/usf-boot-camp-R",
+      "language": "R"
+    },
+    {
+      "name": "ten-thousand-functions",
+      "repo": "https://github.com/gadenbuie/ten-thousand-functions",
+      "url": "https://slides.garrickadenbuie.com/ten-thousand-functions/",
+      "language": "CSS"
+    },
+    {
+      "name": "rstatsnyc-2018-tweets",
+      "repo": "https://github.com/gadenbuie/rstatsnyc-2018-tweets",
+      "url": "https://apps.garrickadenbuie.com/rstatsnyc-2018-tweets/",
+      "language": "R"
+    },
+    {
+      "name": "docker-rstudio-keras",
+      "repo": "https://github.com/gadenbuie/docker-rstudio-keras",
+      "url": "https://cloud.docker.com/repository/docker/grrrck/rstudio-keras",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "drake-rstudio-jobs-example",
+      "repo": "https://github.com/gadenbuie/drake-rstudio-jobs-example",
+      "language": "R"
+    },
+    {
+      "name": "extra-awesome-xaringan",
+      "repo": "https://github.com/gadenbuie/extra-awesome-xaringan",
+      "language": "R"
+    },
+    {
+      "name": "applause",
+      "repo": "https://github.com/gadenbuie/applause",
+      "url": "https://pkg.garrickadenbuie.com/applause",
+      "language": "R"
+    },
+    {
+      "name": "js4shiny-workshop-webpage",
+      "repo": "https://github.com/gadenbuie/js4shiny-workshop-webpage",
+      "url": "https://js4shiny.com",
+      "language": "HTML"
+    },
+    {
+      "name": "js4shiny-drumkit",
+      "repo": "https://github.com/gadenbuie/js4shiny-drumkit",
+      "language": "HTML"
+    },
+    {
+      "name": "rstudio-ide-tips-demo",
+      "repo": "https://github.com/gadenbuie/rstudio-ide-tips-demo",
+      "language": "R"
+    },
+    {
+      "name": "snippets",
+      "repo": "https://github.com/gadenbuie/snippets",
+      "language": "Vim Snippet"
+    },
+    {
+      "name": "actionTest",
+      "repo": "https://github.com/gadenbuie/actionTest"
+    },
+    {
+      "name": "gentle-ggplot2",
+      "repo": "https://github.com/gadenbuie/gentle-ggplot2",
+      "url": "https://gadenbuie.github.io/gentle-ggplot2/",
+      "language": "HTML"
+    },
+    {
+      "name": "mueller-report",
+      "repo": "https://github.com/gadenbuie/mueller-report",
+      "language": "R"
+    },
+    {
+      "name": "oceanic-eighties",
+      "repo": "https://github.com/gadenbuie/oceanic-eighties"
+    },
+    {
+      "name": "rsconf_tweets",
+      "repo": "https://github.com/gadenbuie/rsconf_tweets",
+      "url": "https://gadenbuie.shinyapps.io/rsconf_tweets/",
+      "language": "R"
+    },
+    {
+      "name": "trump-tweet-time",
+      "repo": "https://github.com/gadenbuie/trump-tweet-time",
+      "url": "https://apps.garrickadenbuie.com/trump-tweet-time",
+      "language": "R"
+    },
+    {
+      "name": "xaringan-logo",
+      "repo": "https://github.com/gadenbuie/xaringan-logo",
+      "url": "https://gadenbuie.github.io/xaringan-logo",
+      "language": "HTML"
+    },
+    {
+      "name": "xaringan2powerpoint",
+      "repo": "https://github.com/gadenbuie/xaringan2powerpoint",
+      "url": "https://gadenbuie.github.io/xaringan2powerpoint/slides.html",
+      "language": "HTML"
+    },
+    {
+      "name": "drake-intro",
+      "repo": "https://github.com/gadenbuie/drake-intro",
+      "url": "https://pkg.garrickadenbuie.com/drake-intro/",
+      "language": "R"
+    },
+    {
+      "name": "intro-to-git-for-scientists",
+      "repo": "https://github.com/gadenbuie/intro-to-git-for-scientists",
+      "language": "TeX"
+    },
+    {
+      "name": "repromonkey",
+      "repo": "https://github.com/gadenbuie/repromonkey",
+      "language": "R"
+    },
+    {
+      "name": "yule-rstudio",
+      "repo": "https://github.com/gadenbuie/yule-rstudio"
+    },
+    {
+      "name": "shinyComponents",
+      "repo": "https://github.com/gadenbuie/shinyComponents",
+      "language": "R"
+    },
+    {
+      "name": "shinyThings",
+      "repo": "https://github.com/gadenbuie/shinyThings",
+      "url": "https://pkg.garrickadenbuie.com/shinyThings",
+      "language": "R"
+    },
+    {
+      "name": "synamyn",
+      "repo": "https://github.com/gadenbuie/synamyn",
+      "language": "R"
+    },
+    {
+      "name": "gathertweet",
+      "repo": "https://github.com/gadenbuie/gathertweet",
+      "language": "R"
+    },
+    {
+      "name": "rstudioAddinFriend",
+      "repo": "https://github.com/gadenbuie/rstudioAddinFriend",
+      "language": "R"
+    }
+  ]
+}

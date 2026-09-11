@@ -1,0 +1,528 @@
+{
+  "handle": "lhns",
+  "name": "Pierre Kisters",
+  "github": [
+    "https://github.com/lhns"
+  ],
+  "website": "https://blog.lhns.de/",
+  "own_repos": 190,
+  "commits": 10214,
+  "apps": [],
+  "repos": [
+    {
+      "name": "doobie-flyway",
+      "repo": "https://github.com/lhns/doobie-flyway",
+      "language": "Scala"
+    },
+    {
+      "name": "zvoove-junkmail-remover",
+      "repo": "https://github.com/lhns/zvoove-junkmail-remover",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-http-problem",
+      "repo": "https://github.com/lhns/scala-http-problem",
+      "language": "Scala"
+    },
+    {
+      "name": "remote-io",
+      "repo": "https://github.com/lhns/remote-io",
+      "language": "Scala"
+    },
+    {
+      "name": "Pushy-Reloaded",
+      "repo": "https://github.com/lhns/Pushy-Reloaded",
+      "url": "https://lhns.github.io/Pushy-Reloaded/",
+      "language": "Scala"
+    },
+    {
+      "name": "prometheus-bash-exporter",
+      "repo": "https://github.com/lhns/prometheus-bash-exporter",
+      "url": "https://github.com/users/lhns/packages/container/package/prometheus-bash-exporter",
+      "language": "Scala"
+    },
+    {
+      "name": "pixelmapper",
+      "repo": "https://github.com/lhns/pixelmapper",
+      "language": "Scala"
+    },
+    {
+      "name": "optical-number-recognition",
+      "repo": "https://github.com/lhns/optical-number-recognition",
+      "language": "Scala"
+    },
+    {
+      "name": "nifi-scala",
+      "repo": "https://github.com/lhns/nifi-scala",
+      "language": "Scala"
+    },
+    {
+      "name": "kubedeploy",
+      "repo": "https://github.com/lhns/kubedeploy",
+      "language": "Scala"
+    },
+    {
+      "name": "jwt-s",
+      "repo": "https://github.com/lhns/jwt-s",
+      "language": "Scala"
+    },
+    {
+      "name": "http4s-spa",
+      "repo": "https://github.com/lhns/http4s-spa",
+      "language": "Scala"
+    },
+    {
+      "name": "http4s-proxy",
+      "repo": "https://github.com/lhns/http4s-proxy",
+      "language": "Scala"
+    },
+    {
+      "name": "http4s-play",
+      "repo": "https://github.com/lhns/http4s-play",
+      "language": "Scala"
+    },
+    {
+      "name": "http4s-errors",
+      "repo": "https://github.com/lhns/http4s-errors",
+      "language": "Scala"
+    },
+    {
+      "name": "http4s-brotli",
+      "repo": "https://github.com/lhns/http4s-brotli",
+      "language": "Scala"
+    },
+    {
+      "name": "http-wait",
+      "repo": "https://github.com/lhns/http-wait",
+      "url": "https://github.com/users/LolHens/packages/container/package/http-wait",
+      "language": "Scala"
+    },
+    {
+      "name": "grafana-ruler-proxy",
+      "repo": "https://github.com/lhns/grafana-ruler-proxy",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-registry-cache",
+      "repo": "https://github.com/lhns/docker-registry-cache",
+      "url": "https://github.com/users/lhns/packages/container/package/docker-registry-cache",
+      "language": "Scala"
+    },
+    {
+      "name": "dir-stats-exporter",
+      "repo": "https://github.com/lhns/dir-stats-exporter",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-common",
+      "repo": "https://github.com/lhns/scala-common",
+      "language": "Scala"
+    },
+    {
+      "name": "cdn-cache",
+      "repo": "https://github.com/lhns/cdn-cache",
+      "language": "Scala"
+    },
+    {
+      "name": "remote-docker",
+      "repo": "https://github.com/lhns/remote-docker",
+      "language": "Go"
+    },
+    {
+      "name": "raptorpath",
+      "repo": "https://github.com/lhns/raptorpath",
+      "language": "Rust"
+    },
+    {
+      "name": "kube-ha-surge",
+      "repo": "https://github.com/lhns/kube-ha-surge",
+      "language": "Go"
+    },
+    {
+      "name": "kube-vnet",
+      "repo": "https://github.com/lhns/kube-vnet",
+      "language": "Go"
+    },
+    {
+      "name": "kube-oci-composer",
+      "repo": "https://github.com/lhns/kube-oci-composer",
+      "language": "Go"
+    },
+    {
+      "name": "mqtt-monitoring",
+      "repo": "https://github.com/lhns/mqtt-monitoring",
+      "language": "Scala"
+    },
+    {
+      "name": "fs2-pcap",
+      "repo": "https://github.com/lhns/fs2-pcap",
+      "language": "Scala"
+    },
+    {
+      "name": "fs2-functork",
+      "repo": "https://github.com/lhns/fs2-functork",
+      "language": "Scala"
+    },
+    {
+      "name": "fs2-compress",
+      "repo": "https://github.com/lhns/fs2-compress",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-trustmanager-utils",
+      "repo": "https://github.com/lhns/scala-trustmanager-utils",
+      "language": "Scala"
+    },
+    {
+      "name": "k0s-flux-example",
+      "repo": "https://github.com/lhns/k0s-flux-example",
+      "language": "Shell"
+    },
+    {
+      "name": "scala-edifact",
+      "repo": "https://github.com/lhns/scala-edifact",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-commandline",
+      "repo": "https://github.com/lhns/scala-commandline",
+      "language": "Scala"
+    },
+    {
+      "name": "fs2-utils",
+      "repo": "https://github.com/lhns/fs2-utils",
+      "language": "Scala"
+    },
+    {
+      "name": "cats-effect-utils",
+      "repo": "https://github.com/lhns/cats-effect-utils",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-grafana-babel",
+      "repo": "https://github.com/lhns/docker-grafana-babel",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "sbt-scalajs-webjar",
+      "repo": "https://github.com/lhns/sbt-scalajs-webjar",
+      "language": "Scala"
+    },
+    {
+      "name": "munit-tagless-final",
+      "repo": "https://github.com/lhns/munit-tagless-final",
+      "language": "Scala"
+    },
+    {
+      "name": "atomicflow",
+      "repo": "https://github.com/lhns/atomicflow",
+      "language": "Scala"
+    },
+    {
+      "name": "immich-album-federation",
+      "repo": "https://github.com/lhns/immich-album-federation",
+      "language": "Scala"
+    },
+    {
+      "name": "kube-pv-reaper",
+      "repo": "https://github.com/lhns/kube-pv-reaper",
+      "language": "Shell"
+    },
+    {
+      "name": "kube-traefik-reflector",
+      "repo": "https://github.com/lhns/kube-traefik-reflector",
+      "language": "Go"
+    },
+    {
+      "name": "headlamp-app-view",
+      "repo": "https://github.com/lhns/headlamp-app-view",
+      "language": "TypeScript"
+    },
+    {
+      "name": "umleitung",
+      "repo": "https://github.com/lhns/umleitung",
+      "language": "Go"
+    },
+    {
+      "name": "docker-swarm-keepalived",
+      "repo": "https://github.com/lhns/docker-swarm-keepalived",
+      "url": "https://hub.docker.com/r/lolhens/keepalived-swarm",
+      "language": "Shell"
+    },
+    {
+      "name": "bash-try-catch",
+      "repo": "https://github.com/lhns/bash-try-catch",
+      "language": "Shell"
+    },
+    {
+      "name": "otel-stack-swarm",
+      "repo": "https://github.com/lhns/otel-stack-swarm",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-vpn-gateway",
+      "repo": "https://github.com/lhns/docker-vpn-gateway",
+      "language": "Shell"
+    },
+    {
+      "name": "midi-pages",
+      "repo": "https://github.com/lhns/midi-pages",
+      "language": "Rust"
+    },
+    {
+      "name": "beatpulse",
+      "repo": "https://github.com/lhns/beatpulse",
+      "language": "Rust"
+    },
+    {
+      "name": "daslight-midi-pad-editor",
+      "repo": "https://github.com/lhns/daslight-midi-pad-editor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zephyrus-g14-fn-nav",
+      "repo": "https://github.com/lhns/zephyrus-g14-fn-nav",
+      "language": "Python"
+    },
+    {
+      "name": "mc-dependency-provider",
+      "repo": "https://github.com/lhns/mc-dependency-provider",
+      "language": "Java"
+    },
+    {
+      "name": "mc-game-of-life-3d",
+      "repo": "https://github.com/lhns/mc-game-of-life-3d",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/game-of-life-3d",
+      "language": "Scala"
+    },
+    {
+      "name": "mc-fluid-physics",
+      "repo": "https://github.com/lhns/mc-fluid-physics",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fluid-physics",
+      "language": "Scala"
+    },
+    {
+      "name": "mc-blockshifter",
+      "repo": "https://github.com/lhns/mc-blockshifter",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/blockshifter",
+      "language": "Scala"
+    },
+    {
+      "name": "mc-skylands",
+      "repo": "https://github.com/lhns/mc-skylands",
+      "url": "https://minecraft.curseforge.com/projects/skylands-mod",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-debian-jq",
+      "repo": "https://github.com/lhns/docker-debian-jq",
+      "url": "https://hub.docker.com/r/lolhens/debian-jq",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "blobs4s",
+      "repo": "https://github.com/lhns/blobs4s",
+      "language": "Scala"
+    },
+    {
+      "name": "restic-android",
+      "repo": "https://github.com/lhns/restic-android",
+      "language": "Kotlin"
+    },
+    {
+      "name": "docker-sbt-graal",
+      "repo": "https://github.com/lhns/docker-sbt-graal",
+      "url": "https://github.com/lhns/docker-sbt-graal/pkgs/container/sbt-graal",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-remark-cli",
+      "repo": "https://github.com/lhns/docker-remark-cli",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "git-json-editor",
+      "repo": "https://github.com/lhns/git-json-editor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "newleafradio",
+      "repo": "https://github.com/lhns/newleafradio"
+    },
+    {
+      "name": "user-info",
+      "repo": "https://github.com/lhns/user-info",
+      "language": "PHP"
+    },
+    {
+      "name": "docker-fastchat",
+      "repo": "https://github.com/lhns/docker-fastchat",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "dmx-snake",
+      "repo": "https://github.com/lhns/dmx-snake",
+      "language": "Rust"
+    },
+    {
+      "name": "docker-swarm-dind",
+      "repo": "https://github.com/lhns/docker-swarm-dind",
+      "language": "Shell"
+    },
+    {
+      "name": "http4s-otel",
+      "repo": "https://github.com/lhns/http4s-otel",
+      "language": "Scala"
+    },
+    {
+      "name": "obs-autosplitter",
+      "repo": "https://github.com/lhns/obs-autosplitter",
+      "url": "https://obsproject.com/forum/resources/autosplitter.781/",
+      "language": "Lua"
+    },
+    {
+      "name": "docker-acme-dns",
+      "repo": "https://github.com/lhns/docker-acme-dns",
+      "url": "https://github.com/users/lhns/packages/container/package/acme-dns",
+      "language": "Shell"
+    },
+    {
+      "name": "ai-smarthome-assistant",
+      "repo": "https://github.com/lhns/ai-smarthome-assistant",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-cleanimage",
+      "repo": "https://github.com/lhns/docker-cleanimage",
+      "language": "Shell"
+    },
+    {
+      "name": "server-desktop",
+      "repo": "https://github.com/lhns/server-desktop",
+      "language": "Scala"
+    },
+    {
+      "name": "artnet-dmx-eth-esp32",
+      "repo": "https://github.com/lhns/artnet-dmx-eth-esp32",
+      "language": "C++"
+    },
+    {
+      "name": "json-editor-test",
+      "repo": "https://github.com/lhns/json-editor-test"
+    },
+    {
+      "name": "httpclient-cli",
+      "repo": "https://github.com/lhns/httpclient-cli",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-ammonite",
+      "repo": "https://github.com/lhns/docker-ammonite",
+      "url": "https://hub.docker.com/r/lolhens/ammonite",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "p2pfs",
+      "repo": "https://github.com/lhns/p2pfs",
+      "language": "Scala"
+    },
+    {
+      "name": "http4s-monix",
+      "repo": "https://github.com/lhns/http4s-monix",
+      "language": "Scala"
+    },
+    {
+      "name": "portainer-stack-set",
+      "repo": "https://github.com/lhns/portainer-stack-set",
+      "language": "Shell"
+    },
+    {
+      "name": "broadcast-relay",
+      "repo": "https://github.com/lhns/broadcast-relay"
+    },
+    {
+      "name": "js-timer-ui",
+      "repo": "https://github.com/lhns/js-timer-ui",
+      "language": "HTML"
+    },
+    {
+      "name": "esp-configurator-ui",
+      "repo": "https://github.com/lhns/esp-configurator-ui",
+      "language": "HTML"
+    },
+    {
+      "name": "docker-compose-image",
+      "repo": "https://github.com/lhns/docker-compose-image",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "midiTik",
+      "repo": "https://github.com/lhns/midiTik",
+      "language": "Scala"
+    },
+    {
+      "name": "ScalaStringUtils",
+      "repo": "https://github.com/lhns/ScalaStringUtils",
+      "language": "Scala"
+    },
+    {
+      "name": "ComputerCraft-lua",
+      "repo": "https://github.com/lhns/ComputerCraft-lua",
+      "language": "Lua"
+    },
+    {
+      "name": "LogicToProm",
+      "repo": "https://github.com/lhns/LogicToProm",
+      "language": "Scala"
+    },
+    {
+      "name": "docker-openldap-2441-centos7",
+      "repo": "https://github.com/lhns/docker-openldap-2441-centos7",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "phpgame",
+      "repo": "https://github.com/lhns/phpgame",
+      "language": "PHP"
+    },
+    {
+      "name": "jq-buildenv",
+      "repo": "https://github.com/lhns/jq-buildenv",
+      "url": "https://github.com/users/LolHens/packages/container/package/jq-buildenv",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cadvisor-limiter",
+      "repo": "https://github.com/lhns/cadvisor-limiter",
+      "url": "https://github.com/users/LolHens/packages/container/package/cadvisor-limiter",
+      "language": "Scala"
+    },
+    {
+      "name": "satip-rtsp-proxy",
+      "repo": "https://github.com/lhns/satip-rtsp-proxy",
+      "url": "https://github.com/users/LolHens/packages/container/package/satip-rtsp-proxy",
+      "language": "Scala"
+    },
+    {
+      "name": "java-mixin-stubber",
+      "repo": "https://github.com/lhns/java-mixin-stubber",
+      "language": "Java"
+    },
+    {
+      "name": "switchmonitor",
+      "repo": "https://github.com/lhns/switchmonitor",
+      "language": "AutoIt"
+    },
+    {
+      "name": "dynmap-fabric",
+      "repo": "https://github.com/lhns/dynmap-fabric",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dynmapforge",
+      "language": "Java"
+    },
+    {
+      "name": "docker-teamcity-agent",
+      "repo": "https://github.com/lhns/docker-teamcity-agent",
+      "language": "Dockerfile"
+    }
+  ]
+}

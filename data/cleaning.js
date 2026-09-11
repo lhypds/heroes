@@ -213,7 +213,7 @@ const sql = {
   // that nobody who could pass is left unasked.
   truncated: db.prepare(`SELECT login FROM people
     WHERE full IS NOT 1 AND checked = ? AND own > ? AND authored <= ? AND authored * own / 100.0 > ?
-    ORDER BY own`),
+    ORDER BY authored DESC`),
   truncatedRepos: db.prepare(`SELECT sum(own - ?) AS n FROM people
     WHERE full IS NOT 1 AND checked = ? AND own > ? AND authored <= ? AND authored * own / 100.0 > ?`),
   heroes: db.prepare("SELECT * FROM people WHERE authored > ? ORDER BY authored DESC, login"),
@@ -758,9 +758,11 @@ const step4 = async () => {
     console.log(`step 4: ${queue.length} people the hundred cut short and who could still pass, ` +
       `${(repos.n ?? 0).toLocaleString("en")} repositories left to count`);
   }
-  // The smallest accounts first, so the hours are spent where they tell
-  // most: the fewer repositories are left unread, the likelier the hundred
-  // already said what the whole would.
+  // Whoever came closest in the hundred goes first. They need least of
+  // what is unread, so they are likeliest to pass and cheapest to settle,
+  // and the run can be stopped at any hour with the heroes it would have
+  // found already found. The repository farms — forty thousand
+  // repositories and four hundred commits — sort to the very end.
   await drive(4, queue, Infinity);
 };
 

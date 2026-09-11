@@ -1,0 +1,513 @@
+{
+  "handle": "liquidz",
+  "name": "Iizuka Masashi",
+  "github": [
+    "https://github.com/liquidz"
+  ],
+  "website": "https://scrapbox.io/uochan/uochan",
+  "own_repos": 185,
+  "commits": 11263,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/liquidz/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "elin",
+      "repo": "https://github.com/liquidz/elin",
+      "url": "https://liquidz.github.io/elin/",
+      "language": "Clojure"
+    },
+    {
+      "name": "elin-nvim-notify",
+      "repo": "https://github.com/liquidz/elin-nvim-notify",
+      "language": "Clojure"
+    },
+    {
+      "name": "liquidz",
+      "repo": "https://github.com/liquidz/liquidz",
+      "language": "Shell"
+    },
+    {
+      "name": "clj-mcp",
+      "repo": "https://github.com/liquidz/clj-mcp",
+      "language": "Clojure"
+    },
+    {
+      "name": "elin-mcp",
+      "repo": "https://github.com/liquidz/elin-mcp",
+      "language": "Clojure"
+    },
+    {
+      "name": "antq",
+      "repo": "https://github.com/liquidz/antq",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced",
+      "repo": "https://github.com/liquidz/vim-iced",
+      "url": "https://liquidz.github.io/vim-iced/",
+      "language": "Vim Script"
+    },
+    {
+      "name": "elin-format",
+      "repo": "https://github.com/liquidz/elin-format",
+      "language": "Clojure"
+    },
+    {
+      "name": "elin-cmp-source",
+      "repo": "https://github.com/liquidz/elin-cmp-source",
+      "language": "Lua"
+    },
+    {
+      "name": "elin-telescope.nvim",
+      "repo": "https://github.com/liquidz/elin-telescope.nvim"
+    },
+    {
+      "name": "elin-coc-source",
+      "repo": "https://github.com/liquidz/elin-coc-source",
+      "language": "TypeScript"
+    },
+    {
+      "name": "norosi",
+      "repo": "https://github.com/liquidz/norosi",
+      "url": "https://github.com/liquidz/norosi",
+      "language": "Clojure"
+    },
+    {
+      "name": "build.edn",
+      "repo": "https://github.com/liquidz/build.edn",
+      "language": "Clojure"
+    },
+    {
+      "name": "merr",
+      "repo": "https://github.com/liquidz/merr",
+      "language": "Clojure"
+    },
+    {
+      "name": "rewrite-indented",
+      "repo": "https://github.com/liquidz/rewrite-indented",
+      "language": "Clojure"
+    },
+    {
+      "name": "deno-bencode",
+      "repo": "https://github.com/liquidz/deno-bencode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mint",
+      "repo": "https://github.com/liquidz/mint",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-deno-squint-demo",
+      "repo": "https://github.com/liquidz/vim-deno-squint-demo",
+      "language": "Clojure"
+    },
+    {
+      "name": "deno-nrepl-client",
+      "repo": "https://github.com/liquidz/deno-nrepl-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-interceptor",
+      "repo": "https://github.com/liquidz/deno-interceptor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "uniform",
+      "repo": "https://github.com/liquidz/uniform",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-riced",
+      "repo": "https://github.com/liquidz/vim-riced",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-iced-ddc-source",
+      "repo": "https://github.com/liquidz/vim-iced-ddc-source",
+      "language": "TypeScript"
+    },
+    {
+      "name": "iced-nrepl",
+      "repo": "https://github.com/liquidz/iced-nrepl",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-telescope-selector",
+      "repo": "https://github.com/liquidz/vim-iced-telescope-selector",
+      "language": "Vim Script"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/liquidz/test",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-vimhelp",
+      "repo": "https://github.com/liquidz/clj-vimhelp",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-ddu-selector",
+      "repo": "https://github.com/liquidz/vim-iced-ddu-selector",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ddu-source-custom-list",
+      "repo": "https://github.com/liquidz/ddu-source-custom-list",
+      "language": "TypeScript"
+    },
+    {
+      "name": "testdoc",
+      "repo": "https://github.com/liquidz/testdoc",
+      "language": "Clojure"
+    },
+    {
+      "name": "dps-parinfer",
+      "repo": "https://github.com/liquidz/dps-parinfer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "clj-mindustry",
+      "repo": "https://github.com/liquidz/clj-mindustry",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-fern-debugger",
+      "repo": "https://github.com/liquidz/vim-iced-fern-debugger",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dad",
+      "repo": "https://github.com/liquidz/dad",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-stdout-debugger",
+      "repo": "https://github.com/liquidz/vim-iced-stdout-debugger",
+      "language": "Vim Script"
+    },
+    {
+      "name": "antq-action",
+      "repo": "https://github.com/liquidz/antq-action",
+      "language": "Shell"
+    },
+    {
+      "name": "vim-iced-neil",
+      "repo": "https://github.com/liquidz/vim-iced-neil",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-file-to-file",
+      "repo": "https://github.com/liquidz/vim-file-to-file",
+      "language": "Vim Script"
+    },
+    {
+      "name": "babashka-test-action",
+      "repo": "https://github.com/liquidz/babashka-test-action",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-xmas",
+      "repo": "https://github.com/liquidz/clj-xmas",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-error-checker",
+      "repo": "https://github.com/liquidz/clj-error-checker",
+      "language": "Clojure"
+    },
+    {
+      "name": "esac",
+      "repo": "https://github.com/liquidz/esac",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-multi-session",
+      "repo": "https://github.com/liquidz/vim-iced-multi-session",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dps-paredit",
+      "repo": "https://github.com/liquidz/dps-paredit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno.dev",
+      "repo": "https://github.com/liquidz/deno.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kaocha-nrepl",
+      "repo": "https://github.com/liquidz/kaocha-nrepl",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-coc-source",
+      "repo": "https://github.com/liquidz/vim-iced-coc-source",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-textimer",
+      "repo": "https://github.com/liquidz/vim-textimer",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-iced-project-namespaces",
+      "repo": "https://github.com/liquidz/vim-iced-project-namespaces",
+      "language": "Vim Script"
+    },
+    {
+      "name": "clj-text-decoration",
+      "repo": "https://github.com/liquidz/clj-text-decoration",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-kaocha",
+      "repo": "https://github.com/liquidz/vim-iced-kaocha",
+      "language": "Vim Script"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/liquidz/.github"
+    },
+    {
+      "name": "pod-uochan-tarayo",
+      "repo": "https://github.com/liquidz/pod-uochan-tarayo",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-iced-function-list",
+      "repo": "https://github.com/liquidz/vim-iced-function-list",
+      "language": "Vim Script"
+    },
+    {
+      "name": "cookbooks",
+      "repo": "https://github.com/liquidz/cookbooks",
+      "language": "Ruby"
+    },
+    {
+      "name": "docker-vim",
+      "repo": "https://github.com/liquidz/docker-vim",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "vim-iced-asyncomplete",
+      "repo": "https://github.com/liquidz/vim-iced-asyncomplete",
+      "language": "Vim Script"
+    },
+    {
+      "name": "windows-test",
+      "repo": "https://github.com/liquidz/windows-test",
+      "language": "Clojure"
+    },
+    {
+      "name": "hello-nrepl-middleware",
+      "repo": "https://github.com/liquidz/hello-nrepl-middleware",
+      "language": "Clojure"
+    },
+    {
+      "name": "nrepl-json",
+      "repo": "https://github.com/liquidz/nrepl-json",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-bencoded",
+      "repo": "https://github.com/liquidz/clj-bencoded",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-tailf",
+      "repo": "https://github.com/liquidz/vim-tailf",
+      "language": "Vim Script"
+    },
+    {
+      "name": "wikijsdemo",
+      "repo": "https://github.com/liquidz/wikijsdemo"
+    },
+    {
+      "name": "cl-docset-generator",
+      "repo": "https://github.com/liquidz/cl-docset-generator",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "neelm",
+      "repo": "https://github.com/liquidz/neelm",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-jwt",
+      "repo": "https://github.com/liquidz/clj-jwt",
+      "language": "Clojure"
+    },
+    {
+      "name": "duct-todo-demo",
+      "repo": "https://github.com/liquidz/duct-todo-demo",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-vimdoc",
+      "repo": "https://github.com/liquidz/clj-vimdoc",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-clj-buffer",
+      "repo": "https://github.com/liquidz/vim-clj-buffer",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-clj-trace",
+      "repo": "https://github.com/liquidz/vim-clj-trace",
+      "language": "Vim Script"
+    },
+    {
+      "name": "hrcm",
+      "repo": "https://github.com/liquidz/hrcm",
+      "language": "Clojure"
+    },
+    {
+      "name": "ents",
+      "repo": "https://github.com/liquidz/ents",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-docset",
+      "repo": "https://github.com/liquidz/clj-docset",
+      "language": "Clojure"
+    },
+    {
+      "name": "corne",
+      "repo": "https://github.com/liquidz/corne",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-csv-lint",
+      "repo": "https://github.com/liquidz/cl-csv-lint",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "scrapbox_query",
+      "repo": "https://github.com/liquidz/scrapbox_query",
+      "language": "Rust"
+    },
+    {
+      "name": "tog.vim",
+      "repo": "https://github.com/liquidz/tog.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "hello-waf",
+      "repo": "https://github.com/liquidz/hello-waf",
+      "language": "Makefile"
+    },
+    {
+      "name": "vim-scrapbox",
+      "repo": "https://github.com/liquidz/vim-scrapbox",
+      "language": "Vim Script"
+    },
+    {
+      "name": "quickcmd",
+      "repo": "https://github.com/liquidz/quickcmd",
+      "language": "Rust"
+    },
+    {
+      "name": "elm.clj",
+      "repo": "https://github.com/liquidz/elm.clj",
+      "language": "Clojure"
+    },
+    {
+      "name": "vim-textobj-value",
+      "repo": "https://github.com/liquidz/vim-textobj-value",
+      "language": "Vim Script"
+    },
+    {
+      "name": "ctrlme.vim",
+      "repo": "https://github.com/liquidz/ctrlme.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "markdown.nvim",
+      "repo": "https://github.com/liquidz/markdown.nvim",
+      "language": "Python"
+    },
+    {
+      "name": "nrepl.nvim",
+      "repo": "https://github.com/liquidz/nrepl.nvim",
+      "language": "Python"
+    },
+    {
+      "name": "digitalocean",
+      "repo": "https://github.com/liquidz/digitalocean",
+      "language": "Makefile"
+    },
+    {
+      "name": "oredoc.vim",
+      "repo": "https://github.com/liquidz/oredoc.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dlya",
+      "repo": "https://github.com/liquidz/dlya",
+      "language": "Clojure"
+    },
+    {
+      "name": "docker-jupyter",
+      "repo": "https://github.com/liquidz/docker-jupyter",
+      "language": "Makefile"
+    },
+    {
+      "name": "machine-learning-exercise",
+      "repo": "https://github.com/liquidz/machine-learning-exercise",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "vivi.vim",
+      "repo": "https://github.com/liquidz/vivi.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "docker-octave",
+      "repo": "https://github.com/liquidz/docker-octave",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-gollum",
+      "repo": "https://github.com/liquidz/docker-gollum",
+      "language": "Makefile"
+    },
+    {
+      "name": "docker-heroku-toolbelt",
+      "repo": "https://github.com/liquidz/docker-heroku-toolbelt",
+      "language": "Shell"
+    },
+    {
+      "name": "kami.vim",
+      "repo": "https://github.com/liquidz/kami.vim",
+      "language": "Vim Script"
+    },
+    {
+      "name": "beco",
+      "repo": "https://github.com/liquidz/beco",
+      "language": "Shell"
+    },
+    {
+      "name": "shelltest",
+      "repo": "https://github.com/liquidz/shelltest",
+      "language": "Go"
+    },
+    {
+      "name": "vim-shelltest",
+      "repo": "https://github.com/liquidz/vim-shelltest",
+      "language": "Vim Script"
+    },
+    {
+      "name": "docker-vint",
+      "repo": "https://github.com/liquidz/docker-vint",
+      "language": "Makefile"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "handle": "nomeata",
+  "name": "Joachim Breitner",
+  "github": [
+    "https://github.com/nomeata"
+  ],
+  "own_repos": 172,
+  "commits": 14261,
+  "apps": [],
+  "repos": [
+    {
+      "name": "lean-inductive-models",
+      "repo": "https://github.com/nomeata/lean-inductive-models",
+      "language": "Lean"
+    },
+    {
+      "name": "ntm",
+      "repo": "https://github.com/nomeata/ntm",
+      "language": "Python"
+    },
+    {
+      "name": "arbtt",
+      "repo": "https://github.com/nomeata/arbtt",
+      "language": "Haskell"
+    },
+    {
+      "name": "nanobruijn",
+      "repo": "https://github.com/nomeata/nanobruijn",
+      "language": "Rust"
+    },
+    {
+      "name": "cabal-plan-bounds",
+      "repo": "https://github.com/nomeata/cabal-plan-bounds",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean-mini-kernel",
+      "repo": "https://github.com/nomeata/lean-mini-kernel",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-dedep",
+      "repo": "https://github.com/nomeata/lean-dedep",
+      "language": "Lean"
+    },
+    {
+      "name": "tt-emu",
+      "repo": "https://github.com/nomeata/tt-emu",
+      "language": "Python"
+    },
+    {
+      "name": "tt-firmware-reveng",
+      "repo": "https://github.com/nomeata/tt-firmware-reveng",
+      "language": "C"
+    },
+    {
+      "name": "loogle",
+      "repo": "https://github.com/nomeata/loogle",
+      "url": "https://loogle.lean-lang.org/",
+      "language": "Lean"
+    },
+    {
+      "name": "umklapp-discord",
+      "repo": "https://github.com/nomeata/umklapp-discord",
+      "language": "Python"
+    },
+    {
+      "name": "lean-cwp",
+      "repo": "https://github.com/nomeata/lean-cwp",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-lisar",
+      "repo": "https://github.com/nomeata/lean-lisar",
+      "language": "Lean"
+    },
+    {
+      "name": "dynatarif",
+      "repo": "https://github.com/nomeata/dynatarif",
+      "url": "https://dynatarif.nomeata.de/",
+      "language": "HTML"
+    },
+    {
+      "name": "lean-lift-lets",
+      "repo": "https://github.com/nomeata/lean-lift-lets",
+      "language": "Lean"
+    },
+    {
+      "name": "zellij-sessioner",
+      "repo": "https://github.com/nomeata/zellij-sessioner",
+      "language": "Rust"
+    },
+    {
+      "name": "lean-darray",
+      "repo": "https://github.com/nomeata/lean-darray",
+      "url": "https://leanprover.zulipchat.com/#narrow/stream/270676-lean4/topic/DArray.20as.20primitives.20for.20compact.20data.20structures/near/392833050",
+      "language": "Lean"
+    },
+    {
+      "name": "haskell-bounds-bump-action",
+      "repo": "https://github.com/nomeata/haskell-bounds-bump-action"
+    },
+    {
+      "name": "meine-zeit",
+      "repo": "https://github.com/nomeata/meine-zeit",
+      "language": "HTML"
+    },
+    {
+      "name": "lean-opaqifier",
+      "repo": "https://github.com/nomeata/lean-opaqifier",
+      "language": "Lean"
+    },
+    {
+      "name": "incredible",
+      "repo": "https://github.com/nomeata/incredible",
+      "language": "Haskell"
+    },
+    {
+      "name": "colibri-funcup-2026",
+      "repo": "https://github.com/nomeata/colibri-funcup-2026",
+      "language": "Python"
+    },
+    {
+      "name": "lean-highlights-tfp",
+      "repo": "https://github.com/nomeata/lean-highlights-tfp",
+      "language": "Lean"
+    },
+    {
+      "name": "inspection-testing",
+      "repo": "https://github.com/nomeata/inspection-testing",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean-cantor",
+      "repo": "https://github.com/nomeata/lean-cantor",
+      "language": "Lean"
+    },
+    {
+      "name": "screen-message",
+      "repo": "https://github.com/nomeata/screen-message",
+      "language": "C"
+    },
+    {
+      "name": "lean-match-testing",
+      "repo": "https://github.com/nomeata/lean-match-testing",
+      "language": "Lean"
+    },
+    {
+      "name": "colibri-funcup-2025",
+      "repo": "https://github.com/nomeata/colibri-funcup-2025",
+      "language": "Python"
+    },
+    {
+      "name": "spectec-nix",
+      "repo": "https://github.com/nomeata/spectec-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "lean-workshop-2025",
+      "repo": "https://github.com/nomeata/lean-workshop-2025",
+      "language": "Lean"
+    },
+    {
+      "name": "ic-certification",
+      "repo": "https://github.com/nomeata/ic-certification",
+      "url": "https://nomeata.github.io/ic-certification/",
+      "language": "Nix"
+    },
+    {
+      "name": "lean-stage0-audit",
+      "repo": "https://github.com/nomeata/lean-stage0-audit",
+      "language": "HTML"
+    },
+    {
+      "name": "udp-broadcast-relay",
+      "repo": "https://github.com/nomeata/udp-broadcast-relay",
+      "language": "C"
+    },
+    {
+      "name": "lean-simp-bench",
+      "repo": "https://github.com/nomeata/lean-simp-bench",
+      "language": "Lean"
+    },
+    {
+      "name": "pybotbrain",
+      "repo": "https://github.com/nomeata/pybotbrain",
+      "language": "PureScript"
+    },
+    {
+      "name": "squasher",
+      "repo": "https://github.com/nomeata/squasher",
+      "language": "Python"
+    },
+    {
+      "name": "lean-calcify",
+      "repo": "https://github.com/nomeata/lean-calcify",
+      "language": "Lean"
+    },
+    {
+      "name": "free-theorems-static-webui",
+      "repo": "https://github.com/nomeata/free-theorems-static-webui",
+      "url": "https://free-theorems.nomeata.de",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-candid",
+      "repo": "https://github.com/nomeata/haskell-candid",
+      "url": "https://nomeata.github.io/haskell-candid/Codec-Candid.html",
+      "language": "Haskell"
+    },
+    {
+      "name": "kaleidogen",
+      "repo": "https://github.com/nomeata/kaleidogen",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean-bobkonf-2025",
+      "repo": "https://github.com/nomeata/lean-bobkonf-2025",
+      "language": "Lean"
+    },
+    {
+      "name": "colibri-funcup-2024",
+      "repo": "https://github.com/nomeata/colibri-funcup-2024",
+      "url": "https://funcup24.gsccolibri.de/",
+      "language": "Python"
+    },
+    {
+      "name": "leaning-in-2025",
+      "repo": "https://github.com/nomeata/leaning-in-2025",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-live-nix",
+      "repo": "https://github.com/nomeata/lean-live-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "haskell-via-sokoban",
+      "repo": "https://github.com/nomeata/haskell-via-sokoban",
+      "language": "Haskell"
+    },
+    {
+      "name": "calendar-meet",
+      "repo": "https://github.com/nomeata/calendar-meet",
+      "language": "Python"
+    },
+    {
+      "name": "badminton-junkies",
+      "repo": "https://github.com/nomeata/badminton-junkies",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean-reflection-bench",
+      "repo": "https://github.com/nomeata/lean-reflection-bench",
+      "language": "Lean"
+    },
+    {
+      "name": "haskell-rec-def",
+      "repo": "https://github.com/nomeata/haskell-rec-def",
+      "url": "https://haskell-rec-def.nomeata.de/",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean-simplc",
+      "repo": "https://github.com/nomeata/lean-simplc",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-constructions",
+      "repo": "https://github.com/nomeata/lean-constructions",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-trie",
+      "repo": "https://github.com/nomeata/lean-trie",
+      "language": "Lean"
+    },
+    {
+      "name": "lean-wf-induct",
+      "repo": "https://github.com/nomeata/lean-wf-induct",
+      "language": "Lean"
+    },
+    {
+      "name": "ghc-heap-view",
+      "repo": "https://github.com/nomeata/ghc-heap-view",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean4-memo-nat",
+      "repo": "https://github.com/nomeata/lean4-memo-nat",
+      "language": "Lean"
+    },
+    {
+      "name": "list-fusion-probe",
+      "repo": "https://github.com/nomeata/list-fusion-probe",
+      "language": "Haskell"
+    },
+    {
+      "name": "lean-derec-lab",
+      "repo": "https://github.com/nomeata/lean-derec-lab",
+      "language": "Lean"
+    },
+    {
+      "name": "capture-the-ic-token",
+      "repo": "https://github.com/nomeata/capture-the-ic-token",
+      "url": "https://fj6bh-taaaa-aaaab-qaacq-cai.raw.ic0.app/",
+      "language": "Motoko"
+    },
+    {
+      "name": "colibri-funcup-2023",
+      "repo": "https://github.com/nomeata/colibri-funcup-2023",
+      "language": "Python"
+    },
+    {
+      "name": "cabal-force-upper-bound",
+      "repo": "https://github.com/nomeata/cabal-force-upper-bound",
+      "language": "Haskell"
+    },
+    {
+      "name": "left-rec-parse",
+      "repo": "https://github.com/nomeata/left-rec-parse",
+      "language": "Haskell"
+    },
+    {
+      "name": "rec-def-pearl",
+      "repo": "https://github.com/nomeata/rec-def-pearl",
+      "language": "HTML"
+    },
+    {
+      "name": "umklappbot",
+      "repo": "https://github.com/nomeata/umklappbot",
+      "language": "Haskell"
+    },
+    {
+      "name": "rerolling-sixes",
+      "repo": "https://github.com/nomeata/rerolling-sixes",
+      "language": "Lean"
+    },
+    {
+      "name": "git-multisect",
+      "repo": "https://github.com/nomeata/git-multisect",
+      "language": "Python"
+    },
+    {
+      "name": "bootstrapping-haskell",
+      "repo": "https://github.com/nomeata/bootstrapping-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "led-display",
+      "repo": "https://github.com/nomeata/led-display",
+      "language": "Haskell"
+    },
+    {
+      "name": "mitschriebwiki",
+      "repo": "https://github.com/nomeata/mitschriebwiki",
+      "language": "TeX"
+    },
+    {
+      "name": "hs-all-in-one",
+      "repo": "https://github.com/nomeata/hs-all-in-one",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-on-fastly",
+      "repo": "https://github.com/nomeata/haskell-on-fastly",
+      "language": "Haskell"
+    },
+    {
+      "name": "nofib-analyse",
+      "repo": "https://github.com/nomeata/nofib-analyse",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-successors",
+      "repo": "https://github.com/nomeata/haskell-successors",
+      "language": "Haskell"
+    },
+    {
+      "name": "sumserum",
+      "repo": "https://github.com/nomeata/sumserum",
+      "url": "https://sumserum.nomeata.de/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lean4-interactive-tactic",
+      "repo": "https://github.com/nomeata/lean4-interactive-tactic",
+      "language": "Lean"
+    },
+    {
+      "name": "gtk-vector-screenshot",
+      "repo": "https://github.com/nomeata/gtk-vector-screenshot",
+      "language": "C"
+    },
+    {
+      "name": "incredible-demo",
+      "repo": "https://github.com/nomeata/incredible-demo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "safe-docker",
+      "repo": "https://github.com/nomeata/safe-docker",
+      "language": "Perl"
+    },
+    {
+      "name": "ghc-justdoit",
+      "repo": "https://github.com/nomeata/ghc-justdoit",
+      "language": "Haskell"
+    },
+    {
+      "name": "haskell-for-readers",
+      "repo": "https://github.com/nomeata/haskell-for-readers",
+      "language": "Haskell"
+    },
+    {
+      "name": "ic-telegram-bot",
+      "repo": "https://github.com/nomeata/ic-telegram-bot",
+      "language": "Rust"
+    },
+    {
+      "name": "hpvt",
+      "repo": "https://github.com/nomeata/hpvt",
+      "url": "https://salsa.debian.org/haskell-team/hackage-tracker",
+      "language": "Haskell"
+    },
+    {
+      "name": "stability-predictor",
+      "repo": "https://github.com/nomeata/stability-predictor",
+      "language": "Haskell"
+    },
+    {
+      "name": "bidirectionalization-combined",
+      "repo": "https://github.com/nomeata/bidirectionalization-combined",
+      "language": "Haskell"
+    },
+    {
+      "name": "seal-module",
+      "repo": "https://github.com/nomeata/seal-module",
+      "language": "Haskell"
+    },
+    {
+      "name": "polyfix",
+      "repo": "https://github.com/nomeata/polyfix",
+      "language": "Haskell"
+    },
+    {
+      "name": "metainit",
+      "repo": "https://github.com/nomeata/metainit",
+      "language": "Perl"
+    },
+    {
+      "name": "pidgin-blinklight",
+      "repo": "https://github.com/nomeata/pidgin-blinklight",
+      "language": "C"
+    },
+    {
+      "name": "isa-launchbury",
+      "repo": "https://github.com/nomeata/isa-launchbury",
+      "language": "Isabelle"
+    },
+    {
+      "name": "ipatch",
+      "repo": "https://github.com/nomeata/ipatch",
+      "language": "Haskell"
+    },
+    {
+      "name": "hbejeweler",
+      "repo": "https://github.com/nomeata/hbejeweler",
+      "language": "Haskell"
+    },
+    {
+      "name": "hledger-irr",
+      "repo": "https://github.com/nomeata/hledger-irr",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs-import-analyzer",
+      "repo": "https://github.com/nomeata/hs-import-analyzer",
+      "language": "HTML"
+    },
+    {
+      "name": "libpam-dbus",
+      "repo": "https://github.com/nomeata/libpam-dbus",
+      "language": "Python"
+    },
+    {
+      "name": "talk-kfpg-haskell-roadshow",
+      "repo": "https://github.com/nomeata/talk-kfpg-haskell-roadshow",
+      "language": "TeX"
+    },
+    {
+      "name": "talk-mrmcd12-haskell-bytes",
+      "repo": "https://github.com/nomeata/talk-mrmcd12-haskell-bytes",
+      "language": "TeX"
+    },
+    {
+      "name": "gpn12-agda-talk",
+      "repo": "https://github.com/nomeata/gpn12-agda-talk",
+      "language": "Agda"
+    },
+    {
+      "name": "afp-Free-Groups",
+      "repo": "https://github.com/nomeata/afp-Free-Groups",
+      "language": "Isabelle"
+    },
+    {
+      "name": "gpn-gift",
+      "repo": "https://github.com/nomeata/gpn-gift",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-dup",
+      "repo": "https://github.com/nomeata/ghc-dup",
+      "language": "TeX"
+    },
+    {
+      "name": "ghc-deepseq",
+      "repo": "https://github.com/nomeata/ghc-deepseq",
+      "language": "Haskell"
+    }
+  ]
+}

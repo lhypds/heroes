@@ -1,0 +1,513 @@
+{
+  "handle": "mikeysrecipes",
+  "name": "mos",
+  "github": [
+    "https://github.com/mikeysrecipes"
+  ],
+  "bio": "working on MCPs and A2A infra at modl",
+  "own_repos": 179,
+  "commits": 17756,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mcp-mysql-server",
+      "repo": "https://github.com/mikeysrecipes/mcp-mysql-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codemcp",
+      "repo": "https://github.com/mikeysrecipes/codemcp",
+      "language": "Python"
+    },
+    {
+      "name": "browser-control-mcp",
+      "repo": "https://github.com/mikeysrecipes/browser-control-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-file-merger",
+      "repo": "https://github.com/mikeysrecipes/mcp-file-merger",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-playwright",
+      "repo": "https://github.com/mikeysrecipes/mcp-playwright",
+      "language": "TypeScript"
+    },
+    {
+      "name": "exa-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/exa-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-miro",
+      "repo": "https://github.com/mikeysrecipes/mcp-miro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-hfspace",
+      "repo": "https://github.com/mikeysrecipes/mcp-hfspace",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-server-esignatures",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-esignatures",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-hn",
+      "repo": "https://github.com/mikeysrecipes/mcp-hn",
+      "language": "Python"
+    },
+    {
+      "name": "adls-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/adls-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-bigquery-server",
+      "repo": "https://github.com/mikeysrecipes/mcp-bigquery-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zettelkasten-mcp",
+      "repo": "https://github.com/mikeysrecipes/zettelkasten-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "melrose-mcp",
+      "repo": "https://github.com/mikeysrecipes/melrose-mcp",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-log-proxy",
+      "repo": "https://github.com/mikeysrecipes/mcp-log-proxy",
+      "language": "Go"
+    },
+    {
+      "name": "freshdesk_mcp",
+      "repo": "https://github.com/mikeysrecipes/freshdesk_mcp",
+      "language": "Python"
+    },
+    {
+      "name": "nocodb-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/nocodb-mcp-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "edgedelta-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/edgedelta-mcp-server",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-server-dumplingai",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-dumplingai",
+      "language": "JavaScript"
+    },
+    {
+      "name": "MCPJungle",
+      "repo": "https://github.com/mikeysrecipes/MCPJungle",
+      "language": "Go"
+    },
+    {
+      "name": "domain-lookup-mcp",
+      "repo": "https://github.com/mikeysrecipes/domain-lookup-mcp",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-server-leetcode",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-leetcode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-server-ccxt",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-ccxt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "onepassword-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/onepassword-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "quran-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/quran-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "aseprite-mcp",
+      "repo": "https://github.com/mikeysrecipes/aseprite-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "weather-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/weather-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "mysql_mcp_server",
+      "repo": "https://github.com/mikeysrecipes/mysql_mcp_server",
+      "language": "Python"
+    },
+    {
+      "name": "postman-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/postman-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-server-main",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-main",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-opennutrition",
+      "repo": "https://github.com/mikeysrecipes/mcp-opennutrition",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-enterprise-mcp",
+      "repo": "https://github.com/mikeysrecipes/github-enterprise-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dbt-mcp",
+      "repo": "https://github.com/mikeysrecipes/dbt-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-server-trino",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-trino",
+      "language": "Python"
+    },
+    {
+      "name": "jupyter-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/jupyter-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "calcom-mcp",
+      "repo": "https://github.com/mikeysrecipes/calcom-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "notion_mcp",
+      "repo": "https://github.com/mikeysrecipes/notion_mcp",
+      "language": "Python"
+    },
+    {
+      "name": "daisys-mcp",
+      "repo": "https://github.com/mikeysrecipes/daisys-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-cyclops",
+      "repo": "https://github.com/mikeysrecipes/mcp-cyclops",
+      "language": "Go"
+    },
+    {
+      "name": "currents-mcp",
+      "repo": "https://github.com/mikeysrecipes/currents-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "discogs-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/discogs-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "postgres-mcp",
+      "repo": "https://github.com/mikeysrecipes/postgres-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "elasticsearch-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/elasticsearch-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-server-couchbase",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-couchbase",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-confluent",
+      "repo": "https://github.com/mikeysrecipes/mcp-confluent",
+      "language": "TypeScript"
+    },
+    {
+      "name": "openai-websearch-mcp",
+      "repo": "https://github.com/mikeysrecipes/openai-websearch-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "opik-mcp",
+      "repo": "https://github.com/mikeysrecipes/opik-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "godot-mcp",
+      "repo": "https://github.com/mikeysrecipes/godot-mcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codex-mcp",
+      "repo": "https://github.com/mikeysrecipes/codex-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-unity",
+      "repo": "https://github.com/mikeysrecipes/mcp-unity",
+      "language": "C#"
+    },
+    {
+      "name": "codelogic-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/codelogic-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "teslamate-mcp",
+      "repo": "https://github.com/mikeysrecipes/teslamate-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "browser-use-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/browser-use-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "attestable-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/attestable-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-server-cloudflare",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-cloudflare",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-clickhouse",
+      "repo": "https://github.com/mikeysrecipes/mcp-clickhouse",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-server-docker",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-docker",
+      "language": "Python"
+    },
+    {
+      "name": "openapi-mcp",
+      "repo": "https://github.com/mikeysrecipes/openapi-mcp",
+      "language": "Go"
+    },
+    {
+      "name": "gin-mcp",
+      "repo": "https://github.com/mikeysrecipes/gin-mcp",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-shrimp-task-manager",
+      "repo": "https://github.com/mikeysrecipes/mcp-shrimp-task-manager",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-server-circleci",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-circleci",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bldbl-mcp",
+      "repo": "https://github.com/mikeysrecipes/bldbl-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chronulus-mcp-main",
+      "repo": "https://github.com/mikeysrecipes/chronulus-mcp-main",
+      "language": "Python"
+    },
+    {
+      "name": "chroma-mcp",
+      "repo": "https://github.com/mikeysrecipes/chroma-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-cli",
+      "repo": "https://github.com/mikeysrecipes/mcp-cli",
+      "language": "Python"
+    },
+    {
+      "name": "telegram-mcp-main",
+      "repo": "https://github.com/mikeysrecipes/telegram-mcp-main",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-server-chatsum",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-chatsum",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-mcp",
+      "repo": "https://github.com/mikeysrecipes/telegram-mcp",
+      "language": "Go"
+    },
+    {
+      "name": "mac_messages_mcp",
+      "repo": "https://github.com/mikeysrecipes/mac_messages_mcp",
+      "language": "Python"
+    },
+    {
+      "name": "monarch-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/monarch-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-server",
+      "repo": "https://github.com/mikeysrecipes/mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-obsidian",
+      "repo": "https://github.com/mikeysrecipes/mcp-obsidian",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp_server_notify",
+      "repo": "https://github.com/mikeysrecipes/mcp_server_notify",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-virustotal",
+      "repo": "https://github.com/mikeysrecipes/mcp-virustotal",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-shodan",
+      "repo": "https://github.com/mikeysrecipes/mcp-shodan",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-maigret",
+      "repo": "https://github.com/mikeysrecipes/mcp-maigret",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-dnstwist",
+      "repo": "https://github.com/mikeysrecipes/mcp-dnstwist",
+      "language": "JavaScript"
+    },
+    {
+      "name": "video-editing-mcp",
+      "repo": "https://github.com/mikeysrecipes/video-editing-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-main2",
+      "repo": "https://github.com/mikeysrecipes/mcp-main2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-server-browserbase",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-browserbase",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esxi-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/esxi-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "ones-wiki-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/ones-wiki-mcp-server",
+      "language": "Java"
+    },
+    {
+      "name": "mcp-server-ipinfo",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-ipinfo",
+      "language": "Python"
+    },
+    {
+      "name": "boldsign-mcp",
+      "repo": "https://github.com/mikeysrecipes/boldsign-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-graphql",
+      "repo": "https://github.com/mikeysrecipes/mcp-graphql",
+      "language": "TypeScript"
+    },
+    {
+      "name": "arxiv-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/arxiv-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-main",
+      "repo": "https://github.com/mikeysrecipes/mcp-main",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-chatgpt-responses",
+      "repo": "https://github.com/mikeysrecipes/mcp-chatgpt-responses",
+      "language": "Python"
+    },
+    {
+      "name": "Clojars-MCP-Server",
+      "repo": "https://github.com/mikeysrecipes/Clojars-MCP-Server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alpha-vantage-mcp",
+      "repo": "https://github.com/mikeysrecipes/alpha-vantage-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-server-mysql",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-mysql",
+      "language": "JavaScript"
+    },
+    {
+      "name": "my-bear-mcp-server",
+      "repo": "https://github.com/mikeysrecipes/my-bear-mcp-server",
+      "language": "JavaScript"
+    },
+    {
+      "name": "onchain-mcp",
+      "repo": "https://github.com/mikeysrecipes/onchain-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "azure-mcp",
+      "repo": "https://github.com/mikeysrecipes/azure-mcp",
+      "language": "C#"
+    },
+    {
+      "name": "react-analyzer-mcp",
+      "repo": "https://github.com/mikeysrecipes/react-analyzer-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kafka-schema-reg-mcp",
+      "repo": "https://github.com/mikeysrecipes/kafka-schema-reg-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-code-runner",
+      "repo": "https://github.com/mikeysrecipes/mcp-code-runner",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-server-taskwarrior",
+      "repo": "https://github.com/mikeysrecipes/mcp-server-taskwarrior",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp",
+      "repo": "https://github.com/mikeysrecipes/mcp",
+      "language": "Python"
+    },
+    {
+      "name": "replicate-flux-mcp",
+      "repo": "https://github.com/mikeysrecipes/replicate-flux-mcp",
+      "language": "TypeScript"
+    }
+  ]
+}

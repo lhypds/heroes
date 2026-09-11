@@ -1,0 +1,580 @@
+{
+  "handle": "samber",
+  "name": "Samuel Berthe",
+  "github": [
+    "https://github.com/samber"
+  ],
+  "website": "https://samuelberthe.substack.com/",
+  "bio": "Software Engineer | Go Open-sourcer | GenAI community leader",
+  "own_repos": 162,
+  "commits": 18464,
+  "apps": [],
+  "repos": [
+    {
+      "name": "awesome-prometheus-alerts",
+      "repo": "https://github.com/samber/awesome-prometheus-alerts",
+      "url": "https://samber.github.io/awesome-prometheus-alerts/",
+      "language": "Astro"
+    },
+    {
+      "name": "awesome-user-research",
+      "repo": "https://github.com/samber/awesome-user-research",
+      "url": "https://samber.github.io/awesome-user-research/",
+      "language": "Astro"
+    },
+    {
+      "name": "go-singleflightx",
+      "repo": "https://github.com/samber/go-singleflightx",
+      "url": "https://pkg.go.dev/github.com/samber/go-singleflightx",
+      "language": "Go"
+    },
+    {
+      "name": "slog-chi",
+      "repo": "https://github.com/samber/slog-chi",
+      "url": "https://pkg.go.dev/github.com/samber/slog-chi",
+      "language": "Go"
+    },
+    {
+      "name": "do",
+      "repo": "https://github.com/samber/do",
+      "url": "https://do.samber.dev",
+      "language": "Go"
+    },
+    {
+      "name": "ro",
+      "repo": "https://github.com/samber/ro",
+      "language": "Go"
+    },
+    {
+      "name": "go-mod-graph",
+      "repo": "https://github.com/samber/go-mod-graph",
+      "url": "https://go-mod-graph.samber.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "awesome-olap",
+      "repo": "https://github.com/samber/awesome-olap",
+      "url": "https://samber.github.io/awesome-olap/",
+      "language": "Astro"
+    },
+    {
+      "name": "lo",
+      "repo": "https://github.com/samber/lo",
+      "url": "https://lo.samber.dev",
+      "language": "Go"
+    },
+    {
+      "name": "awesome-ai-native",
+      "repo": "https://github.com/samber/awesome-ai-native",
+      "url": "https://samber.github.io/awesome-ai-native/",
+      "language": "Astro"
+    },
+    {
+      "name": "mo",
+      "repo": "https://github.com/samber/mo",
+      "url": "https://pkg.go.dev/github.com/samber/mo",
+      "language": "Go"
+    },
+    {
+      "name": "the-great-gpt-firewall",
+      "repo": "https://github.com/samber/the-great-gpt-firewall",
+      "language": "Python"
+    },
+    {
+      "name": "cc-skills",
+      "repo": "https://github.com/samber/cc-skills",
+      "url": "https://skills.sh/samber/cc-skills",
+      "language": "CSS"
+    },
+    {
+      "name": "cc-skills-golang",
+      "repo": "https://github.com/samber/cc-skills-golang",
+      "url": "https://skills.sh/samber/cc-skills-golang",
+      "language": "Go"
+    },
+    {
+      "name": "godig",
+      "repo": "https://github.com/samber/godig",
+      "url": "https://godig.samber.dev/mcp",
+      "language": "Go"
+    },
+    {
+      "name": "cc-caffeine",
+      "repo": "https://github.com/samber/cc-caffeine",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cc",
+      "repo": "https://github.com/samber/cc"
+    },
+    {
+      "name": "go-amqp-pubsub",
+      "repo": "https://github.com/samber/go-amqp-pubsub",
+      "url": "https://pkg.go.dev/github.com/samber/go-amqp-pubsub",
+      "language": "Go"
+    },
+    {
+      "name": "slog-loki",
+      "repo": "https://github.com/samber/slog-loki",
+      "url": "https://pkg.go.dev/github.com/samber/slog-loki/v2",
+      "language": "Go"
+    },
+    {
+      "name": "hot",
+      "repo": "https://github.com/samber/hot",
+      "url": "https://pkg.go.dev/github.com/samber/hot",
+      "language": "Go"
+    },
+    {
+      "name": "slog-echo",
+      "repo": "https://github.com/samber/slog-echo",
+      "url": "https://pkg.go.dev/github.com/samber/slog-echo",
+      "language": "Go"
+    },
+    {
+      "name": "slog-otel",
+      "repo": "https://github.com/samber/slog-otel",
+      "url": "https://pkg.go.dev/github.com/samber/slog-common",
+      "language": "Makefile"
+    },
+    {
+      "name": "slog-fiber",
+      "repo": "https://github.com/samber/slog-fiber",
+      "url": "https://pkg.go.dev/github.com/samber/slog-fiber",
+      "language": "Go"
+    },
+    {
+      "name": "oops",
+      "repo": "https://github.com/samber/oops",
+      "url": "https://pkg.go.dev/github.com/samber/oops",
+      "language": "Go"
+    },
+    {
+      "name": "slog-multi",
+      "repo": "https://github.com/samber/slog-multi",
+      "url": "https://pkg.go.dev/github.com/samber/slog-multi",
+      "language": "Go"
+    },
+    {
+      "name": "slog-parquet",
+      "repo": "https://github.com/samber/slog-parquet",
+      "url": "https://pkg.go.dev/github.com/samber/slog-parquet/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-sampling",
+      "repo": "https://github.com/samber/slog-sampling",
+      "url": "https://pkg.go.dev/github.com/samber/slog-sample",
+      "language": "Go"
+    },
+    {
+      "name": "slog-slack",
+      "repo": "https://github.com/samber/slog-slack",
+      "url": "https://pkg.go.dev/github.com/samber/slog-slack/v2",
+      "language": "Go"
+    },
+    {
+      "name": "go-safe-csv-writer",
+      "repo": "https://github.com/samber/go-safe-csv-writer",
+      "url": "https://pkg.go.dev/github.com/samber/go-safe-csv-writer",
+      "language": "Go"
+    },
+    {
+      "name": "slog-datadog",
+      "repo": "https://github.com/samber/slog-datadog",
+      "url": "https://pkg.go.dev/github.com/samber/slog-datadog/v2",
+      "language": "Go"
+    },
+    {
+      "name": "go-batchify",
+      "repo": "https://github.com/samber/go-batchify",
+      "url": "https://pkg.go.dev/github.com/samber/go-batchify",
+      "language": "Go"
+    },
+    {
+      "name": "go-type-to-string",
+      "repo": "https://github.com/samber/go-type-to-string",
+      "url": "https://pkg.go.dev/github.com/samber/go-type-to-string",
+      "language": "Go"
+    },
+    {
+      "name": "go-metered-io",
+      "repo": "https://github.com/samber/go-metered-io",
+      "url": "https://pkg.go.dev/github.com/samber/go-metered-io",
+      "language": "Go"
+    },
+    {
+      "name": "slog-gin",
+      "repo": "https://github.com/samber/slog-gin",
+      "url": "https://pkg.go.dev/github.com/samber/slog-gin",
+      "language": "Go"
+    },
+    {
+      "name": "slog-logrus",
+      "repo": "https://github.com/samber/slog-logrus",
+      "url": "https://pkg.go.dev/github.com/samber/slog-logrus/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-formatter",
+      "repo": "https://github.com/samber/slog-formatter",
+      "url": "https://pkg.go.dev/github.com/samber/slog-formatter",
+      "language": "Go"
+    },
+    {
+      "name": "slog-sentry",
+      "repo": "https://github.com/samber/slog-sentry",
+      "url": "https://pkg.go.dev/github.com/samber/slog-sentry/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-nats",
+      "repo": "https://github.com/samber/slog-nats",
+      "url": "https://pkg.go.dev/github.com/samber/slog-nats",
+      "language": "Go"
+    },
+    {
+      "name": "slog-common",
+      "repo": "https://github.com/samber/slog-common",
+      "url": "https://pkg.go.dev/github.com/samber/slog-common",
+      "language": "Go"
+    },
+    {
+      "name": "samber",
+      "repo": "https://github.com/samber/samber",
+      "url": "https://github.com/samber"
+    },
+    {
+      "name": "go-gladia",
+      "repo": "https://github.com/samber/go-gladia",
+      "url": "https://pkg.go.dev/github.com/samber/go-gladia",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/samber/dotfiles",
+      "language": "JavaScript"
+    },
+    {
+      "name": "go-pkggodev-client",
+      "repo": "https://github.com/samber/go-pkggodev-client",
+      "url": "https://pkg.go.dev/github.com/samber/go-pkggodev-client",
+      "language": "Go"
+    },
+    {
+      "name": "invoice-as-a-service",
+      "repo": "https://github.com/samber/invoice-as-a-service",
+      "language": "PHP"
+    },
+    {
+      "name": "slog-syslog",
+      "repo": "https://github.com/samber/slog-syslog",
+      "url": "https://pkg.go.dev/github.com/samber/slog-syslog/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-rollbar",
+      "repo": "https://github.com/samber/slog-rollbar",
+      "url": "https://pkg.go.dev/github.com/samber/slog-rollbar/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-webhook",
+      "repo": "https://github.com/samber/slog-webhook",
+      "url": "https://pkg.go.dev/github.com/samber/slog-webhook/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-mock",
+      "repo": "https://github.com/samber/slog-mock",
+      "url": "https://pkg.go.dev/github.com/samber/slog-mock",
+      "language": "Go"
+    },
+    {
+      "name": "slog-telegram",
+      "repo": "https://github.com/samber/slog-telegram",
+      "url": "https://pkg.go.dev/github.com/samber/slog-telegram/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-kafka",
+      "repo": "https://github.com/samber/slog-kafka",
+      "url": "https://pkg.go.dev/github.com/samber/slog-kafka/v2",
+      "language": "Go"
+    },
+    {
+      "name": "promql-exporter",
+      "repo": "https://github.com/samber/promql-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "slog-fluentd",
+      "repo": "https://github.com/samber/slog-fluentd",
+      "url": "https://pkg.go.dev/github.com/samber/slog-fluentd/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-logstash",
+      "repo": "https://github.com/samber/slog-logstash",
+      "url": "https://pkg.go.dev/github.com/samber/slog-logstash/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-mattermost",
+      "repo": "https://github.com/samber/slog-mattermost",
+      "url": "https://pkg.go.dev/github.com/samber/slog-mattermost/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-graylog",
+      "repo": "https://github.com/samber/slog-graylog",
+      "url": "https://pkg.go.dev/github.com/samber/slog-graylog/v2",
+      "language": "Go"
+    },
+    {
+      "name": "go-tcp-pool",
+      "repo": "https://github.com/samber/go-tcp-pool",
+      "url": "https://pkg.go.dev/github.com/samber/go-tcp-pool",
+      "language": "Go"
+    },
+    {
+      "name": "slog-betterstack",
+      "repo": "https://github.com/samber/slog-betterstack",
+      "url": "https://pkg.go.dev/github.com/samber/slog-betterstack",
+      "language": "Go"
+    },
+    {
+      "name": "hyperping-exporter",
+      "repo": "https://github.com/samber/hyperping-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "go-psi",
+      "repo": "https://github.com/samber/go-psi",
+      "url": "https://pkg.go.dev/github.com/samber/go-psi",
+      "language": "Go"
+    },
+    {
+      "name": "slog-zerolog",
+      "repo": "https://github.com/samber/slog-zerolog",
+      "url": "https://pkg.go.dev/github.com/samber/slog-zerolog/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-quickwit",
+      "repo": "https://github.com/samber/slog-quickwit",
+      "url": "https://pkg.go.dev/github.com/samber/slog-quickwit",
+      "language": "Go"
+    },
+    {
+      "name": "slog-channel",
+      "repo": "https://github.com/samber/slog-channel",
+      "url": "https://pkg.go.dev/github.com/samber/slog-channel",
+      "language": "Go"
+    },
+    {
+      "name": "slog-microsoft-teams",
+      "repo": "https://github.com/samber/slog-microsoft-teams",
+      "url": "https://pkg.go.dev/github.com/samber/slog-microsoft-teams/v2",
+      "language": "Go"
+    },
+    {
+      "name": "slog-zap",
+      "repo": "https://github.com/samber/slog-zap",
+      "url": "https://pkg.go.dev/github.com/samber/slog-zap/v2",
+      "language": "Go"
+    },
+    {
+      "name": "prometheus-query-js",
+      "repo": "https://github.com/samber/prometheus-query-js",
+      "url": "https://www.npmjs.com/package/prometheus-query",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chartjs-plugin-datasource-prometheus",
+      "repo": "https://github.com/samber/chartjs-plugin-datasource-prometheus",
+      "url": "https://samber.github.io/chartjs-plugin-datasource-prometheus/example",
+      "language": "TypeScript"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/samber/.github"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/samber/talks",
+      "url": "https://www.linkedin.com/in/samuelberthe/",
+      "language": "HTML"
+    },
+    {
+      "name": "oss-kpi",
+      "repo": "https://github.com/samber/oss-kpi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tiktoken-cli",
+      "repo": "https://github.com/samber/tiktoken-cli",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-token-meter",
+      "repo": "https://github.com/samber/vscode-token-meter",
+      "url": "https://marketplace.visualstudio.com/items?itemName=samber.vscode-token-meter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-playground-mcp",
+      "repo": "https://github.com/samber/go-playground-mcp",
+      "url": "https://www.npmjs.com/package/go-playground-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "headercheck",
+      "repo": "https://github.com/samber/headercheck",
+      "language": "Go"
+    },
+    {
+      "name": "go-quickwit",
+      "repo": "https://github.com/samber/go-quickwit",
+      "url": "https://pkg.go.dev/github.com/samber/go-quickwit",
+      "language": "Go"
+    },
+    {
+      "name": "sync-ssh-keys",
+      "repo": "https://github.com/samber/sync-ssh-keys",
+      "language": "Go"
+    },
+    {
+      "name": "git-contrib-graph",
+      "repo": "https://github.com/samber/git-contrib-graph",
+      "language": "Go"
+    },
+    {
+      "name": "slog-http",
+      "repo": "https://github.com/samber/slog-http",
+      "url": "https://pkg.go.dev/github.com/samber/slog-http",
+      "language": "Go"
+    },
+    {
+      "name": "samuel-berthe.fr",
+      "repo": "https://github.com/samber/samuel-berthe.fr",
+      "language": "CSS"
+    },
+    {
+      "name": "samber.github.io",
+      "repo": "https://github.com/samber/samber.github.io",
+      "language": "CSS"
+    },
+    {
+      "name": "commit-placeholder",
+      "repo": "https://github.com/samber/commit-placeholder",
+      "language": "Python"
+    },
+    {
+      "name": "do-template-worker",
+      "repo": "https://github.com/samber/do-template-worker",
+      "url": "https://github.com/samber/do",
+      "language": "Go"
+    },
+    {
+      "name": "do-template-api",
+      "repo": "https://github.com/samber/do-template-api",
+      "url": "https://github.com/samber/do",
+      "language": "Go"
+    },
+    {
+      "name": "do-template-cli",
+      "repo": "https://github.com/samber/do-template-cli",
+      "url": "https://github.com/samber/do",
+      "language": "Go"
+    },
+    {
+      "name": "ngx-domarrow",
+      "repo": "https://github.com/samber/ngx-domarrow",
+      "url": "https://samber.github.io/ngx-domarrow",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jitsi-virtual-background",
+      "repo": "https://github.com/samber/jitsi-virtual-background",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lab-netlify",
+      "repo": "https://github.com/samber/lab-netlify",
+      "language": "CSS"
+    },
+    {
+      "name": "go-gpt-3-encoder",
+      "repo": "https://github.com/samber/go-gpt-3-encoder",
+      "url": "https://pkg.go.dev/github.com/samber/go-gpt-3-encoder",
+      "language": "Go"
+    },
+    {
+      "name": "workshop-streamlit",
+      "repo": "https://github.com/samber/workshop-streamlit",
+      "language": "Python"
+    },
+    {
+      "name": "lab-streamlit",
+      "repo": "https://github.com/samber/lab-streamlit",
+      "language": "Python"
+    },
+    {
+      "name": "powEUr",
+      "repo": "https://github.com/samber/powEUr",
+      "language": "Python"
+    },
+    {
+      "name": "nft-http-api",
+      "repo": "https://github.com/samber/nft-http-api",
+      "language": "Go"
+    },
+    {
+      "name": "dagobert",
+      "repo": "https://github.com/samber/dagobert",
+      "language": "Go"
+    },
+    {
+      "name": "lab-parquet",
+      "repo": "https://github.com/samber/lab-parquet",
+      "language": "Go"
+    },
+    {
+      "name": "lab-langchain",
+      "repo": "https://github.com/samber/lab-langchain",
+      "language": "Python"
+    },
+    {
+      "name": "lab-langchain-getting-started",
+      "repo": "https://github.com/samber/lab-langchain-getting-started",
+      "language": "Python"
+    },
+    {
+      "name": "clevercloud-exporter",
+      "repo": "https://github.com/samber/clevercloud-exporter",
+      "language": "Go"
+    },
+    {
+      "name": "workshop-prometheus-grafana",
+      "repo": "https://github.com/samber/workshop-prometheus-grafana",
+      "language": "JavaScript"
+    },
+    {
+      "name": "refined-cycle-app",
+      "repo": "https://github.com/samber/refined-cycle-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "refined-hn",
+      "repo": "https://github.com/samber/refined-hn",
+      "language": "JavaScript"
+    },
+    {
+      "name": "criterion-rpm-package",
+      "repo": "https://github.com/samber/criterion-rpm-package",
+      "url": "https://github.com/Snaipe/Criterion",
+      "language": "Shell"
+    }
+  ]
+}

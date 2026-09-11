@@ -1,0 +1,530 @@
+{
+  "handle": "0xc0000054",
+  "name": "Nicholas Hayes",
+  "github": [
+    "https://github.com/0xc0000054"
+  ],
+  "own_repos": 120,
+  "commits": 10029,
+  "apps": [],
+  "repos": [
+    {
+      "name": "sc4-auto-update-city-thumbnails",
+      "repo": "https://github.com/0xC0000054/sc4-auto-update-city-thumbnails",
+      "language": "C++"
+    },
+    {
+      "name": "sc3k-ghidra-symbols",
+      "repo": "https://github.com/0xC0000054/sc3k-ghidra-symbols",
+      "language": "Java"
+    },
+    {
+      "name": "sc4-ghidra-symbols",
+      "repo": "https://github.com/0xC0000054/sc4-ghidra-symbols"
+    },
+    {
+      "name": "sc3k-gzcom-dll",
+      "repo": "https://github.com/0xC0000054/sc3k-gzcom-dll",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-dll-utilities",
+      "repo": "https://github.com/0xC0000054/sc4-dll-utilities",
+      "language": "C++"
+    },
+    {
+      "name": "gzcom-dll-placement-new-list-bug",
+      "repo": "https://github.com/0xC0000054/gzcom-dll-placement-new-list-bug",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-dbpf-loading",
+      "repo": "https://github.com/0xC0000054/sc4-dbpf-loading",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-game-command-documentation",
+      "repo": "https://github.com/0xC0000054/sc4-game-command-documentation"
+    },
+    {
+      "name": "PSFilterPdn",
+      "repo": "https://github.com/0xC0000054/PSFilterPdn",
+      "url": "https://forums.getpaint.net/index.php?/topic/20622-psfilterpdn/",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-query-ui-hooks",
+      "repo": "https://github.com/0xC0000054/sc4-query-ui-hooks",
+      "language": "C++"
+    },
+    {
+      "name": "gmic-8bf",
+      "repo": "https://github.com/0xC0000054/gmic-8bf",
+      "language": "C++"
+    },
+    {
+      "name": "pdn-gmic",
+      "repo": "https://github.com/0xC0000054/pdn-gmic",
+      "url": "https://forums.getpaint.net/topic/113564-gmic/",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-jpegxl",
+      "repo": "https://github.com/0xC0000054/pdn-jpegxl",
+      "url": "https://forums.getpaint.net/topic/120716-jpeg-xl-filetype/",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-avif",
+      "repo": "https://github.com/0xC0000054/pdn-avif",
+      "url": "https://forums.getpaint.net/topic/116233-avif-filetype/",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-network-game-command",
+      "repo": "https://github.com/0xC0000054/sc4-network-game-command",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-lua-test-scripts",
+      "repo": "https://github.com/0xC0000054/sc4-lua-test-scripts",
+      "language": "Lua"
+    },
+    {
+      "name": "sc4-more-building-styles",
+      "repo": "https://github.com/0xC0000054/sc4-more-building-styles",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-lua-extensions",
+      "repo": "https://github.com/0xC0000054/sc4-lua-extensions",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-more-demand-info",
+      "repo": "https://github.com/0xC0000054/sc4-more-demand-info",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-set-city-lat-long",
+      "repo": "https://github.com/0xC0000054/sc4-set-city-lat-long",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-neighbor-connection-logging",
+      "repo": "https://github.com/0xC0000054/sc4-neighbor-connection-logging",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-graphics-options",
+      "repo": "https://github.com/0xC0000054/sc4-graphics-options",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-lot-network-scoring-test",
+      "repo": "https://github.com/0xC0000054/sc4-lot-network-scoring-test",
+      "language": "C++"
+    },
+    {
+      "name": "DBPFSharp",
+      "repo": "https://github.com/0xC0000054/DBPFSharp",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-ddsfiletype-plus",
+      "repo": "https://github.com/0xC0000054/pdn-ddsfiletype-plus",
+      "url": "https://forums.getpaint.net/topic/111731-dds-filetype-plus/",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-webp",
+      "repo": "https://github.com/0xC0000054/pdn-webp",
+      "url": "https://forums.getpaint.net/index.php?showtopic=21773",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-assign-building-styles",
+      "repo": "https://github.com/0xC0000054/sc4-assign-building-styles",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-resource-loading-hooks",
+      "repo": "https://github.com/0xC0000054/sc4-resource-loading-hooks",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-create-building-style-exemplar",
+      "repo": "https://github.com/0xC0000054/sc4-create-building-style-exemplar",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-data-view-extensions",
+      "repo": "https://github.com/0xC0000054/sc4-data-view-extensions",
+      "language": "C++"
+    },
+    {
+      "name": "BuildingStyleToolsCommon",
+      "repo": "https://github.com/0xC0000054/BuildingStyleToolsCommon",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-custom-ordinance-host",
+      "repo": "https://github.com/0xC0000054/sc4-custom-ordinance-host",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-extended-terrain",
+      "repo": "https://github.com/0xC0000054/sc4-extended-terrain",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-gzids",
+      "repo": "https://github.com/0xC0000054/sc4-gzids",
+      "language": "C"
+    },
+    {
+      "name": "sc4-bulldoze-extensions",
+      "repo": "https://github.com/0xC0000054/sc4-bulldoze-extensions",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-advanced-water-management",
+      "repo": "https://github.com/0xC0000054/sc4-advanced-water-management",
+      "language": "C++"
+    },
+    {
+      "name": "pdn-heicfiletype-plus",
+      "repo": "https://github.com/0xC0000054/pdn-heicfiletype-plus",
+      "url": "https://forums.getpaint.net/topic/116873-heic-filetype-plus/",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-psx-tim",
+      "repo": "https://github.com/0xC0000054/pdn-psx-tim",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-lua-scripts",
+      "repo": "https://github.com/0xC0000054/sc4-lua-scripts",
+      "language": "Lua"
+    },
+    {
+      "name": "sc4-lua-file-hash",
+      "repo": "https://github.com/0xC0000054/sc4-lua-file-hash",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-clear-pollution",
+      "repo": "https://github.com/0xC0000054/sc4-clear-pollution",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-detokenize",
+      "repo": "https://github.com/0xC0000054/sc4-detokenize",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-custom-budget-departments",
+      "repo": "https://github.com/0xC0000054/sc4-custom-budget-departments",
+      "language": "C++"
+    },
+    {
+      "name": "sc3k-reset-cheat-count",
+      "repo": "https://github.com/0xC0000054/sc3k-reset-cheat-count",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-cpu-options",
+      "repo": "https://github.com/0xC0000054/sc4-cpu-options",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-regional-supply-demand",
+      "repo": "https://github.com/0xC0000054/sc4-regional-supply-demand",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-city-lottery-ordinance",
+      "repo": "https://github.com/0xC0000054/sc4-city-lottery-ordinance",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-legalize-gambling-ordinance-upgrade",
+      "repo": "https://github.com/0xC0000054/sc4-legalize-gambling-ordinance-upgrade",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-humane-society-ordinance",
+      "repo": "https://github.com/0xC0000054/sc4-humane-society-ordinance",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-undo",
+      "repo": "https://github.com/0xC0000054/sc4-undo",
+      "language": "C++"
+    },
+    {
+      "name": "sc3k-linux-demangle",
+      "repo": "https://github.com/0xC0000054/sc3k-linux-demangle",
+      "language": "C"
+    },
+    {
+      "name": "pdn-content-aware-fill",
+      "repo": "https://github.com/0xC0000054/pdn-content-aware-fill",
+      "url": "https://forums.getpaint.net/topic/112730-content-aware-fill",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-auto-run-cheats",
+      "repo": "https://github.com/0xC0000054/sc4-auto-run-cheats",
+      "language": "C++"
+    },
+    {
+      "name": "pdn-that-other-app-plus",
+      "repo": "https://github.com/0xC0000054/pdn-that-other-app-plus",
+      "url": "https://forums.getpaint.net/topic/116253-thatotherapp-plus/",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-network-texture-test",
+      "repo": "https://github.com/0xC0000054/sc4-network-texture-test",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-gzcom-dll-template",
+      "repo": "https://github.com/0xC0000054/sc4-gzcom-dll-template",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-lua-extension-example",
+      "repo": "https://github.com/0xC0000054/sc4-lua-extension-example",
+      "language": "C++"
+    },
+    {
+      "name": "DumpDdsCubeMapFaces",
+      "repo": "https://github.com/0xC0000054/DumpDdsCubeMapFaces",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-region-census",
+      "repo": "https://github.com/0xC0000054/sc4-region-census",
+      "language": "C++"
+    },
+    {
+      "name": "resynthesizer-sorted-offset",
+      "repo": "https://github.com/0xC0000054/resynthesizer-sorted-offset",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-remove-phantom-budget-items",
+      "repo": "https://github.com/0xC0000054/sc4-remove-phantom-budget-items",
+      "language": "C++"
+    },
+    {
+      "name": "pdn-pspformat",
+      "repo": "https://github.com/0xC0000054/pdn-pspformat",
+      "url": "https://forums.getpaint.net/index.php?showtopic=22817",
+      "language": "C#"
+    },
+    {
+      "name": "sc3k-indexed-file",
+      "repo": "https://github.com/0xC0000054/sc3k-indexed-file",
+      "language": "C#"
+    },
+    {
+      "name": "sc3k-extra-cheats",
+      "repo": "https://github.com/0xC0000054/sc3k-extra-cheats",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-discord-rich-presence",
+      "repo": "https://github.com/0xC0000054/sc4-discord-rich-presence",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-park-and-ride-ordinance",
+      "repo": "https://github.com/0xC0000054/sc4-park-and-ride-ordinance",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-growify",
+      "repo": "https://github.com/0xC0000054/sc4-growify",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-full-screen-32-bit",
+      "repo": "https://github.com/0xC0000054/sc4-full-screen-32-bit",
+      "language": "C++"
+    },
+    {
+      "name": "avif-format",
+      "repo": "https://github.com/0xC0000054/avif-format",
+      "language": "C++"
+    },
+    {
+      "name": "pdn-cameraraw",
+      "repo": "https://github.com/0xC0000054/pdn-cameraraw",
+      "url": "https://forums.getpaint.net/index.php?/topic/31998-raw-filetype",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-auto-save",
+      "repo": "https://github.com/0xC0000054/sc4-auto-save",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-exemplar-load-logging",
+      "repo": "https://github.com/0xC0000054/sc4-exemplar-load-logging",
+      "url": "https://github.com/0xC0000054/sc4-resource-loading-hooks",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-disable-demolition-animation",
+      "repo": "https://github.com/0xC0000054/sc4-disable-demolition-animation",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-disable-lot-plop-smoke",
+      "repo": "https://github.com/0xC0000054/sc4-disable-lot-plop-smoke",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-disable-network-construction-sounds",
+      "repo": "https://github.com/0xC0000054/sc4-disable-network-construction-sounds",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-no-kick-out",
+      "repo": "https://github.com/0xC0000054/sc4-no-kick-out",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-single-cpu",
+      "repo": "https://github.com/0xC0000054/sc4-single-cpu",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-cpu-priority",
+      "repo": "https://github.com/0xC0000054/sc4-cpu-priority",
+      "language": "C++"
+    },
+    {
+      "name": "pdn-riot",
+      "repo": "https://github.com/0xC0000054/pdn-riot",
+      "url": "https://forums.getpaint.net/index.php?showtopic=107365",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-add-new-ordinances",
+      "repo": "https://github.com/0xC0000054/sc4-add-new-ordinances",
+      "language": "C++"
+    },
+    {
+      "name": "sc4-city-date-sync",
+      "repo": "https://github.com/0xC0000054/sc4-city-date-sync",
+      "language": "C++"
+    },
+    {
+      "name": "libheif-sharp-samples",
+      "repo": "https://github.com/0xC0000054/libheif-sharp-samples",
+      "language": "C#"
+    },
+    {
+      "name": "libheif-sharp",
+      "repo": "https://github.com/0xC0000054/libheif-sharp",
+      "url": "https://0xc0000054.github.io/libheif-sharp/",
+      "language": "C#"
+    },
+    {
+      "name": "sc4-disable-cheats",
+      "repo": "https://github.com/0xC0000054/sc4-disable-cheats",
+      "language": "C++"
+    },
+    {
+      "name": "pdn-optimized-jpeg",
+      "repo": "https://github.com/0xC0000054/pdn-optimized-jpeg",
+      "url": "https://forums.getpaint.net/index.php?/topic/25369-optimized-jpeg-filetype",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-photoshop-brush",
+      "repo": "https://github.com/0xC0000054/pdn-photoshop-brush",
+      "url": "https://forums.getpaint.net/index.php?/topic/25792-photoshop-brush-filetype",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-photoshop-pattern",
+      "repo": "https://github.com/0xC0000054/pdn-photoshop-pattern",
+      "url": "https://forums.getpaint.net/index.php?/topic/25696-photoshop-pattern-filetype",
+      "language": "C#"
+    },
+    {
+      "name": "FshFormat",
+      "repo": "https://github.com/0xC0000054/FshFormat",
+      "language": "C++"
+    },
+    {
+      "name": "FshThumbnailHandler",
+      "repo": "https://github.com/0xC0000054/FshThumbnailHandler",
+      "language": "C++"
+    },
+    {
+      "name": "PngtoFsh",
+      "repo": "https://github.com/0xC0000054/PngtoFsh",
+      "language": "C#"
+    },
+    {
+      "name": "PngtoFshBatch",
+      "repo": "https://github.com/0xC0000054/PngtoFshBatch",
+      "language": "C#"
+    },
+    {
+      "name": "MultiFshTool",
+      "repo": "https://github.com/0xC0000054/MultiFshTool",
+      "language": "C#"
+    },
+    {
+      "name": "Gimpsharpfsh",
+      "repo": "https://github.com/0xC0000054/Gimpsharpfsh",
+      "language": "C#"
+    },
+    {
+      "name": "FSHfiletype",
+      "repo": "https://github.com/0xC0000054/FSHfiletype",
+      "language": "C#"
+    },
+    {
+      "name": "FshDatIO",
+      "repo": "https://github.com/0xC0000054/FshDatIO",
+      "language": "C#"
+    },
+    {
+      "name": "FSHLib",
+      "repo": "https://github.com/0xC0000054/FSHLib",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-mozjpeg",
+      "repo": "https://github.com/0xC0000054/pdn-mozjpeg",
+      "url": "https://forums.getpaint.net/topic/118213-mozjpeg-filetype",
+      "language": "C#"
+    },
+    {
+      "name": "winforms-ErrorProvider-icon",
+      "repo": "https://github.com/0xC0000054/winforms-ErrorProvider-icon",
+      "url": "https://github.com/dotnet/winforms/issues/7390",
+      "language": "C#"
+    },
+    {
+      "name": "pdn-base64",
+      "repo": "https://github.com/0xC0000054/pdn-base64",
+      "url": "https://forums.getpaint.net/index.php?/topic/26774-base64-filetype",
+      "language": "C#"
+    },
+    {
+      "name": "fshwrite",
+      "repo": "https://github.com/0xC0000054/fshwrite",
+      "language": "C#"
+    }
+  ]
+}

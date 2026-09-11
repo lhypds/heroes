@@ -1,0 +1,506 @@
+{
+  "handle": "akm",
+  "name": "Takeshi Akima",
+  "github": [
+    "https://github.com/akm"
+  ],
+  "bio": "Go, TypeScript, Ruby, GCP, Connect, SvelteKit, goa.design, gRPC, Open API, Playwright",
+  "own_repos": 154,
+  "commits": 10854,
+  "apps": [],
+  "repos": [
+    {
+      "name": "claude-plugins",
+      "repo": "https://github.com/akm/claude-plugins",
+      "language": "Python"
+    },
+    {
+      "name": "reqb",
+      "repo": "https://github.com/akm/reqb",
+      "language": "Go"
+    },
+    {
+      "name": "git-exec",
+      "repo": "https://github.com/akm/git-exec",
+      "language": "Go"
+    },
+    {
+      "name": "go-requestid",
+      "repo": "https://github.com/akm/go-requestid",
+      "language": "Go"
+    },
+    {
+      "name": "slogopts",
+      "repo": "https://github.com/akm/slogopts",
+      "language": "Go"
+    },
+    {
+      "name": "sql-slog",
+      "repo": "https://github.com/akm/sql-slog",
+      "language": "Go"
+    },
+    {
+      "name": "make-components",
+      "repo": "https://github.com/akm/make-components",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-fixtures",
+      "repo": "https://github.com/akm/go-fixtures",
+      "language": "Go"
+    },
+    {
+      "name": "time",
+      "repo": "https://github.com/akm/time",
+      "language": "Go"
+    },
+    {
+      "name": "shapeapp.mk",
+      "repo": "https://github.com/akm/shapeapp.mk",
+      "language": "Makefile"
+    },
+    {
+      "name": "tiny-issue-tracker",
+      "repo": "https://github.com/akm/tiny-issue-tracker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-license-scraper",
+      "repo": "https://github.com/akm/go-license-scraper",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eachline",
+      "repo": "https://github.com/akm/eachline",
+      "language": "Go"
+    },
+    {
+      "name": "streamlit-sandbox",
+      "repo": "https://github.com/akm/streamlit-sandbox",
+      "language": "Python"
+    },
+    {
+      "name": "flutter_sandbox",
+      "repo": "https://github.com/akm/flutter_sandbox",
+      "language": "Dart"
+    },
+    {
+      "name": "svelte-connect-todo",
+      "repo": "https://github.com/akm/svelte-connect-todo",
+      "language": "Go"
+    },
+    {
+      "name": "blog-sveltekit-with-cline",
+      "repo": "https://github.com/akm/blog-sveltekit-with-cline",
+      "language": "Svelte"
+    },
+    {
+      "name": "sql-slog-requestid-example",
+      "repo": "https://github.com/akm/sql-slog-requestid-example"
+    },
+    {
+      "name": "slogctx",
+      "repo": "https://github.com/akm/slogctx",
+      "language": "Go"
+    },
+    {
+      "name": "go-rand-sandbox",
+      "repo": "https://github.com/akm/go-rand-sandbox",
+      "language": "Go"
+    },
+    {
+      "name": "go-dep-examples",
+      "repo": "https://github.com/akm/go-dep-examples",
+      "language": "Go"
+    },
+    {
+      "name": "sqldb-logger-slog",
+      "repo": "https://github.com/akm/sqldb-logger-slog",
+      "language": "Go"
+    },
+    {
+      "name": "text-template-cli",
+      "repo": "https://github.com/akm/text-template-cli",
+      "language": "Go"
+    },
+    {
+      "name": "shapeapp-applib",
+      "repo": "https://github.com/akm/shapeapp-applib",
+      "language": "Go"
+    },
+    {
+      "name": "slog-sandbox",
+      "repo": "https://github.com/akm/slog-sandbox",
+      "language": "Go"
+    },
+    {
+      "name": "svelte-connect-chat",
+      "repo": "https://github.com/akm/svelte-connect-chat"
+    },
+    {
+      "name": "mholt-archiver-example",
+      "repo": "https://github.com/akm/mholt-archiver-example",
+      "language": "Go"
+    },
+    {
+      "name": "sqlc-tutorial",
+      "repo": "https://github.com/akm/sqlc-tutorial",
+      "language": "Go"
+    },
+    {
+      "name": "goosecond",
+      "repo": "https://github.com/akm/goosecond",
+      "language": "Go"
+    },
+    {
+      "name": "connect-go-example",
+      "repo": "https://github.com/akm/connect-go-example",
+      "language": "Go"
+    },
+    {
+      "name": "envoy-routing-example",
+      "repo": "https://github.com/akm/envoy-routing-example",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "sk-goa-chat",
+      "repo": "https://github.com/akm/sk-goa-chat",
+      "language": "TypeScript"
+    },
+    {
+      "name": "connect-go-sveltekit-example",
+      "repo": "https://github.com/akm/connect-go-sveltekit-example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "goa-grpc-web",
+      "repo": "https://github.com/akm/goa-grpc-web",
+      "language": "Go"
+    },
+    {
+      "name": "connect-web-svelte-example",
+      "repo": "https://github.com/akm/connect-web-svelte-example",
+      "language": "Svelte"
+    },
+    {
+      "name": "fukowl",
+      "repo": "https://github.com/akm/fukowl",
+      "language": "Ruby"
+    },
+    {
+      "name": "designaspect",
+      "repo": "https://github.com/akm/designaspect",
+      "language": "Go"
+    },
+    {
+      "name": "connect_sandboxes",
+      "repo": "https://github.com/akm/connect_sandboxes",
+      "language": "TypeScript"
+    },
+    {
+      "name": "second_tour_of_go",
+      "repo": "https://github.com/akm/second_tour_of_go",
+      "language": "Go"
+    },
+    {
+      "name": "flowbite-svelte-sandbox",
+      "repo": "https://github.com/akm/flowbite-svelte-sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "todo_with_sveltekit_and_goa",
+      "repo": "https://github.com/akm/todo_with_sveltekit_and_goa",
+      "language": "TypeScript"
+    },
+    {
+      "name": "goa_todo_example",
+      "repo": "https://github.com/akm/goa_todo_example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bcrypt_password",
+      "repo": "https://github.com/akm/bcrypt_password",
+      "language": "Ruby"
+    },
+    {
+      "name": "goa_v3_tutorial_log",
+      "repo": "https://github.com/akm/goa_v3_tutorial_log",
+      "language": "Go"
+    },
+    {
+      "name": "svelte_kit_tutorial",
+      "repo": "https://github.com/akm/svelte_kit_tutorial",
+      "language": "TypeScript"
+    },
+    {
+      "name": "goa_gae_datastore_example",
+      "repo": "https://github.com/akm/goa_gae_datastore_example",
+      "language": "Go"
+    },
+    {
+      "name": "golang_simple_http_server",
+      "repo": "https://github.com/akm/golang_simple_http_server",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "typescript_sandbox",
+      "repo": "https://github.com/akm/typescript_sandbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "code_diff",
+      "repo": "https://github.com/akm/code_diff"
+    },
+    {
+      "name": "playwright-hands-on",
+      "repo": "https://github.com/akm/playwright-hands-on"
+    },
+    {
+      "name": "openseadragon-sandbox",
+      "repo": "https://github.com/akm/openseadragon-sandbox",
+      "language": "Go"
+    },
+    {
+      "name": "tparser",
+      "repo": "https://github.com/akm/tparser",
+      "language": "Go"
+    },
+    {
+      "name": "golang-sandbox",
+      "repo": "https://github.com/akm/golang-sandbox",
+      "language": "Go"
+    },
+    {
+      "name": "programming_typescript",
+      "repo": "https://github.com/akm/programming_typescript",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-sandbox",
+      "repo": "https://github.com/akm/vite-sandbox"
+    },
+    {
+      "name": "esbuild-sandbox",
+      "repo": "https://github.com/akm/esbuild-sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "local_gae_support",
+      "repo": "https://github.com/akm/local_gae_support",
+      "language": "Go"
+    },
+    {
+      "name": "playwright-test-sandbox",
+      "repo": "https://github.com/akm/playwright-test-sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "datastorecli",
+      "repo": "https://github.com/akm/datastorecli",
+      "language": "Go"
+    },
+    {
+      "name": "git-sandbox",
+      "repo": "https://github.com/akm/git-sandbox"
+    },
+    {
+      "name": "e2e-test-handsons",
+      "repo": "https://github.com/akm/e2e-test-handsons",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gh-wiki-asset-dl",
+      "repo": "https://github.com/akm/gh-wiki-asset-dl",
+      "language": "Go"
+    },
+    {
+      "name": "github_project_sandbox",
+      "repo": "https://github.com/akm/github_project_sandbox",
+      "language": "Makefile"
+    },
+    {
+      "name": "summarizejson",
+      "repo": "https://github.com/akm/summarizejson",
+      "language": "Go"
+    },
+    {
+      "name": "primitives",
+      "repo": "https://github.com/akm/primitives",
+      "language": "Go"
+    },
+    {
+      "name": "goacrud",
+      "repo": "https://github.com/akm/goacrud"
+    },
+    {
+      "name": "querybuilder",
+      "repo": "https://github.com/akm/querybuilder",
+      "language": "Go"
+    },
+    {
+      "name": "goon_model_gen",
+      "repo": "https://github.com/akm/goon_model_gen",
+      "language": "Ruby"
+    },
+    {
+      "name": "gotype2json",
+      "repo": "https://github.com/akm/gotype2json",
+      "language": "Go"
+    },
+    {
+      "name": "typedict",
+      "repo": "https://github.com/akm/typedict",
+      "language": "Go"
+    },
+    {
+      "name": "goa_model_gen",
+      "repo": "https://github.com/akm/goa_model_gen",
+      "language": "Ruby"
+    },
+    {
+      "name": "goa_v2_simple_example",
+      "repo": "https://github.com/akm/goa_v2_simple_example",
+      "language": "Go"
+    },
+    {
+      "name": "goa_v2_post_payload_including_snake_case_fields",
+      "repo": "https://github.com/akm/goa_v2_post_payload_including_snake_case_fields",
+      "language": "Go"
+    },
+    {
+      "name": "ra-language-japanese",
+      "repo": "https://github.com/akm/ra-language-japanese",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dev-bot",
+      "repo": "https://github.com/akm/dev-bot",
+      "language": "Go"
+    },
+    {
+      "name": "nslookupper",
+      "repo": "https://github.com/akm/nslookupper",
+      "language": "Go"
+    },
+    {
+      "name": "gae_fw_update",
+      "repo": "https://github.com/akm/gae_fw_update",
+      "language": "Go"
+    },
+    {
+      "name": "spreadsheet_webserver",
+      "repo": "https://github.com/akm/spreadsheet_webserver",
+      "language": "JavaScript"
+    },
+    {
+      "name": "LearningWebApps",
+      "repo": "https://github.com/akm/LearningWebApps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gae_go-goa-spanner-example",
+      "repo": "https://github.com/akm/gae_go-goa-spanner-example",
+      "language": "Go"
+    },
+    {
+      "name": "object_pascal_analyzer",
+      "repo": "https://github.com/akm/object_pascal_analyzer",
+      "language": "Ruby"
+    },
+    {
+      "name": "gae_go-datastore-goa-goon-viron-react-redux-example",
+      "repo": "https://github.com/akm/gae_go-datastore-goa-goon-viron-react-redux-example",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typescript_react_tutorial",
+      "repo": "https://github.com/akm/typescript_react_tutorial",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-ruby-1.8.7",
+      "repo": "https://github.com/akm/docker-ruby-1.8.7",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "react-starter-kits",
+      "repo": "https://github.com/akm/react-starter-kits",
+      "language": "JavaScript"
+    },
+    {
+      "name": "erlang_sandbox",
+      "repo": "https://github.com/akm/erlang_sandbox",
+      "language": "Erlang"
+    },
+    {
+      "name": "goa-getting_started_guide",
+      "repo": "https://github.com/akm/goa-getting_started_guide",
+      "language": "Go"
+    },
+    {
+      "name": "golang.workspace-src-github.com-akm-goswagger-tutorial",
+      "repo": "https://github.com/akm/golang.workspace-src-github.com-akm-goswagger-tutorial",
+      "language": "Go"
+    },
+    {
+      "name": "google_gae_oauth_drive_example",
+      "repo": "https://github.com/akm/google_gae_oauth_drive_example",
+      "language": "Go"
+    },
+    {
+      "name": "model_base_generators",
+      "repo": "https://github.com/akm/model_base_generators",
+      "language": "Ruby"
+    },
+    {
+      "name": "react_map_with_tree",
+      "repo": "https://github.com/akm/react_map_with_tree",
+      "language": "JavaScript"
+    },
+    {
+      "name": "factory_bot_cache",
+      "repo": "https://github.com/akm/factory_bot_cache",
+      "language": "Ruby"
+    },
+    {
+      "name": "redux-todo-gae",
+      "repo": "https://github.com/akm/redux-todo-gae",
+      "language": "JavaScript"
+    },
+    {
+      "name": "redux-todo",
+      "repo": "https://github.com/akm/redux-todo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "graphql-ruby-sandbox",
+      "repo": "https://github.com/akm/graphql-ruby-sandbox",
+      "language": "Ruby"
+    },
+    {
+      "name": "webpack-demo-babel",
+      "repo": "https://github.com/akm/webpack-demo-babel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "es6-tutorial",
+      "repo": "https://github.com/akm/es6-tutorial",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-tutorial-app",
+      "repo": "https://github.com/akm/react-tutorial-app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "selectable_attr_rails",
+      "repo": "https://github.com/akm/selectable_attr_rails",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails51-angular41",
+      "repo": "https://github.com/akm/rails51-angular41",
+      "language": "Ruby"
+    }
+  ]
+}

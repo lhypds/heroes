@@ -1,0 +1,540 @@
+{
+  "handle": "xuwei-k",
+  "name": "kenji yoshida",
+  "github": [
+    "https://github.com/xuwei-k"
+  ],
+  "bio": "@wartremover @scalaz @scalaprops @msgpack4z @argonaut-io @scalikejdbc @unfiltered",
+  "own_repos": 281,
+  "commits": 13097,
+  "apps": [],
+  "repos": [
+    {
+      "name": "free-monad-java",
+      "repo": "https://github.com/xuwei-k/free-monad-java",
+      "language": "Java"
+    },
+    {
+      "name": "scalikejdbc-flyway-sbt-example",
+      "repo": "https://github.com/xuwei-k/scalikejdbc-flyway-sbt-example",
+      "language": "Scala"
+    },
+    {
+      "name": "scalaz-docs",
+      "repo": "https://github.com/xuwei-k/scalaz-docs",
+      "url": "https://xuwei-k.github.io/scalaz-docs/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cheerpj-scala",
+      "repo": "https://github.com/xuwei-k/cheerpj-scala",
+      "url": "https://xuwei-k.github.io/cheerpj-scala/",
+      "language": "Scala"
+    },
+    {
+      "name": "javap-web",
+      "repo": "https://github.com/xuwei-k/javap-web",
+      "url": "https://xuwei-k.github.io/javap-web/",
+      "language": "Scala"
+    },
+    {
+      "name": "scalafix-rules",
+      "repo": "https://github.com/xuwei-k/scalafix-rules",
+      "language": "Scala"
+    },
+    {
+      "name": "mima-web",
+      "repo": "https://github.com/xuwei-k/mima-web",
+      "language": "Scala"
+    },
+    {
+      "name": "unused-proto",
+      "repo": "https://github.com/xuwei-k/unused-proto",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-warning-diff",
+      "repo": "https://github.com/xuwei-k/sbt-warning-diff",
+      "language": "Scala"
+    },
+    {
+      "name": "mima",
+      "repo": "https://github.com/xuwei-k/mima",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-protobuf-docs",
+      "repo": "https://github.com/xuwei-k/scala-protobuf-docs",
+      "url": "https://xuwei-k.github.io/scala-protobuf-docs/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scalameta-ast",
+      "repo": "https://github.com/xuwei-k/scalameta-ast",
+      "url": "https://xuwei-k.github.io/scalameta-ast/",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-root-aggregate",
+      "repo": "https://github.com/xuwei-k/sbt-root-aggregate",
+      "language": "Scala"
+    },
+    {
+      "name": "unapply",
+      "repo": "https://github.com/xuwei-k/unapply",
+      "language": "Scala"
+    },
+    {
+      "name": "coherence",
+      "repo": "https://github.com/xuwei-k/coherence",
+      "language": "Scala"
+    },
+    {
+      "name": "play-ws-scalafix",
+      "repo": "https://github.com/xuwei-k/play-ws-scalafix",
+      "language": "Scala"
+    },
+    {
+      "name": "shapeless-annotation",
+      "repo": "https://github.com/xuwei-k/shapeless-annotation",
+      "language": "Scala"
+    },
+    {
+      "name": "shapeless-generic-counter",
+      "repo": "https://github.com/xuwei-k/shapeless-generic-counter",
+      "language": "Scala"
+    },
+    {
+      "name": "given-anonymous-name",
+      "repo": "https://github.com/xuwei-k/given-anonymous-name",
+      "language": "Scala"
+    },
+    {
+      "name": "scalafix-check",
+      "repo": "https://github.com/xuwei-k/scalafix-check",
+      "language": "Scala"
+    },
+    {
+      "name": "unused-code",
+      "repo": "https://github.com/xuwei-k/unused-code",
+      "language": "Scala"
+    },
+    {
+      "name": "scalafix-rule-resource-gen",
+      "repo": "https://github.com/xuwei-k/scalafix-rule-resource-gen",
+      "language": "Scala"
+    },
+    {
+      "name": "iarray",
+      "repo": "https://github.com/xuwei-k/iarray",
+      "language": "Scala"
+    },
+    {
+      "name": "proto-unused-imports",
+      "repo": "https://github.com/xuwei-k/proto-unused-imports",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-jshell",
+      "repo": "https://github.com/xuwei-k/sbt-jshell",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-conflict-classes",
+      "repo": "https://github.com/xuwei-k/sbt-conflict-classes",
+      "language": "Scala"
+    },
+    {
+      "name": "nobox",
+      "repo": "https://github.com/xuwei-k/nobox",
+      "language": "Scala"
+    },
+    {
+      "name": "LevelsT",
+      "repo": "https://github.com/xuwei-k/LevelsT",
+      "language": "Scala"
+    },
+    {
+      "name": "case-class-to-tuple-cross-build",
+      "repo": "https://github.com/xuwei-k/case-class-to-tuple-cross-build",
+      "language": "Scala"
+    },
+    {
+      "name": "applybuilder",
+      "repo": "https://github.com/xuwei-k/applybuilder",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-3-match-type-chudnovsky-compile-time-pi",
+      "repo": "https://github.com/xuwei-k/scala-3-match-type-chudnovsky-compile-time-pi",
+      "language": "Scala"
+    },
+    {
+      "name": "javaagent-sbt-example",
+      "repo": "https://github.com/xuwei-k/javaagent-sbt-example",
+      "language": "Scala"
+    },
+    {
+      "name": "scalajspack",
+      "repo": "https://github.com/xuwei-k/scalajspack",
+      "url": "https://xuwei-k.github.io/scalajspack/",
+      "language": "Scala"
+    },
+    {
+      "name": "optparse-applicative",
+      "repo": "https://github.com/xuwei-k/optparse-applicative",
+      "language": "Scala"
+    },
+    {
+      "name": "play2scalaz",
+      "repo": "https://github.com/xuwei-k/play2scalaz",
+      "language": "Scala"
+    },
+    {
+      "name": "zeroapply",
+      "repo": "https://github.com/xuwei-k/zeroapply",
+      "language": "Scala"
+    },
+    {
+      "name": "dependency-graph",
+      "repo": "https://github.com/xuwei-k/dependency-graph",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-jol",
+      "repo": "https://github.com/xuwei-k/sbt-jol",
+      "language": "Scala"
+    },
+    {
+      "name": "webpush-scala",
+      "repo": "https://github.com/xuwei-k/webpush-scala",
+      "url": "https://webpush-scala.herokuapp.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wartremover-scalikejdbc",
+      "repo": "https://github.com/xuwei-k/wartremover-scalikejdbc",
+      "language": "Scala"
+    },
+    {
+      "name": "shapeless-java-records",
+      "repo": "https://github.com/xuwei-k/shapeless-java-records",
+      "language": "Scala"
+    },
+    {
+      "name": "test-times-reporter",
+      "repo": "https://github.com/xuwei-k/test-times-reporter",
+      "language": "Scala"
+    },
+    {
+      "name": "junit-report-aggregate",
+      "repo": "https://github.com/xuwei-k/junit-report-aggregate",
+      "language": "Scala"
+    },
+    {
+      "name": "binary-compatibility-check",
+      "repo": "https://github.com/xuwei-k/binary-compatibility-check",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-trace-action",
+      "repo": "https://github.com/xuwei-k/sbt-trace-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sbt-class-diagram",
+      "repo": "https://github.com/xuwei-k/sbt-class-diagram",
+      "language": "Scala"
+    },
+    {
+      "name": "play-json-extra",
+      "repo": "https://github.com/xuwei-k/play-json-extra",
+      "url": "https://javadoc-badge.appspot.com/com.github.xuwei-k/play-json-extra_2.12/play/jsonext/index.html?javadocio=true",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-proguard",
+      "repo": "https://github.com/xuwei-k/sbt-proguard",
+      "language": "Scala"
+    },
+    {
+      "name": "scodec-msgpack",
+      "repo": "https://github.com/xuwei-k/scodec-msgpack",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-jmh.g8",
+      "repo": "https://github.com/xuwei-k/sbt-jmh.g8",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-version-from-sbt-version",
+      "repo": "https://github.com/xuwei-k/scala-version-from-sbt-version",
+      "language": "Scala"
+    },
+    {
+      "name": "Scala-3-9-GenericSignatureVisitor-error",
+      "repo": "https://github.com/xuwei-k/Scala-3-9-GenericSignatureVisitor-error",
+      "url": "https://github.com/scala/scala3/issues/26618",
+      "language": "Scala"
+    },
+    {
+      "name": "cron",
+      "repo": "https://github.com/xuwei-k/cron",
+      "language": "JavaScript"
+    },
+    {
+      "name": "opaque-type-and-value-class",
+      "repo": "https://github.com/xuwei-k/opaque-type-and-value-class",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-plugins",
+      "repo": "https://github.com/xuwei-k/sbt-2-plugins",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-pipeline-ci-cache",
+      "repo": "https://github.com/xuwei-k/sbt-pipeline-ci-cache",
+      "language": "Scala"
+    },
+    {
+      "name": "setup-sbt-disk-cache-test",
+      "repo": "https://github.com/xuwei-k/setup-sbt-disk-cache-test",
+      "url": "https://github.com/sbt/setup-sbt/issues/87",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-build-sbt-report-position-bug",
+      "repo": "https://github.com/xuwei-k/sbt-2-build-sbt-report-position-bug",
+      "url": "https://github.com/sbt/sbt/issues/9258",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-java-version-change",
+      "repo": "https://github.com/xuwei-k/sbt-2-java-version-change",
+      "url": "https://github.com/sbt/sbt/issues/9201",
+      "language": "Java"
+    },
+    {
+      "name": "sbt-2-pipeline-hang",
+      "repo": "https://github.com/xuwei-k/sbt-2-pipeline-hang",
+      "url": "https://github.com/sbt/sbt/discussions/8651#discussioncomment-16913356",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-issue-9206",
+      "repo": "https://github.com/xuwei-k/sbt-issue-9206",
+      "url": "https://github.com/sbt/sbt/issues/9206",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-meta-build-plugin-same-name",
+      "repo": "https://github.com/xuwei-k/sbt-2-meta-build-plugin-same-name",
+      "url": "https://github.com/sbt/sbt/issues/9005",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-javaagent-mockito",
+      "repo": "https://github.com/xuwei-k/sbt-2-javaagent-mockito",
+      "url": "https://github.com/sbt/sbt-javaagent/issues/73",
+      "language": "Scala"
+    },
+    {
+      "name": "scala3profile",
+      "repo": "https://github.com/xuwei-k/scala3profile",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-root-test-empty-aggregate",
+      "repo": "https://github.com/xuwei-k/sbt-2-root-test-empty-aggregate",
+      "language": "Scala"
+    },
+    {
+      "name": "scalameta-semanticdb-unsupported-value-class-java-enum",
+      "repo": "https://github.com/xuwei-k/scalameta-semanticdb-unsupported-value-class-java-enum",
+      "language": "Scala"
+    },
+    {
+      "name": "constant-dynamic-benchmark",
+      "repo": "https://github.com/xuwei-k/constant-dynamic-benchmark",
+      "language": "Scala"
+    },
+    {
+      "name": "quote-pattern-match-benchmark",
+      "repo": "https://github.com/xuwei-k/quote-pattern-match-benchmark",
+      "url": "https://github.com/scala/scala3/issues/22432",
+      "language": "Scala"
+    },
+    {
+      "name": "pj",
+      "repo": "https://github.com/xuwei-k/pj",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-project-matrix-cross-version-full",
+      "repo": "https://github.com/xuwei-k/sbt-2-project-matrix-cross-version-full",
+      "language": "Scala"
+    },
+    {
+      "name": "Array-startsWith-benchmark",
+      "repo": "https://github.com/xuwei-k/Array-startsWith-benchmark",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-tuple-boxing-benchmark",
+      "repo": "https://github.com/xuwei-k/scala-tuple-boxing-benchmark",
+      "language": "Scala"
+    },
+    {
+      "name": "string-repeat-benchmark",
+      "repo": "https://github.com/xuwei-k/string-repeat-benchmark",
+      "url": "https://github.com/scala/scala3/pull/24786",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-ubuntu-slim-github-actions",
+      "repo": "https://github.com/xuwei-k/sbt-ubuntu-slim-github-actions",
+      "url": "https://github.com/actions/runner-images/issues/13401"
+    },
+    {
+      "name": "sbt-2-missing-outer-accessor",
+      "repo": "https://github.com/xuwei-k/sbt-2-missing-outer-accessor",
+      "language": "Scala"
+    },
+    {
+      "name": "slides",
+      "repo": "https://github.com/xuwei-k/slides",
+      "url": "https://xuwei-k.github.io/slides/",
+      "language": "HTML"
+    },
+    {
+      "name": "sbt-2-cache-example",
+      "repo": "https://github.com/xuwei-k/sbt-2-cache-example",
+      "language": "Scala"
+    },
+    {
+      "name": "github-actions-test",
+      "repo": "https://github.com/xuwei-k/github-actions-test"
+    },
+    {
+      "name": "sbt-2-testcontainers",
+      "repo": "https://github.com/xuwei-k/sbt-2-testcontainers",
+      "language": "Scala"
+    },
+    {
+      "name": "class-loader-sbt-2-issue",
+      "repo": "https://github.com/xuwei-k/class-loader-sbt-2-issue",
+      "url": "https://github.com/sbt/sbt/issues/8334",
+      "language": "Scala"
+    },
+    {
+      "name": "contraband-sbt-2-error",
+      "repo": "https://github.com/xuwei-k/contraband-sbt-2-error",
+      "url": "https://github.com/sbt/sbt/issues/8328",
+      "language": "Scala"
+    },
+    {
+      "name": "java-switch-benchmark",
+      "repo": "https://github.com/xuwei-k/java-switch-benchmark",
+      "language": "Java"
+    },
+    {
+      "name": "sbt-latest-launcher-with-0-13",
+      "repo": "https://github.com/xuwei-k/sbt-latest-launcher-with-0-13",
+      "url": "https://github.com/sbt/sbt/issues/8278",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-jawn-exhausted-input",
+      "repo": "https://github.com/xuwei-k/sbt-2-jawn-exhausted-input",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-js-1-20-0-crash",
+      "repo": "https://github.com/xuwei-k/scala-js-1-20-0-crash",
+      "url": "https://github.com/scala-js/scala-js/issues/5231",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-test-fork-bug",
+      "repo": "https://github.com/xuwei-k/sbt-2-test-fork-bug",
+      "url": "https://github.com/sbt/sbt/issues/8263",
+      "language": "Scala"
+    },
+    {
+      "name": "ghscala",
+      "repo": "https://github.com/xuwei-k/ghscala",
+      "language": "Scala"
+    },
+    {
+      "name": "httpz",
+      "repo": "https://github.com/xuwei-k/httpz",
+      "url": "https://javadoc-badge.appspot.com/com.github.xuwei-k/httpz_2.12/httpz/index.html",
+      "language": "Scala"
+    },
+    {
+      "name": "sonatype",
+      "repo": "https://github.com/xuwei-k/sonatype",
+      "language": "Scala"
+    },
+    {
+      "name": "msgpack-json",
+      "repo": "https://github.com/xuwei-k/msgpack-json",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-InvalidClassException",
+      "repo": "https://github.com/xuwei-k/sbt-2-InvalidClassException",
+      "language": "Scala"
+    },
+    {
+      "name": "sbt-2-actions-setup-sbt",
+      "repo": "https://github.com/xuwei-k/sbt-2-actions-setup-sbt",
+      "url": "https://github.com/sbt/setup-sbt/issues/54"
+    },
+    {
+      "name": "sbt-2-0-0-M5-autoImport-not-found-error",
+      "repo": "https://github.com/xuwei-k/sbt-2-0-0-M5-autoImport-not-found-error",
+      "url": "https://github.com/sbt/sbt/issues/8198",
+      "language": "Scala"
+    },
+    {
+      "name": "scala-3-enum-vs-sealed-compile-time",
+      "repo": "https://github.com/xuwei-k/scala-3-enum-vs-sealed-compile-time",
+      "language": "Scala"
+    },
+    {
+      "name": "xuwei-k.github.com",
+      "repo": "https://github.com/xuwei-k/xuwei-k.github.com",
+      "url": "https://xuwei-k.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "grpc-scala-sample",
+      "repo": "https://github.com/xuwei-k/grpc-scala-sample",
+      "language": "Scala"
+    },
+    {
+      "name": "protobuf-javascript-example",
+      "repo": "https://github.com/xuwei-k/protobuf-javascript-example",
+      "language": "Scala"
+    },
+    {
+      "name": "doobie-read-benchmark",
+      "repo": "https://github.com/xuwei-k/doobie-read-benchmark",
+      "language": "Scala"
+    },
+    {
+      "name": "kantan-csv-compile-time-benchmark",
+      "repo": "https://github.com/xuwei-k/kantan-csv-compile-time-benchmark",
+      "url": "https://github.com/nrinaudo/kantan.codecs/pull/408",
+      "language": "Scala"
+    },
+    {
+      "name": "shapeless-Lazy-and-by-name-implicit",
+      "repo": "https://github.com/xuwei-k/shapeless-Lazy-and-by-name-implicit",
+      "language": "Scala"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "handle": "hugovk",
+  "name": "Hugo van Kemenade",
+  "github": [
+    "https://github.com/hugovk"
+  ],
+  "website": "https://hugovk.dev/",
+  "bio": "Python 3.14 & 3.15 release manager, core developer, Sovereign Tech Fellow, PSF Fellow, open-source maintainer, PEP editor, NaNoGenMo organiser",
+  "own_repos": 158,
+  "commits": 10340,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dashboard",
+      "repo": "https://github.com/hugovk/dashboard",
+      "url": "https://hugovk.github.io/dashboard/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "drop-python",
+      "repo": "https://github.com/hugovk/drop-python",
+      "url": "https://hugovk.github.io/drop-python",
+      "language": "Python"
+    },
+    {
+      "name": "last-updated",
+      "repo": "https://github.com/hugovk/last-updated",
+      "language": "Python"
+    },
+    {
+      "name": "tinytext",
+      "repo": "https://github.com/hugovk/tinytext",
+      "language": "Python"
+    },
+    {
+      "name": "pypi-tools",
+      "repo": "https://github.com/hugovk/pypi-tools",
+      "url": "https://hugovk.github.io/pypi-tools",
+      "language": "Python"
+    },
+    {
+      "name": "pypistats",
+      "repo": "https://github.com/hugovk/pypistats",
+      "url": "https://pypistats.org/api/",
+      "language": "Python"
+    },
+    {
+      "name": "hugovk.github.io",
+      "repo": "https://github.com/hugovk/hugovk.github.io",
+      "url": "https://hugovk.dev",
+      "language": "HTML"
+    },
+    {
+      "name": "free-threaded-wheels",
+      "repo": "https://github.com/hugovk/free-threaded-wheels",
+      "url": "https://hugovk.dev/free-threaded-wheels/",
+      "language": "HTML"
+    },
+    {
+      "name": "top-pypi-packages",
+      "repo": "https://github.com/hugovk/top-pypi-packages",
+      "url": "https://hugovk.dev/top-pypi-packages",
+      "language": "HTML"
+    },
+    {
+      "name": "norwegianblue",
+      "repo": "https://github.com/hugovk/norwegianblue",
+      "url": "https://endoflife.date",
+      "language": "Python"
+    },
+    {
+      "name": "em-keyboard",
+      "repo": "https://github.com/hugovk/em-keyboard",
+      "language": "Python"
+    },
+    {
+      "name": "pepotron",
+      "repo": "https://github.com/hugovk/pepotron",
+      "url": "https://pypi.org/project/pepotron/",
+      "language": "Python"
+    },
+    {
+      "name": "linkotron",
+      "repo": "https://github.com/hugovk/linkotron",
+      "url": "https://pypi.org/project/linkotron/",
+      "language": "Python"
+    },
+    {
+      "name": "osmviz",
+      "repo": "https://github.com/hugovk/osmviz",
+      "url": "https://hugovk.github.com/osmviz",
+      "language": "HTML"
+    },
+    {
+      "name": "pixel-tools",
+      "repo": "https://github.com/hugovk/pixel-tools",
+      "url": "https://www.flickr.com/search/?q=pixel%3Atool%3D%2A&m=tags&ss=2&ct=6&mt=all&adv=1&s=int",
+      "language": "Python"
+    },
+    {
+      "name": "hugovk",
+      "repo": "https://github.com/hugovk/hugovk",
+      "language": "Python"
+    },
+    {
+      "name": "time-tools",
+      "repo": "https://github.com/hugovk/time-tools",
+      "language": "Python"
+    },
+    {
+      "name": "year-progress-bar",
+      "repo": "https://github.com/hugovk/year-progress-bar",
+      "url": "https://hugovk.github.io/year-progress-bar",
+      "language": "HTML"
+    },
+    {
+      "name": "python-core-team",
+      "repo": "https://github.com/hugovk/python-core-team",
+      "url": "https://hugovk.github.io/python-core-team/",
+      "language": "HTML"
+    },
+    {
+      "name": "python-calver",
+      "repo": "https://github.com/hugovk/python-calver",
+      "url": "https://hugovk.github.io/python-calver/",
+      "language": "HTML"
+    },
+    {
+      "name": "python-steering-council",
+      "repo": "https://github.com/hugovk/python-steering-council",
+      "url": "https://hugovk.github.io/python-steering-council/",
+      "language": "HTML"
+    },
+    {
+      "name": "next-release",
+      "repo": "https://github.com/hugovk/next-release",
+      "url": "https://hugovk.dev/next-release/",
+      "language": "Liquid"
+    },
+    {
+      "name": "transconrace",
+      "repo": "https://github.com/hugovk/transconrace",
+      "url": "https://hugovk.dev/transconrace/",
+      "language": "Python"
+    },
+    {
+      "name": "python-logos",
+      "repo": "https://github.com/hugovk/python-logos",
+      "url": "https://hugovk.github.io/python-logos/",
+      "language": "HTML"
+    },
+    {
+      "name": "github-tools",
+      "repo": "https://github.com/hugovk/github-tools",
+      "language": "Python"
+    },
+    {
+      "name": "bitsofpluto",
+      "repo": "https://github.com/hugovk/bitsofpluto",
+      "url": "https://botsin.space/@bitsofpluto",
+      "language": "Python"
+    },
+    {
+      "name": "lastfm-tools",
+      "repo": "https://github.com/hugovk/lastfm-tools",
+      "language": "Python"
+    },
+    {
+      "name": "ci-tools",
+      "repo": "https://github.com/hugovk/ci-tools",
+      "language": "Python"
+    },
+    {
+      "name": "slackabet",
+      "repo": "https://github.com/hugovk/slackabet",
+      "language": "Python"
+    },
+    {
+      "name": "fino",
+      "repo": "https://github.com/hugovk/fino",
+      "url": "https://pypi.python.org/pypi/fino",
+      "language": "Python"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/hugovk/test",
+      "language": "PHP"
+    },
+    {
+      "name": "lunchbot",
+      "repo": "https://github.com/hugovk/lunchbot",
+      "language": "Python"
+    },
+    {
+      "name": "random-street-view",
+      "repo": "https://github.com/hugovk/random-street-view",
+      "url": "https://www.flickr.com/photos/hugovk/8056580234/",
+      "language": "Python"
+    },
+    {
+      "name": "gutenberg-metadata",
+      "repo": "https://github.com/hugovk/gutenberg-metadata",
+      "url": "https://hugovk.github.io/gutenberg-metadata/gutenberg-metadata.json",
+      "language": "Python"
+    },
+    {
+      "name": "next-pep-number",
+      "repo": "https://github.com/hugovk/next-pep-number",
+      "language": "HTML"
+    },
+    {
+      "name": "ovid",
+      "repo": "https://github.com/hugovk/ovid",
+      "language": "Perl"
+    },
+    {
+      "name": "copy",
+      "repo": "https://github.com/hugovk/copy",
+      "url": "https://hugovk.github.io/copy",
+      "language": "HTML"
+    },
+    {
+      "name": "cutthroats",
+      "repo": "https://github.com/hugovk/cutthroats",
+      "language": "Python"
+    },
+    {
+      "name": "meow.py",
+      "repo": "https://github.com/hugovk/meow.py",
+      "url": "https://github.com/dariusk/NaNoGenMo-2014/issues/50",
+      "language": "Python"
+    },
+    {
+      "name": "twitter-tools",
+      "repo": "https://github.com/hugovk/twitter-tools",
+      "language": "Python"
+    },
+    {
+      "name": "strava-tools",
+      "repo": "https://github.com/hugovk/strava-tools",
+      "language": "Python"
+    },
+    {
+      "name": "finland-emoji",
+      "repo": "https://github.com/hugovk/finland-emoji",
+      "url": "https://hugovk.github.io/finland-emoji",
+      "language": "HTML"
+    },
+    {
+      "name": "cheapbotsdonequick",
+      "repo": "https://github.com/hugovk/cheapbotsdonequick",
+      "url": "https://cheapbotsdonequick.com"
+    },
+    {
+      "name": "NaNoGenMoGen",
+      "repo": "https://github.com/hugovk/NaNoGenMoGen",
+      "url": "https://github.com/NaNoGenMo",
+      "language": "Python"
+    },
+    {
+      "name": "gh-triage",
+      "repo": "https://github.com/hugovk/gh-triage",
+      "language": "Python"
+    },
+    {
+      "name": "flagfactsflags",
+      "repo": "https://github.com/hugovk/flagfactsflags"
+    },
+    {
+      "name": "wiktionary-tools",
+      "repo": "https://github.com/hugovk/wiktionary-tools",
+      "url": "https://hugovk.github.io/wiktionary-tools/",
+      "language": "HTML"
+    },
+    {
+      "name": "Spoon-Knife",
+      "repo": "https://github.com/hugovk/Spoon-Knife",
+      "language": "HTML"
+    },
+    {
+      "name": "chernobyl-progress-bar",
+      "repo": "https://github.com/hugovk/chernobyl-progress-bar",
+      "url": "https://hugovk.github.io/chernobyl-progress-bar/",
+      "language": "HTML"
+    },
+    {
+      "name": "python-core-devs",
+      "repo": "https://github.com/hugovk/python-core-devs",
+      "url": "https://hugovk.github.io/python-core-team/",
+      "language": "HTML"
+    },
+    {
+      "name": "flickr-tools",
+      "repo": "https://github.com/hugovk/flickr-tools",
+      "language": "Python"
+    },
+    {
+      "name": "skills-introduction-to-repository-management",
+      "repo": "https://github.com/hugovk/skills-introduction-to-repository-management",
+      "language": "JavaScript"
+    },
+    {
+      "name": "skills-introduction-to-secret-scanning",
+      "repo": "https://github.com/hugovk/skills-introduction-to-secret-scanning"
+    },
+    {
+      "name": "skills-secure-repository-supply-chain",
+      "repo": "https://github.com/hugovk/skills-secure-repository-supply-chain",
+      "language": "C#"
+    },
+    {
+      "name": "hugovk.github.io-old",
+      "repo": "https://github.com/hugovk/hugovk.github.io-old"
+    },
+    {
+      "name": "nanogenmobot",
+      "repo": "https://github.com/hugovk/nanogenmobot",
+      "url": "https://twitter.com/NaNoGenMoBot",
+      "language": "Python"
+    },
+    {
+      "name": "randimgbot",
+      "repo": "https://github.com/hugovk/randimgbot",
+      "url": "https://twitter.com/FlagFacts",
+      "language": "Python"
+    },
+    {
+      "name": "mastodon-tools",
+      "repo": "https://github.com/hugovk/mastodon-tools",
+      "language": "Python"
+    },
+    {
+      "name": "whatsonthemenu",
+      "repo": "https://github.com/hugovk/whatsonthemenu",
+      "url": "https://pypi.python.org/pypi/whatsonthemenu",
+      "language": "Python"
+    },
+    {
+      "name": "chroniclingamerica.py",
+      "repo": "https://github.com/hugovk/chroniclingamerica.py",
+      "language": "Python"
+    },
+    {
+      "name": "plausible-stats",
+      "repo": "https://github.com/hugovk/plausible-stats",
+      "language": "Python"
+    },
+    {
+      "name": "python2-progress-bar",
+      "repo": "https://github.com/hugovk/python2-progress-bar",
+      "url": "https://hugovk.github.io/python2-progress-bar",
+      "language": "HTML"
+    },
+    {
+      "name": "PIL",
+      "repo": "https://github.com/hugovk/PIL",
+      "language": "C"
+    },
+    {
+      "name": "scramp",
+      "repo": "https://github.com/hugovk/scramp",
+      "language": "Python"
+    },
+    {
+      "name": "hannu",
+      "repo": "https://github.com/hugovk/hannu",
+      "url": "https://hugovk.github.io/hannu/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test-workflows",
+      "repo": "https://github.com/hugovk/test-workflows"
+    },
+    {
+      "name": "numbers",
+      "repo": "https://github.com/hugovk/numbers",
+      "url": "https://hugovk.github.io/numbers",
+      "language": "HTML"
+    },
+    {
+      "name": "bbc-tools",
+      "repo": "https://github.com/hugovk/bbc-tools",
+      "language": "Python"
+    },
+    {
+      "name": "helbikes",
+      "repo": "https://github.com/hugovk/helbikes",
+      "url": "https://hugovk.github.io/helbikes/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "helometer",
+      "repo": "https://github.com/hugovk/helometer",
+      "url": "https://hugovk.github.io/helometer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dayssincelastjavascriptframework",
+      "repo": "https://github.com/hugovk/dayssincelastjavascriptframework",
+      "url": "https://hugovk.github.io/dayssincelastjavascriptframework/",
+      "language": "HTML"
+    },
+    {
+      "name": "dayssince",
+      "repo": "https://github.com/hugovk/dayssince",
+      "url": "https://hugovk.github.io/dayssince",
+      "language": "HTML"
+    },
+    {
+      "name": "gutengrep",
+      "repo": "https://github.com/hugovk/gutengrep",
+      "language": "HTML"
+    },
+    {
+      "name": "winamp",
+      "repo": "https://github.com/hugovk/winamp",
+      "language": "C++"
+    },
+    {
+      "name": "lexiconstruct",
+      "repo": "https://github.com/hugovk/lexiconstruct",
+      "url": "https://hugovk.github.io/lexiconstruct/a-dictionary-of-not-a-words.html",
+      "language": "HTML"
+    },
+    {
+      "name": "aminorthofthewatfordgap",
+      "repo": "https://github.com/hugovk/aminorthofthewatfordgap",
+      "url": "https://hugovk.github.io/aminorthofthewatfordgap/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "amisouthofthewatfordgap",
+      "repo": "https://github.com/hugovk/amisouthofthewatfordgap",
+      "url": "https://hugovk.github.io/amisouthofthewatfordgap/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "GpuSniffer",
+      "repo": "https://github.com/hugovk/GpuSniffer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "foosbot",
+      "repo": "https://github.com/hugovk/foosbot",
+      "language": "Python"
+    },
+    {
+      "name": "menubot",
+      "repo": "https://github.com/hugovk/menubot",
+      "url": "https://twitter.com/menubot",
+      "language": "Python"
+    },
+    {
+      "name": "onthisday",
+      "repo": "https://github.com/hugovk/onthisday",
+      "language": "Python"
+    },
+    {
+      "name": "your-rejected-cs-lewis-book-title-is",
+      "repo": "https://github.com/hugovk/your-rejected-cs-lewis-book-title-is",
+      "url": "https://hugovk.github.io/your-rejected-cs-lewis-book-title-is/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tiles",
+      "repo": "https://github.com/hugovk/tiles",
+      "url": "https://hugovk.github.io/tiles/",
+      "language": "HTML"
+    },
+    {
+      "name": "wotdbot",
+      "repo": "https://github.com/hugovk/wotdbot",
+      "url": "https://twitter.com/fiwotd",
+      "language": "Python"
+    },
+    {
+      "name": "upgrade-unittest",
+      "repo": "https://github.com/hugovk/upgrade-unittest",
+      "language": "Shell"
+    },
+    {
+      "name": "hypes-per-hour",
+      "repo": "https://github.com/hugovk/hypes-per-hour",
+      "language": "Python"
+    },
+    {
+      "name": "pangram",
+      "repo": "https://github.com/hugovk/pangram",
+      "language": "Python"
+    },
+    {
+      "name": "internet-tools",
+      "repo": "https://github.com/hugovk/internet-tools",
+      "language": "Python"
+    },
+    {
+      "name": "inXwords",
+      "repo": "https://github.com/hugovk/inXwords",
+      "url": "https://twitter.com/inXwords",
+      "language": "Python"
+    },
+    {
+      "name": "nodewegianblue",
+      "repo": "https://github.com/hugovk/nodewegianblue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "word-tools",
+      "repo": "https://github.com/hugovk/word-tools",
+      "language": "Python"
+    },
+    {
+      "name": "jargon-file",
+      "repo": "https://github.com/hugovk/jargon-file",
+      "url": "https://jargon-file.org/archive/"
+    },
+    {
+      "name": "actions-demo",
+      "repo": "https://github.com/hugovk/actions-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "mass_shoot_bot",
+      "repo": "https://github.com/hugovk/mass_shoot_bot",
+      "url": "https://twitter.com/mass_shoot_bot",
+      "language": "Python"
+    },
+    {
+      "name": "xdaysofxmas",
+      "repo": "https://github.com/hugovk/xdaysofxmas",
+      "url": "https://hugovk.github.io/xdaysofxmas/output/xdaysofxmas.html",
+      "language": "HTML"
+    },
+    {
+      "name": "happy_botday",
+      "repo": "https://github.com/hugovk/happy_botday",
+      "url": "https://twitter.com/happy_botday",
+      "language": "Python"
+    },
+    {
+      "name": "finnishpop",
+      "repo": "https://github.com/hugovk/finnishpop",
+      "url": "https://twitter.com/finnishpop",
+      "language": "Python"
+    },
+    {
+      "name": "everyfinnishno",
+      "repo": "https://github.com/hugovk/everyfinnishno",
+      "url": "https://twitter.com/EveryFinnishNo",
+      "language": "Python"
+    },
+    {
+      "name": "bewithyoubot",
+      "repo": "https://github.com/hugovk/bewithyoubot",
+      "url": "https://twitter.com/bewithyoubot",
+      "language": "Python"
+    },
+    {
+      "name": "baanacounter",
+      "repo": "https://github.com/hugovk/baanacounter",
+      "language": "Python"
+    }
+  ]
+}

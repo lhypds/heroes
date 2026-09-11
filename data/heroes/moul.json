@@ -1,0 +1,574 @@
+{
+  "handle": "moul",
+  "name": "moul",
+  "github": [
+    "https://github.com/moul"
+  ],
+  "bio": "🪷",
+  "own_repos": 398,
+  "commits": 13508,
+  "apps": [],
+  "repos": [
+    {
+      "name": "moul",
+      "repo": "https://github.com/moul/moul",
+      "url": "https://github.com/moul",
+      "language": "Nix"
+    },
+    {
+      "name": "gnomputer",
+      "repo": "https://github.com/moul/gnomputer",
+      "url": "https://moul.github.io/gnomputer/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "depviz",
+      "repo": "https://github.com/moul/depviz",
+      "url": "https://moul.github.io/depviz/",
+      "language": "Go"
+    },
+    {
+      "name": "converter",
+      "repo": "https://github.com/moul/converter",
+      "language": "Go"
+    },
+    {
+      "name": "number-to-words",
+      "repo": "https://github.com/moul/number-to-words",
+      "url": "https://manfed.life/number-to-words",
+      "language": "Go"
+    },
+    {
+      "name": "gotty-client",
+      "repo": "https://github.com/moul/gotty-client",
+      "url": "https://manfred.life/gotty-client",
+      "language": "Go"
+    },
+    {
+      "name": "cryptoguess",
+      "repo": "https://github.com/moul/cryptoguess",
+      "url": "https://manfred.life/cryptography",
+      "language": "Go"
+    },
+    {
+      "name": "sshportal",
+      "repo": "https://github.com/moul/sshportal",
+      "url": "https://manfred.life/sshportal",
+      "language": "Go"
+    },
+    {
+      "name": "grpcbin",
+      "repo": "https://github.com/moul/grpcbin",
+      "url": "https://grpcb.in/",
+      "language": "Go"
+    },
+    {
+      "name": "assh",
+      "repo": "https://github.com/moul/assh",
+      "url": "https://manfred.life/assh",
+      "language": "Go"
+    },
+    {
+      "name": "repoman",
+      "repo": "https://github.com/moul/repoman",
+      "language": "Go"
+    },
+    {
+      "name": "dl",
+      "repo": "https://github.com/moul/dl",
+      "language": "Go"
+    },
+    {
+      "name": "protoc-gen-gotemplate",
+      "repo": "https://github.com/moul/protoc-gen-gotemplate",
+      "url": "https://manfred.life/protoc-gen-gotemplate",
+      "language": "Go"
+    },
+    {
+      "name": "graphman",
+      "repo": "https://github.com/moul/graphman",
+      "url": "https://manfred.life/graph",
+      "language": "Go"
+    },
+    {
+      "name": "generate-fake-data",
+      "repo": "https://github.com/moul/generate-fake-data",
+      "language": "Go"
+    },
+    {
+      "name": "asanaman",
+      "repo": "https://github.com/moul/asanaman",
+      "language": "Go"
+    },
+    {
+      "name": "github-yesterday-shot",
+      "repo": "https://github.com/moul/github-yesterday-shot",
+      "language": "Makefile"
+    },
+    {
+      "name": "fs-bundler",
+      "repo": "https://github.com/moul/fs-bundler",
+      "url": "https://manfred.life/code",
+      "language": "Go"
+    },
+    {
+      "name": "berty-discord-webhook",
+      "repo": "https://github.com/moul/berty-discord-webhook",
+      "language": "Go"
+    },
+    {
+      "name": "poc-cmd-to-everything",
+      "repo": "https://github.com/moul/poc-cmd-to-everything",
+      "language": "Go"
+    },
+    {
+      "name": "totp-keychain",
+      "repo": "https://github.com/moul/totp-keychain",
+      "url": "https://manfred.life/cryptography",
+      "language": "Go"
+    },
+    {
+      "name": "totp-cli",
+      "repo": "https://github.com/moul/totp-cli",
+      "language": "Go"
+    },
+    {
+      "name": "midcat",
+      "repo": "https://github.com/moul/midcat",
+      "language": "Go"
+    },
+    {
+      "name": "gno-contracts",
+      "repo": "https://github.com/moul/gno-contracts",
+      "language": "Go"
+    },
+    {
+      "name": "lexique",
+      "repo": "https://github.com/moul/lexique",
+      "language": "Go"
+    },
+    {
+      "name": "radioman",
+      "repo": "https://github.com/moul/radioman",
+      "url": "https://manfred.life/radioman",
+      "language": "Go"
+    },
+    {
+      "name": "ascii2svg",
+      "repo": "https://github.com/moul/ascii2svg",
+      "url": "https://manfred.life/ascii-art",
+      "language": "Go"
+    },
+    {
+      "name": "guilhunize",
+      "repo": "https://github.com/moul/guilhunize",
+      "url": "https://guilhunize.moul.io/",
+      "language": "Makefile"
+    },
+    {
+      "name": "prefix",
+      "repo": "https://github.com/moul/prefix",
+      "language": "Go"
+    },
+    {
+      "name": "rrgc",
+      "repo": "https://github.com/moul/rrgc",
+      "url": "https://manfred.life/oss",
+      "language": "Go"
+    },
+    {
+      "name": "logman",
+      "repo": "https://github.com/moul/logman",
+      "url": "https://manfred.life/oss",
+      "language": "Go"
+    },
+    {
+      "name": "zapgorm2",
+      "repo": "https://github.com/moul/zapgorm2",
+      "language": "Go"
+    },
+    {
+      "name": "zapconfig",
+      "repo": "https://github.com/moul/zapconfig",
+      "url": "https://manfred.life/go",
+      "language": "Go"
+    },
+    {
+      "name": "hacker-typing",
+      "repo": "https://github.com/moul/hacker-typing",
+      "url": "https://manfred.life/useless",
+      "language": "Makefile"
+    },
+    {
+      "name": "drunken-bishop",
+      "repo": "https://github.com/moul/drunken-bishop",
+      "url": "https://manfred.life/ssh",
+      "language": "Makefile"
+    },
+    {
+      "name": "testman",
+      "repo": "https://github.com/moul/testman",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "pipotron",
+      "repo": "https://github.com/moul/pipotron",
+      "url": "https://manfred.life/pipotron",
+      "language": "Go"
+    },
+    {
+      "name": "alfred-workflow-u",
+      "repo": "https://github.com/moul/alfred-workflow-u",
+      "language": "Go"
+    },
+    {
+      "name": "metronome",
+      "repo": "https://github.com/moul/metronome",
+      "url": "https://manfred.life/music",
+      "language": "Swift"
+    },
+    {
+      "name": "anonuuid",
+      "repo": "https://github.com/moul/anonuuid",
+      "url": "https://manfred.life/anonuuid",
+      "language": "Go"
+    },
+    {
+      "name": "berty-library-test",
+      "repo": "https://github.com/moul/berty-library-test",
+      "language": "Go"
+    },
+    {
+      "name": "pkgman",
+      "repo": "https://github.com/moul/pkgman",
+      "url": "https://moul.io/pkgman",
+      "language": "Go"
+    },
+    {
+      "name": "music-paint",
+      "repo": "https://github.com/moul/music-paint",
+      "url": "https://manfred.life/music",
+      "language": "Makefile"
+    },
+    {
+      "name": "captcha",
+      "repo": "https://github.com/moul/captcha",
+      "language": "Go"
+    },
+    {
+      "name": "golang-repo-template",
+      "repo": "https://github.com/moul/golang-repo-template",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "zapring",
+      "repo": "https://github.com/moul/zapring",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "actions-base",
+      "repo": "https://github.com/moul/actions-base",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "git-ci",
+      "repo": "https://github.com/moul/git-ci",
+      "language": "Go"
+    },
+    {
+      "name": "retry",
+      "repo": "https://github.com/moul/retry",
+      "url": "https://manfred.life/retry",
+      "language": "Makefile"
+    },
+    {
+      "name": "test-github-actions",
+      "repo": "https://github.com/moul/test-github-actions",
+      "url": "https://manfred.life/",
+      "language": "Go"
+    },
+    {
+      "name": "zapgorm",
+      "repo": "https://github.com/moul/zapgorm",
+      "language": "Go"
+    },
+    {
+      "name": "quicssh",
+      "repo": "https://github.com/moul/quicssh",
+      "url": "https://manfred.life/quicssh",
+      "language": "Go"
+    },
+    {
+      "name": "progress",
+      "repo": "https://github.com/moul/progress",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "wipchat",
+      "repo": "https://github.com/moul/wipchat",
+      "url": "https://wip.chat/@moul/",
+      "language": "Go"
+    },
+    {
+      "name": "moulsay",
+      "repo": "https://github.com/moul/moulsay",
+      "url": "https://manfred.life/ascii-art",
+      "language": "Makefile"
+    },
+    {
+      "name": "zapfilter",
+      "repo": "https://github.com/moul/zapfilter",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "event",
+      "repo": "https://github.com/moul/event",
+      "url": "https://manfred.life/code",
+      "language": "Go"
+    },
+    {
+      "name": "u",
+      "repo": "https://github.com/moul/u",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "chizap",
+      "repo": "https://github.com/moul/chizap",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "roundtripper",
+      "repo": "https://github.com/moul/roundtripper",
+      "url": "https://moul.io/golang",
+      "language": "Go"
+    },
+    {
+      "name": "makerlog",
+      "repo": "https://github.com/moul/makerlog",
+      "url": "https://getmakerlog.com/@moul",
+      "language": "Go"
+    },
+    {
+      "name": "http2curl",
+      "repo": "https://github.com/moul/http2curl",
+      "url": "https://manfred.life/http2curl",
+      "language": "Makefile"
+    },
+    {
+      "name": "gno-hello",
+      "repo": "https://github.com/moul/gno-hello",
+      "language": "Makefile"
+    },
+    {
+      "name": "openfiles",
+      "repo": "https://github.com/moul/openfiles",
+      "language": "Go"
+    },
+    {
+      "name": "motd",
+      "repo": "https://github.com/moul/motd",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "banner",
+      "repo": "https://github.com/moul/banner",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "mdtable",
+      "repo": "https://github.com/moul/mdtable",
+      "language": "Go"
+    },
+    {
+      "name": "climan",
+      "repo": "https://github.com/moul/climan",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "bolosseum",
+      "repo": "https://github.com/moul/bolosseum",
+      "language": "Go"
+    },
+    {
+      "name": "grpcbin-example",
+      "repo": "https://github.com/moul/grpcbin-example",
+      "language": "Go"
+    },
+    {
+      "name": "showcase",
+      "repo": "https://github.com/moul/showcase",
+      "url": "https://showcase.m.42.am/",
+      "language": "Go"
+    },
+    {
+      "name": "actions",
+      "repo": "https://github.com/moul/actions",
+      "url": "https://manfred.life/oss",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "as-a-service",
+      "repo": "https://github.com/moul/as-a-service",
+      "url": "https://moul-as-a-service.m.42.am/",
+      "language": "Go"
+    },
+    {
+      "name": "ssh2docker",
+      "repo": "https://github.com/moul/ssh2docker",
+      "url": "https://manfred.life/ssh2docker",
+      "language": "Go"
+    },
+    {
+      "name": "workgraph",
+      "repo": "https://github.com/moul/workgraph",
+      "url": "https://moul.github.io/workgraph/",
+      "language": "Go"
+    },
+    {
+      "name": "comments",
+      "repo": "https://github.com/moul/comments",
+      "url": "https://manfred.life/comments",
+      "language": "HTML"
+    },
+    {
+      "name": "boxes",
+      "repo": "https://github.com/moul/boxes",
+      "language": "Shell"
+    },
+    {
+      "name": "gno-basics",
+      "repo": "https://github.com/moul/gno-basics",
+      "language": "Go"
+    },
+    {
+      "name": "funcenter",
+      "repo": "https://github.com/moul/funcenter",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "build",
+      "repo": "https://github.com/moul/build",
+      "url": "https://manfred.life/code",
+      "language": "Shell"
+    },
+    {
+      "name": "ssh.manfred.life",
+      "repo": "https://github.com/moul/ssh.manfred.life",
+      "url": "https://manfred.life",
+      "language": "Shell"
+    },
+    {
+      "name": "godev",
+      "repo": "https://github.com/moul/godev",
+      "url": "https://manfred.life/golang",
+      "language": "Makefile"
+    },
+    {
+      "name": "srand",
+      "repo": "https://github.com/moul/srand",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "hcfilters",
+      "repo": "https://github.com/moul/hcfilters",
+      "url": "https://moul.io/hcfilters",
+      "language": "Go"
+    },
+    {
+      "name": "multipmuri",
+      "repo": "https://github.com/moul/multipmuri",
+      "url": "https://manfred.life/golang",
+      "language": "Go"
+    },
+    {
+      "name": "junk",
+      "repo": "https://github.com/moul/junk",
+      "url": "https://manfred.life/junk",
+      "language": "C"
+    },
+    {
+      "name": "asciimoul",
+      "repo": "https://github.com/moul/asciimoul",
+      "url": "https://manfred.life/ascii-art",
+      "language": "Go"
+    },
+    {
+      "name": "iocat",
+      "repo": "https://github.com/moul/iocat",
+      "url": "https://manfred.life/iocat",
+      "language": "CoffeeScript"
+    },
+    {
+      "name": "maintainer-ping-workflow",
+      "repo": "https://github.com/moul/maintainer-ping-workflow"
+    },
+    {
+      "name": "repoman-action",
+      "repo": "https://github.com/moul/repoman-action",
+      "url": "https://manfred.life/oss",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mnemos-strava",
+      "repo": "https://github.com/moul/mnemos-strava"
+    },
+    {
+      "name": "euler",
+      "repo": "https://github.com/moul/euler",
+      "language": "Go"
+    },
+    {
+      "name": "vanitycal",
+      "repo": "https://github.com/moul/vanitycal",
+      "language": "Go"
+    },
+    {
+      "name": "shortcuts-if-false",
+      "repo": "https://github.com/moul/shortcuts-if-false",
+      "language": "Swift"
+    },
+    {
+      "name": "rules.mk",
+      "repo": "https://github.com/moul/rules.mk",
+      "url": "https://manfred.life/code",
+      "language": "Makefile"
+    },
+    {
+      "name": "colorscheme",
+      "repo": "https://github.com/moul/colorscheme",
+      "language": "Python"
+    },
+    {
+      "name": "bot",
+      "repo": "https://github.com/moul/bot",
+      "url": "https://manfred.life/moul-bot",
+      "language": "Go"
+    },
+    {
+      "name": "gno-1",
+      "repo": "https://github.com/moul/gno-1"
+    },
+    {
+      "name": "revbro",
+      "repo": "https://github.com/moul/revbro",
+      "language": "Go"
+    },
+    {
+      "name": "txtar",
+      "repo": "https://github.com/moul/txtar",
+      "language": "Go"
+    }
+  ]
+}

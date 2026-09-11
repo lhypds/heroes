@@ -1,0 +1,511 @@
+{
+  "handle": "ardumont",
+  "name": "Antoine R. Dumont",
+  "github": [
+    "https://github.com/ardumont"
+  ],
+  "bio": "Free Software... what else?",
+  "own_repos": 133,
+  "commits": 10554,
+  "apps": [],
+  "repos": [
+    {
+      "name": "markdown-toc",
+      "repo": "https://github.com/ardumont/markdown-toc",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-celery",
+      "repo": "https://github.com/ardumont/emacs-celery",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mypkgs",
+      "repo": "https://github.com/ardumont/mypkgs",
+      "language": "Nix"
+    },
+    {
+      "name": "ardumont.github.io",
+      "repo": "https://github.com/ardumont/ardumont.github.io",
+      "url": "https://ardumont.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "org2jekyll",
+      "repo": "https://github.com/ardumont/org2jekyll",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "org",
+      "repo": "https://github.com/ardumont/org",
+      "url": "https://ardumont.github.io",
+      "language": "C"
+    },
+    {
+      "name": ".xmonad",
+      "repo": "https://github.com/ardumont/.xmonad",
+      "language": "Haskell"
+    },
+    {
+      "name": "glowing-octo-archer",
+      "repo": "https://github.com/ardumont/glowing-octo-archer",
+      "language": "Clojure"
+    },
+    {
+      "name": ".emacs.d",
+      "repo": "https://github.com/ardumont/.emacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mail-pack",
+      "repo": "https://github.com/ardumont/mail-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "lisp-pack",
+      "repo": "https://github.com/ardumont/lisp-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "python-pack",
+      "repo": "https://github.com/ardumont/python-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "orgmode-pack",
+      "repo": "https://github.com/ardumont/orgmode-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "nix-pack",
+      "repo": "https://github.com/ardumont/nix-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "haskell-pack",
+      "repo": "https://github.com/ardumont/haskell-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "browser-pack",
+      "repo": "https://github.com/ardumont/browser-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "sh",
+      "repo": "https://github.com/ardumont/sh",
+      "language": "Shell"
+    },
+    {
+      "name": "buffer-pack",
+      "repo": "https://github.com/ardumont/buffer-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "theme-pack",
+      "repo": "https://github.com/ardumont/theme-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "stumpwm-pack",
+      "repo": "https://github.com/ardumont/stumpwm-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "shell-pack",
+      "repo": "https://github.com/ardumont/shell-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "purescript-pack",
+      "repo": "https://github.com/ardumont/purescript-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "puppet-pack",
+      "repo": "https://github.com/ardumont/puppet-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "prelude-pack",
+      "repo": "https://github.com/ardumont/prelude-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mercurial-pack",
+      "repo": "https://github.com/ardumont/mercurial-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "help-pack",
+      "repo": "https://github.com/ardumont/help-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "helm-pack",
+      "repo": "https://github.com/ardumont/helm-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "git-pack",
+      "repo": "https://github.com/ardumont/git-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "elisp-pack",
+      "repo": "https://github.com/ardumont/elisp-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "el-get-pack",
+      "repo": "https://github.com/ardumont/el-get-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "caml-pack",
+      "repo": "https://github.com/ardumont/caml-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "scala-pack",
+      "repo": "https://github.com/ardumont/scala-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "idris-pack",
+      "repo": "https://github.com/ardumont/idris-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "conkeror-pack",
+      "repo": "https://github.com/ardumont/conkeror-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "viewer-pack",
+      "repo": "https://github.com/ardumont/viewer-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "marmalade-pack",
+      "repo": "https://github.com/ardumont/marmalade-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "chat-pack",
+      "repo": "https://github.com/ardumont/chat-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "twitter-pack",
+      "repo": "https://github.com/ardumont/twitter-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "pres-pack",
+      "repo": "https://github.com/ardumont/pres-pack",
+      "language": "JavaScript"
+    },
+    {
+      "name": "modeline-pack",
+      "repo": "https://github.com/ardumont/modeline-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "wiki-pack",
+      "repo": "https://github.com/ardumont/wiki-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "blog-pack",
+      "repo": "https://github.com/ardumont/blog-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "scratch-pack",
+      "repo": "https://github.com/ardumont/scratch-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "clojure-pack",
+      "repo": "https://github.com/ardumont/clojure-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "js-pack",
+      "repo": "https://github.com/ardumont/js-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "haskell-lab",
+      "repo": "https://github.com/ardumont/haskell-lab",
+      "language": "Haskell"
+    },
+    {
+      "name": "universal-ctags",
+      "repo": "https://github.com/ardumont/universal-ctags",
+      "language": "C"
+    },
+    {
+      "name": "fossology-nomossa",
+      "repo": "https://github.com/ardumont/fossology-nomossa",
+      "language": "C"
+    },
+    {
+      "name": "python-azure-storage",
+      "repo": "https://github.com/ardumont/python-azure-storage",
+      "language": "Python"
+    },
+    {
+      "name": "python-msrestazure",
+      "repo": "https://github.com/ardumont/python-msrestazure",
+      "language": "Python"
+    },
+    {
+      "name": "python-msrest",
+      "repo": "https://github.com/ardumont/python-msrest",
+      "language": "Python"
+    },
+    {
+      "name": "prelude-packs",
+      "repo": "https://github.com/ardumont/prelude-packs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "test-python-spam",
+      "repo": "https://github.com/ardumont/test-python-spam",
+      "language": "C"
+    },
+    {
+      "name": "python-azure-nspkg",
+      "repo": "https://github.com/ardumont/python-azure-nspkg",
+      "language": "Python"
+    },
+    {
+      "name": "python-azure-common",
+      "repo": "https://github.com/ardumont/python-azure-common",
+      "language": "Python"
+    },
+    {
+      "name": "install-packages-pack",
+      "repo": "https://github.com/ardumont/install-packages-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "purescript-lab",
+      "repo": "https://github.com/ardumont/purescript-lab",
+      "language": "PureScript"
+    },
+    {
+      "name": ".spacemacs.d",
+      "repo": "https://github.com/ardumont/.spacemacs.d",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "irc-pack",
+      "repo": "https://github.com/ardumont/irc-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "category-theory-lab",
+      "repo": "https://github.com/ardumont/category-theory-lab",
+      "language": "Haskell"
+    },
+    {
+      "name": "emacs-1",
+      "repo": "https://github.com/ardumont/emacs-1",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "snake",
+      "repo": "https://github.com/ardumont/snake",
+      "language": "Haskell"
+    },
+    {
+      "name": "ocaml-lab",
+      "repo": "https://github.com/ardumont/ocaml-lab",
+      "language": "Makefile"
+    },
+    {
+      "name": "gh-api-lab",
+      "repo": "https://github.com/ardumont/gh-api-lab",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "popup-pack",
+      "repo": "https://github.com/ardumont/popup-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "php-pack",
+      "repo": "https://github.com/ardumont/php-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "groovy-pack",
+      "repo": "https://github.com/ardumont/groovy-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "java-pack",
+      "repo": "https://github.com/ardumont/java-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "chrome-pack",
+      "repo": "https://github.com/ardumont/chrome-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "clojurescript-pack",
+      "repo": "https://github.com/ardumont/clojurescript-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-live-packs",
+      "repo": "https://github.com/ardumont/emacs-live-packs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "graph-pack",
+      "repo": "https://github.com/ardumont/graph-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "prelude-live-pack",
+      "repo": "https://github.com/ardumont/prelude-live-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "js-lab",
+      "repo": "https://github.com/ardumont/js-lab",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-lab",
+      "repo": "https://github.com/ardumont/docker-lab",
+      "language": "Shell"
+    },
+    {
+      "name": "nixops-lab",
+      "repo": "https://github.com/ardumont/nixops-lab",
+      "language": "Nix"
+    },
+    {
+      "name": "nodejs-lab",
+      "repo": "https://github.com/ardumont/nodejs-lab"
+    },
+    {
+      "name": "angularjs-lab",
+      "repo": "https://github.com/ardumont/angularjs-lab"
+    },
+    {
+      "name": "mustached-sanso",
+      "repo": "https://github.com/ardumont/mustached-sanso",
+      "language": "Clojure"
+    },
+    {
+      "name": "write-yourself-a-scheme-lab",
+      "repo": "https://github.com/ardumont/write-yourself-a-scheme-lab",
+      "language": "Haskell"
+    },
+    {
+      "name": "chef-lab",
+      "repo": "https://github.com/ardumont/chef-lab",
+      "language": "Ruby"
+    },
+    {
+      "name": "webproperty",
+      "repo": "https://github.com/ardumont/webproperty",
+      "language": "Clojure"
+    },
+    {
+      "name": "vinyasa",
+      "repo": "https://github.com/ardumont/vinyasa",
+      "language": "Clojure"
+    },
+    {
+      "name": "emacs-creds",
+      "repo": "https://github.com/ardumont/emacs-creds",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "macro-pack",
+      "repo": "https://github.com/ardumont/macro-pack",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "clj-jam",
+      "repo": "https://github.com/ardumont/clj-jam",
+      "language": "Clojure"
+    },
+    {
+      "name": "trello-lab",
+      "repo": "https://github.com/ardumont/trello-lab",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-monad-lab",
+      "repo": "https://github.com/ardumont/clj-monad-lab",
+      "language": "Clojure"
+    },
+    {
+      "name": "snap-lab",
+      "repo": "https://github.com/ardumont/snap-lab"
+    },
+    {
+      "name": "yesod-lab",
+      "repo": "https://github.com/ardumont/yesod-lab",
+      "language": "CSS"
+    },
+    {
+      "name": "harduino-lab",
+      "repo": "https://github.com/ardumont/harduino-lab",
+      "language": "Haskell"
+    },
+    {
+      "name": "arduino-lab",
+      "repo": "https://github.com/ardumont/arduino-lab",
+      "language": "Clojure"
+    },
+    {
+      "name": "riemann-lab",
+      "repo": "https://github.com/ardumont/riemann-lab"
+    },
+    {
+      "name": "log-retriever",
+      "repo": "https://github.com/ardumont/log-retriever",
+      "language": "Clojure"
+    },
+    {
+      "name": "scala-lab",
+      "repo": "https://github.com/ardumont/scala-lab",
+      "language": "Scala"
+    },
+    {
+      "name": "clj-of-life",
+      "repo": "https://github.com/ardumont/clj-of-life",
+      "language": "Clojure"
+    },
+    {
+      "name": "clj-tron",
+      "repo": "https://github.com/ardumont/clj-tron",
+      "language": "Clojure"
+    },
+    {
+      "name": "scratch",
+      "repo": "https://github.com/ardumont/scratch",
+      "language": "Clojure"
+    },
+    {
+      "name": "scheme-lab",
+      "repo": "https://github.com/ardumont/scheme-lab",
+      "language": "Scheme"
+    },
+    {
+      "name": "4clojure-lab",
+      "repo": "https://github.com/ardumont/4clojure-lab",
+      "language": "Clojure"
+    }
+  ]
+}

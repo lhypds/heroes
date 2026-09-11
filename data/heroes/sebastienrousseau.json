@@ -1,0 +1,591 @@
+{
+  "handle": "sebastienrousseau",
+  "name": "Sebastien Rousseau",
+  "github": [
+    "https://github.com/sebastienrousseau"
+  ],
+  "website": "https://sebastienrousseau.com/",
+  "bio": "Leveraging Artificial Intelligence (AI), Post-Quantum Cryptography (PQC), Blockchain, and Rust to Shape and Secure the Future of Banking and Financial Services.",
+  "own_repos": 203,
+  "commits": 15977,
+  "apps": [],
+  "repos": [
+    {
+      "name": "remark-config",
+      "repo": "https://github.com/sebastienrousseau/remark-config",
+      "url": "https://sebastienrousseau.com/remark-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/sebastienrousseau/dotfiles",
+      "url": "https://doc.dotfiles.io/",
+      "language": "Shell"
+    },
+    {
+      "name": "prettier-config",
+      "repo": "https://github.com/sebastienrousseau/prettier-config",
+      "url": "https://sebastienrousseau.com/prettier-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "playwright-config",
+      "repo": "https://github.com/sebastienrousseau/playwright-config",
+      "url": "https://sebastienrousseau.com/playwright-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "oxlint-config",
+      "repo": "https://github.com/sebastienrousseau/oxlint-config",
+      "url": "https://sebastienrousseau.com/oxlint-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "mocha-config",
+      "repo": "https://github.com/sebastienrousseau/mocha-config",
+      "url": "https://sebastienrousseau.com/mocha-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "markdownlint-config",
+      "repo": "https://github.com/sebastienrousseau/markdownlint-config",
+      "url": "https://sebastienrousseau.com/markdownlint-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "lefthook-config",
+      "repo": "https://github.com/sebastienrousseau/lefthook-config",
+      "url": "https://sebastienrousseau.com/lefthook-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "knip-config",
+      "repo": "https://github.com/sebastienrousseau/knip-config",
+      "url": "https://sebastienrousseau.com/knip-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "jsdoc-config",
+      "repo": "https://github.com/sebastienrousseau/jsdoc-config",
+      "url": "https://sebastienrousseau.com/jsdoc-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "eslint-config",
+      "repo": "https://github.com/sebastienrousseau/eslint-config",
+      "url": "https://sebastienrousseau.com/eslint-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "docker-config",
+      "repo": "https://github.com/sebastienrousseau/docker-config",
+      "url": "https://sebastienrousseau.com/docker-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "commitlint-config",
+      "repo": "https://github.com/sebastienrousseau/commitlint-config",
+      "url": "https://sebastienrousseau.com/commitlint-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "c8-config",
+      "repo": "https://github.com/sebastienrousseau/c8-config",
+      "url": "https://sebastienrousseau.com/c8-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "browserslist-config",
+      "repo": "https://github.com/sebastienrousseau/browserslist-config",
+      "url": "https://sebastienrousseau.com/browserslist-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "static-site-generator",
+      "repo": "https://github.com/sebastienrousseau/static-site-generator",
+      "url": "https://docs.static-site-generator.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "biome-config",
+      "repo": "https://github.com/sebastienrousseau/biome-config",
+      "url": "https://sebastienrousseau.com/biome-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "rousseau-agent",
+      "repo": "https://github.com/sebastienrousseau/rousseau-agent",
+      "url": "https://rousseau-agent.com",
+      "language": "Go"
+    },
+    {
+      "name": "libmake",
+      "repo": "https://github.com/sebastienrousseau/libmake",
+      "language": "Rust"
+    },
+    {
+      "name": "ssg-themes.github.io",
+      "repo": "https://github.com/sebastienrousseau/ssg-themes.github.io",
+      "url": "https://themes.static-site-generator.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "sebastienrousseau.github.io",
+      "repo": "https://github.com/sebastienrousseau/sebastienrousseau.github.io",
+      "url": "https://sebastienrousseau.com/",
+      "language": "Python"
+    },
+    {
+      "name": "wiserone.github.io",
+      "repo": "https://github.com/sebastienrousseau/wiserone.github.io",
+      "language": "Python"
+    },
+    {
+      "name": "zig-config",
+      "repo": "https://github.com/sebastienrousseau/zig-config",
+      "url": "https://sebastienrousseau.com/zig-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "swift-config",
+      "repo": "https://github.com/sebastienrousseau/swift-config",
+      "url": "https://sebastienrousseau.com/swift-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "sql-config",
+      "repo": "https://github.com/sebastienrousseau/sql-config",
+      "url": "https://sebastienrousseau.com/sql-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "shell-config",
+      "repo": "https://github.com/sebastienrousseau/shell-config",
+      "url": "https://sebastienrousseau.com/shell-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "rust-config",
+      "repo": "https://github.com/sebastienrousseau/rust-config",
+      "url": "https://sebastienrousseau.com/rust-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "ruby-config",
+      "repo": "https://github.com/sebastienrousseau/ruby-config",
+      "url": "https://sebastienrousseau.com/ruby-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "r-config",
+      "repo": "https://github.com/sebastienrousseau/r-config",
+      "url": "https://sebastienrousseau.com/r-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "python-config",
+      "repo": "https://github.com/sebastienrousseau/python-config",
+      "url": "https://sebastienrousseau.com/python-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "php-config",
+      "repo": "https://github.com/sebastienrousseau/php-config",
+      "url": "https://sebastienrousseau.com/php-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "lua-config",
+      "repo": "https://github.com/sebastienrousseau/lua-config",
+      "url": "https://sebastienrousseau.com/lua-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "kotlin-config",
+      "repo": "https://github.com/sebastienrousseau/kotlin-config",
+      "url": "https://sebastienrousseau.com/kotlin-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "java-config",
+      "repo": "https://github.com/sebastienrousseau/java-config",
+      "url": "https://sebastienrousseau.com/java-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "go-config",
+      "repo": "https://github.com/sebastienrousseau/go-config",
+      "url": "https://sebastienrousseau.com/go-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "dart-config",
+      "repo": "https://github.com/sebastienrousseau/dart-config",
+      "url": "https://sebastienrousseau.com/dart-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "csharp-config",
+      "repo": "https://github.com/sebastienrousseau/csharp-config",
+      "url": "https://sebastienrousseau.com/csharp-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "cpp-config",
+      "repo": "https://github.com/sebastienrousseau/cpp-config",
+      "url": "https://sebastienrousseau.com/cpp-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "c-config",
+      "repo": "https://github.com/sebastienrousseau/c-config",
+      "url": "https://sebastienrousseau.com/c-config/",
+      "language": "HTML"
+    },
+    {
+      "name": "vitest-config",
+      "repo": "https://github.com/sebastienrousseau/vitest-config",
+      "url": "https://sebastienrousseau.com/vitest-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "tsconfig-config",
+      "repo": "https://github.com/sebastienrousseau/tsconfig-config",
+      "url": "https://sebastienrousseau.com/tsconfig-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "tailwindcss-config",
+      "repo": "https://github.com/sebastienrousseau/tailwindcss-config",
+      "url": "https://sebastienrousseau.com/tailwindcss-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "stylelint-config",
+      "repo": "https://github.com/sebastienrousseau/stylelint-config",
+      "url": "https://sebastienrousseau.com/stylelint-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "size-limit-config",
+      "repo": "https://github.com/sebastienrousseau/size-limit-config",
+      "url": "https://sebastienrousseau.com/size-limit-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "semantic-release-config",
+      "repo": "https://github.com/sebastienrousseau/semantic-release-config",
+      "url": "https://sebastienrousseau.com/semantic-release-config/",
+      "language": "CSS"
+    },
+    {
+      "name": "config",
+      "repo": "https://github.com/sebastienrousseau/config",
+      "url": "https://github.com/sebastienrousseau/config#readme",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pain001",
+      "repo": "https://github.com/sebastienrousseau/pain001",
+      "language": "Python"
+    },
+    {
+      "name": "config-kit",
+      "repo": "https://github.com/sebastienrousseau/config-kit",
+      "language": "JavaScript"
+    },
+    {
+      "name": "draft",
+      "repo": "https://github.com/sebastienrousseau/draft",
+      "url": "https://sebastienrousseau.com/draft/",
+      "language": "Go"
+    },
+    {
+      "name": "pain001.github.io",
+      "repo": "https://github.com/sebastienrousseau/pain001.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "pain001-lsp",
+      "repo": "https://github.com/sebastienrousseau/pain001-lsp",
+      "url": "https://pain001.com",
+      "language": "Python"
+    },
+    {
+      "name": "nucleusflow",
+      "repo": "https://github.com/sebastienrousseau/nucleusflow",
+      "language": "Rust"
+    },
+    {
+      "name": "draftlib.github.io",
+      "repo": "https://github.com/sebastienrousseau/draftlib.github.io",
+      "url": "https://draftlib.com",
+      "language": "HTML"
+    },
+    {
+      "name": "password-generator-pro",
+      "repo": "https://github.com/sebastienrousseau/password-generator-pro",
+      "url": "https://password-generator.pro/",
+      "language": "Rust"
+    },
+    {
+      "name": "pacs008.github.io",
+      "repo": "https://github.com/sebastienrousseau/pacs008.github.io",
+      "url": "https://pacs008.com/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "password-generator",
+      "repo": "https://github.com/sebastienrousseau/password-generator",
+      "url": "https://jspassgen.com",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pipelines",
+      "repo": "https://github.com/sebastienrousseau/pipelines",
+      "language": "Shell"
+    },
+    {
+      "name": "cloudcdn.pro",
+      "repo": "https://github.com/sebastienrousseau/cloudcdn.pro",
+      "url": "https://cloudcdn.pro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "code-editor",
+      "repo": "https://github.com/sebastienrousseau/code-editor",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nalufx",
+      "repo": "https://github.com/sebastienrousseau/nalufx",
+      "language": "Rust"
+    },
+    {
+      "name": "bankstatementparser",
+      "repo": "https://github.com/sebastienrousseau/bankstatementparser",
+      "language": "Python"
+    },
+    {
+      "name": "pain001-mcp",
+      "repo": "https://github.com/sebastienrousseau/pain001-mcp",
+      "url": "https://pain001.com",
+      "language": "Python"
+    },
+    {
+      "name": "iso20022-evidence-pack-mcp",
+      "repo": "https://github.com/sebastienrousseau/iso20022-evidence-pack-mcp",
+      "url": "https://sebastienrousseau.github.io/iso20022-evidence-pack-mcp/",
+      "language": "Python"
+    },
+    {
+      "name": "camt053-mcp",
+      "repo": "https://github.com/sebastienrousseau/camt053-mcp",
+      "url": "https://camt053.com",
+      "language": "Python"
+    },
+    {
+      "name": "structured-address-fix-mcp",
+      "repo": "https://github.com/sebastienrousseau/structured-address-fix-mcp",
+      "url": "https://sebastienrousseau.github.io/structured-address-fix/",
+      "language": "Python"
+    },
+    {
+      "name": "iso20022-readiness-suite-mcp",
+      "repo": "https://github.com/sebastienrousseau/iso20022-readiness-suite-mcp",
+      "url": "https://sebastienrousseau.github.io/iso20022-readiness-suite-mcp/",
+      "language": "Python"
+    },
+    {
+      "name": "iso20022-bank-profile-mcp",
+      "repo": "https://github.com/sebastienrousseau/iso20022-bank-profile-mcp",
+      "url": "https://sebastienrousseau.github.io/iso20022-bank-profile-mcp/",
+      "language": "Python"
+    },
+    {
+      "name": "bankstatementparser-mcp",
+      "repo": "https://github.com/sebastienrousseau/bankstatementparser-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "metadata-gen",
+      "repo": "https://github.com/sebastienrousseau/metadata-gen",
+      "url": "https://metadata-gen.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "staticdatagen",
+      "repo": "https://github.com/sebastienrousseau/staticdatagen",
+      "language": "Rust"
+    },
+    {
+      "name": "frontmatter-gen",
+      "repo": "https://github.com/sebastienrousseau/frontmatter-gen",
+      "url": "https://frontmatter-gen.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "html-generator",
+      "repo": "https://github.com/sebastienrousseau/html-generator",
+      "url": "https://doc.html-generator.co/",
+      "language": "Rust"
+    },
+    {
+      "name": "noyalib.github.io",
+      "repo": "https://github.com/sebastienrousseau/noyalib.github.io",
+      "language": "Python"
+    },
+    {
+      "name": "noya-cli",
+      "repo": "https://github.com/sebastienrousseau/noya-cli",
+      "url": "https://docs.rs/noya-cli",
+      "language": "Rust"
+    },
+    {
+      "name": "noyalib-mcp",
+      "repo": "https://github.com/sebastienrousseau/noyalib-mcp",
+      "url": "https://docs.rs/noyalib-mcp",
+      "language": "Rust"
+    },
+    {
+      "name": "noyalib-lsp",
+      "repo": "https://github.com/sebastienrousseau/noyalib-lsp",
+      "url": "https://docs.rs/noyalib-lsp",
+      "language": "Rust"
+    },
+    {
+      "name": "noyalib-wasm",
+      "repo": "https://github.com/sebastienrousseau/noyalib-wasm",
+      "url": "https://docs.rs/noyalib-wasm",
+      "language": "Rust"
+    },
+    {
+      "name": "noyalib-serde-yaml",
+      "repo": "https://github.com/sebastienrousseau/noyalib-serde-yaml",
+      "language": "Rust"
+    },
+    {
+      "name": "noyalib",
+      "repo": "https://github.com/sebastienrousseau/noyalib",
+      "url": "https://sebastienrousseau.github.io/noyalib/manual/",
+      "language": "Rust"
+    },
+    {
+      "name": "camt053-lsp",
+      "repo": "https://github.com/sebastienrousseau/camt053-lsp",
+      "url": "https://camt053.com",
+      "language": "Python"
+    },
+    {
+      "name": "akande",
+      "repo": "https://github.com/sebastienrousseau/akande",
+      "url": "https://akande.co/",
+      "language": "Python"
+    },
+    {
+      "name": "bankstatementparser-loader-mt942",
+      "repo": "https://github.com/sebastienrousseau/bankstatementparser-loader-mt942",
+      "language": "Python"
+    },
+    {
+      "name": "xtasks",
+      "repo": "https://github.com/sebastienrousseau/xtasks",
+      "url": "https://xtasks.pro",
+      "language": "Rust"
+    },
+    {
+      "name": "bankstatementparser-writer-xlsx",
+      "repo": "https://github.com/sebastienrousseau/bankstatementparser-writer-xlsx",
+      "language": "Python"
+    },
+    {
+      "name": "camt053",
+      "repo": "https://github.com/sebastienrousseau/camt053",
+      "url": "https://camt053.com",
+      "language": "Python"
+    },
+    {
+      "name": "bankstatementparser-loader-bai2",
+      "repo": "https://github.com/sebastienrousseau/bankstatementparser-loader-bai2",
+      "language": "Python"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/sebastienrousseau/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "rssgen",
+      "repo": "https://github.com/sebastienrousseau/rssgen",
+      "language": "Rust"
+    },
+    {
+      "name": "http-handle",
+      "repo": "https://github.com/sebastienrousseau/http-handle",
+      "language": "Rust"
+    },
+    {
+      "name": "rlg",
+      "repo": "https://github.com/sebastienrousseau/rlg",
+      "language": "Rust"
+    },
+    {
+      "name": "kyberlib",
+      "repo": "https://github.com/sebastienrousseau/kyberlib",
+      "url": "https://kyberlib.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "inclusio",
+      "repo": "https://github.com/sebastienrousseau/inclusio",
+      "url": "https://github.com/sebastienrousseau/inclusio",
+      "language": "Python"
+    },
+    {
+      "name": "bankstatementparser-lsp",
+      "repo": "https://github.com/sebastienrousseau/bankstatementparser-lsp",
+      "language": "Python"
+    },
+    {
+      "name": "euxis",
+      "repo": "https://github.com/sebastienrousseau/euxis",
+      "url": "https://euxis.co",
+      "language": "C++"
+    },
+    {
+      "name": "raidhos",
+      "repo": "https://github.com/sebastienrousseau/raidhos",
+      "language": "Rust"
+    },
+    {
+      "name": "corral-sync",
+      "repo": "https://github.com/sebastienrousseau/corral-sync",
+      "url": "https://github.com/sebastienrousseau/corral",
+      "language": "Go"
+    },
+    {
+      "name": "structured-address-fix",
+      "repo": "https://github.com/sebastienrousseau/structured-address-fix",
+      "url": "https://sebastienrousseau.github.io/structured-address-fix/",
+      "language": "Python"
+    },
+    {
+      "name": "skeletonic.github.io",
+      "repo": "https://github.com/sebastienrousseau/skeletonic.github.io",
+      "url": "https://skeletonic.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "corralctl",
+      "repo": "https://github.com/sebastienrousseau/corralctl",
+      "url": "https://doc.corrallib.com/",
+      "language": "Go"
+    },
+    {
+      "name": "oxml-lsp",
+      "repo": "https://github.com/sebastienrousseau/oxml-lsp",
+      "url": "https://github.com/sebastienrousseau/oxml",
+      "language": "Rust"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "handle": "gleich",
+  "name": "Matt Gleich",
+  "github": [
+    "https://github.com/gleich"
+  ],
+  "website": "https://mattglei.ch/",
+  "bio": "https://mattglei.ch",
+  "own_repos": 197,
+  "commits": 12001,
+  "apps": [],
+  "repos": [
+    {
+      "name": "infra",
+      "repo": "https://github.com/gleich/infra",
+      "language": "HCL"
+    },
+    {
+      "name": "dots",
+      "repo": "https://github.com/gleich/dots",
+      "language": "Shell"
+    },
+    {
+      "name": "mattglei.ch",
+      "repo": "https://github.com/gleich/mattglei.ch",
+      "url": "https://mattglei.ch",
+      "language": "Svelte"
+    },
+    {
+      "name": "lcp",
+      "repo": "https://github.com/gleich/lcp",
+      "url": "https://mattglei.ch/lcp",
+      "language": "Go"
+    },
+    {
+      "name": "neetcode",
+      "repo": "https://github.com/gleich/neetcode",
+      "language": "Rust"
+    },
+    {
+      "name": "scripts",
+      "repo": "https://github.com/gleich/scripts",
+      "language": "Go"
+    },
+    {
+      "name": "rust-things3",
+      "repo": "https://github.com/gleich/rust-things3",
+      "language": "Rust"
+    },
+    {
+      "name": "go.mattglei.ch",
+      "repo": "https://github.com/gleich/go.mattglei.ch",
+      "url": "https://go.mattglei.ch",
+      "language": "Go"
+    },
+    {
+      "name": "lab",
+      "repo": "https://github.com/gleich/lab",
+      "url": "https://lab.mattglei.ch",
+      "language": "YAML"
+    },
+    {
+      "name": "ui",
+      "repo": "https://github.com/gleich/ui",
+      "url": "https://ui.mattglei.ch",
+      "language": "Svelte"
+    },
+    {
+      "name": "terminal",
+      "repo": "https://github.com/gleich/terminal",
+      "url": "https://terminal.mattglei.ch",
+      "language": "Go"
+    },
+    {
+      "name": "timber",
+      "repo": "https://github.com/gleich/timber",
+      "url": "https://go.mattglei.ch/timber",
+      "language": "Go"
+    },
+    {
+      "name": "deskpi",
+      "repo": "https://github.com/gleich/deskpi",
+      "language": "Makefile"
+    },
+    {
+      "name": "switchvol",
+      "repo": "https://github.com/gleich/switchvol",
+      "language": "Rust"
+    },
+    {
+      "name": "hevymcp",
+      "repo": "https://github.com/gleich/hevymcp"
+    },
+    {
+      "name": "retro",
+      "repo": "https://github.com/gleich/retro",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yamadesk",
+      "repo": "https://github.com/gleich/yamadesk",
+      "language": "Rust"
+    },
+    {
+      "name": "microdotphat",
+      "repo": "https://github.com/gleich/microdotphat",
+      "language": "Rust"
+    },
+    {
+      "name": "split",
+      "repo": "https://github.com/gleich/split",
+      "url": "https://split.mattglei.ch",
+      "language": "Svelte"
+    },
+    {
+      "name": "tlog",
+      "repo": "https://github.com/gleich/tlog",
+      "language": "Go"
+    },
+    {
+      "name": "ritcs",
+      "repo": "https://github.com/gleich/ritcs",
+      "language": "Go"
+    },
+    {
+      "name": "resin",
+      "repo": "https://github.com/gleich/resin",
+      "url": "https://crates.io/crates/resin",
+      "language": "Rust"
+    },
+    {
+      "name": "musicsync",
+      "repo": "https://github.com/gleich/musicsync",
+      "language": "Go"
+    },
+    {
+      "name": "labsite",
+      "repo": "https://github.com/gleich/labsite",
+      "url": "https://lab.mattglei.ch",
+      "language": "Svelte"
+    },
+    {
+      "name": "ical",
+      "repo": "https://github.com/gleich/ical",
+      "language": "Go"
+    },
+    {
+      "name": "musicvault",
+      "repo": "https://github.com/gleich/musicvault",
+      "language": "Go"
+    },
+    {
+      "name": "newyear",
+      "repo": "https://github.com/gleich/newyear",
+      "language": "Go"
+    },
+    {
+      "name": "redirect",
+      "repo": "https://github.com/gleich/redirect",
+      "language": "Go"
+    },
+    {
+      "name": "website-v3",
+      "repo": "https://github.com/gleich/website-v3",
+      "url": "https://mattglei.ch",
+      "language": "Svelte"
+    },
+    {
+      "name": "strava_scraper",
+      "repo": "https://github.com/gleich/strava_scraper",
+      "language": "Rust"
+    },
+    {
+      "name": "mark_ii",
+      "repo": "https://github.com/gleich/mark_ii",
+      "language": "Rust"
+    },
+    {
+      "name": "mark_v",
+      "repo": "https://github.com/gleich/mark_v",
+      "language": "Rust"
+    },
+    {
+      "name": "mark_iv",
+      "repo": "https://github.com/gleich/mark_iv",
+      "language": "Rust"
+    },
+    {
+      "name": "mark_i",
+      "repo": "https://github.com/gleich/mark_i",
+      "language": "Python"
+    },
+    {
+      "name": "uptime_display",
+      "repo": "https://github.com/gleich/uptime_display",
+      "language": "Rust"
+    },
+    {
+      "name": "mark_iii",
+      "repo": "https://github.com/gleich/mark_iii",
+      "language": "Rust"
+    },
+    {
+      "name": "bounce_matrix",
+      "repo": "https://github.com/gleich/bounce_matrix",
+      "language": "Rust"
+    },
+    {
+      "name": "is31fl3731",
+      "repo": "https://github.com/gleich/is31fl3731",
+      "url": "https://crates.io/crates/is31fl3731",
+      "language": "Rust"
+    },
+    {
+      "name": "gex_slack",
+      "repo": "https://github.com/gleich/gex_slack",
+      "language": "Go"
+    },
+    {
+      "name": "verpi",
+      "repo": "https://github.com/gleich/verpi",
+      "url": "https://twitter.com/matt_gleich/status/1434538655264149511",
+      "language": "Go"
+    },
+    {
+      "name": "solar",
+      "repo": "https://github.com/gleich/solar",
+      "language": "Go"
+    },
+    {
+      "name": "gleich-cli",
+      "repo": "https://github.com/gleich/gleich-cli",
+      "language": "TypeScript"
+    },
+    {
+      "name": "explain-math",
+      "repo": "https://github.com/gleich/explain-math",
+      "language": "TeX"
+    },
+    {
+      "name": "github_scraper",
+      "repo": "https://github.com/gleich/github_scraper",
+      "url": "https://graphql.mattglei.ch/",
+      "language": "Go"
+    },
+    {
+      "name": "api",
+      "repo": "https://github.com/gleich/api",
+      "url": "https://graphql.mattglei.ch",
+      "language": "Go"
+    },
+    {
+      "name": "cihat",
+      "repo": "https://github.com/gleich/cihat",
+      "language": "Go"
+    },
+    {
+      "name": "clockhat",
+      "repo": "https://github.com/gleich/clockhat",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ctree",
+      "repo": "https://github.com/gleich/ctree",
+      "language": "Go"
+    },
+    {
+      "name": "wakavis",
+      "repo": "https://github.com/gleich/wakavis",
+      "language": "Rust"
+    },
+    {
+      "name": "blinkt_clock",
+      "repo": "https://github.com/gleich/blinkt_clock",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "contrihat",
+      "repo": "https://github.com/gleich/contrihat",
+      "language": "Go"
+    },
+    {
+      "name": "fgh",
+      "repo": "https://github.com/gleich/fgh",
+      "language": "Go"
+    },
+    {
+      "name": "octo_airport",
+      "repo": "https://github.com/gleich/octo_airport",
+      "language": "Go"
+    },
+    {
+      "name": "release",
+      "repo": "https://github.com/gleich/release",
+      "language": "Go"
+    },
+    {
+      "name": "gh_fsync",
+      "repo": "https://github.com/gleich/gh_fsync",
+      "language": "Go"
+    },
+    {
+      "name": "logoru",
+      "repo": "https://github.com/gleich/logoru",
+      "language": "Go"
+    },
+    {
+      "name": "desktop",
+      "repo": "https://github.com/gleich/desktop",
+      "language": "Go"
+    },
+    {
+      "name": "gleich",
+      "repo": "https://github.com/gleich/gleich",
+      "language": "Markdown"
+    },
+    {
+      "name": "texsep",
+      "repo": "https://github.com/gleich/texsep",
+      "language": "Go"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/gleich/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "nuke",
+      "repo": "https://github.com/gleich/nuke",
+      "language": "Go"
+    },
+    {
+      "name": "actions",
+      "repo": "https://github.com/gleich/actions"
+    },
+    {
+      "name": "blinkt_christmas",
+      "repo": "https://github.com/gleich/blinkt_christmas",
+      "language": "Go"
+    },
+    {
+      "name": "go_template",
+      "repo": "https://github.com/gleich/go_template",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "tlcore",
+      "repo": "https://github.com/gleich/tlcore",
+      "language": "Go"
+    },
+    {
+      "name": "yamavol",
+      "repo": "https://github.com/gleich/yamavol",
+      "language": "Rust"
+    },
+    {
+      "name": "pomo",
+      "repo": "https://github.com/gleich/pomo",
+      "url": "https://pomo.mattglei.ch",
+      "language": "JavaScript"
+    },
+    {
+      "name": "website",
+      "repo": "https://github.com/gleich/website",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lumber",
+      "repo": "https://github.com/gleich/lumber",
+      "language": "Go"
+    },
+    {
+      "name": "hueport-scraper",
+      "repo": "https://github.com/gleich/hueport-scraper",
+      "language": "Go"
+    },
+    {
+      "name": "school",
+      "repo": "https://github.com/gleich/school",
+      "language": "Go"
+    },
+    {
+      "name": "lcp-1",
+      "repo": "https://github.com/gleich/lcp-1",
+      "url": "https://mattglei.ch/lcp",
+      "language": "Rust"
+    },
+    {
+      "name": "statuser",
+      "repo": "https://github.com/gleich/statuser",
+      "language": "Go"
+    },
+    {
+      "name": "Web-Lights-Front",
+      "repo": "https://github.com/gleich/Web-Lights-Front",
+      "url": "https://web-lights.xyz",
+      "language": "HTML"
+    },
+    {
+      "name": "beta-website",
+      "repo": "https://github.com/gleich/beta-website",
+      "url": "https://mattglei.ch",
+      "language": "Dart"
+    },
+    {
+      "name": "jsx",
+      "repo": "https://github.com/gleich/jsx",
+      "language": "HTML"
+    },
+    {
+      "name": "dynamic-season",
+      "repo": "https://github.com/gleich/dynamic-season",
+      "language": "JavaScript"
+    },
+    {
+      "name": "React-Translator",
+      "repo": "https://github.com/gleich/React-Translator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "texsch",
+      "repo": "https://github.com/gleich/texsch",
+      "language": "Go"
+    },
+    {
+      "name": "website-v2",
+      "repo": "https://github.com/gleich/website-v2",
+      "url": "https://v2.mattglei.ch/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "squeue",
+      "repo": "https://github.com/gleich/squeue",
+      "language": "Go"
+    },
+    {
+      "name": "remarkable-sleep",
+      "repo": "https://github.com/gleich/remarkable-sleep",
+      "language": "Makefile"
+    },
+    {
+      "name": "tdjrl",
+      "repo": "https://github.com/gleich/tdjrl",
+      "language": "Go"
+    },
+    {
+      "name": "profile_stack",
+      "repo": "https://github.com/gleich/profile_stack",
+      "language": "Rust"
+    },
+    {
+      "name": "next-js-course",
+      "repo": "https://github.com/gleich/next-js-course",
+      "url": "https://next-js-course-wine-kappa.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "neptune",
+      "repo": "https://github.com/gleich/neptune",
+      "language": "Rust"
+    },
+    {
+      "name": "ordinal",
+      "repo": "https://github.com/gleich/ordinal",
+      "url": "https://crates.io/crates/ordinal",
+      "language": "Rust"
+    },
+    {
+      "name": "things-hardware",
+      "repo": "https://github.com/gleich/things-hardware",
+      "language": "Python"
+    },
+    {
+      "name": "things3-scraper",
+      "repo": "https://github.com/gleich/things3-scraper",
+      "language": "Rust"
+    },
+    {
+      "name": "neptune-raycast",
+      "repo": "https://github.com/gleich/neptune-raycast",
+      "language": "TypeScript"
+    },
+    {
+      "name": "quick-math",
+      "repo": "https://github.com/gleich/quick-math",
+      "language": "Svelte"
+    },
+    {
+      "name": "coding_bat",
+      "repo": "https://github.com/gleich/coding_bat",
+      "language": "Rust"
+    },
+    {
+      "name": "todo.pcb",
+      "repo": "https://github.com/gleich/todo.pcb",
+      "language": "Python"
+    },
+    {
+      "name": "grad",
+      "repo": "https://github.com/gleich/grad",
+      "url": "https://grad.mattglei.ch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "task_log",
+      "repo": "https://github.com/gleich/task_log",
+      "url": "https://crates.io/crates/task_log",
+      "language": "Rust"
+    },
+    {
+      "name": "zwift_presence",
+      "repo": "https://github.com/gleich/zwift_presence",
+      "language": "Rust"
+    },
+    {
+      "name": "optic",
+      "repo": "https://github.com/gleich/optic",
+      "language": "Rust"
+    },
+    {
+      "name": "time-machine",
+      "repo": "https://github.com/gleich/time-machine",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rest",
+      "repo": "https://github.com/gleich/rest",
+      "language": "Rust"
+    },
+    {
+      "name": "pcbs",
+      "repo": "https://github.com/gleich/pcbs",
+      "language": "KiCad Layout"
+    }
+  ]
+}

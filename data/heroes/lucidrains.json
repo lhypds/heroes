@@ -1,0 +1,512 @@
+{
+  "handle": "lucidrains",
+  "name": "Phil Wang",
+  "github": [
+    "https://github.com/lucidrains"
+  ],
+  "website": "https://lucidrains.github.io/",
+  "bio": "Working with Attention. It's all we need",
+  "own_repos": 350,
+  "commits": 22207,
+  "apps": [],
+  "repos": [
+    {
+      "name": "quasimetric-attention",
+      "repo": "https://github.com/lucidrains/quasimetric-attention",
+      "language": "Python"
+    },
+    {
+      "name": "contrastive-rl",
+      "repo": "https://github.com/lucidrains/contrastive-rl",
+      "language": "Python"
+    },
+    {
+      "name": "multistep-quasimetric-estimation",
+      "repo": "https://github.com/lucidrains/multistep-quasimetric-estimation",
+      "language": "Python"
+    },
+    {
+      "name": "declarative-attention",
+      "repo": "https://github.com/lucidrains/declarative-attention",
+      "language": "Python"
+    },
+    {
+      "name": "learn-attention",
+      "repo": "https://github.com/lucidrains/learn-attention",
+      "url": "https://lucidrains.github.io/learn-attention/",
+      "language": "HTML"
+    },
+    {
+      "name": "env-ssl-wrapper",
+      "repo": "https://github.com/lucidrains/env-ssl-wrapper",
+      "language": "Python"
+    },
+    {
+      "name": "neat",
+      "repo": "https://github.com/lucidrains/neat",
+      "language": "Python"
+    },
+    {
+      "name": "h-net-dynamic-chunking",
+      "repo": "https://github.com/lucidrains/h-net-dynamic-chunking",
+      "language": "Python"
+    },
+    {
+      "name": "streaming-deep-rl",
+      "repo": "https://github.com/lucidrains/streaming-deep-rl",
+      "language": "Python"
+    },
+    {
+      "name": "populora",
+      "repo": "https://github.com/lucidrains/populora",
+      "language": "Python"
+    },
+    {
+      "name": "locoformer",
+      "repo": "https://github.com/lucidrains/locoformer",
+      "language": "Python"
+    },
+    {
+      "name": "no-contact-no-worries",
+      "repo": "https://github.com/lucidrains/no-contact-no-worries"
+    },
+    {
+      "name": "vit-pytorch",
+      "repo": "https://github.com/lucidrains/vit-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "x-evolution",
+      "repo": "https://github.com/lucidrains/x-evolution",
+      "language": "Python"
+    },
+    {
+      "name": "evolutionary-policy-optimization",
+      "repo": "https://github.com/lucidrains/evolutionary-policy-optimization",
+      "language": "Python"
+    },
+    {
+      "name": "torch-einops-utils",
+      "repo": "https://github.com/lucidrains/torch-einops-utils",
+      "language": "Python"
+    },
+    {
+      "name": "transfusion-pytorch",
+      "repo": "https://github.com/lucidrains/transfusion-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "x-jepa",
+      "repo": "https://github.com/lucidrains/x-jepa",
+      "language": "Python"
+    },
+    {
+      "name": "ccbp-pytorch",
+      "repo": "https://github.com/lucidrains/ccbp-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "dreamer4",
+      "repo": "https://github.com/lucidrains/dreamer4",
+      "language": "Python"
+    },
+    {
+      "name": "adam-atan2-pytorch",
+      "repo": "https://github.com/lucidrains/adam-atan2-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "x-mlps-pytorch",
+      "repo": "https://github.com/lucidrains/x-mlps-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "x-transformers",
+      "repo": "https://github.com/lucidrains/x-transformers",
+      "language": "Python"
+    },
+    {
+      "name": "vector-quantize-pytorch",
+      "repo": "https://github.com/lucidrains/vector-quantize-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "touch-dreaming",
+      "repo": "https://github.com/lucidrains/touch-dreaming"
+    },
+    {
+      "name": "hl-gauss-pytorch",
+      "repo": "https://github.com/lucidrains/hl-gauss-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "pi-zero-pytorch",
+      "repo": "https://github.com/lucidrains/pi-zero-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "autoregressive-diffusion-pytorch",
+      "repo": "https://github.com/lucidrains/autoregressive-diffusion-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "genmimic",
+      "repo": "https://github.com/lucidrains/genmimic",
+      "language": "Python"
+    },
+    {
+      "name": "denoising-diffusion-pytorch",
+      "repo": "https://github.com/lucidrains/denoising-diffusion-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "light-loco-parkour",
+      "repo": "https://github.com/lucidrains/light-loco-parkour",
+      "language": "Python"
+    },
+    {
+      "name": "bdh-cq",
+      "repo": "https://github.com/lucidrains/bdh-cq",
+      "language": "Python"
+    },
+    {
+      "name": "mimic-video",
+      "repo": "https://github.com/lucidrains/mimic-video",
+      "language": "Python"
+    },
+    {
+      "name": "taylor-series-linear-attention",
+      "repo": "https://github.com/lucidrains/taylor-series-linear-attention",
+      "language": "Python"
+    },
+    {
+      "name": "SRT-H",
+      "repo": "https://github.com/lucidrains/SRT-H",
+      "language": "Python"
+    },
+    {
+      "name": "HS-TasNet",
+      "repo": "https://github.com/lucidrains/HS-TasNet",
+      "language": "Python"
+    },
+    {
+      "name": "flash-cosine-sim-attention",
+      "repo": "https://github.com/lucidrains/flash-cosine-sim-attention",
+      "language": "Python"
+    },
+    {
+      "name": "SAC-pytorch",
+      "repo": "https://github.com/lucidrains/SAC-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "robo_ttt",
+      "repo": "https://github.com/lucidrains/robo_ttt",
+      "language": "Python"
+    },
+    {
+      "name": "fast-weight-attention",
+      "repo": "https://github.com/lucidrains/fast-weight-attention",
+      "language": "Python"
+    },
+    {
+      "name": "poly-attention",
+      "repo": "https://github.com/lucidrains/poly-attention",
+      "language": "Python"
+    },
+    {
+      "name": "fast-weight-product-key-memory",
+      "repo": "https://github.com/lucidrains/fast-weight-product-key-memory",
+      "language": "Python"
+    },
+    {
+      "name": "dmpo",
+      "repo": "https://github.com/lucidrains/dmpo",
+      "language": "Python"
+    },
+    {
+      "name": "anymal-belief-state-encoder-decoder-pytorch",
+      "repo": "https://github.com/lucidrains/anymal-belief-state-encoder-decoder-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "CoLT5-attention",
+      "repo": "https://github.com/lucidrains/CoLT5-attention",
+      "language": "Python"
+    },
+    {
+      "name": "metacontroller",
+      "repo": "https://github.com/lucidrains/metacontroller",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "memmap-replay-buffer",
+      "repo": "https://github.com/lucidrains/memmap-replay-buffer",
+      "language": "Python"
+    },
+    {
+      "name": "q-transformer",
+      "repo": "https://github.com/lucidrains/q-transformer",
+      "language": "Python"
+    },
+    {
+      "name": "rigidformer",
+      "repo": "https://github.com/lucidrains/rigidformer",
+      "language": "Python"
+    },
+    {
+      "name": "worldparticle",
+      "repo": "https://github.com/lucidrains/worldparticle",
+      "language": "Python"
+    },
+    {
+      "name": "alphafold3-pytorch",
+      "repo": "https://github.com/lucidrains/alphafold3-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "HoST-pytorch",
+      "repo": "https://github.com/lucidrains/HoST-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "hippoformer",
+      "repo": "https://github.com/lucidrains/hippoformer",
+      "language": "Python"
+    },
+    {
+      "name": "rectified-flow-pytorch",
+      "repo": "https://github.com/lucidrains/rectified-flow-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "discrete-distribution-network",
+      "repo": "https://github.com/lucidrains/discrete-distribution-network",
+      "language": "Python"
+    },
+    {
+      "name": "ema-pytorch",
+      "repo": "https://github.com/lucidrains/ema-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "assoc-scan",
+      "repo": "https://github.com/lucidrains/assoc-scan",
+      "language": "Python"
+    },
+    {
+      "name": "PaLM-rlhf-pytorch",
+      "repo": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "Dex1B",
+      "repo": "https://github.com/lucidrains/Dex1B",
+      "language": "Python"
+    },
+    {
+      "name": "clinical-calculator-tooluse",
+      "repo": "https://github.com/lucidrains/clinical-calculator-tooluse",
+      "language": "Python"
+    },
+    {
+      "name": "titans-pytorch",
+      "repo": "https://github.com/lucidrains/titans-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "ASAC",
+      "repo": "https://github.com/lucidrains/ASAC",
+      "language": "Python"
+    },
+    {
+      "name": "lion-pytorch",
+      "repo": "https://github.com/lucidrains/lion-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "discrete-continuous-embed-readout",
+      "repo": "https://github.com/lucidrains/discrete-continuous-embed-readout",
+      "language": "Python"
+    },
+    {
+      "name": "enformer-pytorch",
+      "repo": "https://github.com/lucidrains/enformer-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "lift4d",
+      "repo": "https://github.com/lucidrains/lift4d",
+      "language": "Python"
+    },
+    {
+      "name": "PoPE-pytorch",
+      "repo": "https://github.com/lucidrains/PoPE-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "rotary-embedding-torch",
+      "repo": "https://github.com/lucidrains/rotary-embedding-torch",
+      "language": "Python"
+    },
+    {
+      "name": "d4rt",
+      "repo": "https://github.com/lucidrains/d4rt",
+      "language": "Python"
+    },
+    {
+      "name": "BS-RoFormer",
+      "repo": "https://github.com/lucidrains/BS-RoFormer",
+      "language": "Python"
+    },
+    {
+      "name": "disco-rl-pytorch",
+      "repo": "https://github.com/lucidrains/disco-rl-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "recurrent-interface-network-pytorch",
+      "repo": "https://github.com/lucidrains/recurrent-interface-network-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "isab-pytorch",
+      "repo": "https://github.com/lucidrains/isab-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "perceiver-pytorch",
+      "repo": "https://github.com/lucidrains/perceiver-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "slot-attention",
+      "repo": "https://github.com/lucidrains/slot-attention",
+      "language": "Python"
+    },
+    {
+      "name": "kalmanformer",
+      "repo": "https://github.com/lucidrains/kalmanformer",
+      "language": "Python"
+    },
+    {
+      "name": "transformer-directed-evolution",
+      "repo": "https://github.com/lucidrains/transformer-directed-evolution",
+      "language": "Python"
+    },
+    {
+      "name": "gradnorm-pytorch",
+      "repo": "https://github.com/lucidrains/gradnorm-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "ppo",
+      "repo": "https://github.com/lucidrains/ppo",
+      "language": "Python"
+    },
+    {
+      "name": "hyper-connections",
+      "repo": "https://github.com/lucidrains/hyper-connections",
+      "language": "Python"
+    },
+    {
+      "name": "multiscreen",
+      "repo": "https://github.com/lucidrains/multiscreen",
+      "language": "Python"
+    },
+    {
+      "name": "HiLAM",
+      "repo": "https://github.com/lucidrains/HiLAM",
+      "language": "Python"
+    },
+    {
+      "name": "byol-pytorch",
+      "repo": "https://github.com/lucidrains/byol-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "genetic-algorithm-pytorch",
+      "repo": "https://github.com/lucidrains/genetic-algorithm-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "pseudo-projector",
+      "repo": "https://github.com/lucidrains/pseudo-projector",
+      "language": "Python"
+    },
+    {
+      "name": "blackbox-gradient-sensing",
+      "repo": "https://github.com/lucidrains/blackbox-gradient-sensing",
+      "language": "Python"
+    },
+    {
+      "name": "RIM-pytorch",
+      "repo": "https://github.com/lucidrains/RIM-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "deep-cross-attention",
+      "repo": "https://github.com/lucidrains/deep-cross-attention",
+      "language": "Python"
+    },
+    {
+      "name": "simple-hierarchical-transformer",
+      "repo": "https://github.com/lucidrains/simple-hierarchical-transformer",
+      "language": "Python"
+    },
+    {
+      "name": "fast-weight-product-key-memories",
+      "repo": "https://github.com/lucidrains/fast-weight-product-key-memories",
+      "language": "Python"
+    },
+    {
+      "name": "value-networks",
+      "repo": "https://github.com/lucidrains/value-networks",
+      "language": "Python"
+    },
+    {
+      "name": "RISE",
+      "repo": "https://github.com/lucidrains/RISE",
+      "language": "Python"
+    },
+    {
+      "name": "alphagenome",
+      "repo": "https://github.com/lucidrains/alphagenome",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "value-network",
+      "repo": "https://github.com/lucidrains/value-network",
+      "language": "Python"
+    },
+    {
+      "name": "sdft-pytorch",
+      "repo": "https://github.com/lucidrains/sdft-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "two-stage-dexterity-learning",
+      "repo": "https://github.com/lucidrains/two-stage-dexterity-learning"
+    },
+    {
+      "name": "mmdit",
+      "repo": "https://github.com/lucidrains/mmdit",
+      "language": "Python"
+    },
+    {
+      "name": "tab-transformer-pytorch",
+      "repo": "https://github.com/lucidrains/tab-transformer-pytorch",
+      "language": "Python"
+    },
+    {
+      "name": "tiny-recursive-model",
+      "repo": "https://github.com/lucidrains/tiny-recursive-model",
+      "language": "Python"
+    },
+    {
+      "name": "transformer-lm-gan",
+      "repo": "https://github.com/lucidrains/transformer-lm-gan",
+      "language": "Python"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "handle": "ctkrug",
+  "name": "Charlie Krug",
+  "github": [
+    "https://github.com/ctkrug"
+  ],
+  "website": "https://charliekrug.com/",
+  "bio": "Consultant, AI enthusiast, and builder. Former product owner of a national consumer mobile app. Welcome to my software factory.",
+  "own_repos": 126,
+  "commits": 11748,
+  "apps": [],
+  "repos": [
+    {
+      "name": "signal-jam",
+      "repo": "https://github.com/ctkrug/signal-jam",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rigfit",
+      "repo": "https://github.com/ctkrug/rigfit",
+      "url": "https://apps.charliekrug.com/rigfit/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "switchyard",
+      "repo": "https://github.com/ctkrug/switchyard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "curve-watch",
+      "repo": "https://github.com/ctkrug/curve-watch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "snug",
+      "repo": "https://github.com/ctkrug/snug",
+      "url": "https://apps.charliekrug.com/snug/",
+      "language": "Rust"
+    },
+    {
+      "name": "bankroll",
+      "repo": "https://github.com/ctkrug/bankroll",
+      "url": "https://apps.charliekrug.com/bankroll/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "c1264-artifact",
+      "repo": "https://github.com/ctkrug/c1264-artifact",
+      "language": "Python"
+    },
+    {
+      "name": "pattern-golf",
+      "repo": "https://github.com/ctkrug/pattern-golf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sheet-delta",
+      "repo": "https://github.com/ctkrug/sheet-delta",
+      "url": "https://apps.charliekrug.com/sheet-delta/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "draftline",
+      "repo": "https://github.com/ctkrug/draftline",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cve-radar",
+      "repo": "https://github.com/ctkrug/cve-radar",
+      "url": "https://apps.charliekrug.com/cve-radar/",
+      "language": "Python"
+    },
+    {
+      "name": "pinfall",
+      "repo": "https://github.com/ctkrug/pinfall",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cutaway",
+      "repo": "https://github.com/ctkrug/cutaway",
+      "url": "https://apps.charliekrug.com/cutaway/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cool-math-function-viewer-with-awesome-d",
+      "repo": "https://github.com/ctkrug/cool-math-function-viewer-with-awesome-d",
+      "language": "Python"
+    },
+    {
+      "name": "hop-premium",
+      "repo": "https://github.com/ctkrug/hop-premium",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shelf-space",
+      "repo": "https://github.com/ctkrug/shelf-space",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sync-cut",
+      "repo": "https://github.com/ctkrug/sync-cut",
+      "language": "CSS"
+    },
+    {
+      "name": "build-a-public-request-to-product-system",
+      "repo": "https://github.com/ctkrug/build-a-public-request-to-product-system",
+      "language": "Python"
+    },
+    {
+      "name": "fair-hours",
+      "repo": "https://github.com/ctkrug/fair-hours",
+      "language": "JavaScript"
+    },
+    {
+      "name": "planflare",
+      "repo": "https://github.com/ctkrug/planflare",
+      "url": "https://apps.charliekrug.com/planflare/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pinset",
+      "repo": "https://github.com/ctkrug/pinset",
+      "url": "https://apps.charliekrug.com/pinset/",
+      "language": "Go"
+    },
+    {
+      "name": "bluff-call",
+      "repo": "https://github.com/ctkrug/bluff-call",
+      "url": "https://apps.charliekrug.com/bluff-call/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "depthwalk",
+      "repo": "https://github.com/ctkrug/depthwalk",
+      "url": "https://apps.charliekrug.com/depthwalk/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "provenance",
+      "repo": "https://github.com/ctkrug/provenance",
+      "url": "https://apps.charliekrug.com/provenance/",
+      "language": "Go"
+    },
+    {
+      "name": "safelog",
+      "repo": "https://github.com/ctkrug/safelog",
+      "url": "https://apps.charliekrug.com/safelog/",
+      "language": "Python"
+    },
+    {
+      "name": "ringwood",
+      "repo": "https://github.com/ctkrug/ringwood",
+      "url": "https://apps.charliekrug.com/ringwood/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bisect",
+      "repo": "https://github.com/ctkrug/bisect",
+      "url": "https://apps.charliekrug.com/bisect/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "erosion",
+      "repo": "https://github.com/ctkrug/erosion",
+      "url": "https://apps.charliekrug.com/erosion/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spigot",
+      "repo": "https://github.com/ctkrug/spigot",
+      "url": "https://apps.charliekrug.com/spigot/",
+      "language": "Go"
+    },
+    {
+      "name": "coax",
+      "repo": "https://github.com/ctkrug/coax",
+      "url": "https://apps.charliekrug.com/coax/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "recon",
+      "repo": "https://github.com/ctkrug/recon",
+      "url": "https://apps.charliekrug.com/recon/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "flagcraft",
+      "repo": "https://github.com/ctkrug/flagcraft",
+      "url": "https://apps.charliekrug.com/flagcraft/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "terseql",
+      "repo": "https://github.com/ctkrug/terseql",
+      "url": "https://apps.charliekrug.com/terseql/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "darwin-s-garage",
+      "repo": "https://github.com/ctkrug/darwin-s-garage",
+      "url": "https://apps.charliekrug.com/darwin-s-garage/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "branchreel",
+      "repo": "https://github.com/ctkrug/branchreel",
+      "url": "https://apps.charliekrug.com/branchreel/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "readout",
+      "repo": "https://github.com/ctkrug/readout",
+      "url": "https://apps.charliekrug.com/readout/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "filevine-mcp",
+      "repo": "https://github.com/ctkrug/filevine-mcp",
+      "url": "https://charliekrug.com/filevine",
+      "language": "Python"
+    },
+    {
+      "name": "spot-the-bot",
+      "repo": "https://github.com/ctkrug/spot-the-bot",
+      "url": "https://apps.charliekrug.com/spot-the-bot/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typebed",
+      "repo": "https://github.com/ctkrug/typebed",
+      "url": "https://apps.charliekrug.com/typebed/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "side-b",
+      "repo": "https://github.com/ctkrug/side-b",
+      "url": "https://apps.charliekrug.com/side-b/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "swapscope",
+      "repo": "https://github.com/ctkrug/swapscope",
+      "url": "https://apps.charliekrug.com/swapscope/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cable-check",
+      "repo": "https://github.com/ctkrug/cable-check",
+      "url": "https://apps.charliekrug.com/cable-check/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tellsign",
+      "repo": "https://github.com/ctkrug/tellsign",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blast-radius",
+      "repo": "https://github.com/ctkrug/blast-radius",
+      "language": "TypeScript"
+    },
+    {
+      "name": "culprit",
+      "repo": "https://github.com/ctkrug/culprit",
+      "url": "https://apps.charliekrug.com/culprit/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hook-doctor",
+      "repo": "https://github.com/ctkrug/hook-doctor",
+      "url": "https://apps.charliekrug.com/hook-doctor/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "statelight",
+      "repo": "https://github.com/ctkrug/statelight",
+      "url": "https://apps.charliekrug.com/statelight/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "waypoint",
+      "repo": "https://github.com/ctkrug/waypoint",
+      "url": "https://apps.charliekrug.com/waypoint/",
+      "language": "Python"
+    },
+    {
+      "name": "fauxmark",
+      "repo": "https://github.com/ctkrug/fauxmark",
+      "url": "https://apps.charliekrug.com/fauxmark/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "health-plus",
+      "repo": "https://github.com/ctkrug/health-plus",
+      "language": "Swift"
+    },
+    {
+      "name": "apogee",
+      "repo": "https://github.com/ctkrug/apogee",
+      "url": "https://apps.charliekrug.com/apogee/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spec-drift",
+      "repo": "https://github.com/ctkrug/spec-drift",
+      "language": "TypeScript"
+    },
+    {
+      "name": "strength-stack",
+      "repo": "https://github.com/ctkrug/strength-stack",
+      "url": "https://apps.charliekrug.com/strength-stack/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cart-creep",
+      "repo": "https://github.com/ctkrug/cart-creep",
+      "language": "JavaScript"
+    },
+    {
+      "name": "polite-bot",
+      "repo": "https://github.com/ctkrug/polite-bot",
+      "language": "Rust"
+    },
+    {
+      "name": "ctkrug",
+      "repo": "https://github.com/ctkrug/ctkrug"
+    },
+    {
+      "name": "keyholder",
+      "repo": "https://github.com/ctkrug/keyholder",
+      "url": "https://apps.charliekrug.com/keyholder/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "channel-clear",
+      "repo": "https://github.com/ctkrug/channel-clear",
+      "url": "https://apps.charliekrug.com/channel-clear/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fit-check",
+      "repo": "https://github.com/ctkrug/fit-check",
+      "language": "TypeScript"
+    },
+    {
+      "name": "burn-rate",
+      "repo": "https://github.com/ctkrug/burn-rate",
+      "url": "https://apps.charliekrug.com/burn-rate/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sestet",
+      "repo": "https://github.com/ctkrug/sestet",
+      "url": "https://apps.charliekrug.com/sestet/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skew",
+      "repo": "https://github.com/ctkrug/skew",
+      "url": "https://apps.charliekrug.com/skew/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docket-interest",
+      "repo": "https://github.com/ctkrug/docket-interest",
+      "url": "https://apps.charliekrug.com/docket-interest/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "latency-ladder",
+      "repo": "https://github.com/ctkrug/latency-ladder",
+      "url": "https://apps.charliekrug.com/latency-ladder/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "reflow",
+      "repo": "https://github.com/ctkrug/reflow",
+      "url": "https://apps.charliekrug.com/reflow/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "export-x-ray",
+      "repo": "https://github.com/ctkrug/export-x-ray",
+      "url": "https://apps.charliekrug.com/export-x-ray/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "porthole",
+      "repo": "https://github.com/ctkrug/porthole",
+      "url": "https://apps.charliekrug.com/porthole/",
+      "language": "Rust"
+    },
+    {
+      "name": "chronofuzz",
+      "repo": "https://github.com/ctkrug/chronofuzz",
+      "url": "https://apps.charliekrug.com/chronofuzz/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "syntax-sprint",
+      "repo": "https://github.com/ctkrug/syntax-sprint",
+      "url": "https://apps.charliekrug.com/syntax-sprint/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "redline",
+      "repo": "https://github.com/ctkrug/redline",
+      "url": "https://apps.charliekrug.com/redline/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skein",
+      "repo": "https://github.com/ctkrug/skein",
+      "url": "https://apps.charliekrug.com/skein/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "chalkstep",
+      "repo": "https://github.com/ctkrug/chalkstep",
+      "url": "https://apps.charliekrug.com/chalkstep/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cellular-symphony",
+      "repo": "https://github.com/ctkrug/cellular-symphony",
+      "url": "https://apps.charliekrug.com/cellular-symphony/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "backflow",
+      "repo": "https://github.com/ctkrug/backflow",
+      "url": "https://apps.charliekrug.com/backflow/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ornament",
+      "repo": "https://github.com/ctkrug/ornament",
+      "url": "https://apps.charliekrug.com/ornament/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sift",
+      "repo": "https://github.com/ctkrug/sift",
+      "url": "https://apps.charliekrug.com/sift/",
+      "language": "Go"
+    },
+    {
+      "name": "diff-poster",
+      "repo": "https://github.com/ctkrug/diff-poster",
+      "url": "https://apps.charliekrug.com/diff-poster/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "almanac",
+      "repo": "https://github.com/ctkrug/almanac",
+      "url": "https://apps.charliekrug.com/almanac/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bughunt",
+      "repo": "https://github.com/ctkrug/bughunt",
+      "url": "https://apps.charliekrug.com/bughunt/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "redosaur",
+      "repo": "https://github.com/ctkrug/redosaur",
+      "url": "https://charliekrug.com",
+      "language": "Rust"
+    },
+    {
+      "name": "plateau",
+      "repo": "https://github.com/ctkrug/plateau",
+      "url": "https://apps.charliekrug.com/plateau/",
+      "language": "Python"
+    },
+    {
+      "name": "injection-range",
+      "repo": "https://github.com/ctkrug/injection-range",
+      "url": "https://apps.charliekrug.com/injection-range/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "peel",
+      "repo": "https://github.com/ctkrug/peel",
+      "url": "https://apps.charliekrug.com/peel/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "epicycle",
+      "repo": "https://github.com/ctkrug/epicycle",
+      "url": "https://apps.charliekrug.com/epicycle/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "monotile",
+      "repo": "https://github.com/ctkrug/monotile",
+      "url": "https://apps.charliekrug.com/monotile/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "breakeven",
+      "repo": "https://github.com/ctkrug/breakeven",
+      "url": "https://apps.charliekrug.com/breakeven/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "molsnap",
+      "repo": "https://github.com/ctkrug/molsnap",
+      "url": "https://apps.charliekrug.com/molsnap/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "perigee",
+      "repo": "https://github.com/ctkrug/perigee",
+      "url": "https://apps.charliekrug.com/perigee/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "codon",
+      "repo": "https://github.com/ctkrug/codon",
+      "url": "https://apps.charliekrug.com/codon/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mitosis-lab",
+      "repo": "https://github.com/ctkrug/mitosis-lab",
+      "url": "https://apps.charliekrug.com/mitosis-lab/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "unmask",
+      "repo": "https://github.com/ctkrug/unmask",
+      "url": "https://apps.charliekrug.com/unmask/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "runlocal",
+      "repo": "https://github.com/ctkrug/runlocal",
+      "url": "https://apps.charliekrug.com/runlocal/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "gistmap",
+      "repo": "https://github.com/ctkrug/gistmap",
+      "url": "https://apps.charliekrug.com/gistmap/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cronlet",
+      "repo": "https://github.com/ctkrug/cronlet",
+      "url": "https://apps.charliekrug.com/cronlet/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "statute-watch",
+      "repo": "https://github.com/ctkrug/statute-watch",
+      "url": "https://apps.charliekrug.com/statute-watch/",
+      "language": "Python"
+    },
+    {
+      "name": "framepick",
+      "repo": "https://github.com/ctkrug/framepick",
+      "url": "https://apps.charliekrug.com/framepick/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "phantom-read",
+      "repo": "https://github.com/ctkrug/phantom-read",
+      "url": "https://apps.charliekrug.com/phantom-read/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "skillcheck",
+      "repo": "https://github.com/ctkrug/skillcheck",
+      "url": "https://apps.charliekrug.com/skillcheck/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "metawipe",
+      "repo": "https://github.com/ctkrug/metawipe",
+      "url": "https://apps.charliekrug.com/metawipe/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "layerlens",
+      "repo": "https://github.com/ctkrug/layerlens",
+      "url": "https://apps.charliekrug.com/layerlens/",
+      "language": "TypeScript"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "handle": "koteitan",
+  "name": "koteitan",
+  "github": [
+    "https://github.com/koteitan"
+  ],
+  "bio": "4-Dimensional Games/Googology/Arduboy twitter: http://twitter.com/koteitan/ nostr: npub1f3w4x7dqvceeez8kuyq78md3lwhwfm0ra634llr0r3nykwjrs0hqvldhgk",
+  "own_repos": 147,
+  "commits": 10218,
+  "apps": [],
+  "repos": [
+    {
+      "name": "trio",
+      "repo": "https://github.com/koteitan/trio",
+      "language": "Lean"
+    },
+    {
+      "name": "dh-bms-wf-formal",
+      "repo": "https://github.com/koteitan/dh-bms-wf-formal",
+      "language": "Lean"
+    },
+    {
+      "name": "my-skills",
+      "repo": "https://github.com/koteitan/my-skills",
+      "language": "Python"
+    },
+    {
+      "name": "koteitan.github.io",
+      "repo": "https://github.com/koteitan/koteitan.github.io",
+      "url": "https://koteitan.github.io/",
+      "language": "HTML"
+    },
+    {
+      "name": "yet-another-pss-proof",
+      "repo": "https://github.com/koteitan/yet-another-pss-proof",
+      "language": "Isabelle"
+    },
+    {
+      "name": "zundamstr",
+      "repo": "https://github.com/koteitan/zundamstr",
+      "url": "https://koteitan.github.io/zundamstr/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hydraswipe",
+      "repo": "https://github.com/koteitan/hydraswipe",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yacht",
+      "repo": "https://github.com/koteitan/yacht",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wavetable",
+      "repo": "https://github.com/koteitan/wavetable",
+      "language": "JavaScript"
+    },
+    {
+      "name": "moire",
+      "repo": "https://github.com/koteitan/moire",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beam",
+      "repo": "https://github.com/koteitan/beam",
+      "url": "https://koteitan.github.io/beam/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "warawo",
+      "repo": "https://github.com/koteitan/warawo",
+      "url": "https://koteitan.github.io/warawo/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "otenki",
+      "repo": "https://github.com/koteitan/otenki",
+      "url": "https://koteitan.github.io/otenki",
+      "language": "TypeScript"
+    },
+    {
+      "name": "emoemo",
+      "repo": "https://github.com/koteitan/emoemo",
+      "url": "https://koteitan.github.io/emoemo/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "img",
+      "repo": "https://github.com/koteitan/img",
+      "language": "JavaScript"
+    },
+    {
+      "name": "googolbook-lm",
+      "repo": "https://github.com/koteitan/googolbook-lm",
+      "url": "https://koteitan.github.io/googolbook-lm/data/googology-wiki/",
+      "language": "Python"
+    },
+    {
+      "name": "keyboard",
+      "repo": "https://github.com/koteitan/keyboard",
+      "url": "https://koteitan.github.io/keyboard/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nostr-post-checker",
+      "repo": "https://github.com/koteitan/nostr-post-checker",
+      "url": "https://koteitan.github.io/nostr-post-checker/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "findmine",
+      "repo": "https://github.com/koteitan/findmine",
+      "url": "https://koteitan.github.io/findmine/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yomi",
+      "repo": "https://github.com/koteitan/yomi",
+      "url": "https://koteitan.github.io/yomi/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pss-proof",
+      "repo": "https://github.com/koteitan/pss-proof",
+      "language": "Isabelle"
+    },
+    {
+      "name": "mojimoji",
+      "repo": "https://github.com/koteitan/mojimoji",
+      "url": "https://koteitan.github.io/mojimoji",
+      "language": "TypeScript"
+    },
+    {
+      "name": "react-bms-hydra",
+      "repo": "https://github.com/koteitan/react-bms-hydra",
+      "url": "https://koteitan.github.io/react-bms-hydra/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bms-paper-formalization",
+      "repo": "https://github.com/koteitan/bms-paper-formalization",
+      "language": "Isabelle"
+    },
+    {
+      "name": "bms-rathjen",
+      "repo": "https://github.com/koteitan/bms-rathjen",
+      "language": "Lean"
+    },
+    {
+      "name": "nostr-research",
+      "repo": "https://github.com/koteitan/nostr-research"
+    },
+    {
+      "name": "googology-manim",
+      "repo": "https://github.com/koteitan/googology-manim",
+      "language": "Python"
+    },
+    {
+      "name": "find-mine-fire",
+      "repo": "https://github.com/koteitan/find-mine-fire",
+      "language": "Python"
+    },
+    {
+      "name": "fandom-isearch",
+      "repo": "https://github.com/koteitan/fandom-isearch",
+      "language": "Python"
+    },
+    {
+      "name": "leanman",
+      "repo": "https://github.com/koteitan/leanman",
+      "language": "Shell"
+    },
+    {
+      "name": "card",
+      "repo": "https://github.com/koteitan/card",
+      "url": "https://koteitan.github.io/card",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rec-and-spr",
+      "repo": "https://github.com/koteitan/rec-and-spr",
+      "language": "C++"
+    },
+    {
+      "name": "nostr-trends",
+      "repo": "https://github.com/koteitan/nostr-trends",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hello-rx-nostr",
+      "repo": "https://github.com/koteitan/hello-rx-nostr",
+      "url": "https://koteitan.github.io/hello-rx-nostr/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ccreset",
+      "repo": "https://github.com/koteitan/ccreset",
+      "url": "https://nostter.app/ccreset@koteitan.github.io",
+      "language": "Python"
+    },
+    {
+      "name": "prss-proof",
+      "repo": "https://github.com/koteitan/prss-proof",
+      "language": "Isabelle"
+    },
+    {
+      "name": "nostr-bot",
+      "repo": "https://github.com/koteitan/nostr-bot",
+      "url": "https://nostter.app/sushi-mage@koteitan.github.io",
+      "language": "TypeScript"
+    },
+    {
+      "name": "key-rest",
+      "repo": "https://github.com/koteitan/key-rest",
+      "language": "Go"
+    },
+    {
+      "name": "isbman",
+      "repo": "https://github.com/koteitan/isbman",
+      "language": "Shell"
+    },
+    {
+      "name": "my-wobble-bass",
+      "repo": "https://github.com/koteitan/my-wobble-bass"
+    },
+    {
+      "name": "buchholz-study",
+      "repo": "https://github.com/koteitan/buchholz-study"
+    },
+    {
+      "name": "shifted-100nin-1shu",
+      "repo": "https://github.com/koteitan/shifted-100nin-1shu"
+    },
+    {
+      "name": "find440",
+      "repo": "https://github.com/koteitan/find440"
+    },
+    {
+      "name": "nostr-100-poems",
+      "repo": "https://github.com/koteitan/nostr-100-poems",
+      "language": "Shell"
+    },
+    {
+      "name": "repeated-maze",
+      "repo": "https://github.com/koteitan/repeated-maze",
+      "url": "https://koteitan.github.io/repeated-maze/",
+      "language": "Haskell"
+    },
+    {
+      "name": "verilogstr",
+      "repo": "https://github.com/koteitan/verilogstr",
+      "language": "Verilog"
+    },
+    {
+      "name": "yabasicstr",
+      "repo": "https://github.com/koteitan/yabasicstr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ordinal-skills",
+      "repo": "https://github.com/koteitan/ordinal-skills"
+    },
+    {
+      "name": "tokyo-zomia",
+      "repo": "https://github.com/koteitan/tokyo-zomia",
+      "language": "Python"
+    },
+    {
+      "name": "scripts4bots",
+      "repo": "https://github.com/koteitan/scripts4bots",
+      "language": "JavaScript"
+    },
+    {
+      "name": "beta-deploy-to-github-pages",
+      "repo": "https://github.com/koteitan/beta-deploy-to-github-pages"
+    },
+    {
+      "name": "noscli-core2",
+      "repo": "https://github.com/koteitan/noscli-core2",
+      "language": "C"
+    },
+    {
+      "name": "zap-empire",
+      "repo": "https://github.com/koteitan/zap-empire",
+      "language": "Python"
+    },
+    {
+      "name": "agent-life",
+      "repo": "https://github.com/koteitan/agent-life"
+    },
+    {
+      "name": "time-graveyard",
+      "repo": "https://github.com/koteitan/time-graveyard",
+      "url": "https://koteitan.github.io/time-graveyard/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "prim-vote",
+      "repo": "https://github.com/koteitan/prim-vote",
+      "language": "JavaScript"
+    },
+    {
+      "name": "8bit-nostr",
+      "repo": "https://github.com/koteitan/8bit-nostr",
+      "url": "https://koteitan.github.io/8bit-nostr/",
+      "language": "HTML"
+    },
+    {
+      "name": "idgomoku",
+      "repo": "https://github.com/koteitan/idgomoku",
+      "language": "JavaScript"
+    },
+    {
+      "name": "OrdinalMahjong",
+      "repo": "https://github.com/koteitan/OrdinalMahjong",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wobble-audio-api",
+      "repo": "https://github.com/koteitan/wobble-audio-api",
+      "language": "HTML"
+    },
+    {
+      "name": "zoomdot",
+      "repo": "https://github.com/koteitan/zoomdot",
+      "url": "https://koteitan.github.io/zoomdot/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "yseq",
+      "repo": "https://github.com/koteitan/yseq",
+      "language": "HTML"
+    },
+    {
+      "name": "yaBMS",
+      "repo": "https://github.com/koteitan/yaBMS",
+      "url": "https://koteitan.github.io/yaBMS/js/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "wy",
+      "repo": "https://github.com/koteitan/wy",
+      "language": "HTML"
+    },
+    {
+      "name": "vsakko",
+      "repo": "https://github.com/koteitan/vsakko",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vrchecker",
+      "repo": "https://github.com/koteitan/vrchecker",
+      "language": "HTML"
+    },
+    {
+      "name": "treemap-js",
+      "repo": "https://github.com/koteitan/treemap-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quantumtrump",
+      "repo": "https://github.com/koteitan/quantumtrump",
+      "language": "JavaScript"
+    },
+    {
+      "name": "puzzle-graph-viz",
+      "repo": "https://github.com/koteitan/puzzle-graph-viz",
+      "url": "https://koteitan.github.io/iwahswap/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "polyrhythm",
+      "repo": "https://github.com/koteitan/polyrhythm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pentamaze",
+      "repo": "https://github.com/koteitan/pentamaze",
+      "language": "JavaScript"
+    },
+    {
+      "name": "paintgraph",
+      "repo": "https://github.com/koteitan/paintgraph",
+      "url": "https://koteitan.github.io/paintgraph/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ordex",
+      "repo": "https://github.com/koteitan/ordex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nostr-tsne",
+      "repo": "https://github.com/koteitan/nostr-tsne",
+      "url": "https://koteitan.github.io/nostr-tsne/",
+      "language": "C++"
+    },
+    {
+      "name": "mvebh",
+      "repo": "https://github.com/koteitan/mvebh",
+      "language": "JavaScript"
+    },
+    {
+      "name": "linksim",
+      "repo": "https://github.com/koteitan/linksim",
+      "url": "https://koteitan.github.io/linksim/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kumawormseq",
+      "repo": "https://github.com/koteitan/kumawormseq",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kuma3arypsinum",
+      "repo": "https://github.com/koteitan/kuma3arypsinum",
+      "language": "JavaScript"
+    },
+    {
+      "name": "js-sprite-game",
+      "repo": "https://github.com/koteitan/js-sprite-game",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hydraviewer",
+      "repo": "https://github.com/koteitan/hydraviewer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hilight",
+      "repo": "https://github.com/koteitan/hilight",
+      "url": "https://koteitan.github.io/hilight/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "harmkey",
+      "repo": "https://github.com/koteitan/harmkey",
+      "url": "https://koteitan.github.io/harmkey/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "grzeseq",
+      "repo": "https://github.com/koteitan/grzeseq",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fractalblockmaze",
+      "repo": "https://github.com/koteitan/fractalblockmaze",
+      "language": "JavaScript"
+    },
+    {
+      "name": "darkmode",
+      "repo": "https://github.com/koteitan/darkmode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cs4d",
+      "repo": "https://github.com/koteitan/cs4d",
+      "language": "JavaScript"
+    },
+    {
+      "name": "countdown",
+      "repo": "https://github.com/koteitan/countdown",
+      "url": "https://koteitan.github.io/countdown/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bintube",
+      "repo": "https://github.com/koteitan/bintube",
+      "language": "HTML"
+    },
+    {
+      "name": "binarychess",
+      "repo": "https://github.com/koteitan/binarychess",
+      "language": "JavaScript"
+    },
+    {
+      "name": "basmac2",
+      "repo": "https://github.com/koteitan/basmac2",
+      "language": "JavaScript"
+    },
+    {
+      "name": "akko",
+      "repo": "https://github.com/koteitan/akko",
+      "url": "https://koteitan.github.io/akko/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "BeklemishevsWorms",
+      "repo": "https://github.com/koteitan/BeklemishevsWorms",
+      "url": "https://koteitan.github.io/BeklemishevsWorms/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "4dsoko",
+      "repo": "https://github.com/koteitan/4dsoko",
+      "language": "JavaScript"
+    },
+    {
+      "name": "4dgolf",
+      "repo": "https://github.com/koteitan/4dgolf",
+      "language": "JavaScript"
+    },
+    {
+      "name": "4d-pong-wars",
+      "repo": "https://github.com/koteitan/4d-pong-wars",
+      "url": "https://koteitan.github.io/4d-pong-wars/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "4dgomoku",
+      "repo": "https://github.com/koteitan/4dgomoku",
+      "language": "JavaScript"
+    },
+    {
+      "name": "relay-tester",
+      "repo": "https://github.com/koteitan/relay-tester"
+    },
+    {
+      "name": "fim",
+      "repo": "https://github.com/koteitan/fim",
+      "language": "Python"
+    },
+    {
+      "name": "did-you-mean-googol",
+      "repo": "https://github.com/koteitan/did-you-mean-googol",
+      "language": "JavaScript"
+    },
+    {
+      "name": "new-line-guide",
+      "repo": "https://github.com/koteitan/new-line-guide",
+      "language": "JavaScript"
+    }
+  ]
+}

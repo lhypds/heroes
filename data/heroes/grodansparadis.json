@@ -1,0 +1,506 @@
+{
+  "handle": "grodansparadis",
+  "name": "Åke Hedman",
+  "github": [
+    "https://github.com/grodansparadis"
+  ],
+  "website": "https://www.vscp.org/",
+  "bio": "YAP - Yet another programmer, SP - Senile programming.",
+  "own_repos": 216,
+  "commits": 10364,
+  "apps": [],
+  "repos": [
+    {
+      "name": "vscp-helper-lib",
+      "repo": "https://github.com/grodansparadis/vscp-helper-lib",
+      "language": "C"
+    },
+    {
+      "name": "vscp-mqtt-daemon",
+      "repo": "https://github.com/grodansparadis/vscp-mqtt-daemon",
+      "url": "https://grodansparadis.github.io/vscp-mqtt-daemon/",
+      "language": "C++"
+    },
+    {
+      "name": "vscp",
+      "repo": "https://github.com/grodansparadis/vscp",
+      "language": "C++"
+    },
+    {
+      "name": "node-vscp",
+      "repo": "https://github.com/grodansparadis/node-vscp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pyvscp",
+      "repo": "https://github.com/grodansparadis/pyvscp",
+      "language": "Python"
+    },
+    {
+      "name": "pyvscpclasses",
+      "repo": "https://github.com/grodansparadis/pyvscpclasses",
+      "language": "Python"
+    },
+    {
+      "name": "pyvscptypes",
+      "repo": "https://github.com/grodansparadis/pyvscptypes",
+      "language": "Python"
+    },
+    {
+      "name": "pyvscphelper",
+      "repo": "https://github.com/grodansparadis/pyvscphelper",
+      "language": "Python"
+    },
+    {
+      "name": "vscp-doc-spec",
+      "repo": "https://github.com/grodansparadis/vscp-doc-spec",
+      "language": "HTML"
+    },
+    {
+      "name": "vscp-python-sensor-bme680",
+      "repo": "https://github.com/grodansparadis/vscp-python-sensor-bme680",
+      "language": "Python"
+    },
+    {
+      "name": "vscp-samples",
+      "repo": "https://github.com/grodansparadis/vscp-samples",
+      "language": "C"
+    },
+    {
+      "name": "vscpl1drv-can232",
+      "repo": "https://github.com/grodansparadis/vscpl1drv-can232",
+      "language": "C++"
+    },
+    {
+      "name": "Halsingetoppen",
+      "repo": "https://github.com/grodansparadis/Halsingetoppen",
+      "language": "HTML"
+    },
+    {
+      "name": "node-vscp-helper",
+      "repo": "https://github.com/grodansparadis/node-vscp-helper",
+      "language": "C++"
+    },
+    {
+      "name": "node-vscp-class",
+      "repo": "https://github.com/grodansparadis/node-vscp-class",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-vscp-type",
+      "repo": "https://github.com/grodansparadis/node-vscp-type",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-red-contrib-vscp-tcp",
+      "repo": "https://github.com/grodansparadis/node-red-contrib-vscp-tcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-red-contrib-vscp",
+      "repo": "https://github.com/grodansparadis/node-red-contrib-vscp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-vscp-tcp",
+      "repo": "https://github.com/grodansparadis/node-vscp-tcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscpl1drv-can4vscp",
+      "repo": "https://github.com/grodansparadis/vscpl1drv-can4vscp",
+      "language": "C++"
+    },
+    {
+      "name": "can4vscp-power-injector",
+      "repo": "https://github.com/grodansparadis/can4vscp-power-injector",
+      "url": "https://www.grodansparadis.com/powerinjector/can4vscp_big/powerinjector.html",
+      "language": "PLSQL"
+    },
+    {
+      "name": "vscpl2drv-energy-p1",
+      "repo": "https://github.com/grodansparadis/vscpl2drv-energy-p1",
+      "language": "Python"
+    },
+    {
+      "name": "vscp-smart-han-port-interface",
+      "repo": "https://github.com/grodansparadis/vscp-smart-han-port-interface",
+      "language": "C"
+    },
+    {
+      "name": "vscp-demo-link-stm32f401-wiz-ip20-blinky",
+      "repo": "https://github.com/grodansparadis/vscp-demo-link-stm32f401-wiz-ip20-blinky",
+      "language": "C"
+    },
+    {
+      "name": "vscp-cli",
+      "repo": "https://github.com/grodansparadis/vscp-cli",
+      "language": "Makefile"
+    },
+    {
+      "name": "vscp-works-qt",
+      "repo": "https://github.com/grodansparadis/vscp-works-qt",
+      "url": "https://grodansparadis.github.io/vscp-works-qt/#/",
+      "language": "C++"
+    },
+    {
+      "name": "vscpl2drv-tcpipsrv",
+      "repo": "https://github.com/grodansparadis/vscpl2drv-tcpipsrv",
+      "language": "C++"
+    },
+    {
+      "name": "vscpl2drv-mqtt",
+      "repo": "https://github.com/grodansparadis/vscpl2drv-mqtt",
+      "language": "C++"
+    },
+    {
+      "name": "vscpl2drv-logger",
+      "repo": "https://github.com/grodansparadis/vscpl2drv-logger",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscp-tcpip-daemon",
+      "repo": "https://github.com/grodansparadis/vscp-tcpip-daemon",
+      "language": "C++"
+    },
+    {
+      "name": "node-red-contrib-socketcan",
+      "repo": "https://github.com/grodansparadis/node-red-contrib-socketcan",
+      "url": "https://www.vscp.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscp-firmware",
+      "repo": "https://github.com/grodansparadis/vscp-firmware",
+      "language": "C"
+    },
+    {
+      "name": "vscp-stm32-wiznet-eth",
+      "repo": "https://github.com/grodansparadis/vscp-stm32-wiznet-eth",
+      "language": "AGS Script"
+    },
+    {
+      "name": "can4vscp-frankfurt-eth",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-eth",
+      "language": "Makefile"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-can-z102",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-can-z102",
+      "language": "C"
+    },
+    {
+      "name": "vscp-demo-link-stm32f103-wiz-ip20-blinky",
+      "repo": "https://github.com/grodansparadis/vscp-demo-link-stm32f103-wiz-ip20-blinky",
+      "language": "C"
+    },
+    {
+      "name": "can4vscp-trunk-adapter",
+      "repo": "https://github.com/grodansparadis/can4vscp-trunk-adapter"
+    },
+    {
+      "name": "vscp-demo-pico-wiznet-tcpiplinksrv",
+      "repo": "https://github.com/grodansparadis/vscp-demo-pico-wiznet-tcpiplinksrv",
+      "language": "C"
+    },
+    {
+      "name": "vscp-demo-wiznet-w55rp20-nfc",
+      "repo": "https://github.com/grodansparadis/vscp-demo-wiznet-w55rp20-nfc",
+      "language": "C"
+    },
+    {
+      "name": "can4vscp-frankfurt-usb",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-usb",
+      "language": "AGS Script"
+    },
+    {
+      "name": "can4vscp-vilnius",
+      "repo": "https://github.com/grodansparadis/can4vscp-vilnius",
+      "url": "https://www.grodansparadis.com/vilnius/vilnius.html",
+      "language": "Hack"
+    },
+    {
+      "name": "can4vscp-sanfrancisco-barometer",
+      "repo": "https://github.com/grodansparadis/can4vscp-sanfrancisco-barometer",
+      "language": "PLSQL"
+    },
+    {
+      "name": "can4vscp-paris",
+      "repo": "https://github.com/grodansparadis/can4vscp-paris",
+      "url": "https://www.grodansparadis.com/paris/paris.html",
+      "language": "PHP"
+    },
+    {
+      "name": "can4vscp-odessa",
+      "repo": "https://github.com/grodansparadis/can4vscp-odessa",
+      "url": "https://www.grodansparadis.com/odessa/odessa.html",
+      "language": "C"
+    },
+    {
+      "name": "can4vscp-newyork-lcd-display-controller",
+      "repo": "https://github.com/grodansparadis/can4vscp-newyork-lcd-display-controller",
+      "language": "Prolog"
+    },
+    {
+      "name": "can4vscp-kelvin-thermocouple",
+      "repo": "https://github.com/grodansparadis/can4vscp-kelvin-thermocouple"
+    },
+    {
+      "name": "can4vscp-kelvin-ntc10k",
+      "repo": "https://github.com/grodansparadis/can4vscp-kelvin-ntc10k",
+      "url": "https://www.grodansparadis.com/frankfurt/rs232/frankfurt-rs232.html",
+      "language": "C"
+    },
+    {
+      "name": "can4vscp-kelvin-multisensor",
+      "repo": "https://github.com/grodansparadis/can4vscp-kelvin-multisensor",
+      "language": "Prolog"
+    },
+    {
+      "name": "can4vscp-kelvin-9700",
+      "repo": "https://github.com/grodansparadis/can4vscp-kelvin-9700",
+      "language": "C"
+    },
+    {
+      "name": "can4vscp-kelvin-1wire",
+      "repo": "https://github.com/grodansparadis/can4vscp-kelvin-1wire",
+      "url": "https://www.grodansparadis.com/kelvin1w/index.html",
+      "language": "HTML"
+    },
+    {
+      "name": "can4vscp_humidity",
+      "repo": "https://github.com/grodansparadis/can4vscp_humidity"
+    },
+    {
+      "name": "can4vscp-frankfurt-wifi",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-wifi"
+    },
+    {
+      "name": "can4vscp-frankfurt-rs485",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-rs485",
+      "language": "Prolog"
+    },
+    {
+      "name": "can4vscp-frankfurt-rs232",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-rs232",
+      "url": "https://www.grodansparadis.com/frankfurt/rs232/frankfurt-rs232.html",
+      "language": "C"
+    },
+    {
+      "name": "can4vscp-frankfurt-lora",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-lora"
+    },
+    {
+      "name": "can4vscp-frankfurt-gprs",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-gprs"
+    },
+    {
+      "name": "can4vscp-frankfurt-bridge",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-bridge"
+    },
+    {
+      "name": "can4vscp-frankfurt-ble",
+      "repo": "https://github.com/grodansparadis/can4vscp-frankfurt-ble"
+    },
+    {
+      "name": "can4vscp-beijing",
+      "repo": "https://github.com/grodansparadis/can4vscp-beijing",
+      "url": "https://www.grodansparadis.com/beijing/beijing.html",
+      "language": "PHP"
+    },
+    {
+      "name": "can4vscp-accra",
+      "repo": "https://github.com/grodansparadis/can4vscp-accra",
+      "url": "https://www.grodansparadis.com/accra/accra.html",
+      "language": "C"
+    },
+    {
+      "name": "vscp-din-m1-base-board-z105",
+      "repo": "https://github.com/grodansparadis/vscp-din-m1-base-board-z105"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-can-z105",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-can-z105",
+      "language": "HTML"
+    },
+    {
+      "name": "vscp-demo-pico-fridge-ctrl",
+      "repo": "https://github.com/grodansparadis/vscp-demo-pico-fridge-ctrl",
+      "language": "C"
+    },
+    {
+      "name": "vscp-simulator",
+      "repo": "https://github.com/grodansparadis/vscp-simulator",
+      "language": "C++"
+    },
+    {
+      "name": "vscp-udp",
+      "repo": "https://github.com/grodansparadis/vscp-udp",
+      "language": "C"
+    },
+    {
+      "name": "node-red-contrib-canal",
+      "repo": "https://github.com/grodansparadis/node-red-contrib-canal",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscpl2drv-websocksrv",
+      "repo": "https://github.com/grodansparadis/vscpl2drv-websocksrv",
+      "language": "C"
+    },
+    {
+      "name": "vscpl2drv-tcpiplink",
+      "repo": "https://github.com/grodansparadis/vscpl2drv-tcpiplink",
+      "language": "C++"
+    },
+    {
+      "name": "vscpl2drv-websrv",
+      "repo": "https://github.com/grodansparadis/vscpl2drv-websrv",
+      "language": "C++"
+    },
+    {
+      "name": "can4vscp-los-temp-control",
+      "repo": "https://github.com/grodansparadis/can4vscp-los-temp-control"
+    },
+    {
+      "name": "vscp-doc-firmware",
+      "repo": "https://github.com/grodansparadis/vscp-doc-firmware",
+      "language": "HTML"
+    },
+    {
+      "name": "vscp-din-rp2350a-can-z102",
+      "repo": "https://github.com/grodansparadis/vscp-din-rp2350a-can-z102",
+      "language": "C"
+    },
+    {
+      "name": "vscp-din-m1-wireless-p1",
+      "repo": "https://github.com/grodansparadis/vscp-din-m1-wireless-p1"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-flat",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-flat"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-accra",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-accra",
+      "language": "AGS Script"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-beijing",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-beijing",
+      "language": "AGS Script"
+    },
+    {
+      "name": "vscp-multicast",
+      "repo": "https://github.com/grodansparadis/vscp-multicast",
+      "language": "C"
+    },
+    {
+      "name": "node-canal",
+      "repo": "https://github.com/grodansparadis/node-canal",
+      "language": "C++"
+    },
+    {
+      "name": "vscp-ble-esp32",
+      "repo": "https://github.com/grodansparadis/vscp-ble-esp32",
+      "language": "C"
+    },
+    {
+      "name": "vscp-espnow",
+      "repo": "https://github.com/grodansparadis/vscp-espnow",
+      "language": "C"
+    },
+    {
+      "name": "sockettcp",
+      "repo": "https://github.com/grodansparadis/sockettcp",
+      "language": "C"
+    },
+    {
+      "name": "vscp-classes",
+      "repo": "https://github.com/grodansparadis/vscp-classes",
+      "language": "Python"
+    },
+    {
+      "name": "vscp-doc-canal",
+      "repo": "https://github.com/grodansparadis/vscp-doc-canal",
+      "language": "HTML"
+    },
+    {
+      "name": "vscp-pic1-bootloader",
+      "repo": "https://github.com/grodansparadis/vscp-pic1-bootloader",
+      "language": "Assembly"
+    },
+    {
+      "name": "vscpworks",
+      "repo": "https://github.com/grodansparadis/vscpworks",
+      "language": "C"
+    },
+    {
+      "name": "dumb-fridge-controler",
+      "repo": "https://github.com/grodansparadis/dumb-fridge-controler",
+      "language": "C"
+    },
+    {
+      "name": "vscp-js",
+      "repo": "https://github.com/grodansparadis/vscp-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscp-demo-blink",
+      "repo": "https://github.com/grodansparadis/vscp-demo-blink"
+    },
+    {
+      "name": "vscp-maintenance-interface",
+      "repo": "https://github.com/grodansparadis/vscp-maintenance-interface",
+      "language": "PHP"
+    },
+    {
+      "name": "vscpl1drv-logger",
+      "repo": "https://github.com/grodansparadis/vscpl1drv-logger",
+      "language": "M4"
+    },
+    {
+      "name": "vscp-mv",
+      "repo": "https://github.com/grodansparadis/vscp-mv",
+      "language": "HTML"
+    },
+    {
+      "name": "grodansparadis",
+      "repo": "https://github.com/grodansparadis/grodansparadis"
+    },
+    {
+      "name": "vscp-demo-mqtt-web",
+      "repo": "https://github.com/grodansparadis/vscp-demo-mqtt-web",
+      "language": "HTML"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-vilnius",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-vilnius"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-odessa",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-odessa"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-newyork",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-newyork"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-kelvin-ntc10k",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-kelvin-ntc10k"
+    },
+    {
+      "name": "vscp-din-wireless-esp32-paris",
+      "repo": "https://github.com/grodansparadis/vscp-din-wireless-esp32-paris"
+    },
+    {
+      "name": "vscp-droplet",
+      "repo": "https://github.com/grodansparadis/vscp-droplet",
+      "language": "C"
+    },
+    {
+      "name": "vscp-p1-pulse-interface",
+      "repo": "https://github.com/grodansparadis/vscp-p1-pulse-interface"
+    }
+  ]
+}

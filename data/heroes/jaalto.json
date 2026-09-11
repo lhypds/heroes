@@ -1,0 +1,486 @@
+{
+  "handle": "jaalto",
+  "name": "Jari Aalto",
+  "github": [
+    "https://github.com/jaalto"
+  ],
+  "website": "https://wiki.debian.org/JariAalto",
+  "own_repos": 325,
+  "commits": 11482,
+  "apps": [],
+  "repos": [
+    {
+      "name": "project--shell-script-performance-and-portability",
+      "repo": "https://github.com/jaalto/project--shell-script-performance-and-portability",
+      "language": "Shell"
+    },
+    {
+      "name": "project--emacs-tiny-tools",
+      "repo": "https://github.com/jaalto/project--emacs-tiny-tools",
+      "url": "https://savannah.gnu.org/projects/emacs-tiny-tools",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "project--perl-text2html",
+      "repo": "https://github.com/jaalto/project--perl-text2html",
+      "url": "https://savannah.gnu.org/projects/perl-text2html",
+      "language": "Perl"
+    },
+    {
+      "name": "project--ddns-updater",
+      "repo": "https://github.com/jaalto/project--ddns-updater",
+      "language": "Shell"
+    },
+    {
+      "name": "project-emacs--lint-layout",
+      "repo": "https://github.com/jaalto/project-emacs--lint-layout",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "project--copyright-update",
+      "repo": "https://github.com/jaalto/project--copyright-update",
+      "url": "https://savannah.gnu.org/projects/perl-webget ",
+      "language": "Perl"
+    },
+    {
+      "name": "project--cygwin-cygbuild",
+      "repo": "https://github.com/jaalto/project--cygwin-cygbuild",
+      "url": "https://savannah.gnu.org/projects/cygbuild",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--mercurial",
+      "repo": "https://github.com/jaalto/cygwin-package--mercurial",
+      "language": "Shell"
+    },
+    {
+      "name": "project--emacs-epackage",
+      "repo": "https://github.com/jaalto/project--emacs-epackage",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cygwin-package--checkbashisms",
+      "repo": "https://github.com/jaalto/cygwin-package--checkbashisms",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--makeself",
+      "repo": "https://github.com/jaalto/cygwin-package--makeself",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--wiggle",
+      "repo": "https://github.com/jaalto/cygwin-package--wiggle"
+    },
+    {
+      "name": "cygwin-package--pngquant",
+      "repo": "https://github.com/jaalto/cygwin-package--pngquant"
+    },
+    {
+      "name": "project--perl-webget",
+      "repo": "https://github.com/jaalto/project--perl-webget",
+      "url": "https://savannah.gnu.org/projects/perl-webget",
+      "language": "Perl"
+    },
+    {
+      "name": "project--perl-ddir",
+      "repo": "https://github.com/jaalto/project--perl-ddir",
+      "language": "Perl"
+    },
+    {
+      "name": "project-emacs--folding-mode",
+      "repo": "https://github.com/jaalto/project-emacs--folding-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "project-emacs--tinydesk",
+      "repo": "https://github.com/jaalto/project-emacs--tinydesk",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cygwin-package--tig",
+      "repo": "https://github.com/jaalto/cygwin-package--tig",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--links",
+      "repo": "https://github.com/jaalto/cygwin-package--links"
+    },
+    {
+      "name": "cygwin-package--msmtp",
+      "repo": "https://github.com/jaalto/cygwin-package--msmtp",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--odt2txt",
+      "repo": "https://github.com/jaalto/cygwin-package--odt2txt"
+    },
+    {
+      "name": "cygwin-package--most",
+      "repo": "https://github.com/jaalto/cygwin-package--most"
+    },
+    {
+      "name": "cygwin-package--optipng",
+      "repo": "https://github.com/jaalto/cygwin-package--optipng"
+    },
+    {
+      "name": "cygwin-package--rsync",
+      "repo": "https://github.com/jaalto/cygwin-package--rsync"
+    },
+    {
+      "name": "cygwin-package--quilt",
+      "repo": "https://github.com/jaalto/cygwin-package--quilt",
+      "language": "Shell"
+    },
+    {
+      "name": "project--wwwflypaper",
+      "repo": "https://github.com/jaalto/project--wwwflypaper",
+      "language": "Perl"
+    },
+    {
+      "name": "project--procmail-lib",
+      "repo": "https://github.com/jaalto/project--procmail-lib",
+      "url": "https://savannah.gnu.org/projects/procmail-lib",
+      "language": "Perl"
+    },
+    {
+      "name": "project--restricted-shell-rbash",
+      "repo": "https://github.com/jaalto/project--restricted-shell-rbash",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--xlsx2csv",
+      "repo": "https://github.com/jaalto/cygwin-package--xlsx2csv",
+      "language": "Shell"
+    },
+    {
+      "name": "test",
+      "repo": "https://github.com/jaalto/test"
+    },
+    {
+      "name": "cygwin-package--cloc",
+      "repo": "https://github.com/jaalto/cygwin-package--cloc",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--posh",
+      "repo": "https://github.com/jaalto/cygwin-package--posh"
+    },
+    {
+      "name": "cygwin-package--fossil",
+      "repo": "https://github.com/jaalto/cygwin-package--fossil",
+      "language": "Shell"
+    },
+    {
+      "name": "project--linux-tmpfs-ramdisk",
+      "repo": "https://github.com/jaalto/project--linux-tmpfs-ramdisk",
+      "language": "Shell"
+    },
+    {
+      "name": "test-01",
+      "repo": "https://github.com/jaalto/test-01"
+    },
+    {
+      "name": "emacs-epackage--session",
+      "repo": "https://github.com/jaalto/emacs-epackage--session",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "project--emacs-epackage-sources-list",
+      "repo": "https://github.com/jaalto/project--emacs-epackage-sources-list"
+    },
+    {
+      "name": "project--procmail-doc",
+      "repo": "https://github.com/jaalto/project--procmail-doc",
+      "url": "https://sourceforge.net/projects/pm-doc/",
+      "language": "HTML"
+    },
+    {
+      "name": "cygwin-package--cgdb",
+      "repo": "https://github.com/jaalto/cygwin-package--cgdb",
+      "language": "Shell"
+    },
+    {
+      "name": "test2",
+      "repo": "https://github.com/jaalto/test2"
+    },
+    {
+      "name": "cygwin-package--pngcheck",
+      "repo": "https://github.com/jaalto/cygwin-package--pngcheck",
+      "language": "Roff"
+    },
+    {
+      "name": "cygwin-package--sendxmpp",
+      "repo": "https://github.com/jaalto/cygwin-package--sendxmpp"
+    },
+    {
+      "name": "cygwin-package--stgit",
+      "repo": "https://github.com/jaalto/cygwin-package--stgit",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--grepmail",
+      "repo": "https://github.com/jaalto/cygwin-package--grepmail"
+    },
+    {
+      "name": "cygwin-package--pristine-tar",
+      "repo": "https://github.com/jaalto/cygwin-package--pristine-tar",
+      "language": "Shell"
+    },
+    {
+      "name": "project--ddns-updater-dynu",
+      "repo": "https://github.com/jaalto/project--ddns-updater-dynu",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--bzr",
+      "repo": "https://github.com/jaalto/cygwin-package--bzr"
+    },
+    {
+      "name": "cygwin-package--greed",
+      "repo": "https://github.com/jaalto/cygwin-package--greed"
+    },
+    {
+      "name": "cygwin-package--guilt",
+      "repo": "https://github.com/jaalto/cygwin-package--guilt",
+      "language": "Shell"
+    },
+    {
+      "name": "jaalto-test2",
+      "repo": "https://github.com/jaalto/jaalto-test2"
+    },
+    {
+      "name": "jaalto-tmp-test",
+      "repo": "https://github.com/jaalto/jaalto-tmp-test"
+    },
+    {
+      "name": "cygwin-package--boxes",
+      "repo": "https://github.com/jaalto/cygwin-package--boxes",
+      "language": "Shell"
+    },
+    {
+      "name": "project--spotify-command-line-client",
+      "repo": "https://github.com/jaalto/project--spotify-command-line-client",
+      "language": "Visual Basic"
+    },
+    {
+      "name": "cygwin-package--pngcrush",
+      "repo": "https://github.com/jaalto/cygwin-package--pngcrush",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--joe",
+      "repo": "https://github.com/jaalto/cygwin-package--joe",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--indent",
+      "repo": "https://github.com/jaalto/cygwin-package--indent",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--cscope",
+      "repo": "https://github.com/jaalto/cygwin-package--cscope"
+    },
+    {
+      "name": "cygwin-package--copyright-update",
+      "repo": "https://github.com/jaalto/cygwin-package--copyright-update"
+    },
+    {
+      "name": "emacs-epackage--igrep",
+      "repo": "https://github.com/jaalto/emacs-epackage--igrep",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "project--perl-ripdoc",
+      "repo": "https://github.com/jaalto/project--perl-ripdoc",
+      "language": "Perl"
+    },
+    {
+      "name": "emacs-epackage--tabulature-mode",
+      "repo": "https://github.com/jaalto/emacs-epackage--tabulature-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "project--emacs-epackage-template",
+      "repo": "https://github.com/jaalto/project--emacs-epackage-template",
+      "language": "Shell"
+    },
+    {
+      "name": "emacs-epackage--messages-are-flowing",
+      "repo": "https://github.com/jaalto/emacs-epackage--messages-are-flowing",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "x-external-sf--crunch-wordlist",
+      "repo": "https://github.com/jaalto/x-external-sf--crunch-wordlist",
+      "url": "https://sourceforge.net/projects/crunch-wordlist/",
+      "language": "C"
+    },
+    {
+      "name": "cygwin-package--rats",
+      "repo": "https://github.com/jaalto/cygwin-package--rats"
+    },
+    {
+      "name": "cygwin-package--python-logilab-common",
+      "repo": "https://github.com/jaalto/cygwin-package--python-logilab-common"
+    },
+    {
+      "name": "cygwin-package--getmail",
+      "repo": "https://github.com/jaalto/cygwin-package--getmail",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--licensecheck",
+      "repo": "https://github.com/jaalto/cygwin-package--licensecheck",
+      "language": "Shell"
+    },
+    {
+      "name": "emacs-epackage--g-client",
+      "repo": "https://github.com/jaalto/emacs-epackage--g-client",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cygwin-package--httping",
+      "repo": "https://github.com/jaalto/cygwin-package--httping",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--eyed3",
+      "repo": "https://github.com/jaalto/cygwin-package--eyed3",
+      "language": "Shell"
+    },
+    {
+      "name": "emacs-epackage--cygwin-mount",
+      "repo": "https://github.com/jaalto/emacs-epackage--cygwin-mount",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "project--perl-dyndns",
+      "repo": "https://github.com/jaalto/project--perl-dyndns",
+      "url": "https://savannah.gnu.org/projects/perl-dyndns",
+      "language": "Perl"
+    },
+    {
+      "name": "project--perl-depends",
+      "repo": "https://github.com/jaalto/project--perl-depends",
+      "language": "Perl"
+    },
+    {
+      "name": "oboinus",
+      "repo": "https://github.com/jaalto/oboinus",
+      "language": "Python"
+    },
+    {
+      "name": "cygwin-package--suck",
+      "repo": "https://github.com/jaalto/cygwin-package--suck"
+    },
+    {
+      "name": "cygwin-package--abook",
+      "repo": "https://github.com/jaalto/cygwin-package--abook",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--rsnapshot",
+      "repo": "https://github.com/jaalto/cygwin-package--rsnapshot",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--chewmail",
+      "repo": "https://github.com/jaalto/cygwin-package--chewmail"
+    },
+    {
+      "name": "cygwin-package--pal",
+      "repo": "https://github.com/jaalto/cygwin-package--pal",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--delta",
+      "repo": "https://github.com/jaalto/cygwin-package--delta"
+    },
+    {
+      "name": "cygwin-package--potrace",
+      "repo": "https://github.com/jaalto/cygwin-package--potrace"
+    },
+    {
+      "name": "cygwin-package--urlgrabber",
+      "repo": "https://github.com/jaalto/cygwin-package--urlgrabber"
+    },
+    {
+      "name": "cygwin-package--rdtool",
+      "repo": "https://github.com/jaalto/cygwin-package--rdtool",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--patcher",
+      "repo": "https://github.com/jaalto/cygwin-package--patcher"
+    },
+    {
+      "name": "cygwin-package--oodiff",
+      "repo": "https://github.com/jaalto/cygwin-package--oodiff"
+    },
+    {
+      "name": "cygwin-package--ogmtools",
+      "repo": "https://github.com/jaalto/cygwin-package--ogmtools"
+    },
+    {
+      "name": "cygwin-package--mhonarc",
+      "repo": "https://github.com/jaalto/cygwin-package--mhonarc",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--connect-proxy",
+      "repo": "https://github.com/jaalto/cygwin-package--connect-proxy",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--buthead",
+      "repo": "https://github.com/jaalto/cygwin-package--buthead"
+    },
+    {
+      "name": "cygwin-package--splitpatch",
+      "repo": "https://github.com/jaalto/cygwin-package--splitpatch",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--signify",
+      "repo": "https://github.com/jaalto/cygwin-package--signify"
+    },
+    {
+      "name": "cygwin-package--sic",
+      "repo": "https://github.com/jaalto/cygwin-package--sic"
+    },
+    {
+      "name": "cygwin-package--nttcp",
+      "repo": "https://github.com/jaalto/cygwin-package--nttcp"
+    },
+    {
+      "name": "cygwin-package--lzop",
+      "repo": "https://github.com/jaalto/cygwin-package--lzop",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--code2html",
+      "repo": "https://github.com/jaalto/cygwin-package--code2html",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--apngdis",
+      "repo": "https://github.com/jaalto/cygwin-package--apngdis"
+    },
+    {
+      "name": "cygwin-package--python-feedparser",
+      "repo": "https://github.com/jaalto/cygwin-package--python-feedparser"
+    },
+    {
+      "name": "cygwin-package--webcheck",
+      "repo": "https://github.com/jaalto/cygwin-package--webcheck",
+      "language": "Shell"
+    },
+    {
+      "name": "cygwin-package--txt2regex",
+      "repo": "https://github.com/jaalto/cygwin-package--txt2regex",
+      "language": "Groff"
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "handle": "andrewrothstein",
+  "name": "Andrew Rothstein",
+  "github": [
+    "https://github.com/andrewrothstein"
+  ],
+  "website": "https://letmegooglethat.com/?q=andrewrothstein",
+  "bio": "Dreamer, coder",
+  "own_repos": 688,
+  "commits": 21631,
+  "apps": [],
+  "repos": [
+    {
+      "name": "sandbox-operator",
+      "repo": "https://github.com/andrewrothstein/sandbox-operator"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/andrewrothstein/skills"
+    },
+    {
+      "name": "ansible-ollama",
+      "repo": "https://github.com/andrewrothstein/ansible-ollama",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-task",
+      "repo": "https://github.com/andrewrothstein/ansible-task",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-trivy",
+      "repo": "https://github.com/andrewrothstein/ansible-trivy",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-dolt",
+      "repo": "https://github.com/andrewrothstein/ansible-dolt",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-flyway",
+      "repo": "https://github.com/andrewrothstein/ansible-flyway",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-argocd",
+      "repo": "https://github.com/andrewrothstein/ansible-argocd",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-kubernetes_helm",
+      "repo": "https://github.com/andrewrothstein/ansible-kubernetes_helm",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-cluster_api",
+      "repo": "https://github.com/andrewrothstein/ansible-cluster_api",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-pluto",
+      "repo": "https://github.com/andrewrothstein/ansible-pluto",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-protoc",
+      "repo": "https://github.com/andrewrothstein/ansible-protoc",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-buildkit",
+      "repo": "https://github.com/andrewrothstein/ansible-buildkit",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-node",
+      "repo": "https://github.com/andrewrothstein/ansible-node",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-cmake",
+      "repo": "https://github.com/andrewrothstein/ansible-cmake",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-gh",
+      "repo": "https://github.com/andrewrothstein/ansible-gh",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-dagger",
+      "repo": "https://github.com/andrewrothstein/ansible-dagger",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-kubectl",
+      "repo": "https://github.com/andrewrothstein/ansible-kubectl",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-gcloud",
+      "repo": "https://github.com/andrewrothstein/ansible-gcloud",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-duckdb",
+      "repo": "https://github.com/andrewrothstein/ansible-duckdb",
+      "language": "Shell"
+    },
+    {
+      "name": "tasks",
+      "repo": "https://github.com/andrewrothstein/tasks",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-coder",
+      "repo": "https://github.com/andrewrothstein/ansible-coder",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-vault",
+      "repo": "https://github.com/andrewrothstein/ansible-vault"
+    },
+    {
+      "name": "ansible-jq",
+      "repo": "https://github.com/andrewrothstein/ansible-jq",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-doppler",
+      "repo": "https://github.com/andrewrothstein/ansible-doppler",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-terraform",
+      "repo": "https://github.com/andrewrothstein/ansible-terraform"
+    },
+    {
+      "name": "ansible-kubelogin",
+      "repo": "https://github.com/andrewrothstein/ansible-kubelogin",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-vcluster",
+      "repo": "https://github.com/andrewrothstein/ansible-vcluster",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-yq",
+      "repo": "https://github.com/andrewrothstein/ansible-yq",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-k9s",
+      "repo": "https://github.com/andrewrothstein/ansible-k9s",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-go",
+      "repo": "https://github.com/andrewrothstein/ansible-go",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-istio",
+      "repo": "https://github.com/andrewrothstein/ansible-istio",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-kind",
+      "repo": "https://github.com/andrewrothstein/ansible-kind",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-tflint",
+      "repo": "https://github.com/andrewrothstein/ansible-tflint",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-k3d",
+      "repo": "https://github.com/andrewrothstein/ansible-k3d",
+      "language": "Shell"
+    },
+    {
+      "name": "vcluster-argocd-enroller",
+      "repo": "https://github.com/andrewrothstein/vcluster-argocd-enroller",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-docker_binaries",
+      "repo": "https://github.com/andrewrothstein/ansible-docker_binaries",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-docker_compose",
+      "repo": "https://github.com/andrewrothstein/ansible-docker_compose",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-temurin",
+      "repo": "https://github.com/andrewrothstein/ansible-temurin",
+      "language": "Go"
+    },
+    {
+      "name": "ansible-snowsql",
+      "repo": "https://github.com/andrewrothstein/ansible-snowsql",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-git_build",
+      "repo": "https://github.com/andrewrothstein/ansible-git_build",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-bazelisk",
+      "repo": "https://github.com/andrewrothstein/ansible-bazelisk",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-nomad",
+      "repo": "https://github.com/andrewrothstein/ansible-nomad"
+    },
+    {
+      "name": "ansible-kubefwd",
+      "repo": "https://github.com/andrewrothstein/ansible-kubefwd",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-kubebuilder",
+      "repo": "https://github.com/andrewrothstein/ansible-kubebuilder",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-ansible",
+      "repo": "https://github.com/andrewrothstein/docker-ansible",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-act",
+      "repo": "https://github.com/andrewrothstein/ansible-act",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-argo",
+      "repo": "https://github.com/andrewrothstein/ansible-argo",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-flink",
+      "repo": "https://github.com/andrewrothstein/ansible-flink",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-kafka",
+      "repo": "https://github.com/andrewrothstein/ansible-kafka",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-zookeeper",
+      "repo": "https://github.com/andrewrothstein/ansible-zookeeper",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-keycloak",
+      "repo": "https://github.com/andrewrothstein/ansible-keycloak",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-liquibase",
+      "repo": "https://github.com/andrewrothstein/ansible-liquibase",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-carvel",
+      "repo": "https://github.com/andrewrothstein/ansible-carvel"
+    },
+    {
+      "name": "ansible-opentofu",
+      "repo": "https://github.com/andrewrothstein/ansible-opentofu",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-age",
+      "repo": "https://github.com/andrewrothstein/ansible-age",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-k3sup",
+      "repo": "https://github.com/andrewrothstein/ansible-k3sup",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-docker_engine",
+      "repo": "https://github.com/andrewrothstein/ansible-docker_engine",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-minikube",
+      "repo": "https://github.com/andrewrothstein/ansible-minikube",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-libvirt",
+      "repo": "https://github.com/andrewrothstein/ansible-libvirt"
+    },
+    {
+      "name": "ansible-qemu",
+      "repo": "https://github.com/andrewrothstein/ansible-qemu"
+    },
+    {
+      "name": "ansible-mkcert",
+      "repo": "https://github.com/andrewrothstein/ansible-mkcert",
+      "language": "Shell"
+    },
+    {
+      "name": "tmux-nl",
+      "repo": "https://github.com/andrewrothstein/tmux-nl",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-fivetran",
+      "repo": "https://github.com/andrewrothstein/ansible-fivetran"
+    },
+    {
+      "name": "ansible-transmission",
+      "repo": "https://github.com/andrewrothstein/ansible-transmission",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-epel",
+      "repo": "https://github.com/andrewrothstein/ansible-epel"
+    },
+    {
+      "name": "ansible-gpg",
+      "repo": "https://github.com/andrewrothstein/ansible-gpg"
+    },
+    {
+      "name": "ansible-gcc_toolbox",
+      "repo": "https://github.com/andrewrothstein/ansible-gcc_toolbox"
+    },
+    {
+      "name": "ansible-hashi",
+      "repo": "https://github.com/andrewrothstein/ansible-hashi"
+    },
+    {
+      "name": "ansible-glab",
+      "repo": "https://github.com/andrewrothstein/ansible-glab",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-buf",
+      "repo": "https://github.com/andrewrothstein/ansible-buf",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-groovy",
+      "repo": "https://github.com/andrewrothstein/ansible-groovy",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-coredns",
+      "repo": "https://github.com/andrewrothstein/ansible-coredns",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-velero",
+      "repo": "https://github.com/andrewrothstein/ansible-velero",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-teamcity",
+      "repo": "https://github.com/andrewrothstein/ansible-teamcity",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-concourse",
+      "repo": "https://github.com/andrewrothstein/ansible-concourse",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-bazel",
+      "repo": "https://github.com/andrewrothstein/ansible-bazel",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-unarchivedeps",
+      "repo": "https://github.com/andrewrothstein/ansible-unarchivedeps"
+    },
+    {
+      "name": "ansible-ipxe",
+      "repo": "https://github.com/andrewrothstein/ansible-ipxe",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-openssl",
+      "repo": "https://github.com/andrewrothstein/ansible-openssl"
+    },
+    {
+      "name": "ansible-git",
+      "repo": "https://github.com/andrewrothstein/ansible-git"
+    },
+    {
+      "name": "ansible-tls",
+      "repo": "https://github.com/andrewrothstein/ansible-tls"
+    },
+    {
+      "name": "ansible-docker_cli_plugin",
+      "repo": "https://github.com/andrewrothstein/ansible-docker_cli_plugin",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-bash",
+      "repo": "https://github.com/andrewrothstein/ansible-bash"
+    },
+    {
+      "name": "ansible-curl",
+      "repo": "https://github.com/andrewrothstein/ansible-curl"
+    },
+    {
+      "name": "ansible-matchbox",
+      "repo": "https://github.com/andrewrothstein/ansible-matchbox",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-dnsmasq_configure",
+      "repo": "https://github.com/andrewrothstein/ansible-dnsmasq_configure",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-sudoers",
+      "repo": "https://github.com/andrewrothstein/ansible-sudoers",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-dnsmasq",
+      "repo": "https://github.com/andrewrothstein/ansible-dnsmasq"
+    },
+    {
+      "name": "ansible-nvme",
+      "repo": "https://github.com/andrewrothstein/ansible-nvme",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-starship",
+      "repo": "https://github.com/andrewrothstein/ansible-starship",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-python",
+      "repo": "https://github.com/andrewrothstein/ansible-python"
+    },
+    {
+      "name": "ansible-consul",
+      "repo": "https://github.com/andrewrothstein/ansible-consul"
+    },
+    {
+      "name": "ansible-actions_runner",
+      "repo": "https://github.com/andrewrothstein/ansible-actions_runner",
+      "language": "Shell"
+    },
+    {
+      "name": "cookiecutter-ansible-role",
+      "repo": "https://github.com/andrewrothstein/cookiecutter-ansible-role"
+    },
+    {
+      "name": "ansible-k3s",
+      "repo": "https://github.com/andrewrothstein/ansible-k3s",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-go_dev",
+      "repo": "https://github.com/andrewrothstein/ansible-go_dev",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-kpack",
+      "repo": "https://github.com/andrewrothstein/ansible-kpack",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-tigerbeetle",
+      "repo": "https://github.com/andrewrothstein/ansible-tigerbeetle",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-pomerium",
+      "repo": "https://github.com/andrewrothstein/ansible-pomerium"
+    }
+  ]
+}

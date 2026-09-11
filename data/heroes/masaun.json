@@ -1,0 +1,512 @@
+{
+  "handle": "masaun",
+  "name": "masaun",
+  "github": [
+    "https://github.com/masaun"
+  ],
+  "bio": "Smart Contract developer (in Solidity) | ZK circuit developer (in Noir)",
+  "own_repos": 155,
+  "commits": 11392,
+  "apps": [],
+  "repos": [
+    {
+      "name": "world-id-widget-module",
+      "repo": "https://github.com/masaun/world-id-widget-module",
+      "language": "TypeScript"
+    },
+    {
+      "name": "world-agent-kit-integration-example-v2-skill",
+      "repo": "https://github.com/masaun/world-agent-kit-integration-example-v2-skill",
+      "language": "Shell"
+    },
+    {
+      "name": "world-agent-kit-integration-example-v2",
+      "repo": "https://github.com/masaun/world-agent-kit-integration-example-v2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "world-agent-kit-template",
+      "repo": "https://github.com/masaun/world-agent-kit-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ZK-ID-policy-layer",
+      "repo": "https://github.com/masaun/ZK-ID-policy-layer",
+      "language": "Solidity"
+    },
+    {
+      "name": "uniswap-v4-confidential-hook",
+      "repo": "https://github.com/masaun/uniswap-v4-confidential-hook",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-payroll-backed-loan",
+      "repo": "https://github.com/masaun/ZK-payroll-backed-loan",
+      "language": "Noir"
+    },
+    {
+      "name": "ZK-flight-delay-insurance-claim-agent",
+      "repo": "https://github.com/masaun/ZK-flight-delay-insurance-claim-agent",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-leaseback",
+      "repo": "https://github.com/masaun/ZK-leaseback",
+      "language": "Cairo"
+    },
+    {
+      "name": "ZK-trap-grid",
+      "repo": "https://github.com/masaun/ZK-trap-grid",
+      "language": "Rust"
+    },
+    {
+      "name": "private-job-matching-platform-using-BITE-protocol",
+      "repo": "https://github.com/masaun/private-job-matching-platform-using-BITE-protocol",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ZK-invoice-factoring",
+      "repo": "https://github.com/masaun/ZK-invoice-factoring",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-yield-proof-vault",
+      "repo": "https://github.com/masaun/ZK-yield-proof-vault",
+      "language": "Solidity"
+    },
+    {
+      "name": "x402-cross-chain-confidential-micropayment",
+      "repo": "https://github.com/masaun/x402-cross-chain-confidential-micropayment",
+      "language": "TypeScript"
+    },
+    {
+      "name": "x402-private-payment-router",
+      "repo": "https://github.com/masaun/x402-private-payment-router",
+      "language": "Noir"
+    },
+    {
+      "name": "private-logistics-order-management",
+      "repo": "https://github.com/masaun/private-logistics-order-management",
+      "language": "TypeScript"
+    },
+    {
+      "name": "confidential-payroll-management",
+      "repo": "https://github.com/masaun/confidential-payroll-management",
+      "language": "Noir"
+    },
+    {
+      "name": "ZK-identity-integration-examples",
+      "repo": "https://github.com/masaun/ZK-identity-integration-examples",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zkTLS-integration-examples",
+      "repo": "https://github.com/masaun/zkTLS-integration-examples",
+      "language": "Solidity"
+    },
+    {
+      "name": "openbanking.nr-integration-examples",
+      "repo": "https://github.com/masaun/openbanking.nr-integration-examples",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ZK-IP-packages-in-Noir",
+      "repo": "https://github.com/masaun/ZK-IP-packages-in-Noir",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-attestation-for-job-career-history",
+      "repo": "https://github.com/masaun/ZK-attestation-for-job-career-history",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-insurance-claim-verifier",
+      "repo": "https://github.com/masaun/ZK-insurance-claim-verifier",
+      "language": "Solidity"
+    },
+    {
+      "name": "privacy-preserving-IP-NFT",
+      "repo": "https://github.com/masaun/privacy-preserving-IP-NFT",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-travel-history-management-system",
+      "repo": "https://github.com/masaun/ZK-travel-history-management-system",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-mortgage-agreement-manager",
+      "repo": "https://github.com/masaun/ZK-mortgage-agreement-manager",
+      "language": "Solidity"
+    },
+    {
+      "name": "noir-zk-template-for-espresso",
+      "repo": "https://github.com/masaun/noir-zk-template-for-espresso",
+      "language": "Solidity"
+    },
+    {
+      "name": "ZK-health-records-sharing-marketplace",
+      "repo": "https://github.com/masaun/ZK-health-records-sharing-marketplace",
+      "language": "Solidity"
+    },
+    {
+      "name": "selfxyz-qrcode-widget-module",
+      "repo": "https://github.com/masaun/selfxyz-qrcode-widget-module",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rarimo-zk-registry-state-fetcher",
+      "repo": "https://github.com/masaun/rarimo-zk-registry-state-fetcher",
+      "language": "TypeScript"
+    },
+    {
+      "name": "FHE-confidential-counter",
+      "repo": "https://github.com/masaun/FHE-confidential-counter",
+      "url": "https://fhe-confidential-counter.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "flight-booking-prover-and-verifier",
+      "repo": "https://github.com/masaun/flight-booking-prover-and-verifier",
+      "language": "TypeScript"
+    },
+    {
+      "name": "confidential-payroll-management_old_untill-0929",
+      "repo": "https://github.com/masaun/confidential-payroll-management_old_untill-0929",
+      "language": "Noir"
+    },
+    {
+      "name": "Openbands-Miniapp_ZK-circuit_and_contracts",
+      "repo": "https://github.com/masaun/Openbands-Miniapp_ZK-circuit_and_contracts",
+      "language": "Solidity"
+    },
+    {
+      "name": "verified-anonymous-sns",
+      "repo": "https://github.com/masaun/verified-anonymous-sns",
+      "language": "Rust"
+    },
+    {
+      "name": "ZK-references",
+      "repo": "https://github.com/masaun/ZK-references",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zk-geo-location-prover",
+      "repo": "https://github.com/masaun/zk-geo-location-prover",
+      "language": "Solidity"
+    },
+    {
+      "name": "awards",
+      "repo": "https://github.com/masaun/awards"
+    },
+    {
+      "name": "ZK-energy-trading-platform-in-RISC0",
+      "repo": "https://github.com/masaun/ZK-energy-trading-platform-in-RISC0",
+      "language": "Rust"
+    },
+    {
+      "name": "ZK-supply-chain-management-sytem-in-sp1",
+      "repo": "https://github.com/masaun/ZK-supply-chain-management-sytem-in-sp1",
+      "language": "Rust"
+    },
+    {
+      "name": "zk-attestation-for-ai-generated-contents",
+      "repo": "https://github.com/masaun/zk-attestation-for-ai-generated-contents",
+      "language": "Rust"
+    },
+    {
+      "name": "eoa-tx-builder",
+      "repo": "https://github.com/masaun/eoa-tx-builder",
+      "language": "Solidity"
+    },
+    {
+      "name": "world-id-gated-food-voucher",
+      "repo": "https://github.com/masaun/world-id-gated-food-voucher",
+      "language": "TypeScript"
+    },
+    {
+      "name": "retirement-certificate-NFT-associated-ticket",
+      "repo": "https://github.com/masaun/retirement-certificate-NFT-associated-ticket",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rental-tenant-space-protocol-using-ERC4907-NFT",
+      "repo": "https://github.com/masaun/rental-tenant-space-protocol-using-ERC4907-NFT",
+      "language": "TypeScript"
+    },
+    {
+      "name": "NFT-based-photo-marketplace",
+      "repo": "https://github.com/masaun/NFT-based-photo-marketplace",
+      "language": "Solidity"
+    },
+    {
+      "name": "social-impact-voucher",
+      "repo": "https://github.com/masaun/social-impact-voucher",
+      "language": "JavaScript"
+    },
+    {
+      "name": "skynet-asset-marketplace",
+      "repo": "https://github.com/masaun/skynet-asset-marketplace",
+      "language": "JavaScript"
+    },
+    {
+      "name": "proof-of-SDGs-audit-with-NFT",
+      "repo": "https://github.com/masaun/proof-of-SDGs-audit-with-NFT",
+      "language": "JavaScript"
+    },
+    {
+      "name": "diploma-NFTs-with-chainlink-VRF",
+      "repo": "https://github.com/masaun/diploma-NFTs-with-chainlink-VRF",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ACL-smart-contract",
+      "repo": "https://github.com/masaun/ACL-smart-contract",
+      "language": "JavaScript"
+    },
+    {
+      "name": "streamed-atomic-swaps",
+      "repo": "https://github.com/masaun/streamed-atomic-swaps",
+      "language": "JavaScript"
+    },
+    {
+      "name": "loan-service-for-students",
+      "repo": "https://github.com/masaun/loan-service-for-students",
+      "language": "JavaScript"
+    },
+    {
+      "name": "structured-product-based-on-shield-protocol",
+      "repo": "https://github.com/masaun/structured-product-based-on-shield-protocol",
+      "language": "Solidity"
+    },
+    {
+      "name": "tranche-lending-and-borrowing-for-agriculture-market",
+      "repo": "https://github.com/masaun/tranche-lending-and-borrowing-for-agriculture-market",
+      "language": "Solidity"
+    },
+    {
+      "name": "beefy-finance-adapter",
+      "repo": "https://github.com/masaun/beefy-finance-adapter",
+      "language": "Solidity"
+    },
+    {
+      "name": "governorAlpha-with-proof-of-voting-NFT",
+      "repo": "https://github.com/masaun/governorAlpha-with-proof-of-voting-NFT",
+      "language": "Solidity"
+    },
+    {
+      "name": "auction-splits-contract",
+      "repo": "https://github.com/masaun/auction-splits-contract",
+      "language": "TypeScript"
+    },
+    {
+      "name": "CDP-with-API3-airnode",
+      "repo": "https://github.com/masaun/CDP-with-API3-airnode",
+      "language": "JavaScript"
+    },
+    {
+      "name": "forceDAO-yield-farming-strategy-on-polygon",
+      "repo": "https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon",
+      "language": "Solidity"
+    },
+    {
+      "name": "autonomous-degenVC-v2",
+      "repo": "https://github.com/masaun/autonomous-degenVC-v2",
+      "language": "Solidity"
+    },
+    {
+      "name": "NFT-badge-for-staking",
+      "repo": "https://github.com/masaun/NFT-badge-for-staking",
+      "language": "JavaScript"
+    },
+    {
+      "name": "geyser-on-polygon",
+      "repo": "https://github.com/masaun/geyser-on-polygon",
+      "language": "Solidity"
+    },
+    {
+      "name": "lido-stETH-as-yield-source",
+      "repo": "https://github.com/masaun/lido-stETH-as-yield-source",
+      "language": "Solidity"
+    },
+    {
+      "name": "tokenized-carbon-credit-marketplace",
+      "repo": "https://github.com/masaun/tokenized-carbon-credit-marketplace",
+      "language": "JavaScript"
+    },
+    {
+      "name": "liquidVault-with-vesting",
+      "repo": "https://github.com/masaun/liquidVault-with-vesting",
+      "language": "JavaScript"
+    },
+    {
+      "name": "watch-nft-based-cdp",
+      "repo": "https://github.com/masaun/watch-nft-based-cdp",
+      "language": "Solidity"
+    },
+    {
+      "name": "smart-contract-for-public-procurement",
+      "repo": "https://github.com/masaun/smart-contract-for-public-procurement",
+      "language": "JavaScript"
+    },
+    {
+      "name": "xuni-governance",
+      "repo": "https://github.com/masaun/xuni-governance",
+      "language": "Solidity"
+    },
+    {
+      "name": "mstable-as-yield-source",
+      "repo": "https://github.com/masaun/mstable-as-yield-source",
+      "language": "Solidity"
+    },
+    {
+      "name": "shared-trove-on-liquity",
+      "repo": "https://github.com/masaun/shared-trove-on-liquity",
+      "language": "Solidity"
+    },
+    {
+      "name": "proof",
+      "repo": "https://github.com/masaun/proof",
+      "language": "JavaScript"
+    },
+    {
+      "name": "stake-delegation-contract",
+      "repo": "https://github.com/masaun/stake-delegation-contract",
+      "language": "Solidity"
+    },
+    {
+      "name": "NFT-yield-farming",
+      "repo": "https://github.com/masaun/NFT-yield-farming",
+      "language": "JavaScript"
+    },
+    {
+      "name": "referral-system-for-work-rewards",
+      "repo": "https://github.com/masaun/referral-system-for-work-rewards",
+      "language": "Solidity"
+    },
+    {
+      "name": "tokenization-of-baselined-records",
+      "repo": "https://github.com/masaun/tokenization-of-baselined-records",
+      "language": "Solidity"
+    },
+    {
+      "name": "ocean-datatoken-yield-farming",
+      "repo": "https://github.com/masaun/ocean-datatoken-yield-farming",
+      "language": "Solidity"
+    },
+    {
+      "name": "NFT-auth-token",
+      "repo": "https://github.com/masaun/NFT-auth-token",
+      "language": "Solidity"
+    },
+    {
+      "name": "GLM-stake-pool",
+      "repo": "https://github.com/masaun/GLM-stake-pool",
+      "language": "Solidity"
+    },
+    {
+      "name": "streaming-electricity-marketplace",
+      "repo": "https://github.com/masaun/streaming-electricity-marketplace",
+      "language": "JavaScript"
+    },
+    {
+      "name": "keep-stake-pooling",
+      "repo": "https://github.com/masaun/keep-stake-pooling",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nexus-reinsurance",
+      "repo": "https://github.com/masaun/nexus-reinsurance",
+      "language": "Solidity"
+    },
+    {
+      "name": "covered-yield-bearing-tokens",
+      "repo": "https://github.com/masaun/covered-yield-bearing-tokens",
+      "language": "Solidity"
+    },
+    {
+      "name": "autostaking-rewardpool-for-multiple-assets",
+      "repo": "https://github.com/masaun/autostaking-rewardpool-for-multiple-assets",
+      "language": "Solidity"
+    },
+    {
+      "name": "insurance-payments-by-agentless-escrow",
+      "repo": "https://github.com/masaun/insurance-payments-by-agentless-escrow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "arbitrage-btw-wbtc-and-eth",
+      "repo": "https://github.com/masaun/arbitrage-btw-wbtc-and-eth",
+      "language": "Solidity"
+    },
+    {
+      "name": "arbitrageur-between-sgr-and-eth",
+      "repo": "https://github.com/masaun/arbitrageur-between-sgr-and-eth",
+      "language": "Solidity"
+    },
+    {
+      "name": "time-lock-smart-contract",
+      "repo": "https://github.com/masaun/time-lock-smart-contract",
+      "language": "JavaScript"
+    },
+    {
+      "name": "BrightID-Verified-User-Registry-Contract",
+      "repo": "https://github.com/masaun/BrightID-Verified-User-Registry-Contract",
+      "language": "Solidity"
+    },
+    {
+      "name": "ssi-associated-loan-token",
+      "repo": "https://github.com/masaun/ssi-associated-loan-token",
+      "language": "Solidity"
+    },
+    {
+      "name": "automated-chainlink-oracle-caller-for-oil-price-with-gelato",
+      "repo": "https://github.com/masaun/automated-chainlink-oracle-caller-for-oil-price-with-gelato",
+      "language": "Solidity"
+    },
+    {
+      "name": "time-based-energy-payment",
+      "repo": "https://github.com/masaun/time-based-energy-payment",
+      "language": "JavaScript"
+    },
+    {
+      "name": "dao-decision-making-by-condional-token",
+      "repo": "https://github.com/masaun/dao-decision-making-by-condional-token",
+      "language": "JavaScript"
+    },
+    {
+      "name": "IPFS-paper",
+      "repo": "https://github.com/masaun/IPFS-paper"
+    },
+    {
+      "name": "private-payroll",
+      "repo": "https://github.com/masaun/private-payroll",
+      "language": "JavaScript"
+    },
+    {
+      "name": "no-loss-fundraising",
+      "repo": "https://github.com/masaun/no-loss-fundraising",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crowdsourcing-portal-for-art",
+      "repo": "https://github.com/masaun/crowdsourcing-portal-for-art",
+      "language": "JavaScript"
+    },
+    {
+      "name": "pooltogether-with-sports-event-prediction",
+      "repo": "https://github.com/masaun/pooltogether-with-sports-event-prediction",
+      "language": "JavaScript"
+    },
+    {
+      "name": "unipooltoken-as-a-gift",
+      "repo": "https://github.com/masaun/unipooltoken-as-a-gift",
+      "language": "TypeScript"
+    },
+    {
+      "name": "derivative-swap",
+      "repo": "https://github.com/masaun/derivative-swap",
+      "language": "JavaScript"
+    }
+  ]
+}

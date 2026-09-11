@@ -1,0 +1,533 @@
+{
+  "handle": "antfu",
+  "name": "Anthony Fu",
+  "github": [
+    "https://github.com/antfu"
+  ],
+  "website": "https://antfu.me/",
+  "bio": "A ship in harbor is safe, but that is not what ships are built for.",
+  "own_repos": 251,
+  "commits": 10831,
+  "apps": [],
+  "repos": [
+    {
+      "name": "export-size",
+      "repo": "https://github.com/antfu/export-size",
+      "language": "TypeScript"
+    },
+    {
+      "name": "node-modules-inspector",
+      "repo": "https://github.com/antfu/node-modules-inspector",
+      "url": "https://node-modules.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "everything",
+      "repo": "https://github.com/antfu/everything",
+      "url": "https://everything.antfu.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "antfu.me",
+      "repo": "https://github.com/antfu/antfu.me",
+      "url": "https://antfu.me",
+      "language": "Markdown"
+    },
+    {
+      "name": "static",
+      "repo": "https://github.com/antfu/static",
+      "language": "TypeScript"
+    },
+    {
+      "name": "antfu",
+      "repo": "https://github.com/antfu/antfu",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vitesse-nuxt",
+      "repo": "https://github.com/antfu/vitesse-nuxt",
+      "url": "https://vitesse-nuxt3.netlify.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skills-npm",
+      "repo": "https://github.com/antfu/skills-npm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "userscript-open-in-codeflow",
+      "repo": "https://github.com/antfu/userscript-open-in-codeflow",
+      "language": "JavaScript"
+    },
+    {
+      "name": "starter-ts",
+      "repo": "https://github.com/antfu/starter-ts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-plugin-slop",
+      "repo": "https://github.com/antfu/eslint-plugin-slop",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-config",
+      "repo": "https://github.com/antfu/eslint-config",
+      "url": "https://eslint-config.antfu.me/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "eslint-plugin-antfu",
+      "repo": "https://github.com/antfu/eslint-plugin-antfu",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pnpm-workspace-utils",
+      "repo": "https://github.com/antfu/pnpm-workspace-utils",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tsnapi",
+      "repo": "https://github.com/antfu/tsnapi",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-config-flat-gitignore",
+      "repo": "https://github.com/antfu/eslint-config-flat-gitignore",
+      "language": "TypeScript"
+    },
+    {
+      "name": "releases.antfu.me",
+      "repo": "https://github.com/antfu/releases.antfu.me",
+      "url": "https://releases.antfu.me/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nanovis",
+      "repo": "https://github.com/antfu/nanovis",
+      "language": "TypeScript"
+    },
+    {
+      "name": "design",
+      "repo": "https://github.com/antfu/design",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-vue-tracer",
+      "repo": "https://github.com/antfu/vite-plugin-vue-tracer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "diff-match-patch-es",
+      "repo": "https://github.com/antfu/diff-match-patch-es",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-plugin-command",
+      "repo": "https://github.com/antfu/eslint-plugin-command",
+      "url": "https://eslint-plugin-command.antfu.me/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "magic-string-stack",
+      "repo": "https://github.com/antfu/magic-string-stack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "strip-literal",
+      "repo": "https://github.com/antfu/strip-literal",
+      "language": "TypeScript"
+    },
+    {
+      "name": "broz",
+      "repo": "https://github.com/antfu/broz",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fast-npm-meta",
+      "repo": "https://github.com/antfu/fast-npm-meta",
+      "url": "https://npm.antfu.dev/vite@alpha+nuxt",
+      "language": "TypeScript"
+    },
+    {
+      "name": "monogram-jora",
+      "repo": "https://github.com/antfu/monogram-jora",
+      "language": "TypeScript"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/antfu/talks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "iframe-pane",
+      "repo": "https://github.com/antfu/iframe-pane",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghfs",
+      "repo": "https://github.com/antfu/ghfs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-file-nesting-config",
+      "repo": "https://github.com/antfu/vscode-file-nesting-config",
+      "language": "JavaScript"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/antfu/skills",
+      "language": "TypeScript"
+    },
+    {
+      "name": "svg-packer",
+      "repo": "https://github.com/antfu/svg-packer",
+      "language": "JavaScript"
+    },
+    {
+      "name": "shiki-stream",
+      "repo": "https://github.com/antfu/shiki-stream",
+      "url": "https://shiki-stream.netlify.app/",
+      "language": "HTML"
+    },
+    {
+      "name": "nuxt-eslint-auto-explicit-import",
+      "repo": "https://github.com/antfu/nuxt-eslint-auto-explicit-import",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-plugin-unimport",
+      "repo": "https://github.com/antfu/eslint-plugin-unimport",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nip",
+      "repo": "https://github.com/antfu/nip",
+      "language": "TypeScript"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/antfu/.github"
+    },
+    {
+      "name": "vite-dev-rpc",
+      "repo": "https://github.com/antfu/vite-dev-rpc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-hot-client",
+      "repo": "https://github.com/antfu/vite-hot-client",
+      "language": "TypeScript"
+    },
+    {
+      "name": "starter-vscode",
+      "repo": "https://github.com/antfu/starter-vscode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-flat-config-utils",
+      "repo": "https://github.com/antfu/eslint-flat-config-utils",
+      "language": "TypeScript"
+    },
+    {
+      "name": "whenexpr",
+      "repo": "https://github.com/antfu/whenexpr",
+      "url": "https://npmx.dev/package/whenexpr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pnpm-patch-i",
+      "repo": "https://github.com/antfu/pnpm-patch-i",
+      "language": "TypeScript"
+    },
+    {
+      "name": "intentracker",
+      "repo": "https://github.com/antfu/intentracker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vitest-package-exports",
+      "repo": "https://github.com/antfu/vitest-package-exports",
+      "language": "TypeScript"
+    },
+    {
+      "name": "case-police",
+      "repo": "https://github.com/antfu/case-police",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-unbundled",
+      "repo": "https://github.com/antfu/vite-unbundled",
+      "language": "TypeScript"
+    },
+    {
+      "name": "refined-github-notifications",
+      "repo": "https://github.com/antfu/refined-github-notifications",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mlit-json",
+      "repo": "https://github.com/antfu/mlit-json",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nuxt-content-twoslash",
+      "repo": "https://github.com/antfu/nuxt-content-twoslash",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-pnpm-catalog-lens",
+      "repo": "https://github.com/antfu/vscode-pnpm-catalog-lens",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.pnpm-catalog-lens",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nuxt-mcp-dev",
+      "repo": "https://github.com/antfu/nuxt-mcp-dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-plugin-format",
+      "repo": "https://github.com/antfu/eslint-plugin-format",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-ext-gen",
+      "repo": "https://github.com/antfu/vscode-ext-gen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-typegen",
+      "repo": "https://github.com/antfu/eslint-typegen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shiki-transformer-color-highlight",
+      "repo": "https://github.com/antfu/shiki-transformer-color-highlight",
+      "url": "https://shiki-color-highlight.netlify.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "contribute",
+      "repo": "https://github.com/antfu/contribute"
+    },
+    {
+      "name": "markdown-it-github-alerts",
+      "repo": "https://github.com/antfu/markdown-it-github-alerts",
+      "language": "TypeScript"
+    },
+    {
+      "name": "drauu",
+      "repo": "https://github.com/antfu/drauu",
+      "url": "https://drauu.netlify.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-icons-carbon",
+      "repo": "https://github.com/antfu/vscode-icons-carbon",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-restart",
+      "repo": "https://github.com/antfu/vite-plugin-restart",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nuxt-server-fn",
+      "repo": "https://github.com/antfu/nuxt-server-fn",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-where-am-i",
+      "repo": "https://github.com/antfu/vscode-where-am-i",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.where-am-i",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-open-in-github-button",
+      "repo": "https://github.com/antfu/vscode-open-in-github-button",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.open-in-github-button",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-iconify",
+      "repo": "https://github.com/antfu/vscode-iconify",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.iconify",
+      "language": "TypeScript"
+    },
+    {
+      "name": "utils",
+      "repo": "https://github.com/antfu/utils",
+      "language": "TypeScript"
+    },
+    {
+      "name": "starter-vue-webcomponent-uno",
+      "repo": "https://github.com/antfu/starter-vue-webcomponent-uno",
+      "language": "TypeScript"
+    },
+    {
+      "name": "open-packages-on-npm",
+      "repo": "https://github.com/antfu/open-packages-on-npm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-goto-alias",
+      "repo": "https://github.com/antfu/vscode-goto-alias",
+      "language": "TypeScript"
+    },
+    {
+      "name": "raycast-multi-translate",
+      "repo": "https://github.com/antfu/raycast-multi-translate",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-smart-clicks",
+      "repo": "https://github.com/antfu/vscode-smart-clicks",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.smart-clicks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-theme-vitesse",
+      "repo": "https://github.com/antfu/vscode-theme-vitesse",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-remote-assets",
+      "repo": "https://github.com/antfu/vite-plugin-remote-assets",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slidev-addon-graph",
+      "repo": "https://github.com/antfu/slidev-addon-graph",
+      "language": "Vue"
+    },
+    {
+      "name": "yak-shaving-map",
+      "repo": "https://github.com/antfu/yak-shaving-map",
+      "url": "https://yak.antfu.me",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-settings",
+      "repo": "https://github.com/antfu/vscode-settings"
+    },
+    {
+      "name": "regex-doctor",
+      "repo": "https://github.com/antfu/regex-doctor",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-cpupro",
+      "repo": "https://github.com/antfu/vscode-cpupro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "use",
+      "repo": "https://github.com/antfu/use"
+    },
+    {
+      "name": "vite-plugin-hot-vfs",
+      "repo": "https://github.com/antfu/vite-plugin-hot-vfs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "markdown-it-async",
+      "repo": "https://github.com/antfu/markdown-it-async",
+      "language": "TypeScript"
+    },
+    {
+      "name": "shiki-transformer-inlay-iconify",
+      "repo": "https://github.com/antfu/shiki-transformer-inlay-iconify",
+      "language": "TypeScript"
+    },
+    {
+      "name": "avatars.antfu.dev",
+      "repo": "https://github.com/antfu/avatars.antfu.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-json-discovery",
+      "repo": "https://github.com/antfu/vscode-json-discovery",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vite-plugin-vue-server-ref",
+      "repo": "https://github.com/antfu/vite-plugin-vue-server-ref",
+      "language": "TypeScript"
+    },
+    {
+      "name": "starter-monorepo",
+      "repo": "https://github.com/antfu/starter-monorepo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rollup-require-esm",
+      "repo": "https://github.com/antfu/rollup-require-esm",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fs-spy",
+      "repo": "https://github.com/antfu/fs-spy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "are-we-esm",
+      "repo": "https://github.com/antfu/are-we-esm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ansi-construct",
+      "repo": "https://github.com/antfu/ansi-construct",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deploy-check",
+      "repo": "https://github.com/antfu/deploy-check",
+      "language": "TypeScript"
+    },
+    {
+      "name": "retypewriter",
+      "repo": "https://github.com/antfu/retypewriter",
+      "url": "https://marketplace.visualstudio.com/items?itemName=antfu.retypewriter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "handle",
+      "repo": "https://github.com/antfu/handle",
+      "url": "https://handle.antfu.me",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-processor-vue-blocks",
+      "repo": "https://github.com/antfu/eslint-processor-vue-blocks",
+      "language": "TypeScript"
+    },
+    {
+      "name": "eslint-merge-processors",
+      "repo": "https://github.com/antfu/eslint-merge-processors",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-array-index-inlay",
+      "repo": "https://github.com/antfu/vscode-array-index-inlay",
+      "language": "TypeScript"
+    },
+    {
+      "name": "100",
+      "repo": "https://github.com/antfu/100",
+      "url": "https://100.antfu.me",
+      "language": "Vue"
+    },
+    {
+      "name": "p5i",
+      "repo": "https://github.com/antfu/p5i",
+      "language": "TypeScript"
+    },
+    {
+      "name": "v-lazy-show",
+      "repo": "https://github.com/antfu/v-lazy-show",
+      "language": "TypeScript"
+    }
+  ]
+}

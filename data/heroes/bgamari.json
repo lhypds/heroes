@@ -1,0 +1,516 @@
+{
+  "handle": "bgamari",
+  "name": "Ben Gamari",
+  "github": [
+    "https://github.com/bgamari"
+  ],
+  "bio": "I enjoy compilers, hiking, and bicycling",
+  "own_repos": 264,
+  "commits": 35449,
+  "apps": [],
+  "repos": [
+    {
+      "name": "kicad-hs",
+      "repo": "https://github.com/bgamari/kicad-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "svg-filter",
+      "repo": "https://github.com/bgamari/svg-filter",
+      "language": "Haskell"
+    },
+    {
+      "name": "monoidal-containers",
+      "repo": "https://github.com/bgamari/monoidal-containers",
+      "language": "Haskell"
+    },
+    {
+      "name": "frosty-planning",
+      "repo": "https://github.com/bgamari/frosty-planning",
+      "url": "https://frosty.smart-cactus.org/",
+      "language": "Haskell"
+    },
+    {
+      "name": "laura-python-flake",
+      "repo": "https://github.com/bgamari/laura-python-flake",
+      "language": "Nix"
+    },
+    {
+      "name": "lab-utils",
+      "repo": "https://github.com/bgamari/lab-utils",
+      "language": "Python"
+    },
+    {
+      "name": "Glasgow.nix",
+      "repo": "https://github.com/bgamari/Glasgow.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "gl-plot",
+      "repo": "https://github.com/bgamari/gl-plot",
+      "language": "Haskell"
+    },
+    {
+      "name": "pandoc-step-filter",
+      "repo": "https://github.com/bgamari/pandoc-step-filter",
+      "language": "Haskell"
+    },
+    {
+      "name": "pandoc-lens",
+      "repo": "https://github.com/bgamari/pandoc-lens",
+      "language": "Haskell"
+    },
+    {
+      "name": "lamp",
+      "repo": "https://github.com/bgamari/lamp",
+      "language": "Rust"
+    },
+    {
+      "name": "nanomsg-haskell",
+      "repo": "https://github.com/bgamari/nanomsg-haskell",
+      "language": "Haskell"
+    },
+    {
+      "name": "build-env",
+      "repo": "https://github.com/bgamari/build-env",
+      "language": "Haskell"
+    },
+    {
+      "name": "simplir",
+      "repo": "https://github.com/bgamari/simplir",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-debug",
+      "repo": "https://github.com/bgamari/ghc-debug",
+      "url": "https://gitlab.haskell.org/ghc/ghc-debug",
+      "language": "Haskell"
+    },
+    {
+      "name": "html-parse",
+      "repo": "https://github.com/bgamari/html-parse",
+      "language": "Haskell"
+    },
+    {
+      "name": "criterion-compare",
+      "repo": "https://github.com/bgamari/criterion-compare",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-dump",
+      "repo": "https://github.com/bgamari/ghc-dump",
+      "language": "Haskell"
+    },
+    {
+      "name": "linear-opengl",
+      "repo": "https://github.com/bgamari/linear-opengl",
+      "language": "Haskell"
+    },
+    {
+      "name": "solvers.nix",
+      "repo": "https://github.com/bgamari/solvers.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "ring-buffer",
+      "repo": "https://github.com/bgamari/ring-buffer",
+      "language": "Haskell"
+    },
+    {
+      "name": "type-records",
+      "repo": "https://github.com/bgamari/type-records",
+      "language": "Haskell"
+    },
+    {
+      "name": "zen-workaround.nix",
+      "repo": "https://github.com/bgamari/zen-workaround.nix",
+      "language": "C"
+    },
+    {
+      "name": "semaphore-compat",
+      "repo": "https://github.com/bgamari/semaphore-compat",
+      "language": "Haskell"
+    },
+    {
+      "name": "gmp-tarballs",
+      "repo": "https://github.com/bgamari/gmp-tarballs",
+      "language": "Shell"
+    },
+    {
+      "name": "symbol-graph",
+      "repo": "https://github.com/bgamari/symbol-graph",
+      "language": "Python"
+    },
+    {
+      "name": "graphia.nix",
+      "repo": "https://github.com/bgamari/graphia.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "pandoc-mermaid",
+      "repo": "https://github.com/bgamari/pandoc-mermaid",
+      "language": "Nix"
+    },
+    {
+      "name": "mcbin.nix",
+      "repo": "https://github.com/bgamari/mcbin.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "mediawiki-parser",
+      "repo": "https://github.com/bgamari/mediawiki-parser",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs-usdt",
+      "repo": "https://github.com/bgamari/hs-usdt",
+      "language": "Haskell"
+    },
+    {
+      "name": "pipes-interleave",
+      "repo": "https://github.com/bgamari/pipes-interleave",
+      "language": "Haskell"
+    },
+    {
+      "name": "pipes-lzma",
+      "repo": "https://github.com/bgamari/pipes-lzma",
+      "language": "Haskell"
+    },
+    {
+      "name": "warc",
+      "repo": "https://github.com/bgamari/warc",
+      "language": "Haskell"
+    },
+    {
+      "name": "fork-map",
+      "repo": "https://github.com/bgamari/fork-map",
+      "language": "Haskell"
+    },
+    {
+      "name": "http-parsers",
+      "repo": "https://github.com/bgamari/http-parsers",
+      "language": "Haskell"
+    },
+    {
+      "name": "indexed-vector",
+      "repo": "https://github.com/bgamari/indexed-vector",
+      "language": "Haskell"
+    },
+    {
+      "name": "dhall-gitlab-ci",
+      "repo": "https://github.com/bgamari/dhall-gitlab-ci",
+      "language": "Dhall"
+    },
+    {
+      "name": "bgamari.github.com",
+      "repo": "https://github.com/bgamari/bgamari.github.com",
+      "language": "HTML"
+    },
+    {
+      "name": "writing",
+      "repo": "https://github.com/bgamari/writing",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "tabular",
+      "repo": "https://github.com/bgamari/tabular",
+      "language": "Haskell"
+    },
+    {
+      "name": "language-openscad",
+      "repo": "https://github.com/bgamari/language-openscad",
+      "language": "Haskell"
+    },
+    {
+      "name": "hackage-mirror",
+      "repo": "https://github.com/bgamari/hackage-mirror",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "tree-sitter-ghc-core",
+      "repo": "https://github.com/bgamari/tree-sitter-ghc-core",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sparselizard.nix",
+      "repo": "https://github.com/bgamari/sparselizard.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "openfoam.nix",
+      "repo": "https://github.com/bgamari/openfoam.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "build-cabal-env",
+      "repo": "https://github.com/bgamari/build-cabal-env",
+      "language": "Haskell"
+    },
+    {
+      "name": "dts-mode",
+      "repo": "https://github.com/bgamari/dts-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "linux-evdev",
+      "repo": "https://github.com/bgamari/linux-evdev",
+      "url": "https://hackage.haskell.org/package/linux-evdev",
+      "language": "Haskell"
+    },
+    {
+      "name": "xmonad-config",
+      "repo": "https://github.com/bgamari/xmonad-config",
+      "language": "Haskell"
+    },
+    {
+      "name": "random-heap",
+      "repo": "https://github.com/bgamari/random-heap",
+      "language": "Haskell"
+    },
+    {
+      "name": "mmtk-ghc",
+      "repo": "https://github.com/bgamari/mmtk-ghc",
+      "language": "Rust"
+    },
+    {
+      "name": "mmtk-heap-closure-test",
+      "repo": "https://github.com/bgamari/mmtk-heap-closure-test",
+      "language": "Haskell"
+    },
+    {
+      "name": "the-thoralf-plugin",
+      "repo": "https://github.com/bgamari/the-thoralf-plugin",
+      "language": "Haskell"
+    },
+    {
+      "name": "cabal-sublib-linking-repro",
+      "repo": "https://github.com/bgamari/cabal-sublib-linking-repro",
+      "language": "Haskell"
+    },
+    {
+      "name": "T2374-benchmark",
+      "repo": "https://github.com/bgamari/T2374-benchmark",
+      "language": "Haskell"
+    },
+    {
+      "name": "mediawiki-annotate",
+      "repo": "https://github.com/bgamari/mediawiki-annotate",
+      "url": "https://git.smart-cactus.org/ben/mediawiki-annotate",
+      "language": "Haskell"
+    },
+    {
+      "name": "pipes-s3",
+      "repo": "https://github.com/bgamari/pipes-s3",
+      "language": "Haskell"
+    },
+    {
+      "name": "b-tree",
+      "repo": "https://github.com/bgamari/b-tree",
+      "language": "Haskell"
+    },
+    {
+      "name": "nix-pkgconfig",
+      "repo": "https://github.com/bgamari/nix-pkgconfig",
+      "language": "Python"
+    },
+    {
+      "name": "spacemacs-config",
+      "repo": "https://github.com/bgamari/spacemacs-config",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "photon-tools",
+      "repo": "https://github.com/bgamari/photon-tools",
+      "language": "Python"
+    },
+    {
+      "name": "mersenne-random-pure64",
+      "repo": "https://github.com/bgamari/mersenne-random-pure64",
+      "language": "C"
+    },
+    {
+      "name": "ghc-perf-import",
+      "repo": "https://github.com/bgamari/ghc-perf-import",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "diff-utils",
+      "repo": "https://github.com/bgamari/diff-utils",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-perf-import-reflex",
+      "repo": "https://github.com/bgamari/ghc-perf-import-reflex",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-users-guide",
+      "repo": "https://github.com/bgamari/ghc-users-guide",
+      "language": "Python"
+    },
+    {
+      "name": "io-uring",
+      "repo": "https://github.com/bgamari/io-uring",
+      "language": "Haskell"
+    },
+    {
+      "name": "optimization",
+      "repo": "https://github.com/bgamari/optimization",
+      "language": "Haskell"
+    },
+    {
+      "name": "ukb-hs",
+      "repo": "https://github.com/bgamari/ukb-hs",
+      "language": "Haskell"
+    },
+    {
+      "name": "wordnet-parse",
+      "repo": "https://github.com/bgamari/wordnet-parse",
+      "language": "Haskell"
+    },
+    {
+      "name": "hpc",
+      "repo": "https://github.com/bgamari/hpc"
+    },
+    {
+      "name": "annotation",
+      "repo": "https://github.com/bgamari/annotation",
+      "language": "Haskell"
+    },
+    {
+      "name": "zeromq-hint",
+      "repo": "https://github.com/bgamari/zeromq-hint",
+      "language": "Haskell"
+    },
+    {
+      "name": "mqtt-log",
+      "repo": "https://github.com/bgamari/mqtt-log",
+      "language": "Haskell"
+    },
+    {
+      "name": "string-unpack-test",
+      "repo": "https://github.com/bgamari/string-unpack-test",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-utils",
+      "repo": "https://github.com/bgamari/ghc-utils",
+      "url": "https://gitlab.haskell.org/bgamari/ghc-utils",
+      "language": "Python"
+    },
+    {
+      "name": "AC-Vector",
+      "repo": "https://github.com/bgamari/AC-Vector",
+      "language": "Haskell"
+    },
+    {
+      "name": "hs-maintainer-tools",
+      "repo": "https://github.com/bgamari/hs-maintainer-tools",
+      "language": "Python"
+    },
+    {
+      "name": "red-black",
+      "repo": "https://github.com/bgamari/red-black",
+      "language": "Haskell"
+    },
+    {
+      "name": "breakpoint",
+      "repo": "https://github.com/bgamari/breakpoint",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-pretty-errors",
+      "repo": "https://github.com/bgamari/ghc-pretty-errors"
+    },
+    {
+      "name": "ghc-preload-test",
+      "repo": "https://github.com/bgamari/ghc-preload-test",
+      "language": "C"
+    },
+    {
+      "name": "events",
+      "repo": "https://github.com/bgamari/events",
+      "language": "Haskell"
+    },
+    {
+      "name": "gitlab-search-service",
+      "repo": "https://github.com/bgamari/gitlab-search-service",
+      "language": "Haskell"
+    },
+    {
+      "name": "free-var-experiments",
+      "repo": "https://github.com/bgamari/free-var-experiments",
+      "language": "Haskell"
+    },
+    {
+      "name": "pipes-vector",
+      "repo": "https://github.com/bgamari/pipes-vector",
+      "url": "https://hackage.haskell.org/package/pipes-vector",
+      "language": "Haskell"
+    },
+    {
+      "name": "stm-bug",
+      "repo": "https://github.com/bgamari/stm-bug",
+      "language": "Haskell"
+    },
+    {
+      "name": "distro-versions",
+      "repo": "https://github.com/bgamari/distro-versions",
+      "language": "Haskell"
+    },
+    {
+      "name": "fcs-sim-rs",
+      "repo": "https://github.com/bgamari/fcs-sim-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "fcs-sim",
+      "repo": "https://github.com/bgamari/fcs-sim",
+      "language": "Haskell"
+    },
+    {
+      "name": "nix-overlay",
+      "repo": "https://github.com/bgamari/nix-overlay",
+      "language": "Nix"
+    },
+    {
+      "name": "esp32.nix",
+      "repo": "https://github.com/bgamari/esp32.nix",
+      "language": "Nix"
+    },
+    {
+      "name": "cmov-benchmark",
+      "repo": "https://github.com/bgamari/cmov-benchmark",
+      "language": "C++"
+    },
+    {
+      "name": "ghc-gc-gloss",
+      "repo": "https://github.com/bgamari/ghc-gc-gloss",
+      "language": "Nix"
+    },
+    {
+      "name": "auto-push",
+      "repo": "https://github.com/bgamari/auto-push",
+      "language": "Haskell"
+    },
+    {
+      "name": "ghc-wiki-import",
+      "repo": "https://github.com/bgamari/ghc-wiki-import"
+    },
+    {
+      "name": "ftdi",
+      "repo": "https://github.com/bgamari/ftdi",
+      "language": "Haskell"
+    },
+    {
+      "name": "patience",
+      "repo": "https://github.com/bgamari/patience",
+      "language": "Haskell"
+    },
+    {
+      "name": "bus-pirate",
+      "repo": "https://github.com/bgamari/bus-pirate",
+      "language": "Haskell"
+    }
+  ]
+}

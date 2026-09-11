@@ -1,0 +1,547 @@
+{
+  "handle": "pojntfx",
+  "name": "Felicitas Pojtinger",
+  "github": [
+    "https://github.com/pojntfx"
+  ],
+  "website": "https://felicitas.pojtinger.com/",
+  "bio": "Building digital infrastructure that lasts with #linux #kubernetes #virtualization #wasm #gnome",
+  "own_repos": 208,
+  "commits": 13989,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ledger",
+      "repo": "https://github.com/pojntfx/ledger"
+    },
+    {
+      "name": "sessions",
+      "repo": "https://github.com/pojntfx/sessions",
+      "url": "https://flathub.org/apps/com.pojtinger.felicitas.Sessions",
+      "language": "Go"
+    },
+    {
+      "name": "multiplex",
+      "repo": "https://github.com/pojntfx/multiplex",
+      "url": "https://flathub.org/apps/com.pojtinger.felicitas.Multiplex",
+      "language": "Go"
+    },
+    {
+      "name": "physio-dani.de",
+      "repo": "https://github.com/pojntfx/physio-dani.de",
+      "url": "https://physio-dani.de/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pojtinger.com",
+      "repo": "https://github.com/pojntfx/pojtinger.com",
+      "url": "https://pojtinger.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "felicitas.pojtinger.com",
+      "repo": "https://github.com/pojntfx/felicitas.pojtinger.com",
+      "url": "https://felicitas.pojtinger.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "go-gettext",
+      "repo": "https://github.com/pojntfx/go-gettext",
+      "language": "Go"
+    },
+    {
+      "name": "pojntfx",
+      "repo": "https://github.com/pojntfx/pojntfx",
+      "language": "Go"
+    },
+    {
+      "name": "senbara",
+      "repo": "https://github.com/pojntfx/senbara",
+      "url": "https://forms.senbara.p8.lu/",
+      "language": "Go"
+    },
+    {
+      "name": "vanlug-talk-2026-linux-app-development",
+      "repo": "https://github.com/pojntfx/vanlug-talk-2026-linux-app-development",
+      "language": "Python"
+    },
+    {
+      "name": "octarchive",
+      "repo": "https://github.com/pojntfx/octarchive",
+      "language": "Go"
+    },
+    {
+      "name": "the-commitment",
+      "repo": "https://github.com/pojntfx/the-commitment",
+      "language": "Go"
+    },
+    {
+      "name": "weron",
+      "repo": "https://github.com/pojntfx/weron",
+      "language": "Go"
+    },
+    {
+      "name": "panrpc",
+      "repo": "https://github.com/pojntfx/panrpc",
+      "language": "Go"
+    },
+    {
+      "name": "connmapper",
+      "repo": "https://github.com/pojntfx/connmapper",
+      "url": "https://pojntfx.github.io/connmapper//docs/main/INSTALLATION.html",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hydrapp",
+      "repo": "https://github.com/pojntfx/hydrapp",
+      "language": "Go"
+    },
+    {
+      "name": "bofied",
+      "repo": "https://github.com/pojntfx/bofied",
+      "language": "Go"
+    },
+    {
+      "name": "hydrun",
+      "repo": "https://github.com/pojntfx/hydrun",
+      "language": "Go"
+    },
+    {
+      "name": "uninstance",
+      "repo": "https://github.com/pojntfx/uninstance",
+      "language": "HCL"
+    },
+    {
+      "name": "ipxe-binaries",
+      "repo": "https://github.com/pojntfx/ipxe-binaries",
+      "language": "Shell"
+    },
+    {
+      "name": "networked-linux-memsync",
+      "repo": "https://github.com/pojntfx/networked-linux-memsync",
+      "url": "https://pojntfx.github.io/networked-linux-memsync/",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "r3map",
+      "repo": "https://github.com/pojntfx/r3map",
+      "language": "Go"
+    },
+    {
+      "name": "htorrent",
+      "repo": "https://github.com/pojntfx/htorrent",
+      "language": "Go"
+    },
+    {
+      "name": "go-nbd",
+      "repo": "https://github.com/pojntfx/go-nbd",
+      "language": "Go"
+    },
+    {
+      "name": "stfs",
+      "repo": "https://github.com/pojntfx/stfs",
+      "language": "Go"
+    },
+    {
+      "name": "bagop",
+      "repo": "https://github.com/pojntfx/bagop",
+      "language": "Go"
+    },
+    {
+      "name": "bagccgop",
+      "repo": "https://github.com/pojntfx/bagccgop",
+      "language": "Go"
+    },
+    {
+      "name": "ram-dl",
+      "repo": "https://github.com/pojntfx/ram-dl",
+      "language": "Go"
+    },
+    {
+      "name": "deliverance",
+      "repo": "https://github.com/pojntfx/deliverance",
+      "language": "Makefile"
+    },
+    {
+      "name": "uni-db1-notes",
+      "repo": "https://github.com/pojntfx/uni-db1-notes",
+      "url": "https://pojntfx.github.io/uni-db1-notes/",
+      "language": "Makefile"
+    },
+    {
+      "name": "uni-bwl-notes",
+      "repo": "https://github.com/pojntfx/uni-bwl-notes",
+      "url": "https://pojntfx.github.io/uni-bwl-notes/",
+      "language": "Makefile"
+    },
+    {
+      "name": "uni-itsec-notes",
+      "repo": "https://github.com/pojntfx/uni-itsec-notes",
+      "url": "https://pojntfx.github.io/uni-itsec-notes/",
+      "language": "Makefile"
+    },
+    {
+      "name": "minitel",
+      "repo": "https://github.com/pojntfx/minitel",
+      "url": "https://pojntfx.github.io/minitel/"
+    },
+    {
+      "name": "uni-hacking-notes",
+      "repo": "https://github.com/pojntfx/uni-hacking-notes"
+    },
+    {
+      "name": "uni-webdev-backend-notes",
+      "repo": "https://github.com/pojntfx/uni-webdev-backend-notes",
+      "url": "https://pojntfx.github.io/uni-webdev-backend-notes/"
+    },
+    {
+      "name": "uni-sciwriting-notes",
+      "repo": "https://github.com/pojntfx/uni-sciwriting-notes",
+      "language": "Makefile"
+    },
+    {
+      "name": "uni-webtopics-notes",
+      "repo": "https://github.com/pojntfx/uni-webtopics-notes",
+      "url": "https://pojntfx.github.io/uni-webtopics-notes/"
+    },
+    {
+      "name": "uni-programminglanguages-notes",
+      "repo": "https://github.com/pojntfx/uni-programminglanguages-notes"
+    },
+    {
+      "name": "uni-distributedsystems-notes",
+      "repo": "https://github.com/pojntfx/uni-distributedsystems-notes",
+      "url": "https://pojntfx.github.io/uni-distributedsystems-notes/"
+    },
+    {
+      "name": "uni-appsecurity-notes",
+      "repo": "https://github.com/pojntfx/uni-appsecurity-notes",
+      "url": "https://pojntfx.github.io/uni-appsecurity-notes/"
+    },
+    {
+      "name": "uni-algodat-notes",
+      "repo": "https://github.com/pojntfx/uni-algodat-notes",
+      "url": "https://pojntfx.github.io/uni-algodat-notes/",
+      "language": "Go"
+    },
+    {
+      "name": "hydrapile",
+      "repo": "https://github.com/pojntfx/hydrapile",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "vd24",
+      "repo": "https://github.com/pojntfx/vd24",
+      "language": "JavaScript"
+    },
+    {
+      "name": "atmosfeed",
+      "repo": "https://github.com/pojntfx/atmosfeed",
+      "url": "https://atmosfeed.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bluesky-feeds",
+      "repo": "https://github.com/pojntfx/bluesky-feeds",
+      "language": "Go"
+    },
+    {
+      "name": "keygaen",
+      "repo": "https://github.com/pojntfx/keygaen",
+      "url": "https://pojntfx.github.io/keygaen/",
+      "language": "Go"
+    },
+    {
+      "name": "skysweeper",
+      "repo": "https://github.com/pojntfx/skysweeper",
+      "url": "https://skysweeper.p8.lu/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tapisk",
+      "repo": "https://github.com/pojntfx/tapisk",
+      "language": "Go"
+    },
+    {
+      "name": "goit",
+      "repo": "https://github.com/pojntfx/goit",
+      "language": "Go"
+    },
+    {
+      "name": "keystoregaen",
+      "repo": "https://github.com/pojntfx/keystoregaen",
+      "url": "https://pojntfx.github.io/keystoregaen/",
+      "language": "Go"
+    },
+    {
+      "name": "invaentory",
+      "repo": "https://github.com/pojntfx/invaentory",
+      "language": "Go"
+    },
+    {
+      "name": "green-guardian-gateway",
+      "repo": "https://github.com/pojntfx/green-guardian-gateway",
+      "language": "Go"
+    },
+    {
+      "name": "chatscape",
+      "repo": "https://github.com/pojntfx/chatscape",
+      "language": "TypeScript"
+    },
+    {
+      "name": "uni-supply-chain-paper",
+      "repo": "https://github.com/pojntfx/uni-supply-chain-paper",
+      "url": "https://pojntfx.github.io/uni-supply-chain-paper/"
+    },
+    {
+      "name": "uni-netpractice-notes",
+      "repo": "https://github.com/pojntfx/uni-netpractice-notes",
+      "url": "https://pojntfx.github.io/uni-netpractice-notes/"
+    },
+    {
+      "name": "uni-hci-notes",
+      "repo": "https://github.com/pojntfx/uni-hci-notes",
+      "url": "https://pojntfx.github.io/uni-hci-notes/",
+      "language": "HTML"
+    },
+    {
+      "name": "skytheon",
+      "repo": "https://github.com/pojntfx/skytheon",
+      "language": "Go"
+    },
+    {
+      "name": "cljs-kitchen-sink",
+      "repo": "https://github.com/pojntfx/cljs-kitchen-sink",
+      "url": "https://pojntfx.github.io/cljs-kitchen-sink/",
+      "language": "Clojure"
+    },
+    {
+      "name": "unnecessary.ly-frontend-javafx",
+      "repo": "https://github.com/pojntfx/unnecessary.ly-frontend-javafx",
+      "url": "https://coffeecodecontribute.github.io/unnecessary.ly-frontend-javafx/",
+      "language": "Java"
+    },
+    {
+      "name": "pension-cafe-baeckerei-zuefle-site",
+      "repo": "https://github.com/pojntfx/pension-cafe-baeckerei-zuefle-site",
+      "url": "https://cafe-zuefle.alphahorizon.io/",
+      "language": "HTML"
+    },
+    {
+      "name": "ergotherapie-ssl-website",
+      "repo": "https://github.com/pojntfx/ergotherapie-ssl-website",
+      "url": "https://ergotherapie-ssl.de/",
+      "language": "HTML"
+    },
+    {
+      "name": "scotch",
+      "repo": "https://github.com/pojntfx/scotch",
+      "url": "https://scotch.coffeecodecontribute.org/",
+      "language": "HTML"
+    },
+    {
+      "name": "website",
+      "repo": "https://github.com/pojntfx/website",
+      "url": "https://coffeecodecontribute.org/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mockups",
+      "repo": "https://github.com/pojntfx/mockups"
+    },
+    {
+      "name": "coffeecodecontribute-incubator",
+      "repo": "https://github.com/pojntfx/coffeecodecontribute-incubator",
+      "language": "JavaScript"
+    },
+    {
+      "name": "jmather",
+      "repo": "https://github.com/pojntfx/jmather",
+      "language": "Java"
+    },
+    {
+      "name": "framework",
+      "repo": "https://github.com/pojntfx/framework",
+      "url": "https://framework.coffeecodecontribute.org/",
+      "language": "HTML"
+    },
+    {
+      "name": "aqeuropa",
+      "repo": "https://github.com/pojntfx/aqeuropa",
+      "url": "https://aqueropa.coffeecodecontribute.org/",
+      "language": "HTML"
+    },
+    {
+      "name": "brand",
+      "repo": "https://github.com/pojntfx/brand"
+    },
+    {
+      "name": "webnetes-book",
+      "repo": "https://github.com/pojntfx/webnetes-book",
+      "url": "https://alphahorizonio.github.io/webnetes-book/",
+      "language": "Makefile"
+    },
+    {
+      "name": "consumat.io-frontend",
+      "repo": "https://github.com/pojntfx/consumat.io-frontend",
+      "url": "https://consumat-io-frontend.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "consumat.io-api",
+      "repo": "https://github.com/pojntfx/consumat.io-api"
+    },
+    {
+      "name": "consumat.io",
+      "repo": "https://github.com/pojntfx/consumat.io"
+    },
+    {
+      "name": "zig-sdk",
+      "repo": "https://github.com/pojntfx/zig-sdk",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "webnetesctl",
+      "repo": "https://github.com/pojntfx/webnetesctl",
+      "url": "https://webnetesctl.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "webnetes",
+      "repo": "https://github.com/pojntfx/webnetes",
+      "url": "https://webnetesctl.vercel.app/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wasi-sdk",
+      "repo": "https://github.com/pojntfx/wasi-sdk",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "unisockets",
+      "repo": "https://github.com/pojntfx/unisockets",
+      "url": "https://alphahorizonio.github.io/unisockets/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tinynet",
+      "repo": "https://github.com/pojntfx/tinynet",
+      "url": "https://alphahorizonio.github.io/tinynet/",
+      "language": "Go"
+    },
+    {
+      "name": "rust-sdk",
+      "repo": "https://github.com/pojntfx/rust-sdk",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "nebulark",
+      "repo": "https://github.com/pojntfx/nebulark",
+      "url": "https://nebulark.space/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "opensnet-bridge-client-web",
+      "repo": "https://github.com/pojntfx/opensnet-bridge-client-web",
+      "url": "https://opensdcp.org",
+      "language": "JavaScript"
+    },
+    {
+      "name": "opensdcp-wiki",
+      "repo": "https://github.com/pojntfx/opensdcp-wiki",
+      "url": "https://wiki.opensdcp.org",
+      "language": "PHP"
+    },
+    {
+      "name": "opensdcp-website",
+      "repo": "https://github.com/pojntfx/opensdcp-website",
+      "url": "https://opensdcp.org",
+      "language": "HTML"
+    },
+    {
+      "name": "opensdcp-swarm-manager",
+      "repo": "https://github.com/pojntfx/opensdcp-swarm-manager",
+      "url": "https://cpanel.opensdcp.org/"
+    },
+    {
+      "name": "opensdcp-infrastructure",
+      "repo": "https://github.com/pojntfx/opensdcp-infrastructure",
+      "url": "https://opensdcp.org",
+      "language": "HCL"
+    },
+    {
+      "name": "opensdcp.github.io",
+      "repo": "https://github.com/pojntfx/opensdcp.github.io",
+      "url": "https://opensdcp.github.io/",
+      "language": "HTML"
+    },
+    {
+      "name": "opensdcp-git",
+      "repo": "https://github.com/pojntfx/opensdcp-git",
+      "url": "https://git.opensdcp.org"
+    },
+    {
+      "name": "opensdcp-forum",
+      "repo": "https://github.com/pojntfx/opensdcp-forum",
+      "url": "https://forum.opensdcp.org"
+    },
+    {
+      "name": "opensdcp-design",
+      "repo": "https://github.com/pojntfx/opensdcp-design",
+      "url": "https://opensdcp.org"
+    },
+    {
+      "name": "libresat-design",
+      "repo": "https://github.com/pojntfx/libresat-design"
+    },
+    {
+      "name": "libresat",
+      "repo": "https://github.com/pojntfx/libresat",
+      "url": "https://libresat.felix.pojtinger.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "libresat-archive",
+      "repo": "https://github.com/pojntfx/libresat-archive",
+      "language": "JavaScript"
+    },
+    {
+      "name": "clusterplatform",
+      "repo": "https://github.com/pojntfx/clusterplatform",
+      "language": "JavaScript"
+    },
+    {
+      "name": "weron-archive",
+      "repo": "https://github.com/pojntfx/weron-archive",
+      "language": "Go"
+    },
+    {
+      "name": "uni-sdi-notes",
+      "repo": "https://github.com/pojntfx/uni-sdi-notes",
+      "url": "https://pojntfx.github.io/uni-sdi-notes/",
+      "language": "Makefile"
+    },
+    {
+      "name": "ruby-packer-binaries",
+      "repo": "https://github.com/pojntfx/ruby-packer-binaries",
+      "language": "Shell"
+    },
+    {
+      "name": "nextjs-postgres-todos",
+      "repo": "https://github.com/pojntfx/nextjs-postgres-todos",
+      "url": "https://nextjs-postgres-todos-production.vercel.app",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nextcloud-talk-bot-jitsi",
+      "repo": "https://github.com/pojntfx/nextcloud-talk-bot-jitsi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nextcloud-talk-bot-framework",
+      "repo": "https://github.com/pojntfx/nextcloud-talk-bot-framework",
+      "url": "https://pojntfx.github.io/nextcloud-talk-bot-framework/",
+      "language": "Go"
+    }
+  ]
+}

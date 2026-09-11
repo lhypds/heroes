@@ -1,0 +1,507 @@
+{
+  "handle": "lingtalfi",
+  "name": "LingTalfi",
+  "github": [
+    "https://github.com/lingtalfi"
+  ],
+  "own_repos": 504,
+  "commits": 14198,
+  "apps": [],
+  "repos": [
+    {
+      "name": "rigging_tools",
+      "repo": "https://github.com/lingtalfi/rigging_tools",
+      "language": "Python"
+    },
+    {
+      "name": "blender-save-incremental-backup",
+      "repo": "https://github.com/lingtalfi/blender-save-incremental-backup"
+    },
+    {
+      "name": "responsive-hooks",
+      "repo": "https://github.com/lingtalfi/responsive-hooks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "github-actions-workflows",
+      "repo": "https://github.com/lingtalfi/github-actions-workflows",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Light",
+      "repo": "https://github.com/lingtalfi/Light",
+      "language": "PHP"
+    },
+    {
+      "name": "bash-tasks",
+      "repo": "https://github.com/lingtalfi/bash-tasks",
+      "language": "Shell"
+    },
+    {
+      "name": "aiml-data",
+      "repo": "https://github.com/lingtalfi/aiml-data",
+      "language": "Python"
+    },
+    {
+      "name": "Svelte-mymodal",
+      "repo": "https://github.com/lingtalfi/Svelte-mymodal",
+      "language": "HTML"
+    },
+    {
+      "name": "SvelteTemplateBuilder",
+      "repo": "https://github.com/lingtalfi/SvelteTemplateBuilder",
+      "language": "PHP"
+    },
+    {
+      "name": "real-world-vue",
+      "repo": "https://github.com/lingtalfi/real-world-vue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "universe-naive-importer",
+      "repo": "https://github.com/lingtalfi/universe-naive-importer",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_AppBoilerplate",
+      "repo": "https://github.com/lingtalfi/Light_AppBoilerplate"
+    },
+    {
+      "name": "Bat",
+      "repo": "https://github.com/lingtalfi/Bat",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_BreezeGenerator",
+      "repo": "https://github.com/lingtalfi/Light_BreezeGenerator",
+      "language": "PHP"
+    },
+    {
+      "name": "SqlWizard",
+      "repo": "https://github.com/lingtalfi/SqlWizard",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_It4Tools",
+      "repo": "https://github.com/lingtalfi/Light_It4Tools",
+      "language": "PHP"
+    },
+    {
+      "name": "SimplePdoWrapper",
+      "repo": "https://github.com/lingtalfi/SimplePdoWrapper",
+      "language": "PHP"
+    },
+    {
+      "name": "LingTalfi",
+      "repo": "https://github.com/lingtalfi/LingTalfi",
+      "language": "PHP"
+    },
+    {
+      "name": "HtmlPageTools",
+      "repo": "https://github.com/lingtalfi/HtmlPageTools",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_DeveloperWizard",
+      "repo": "https://github.com/lingtalfi/Light_DeveloperWizard",
+      "language": "PHP"
+    },
+    {
+      "name": "TokenFun",
+      "repo": "https://github.com/lingtalfi/TokenFun",
+      "language": "PHP"
+    },
+    {
+      "name": "StripeTools",
+      "repo": "https://github.com/lingtalfi/StripeTools"
+    },
+    {
+      "name": "PaypalTools",
+      "repo": "https://github.com/lingtalfi/PaypalTools",
+      "language": "PHP"
+    },
+    {
+      "name": "SectionComment",
+      "repo": "https://github.com/lingtalfi/SectionComment",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_PrettyError",
+      "repo": "https://github.com/lingtalfi/Light_PrettyError",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_ZephyrTemplate",
+      "repo": "https://github.com/lingtalfi/Light_ZephyrTemplate",
+      "language": "PHP"
+    },
+    {
+      "name": "JModules",
+      "repo": "https://github.com/lingtalfi/JModules",
+      "language": "JavaScript"
+    },
+    {
+      "name": "HtmlToolbox",
+      "repo": "https://github.com/lingtalfi/HtmlToolbox",
+      "language": "PHP"
+    },
+    {
+      "name": "JAlcp",
+      "repo": "https://github.com/lingtalfi/JAlcp",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Light_Logger",
+      "repo": "https://github.com/lingtalfi/Light_Logger",
+      "language": "PHP"
+    },
+    {
+      "name": "SicTools",
+      "repo": "https://github.com/lingtalfi/SicTools",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_JimToolbox_PhpstormWidgetLinks",
+      "repo": "https://github.com/lingtalfi/Light_Kit_JimToolbox_PhpstormWidgetLinks",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_DebugTrace",
+      "repo": "https://github.com/lingtalfi/Light_Kit_DebugTrace",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Editor",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Editor",
+      "language": "PHP"
+    },
+    {
+      "name": "JLingHelpers",
+      "repo": "https://github.com/lingtalfi/JLingHelpers",
+      "language": "JavaScript"
+    },
+    {
+      "name": "JqZoom",
+      "repo": "https://github.com/lingtalfi/JqZoom",
+      "language": "CSS"
+    },
+    {
+      "name": "Light_Kit_Store",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Store",
+      "language": "PHP"
+    },
+    {
+      "name": "UniverseTools",
+      "repo": "https://github.com/lingtalfi/UniverseTools",
+      "language": "PHP"
+    },
+    {
+      "name": "LightDatabaseFakeDataMaker",
+      "repo": "https://github.com/lingtalfi/LightDatabaseFakeDataMaker",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin",
+      "language": "PHP"
+    },
+    {
+      "name": "WiseTool",
+      "repo": "https://github.com/lingtalfi/WiseTool",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Realist",
+      "repo": "https://github.com/lingtalfi/Light_Realist",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_ControllerHub",
+      "repo": "https://github.com/lingtalfi/Light_ControllerHub",
+      "language": "PHP"
+    },
+    {
+      "name": "JFormCollect",
+      "repo": "https://github.com/lingtalfi/JFormCollect",
+      "language": "JavaScript"
+    },
+    {
+      "name": "SqlFiddler",
+      "repo": "https://github.com/lingtalfi/SqlFiddler",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_JimToolbox_LingTools",
+      "repo": "https://github.com/lingtalfi/Light_Kit_JimToolbox_LingTools",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_EasyRoute",
+      "repo": "https://github.com/lingtalfi/Light_EasyRoute",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_JimToolbox",
+      "repo": "https://github.com/lingtalfi/Light_JimToolbox",
+      "language": "PHP"
+    },
+    {
+      "name": "JimToolbox",
+      "repo": "https://github.com/lingtalfi/JimToolbox",
+      "language": "JavaScript"
+    },
+    {
+      "name": "JBee",
+      "repo": "https://github.com/lingtalfi/JBee",
+      "language": "JavaScript"
+    },
+    {
+      "name": "PaginationHelper",
+      "repo": "https://github.com/lingtalfi/PaginationHelper",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit",
+      "repo": "https://github.com/lingtalfi/Light_Kit",
+      "language": "PHP"
+    },
+    {
+      "name": "CliTools",
+      "repo": "https://github.com/lingtalfi/CliTools",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_PlanetInstaller",
+      "repo": "https://github.com/lingtalfi/Light_PlanetInstaller",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_DebugTrace",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace",
+      "language": "PHP"
+    },
+    {
+      "name": "TheBar",
+      "repo": "https://github.com/lingtalfi/TheBar"
+    },
+    {
+      "name": "Light_Vars",
+      "repo": "https://github.com/lingtalfi/Light_Vars",
+      "language": "PHP"
+    },
+    {
+      "name": "IsoTools",
+      "repo": "https://github.com/lingtalfi/IsoTools",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_AjaxFileUploadManager",
+      "repo": "https://github.com/lingtalfi/Light_AjaxFileUploadManager",
+      "language": "PHP"
+    },
+    {
+      "name": "Digger",
+      "repo": "https://github.com/lingtalfi/Digger",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_ProjectVars",
+      "repo": "https://github.com/lingtalfi/Light_ProjectVars",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_DbSynchronizer",
+      "repo": "https://github.com/lingtalfi/Light_DbSynchronizer",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_SqlWizard",
+      "repo": "https://github.com/lingtalfi/Light_SqlWizard",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_EndRoutine_Debugger",
+      "repo": "https://github.com/lingtalfi/Light_EndRoutine_Debugger",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Mailer",
+      "repo": "https://github.com/lingtalfi/Light_Mailer",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_ExceptionHandler",
+      "repo": "https://github.com/lingtalfi/Light_ExceptionHandler",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_404Logger",
+      "repo": "https://github.com/lingtalfi/Light_404Logger",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Database",
+      "repo": "https://github.com/lingtalfi/Light_Database",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_RealGenerator",
+      "repo": "https://github.com/lingtalfi/Light_RealGenerator",
+      "language": "PHP"
+    },
+    {
+      "name": "ClassCooker",
+      "repo": "https://github.com/lingtalfi/ClassCooker",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Events",
+      "repo": "https://github.com/lingtalfi/Light_Events",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_ErrorHandler",
+      "repo": "https://github.com/lingtalfi/Light_ErrorHandler",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_BootstrapWidgetLibrary",
+      "repo": "https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_LingStandardService",
+      "repo": "https://github.com/lingtalfi/Light_LingStandardService",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_FileWatcher",
+      "repo": "https://github.com/lingtalfi/Light_FileWatcher",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_ErrorPop",
+      "repo": "https://github.com/lingtalfi/Light_ErrorPop",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_TaskScheduler",
+      "repo": "https://github.com/lingtalfi/Light_TaskScheduler",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_PluginInstaller",
+      "repo": "https://github.com/lingtalfi/Light_PluginInstaller",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_Generator",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_Generator",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_CsrfSimple",
+      "repo": "https://github.com/lingtalfi/Light_CsrfSimple",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_LoginNotifier",
+      "repo": "https://github.com/lingtalfi/Light_LoginNotifier",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_AjaxHandler",
+      "repo": "https://github.com/lingtalfi/Light_AjaxHandler",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_MailStats",
+      "repo": "https://github.com/lingtalfi/Light_MailStats",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_UserManager",
+      "repo": "https://github.com/lingtalfi/Light_UserManager",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_User",
+      "repo": "https://github.com/lingtalfi/Light_User",
+      "language": "PHP"
+    },
+    {
+      "name": "Kit_PrototypeWidget",
+      "repo": "https://github.com/lingtalfi/Kit_PrototypeWidget",
+      "language": "PHP"
+    },
+    {
+      "name": "JQuery",
+      "repo": "https://github.com/lingtalfi/JQuery"
+    },
+    {
+      "name": "Light_Kit_Admin_UserPreferences",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_UserNotifications",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_UserNotifications",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_UserDatabase",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_UserDatabase",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_UserData",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_UserData",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_TaskScheduler",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_MailStats",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_MailStats",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_LoginNotifier",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_LoginNotifier",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_Kit_Admin_Kit_Editor",
+      "repo": "https://github.com/lingtalfi/Light_Kit_Admin_Kit_Editor",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_MicroPermission",
+      "repo": "https://github.com/lingtalfi/Light_MicroPermission",
+      "language": "PHP"
+    },
+    {
+      "name": "BeeFramework",
+      "repo": "https://github.com/lingtalfi/BeeFramework",
+      "language": "PHP"
+    },
+    {
+      "name": "Light_UserDatabase",
+      "repo": "https://github.com/lingtalfi/Light_UserDatabase",
+      "language": "PHP"
+    },
+    {
+      "name": "simpledrag",
+      "repo": "https://github.com/lingtalfi/simpledrag",
+      "language": "JavaScript"
+    }
+  ]
+}

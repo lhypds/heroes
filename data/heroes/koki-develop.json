@@ -1,0 +1,551 @@
+{
+  "handle": "koki-develop",
+  "name": "Koki Sato",
+  "github": [
+    "https://github.com/koki-develop"
+  ],
+  "website": "https://koki.me/",
+  "bio": "Developer",
+  "own_repos": 210,
+  "commits": 15759,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mask-go",
+      "repo": "https://github.com/koki-develop/mask-go",
+      "url": "https://pkg.go.dev/github.com/koki-develop/mask-go",
+      "language": "Go"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/koki-develop/dotfiles",
+      "url": "https://github.com/koki-develop/dotfiles/wiki",
+      "language": "Go Template"
+    },
+    {
+      "name": "junior-typing",
+      "repo": "https://github.com/koki-develop/junior-typing",
+      "url": "https://junior-typing.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-renovate-review",
+      "repo": "https://github.com/koki-develop/claude-renovate-review",
+      "url": "https://github.com/marketplace/actions/claude-renovate-review-action"
+    },
+    {
+      "name": "ps1ui",
+      "repo": "https://github.com/koki-develop/ps1ui",
+      "url": "https://koki-develop.github.io/ps1ui/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Cork",
+      "repo": "https://github.com/koki-develop/Cork",
+      "language": "TypeScript"
+    },
+    {
+      "name": "techclip",
+      "repo": "https://github.com/koki-develop/techclip",
+      "url": "https://koki-develop.github.io/techclip/",
+      "language": "HTML"
+    },
+    {
+      "name": "koki.me",
+      "repo": "https://github.com/koki-develop/koki.me",
+      "url": "https://koki.me",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slidev-template",
+      "repo": "https://github.com/koki-develop/slidev-template",
+      "url": "https://koki-develop.github.io/slidev-template/",
+      "language": "Vue"
+    },
+    {
+      "name": "mcp-server-template",
+      "repo": "https://github.com/koki-develop/mcp-server-template",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ts-action-template",
+      "repo": "https://github.com/koki-develop/ts-action-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghats",
+      "repo": "https://github.com/koki-develop/ghats",
+      "url": "https://www.npmjs.com/package/ghats",
+      "language": "TypeScript"
+    },
+    {
+      "name": "zenn-contents",
+      "repo": "https://github.com/koki-develop/zenn-contents",
+      "url": "https://zenn.dev/kou_pg_0131",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mmcp",
+      "repo": "https://github.com/koki-develop/mmcp",
+      "url": "https://www.npmjs.com/package/mmcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-denied-tools",
+      "repo": "https://github.com/koki-develop/claude-denied-tools",
+      "url": "https://github.com/marketplace/actions/claude-denied-tools-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pinpm",
+      "repo": "https://github.com/koki-develop/pinpm",
+      "url": "https://www.npmjs.com/package/pinpm",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tfcmt-sandbox",
+      "repo": "https://github.com/koki-develop/tfcmt-sandbox",
+      "language": "HCL"
+    },
+    {
+      "name": "bump-semver-action",
+      "repo": "https://github.com/koki-develop/bump-semver-action",
+      "url": "https://github.com/marketplace/actions/bump-semantic-version-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "major-version-sync",
+      "repo": "https://github.com/koki-develop/major-version-sync",
+      "url": "https://github.com/marketplace/actions/major-version-sync",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/koki-develop/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "cubby",
+      "repo": "https://github.com/koki-develop/cubby",
+      "language": "Swift"
+    },
+    {
+      "name": "raycast-extension-utilities",
+      "repo": "https://github.com/koki-develop/raycast-extension-utilities",
+      "language": "TypeScript"
+    },
+    {
+      "name": "samari-api",
+      "repo": "https://github.com/koki-develop/samari-api",
+      "url": "https://api.samari.news",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gotrash",
+      "repo": "https://github.com/koki-develop/gotrash",
+      "language": "Go"
+    },
+    {
+      "name": "go-cli-template",
+      "repo": "https://github.com/koki-develop/go-cli-template",
+      "language": "Go"
+    },
+    {
+      "name": "docker-tags",
+      "repo": "https://github.com/koki-develop/docker-tags",
+      "language": "Go"
+    },
+    {
+      "name": "clive",
+      "repo": "https://github.com/koki-develop/clive",
+      "language": "Go"
+    },
+    {
+      "name": "gat",
+      "repo": "https://github.com/koki-develop/gat",
+      "language": "Go"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/koki-develop/renovate-config"
+    },
+    {
+      "name": "aws-masking",
+      "repo": "https://github.com/koki-develop/aws-masking",
+      "url": "https://chromewebstore.google.com/detail/aws-masking/nblpfncgdloilgeicnnlihegobmhjifb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "samari",
+      "repo": "https://github.com/koki-develop/samari",
+      "url": "https://samari.news",
+      "language": "TypeScript"
+    },
+    {
+      "name": "badge-generator",
+      "repo": "https://github.com/koki-develop/badge-generator",
+      "url": "https://badgen.org",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ts-cli-template",
+      "repo": "https://github.com/koki-develop/ts-cli-template",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ghatree",
+      "repo": "https://github.com/koki-develop/ghatree",
+      "url": "https://www.npmjs.com/package/ghatree",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Koto",
+      "repo": "https://github.com/koki-develop/Koto",
+      "language": "Swift"
+    },
+    {
+      "name": "js-template-tag",
+      "repo": "https://github.com/koki-develop/js-template-tag",
+      "url": "https://www.npmjs.com/package/js-template-tag",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blot",
+      "repo": "https://github.com/koki-develop/blot",
+      "language": "Go"
+    },
+    {
+      "name": "qiita-ranking",
+      "repo": "https://github.com/koki-develop/qiita-ranking",
+      "url": "https://qiita.com/koki_develop/items/fa223e1fa0ab057a54bc",
+      "language": "Go"
+    },
+    {
+      "name": "gallery",
+      "repo": "https://github.com/koki-develop/gallery",
+      "url": "https://tftftf.gallery",
+      "language": "HCL"
+    },
+    {
+      "name": "ghasec",
+      "repo": "https://github.com/koki-develop/ghasec",
+      "language": "Go"
+    },
+    {
+      "name": "go-fzf",
+      "repo": "https://github.com/koki-develop/go-fzf",
+      "url": "https://pkg.go.dev/github.com/koki-develop/go-fzf",
+      "language": "Go"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/koki-develop/skills"
+    },
+    {
+      "name": "hub-purge-action",
+      "repo": "https://github.com/koki-develop/hub-purge-action",
+      "url": "https://github.com/marketplace/actions/hub-purge",
+      "language": "JavaScript"
+    },
+    {
+      "name": "koki-develop.nvim",
+      "repo": "https://github.com/koki-develop/koki-develop.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "xvert",
+      "repo": "https://github.com/koki-develop/xvert",
+      "url": "https://rubygems.org/gems/xvert",
+      "language": "Ruby"
+    },
+    {
+      "name": "setup-shellcheck",
+      "repo": "https://github.com/koki-develop/setup-shellcheck",
+      "language": "Shell"
+    },
+    {
+      "name": "mimi",
+      "repo": "https://github.com/koki-develop/mimi",
+      "language": "Swift"
+    },
+    {
+      "name": "swampman",
+      "repo": "https://github.com/koki-develop/swampman",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-actions-lint",
+      "repo": "https://github.com/koki-develop/github-actions-lint",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "setup-ghasec",
+      "repo": "https://github.com/koki-develop/setup-ghasec",
+      "url": "https://github.com/marketplace/actions/setup-ghasec",
+      "language": "Shell"
+    },
+    {
+      "name": "terraform-provider-html",
+      "repo": "https://github.com/koki-develop/terraform-provider-html",
+      "url": "https://registry.terraform.io/providers/koki-develop/html/latest/docs",
+      "language": "Go"
+    },
+    {
+      "name": "terraform-provider-js",
+      "repo": "https://github.com/koki-develop/terraform-provider-js",
+      "url": "https://registry.terraform.io/providers/koki-develop/js/latest/docs",
+      "language": "Go"
+    },
+    {
+      "name": "gh-q",
+      "repo": "https://github.com/koki-develop/gh-q",
+      "language": "Go"
+    },
+    {
+      "name": "politely",
+      "repo": "https://github.com/koki-develop/politely",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lexical-markdown-wrap-untoggle-repro",
+      "repo": "https://github.com/koki-develop/lexical-markdown-wrap-untoggle-repro",
+      "url": "https://koki-develop.github.io/lexical-markdown-wrap-untoggle-repro/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "alexa-skill-gpt",
+      "repo": "https://github.com/koki-develop/alexa-skill-gpt",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ghasec-action",
+      "repo": "https://github.com/koki-develop/ghasec-action",
+      "url": "https://github.com/marketplace/actions/ghasec-action"
+    },
+    {
+      "name": "cache-delete-action",
+      "repo": "https://github.com/koki-develop/cache-delete-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "athena-query-action",
+      "repo": "https://github.com/koki-develop/athena-query-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "glue-job-action",
+      "repo": "https://github.com/koki-develop/glue-job-action",
+      "url": "https://github.com/marketplace/actions/glue-job-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cloudfront-invalidate-action",
+      "repo": "https://github.com/koki-develop/cloudfront-invalidate-action",
+      "url": "https://github.com/marketplace/actions/cloudfront-invalidate-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "link-gate",
+      "repo": "https://github.com/koki-develop/link-gate",
+      "url": "https://chromewebstore.google.com/detail/mhhbigmikenkhebdahloddmacebllobb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "git-aicommit",
+      "repo": "https://github.com/koki-develop/git-aicommit",
+      "language": "Python"
+    },
+    {
+      "name": "cat-code",
+      "repo": "https://github.com/koki-develop/cat-code",
+      "url": "https://www.npmjs.com/package/cat-code",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-search",
+      "repo": "https://github.com/koki-develop/mcp-search",
+      "url": "https://mcp-search.org",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sheep",
+      "repo": "https://github.com/koki-develop/sheep",
+      "language": "Go"
+    },
+    {
+      "name": "ego",
+      "repo": "https://github.com/koki-develop/ego",
+      "language": "Go"
+    },
+    {
+      "name": "bsky-tech-trending-bot",
+      "repo": "https://github.com/koki-develop/bsky-tech-trending-bot",
+      "url": "https://bsky.app/profile/tech-trending.bsky.social",
+      "language": "TypeScript"
+    },
+    {
+      "name": "update-pinned-action-example",
+      "repo": "https://github.com/koki-develop/update-pinned-action-example"
+    },
+    {
+      "name": "todoist-mcp-server",
+      "repo": "https://github.com/koki-develop/todoist-mcp-server",
+      "url": "https://github.com/koki-develop/todoist-mcp-server/pkgs/container/todoist-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "3-lines",
+      "repo": "https://github.com/koki-develop/3-lines",
+      "language": "TypeScript"
+    },
+    {
+      "name": "slp",
+      "repo": "https://github.com/koki-develop/slp",
+      "language": "Go"
+    },
+    {
+      "name": "annotate-go",
+      "repo": "https://github.com/koki-develop/annotate-go",
+      "language": "Go"
+    },
+    {
+      "name": "merx",
+      "repo": "https://github.com/koki-develop/merx",
+      "url": "https://koki-develop.github.io/merx/",
+      "language": "Rust"
+    },
+    {
+      "name": "enforce-sha-pinning-example",
+      "repo": "https://github.com/koki-develop/enforce-sha-pinning-example"
+    },
+    {
+      "name": "gha-script-injection-example",
+      "repo": "https://github.com/koki-develop/gha-script-injection-example"
+    },
+    {
+      "name": "gh-settings",
+      "repo": "https://github.com/koki-develop/gh-settings",
+      "language": "Go"
+    },
+    {
+      "name": "gh-comments",
+      "repo": "https://github.com/koki-develop/gh-comments",
+      "language": "Go"
+    },
+    {
+      "name": "hacker-news-mcp-server",
+      "repo": "https://github.com/koki-develop/hacker-news-mcp-server",
+      "url": "https://github.com/koki-develop/hacker-news-mcp-server/pkgs/container/hacker-news-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-code-changelog",
+      "repo": "https://github.com/koki-develop/claude-code-changelog",
+      "url": "https://claude-code-changelog.vercel.app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-hq",
+      "repo": "https://github.com/koki-develop/mcp-hq",
+      "language": "TypeScript"
+    },
+    {
+      "name": "koki-develop",
+      "repo": "https://github.com/koki-develop/koki-develop"
+    },
+    {
+      "name": "portfolio",
+      "repo": "https://github.com/koki-develop/portfolio",
+      "url": "https://koki.me",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-code-team",
+      "repo": "https://github.com/koki-develop/claude-code-team",
+      "url": "https://www.npmjs.com/package/ccteam",
+      "language": "TypeScript"
+    },
+    {
+      "name": "koki-is-a-dev",
+      "repo": "https://github.com/koki-develop/koki-is-a-dev",
+      "url": "https://koki-is-a-dev.vercel.app",
+      "language": "HTML"
+    },
+    {
+      "name": "ghaview",
+      "repo": "https://github.com/koki-develop/ghaview",
+      "language": "TypeScript"
+    },
+    {
+      "name": "esa-mcp-server",
+      "repo": "https://github.com/koki-develop/esa-mcp-server",
+      "url": "https://github.com/koki-develop/esa-mcp-server/pkgs/container/esa-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-extension-template",
+      "repo": "https://github.com/koki-develop/vscode-extension-template",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-settings-sync",
+      "repo": "https://github.com/koki-develop/vscode-settings-sync",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gorocket",
+      "repo": "https://github.com/koki-develop/gorocket",
+      "language": "Go"
+    },
+    {
+      "name": "typingo",
+      "repo": "https://github.com/koki-develop/typingo",
+      "language": "Go"
+    },
+    {
+      "name": "xbar-plugin-github",
+      "repo": "https://github.com/koki-develop/xbar-plugin-github",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hub-purge",
+      "repo": "https://github.com/koki-develop/hub-purge"
+    },
+    {
+      "name": "repository-activities",
+      "repo": "https://github.com/koki-develop/repository-activities",
+      "url": "https://github.com/koki-develop/repository-activities-weekly/releases/latest"
+    },
+    {
+      "name": "terraform-plan-summarize",
+      "repo": "https://github.com/koki-develop/terraform-plan-summarize",
+      "language": "HCL"
+    },
+    {
+      "name": "summarize-repository-activities",
+      "repo": "https://github.com/koki-develop/summarize-repository-activities",
+      "url": "https://github.com/marketplace/actions/summarize-repository-activities",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-servers",
+      "repo": "https://github.com/koki-develop/mcp-servers",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dynamodb-ui",
+      "repo": "https://github.com/koki-develop/dynamodb-ui",
+      "language": "TypeScript"
+    },
+    {
+      "name": "gitleaks-workflow",
+      "repo": "https://github.com/koki-develop/gitleaks-workflow"
+    },
+    {
+      "name": "ime-dev-recommend-slide",
+      "repo": "https://github.com/koki-develop/ime-dev-recommend-slide",
+      "url": "https://koki-develop.github.io/ime-dev-recommend-slide/",
+      "language": "Vue"
+    }
+  ]
+}
