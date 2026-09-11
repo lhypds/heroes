@@ -1,0 +1,498 @@
+{
+  "handle": "danysk",
+  "name": "Danilo Pianini",
+  "github": [
+    "https://github.com/danysk"
+  ],
+  "bio": "Software engineer, associate professor at the University of Bologna, located in Cesena.",
+  "own_repos": 196,
+  "commits": 15597,
+  "apps": [],
+  "repos": [
+    {
+      "name": "workflows",
+      "repo": "https://github.com/DanySK/workflows",
+      "language": "Ruby"
+    },
+    {
+      "name": "compute-changelog-action",
+      "repo": "https://github.com/DanySK/compute-changelog-action"
+    },
+    {
+      "name": "create-release-action",
+      "repo": "https://github.com/DanySK/create-release-action"
+    },
+    {
+      "name": "acsos23-telegram-bot",
+      "repo": "https://github.com/DanySK/acsos23-telegram-bot",
+      "language": "Kotlin"
+    },
+    {
+      "name": "gradle-kotlin-qa",
+      "repo": "https://github.com/DanySK/gradle-kotlin-qa",
+      "language": "Kotlin"
+    },
+    {
+      "name": "unibo-oop-gradle-plugin",
+      "repo": "https://github.com/DanySK/unibo-oop-gradle-plugin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "git-sensitive-semantic-versioning-gradle-plugin",
+      "repo": "https://github.com/DanySK/git-sensitive-semantic-versioning-gradle-plugin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "gradle-java-qa",
+      "repo": "https://github.com/DanySK/gradle-java-qa",
+      "language": "Kotlin"
+    },
+    {
+      "name": "publish-on-central",
+      "repo": "https://github.com/DanySK/publish-on-central",
+      "language": "Kotlin"
+    },
+    {
+      "name": "gradle-pre-commit-git-hooks",
+      "repo": "https://github.com/DanySK/gradle-pre-commit-git-hooks",
+      "language": "Kotlin"
+    },
+    {
+      "name": "template-for-gradle-plugins",
+      "repo": "https://github.com/DanySK/template-for-gradle-plugins",
+      "language": "Kotlin"
+    },
+    {
+      "name": "compile-and-publish-all-latex",
+      "repo": "https://github.com/DanySK/compile-and-publish-all-latex",
+      "language": "JavaScript"
+    },
+    {
+      "name": "are-secrets-available",
+      "repo": "https://github.com/DanySK/are-secrets-available"
+    },
+    {
+      "name": "kotlin-symmetric-matrix",
+      "repo": "https://github.com/DanySK/kotlin-symmetric-matrix",
+      "language": "Kotlin"
+    },
+    {
+      "name": "build-check-deploy-gradle-action",
+      "repo": "https://github.com/DanySK/build-check-deploy-gradle-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "alchemist-experiments-bootstrap",
+      "repo": "https://github.com/DanySK/alchemist-experiments-bootstrap",
+      "language": "Python"
+    },
+    {
+      "name": "slides-acsos-2026-cesena",
+      "repo": "https://github.com/DanySK/slides-acsos-2026-cesena",
+      "language": "HTML"
+    },
+    {
+      "name": "true-yaml-actions",
+      "repo": "https://github.com/DanySK/true-yaml-actions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "course-2026-micro-macro",
+      "repo": "https://github.com/DanySK/course-2026-micro-macro",
+      "url": "https://danysk.github.io/course-2026-micro-macro",
+      "language": "HTML"
+    },
+    {
+      "name": "maven-central-portal-kotlin-api",
+      "repo": "https://github.com/DanySK/maven-central-portal-kotlin-api",
+      "language": "Kotlin"
+    },
+    {
+      "name": "docker-manjaro-texlive-ruby",
+      "repo": "https://github.com/DanySK/docker-manjaro-texlive-ruby",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "slides-2026-intro-hohenheim",
+      "repo": "https://github.com/DanySK/slides-2026-intro-hohenheim",
+      "url": "https://danysk.github.io/slides-2026-intro-hohenheim/",
+      "language": "HTML"
+    },
+    {
+      "name": "jirf",
+      "repo": "https://github.com/DanySK/jirf",
+      "language": "Java"
+    },
+    {
+      "name": "conrec",
+      "repo": "https://github.com/DanySK/conrec",
+      "language": "Java"
+    },
+    {
+      "name": "slides-2026-unito-progmob-collektive",
+      "repo": "https://github.com/DanySK/slides-2026-unito-progmob-collektive",
+      "language": "HTML"
+    },
+    {
+      "name": "java-quadtree",
+      "repo": "https://github.com/DanySK/java-quadtree",
+      "language": "Kotlin"
+    },
+    {
+      "name": "experiment-2025-gradcast",
+      "repo": "https://github.com/DanySK/experiment-2025-gradcast",
+      "language": "Kotlin"
+    },
+    {
+      "name": "semantic-release-preconfigured-conventional-commits",
+      "repo": "https://github.com/DanySK/semantic-release-preconfigured-conventional-commits",
+      "language": "Shell"
+    },
+    {
+      "name": "template-for-kotlin-multiplatform-applications",
+      "repo": "https://github.com/DanySK/template-for-kotlin-multiplatform-applications",
+      "language": "Kotlin"
+    },
+    {
+      "name": "compile-latex-action",
+      "repo": "https://github.com/DanySK/compile-latex-action",
+      "language": "Ruby"
+    },
+    {
+      "name": "action-checkout",
+      "repo": "https://github.com/DanySK/action-checkout"
+    },
+    {
+      "name": "template-for-kotlin-multiplatform-projects",
+      "repo": "https://github.com/DanySK/template-for-kotlin-multiplatform-projects",
+      "language": "Kotlin"
+    },
+    {
+      "name": "rrmxmx-kt",
+      "repo": "https://github.com/DanySK/rrmxmx-kt",
+      "language": "Kotlin"
+    },
+    {
+      "name": "slides-2026-coordination-gossip",
+      "repo": "https://github.com/DanySK/slides-2026-coordination-gossip",
+      "language": "JavaScript"
+    },
+    {
+      "name": "danysk.github.io",
+      "repo": "https://github.com/DanySK/danysk.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "slides-2025-formazione-rtt",
+      "repo": "https://github.com/DanySK/slides-2025-formazione-rtt",
+      "language": "HTML"
+    },
+    {
+      "name": "Template-Hugo-Reveal-Slides",
+      "repo": "https://github.com/DanySK/Template-Hugo-Reveal-Slides",
+      "language": "HTML"
+    },
+    {
+      "name": "kotlin-container",
+      "repo": "https://github.com/DanySK/kotlin-container",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "collektive-exercises",
+      "repo": "https://github.com/DanySK/collektive-exercises",
+      "language": "Kotlin"
+    },
+    {
+      "name": "code-plagiarism-detector",
+      "repo": "https://github.com/DanySK/code-plagiarism-detector",
+      "language": "Kotlin"
+    },
+    {
+      "name": "oop-reporting-machinery",
+      "repo": "https://github.com/DanySK/oop-reporting-machinery",
+      "language": "Kotlin"
+    },
+    {
+      "name": "multi-jvm-test-plugin",
+      "repo": "https://github.com/DanySK/multi-jvm-test-plugin",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Template-for-Kotlin-JVM-Projects",
+      "repo": "https://github.com/DanySK/Template-for-Kotlin-JVM-Projects",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Thread-Inheritable-Resource-Loader-for-Java",
+      "repo": "https://github.com/DanySK/Thread-Inheritable-Resource-Loader-for-Java",
+      "url": "https://github.com/DanySK/Thread-Inheritable-Resource-Loader-for-Java",
+      "language": "Java"
+    },
+    {
+      "name": "DisCoTec-2021-Tutorial",
+      "repo": "https://github.com/DanySK/DisCoTec-2021-Tutorial"
+    },
+    {
+      "name": "try-typst",
+      "repo": "https://github.com/DanySK/try-typst",
+      "language": "TeX"
+    },
+    {
+      "name": "Tutorial-GitHub-Actions-Minimal",
+      "repo": "https://github.com/DanySK/Tutorial-GitHub-Actions-Minimal"
+    },
+    {
+      "name": "gradle-wrapper",
+      "repo": "https://github.com/DanySK/gradle-wrapper"
+    },
+    {
+      "name": "Curriculum-Vitae",
+      "repo": "https://github.com/DanySK/Curriculum-Vitae",
+      "language": "TeX"
+    },
+    {
+      "name": "docker-linux-didattica",
+      "repo": "https://github.com/DanySK/docker-linux-didattica",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "shared-slides",
+      "repo": "https://github.com/DanySK/shared-slides",
+      "language": "Ruby"
+    },
+    {
+      "name": "docker-manjaro-texlive",
+      "repo": "https://github.com/DanySK/docker-manjaro-texlive",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "docker-manjaro-programming-cli-tools",
+      "repo": "https://github.com/DanySK/docker-manjaro-programming-cli-tools",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Template-LaTeX-acmart",
+      "repo": "https://github.com/DanySK/Template-LaTeX-acmart",
+      "language": "TeX"
+    },
+    {
+      "name": "Template-LaTeX-LNCS",
+      "repo": "https://github.com/DanySK/Template-LaTeX-LNCS",
+      "language": "TeX"
+    },
+    {
+      "name": "docker-manjaro-with-zsh",
+      "repo": "https://github.com/DanySK/docker-manjaro-with-zsh",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "Template-LaTeX-Elsevier-Article",
+      "repo": "https://github.com/DanySK/Template-LaTeX-Elsevier-Article",
+      "language": "BibTeX Style"
+    },
+    {
+      "name": "Template-LaTeX-LMCS",
+      "repo": "https://github.com/DanySK/Template-LaTeX-LMCS",
+      "language": "TeX"
+    },
+    {
+      "name": "template-reccommendation-letter",
+      "repo": "https://github.com/DanySK/template-reccommendation-letter",
+      "language": "TeX"
+    },
+    {
+      "name": "Course-Simulation-Basics",
+      "repo": "https://github.com/DanySK/Course-Simulation-Basics",
+      "language": "TeX"
+    },
+    {
+      "name": "Template-LaTeX-Springer-svjour3",
+      "repo": "https://github.com/DanySK/Template-LaTeX-Springer-svjour3",
+      "language": "BibTeX Style"
+    },
+    {
+      "name": "Template-LaTeX-IEEE-Computer-Society-Magazines",
+      "repo": "https://github.com/DanySK/Template-LaTeX-IEEE-Computer-Society-Magazines",
+      "language": "TeX"
+    },
+    {
+      "name": "Template-LaTeX-CI",
+      "repo": "https://github.com/DanySK/Template-LaTeX-CI",
+      "language": "TeX"
+    },
+    {
+      "name": "Template-LaTeX-IEEE-Conference-Proceedings",
+      "repo": "https://github.com/DanySK/Template-LaTeX-IEEE-Conference-Proceedings",
+      "language": "TeX"
+    },
+    {
+      "name": "Template-LaTeX-Elsevier-CAS-DC",
+      "repo": "https://github.com/DanySK/Template-LaTeX-Elsevier-CAS-DC",
+      "language": "TeX"
+    },
+    {
+      "name": "template-latex-springer-nature-sn-jnl",
+      "repo": "https://github.com/DanySK/template-latex-springer-nature-sn-jnl",
+      "language": "BibTeX Style"
+    },
+    {
+      "name": "docker-manjaro-paru",
+      "repo": "https://github.com/DanySK/docker-manjaro-paru",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "zstd-container",
+      "repo": "https://github.com/DanySK/zstd-container",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ACSOS-2021-publicity",
+      "repo": "https://github.com/DanySK/ACSOS-2021-publicity"
+    },
+    {
+      "name": "libri-antichi",
+      "repo": "https://github.com/DanySK/libri-antichi",
+      "language": "JavaScript"
+    },
+    {
+      "name": "docker-manjaro-linux-with-yay",
+      "repo": "https://github.com/DanySK/docker-manjaro-linux-with-yay",
+      "language": "Shell"
+    },
+    {
+      "name": "docker-manjaro-pamac",
+      "repo": "https://github.com/DanySK/docker-manjaro-pamac",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "countdown",
+      "repo": "https://github.com/DanySK/countdown",
+      "language": "HTML"
+    },
+    {
+      "name": "mergify-config",
+      "repo": "https://github.com/DanySK/mergify-config"
+    },
+    {
+      "name": "reproduction-renovate-bug-33821",
+      "repo": "https://github.com/DanySK/reproduction-renovate-bug-33821"
+    },
+    {
+      "name": "mergify-queue-config",
+      "repo": "https://github.com/DanySK/mergify-queue-config"
+    },
+    {
+      "name": "agent-instructions-skill",
+      "repo": "https://github.com/DanySK/agent-instructions-skill"
+    },
+    {
+      "name": "slides-2025-unito-progmob-collektive",
+      "repo": "https://github.com/DanySK/slides-2025-unito-progmob-collektive",
+      "language": "HTML"
+    },
+    {
+      "name": "spe-2025-ci",
+      "repo": "https://github.com/DanySK/spe-2025-ci"
+    },
+    {
+      "name": "slides-2025-fair",
+      "repo": "https://github.com/DanySK/slides-2025-fair",
+      "language": "HTML"
+    },
+    {
+      "name": "course-scm-linux-base",
+      "repo": "https://github.com/DanySK/course-scm-linux-base",
+      "language": "SCSS"
+    },
+    {
+      "name": "2026-slides-hohenheim-reproducibility",
+      "repo": "https://github.com/DanySK/2026-slides-hohenheim-reproducibility",
+      "url": "https://danysk.github.io/2026-slides-hohenheim-reproducibility",
+      "language": "HTML"
+    },
+    {
+      "name": "DanySK",
+      "repo": "https://github.com/DanySK/DanySK"
+    },
+    {
+      "name": "exercise-docker-ktor-vue-nginx-compose",
+      "repo": "https://github.com/DanySK/exercise-docker-ktor-vue-nginx-compose",
+      "language": "Kotlin"
+    },
+    {
+      "name": "exercise-docker-network-flask",
+      "repo": "https://github.com/DanySK/exercise-docker-network-flask",
+      "language": "Python"
+    },
+    {
+      "name": "docker-ci-images",
+      "repo": "https://github.com/DanySK/docker-ci-images",
+      "language": "Ruby"
+    },
+    {
+      "name": "github-actions-experiments",
+      "repo": "https://github.com/DanySK/github-actions-experiments"
+    },
+    {
+      "name": "phd-course-devops-science",
+      "repo": "https://github.com/DanySK/phd-course-devops-science",
+      "language": "SCSS"
+    },
+    {
+      "name": "action-create-ossrh-staging-repo",
+      "repo": "https://github.com/DanySK/action-create-ossrh-staging-repo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "action-drop-ossrh-staging-repo",
+      "repo": "https://github.com/DanySK/action-drop-ossrh-staging-repo",
+      "language": "JavaScript"
+    },
+    {
+      "name": "poster-2025-fsen-parameter-tuning-pipeline",
+      "repo": "https://github.com/DanySK/poster-2025-fsen-parameter-tuning-pipeline"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/DanySK/renovate-config"
+    },
+    {
+      "name": "Course-LSS-Kotlin-Template",
+      "repo": "https://github.com/DanySK/Course-LSS-Kotlin-Template",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Course-DTM-SE-3",
+      "repo": "https://github.com/DanySK/Course-DTM-SE-3",
+      "language": "SCSS"
+    },
+    {
+      "name": "slides-2024-acsos-reproducibility",
+      "repo": "https://github.com/DanySK/slides-2024-acsos-reproducibility",
+      "language": "HTML"
+    },
+    {
+      "name": "slides-2024-acsos-imageonomics",
+      "repo": "https://github.com/DanySK/slides-2024-acsos-imageonomics",
+      "language": "HTML"
+    },
+    {
+      "name": "poster-2024-acsos-imageonomics-drones",
+      "repo": "https://github.com/DanySK/poster-2024-acsos-imageonomics-drones"
+    },
+    {
+      "name": "gh-pages-test",
+      "repo": "https://github.com/DanySK/gh-pages-test"
+    },
+    {
+      "name": "slides-2024-software-process-engineering-simulation",
+      "repo": "https://github.com/DanySK/slides-2024-software-process-engineering-simulation",
+      "language": "HTML"
+    },
+    {
+      "name": "slides-2024-sven-visit",
+      "repo": "https://github.com/DanySK/slides-2024-sven-visit",
+      "language": "HTML"
+    }
+  ]
+}

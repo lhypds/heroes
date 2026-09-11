@@ -1,0 +1,524 @@
+{
+  "handle": "csoai-org",
+  "name": "Nicholas Templeman",
+  "github": [
+    "https://github.com/csoai-org"
+  ],
+  "website": "https://councilof.ai/",
+  "bio": "Founder, Council of AI (CSOAI Ltd). We measure AI against the rules that govern it, sign it (Ed25519), re-attest. Neutral. Not a certifier.",
+  "own_repos": 603,
+  "commits": 12869,
+  "apps": [],
+  "repos": [
+    {
+      "name": "councilof-ai",
+      "repo": "https://github.com/CSOAI-ORG/councilof-ai",
+      "url": "https://councilof.ai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dora-nis2-crosswalk-mcp",
+      "repo": "https://github.com/CSOAI-ORG/dora-nis2-crosswalk-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/CSOAI-ORG/.github",
+      "url": "https://councilof.ai",
+      "language": "JavaScript"
+    },
+    {
+      "name": "flywheel-nsite",
+      "repo": "https://github.com/CSOAI-ORG/flywheel-nsite",
+      "language": "Python"
+    },
+    {
+      "name": "corpus-watch",
+      "repo": "https://github.com/CSOAI-ORG/corpus-watch",
+      "language": "Python"
+    },
+    {
+      "name": "gspc-board",
+      "repo": "https://github.com/CSOAI-ORG/gspc-board",
+      "url": "https://councilof.ai/api/gspc",
+      "language": "Shell"
+    },
+    {
+      "name": "cibola",
+      "repo": "https://github.com/CSOAI-ORG/cibola",
+      "language": "Python"
+    },
+    {
+      "name": "councilof-ai-monorepo",
+      "repo": "https://github.com/CSOAI-ORG/councilof-ai-monorepo",
+      "language": "Python"
+    },
+    {
+      "name": "council-os",
+      "repo": "https://github.com/CSOAI-ORG/council-os",
+      "language": "Python"
+    },
+    {
+      "name": "csoai-static-deploy2",
+      "repo": "https://github.com/CSOAI-ORG/csoai-static-deploy2",
+      "language": "HTML"
+    },
+    {
+      "name": "proofof-ai-mcp",
+      "repo": "https://github.com/CSOAI-ORG/proofof-ai-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "meok-skills",
+      "repo": "https://github.com/CSOAI-ORG/meok-skills"
+    },
+    {
+      "name": "meok-integrations",
+      "repo": "https://github.com/CSOAI-ORG/meok-integrations"
+    },
+    {
+      "name": "meok-vscode-extension",
+      "repo": "https://github.com/CSOAI-ORG/meok-vscode-extension",
+      "language": "TypeScript"
+    },
+    {
+      "name": "meok-slack-app",
+      "repo": "https://github.com/CSOAI-ORG/meok-slack-app",
+      "language": "TypeScript"
+    },
+    {
+      "name": "meok-teams-app",
+      "repo": "https://github.com/CSOAI-ORG/meok-teams-app"
+    },
+    {
+      "name": "openmoe.ai",
+      "repo": "https://github.com/CSOAI-ORG/openmoe.ai"
+    },
+    {
+      "name": "legacy-engineering-mcp",
+      "repo": "https://github.com/CSOAI-ORG/legacy-engineering-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "thermal-management-mcp",
+      "repo": "https://github.com/CSOAI-ORG/thermal-management-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "meok-cli",
+      "repo": "https://github.com/CSOAI-ORG/meok-cli",
+      "language": "Python"
+    },
+    {
+      "name": "iokfarm-site",
+      "repo": "https://github.com/CSOAI-ORG/iokfarm-site",
+      "language": "HTML"
+    },
+    {
+      "name": "meokclaw-v2-github",
+      "repo": "https://github.com/CSOAI-ORG/meokclaw-v2-github",
+      "language": "Python"
+    },
+    {
+      "name": "mmoagent-mcp",
+      "repo": "https://github.com/CSOAI-ORG/mmoagent-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "blizzard-wow-mcp",
+      "repo": "https://github.com/CSOAI-ORG/blizzard-wow-mcp",
+      "language": "TypeScript"
+    },
+    {
+      "name": "coai",
+      "repo": "https://github.com/CSOAI-ORG/coai",
+      "language": "Python"
+    },
+    {
+      "name": "horus",
+      "repo": "https://github.com/CSOAI-ORG/horus"
+    },
+    {
+      "name": "sov3-topology",
+      "repo": "https://github.com/CSOAI-ORG/sov3-topology"
+    },
+    {
+      "name": "meok-grid",
+      "repo": "https://github.com/CSOAI-ORG/meok-grid"
+    },
+    {
+      "name": "gamemcp",
+      "repo": "https://github.com/CSOAI-ORG/gamemcp"
+    },
+    {
+      "name": "hermes-integration",
+      "repo": "https://github.com/CSOAI-ORG/hermes-integration"
+    },
+    {
+      "name": "minimax-bridge",
+      "repo": "https://github.com/CSOAI-ORG/minimax-bridge"
+    },
+    {
+      "name": "meok-poker-hud-mcp",
+      "repo": "https://github.com/CSOAI-ORG/meok-poker-hud-mcp"
+    },
+    {
+      "name": "csoai-org-v2",
+      "repo": "https://github.com/CSOAI-ORG/csoai-org-v2",
+      "language": "HTML"
+    },
+    {
+      "name": "sov3-live-demo",
+      "repo": "https://github.com/CSOAI-ORG/sov3-live-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "sov3-arch-demo",
+      "repo": "https://github.com/CSOAI-ORG/sov3-arch-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "sov3-beat-demo",
+      "repo": "https://github.com/CSOAI-ORG/sov3-beat-demo",
+      "language": "HTML"
+    },
+    {
+      "name": "defoneos-com",
+      "repo": "https://github.com/CSOAI-ORG/defoneos-com",
+      "language": "HTML"
+    },
+    {
+      "name": "sovereign-oowm",
+      "repo": "https://github.com/CSOAI-ORG/sovereign-oowm",
+      "language": "Shell"
+    },
+    {
+      "name": "landlaw-site",
+      "repo": "https://github.com/CSOAI-ORG/landlaw-site",
+      "language": "HTML"
+    },
+    {
+      "name": "planthire-site",
+      "repo": "https://github.com/CSOAI-ORG/planthire-site",
+      "language": "HTML"
+    },
+    {
+      "name": "koikeeper-site",
+      "repo": "https://github.com/CSOAI-ORG/koikeeper-site",
+      "language": "HTML"
+    },
+    {
+      "name": "optimobile-site",
+      "repo": "https://github.com/CSOAI-ORG/optimobile-site",
+      "url": "https://optimobile.ai/",
+      "language": "HTML"
+    },
+    {
+      "name": "socialmediamanager-site",
+      "repo": "https://github.com/CSOAI-ORG/socialmediamanager-site",
+      "language": "HTML"
+    },
+    {
+      "name": "wowmcp-site",
+      "repo": "https://github.com/CSOAI-ORG/wowmcp-site",
+      "language": "HTML"
+    },
+    {
+      "name": "pokerhud-site",
+      "repo": "https://github.com/CSOAI-ORG/pokerhud-site",
+      "language": "HTML"
+    },
+    {
+      "name": "diyhelp-site",
+      "repo": "https://github.com/CSOAI-ORG/diyhelp-site",
+      "language": "HTML"
+    },
+    {
+      "name": "suicidestop-site",
+      "repo": "https://github.com/CSOAI-ORG/suicidestop-site",
+      "language": "HTML"
+    },
+    {
+      "name": "cobolbridge-site",
+      "repo": "https://github.com/CSOAI-ORG/cobolbridge-site",
+      "language": "HTML"
+    },
+    {
+      "name": "sovereign-town-site",
+      "repo": "https://github.com/CSOAI-ORG/sovereign-town-site",
+      "language": "HTML"
+    },
+    {
+      "name": "gspc-axis-boards",
+      "repo": "https://github.com/CSOAI-ORG/gspc-axis-boards",
+      "language": "HTML"
+    },
+    {
+      "name": "brand-assets",
+      "repo": "https://github.com/CSOAI-ORG/brand-assets"
+    },
+    {
+      "name": "oversight-measurement",
+      "repo": "https://github.com/CSOAI-ORG/oversight-measurement",
+      "language": "Python"
+    },
+    {
+      "name": "memory-poisoning-axis",
+      "repo": "https://github.com/CSOAI-ORG/memory-poisoning-axis",
+      "language": "Python"
+    },
+    {
+      "name": "action-verify-attestation",
+      "repo": "https://github.com/CSOAI-ORG/action-verify-attestation",
+      "url": "https://councilof.ai",
+      "language": "JavaScript"
+    },
+    {
+      "name": "inspect-signed-receipt",
+      "repo": "https://github.com/CSOAI-ORG/inspect-signed-receipt",
+      "language": "Python"
+    },
+    {
+      "name": "meok-attestation-api",
+      "repo": "https://github.com/CSOAI-ORG/meok-attestation-api",
+      "language": "HTML"
+    },
+    {
+      "name": "meok-cross-post",
+      "repo": "https://github.com/CSOAI-ORG/meok-cross-post",
+      "language": "Python"
+    },
+    {
+      "name": "c2pa-watermark-vercel",
+      "repo": "https://github.com/CSOAI-ORG/c2pa-watermark-vercel",
+      "language": "Python"
+    },
+    {
+      "name": "meok-annex-iii-impact-mcp",
+      "repo": "https://github.com/CSOAI-ORG/meok-annex-iii-impact-mcp"
+    },
+    {
+      "name": "haulage-hive",
+      "repo": "https://github.com/CSOAI-ORG/haulage-hive",
+      "language": "HTML"
+    },
+    {
+      "name": "industrial-hire-hive",
+      "repo": "https://github.com/CSOAI-ORG/industrial-hire-hive",
+      "language": "HTML"
+    },
+    {
+      "name": "tree-king-hive",
+      "repo": "https://github.com/CSOAI-ORG/tree-king-hive",
+      "language": "HTML"
+    },
+    {
+      "name": "sovereign.meok-hive",
+      "repo": "https://github.com/CSOAI-ORG/sovereign.meok-hive",
+      "language": "HTML"
+    },
+    {
+      "name": "sovereign-hive",
+      "repo": "https://github.com/CSOAI-ORG/sovereign-hive",
+      "language": "HTML"
+    },
+    {
+      "name": "suicidestop-hive",
+      "repo": "https://github.com/CSOAI-ORG/suicidestop-hive",
+      "language": "Python"
+    },
+    {
+      "name": "sigil-proofs",
+      "repo": "https://github.com/CSOAI-ORG/sigil-proofs",
+      "language": "Python"
+    },
+    {
+      "name": "sovereign-flywheel-proof",
+      "repo": "https://github.com/CSOAI-ORG/sovereign-flywheel-proof",
+      "language": "Python"
+    },
+    {
+      "name": "sov5v2",
+      "repo": "https://github.com/CSOAI-ORG/sov5v2"
+    },
+    {
+      "name": "haulage-deploy",
+      "repo": "https://github.com/CSOAI-ORG/haulage-deploy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "csoai-mcp-dist",
+      "repo": "https://github.com/CSOAI-ORG/csoai-mcp-dist",
+      "language": "JavaScript"
+    },
+    {
+      "name": "commercialvehicle-site",
+      "repo": "https://github.com/CSOAI-ORG/commercialvehicle-site",
+      "language": "HTML"
+    },
+    {
+      "name": "biasdetectionof-site",
+      "repo": "https://github.com/CSOAI-ORG/biasdetectionof-site",
+      "language": "HTML"
+    },
+    {
+      "name": "accountabilityof-site",
+      "repo": "https://github.com/CSOAI-ORG/accountabilityof-site",
+      "language": "HTML"
+    },
+    {
+      "name": "dataprivacyof-site",
+      "repo": "https://github.com/CSOAI-ORG/dataprivacyof-site",
+      "language": "HTML"
+    },
+    {
+      "name": "ethicalgovernanceof-site",
+      "repo": "https://github.com/CSOAI-ORG/ethicalgovernanceof-site",
+      "language": "HTML"
+    },
+    {
+      "name": "transparencyof-site",
+      "repo": "https://github.com/CSOAI-ORG/transparencyof-site",
+      "language": "HTML"
+    },
+    {
+      "name": "care-industries-site",
+      "repo": "https://github.com/CSOAI-ORG/care-industries-site",
+      "url": "https://meok.ai/care",
+      "language": "HTML"
+    },
+    {
+      "name": "fintech-industries-site",
+      "repo": "https://github.com/CSOAI-ORG/fintech-industries-site",
+      "url": "https://meok.ai/fintech",
+      "language": "HTML"
+    },
+    {
+      "name": "govtech-industries-site",
+      "repo": "https://github.com/CSOAI-ORG/govtech-industries-site",
+      "url": "https://meok.ai/govtech",
+      "language": "HTML"
+    },
+    {
+      "name": "healthtech-industries-site",
+      "repo": "https://github.com/CSOAI-ORG/healthtech-industries-site",
+      "url": "https://meok.ai/healthtech",
+      "language": "HTML"
+    },
+    {
+      "name": "regtech-industries-site",
+      "repo": "https://github.com/CSOAI-ORG/regtech-industries-site",
+      "url": "https://meok.ai/regtech",
+      "language": "HTML"
+    },
+    {
+      "name": "care-compliance-site",
+      "repo": "https://github.com/CSOAI-ORG/care-compliance-site",
+      "url": "https://meok.ai/compliance/care-homes",
+      "language": "HTML"
+    },
+    {
+      "name": "loopfactory-site",
+      "repo": "https://github.com/CSOAI-ORG/loopfactory-site",
+      "language": "HTML"
+    },
+    {
+      "name": "openpatent-site",
+      "repo": "https://github.com/CSOAI-ORG/openpatent-site",
+      "language": "HTML"
+    },
+    {
+      "name": "gspc-regional",
+      "repo": "https://github.com/CSOAI-ORG/gspc-regional",
+      "language": "HTML"
+    },
+    {
+      "name": "gspc-packs-hub",
+      "repo": "https://github.com/CSOAI-ORG/gspc-packs-hub",
+      "language": "HTML"
+    },
+    {
+      "name": "csoai-agui-wire",
+      "repo": "https://github.com/CSOAI-ORG/csoai-agui-wire",
+      "language": "Python"
+    },
+    {
+      "name": "openmoe-site",
+      "repo": "https://github.com/CSOAI-ORG/openmoe-site",
+      "url": "https://openmoe.ai/",
+      "language": "HTML"
+    },
+    {
+      "name": "a2a-signed-receipts",
+      "repo": "https://github.com/CSOAI-ORG/a2a-signed-receipts",
+      "url": "https://github.com/CSOAI-ORG/a2a-signed-receipts/blob/main/SPEC.md",
+      "language": "Python"
+    },
+    {
+      "name": "csoai-governance-engine-mcp",
+      "repo": "https://github.com/CSOAI-ORG/csoai-governance-engine-mcp",
+      "url": "https://meok.ai/meok-governance-engine-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "inspect-receipts",
+      "repo": "https://github.com/CSOAI-ORG/inspect-receipts",
+      "language": "Python"
+    },
+    {
+      "name": "yaml-ai-mcp",
+      "repo": "https://github.com/CSOAI-ORG/yaml-ai-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "writing-assistant-ai-mcp",
+      "repo": "https://github.com/CSOAI-ORG/writing-assistant-ai-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "workout-planner-ai-mcp",
+      "repo": "https://github.com/CSOAI-ORG/workout-planner-ai-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "webhook-ai-mcp",
+      "repo": "https://github.com/CSOAI-ORG/webhook-ai-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "web-research-mcp",
+      "repo": "https://github.com/CSOAI-ORG/web-research-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "weather-ai-mcp",
+      "repo": "https://github.com/CSOAI-ORG/weather-ai-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "wcr-grab-hire",
+      "repo": "https://github.com/CSOAI-ORG/wcr-grab-hire",
+      "url": "https://meok.ai",
+      "language": "HTML"
+    },
+    {
+      "name": "watermarking-authenticity-mcp",
+      "repo": "https://github.com/CSOAI-ORG/watermarking-authenticity-mcp",
+      "url": "https://meok.ai",
+      "language": "Python"
+    },
+    {
+      "name": "vulnerability-scanner",
+      "repo": "https://github.com/CSOAI-ORG/vulnerability-scanner",
+      "url": "https://meok.ai"
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "handle": "chubbyhippo",
+  "name": "chubbyhippo",
+  "github": [
+    "https://github.com/chubbyhippo"
+  ],
+  "own_repos": 336,
+  "commits": 11081,
+  "apps": [],
+  "repos": [
+    {
+      "name": "init.el",
+      "repo": "https://github.com/chubbyhippo/init.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "dbmeow",
+      "repo": "https://github.com/chubbyhippo/dbmeow",
+      "language": "Java"
+    },
+    {
+      "name": "vimeow",
+      "repo": "https://github.com/chubbyhippo/vimeow",
+      "language": "Vim Script"
+    },
+    {
+      "name": "netmeow",
+      "repo": "https://github.com/chubbyhippo/netmeow",
+      "language": "Java"
+    },
+    {
+      "name": "codemeow",
+      "repo": "https://github.com/chubbyhippo/codemeow",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jupytermeow",
+      "repo": "https://github.com/chubbyhippo/jupytermeow",
+      "language": "TypeScript"
+    },
+    {
+      "name": "neomeow.nvim",
+      "repo": "https://github.com/chubbyhippo/neomeow.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "notemeow-plus-plus",
+      "repo": "https://github.com/chubbyhippo/notemeow-plus-plus",
+      "language": "C#"
+    },
+    {
+      "name": "wsl-ubuntu-settings",
+      "repo": "https://github.com/chubbyhippo/wsl-ubuntu-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "ideameow",
+      "repo": "https://github.com/chubbyhippo/ideameow",
+      "language": "Kotlin"
+    },
+    {
+      "name": "scoop",
+      "repo": "https://github.com/chubbyhippo/scoop",
+      "language": "PowerShell"
+    },
+    {
+      "name": "kanata-settings",
+      "repo": "https://github.com/chubbyhippo/kanata-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "spring-boot-web-nacos-service-discovery-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-web-nacos-service-discovery-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "emacs-extras",
+      "repo": "https://github.com/chubbyhippo/emacs-extras",
+      "language": "Shell"
+    },
+    {
+      "name": "emacs-for-the-wins",
+      "repo": "https://github.com/chubbyhippo/emacs-for-the-wins",
+      "language": "Shell"
+    },
+    {
+      "name": "java-pom-playground",
+      "repo": "https://github.com/chubbyhippo/java-pom-playground",
+      "language": "Java"
+    },
+    {
+      "name": "compose-penpot",
+      "repo": "https://github.com/chubbyhippo/compose-penpot",
+      "language": "Shell"
+    },
+    {
+      "name": "zscaler-settings",
+      "repo": "https://github.com/chubbyhippo/zscaler-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "mac-init",
+      "repo": "https://github.com/chubbyhippo/mac-init",
+      "language": "Shell"
+    },
+    {
+      "name": "vscode-settings",
+      "repo": "https://github.com/chubbyhippo/vscode-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "vscodium-settings",
+      "repo": "https://github.com/chubbyhippo/vscodium-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-brew",
+      "repo": "https://github.com/chubbyhippo/homebrew-brew",
+      "language": "Ruby"
+    },
+    {
+      "name": "compose-sonarqube-postgresql-init",
+      "repo": "https://github.com/chubbyhippo/compose-sonarqube-postgresql-init",
+      "language": "Shell"
+    },
+    {
+      "name": "jdtls-settings",
+      "repo": "https://github.com/chubbyhippo/jdtls-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "intellij-settings",
+      "repo": "https://github.com/chubbyhippo/intellij-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "git-scripts",
+      "repo": "https://github.com/chubbyhippo/git-scripts",
+      "language": "Shell"
+    },
+    {
+      "name": "ahk-autohotkey",
+      "repo": "https://github.com/chubbyhippo/ahk-autohotkey",
+      "language": "AutoHotkey"
+    },
+    {
+      "name": "emacs-rsi",
+      "repo": "https://github.com/chubbyhippo/emacs-rsi"
+    },
+    {
+      "name": ".emacs",
+      "repo": "https://github.com/chubbyhippo/.emacs",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-evil-settings",
+      "repo": "https://github.com/chubbyhippo/emacs-evil-settings",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "wsl-almalinux-settings",
+      "repo": "https://github.com/chubbyhippo/wsl-almalinux-settings"
+    },
+    {
+      "name": "i3-settings",
+      "repo": "https://github.com/chubbyhippo/i3-settings"
+    },
+    {
+      "name": "gnu-guix-settings",
+      "repo": "https://github.com/chubbyhippo/gnu-guix-settings"
+    },
+    {
+      "name": "keyboard-ugreen-k551",
+      "repo": "https://github.com/chubbyhippo/keyboard-ugreen-k551"
+    },
+    {
+      "name": "phpstorm-settings",
+      "repo": "https://github.com/chubbyhippo/phpstorm-settings",
+      "language": "Shell"
+    },
+    {
+      "name": ".bashrc",
+      "repo": "https://github.com/chubbyhippo/.bashrc",
+      "language": "Shell"
+    },
+    {
+      "name": "powershell-profile",
+      "repo": "https://github.com/chubbyhippo/powershell-profile",
+      "language": "PowerShell"
+    },
+    {
+      "name": "spring-boot-jmx-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-jmx-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-togglz-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-togglz-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-remote-debug-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-remote-debug-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "exercism-mise-perl-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-perl-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "gog-ac1-patch-setup",
+      "repo": "https://github.com/chubbyhippo/gog-ac1-patch-setup",
+      "language": "PowerShell"
+    },
+    {
+      "name": "spring-boot-jte-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-jte-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-cloud-function-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-cloud-function-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-activemq-artemis-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-activemq-artemis-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-resilience-concurrencylimit-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-resilience-concurrencylimit-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-resilience-retryable-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-resilience-retryable-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-web-jpa-testcontainers-flyway-postgresql-paging-sorting-page-sort-show-sql-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-web-jpa-testcontainers-flyway-postgresql-paging-sorting-page-sort-show-sql-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-web-wiremock-integration-stub-json-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-web-wiremock-integration-stub-json-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "aerospace-settings",
+      "repo": "https://github.com/chubbyhippo/aerospace-settings"
+    },
+    {
+      "name": "spring-boot-web-security-mock-time-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-web-security-mock-time-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-web-data-jpa-devtools-h2-console-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-web-data-jpa-devtools-h2-console-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "init.lua",
+      "repo": "https://github.com/chubbyhippo/init.lua",
+      "language": "Lua"
+    },
+    {
+      "name": ".vimrc",
+      "repo": "https://github.com/chubbyhippo/.vimrc",
+      "language": "Vim Script"
+    },
+    {
+      "name": "dbeaver-settings",
+      "repo": "https://github.com/chubbyhippo/dbeaver-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-python-pytest-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-python-pytest-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "python-venv-mise-setup",
+      "repo": "https://github.com/chubbyhippo/python-venv-mise-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-swift-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-swift-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-ruby-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-ruby-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "mise-colima-docker-compose",
+      "repo": "https://github.com/chubbyhippo/mise-colima-docker-compose",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-elixir-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-elixir-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-php-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-php-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-java-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-java-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-golang-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-golang-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-javascript-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-javascript-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "exercism-mise-clojure-setup",
+      "repo": "https://github.com/chubbyhippo/exercism-mise-clojure-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "tmux-settings",
+      "repo": "https://github.com/chubbyhippo/tmux-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "clojure-playground",
+      "repo": "https://github.com/chubbyhippo/clojure-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "ghostty-settings",
+      "repo": "https://github.com/chubbyhippo/ghostty-settings"
+    },
+    {
+      "name": "python-playground",
+      "repo": "https://github.com/chubbyhippo/python-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "spring-boot-spotless-git-build-hook-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-spotless-git-build-hook-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "maven-mvn",
+      "repo": "https://github.com/chubbyhippo/maven-mvn"
+    },
+    {
+      "name": "python-precommit-hooks-pre-commit-black",
+      "repo": "https://github.com/chubbyhippo/python-precommit-hooks-pre-commit-black"
+    },
+    {
+      "name": "performance",
+      "repo": "https://github.com/chubbyhippo/performance",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-web-tomcat-actuator-micrometer-prometheus-grafana-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-web-tomcat-actuator-micrometer-prometheus-grafana-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "mac-shortcuts-cheat-sheet",
+      "repo": "https://github.com/chubbyhippo/mac-shortcuts-cheat-sheet"
+    },
+    {
+      "name": "jupyterlab-vim-settings",
+      "repo": "https://github.com/chubbyhippo/jupyterlab-vim-settings"
+    },
+    {
+      "name": "spring-boot-files-download-upload-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-files-download-upload-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "pytorch-local-lab-settings",
+      "repo": "https://github.com/chubbyhippo/pytorch-local-lab-settings"
+    },
+    {
+      "name": "trivy-commands-cheat-sheet",
+      "repo": "https://github.com/chubbyhippo/trivy-commands-cheat-sheet"
+    },
+    {
+      "name": "spring-boot-openrewrite-format-code-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-openrewrite-format-code-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "jmeter-commands-cheat-sheet",
+      "repo": "https://github.com/chubbyhippo/jmeter-commands-cheat-sheet"
+    },
+    {
+      "name": "spring-boot-integration-echo-tcp-server-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-integration-echo-tcp-server-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "gnugpg-gpg-pgp-cheat-sheet",
+      "repo": "https://github.com/chubbyhippo/gnugpg-gpg-pgp-cheat-sheet"
+    },
+    {
+      "name": "spring-boot-jpa-one-to-one-without-foreign-key-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-jpa-one-to-one-without-foreign-key-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-cache-jpa-web-mvc-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-cache-jpa-web-mvc-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "spring-boot-remote-debug-compose-dockerfile-multi-stage-build-maven-wrapper-layering-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-remote-debug-compose-dockerfile-multi-stage-build-maven-wrapper-layering-java",
+      "language": "Java"
+    },
+    {
+      "name": "doomemacs-settings",
+      "repo": "https://github.com/chubbyhippo/doomemacs-settings",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "doom-emacs-windows",
+      "repo": "https://github.com/chubbyhippo/doom-emacs-windows"
+    },
+    {
+      "name": "spring-boot-web-restdocs-maven-java",
+      "repo": "https://github.com/chubbyhippo/spring-boot-web-restdocs-maven-java",
+      "language": "Java"
+    },
+    {
+      "name": "flatpak-settings",
+      "repo": "https://github.com/chubbyhippo/flatpak-settings"
+    },
+    {
+      "name": "android-studio-settings",
+      "repo": "https://github.com/chubbyhippo/android-studio-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "datagrip-settings",
+      "repo": "https://github.com/chubbyhippo/datagrip-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "webstorm-settings",
+      "repo": "https://github.com/chubbyhippo/webstorm-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "clion-settings",
+      "repo": "https://github.com/chubbyhippo/clion-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "pycharm-settings",
+      "repo": "https://github.com/chubbyhippo/pycharm-settings",
+      "language": "Shell"
+    },
+    {
+      "name": "rustrover-settings",
+      "repo": "https://github.com/chubbyhippo/rustrover-settings",
+      "language": "Shell"
+    },
+    {
+      "name": ".ideavimrc",
+      "repo": "https://github.com/chubbyhippo/.ideavimrc"
+    },
+    {
+      "name": "core-java-25",
+      "repo": "https://github.com/chubbyhippo/core-java-25",
+      "language": "Java"
+    },
+    {
+      "name": "replace.sh",
+      "repo": "https://github.com/chubbyhippo/replace.sh",
+      "language": "Shell"
+    }
+  ]
+}

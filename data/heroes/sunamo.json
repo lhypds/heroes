@@ -1,0 +1,513 @@
+{
+  "handle": "sunamo",
+  "name": "Radek Jančík",
+  "github": [
+    "https://github.com/sunamo"
+  ],
+  "website": "https://sunamo.cz/",
+  "own_repos": 182,
+  "commits": 10265,
+  "apps": [],
+  "repos": [
+    {
+      "name": "SunamoLogging",
+      "repo": "https://github.com/sunamo/SunamoLogging",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDevCode",
+      "repo": "https://github.com/sunamo/SunamoDevCode",
+      "language": "C#"
+    },
+    {
+      "name": "sureact19",
+      "repo": "https://github.com/sunamo/sureact19",
+      "language": "TypeScript"
+    },
+    {
+      "name": "suweb",
+      "repo": "https://github.com/sunamo/suweb",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sunodejs",
+      "repo": "https://github.com/sunamo/sunodejs",
+      "language": "JavaScript"
+    },
+    {
+      "name": "PlatformIndependentNuGetPackages",
+      "repo": "https://github.com/sunamo/PlatformIndependentNuGetPackages",
+      "language": "PowerShell"
+    },
+    {
+      "name": "WindowsNuGetPackages",
+      "repo": "https://github.com/sunamo/WindowsNuGetPackages"
+    },
+    {
+      "name": "SunamoHttp",
+      "repo": "https://github.com/sunamo/SunamoHttp",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDebugIO",
+      "repo": "https://github.com/sunamo/SunamoDebugIO",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoPlatformUwpInterop",
+      "repo": "https://github.com/sunamo/SunamoPlatformUwpInterop",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoLogMessage",
+      "repo": "https://github.com/sunamo/SunamoLogMessage",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoToNetCore",
+      "repo": "https://github.com/sunamo/SunamoToNetCore",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoSelenium",
+      "repo": "https://github.com/sunamo/SunamoSelenium",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoPS",
+      "repo": "https://github.com/sunamo/SunamoPS",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoNuGetProtocol",
+      "repo": "https://github.com/sunamo/SunamoNuGetProtocol",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoMsgReader",
+      "repo": "https://github.com/sunamo/SunamoMsgReader",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoMime",
+      "repo": "https://github.com/sunamo/SunamoMime",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoMathpix",
+      "repo": "https://github.com/sunamo/SunamoMathpix",
+      "url": "https://www.nuget.org/packages/SunamoMathpix/",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoMarkdown",
+      "repo": "https://github.com/sunamo/SunamoMarkdown",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoMail",
+      "repo": "https://github.com/sunamo/SunamoMail",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDotNetZip",
+      "repo": "https://github.com/sunamo/SunamoDotNetZip",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Windows",
+      "repo": "https://github.com/sunamo/SunamoWpf.Windows",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Storage",
+      "repo": "https://github.com/sunamo/SunamoWpf.Storage",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.RegistryWin",
+      "repo": "https://github.com/sunamo/SunamoWpf.RegistryWin",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.ToggleSwitch",
+      "repo": "https://github.com/sunamo/SunamoWpf.ToggleSwitch",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Logging",
+      "repo": "https://github.com/sunamo/SunamoWpf.Logging",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Extensions",
+      "repo": "https://github.com/sunamo/SunamoWpf.Extensions",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Data",
+      "repo": "https://github.com/sunamo/SunamoWpf.Data",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Helpers",
+      "repo": "https://github.com/sunamo/SunamoWpf.Helpers",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Controls",
+      "repo": "https://github.com/sunamo/SunamoWpf.Controls",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.Core",
+      "repo": "https://github.com/sunamo/SunamoWpf.Core",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.SunamoUtils",
+      "repo": "https://github.com/sunamo/SunamoWpf.SunamoUtils",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoFtp",
+      "repo": "https://github.com/sunamo/SunamoFtp",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoNumbers",
+      "repo": "https://github.com/sunamo/SunamoNumbers",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoUriWebServices",
+      "repo": "https://github.com/sunamo/SunamoUriWebServices",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoXml",
+      "repo": "https://github.com/sunamo/SunamoXml",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoConverters",
+      "repo": "https://github.com/sunamo/SunamoConverters",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoStringJoin",
+      "repo": "https://github.com/sunamo/SunamoStringJoin",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoThisApp",
+      "repo": "https://github.com/sunamo/SunamoThisApp",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoStringFormat",
+      "repo": "https://github.com/sunamo/SunamoStringFormat",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoFileSystem",
+      "repo": "https://github.com/sunamo/SunamoFileSystem",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoCollections",
+      "repo": "https://github.com/sunamo/SunamoCollections",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoLang",
+      "repo": "https://github.com/sunamo/SunamoLang",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoCollectionsGeneric",
+      "repo": "https://github.com/sunamo/SunamoCollectionsGeneric",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDateTime",
+      "repo": "https://github.com/sunamo/SunamoDateTime",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoUri",
+      "repo": "https://github.com/sunamo/SunamoUri",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoRandom",
+      "repo": "https://github.com/sunamo/SunamoRandom",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoExceptions",
+      "repo": "https://github.com/sunamo/SunamoExceptions",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoString",
+      "repo": "https://github.com/sunamo/SunamoString",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoValues",
+      "repo": "https://github.com/sunamo/SunamoValues",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoStringSplit",
+      "repo": "https://github.com/sunamo/SunamoStringSplit",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoPaths",
+      "repo": "https://github.com/sunamo/SunamoPaths",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoFileIO",
+      "repo": "https://github.com/sunamo/SunamoFileIO",
+      "language": "C#"
+    },
+    {
+      "name": "suai-react",
+      "repo": "https://github.com/sunamo/suai-react",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SunamoAI",
+      "repo": "https://github.com/sunamo/SunamoAI",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoGoogleSheets",
+      "repo": "https://github.com/sunamo/SunamoGoogleSheets",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWinStd",
+      "repo": "https://github.com/sunamo/SunamoWinStd",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDependencyInjection",
+      "repo": "https://github.com/sunamo/SunamoDependencyInjection",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoCrypt",
+      "repo": "https://github.com/sunamo/SunamoCrypt",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoCl",
+      "repo": "https://github.com/sunamo/SunamoCl",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoArgs",
+      "repo": "https://github.com/sunamo/SunamoArgs",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoAsync",
+      "repo": "https://github.com/sunamo/SunamoAsync",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoAttributes",
+      "repo": "https://github.com/sunamo/SunamoAttributes",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoAzureDevOpsApi",
+      "repo": "https://github.com/sunamo/SunamoAzureDevOpsApi",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoBazosCrawler",
+      "repo": "https://github.com/sunamo/SunamoBazosCrawler",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoBts",
+      "repo": "https://github.com/sunamo/SunamoBts",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoChar",
+      "repo": "https://github.com/sunamo/SunamoChar",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoTextBuilder",
+      "repo": "https://github.com/sunamo/SunamoTextBuilder",
+      "language": "C#"
+    },
+    {
+      "name": "sutailwind4",
+      "repo": "https://github.com/sunamo/sutailwind4",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SunamoWpf.Converters",
+      "repo": "https://github.com/sunamo/SunamoWpf.Converters",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoWpf.AwesomeFont",
+      "repo": "https://github.com/sunamo/SunamoWpf.AwesomeFont",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoSolutionsIndexer",
+      "repo": "https://github.com/sunamo/SunamoSolutionsIndexer",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoMsBuild",
+      "repo": "https://github.com/sunamo/SunamoMsBuild",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDevCodeFileFormats",
+      "repo": "https://github.com/sunamo/SunamoDevCodeFileFormats",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDevCodeCore",
+      "repo": "https://github.com/sunamo/SunamoDevCodeCore",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoDevCodeBase",
+      "repo": "https://github.com/sunamo/SunamoDevCodeBase",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoCSharp",
+      "repo": "https://github.com/sunamo/SunamoCSharp",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoCodeGenerator",
+      "repo": "https://github.com/sunamo/SunamoCodeGenerator",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoAps",
+      "repo": "https://github.com/sunamo/SunamoAps",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoData",
+      "repo": "https://github.com/sunamo/SunamoData",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoStringSubstring",
+      "repo": "https://github.com/sunamo/SunamoStringSubstring",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoHtml",
+      "repo": "https://github.com/sunamo/SunamoHtml",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoHelpers",
+      "repo": "https://github.com/sunamo/SunamoHelpers",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoStreams",
+      "repo": "https://github.com/sunamo/SunamoStreams",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoStorage",
+      "repo": "https://github.com/sunamo/SunamoStorage",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoSharedMisc",
+      "repo": "https://github.com/sunamo/SunamoSharedMisc",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoSE",
+      "repo": "https://github.com/sunamo/SunamoSE",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoRL",
+      "repo": "https://github.com/sunamo/SunamoRL",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoLazy",
+      "repo": "https://github.com/sunamo/SunamoLazy",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoGeo",
+      "repo": "https://github.com/sunamo/SunamoGeo",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoGenerators",
+      "repo": "https://github.com/sunamo/SunamoGenerators",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoEssential",
+      "repo": "https://github.com/sunamo/SunamoEssential",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoEntity",
+      "repo": "https://github.com/sunamo/SunamoEntity",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoCryptAlgorithms",
+      "repo": "https://github.com/sunamo/SunamoCryptAlgorithms",
+      "language": "C#"
+    },
+    {
+      "name": "ai-prompt-detector-2",
+      "repo": "https://github.com/sunamo/ai-prompt-detector-2",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-prompt-detector",
+      "repo": "https://github.com/sunamo/ai-prompt-detector",
+      "language": "TypeScript"
+    },
+    {
+      "name": "SunamoYouTube",
+      "repo": "https://github.com/sunamo/SunamoYouTube",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoYaml",
+      "repo": "https://github.com/sunamo/SunamoYaml",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoXliffParser",
+      "repo": "https://github.com/sunamo/SunamoXliffParser",
+      "language": "C#"
+    },
+    {
+      "name": "SunamoXlfKeys",
+      "repo": "https://github.com/sunamo/SunamoXlfKeys",
+      "language": "C#"
+    }
+  ]
+}

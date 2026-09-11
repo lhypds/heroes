@@ -1,0 +1,502 @@
+{
+  "handle": "certik",
+  "name": "Ondřej Čertík",
+  "github": [
+    "https://github.com/certik"
+  ],
+  "website": "https://ondrejcertik.com/",
+  "bio": "The original author of the @sympy and @symengine libraries and the @lfortran and LPython (@lcompilers) compilers. Co-founder of the @fortran-lang organization",
+  "own_repos": 204,
+  "commits": 11185,
+  "apps": [],
+  "repos": [
+    {
+      "name": "slabikar-otf",
+      "repo": "https://github.com/certik/slabikar-otf",
+      "url": "https://certik.github.io/slabikar-otf/",
+      "language": "Python"
+    },
+    {
+      "name": "qed",
+      "repo": "https://github.com/certik/qed",
+      "url": "https://certik.github.io/qed/",
+      "language": "Assembly"
+    },
+    {
+      "name": "mlir",
+      "repo": "https://github.com/certik/mlir",
+      "language": "C"
+    },
+    {
+      "name": "xfoil",
+      "repo": "https://github.com/certik/xfoil",
+      "language": "Fortran"
+    },
+    {
+      "name": "petaca",
+      "repo": "https://github.com/certik/petaca",
+      "language": "Fortran"
+    },
+    {
+      "name": "test_wasm",
+      "repo": "https://github.com/certik/test_wasm",
+      "language": "C++"
+    },
+    {
+      "name": "wasi",
+      "repo": "https://github.com/certik/wasi",
+      "language": "C"
+    },
+    {
+      "name": "theoretical-physics",
+      "repo": "https://github.com/certik/theoretical-physics",
+      "url": "https://theoretical-physics.com",
+      "language": "Python"
+    },
+    {
+      "name": "ondrejcertikcom",
+      "repo": "https://github.com/certik/ondrejcertikcom",
+      "url": "https://www.ondrejcertik.com/"
+    },
+    {
+      "name": "zweb",
+      "repo": "https://github.com/certik/zweb"
+    },
+    {
+      "name": "python_mandelbrot",
+      "repo": "https://github.com/certik/python_mandelbrot",
+      "language": "Python"
+    },
+    {
+      "name": "mlc",
+      "repo": "https://github.com/certik/mlc",
+      "language": "C"
+    },
+    {
+      "name": "tfc-deploy",
+      "repo": "https://github.com/certik/tfc-deploy",
+      "url": "https://theoretical-physics.com/"
+    },
+    {
+      "name": "ustr",
+      "repo": "https://github.com/certik/ustr",
+      "language": "C"
+    },
+    {
+      "name": "minpack",
+      "repo": "https://github.com/certik/minpack",
+      "language": "Fortran"
+    },
+    {
+      "name": "slabikar",
+      "repo": "https://github.com/certik/slabikar",
+      "language": "TeX"
+    },
+    {
+      "name": "piu-piu-sandbox",
+      "repo": "https://github.com/certik/piu-piu-sandbox"
+    },
+    {
+      "name": "spd_notebook",
+      "repo": "https://github.com/certik/spd_notebook",
+      "language": "Python"
+    },
+    {
+      "name": "wg5_platform_2020",
+      "repo": "https://github.com/certik/wg5_platform_2020"
+    },
+    {
+      "name": "nasm",
+      "repo": "https://github.com/certik/nasm",
+      "language": "Assembly"
+    },
+    {
+      "name": "SymbolicCpp",
+      "repo": "https://github.com/certik/SymbolicCpp",
+      "language": "C++"
+    },
+    {
+      "name": "pyAutoCtype",
+      "repo": "https://github.com/certik/pyAutoCtype",
+      "language": "Fortran"
+    },
+    {
+      "name": "tfc-testing",
+      "repo": "https://github.com/certik/tfc-testing",
+      "url": "https://certik.github.io/tfc-testing/"
+    },
+    {
+      "name": "tfn-deploy",
+      "repo": "https://github.com/certik/tfn-deploy",
+      "url": "https://www.theoretical-physics.net",
+      "language": "HTML"
+    },
+    {
+      "name": "scipy-2016-symengine-talk",
+      "repo": "https://github.com/certik/scipy-2016-symengine-talk",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "truchas-release",
+      "repo": "https://github.com/certik/truchas-release",
+      "language": "Fortran"
+    },
+    {
+      "name": "nwcc",
+      "repo": "https://github.com/certik/nwcc",
+      "language": "C"
+    },
+    {
+      "name": "neatlibc",
+      "repo": "https://github.com/certik/neatlibc",
+      "language": "C"
+    },
+    {
+      "name": "neatcc",
+      "repo": "https://github.com/certik/neatcc",
+      "language": "C"
+    },
+    {
+      "name": "nektar",
+      "repo": "https://github.com/certik/nektar",
+      "language": "C++"
+    },
+    {
+      "name": "openconnect",
+      "repo": "https://github.com/certik/openconnect",
+      "language": "C"
+    },
+    {
+      "name": "trilinos",
+      "repo": "https://github.com/certik/trilinos",
+      "language": "C++"
+    },
+    {
+      "name": "spdproject",
+      "repo": "https://github.com/certik/spdproject"
+    },
+    {
+      "name": "pyqm",
+      "repo": "https://github.com/certik/pyqm"
+    },
+    {
+      "name": "prettydoc",
+      "repo": "https://github.com/certik/prettydoc"
+    },
+    {
+      "name": "uuid",
+      "repo": "https://github.com/certik/uuid",
+      "language": "C"
+    },
+    {
+      "name": "yaml-cpp",
+      "repo": "https://github.com/certik/yaml-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "yaml-cpp.emitter-refactor",
+      "repo": "https://github.com/certik/yaml-cpp.emitter-refactor",
+      "language": "C++"
+    },
+    {
+      "name": "yaml-cpp.new-api",
+      "repo": "https://github.com/certik/yaml-cpp.new-api",
+      "language": "C++"
+    },
+    {
+      "name": "yaml-cpp.old-api",
+      "repo": "https://github.com/certik/yaml-cpp.old-api",
+      "language": "C++"
+    },
+    {
+      "name": "yaml-cpp.core",
+      "repo": "https://github.com/certik/yaml-cpp.core",
+      "language": "C++"
+    },
+    {
+      "name": "q-e",
+      "repo": "https://github.com/certik/q-e",
+      "language": "Fortran"
+    },
+    {
+      "name": "shootout-n-body",
+      "repo": "https://github.com/certik/shootout-n-body",
+      "language": "C"
+    },
+    {
+      "name": "scipy-in-13",
+      "repo": "https://github.com/certik/scipy-in-13"
+    },
+    {
+      "name": "talk-scipy-india2013",
+      "repo": "https://github.com/certik/talk-scipy-india2013"
+    },
+    {
+      "name": "scipy-in-13-numpy",
+      "repo": "https://github.com/certik/scipy-in-13-numpy"
+    },
+    {
+      "name": "scipy-2013-tutorial",
+      "repo": "https://github.com/certik/scipy-2013-tutorial",
+      "language": "Python"
+    },
+    {
+      "name": "phd_thesis",
+      "repo": "https://github.com/certik/phd_thesis",
+      "language": "Python"
+    },
+    {
+      "name": "numpy-vendor",
+      "repo": "https://github.com/certik/numpy-vendor",
+      "language": "Shell"
+    },
+    {
+      "name": "sphinx",
+      "repo": "https://github.com/certik/sphinx",
+      "url": "https://bitbucket.org/birkenfeld/sphinx/",
+      "language": "Python"
+    },
+    {
+      "name": "sphinx-jax",
+      "repo": "https://github.com/certik/sphinx-jax",
+      "language": "Python"
+    },
+    {
+      "name": "virtualenv",
+      "repo": "https://github.com/certik/virtualenv",
+      "language": "Python"
+    },
+    {
+      "name": "python-2.7",
+      "repo": "https://github.com/certik/python-2.7",
+      "language": "Python"
+    },
+    {
+      "name": "python-3.2",
+      "repo": "https://github.com/certik/python-3.2",
+      "language": "Python"
+    },
+    {
+      "name": "python-3.3",
+      "repo": "https://github.com/certik/python-3.3",
+      "language": "Python"
+    },
+    {
+      "name": "vagrant-jenkins",
+      "repo": "https://github.com/certik/vagrant-jenkins",
+      "language": "Ruby"
+    },
+    {
+      "name": "sympyx",
+      "repo": "https://github.com/certik/sympyx",
+      "language": "Python"
+    },
+    {
+      "name": "spectral_norm",
+      "repo": "https://github.com/certik/spectral_norm",
+      "language": "C++"
+    },
+    {
+      "name": "numpy-fortran",
+      "repo": "https://github.com/certik/numpy-fortran",
+      "language": "Fortran"
+    },
+    {
+      "name": "shootout",
+      "repo": "https://github.com/certik/shootout",
+      "language": "C++"
+    },
+    {
+      "name": "restrict",
+      "repo": "https://github.com/certik/restrict",
+      "language": "C"
+    },
+    {
+      "name": "oscas-sympy",
+      "repo": "https://github.com/certik/oscas-sympy"
+    },
+    {
+      "name": "record",
+      "repo": "https://github.com/certik/record",
+      "language": "C"
+    },
+    {
+      "name": "stacktrace",
+      "repo": "https://github.com/certik/stacktrace",
+      "language": "C++"
+    },
+    {
+      "name": "sundials",
+      "repo": "https://github.com/certik/sundials",
+      "url": "https://computation.llnl.gov/casc/sundials/main.html",
+      "language": "C"
+    },
+    {
+      "name": "semicond",
+      "repo": "https://github.com/certik/semicond",
+      "language": "Python"
+    },
+    {
+      "name": "spilka-hooks",
+      "repo": "https://github.com/certik/spilka-hooks",
+      "language": "Shell"
+    },
+    {
+      "name": "ocertik_cz",
+      "repo": "https://github.com/certik/ocertik_cz"
+    },
+    {
+      "name": "n2n",
+      "repo": "https://github.com/certik/n2n",
+      "language": "C"
+    },
+    {
+      "name": "rcp",
+      "repo": "https://github.com/certik/rcp",
+      "language": "C++"
+    },
+    {
+      "name": "PuDB",
+      "repo": "https://github.com/certik/PuDB",
+      "language": "Python"
+    },
+    {
+      "name": "unr-web",
+      "repo": "https://github.com/certik/unr-web"
+    },
+    {
+      "name": "v8",
+      "repo": "https://github.com/certik/v8",
+      "language": "C++"
+    },
+    {
+      "name": "test3",
+      "repo": "https://github.com/certik/test3",
+      "language": "Python"
+    },
+    {
+      "name": "pyvascript",
+      "repo": "https://github.com/certik/pyvascript",
+      "language": "Python"
+    },
+    {
+      "name": "mesheditor",
+      "repo": "https://github.com/certik/mesheditor",
+      "language": "ActionScript"
+    },
+    {
+      "name": "pyjamas",
+      "repo": "https://github.com/certik/pyjamas",
+      "language": "Python"
+    },
+    {
+      "name": "schroedinger",
+      "repo": "https://github.com/certik/schroedinger",
+      "language": "Python"
+    },
+    {
+      "name": "pyquante",
+      "repo": "https://github.com/certik/pyquante",
+      "language": "Python"
+    },
+    {
+      "name": "python-theora",
+      "repo": "https://github.com/certik/python-theora",
+      "language": "Python"
+    },
+    {
+      "name": "segfault",
+      "repo": "https://github.com/certik/segfault",
+      "language": "Python"
+    },
+    {
+      "name": "qft",
+      "repo": "https://github.com/certik/qft",
+      "language": "Python"
+    },
+    {
+      "name": "scipy09-tutorial",
+      "repo": "https://github.com/certik/scipy09-tutorial",
+      "language": "Python"
+    },
+    {
+      "name": "osmesa",
+      "repo": "https://github.com/certik/osmesa",
+      "language": "C"
+    },
+    {
+      "name": "mhd-hermes",
+      "repo": "https://github.com/certik/mhd-hermes",
+      "language": "Python"
+    },
+    {
+      "name": "notebook",
+      "repo": "https://github.com/certik/notebook",
+      "language": "JavaScript"
+    },
+    {
+      "name": "webhooks",
+      "repo": "https://github.com/certik/webhooks",
+      "language": "Python"
+    },
+    {
+      "name": "visit_writer",
+      "repo": "https://github.com/certik/visit_writer",
+      "language": "C"
+    },
+    {
+      "name": "mhd",
+      "repo": "https://github.com/certik/mhd",
+      "language": "Python"
+    },
+    {
+      "name": "spd",
+      "repo": "https://github.com/certik/spd",
+      "language": "Python"
+    },
+    {
+      "name": "scikits.gpu",
+      "repo": "https://github.com/certik/scikits.gpu",
+      "language": "Python"
+    },
+    {
+      "name": "sage_scripts",
+      "repo": "https://github.com/certik/sage_scripts"
+    },
+    {
+      "name": "sysconf",
+      "repo": "https://github.com/certik/sysconf",
+      "language": "C"
+    },
+    {
+      "name": "openmx",
+      "repo": "https://github.com/certik/openmx",
+      "language": "C"
+    },
+    {
+      "name": "qsnake_packages",
+      "repo": "https://github.com/certik/qsnake_packages"
+    },
+    {
+      "name": "paraview",
+      "repo": "https://github.com/certik/paraview"
+    },
+    {
+      "name": "sfepy",
+      "repo": "https://github.com/certik/sfepy"
+    },
+    {
+      "name": "sympy-oldcore",
+      "repo": "https://github.com/certik/sympy-oldcore"
+    },
+    {
+      "name": "python2.6",
+      "repo": "https://github.com/certik/python2.6"
+    },
+    {
+      "name": "patchrobot",
+      "repo": "https://github.com/certik/patchrobot",
+      "language": "Python"
+    }
+  ]
+}

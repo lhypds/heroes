@@ -1,0 +1,524 @@
+{
+  "handle": "sagikazarmark",
+  "name": "Márk Sági-Kazár",
+  "github": [
+    "https://github.com/sagikazarmark"
+  ],
+  "website": "https://sagikazarmark.com/",
+  "bio": "Open Source enthusiast, Go & Cloud Native fan. @cncf Ambassador. Speaker, tech content creator. @dagger Commander",
+  "own_repos": 242,
+  "commits": 11135,
+  "apps": [],
+  "repos": [
+    {
+      "name": "schemaform",
+      "repo": "https://github.com/sagikazarmark/schemaform",
+      "url": "https://schemaform-demo.dioxus.cc",
+      "language": "Rust"
+    },
+    {
+      "name": "dioform",
+      "repo": "https://github.com/sagikazarmark/dioform",
+      "url": "https://form-demo.dioxus.cc",
+      "language": "Rust"
+    },
+    {
+      "name": "livekit-browser-rs",
+      "repo": "https://github.com/sagikazarmark/livekit-browser-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "dioxus-clerk",
+      "repo": "https://github.com/sagikazarmark/dioxus-clerk",
+      "url": "https://clerk-demo.dioxus.cc",
+      "language": "Rust"
+    },
+    {
+      "name": "diotypst",
+      "repo": "https://github.com/sagikazarmark/diotypst",
+      "url": "https://typst-demo.dioxus.cc",
+      "language": "Rust"
+    },
+    {
+      "name": "szamlazz-rs",
+      "repo": "https://github.com/sagikazarmark/szamlazz-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "daggerverse-beta",
+      "repo": "https://github.com/sagikazarmark/daggerverse-beta",
+      "language": "Shell"
+    },
+    {
+      "name": "restate-e2e-harness",
+      "repo": "https://github.com/sagikazarmark/restate-e2e-harness",
+      "language": "Rust"
+    },
+    {
+      "name": "dependaboard.orig",
+      "repo": "https://github.com/sagikazarmark/dependaboard.orig",
+      "language": "Rust"
+    },
+    {
+      "name": "observable-cafe",
+      "repo": "https://github.com/sagikazarmark/observable-cafe",
+      "language": "Rust"
+    },
+    {
+      "name": "octoevents",
+      "repo": "https://github.com/sagikazarmark/octoevents",
+      "language": "Rust"
+    },
+    {
+      "name": "dioxus-daisyui-components",
+      "repo": "https://github.com/sagikazarmark/dioxus-daisyui-components",
+      "url": "https://daisyui-components.dioxus.cc",
+      "language": "Rust"
+    },
+    {
+      "name": "nix-config",
+      "repo": "https://github.com/sagikazarmark/nix-config",
+      "language": "Nix"
+    },
+    {
+      "name": "email-rs",
+      "repo": "https://github.com/sagikazarmark/email-rs",
+      "url": "https://email-rs.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "dioxus-registry-preview",
+      "repo": "https://github.com/sagikazarmark/dioxus-registry-preview",
+      "language": "Rust"
+    },
+    {
+      "name": "pretix-webhook",
+      "repo": "https://github.com/sagikazarmark/pretix-webhook",
+      "language": "Rust"
+    },
+    {
+      "name": "tus-rs",
+      "repo": "https://github.com/sagikazarmark/tus-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-cron",
+      "repo": "https://github.com/sagikazarmark/restate-cron",
+      "language": "Rust"
+    },
+    {
+      "name": "typst-pack",
+      "repo": "https://github.com/sagikazarmark/typst-pack",
+      "language": "Rust"
+    },
+    {
+      "name": "acp-inspector",
+      "repo": "https://github.com/sagikazarmark/acp-inspector",
+      "language": "Rust"
+    },
+    {
+      "name": "anyllm",
+      "repo": "https://github.com/sagikazarmark/anyllm",
+      "language": "Rust"
+    },
+    {
+      "name": "es3",
+      "repo": "https://github.com/sagikazarmark/es3",
+      "url": "https://sagikazarmark.github.io/es3/",
+      "language": "Rust"
+    },
+    {
+      "name": "dioxus-field",
+      "repo": "https://github.com/sagikazarmark/dioxus-field",
+      "language": "Rust"
+    },
+    {
+      "name": "jwk-simple",
+      "repo": "https://github.com/sagikazarmark/jwk-simple",
+      "language": "Rust"
+    },
+    {
+      "name": "cryptbox",
+      "repo": "https://github.com/sagikazarmark/cryptbox",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-yt-transcript",
+      "repo": "https://github.com/sagikazarmark/restate-yt-transcript",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-ffmpeg",
+      "repo": "https://github.com/sagikazarmark/restate-ffmpeg",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-examples",
+      "repo": "https://github.com/sagikazarmark/restate-examples",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-opendal",
+      "repo": "https://github.com/sagikazarmark/restate-opendal",
+      "language": "Rust"
+    },
+    {
+      "name": "opendal-copy",
+      "repo": "https://github.com/sagikazarmark/opendal-copy",
+      "language": "Rust"
+    },
+    {
+      "name": "dioxus-audio",
+      "repo": "https://github.com/sagikazarmark/dioxus-audio",
+      "url": "https://audio-demo.dioxus.cc",
+      "language": "Rust"
+    },
+    {
+      "name": "dioxus-registry-template",
+      "repo": "https://github.com/sagikazarmark/dioxus-registry-template",
+      "language": "Rust"
+    },
+    {
+      "name": "devenv-extras",
+      "repo": "https://github.com/sagikazarmark/devenv-extras",
+      "language": "Nix"
+    },
+    {
+      "name": "opendal-util",
+      "repo": "https://github.com/sagikazarmark/opendal-util",
+      "url": "https://opendal.apache.org/",
+      "language": "Rust"
+    },
+    {
+      "name": "nix-pkg-cache",
+      "repo": "https://github.com/sagikazarmark/nix-pkg-cache"
+    },
+    {
+      "name": "cargo-artifacts",
+      "repo": "https://github.com/sagikazarmark/cargo-artifacts",
+      "language": "Rust"
+    },
+    {
+      "name": "nix-docker-bake",
+      "repo": "https://github.com/sagikazarmark/nix-docker-bake",
+      "language": "Nix"
+    },
+    {
+      "name": "iximiuz-labs-base",
+      "repo": "https://github.com/sagikazarmark/iximiuz-labs-base",
+      "language": "Shell"
+    },
+    {
+      "name": "niximiuz",
+      "repo": "https://github.com/sagikazarmark/niximiuz",
+      "language": "Nix"
+    },
+    {
+      "name": "danglib",
+      "repo": "https://github.com/sagikazarmark/danglib",
+      "language": "Nix"
+    },
+    {
+      "name": "dangpkg",
+      "repo": "https://github.com/sagikazarmark/dangpkg",
+      "language": "Nix"
+    },
+    {
+      "name": "kustomize-architect",
+      "repo": "https://github.com/sagikazarmark/kustomize-architect"
+    },
+    {
+      "name": "daggerverse",
+      "repo": "https://github.com/sagikazarmark/daggerverse",
+      "url": "https://daggerverse.dev/search?author=sagikazarmark",
+      "language": "Go"
+    },
+    {
+      "name": "doctpls.orig",
+      "repo": "https://github.com/sagikazarmark/doctpls.orig",
+      "language": "Rust"
+    },
+    {
+      "name": "tus-conformance-tests",
+      "repo": "https://github.com/sagikazarmark/tus-conformance-tests",
+      "language": "Hurl"
+    },
+    {
+      "name": "devenv-templates",
+      "repo": "https://github.com/sagikazarmark/devenv-templates",
+      "language": "Nix"
+    },
+    {
+      "name": "devenv-agents",
+      "repo": "https://github.com/sagikazarmark/devenv-agents",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-excalirender",
+      "repo": "https://github.com/sagikazarmark/nix-excalirender",
+      "language": "Nix"
+    },
+    {
+      "name": "bhdump",
+      "repo": "https://github.com/sagikazarmark/bhdump",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-yt-dlp",
+      "repo": "https://github.com/sagikazarmark/restate-yt-dlp",
+      "language": "Python"
+    },
+    {
+      "name": "labx",
+      "repo": "https://github.com/sagikazarmark/labx",
+      "language": "Go"
+    },
+    {
+      "name": "replayr",
+      "repo": "https://github.com/sagikazarmark/replayr",
+      "language": "Rust"
+    },
+    {
+      "name": "labts",
+      "repo": "https://github.com/sagikazarmark/labts",
+      "language": "Go"
+    },
+    {
+      "name": "caddy-fs-s3",
+      "repo": "https://github.com/sagikazarmark/caddy-fs-s3",
+      "url": "https://caddyserver.com/docs/modules/caddy.fs.s3",
+      "language": "Go"
+    },
+    {
+      "name": "restate-deepgram",
+      "repo": "https://github.com/sagikazarmark/restate-deepgram",
+      "language": "Python"
+    },
+    {
+      "name": "restate-elevenlabs",
+      "repo": "https://github.com/sagikazarmark/restate-elevenlabs",
+      "language": "Python"
+    },
+    {
+      "name": "restate-worker",
+      "repo": "https://github.com/sagikazarmark/restate-worker",
+      "language": "Rust"
+    },
+    {
+      "name": "dagger-restate-sdk-test-suite",
+      "repo": "https://github.com/sagikazarmark/dagger-restate-sdk-test-suite",
+      "language": "Nix"
+    },
+    {
+      "name": "agentic-coding-demo",
+      "repo": "https://github.com/sagikazarmark/agentic-coding-demo",
+      "language": "Nix"
+    },
+    {
+      "name": "evalkit.orig",
+      "repo": "https://github.com/sagikazarmark/evalkit.orig",
+      "language": "Rust"
+    },
+    {
+      "name": "locafero",
+      "repo": "https://github.com/sagikazarmark/locafero",
+      "language": "Go"
+    },
+    {
+      "name": "caddy-k8s-admission",
+      "repo": "https://github.com/sagikazarmark/caddy-k8s-admission",
+      "language": "Go"
+    },
+    {
+      "name": "agent-swarm",
+      "repo": "https://github.com/sagikazarmark/agent-swarm",
+      "language": "Shell"
+    },
+    {
+      "name": "etcd-explorer",
+      "repo": "https://github.com/sagikazarmark/etcd-explorer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "template-iximiuz-labs-content",
+      "repo": "https://github.com/sagikazarmark/template-iximiuz-labs-content",
+      "language": "Just"
+    },
+    {
+      "name": "dagger-version-action",
+      "repo": "https://github.com/sagikazarmark/dagger-version-action",
+      "language": "JavaScript"
+    },
+    {
+      "name": "workstate",
+      "repo": "https://github.com/sagikazarmark/workstate",
+      "language": "Python"
+    },
+    {
+      "name": "worker-build",
+      "repo": "https://github.com/sagikazarmark/worker-build",
+      "language": "Nix"
+    },
+    {
+      "name": "restate-pydub",
+      "repo": "https://github.com/sagikazarmark/restate-pydub",
+      "language": "Python"
+    },
+    {
+      "name": "restate-obstore",
+      "repo": "https://github.com/sagikazarmark/restate-obstore",
+      "language": "Python"
+    },
+    {
+      "name": "restate-youtube",
+      "repo": "https://github.com/sagikazarmark/restate-youtube",
+      "language": "Python"
+    },
+    {
+      "name": "youtube-fetch",
+      "repo": "https://github.com/sagikazarmark/youtube-fetch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pydantic-obstore",
+      "repo": "https://github.com/sagikazarmark/pydantic-obstore",
+      "language": "Python"
+    },
+    {
+      "name": "octoslash",
+      "repo": "https://github.com/sagikazarmark/octoslash",
+      "language": "Go"
+    },
+    {
+      "name": "kitx",
+      "repo": "https://github.com/sagikazarmark/kitx",
+      "language": "Go"
+    },
+    {
+      "name": "appkit",
+      "repo": "https://github.com/sagikazarmark/appkit",
+      "language": "Go"
+    },
+    {
+      "name": "pydantic-restate",
+      "repo": "https://github.com/sagikazarmark/pydantic-restate",
+      "language": "Python"
+    },
+    {
+      "name": "poc-restate-cloudflare-worker",
+      "repo": "https://github.com/sagikazarmark/poc-restate-cloudflare-worker",
+      "language": "Rust"
+    },
+    {
+      "name": "dagx",
+      "repo": "https://github.com/sagikazarmark/dagx",
+      "language": "Go"
+    },
+    {
+      "name": "demo-iximiuz-dagger-helm",
+      "repo": "https://github.com/sagikazarmark/demo-iximiuz-dagger-helm",
+      "url": "https://labs.iximiuz.com/tutorials/testing-and-releasing-helm-charts-with-dagger-4dcb152e",
+      "language": "Smarty"
+    },
+    {
+      "name": "octoslash-action",
+      "repo": "https://github.com/sagikazarmark/octoslash-action",
+      "language": "Just"
+    },
+    {
+      "name": "archive-file-transfer-service",
+      "repo": "https://github.com/sagikazarmark/archive-file-transfer-service",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-downloader",
+      "repo": "https://github.com/sagikazarmark/restate-downloader",
+      "language": "Rust"
+    },
+    {
+      "name": "restate-pyannote-audio",
+      "repo": "https://github.com/sagikazarmark/restate-pyannote-audio",
+      "language": "Python"
+    },
+    {
+      "name": "benthos-qrcode",
+      "repo": "https://github.com/sagikazarmark/benthos-qrcode",
+      "language": "Go"
+    },
+    {
+      "name": "go-module-dependency-test",
+      "repo": "https://github.com/sagikazarmark/go-module-dependency-test",
+      "language": "Go"
+    },
+    {
+      "name": "nur-packages",
+      "repo": "https://github.com/sagikazarmark/nur-packages",
+      "language": "Nix"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/sagikazarmark/.github"
+    },
+    {
+      "name": "go-option",
+      "repo": "https://github.com/sagikazarmark/go-option",
+      "language": "Go"
+    },
+    {
+      "name": "template-tutorial-dagger-gha",
+      "repo": "https://github.com/sagikazarmark/template-tutorial-dagger-gha",
+      "url": "https://labs.iximiuz.com/tutorials/running-dagger-pipelines-on-github-actions-3ce5f37d",
+      "language": "Go"
+    },
+    {
+      "name": "seq",
+      "repo": "https://github.com/sagikazarmark/seq",
+      "language": "Go"
+    },
+    {
+      "name": "yt-dlp-restate",
+      "repo": "https://github.com/sagikazarmark/yt-dlp-restate",
+      "language": "Python"
+    },
+    {
+      "name": "go-github-fs",
+      "repo": "https://github.com/sagikazarmark/go-github-fs",
+      "language": "Go"
+    },
+    {
+      "name": "go-finder",
+      "repo": "https://github.com/sagikazarmark/go-finder",
+      "language": "Go"
+    },
+    {
+      "name": "comfyui-cuda-image",
+      "repo": "https://github.com/sagikazarmark/comfyui-cuda-image",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "issue-close-test",
+      "repo": "https://github.com/sagikazarmark/issue-close-test",
+      "language": "Go"
+    },
+    {
+      "name": "slides.sagikazarmark.hu",
+      "repo": "https://github.com/sagikazarmark/slides.sagikazarmark.hu",
+      "url": "https://slides.sagikazarmark.hu",
+      "language": "JavaScript"
+    },
+    {
+      "name": "demo-kcd-warsaw",
+      "repo": "https://github.com/sagikazarmark/demo-kcd-warsaw",
+      "language": "Nix"
+    },
+    {
+      "name": "octoslash-demo",
+      "repo": "https://github.com/sagikazarmark/octoslash-demo"
+    },
+    {
+      "name": "gorefactor",
+      "repo": "https://github.com/sagikazarmark/gorefactor",
+      "language": "Go"
+    }
+  ]
+}

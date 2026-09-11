@@ -1,0 +1,512 @@
+{
+  "handle": "mah0x211",
+  "name": "Masatoshi Fukunaga",
+  "github": [
+    "https://github.com/mah0x211"
+  ],
+  "website": "https://mah0x211.github.io/blog/",
+  "own_repos": 280,
+  "commits": 11620,
+  "apps": [],
+  "repos": [
+    {
+      "name": "lua-testcase",
+      "repo": "https://github.com/mah0x211/lua-testcase",
+      "language": "Lua"
+    },
+    {
+      "name": "hwire",
+      "repo": "https://github.com/mah0x211/hwire",
+      "language": "C"
+    },
+    {
+      "name": "lua-reflow",
+      "repo": "https://github.com/mah0x211/lua-reflow",
+      "language": "C"
+    },
+    {
+      "name": "lua-net",
+      "repo": "https://github.com/mah0x211/lua-net",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-configh",
+      "repo": "https://github.com/mah0x211/lua-configh",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-sync",
+      "repo": "https://github.com/mah0x211/lua-sync",
+      "language": "C"
+    },
+    {
+      "name": "lua-io-write",
+      "repo": "https://github.com/mah0x211/lua-io-write",
+      "language": "Lua"
+    },
+    {
+      "name": "reflow.js",
+      "repo": "https://github.com/mah0x211/reflow.js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "lua-tostring",
+      "repo": "https://github.com/mah0x211/lua-tostring",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-tointeger",
+      "repo": "https://github.com/mah0x211/lua-tointeger",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-string-natcmp",
+      "repo": "https://github.com/mah0x211/lua-string-natcmp",
+      "language": "C"
+    },
+    {
+      "name": "utf8clen",
+      "repo": "https://github.com/mah0x211/utf8clen",
+      "language": "C"
+    },
+    {
+      "name": "lua-string-format",
+      "repo": "https://github.com/mah0x211/lua-string-format",
+      "language": "C"
+    },
+    {
+      "name": "lua-rfcvalid",
+      "repo": "https://github.com/mah0x211/lua-rfcvalid",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-rez",
+      "repo": "https://github.com/mah0x211/lua-rez",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-ref",
+      "repo": "https://github.com/mah0x211/lua-ref",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-reco",
+      "repo": "https://github.com/mah0x211/lua-reco",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-picohttpparser",
+      "repo": "https://github.com/mah0x211/lua-picohttpparser",
+      "language": "C"
+    },
+    {
+      "name": "lua-nosigpipe",
+      "repo": "https://github.com/mah0x211/lua-nosigpipe",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-memlimit",
+      "repo": "https://github.com/mah0x211/lua-memlimit",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-ci",
+      "repo": "https://github.com/mah0x211/lua-ci",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "lua-newstate",
+      "repo": "https://github.com/mah0x211/lua-newstate",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-libmagic",
+      "repo": "https://github.com/mah0x211/lua-libmagic",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-kqueue",
+      "repo": "https://github.com/mah0x211/lua-kqueue",
+      "language": "C"
+    },
+    {
+      "name": "lua-hex",
+      "repo": "https://github.com/mah0x211/lua-hex",
+      "language": "C"
+    },
+    {
+      "name": "lua-getenv",
+      "repo": "https://github.com/mah0x211/lua-getenv",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-truncate",
+      "repo": "https://github.com/mah0x211/lua-io-truncate",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-isfile",
+      "repo": "https://github.com/mah0x211/lua-io-isfile",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-getpid",
+      "repo": "https://github.com/mah0x211/lua-getpid",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-gcfn",
+      "repo": "https://github.com/mah0x211/lua-gcfn",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-exit",
+      "repo": "https://github.com/mah0x211/lua-exit",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-bitvec",
+      "repo": "https://github.com/mah0x211/lua-bitvec",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-assert",
+      "repo": "https://github.com/mah0x211/lua-assert",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-act",
+      "repo": "https://github.com/mah0x211/lua-act",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-yyjson",
+      "repo": "https://github.com/mah0x211/lua-yyjson",
+      "language": "C"
+    },
+    {
+      "name": "lua-waitpid",
+      "repo": "https://github.com/mah0x211/lua-waitpid",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-url",
+      "repo": "https://github.com/mah0x211/lua-url",
+      "language": "C"
+    },
+    {
+      "name": "lua-resp",
+      "repo": "https://github.com/mah0x211/lua-resp",
+      "language": "C"
+    },
+    {
+      "name": "lua-postgres-decode",
+      "repo": "https://github.com/mah0x211/lua-postgres-decode",
+      "language": "C"
+    },
+    {
+      "name": "lua-postgres",
+      "repo": "https://github.com/mah0x211/lua-postgres",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-ossp-uuid",
+      "repo": "https://github.com/mah0x211/lua-ossp-uuid",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-os-remove",
+      "repo": "https://github.com/mah0x211/lua-os-remove",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-net-http",
+      "repo": "https://github.com/mah0x211/lua-net-http",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-mkdtemp",
+      "repo": "https://github.com/mah0x211/lua-mkdtemp",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-mkdir",
+      "repo": "https://github.com/mah0x211/lua-mkdir",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-isa",
+      "repo": "https://github.com/mah0x211/lua-isa",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-wait",
+      "repo": "https://github.com/mah0x211/lua-io-wait",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-read",
+      "repo": "https://github.com/mah0x211/lua-io-read",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-pread",
+      "repo": "https://github.com/mah0x211/lua-io-pread",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-fileno",
+      "repo": "https://github.com/mah0x211/lua-io-fileno",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-close",
+      "repo": "https://github.com/mah0x211/lua-io-close",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-hmac",
+      "repo": "https://github.com/mah0x211/lua-hmac",
+      "language": "C"
+    },
+    {
+      "name": "lua-getcwd",
+      "repo": "https://github.com/mah0x211/lua-getcwd",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-cookie",
+      "repo": "https://github.com/mah0x211/lua-cookie",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-chdir",
+      "repo": "https://github.com/mah0x211/lua-chdir",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-base32",
+      "repo": "https://github.com/mah0x211/lua-base32",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-unpack",
+      "repo": "https://github.com/mah0x211/lua-unpack",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-pcre2",
+      "repo": "https://github.com/mah0x211/lua-pcre2",
+      "language": "C"
+    },
+    {
+      "name": "lua-base64mix",
+      "repo": "https://github.com/mah0x211/lua-base64mix",
+      "language": "C"
+    },
+    {
+      "name": "lua-pthread",
+      "repo": "https://github.com/mah0x211/lua-pthread",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-llsocket",
+      "repo": "https://github.com/mah0x211/lua-llsocket",
+      "language": "C"
+    },
+    {
+      "name": "lua-exec",
+      "repo": "https://github.com/mah0x211/lua-exec",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-gpoll",
+      "repo": "https://github.com/mah0x211/lua-gpoll",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-fstat",
+      "repo": "https://github.com/mah0x211/lua-fstat",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-fopen",
+      "repo": "https://github.com/mah0x211/lua-io-fopen",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-denque",
+      "repo": "https://github.com/mah0x211/lua-denque",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-argv",
+      "repo": "https://github.com/mah0x211/lua-argv",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-error",
+      "repo": "https://github.com/mah0x211/lua-error",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-time-sleep",
+      "repo": "https://github.com/mah0x211/lua-time-sleep",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-time-clock",
+      "repo": "https://github.com/mah0x211/lua-time-clock",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-os-urandom",
+      "repo": "https://github.com/mah0x211/lua-os-urandom",
+      "language": "C"
+    },
+    {
+      "name": "lua-mkstemp",
+      "repo": "https://github.com/mah0x211/lua-mkstemp",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-fork",
+      "repo": "https://github.com/mah0x211/lua-fork",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-os-pipe",
+      "repo": "https://github.com/mah0x211/lua-os-pipe",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-realpath",
+      "repo": "https://github.com/mah0x211/lua-realpath",
+      "language": "Lua"
+    },
+    {
+      "name": "luarocks-build-hooks",
+      "repo": "https://github.com/mah0x211/luarocks-build-hooks",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-opendir",
+      "repo": "https://github.com/mah0x211/lua-opendir",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-signal",
+      "repo": "https://github.com/mah0x211/lua-signal",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-iovec",
+      "repo": "https://github.com/mah0x211/lua-iovec",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-errno",
+      "repo": "https://github.com/mah0x211/lua-errno",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-string-capitalize",
+      "repo": "https://github.com/mah0x211/lua-string-capitalize",
+      "language": "Lua"
+    },
+    {
+      "name": "lauxhlib",
+      "repo": "https://github.com/mah0x211/lauxhlib",
+      "language": "C"
+    },
+    {
+      "name": "lua-io-writer",
+      "repo": "https://github.com/mah0x211/lua-io-writer",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-io-send",
+      "repo": "https://github.com/mah0x211/lua-io-send"
+    },
+    {
+      "name": "zring",
+      "repo": "https://github.com/mah0x211/zring",
+      "language": "C"
+    },
+    {
+      "name": "lua-io-reader",
+      "repo": "https://github.com/mah0x211/lua-io-reader",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-dlopen",
+      "repo": "https://github.com/mah0x211/lua-dlopen",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-basedir",
+      "repo": "https://github.com/mah0x211/lua-basedir",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-walkdir",
+      "repo": "https://github.com/mah0x211/lua-walkdir",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-epoll",
+      "repo": "https://github.com/mah0x211/lua-epoll",
+      "language": "C"
+    },
+    {
+      "name": "lua-metamodule",
+      "repo": "https://github.com/mah0x211/lua-metamodule",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-reflex",
+      "repo": "https://github.com/mah0x211/lua-reflex",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-strie2c",
+      "repo": "https://github.com/mah0x211/lua-strie2c",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-measure",
+      "repo": "https://github.com/mah0x211/lua-measure",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-canceler",
+      "repo": "https://github.com/mah0x211/lua-canceler",
+      "language": "Lua"
+    },
+    {
+      "name": "rocks",
+      "repo": "https://github.com/mah0x211/rocks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "luarocks-module-headers.mk",
+      "repo": "https://github.com/mah0x211/luarocks-module-headers.mk",
+      "language": "Makefile"
+    },
+    {
+      "name": "claude-lua-devkit",
+      "repo": "https://github.com/mah0x211/claude-lua-devkit",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-session",
+      "repo": "https://github.com/mah0x211/lua-session",
+      "language": "Lua"
+    },
+    {
+      "name": "lua-string-random",
+      "repo": "https://github.com/mah0x211/lua-string-random",
+      "language": "Lua"
+    }
+  ]
+}

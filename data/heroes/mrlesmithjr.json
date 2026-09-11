@@ -1,0 +1,496 @@
+{
+  "handle": "mrlesmithjr",
+  "name": "Larry Smith Jr.",
+  "github": [
+    "https://github.com/mrlesmithjr"
+  ],
+  "bio": "Delivery Manager. Ansible, Kubernetes, Python, and agentic tooling. Automating things that shouldn't be manual. Open source contributor and mentor.",
+  "own_repos": 402,
+  "commits": 12221,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mcp",
+      "repo": "https://github.com/mrlesmithjr/mcp",
+      "language": "Python"
+    },
+    {
+      "name": "mem0-local-mcp",
+      "repo": "https://github.com/mrlesmithjr/mem0-local-mcp",
+      "language": "Python"
+    },
+    {
+      "name": "devops-methodologies-core",
+      "repo": "https://github.com/mrlesmithjr/devops-methodologies-core",
+      "language": "Shell"
+    },
+    {
+      "name": "vagrant-development-environments",
+      "repo": "https://github.com/mrlesmithjr/vagrant-development-environments",
+      "language": "Python"
+    },
+    {
+      "name": "shopstack",
+      "repo": "https://github.com/mrlesmithjr/shopstack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "elkstack",
+      "repo": "https://github.com/mrlesmithjr/elkstack",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-frr",
+      "repo": "https://github.com/mrlesmithjr/ansible-frr",
+      "language": "Jinja"
+    },
+    {
+      "name": "claude-context-manager",
+      "repo": "https://github.com/mrlesmithjr/claude-context-manager",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ansible-mariadb-galera-cluster",
+      "repo": "https://github.com/mrlesmithjr/ansible-mariadb-galera-cluster",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-dnsmasq",
+      "repo": "https://github.com/mrlesmithjr/ansible-dnsmasq",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-rabbitmq",
+      "repo": "https://github.com/mrlesmithjr/ansible-rabbitmq",
+      "language": "Erlang"
+    },
+    {
+      "name": "ansible-phpipam",
+      "repo": "https://github.com/mrlesmithjr/ansible-phpipam",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-letsencrypt",
+      "repo": "https://github.com/mrlesmithjr/ansible-letsencrypt"
+    },
+    {
+      "name": "ansible-keepalived",
+      "repo": "https://github.com/mrlesmithjr/ansible-keepalived",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-gitlab-runner",
+      "repo": "https://github.com/mrlesmithjr/ansible-gitlab-runner",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-etcd",
+      "repo": "https://github.com/mrlesmithjr/ansible-etcd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-motd",
+      "repo": "https://github.com/mrlesmithjr/ansible-motd",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-mongodb",
+      "repo": "https://github.com/mrlesmithjr/ansible-mongodb",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-apache2",
+      "repo": "https://github.com/mrlesmithjr/ansible-apache2",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-sshd",
+      "repo": "https://github.com/mrlesmithjr/ansible-sshd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-rsyslog",
+      "repo": "https://github.com/mrlesmithjr/ansible-rsyslog",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-apt-mirror",
+      "repo": "https://github.com/mrlesmithjr/ansible-apt-mirror",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-nginx-load-balancer",
+      "repo": "https://github.com/mrlesmithjr/ansible-nginx-load-balancer",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-prometheus-node-exporter",
+      "repo": "https://github.com/mrlesmithjr/ansible-prometheus-node-exporter",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-hashicorp-toolbox",
+      "repo": "https://github.com/mrlesmithjr/ansible-hashicorp-toolbox"
+    },
+    {
+      "name": "ansible-shorewall",
+      "repo": "https://github.com/mrlesmithjr/ansible-shorewall",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-base",
+      "repo": "https://github.com/mrlesmithjr/ansible-base",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-bind",
+      "repo": "https://github.com/mrlesmithjr/ansible-bind",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-bootstrap-python",
+      "repo": "https://github.com/mrlesmithjr/ansible-bootstrap-python"
+    },
+    {
+      "name": "ansible-cloud-init",
+      "repo": "https://github.com/mrlesmithjr/ansible-cloud-init",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-php",
+      "repo": "https://github.com/mrlesmithjr/ansible-php"
+    },
+    {
+      "name": "ansible-logstash",
+      "repo": "https://github.com/mrlesmithjr/ansible-logstash",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-postfix",
+      "repo": "https://github.com/mrlesmithjr/ansible-postfix",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-saltstack",
+      "repo": "https://github.com/mrlesmithjr/ansible-saltstack",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-nexus-repo-oss",
+      "repo": "https://github.com/mrlesmithjr/ansible-nexus-repo-oss",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-kvm",
+      "repo": "https://github.com/mrlesmithjr/ansible-kvm",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-control-machine",
+      "repo": "https://github.com/mrlesmithjr/ansible-control-machine"
+    },
+    {
+      "name": "ansible-powerdns-authoritative",
+      "repo": "https://github.com/mrlesmithjr/ansible-powerdns-authoritative",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-hashi-vault",
+      "repo": "https://github.com/mrlesmithjr/ansible-hashi-vault",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-sssd",
+      "repo": "https://github.com/mrlesmithjr/ansible-sssd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-es-apm-server",
+      "repo": "https://github.com/mrlesmithjr/ansible-es-apm-server",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-openldap",
+      "repo": "https://github.com/mrlesmithjr/ansible-openldap",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-redis",
+      "repo": "https://github.com/mrlesmithjr/ansible-redis",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-postgresql",
+      "repo": "https://github.com/mrlesmithjr/ansible-postgresql",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-prometheus",
+      "repo": "https://github.com/mrlesmithjr/ansible-prometheus",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-apt-sources",
+      "repo": "https://github.com/mrlesmithjr/ansible-apt-sources",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-avahi",
+      "repo": "https://github.com/mrlesmithjr/ansible-avahi",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-awx",
+      "repo": "https://github.com/mrlesmithjr/ansible-awx",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-consul",
+      "repo": "https://github.com/mrlesmithjr/ansible-consul",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-elasticsearch",
+      "repo": "https://github.com/mrlesmithjr/ansible-elasticsearch",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-glusterfs",
+      "repo": "https://github.com/mrlesmithjr/ansible-glusterfs",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-grafana",
+      "repo": "https://github.com/mrlesmithjr/ansible-grafana",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-haproxy",
+      "repo": "https://github.com/mrlesmithjr/ansible-haproxy",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-influxdb",
+      "repo": "https://github.com/mrlesmithjr/ansible-influxdb",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-kibana",
+      "repo": "https://github.com/mrlesmithjr/ansible-kibana",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-netbox",
+      "repo": "https://github.com/mrlesmithjr/ansible-netbox",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-maas",
+      "repo": "https://github.com/mrlesmithjr/ansible-maas"
+    },
+    {
+      "name": "ansible-nodejs",
+      "repo": "https://github.com/mrlesmithjr/ansible-nodejs"
+    },
+    {
+      "name": "ansible-netdata",
+      "repo": "https://github.com/mrlesmithjr/ansible-netdata",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-squid",
+      "repo": "https://github.com/mrlesmithjr/ansible-squid",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-guacamole",
+      "repo": "https://github.com/mrlesmithjr/ansible-guacamole",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-chrony",
+      "repo": "https://github.com/mrlesmithjr/ansible-chrony",
+      "language": "Jinja"
+    },
+    {
+      "name": "cookiecutter-ansible-role",
+      "repo": "https://github.com/mrlesmithjr/cookiecutter-ansible-role"
+    },
+    {
+      "name": "ansible-netplan",
+      "repo": "https://github.com/mrlesmithjr/ansible-netplan",
+      "language": "Shell"
+    },
+    {
+      "name": "mrlesmithjr",
+      "repo": "https://github.com/mrlesmithjr/mrlesmithjr"
+    },
+    {
+      "name": "cookiecutter-mcp-server",
+      "repo": "https://github.com/mrlesmithjr/cookiecutter-mcp-server",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-manage-lvm",
+      "repo": "https://github.com/mrlesmithjr/ansible-manage-lvm",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-blocky",
+      "repo": "https://github.com/mrlesmithjr/ansible-blocky",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-docker",
+      "repo": "https://github.com/mrlesmithjr/ansible-docker",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-users",
+      "repo": "https://github.com/mrlesmithjr/ansible-users"
+    },
+    {
+      "name": "ansible-tailscale",
+      "repo": "https://github.com/mrlesmithjr/ansible-tailscale"
+    },
+    {
+      "name": "ansible-ntfy",
+      "repo": "https://github.com/mrlesmithjr/ansible-ntfy",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-cockpit",
+      "repo": "https://github.com/mrlesmithjr/ansible-cockpit",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-wordpress",
+      "repo": "https://github.com/mrlesmithjr/ansible-wordpress",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-samba",
+      "repo": "https://github.com/mrlesmithjr/ansible-samba",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-zfs",
+      "repo": "https://github.com/mrlesmithjr/ansible-zfs",
+      "language": "Jinja"
+    },
+    {
+      "name": "packer-templates-revisited",
+      "repo": "https://github.com/mrlesmithjr/packer-templates-revisited",
+      "language": "Shell"
+    },
+    {
+      "name": "ansible-mdadm",
+      "repo": "https://github.com/mrlesmithjr/ansible-mdadm",
+      "language": "Jinja"
+    },
+    {
+      "name": "cookiecutter-ansible-collection",
+      "repo": "https://github.com/mrlesmithjr/cookiecutter-ansible-collection",
+      "language": "Shell"
+    },
+    {
+      "name": ".github",
+      "repo": "https://github.com/mrlesmithjr/.github"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/mrlesmithjr/renovate-config"
+    },
+    {
+      "name": "ansible-kea-dhcp",
+      "repo": "https://github.com/mrlesmithjr/ansible-kea-dhcp",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-opennms",
+      "repo": "https://github.com/mrlesmithjr/ansible-opennms",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-nfs-server",
+      "repo": "https://github.com/mrlesmithjr/ansible-nfs-server",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-pacemaker",
+      "repo": "https://github.com/mrlesmithjr/ansible-pacemaker",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-drbd",
+      "repo": "https://github.com/mrlesmithjr/ansible-drbd",
+      "language": "Jinja"
+    },
+    {
+      "name": "cacti",
+      "repo": "https://github.com/mrlesmithjr/cacti"
+    },
+    {
+      "name": "ansible-config-interfaces",
+      "repo": "https://github.com/mrlesmithjr/ansible-config-interfaces",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-vsphere-management",
+      "repo": "https://github.com/mrlesmithjr/ansible-vsphere-management",
+      "language": "Python"
+    },
+    {
+      "name": "ansible-rpi-k8s-cluster",
+      "repo": "https://github.com/mrlesmithjr/ansible-rpi-k8s-cluster",
+      "language": "Jinja"
+    },
+    {
+      "name": "hashi-learning",
+      "repo": "https://github.com/mrlesmithjr/hashi-learning",
+      "language": "Shell"
+    },
+    {
+      "name": "developers-workstation-setup",
+      "repo": "https://github.com/mrlesmithjr/developers-workstation-setup",
+      "language": "Shell"
+    },
+    {
+      "name": "python-gitlab-api",
+      "repo": "https://github.com/mrlesmithjr/python-gitlab-api",
+      "language": "Python"
+    },
+    {
+      "name": "python-powerdns-management",
+      "repo": "https://github.com/mrlesmithjr/python-powerdns-management",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-bashrc",
+      "repo": "https://github.com/mrlesmithjr/ansible-bashrc",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-elk-broker",
+      "repo": "https://github.com/mrlesmithjr/ansible-elk-broker"
+    },
+    {
+      "name": "ansible-elk-es",
+      "repo": "https://github.com/mrlesmithjr/ansible-elk-es"
+    },
+    {
+      "name": "ansible-owncloud",
+      "repo": "https://github.com/mrlesmithjr/ansible-owncloud",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-collectd",
+      "repo": "https://github.com/mrlesmithjr/ansible-collectd",
+      "language": "Jinja"
+    },
+    {
+      "name": "ansible-kodi",
+      "repo": "https://github.com/mrlesmithjr/ansible-kodi"
+    }
+  ]
+}

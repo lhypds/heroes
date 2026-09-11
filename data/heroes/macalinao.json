@@ -1,0 +1,520 @@
+{
+  "handle": "macalinao",
+  "name": "Ian Macalinao",
+  "github": [
+    "https://github.com/macalinao"
+  ],
+  "website": "https://ianm.com/",
+  "bio": "code monkey",
+  "own_repos": 283,
+  "commits": 11211,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/macalinao/dotfiles",
+      "url": "https://ianm.com",
+      "language": "Shell"
+    },
+    {
+      "name": "my-agent-skills",
+      "repo": "https://github.com/macalinao/my-agent-skills",
+      "language": "Nix"
+    },
+    {
+      "name": "coda",
+      "repo": "https://github.com/macalinao/coda",
+      "url": "https://coda.ianm.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "grill",
+      "repo": "https://github.com/macalinao/grill",
+      "url": "https://grill.ianm.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "additional-nix-packages",
+      "repo": "https://github.com/macalinao/additional-nix-packages",
+      "url": "https://ianm.com",
+      "language": "Nix"
+    },
+    {
+      "name": "style-guide",
+      "repo": "https://github.com/macalinao/style-guide",
+      "language": "TypeScript"
+    },
+    {
+      "name": "temporal-utils",
+      "repo": "https://github.com/macalinao/temporal-utils",
+      "url": "https://temporal.ianm.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "grove",
+      "repo": "https://github.com/macalinao/grove",
+      "language": "Rust"
+    },
+    {
+      "name": "11x",
+      "repo": "https://github.com/macalinao/11x",
+      "language": "Nix"
+    },
+    {
+      "name": "turbo2nix",
+      "repo": "https://github.com/macalinao/turbo2nix",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles-private-stub",
+      "repo": "https://github.com/macalinao/dotfiles-private-stub",
+      "language": "Nix"
+    },
+    {
+      "name": "cargo-furnish",
+      "repo": "https://github.com/macalinao/cargo-furnish",
+      "language": "Rust"
+    },
+    {
+      "name": "notifykit",
+      "repo": "https://github.com/macalinao/notifykit",
+      "language": "Rust"
+    },
+    {
+      "name": "brand",
+      "repo": "https://github.com/macalinao/brand",
+      "language": "Rust"
+    },
+    {
+      "name": "sign-agent",
+      "repo": "https://github.com/macalinao/sign-agent",
+      "language": "Rust"
+    },
+    {
+      "name": "mad",
+      "repo": "https://github.com/macalinao/mad",
+      "language": "Rust"
+    },
+    {
+      "name": "claude-plugins",
+      "repo": "https://github.com/macalinao/claude-plugins",
+      "language": "Nix"
+    },
+    {
+      "name": "dotfiles-ian-mbp-2022",
+      "repo": "https://github.com/macalinao/dotfiles-ian-mbp-2022",
+      "language": "Nix"
+    },
+    {
+      "name": "solana-idls",
+      "repo": "https://github.com/macalinao/solana-idls",
+      "language": "Shell"
+    },
+    {
+      "name": "testsvm",
+      "repo": "https://github.com/macalinao/testsvm",
+      "url": "https://docs.rs/testsvm",
+      "language": "Rust"
+    },
+    {
+      "name": "stricli-kit",
+      "repo": "https://github.com/macalinao/stricli-kit",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bun-monorepo",
+      "repo": "https://github.com/macalinao/bun-monorepo"
+    },
+    {
+      "name": "zod-utils",
+      "repo": "https://github.com/macalinao/zod-utils",
+      "url": "https://zod-utils.ianm.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ian-website",
+      "repo": "https://github.com/macalinao/ian-website",
+      "url": "https://ianm.com",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vibecode-spa-starter",
+      "repo": "https://github.com/macalinao/vibecode-spa-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "claude-code-schedule",
+      "repo": "https://github.com/macalinao/claude-code-schedule",
+      "language": "Rust"
+    },
+    {
+      "name": "ts-utils",
+      "repo": "https://github.com/macalinao/ts-utils",
+      "url": "https://macalinao.github.io/ts-utils/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "barangays",
+      "repo": "https://github.com/macalinao/barangays",
+      "language": "TypeScript"
+    },
+    {
+      "name": "phregs",
+      "repo": "https://github.com/macalinao/phregs"
+    },
+    {
+      "name": "kanjidic-index",
+      "repo": "https://github.com/macalinao/kanjidic-index",
+      "url": "https://kanjidic-index.ianm.com/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "speedway-bricks",
+      "repo": "https://github.com/macalinao/speedway-bricks",
+      "language": "JavaScript"
+    },
+    {
+      "name": "node-skyscanner",
+      "repo": "https://github.com/macalinao/node-skyscanner",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tokengen",
+      "repo": "https://github.com/macalinao/tokengen",
+      "language": "JavaScript"
+    },
+    {
+      "name": "hottrade",
+      "repo": "https://github.com/macalinao/hottrade",
+      "language": "Java"
+    },
+    {
+      "name": "Projections.me",
+      "repo": "https://github.com/macalinao/Projections.me",
+      "language": "JavaScript"
+    },
+    {
+      "name": "easybacktest",
+      "repo": "https://github.com/macalinao/easybacktest",
+      "language": "JavaScript"
+    },
+    {
+      "name": "facebook4s",
+      "repo": "https://github.com/macalinao/facebook4s",
+      "language": "Java"
+    },
+    {
+      "name": "voxelscript",
+      "repo": "https://github.com/macalinao/voxelscript",
+      "language": "Java"
+    },
+    {
+      "name": "CrimsonAdmin",
+      "repo": "https://github.com/macalinao/CrimsonAdmin",
+      "language": "Java"
+    },
+    {
+      "name": "TeraSpout",
+      "repo": "https://github.com/macalinao/TeraSpout",
+      "language": "Java"
+    },
+    {
+      "name": "SuperPlots",
+      "repo": "https://github.com/macalinao/SuperPlots",
+      "language": "Java"
+    },
+    {
+      "name": "Honeyblock",
+      "repo": "https://github.com/macalinao/Honeyblock",
+      "language": "Java"
+    },
+    {
+      "name": "SavageGames",
+      "repo": "https://github.com/macalinao/SavageGames",
+      "language": "Mirah"
+    },
+    {
+      "name": "chimehack",
+      "repo": "https://github.com/macalinao/chimehack",
+      "language": "Ruby"
+    },
+    {
+      "name": "hackit",
+      "repo": "https://github.com/macalinao/hackit",
+      "language": "Python"
+    },
+    {
+      "name": "reposte",
+      "repo": "https://github.com/macalinao/reposte",
+      "language": "CSS"
+    },
+    {
+      "name": "rails-blog",
+      "repo": "https://github.com/macalinao/rails-blog",
+      "language": "Ruby"
+    },
+    {
+      "name": "adeos",
+      "repo": "https://github.com/macalinao/adeos",
+      "language": "JavaScript"
+    },
+    {
+      "name": "fineprint",
+      "repo": "https://github.com/macalinao/fineprint",
+      "language": "Python"
+    },
+    {
+      "name": "koupon-api",
+      "repo": "https://github.com/macalinao/koupon-api",
+      "language": "Ruby"
+    },
+    {
+      "name": "safewalk-api",
+      "repo": "https://github.com/macalinao/safewalk-api",
+      "language": "JavaScript"
+    },
+    {
+      "name": "classtime",
+      "repo": "https://github.com/macalinao/classtime",
+      "language": "Ruby"
+    },
+    {
+      "name": "easydb",
+      "repo": "https://github.com/macalinao/easydb",
+      "language": "Java"
+    },
+    {
+      "name": "nlcore",
+      "repo": "https://github.com/macalinao/nlcore",
+      "language": "Java"
+    },
+    {
+      "name": "aptos-coin-list",
+      "repo": "https://github.com/macalinao/aptos-coin-list"
+    },
+    {
+      "name": "ModTheModAPI",
+      "repo": "https://github.com/macalinao/ModTheModAPI",
+      "language": "Java"
+    },
+    {
+      "name": "CrimsonIRC",
+      "repo": "https://github.com/macalinao/CrimsonIRC",
+      "language": "Java"
+    },
+    {
+      "name": "smartcraft-starter",
+      "repo": "https://github.com/macalinao/smartcraft-starter",
+      "language": "TypeScript"
+    },
+    {
+      "name": "options-math",
+      "repo": "https://github.com/macalinao/options-math",
+      "language": "Rust"
+    },
+    {
+      "name": "shui",
+      "repo": "https://github.com/macalinao/shui",
+      "language": "Go"
+    },
+    {
+      "name": "ant-design-plus",
+      "repo": "https://github.com/macalinao/ant-design-plus"
+    },
+    {
+      "name": "anaphasejs",
+      "repo": "https://github.com/macalinao/anaphasejs"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/macalinao/resume",
+      "url": "https://ian.pw/resume",
+      "language": "HTML"
+    },
+    {
+      "name": "file-management",
+      "repo": "https://github.com/macalinao/file-management"
+    },
+    {
+      "name": "work-music",
+      "repo": "https://github.com/macalinao/work-music",
+      "language": "Shell"
+    },
+    {
+      "name": "how-to-get-an-internship",
+      "repo": "https://github.com/macalinao/how-to-get-an-internship"
+    },
+    {
+      "name": "2018s-ugs303-homework",
+      "repo": "https://github.com/macalinao/2018s-ugs303-homework"
+    },
+    {
+      "name": "cpp-playground",
+      "repo": "https://github.com/macalinao/cpp-playground",
+      "language": "C++"
+    },
+    {
+      "name": "eos-playground",
+      "repo": "https://github.com/macalinao/eos-playground",
+      "language": "Shell"
+    },
+    {
+      "name": "scala-playground",
+      "repo": "https://github.com/macalinao/scala-playground",
+      "language": "Scala"
+    },
+    {
+      "name": "dms2",
+      "repo": "https://github.com/macalinao/dms2",
+      "language": "Scala"
+    },
+    {
+      "name": "invidia",
+      "repo": "https://github.com/macalinao/invidia",
+      "language": "JavaScript"
+    },
+    {
+      "name": "s3-maven-details",
+      "repo": "https://github.com/macalinao/s3-maven-details",
+      "language": "Haskell"
+    },
+    {
+      "name": "scalapb-set-example",
+      "repo": "https://github.com/macalinao/scalapb-set-example",
+      "language": "Scala"
+    },
+    {
+      "name": "haskell-playground",
+      "repo": "https://github.com/macalinao/haskell-playground",
+      "language": "Haskell"
+    },
+    {
+      "name": "co-optionals",
+      "repo": "https://github.com/macalinao/co-optionals",
+      "language": "JavaScript"
+    },
+    {
+      "name": "macalinao.github.io-deprecated",
+      "repo": "https://github.com/macalinao/macalinao.github.io-deprecated",
+      "url": "https://ian.pw",
+      "language": "HTML"
+    },
+    {
+      "name": "gulp-doxdox",
+      "repo": "https://github.com/macalinao/gulp-doxdox",
+      "language": "HTML"
+    },
+    {
+      "name": "injecta",
+      "repo": "https://github.com/macalinao/injecta",
+      "url": "https://ian.pw",
+      "language": "JavaScript"
+    },
+    {
+      "name": "iv-arbitrage",
+      "repo": "https://github.com/macalinao/iv-arbitrage",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "market-maker",
+      "repo": "https://github.com/macalinao/market-maker",
+      "language": "Python"
+    },
+    {
+      "name": "simplyian.com",
+      "repo": "https://github.com/macalinao/simplyian.com",
+      "language": "HTML"
+    },
+    {
+      "name": "fixedhashmap",
+      "repo": "https://github.com/macalinao/fixedhashmap",
+      "language": "Go"
+    },
+    {
+      "name": "httputil",
+      "repo": "https://github.com/macalinao/httputil",
+      "language": "Go"
+    },
+    {
+      "name": "2016-interview-prep",
+      "repo": "https://github.com/macalinao/2016-interview-prep",
+      "language": "JavaScript"
+    },
+    {
+      "name": "normaleyes",
+      "repo": "https://github.com/macalinao/normaleyes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "resonance-finder",
+      "repo": "https://github.com/macalinao/resonance-finder",
+      "language": "Python"
+    },
+    {
+      "name": "preston",
+      "repo": "https://github.com/macalinao/preston",
+      "language": "JavaScript"
+    },
+    {
+      "name": "json-to-scala",
+      "repo": "https://github.com/macalinao/json-to-scala",
+      "url": "https://ian.pw/json-to-scala",
+      "language": "HTML"
+    },
+    {
+      "name": "remembrall",
+      "repo": "https://github.com/macalinao/remembrall",
+      "language": "Clojure"
+    },
+    {
+      "name": "sysadmincraft",
+      "repo": "https://github.com/macalinao/sysadmincraft",
+      "language": "Scala"
+    },
+    {
+      "name": "mrchung",
+      "repo": "https://github.com/macalinao/mrchung",
+      "language": "JavaScript"
+    },
+    {
+      "name": "keypool",
+      "repo": "https://github.com/macalinao/keypool",
+      "language": "Go"
+    },
+    {
+      "name": "inject",
+      "repo": "https://github.com/macalinao/inject",
+      "language": "Go"
+    },
+    {
+      "name": "spillway",
+      "repo": "https://github.com/macalinao/spillway",
+      "language": "Go"
+    },
+    {
+      "name": "storybox-voter",
+      "repo": "https://github.com/macalinao/storybox-voter",
+      "language": "JavaScript"
+    },
+    {
+      "name": "react-reactor",
+      "repo": "https://github.com/macalinao/react-reactor"
+    },
+    {
+      "name": "launch-travel",
+      "repo": "https://github.com/macalinao/launch-travel",
+      "language": "JavaScript"
+    },
+    {
+      "name": "trippo-site",
+      "repo": "https://github.com/macalinao/trippo-site",
+      "language": "HTML"
+    },
+    {
+      "name": "atom-dotfiles",
+      "repo": "https://github.com/macalinao/atom-dotfiles",
+      "url": "https://ian.pw",
+      "language": "CoffeeScript"
+    }
+  ]
+}

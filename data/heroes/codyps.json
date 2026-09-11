@@ -1,0 +1,516 @@
+{
+  "handle": "codyps",
+  "name": "Cody Schafer",
+  "github": [
+    "https://github.com/codyps"
+  ],
+  "own_repos": 213,
+  "commits": 10518,
+  "apps": [],
+  "repos": [
+    {
+      "name": "nixos-config",
+      "repo": "https://github.com/codyps/nixos-config",
+      "language": "Nix"
+    },
+    {
+      "name": "spacetree",
+      "repo": "https://github.com/codyps/spacetree",
+      "language": "Swift"
+    },
+    {
+      "name": "caddy-fs-archives",
+      "repo": "https://github.com/codyps/caddy-fs-archives",
+      "language": "Go"
+    },
+    {
+      "name": "docker-qbittorrent",
+      "repo": "https://github.com/codyps/docker-qbittorrent",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "microtime",
+      "repo": "https://github.com/codyps/microtime",
+      "language": "Rust"
+    },
+    {
+      "name": "buildid",
+      "repo": "https://github.com/codyps/buildid",
+      "language": "Rust"
+    },
+    {
+      "name": "numeric-domains",
+      "repo": "https://github.com/codyps/numeric-domains",
+      "language": "Rust"
+    },
+    {
+      "name": "CellScope",
+      "repo": "https://github.com/codyps/CellScope",
+      "language": "Kotlin"
+    },
+    {
+      "name": "light-sequence",
+      "repo": "https://github.com/codyps/light-sequence",
+      "language": "Rust"
+    },
+    {
+      "name": "password-gen",
+      "repo": "https://github.com/codyps/password-gen",
+      "language": "Rust"
+    },
+    {
+      "name": "remule",
+      "repo": "https://github.com/codyps/remule",
+      "language": "Nix"
+    },
+    {
+      "name": "rust-systemd",
+      "repo": "https://github.com/codyps/rust-systemd",
+      "url": "https://docs.rs/systemd",
+      "language": "Rust"
+    },
+    {
+      "name": "svelte-meilisearch",
+      "repo": "https://github.com/codyps/svelte-meilisearch",
+      "language": "TypeScript"
+    },
+    {
+      "name": "codyps.github.com",
+      "repo": "https://github.com/codyps/codyps.github.com",
+      "language": "Ruby"
+    },
+    {
+      "name": "kth",
+      "repo": "https://github.com/codyps/kth",
+      "url": "https://crates.io/crates/kth",
+      "language": "Rust"
+    },
+    {
+      "name": "ex_csv_diff",
+      "repo": "https://github.com/codyps/ex_csv_diff",
+      "language": "Elixir"
+    },
+    {
+      "name": "local-rcu",
+      "repo": "https://github.com/codyps/local-rcu",
+      "language": "Rust"
+    },
+    {
+      "name": "deps_nix_elixir_make",
+      "repo": "https://github.com/codyps/deps_nix_elixir_make",
+      "language": "Nix"
+    },
+    {
+      "name": "illum",
+      "repo": "https://github.com/codyps/illum",
+      "language": "C"
+    },
+    {
+      "name": "freqm",
+      "repo": "https://github.com/codyps/freqm",
+      "language": "Rust"
+    },
+    {
+      "name": "zoop",
+      "repo": "https://github.com/codyps/zoop",
+      "language": "Rust"
+    },
+    {
+      "name": "trifles",
+      "repo": "https://github.com/codyps/trifles",
+      "language": "C"
+    },
+    {
+      "name": "rust-psql-bench",
+      "repo": "https://github.com/codyps/rust-psql-bench",
+      "language": "Rust"
+    },
+    {
+      "name": "litefs-proxy-error",
+      "repo": "https://github.com/codyps/litefs-proxy-error",
+      "language": "Nix"
+    },
+    {
+      "name": "styevms",
+      "repo": "https://github.com/codyps/styevms",
+      "language": "Rust"
+    },
+    {
+      "name": "naersk-cross-darwin-to-linux",
+      "repo": "https://github.com/codyps/naersk-cross-darwin-to-linux",
+      "language": "Nix"
+    },
+    {
+      "name": "io-block",
+      "repo": "https://github.com/codyps/io-block",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-rebuild-bug",
+      "repo": "https://github.com/codyps/cargo-rebuild-bug",
+      "language": "Shell"
+    },
+    {
+      "name": "pahole",
+      "repo": "https://github.com/codyps/pahole",
+      "language": "C"
+    },
+    {
+      "name": "rules-rust-thiserror",
+      "repo": "https://github.com/codyps/rules-rust-thiserror",
+      "language": "Starlark"
+    },
+    {
+      "name": "hash-roll",
+      "repo": "https://github.com/codyps/hash-roll",
+      "language": "Rust"
+    },
+    {
+      "name": "drive-part",
+      "repo": "https://github.com/codyps/drive-part",
+      "language": "Rust"
+    },
+    {
+      "name": "slofile",
+      "repo": "https://github.com/codyps/slofile",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-libzfs",
+      "repo": "https://github.com/codyps/rust-libzfs",
+      "language": "Rust"
+    },
+    {
+      "name": "lorawan",
+      "repo": "https://github.com/codyps/lorawan",
+      "language": "Rust"
+    },
+    {
+      "name": "wgrc",
+      "repo": "https://github.com/codyps/wgrc",
+      "language": "Rust"
+    },
+    {
+      "name": "crc-0x8810",
+      "repo": "https://github.com/codyps/crc-0x8810",
+      "language": "Rust"
+    },
+    {
+      "name": "syslog-rx",
+      "repo": "https://github.com/codyps/syslog-rx",
+      "language": "Rust"
+    },
+    {
+      "name": "sodalite",
+      "repo": "https://github.com/codyps/sodalite",
+      "language": "Rust"
+    },
+    {
+      "name": "idlemapper",
+      "repo": "https://github.com/codyps/idlemapper",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/codyps/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "slack2",
+      "repo": "https://github.com/codyps/slack2"
+    },
+    {
+      "name": "kvs",
+      "repo": "https://github.com/codyps/kvs",
+      "language": "Rust"
+    },
+    {
+      "name": "merge-alumni",
+      "repo": "https://github.com/codyps/merge-alumni",
+      "language": "Rust"
+    },
+    {
+      "name": "fs-sparse",
+      "repo": "https://github.com/codyps/fs-sparse",
+      "language": "Rust"
+    },
+    {
+      "name": "can-cmd",
+      "repo": "https://github.com/codyps/can-cmd",
+      "language": "Rust"
+    },
+    {
+      "name": "lk-cmdline",
+      "repo": "https://github.com/codyps/lk-cmdline",
+      "language": "Rust"
+    },
+    {
+      "name": "cbor-dump",
+      "repo": "https://github.com/codyps/cbor-dump",
+      "language": "Rust"
+    },
+    {
+      "name": "httpbisbit",
+      "repo": "https://github.com/codyps/httpbisbit",
+      "language": "Rust"
+    },
+    {
+      "name": "nixos-conf",
+      "repo": "https://github.com/codyps/nixos-conf",
+      "language": "Nix"
+    },
+    {
+      "name": "get_move",
+      "repo": "https://github.com/codyps/get_move",
+      "language": "Rust"
+    },
+    {
+      "name": "mask-gen",
+      "repo": "https://github.com/codyps/mask-gen",
+      "language": "Rust"
+    },
+    {
+      "name": "cargo-bug-profile-core",
+      "repo": "https://github.com/codyps/cargo-bug-profile-core",
+      "language": "Rust"
+    },
+    {
+      "name": "macports-overlay",
+      "repo": "https://github.com/codyps/macports-overlay",
+      "language": "Tcl"
+    },
+    {
+      "name": "zig-flake",
+      "repo": "https://github.com/codyps/zig-flake",
+      "language": "Nix"
+    },
+    {
+      "name": "netcam",
+      "repo": "https://github.com/codyps/netcam",
+      "language": "Rust"
+    },
+    {
+      "name": "mrts",
+      "repo": "https://github.com/codyps/mrts",
+      "language": "Rust"
+    },
+    {
+      "name": "mlog",
+      "repo": "https://github.com/codyps/mlog",
+      "language": "Rust"
+    },
+    {
+      "name": "mtxn",
+      "repo": "https://github.com/codyps/mtxn",
+      "language": "Rust"
+    },
+    {
+      "name": "greasy",
+      "repo": "https://github.com/codyps/greasy",
+      "language": "JavaScript"
+    },
+    {
+      "name": "c2n-bug",
+      "repo": "https://github.com/codyps/c2n-bug",
+      "language": "Nix"
+    },
+    {
+      "name": "mDNSResponder",
+      "repo": "https://github.com/codyps/mDNSResponder",
+      "language": "C"
+    },
+    {
+      "name": "stm32f407",
+      "repo": "https://github.com/codyps/stm32f407",
+      "language": "Rust"
+    },
+    {
+      "name": "stm32h7x3",
+      "repo": "https://github.com/codyps/stm32h7x3",
+      "language": "Rust"
+    },
+    {
+      "name": "stm32f429",
+      "repo": "https://github.com/codyps/stm32f429",
+      "language": "Rust"
+    },
+    {
+      "name": "build-env",
+      "repo": "https://github.com/codyps/build-env",
+      "language": "Rust"
+    },
+    {
+      "name": "stm32f7xx",
+      "repo": "https://github.com/codyps/stm32f7xx",
+      "language": "Rust"
+    },
+    {
+      "name": "io-at",
+      "repo": "https://github.com/codyps/io-at",
+      "language": "Rust"
+    },
+    {
+      "name": "nine_p",
+      "repo": "https://github.com/codyps/nine_p",
+      "language": "Rust"
+    },
+    {
+      "name": "vblock",
+      "repo": "https://github.com/codyps/vblock",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-squashfs",
+      "repo": "https://github.com/codyps/rust-squashfs",
+      "language": "Rust"
+    },
+    {
+      "name": "bincode-ext",
+      "repo": "https://github.com/codyps/bincode-ext",
+      "language": "Rust"
+    },
+    {
+      "name": "rdbus",
+      "repo": "https://github.com/codyps/rdbus",
+      "language": "Rust"
+    },
+    {
+      "name": "fs-at",
+      "repo": "https://github.com/codyps/fs-at",
+      "language": "Rust"
+    },
+    {
+      "name": "quartet",
+      "repo": "https://github.com/codyps/quartet",
+      "language": "Rust"
+    },
+    {
+      "name": "utf8-cstr",
+      "repo": "https://github.com/codyps/utf8-cstr",
+      "url": "https://crates.io/crates/utf8-cstr",
+      "language": "Shell"
+    },
+    {
+      "name": "docs",
+      "repo": "https://github.com/codyps/docs"
+    },
+    {
+      "name": "cpio-rs",
+      "repo": "https://github.com/codyps/cpio-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "into-other",
+      "repo": "https://github.com/codyps/into-other",
+      "language": "Rust"
+    },
+    {
+      "name": "os-str-generic",
+      "repo": "https://github.com/codyps/os-str-generic",
+      "url": "https://crates.io/crates/os-str-generic",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-eme",
+      "repo": "https://github.com/codyps/rust-eme",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-fmt-extra",
+      "repo": "https://github.com/codyps/rust-fmt-extra",
+      "language": "Rust"
+    },
+    {
+      "name": "tofu",
+      "repo": "https://github.com/codyps/tofu",
+      "language": "Rust"
+    },
+    {
+      "name": "exfat-rs",
+      "repo": "https://github.com/codyps/exfat-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "posix-sys",
+      "repo": "https://github.com/codyps/posix-sys",
+      "language": "Rust"
+    },
+    {
+      "name": "aesti",
+      "repo": "https://github.com/codyps/aesti",
+      "url": "https://crates.io/crates/aesti",
+      "language": "Rust"
+    },
+    {
+      "name": "rlegion",
+      "repo": "https://github.com/codyps/rlegion",
+      "language": "Rust"
+    },
+    {
+      "name": "cbpf",
+      "repo": "https://github.com/codyps/cbpf",
+      "language": "Rust"
+    },
+    {
+      "name": "index-fixed",
+      "repo": "https://github.com/codyps/index-fixed",
+      "url": "https://crates.io/crates/index-fixed",
+      "language": "Rust"
+    },
+    {
+      "name": "gild-root",
+      "repo": "https://github.com/codyps/gild-root",
+      "language": "C"
+    },
+    {
+      "name": "meta-cody",
+      "repo": "https://github.com/codyps/meta-cody",
+      "language": "BitBake"
+    },
+    {
+      "name": "radiop",
+      "repo": "https://github.com/codyps/radiop",
+      "language": "C"
+    },
+    {
+      "name": "arc4",
+      "repo": "https://github.com/codyps/arc4",
+      "language": "Rust"
+    },
+    {
+      "name": "cninja",
+      "repo": "https://github.com/codyps/cninja",
+      "language": "Shell"
+    },
+    {
+      "name": "melchoir",
+      "repo": "https://github.com/codyps/melchoir",
+      "language": "Rust"
+    },
+    {
+      "name": "cbori",
+      "repo": "https://github.com/codyps/cbori",
+      "language": "Rust"
+    },
+    {
+      "name": "dtvx",
+      "repo": "https://github.com/codyps/dtvx",
+      "language": "Rust"
+    },
+    {
+      "name": "meson-gcc-plugin",
+      "repo": "https://github.com/codyps/meson-gcc-plugin",
+      "language": "Meson"
+    },
+    {
+      "name": "overlay",
+      "repo": "https://github.com/codyps/overlay",
+      "language": "Shell"
+    },
+    {
+      "name": "fake_ext4",
+      "repo": "https://github.com/codyps/fake_ext4",
+      "language": "C"
+    }
+  ]
+}

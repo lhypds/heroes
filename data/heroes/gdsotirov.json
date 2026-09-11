@@ -1,0 +1,597 @@
+{
+  "handle": "gdsotirov",
+  "name": "Georgi D. Sotirov",
+  "github": [
+    "https://github.com/gdsotirov"
+  ],
+  "bio": "An IT professional with interests in databases, operating systems, virtualization and software development.",
+  "own_repos": 352,
+  "commits": 10385,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mrcb",
+      "repo": "https://github.com/gdsotirov/mrcb",
+      "language": "Python"
+    },
+    {
+      "name": "public_html",
+      "repo": "https://github.com/gdsotirov/public_html",
+      "url": "https://sotirov-bg.net/~gsotirov/",
+      "language": "HTML"
+    },
+    {
+      "name": "highlight.Slackbuild",
+      "repo": "https://github.com/gdsotirov/highlight.Slackbuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=highlight&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "rrdtool.SlackBuild",
+      "repo": "https://github.com/gdsotirov/rrdtool.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=rrdtool&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mysql.SlackBuild",
+      "repo": "https://github.com/gdsotirov/mysql.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=\"mysql\"&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "elinks.SlackBuild",
+      "repo": "https://github.com/gdsotirov/elinks.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=elinks&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "graphicsmagick.SlackBuild",
+      "repo": "https://github.com/gdsotirov/graphicsmagick.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=graphicsmagick&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "xrdp.SlackBuild",
+      "repo": "https://github.com/gdsotirov/xrdp.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=xrdp&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "ocaml.SlackBuild",
+      "repo": "https://github.com/gdsotirov/ocaml.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=ocaml&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "lemans24",
+      "repo": "https://github.com/gdsotirov/lemans24",
+      "language": "SQL"
+    },
+    {
+      "name": "ccid.SlackBuild",
+      "repo": "https://github.com/gdsotirov/ccid.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=ccid&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "pcsc-lite.SlackBuild",
+      "repo": "https://github.com/gdsotirov/pcsc-lite.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=pcsc-lite&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "sotirov-bg.net",
+      "repo": "https://github.com/gdsotirov/sotirov-bg.net",
+      "url": "https://sotirov-bg.net/",
+      "language": "HTML"
+    },
+    {
+      "name": "freeradius-server.SlackBuild",
+      "repo": "https://github.com/gdsotirov/freeradius-server.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=freeradius-server&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "pcsc-tools.SlackBuild",
+      "repo": "https://github.com/gdsotirov/pcsc-tools.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=pcsc-tools&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "valgrind.SlackBuild",
+      "repo": "https://github.com/gdsotirov/valgrind.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=valgrind&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "hr_schema",
+      "repo": "https://github.com/gdsotirov/hr_schema",
+      "language": "SQL"
+    },
+    {
+      "name": "mysql-play",
+      "repo": "https://github.com/gdsotirov/mysql-play",
+      "language": "SQL"
+    },
+    {
+      "name": "opensc.SlackBuild",
+      "repo": "https://github.com/gdsotirov/opensc.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=opensc&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "7klas",
+      "repo": "https://github.com/gdsotirov/7klas",
+      "url": "https://sotirov-bg.net/apps/7klas/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "slackpack",
+      "repo": "https://github.com/gdsotirov/slackpack",
+      "url": "https://slackpack.eu/",
+      "language": "HTML"
+    },
+    {
+      "name": "libmodbus.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libmodbus.SlackBuild",
+      "url": "https://slackpack.eu/search.cgi?q=libmodbus&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "xorgxrdp.SlackBuild",
+      "repo": "https://github.com/gdsotirov/xorgxrdp.SlackBuild",
+      "language": "Shell"
+    },
+    {
+      "name": "libconfig.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libconfig.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libconfig&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "meld.SlackBuild",
+      "repo": "https://github.com/gdsotirov/meld.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=meld&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "vsqlitepp.SlackBuild",
+      "repo": "https://github.com/gdsotirov/vsqlitepp.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=vsqlite%2B%2B&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "pkcs11-helper.SlackBuild",
+      "repo": "https://github.com/gdsotirov/pkcs11-helper.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=pkcs11-helper&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "nut.SlackBuild",
+      "repo": "https://github.com/gdsotirov/nut.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=nut&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "cppcheck.SlackBuild",
+      "repo": "https://github.com/gdsotirov/cppcheck.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=cppcheck&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "lua.SlackBuild",
+      "repo": "https://github.com/gdsotirov/lua.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=lua&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libass.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libass.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libass&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "snappy.SlackBuild",
+      "repo": "https://github.com/gdsotirov/snappy.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=snappy&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "octave.SlackBuild",
+      "repo": "https://github.com/gdsotirov/octave.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=octave&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "hdf5.SlackBuild",
+      "repo": "https://github.com/gdsotirov/hdf5.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=hdf5&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "qrupdate.SlackBuild",
+      "repo": "https://github.com/gdsotirov/qrupdate.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=qrupdate&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "arpack.SlackBuild",
+      "repo": "https://github.com/gdsotirov/arpack.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=arpack&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "lapack.SlackBuild",
+      "repo": "https://github.com/gdsotirov/lapack.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=lapack&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "ncdu.SlackBuild",
+      "repo": "https://github.com/gdsotirov/ncdu.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=ncdu&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "amichat",
+      "repo": "https://github.com/gdsotirov/amichat",
+      "language": "PHP"
+    },
+    {
+      "name": "numactl.SlackBuild",
+      "repo": "https://github.com/gdsotirov/numactl.SlackBuild",
+      "language": "Shell"
+    },
+    {
+      "name": "ddd.SlackBuild",
+      "repo": "https://github.com/gdsotirov/ddd.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=ddd&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "powerman.SlackBuild",
+      "repo": "https://github.com/gdsotirov/powerman.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=powerman&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libxmlpp.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libxmlpp.SlackBuild",
+      "language": "Shell"
+    },
+    {
+      "name": "libgpiod.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libgpiod.SlackBuild",
+      "language": "Shell"
+    },
+    {
+      "name": "open-vm-tools.SlackBuild",
+      "repo": "https://github.com/gdsotirov/open-vm-tools.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=open-vm-tools&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "sys_prog",
+      "repo": "https://github.com/gdsotirov/sys_prog",
+      "language": "C"
+    },
+    {
+      "name": "libopenmpt.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libopenmpt.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libopenmpt&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "ftp.sotirov-bg.net",
+      "repo": "https://github.com/gdsotirov/ftp.sotirov-bg.net",
+      "url": "https://ftp.sotirov-bg.net/"
+    },
+    {
+      "name": "jack.SlackBuild",
+      "repo": "https://github.com/gdsotirov/jack.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=jack&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "iva-12.com",
+      "repo": "https://github.com/gdsotirov/iva-12.com",
+      "url": "https://iva-12.com/",
+      "language": "HTML"
+    },
+    {
+      "name": "protobuf.SlackBuild",
+      "repo": "https://github.com/gdsotirov/protobuf.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=protobuf&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mcalc",
+      "repo": "https://github.com/gdsotirov/mcalc",
+      "url": "https://sotirov-bg.net/apps/calc/mcalc/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "icalc",
+      "repo": "https://github.com/gdsotirov/icalc",
+      "url": "https://sotirov-bg.net/apps/calc/icalc/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "spsb",
+      "repo": "https://github.com/gdsotirov/spsb",
+      "language": "PowerShell"
+    },
+    {
+      "name": "portaudio.SlackBuild",
+      "repo": "https://github.com/gdsotirov/portaudio.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=portaudio&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libffado.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libffado.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libffado&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libiec61883.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libiec61883.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libiec61883&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "qhull.SlackBuild",
+      "repo": "https://github.com/gdsotirov/qhull.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=qhull&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "glpk.SlackBuild",
+      "repo": "https://github.com/gdsotirov/glpk.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=glpk&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "gl2ps.SlackBuild",
+      "repo": "https://github.com/gdsotirov/gl2ps.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=gl2ps&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "blas.SlackBuild",
+      "repo": "https://github.com/gdsotirov/blas.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=blas&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "log-split",
+      "repo": "https://github.com/gdsotirov/log-split",
+      "language": "Awk"
+    },
+    {
+      "name": "go-tour",
+      "repo": "https://github.com/gdsotirov/go-tour",
+      "language": "Go"
+    },
+    {
+      "name": "openmpi.SlackBuild",
+      "repo": "https://github.com/gdsotirov/openmpi.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=openmpi&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "tinyxml2.SlackBuild",
+      "repo": "https://github.com/gdsotirov/tinyxml2.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=tinyxml2&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "lstlib",
+      "repo": "https://github.com/gdsotirov/lstlib",
+      "language": "C++"
+    },
+    {
+      "name": "fswebcam.SlackBuild",
+      "repo": "https://github.com/gdsotirov/fswebcam.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=fswebcam&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "cppclean.SlackBuild",
+      "repo": "https://github.com/gdsotirov/cppclean.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=cppclean&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "gtest.SlackBuild",
+      "repo": "https://github.com/gdsotirov/gtest.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=gtest&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "rapidjson.SlackBuild",
+      "repo": "https://github.com/gdsotirov/rapidjson.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=rapidjson&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "graphviz.SlackBuild",
+      "repo": "https://github.com/gdsotirov/graphviz.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=graphviz&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "bzr.SlackBuild",
+      "repo": "https://github.com/gdsotirov/bzr.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=bzr&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "avahi.SlackBuild",
+      "repo": "https://github.com/gdsotirov/avahi.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=avahi&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libdaemon.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libdaemon.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libdaemon&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "freeipmi.SlackBuild",
+      "repo": "https://github.com/gdsotirov/freeipmi.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=freeipmi&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "unixodbc.SlackBuild",
+      "repo": "https://github.com/gdsotirov/unixodbc.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=unixodbc&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libmspack.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libmspack.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libmspack&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mrtg.SlackBuild",
+      "repo": "https://github.com/gdsotirov/mrtg.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=mrtg&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "cvstogit",
+      "repo": "https://github.com/gdsotirov/cvstogit",
+      "language": "Shell"
+    },
+    {
+      "name": "openoffice.SlackBuild",
+      "repo": "https://github.com/gdsotirov/openoffice.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=\"openoffice\"&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "openoffice-langpack.SlackBuild",
+      "repo": "https://github.com/gdsotirov/openoffice-langpack.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=openoffice-langpack&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "freerdp.SlackBuild",
+      "repo": "https://github.com/gdsotirov/freerdp.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=freerdp&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libmaxminddb.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libmaxminddb.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libmaxminddb&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "ipcalc.SlackBuild",
+      "repo": "https://github.com/gdsotirov/ipcalc.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=ipcalc&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "openldap.SlackBuild",
+      "repo": "https://github.com/gdsotirov/openldap.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=openldap&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "iucode_tool.SlackBuild",
+      "repo": "https://github.com/gdsotirov/iucode_tool.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=iucode_tool&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "extra-cmake-modules.SlackBuild",
+      "repo": "https://github.com/gdsotirov/extra-cmake-modules.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=extra-cmake-modules&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "pynacl.SlackBuild",
+      "repo": "https://github.com/gdsotirov/pynacl.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=pynacl&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "bcrypt.SlackBuild",
+      "repo": "https://github.com/gdsotirov/bcrypt.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=bcrypt&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "asn1crypto.SlackBuild",
+      "repo": "https://github.com/gdsotirov/asn1crypto.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=asn1crypto&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "minidlna.SlackBuild",
+      "repo": "https://github.com/gdsotirov/minidlna.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=minidlna&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mkvtoolnix.SlackBuild",
+      "repo": "https://github.com/gdsotirov/mkvtoolnix.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=mkvtoolnix&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mysql-shell.SlackBuild",
+      "repo": "https://github.com/gdsotirov/mysql-shell.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=mysql-shell&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "libgxps.SlackBuild",
+      "repo": "https://github.com/gdsotirov/libgxps.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=libgxps&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mysql-utilities.SlackBuild",
+      "repo": "https://github.com/gdsotirov/mysql-utilities.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=mysql-utilities&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mysql-connector-python.SlackBuild",
+      "repo": "https://github.com/gdsotirov/mysql-connector-python.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=mysql-connector-python&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "mysql-router.SlackBuild",
+      "repo": "https://github.com/gdsotirov/mysql-router.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=mysql-router&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "idna.SlackBuild",
+      "repo": "https://github.com/gdsotirov/idna.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=idna&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "cffi.SlackBuild",
+      "repo": "https://github.com/gdsotirov/cffi.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=cffi&lo=1",
+      "language": "Shell"
+    },
+    {
+      "name": "ipaddress.SlackBuild",
+      "repo": "https://github.com/gdsotirov/ipaddress.SlackBuild",
+      "url": "https://sotirov-bg.net/slackpack/search.cgi?q=ipaddress&lo=1",
+      "language": "Shell"
+    }
+  ]
+}

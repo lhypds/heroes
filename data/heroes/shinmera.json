@@ -1,0 +1,605 @@
+{
+  "handle": "shinmera",
+  "name": "Yukari Hafner",
+  "github": [
+    "https://github.com/shinmera"
+  ],
+  "website": "https://shinmera.com/",
+  "bio": "I draw and publish software. Wow!",
+  "own_repos": 202,
+  "commits": 14815,
+  "apps": [],
+  "repos": [
+    {
+      "name": "Universal-Config",
+      "repo": "https://github.com/Shinmera/Universal-Config",
+      "language": "HTML"
+    },
+    {
+      "name": "writing",
+      "repo": "https://github.com/Shinmera/writing",
+      "url": "https://shinmera.com/projects/writing",
+      "language": "CSS"
+    },
+    {
+      "name": "uax-14",
+      "repo": "https://github.com/Shinmera/uax-14",
+      "url": "https://shinmera.com/projects/uax-14",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "type-templates",
+      "repo": "https://github.com/Shinmera/type-templates",
+      "url": "https://shinmera.com/projects/type-templates",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "tumblr-theme",
+      "repo": "https://github.com/Shinmera/tumblr-theme",
+      "language": "HTML"
+    },
+    {
+      "name": "trivial-thumbnail",
+      "repo": "https://github.com/Shinmera/trivial-thumbnail",
+      "url": "https://shinmera.com/projects/trivial-thumbnail",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trivial-main-thread",
+      "repo": "https://github.com/Shinmera/trivial-main-thread",
+      "url": "https://shinmera.com/projects/trivial-main-thread",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trivial-indent",
+      "repo": "https://github.com/Shinmera/trivial-indent",
+      "url": "https://shinmera.com/projects/trivial-indent",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trivial-extensible-sequences",
+      "repo": "https://github.com/Shinmera/trivial-extensible-sequences",
+      "url": "https://shinmera.com/projects/trivial-extensible-sequences",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trivial-deprecate",
+      "repo": "https://github.com/Shinmera/trivial-deprecate",
+      "url": "https://shinmera.com/projects/trivial-deprecate",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trivial-benchmark",
+      "repo": "https://github.com/Shinmera/trivial-benchmark",
+      "url": "https://shinmera.com/projects/trivial-benchmark",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trivial-arguments",
+      "repo": "https://github.com/Shinmera/trivial-arguments",
+      "url": "https://shinmera.com/projects/trivial-arguments",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "system-locale",
+      "repo": "https://github.com/Shinmera/system-locale",
+      "url": "https://shinmera.com/projects/system-locale",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "staple",
+      "repo": "https://github.com/Shinmera/staple",
+      "url": "https://shinmera.com/projects/staple",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "softdrink",
+      "repo": "https://github.com/Shinmera/softdrink",
+      "url": "https://shinmera.com/projects/softdrink",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "redirect-stream",
+      "repo": "https://github.com/Shinmera/redirect-stream",
+      "url": "https://shinmera.com/projects/redirect-stream",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "ratify",
+      "repo": "https://github.com/Shinmera/ratify",
+      "url": "https://shinmera.com/projects/ratify",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "random-state",
+      "repo": "https://github.com/Shinmera/random-state",
+      "url": "https://shinmera.com/projects/random-state",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "random-sampling",
+      "repo": "https://github.com/Shinmera/random-sampling",
+      "url": "https://shinmera.com/projects/random-sampling",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "random-noise",
+      "repo": "https://github.com/Shinmera/random-noise",
+      "url": "https://shinmera.com/projects/random-noise",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "qt-libs",
+      "repo": "https://github.com/Shinmera/qt-libs",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "promise",
+      "repo": "https://github.com/Shinmera/promise",
+      "url": "https://shinmera.com/projects/promise",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "plump-sexp",
+      "repo": "https://github.com/Shinmera/plump-sexp",
+      "url": "https://shinmera.com/projects/plump-sexp",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "plump-bundle",
+      "repo": "https://github.com/Shinmera/plump-bundle",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "pathname-utils",
+      "repo": "https://github.com/Shinmera/pathname-utils",
+      "url": "https://shinmera.com/projects/pathname-utils",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "parachute",
+      "repo": "https://github.com/Shinmera/parachute",
+      "url": "https://shinmera.com/projects/parachute",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "multiposter",
+      "repo": "https://github.com/Shinmera/multiposter",
+      "url": "https://shinmera.com/projects/multiposter",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "modularize",
+      "repo": "https://github.com/Shinmera/modularize",
+      "url": "https://shinmera.com/projects/modularize",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "mmap",
+      "repo": "https://github.com/Shinmera/mmap",
+      "url": "https://shinmera.com/projects/mmap",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "messtest",
+      "repo": "https://github.com/Shinmera/messtest",
+      "url": "https://shinmera.com/projects/messtest",
+      "language": "CSS"
+    },
+    {
+      "name": "messagebox",
+      "repo": "https://github.com/Shinmera/messagebox",
+      "url": "https://shinmera.com/projects/messagebox",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "markless-js",
+      "repo": "https://github.com/Shinmera/markless-js",
+      "url": "https://shinmera.github.io/markless-js",
+      "language": "JavaScript"
+    },
+    {
+      "name": "machine-state",
+      "repo": "https://github.com/Shinmera/machine-state",
+      "url": "https://shinmera.com/projects/machine-state",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "machine-measurements",
+      "repo": "https://github.com/Shinmera/machine-measurements",
+      "url": "https://shinmera.com/projects/machine-measurements",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "luckless",
+      "repo": "https://github.com/Shinmera/luckless",
+      "url": "https://shinmera.com/projects/luckless",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "lru-cache",
+      "repo": "https://github.com/Shinmera/lru-cache",
+      "url": "https://shinmera.com/projects/lru-cache",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "language-codes",
+      "repo": "https://github.com/Shinmera/language-codes",
+      "url": "https://shinmera.com/projects/language-codes",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "fuzzy-dates",
+      "repo": "https://github.com/Shinmera/fuzzy-dates",
+      "url": "https://shinmera.com/projects/fuzzy-dates",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "form-fiddle",
+      "repo": "https://github.com/Shinmera/form-fiddle",
+      "url": "https://shinmera.com/projects/form-fiddle",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "for",
+      "repo": "https://github.com/Shinmera/for",
+      "url": "https://shinmera.com/projects/for",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "flow",
+      "repo": "https://github.com/Shinmera/flow",
+      "url": "https://shinmera.com/projects/flow",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "file-attributes",
+      "repo": "https://github.com/Shinmera/file-attributes",
+      "url": "https://shinmera.com/projects/file-attributes",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "feeder",
+      "repo": "https://github.com/Shinmera/feeder",
+      "url": "https://shinmera.com/projects/feeder",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "factory-reset",
+      "repo": "https://github.com/Shinmera/factory-reset",
+      "url": "https://shinmera.com/projects/factory-reset",
+      "language": "JavaScript"
+    },
+    {
+      "name": "deferred",
+      "repo": "https://github.com/Shinmera/deferred",
+      "url": "https://shinmera.com/projects/deferred",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "deeds",
+      "repo": "https://github.com/Shinmera/deeds",
+      "url": "https://shinmera.com/projects/deeds",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "crypto-shortcuts",
+      "repo": "https://github.com/Shinmera/crypto-shortcuts",
+      "url": "https://shinmera.com/projects/crypto-shortcuts",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "com-on",
+      "repo": "https://github.com/Shinmera/com-on",
+      "url": "https://shinmera.com/projects/com-on",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "colored",
+      "repo": "https://github.com/Shinmera/colored",
+      "url": "https://shinmera.com/projects/colored",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "clohost",
+      "repo": "https://github.com/Shinmera/clohost",
+      "url": "https://shinmera.github.io/clohost/",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "classowary",
+      "repo": "https://github.com/Shinmera/classowary",
+      "url": "https://shinmera.com/projects/classowary",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-steamworks",
+      "repo": "https://github.com/Shinmera/cl-steamworks",
+      "url": "https://shinmera.com/projects/cl-steamworks",
+      "language": "NewLisp"
+    },
+    {
+      "name": "cl-spidev",
+      "repo": "https://github.com/Shinmera/cl-spidev",
+      "url": "https://shinmera.com/projects/cl-spidev",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-qoa",
+      "repo": "https://github.com/Shinmera/cl-qoa",
+      "url": "https://shinmera.com/projects/cl-qoa",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-modio",
+      "repo": "https://github.com/Shinmera/cl-modio",
+      "url": "https://shinmera.com/projects/cl-modio",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-ktx",
+      "repo": "https://github.com/Shinmera/cl-ktx",
+      "url": "https://shinmera.com/projects/cl-ktx",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-gog-galaxy",
+      "repo": "https://github.com/Shinmera/cl-gog-galaxy",
+      "url": "https://shinmera.com/projects/cl-gog-galaxy",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "cl-bmp",
+      "repo": "https://github.com/Shinmera/cl-bmp",
+      "url": "https://shinmera.com/projects/cl-bmp",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "chirp",
+      "repo": "https://github.com/Shinmera/chirp",
+      "url": "https://shinmera.github.io/chirp",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "LASS",
+      "repo": "https://github.com/Shinmera/LASS",
+      "url": "https://shinmera.com/projects/LASS",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "zippy",
+      "repo": "https://github.com/Shinmera/zippy",
+      "url": "https://shinmera.com/projects/zippy",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "vpetjam",
+      "repo": "https://github.com/Shinmera/vpetjam",
+      "url": "https://shinmera.com/projects/vpetjam",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "vitae",
+      "repo": "https://github.com/Shinmera/vitae",
+      "url": "https://shinmera.com/projects/vitae",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "verbose",
+      "repo": "https://github.com/Shinmera/verbose",
+      "url": "https://shinmera.com/projects/verbose",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "ubiquitous",
+      "repo": "https://github.com/Shinmera/ubiquitous",
+      "url": "https://shinmera.com/projects/ubiquitous",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "uax-9",
+      "repo": "https://github.com/Shinmera/uax-9",
+      "url": "https://shinmera.com/projects/uax-9",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trivial-mimes",
+      "repo": "https://github.com/Shinmera/trivial-mimes",
+      "url": "https://shinmera.com/projects/trivial-mimes",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "trainer",
+      "repo": "https://github.com/Shinmera/trainer",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "tooter",
+      "repo": "https://github.com/Shinmera/tooter",
+      "url": "https://shinmera.com/projects/tooter",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "tftp",
+      "repo": "https://github.com/Shinmera/tftp",
+      "url": "https://shinmera.com/projects/tftp",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "text-draw",
+      "repo": "https://github.com/Shinmera/text-draw",
+      "url": "https://shinmera.com/projects/text-draw",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "talks",
+      "repo": "https://github.com/Shinmera/talks",
+      "url": "https://shinmera.com/projects/talks",
+      "language": "TeX"
+    },
+    {
+      "name": "system-load",
+      "repo": "https://github.com/Shinmera/system-load",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "synthy",
+      "repo": "https://github.com/Shinmera/synthy",
+      "url": "https://shinmera.com/projects/synthy",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "studio-client",
+      "repo": "https://github.com/Shinmera/studio-client",
+      "url": "https://shinmera.com/projects/studio-client",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "stranger",
+      "repo": "https://github.com/Shinmera/stranger",
+      "url": "https://shinmera.com/projects/stranger",
+      "language": "Python"
+    },
+    {
+      "name": "south",
+      "repo": "https://github.com/Shinmera/south",
+      "url": "https://shinmera.github.io/south",
+      "language": "HTML"
+    },
+    {
+      "name": "simple-tasks",
+      "repo": "https://github.com/Shinmera/simple-tasks",
+      "url": "https://shinmera.com/projects/simple-tasks",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "simple-inferiors",
+      "repo": "https://github.com/Shinmera/simple-inferiors",
+      "url": "https://shinmera.com/projects/simple-inferiors",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "shootman",
+      "repo": "https://github.com/Shinmera/shootman",
+      "url": "https://shinmera.com/projects/shootman",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "sbcl-logo",
+      "repo": "https://github.com/Shinmera/sbcl-logo",
+      "url": "https://shinmera.com/projects/sbcl-logo",
+      "language": "HTML"
+    },
+    {
+      "name": "qtools-ui",
+      "repo": "https://github.com/Shinmera/qtools-ui",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "qtools",
+      "repo": "https://github.com/Shinmera/qtools",
+      "url": "https://shinmera.github.io/qtools",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "punycode",
+      "repo": "https://github.com/Shinmera/punycode",
+      "url": "https://shinmera.com/projects/punycode",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "promptfont",
+      "repo": "https://github.com/Shinmera/promptfont",
+      "url": "https://shinmera.com/projects/promptfont",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "precise-time",
+      "repo": "https://github.com/Shinmera/precise-time",
+      "url": "https://shinmera.com/projects/precise-time",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "post-all",
+      "repo": "https://github.com/Shinmera/post-all",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "portability",
+      "repo": "https://github.com/Shinmera/portability",
+      "url": "https://shinmera.com/projects/portability",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "plump-tex",
+      "repo": "https://github.com/Shinmera/plump-tex",
+      "url": "https://shinmera.com/projects/plump-tex",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "plump-markless",
+      "repo": "https://github.com/Shinmera/plump-markless",
+      "url": "https://shinmera.com/projects/plump-markless",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "plump",
+      "repo": "https://github.com/Shinmera/plump",
+      "url": "https://shinmera.com/projects/plump",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "piping",
+      "repo": "https://github.com/Shinmera/piping",
+      "url": "https://shinmera.com/projects/piping",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "parasol",
+      "repo": "https://github.com/Shinmera/parasol",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "pango-markup",
+      "repo": "https://github.com/Shinmera/pango-markup",
+      "url": "https://shinmera.com/projects/pango-markup",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "oxenfurt",
+      "repo": "https://github.com/Shinmera/oxenfurt",
+      "url": "https://shinmera.com/projects/oxenfurt",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "open-with",
+      "repo": "https://github.com/Shinmera/open-with",
+      "url": "https://shinmera.com/projects/open-with",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "north",
+      "repo": "https://github.com/Shinmera/north",
+      "url": "https://shinmera.com/projects/north",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "multilang-documentation",
+      "repo": "https://github.com/Shinmera/multilang-documentation",
+      "url": "https://shinmera.com/projects/multilang-documentation",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "modularize-interfaces",
+      "repo": "https://github.com/Shinmera/modularize-interfaces",
+      "url": "https://shinmera.com/projects/modularize-interfaces",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "modularize-hooks",
+      "repo": "https://github.com/Shinmera/modularize-hooks",
+      "url": "https://shinmera.com/projects/modularize-hooks",
+      "language": "Common Lisp"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "handle": "zchee",
+  "name": "Koichi Shiraishi",
+  "github": [
+    "https://github.com/zchee"
+  ],
+  "bio": "Gopher.",
+  "own_repos": 350,
+  "commits": 11107,
+  "apps": [],
+  "repos": [
+    {
+      "name": "ganja-code",
+      "repo": "https://github.com/zchee/ganja-code",
+      "language": "Rust"
+    },
+    {
+      "name": "agctl",
+      "repo": "https://github.com/zchee/agctl",
+      "language": "Rust"
+    },
+    {
+      "name": "agent",
+      "repo": "https://github.com/zchee/agent",
+      "language": "Python"
+    },
+    {
+      "name": "golang-wiki",
+      "repo": "https://github.com/zchee/golang-wiki",
+      "url": "https://zchee.github.io/golang-wiki/",
+      "language": "Dockerfile"
+    },
+    {
+      "name": ".nvim",
+      "repo": "https://github.com/zchee/.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "mcp-gemini-search",
+      "repo": "https://github.com/zchee/mcp-gemini-search",
+      "language": "Python"
+    },
+    {
+      "name": "zsh-completions",
+      "repo": "https://github.com/zchee/zsh-completions",
+      "language": "Shell"
+    },
+    {
+      "name": "metaphrast.nvim",
+      "repo": "https://github.com/zchee/metaphrast.nvim",
+      "language": "Lua"
+    },
+    {
+      "name": "mcp-google-service",
+      "repo": "https://github.com/zchee/mcp-google-service",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/zchee/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "homebrew-formula",
+      "repo": "https://github.com/zchee/homebrew-formula",
+      "language": "Ruby"
+    },
+    {
+      "name": "cargo-depgate",
+      "repo": "https://github.com/zchee/cargo-depgate",
+      "language": "Rust"
+    },
+    {
+      "name": "hashline-rs",
+      "repo": "https://github.com/zchee/hashline-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "scap",
+      "repo": "https://github.com/zchee/scap",
+      "url": "https://godoc.org/github.com/zchee/scap",
+      "language": "Rust"
+    },
+    {
+      "name": "audio-harness",
+      "repo": "https://github.com/zchee/audio-harness",
+      "language": "Python"
+    },
+    {
+      "name": "imectl",
+      "repo": "https://github.com/zchee/imectl",
+      "language": "Swift"
+    },
+    {
+      "name": "mcp-crates",
+      "repo": "https://github.com/zchee/mcp-crates",
+      "language": "Rust"
+    },
+    {
+      "name": "schema",
+      "repo": "https://github.com/zchee/schema",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-simdutf",
+      "repo": "https://github.com/zchee/go-simdutf",
+      "url": "https://pkg.go.dev/github.com/zchee/go-simdutf",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-lsp",
+      "repo": "https://github.com/zchee/mcp-lsp",
+      "url": "https://pkg.go.dev/github.com/zchee/mcp-lsp",
+      "language": "Go"
+    },
+    {
+      "name": "agentctl-go",
+      "repo": "https://github.com/zchee/agentctl-go",
+      "language": "Go"
+    },
+    {
+      "name": "lspmux",
+      "repo": "https://github.com/zchee/lspmux",
+      "language": "Rust"
+    },
+    {
+      "name": "actions-jsonschema",
+      "repo": "https://github.com/zchee/actions-jsonschema",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-sequential-thinking",
+      "repo": "https://github.com/zchee/mcp-sequential-thinking",
+      "language": "Go"
+    },
+    {
+      "name": "pandaemonium",
+      "repo": "https://github.com/zchee/pandaemonium",
+      "language": "Go"
+    },
+    {
+      "name": "gows",
+      "repo": "https://github.com/zchee/gows",
+      "language": "Go"
+    },
+    {
+      "name": "fastexec",
+      "repo": "https://github.com/zchee/fastexec",
+      "url": "https://pkg.go.dev/github.com/zchee/fastexec",
+      "language": "Go"
+    },
+    {
+      "name": "go-toml",
+      "repo": "https://github.com/zchee/go-toml",
+      "url": "https://pkg.go.dev/github.com/zchee/go-toml",
+      "language": "Go"
+    },
+    {
+      "name": "schemar",
+      "repo": "https://github.com/zchee/schemar",
+      "language": "Go"
+    },
+    {
+      "name": "mcp-servers",
+      "repo": "https://github.com/zchee/mcp-servers",
+      "language": "Python"
+    },
+    {
+      "name": "spanner-manager",
+      "repo": "https://github.com/zchee/spanner-manager",
+      "language": "Go"
+    },
+    {
+      "name": "pre-commit-go",
+      "repo": "https://github.com/zchee/pre-commit-go",
+      "language": "Shell"
+    },
+    {
+      "name": "tree-sitter-goasm",
+      "repo": "https://github.com/zchee/tree-sitter-goasm",
+      "language": "C"
+    },
+    {
+      "name": "antigravity-sdk-go",
+      "repo": "https://github.com/zchee/antigravity-sdk-go",
+      "language": "Go"
+    },
+    {
+      "name": "json-repair-rs",
+      "repo": "https://github.com/zchee/json-repair-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "supply-chain-security",
+      "repo": "https://github.com/zchee/supply-chain-security"
+    },
+    {
+      "name": "otelchi",
+      "repo": "https://github.com/zchee/otelchi",
+      "language": "Go"
+    },
+    {
+      "name": "zmux",
+      "repo": "https://github.com/zchee/zmux",
+      "language": "Zig"
+    },
+    {
+      "name": "agent-os",
+      "repo": "https://github.com/zchee/agent-os"
+    },
+    {
+      "name": "ane-python",
+      "repo": "https://github.com/zchee/ane-python",
+      "language": "Python"
+    },
+    {
+      "name": "awstools",
+      "repo": "https://github.com/zchee/awstools",
+      "language": "Go"
+    },
+    {
+      "name": "tree-sitter-metal",
+      "repo": "https://github.com/zchee/tree-sitter-metal",
+      "language": "Python"
+    },
+    {
+      "name": "chromium-vim",
+      "repo": "https://github.com/zchee/chromium-vim",
+      "language": "JavaScript"
+    },
+    {
+      "name": "chrovium",
+      "repo": "https://github.com/zchee/chrovium",
+      "language": "CSS"
+    },
+    {
+      "name": "research",
+      "repo": "https://github.com/zchee/research",
+      "language": "Go"
+    },
+    {
+      "name": "tumix",
+      "repo": "https://github.com/zchee/tumix",
+      "url": "https://arxiv.org/abs/2510.01279",
+      "language": "Go"
+    },
+    {
+      "name": "git-worktree-runner",
+      "repo": "https://github.com/zchee/git-worktree-runner",
+      "language": "Go"
+    },
+    {
+      "name": "go-cpy",
+      "repo": "https://github.com/zchee/go-cpy",
+      "language": "Go"
+    },
+    {
+      "name": "tsukuyomi-engine",
+      "repo": "https://github.com/zchee/tsukuyomi-engine"
+    },
+    {
+      "name": "abm",
+      "repo": "https://github.com/zchee/abm",
+      "url": "https://pkg.go.dev/github.com/zchee/abm",
+      "language": "Go"
+    },
+    {
+      "name": "tree-sitter-hujson",
+      "repo": "https://github.com/zchee/tree-sitter-hujson"
+    },
+    {
+      "name": "ghqq",
+      "repo": "https://github.com/zchee/ghqq",
+      "language": "Go"
+    },
+    {
+      "name": "clangd-remote-index",
+      "repo": "https://github.com/zchee/clangd-remote-index"
+    },
+    {
+      "name": "freee-go",
+      "repo": "https://github.com/zchee/freee-go",
+      "language": "Go"
+    },
+    {
+      "name": "vzkit",
+      "repo": "https://github.com/zchee/vzkit",
+      "language": "Go"
+    },
+    {
+      "name": "nvim-plugin-template",
+      "repo": "https://github.com/zchee/nvim-plugin-template",
+      "language": "Lua"
+    },
+    {
+      "name": "apple-metal-samples",
+      "repo": "https://github.com/zchee/apple-metal-samples",
+      "language": "Objective-C"
+    },
+    {
+      "name": "go-benchmarks",
+      "repo": "https://github.com/zchee/go-benchmarks",
+      "url": "https://godoc.org/github.com/zchee/go-benchmarks",
+      "language": "Go"
+    },
+    {
+      "name": "llmstxt-generator",
+      "repo": "https://github.com/zchee/llmstxt-generator",
+      "url": "https://pkg.go.dev/github.com/zchee/llmstxt-generator",
+      "language": "Go"
+    },
+    {
+      "name": "mempp",
+      "repo": "https://github.com/zchee/mempp",
+      "language": "Python"
+    },
+    {
+      "name": "agentica",
+      "repo": "https://github.com/zchee/agentica",
+      "language": "Python"
+    },
+    {
+      "name": "llmctxenv",
+      "repo": "https://github.com/zchee/llmctxenv",
+      "url": "https://pkg.go.dev/github.com/zchee/llmctxenv",
+      "language": "Go"
+    },
+    {
+      "name": "dockerfiles",
+      "repo": "https://github.com/zchee/dockerfiles",
+      "language": "Makefile"
+    },
+    {
+      "name": "sre-mcp-server",
+      "repo": "https://github.com/zchee/sre-mcp-server"
+    },
+    {
+      "name": "go-asif",
+      "repo": "https://github.com/zchee/go-asif"
+    },
+    {
+      "name": "go-openapi-tools",
+      "repo": "https://github.com/zchee/go-openapi-tools",
+      "language": "Go"
+    },
+    {
+      "name": "Adv360-Pro-ZMK",
+      "repo": "https://github.com/zchee/Adv360-Pro-ZMK",
+      "language": "Shell"
+    },
+    {
+      "name": "go-together-ai",
+      "repo": "https://github.com/zchee/go-together-ai",
+      "url": "https://pkg.go.dev/github.com/zchee/go-together-ai/together"
+    },
+    {
+      "name": "sensibility",
+      "repo": "https://github.com/zchee/sensibility"
+    },
+    {
+      "name": "zistretto",
+      "repo": "https://github.com/zchee/zistretto",
+      "language": "Go"
+    },
+    {
+      "name": "go-sandbox",
+      "repo": "https://github.com/zchee/go-sandbox",
+      "url": "https://godoc.org/github.com/zchee/go-sandbox",
+      "language": "Go"
+    },
+    {
+      "name": "hlstools",
+      "repo": "https://github.com/zchee/hlstools",
+      "language": "Go"
+    },
+    {
+      "name": "cmd",
+      "repo": "https://github.com/zchee/cmd",
+      "language": "Go"
+    },
+    {
+      "name": "compute-metadata-server",
+      "repo": "https://github.com/zchee/compute-metadata-server",
+      "url": "https://pkg.go.dev/github.com/zchee/compute-metadata-server/fakemetadata",
+      "language": "Go"
+    },
+    {
+      "name": "charm-sandbox",
+      "repo": "https://github.com/zchee/charm-sandbox"
+    },
+    {
+      "name": "gomod-outdated",
+      "repo": "https://github.com/zchee/gomod-outdated"
+    },
+    {
+      "name": "go-xed",
+      "repo": "https://github.com/zchee/go-xed",
+      "language": "Go"
+    },
+    {
+      "name": "git-command",
+      "repo": "https://github.com/zchee/git-command"
+    },
+    {
+      "name": "intelsdm",
+      "repo": "https://github.com/zchee/intelsdm",
+      "language": "Go"
+    },
+    {
+      "name": "grepapp",
+      "repo": "https://github.com/zchee/grepapp",
+      "language": "Go"
+    },
+    {
+      "name": "go-wasm-catboost",
+      "repo": "https://github.com/zchee/go-wasm-catboost"
+    },
+    {
+      "name": "gokati",
+      "repo": "https://github.com/zchee/gokati",
+      "language": "Go"
+    },
+    {
+      "name": "clangd",
+      "repo": "https://github.com/zchee/clangd",
+      "language": "Shell"
+    },
+    {
+      "name": "gcp-iam-roles",
+      "repo": "https://github.com/zchee/gcp-iam-roles",
+      "url": "https://godoc.org/github.com/zchee/gcp-iam-roles",
+      "language": "Makefile"
+    },
+    {
+      "name": "go-analyzer",
+      "repo": "https://github.com/zchee/go-analyzer",
+      "language": "Go"
+    },
+    {
+      "name": "gfm-test",
+      "repo": "https://github.com/zchee/gfm-test"
+    },
+    {
+      "name": "zapcl",
+      "repo": "https://github.com/zchee/zapcl",
+      "url": "https://pkg.go.dev/github.com/zchee/zapcl",
+      "language": "Go"
+    },
+    {
+      "name": "kt",
+      "repo": "https://github.com/zchee/kt",
+      "url": "https://godoc.org/github.com/zchee/kt",
+      "language": "Go"
+    },
+    {
+      "name": "libclang-python3",
+      "repo": "https://github.com/zchee/libclang-python3",
+      "language": "Python"
+    },
+    {
+      "name": "firestore",
+      "repo": "https://github.com/zchee/firestore",
+      "language": "Go"
+    },
+    {
+      "name": "cznic-libc",
+      "repo": "https://github.com/zchee/cznic-libc",
+      "language": "C"
+    },
+    {
+      "name": "spinctl",
+      "repo": "https://github.com/zchee/spinctl",
+      "url": "https://godoc.org/github.com/zchee/spinctl",
+      "language": "Go"
+    },
+    {
+      "name": "openapi2protobuf",
+      "repo": "https://github.com/zchee/openapi2protobuf",
+      "language": "Go"
+    },
+    {
+      "name": "goimportz",
+      "repo": "https://github.com/zchee/goimportz",
+      "language": "Go"
+    },
+    {
+      "name": "github-actions-cloud-spanner-emulator",
+      "repo": "https://github.com/zchee/github-actions-cloud-spanner-emulator",
+      "language": "Shell"
+    },
+    {
+      "name": "go-googlecloud-samples",
+      "repo": "https://github.com/zchee/go-googlecloud-samples",
+      "language": "Go"
+    },
+    {
+      "name": "go-jira",
+      "repo": "https://github.com/zchee/go-jira",
+      "language": "Go"
+    },
+    {
+      "name": "gomemcache",
+      "repo": "https://github.com/zchee/gomemcache",
+      "language": "Go"
+    },
+    {
+      "name": "tfc",
+      "repo": "https://github.com/zchee/tfc",
+      "language": "Go"
+    },
+    {
+      "name": "cznic-ccgo",
+      "repo": "https://github.com/zchee/cznic-ccgo",
+      "language": "Go"
+    }
+  ]
+}
