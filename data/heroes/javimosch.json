@@ -1,0 +1,524 @@
+{
+  "handle": "javimosch",
+  "name": "Javier Leandro Arancibia",
+  "github": [
+    "https://github.com/javimosch"
+  ],
+  "website": "https://intrane.fr/",
+  "bio": "Building robust, open-source infrastructure for the commons. AI-leveraged, self-hosted, built to last.",
+  "own_repos": 520,
+  "commits": 12560,
+  "apps": [],
+  "repos": [
+    {
+      "name": "poche-resend-webmail",
+      "repo": "https://github.com/javimosch/poche-resend-webmail",
+      "language": "Go"
+    },
+    {
+      "name": "bkn-drive",
+      "repo": "https://github.com/javimosch/bkn-drive",
+      "language": "Go"
+    },
+    {
+      "name": "bkn",
+      "repo": "https://github.com/javimosch/bkn",
+      "language": "Go"
+    },
+    {
+      "name": "machin-hart",
+      "repo": "https://github.com/javimosch/machin-hart",
+      "url": "https://hart.intrane.fr/",
+      "language": "Shell"
+    },
+    {
+      "name": "superlandings",
+      "repo": "https://github.com/javimosch/superlandings",
+      "url": "https://javimosch.github.io/superlandings/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cli-trial-spec",
+      "repo": "https://github.com/javimosch/cli-trial-spec"
+    },
+    {
+      "name": "relais",
+      "repo": "https://github.com/javimosch/relais",
+      "language": "Shell"
+    },
+    {
+      "name": "bilan",
+      "repo": "https://github.com/javimosch/bilan",
+      "language": "Shell"
+    },
+    {
+      "name": "perrus-cli",
+      "repo": "https://github.com/javimosch/perrus-cli",
+      "language": "Go"
+    },
+    {
+      "name": "machin-diffusion",
+      "repo": "https://github.com/javimosch/machin-diffusion",
+      "language": "Python"
+    },
+    {
+      "name": "machin",
+      "repo": "https://github.com/javimosch/machin",
+      "url": "https://javimosch.github.io/machin/",
+      "language": "Go"
+    },
+    {
+      "name": "fleet-cli",
+      "repo": "https://github.com/javimosch/fleet-cli",
+      "language": "Go"
+    },
+    {
+      "name": "boilerplate-cli-ui-nim",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-nim",
+      "language": "Nim"
+    },
+    {
+      "name": "cli-spec-conformance",
+      "repo": "https://github.com/javimosch/cli-spec-conformance",
+      "language": "Shell"
+    },
+    {
+      "name": "boilerplate-cli-ui-machin-isomorphic",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-machin-isomorphic",
+      "language": "JavaScript"
+    },
+    {
+      "name": "boilerplate-cli-ui-machin",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-machin",
+      "language": "HTML"
+    },
+    {
+      "name": "boilerplate-cli-ui-zig",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-zig",
+      "language": "Zig"
+    },
+    {
+      "name": "boilerplate-cli-ui-v",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-v",
+      "language": "JavaScript"
+    },
+    {
+      "name": "boilerplate-cli-ui-rust",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "boilerplate-cli-ui-python",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-python",
+      "language": "Python"
+    },
+    {
+      "name": "boilerplate-cli-ui-node",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "boilerplate-cli-ui-go-v2-react",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-go-v2-react",
+      "language": "Go"
+    },
+    {
+      "name": "boilerplate-cli-ui-go-v2-vue",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-go-v2-vue",
+      "language": "Go"
+    },
+    {
+      "name": "boilerplate-cli-ui-fleet",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-fleet",
+      "language": "Python"
+    },
+    {
+      "name": "boilerplate-cli-ui-dotnet",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-dotnet",
+      "language": "C#"
+    },
+    {
+      "name": "boilerplate-cli-ui-deno",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-deno",
+      "language": "TypeScript"
+    },
+    {
+      "name": "boilerplate-cli-ui-dart",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-dart",
+      "language": "JavaScript"
+    },
+    {
+      "name": "boilerplate-cli-ui-crystal",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-crystal",
+      "language": "JavaScript"
+    },
+    {
+      "name": "boilerplate-cli-ui-cpp",
+      "repo": "https://github.com/javimosch/boilerplate-cli-ui-cpp",
+      "language": "C++"
+    },
+    {
+      "name": "machin-dough",
+      "repo": "https://github.com/javimosch/machin-dough",
+      "language": "Shell"
+    },
+    {
+      "name": "awesome-machin",
+      "repo": "https://github.com/javimosch/awesome-machin"
+    },
+    {
+      "name": "media-gallery-go",
+      "repo": "https://github.com/javimosch/media-gallery-go",
+      "language": "Go"
+    },
+    {
+      "name": "junk-review-go",
+      "repo": "https://github.com/javimosch/junk-review-go",
+      "language": "Go"
+    },
+    {
+      "name": "essaim",
+      "repo": "https://github.com/javimosch/essaim",
+      "language": "Shell"
+    },
+    {
+      "name": "essaim-ui",
+      "repo": "https://github.com/javimosch/essaim-ui",
+      "language": "Go"
+    },
+    {
+      "name": "greffe",
+      "repo": "https://github.com/javimosch/greffe",
+      "url": "https://javimosch.github.io/greffe/",
+      "language": "Shell"
+    },
+    {
+      "name": "materiautheque",
+      "repo": "https://github.com/javimosch/materiautheque",
+      "language": "HTML"
+    },
+    {
+      "name": "enbauges-go",
+      "repo": "https://github.com/javimosch/enbauges-go",
+      "language": "HTML"
+    },
+    {
+      "name": "machin-tinystats",
+      "repo": "https://github.com/javimosch/machin-tinystats",
+      "language": "Shell"
+    },
+    {
+      "name": "furet",
+      "repo": "https://github.com/javimosch/furet",
+      "language": "JavaScript"
+    },
+    {
+      "name": "machin-aplomb",
+      "repo": "https://github.com/javimosch/machin-aplomb",
+      "language": "Shell"
+    },
+    {
+      "name": "creneau",
+      "repo": "https://github.com/javimosch/creneau",
+      "language": "Go"
+    },
+    {
+      "name": "remotecmd-cli",
+      "repo": "https://github.com/javimosch/remotecmd-cli",
+      "url": "https://javimosch.github.io/remotecmd-cli/",
+      "language": "Go"
+    },
+    {
+      "name": "pigo-faces",
+      "repo": "https://github.com/javimosch/pigo-faces",
+      "url": "https://javimosch.github.io/pigo-faces/",
+      "language": "Go"
+    },
+    {
+      "name": "veilleursdesbauges",
+      "repo": "https://github.com/javimosch/veilleursdesbauges",
+      "language": "HTML"
+    },
+    {
+      "name": "linux-use",
+      "repo": "https://github.com/javimosch/linux-use",
+      "url": "https://javimosch.github.io/linux-use/",
+      "language": "Python"
+    },
+    {
+      "name": "machin-pantin",
+      "repo": "https://github.com/javimosch/machin-pantin",
+      "language": "Python"
+    },
+    {
+      "name": "vigie",
+      "repo": "https://github.com/javimosch/vigie",
+      "url": "https://javimosch.github.io/vigie/",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-bkn",
+      "repo": "https://github.com/javimosch/machin-bkn",
+      "language": "JavaScript"
+    },
+    {
+      "name": "machin-escouade",
+      "repo": "https://github.com/javimosch/machin-escouade",
+      "language": "Python"
+    },
+    {
+      "name": "memgraph",
+      "repo": "https://github.com/javimosch/memgraph",
+      "url": "https://javimosch.github.io/memgraph/",
+      "language": "Go"
+    },
+    {
+      "name": "bkn-recipes",
+      "repo": "https://github.com/javimosch/bkn-recipes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "machin-ressort",
+      "repo": "https://github.com/javimosch/machin-ressort",
+      "language": "Python"
+    },
+    {
+      "name": "machin-amerrissage",
+      "repo": "https://github.com/javimosch/machin-amerrissage",
+      "language": "Shell"
+    },
+    {
+      "name": "javimosch",
+      "repo": "https://github.com/javimosch/javimosch"
+    },
+    {
+      "name": "machin-houle",
+      "repo": "https://github.com/javimosch/machin-houle",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-lowpoly",
+      "repo": "https://github.com/javimosch/machin-lowpoly",
+      "language": "Python"
+    },
+    {
+      "name": "machin-brick",
+      "repo": "https://github.com/javimosch/machin-brick",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-front",
+      "repo": "https://github.com/javimosch/machin-front",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-ressort-vr",
+      "repo": "https://github.com/javimosch/machin-ressort-vr",
+      "language": "Shell"
+    },
+    {
+      "name": "radio-alto-transcribe",
+      "repo": "https://github.com/javimosch/radio-alto-transcribe",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-ressort-thief",
+      "repo": "https://github.com/javimosch/machin-ressort-thief",
+      "language": "Shell"
+    },
+    {
+      "name": "hart-domain-sync",
+      "repo": "https://github.com/javimosch/hart-domain-sync",
+      "language": "Shell"
+    },
+    {
+      "name": "hotify-cli",
+      "repo": "https://github.com/javimosch/hotify-cli",
+      "url": "https://javimosch.github.io/hotify-cli/",
+      "language": "Go"
+    },
+    {
+      "name": "superinsights",
+      "repo": "https://github.com/javimosch/superinsights",
+      "url": "https://javimosch.github.io/superinsights/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "supercli",
+      "repo": "https://github.com/javimosch/supercli",
+      "url": "https://javimosch.github.io/supercli/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "scan-and-fill",
+      "repo": "https://github.com/javimosch/scan-and-fill",
+      "language": "C"
+    },
+    {
+      "name": "machin-ressort-splinter-cell",
+      "repo": "https://github.com/javimosch/machin-ressort-splinter-cell",
+      "language": "Shell"
+    },
+    {
+      "name": "veil",
+      "repo": "https://github.com/javimosch/veil",
+      "url": "https://javimosch.github.io/veil/",
+      "language": "Shell"
+    },
+    {
+      "name": "cuzz",
+      "repo": "https://github.com/javimosch/cuzz",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-idp",
+      "repo": "https://github.com/javimosch/machin-idp",
+      "language": "Shell"
+    },
+    {
+      "name": "glane",
+      "repo": "https://github.com/javimosch/glane",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-warscroller",
+      "repo": "https://github.com/javimosch/machin-warscroller",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-learn",
+      "repo": "https://github.com/javimosch/machin-learn",
+      "url": "https://github.com/javimosch/machin-learn"
+    },
+    {
+      "name": "ministats",
+      "repo": "https://github.com/javimosch/ministats",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tau",
+      "repo": "https://github.com/javimosch/tau",
+      "language": "Zig"
+    },
+    {
+      "name": "machin-headset-manager",
+      "repo": "https://github.com/javimosch/machin-headset-manager",
+      "language": "Shell"
+    },
+    {
+      "name": "state",
+      "repo": "https://github.com/javimosch/state",
+      "language": "Shell"
+    },
+    {
+      "name": "roam",
+      "repo": "https://github.com/javimosch/roam",
+      "language": "HTML"
+    },
+    {
+      "name": "grange",
+      "repo": "https://github.com/javimosch/grange",
+      "language": "Shell"
+    },
+    {
+      "name": "cli-daemon-spec",
+      "repo": "https://github.com/javimosch/cli-daemon-spec"
+    },
+    {
+      "name": "cli-update-spec",
+      "repo": "https://github.com/javimosch/cli-update-spec",
+      "url": "https://cli-specs.intrane.fr"
+    },
+    {
+      "name": "commis",
+      "repo": "https://github.com/javimosch/commis",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-gta",
+      "repo": "https://github.com/javimosch/machin-gta",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-esetres",
+      "repo": "https://github.com/javimosch/machin-esetres",
+      "url": "https://javimosch.github.io/machin-esetres/",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-wabin",
+      "repo": "https://github.com/javimosch/machin-wabin",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-signal",
+      "repo": "https://github.com/javimosch/machin-signal",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-protobuf",
+      "repo": "https://github.com/javimosch/machin-protobuf",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-noise",
+      "repo": "https://github.com/javimosch/machin-noise",
+      "language": "Shell"
+    },
+    {
+      "name": "poche",
+      "repo": "https://github.com/javimosch/poche",
+      "language": "Shell"
+    },
+    {
+      "name": "am-operator",
+      "repo": "https://github.com/javimosch/am-operator",
+      "url": "https://automaintainer.intrane.fr",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-secure",
+      "repo": "https://github.com/javimosch/machin-secure",
+      "language": "Shell"
+    },
+    {
+      "name": "cvboost-audits",
+      "repo": "https://github.com/javimosch/cvboost-audits"
+    },
+    {
+      "name": "machin-vault",
+      "repo": "https://github.com/javimosch/machin-vault",
+      "language": "Shell"
+    },
+    {
+      "name": "machin-open-serpapi",
+      "repo": "https://github.com/javimosch/machin-open-serpapi",
+      "url": "https://javimosch.github.io/machin-open-serpapi/",
+      "language": "HTML"
+    },
+    {
+      "name": "stranger",
+      "repo": "https://github.com/javimosch/stranger",
+      "language": "Shell"
+    },
+    {
+      "name": "cli-telemetry-spec",
+      "repo": "https://github.com/javimosch/cli-telemetry-spec"
+    },
+    {
+      "name": "machin-web-ui",
+      "repo": "https://github.com/javimosch/machin-web-ui",
+      "language": "CSS"
+    },
+    {
+      "name": "inbox-watch",
+      "repo": "https://github.com/javimosch/inbox-watch",
+      "language": "Python"
+    },
+    {
+      "name": "portier",
+      "repo": "https://github.com/javimosch/portier",
+      "language": "Shell"
+    }
+  ]
+}

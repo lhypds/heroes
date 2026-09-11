@@ -1,0 +1,513 @@
+{
+  "handle": "s-h-gamelinks",
+  "name": "S.H.",
+  "github": [
+    "https://github.com/s-h-gamelinks"
+  ],
+  "bio": "local programmer",
+  "own_repos": 438,
+  "commits": 16761,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cruby-on-sel4",
+      "repo": "https://github.com/S-H-GAMELINKS/cruby-on-sel4",
+      "language": "C"
+    },
+    {
+      "name": "picoruby-kernel",
+      "repo": "https://github.com/S-H-GAMELINKS/picoruby-kernel",
+      "language": "CMake"
+    },
+    {
+      "name": "kanayago",
+      "repo": "https://github.com/S-H-GAMELINKS/kanayago",
+      "language": "Ruby"
+    },
+    {
+      "name": "sel4-helloworld",
+      "repo": "https://github.com/S-H-GAMELINKS/sel4-helloworld",
+      "language": "CMake"
+    },
+    {
+      "name": "yorishiro",
+      "repo": "https://github.com/S-H-GAMELINKS/yorishiro",
+      "language": "Ruby"
+    },
+    {
+      "name": "gemma4-26b-yorishiro-sample-todo-app",
+      "repo": "https://github.com/S-H-GAMELINKS/gemma4-26b-yorishiro-sample-todo-app",
+      "language": "HTML"
+    },
+    {
+      "name": "bookworm",
+      "repo": "https://github.com/S-H-GAMELINKS/bookworm",
+      "language": "Ruby"
+    },
+    {
+      "name": "igata",
+      "repo": "https://github.com/S-H-GAMELINKS/igata",
+      "language": "Ruby"
+    },
+    {
+      "name": "sel4-musl-helloworld",
+      "repo": "https://github.com/S-H-GAMELINKS/sel4-musl-helloworld",
+      "language": "C"
+    },
+    {
+      "name": "ruby-on-bare-metal",
+      "repo": "https://github.com/S-H-GAMELINKS/ruby-on-bare-metal",
+      "language": "C"
+    },
+    {
+      "name": "termfront",
+      "repo": "https://github.com/S-H-GAMELINKS/termfront",
+      "language": "Ruby"
+    },
+    {
+      "name": "unikraft-ruby-4.0.3",
+      "repo": "https://github.com/S-H-GAMELINKS/unikraft-ruby-4.0.3",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "akindo",
+      "repo": "https://github.com/S-H-GAMELINKS/akindo",
+      "language": "Ruby"
+    },
+    {
+      "name": "hanami-bookshelf",
+      "repo": "https://github.com/S-H-GAMELINKS/hanami-bookshelf",
+      "language": "Ruby"
+    },
+    {
+      "name": "hanami-tatara",
+      "repo": "https://github.com/S-H-GAMELINKS/hanami-tatara",
+      "language": "Ruby"
+    },
+    {
+      "name": "tsuzuri",
+      "repo": "https://github.com/S-H-GAMELINKS/tsuzuri",
+      "language": "Ruby"
+    },
+    {
+      "name": "AWS-Lambda-Bot",
+      "repo": "https://github.com/S-H-GAMELINKS/AWS-Lambda-Bot",
+      "language": "Ruby"
+    },
+    {
+      "name": "mui",
+      "repo": "https://github.com/S-H-GAMELINKS/mui",
+      "url": "https://s-h-gamelinks.github.io/mui/",
+      "language": "Ruby"
+    },
+    {
+      "name": "head-ci-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/head-ci-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "cot",
+      "repo": "https://github.com/S-H-GAMELINKS/cot",
+      "language": "Ruby"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/S-H-GAMELINKS/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "kisa",
+      "repo": "https://github.com/S-H-GAMELINKS/kisa",
+      "language": "Ruby"
+    },
+    {
+      "name": "mui-lsp",
+      "repo": "https://github.com/S-H-GAMELINKS/mui-lsp",
+      "language": "Ruby"
+    },
+    {
+      "name": "mui-git",
+      "repo": "https://github.com/S-H-GAMELINKS/mui-git",
+      "language": "Ruby"
+    },
+    {
+      "name": "mui-fzf",
+      "repo": "https://github.com/S-H-GAMELINKS/mui-fzf",
+      "language": "Ruby"
+    },
+    {
+      "name": "zed-kanayago",
+      "repo": "https://github.com/S-H-GAMELINKS/zed-kanayago",
+      "language": "Rust"
+    },
+    {
+      "name": "coc-kanayago",
+      "repo": "https://github.com/S-H-GAMELINKS/coc-kanayago",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vscode-kanayago",
+      "repo": "https://github.com/S-H-GAMELINKS/vscode-kanayago",
+      "language": "JavaScript"
+    },
+    {
+      "name": "activity-pub-relay",
+      "repo": "https://github.com/S-H-GAMELINKS/activity-pub-relay",
+      "url": "https://s-h-gamelinks.github.io/activity-pub-relay/",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-hack-challenge-on-browser",
+      "repo": "https://github.com/S-H-GAMELINKS/ruby-hack-challenge-on-browser",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "spartan-mission-log",
+      "repo": "https://github.com/S-H-GAMELINKS/spartan-mission-log",
+      "language": "TypeScript"
+    },
+    {
+      "name": "laravel-dev",
+      "repo": "https://github.com/S-H-GAMELINKS/laravel-dev",
+      "language": "Ruby"
+    },
+    {
+      "name": "coc-typeprof",
+      "repo": "https://github.com/S-H-GAMELINKS/coc-typeprof",
+      "language": "JavaScript"
+    },
+    {
+      "name": "creative_booster",
+      "repo": "https://github.com/S-H-GAMELINKS/creative_booster",
+      "language": "Ruby"
+    },
+    {
+      "name": "lacot",
+      "repo": "https://github.com/S-H-GAMELINKS/lacot",
+      "language": "PHP"
+    },
+    {
+      "name": "esa-mcp-server",
+      "repo": "https://github.com/S-H-GAMELINKS/esa-mcp-server",
+      "language": "Ruby"
+    },
+    {
+      "name": "laravel-excel-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/laravel-excel-sample",
+      "language": "PHP"
+    },
+    {
+      "name": "notectl",
+      "repo": "https://github.com/S-H-GAMELINKS/notectl",
+      "language": "Rust"
+    },
+    {
+      "name": "mastodon-spam-activity-rejecter",
+      "repo": "https://github.com/S-H-GAMELINKS/mastodon-spam-activity-rejecter",
+      "language": "Ruby"
+    },
+    {
+      "name": "mount_engine_sample",
+      "repo": "https://github.com/S-H-GAMELINKS/mount_engine_sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "connpass-shimane-line",
+      "repo": "https://github.com/S-H-GAMELINKS/connpass-shimane-line",
+      "language": "Ruby"
+    },
+    {
+      "name": "auto-spam-executioner",
+      "repo": "https://github.com/S-H-GAMELINKS/auto-spam-executioner",
+      "language": "Python"
+    },
+    {
+      "name": "sa",
+      "repo": "https://github.com/S-H-GAMELINKS/sa"
+    },
+    {
+      "name": "graduating-ruby-literal-object-generation-from-parsey",
+      "repo": "https://github.com/S-H-GAMELINKS/graduating-ruby-literal-object-generation-from-parsey",
+      "language": "Ruby"
+    },
+    {
+      "name": "tatara",
+      "repo": "https://github.com/S-H-GAMELINKS/tatara",
+      "language": "C++"
+    },
+    {
+      "name": "flask_exmaple",
+      "repo": "https://github.com/S-H-GAMELINKS/flask_exmaple",
+      "language": "HTML"
+    },
+    {
+      "name": "react-tutorial",
+      "repo": "https://github.com/S-H-GAMELINKS/react-tutorial",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sol_structured_bindings",
+      "repo": "https://github.com/S-H-GAMELINKS/sol_structured_bindings",
+      "language": "C++"
+    },
+    {
+      "name": "mastodon-maintenance-docs",
+      "repo": "https://github.com/S-H-GAMELINKS/mastodon-maintenance-docs"
+    },
+    {
+      "name": "rails-jinrai-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/rails-jinrai-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "ramazon",
+      "repo": "https://github.com/S-H-GAMELINKS/ramazon",
+      "language": "Ruby"
+    },
+    {
+      "name": "rabasic",
+      "repo": "https://github.com/S-H-GAMELINKS/rabasic",
+      "language": "Ruby"
+    },
+    {
+      "name": "Rails6ActionTextSample",
+      "repo": "https://github.com/S-H-GAMELINKS/Rails6ActionTextSample",
+      "language": "Ruby"
+    },
+    {
+      "name": "ruby-parser-gems-learning",
+      "repo": "https://github.com/S-H-GAMELINKS/ruby-parser-gems-learning",
+      "language": "C"
+    },
+    {
+      "name": "ruby-dry-monads-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/ruby-dry-monads-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "creatodon-auto-release-note-post",
+      "repo": "https://github.com/S-H-GAMELINKS/creatodon-auto-release-note-post",
+      "language": "Ruby"
+    },
+    {
+      "name": "BookList",
+      "repo": "https://github.com/S-H-GAMELINKS/BookList",
+      "language": "PHP"
+    },
+    {
+      "name": "rails-elasticmq-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/rails-elasticmq-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails-localstack-s3-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/rails-localstack-s3-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "nsfw-rb-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/nsfw-rb-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "cypress-rails-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/cypress-rails-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "auto-nsfw-check-called-by-pycall",
+      "repo": "https://github.com/S-H-GAMELINKS/auto-nsfw-check-called-by-pycall",
+      "language": "Ruby"
+    },
+    {
+      "name": "creatodon-folio",
+      "repo": "https://github.com/S-H-GAMELINKS/creatodon-folio",
+      "language": "TypeScript"
+    },
+    {
+      "name": "hello_app_v7",
+      "repo": "https://github.com/S-H-GAMELINKS/hello_app_v7",
+      "language": "Ruby"
+    },
+    {
+      "name": "auto-nsfw-checker",
+      "repo": "https://github.com/S-H-GAMELINKS/auto-nsfw-checker",
+      "language": "Python"
+    },
+    {
+      "name": "mastodon-self-post-meilisearch",
+      "repo": "https://github.com/S-H-GAMELINKS/mastodon-self-post-meilisearch",
+      "language": "Rust"
+    },
+    {
+      "name": "creatodon-chat-bot",
+      "repo": "https://github.com/S-H-GAMELINKS/creatodon-chat-bot",
+      "language": "Ruby"
+    },
+    {
+      "name": "gatsby-new",
+      "repo": "https://github.com/S-H-GAMELINKS/gatsby-new",
+      "language": "CSS"
+    },
+    {
+      "name": "dos-toot",
+      "repo": "https://github.com/S-H-GAMELINKS/dos-toot",
+      "language": "Ruby"
+    },
+    {
+      "name": "actionchat",
+      "repo": "https://github.com/S-H-GAMELINKS/actionchat",
+      "language": "Ruby"
+    },
+    {
+      "name": "face_under_construction",
+      "repo": "https://github.com/S-H-GAMELINKS/face_under_construction",
+      "language": "Ruby"
+    },
+    {
+      "name": "flaskpay",
+      "repo": "https://github.com/S-H-GAMELINKS/flaskpay",
+      "language": "Vue"
+    },
+    {
+      "name": "lapress",
+      "repo": "https://github.com/S-H-GAMELINKS/lapress",
+      "language": "PHP"
+    },
+    {
+      "name": "lamazon",
+      "repo": "https://github.com/S-H-GAMELINKS/lamazon",
+      "language": "PHP"
+    },
+    {
+      "name": "larec",
+      "repo": "https://github.com/S-H-GAMELINKS/larec",
+      "language": "PHP"
+    },
+    {
+      "name": "laravelShopCartsSample",
+      "repo": "https://github.com/S-H-GAMELINKS/laravelShopCartsSample",
+      "language": "PHP"
+    },
+    {
+      "name": "simplelarapay",
+      "repo": "https://github.com/S-H-GAMELINKS/simplelarapay",
+      "language": "PHP"
+    },
+    {
+      "name": "nestview",
+      "repo": "https://github.com/S-H-GAMELINKS/nestview",
+      "language": "PHP"
+    },
+    {
+      "name": "larapayqr",
+      "repo": "https://github.com/S-H-GAMELINKS/larapayqr",
+      "language": "PHP"
+    },
+    {
+      "name": "larapress",
+      "repo": "https://github.com/S-H-GAMELINKS/larapress",
+      "language": "PHP"
+    },
+    {
+      "name": "example_cancancan",
+      "repo": "https://github.com/S-H-GAMELINKS/example_cancancan",
+      "language": "Ruby"
+    },
+    {
+      "name": "takujo",
+      "repo": "https://github.com/S-H-GAMELINKS/takujo",
+      "language": "Ruby"
+    },
+    {
+      "name": "action_cable_52_sample",
+      "repo": "https://github.com/S-H-GAMELINKS/action_cable_52_sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "acts_as_cart_ex",
+      "repo": "https://github.com/S-H-GAMELINKS/acts_as_cart_ex",
+      "language": "Ruby"
+    },
+    {
+      "name": "administrate.sample",
+      "repo": "https://github.com/S-H-GAMELINKS/administrate.sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "EC.example",
+      "repo": "https://github.com/S-H-GAMELINKS/EC.example",
+      "language": "Ruby"
+    },
+    {
+      "name": "rails_tatara",
+      "repo": "https://github.com/S-H-GAMELINKS/rails_tatara",
+      "language": "Ruby"
+    },
+    {
+      "name": "ark",
+      "repo": "https://github.com/S-H-GAMELINKS/ark",
+      "language": "Ruby"
+    },
+    {
+      "name": "MyCMS",
+      "repo": "https://github.com/S-H-GAMELINKS/MyCMS",
+      "language": "Ruby"
+    },
+    {
+      "name": "spinaex",
+      "repo": "https://github.com/S-H-GAMELINKS/spinaex",
+      "language": "Ruby"
+    },
+    {
+      "name": "ActiveStorageFirst",
+      "repo": "https://github.com/S-H-GAMELINKS/ActiveStorageFirst",
+      "language": "Ruby"
+    },
+    {
+      "name": "opennsfw2-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/opennsfw2-sample",
+      "language": "Python"
+    },
+    {
+      "name": "hanami-webpack-sample",
+      "repo": "https://github.com/S-H-GAMELINKS/hanami-webpack-sample",
+      "language": "Ruby"
+    },
+    {
+      "name": "omeshimono",
+      "repo": "https://github.com/S-H-GAMELINKS/omeshimono",
+      "language": "HTML"
+    },
+    {
+      "name": "iron-svelte",
+      "repo": "https://github.com/S-H-GAMELINKS/iron-svelte",
+      "language": "Svelte"
+    },
+    {
+      "name": "iris-gettingstart",
+      "repo": "https://github.com/S-H-GAMELINKS/iris-gettingstart",
+      "language": "JavaScript"
+    },
+    {
+      "name": "sol_firebase_sample",
+      "repo": "https://github.com/S-H-GAMELINKS/sol_firebase_sample",
+      "language": "HTML"
+    },
+    {
+      "name": "sol_orm_sample",
+      "repo": "https://github.com/S-H-GAMELINKS/sol_orm_sample",
+      "language": "C++"
+    },
+    {
+      "name": "MyCharacterSummon",
+      "repo": "https://github.com/S-H-GAMELINKS/MyCharacterSummon",
+      "language": "C++"
+    },
+    {
+      "name": "sol_stimulus_svelte_exsample",
+      "repo": "https://github.com/S-H-GAMELINKS/sol_stimulus_svelte_exsample",
+      "language": "HTML"
+    }
+  ]
+}

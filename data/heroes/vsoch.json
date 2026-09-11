@@ -1,0 +1,559 @@
+{
+  "handle": "vsoch",
+  "name": "Vanessa Sochat",
+  "github": [
+    "https://github.com/vsoch"
+  ],
+  "website": "https://vsoch.github.io/",
+  "bio": "Principal Computer Scientist @ LLNL",
+  "own_repos": 407,
+  "commits": 17589,
+  "apps": [],
+  "repos": [
+    {
+      "name": "search",
+      "repo": "https://github.com/vsoch/search",
+      "url": "https://vsoch.github.io/search",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vsoch.github.io",
+      "repo": "https://github.com/vsoch/vsoch.github.io",
+      "url": "https://vsoch.github.io",
+      "language": "JavaScript"
+    },
+    {
+      "name": "devcontainer",
+      "repo": "https://github.com/vsoch/devcontainer",
+      "language": "Shell"
+    },
+    {
+      "name": "contributor-ci",
+      "repo": "https://github.com/vsoch/contributor-ci",
+      "url": "https://contributor-ci.readthedocs.io/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "bike-trips",
+      "repo": "https://github.com/vsoch/bike-trips",
+      "language": "HTML"
+    },
+    {
+      "name": "games",
+      "repo": "https://github.com/vsoch/games",
+      "url": "https://vsoch.github.io/games/ski-bums/",
+      "language": "HTML"
+    },
+    {
+      "name": "datasets",
+      "repo": "https://github.com/vsoch/datasets",
+      "url": "https://vsoch.github.io/datasets/",
+      "language": "HTML"
+    },
+    {
+      "name": "drain-log",
+      "repo": "https://github.com/vsoch/drain-log",
+      "url": "https://vsoch.github.io/drain-log",
+      "language": "HTML"
+    },
+    {
+      "name": "zenodo-validator",
+      "repo": "https://github.com/vsoch/zenodo-validator",
+      "language": "Shell"
+    },
+    {
+      "name": "travel-bingo",
+      "repo": "https://github.com/vsoch/travel-bingo",
+      "language": "HTML"
+    },
+    {
+      "name": "trick-or-treat-street",
+      "repo": "https://github.com/vsoch/trick-or-treat-street",
+      "url": "https://vsoch.github.io/trick-or-treat-street/",
+      "language": "HTML"
+    },
+    {
+      "name": "opensource-heartbeat",
+      "repo": "https://github.com/vsoch/opensource-heartbeat",
+      "url": "https://vsoch.github.io/opensource-heartbeat/"
+    },
+    {
+      "name": "oci-python",
+      "repo": "https://github.com/vsoch/oci-python",
+      "url": "https://vsoch.github.io/oci-python/",
+      "language": "Python"
+    },
+    {
+      "name": "mw2md.py",
+      "repo": "https://github.com/vsoch/mw2md.py",
+      "language": "Python"
+    },
+    {
+      "name": "pull-request-action",
+      "repo": "https://github.com/vsoch/pull-request-action",
+      "url": "https://github.com/marketplace/actions/pull-request-action",
+      "language": "Python"
+    },
+    {
+      "name": "citelang",
+      "repo": "https://github.com/vsoch/citelang",
+      "url": "https://vsoch.github.io/citelang/getting_started/user-guide.html",
+      "language": "Python"
+    },
+    {
+      "name": "pypi-classifiers",
+      "repo": "https://github.com/vsoch/pypi-classifiers",
+      "url": "https://vsoch.github.io/pypi-classifiers/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "caliper",
+      "repo": "https://github.com/vsoch/caliper",
+      "url": "https://caliper-python.readthedocs.io/",
+      "language": "Python"
+    },
+    {
+      "name": "opensource-art",
+      "repo": "https://github.com/vsoch/opensource-art",
+      "url": "https://vsoch.github.io/opensource-art/",
+      "language": "Python"
+    },
+    {
+      "name": "mkdocs-jekyll",
+      "repo": "https://github.com/vsoch/mkdocs-jekyll",
+      "url": "https://vsoch.github.io/mkdocs-jekyll/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "cdb",
+      "repo": "https://github.com/vsoch/cdb",
+      "url": "https://vsoch.github.io/cdb/",
+      "language": "Python"
+    },
+    {
+      "name": "django-nginx-upload",
+      "repo": "https://github.com/vsoch/django-nginx-upload",
+      "language": "Python"
+    },
+    {
+      "name": "scif",
+      "repo": "https://github.com/vsoch/scif",
+      "url": "https://sci-f.github.io/",
+      "language": "Python"
+    },
+    {
+      "name": "TtoZ",
+      "repo": "https://github.com/vsoch/TtoZ",
+      "language": "Python"
+    },
+    {
+      "name": "nix",
+      "repo": "https://github.com/vsoch/nix",
+      "language": "Nix"
+    },
+    {
+      "name": "chonker-awards",
+      "repo": "https://github.com/vsoch/chonker-awards",
+      "url": "https://vsoch.github.io/chonker-awards/",
+      "language": "CSS"
+    },
+    {
+      "name": "django-river-ml",
+      "repo": "https://github.com/vsoch/django-river-ml",
+      "url": "https://vsoch.github.io/django-river-ml/",
+      "language": "Python"
+    },
+    {
+      "name": "forward",
+      "repo": "https://github.com/vsoch/forward",
+      "url": "https://vsoch.github.io/lessons/sherlock-singularity/",
+      "language": "Shell"
+    },
+    {
+      "name": "docsy-jekyll",
+      "repo": "https://github.com/vsoch/docsy-jekyll",
+      "url": "https://vsoch.github.io/docsy-jekyll/",
+      "language": "CSS"
+    },
+    {
+      "name": "learning-rust",
+      "repo": "https://github.com/vsoch/learning-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "pipelib",
+      "repo": "https://github.com/vsoch/pipelib",
+      "url": "https://vsoch.github.io/pipelib/getting_started/user-guide.html",
+      "language": "Python"
+    },
+    {
+      "name": "github-cleanup-forks",
+      "repo": "https://github.com/vsoch/github-cleanup-forks",
+      "language": "Python"
+    },
+    {
+      "name": "pytest-github-report",
+      "repo": "https://github.com/vsoch/pytest-github-report",
+      "language": "Python"
+    },
+    {
+      "name": "sregistry-k8",
+      "repo": "https://github.com/vsoch/sregistry-k8",
+      "language": "Python"
+    },
+    {
+      "name": "askci",
+      "repo": "https://github.com/vsoch/askci",
+      "url": "https://vsoch.github.io/askci",
+      "language": "Python"
+    },
+    {
+      "name": "test-registry",
+      "repo": "https://github.com/vsoch/test-registry"
+    },
+    {
+      "name": "flux-python",
+      "repo": "https://github.com/vsoch/flux-python",
+      "language": "Python"
+    },
+    {
+      "name": "flux-commands",
+      "repo": "https://github.com/vsoch/flux-commands"
+    },
+    {
+      "name": "license-updater",
+      "repo": "https://github.com/vsoch/license-updater",
+      "url": "https://vsoch.github.io/license-updater/",
+      "language": "Python"
+    },
+    {
+      "name": "elfcall",
+      "repo": "https://github.com/vsoch/elfcall",
+      "url": "https://vsoch.github.io/elfcall/",
+      "language": "Python"
+    },
+    {
+      "name": "vsoch",
+      "repo": "https://github.com/vsoch/vsoch"
+    },
+    {
+      "name": "pokemon",
+      "repo": "https://github.com/vsoch/pokemon",
+      "language": "Python"
+    },
+    {
+      "name": "spack-package-action",
+      "repo": "https://github.com/vsoch/spack-package-action",
+      "language": "CSS"
+    },
+    {
+      "name": "algorithms",
+      "repo": "https://github.com/vsoch/algorithms",
+      "language": "Python"
+    },
+    {
+      "name": "django-oci",
+      "repo": "https://github.com/vsoch/django-oci",
+      "url": "https://vsoch.github.io/django-oci/",
+      "language": "Python"
+    },
+    {
+      "name": "v1",
+      "repo": "https://github.com/vsoch/v1",
+      "language": "HTML"
+    },
+    {
+      "name": "uptodate",
+      "repo": "https://github.com/vsoch/uptodate",
+      "url": "https://vsoch.github.io/uptodate/",
+      "language": "Go"
+    },
+    {
+      "name": "som",
+      "repo": "https://github.com/vsoch/som",
+      "url": "https://vsoch.github.io/som",
+      "language": "Python"
+    },
+    {
+      "name": "puzzles",
+      "repo": "https://github.com/vsoch/puzzles",
+      "url": "https://nbviewer.jupyter.org/github/vsoch/puzzles/blob/master/examples/avocado-puzzle.ipynb",
+      "language": "Python"
+    },
+    {
+      "name": "action-updater",
+      "repo": "https://github.com/vsoch/action-updater",
+      "url": "https://vsoch.github.io/action-updater/",
+      "language": "Python"
+    },
+    {
+      "name": "split-list-action",
+      "repo": "https://github.com/vsoch/split-list-action",
+      "language": "Python"
+    },
+    {
+      "name": "ood-compose",
+      "repo": "https://github.com/vsoch/ood-compose",
+      "language": "Shell"
+    },
+    {
+      "name": "lolcow-operator",
+      "repo": "https://github.com/vsoch/lolcow-operator",
+      "language": "HTML"
+    },
+    {
+      "name": "watchme",
+      "repo": "https://github.com/vsoch/watchme",
+      "url": "https://vsoch.github.io/watchme/",
+      "language": "HTML"
+    },
+    {
+      "name": "CogPheno",
+      "repo": "https://github.com/vsoch/CogPheno",
+      "language": "Python"
+    },
+    {
+      "name": "qme",
+      "repo": "https://github.com/vsoch/qme",
+      "url": "https://vsoch.github.io/qme/",
+      "language": "Python"
+    },
+    {
+      "name": "cssclean",
+      "repo": "https://github.com/vsoch/cssclean",
+      "language": "Python"
+    },
+    {
+      "name": "ohno",
+      "repo": "https://github.com/vsoch/ohno",
+      "url": "https://vsoch.github.io/ohno/getting_started/user-guide.html",
+      "language": "Python"
+    },
+    {
+      "name": "oras-python",
+      "repo": "https://github.com/vsoch/oras-python",
+      "language": "Python"
+    },
+    {
+      "name": "compspec",
+      "repo": "https://github.com/vsoch/compspec",
+      "language": "Python"
+    },
+    {
+      "name": "notes-jekyll",
+      "repo": "https://github.com/vsoch/notes-jekyll",
+      "url": "https://vsoch.github.io/notes-jekyll/",
+      "language": "HTML"
+    },
+    {
+      "name": "contributor-ci-llnl",
+      "repo": "https://github.com/vsoch/contributor-ci-llnl",
+      "language": "JavaScript"
+    },
+    {
+      "name": "freegenes",
+      "repo": "https://github.com/vsoch/freegenes",
+      "url": "https://vsoch.github.io/freegenes/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "microfish",
+      "repo": "https://github.com/vsoch/microfish",
+      "language": "HTML"
+    },
+    {
+      "name": "releasecred",
+      "repo": "https://github.com/vsoch/releasecred"
+    },
+    {
+      "name": "online_ml_custom",
+      "repo": "https://github.com/vsoch/online_ml_custom",
+      "language": "Python"
+    },
+    {
+      "name": "riverapi",
+      "repo": "https://github.com/vsoch/riverapi",
+      "url": "https://vsoch.github.io/riverapi",
+      "language": "Python"
+    },
+    {
+      "name": "tw-jekyll",
+      "repo": "https://github.com/vsoch/tw-jekyll",
+      "url": "https://vsoch.github.io/tw-jekyll/",
+      "language": "HTML"
+    },
+    {
+      "name": "llnl-contributors",
+      "repo": "https://github.com/vsoch/llnl-contributors",
+      "url": "https://vsoch.github.io/llnl-contributors/",
+      "language": "HTML"
+    },
+    {
+      "name": "proposal-jekyll",
+      "repo": "https://github.com/vsoch/proposal-jekyll",
+      "url": "https://vsoch.github.io/proposal-jekyll/",
+      "language": "Python"
+    },
+    {
+      "name": "interactive-container-commands",
+      "repo": "https://github.com/vsoch/interactive-container-commands",
+      "language": "Python"
+    },
+    {
+      "name": "comp",
+      "repo": "https://github.com/vsoch/comp",
+      "url": "https://vsoch.github.io/comp/",
+      "language": "Go"
+    },
+    {
+      "name": "k8s-vagrant",
+      "repo": "https://github.com/vsoch/k8s-vagrant",
+      "language": "Shell"
+    },
+    {
+      "name": "debug_dwarf",
+      "repo": "https://github.com/vsoch/debug_dwarf",
+      "language": "Go"
+    },
+    {
+      "name": "caliper-metrics",
+      "repo": "https://github.com/vsoch/caliper-metrics"
+    },
+    {
+      "name": "codestats",
+      "repo": "https://github.com/vsoch/codestats",
+      "url": "https://vsoch.github.io/codestats/",
+      "language": "Go"
+    },
+    {
+      "name": "natacha-bot",
+      "repo": "https://github.com/vsoch/natacha-bot",
+      "url": "https://vsoch.github.io/natacha-bot/",
+      "language": "Lua"
+    },
+    {
+      "name": "atom-hpc",
+      "repo": "https://github.com/vsoch/atom-hpc",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "post-label-container",
+      "repo": "https://github.com/vsoch/post-label-container",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gosmeagle",
+      "repo": "https://github.com/vsoch/gosmeagle",
+      "language": "Go"
+    },
+    {
+      "name": "gil-speaks",
+      "repo": "https://github.com/vsoch/gil-speaks",
+      "url": "https://vsoch.github.io/gil-speaks/",
+      "language": "CSS"
+    },
+    {
+      "name": "candy-generator",
+      "repo": "https://github.com/vsoch/candy-generator",
+      "url": "https://vsoch.github.io/candy-generator/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mhttc",
+      "repo": "https://github.com/vsoch/mhttc",
+      "url": "https://vsoch.github.io/mhttc/",
+      "language": "Python"
+    },
+    {
+      "name": "containerspec",
+      "repo": "https://github.com/vsoch/containerspec",
+      "language": "Go"
+    },
+    {
+      "name": "spacksperiment",
+      "repo": "https://github.com/vsoch/spacksperiment",
+      "language": "Lua"
+    },
+    {
+      "name": "noisecloud-www",
+      "repo": "https://github.com/vsoch/noisecloud-www",
+      "url": "https://vsoch.github.io/noisecloud-www/",
+      "language": "HTML"
+    },
+    {
+      "name": "noisecloud",
+      "repo": "https://github.com/vsoch/noisecloud",
+      "language": "MATLAB"
+    },
+    {
+      "name": "image-comparison-thresholding",
+      "repo": "https://github.com/vsoch/image-comparison-thresholding",
+      "url": "https://vsoch.github.io/image-comparison-thresholding",
+      "language": "Python"
+    },
+    {
+      "name": "authorSynth",
+      "repo": "https://github.com/vsoch/authorSynth",
+      "language": "R"
+    },
+    {
+      "name": "helpme",
+      "repo": "https://github.com/vsoch/helpme",
+      "url": "https://vsoch.github.io/helpme",
+      "language": "Python"
+    },
+    {
+      "name": "containershare",
+      "repo": "https://github.com/vsoch/containershare",
+      "url": "https://vsoch.github.io/containershare",
+      "language": "TeX"
+    },
+    {
+      "name": "gridtest",
+      "repo": "https://github.com/vsoch/gridtest",
+      "url": "https://vsoch.github.io/gridtest/",
+      "language": "HTML"
+    },
+    {
+      "name": "40-avocados",
+      "repo": "https://github.com/vsoch/40-avocados",
+      "url": "https://vsoch.github.io/40-avocados/",
+      "language": "Python"
+    },
+    {
+      "name": "markovmeme",
+      "repo": "https://github.com/vsoch/markovmeme",
+      "url": "https://vsoch.github.io/markovmeme",
+      "language": "Python"
+    },
+    {
+      "name": "blinky",
+      "repo": "https://github.com/vsoch/blinky",
+      "language": "Python"
+    },
+    {
+      "name": "rfc-jekyll",
+      "repo": "https://github.com/vsoch/rfc-jekyll",
+      "url": "https://vsoch.github.io/rfc-jekyll/",
+      "language": "CSS"
+    },
+    {
+      "name": "pull-request-action-example",
+      "repo": "https://github.com/vsoch/pull-request-action-example"
+    },
+    {
+      "name": "package-popularity",
+      "repo": "https://github.com/vsoch/package-popularity",
+      "language": "HTML"
+    },
+    {
+      "name": "test-gpg",
+      "repo": "https://github.com/vsoch/test-gpg"
+    },
+    {
+      "name": "DisorderBehavior",
+      "repo": "https://github.com/vsoch/DisorderBehavior",
+      "language": "Python"
+    }
+  ]
+}

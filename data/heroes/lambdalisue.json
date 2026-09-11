@@ -1,0 +1,546 @@
+{
+  "handle": "lambdalisue",
+  "name": "Λlisue",
+  "github": [
+    "https://github.com/lambdalisue"
+  ],
+  "website": "https://keybase.io/lambdalisue",
+  "bio": "Vim, Python, Rust, Deno Λlisue := \"Ali sue\" or \"ありすえ\"",
+  "own_repos": 341,
+  "commits": 11235,
+  "apps": [],
+  "repos": [
+    {
+      "name": "homebrew-cclens",
+      "repo": "https://github.com/lambdalisue/homebrew-cclens",
+      "language": "Ruby"
+    },
+    {
+      "name": "cclens",
+      "repo": "https://github.com/lambdalisue/cclens",
+      "language": "Rust"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/lambdalisue/dotfiles",
+      "language": "Shell"
+    },
+    {
+      "name": "gh-as",
+      "repo": "https://github.com/lambdalisue/gh-as",
+      "language": "Shell"
+    },
+    {
+      "name": "rs-metrics-process",
+      "repo": "https://github.com/lambdalisue/rs-metrics-process",
+      "url": "https://docs.rs/metrics-process/latest/metrics_process/",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-fern",
+      "repo": "https://github.com/lambdalisue/vim-fern",
+      "language": "Vim Script"
+    },
+    {
+      "name": "zenn-articles",
+      "repo": "https://github.com/lambdalisue/zenn-articles",
+      "language": "Nix"
+    },
+    {
+      "name": "rs-serviceconf",
+      "repo": "https://github.com/lambdalisue/rs-serviceconf",
+      "url": "https://crates.io/crates/serviceconf",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-gin",
+      "repo": "https://github.com/lambdalisue/vim-gin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rs-saferet",
+      "repo": "https://github.com/lambdalisue/rs-saferet",
+      "url": "https://crates.io/crates/saferet",
+      "language": "Rust"
+    },
+    {
+      "name": "nvim-aibo",
+      "repo": "https://github.com/lambdalisue/nvim-aibo",
+      "language": "Lua"
+    },
+    {
+      "name": "vim-nerdfont",
+      "repo": "https://github.com/lambdalisue/vim-nerdfont",
+      "language": "Vim Script"
+    },
+    {
+      "name": "rs-ptybridge",
+      "repo": "https://github.com/lambdalisue/rs-ptybridge",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-guise",
+      "repo": "https://github.com/lambdalisue/vim-guise",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-mr",
+      "repo": "https://github.com/lambdalisue/vim-mr",
+      "language": "Vim Script"
+    },
+    {
+      "name": "terraform-provider-ulid",
+      "repo": "https://github.com/lambdalisue/terraform-provider-ulid",
+      "url": "https://registry.terraform.io/providers/lambdalisue/ulid/latest",
+      "language": "Go"
+    },
+    {
+      "name": "ts-connectrpc-grpcreflect",
+      "repo": "https://github.com/lambdalisue/ts-connectrpc-grpcreflect",
+      "url": "https://www.npmjs.com/package/@lambdalisue/connectrpc-grpcreflect",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-deno-cache",
+      "repo": "https://github.com/lambdalisue/vim-deno-cache",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rs-async-utf8-decoder",
+      "repo": "https://github.com/lambdalisue/rs-async-utf8-decoder",
+      "url": "https://crates.io/crates/async-utf8-decoder",
+      "language": "Rust"
+    },
+    {
+      "name": "deno-sandbox",
+      "repo": "https://github.com/lambdalisue/deno-sandbox",
+      "url": "https://jsr.io/@lambdalisue/sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-wifi",
+      "repo": "https://github.com/lambdalisue/vim-wifi",
+      "language": "Vim Script"
+    },
+    {
+      "name": "deno-probitas",
+      "repo": "https://github.com/lambdalisue/deno-probitas",
+      "url": "https://jsr.io/@lambdalisue/probitas",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rs-mdbook-alerts",
+      "repo": "https://github.com/lambdalisue/rs-mdbook-alerts",
+      "url": "https://crates.io/crates/mdbook-alerts",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-suda",
+      "repo": "https://github.com/lambdalisue/vim-suda",
+      "language": "Vim Script"
+    },
+    {
+      "name": "rs-datafile-test",
+      "repo": "https://github.com/lambdalisue/rs-datafile-test",
+      "language": "Rust"
+    },
+    {
+      "name": "rs-dioxus-multiple-windows-with-background-process",
+      "repo": "https://github.com/lambdalisue/rs-dioxus-multiple-windows-with-background-process",
+      "language": "Rust"
+    },
+    {
+      "name": "vim-readablefold",
+      "repo": "https://github.com/lambdalisue/vim-readablefold",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-gf-improved",
+      "repo": "https://github.com/lambdalisue/vim-gf-improved",
+      "language": "Vim Script"
+    },
+    {
+      "name": "lambdalisue",
+      "repo": "https://github.com/lambdalisue/lambdalisue"
+    },
+    {
+      "name": "platmap",
+      "repo": "https://github.com/lambdalisue/platmap",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-import-map-importer",
+      "repo": "https://github.com/lambdalisue/deno-import-map-importer",
+      "url": "https://jsr.io/@lambdalisue/import-map-importer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "docker-platform-to-rust-target",
+      "repo": "https://github.com/lambdalisue/docker-platform-to-rust-target",
+      "url": "https://lambdalisue.github.io/docker-platform-to-rust-target/"
+    },
+    {
+      "name": "deno-ui-treeutil",
+      "repo": "https://github.com/lambdalisue/deno-ui-treeutil",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-gimei",
+      "repo": "https://github.com/lambdalisue/deno-gimei",
+      "url": "https://jsr.io/@lambdalisue/gimei",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-butler",
+      "repo": "https://github.com/lambdalisue/vim-butler",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-messagepack-rpc",
+      "repo": "https://github.com/lambdalisue/deno-messagepack-rpc",
+      "url": "https://jsr.io/@lambdalisue/messagepack-rpc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-messagepack",
+      "repo": "https://github.com/lambdalisue/deno-messagepack",
+      "url": "https://jsr.io/@lambdalisue/messagepack",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-imessage",
+      "repo": "https://github.com/lambdalisue/deno-imessage",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-github-emoji",
+      "repo": "https://github.com/lambdalisue/deno-github-emoji",
+      "url": "https://deno.land/x/github_emoji",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-ansi-escape-code",
+      "repo": "https://github.com/lambdalisue/deno-ansi-escape-code",
+      "url": "https://jsr.io/@lambdalisue/ansi-escape-code",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-lain",
+      "repo": "https://github.com/lambdalisue/vim-lain",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-mcp-server",
+      "repo": "https://github.com/lambdalisue/vim-mcp-server",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-glyph-palette",
+      "repo": "https://github.com/lambdalisue/vim-glyph-palette",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vital-Whisky",
+      "repo": "https://github.com/lambdalisue/vital-Whisky",
+      "language": "Vim Script"
+    },
+    {
+      "name": "deno-ogh",
+      "repo": "https://github.com/lambdalisue/deno-ogh",
+      "url": "https://jsr.io/@lambdalisue/ogh",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-refine",
+      "repo": "https://github.com/lambdalisue/vim-refine",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-initial",
+      "repo": "https://github.com/lambdalisue/vim-initial",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-kensaku",
+      "repo": "https://github.com/lambdalisue/vim-kensaku",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-chameleon",
+      "repo": "https://github.com/lambdalisue/vim-chameleon",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-localfile-registry",
+      "repo": "https://github.com/lambdalisue/deno-localfile-registry",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rs-async-transmit",
+      "repo": "https://github.com/lambdalisue/rs-async-transmit",
+      "url": "https://crates.io/crates/async-transmit",
+      "language": "Rust"
+    },
+    {
+      "name": "deno-github-first-commit-finder",
+      "repo": "https://github.com/lambdalisue/deno-github-first-commit-finder",
+      "url": "https://github-first-commit-finder.deno.dev/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-battery",
+      "repo": "https://github.com/lambdalisue/vim-battery",
+      "language": "Vim Script"
+    },
+    {
+      "name": "deno-docbase",
+      "repo": "https://github.com/lambdalisue/deno-docbase",
+      "url": "https://jsr.io/@lambdalisue/docbase",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-errorutil",
+      "repo": "https://github.com/lambdalisue/deno-errorutil",
+      "url": "https://jsr.io/@lambdalisue/errorutil",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-streamtools",
+      "repo": "https://github.com/lambdalisue/deno-streamtools",
+      "url": "https://jsr.io/@lambdalisue/streamtools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-unreachable",
+      "repo": "https://github.com/lambdalisue/deno-unreachable",
+      "url": "https://jsr.io/@lambdalisue/unreachable",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-workerio",
+      "repo": "https://github.com/lambdalisue/deno-workerio",
+      "url": "https://jsr.io/@lambdalisue/workerio",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-fern-renderer-nerdfont",
+      "repo": "https://github.com/lambdalisue/vim-fern-renderer-nerdfont",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-askpass",
+      "repo": "https://github.com/lambdalisue/vim-askpass",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-msgpack-rpc",
+      "repo": "https://github.com/lambdalisue/deno-msgpack-rpc",
+      "url": "https://deno.land/x/msgpack_rpc",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-fall-mr",
+      "repo": "https://github.com/lambdalisue/vim-fall-mr",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-fall-renderer-nvim-web-devicons",
+      "repo": "https://github.com/lambdalisue/vim-fall-renderer-nvim-web-devicons",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-fall-renderer-nerdfont",
+      "repo": "https://github.com/lambdalisue/vim-fall-renderer-nerdfont",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-fall-renderer-devicons",
+      "repo": "https://github.com/lambdalisue/vim-fall-renderer-devicons",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-fall-source-dummy",
+      "repo": "https://github.com/lambdalisue/vim-fall-source-dummy",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-ansi-escape-code",
+      "repo": "https://github.com/lambdalisue/vim-ansi-escape-code",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-git-browse",
+      "repo": "https://github.com/lambdalisue/deno-git-browse",
+      "url": "https://jsr.io/@lambdalisue/git-browse",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-reservator",
+      "repo": "https://github.com/lambdalisue/deno-reservator",
+      "url": "https://jsr.io/@lambdalisue/reservator",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-disposable",
+      "repo": "https://github.com/lambdalisue/deno-disposable",
+      "url": "https://deno.land/x/disposable",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-set-operations",
+      "repo": "https://github.com/lambdalisue/deno-set-operations",
+      "url": "https://jsr.io/@lambdalisue/set-operations",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-ttl-cache",
+      "repo": "https://github.com/lambdalisue/deno-ttl-cache",
+      "url": "https://jsr.io/@lambdalisue/ttl-cache",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-itertools",
+      "repo": "https://github.com/lambdalisue/deno-itertools",
+      "url": "https://jsr.io/@lambdalisue/itertools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-unnullish",
+      "repo": "https://github.com/lambdalisue/deno-unnullish",
+      "url": "https://jsr.io/@lambdalisue/unnullish",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-indexer",
+      "repo": "https://github.com/lambdalisue/deno-indexer",
+      "url": "https://jsr.io/@lambdalisue/indexer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-systemopen",
+      "repo": "https://github.com/lambdalisue/deno-systemopen",
+      "url": "https://jsr.io/@lambdalisue/systemopen",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-http-protocol",
+      "repo": "https://github.com/lambdalisue/vim-http-protocol",
+      "language": "Vim Script"
+    },
+    {
+      "name": "deno-cache-test",
+      "repo": "https://github.com/lambdalisue/deno-cache-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-backslash",
+      "repo": "https://github.com/lambdalisue/vim-backslash",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-kensaku-search",
+      "repo": "https://github.com/lambdalisue/vim-kensaku-search",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-findent",
+      "repo": "https://github.com/lambdalisue/vim-findent",
+      "language": "Vim Script"
+    },
+    {
+      "name": "deno-openmetrics",
+      "repo": "https://github.com/lambdalisue/deno-openmetrics",
+      "url": "https://deno.land/x/openmetrics",
+      "language": "TypeScript"
+    },
+    {
+      "name": "lambdalisue.github.io",
+      "repo": "https://github.com/lambdalisue/lambdalisue.github.io"
+    },
+    {
+      "name": "timecalc",
+      "repo": "https://github.com/lambdalisue/timecalc",
+      "url": "https://lambdalisue.github.io/timecalc/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "fetch-mock-test",
+      "repo": "https://github.com/lambdalisue/fetch-mock-test",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-fern-hijack",
+      "repo": "https://github.com/lambdalisue/vim-fern-hijack",
+      "language": "Vim Script"
+    },
+    {
+      "name": "jupyter-vim-binding",
+      "repo": "https://github.com/lambdalisue/jupyter-vim-binding",
+      "language": "JavaScript"
+    },
+    {
+      "name": "vim-cython-syntax",
+      "repo": "https://github.com/lambdalisue/vim-cython-syntax",
+      "language": "Vim Script"
+    },
+    {
+      "name": "docker-explorekit",
+      "repo": "https://github.com/lambdalisue/docker-explorekit",
+      "language": "Makefile"
+    },
+    {
+      "name": "vim-fullscreen",
+      "repo": "https://github.com/lambdalisue/vim-fullscreen",
+      "language": "Vim Script"
+    },
+    {
+      "name": "deno-hung-test",
+      "repo": "https://github.com/lambdalisue/deno-hung-test",
+      "language": "TypeScript"
+    },
+    {
+      "name": "deno-progresstest",
+      "repo": "https://github.com/lambdalisue/deno-progresstest",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vim-gin-nvim-notify",
+      "repo": "https://github.com/lambdalisue/vim-gin-nvim-notify",
+      "language": "Lua"
+    },
+    {
+      "name": "lambdalisue-avatar",
+      "repo": "https://github.com/lambdalisue/lambdalisue-avatar"
+    },
+    {
+      "name": "vim-kensaku-command",
+      "repo": "https://github.com/lambdalisue/vim-kensaku-command",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-poc-jsonrpc",
+      "repo": "https://github.com/lambdalisue/vim-poc-jsonrpc",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-file-protocol",
+      "repo": "https://github.com/lambdalisue/vim-file-protocol",
+      "language": "Vim Script"
+    },
+    {
+      "name": "django-author",
+      "repo": "https://github.com/lambdalisue/django-author",
+      "language": "Python"
+    },
+    {
+      "name": "vim-manpager",
+      "repo": "https://github.com/lambdalisue/vim-manpager",
+      "language": "Vim Script"
+    },
+    {
+      "name": "vim-gina",
+      "repo": "https://github.com/lambdalisue/vim-gina",
+      "language": "Vim Script"
+    }
+  ]
+}

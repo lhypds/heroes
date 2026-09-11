@@ -1,0 +1,560 @@
+{
+  "handle": "cognis-digital",
+  "name": "Cognis Digital",
+  "github": [
+    "https://github.com/cognis-digital"
+  ],
+  "website": "https://cognis.digital/",
+  "bio": "Cognis Digital (Wyoming, USA) builds the Cognis Neural Suite — 279+ single-purpose, self-hostable, MCP-native tools across security, AI, military/IC, compliance",
+  "own_repos": 422,
+  "commits": 21554,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cisbench",
+      "repo": "https://github.com/cognis-digital/cisbench",
+      "language": "Python"
+    },
+    {
+      "name": "hazardwatch",
+      "repo": "https://github.com/cognis-digital/hazardwatch",
+      "language": "Python"
+    },
+    {
+      "name": "sbomgate",
+      "repo": "https://github.com/cognis-digital/sbomgate",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "dmarcaudit",
+      "repo": "https://github.com/cognis-digital/dmarcaudit",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "vulntimeline",
+      "repo": "https://github.com/cognis-digital/vulntimeline",
+      "language": "Python"
+    },
+    {
+      "name": "keyhound",
+      "repo": "https://github.com/cognis-digital/keyhound",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "ossaudit",
+      "repo": "https://github.com/cognis-digital/ossaudit",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "sbomx",
+      "repo": "https://github.com/cognis-digital/sbomx",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "embedaudit",
+      "repo": "https://github.com/cognis-digital/embedaudit",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "shipcheck",
+      "repo": "https://github.com/cognis-digital/shipcheck",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "awesome-drone-warfare-osint",
+      "repo": "https://github.com/cognis-digital/awesome-drone-warfare-osint",
+      "language": "Python"
+    },
+    {
+      "name": "apkprobe",
+      "repo": "https://github.com/cognis-digital/apkprobe",
+      "language": "Python"
+    },
+    {
+      "name": "attestport",
+      "repo": "https://github.com/cognis-digital/attestport",
+      "language": "Python"
+    },
+    {
+      "name": "vendorvet",
+      "repo": "https://github.com/cognis-digital/vendorvet",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "depgraph",
+      "repo": "https://github.com/cognis-digital/depgraph",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "dvmobile",
+      "repo": "https://github.com/cognis-digital/dvmobile",
+      "language": "Python"
+    },
+    {
+      "name": "cognis-digital",
+      "repo": "https://github.com/cognis-digital/cognis-digital",
+      "url": "https://cognis.digital",
+      "language": "Java"
+    },
+    {
+      "name": "licenselens",
+      "repo": "https://github.com/cognis-digital/licenselens",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "pipewatch-pro",
+      "repo": "https://github.com/cognis-digital/pipewatch-pro",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "otaverify",
+      "repo": "https://github.com/cognis-digital/otaverify",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "sbomb",
+      "repo": "https://github.com/cognis-digital/sbomb",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "blescope",
+      "repo": "https://github.com/cognis-digital/blescope",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "bastionkit",
+      "repo": "https://github.com/cognis-digital/bastionkit",
+      "language": "Python"
+    },
+    {
+      "name": "auditrail",
+      "repo": "https://github.com/cognis-digital/auditrail",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "binhunt",
+      "repo": "https://github.com/cognis-digital/binhunt",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "aisgapwatch",
+      "repo": "https://github.com/cognis-digital/aisgapwatch",
+      "language": "Python"
+    },
+    {
+      "name": "admitd",
+      "repo": "https://github.com/cognis-digital/admitd",
+      "language": "Python"
+    },
+    {
+      "name": "agenttax",
+      "repo": "https://github.com/cognis-digital/agenttax",
+      "language": "Python"
+    },
+    {
+      "name": "apidiff",
+      "repo": "https://github.com/cognis-digital/apidiff",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "approvewarden",
+      "repo": "https://github.com/cognis-digital/approvewarden",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "agentlog",
+      "repo": "https://github.com/cognis-digital/agentlog",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "baadiff",
+      "repo": "https://github.com/cognis-digital/baadiff",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "aegis",
+      "repo": "https://github.com/cognis-digital/aegis",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "convoy-or",
+      "repo": "https://github.com/cognis-digital/convoy-or",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "maritimeint",
+      "repo": "https://github.com/cognis-digital/maritimeint",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "rootsentry",
+      "repo": "https://github.com/cognis-digital/rootsentry",
+      "language": "Python"
+    },
+    {
+      "name": "exfilwatch",
+      "repo": "https://github.com/cognis-digital/exfilwatch",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "modlure",
+      "repo": "https://github.com/cognis-digital/modlure",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "mcpscan",
+      "repo": "https://github.com/cognis-digital/mcpscan",
+      "language": "Python"
+    },
+    {
+      "name": "dastlite",
+      "repo": "https://github.com/cognis-digital/dastlite",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "cveintel",
+      "repo": "https://github.com/cognis-digital/cveintel",
+      "language": "Python"
+    },
+    {
+      "name": "fwxray",
+      "repo": "https://github.com/cognis-digital/fwxray",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "sqlsec",
+      "repo": "https://github.com/cognis-digital/sqlsec",
+      "language": "Python"
+    },
+    {
+      "name": "bootwarden",
+      "repo": "https://github.com/cognis-digital/bootwarden",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "wafproof",
+      "repo": "https://github.com/cognis-digital/wafproof",
+      "language": "Python"
+    },
+    {
+      "name": "c2detect",
+      "repo": "https://github.com/cognis-digital/c2detect",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "packpeek",
+      "repo": "https://github.com/cognis-digital/packpeek",
+      "language": "Python"
+    },
+    {
+      "name": "quantumready",
+      "repo": "https://github.com/cognis-digital/quantumready",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "entropyscan",
+      "repo": "https://github.com/cognis-digital/entropyscan",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "yararun",
+      "repo": "https://github.com/cognis-digital/yararun",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "filecarve",
+      "repo": "https://github.com/cognis-digital/filecarve",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "earshot",
+      "repo": "https://github.com/cognis-digital/earshot",
+      "language": "Python"
+    },
+    {
+      "name": "frontline-drones",
+      "repo": "https://github.com/cognis-digital/frontline-drones",
+      "language": "Python"
+    },
+    {
+      "name": "spoofwatch",
+      "repo": "https://github.com/cognis-digital/spoofwatch",
+      "language": "Python"
+    },
+    {
+      "name": "cognis-chainwatch",
+      "repo": "https://github.com/cognis-digital/cognis-chainwatch",
+      "language": "Python"
+    },
+    {
+      "name": "meshward",
+      "repo": "https://github.com/cognis-digital/meshward",
+      "language": "Python"
+    },
+    {
+      "name": "dropwing",
+      "repo": "https://github.com/cognis-digital/dropwing",
+      "language": "Python"
+    },
+    {
+      "name": "quartermaster",
+      "repo": "https://github.com/cognis-digital/quartermaster",
+      "language": "Python"
+    },
+    {
+      "name": "muleway",
+      "repo": "https://github.com/cognis-digital/muleway",
+      "language": "Python"
+    },
+    {
+      "name": "plumewatch",
+      "repo": "https://github.com/cognis-digital/plumewatch",
+      "language": "Python"
+    },
+    {
+      "name": "perch",
+      "repo": "https://github.com/cognis-digital/perch",
+      "language": "Python"
+    },
+    {
+      "name": "deepdrift",
+      "repo": "https://github.com/cognis-digital/deepdrift",
+      "language": "Python"
+    },
+    {
+      "name": "tiderunner",
+      "repo": "https://github.com/cognis-digital/tiderunner",
+      "language": "Python"
+    },
+    {
+      "name": "conflictwatch",
+      "repo": "https://github.com/cognis-digital/conflictwatch",
+      "language": "Python"
+    },
+    {
+      "name": "vouch",
+      "repo": "https://github.com/cognis-digital/vouch",
+      "language": "Python"
+    },
+    {
+      "name": "creatorforge",
+      "repo": "https://github.com/cognis-digital/creatorforge",
+      "language": "Python"
+    },
+    {
+      "name": "repolens",
+      "repo": "https://github.com/cognis-digital/repolens",
+      "language": "Python"
+    },
+    {
+      "name": "spendwatch",
+      "repo": "https://github.com/cognis-digital/spendwatch",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "wavewatch",
+      "repo": "https://github.com/cognis-digital/wavewatch",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "skillsmith",
+      "repo": "https://github.com/cognis-digital/skillsmith",
+      "language": "Python"
+    },
+    {
+      "name": "garrison",
+      "repo": "https://github.com/cognis-digital/garrison",
+      "language": "Python"
+    },
+    {
+      "name": "obol",
+      "repo": "https://github.com/cognis-digital/obol",
+      "language": "Python"
+    },
+    {
+      "name": "skillvet",
+      "repo": "https://github.com/cognis-digital/skillvet",
+      "language": "Python"
+    },
+    {
+      "name": "cognis-code",
+      "repo": "https://github.com/cognis-digital/cognis-code",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "scryer",
+      "repo": "https://github.com/cognis-digital/scryer",
+      "language": "Python"
+    },
+    {
+      "name": "syntheon",
+      "repo": "https://github.com/cognis-digital/syntheon",
+      "url": "https://cognis.digital",
+      "language": "TypeScript"
+    },
+    {
+      "name": "skills",
+      "repo": "https://github.com/cognis-digital/skills",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "mcpscaffold",
+      "repo": "https://github.com/cognis-digital/mcpscaffold",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cognis-connect",
+      "repo": "https://github.com/cognis-digital/cognis-connect",
+      "language": "Python"
+    },
+    {
+      "name": "trackblock",
+      "repo": "https://github.com/cognis-digital/trackblock",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "agentsmith",
+      "repo": "https://github.com/cognis-digital/agentsmith",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "crackq",
+      "repo": "https://github.com/cognis-digital/crackq",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "uncensored-fleet",
+      "repo": "https://github.com/cognis-digital/uncensored-fleet",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "canzap",
+      "repo": "https://github.com/cognis-digital/canzap",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "compliance-atlas",
+      "repo": "https://github.com/cognis-digital/compliance-atlas",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "hoplink",
+      "repo": "https://github.com/cognis-digital/hoplink",
+      "language": "Python"
+    },
+    {
+      "name": "cognis-neural-suite",
+      "repo": "https://github.com/cognis-digital/cognis-neural-suite",
+      "url": "https://cognis.digital",
+      "language": "Python"
+    },
+    {
+      "name": "reconforge",
+      "repo": "https://github.com/cognis-digital/reconforge",
+      "language": "Python"
+    },
+    {
+      "name": "advsim",
+      "repo": "https://github.com/cognis-digital/advsim",
+      "language": "Python"
+    },
+    {
+      "name": "attestinfer",
+      "repo": "https://github.com/cognis-digital/attestinfer",
+      "language": "Python"
+    },
+    {
+      "name": "perpetua",
+      "repo": "https://github.com/cognis-digital/perpetua",
+      "language": "Python"
+    },
+    {
+      "name": "agentprint",
+      "repo": "https://github.com/cognis-digital/agentprint",
+      "language": "Python"
+    },
+    {
+      "name": "fixpoint",
+      "repo": "https://github.com/cognis-digital/fixpoint",
+      "language": "Python"
+    },
+    {
+      "name": "taskloom",
+      "repo": "https://github.com/cognis-digital/taskloom",
+      "language": "Python"
+    },
+    {
+      "name": "mnestra",
+      "repo": "https://github.com/cognis-digital/mnestra",
+      "language": "Python"
+    },
+    {
+      "name": "meldkit",
+      "repo": "https://github.com/cognis-digital/meldkit",
+      "language": "Python"
+    },
+    {
+      "name": "peststack",
+      "repo": "https://github.com/cognis-digital/peststack",
+      "language": "Shell"
+    },
+    {
+      "name": "comwatch",
+      "repo": "https://github.com/cognis-digital/comwatch",
+      "language": "C#"
+    },
+    {
+      "name": "startboard",
+      "repo": "https://github.com/cognis-digital/startboard",
+      "language": "JavaScript"
+    },
+    {
+      "name": "longscroll",
+      "repo": "https://github.com/cognis-digital/longscroll",
+      "language": "Go"
+    }
+  ]
+}

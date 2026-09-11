@@ -1,0 +1,521 @@
+{
+  "handle": "dfm",
+  "name": "Dan Foreman-Mackey",
+  "github": [
+    "https://github.com/dfm"
+  ],
+  "website": "https://dfm.io/",
+  "own_repos": 286,
+  "commits": 10087,
+  "apps": [],
+  "repos": [
+    {
+      "name": "cv",
+      "repo": "https://github.com/dfm/cv",
+      "url": "https://raw.githubusercontent.com/dfm/cv/main-pdf/tex/cv_pubs.pdf",
+      "language": "TeX"
+    },
+    {
+      "name": "tinygp",
+      "repo": "https://github.com/dfm/tinygp",
+      "url": "https://tinygp.readthedocs.io",
+      "language": "Python"
+    },
+    {
+      "name": "python-fsps",
+      "repo": "https://github.com/dfm/python-fsps",
+      "url": "https://python-fsps.readthedocs.io",
+      "language": "Python"
+    },
+    {
+      "name": "corner.py",
+      "repo": "https://github.com/dfm/corner.py",
+      "language": "Python"
+    },
+    {
+      "name": "bsky-nycasp",
+      "repo": "https://github.com/dfm/bsky-nycasp",
+      "url": "https://bsky.app/profile/nycasp.dfm.io",
+      "language": "Python"
+    },
+    {
+      "name": "araa-gps",
+      "repo": "https://github.com/dfm/araa-gps",
+      "language": "TeX"
+    },
+    {
+      "name": "emcee",
+      "repo": "https://github.com/dfm/emcee",
+      "url": "https://emcee.readthedocs.io",
+      "language": "Python"
+    },
+    {
+      "name": "black_nbconvert",
+      "repo": "https://github.com/dfm/black_nbconvert",
+      "language": "Python"
+    },
+    {
+      "name": "dfm.github.com",
+      "repo": "https://github.com/dfm/dfm.github.com",
+      "language": "HTML"
+    },
+    {
+      "name": "george",
+      "repo": "https://github.com/dfm/george",
+      "language": "C++"
+    },
+    {
+      "name": "celerite",
+      "repo": "https://github.com/dfm/celerite",
+      "language": "C++"
+    },
+    {
+      "name": "found-haikus",
+      "repo": "https://github.com/dfm/found-haikus",
+      "language": "Python"
+    },
+    {
+      "name": "syllables",
+      "repo": "https://github.com/dfm/syllables",
+      "language": "Python"
+    },
+    {
+      "name": "dfm",
+      "repo": "https://github.com/dfm/dfm"
+    },
+    {
+      "name": "sup",
+      "repo": "https://github.com/dfm/sup",
+      "language": "Swift"
+    },
+    {
+      "name": "jpu",
+      "repo": "https://github.com/dfm/jpu",
+      "language": "Python"
+    },
+    {
+      "name": "libkepler",
+      "repo": "https://github.com/dfm/libkepler",
+      "language": "C++"
+    },
+    {
+      "name": "rtds-action",
+      "repo": "https://github.com/dfm/rtds-action",
+      "url": "https://rtds-action.readthedocs.io",
+      "language": "Python"
+    },
+    {
+      "name": "numpyro-ext",
+      "repo": "https://github.com/dfm/numpyro-ext",
+      "language": "Python"
+    },
+    {
+      "name": "adventofcode",
+      "repo": "https://github.com/dfm/adventofcode",
+      "language": "Python"
+    },
+    {
+      "name": "extending-jax",
+      "repo": "https://github.com/dfm/extending-jax",
+      "language": "Python"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/dfm/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "joss-edits",
+      "repo": "https://github.com/dfm/joss-edits",
+      "language": "Python"
+    },
+    {
+      "name": "photodynam",
+      "repo": "https://github.com/dfm/photodynam",
+      "language": "C"
+    },
+    {
+      "name": "arxivist",
+      "repo": "https://github.com/dfm/arxivist",
+      "language": "JavaScript"
+    },
+    {
+      "name": "quasisep-paper",
+      "repo": "https://github.com/dfm/quasisep-paper",
+      "language": "TeX"
+    },
+    {
+      "name": "python-nufft",
+      "repo": "https://github.com/dfm/python-nufft",
+      "language": "Fortran"
+    },
+    {
+      "name": "showyourwork2",
+      "repo": "https://github.com/dfm/showyourwork2",
+      "language": "TeX"
+    },
+    {
+      "name": "nufft-ls",
+      "repo": "https://github.com/dfm/nufft-ls",
+      "language": "C++"
+    },
+    {
+      "name": "crabwalk",
+      "repo": "https://github.com/dfm/crabwalk",
+      "language": "Rust"
+    },
+    {
+      "name": "dotnvim",
+      "repo": "https://github.com/dfm/dotnvim",
+      "language": "Lua"
+    },
+    {
+      "name": "ipykernel_temp_venv",
+      "repo": "https://github.com/dfm/ipykernel_temp_venv",
+      "language": "Python"
+    },
+    {
+      "name": "libkepler.rs",
+      "repo": "https://github.com/dfm/libkepler.rs",
+      "language": "Rust"
+    },
+    {
+      "name": "workflows",
+      "repo": "https://github.com/dfm/workflows",
+      "language": "Python"
+    },
+    {
+      "name": "vscode-inara",
+      "repo": "https://github.com/dfm/vscode-inara",
+      "url": "https://marketplace.visualstudio.com/items?itemName=dfm.vscode-inara",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tess-atlas",
+      "repo": "https://github.com/dfm/tess-atlas",
+      "language": "Python"
+    },
+    {
+      "name": "copier-simple-python",
+      "repo": "https://github.com/dfm/copier-simple-python",
+      "language": "Jinja"
+    },
+    {
+      "name": "fast-astropy-timeseries-binning",
+      "repo": "https://github.com/dfm/fast-astropy-timeseries-binning",
+      "language": "Python"
+    },
+    {
+      "name": "adsmacroexpand",
+      "repo": "https://github.com/dfm/adsmacroexpand",
+      "language": "Rust"
+    },
+    {
+      "name": "yawms",
+      "repo": "https://github.com/dfm/yawms",
+      "language": "Python"
+    },
+    {
+      "name": "fits4",
+      "repo": "https://github.com/dfm/fits4",
+      "language": "Rust"
+    },
+    {
+      "name": "acor",
+      "repo": "https://github.com/dfm/acor",
+      "language": "C"
+    },
+    {
+      "name": "test-snakemake-deploy",
+      "repo": "https://github.com/dfm/test-snakemake-deploy",
+      "language": "Python"
+    },
+    {
+      "name": "osrc",
+      "repo": "https://github.com/dfm/osrc",
+      "language": "Python"
+    },
+    {
+      "name": "copier-python",
+      "repo": "https://github.com/dfm/copier-python",
+      "language": "Jinja"
+    },
+    {
+      "name": "adsabs-rs",
+      "repo": "https://github.com/dfm/adsabs-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "myst-aastex-template",
+      "repo": "https://github.com/dfm/myst-aastex-template",
+      "language": "TeX"
+    },
+    {
+      "name": "dominion",
+      "repo": "https://github.com/dfm/dominion",
+      "language": "Python"
+    },
+    {
+      "name": "force-push-branch-action",
+      "repo": "https://github.com/dfm/force-push-branch-action",
+      "language": "Shell"
+    },
+    {
+      "name": "sywlite",
+      "repo": "https://github.com/dfm/sywlite",
+      "language": "Python"
+    },
+    {
+      "name": "tinygp-paper",
+      "repo": "https://github.com/dfm/tinygp-paper",
+      "language": "TeX"
+    },
+    {
+      "name": "kepler-metal",
+      "repo": "https://github.com/dfm/kepler-metal",
+      "language": "C++"
+    },
+    {
+      "name": "kepler.py",
+      "repo": "https://github.com/dfm/kepler.py",
+      "language": "Python"
+    },
+    {
+      "name": "casjobs",
+      "repo": "https://github.com/dfm/casjobs",
+      "language": "Python"
+    },
+    {
+      "name": "emcee-jax",
+      "repo": "https://github.com/dfm/emcee-jax",
+      "language": "Python"
+    },
+    {
+      "name": "feedfinder2",
+      "repo": "https://github.com/dfm/feedfinder2",
+      "language": "Python"
+    },
+    {
+      "name": "gp-review",
+      "repo": "https://github.com/dfm/gp-review"
+    },
+    {
+      "name": "quasisep",
+      "repo": "https://github.com/dfm/quasisep",
+      "language": "Python"
+    },
+    {
+      "name": "gprv",
+      "repo": "https://github.com/dfm/gprv",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "dfmblas",
+      "repo": "https://github.com/dfm/dfmblas",
+      "language": "Rust"
+    },
+    {
+      "name": "quasisep-gps",
+      "repo": "https://github.com/dfm/quasisep-gps",
+      "language": "TeX"
+    },
+    {
+      "name": "wobble2",
+      "repo": "https://github.com/dfm/wobble2",
+      "language": "TeX"
+    },
+    {
+      "name": "wordle",
+      "repo": "https://github.com/dfm/wordle",
+      "language": "Rust"
+    },
+    {
+      "name": "nbody_game",
+      "repo": "https://github.com/dfm/nbody_game",
+      "language": "Rust"
+    },
+    {
+      "name": "ad-rs",
+      "repo": "https://github.com/dfm/ad-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "discretionary",
+      "repo": "https://github.com/dfm/discretionary",
+      "language": "Rust"
+    },
+    {
+      "name": "integrate",
+      "repo": "https://github.com/dfm/integrate",
+      "language": "Rust"
+    },
+    {
+      "name": "custom-wheels",
+      "repo": "https://github.com/dfm/custom-wheels",
+      "language": "Python"
+    },
+    {
+      "name": "rmhmc",
+      "repo": "https://github.com/dfm/rmhmc",
+      "language": "Python"
+    },
+    {
+      "name": "codegraph",
+      "repo": "https://github.com/dfm/codegraph",
+      "language": "Rust"
+    },
+    {
+      "name": "synacor-challenge",
+      "repo": "https://github.com/dfm/synacor-challenge",
+      "language": "Assembly"
+    },
+    {
+      "name": "bazeltest",
+      "repo": "https://github.com/dfm/bazeltest",
+      "language": "Starlark"
+    },
+    {
+      "name": "astro-data-examples",
+      "repo": "https://github.com/dfm/astro-data-examples"
+    },
+    {
+      "name": "gpu-limbdark",
+      "repo": "https://github.com/dfm/gpu-limbdark",
+      "language": "Python"
+    },
+    {
+      "name": "5pm",
+      "repo": "https://github.com/dfm/5pm",
+      "url": "https://dfm.io/5pm",
+      "language": "HTML"
+    },
+    {
+      "name": "python-simplexy",
+      "repo": "https://github.com/dfm/python-simplexy",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "kplr",
+      "repo": "https://github.com/dfm/kplr",
+      "url": "https://dfm.io/kplr",
+      "language": "Python"
+    },
+    {
+      "name": "celeriac",
+      "repo": "https://github.com/dfm/celeriac",
+      "language": "Python"
+    },
+    {
+      "name": "unladen",
+      "repo": "https://github.com/dfm/unladen",
+      "url": "https://dfm.io/unladen/latest",
+      "language": "Python"
+    },
+    {
+      "name": "versioned-gh-pages-action",
+      "repo": "https://github.com/dfm/versioned-gh-pages-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "sphinx-documenter-deploy",
+      "repo": "https://github.com/dfm/sphinx-documenter-deploy",
+      "language": "Python"
+    },
+    {
+      "name": "spotify-party",
+      "repo": "https://github.com/dfm/spotify-party",
+      "url": "https://distance.dfm.io",
+      "language": "Python"
+    },
+    {
+      "name": "cookiecutter-python",
+      "repo": "https://github.com/dfm/cookiecutter-python",
+      "language": "Python"
+    },
+    {
+      "name": "rename-github-default-branch",
+      "repo": "https://github.com/dfm/rename-github-default-branch",
+      "language": "Python"
+    },
+    {
+      "name": "adsabs.albert",
+      "repo": "https://github.com/dfm/adsabs.albert",
+      "language": "Python"
+    },
+    {
+      "name": "tectonic-image",
+      "repo": "https://github.com/dfm/tectonic-image",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "redrock",
+      "repo": "https://github.com/dfm/redrock",
+      "language": "JavaScript"
+    },
+    {
+      "name": "tf.interp",
+      "repo": "https://github.com/dfm/tf.interp",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "celerite-kalman",
+      "repo": "https://github.com/dfm/celerite-kalman",
+      "language": "TeX"
+    },
+    {
+      "name": "one-data-point",
+      "repo": "https://github.com/dfm/one-data-point"
+    },
+    {
+      "name": "latent-celerite-process-paper",
+      "repo": "https://github.com/dfm/latent-celerite-process-paper",
+      "language": "TeX"
+    },
+    {
+      "name": "squabble",
+      "repo": "https://github.com/dfm/squabble",
+      "language": "JavaScript"
+    },
+    {
+      "name": "usps",
+      "repo": "https://github.com/dfm/usps",
+      "language": "C++"
+    },
+    {
+      "name": "gp",
+      "repo": "https://github.com/dfm/gp",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "coffee-map",
+      "repo": "https://github.com/dfm/coffee-map",
+      "language": "JavaScript"
+    },
+    {
+      "name": "celerite2-tensorflow",
+      "repo": "https://github.com/dfm/celerite2-tensorflow",
+      "language": "C++"
+    },
+    {
+      "name": "astro-directory",
+      "repo": "https://github.com/dfm/astro-directory",
+      "language": "HTML"
+    },
+    {
+      "name": "joss-reviewer",
+      "repo": "https://github.com/dfm/joss-reviewer",
+      "language": "Python"
+    },
+    {
+      "name": "ugly",
+      "repo": "https://github.com/dfm/ugly",
+      "url": "https://reader.dfm.io",
+      "language": "Python"
+    },
+    {
+      "name": "yobot3k",
+      "repo": "https://github.com/dfm/yobot3k",
+      "language": "Python"
+    }
+  ]
+}

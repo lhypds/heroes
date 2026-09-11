@@ -1,0 +1,613 @@
+{
+  "handle": "systemslibrarian",
+  "name": "Paul Clark",
+  "github": [
+    "https://github.com/systemslibrarian"
+  ],
+  "website": "https://systemslibrarian.dev/",
+  "bio": "IT Librarian & Systems Analyst · AI-augmented developer · Available for consulting → systemslibrarian.dev",
+  "own_repos": 249,
+  "commits": 12716,
+  "apps": [],
+  "repos": [
+    {
+      "name": "crypto-lab-pq-families",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-pq-families",
+      "url": "https://systemslibrarian.github.io/crypto-lab-pq-families/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-kdf-arena",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-kdf-arena",
+      "url": "https://systemslibrarian.github.io/crypto-lab-kdf-arena/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-isogeny-atlas",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-isogeny-atlas",
+      "url": "https://systemslibrarian.github.io/crypto-lab-isogeny-atlas/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-nonce-lattice",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-nonce-lattice",
+      "url": "https://systemslibrarian.github.io/crypto-lab-nonce-lattice/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-lattice-fault",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-lattice-fault",
+      "url": "https://systemslibrarian.github.io/crypto-lab-lattice-fault/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-jevil",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-jevil",
+      "url": "https://systemslibrarian.github.io/crypto-lab-jevil/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-blind-sign",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-blind-sign",
+      "url": "https://systemslibrarian.github.io/crypto-lab-blind-sign/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-shor",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-shor",
+      "url": "https://systemslibrarian.github.io/crypto-lab-shor/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab",
+      "repo": "https://github.com/systemslibrarian/crypto-lab",
+      "url": "https://crypto-lab.systemslibrarian.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "crypto-lab-lms-xmss",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-lms-xmss",
+      "url": "https://systemslibrarian.github.io/crypto-lab-lms-xmss/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-entropy-collapse",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-entropy-collapse",
+      "url": "https://systemslibrarian.github.io/crypto-lab-entropy-collapse/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-ssh-handshake",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-ssh-handshake",
+      "url": "https://systemslibrarian.github.io/crypto-lab-ssh-handshake/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-frozen-heart",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-frozen-heart",
+      "url": "https://systemslibrarian.github.io/crypto-lab-frozen-heart/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-ntru-classic",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-ntru-classic",
+      "url": "https://systemslibrarian.github.io/crypto-lab-ntru-classic/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-rsa-educational",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-rsa-educational",
+      "url": "https://systemslibrarian.github.io/crypto-lab-rsa-educational/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-opaque-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-opaque-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-opaque-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-bike-vault",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-bike-vault",
+      "url": "https://systemslibrarian.github.io/crypto-lab-bike-vault/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-frost-threshold",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-frost-threshold",
+      "url": "https://systemslibrarian.github.io/crypto-lab-frost-threshold/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-web-of-trust",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-web-of-trust",
+      "url": "https://systemslibrarian.github.io/crypto-lab-web-of-trust/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-grover",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-grover",
+      "url": "https://systemslibrarian.github.io/crypto-lab-grover/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-enigma-forge",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-enigma-forge",
+      "url": "https://systemslibrarian.github.io/crypto-lab-enigma-forge/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-noise-pipe",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-noise-pipe",
+      "url": "https://systemslibrarian.github.io/crypto-lab-noise-pipe/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-hqc-vault",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-hqc-vault",
+      "url": "https://systemslibrarian.github.io/crypto-lab-hqc-vault/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-ciphertext-mirror",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-ciphertext-mirror",
+      "url": "https://systemslibrarian.github.io/crypto-lab-ciphertext-mirror/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-curve448",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-curve448",
+      "url": "https://systemslibrarian.github.io/crypto-lab-curve448/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-mayo-seal",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-mayo-seal",
+      "url": "https://systemslibrarian.github.io/crypto-lab-mayo-seal/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-spake-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-spake-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-spake-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-paillier-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-paillier-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-paillier-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-rsa-forge",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-rsa-forge",
+      "url": "https://systemslibrarian.github.io/crypto-lab-rsa-forge/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-hash-zoo",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-hash-zoo",
+      "url": "https://systemslibrarian.github.io/crypto-lab-hash-zoo/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-kmac-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-kmac-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-kmac-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-protocol-checker",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-protocol-checker",
+      "url": "https://systemslibrarian.github.io/crypto-lab-protocol-checker/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-ecdsa-forge",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-ecdsa-forge",
+      "url": "https://systemslibrarian.github.io/crypto-lab-ecdsa-forge/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-mls-group",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-mls-group",
+      "url": "https://systemslibrarian.github.io/crypto-lab-mls-group/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-reshare-circle",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-reshare-circle",
+      "url": "https://systemslibrarian.github.io/crypto-lab-reshare-circle/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-kem-trap",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-kem-trap",
+      "url": "https://systemslibrarian.github.io/crypto-lab-kem-trap/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-quantum-entropy",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-quantum-entropy",
+      "url": "https://systemslibrarian.github.io/crypto-lab-quantum-entropy/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-ring-sign",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-ring-sign",
+      "url": "https://systemslibrarian.github.io/crypto-lab-ring-sign/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-e91",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-e91",
+      "url": "https://systemslibrarian.github.io/crypto-lab-e91/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-bitcoin-script",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-bitcoin-script",
+      "url": "https://systemslibrarian.github.io/crypto-lab-bitcoin-script/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-broken-trust",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-broken-trust",
+      "url": "https://systemslibrarian.github.io/crypto-lab-broken-trust/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-aegis-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-aegis-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-aegis-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-gg20-wallet",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-gg20-wallet",
+      "url": "https://systemslibrarian.github.io/crypto-lab-gg20-wallet/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-ibe-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-ibe-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-ibe-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-merkle-proofs",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-merkle-proofs",
+      "url": "https://systemslibrarian.github.io/crypto-lab-merkle-proofs/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-isogeny-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-isogeny-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-isogeny-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-pairing-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-pairing-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-pairing-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-bitcoin-wallet",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-bitcoin-wallet",
+      "url": "https://systemslibrarian.github.io/crypto-lab-bitcoin-wallet/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-zk-arena",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-zk-arena",
+      "url": "https://systemslibrarian.github.io/crypto-lab-zk-arena/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-vss-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-vss-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-vss-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-dp-noise",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-dp-noise",
+      "url": "https://systemslibrarian.github.io/crypto-lab-dp-noise/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "secure-file-upload-dotnet",
+      "repo": "https://github.com/systemslibrarian/secure-file-upload-dotnet",
+      "url": "https://systemslibrarian.github.io/secure-file-upload-dotnet/",
+      "language": "C#"
+    },
+    {
+      "name": "crypto-lab-matsui-line",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-matsui-line",
+      "url": "https://systemslibrarian.github.io/crypto-lab-matsui-line/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-beacon-lock",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-beacon-lock",
+      "url": "https://systemslibrarian.github.io/crypto-lab-beacon-lock/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-poly1305-mac",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-poly1305-mac",
+      "url": "https://systemslibrarian.github.io/crypto-lab-poly1305-mac/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-signed-bytes",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-signed-bytes",
+      "url": "https://systemslibrarian.github.io/crypto-lab-signed-bytes/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-hpke-envelope",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-hpke-envelope",
+      "url": "https://systemslibrarian.github.io/crypto-lab-hpke-envelope/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-stream-ward",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-stream-ward",
+      "url": "https://systemslibrarian.github.io/crypto-lab-stream-ward/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-model-breach",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-model-breach",
+      "url": "https://systemslibrarian.github.io/crypto-lab-model-breach/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-timing-oracle",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-timing-oracle",
+      "url": "https://systemslibrarian.github.io/crypto-lab-timing-oracle/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-schnorr-forge",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-schnorr-forge",
+      "url": "https://systemslibrarian.github.io/crypto-lab-schnorr-forge/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-timing-sidechannel",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-timing-sidechannel",
+      "url": "https://systemslibrarian.github.io/crypto-lab-timing-sidechannel/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-accumulator",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-accumulator",
+      "url": "https://systemslibrarian.github.io/crypto-lab-accumulator/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-icy-dvrf",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-icy-dvrf",
+      "url": "https://systemslibrarian.github.io/crypto-lab-icy-dvrf/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "postquantum-securechannel",
+      "repo": "https://github.com/systemslibrarian/postquantum-securechannel",
+      "language": "C#"
+    },
+    {
+      "name": "crypto-lab-world-ciphers",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-world-ciphers",
+      "url": "https://systemslibrarian.github.io/crypto-lab-world-ciphers/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-drbg-arena",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-drbg-arena",
+      "url": "https://systemslibrarian.github.io/crypto-lab-drbg-arena/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-key-exchange",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-key-exchange",
+      "url": "https://systemslibrarian.github.io/crypto-lab-key-exchange/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-time-trust",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-time-trust",
+      "url": "https://systemslibrarian.github.io/crypto-lab-time-trust/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-shadow-vault",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-shadow-vault",
+      "url": "https://systemslibrarian.github.io/crypto-lab-shadow-vault/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-harvest-vault",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-harvest-vault",
+      "url": "https://systemslibrarian.github.io/crypto-lab-harvest-vault/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-elgamal-plain",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-elgamal-plain",
+      "url": "https://systemslibrarian.github.io/crypto-lab-elgamal-plain/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-hqc-timing",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-hqc-timing",
+      "url": "https://systemslibrarian.github.io/crypto-lab-hqc-timing/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-pake-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-pake-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-pake-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-traitor-trace",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-traitor-trace",
+      "url": "https://systemslibrarian.github.io/crypto-lab-traitor-trace/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-syndrome-drain",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-syndrome-drain",
+      "url": "https://systemslibrarian.github.io/crypto-lab-syndrome-drain/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-pki-chain",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-pki-chain",
+      "url": "https://systemslibrarian.github.io/crypto-lab-pki-chain/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-lll-break",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-lll-break",
+      "url": "https://systemslibrarian.github.io/crypto-lab-lll-break/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-tls-handshake",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-tls-handshake",
+      "url": "https://systemslibrarian.github.io/crypto-lab-tls-handshake/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-bulletproofs",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-bulletproofs",
+      "url": "https://systemslibrarian.github.io/crypto-lab-bulletproofs/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-blind-relay",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-blind-relay",
+      "url": "https://systemslibrarian.github.io/crypto-lab-blind-relay/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-lattice-gentle",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-lattice-gentle",
+      "url": "https://systemslibrarian.github.io/crypto-lab-lattice-gentle/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-hqc-timing-break",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-hqc-timing-break",
+      "url": "https://systemslibrarian.github.io/crypto-lab-hqc-timing-break/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-zk-proof-lab",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-zk-proof-lab",
+      "url": "https://systemslibrarian.github.io/crypto-lab-zk-proof-lab/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-mceliece-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-mceliece-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-mceliece-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-lwe-hints",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-lwe-hints",
+      "url": "https://systemslibrarian.github.io/crypto-lab-lwe-hints/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-attribute-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-attribute-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-attribute-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-curve-lens",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-curve-lens",
+      "url": "https://systemslibrarian.github.io/crypto-lab-curve-lens/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-chacha20-stream",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-chacha20-stream",
+      "url": "https://systemslibrarian.github.io/crypto-lab-chacha20-stream/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-sphinx-mix",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-sphinx-mix",
+      "url": "https://systemslibrarian.github.io/crypto-lab-sphinx-mix/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-silent-tally",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-silent-tally",
+      "url": "https://systemslibrarian.github.io/crypto-lab-silent-tally/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-shelf-oracle",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-shelf-oracle",
+      "url": "https://systemslibrarian.github.io/crypto-lab-shelf-oracle/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-rekey-relay",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-rekey-relay",
+      "url": "https://systemslibrarian.github.io/crypto-lab-rekey-relay/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-context-ward",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-context-ward",
+      "url": "https://systemslibrarian.github.io/crypto-lab-context-ward/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-ckks-lab",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-ckks-lab",
+      "url": "https://systemslibrarian.github.io/crypto-lab-ckks-lab/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-attestation-gate",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-attestation-gate",
+      "url": "https://systemslibrarian.github.io/crypto-lab-attestation-gate/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-token-tell",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-token-tell",
+      "url": "https://systemslibrarian.github.io/crypto-lab-token-tell/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-sector-vault",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-sector-vault",
+      "url": "https://systemslibrarian.github.io/crypto-lab-sector-vault/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-polynomial-forge",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-polynomial-forge",
+      "url": "https://systemslibrarian.github.io/crypto-lab-polynomial-forge/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "crypto-lab-masked-core",
+      "repo": "https://github.com/systemslibrarian/crypto-lab-masked-core",
+      "url": "https://systemslibrarian.github.io/crypto-lab-masked-core/",
+      "language": "TypeScript"
+    }
+  ]
+}
