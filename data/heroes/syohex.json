@@ -1,0 +1,508 @@
+{
+  "handle": "syohex",
+  "name": "Shohei YOSHIDA",
+  "github": [
+    "https://github.com/syohex"
+  ],
+  "website": "https://syohex.org/",
+  "bio": "A programmer",
+  "own_repos": 345,
+  "commits": 13428,
+  "apps": [],
+  "repos": [
+    {
+      "name": "leetcode-rust",
+      "repo": "https://github.com/syohex/leetcode-rust",
+      "language": "Rust"
+    },
+    {
+      "name": "leetcode",
+      "repo": "https://github.com/syohex/leetcode",
+      "language": "C++"
+    },
+    {
+      "name": "resume",
+      "repo": "https://github.com/syohex/resume"
+    },
+    {
+      "name": "zsh-misc-completions",
+      "repo": "https://github.com/syohex/zsh-misc-completions",
+      "language": "Shell"
+    },
+    {
+      "name": "native-module-promise-sample",
+      "repo": "https://github.com/syohex/native-module-promise-sample",
+      "language": "C++"
+    },
+    {
+      "name": "dot_files",
+      "repo": "https://github.com/syohex/dot_files",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "misc",
+      "repo": "https://github.com/syohex/misc",
+      "language": "Go"
+    },
+    {
+      "name": "emacs-editutil",
+      "repo": "https://github.com/syohex/emacs-editutil",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "VaTool",
+      "repo": "https://github.com/syohex/VaTool",
+      "language": "C#"
+    },
+    {
+      "name": "my-command-utilities",
+      "repo": "https://github.com/syohex/my-command-utilities",
+      "language": "Python"
+    },
+    {
+      "name": "dotnet-study",
+      "repo": "https://github.com/syohex/dotnet-study",
+      "language": "F#"
+    },
+    {
+      "name": "win-scripts",
+      "repo": "https://github.com/syohex/win-scripts",
+      "language": "PowerShell"
+    },
+    {
+      "name": "win-claude-notify",
+      "repo": "https://github.com/syohex/win-claude-notify",
+      "language": "C#"
+    },
+    {
+      "name": "emacs-syohex-theme",
+      "repo": "https://github.com/syohex/emacs-syohex-theme",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "advent_of_code",
+      "repo": "https://github.com/syohex/advent_of_code",
+      "language": "C++"
+    },
+    {
+      "name": "emacs-tree-sitter-build",
+      "repo": "https://github.com/syohex/emacs-tree-sitter-build",
+      "language": "Makefile"
+    },
+    {
+      "name": "emacs-anzu2",
+      "repo": "https://github.com/syohex/emacs-anzu2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "p5-Text-AAlib",
+      "repo": "https://github.com/syohex/p5-Text-AAlib",
+      "language": "Perl"
+    },
+    {
+      "name": "p5-List-Utils-By",
+      "repo": "https://github.com/syohex/p5-List-Utils-By",
+      "language": "Perl"
+    },
+    {
+      "name": "p5-Graphviz-DSL",
+      "repo": "https://github.com/syohex/p5-Graphviz-DSL",
+      "language": "Perl"
+    },
+    {
+      "name": "p5-Text-UnicodeTable-Simple",
+      "repo": "https://github.com/syohex/p5-Text-UnicodeTable-Simple",
+      "language": "Perl"
+    },
+    {
+      "name": "clipboard",
+      "repo": "https://github.com/syohex/clipboard",
+      "language": "Go"
+    },
+    {
+      "name": "at-coder",
+      "repo": "https://github.com/syohex/at-coder",
+      "language": "C++"
+    },
+    {
+      "name": "emacs-helm-ag2",
+      "repo": "https://github.com/syohex/emacs-helm-ag2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-git-gutter2",
+      "repo": "https://github.com/syohex/emacs-git-gutter2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-lua",
+      "repo": "https://github.com/syohex/emacs-lua",
+      "language": "C"
+    },
+    {
+      "name": "syohex",
+      "repo": "https://github.com/syohex/syohex"
+    },
+    {
+      "name": "emacs-hcl-mode",
+      "repo": "https://github.com/syohex/emacs-hcl-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-libyaml",
+      "repo": "https://github.com/syohex/emacs-libyaml",
+      "language": "C"
+    },
+    {
+      "name": "emacs-helm-gtags2",
+      "repo": "https://github.com/syohex/emacs-helm-gtags2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-sqlite3",
+      "repo": "https://github.com/syohex/emacs-sqlite3",
+      "language": "C"
+    },
+    {
+      "name": "aizu_online_judge",
+      "repo": "https://github.com/syohex/aizu_online_judge",
+      "language": "C++"
+    },
+    {
+      "name": "zaw-utility",
+      "repo": "https://github.com/syohex/zaw-utility",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-go-completions",
+      "repo": "https://github.com/syohex/zsh-go-completions",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-unix-command-completions",
+      "repo": "https://github.com/syohex/zsh-unix-command-completions",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-macos-completions",
+      "repo": "https://github.com/syohex/zsh-macos-completions",
+      "language": "Shell"
+    },
+    {
+      "name": "zsh-perl-completions",
+      "repo": "https://github.com/syohex/zsh-perl-completions",
+      "language": "Shell"
+    },
+    {
+      "name": "WebHID-Patlite-Demo",
+      "repo": "https://github.com/syohex/WebHID-Patlite-Demo",
+      "language": "TypeScript"
+    },
+    {
+      "name": "typer-mode",
+      "repo": "https://github.com/syohex/typer-mode",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "c-study",
+      "repo": "https://github.com/syohex/c-study",
+      "language": "C"
+    },
+    {
+      "name": "java-study",
+      "repo": "https://github.com/syohex/java-study",
+      "language": "Java"
+    },
+    {
+      "name": "android-study",
+      "repo": "https://github.com/syohex/android-study",
+      "language": "Kotlin"
+    },
+    {
+      "name": "go-study",
+      "repo": "https://github.com/syohex/go-study",
+      "language": "Go"
+    },
+    {
+      "name": "rust-study",
+      "repo": "https://github.com/syohex/rust-study",
+      "language": "Rust"
+    },
+    {
+      "name": "go-aalib",
+      "repo": "https://github.com/syohex/go-aalib",
+      "language": "Go"
+    },
+    {
+      "name": "python-study",
+      "repo": "https://github.com/syohex/python-study",
+      "language": "CSS"
+    },
+    {
+      "name": "bug-reproduction",
+      "repo": "https://github.com/syohex/bug-reproduction",
+      "language": "HTML"
+    },
+    {
+      "name": "tc",
+      "repo": "https://github.com/syohex/tc",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "ocaml-study",
+      "repo": "https://github.com/syohex/ocaml-study",
+      "language": "OCaml"
+    },
+    {
+      "name": "sh-study",
+      "repo": "https://github.com/syohex/sh-study",
+      "language": "Shell"
+    },
+    {
+      "name": "node-study",
+      "repo": "https://github.com/syohex/node-study",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cpp-study",
+      "repo": "https://github.com/syohex/cpp-study",
+      "language": "C++"
+    },
+    {
+      "name": "kotlin-study",
+      "repo": "https://github.com/syohex/kotlin-study",
+      "language": "Kotlin"
+    },
+    {
+      "name": "GCPPubSubRest",
+      "repo": "https://github.com/syohex/GCPPubSubRest",
+      "language": "C#"
+    },
+    {
+      "name": "udemy-memo",
+      "repo": "https://github.com/syohex/udemy-memo"
+    },
+    {
+      "name": "gcp-pubsub-rest",
+      "repo": "https://github.com/syohex/gcp-pubsub-rest",
+      "language": "Go"
+    },
+    {
+      "name": "emacs-conventional-changelog",
+      "repo": "https://github.com/syohex/emacs-conventional-changelog",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "mexican-holidays",
+      "repo": "https://github.com/syohex/mexican-holidays",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "book-memos",
+      "repo": "https://github.com/syohex/book-memos",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "zaw-git-directories",
+      "repo": "https://github.com/syohex/zaw-git-directories",
+      "language": "Shell"
+    },
+    {
+      "name": "go-h2c",
+      "repo": "https://github.com/syohex/go-h2c",
+      "language": "Go"
+    },
+    {
+      "name": "syohex.github.io",
+      "repo": "https://github.com/syohex/syohex.github.io"
+    },
+    {
+      "name": "pardef.el",
+      "repo": "https://github.com/syohex/pardef.el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "qt-study",
+      "repo": "https://github.com/syohex/qt-study",
+      "language": "C++"
+    },
+    {
+      "name": "exercism",
+      "repo": "https://github.com/syohex/exercism",
+      "language": "C"
+    },
+    {
+      "name": "flutter-study",
+      "repo": "https://github.com/syohex/flutter-study",
+      "language": "C++"
+    },
+    {
+      "name": "windows-api-study",
+      "repo": "https://github.com/syohex/windows-api-study",
+      "language": "C++"
+    },
+    {
+      "name": "yaml2dirs-rs",
+      "repo": "https://github.com/syohex/yaml2dirs-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "git-blame-pr-rs",
+      "repo": "https://github.com/syohex/git-blame-pr-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "wiki",
+      "repo": "https://github.com/syohex/wiki"
+    },
+    {
+      "name": "hecto",
+      "repo": "https://github.com/syohex/hecto",
+      "language": "Rust"
+    },
+    {
+      "name": "git-cal-rs",
+      "repo": "https://github.com/syohex/git-cal-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "ubuntu-version-rs",
+      "repo": "https://github.com/syohex/ubuntu-version-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "emacs-md2fc2",
+      "repo": "https://github.com/syohex/emacs-md2fc2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "nsevil",
+      "repo": "https://github.com/syohex/nsevil",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-zoom-window2",
+      "repo": "https://github.com/syohex/emacs-zoom-window2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "bazel-mac-sample",
+      "repo": "https://github.com/syohex/bazel-mac-sample",
+      "language": "Starlark"
+    },
+    {
+      "name": "webapp-study",
+      "repo": "https://github.com/syohex/webapp-study",
+      "language": "Go"
+    },
+    {
+      "name": "emacs-git-messenger2",
+      "repo": "https://github.com/syohex/emacs-git-messenger2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "linux-samples",
+      "repo": "https://github.com/syohex/linux-samples",
+      "language": "C"
+    },
+    {
+      "name": "daily-memo",
+      "repo": "https://github.com/syohex/daily-memo"
+    },
+    {
+      "name": "emacs-quickjs",
+      "repo": "https://github.com/syohex/emacs-quickjs",
+      "language": "C"
+    },
+    {
+      "name": "emacs-quickrun2",
+      "repo": "https://github.com/syohex/emacs-quickrun2",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "cookpad_mart_questions",
+      "repo": "https://github.com/syohex/cookpad_mart_questions",
+      "language": "C++"
+    },
+    {
+      "name": "emacs-simdjson",
+      "repo": "https://github.com/syohex/emacs-simdjson",
+      "language": "C++"
+    },
+    {
+      "name": "emacs-signpost",
+      "repo": "https://github.com/syohex/emacs-signpost",
+      "language": "C"
+    },
+    {
+      "name": "simple-scheme-sharp",
+      "repo": "https://github.com/syohex/simple-scheme-sharp",
+      "language": "C#"
+    },
+    {
+      "name": "banglisp",
+      "repo": "https://github.com/syohex/banglisp",
+      "language": "Go"
+    },
+    {
+      "name": "go-texttable",
+      "repo": "https://github.com/syohex/go-texttable",
+      "language": "Go"
+    },
+    {
+      "name": "emacs-counsel-gtags",
+      "repo": "https://github.com/syohex/emacs-counsel-gtags",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "git-jira",
+      "repo": "https://github.com/syohex/git-jira",
+      "language": "Go"
+    },
+    {
+      "name": "sudoku-go",
+      "repo": "https://github.com/syohex/sudoku-go",
+      "language": "Go"
+    },
+    {
+      "name": "git-blame-pr",
+      "repo": "https://github.com/syohex/git-blame-pr",
+      "language": "Go"
+    },
+    {
+      "name": "jetbrains-script-gen",
+      "repo": "https://github.com/syohex/jetbrains-script-gen",
+      "language": "Go"
+    },
+    {
+      "name": "twtxt-el",
+      "repo": "https://github.com/syohex/twtxt-el",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-git-pullreq-jump",
+      "repo": "https://github.com/syohex/emacs-git-pullreq-jump",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "emacs-cipher",
+      "repo": "https://github.com/syohex/emacs-cipher",
+      "language": "C"
+    },
+    {
+      "name": "emacs-import-cost",
+      "repo": "https://github.com/syohex/emacs-import-cost",
+      "language": "Emacs Lisp"
+    },
+    {
+      "name": "git-delete-merged-branches",
+      "repo": "https://github.com/syohex/git-delete-merged-branches",
+      "language": "Go"
+    },
+    {
+      "name": "git-clang-format",
+      "repo": "https://github.com/syohex/git-clang-format",
+      "language": "Go"
+    }
+  ]
+}

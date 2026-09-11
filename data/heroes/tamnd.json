@@ -1,0 +1,540 @@
+{
+  "handle": "tamnd",
+  "name": "Tam Nguyen Duc",
+  "github": [
+    "https://github.com/tamnd"
+  ],
+  "own_repos": 952,
+  "commits": 19983,
+  "apps": [],
+  "repos": [
+    {
+      "name": "firepanda",
+      "repo": "https://github.com/tamnd/firepanda",
+      "url": "https://github.com/tamnd/firepanda",
+      "language": "Mojo"
+    },
+    {
+      "name": "rudb",
+      "repo": "https://github.com/tamnd/rudb",
+      "url": "https://github.com/tamnd/rudb/tree/main/spec",
+      "language": "Rust"
+    },
+    {
+      "name": "rucc",
+      "repo": "https://github.com/tamnd/rucc",
+      "url": "https://github.com/tamnd/rucc/tree/main/spec",
+      "language": "Rust"
+    },
+    {
+      "name": "firepanda-bench",
+      "repo": "https://github.com/tamnd/firepanda-bench",
+      "url": "https://github.com/tamnd/firepanda",
+      "language": "Python"
+    },
+    {
+      "name": "firepanda-compat",
+      "repo": "https://github.com/tamnd/firepanda-compat",
+      "language": "Python"
+    },
+    {
+      "name": "rucc-cross",
+      "repo": "https://github.com/tamnd/rucc-cross",
+      "url": "https://github.com/tamnd/rucc",
+      "language": "Shell"
+    },
+    {
+      "name": "rucc-real-corpus",
+      "repo": "https://github.com/tamnd/rucc-real-corpus",
+      "language": "Rust"
+    },
+    {
+      "name": "brain-vi",
+      "repo": "https://github.com/tamnd/brain-vi",
+      "url": "https://brain-vi.tamnd.com",
+      "language": "CSS"
+    },
+    {
+      "name": "tamnd",
+      "repo": "https://github.com/tamnd/tamnd"
+    },
+    {
+      "name": "rudb-bench",
+      "repo": "https://github.com/tamnd/rudb-bench",
+      "url": "https://github.com/tamnd/rudb",
+      "language": "Rust"
+    },
+    {
+      "name": "hn-daily-index",
+      "repo": "https://github.com/tamnd/hn-daily-index",
+      "language": "Python"
+    },
+    {
+      "name": "brain-ja",
+      "repo": "https://github.com/tamnd/brain-ja",
+      "url": "https://brain-ja.tamnd.com",
+      "language": "CSS"
+    },
+    {
+      "name": "brain-zh-cn",
+      "repo": "https://github.com/tamnd/brain-zh-cn",
+      "language": "CSS"
+    },
+    {
+      "name": "rucc-corpus",
+      "repo": "https://github.com/tamnd/rucc-corpus",
+      "language": "C"
+    },
+    {
+      "name": "brain",
+      "repo": "https://github.com/tamnd/brain",
+      "url": "https://tamnd.github.io/brain",
+      "language": "Python"
+    },
+    {
+      "name": "rudb-compat",
+      "repo": "https://github.com/tamnd/rudb-compat",
+      "url": "https://github.com/tamnd/rudb",
+      "language": "Rust"
+    },
+    {
+      "name": "umi",
+      "repo": "https://github.com/tamnd/umi",
+      "url": "https://umi.dev",
+      "language": "Rust"
+    },
+    {
+      "name": "yo",
+      "repo": "https://github.com/tamnd/yo",
+      "language": "Rust"
+    },
+    {
+      "name": "tomo-labs",
+      "repo": "https://github.com/tamnd/tomo-labs",
+      "url": "https://tomo-labs.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "awesome-index",
+      "repo": "https://github.com/tamnd/awesome-index",
+      "language": "Python"
+    },
+    {
+      "name": "zig",
+      "repo": "https://github.com/tamnd/zig",
+      "url": "https://codeberg.org/ziglang/zig"
+    },
+    {
+      "name": "cache-bench",
+      "repo": "https://github.com/tamnd/cache-bench",
+      "language": "Rust"
+    },
+    {
+      "name": "kuma-bench",
+      "repo": "https://github.com/tamnd/kuma-bench",
+      "language": "Go"
+    },
+    {
+      "name": "mojo.core",
+      "repo": "https://github.com/tamnd/mojo.core",
+      "language": "Mojo"
+    },
+    {
+      "name": "python-docs-vi",
+      "repo": "https://github.com/tamnd/python-docs-vi",
+      "url": "https://tamnd.github.io/python-docs-vi/"
+    },
+    {
+      "name": "rucc-compat",
+      "repo": "https://github.com/tamnd/rucc-compat",
+      "language": "Rust"
+    },
+    {
+      "name": "dotnet-internals",
+      "repo": "https://github.com/tamnd/dotnet-internals",
+      "language": "C#"
+    },
+    {
+      "name": "mojo.windows",
+      "repo": "https://github.com/tamnd/mojo.windows",
+      "url": "https://github.com/tamnd/mojo.windows",
+      "language": "Starlark"
+    },
+    {
+      "name": "iris",
+      "repo": "https://github.com/tamnd/iris",
+      "language": "Rust"
+    },
+    {
+      "name": "bourbaki",
+      "repo": "https://github.com/tamnd/bourbaki",
+      "url": "https://github.com/tamnd/bourbaki-solver",
+      "language": "Shell"
+    },
+    {
+      "name": "gao",
+      "repo": "https://github.com/tamnd/gao",
+      "language": "Go"
+    },
+    {
+      "name": "molla",
+      "repo": "https://github.com/tamnd/molla",
+      "language": "Mojo"
+    },
+    {
+      "name": "mojo.httpx",
+      "repo": "https://github.com/tamnd/mojo.httpx",
+      "language": "Mojo"
+    },
+    {
+      "name": "gql-compat",
+      "repo": "https://github.com/tamnd/gql-compat",
+      "language": "Go"
+    },
+    {
+      "name": "yo-swift",
+      "repo": "https://github.com/tamnd/yo-swift",
+      "url": "https://yo.tamnd.dev",
+      "language": "Swift"
+    },
+    {
+      "name": "cpython-internals",
+      "repo": "https://github.com/tamnd/cpython-internals",
+      "language": "Python"
+    },
+    {
+      "name": "beam-internals",
+      "repo": "https://github.com/tamnd/beam-internals",
+      "url": "https://beam-internals.dev",
+      "language": "Erlang"
+    },
+    {
+      "name": "kura-bench",
+      "repo": "https://github.com/tamnd/kura-bench",
+      "language": "Go"
+    },
+    {
+      "name": "rugo",
+      "repo": "https://github.com/tamnd/rugo",
+      "language": "Rust"
+    },
+    {
+      "name": "iris-bench",
+      "repo": "https://github.com/tamnd/iris-bench",
+      "language": "Rust"
+    },
+    {
+      "name": "linux-kernel-internals",
+      "repo": "https://github.com/tamnd/linux-kernel-internals",
+      "language": "Python"
+    },
+    {
+      "name": "gcc-internals",
+      "repo": "https://github.com/tamnd/gcc-internals",
+      "url": "https://tamnd.github.io/gcc-internals/",
+      "language": "Python"
+    },
+    {
+      "name": "jvm-internals",
+      "repo": "https://github.com/tamnd/jvm-internals",
+      "language": "Python"
+    },
+    {
+      "name": "godev-vn-translator",
+      "repo": "https://github.com/tamnd/godev-vn-translator",
+      "url": "https://godev-vn.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "llvm-internals",
+      "repo": "https://github.com/tamnd/llvm-internals",
+      "language": "Python"
+    },
+    {
+      "name": "yo-bench",
+      "repo": "https://github.com/tamnd/yo-bench",
+      "language": "Rust"
+    },
+    {
+      "name": "bourbaki-solver",
+      "repo": "https://github.com/tamnd/bourbaki-solver",
+      "url": "https://github.com/tamnd/bourbaki",
+      "language": "Go"
+    },
+    {
+      "name": "kohebi",
+      "repo": "https://github.com/tamnd/kohebi",
+      "url": "https://github.com/tamnd/kohebi/blob/main/docs/spec/00-README.md",
+      "language": "Rust"
+    },
+    {
+      "name": "katsu",
+      "repo": "https://github.com/tamnd/katsu",
+      "url": "https://github.com/tamnd/katsu",
+      "language": "Rust"
+    },
+    {
+      "name": "kuma",
+      "repo": "https://github.com/tamnd/kuma",
+      "language": "Go"
+    },
+    {
+      "name": "yo-compat",
+      "repo": "https://github.com/tamnd/yo-compat",
+      "language": "Rust"
+    },
+    {
+      "name": "python-docs-vi-translator",
+      "repo": "https://github.com/tamnd/python-docs-vi-translator",
+      "language": "Python"
+    },
+    {
+      "name": "taocp-solver",
+      "repo": "https://github.com/tamnd/taocp-solver",
+      "url": "https://pkg.go.dev/github.com/tamnd/taocp-solver",
+      "language": "Go"
+    },
+    {
+      "name": "kohebi-compat",
+      "repo": "https://github.com/tamnd/kohebi-compat",
+      "url": "https://github.com/tamnd/kohebi",
+      "language": "Python"
+    },
+    {
+      "name": "yo-dart",
+      "repo": "https://github.com/tamnd/yo-dart",
+      "url": "https://yo.tamnd.dev",
+      "language": "Dart"
+    },
+    {
+      "name": "zou",
+      "repo": "https://github.com/tamnd/zou",
+      "language": "Rust"
+    },
+    {
+      "name": "zou-conformance",
+      "repo": "https://github.com/tamnd/zou-conformance",
+      "language": "PLpgSQL"
+    },
+    {
+      "name": "katsu-bench",
+      "repo": "https://github.com/tamnd/katsu-bench",
+      "language": "Rust"
+    },
+    {
+      "name": "zou-bench",
+      "repo": "https://github.com/tamnd/zou-bench",
+      "language": "Go"
+    },
+    {
+      "name": "kohebi-bench",
+      "repo": "https://github.com/tamnd/kohebi-bench",
+      "url": "https://github.com/tamnd/kohebi",
+      "language": "Python"
+    },
+    {
+      "name": "genba",
+      "repo": "https://github.com/tamnd/genba",
+      "url": "https://pkg.go.dev/github.com/tamnd/genba",
+      "language": "Go"
+    },
+    {
+      "name": "yo-go",
+      "repo": "https://github.com/tamnd/yo-go",
+      "language": "Go"
+    },
+    {
+      "name": "yo-dotnet",
+      "repo": "https://github.com/tamnd/yo-dotnet"
+    },
+    {
+      "name": "yo-java",
+      "repo": "https://github.com/tamnd/yo-java"
+    },
+    {
+      "name": "yo-node",
+      "repo": "https://github.com/tamnd/yo-node"
+    },
+    {
+      "name": "yo-python",
+      "repo": "https://github.com/tamnd/yo-python"
+    },
+    {
+      "name": "yo-web",
+      "repo": "https://github.com/tamnd/yo-web"
+    },
+    {
+      "name": "yo-kit",
+      "repo": "https://github.com/tamnd/yo-kit"
+    },
+    {
+      "name": "yo-c",
+      "repo": "https://github.com/tamnd/yo-c"
+    },
+    {
+      "name": "katsu-compat",
+      "repo": "https://github.com/tamnd/katsu-compat",
+      "language": "Rust"
+    },
+    {
+      "name": "llms-in-rust",
+      "repo": "https://github.com/tamnd/llms-in-rust",
+      "language": "Makefile"
+    },
+    {
+      "name": "zu",
+      "repo": "https://github.com/tamnd/zu",
+      "language": "Rust"
+    },
+    {
+      "name": "zu-c",
+      "repo": "https://github.com/tamnd/zu-c",
+      "language": "C++"
+    },
+    {
+      "name": "zu-node",
+      "repo": "https://github.com/tamnd/zu-node",
+      "language": "JavaScript"
+    },
+    {
+      "name": "zu-python",
+      "repo": "https://github.com/tamnd/zu-python",
+      "language": "Python"
+    },
+    {
+      "name": "zu-go",
+      "repo": "https://github.com/tamnd/zu-go",
+      "language": "Go"
+    },
+    {
+      "name": "zu-java",
+      "repo": "https://github.com/tamnd/zu-java",
+      "language": "Java"
+    },
+    {
+      "name": "graph-bench",
+      "repo": "https://github.com/tamnd/graph-bench",
+      "language": "Go"
+    },
+    {
+      "name": "leetcode-solver",
+      "repo": "https://github.com/tamnd/leetcode-solver",
+      "language": "Go"
+    },
+    {
+      "name": "kura",
+      "repo": "https://github.com/tamnd/kura",
+      "url": "https://docs.rs/kura-core",
+      "language": "Rust"
+    },
+    {
+      "name": "ccrawl-cli",
+      "repo": "https://github.com/tamnd/ccrawl-cli",
+      "url": "https://ccrawl-cli.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "local-ocr",
+      "repo": "https://github.com/tamnd/local-ocr",
+      "language": "Python"
+    },
+    {
+      "name": "ari",
+      "repo": "https://github.com/tamnd/ari",
+      "language": "Go"
+    },
+    {
+      "name": "kvant",
+      "repo": "https://github.com/tamnd/kvant",
+      "url": "https://github.com/tamnd/kvant-solver"
+    },
+    {
+      "name": "kvant-solver",
+      "repo": "https://github.com/tamnd/kvant-solver",
+      "url": "https://github.com/tamnd/kvant",
+      "language": "Go"
+    },
+    {
+      "name": "tree-sitter-gql",
+      "repo": "https://github.com/tamnd/tree-sitter-gql",
+      "url": "https://github.com/tamnd/zu",
+      "language": "C"
+    },
+    {
+      "name": "luatdo",
+      "repo": "https://github.com/tamnd/luatdo",
+      "language": "Go"
+    },
+    {
+      "name": "ytb-archiver",
+      "repo": "https://github.com/tamnd/ytb-archiver",
+      "url": "https://tamnd.github.io/ytb-archiver/",
+      "language": "Go"
+    },
+    {
+      "name": "xiaohongshu-cli",
+      "repo": "https://github.com/tamnd/xiaohongshu-cli",
+      "url": "https://xiaohongshu-cli.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "bilibili-cli",
+      "repo": "https://github.com/tamnd/bilibili-cli",
+      "url": "https://bilibili-cli.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "springer-cli",
+      "repo": "https://github.com/tamnd/springer-cli",
+      "url": "https://springer-cli.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "python-docs-vi-machine-translation",
+      "repo": "https://github.com/tamnd/python-docs-vi-machine-translation",
+      "url": "https://tamnd.github.io/python-docs-vi-machine-translation/",
+      "language": "Python"
+    },
+    {
+      "name": "scoop-bucket",
+      "repo": "https://github.com/tamnd/scoop-bucket"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/tamnd/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "amz-cli",
+      "repo": "https://github.com/tamnd/amz-cli",
+      "url": "https://amz-cli.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "any-cli",
+      "repo": "https://github.com/tamnd/any-cli",
+      "language": "Go"
+    },
+    {
+      "name": "goodread-cli",
+      "repo": "https://github.com/tamnd/goodread-cli",
+      "url": "https://goodread-cli.tamnd.com",
+      "language": "Go"
+    },
+    {
+      "name": "zu-web",
+      "repo": "https://github.com/tamnd/zu-web"
+    },
+    {
+      "name": "local-llm",
+      "repo": "https://github.com/tamnd/local-llm",
+      "language": "Go"
+    },
+    {
+      "name": "arxiv-cli",
+      "repo": "https://github.com/tamnd/arxiv-cli",
+      "url": "https://arxiv-cli.tamnd.com",
+      "language": "Go"
+    }
+  ]
+}

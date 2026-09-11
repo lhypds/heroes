@@ -11,6 +11,8 @@
 //   node data/cleaning.js --repos 25 over the first twenty-five instead
 //   node data/cleaning.js --step3    the heroes: over ten thousand commits in
 //                                    the hundred repositories they last pushed
+//   node data/cleaning.js --step4    the hundred cut them short: count every
+//                                    repository of whoever could still pass
 //   node data/cleaning.js --dry      count, and say who would go; remove nobody
 //   node data/cleaning.js alice bob  only these people, whatever their state
 //   node data/cleaning.js --report   how many are left, how many went and why
@@ -39,6 +41,16 @@
 // applications for a person to fill in later. An entry already written is
 // left alone, whatever it says. Whoever falls short is left where they
 // are, counted, neither removed nor a hero.
+//
+// Step 4 is for whom the hundred was not enough. Someone with a thousand
+// repositories was read to the hundredth and no further, and the nine
+// hundred left unread might hold what the bar asks for; someone with a
+// hundred and two was read almost to the end, and nothing is waiting
+// there. So step 4 asks who could still pass if everything they have were
+// counted — their hundred busiest, taken as the pace of all of them,
+// reaching the bar — and counts everything they have. It is a thousand
+// people of thirty-three thousand, and two hours: the rest cannot pass
+// however long they are read for, and are not asked.
 //
 // These are heavy requests. GitHub gives one ten seconds, and a hundred
 // repositories take about nine, so a person GitHub cannot manage is asked
@@ -83,8 +95,9 @@ const DRY = flag("dry");
 const REPORT = flag("report");
 const EXPORT = flag("export");
 const STEP3 = flag("step3");
-const STEP1 = flag("step1") || (!flag("step2") && !STEP3 && !REPORT && !EXPORT);
-const STEP2 = flag("step2") || (!flag("step1") && !STEP3 && !REPORT && !EXPORT);
+const STEP4 = flag("step4");
+const STEP1 = flag("step1") || (!flag("step2") && !STEP3 && !STEP4 && !REPORT && !EXPORT);
+const STEP2 = flag("step2") || (!flag("step1") && !STEP3 && !STEP4 && !REPORT && !EXPORT);
 
 // Step 2's bar: ten commits a repository on average, over the first SAMPLE.
 const SAMPLE = option("repos", 100);
@@ -95,8 +108,8 @@ const HERO = 10000;
 const HERO_REPOS = 100;
 // Repositories to a request, and what to fall back to when GitHub times
 // out, down to one at a time; an account GitHub cannot count even so is
-// kept, and marked.
-// Fifty to start with, and smaller for the person GitHub gives out on.
+// kept, and marked. Fifty to start with, and smaller for the person
+// GitHub gives out on.
 // Both ends were measured over two hundred people each. A hundred is more
 // than GitHub will count for a third of them: it spends its ten seconds,
 // gives out, and the person is asked again in halves, three and a third
@@ -160,7 +173,8 @@ db.exec("PRAGMA journal_mode = WAL");
 // anyone and by themselves in the first repositories; and how many
 // repositories that covers.
 const columns = db.prepare("PRAGMA table_info(people)").all().map((column) => column.name);
-for (const [name, type] of [["id", "TEXT"], ["commits", "INTEGER"], ["authored", "INTEGER"], ["checked", "INTEGER"]]) {
+for (const [name, type] of [["id", "TEXT"], ["commits", "INTEGER"], ["authored", "INTEGER"], ["checked", "INTEGER"],
+  ["full", "INTEGER"]]) {
   if (!columns.includes(name)) db.exec(`ALTER TABLE people ADD COLUMN ${name} ${type}`);
 }
 db.exec(`
@@ -181,15 +195,27 @@ const sql = {
   short: db.prepare("SELECT * FROM people WHERE commits IS NOT NULL AND commits < checked * ? ORDER BY rowid"),
   person: db.prepare("SELECT * FROM people WHERE login = ?"),
   identified: db.prepare("UPDATE people SET id = ? WHERE login = ?"),
-  counted: db.prepare("UPDATE people SET commits = ?, authored = ?, checked = ? WHERE login = ?"),
+  counted: db.prepare("UPDATE people SET commits = ?, authored = ?, checked = ?, full = ? WHERE login = ?"),
   // Anyone step 3 has not settled: counted over fewer than a hundred
   // repositories, counted without their own commits told apart, or not
   // counted at all. Someone step 2 already put over the bar is asked again
   // all the same, so that every hero's commits are the same hundred
   // repositories; checked is -1 for someone GitHub could not count at all,
-  // and they are not asked again.
+  // and full is 1 for someone who has no hundred repositories to count —
+  // ninety-nine of them counted is all of them — and neither is asked again.
   undecided: db.prepare(`SELECT login FROM people
-    WHERE checked IS NULL OR (checked >= 0 AND (checked < ? OR authored IS NULL)) ORDER BY rowid`),
+    WHERE full IS NOT 1 AND (checked IS NULL OR (checked >= 0 AND (checked < ? OR authored IS NULL)))
+    ORDER BY rowid`),
+  // Step 4's: whoever the hundred cut short and could still reach the bar
+  // if the rest of their repositories were counted. The test is generous
+  // on purpose — it supposes every repository they have is as busy as the
+  // hundred busiest, which measurement says is three times the truth — so
+  // that nobody who could pass is left unasked.
+  truncated: db.prepare(`SELECT login FROM people
+    WHERE full IS NOT 1 AND checked = ? AND own > ? AND authored <= ? AND authored * own / 100.0 > ?
+    ORDER BY own`),
+  truncatedRepos: db.prepare(`SELECT sum(own - ?) AS n FROM people
+    WHERE full IS NOT 1 AND checked = ? AND own > ? AND authored <= ? AND authored * own / 100.0 > ?`),
   heroes: db.prepare("SELECT * FROM people WHERE authored > ? ORDER BY authored DESC, login"),
   heroCount: db.prepare("SELECT count(*) AS n FROM people WHERE authored > ?"),
   remove: db.prepare("DELETE FROM people WHERE login = ?"),
@@ -461,7 +487,7 @@ const tally = async (login, { sample, id }) => {
           page = smaller;
           continue;
         }
-        return { commits, authored, checked, gaveUp: true };
+        return { commits, authored, checked, gaveUp: true, exhausted: false };
       }
       throw error;
     }
@@ -472,10 +498,10 @@ const tally = async (login, { sample, id }) => {
       authored += repo.defaultBranchRef?.target?.own?.totalCount ?? 0;
     }
     checked += repos.nodes.length;
-    if (!repos.pageInfo.hasNextPage) break;
+    if (!repos.pageInfo.hasNextPage) return { commits, authored, checked, gaveUp: false, exhausted: true };
     after = repos.pageInfo.endCursor;
   }
-  return { commits, authored, checked, gaveUp: false };
+  return { commits, authored, checked, gaveUp: false, exhausted: false };
 };
 
 // Counts one person's commits and their own; then keeps or removes them.
@@ -502,12 +528,12 @@ const count = async (login) => {
   // and then it decides on its own; only when it is not is there nothing
   // to say.
   if (counts.gaveUp && counts.commits < SAMPLE * PER_REPO) {
-    sql.counted.run(null, null, -1, login);
+    sql.counted.run(null, null, -1, 0, login);
     done();
     console.log(`${login}: ${UNCOUNTABLE}`);
     return;
   }
-  sql.counted.run(counts.commits, counts.authored, counts.checked, login);
+  sql.counted.run(counts.commits, counts.authored, counts.checked, counts.exhausted ? 1 : 0, login);
   const person = sql.person.get(login);
   if (!person) return;
   countedNow++;
@@ -639,7 +665,7 @@ const exportHeroes = () => {
 // Counts one person over the hundred repositories they pushed to most
 // recently, and writes their entry if what they wrote themselves comes to
 // more than the bar.
-const hero = async (login) => {
+const hero = async (login, sample = HERO_REPOS) => {
   let id = sql.person.get(login)?.id ?? null;
   let counts;
   try {
@@ -649,7 +675,7 @@ const hero = async (login) => {
       sql.identified.run(id, login);
     }
     if (id === "") return gone(login, 3);
-    counts = await tally(login, { sample: HERO_REPOS, id });
+    counts = await tally(login, { sample, id });
   } catch (error) {
     done();
     console.log(`${login}: ${error.message}; left for next time`);
@@ -660,12 +686,12 @@ const hero = async (login) => {
   // What was counted before GitHub gave out may already be over the bar,
   // and then it decides on its own.
   if (counts.gaveUp && counts.authored <= HERO) {
-    sql.counted.run(null, null, -1, login);
+    sql.counted.run(null, null, -1, 0, login);
     done();
     console.log(`${login}: ${UNCOUNTABLE}`);
     return;
   }
-  sql.counted.run(counts.commits, counts.authored, counts.checked, login);
+  sql.counted.run(counts.commits, counts.authored, counts.checked, counts.exhausted ? 1 : 0, login);
   countedNow++;
   const person = sql.person.get(login);
   if (!person || person.authored <= HERO) return;
@@ -676,15 +702,12 @@ const hero = async (login) => {
     `in ${person.checked} repositories${DRY ? " (would be a hero)" : ""}`);
 };
 
-const step3 = async () => {
-  TOKEN = token();
-  mkdirSync(HEROES, { recursive: true });
-  const queue = handles.length > 0
-    ? handles.filter((login) => sql.person.get(login))
-    : sql.undecided.all(HERO_REPOS).map((row) => row.login);
+// Works through a queue of people, a few at once, counting each of them
+// to the given depth and saying how it goes.
+const drive = async (step, queue, sample) => {
   const total = queue.length;
   const progress = () =>
-    `step 3: ${countedNow} of ${total} counted, ${heroesNow} heroes` +
+    `step ${step}: ${countedNow} of ${total} counted, ${heroesNow} heroes` +
     (left > 0 ? `, ${left} left for next time` : "") +
     `, ${(spent.ms / 1000 / Math.max(countedNow, 1)).toFixed(1)}s of GitHub's time each` +
     `, ${spent.timeouts} of ${spent.pages} pages gave out` +
@@ -693,7 +716,7 @@ const step3 = async () => {
   let logged = 0;
   const worker = async () => {
     while (pending.length > 0) {
-      await hero(pending.shift());
+      await hero(pending.shift(), sample);
       show(progress());
       if (!process.stdout.isTTY && countedNow - logged >= 200) {
         logged = countedNow;
@@ -703,13 +726,42 @@ const step3 = async () => {
   };
   await Promise.all(Array.from({ length: WORKERS }, worker));
   done();
-  console.log(`step 3: ${countedNow} counted, ${heroesNow} heroes` +
+  console.log(`step ${step}: ${countedNow} counted, ${heroesNow} heroes` +
     (DRY ? " would be written" : `, ${wroteNow} entries written`) +
     (left > 0 ? `, ${left} left for next time` : ""));
   // Everyone the earlier steps already put over the bar gets their entry
   // too, at the end of a full run; asked about a few people by name, it
   // writes those few and nobody else.
   if (!DRY && handles.length === 0) exportHeroes();
+};
+
+const step3 = async () => {
+  TOKEN = token();
+  mkdirSync(HEROES, { recursive: true });
+  const queue = handles.length > 0
+    ? handles.filter((login) => sql.person.get(login))
+    : sql.undecided.all(HERO_REPOS).map((row) => row.login);
+  await drive(3, queue, HERO_REPOS);
+};
+
+// Step 4
+// -----------------------------------------------------------------------------
+
+const step4 = async () => {
+  TOKEN = token();
+  mkdirSync(HEROES, { recursive: true });
+  const queue = handles.length > 0
+    ? handles.filter((login) => sql.person.get(login))
+    : sql.truncated.all(HERO_REPOS, HERO_REPOS, HERO, HERO).map((row) => row.login);
+  if (handles.length === 0) {
+    const repos = sql.truncatedRepos.get(HERO_REPOS, HERO_REPOS, HERO_REPOS, HERO, HERO);
+    console.log(`step 4: ${queue.length} people the hundred cut short and who could still pass, ` +
+      `${(repos.n ?? 0).toLocaleString("en")} repositories left to count`);
+  }
+  // The smallest accounts first, so the hours are spent where they tell
+  // most: the fewer repositories are left unread, the likelier the hundred
+  // already said what the whole would.
+  await drive(4, queue, Infinity);
 };
 
 // Report
@@ -732,7 +784,7 @@ process.on("SIGINT", () => {
   done();
   console.log("stopped; the next run carries on from here");
   if (STEP2 && !DRY) exportStep(2);
-  if (STEP3 && !DRY && handles.length === 0) exportHeroes();
+  if ((STEP3 || STEP4) && !DRY && handles.length === 0) exportHeroes();
   process.exit(130);
 });
 
@@ -749,6 +801,7 @@ const main = async () => {
   if (STEP1) step1();
   if (STEP2) await step2();
   if (STEP3) await step3();
+  if (STEP4) await step4();
   report();
 };
 

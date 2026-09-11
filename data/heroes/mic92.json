@@ -1,0 +1,520 @@
+{
+  "handle": "mic92",
+  "name": "Jörg Thalheim",
+  "github": [
+    "https://github.com/mic92"
+  ],
+  "website": "https://thalheim.io/",
+  "own_repos": 199,
+  "commits": 24277,
+  "apps": [],
+  "repos": [
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/Mic92/dotfiles",
+      "language": "Nix"
+    },
+    {
+      "name": "auto-merge",
+      "repo": "https://github.com/Mic92/auto-merge",
+      "language": "TypeScript"
+    },
+    {
+      "name": "nixbot",
+      "repo": "https://github.com/Mic92/nixbot",
+      "url": "https://nixbot.thalheim.io/",
+      "language": "Python"
+    },
+    {
+      "name": "niks3",
+      "repo": "https://github.com/Mic92/niks3",
+      "language": "Go"
+    },
+    {
+      "name": "repkgs",
+      "repo": "https://github.com/Mic92/repkgs",
+      "language": "Nushell"
+    },
+    {
+      "name": "nix-grpc-store",
+      "repo": "https://github.com/Mic92/nix-grpc-store",
+      "language": "C++"
+    },
+    {
+      "name": "flakelet-postgres",
+      "repo": "https://github.com/Mic92/flakelet-postgres",
+      "language": "Nix"
+    },
+    {
+      "name": "fast-nix-gc",
+      "repo": "https://github.com/Mic92/fast-nix-gc",
+      "language": "Rust"
+    },
+    {
+      "name": "flakelet-relay",
+      "repo": "https://github.com/Mic92/flakelet-relay",
+      "language": "Rust"
+    },
+    {
+      "name": "radicle-mirror",
+      "repo": "https://github.com/Mic92/radicle-mirror",
+      "url": "https://radicle.thalheim.io/nodes/radicle.thalheim.io/rad:z3HxC4MQH3TvPnBWauGfZ4nWMDYtz",
+      "language": "Go"
+    },
+    {
+      "name": "update-flake-inputs-gitea",
+      "repo": "https://github.com/Mic92/update-flake-inputs-gitea",
+      "language": "Python"
+    },
+    {
+      "name": "direnv-instant",
+      "repo": "https://github.com/Mic92/direnv-instant",
+      "language": "Rust"
+    },
+    {
+      "name": "herdr-eternal",
+      "repo": "https://github.com/Mic92/herdr-eternal",
+      "language": "Rust"
+    },
+    {
+      "name": "gitea-mq",
+      "repo": "https://github.com/Mic92/gitea-mq",
+      "language": "Go"
+    },
+    {
+      "name": "nix-hyperfine",
+      "repo": "https://github.com/Mic92/nix-hyperfine",
+      "language": "Python"
+    },
+    {
+      "name": "flake-fmt",
+      "repo": "https://github.com/Mic92/flake-fmt",
+      "language": "Rust"
+    },
+    {
+      "name": "nix-tarmac",
+      "repo": "https://github.com/Mic92/nix-tarmac",
+      "language": "C++"
+    },
+    {
+      "name": "nixfmt-rs",
+      "repo": "https://github.com/Mic92/nixfmt-rs",
+      "url": "https://mic92.github.io/nixfmt-rs/",
+      "language": "Rust"
+    },
+    {
+      "name": "formatelf",
+      "repo": "https://github.com/Mic92/formatelf",
+      "language": "Rust"
+    },
+    {
+      "name": "sops-nix",
+      "repo": "https://github.com/Mic92/sops-nix",
+      "language": "Nix"
+    },
+    {
+      "name": "python-mpd2",
+      "repo": "https://github.com/Mic92/python-mpd2",
+      "language": "Python"
+    },
+    {
+      "name": "nur-packages",
+      "repo": "https://github.com/Mic92/nur-packages",
+      "url": "https://github.com/nix-community/NUR",
+      "language": "Nix"
+    },
+    {
+      "name": "tincr",
+      "repo": "https://github.com/Mic92/tincr",
+      "language": "Rust"
+    },
+    {
+      "name": "hestia-beta",
+      "repo": "https://github.com/Mic92/hestia-beta",
+      "language": "Rust"
+    },
+    {
+      "name": "hestia",
+      "repo": "https://github.com/Mic92/hestia",
+      "language": "Rust"
+    },
+    {
+      "name": "nixpkgs-review",
+      "repo": "https://github.com/Mic92/nixpkgs-review",
+      "language": "Python"
+    },
+    {
+      "name": "flakelet-nginx",
+      "repo": "https://github.com/Mic92/flakelet-nginx",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-tree-rs",
+      "repo": "https://github.com/Mic92/nix-tree-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "ssh-to-pgp",
+      "repo": "https://github.com/Mic92/ssh-to-pgp",
+      "language": "Go"
+    },
+    {
+      "name": "tribuchet",
+      "repo": "https://github.com/Mic92/tribuchet",
+      "language": "Rust"
+    },
+    {
+      "name": "flakelet",
+      "repo": "https://github.com/Mic92/flakelet",
+      "language": "Rust"
+    },
+    {
+      "name": "cntr",
+      "repo": "https://github.com/Mic92/cntr",
+      "language": "Rust"
+    },
+    {
+      "name": "zfs-dedup",
+      "repo": "https://github.com/Mic92/zfs-dedup",
+      "language": "Rust"
+    },
+    {
+      "name": "niks3-action",
+      "repo": "https://github.com/Mic92/niks3-action",
+      "url": "https://github.com/Mic92/niks3",
+      "language": "TypeScript"
+    },
+    {
+      "name": "wrap-buddy",
+      "repo": "https://github.com/Mic92/wrap-buddy",
+      "language": "C++"
+    },
+    {
+      "name": "presto-pasta",
+      "repo": "https://github.com/Mic92/presto-pasta",
+      "language": "Rust"
+    },
+    {
+      "name": "mics-skills",
+      "repo": "https://github.com/Mic92/mics-skills",
+      "language": "Python"
+    },
+    {
+      "name": "nix-fast-build",
+      "repo": "https://github.com/Mic92/nix-fast-build",
+      "language": "Python"
+    },
+    {
+      "name": "flake-linter",
+      "repo": "https://github.com/Mic92/flake-linter",
+      "language": "Python"
+    },
+    {
+      "name": "vmsh",
+      "repo": "https://github.com/Mic92/vmsh",
+      "url": "https://vmsh.thalheim.io",
+      "language": "Rust"
+    },
+    {
+      "name": "iana-etc",
+      "repo": "https://github.com/Mic92/iana-etc",
+      "language": "Python"
+    },
+    {
+      "name": "nix-update",
+      "repo": "https://github.com/Mic92/nix-update",
+      "language": "Python"
+    },
+    {
+      "name": "ssh-to-age",
+      "repo": "https://github.com/Mic92/ssh-to-age",
+      "language": "Go"
+    },
+    {
+      "name": "mechanical-keyboards",
+      "repo": "https://github.com/Mic92/mechanical-keyboards",
+      "url": "https://github.com/Mic92/qmk_firmware",
+      "language": "Nix"
+    },
+    {
+      "name": "nix-diff-rs",
+      "repo": "https://github.com/Mic92/nix-diff-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "fast-flake-update",
+      "repo": "https://github.com/Mic92/fast-flake-update",
+      "language": "Python"
+    },
+    {
+      "name": "buildbot-torture",
+      "repo": "https://github.com/Mic92/buildbot-torture",
+      "language": "Nix"
+    },
+    {
+      "name": "envfs",
+      "repo": "https://github.com/Mic92/envfs",
+      "language": "Rust"
+    },
+    {
+      "name": "Handi-work.co.uk",
+      "repo": "https://github.com/Mic92/Handi-work.co.uk",
+      "language": "HTML"
+    },
+    {
+      "name": "channel-sweeper",
+      "repo": "https://github.com/Mic92/channel-sweeper",
+      "language": "Rust"
+    },
+    {
+      "name": "dendrite-to-synapse",
+      "repo": "https://github.com/Mic92/dendrite-to-synapse",
+      "language": "PLpgSQL"
+    },
+    {
+      "name": "cargo-nix-plugin",
+      "repo": "https://github.com/Mic92/cargo-nix-plugin",
+      "language": "Rust"
+    },
+    {
+      "name": "zfstools-py",
+      "repo": "https://github.com/Mic92/zfstools-py",
+      "language": "Python"
+    },
+    {
+      "name": "blog",
+      "repo": "https://github.com/Mic92/blog",
+      "url": "https://blog.thalheim.io",
+      "language": "HTML"
+    },
+    {
+      "name": "container-pid",
+      "repo": "https://github.com/Mic92/container-pid",
+      "language": "Rust"
+    },
+    {
+      "name": "noctalia-plugins",
+      "repo": "https://github.com/Mic92/noctalia-plugins",
+      "language": "QML"
+    },
+    {
+      "name": "hestia-drv-test",
+      "repo": "https://github.com/Mic92/hestia-drv-test",
+      "language": "Nix"
+    },
+    {
+      "name": "kartei",
+      "repo": "https://github.com/Mic92/kartei",
+      "language": "Nix"
+    },
+    {
+      "name": "mics-n8n-nodes",
+      "repo": "https://github.com/Mic92/mics-n8n-nodes",
+      "language": "TypeScript"
+    },
+    {
+      "name": "stockholm",
+      "repo": "https://github.com/Mic92/stockholm",
+      "language": "Nix"
+    },
+    {
+      "name": "nixos-shell",
+      "repo": "https://github.com/Mic92/nixos-shell",
+      "language": "Nix"
+    },
+    {
+      "name": "hydra-playground",
+      "repo": "https://github.com/Mic92/hydra-playground",
+      "language": "Nix"
+    },
+    {
+      "name": "tribuchet-action",
+      "repo": "https://github.com/Mic92/tribuchet-action",
+      "language": "Makefile"
+    },
+    {
+      "name": "retiolum",
+      "repo": "https://github.com/Mic92/retiolum",
+      "language": "Nix"
+    },
+    {
+      "name": "strace-macos",
+      "repo": "https://github.com/Mic92/strace-macos",
+      "language": "Python"
+    },
+    {
+      "name": "kiss-cache",
+      "repo": "https://github.com/Mic92/kiss-cache",
+      "language": "Nix"
+    },
+    {
+      "name": "mesh-controller",
+      "repo": "https://github.com/Mic92/mesh-controller",
+      "language": "Rust"
+    },
+    {
+      "name": "u2f-enclave",
+      "repo": "https://github.com/Mic92/u2f-enclave",
+      "language": "Rust"
+    },
+    {
+      "name": "cache-shootout",
+      "repo": "https://github.com/Mic92/cache-shootout",
+      "language": "Rust"
+    },
+    {
+      "name": "nostr",
+      "repo": "https://github.com/Mic92/nostr",
+      "language": "C"
+    },
+    {
+      "name": "adios-flake",
+      "repo": "https://github.com/Mic92/adios-flake",
+      "language": "Nix"
+    },
+    {
+      "name": "n8n-nodes-caldav",
+      "repo": "https://github.com/Mic92/n8n-nodes-caldav",
+      "language": "TypeScript"
+    },
+    {
+      "name": "puss-say",
+      "repo": "https://github.com/Mic92/puss-say",
+      "language": "Python"
+    },
+    {
+      "name": "forge-triage",
+      "repo": "https://github.com/Mic92/forge-triage",
+      "language": "Python"
+    },
+    {
+      "name": "update-flake-inputs",
+      "repo": "https://github.com/Mic92/update-flake-inputs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "radicle-sync",
+      "repo": "https://github.com/Mic92/radicle-sync",
+      "language": "Shell"
+    },
+    {
+      "name": "radicle-sync-test",
+      "repo": "https://github.com/Mic92/radicle-sync-test"
+    },
+    {
+      "name": "offtiktok-redirector-app",
+      "repo": "https://github.com/Mic92/offtiktok-redirector-app",
+      "language": "Nix"
+    },
+    {
+      "name": "docker-pid",
+      "repo": "https://github.com/Mic92/docker-pid",
+      "language": "Go"
+    },
+    {
+      "name": "nix-build-uncached",
+      "repo": "https://github.com/Mic92/nix-build-uncached",
+      "language": "Go"
+    },
+    {
+      "name": "verified-bumper-allocator",
+      "repo": "https://github.com/Mic92/verified-bumper-allocator",
+      "language": "C++"
+    },
+    {
+      "name": "nixican-standoff",
+      "repo": "https://github.com/Mic92/nixican-standoff",
+      "language": "Python"
+    },
+    {
+      "name": "pry.py",
+      "repo": "https://github.com/Mic92/pry.py",
+      "language": "Python"
+    },
+    {
+      "name": "nix-version-analysis",
+      "repo": "https://github.com/Mic92/nix-version-analysis",
+      "language": "Python"
+    },
+    {
+      "name": "archive-player",
+      "repo": "https://github.com/Mic92/archive-player",
+      "url": "https://mic92.github.io/archive-player/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jetson-hello-world",
+      "repo": "https://github.com/Mic92/jetson-hello-world",
+      "language": "Nix"
+    },
+    {
+      "name": "nixos-kernel-dev",
+      "repo": "https://github.com/Mic92/nixos-kernel-dev",
+      "language": "Nix"
+    },
+    {
+      "name": "nixos-aarch64-images",
+      "repo": "https://github.com/Mic92/nixos-aarch64-images",
+      "language": "Python"
+    },
+    {
+      "name": "userborn-with-impermanence",
+      "repo": "https://github.com/Mic92/userborn-with-impermanence",
+      "language": "Nix"
+    },
+    {
+      "name": "jetson-edk2",
+      "repo": "https://github.com/Mic92/jetson-edk2",
+      "language": "Nix"
+    },
+    {
+      "name": "libnix-playground",
+      "repo": "https://github.com/Mic92/libnix-playground",
+      "language": "Python"
+    },
+    {
+      "name": "clan-kisten",
+      "repo": "https://github.com/Mic92/clan-kisten",
+      "language": "Nix"
+    },
+    {
+      "name": "nixpkgs-committers",
+      "repo": "https://github.com/Mic92/nixpkgs-committers"
+    },
+    {
+      "name": "nixos-wiki-redirector",
+      "repo": "https://github.com/Mic92/nixos-wiki-redirector",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nix-configs",
+      "repo": "https://github.com/Mic92/nix-configs",
+      "language": "Nix"
+    },
+    {
+      "name": "vmsh-homepage",
+      "repo": "https://github.com/Mic92/vmsh-homepage",
+      "url": "https://vmsh.thalheim.io",
+      "language": "CSS"
+    },
+    {
+      "name": "riscv-sd",
+      "repo": "https://github.com/Mic92/riscv-sd",
+      "language": "Nix"
+    },
+    {
+      "name": "one-zmk-config",
+      "repo": "https://github.com/Mic92/one-zmk-config"
+    },
+    {
+      "name": "disko-yubikey-demo",
+      "repo": "https://github.com/Mic92/disko-yubikey-demo",
+      "language": "Nix"
+    },
+    {
+      "name": "nixos-test-example",
+      "repo": "https://github.com/Mic92/nixos-test-example",
+      "language": "Nix"
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "handle": "theluckystrike",
+  "name": "Michael Lip",
+  "github": [
+    "https://github.com/theluckystrike"
+  ],
+  "website": "https://zovo.one/",
+  "bio": "Solo dev. 20 Chrome extensions. 140+ PRs merged in @GoogleChrome, @axios, @nicehash. Founder of Zovo. Building replacements for dead extensions.",
+  "own_repos": 1065,
+  "commits": 31833,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mcp-servers",
+      "repo": "https://github.com/theluckystrike/mcp-servers",
+      "url": "https://mcp.zovo.one",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-packing-list",
+      "repo": "https://github.com/theluckystrike/mcp-packing-list",
+      "url": "https://mcp.zovo.one/s/packing-list",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-checklist",
+      "repo": "https://github.com/theluckystrike/mcp-checklist",
+      "url": "https://mcp.zovo.one/s/checklist",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-ecosystem-measurements",
+      "repo": "https://github.com/theluckystrike/mcp-ecosystem-measurements",
+      "url": "https://github.com/theluckystrike/mcp-servers",
+      "language": "Python"
+    },
+    {
+      "name": "mcp-zip",
+      "repo": "https://github.com/theluckystrike/mcp-zip",
+      "url": "https://mcp.zovo.one/s/zip",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-work-order",
+      "repo": "https://github.com/theluckystrike/mcp-work-order",
+      "url": "https://mcp.zovo.one/s/work-order",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-timezone",
+      "repo": "https://github.com/theluckystrike/mcp-timezone",
+      "url": "https://mcp.zovo.one/s/timezone",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-time-tracker",
+      "repo": "https://github.com/theluckystrike/mcp-time-tracker",
+      "url": "https://mcp.zovo.one/s/time-tracker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-statement-of-account",
+      "repo": "https://github.com/theluckystrike/mcp-statement-of-account",
+      "url": "https://mcp.zovo.one/s/statement-of-account",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-spreadsheet",
+      "repo": "https://github.com/theluckystrike/mcp-spreadsheet",
+      "url": "https://mcp.zovo.one/s/spreadsheet",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-resume",
+      "repo": "https://github.com/theluckystrike/mcp-resume",
+      "url": "https://mcp.zovo.one/s/resume",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-recurring",
+      "repo": "https://github.com/theluckystrike/mcp-recurring",
+      "url": "https://mcp.zovo.one/s/recurring",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-quotes",
+      "repo": "https://github.com/theluckystrike/mcp-quotes",
+      "url": "https://mcp.zovo.one/s/quotes",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-price-tracker",
+      "repo": "https://github.com/theluckystrike/mcp-price-tracker",
+      "url": "https://mcp.zovo.one/s/price-tracker",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-petty-cash",
+      "repo": "https://github.com/theluckystrike/mcp-petty-cash",
+      "url": "https://mcp.zovo.one/s/petty-cash",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-per-diem",
+      "repo": "https://github.com/theluckystrike/mcp-per-diem",
+      "url": "https://mcp.zovo.one/s/per-diem",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-pdf",
+      "repo": "https://github.com/theluckystrike/mcp-pdf",
+      "url": "https://mcp.zovo.one/s/pdf",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-kanban",
+      "repo": "https://github.com/theluckystrike/mcp-kanban",
+      "url": "https://mcp.zovo.one/s/kanban",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-invoice",
+      "repo": "https://github.com/theluckystrike/mcp-invoice",
+      "url": "https://mcp.zovo.one/s/invoice",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-image",
+      "repo": "https://github.com/theluckystrike/mcp-image",
+      "url": "https://mcp.zovo.one/s/image",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-expense-tracker",
+      "repo": "https://github.com/theluckystrike/mcp-expense-tracker",
+      "url": "https://mcp.zovo.one/s/expense-tracker",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-docx",
+      "repo": "https://github.com/theluckystrike/mcp-docx",
+      "url": "https://mcp.zovo.one/s/docx",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-deposits",
+      "repo": "https://github.com/theluckystrike/mcp-deposits",
+      "url": "https://mcp.zovo.one/s/deposits",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-currency",
+      "repo": "https://github.com/theluckystrike/mcp-currency",
+      "url": "https://mcp.zovo.one/s/currency",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-clauses",
+      "repo": "https://github.com/theluckystrike/mcp-clauses",
+      "url": "https://mcp.zovo.one/s/clauses",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-change-order",
+      "repo": "https://github.com/theluckystrike/mcp-change-order",
+      "url": "https://mcp.zovo.one/s/change-order",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-catalogue",
+      "repo": "https://github.com/theluckystrike/mcp-catalogue",
+      "url": "https://mcp.zovo.one/s/catalogue",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-cash-book",
+      "repo": "https://github.com/theluckystrike/mcp-cash-book",
+      "url": "https://mcp.zovo.one/s/cash-book",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-calendar",
+      "repo": "https://github.com/theluckystrike/mcp-calendar",
+      "url": "https://mcp.zovo.one/s/calendar",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-billing-docs",
+      "repo": "https://github.com/theluckystrike/mcp-billing-docs",
+      "url": "https://mcp.zovo.one/s/billing-docs",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-barcode",
+      "repo": "https://github.com/theluckystrike/mcp-barcode",
+      "url": "https://mcp.zovo.one/s/barcode",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-bank-statement",
+      "repo": "https://github.com/theluckystrike/mcp-bank-statement",
+      "url": "https://mcp.zovo.one/s/bank-statement",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-asset-register",
+      "repo": "https://github.com/theluckystrike/mcp-asset-register",
+      "url": "https://mcp.zovo.one/s/asset-register",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-amortization",
+      "repo": "https://github.com/theluckystrike/mcp-amortization",
+      "url": "https://mcp.zovo.one/s/amortization",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mcp-office-suite",
+      "repo": "https://github.com/theluckystrike/mcp-office-suite",
+      "url": "https://mcp.zovo.one/s/office-suite",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mcp-delivery-schedule",
+      "repo": "https://github.com/theluckystrike/mcp-delivery-schedule",
+      "url": "https://mcp.zovo.one/s/delivery-schedule",
+      "language": "JavaScript"
+    },
+    {
+      "name": "earlythunder",
+      "repo": "https://github.com/theluckystrike/earlythunder",
+      "url": "https://earlythunder.com",
+      "language": "HTML"
+    },
+    {
+      "name": "ml0x.com",
+      "repo": "https://github.com/theluckystrike/ml0x.com",
+      "url": "https://ml0x.com",
+      "language": "HTML"
+    },
+    {
+      "name": "chrome-tips",
+      "repo": "https://github.com/theluckystrike/chrome-tips",
+      "url": "https://theluckystrike.github.io/chrome-tips/",
+      "language": "HTML"
+    },
+    {
+      "name": "claudflow.com",
+      "repo": "https://github.com/theluckystrike/claudflow.com",
+      "url": "https://claudflow.com",
+      "language": "HTML"
+    },
+    {
+      "name": "claudhq.com",
+      "repo": "https://github.com/theluckystrike/claudhq.com",
+      "url": "https://claudhq.com",
+      "language": "HTML"
+    },
+    {
+      "name": "bugbountyreality.com",
+      "repo": "https://github.com/theluckystrike/bugbountyreality.com",
+      "url": "https://bugbountyreality.com",
+      "language": "HTML"
+    },
+    {
+      "name": "kappafy.com",
+      "repo": "https://github.com/theluckystrike/kappafy.com",
+      "url": "https://kappafy.com",
+      "language": "HTML"
+    },
+    {
+      "name": "lochbot.com",
+      "repo": "https://github.com/theluckystrike/lochbot.com",
+      "url": "https://lochbot.com",
+      "language": "HTML"
+    },
+    {
+      "name": "heytensor.com",
+      "repo": "https://github.com/theluckystrike/heytensor.com",
+      "url": "https://heytensor.com",
+      "language": "HTML"
+    },
+    {
+      "name": "claudkit.com",
+      "repo": "https://github.com/theluckystrike/claudkit.com",
+      "url": "https://claudkit.com",
+      "language": "HTML"
+    },
+    {
+      "name": "invokebot.com",
+      "repo": "https://github.com/theluckystrike/invokebot.com",
+      "url": "https://invokebot.com",
+      "language": "HTML"
+    },
+    {
+      "name": "epochpilot.com",
+      "repo": "https://github.com/theluckystrike/epochpilot.com",
+      "url": "https://epochpilot.com",
+      "language": "HTML"
+    },
+    {
+      "name": "krzen.com",
+      "repo": "https://github.com/theluckystrike/krzen.com",
+      "url": "https://krzen.com",
+      "language": "HTML"
+    },
+    {
+      "name": "lockml.com",
+      "repo": "https://github.com/theluckystrike/lockml.com",
+      "url": "https://lockml.com",
+      "language": "HTML"
+    },
+    {
+      "name": "ml3x.com",
+      "repo": "https://github.com/theluckystrike/ml3x.com",
+      "url": "https://ml3x.com",
+      "language": "HTML"
+    },
+    {
+      "name": "abwex.com",
+      "repo": "https://github.com/theluckystrike/abwex.com",
+      "url": "https://abwex.com",
+      "language": "HTML"
+    },
+    {
+      "name": "gen8x.com",
+      "repo": "https://github.com/theluckystrike/gen8x.com",
+      "url": "https://gen8x.com",
+      "language": "HTML"
+    },
+    {
+      "name": "enhio.com",
+      "repo": "https://github.com/theluckystrike/enhio.com",
+      "url": "https://enhio.com",
+      "language": "HTML"
+    },
+    {
+      "name": "gpt0x.com",
+      "repo": "https://github.com/theluckystrike/gpt0x.com",
+      "url": "https://gpt0x.com",
+      "language": "HTML"
+    },
+    {
+      "name": "geo-citation-check",
+      "repo": "https://github.com/theluckystrike/geo-citation-check",
+      "language": "Go"
+    },
+    {
+      "name": "kv-cache-size",
+      "repo": "https://github.com/theluckystrike/kv-cache-size",
+      "language": "Rust"
+    },
+    {
+      "name": "serp-ctr-rs",
+      "repo": "https://github.com/theluckystrike/serp-ctr-rs",
+      "url": "https://toolsthatrank.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "ai-answer-citations",
+      "repo": "https://github.com/theluckystrike/ai-answer-citations",
+      "language": "Rust"
+    },
+    {
+      "name": "followability-rs",
+      "repo": "https://github.com/theluckystrike/followability-rs",
+      "url": "https://handsofflinks.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "gate-contract-rs",
+      "repo": "https://github.com/theluckystrike/gate-contract-rs",
+      "url": "https://aiwebsitepipeline.com/",
+      "language": "Rust"
+    },
+    {
+      "name": "crx-permission-risk",
+      "repo": "https://github.com/theluckystrike/crx-permission-risk",
+      "url": "https://zovo.one/",
+      "language": "Rust"
+    },
+    {
+      "name": "text-statistics",
+      "repo": "https://github.com/theluckystrike/text-statistics",
+      "url": "https://belikenative.com/",
+      "language": "Go"
+    },
+    {
+      "name": "link-verdict",
+      "repo": "https://github.com/theluckystrike/link-verdict",
+      "language": "Go"
+    },
+    {
+      "name": "serp-position-metrics",
+      "repo": "https://github.com/theluckystrike/serp-position-metrics",
+      "language": "Go"
+    },
+    {
+      "name": "sitemap-indexnow",
+      "repo": "https://github.com/theluckystrike/sitemap-indexnow",
+      "language": "Go"
+    },
+    {
+      "name": "crx-security-checklist",
+      "repo": "https://github.com/theluckystrike/crx-security-checklist",
+      "language": "Go"
+    },
+    {
+      "name": "ext-permission-risk",
+      "repo": "https://github.com/theluckystrike/ext-permission-risk",
+      "url": "https://zovo.one/",
+      "language": "Go"
+    },
+    {
+      "name": "kv-cache-size-go",
+      "repo": "https://github.com/theluckystrike/kv-cache-size-go",
+      "language": "Go"
+    },
+    {
+      "name": "telegram-trivia-bot",
+      "repo": "https://github.com/theluckystrike/telegram-trivia-bot",
+      "url": "https://tg.zovo.one/bots/trivia/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-time-tracking-bot",
+      "repo": "https://github.com/theluckystrike/telegram-time-tracking-bot",
+      "url": "https://tg.zovo.one/bots/hours/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-expense-tracker-bot",
+      "repo": "https://github.com/theluckystrike/telegram-expense-tracker-bot",
+      "url": "https://tg.zovo.one/bots/budget/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-pomodoro-bot",
+      "repo": "https://github.com/theluckystrike/telegram-pomodoro-bot",
+      "url": "https://tg.zovo.one/bots/focus/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-vocabulary-bot",
+      "repo": "https://github.com/theluckystrike/telegram-vocabulary-bot",
+      "url": "https://tg.zovo.one/bots/vocab/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-standup-bot",
+      "repo": "https://github.com/theluckystrike/telegram-standup-bot",
+      "url": "https://tg.zovo.one/bots/standup/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-countdown-bot",
+      "repo": "https://github.com/theluckystrike/telegram-countdown-bot",
+      "url": "https://tg.zovo.one/bots/countdown/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-birthday-reminder-bot",
+      "repo": "https://github.com/theluckystrike/telegram-birthday-reminder-bot",
+      "url": "https://tg.zovo.one/bots/birthday/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-time-zone-bot",
+      "repo": "https://github.com/theluckystrike/telegram-time-zone-bot",
+      "url": "https://tg.zovo.one/bots/when/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-group-activity-stats-bot",
+      "repo": "https://github.com/theluckystrike/telegram-group-activity-stats-bot",
+      "url": "https://tg.zovo.one/bots/pulse/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-party-games-bot",
+      "repo": "https://github.com/theluckystrike/telegram-party-games-bot",
+      "url": "https://tg.zovo.one/bots/party/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-secret-santa-bot",
+      "repo": "https://github.com/theluckystrike/telegram-secret-santa-bot",
+      "url": "https://tg.zovo.one/bots/santa/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-icebreaker-question-bot",
+      "repo": "https://github.com/theluckystrike/telegram-icebreaker-question-bot",
+      "url": "https://tg.zovo.one/bots/icebreaker/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-anonymous-group-post-bot",
+      "repo": "https://github.com/theluckystrike/telegram-anonymous-group-post-bot",
+      "url": "https://tg.zovo.one/bots/anonsay/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-rsvp-event-bot",
+      "repo": "https://github.com/theluckystrike/telegram-rsvp-event-bot",
+      "url": "https://tg.zovo.one/bots/rsvp/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-habit-tracker-bot",
+      "repo": "https://github.com/theluckystrike/telegram-habit-tracker-bot",
+      "url": "https://tg.zovo.one/bots/habit/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-split-bill-bot",
+      "repo": "https://github.com/theluckystrike/telegram-split-bill-bot",
+      "url": "https://tg.zovo.one/bots/split/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-anonymous-inbox-bot",
+      "repo": "https://github.com/theluckystrike/telegram-anonymous-inbox-bot",
+      "url": "https://tg.zovo.one/bots/anon/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-reminder-bot",
+      "repo": "https://github.com/theluckystrike/telegram-reminder-bot",
+      "url": "https://tg.zovo.one/bots/nudge/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "telegram-locked-message-bot",
+      "repo": "https://github.com/theluckystrike/telegram-locked-message-bot",
+      "url": "https://tg.zovo.one/bots/whisper/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-tools-compared",
+      "repo": "https://github.com/theluckystrike/ai-tools-compared",
+      "url": "https://theluckystrike.github.io/ai-tools-compared/",
+      "language": "HTML"
+    },
+    {
+      "name": "remote-work-tools",
+      "repo": "https://github.com/theluckystrike/remote-work-tools",
+      "url": "https://theluckystrike.github.io/remote-work-tools/",
+      "language": "HTML"
+    },
+    {
+      "name": "privacy-tools-guide",
+      "repo": "https://github.com/theluckystrike/privacy-tools-guide",
+      "url": "https://theluckystrike.github.io/privacy-tools-guide/",
+      "language": "HTML"
+    },
+    {
+      "name": "englishlearner.org",
+      "repo": "https://github.com/theluckystrike/englishlearner.org",
+      "language": "HTML"
+    },
+    {
+      "name": "ttr-ctr-staging-20260908-7d2a7cc0",
+      "repo": "https://github.com/theluckystrike/ttr-ctr-staging-20260908-7d2a7cc0",
+      "language": "HTML"
+    },
+    {
+      "name": "toolsthatrank-site",
+      "repo": "https://github.com/theluckystrike/toolsthatrank-site",
+      "url": "https://theluckystrike.github.io/toolsthatrank-site/",
+      "language": "HTML"
+    },
+    {
+      "name": "kickllm.com",
+      "repo": "https://github.com/theluckystrike/kickllm.com",
+      "url": "https://kickllm.com",
+      "language": "HTML"
+    },
+    {
+      "name": "lakelevelnow",
+      "repo": "https://github.com/theluckystrike/lakelevelnow",
+      "language": "HTML"
+    },
+    {
+      "name": "examscorecalc-live",
+      "repo": "https://github.com/theluckystrike/examscorecalc-live",
+      "url": "https://examscorecalc.com",
+      "language": "HTML"
+    },
+    {
+      "name": "writingassistant.org",
+      "repo": "https://github.com/theluckystrike/writingassistant.org",
+      "language": "HTML"
+    },
+    {
+      "name": "paraphrasetool.org",
+      "repo": "https://github.com/theluckystrike/paraphrasetool.org",
+      "language": "HTML"
+    }
+  ]
+}

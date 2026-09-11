@@ -1,0 +1,515 @@
+{
+  "handle": "kinow",
+  "name": "Bruno P. Kinoshita",
+  "github": [
+    "https://github.com/kinow"
+  ],
+  "website": "https://kinoshita.eti.br/",
+  "bio": "From Casa Verde, São Paulo—Brazil. Based in Barcelona—Spain, São Paulo—Brazil, or Auckland—New Zealand.",
+  "own_repos": 223,
+  "commits": 11574,
+  "apps": [],
+  "repos": [
+    {
+      "name": "kinoshita.eti.br",
+      "repo": "https://github.com/kinow/kinoshita.eti.br",
+      "url": "https://kinoshita.eti.br",
+      "language": "HTML"
+    },
+    {
+      "name": "crawlers-noticias",
+      "repo": "https://github.com/kinow/crawlers-noticias",
+      "language": "Python"
+    },
+    {
+      "name": "slidev-theme-bsc",
+      "repo": "https://github.com/kinow/slidev-theme-bsc",
+      "language": "CSS"
+    },
+    {
+      "name": "tap-plugin",
+      "repo": "https://github.com/kinow/tap-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "autosubmit",
+      "repo": "https://github.com/kinow/autosubmit",
+      "language": "Python"
+    },
+    {
+      "name": "protobuf-uml-diagram",
+      "repo": "https://github.com/kinow/protobuf-uml-diagram",
+      "url": "https://github.com/kinow/protobuf-uml-diagram",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "kinow.github.io",
+      "repo": "https://github.com/kinow/kinow.github.io",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "semanticvectors",
+      "repo": "https://github.com/kinow/semanticvectors",
+      "language": "Java"
+    },
+    {
+      "name": "dork-scripts",
+      "repo": "https://github.com/kinow/dork-scripts",
+      "language": "Python"
+    },
+    {
+      "name": "kinow",
+      "repo": "https://github.com/kinow/kinow"
+    },
+    {
+      "name": "darshan-demo",
+      "repo": "https://github.com/kinow/darshan-demo",
+      "language": "Python"
+    },
+    {
+      "name": "cwl-mpi",
+      "repo": "https://github.com/kinow/cwl-mpi",
+      "url": "https://doi.org/10.5281/zenodo.20348637",
+      "language": "HTML"
+    },
+    {
+      "name": "getit-workflows",
+      "repo": "https://github.com/kinow/getit-workflows",
+      "language": "Common Workflow Language"
+    },
+    {
+      "name": "testlink-java-api",
+      "repo": "https://github.com/kinow/testlink-java-api",
+      "language": "Java"
+    },
+    {
+      "name": "apache-commons-tests",
+      "repo": "https://github.com/kinow/apache-commons-tests",
+      "language": "Java"
+    },
+    {
+      "name": "test-cwl",
+      "repo": "https://github.com/kinow/test-cwl",
+      "language": "Common Workflow Language"
+    },
+    {
+      "name": "readability-scraper",
+      "repo": "https://github.com/kinow/readability-scraper",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ro-crate-subworkflow",
+      "repo": "https://github.com/kinow/ro-crate-subworkflow",
+      "language": "Common Workflow Language"
+    },
+    {
+      "name": "destine-tests",
+      "repo": "https://github.com/kinow/destine-tests",
+      "language": "Python"
+    },
+    {
+      "name": "matmul",
+      "repo": "https://github.com/kinow/matmul",
+      "language": "C"
+    },
+    {
+      "name": "msc-project-management",
+      "repo": "https://github.com/kinow/msc-project-management"
+    },
+    {
+      "name": "k001",
+      "repo": "https://github.com/kinow/k001",
+      "language": "Java"
+    },
+    {
+      "name": "notebooks",
+      "repo": "https://github.com/kinow/notebooks",
+      "language": "HTML"
+    },
+    {
+      "name": "ecearth-scriptengine",
+      "repo": "https://github.com/kinow/ecearth-scriptengine",
+      "language": "Python"
+    },
+    {
+      "name": "auto-mhm-test-domains",
+      "repo": "https://github.com/kinow/auto-mhm-test-domains",
+      "language": "Shell"
+    },
+    {
+      "name": "commons-sandbox",
+      "repo": "https://github.com/kinow/commons-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "javaflow",
+      "repo": "https://github.com/kinow/javaflow",
+      "language": "Java"
+    },
+    {
+      "name": "xstream-sandbox",
+      "repo": "https://github.com/kinow/xstream-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "docker",
+      "repo": "https://github.com/kinow/docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "sync-test",
+      "repo": "https://github.com/kinow/sync-test"
+    },
+    {
+      "name": "sync-test-cicd",
+      "repo": "https://github.com/kinow/sync-test-cicd"
+    },
+    {
+      "name": "esiwace3-hackathon-autosubmit-cylc-ecflow",
+      "repo": "https://github.com/kinow/esiwace3-hackathon-autosubmit-cylc-ecflow",
+      "language": "Vue"
+    },
+    {
+      "name": "gtest-tap-listener",
+      "repo": "https://github.com/kinow/gtest-tap-listener",
+      "url": "https://tupilabs.com/tap4j/",
+      "language": "C++"
+    },
+    {
+      "name": "cython-pointers-serialization",
+      "repo": "https://github.com/kinow/cython-pointers-serialization",
+      "language": "Python"
+    },
+    {
+      "name": "intro-to-containers",
+      "repo": "https://github.com/kinow/intro-to-containers",
+      "language": "Vue"
+    },
+    {
+      "name": "wandering-inn-tts",
+      "repo": "https://github.com/kinow/wandering-inn-tts",
+      "language": "Python"
+    },
+    {
+      "name": "art-of-prolog",
+      "repo": "https://github.com/kinow/art-of-prolog",
+      "language": "Prolog"
+    },
+    {
+      "name": "jena-tests",
+      "repo": "https://github.com/kinow/jena-tests",
+      "language": "Java"
+    },
+    {
+      "name": "ecflow-suite1",
+      "repo": "https://github.com/kinow/ecflow-suite1",
+      "language": "Python"
+    },
+    {
+      "name": "autosubmit_test_workflow",
+      "repo": "https://github.com/kinow/autosubmit_test_workflow",
+      "language": "Python"
+    },
+    {
+      "name": "d3-scroller",
+      "repo": "https://github.com/kinow/d3-scroller",
+      "language": "JavaScript"
+    },
+    {
+      "name": "livecoding-2022-08-17",
+      "repo": "https://github.com/kinow/livecoding-2022-08-17",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "a4-to-a3",
+      "repo": "https://github.com/kinow/a4-to-a3",
+      "language": "Python"
+    },
+    {
+      "name": "extract-links-docx",
+      "repo": "https://github.com/kinow/extract-links-docx",
+      "language": "Python"
+    },
+    {
+      "name": "cylc-gscan",
+      "repo": "https://github.com/kinow/cylc-gscan",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tests-apache-projects",
+      "repo": "https://github.com/kinow/tests-apache-projects",
+      "language": "Java"
+    },
+    {
+      "name": "nlp-sandbox",
+      "repo": "https://github.com/kinow/nlp-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "cobol2js",
+      "repo": "https://github.com/kinow/cobol2js",
+      "language": "Java"
+    },
+    {
+      "name": "bancotalentos",
+      "repo": "https://github.com/kinow/bancotalentos",
+      "language": "Java"
+    },
+    {
+      "name": "compss-sandbox",
+      "repo": "https://github.com/kinow/compss-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "crop-pdf",
+      "repo": "https://github.com/kinow/crop-pdf",
+      "language": "Java"
+    },
+    {
+      "name": "wicket-weaver",
+      "repo": "https://github.com/kinow/wicket-weaver",
+      "language": "Java"
+    },
+    {
+      "name": "testopia-plugin",
+      "repo": "https://github.com/kinow/testopia-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "javaone2011-demo",
+      "repo": "https://github.com/kinow/javaone2011-demo",
+      "language": "CSS"
+    },
+    {
+      "name": "helloworld-python-elasticbeanstalk",
+      "repo": "https://github.com/kinow/helloworld-python-elasticbeanstalk",
+      "language": "Python"
+    },
+    {
+      "name": "skosmos-docker",
+      "repo": "https://github.com/kinow/skosmos-docker"
+    },
+    {
+      "name": "threejs-journey",
+      "repo": "https://github.com/kinow/threejs-journey",
+      "language": "JavaScript"
+    },
+    {
+      "name": "colors-from-json",
+      "repo": "https://github.com/kinow/colors-from-json",
+      "language": "Java"
+    },
+    {
+      "name": "jena-arq-filter",
+      "repo": "https://github.com/kinow/jena-arq-filter",
+      "language": "Java"
+    },
+    {
+      "name": "cylc-docker",
+      "repo": "https://github.com/kinow/cylc-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "ogcldapi-ga-theme",
+      "repo": "https://github.com/kinow/ogcldapi-ga-theme",
+      "language": "CSS"
+    },
+    {
+      "name": "easyb-sandbox",
+      "repo": "https://github.com/kinow/easyb-sandbox",
+      "language": "Gherkin"
+    },
+    {
+      "name": "python-sandbox",
+      "repo": "https://github.com/kinow/python-sandbox",
+      "language": "Python"
+    },
+    {
+      "name": "testopia-java-driver",
+      "repo": "https://github.com/kinow/testopia-java-driver",
+      "language": "HTML"
+    },
+    {
+      "name": "sis-site-draft",
+      "repo": "https://github.com/kinow/sis-site-draft",
+      "language": "HTML"
+    },
+    {
+      "name": "maven-authorship-plugin",
+      "repo": "https://github.com/kinow/maven-authorship-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "decyclify",
+      "repo": "https://github.com/kinow/decyclify",
+      "language": "Python"
+    },
+    {
+      "name": "raytracing-in-one-weekend",
+      "repo": "https://github.com/kinow/raytracing-in-one-weekend",
+      "language": "C++"
+    },
+    {
+      "name": "EFGetStarted",
+      "repo": "https://github.com/kinow/EFGetStarted",
+      "language": "C#"
+    },
+    {
+      "name": "TodoApi",
+      "repo": "https://github.com/kinow/TodoApi",
+      "language": "C#"
+    },
+    {
+      "name": "circuit-breaker",
+      "repo": "https://github.com/kinow/circuit-breaker",
+      "language": "Java"
+    },
+    {
+      "name": "groovy-script-lib",
+      "repo": "https://github.com/kinow/groovy-script-lib",
+      "language": "Java"
+    },
+    {
+      "name": "testlink-unit",
+      "repo": "https://github.com/kinow/testlink-unit",
+      "language": "Java"
+    },
+    {
+      "name": "tests-for-coverage",
+      "repo": "https://github.com/kinow/tests-for-coverage",
+      "language": "Java"
+    },
+    {
+      "name": "jazzy",
+      "repo": "https://github.com/kinow/jazzy",
+      "language": "Java"
+    },
+    {
+      "name": "testlink-java-api-examples",
+      "repo": "https://github.com/kinow/testlink-java-api-examples",
+      "language": "Java"
+    },
+    {
+      "name": "contract-tests-sandbox",
+      "repo": "https://github.com/kinow/contract-tests-sandbox",
+      "language": "Java"
+    },
+    {
+      "name": "myers-algorithm",
+      "repo": "https://github.com/kinow/myers-algorithm",
+      "language": "Java"
+    },
+    {
+      "name": "tornado-sandbox",
+      "repo": "https://github.com/kinow/tornado-sandbox",
+      "language": "Python"
+    },
+    {
+      "name": "nzrse-2020-cylc-ui-scalability",
+      "repo": "https://github.com/kinow/nzrse-2020-cylc-ui-scalability",
+      "url": "https://kinow.github.io/nzrse-2020-cylc-ui-scalability/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "auckland-r-meetup-shiny-talk",
+      "repo": "https://github.com/kinow/auckland-r-meetup-shiny-talk",
+      "url": "https://kinow.github.io/auckland-r-meetup-shiny-talk/",
+      "language": "CSS"
+    },
+    {
+      "name": "scico-2017",
+      "repo": "https://github.com/kinow/scico-2017",
+      "url": "https://kinow.github.io/scico-2017/",
+      "language": "CSS"
+    },
+    {
+      "name": "nz-osm-server",
+      "repo": "https://github.com/kinow/nz-osm-server",
+      "language": "Shell"
+    },
+    {
+      "name": "text",
+      "repo": "https://github.com/kinow/text",
+      "language": "Java"
+    },
+    {
+      "name": "myplugin",
+      "repo": "https://github.com/kinow/myplugin",
+      "language": "Python"
+    },
+    {
+      "name": "slurm-docker",
+      "repo": "https://github.com/kinow/slurm-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "jena-fuseki-docker",
+      "repo": "https://github.com/kinow/jena-fuseki-docker",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "cylc-singularity",
+      "repo": "https://github.com/kinow/cylc-singularity",
+      "language": "Roff"
+    },
+    {
+      "name": "smashing-workshop",
+      "repo": "https://github.com/kinow/smashing-workshop",
+      "language": "JavaScript"
+    },
+    {
+      "name": "typescript-sandbox",
+      "repo": "https://github.com/kinow/typescript-sandbox",
+      "language": "TypeScript"
+    },
+    {
+      "name": "geoapi-site",
+      "repo": "https://github.com/kinow/geoapi-site",
+      "language": "HTML"
+    },
+    {
+      "name": "wrf-sandbox",
+      "repo": "https://github.com/kinow/wrf-sandbox"
+    },
+    {
+      "name": "cron-isodatetime",
+      "repo": "https://github.com/kinow/cron-isodatetime"
+    },
+    {
+      "name": "cylc-lang",
+      "repo": "https://github.com/kinow/cylc-lang",
+      "language": "ANTLR"
+    },
+    {
+      "name": "cwl-sandbox",
+      "repo": "https://github.com/kinow/cwl-sandbox",
+      "language": "Common Workflow Language"
+    },
+    {
+      "name": "cylc-cassettes",
+      "repo": "https://github.com/kinow/cylc-cassettes",
+      "language": "Python"
+    },
+    {
+      "name": "svg-logo-composer",
+      "repo": "https://github.com/kinow/svg-logo-composer",
+      "url": "https://kinow.github.io/svg-logo-composer/",
+      "language": "Vue"
+    },
+    {
+      "name": "conda-recipes",
+      "repo": "https://github.com/kinow/conda-recipes",
+      "language": "Shell"
+    },
+    {
+      "name": "cylc-jinja2filters",
+      "repo": "https://github.com/kinow/cylc-jinja2filters",
+      "language": "Python"
+    },
+    {
+      "name": "kinoshita-v10",
+      "repo": "https://github.com/kinow/kinoshita-v10",
+      "language": "JavaScript"
+    }
+  ]
+}

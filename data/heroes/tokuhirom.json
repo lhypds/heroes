@@ -1,0 +1,535 @@
+{
+  "handle": "tokuhirom",
+  "name": "Tokuhiro Matsuno",
+  "github": [
+    "https://github.com/tokuhirom"
+  ],
+  "bio": "Go/Kotlin/Rust/Python engineer. I wrote Java, Perl5, C, C++, Kotlin, and golang for $DAYJOB.",
+  "own_repos": 642,
+  "commits": 26038,
+  "apps": [],
+  "repos": [
+    {
+      "name": "mutsu",
+      "repo": "https://github.com/tokuhirom/mutsu",
+      "url": "https://tokuhirom.github.io/mutsu/",
+      "language": "Raku"
+    },
+    {
+      "name": "feedla",
+      "repo": "https://github.com/tokuhirom/feedla",
+      "language": "Go"
+    },
+    {
+      "name": "64p.org",
+      "repo": "https://github.com/tokuhirom/64p.org",
+      "url": "https://64p.org/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "historylens",
+      "repo": "https://github.com/tokuhirom/historylens",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mindcheese",
+      "repo": "https://github.com/tokuhirom/mindcheese",
+      "url": "https://tokuhirom.github.io/mindcheese/index.html",
+      "language": "TypeScript"
+    },
+    {
+      "name": "jawiki-kana-kanji-dict",
+      "repo": "https://github.com/tokuhirom/jawiki-kana-kanji-dict",
+      "language": "Python"
+    },
+    {
+      "name": "monitoring-suite-otelcol-sample",
+      "repo": "https://github.com/tokuhirom/monitoring-suite-otelcol-sample",
+      "url": "https://zenn.dev/tokuhirom/books/7c2c7820b2c36c",
+      "language": "Python"
+    },
+    {
+      "name": "dcv",
+      "repo": "https://github.com/tokuhirom/dcv",
+      "language": "Go"
+    },
+    {
+      "name": "ekanban",
+      "repo": "https://github.com/tokuhirom/ekanban",
+      "url": "https://tokuhirom.github.io/ekanban/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "homebrew-tap",
+      "repo": "https://github.com/tokuhirom/homebrew-tap",
+      "language": "Ruby"
+    },
+    {
+      "name": "sakpilot",
+      "repo": "https://github.com/tokuhirom/sakpilot",
+      "language": "TypeScript"
+    },
+    {
+      "name": "NoteBeam",
+      "repo": "https://github.com/tokuhirom/NoteBeam",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bsky-to-markdown",
+      "repo": "https://github.com/tokuhirom/bsky-to-markdown",
+      "language": "TypeScript"
+    },
+    {
+      "name": "apprun-dedicated-update-image-action",
+      "repo": "https://github.com/tokuhirom/apprun-dedicated-update-image-action",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cokesmoke",
+      "repo": "https://github.com/tokuhirom/cokesmoke",
+      "url": "https://tokuhirom.github.io/cokesmoke/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "arcane-descent",
+      "repo": "https://github.com/tokuhirom/arcane-descent",
+      "url": "https://tokuhirom.github.io/arcane-descent/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "bsky-logs",
+      "repo": "https://github.com/tokuhirom/bsky-logs"
+    },
+    {
+      "name": "blog4",
+      "repo": "https://github.com/tokuhirom/blog4",
+      "url": "https://tokuhirom.github.io/blog4/",
+      "language": "Go"
+    },
+    {
+      "name": "ashron",
+      "repo": "https://github.com/tokuhirom/ashron",
+      "language": "Go"
+    },
+    {
+      "name": "taskeru",
+      "repo": "https://github.com/tokuhirom/taskeru",
+      "language": "Go"
+    },
+    {
+      "name": "block-block",
+      "repo": "https://github.com/tokuhirom/block-block",
+      "url": "https://tokuhirom.github.io/block-block/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "iron-forge-engine",
+      "repo": "https://github.com/tokuhirom/iron-forge-engine",
+      "url": "https://tokuhirom.github.io/iron-forge-engine/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "dotfiles",
+      "repo": "https://github.com/tokuhirom/dotfiles",
+      "language": "Vim Script"
+    },
+    {
+      "name": "java-handbook",
+      "repo": "https://github.com/tokuhirom/java-handbook",
+      "url": "https://tokuhirom.github.io/java-handbook/",
+      "language": "Java"
+    },
+    {
+      "name": "minesweeper",
+      "repo": "https://github.com/tokuhirom/minesweeper",
+      "url": "https://tokuhirom.github.io/minesweeper/",
+      "language": "JavaScript"
+    },
+    {
+      "name": "KeyScripten",
+      "repo": "https://github.com/tokuhirom/KeyScripten",
+      "language": "Rust"
+    },
+    {
+      "name": "zenn",
+      "repo": "https://github.com/tokuhirom/zenn"
+    },
+    {
+      "name": "codemirror-lang-rst",
+      "repo": "https://github.com/tokuhirom/codemirror-lang-rst",
+      "url": "https://tokuhirom.github.io/codemirror-lang-rst/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "OrePAN2",
+      "repo": "https://github.com/tokuhirom/OrePAN2",
+      "language": "Perl"
+    },
+    {
+      "name": "assertj-postfix-plugin",
+      "repo": "https://github.com/tokuhirom/assertj-postfix-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "debug-httpd",
+      "repo": "https://github.com/tokuhirom/debug-httpd",
+      "language": "Go"
+    },
+    {
+      "name": "tanuki-tsume-shogi",
+      "repo": "https://github.com/tokuhirom/tanuki-tsume-shogi",
+      "url": "https://tokuhirom.github.io/tanuki-tsume-shogi/",
+      "language": "Rust"
+    },
+    {
+      "name": "kijiyomu",
+      "repo": "https://github.com/tokuhirom/kijiyomu",
+      "url": "https://tokuhirom.github.io/kijiyomu/",
+      "language": "Go"
+    },
+    {
+      "name": "sact",
+      "repo": "https://github.com/tokuhirom/sact",
+      "language": "Go"
+    },
+    {
+      "name": "mdroll",
+      "repo": "https://github.com/tokuhirom/mdroll",
+      "language": "Rust"
+    },
+    {
+      "name": "rune-cascade",
+      "repo": "https://github.com/tokuhirom/rune-cascade",
+      "url": "https://tokuhirom.github.io/rune-cascade/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "web-solitaire",
+      "repo": "https://github.com/tokuhirom/web-solitaire",
+      "url": "https://tokuhirom.github.io/web-solitaire/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "Archivist",
+      "repo": "https://github.com/tokuhirom/Archivist",
+      "language": "JavaScript"
+    },
+    {
+      "name": "mieta",
+      "repo": "https://github.com/tokuhirom/mieta",
+      "language": "Go"
+    },
+    {
+      "name": "netty-samples",
+      "repo": "https://github.com/tokuhirom/netty-samples",
+      "language": "Java"
+    },
+    {
+      "name": "dashyard",
+      "repo": "https://github.com/tokuhirom/dashyard",
+      "language": "Go"
+    },
+    {
+      "name": "apprun-dedicated-provisioner",
+      "repo": "https://github.com/tokuhirom/apprun-dedicated-provisioner",
+      "language": "Go"
+    },
+    {
+      "name": "vrrp-simple",
+      "repo": "https://github.com/tokuhirom/vrrp-simple",
+      "language": "Go"
+    },
+    {
+      "name": "Amon2-Lite",
+      "repo": "https://github.com/tokuhirom/Amon2-Lite",
+      "language": "Perl"
+    },
+    {
+      "name": "http-session",
+      "repo": "https://github.com/tokuhirom/http-session",
+      "language": "Perl"
+    },
+    {
+      "name": "nur-packages",
+      "repo": "https://github.com/tokuhirom/nur-packages",
+      "language": "Nix"
+    },
+    {
+      "name": "Bloomline",
+      "repo": "https://github.com/tokuhirom/Bloomline",
+      "url": "https://tokuhirom.github.io/Bloomline/",
+      "language": "TypeScript"
+    },
+    {
+      "name": "ShotShot",
+      "repo": "https://github.com/tokuhirom/ShotShot",
+      "language": "Swift"
+    },
+    {
+      "name": "rsmarisa",
+      "repo": "https://github.com/tokuhirom/rsmarisa",
+      "url": "https://crates.io/crates/rsmarisa",
+      "language": "Rust"
+    },
+    {
+      "name": "murodb",
+      "repo": "https://github.com/tokuhirom/murodb",
+      "url": "https://tokuhirom.github.io/murodb/",
+      "language": "Rust"
+    },
+    {
+      "name": "dbmate-deployer",
+      "repo": "https://github.com/tokuhirom/dbmate-deployer",
+      "language": "Go"
+    },
+    {
+      "name": "vertx-samples",
+      "repo": "https://github.com/tokuhirom/vertx-samples",
+      "language": "Java"
+    },
+    {
+      "name": "logcmd",
+      "repo": "https://github.com/tokuhirom/logcmd",
+      "language": "Go"
+    },
+    {
+      "name": "pvip",
+      "repo": "https://github.com/tokuhirom/pvip",
+      "language": "C"
+    },
+    {
+      "name": "skk-jisyo-neologd",
+      "repo": "https://github.com/tokuhirom/skk-jisyo-neologd",
+      "language": "Perl"
+    },
+    {
+      "name": "runn-intro",
+      "repo": "https://github.com/tokuhirom/runn-intro",
+      "url": "https://tokuhirom.github.io/runn-intro/",
+      "language": "Go"
+    },
+    {
+      "name": "slilnk",
+      "repo": "https://github.com/tokuhirom/slilnk"
+    },
+    {
+      "name": "2048",
+      "repo": "https://github.com/tokuhirom/2048",
+      "url": "https://tokuhirom.github.io/2048/",
+      "language": "HTML"
+    },
+    {
+      "name": "Amon2-Plugin-Web-CSRFDefender",
+      "repo": "https://github.com/tokuhirom/Amon2-Plugin-Web-CSRFDefender",
+      "language": "Perl"
+    },
+    {
+      "name": "Amon",
+      "repo": "https://github.com/tokuhirom/Amon",
+      "language": "Perl"
+    },
+    {
+      "name": "UnQLite",
+      "repo": "https://github.com/tokuhirom/UnQLite",
+      "language": "C"
+    },
+    {
+      "name": "ai-sandbox",
+      "repo": "https://github.com/tokuhirom/ai-sandbox",
+      "language": "Shell"
+    },
+    {
+      "name": "HTTP-Session2",
+      "repo": "https://github.com/tokuhirom/HTTP-Session2",
+      "language": "Perl"
+    },
+    {
+      "name": "image-epeg",
+      "repo": "https://github.com/tokuhirom/image-epeg",
+      "language": "C"
+    },
+    {
+      "name": "sabos",
+      "repo": "https://github.com/tokuhirom/sabos",
+      "language": "Rust"
+    },
+    {
+      "name": "VoiceLogger",
+      "repo": "https://github.com/tokuhirom/VoiceLogger",
+      "language": "Swift"
+    },
+    {
+      "name": "ScratchBuffer",
+      "repo": "https://github.com/tokuhirom/ScratchBuffer",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tiny-compiler",
+      "repo": "https://github.com/tokuhirom/tiny-compiler",
+      "language": "Rust"
+    },
+    {
+      "name": "tokuhirom",
+      "repo": "https://github.com/tokuhirom/tokuhirom",
+      "language": "Python"
+    },
+    {
+      "name": "db-schema-sync",
+      "repo": "https://github.com/tokuhirom/db-schema-sync",
+      "language": "Go"
+    },
+    {
+      "name": "lua-samples",
+      "repo": "https://github.com/tokuhirom/lua-samples",
+      "language": "Lua"
+    },
+    {
+      "name": "ansible-collection-inventory-sacloud",
+      "repo": "https://github.com/tokuhirom/ansible-collection-inventory-sacloud",
+      "language": "Python"
+    },
+    {
+      "name": "Minilla",
+      "repo": "https://github.com/tokuhirom/Minilla",
+      "url": "https://metacpan.org/release/Minilla",
+      "language": "Perl"
+    },
+    {
+      "name": "Furl",
+      "repo": "https://github.com/tokuhirom/Furl",
+      "language": "Perl"
+    },
+    {
+      "name": "Test-TCP",
+      "repo": "https://github.com/tokuhirom/Test-TCP",
+      "language": "Perl"
+    },
+    {
+      "name": "plenv",
+      "repo": "https://github.com/tokuhirom/plenv",
+      "language": "Shell"
+    },
+    {
+      "name": "usaterm",
+      "repo": "https://github.com/tokuhirom/usaterm"
+    },
+    {
+      "name": "runn-vscode",
+      "repo": "https://github.com/tokuhirom/runn-vscode"
+    },
+    {
+      "name": "liam-erd-test",
+      "repo": "https://github.com/tokuhirom/liam-erd-test",
+      "url": "https://tokuhirom.github.io/liam-erd-test/",
+      "language": "PLpgSQL"
+    },
+    {
+      "name": "blog3",
+      "repo": "https://github.com/tokuhirom/blog3",
+      "language": "TypeScript"
+    },
+    {
+      "name": "neojot",
+      "repo": "https://github.com/tokuhirom/neojot",
+      "language": "Svelte"
+    },
+    {
+      "name": "liveroll",
+      "repo": "https://github.com/tokuhirom/liveroll",
+      "language": "Go"
+    },
+    {
+      "name": "Text-VisualWidth-PP",
+      "repo": "https://github.com/tokuhirom/Text-VisualWidth-PP",
+      "language": "Perl"
+    },
+    {
+      "name": "msw-formdata-issue",
+      "repo": "https://github.com/tokuhirom/msw-formdata-issue",
+      "language": "JavaScript"
+    },
+    {
+      "name": "obsidian-2hop-links-plugin",
+      "repo": "https://github.com/tokuhirom/obsidian-2hop-links-plugin",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tokuhirom-chrome-extensions",
+      "repo": "https://github.com/tokuhirom/tokuhirom-chrome-extensions",
+      "language": "JavaScript"
+    },
+    {
+      "name": "kdary",
+      "repo": "https://github.com/tokuhirom/kdary",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Perl-Lexer",
+      "repo": "https://github.com/tokuhirom/Perl-Lexer",
+      "language": "C"
+    },
+    {
+      "name": "kotlin-native-samples",
+      "repo": "https://github.com/tokuhirom/kotlin-native-samples",
+      "url": "https://tokuhirom.github.io/kotlin-native-samples/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "kotlin-js-samples",
+      "repo": "https://github.com/tokuhirom/kotlin-js-samples",
+      "url": "https://tokuhirom.github.io/kotlin-js-samples/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "momiji",
+      "repo": "https://github.com/tokuhirom/momiji",
+      "url": "https://tokuhirom.github.io/momiji/",
+      "language": "Kotlin"
+    },
+    {
+      "name": "git-xlsx-textconv",
+      "repo": "https://github.com/tokuhirom/git-xlsx-textconv",
+      "language": "Go"
+    },
+    {
+      "name": "MindDump",
+      "repo": "https://github.com/tokuhirom/MindDump",
+      "language": "JavaScript"
+    },
+    {
+      "name": "meetnote2",
+      "repo": "https://github.com/tokuhirom/meetnote2",
+      "language": "Rust"
+    },
+    {
+      "name": "meetnote3",
+      "repo": "https://github.com/tokuhirom/meetnote3",
+      "language": "Kotlin"
+    },
+    {
+      "name": "capjoy",
+      "repo": "https://github.com/tokuhirom/capjoy",
+      "language": "Kotlin"
+    },
+    {
+      "name": "Perl-MinimumVersion-Fast",
+      "repo": "https://github.com/tokuhirom/Perl-MinimumVersion-Fast",
+      "language": "Perl"
+    },
+    {
+      "name": "64p.org-orig",
+      "repo": "https://github.com/tokuhirom/64p.org-orig",
+      "language": "HTML"
+    },
+    {
+      "name": "kt-dirs",
+      "repo": "https://github.com/tokuhirom/kt-dirs",
+      "language": "Kotlin"
+    },
+    {
+      "name": "mech2",
+      "repo": "https://github.com/tokuhirom/mech2",
+      "language": "Java"
+    }
+  ]
+}

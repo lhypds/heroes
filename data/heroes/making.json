@@ -1,0 +1,521 @@
+{
+  "handle": "making",
+  "name": "Toshiaki Maki",
+  "github": [
+    "https://github.com/making"
+  ],
+  "website": "https://ik.am/",
+  "bio": "Senior Staff Solutions Architect @vmware-tanzu",
+  "own_repos": 745,
+  "commits": 10899,
+  "apps": [],
+  "repos": [
+    {
+      "name": "rontolisp",
+      "repo": "https://github.com/making/rontolisp",
+      "url": "https://making.github.io/rontolisp/",
+      "language": "Java"
+    },
+    {
+      "name": "k8s-gitops",
+      "repo": "https://github.com/making/k8s-gitops",
+      "language": "Shell"
+    },
+    {
+      "name": "kagami",
+      "repo": "https://github.com/making/kagami",
+      "language": "Java"
+    },
+    {
+      "name": "yavi",
+      "repo": "https://github.com/making/yavi",
+      "url": "https://yavi.ik.am",
+      "language": "Java"
+    },
+    {
+      "name": "usd-to-jpy",
+      "repo": "https://github.com/making/usd-to-jpy",
+      "url": "https://making.github.io/usd-to-jpy/",
+      "language": "Java"
+    },
+    {
+      "name": "nullability-maven-plugin",
+      "repo": "https://github.com/making/nullability-maven-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "blog.ik.am",
+      "repo": "https://github.com/making/blog.ik.am",
+      "url": "https://ik.am"
+    },
+    {
+      "name": "ik.am_en",
+      "repo": "https://github.com/making/ik.am_en"
+    },
+    {
+      "name": "java-lib",
+      "repo": "https://github.com/making/java-lib",
+      "language": "Shell"
+    },
+    {
+      "name": "otel-logs-autoconfigure",
+      "repo": "https://github.com/making/otel-logs-autoconfigure",
+      "language": "Java"
+    },
+    {
+      "name": "claude-skills",
+      "repo": "https://github.com/making/claude-skills",
+      "language": "JavaScript"
+    },
+    {
+      "name": "openai-java-client-restclient",
+      "repo": "https://github.com/making/openai-java-client-restclient",
+      "language": "Java"
+    },
+    {
+      "name": "access-logger-logbook",
+      "repo": "https://github.com/making/access-logger-logbook",
+      "language": "Java"
+    },
+    {
+      "name": "circuit-breaker-client-http-request-interceptor",
+      "repo": "https://github.com/making/circuit-breaker-client-http-request-interceptor",
+      "language": "Java"
+    },
+    {
+      "name": "redis-adapter-for-spring-session",
+      "repo": "https://github.com/making/redis-adapter-for-spring-session",
+      "language": "Java"
+    },
+    {
+      "name": "cl-postgres-client",
+      "repo": "https://github.com/making/cl-postgres-client",
+      "language": "Common Lisp"
+    },
+    {
+      "name": "demo-gemfire",
+      "repo": "https://github.com/making/demo-gemfire",
+      "language": "TypeScript"
+    },
+    {
+      "name": "cobol-migration",
+      "repo": "https://github.com/making/cobol-migration",
+      "language": "COBOL"
+    },
+    {
+      "name": "amqgres",
+      "repo": "https://github.com/making/amqgres",
+      "language": "Java"
+    },
+    {
+      "name": "fetch-server",
+      "repo": "https://github.com/making/fetch-server",
+      "language": "Java"
+    },
+    {
+      "name": "rabbitmq-rolling-update-test",
+      "repo": "https://github.com/making/rabbitmq-rolling-update-test",
+      "language": "Java"
+    },
+    {
+      "name": "compression-maven-plugin",
+      "repo": "https://github.com/making/compression-maven-plugin",
+      "language": "Java"
+    },
+    {
+      "name": "oauth2-sso-demo",
+      "repo": "https://github.com/making/oauth2-sso-demo",
+      "language": "Java"
+    },
+    {
+      "name": "wiwsh",
+      "repo": "https://github.com/making/wiwsh",
+      "language": "Rust"
+    },
+    {
+      "name": "yfinance-server",
+      "repo": "https://github.com/making/yfinance-server",
+      "language": "Java"
+    },
+    {
+      "name": "yfinance4j",
+      "repo": "https://github.com/making/yfinance4j",
+      "language": "Java"
+    },
+    {
+      "name": "billing-job",
+      "repo": "https://github.com/making/billing-job",
+      "language": "Java"
+    },
+    {
+      "name": "pem-to-jwks",
+      "repo": "https://github.com/making/pem-to-jwks",
+      "language": "Java"
+    },
+    {
+      "name": "demo-cc-action",
+      "repo": "https://github.com/making/demo-cc-action"
+    },
+    {
+      "name": "vault-s3",
+      "repo": "https://github.com/making/vault-s3",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "rcon4j",
+      "repo": "https://github.com/making/rcon4j",
+      "language": "Java"
+    },
+    {
+      "name": "petstore",
+      "repo": "https://github.com/making/petstore",
+      "language": "Java"
+    },
+    {
+      "name": "query-parser",
+      "repo": "https://github.com/making/query-parser",
+      "language": "Java"
+    },
+    {
+      "name": "demo-2fa",
+      "repo": "https://github.com/making/demo-2fa",
+      "url": "https://ik.am/entries/895/en",
+      "language": "Java"
+    },
+    {
+      "name": "gs-yavi",
+      "repo": "https://github.com/making/gs-yavi",
+      "url": "https://yavi.ik.am/#getting-started",
+      "language": "Java"
+    },
+    {
+      "name": "kubernetes-route-definition-locator",
+      "repo": "https://github.com/making/kubernetes-route-definition-locator",
+      "language": "Java"
+    },
+    {
+      "name": "aho-corasick",
+      "repo": "https://github.com/making/aho-corasick",
+      "language": "Java"
+    },
+    {
+      "name": "tiny-csv",
+      "repo": "https://github.com/making/tiny-csv",
+      "language": "Java"
+    },
+    {
+      "name": "trie",
+      "repo": "https://github.com/making/trie",
+      "language": "Shell"
+    },
+    {
+      "name": "demo-preauth",
+      "repo": "https://github.com/making/demo-preauth",
+      "language": "Java"
+    },
+    {
+      "name": "hello-passkeys",
+      "repo": "https://github.com/making/hello-passkeys",
+      "language": "Java"
+    },
+    {
+      "name": "otelcol-test",
+      "repo": "https://github.com/making/otelcol-test",
+      "language": "Java"
+    },
+    {
+      "name": "java-rust-ffm",
+      "repo": "https://github.com/making/java-rust-ffm",
+      "language": "Java"
+    },
+    {
+      "name": "ssr-react-spring-boot-graalvm-js",
+      "repo": "https://github.com/making/ssr-react-spring-boot-graalvm-js",
+      "url": "https://demo-blog.ik.am",
+      "language": "Java"
+    },
+    {
+      "name": "demo-two-factor-authentication",
+      "repo": "https://github.com/making/demo-two-factor-authentication",
+      "language": "Java"
+    },
+    {
+      "name": "retryable-client-http-request-interceptor",
+      "repo": "https://github.com/making/retryable-client-http-request-interceptor",
+      "language": "Java"
+    },
+    {
+      "name": "simple-s3-client",
+      "repo": "https://github.com/making/simple-s3-client",
+      "language": "Java"
+    },
+    {
+      "name": "observify",
+      "repo": "https://github.com/making/observify",
+      "language": "Java"
+    },
+    {
+      "name": "mysqlbackup",
+      "repo": "https://github.com/making/mysqlbackup",
+      "language": "Java"
+    },
+    {
+      "name": "demo-redis",
+      "repo": "https://github.com/making/demo-redis",
+      "language": "Java"
+    },
+    {
+      "name": "chronosia",
+      "repo": "https://github.com/making/chronosia"
+    },
+    {
+      "name": "envoy-external-authz",
+      "repo": "https://github.com/making/envoy-external-authz",
+      "language": "Java"
+    },
+    {
+      "name": "demo-documentdb",
+      "repo": "https://github.com/making/demo-documentdb",
+      "language": "Java"
+    },
+    {
+      "name": "demo-ferretdb",
+      "repo": "https://github.com/making/demo-ferretdb",
+      "language": "Java"
+    },
+    {
+      "name": "stateful-detector",
+      "repo": "https://github.com/making/stateful-detector",
+      "language": "Java"
+    },
+    {
+      "name": "soft-delete",
+      "repo": "https://github.com/making/soft-delete",
+      "language": "Java"
+    },
+    {
+      "name": "example-batch",
+      "repo": "https://github.com/making/example-batch",
+      "language": "Java"
+    },
+    {
+      "name": "bfc",
+      "repo": "https://github.com/making/bfc",
+      "language": "Java"
+    },
+    {
+      "name": "spring-batch-dashboard",
+      "repo": "https://github.com/making/spring-batch-dashboard",
+      "language": "TypeScript"
+    },
+    {
+      "name": "oidc-issuer",
+      "repo": "https://github.com/making/oidc-issuer",
+      "url": "https://ik.am/entries/855"
+    },
+    {
+      "name": "hello-spring-ai",
+      "repo": "https://github.com/making/hello-spring-ai",
+      "language": "TypeScript"
+    },
+    {
+      "name": "demo-mcp-server",
+      "repo": "https://github.com/making/demo-mcp-server",
+      "language": "Java"
+    },
+    {
+      "name": "demo-dsql",
+      "repo": "https://github.com/making/demo-dsql",
+      "language": "Java"
+    },
+    {
+      "name": "otlp-to-rabbit-stream",
+      "repo": "https://github.com/making/otlp-to-rabbit-stream",
+      "language": "Java"
+    },
+    {
+      "name": "log-sink",
+      "repo": "https://github.com/making/log-sink",
+      "language": "Java"
+    },
+    {
+      "name": "demo-grpc-server",
+      "repo": "https://github.com/making/demo-grpc-server",
+      "language": "Java"
+    },
+    {
+      "name": "demo-grpc-client",
+      "repo": "https://github.com/making/demo-grpc-client",
+      "language": "Java"
+    },
+    {
+      "name": "bbs-api",
+      "repo": "https://github.com/making/bbs-api",
+      "language": "TypeScript"
+    },
+    {
+      "name": "pg-dump-to-s3",
+      "repo": "https://github.com/making/pg-dump-to-s3",
+      "language": "Java"
+    },
+    {
+      "name": "bank-account-stage-batch",
+      "repo": "https://github.com/making/bank-account-stage-batch",
+      "language": "Java"
+    },
+    {
+      "name": "spring-batch-examples",
+      "repo": "https://github.com/making/spring-batch-examples",
+      "language": "Java"
+    },
+    {
+      "name": "hello-graalwasm-yavi",
+      "repo": "https://github.com/making/hello-graalwasm-yavi",
+      "language": "Java"
+    },
+    {
+      "name": "MoreDown",
+      "repo": "https://github.com/making/MoreDown"
+    },
+    {
+      "name": "tower-of-hanoi",
+      "repo": "https://github.com/making/tower-of-hanoi",
+      "language": "TypeScript"
+    },
+    {
+      "name": "go-native-java",
+      "repo": "https://github.com/making/go-native-java",
+      "language": "Java"
+    },
+    {
+      "name": "demo-zipkin-otel",
+      "repo": "https://github.com/making/demo-zipkin-otel",
+      "language": "Java"
+    },
+    {
+      "name": "opinionated-spring-boot-app",
+      "repo": "https://github.com/making/opinionated-spring-boot-app",
+      "language": "Java"
+    },
+    {
+      "name": "mrs",
+      "repo": "https://github.com/making/mrs",
+      "language": "Java"
+    },
+    {
+      "name": "demo-magic-link",
+      "repo": "https://github.com/making/demo-magic-link",
+      "language": "Java"
+    },
+    {
+      "name": "workflows",
+      "repo": "https://github.com/making/workflows",
+      "language": "Shell"
+    },
+    {
+      "name": "demo-spring-mvc-yavi",
+      "repo": "https://github.com/making/demo-spring-mvc-yavi",
+      "url": "https://github.com/making/yavi",
+      "language": "HTML"
+    },
+    {
+      "name": "hajiboot3-samples",
+      "repo": "https://github.com/making/hajiboot3-samples",
+      "language": "Java"
+    },
+    {
+      "name": "hello-grpc",
+      "repo": "https://github.com/making/hello-grpc",
+      "language": "Java"
+    },
+    {
+      "name": "hello-tap",
+      "repo": "https://github.com/making/hello-tap",
+      "language": "JavaScript"
+    },
+    {
+      "name": "aws-service-broker",
+      "repo": "https://github.com/making/aws-service-broker",
+      "language": "Java"
+    },
+    {
+      "name": "hello-nodejs",
+      "repo": "https://github.com/making/hello-nodejs",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "do-nothing",
+      "repo": "https://github.com/making/do-nothing",
+      "language": "Java"
+    },
+    {
+      "name": "dockerfile-utils",
+      "repo": "https://github.com/making/dockerfile-utils",
+      "language": "Shell"
+    },
+    {
+      "name": "hajiboot-security",
+      "repo": "https://github.com/making/hajiboot-security",
+      "language": "Java"
+    },
+    {
+      "name": "bosh-ops",
+      "repo": "https://github.com/making/bosh-ops",
+      "language": "Shell"
+    },
+    {
+      "name": "logback-ecs-encoder-autoconfigure",
+      "repo": "https://github.com/making/logback-ecs-encoder-autoconfigure",
+      "language": "Java"
+    },
+    {
+      "name": "demo-rabbitmq",
+      "repo": "https://github.com/making/demo-rabbitmq",
+      "language": "Java"
+    },
+    {
+      "name": "mock-service-broker",
+      "repo": "https://github.com/making/mock-service-broker",
+      "language": "Java"
+    },
+    {
+      "name": "hello-jwt",
+      "repo": "https://github.com/making/hello-jwt",
+      "url": "https://ik.am/entries/818/en",
+      "language": "Java"
+    },
+    {
+      "name": "webhook-verifier",
+      "repo": "https://github.com/making/webhook-verifier",
+      "language": "Java"
+    },
+    {
+      "name": "cf-identity-token-service",
+      "repo": "https://github.com/making/cf-identity-token-service",
+      "language": "Java"
+    },
+    {
+      "name": "demo-mtls",
+      "repo": "https://github.com/making/demo-mtls",
+      "url": "https://ik.am/entries/816",
+      "language": "Java"
+    },
+    {
+      "name": "demo-scylladb-alternator",
+      "repo": "https://github.com/making/demo-scylladb-alternator",
+      "language": "Java"
+    },
+    {
+      "name": "moneyger.fn",
+      "repo": "https://github.com/making/moneyger.fn",
+      "url": "https://moneyger.cfapps.io/",
+      "language": "Java"
+    },
+    {
+      "name": "demo-restdocs-openapi",
+      "repo": "https://github.com/making/demo-restdocs-openapi",
+      "url": "https://demo-restdocs.apps.pcfone.io/docs/index.html",
+      "language": "Java"
+    }
+  ]
+}
