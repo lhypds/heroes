@@ -75,6 +75,18 @@
   color: var(--muted);
 }
 
+/* The one link inside the line, marked the way the footer marks its own: the
+   colour, and a rule under it that fills in when it is pointed at. */
+.labo {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+}
+
+.labo:hover {
+  border-color: currentColor;
+}
+
 /* One width for every button — the widest label's — rather than each
    taking the width of its own text. */
 .actions {

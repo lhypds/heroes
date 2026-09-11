@@ -1,0 +1,486 @@
+{
+  "handle": "kristof-mattei",
+  "name": "Kristof Mattei",
+  "github": [
+    "https://github.com/kristof-mattei"
+  ],
+  "website": "https://mattei.io/",
+  "own_repos": 135,
+  "commits": 57780,
+  "apps": [],
+  "repos": [
+    {
+      "name": "wsdd-rs",
+      "repo": "https://github.com/kristof-mattei/wsdd-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "magwords",
+      "repo": "https://github.com/kristof-mattei/magwords",
+      "language": "TypeScript"
+    },
+    {
+      "name": "rust-testbench",
+      "repo": "https://github.com/kristof-mattei/rust-testbench",
+      "language": "Shell"
+    },
+    {
+      "name": "rust-seed-with-web",
+      "repo": "https://github.com/kristof-mattei/rust-seed-with-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "endless-ssh-rs-with-web",
+      "repo": "https://github.com/kristof-mattei/endless-ssh-rs-with-web",
+      "language": "TypeScript"
+    },
+    {
+      "name": "mdns-reflector",
+      "repo": "https://github.com/kristof-mattei/mdns-reflector",
+      "language": "Rust"
+    },
+    {
+      "name": "hyper-unix-socket",
+      "repo": "https://github.com/kristof-mattei/hyper-unix-socket",
+      "language": "Rust"
+    },
+    {
+      "name": "twistlock",
+      "repo": "https://github.com/kristof-mattei/twistlock",
+      "language": "Rust"
+    },
+    {
+      "name": "tower-proxy",
+      "repo": "https://github.com/kristof-mattei/tower-proxy",
+      "language": "Rust"
+    },
+    {
+      "name": "natpmp-rs",
+      "repo": "https://github.com/kristof-mattei/natpmp-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "listener-sender-multicast",
+      "repo": "https://github.com/kristof-mattei/listener-sender-multicast",
+      "language": "Rust"
+    },
+    {
+      "name": "fitness-log",
+      "repo": "https://github.com/kristof-mattei/fitness-log",
+      "language": "TypeScript"
+    },
+    {
+      "name": "leetcode",
+      "repo": "https://github.com/kristof-mattei/leetcode",
+      "language": "Rust"
+    },
+    {
+      "name": "python-seed",
+      "repo": "https://github.com/kristof-mattei/python-seed",
+      "language": "Python"
+    },
+    {
+      "name": "km-crates-publish-test",
+      "repo": "https://github.com/kristof-mattei/km-crates-publish-test",
+      "language": "Shell"
+    },
+    {
+      "name": "fork-rs",
+      "repo": "https://github.com/kristof-mattei/fork-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "hw-monitor-alignment",
+      "repo": "https://github.com/kristof-mattei/hw-monitor-alignment",
+      "language": "Rust"
+    },
+    {
+      "name": "version-testing",
+      "repo": "https://github.com/kristof-mattei/version-testing",
+      "language": "Rust"
+    },
+    {
+      "name": "everybody-codes-2025",
+      "repo": "https://github.com/kristof-mattei/everybody-codes-2025",
+      "language": "Rust"
+    },
+    {
+      "name": "rust-seed",
+      "repo": "https://github.com/kristof-mattei/rust-seed",
+      "language": "Shell"
+    },
+    {
+      "name": "ts-seed",
+      "repo": "https://github.com/kristof-mattei/ts-seed",
+      "language": "TypeScript"
+    },
+    {
+      "name": "random-stuff",
+      "repo": "https://github.com/kristof-mattei/random-stuff",
+      "language": "TypeScript"
+    },
+    {
+      "name": "kristof-mattei.github.io",
+      "repo": "https://github.com/kristof-mattei/kristof-mattei.github.io",
+      "language": "HTML"
+    },
+    {
+      "name": "renovate-config-test",
+      "repo": "https://github.com/kristof-mattei/renovate-config-test"
+    },
+    {
+      "name": "renovate-config",
+      "repo": "https://github.com/kristof-mattei/renovate-config"
+    },
+    {
+      "name": "kristof-mattei",
+      "repo": "https://github.com/kristof-mattei/kristof-mattei",
+      "language": "JavaScript"
+    },
+    {
+      "name": "ts-seed-2",
+      "repo": "https://github.com/kristof-mattei/ts-seed-2"
+    },
+    {
+      "name": "rust-seed-dependabot",
+      "repo": "https://github.com/kristof-mattei/rust-seed-dependabot",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "renovate-node-23",
+      "repo": "https://github.com/kristof-mattei/renovate-node-23"
+    },
+    {
+      "name": "renovate-node-21-constraintsFiltering",
+      "repo": "https://github.com/kristof-mattei/renovate-node-21-constraintsFiltering"
+    },
+    {
+      "name": "renovate-node-21",
+      "repo": "https://github.com/kristof-mattei/renovate-node-21"
+    },
+    {
+      "name": "renovate-node-20",
+      "repo": "https://github.com/kristof-mattei/renovate-node-20"
+    },
+    {
+      "name": "jwt-decode",
+      "repo": "https://github.com/kristof-mattei/jwt-decode",
+      "language": "Rust"
+    },
+    {
+      "name": "matter-hub",
+      "repo": "https://github.com/kristof-mattei/matter-hub",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "logscreen",
+      "repo": "https://github.com/kristof-mattei/logscreen",
+      "language": "Rust"
+    },
+    {
+      "name": "hw-monitor-alignment-qt",
+      "repo": "https://github.com/kristof-mattei/hw-monitor-alignment-qt"
+    },
+    {
+      "name": "presentation",
+      "repo": "https://github.com/kristof-mattei/presentation",
+      "language": "HTML"
+    },
+    {
+      "name": "tower-reverse-proxy",
+      "repo": "https://github.com/kristof-mattei/tower-reverse-proxy",
+      "language": "Rust"
+    },
+    {
+      "name": "pnpm-test",
+      "repo": "https://github.com/kristof-mattei/pnpm-test"
+    },
+    {
+      "name": "rebase-test",
+      "repo": "https://github.com/kristof-mattei/rebase-test"
+    },
+    {
+      "name": "zerocopy-non-ascii-error",
+      "repo": "https://github.com/kristof-mattei/zerocopy-non-ascii-error",
+      "language": "Rust"
+    },
+    {
+      "name": "multiarch-test",
+      "repo": "https://github.com/kristof-mattei/multiarch-test",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "gardyn-management",
+      "repo": "https://github.com/kristof-mattei/gardyn-management",
+      "language": "Rust"
+    },
+    {
+      "name": "git-tag-on-pr",
+      "repo": "https://github.com/kristof-mattei/git-tag-on-pr"
+    },
+    {
+      "name": "le-rs",
+      "repo": "https://github.com/kristof-mattei/le-rs",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "license-test-2",
+      "repo": "https://github.com/kristof-mattei/license-test-2"
+    },
+    {
+      "name": "license-test",
+      "repo": "https://github.com/kristof-mattei/license-test"
+    },
+    {
+      "name": "gardyn-hack",
+      "repo": "https://github.com/kristof-mattei/gardyn-hack"
+    },
+    {
+      "name": "nvimrc",
+      "repo": "https://github.com/kristof-mattei/nvimrc",
+      "language": "Lua"
+    },
+    {
+      "name": "eyre-crashes",
+      "repo": "https://github.com/kristof-mattei/eyre-crashes",
+      "language": "Dockerfile"
+    },
+    {
+      "name": "tracing-multi-crate",
+      "repo": "https://github.com/kristof-mattei/tracing-multi-crate",
+      "language": "Rust"
+    },
+    {
+      "name": "ffi-test",
+      "repo": "https://github.com/kristof-mattei/ffi-test",
+      "language": "Rust"
+    },
+    {
+      "name": "renovate-test",
+      "repo": "https://github.com/kristof-mattei/renovate-test"
+    },
+    {
+      "name": "vitest-broken-mock-repro",
+      "repo": "https://github.com/kristof-mattei/vitest-broken-mock-repro",
+      "language": "TypeScript"
+    },
+    {
+      "name": "repository-settings-rs",
+      "repo": "https://github.com/kristof-mattei/repository-settings-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "repository-settings-test",
+      "repo": "https://github.com/kristof-mattei/repository-settings-test"
+    },
+    {
+      "name": "probot-rs",
+      "repo": "https://github.com/kristof-mattei/probot-rs",
+      "language": "Rust"
+    },
+    {
+      "name": "fsharp-combinations",
+      "repo": "https://github.com/kristof-mattei/fsharp-combinations",
+      "language": "C#"
+    },
+    {
+      "name": "skipped-done",
+      "repo": "https://github.com/kristof-mattei/skipped-done"
+    },
+    {
+      "name": "gali-solver",
+      "repo": "https://github.com/kristof-mattei/gali-solver",
+      "language": "Rust"
+    },
+    {
+      "name": "renovate-mold-no-version",
+      "repo": "https://github.com/kristof-mattei/renovate-mold-no-version"
+    },
+    {
+      "name": "vpn-setup",
+      "repo": "https://github.com/kristof-mattei/vpn-setup",
+      "language": "PowerShell"
+    },
+    {
+      "name": "squirrel-example",
+      "repo": "https://github.com/kristof-mattei/squirrel-example"
+    },
+    {
+      "name": "let-some",
+      "repo": "https://github.com/kristof-mattei/let-some",
+      "language": "Rust"
+    },
+    {
+      "name": "wp-multi-author",
+      "repo": "https://github.com/kristof-mattei/wp-multi-author",
+      "language": "PHP"
+    },
+    {
+      "name": "vs-code-derived-files",
+      "repo": "https://github.com/kristof-mattei/vs-code-derived-files",
+      "language": "TypeScript"
+    },
+    {
+      "name": "github-actions-lint-old",
+      "repo": "https://github.com/kristof-mattei/github-actions-lint-old"
+    },
+    {
+      "name": "virtual-call-in-constructor",
+      "repo": "https://github.com/kristof-mattei/virtual-call-in-constructor",
+      "language": "C#"
+    },
+    {
+      "name": "my-first-working-directory",
+      "repo": "https://github.com/kristof-mattei/my-first-working-directory",
+      "language": "C#"
+    },
+    {
+      "name": "koa-blocking",
+      "repo": "https://github.com/kristof-mattei/koa-blocking",
+      "language": "JavaScript"
+    },
+    {
+      "name": "test-git",
+      "repo": "https://github.com/kristof-mattei/test-git"
+    },
+    {
+      "name": "javascript-woes",
+      "repo": "https://github.com/kristof-mattei/javascript-woes",
+      "language": "JavaScript"
+    },
+    {
+      "name": "XmlUtf8Stuff",
+      "repo": "https://github.com/kristof-mattei/XmlUtf8Stuff",
+      "language": "C#"
+    },
+    {
+      "name": "powershell-encodings",
+      "repo": "https://github.com/kristof-mattei/powershell-encodings"
+    },
+    {
+      "name": "ng-bindings",
+      "repo": "https://github.com/kristof-mattei/ng-bindings",
+      "language": "C#"
+    },
+    {
+      "name": "params-fsharp-vs-csharp",
+      "repo": "https://github.com/kristof-mattei/params-fsharp-vs-csharp",
+      "language": "C#"
+    },
+    {
+      "name": "transaction-scope",
+      "repo": "https://github.com/kristof-mattei/transaction-scope",
+      "language": "C#"
+    },
+    {
+      "name": "wireless-prio",
+      "repo": "https://github.com/kristof-mattei/wireless-prio",
+      "language": "C#"
+    },
+    {
+      "name": "weird-json-type-generation",
+      "repo": "https://github.com/kristof-mattei/weird-json-type-generation",
+      "language": "F#"
+    },
+    {
+      "name": "windows-service-debugging",
+      "repo": "https://github.com/kristof-mattei/windows-service-debugging",
+      "language": "C#"
+    },
+    {
+      "name": "tag-workflow-test",
+      "repo": "https://github.com/kristof-mattei/tag-workflow-test"
+    },
+    {
+      "name": "version-test-ef",
+      "repo": "https://github.com/kristof-mattei/version-test-ef",
+      "language": "F#"
+    },
+    {
+      "name": "users-and-floors",
+      "repo": "https://github.com/kristof-mattei/users-and-floors",
+      "language": "C#"
+    },
+    {
+      "name": "tran-in-tran",
+      "repo": "https://github.com/kristof-mattei/tran-in-tran",
+      "language": "C#"
+    },
+    {
+      "name": "ExceptionRethrow",
+      "repo": "https://github.com/kristof-mattei/ExceptionRethrow",
+      "language": "C#"
+    },
+    {
+      "name": "yarn-npm-param-test",
+      "repo": "https://github.com/kristof-mattei/yarn-npm-param-test",
+      "language": "Shell"
+    },
+    {
+      "name": "js-dates",
+      "repo": "https://github.com/kristof-mattei/js-dates",
+      "language": "JavaScript"
+    },
+    {
+      "name": "SABnzbd.UI",
+      "repo": "https://github.com/kristof-mattei/SABnzbd.UI",
+      "language": "C#"
+    },
+    {
+      "name": "Four-in-a-row",
+      "repo": "https://github.com/kristof-mattei/Four-in-a-row"
+    },
+    {
+      "name": "get-ordinal-or-not",
+      "repo": "https://github.com/kristof-mattei/get-ordinal-or-not",
+      "language": "C#"
+    },
+    {
+      "name": "two-connections-one-transaction",
+      "repo": "https://github.com/kristof-mattei/two-connections-one-transaction",
+      "language": "F#"
+    },
+    {
+      "name": "JsonConverterStackOverflow",
+      "repo": "https://github.com/kristof-mattei/JsonConverterStackOverflow",
+      "language": "C#"
+    },
+    {
+      "name": "ReShaperMvvmError",
+      "repo": "https://github.com/kristof-mattei/ReShaperMvvmError",
+      "language": "C#"
+    },
+    {
+      "name": "tvp-example",
+      "repo": "https://github.com/kristof-mattei/tvp-example",
+      "language": "C#"
+    },
+    {
+      "name": "required-skipped",
+      "repo": "https://github.com/kristof-mattei/required-skipped"
+    },
+    {
+      "name": "query-rangekey-begins-with",
+      "repo": "https://github.com/kristof-mattei/query-rangekey-begins-with",
+      "language": "TypeScript"
+    },
+    {
+      "name": "vscode-js-debug-cannot-find-module",
+      "repo": "https://github.com/kristof-mattei/vscode-js-debug-cannot-find-module",
+      "language": "JavaScript"
+    },
+    {
+      "name": "nuget-downgrade",
+      "repo": "https://github.com/kristof-mattei/nuget-downgrade"
+    },
+    {
+      "name": "LinkedInFileSearcher",
+      "repo": "https://github.com/kristof-mattei/LinkedInFileSearcher",
+      "language": "C#"
+    },
+    {
+      "name": "log-viewer",
+      "repo": "https://github.com/kristof-mattei/log-viewer"
+    }
+  ]
+}

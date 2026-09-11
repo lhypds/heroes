@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useTranslation } from "react-i18next";
+import { Trans, useTranslation } from "react-i18next";
 import { LanguageSwitcher, ThemeSwitcher, Wall, Json, Check, Boundary } from "@components";
 import { LEADS } from "@utils/heroes";
 import { REPO, GUIDE, HOME } from "../../constants";
@@ -53,7 +53,16 @@ export default function Home() {
         <div className={styles.heroText}>
           <h1 className={styles.wordmark}>{t("hero.name")}</h1>
           <h2 className={styles.tagline}>{t("hero.tagline")}</h2>
-          <p className={styles.lede}>{t("hero.lede")}</p>
+          {/* The name in the middle of the sentence is where the list came
+              from, so it is the way back there. Each language names it in its
+              own words and its own place in the line; the tag around it in the
+              translation is what carries the link. */}
+          <p className={styles.lede}>
+            <Trans
+              i18nKey="hero.lede"
+              components={{ labo: <a className={styles.labo} href={HOME} /> }}
+            />
+          </p>
           <div className={styles.actions}>
             {/* Down the page to the steps, not out to the guide: the guide is
                 the last of those steps. */}
